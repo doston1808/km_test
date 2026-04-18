@@ -1,0 +1,596 @@
+<!DOCTYPE html>
+<html lang="uz">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Test Tizimi</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        window.MathJax = {
+            tex: {
+                inlineMath: [['$', '$'], ['\\(', '\\)']],
+                displayMath: [['$$', '$$'], ['\\[', '\\]']],
+                packages: { '[+]': ['ams', 'newcommand'] }
+            },
+            options: {
+                ignoreHtmlClass: 'no-mathjax',
+                processHtmlClass: 'math'
+            },
+            startup: {
+                pageReady: () => {
+                    return MathJax.startup.defaultPageReady();
+                }
+            }
+        };
+    </script>
+    <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" id="MathJax-script" async></script>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap');
+
+        :root {
+            --primary: #2563eb;
+            --success: #10b981;
+            --error: #ef4444;
+        }
+
+        body {
+            font-family: 'Plus Jakarta Sans', sans-serif;
+            -webkit-tap-highlight-color: transparent;
+            overflow-x: hidden;
+            background-color: #f8fafc;
+        }
+
+        .glass-card {
+            background: rgba(255, 255, 255, 0.95);
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(229, 231, 235, 0.5);
+        }
+
+        .option-btn {
+            transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+            word-wrap: break-word;
+        }
+
+        .correct {
+            background-color: var(--success) !important;
+            color: white !important;
+            border-color: var(--success) !important;
+        }
+
+        .wrong {
+            background-color: var(--error) !important;
+            color: white !important;
+            border-color: var(--error) !important;
+        }
+
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+                transform: translateY(8px);
+            }
+
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        .animate-fade {
+            animation: fadeIn 0.3s ease-out forwards;
+        }
+
+        @media (max-width: 480px) {
+            .subject-btn-title {
+                font-size: 0.85rem;
+            }
+
+            .question-text {
+                font-size: 0.95rem !important;
+            }
+
+            .option-text {
+                font-size: 0.8rem !important;
+            }
+
+            .nav-btn {
+                font-size: 0.7rem !important;
+                padding: 0.75rem 0.25rem !important;
+            }
+        }
+
+        mjx-container {
+            display: inline-block !important;
+            margin: 0 2px;
+        }
+    </style>
+</head>
+
+<body class="min-h-screen text-slate-900">
+
+    <div class="max-w-2xl mx-auto px-3 py-4 md:py-10">
+        <!-- Header -->
+        <header class="sticky top-2 z-40 glass-card rounded-2xl p-3 shadow-md mb-6 flex items-center justify-between">
+            <div class="flex items-center gap-2 overflow-hidden">
+                <button id="back-home-btn" onclick="goHome()"
+                    class="hidden w-9 h-9 bg-slate-100 hover:bg-slate-200 rounded-lg flex items-center justify-center text-slate-600 flex-shrink-0 transition-colors">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5" fill="none" viewBox="0 0 24 24"
+                        stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7" />
+                    </svg>
+                </button>
+                <div id="header-logo"
+                    class="w-9 h-9 bg-blue-600 rounded-lg flex items-center justify-center text-white shadow-md flex-shrink-0">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5" fill="none" viewBox="0 0 24 24"
+                        stroke="currentColor" id="logo-icon">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                            d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253" />
+                    </svg>
+                </div>
+                <div class="overflow-hidden">
+                    <h1 class="font-extrabold text-sm md:text-lg truncate">Testlar</h1>
+                    <p id="sub-title"
+                        class="text-[8px] md:text-[10px] uppercase font-bold text-slate-400 tracking-tighter">
+                        Yo'nalishni tanlang
+                    </p>
+                </div>
+            </div>
+            <div id="quiz-badge"
+                class="hidden px-2 py-1 bg-blue-50 text-blue-600 rounded-lg font-bold text-[10px] md:text-sm whitespace-nowrap">
+                <span id="current-badge">1</span>/<span id="total-badge">35</span>
+            </div>
+        </header>
+
+        <!-- Directions Screen -->
+        <div id="directions-screen" class="animate-fade">
+            <div class="bg-white rounded-3xl p-5 md:p-8 shadow-sm border border-slate-100 relative overflow-hidden">
+                <div class="absolute top-0 left-0 w-full h-1 bg-blue-600"></div>
+                <h2 class="text-lg md:text-xl font-extrabold text-slate-800 mb-5">Yo'nalishni tanlang:</h2>
+                <div class="space-y-3">
+                    <button onclick="selectDirection('KM-TMJ')"
+                        class="w-full bg-white hover:bg-slate-50 border-2 border-blue-50 p-4 rounded-2xl text-left transition-all active:scale-95 flex items-center justify-between group shadow-sm">
+                        <div class="pr-2">
+                            <h3
+                                class="subject-btn-title font-bold text-slate-800 group-hover:text-blue-600 transition-colors leading-tight">
+                                KM-TMJ</h3>
+                            <p class="text-[10px] text-slate-400 mt-1">Yo'nalishga kirish</p>
+                        </div>
+                        <div
+                            class="w-8 h-8 rounded-lg bg-blue-50 flex items-center justify-center text-blue-600 flex-shrink-0">
+                            →</div>
+                    </button>
+                    <button onclick="selectDirection('KM-IQ')"
+                        class="w-full bg-white hover:bg-slate-50 border-2 border-blue-50 p-4 rounded-2xl text-left transition-all active:scale-95 flex items-center justify-between group shadow-sm">
+                        <div class="pr-2">
+                            <h3
+                                class="subject-btn-title font-bold text-slate-800 group-hover:text-blue-600 transition-colors leading-tight">
+                                KM-IQ</h3>
+                            <p class="text-[10px] text-slate-400 mt-1">Yo'nalishga kirish</p>
+                        </div>
+                        <div
+                            class="w-8 h-8 rounded-lg bg-blue-50 flex items-center justify-center text-blue-600 flex-shrink-0">
+                            →</div>
+                    </button>
+                    <button onclick="selectDirection('KM-MP(log)')"
+                        class="w-full bg-white hover:bg-slate-50 border-2 border-blue-50 p-4 rounded-2xl text-left transition-all active:scale-95 flex items-center justify-between group shadow-sm">
+                        <div class="pr-2">
+                            <h3
+                                class="subject-btn-title font-bold text-slate-800 group-hover:text-blue-600 transition-colors leading-tight">
+                                KM-MP(log)</h3>
+                            <p class="text-[10px] text-slate-400 mt-1">Yo'nalishga kirish</p>
+                        </div>
+                        <div
+                            class="w-8 h-8 rounded-lg bg-blue-50 flex items-center justify-center text-blue-600 flex-shrink-0">
+                            →</div>
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Subjects Screen -->
+        <div id="subjects-screen" class="hidden animate-fade">
+            <div class="bg-white rounded-3xl p-5 md:p-8 shadow-sm border border-slate-100 relative overflow-hidden">
+                <div class="absolute top-0 left-0 w-full h-1 bg-blue-600"></div>
+                <h2 class="text-lg md:text-xl font-extrabold text-slate-800 mb-5">Fanni tanlang:</h2>
+
+                <div id="subject-list" class="space-y-3">
+                    <!-- Dynamic Subjects Render Here -->
+                </div>
+
+                <button onclick="goHome()"
+                    class="mt-4 w-full bg-slate-50 hover:bg-slate-100 border border-slate-200 text-slate-600 font-bold p-3.5 rounded-xl text-center transition-all active:scale-95 text-sm flex items-center justify-center gap-2 shadow-sm">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4" fill="none" viewBox="0 0 24 24"
+                        stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M15 19l-7-7 7-7" />
+                    </svg>
+                    Orqaga qaytish
+                </button>
+
+                <div id="loading-spinner" class="hidden flex flex-col items-center py-10 space-y-3">
+                    <div class="w-8 h-8 border-4 border-blue-600 border-t-transparent rounded-full animate-spin"></div>
+                    <p class="text-xs font-bold text-slate-400">Ma'lumotlar yuklanmoqda...</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Quiz Screen -->
+        <div id="quiz-screen" class="hidden space-y-4">
+            <div class="w-full bg-slate-200 h-1 rounded-full overflow-hidden">
+                <div id="progress-bar" class="h-full bg-blue-600 transition-all duration-300" style="width: 0%"></div>
+            </div>
+
+            <div
+                class="bg-white rounded-2xl p-5 md:p-6 shadow-sm border border-slate-100 min-h-[100px] flex items-center">
+                <h3 id="question-text"
+                    class="question-text text-base md:text-lg font-bold text-slate-800 leading-tight"></h3>
+            </div>
+
+            <div id="options-container" class="grid gap-2"></div>
+
+            <div id="feedback" class="hidden animate-fade p-2.5 rounded-xl text-center font-bold text-sm"></div>
+
+            <!-- Tugmalar bir qatorda -->
+            <div class="flex flex-row gap-2">
+                <button id="prev-btn" onclick="prevQuestion()"
+                    class="nav-btn flex-1 bg-slate-100 text-slate-400 py-3 rounded-xl font-bold text-xs md:text-sm transition-all active:scale-95 disabled:opacity-40">
+                    Ortga
+                </button>
+                <button id="next-btn" onclick="nextQuestion()"
+                    class="nav-btn hidden flex-[1.5] bg-blue-600 text-white py-3 rounded-xl font-bold text-xs md:text-sm shadow-lg transition-all active:scale-95">
+                    Keyingi
+                </button>
+                <button id="finish-early-btn" onclick="finishQuiz()"
+                    class="nav-btn flex-1 bg-red-50 text-red-600 py-3 rounded-xl font-bold text-xs md:text-sm border border-red-100 transition-all active:scale-95">
+                    Yakunlash
+                </button>
+            </div>
+        </div>
+
+        <!-- Result Screen -->
+        <div id="result-screen" class="hidden animate-fade">
+            <div class="bg-white rounded-3xl p-6 md:p-10 shadow-sm border border-slate-100 text-center">
+                <div id="result-emoji" class="text-5xl mb-4">🏆</div>
+                <h2 class="text-xl md:text-2xl font-black text-slate-800 mb-1">Natija</h2>
+                <div
+                    class="mx-auto w-32 h-32 flex flex-col items-center justify-center rounded-full border-[8px] border-blue-50 my-5">
+                    <span id="score-percent"
+                        class="text-2xl md:text-3xl font-black text-blue-600 leading-none">0%</span>
+                </div>
+                <p id="result-summary" class="text-sm text-slate-500 mb-6 font-medium"></p>
+                <div class="grid grid-cols-2 gap-2">
+                    <button onclick="restartQuiz()"
+                        class="bg-slate-900 text-white py-3 rounded-xl font-bold text-sm">Qayta urinish</button>
+                    <button onclick="goHome()"
+                        class="bg-slate-100 text-slate-600 py-3 rounded-xl font-bold text-sm">Menyu</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        let quizQuestions = [];
+        let currentIndex = 0;
+        let userAnswers = [];
+        const totalToPlay = 35; // Testda nechta savol chiqishi kerakligini belgilash
+        let currentDirection = '';
+        let currentSubject = '';
+
+        function typesetMath() {
+            if (window.MathJax && window.MathJax.typesetPromise) {
+                window.MathJax.typesetPromise().catch(err => console.log(err));
+            }
+        }
+
+        function showStatus(text, type = 'info') {
+            const feedback = document.getElementById('feedback');
+            feedback.innerText = text;
+            feedback.className = `p-2.5 rounded-xl text-center font-bold text-sm block animate-fade ${type === 'correct' ? 'bg-emerald-50 text-emerald-600' : type === 'error' ? 'bg-red-50 text-red-600' : 'bg-blue-50 text-blue-600'}`;
+            feedback.classList.remove('hidden');
+        }
+
+        function selectDirection(dir) {
+            currentDirection = dir;
+            document.getElementById('directions-screen').classList.add('hidden');
+            document.getElementById('subjects-screen').classList.remove('hidden');
+            document.getElementById('back-home-btn').classList.remove('hidden');
+            document.getElementById('logo-icon').classList.add('hidden');
+            document.getElementById('sub-title').innerText = dir.toUpperCase();
+
+            const subjectsList = document.getElementById('subject-list');
+            subjectsList.innerHTML = '';
+
+            let subjects = [];
+            if (dir === 'KM-TMJ') {
+                subjects = ['Oliy matematika', 'Fizika', 'Mutaxasislikga kirish', 'Dinshunoslik', 'Тexnik tizimlarda AKT'];
+            } else if (dir === 'KM-IQ') {
+                subjects = ["Iqtisodiy ta'limotlar tarixi", "Ingliz tili", "O'zbekistonning eng yangi tarixi", "Amaliy matematika", "Iqtisodiyotda AKT"];
+            } else if (dir === 'KM-MP(log)') {
+                subjects = ["Falsafa", "Mediasavodxonlik va axborot madaniyati", "Umumiy Psixologiya"];
+            }
+
+            subjects.forEach(subj => {
+                const btn = document.createElement('button');
+                btn.className = 'w-full bg-white hover:bg-slate-50 border-2 border-blue-50 p-4 rounded-2xl text-left transition-all active:scale-95 flex items-center justify-between group shadow-sm mb-3';
+                btn.innerHTML = `
+                    <div class="pr-2">
+                        <h3 class="subject-btn-title font-bold text-slate-800 group-hover:text-blue-600 transition-colors leading-tight">${subj}</h3>
+                        <p class="text-[10px] text-slate-400 mt-1">Testni boshlash</p>
+                    </div>
+                    <div class="w-8 h-8 rounded-lg bg-blue-50 flex items-center justify-center text-blue-600 flex-shrink-0">→</div>
+                `;
+                btn.onclick = () => startQuiz(subj);
+                subjectsList.appendChild(btn);
+            });
+        }
+
+        async function startQuiz(subjectName) {
+            currentSubject = subjectName;
+
+            const subjectList = document.getElementById('subject-list');
+            const spinner = document.getElementById('loading-spinner');
+
+            subjectList.classList.add('hidden');
+            spinner.classList.remove('hidden');
+
+            try {
+                const url = `./${currentDirection}/${subjectName}.json`;
+                console.log("Yuklanmoqda:", url);
+                const response = await fetch(url);
+                if (!response.ok) throw new Error(`JSON fayl topilmadi: ${url}`);
+
+                let data = await response.json();
+                console.log("Yuklangan ma'lumot:", data);
+
+                // HAR XIL JSON FORMATLARINI QO'LLAB-QUVVATLASH
+                let rawQuestions = [];
+
+                // Format 1: To'g'ridan-to'g'ri massiv
+                if (Array.isArray(data)) {
+                    rawQuestions = data;
+                }
+                // Format 2: {test_questions: [...]}
+                else if (data.test_questions && Array.isArray(data.test_questions)) {
+                    rawQuestions = data.test_questions;
+                }
+                // Format 3: {questions: [...]}
+                else if (data.questions && Array.isArray(data.questions)) {
+                    rawQuestions = data.questions;
+                }
+                // Format 4: {"test_questions": {"questions": [...]}}
+                else if (data.test_questions && data.test_questions.questions && Array.isArray(data.test_questions.questions)) {
+                    rawQuestions = data.test_questions.questions;
+                }
+                else {
+                    // Agar yuqoridagi formatlarning hech biri bo'lmasa, obyektning kalitlarini tekshiramiz
+                    let found = false;
+                    for (let key in data) {
+                        if (Array.isArray(data[key]) && data[key].length > 0 && (data[key][0].question || data[key][0].savol)) {
+                            rawQuestions = data[key];
+                            found = true;
+                            break;
+                        }
+                    }
+                    if (!found) throw new Error("Savollar topilmadi");
+                }
+
+                if (rawQuestions.length === 0) throw new Error("Savollar massivi bo'sh");
+
+                // Savollarni randomlashtirish va kerakli formatga o'tkazish
+                quizQuestions = [...rawQuestions]
+                    .sort(() => Math.random() - 0.5)
+                    .slice(0, Math.min(rawQuestions.length, totalToPlay))
+                    .map(item => {
+                        let questionText = "";
+                        let correctText = "";
+                        let options = [];
+
+                        // Format 1: {savol, A, B, C, D, javob} - O'zbek tilidagi format
+                        if (item.savol && item.A) {
+                            questionText = item.savol;
+                            correctText = item.javob;
+                            if (item.javob && ['A', 'B', 'C', 'D'].includes(String(item.javob).toUpperCase())) {
+                                correctText = item[String(item.javob).toUpperCase()];
+                            }
+                            options = [item.A, item.B, item.C, item.D];
+                        }
+                        // Format 2: {question, options, correct_option} - Ingliz tilidagi format (0-index)
+                        else if (item.question && item.options && item.correct_option !== undefined) {
+                            questionText = item.question;
+                            correctText = item.options[item.correct_option];
+                            options = [...item.options];
+                        }
+                        // Format 3: {question, options, answer} - To'g'ri javob matni bilan
+                        else if (item.question && item.options && item.answer) {
+                            questionText = item.question;
+                            correctText = item.answer;
+                            options = [...item.options];
+                        }
+                        // Format 4: {savol, javob, A, B, C, D} - alternativ o'zbek formati
+                        else if (item.savol && item.javob && item.A) {
+                            questionText = item.savol;
+                            correctText = item.javob;
+                            if (item.javob && ['A', 'B', 'C', 'D'].includes(String(item.javob).toUpperCase())) {
+                                correctText = item[String(item.javob).toUpperCase()];
+                            }
+                            options = [item.A, item.B, item.C, item.D];
+                        }
+                        // Format 5: {question, answer, options}
+                        else if (item.question && item.answer && item.options) {
+                            questionText = item.question;
+                            correctText = item.answer;
+                            options = [...item.options];
+                        }
+                        else {
+                            console.warn("Noma'lum format:", item);
+                            return null;
+                        }
+
+                        // Variantlarni randomlashtirish
+                        const shuffledOptions = [...options].sort(() => Math.random() - 0.5);
+                        return {
+                            q: questionText,
+                            correct: correctText,
+                            options: shuffledOptions
+                        };
+                    }).filter(q => q !== null);
+
+                if (quizQuestions.length === 0) throw new Error("Hech qanday savol yuklanmadi");
+
+                currentIndex = 0;
+                userAnswers = Array(quizQuestions.length).fill(null);
+
+                document.getElementById('subjects-screen').classList.add('hidden');
+                document.getElementById('result-screen').classList.add('hidden');
+                document.getElementById('quiz-screen').classList.remove('hidden');
+                document.getElementById('quiz-badge').classList.remove('hidden');
+                document.getElementById('sub-title').innerText = subjectName.toUpperCase();
+                document.getElementById('current-badge').innerText = '1';
+                document.getElementById('total-badge').innerText = quizQuestions.length;
+
+                showQuestion();
+            } catch (error) {
+                console.error("Xatolik:", error);
+                alert(`Xatolik: ${error.message}\n\n"${currentDirection}/${subjectName}.json" faylini tekshiring.\n\nPapka tuzilmasi:\n- ${currentDirection}/ papkasi mavjudmi?\n- Fayl nomi to'g'rimi?\n- JSON formati to'g'rimi?`);
+                subjectList.classList.remove('hidden');
+            } finally {
+                spinner.classList.add('hidden');
+            }
+        }
+
+        function showQuestion() {
+            const data = quizQuestions[currentIndex];
+            const userAnswer = userAnswers[currentIndex];
+
+            document.getElementById('current-badge').innerText = currentIndex + 1;
+            document.getElementById('progress-bar').style.width = ((currentIndex / quizQuestions.length) * 100) + '%';
+            document.getElementById('question-text').innerHTML = data.q;
+
+            const optionsBox = document.getElementById('options-container');
+            const feedback = document.getElementById('feedback');
+            const nextBtn = document.getElementById('next-btn');
+            const prevBtn = document.getElementById('prev-btn');
+
+            optionsBox.innerHTML = '';
+            feedback.classList.add('hidden');
+            prevBtn.disabled = currentIndex === 0;
+
+            // Javob berilgan bo'lsa next btn ko'rinadi
+            nextBtn.classList.toggle('hidden', userAnswer === null);
+            nextBtn.innerText = (currentIndex === quizQuestions.length - 1) ? "Natijani ko'rish" : "Keyingi";
+
+            data.options.forEach((opt, i) => {
+                const btn = document.createElement('button');
+                btn.className = 'option-btn w-full text-left p-3.5 rounded-xl bg-white border border-slate-200 text-slate-700 font-semibold text-sm flex items-center gap-3 active:scale-95';
+
+                // assign accurate value to the button DOM to avoid innerText parsing issues later
+                btn.dataset.value = opt;
+
+                const letter = String.fromCharCode(65 + i);
+
+                btn.innerHTML = `
+                    <span class="w-8 h-8 rounded-lg bg-slate-50 flex items-center justify-center text-slate-400 font-bold border border-slate-100 flex-shrink-0 text-xs">${letter}</span>
+                    <span class="flex-1 leading-tight option-text">${opt}</span>
+                `;
+
+                if (userAnswer !== null) {
+                    btn.disabled = true;
+                    if (opt === data.correct) btn.classList.add('correct');
+                    if (opt === userAnswer && opt !== data.correct) btn.classList.add('wrong');
+                } else {
+                    btn.onclick = () => checkAnswer(btn, opt);
+                }
+                optionsBox.appendChild(btn);
+            });
+
+            if (userAnswer !== null) {
+                const isCorrect = userAnswer === data.correct;
+                showStatus(isCorrect ? "To'g'ri! 🌟" : "Noto'g'ri ❌", isCorrect ? 'correct' : 'error');
+            }
+
+            typesetMath();
+        }
+
+        function checkAnswer(btn, selected) {
+            const data = quizQuestions[currentIndex];
+            const isCorrect = selected === data.correct;
+            userAnswers[currentIndex] = selected;
+
+            const allBtns = document.querySelectorAll('.option-btn');
+            allBtns.forEach(b => b.disabled = true);
+
+            if (isCorrect) {
+                btn.classList.add('correct');
+            } else {
+                btn.classList.add('wrong');
+                allBtns.forEach(b => {
+                    if (b.dataset.value === String(data.correct)) {
+                        b.classList.add('correct');
+                    }
+                });
+            }
+            showStatus(isCorrect ? "To'g'ri! 🌟" : "Noto'g'ri ❌", isCorrect ? 'correct' : 'error');
+            document.getElementById('next-btn').classList.remove('hidden');
+        }
+
+        function nextQuestion() {
+            if (currentIndex < quizQuestions.length - 1) {
+                currentIndex++;
+                showQuestion();
+            } else {
+                finishQuiz();
+            }
+        }
+
+        function prevQuestion() {
+            if (currentIndex > 0) {
+                currentIndex--;
+                showQuestion();
+            }
+        }
+
+        function finishQuiz() {
+            document.getElementById('quiz-screen').classList.add('hidden');
+            document.getElementById('result-screen').classList.remove('hidden');
+
+            const correctTotal = userAnswers.filter((ans, idx) => ans !== null && ans === quizQuestions[idx].correct).length;
+            const scorePercent = quizQuestions.length ? Math.round((correctTotal / quizQuestions.length) * 100) : 0;
+
+            document.getElementById('score-percent').innerText = scorePercent + "%";
+            document.getElementById('result-summary').innerHTML = `Siz ${quizQuestions.length} ta savoldan <span class="text-blue-600 font-bold">${correctTotal}</span> tasiga to'g'ri javob berdingiz.`;
+
+            const emoji = document.getElementById('result-emoji');
+            if (scorePercent >= 85) emoji.innerText = "🏆";
+            else if (scorePercent >= 60) emoji.innerText = "⚡";
+            else emoji.innerText = "📚";
+        }
+
+        function restartQuiz() {
+            if (currentDirection && currentSubject) {
+                startQuiz(currentSubject);
+            } else {
+                goHome();
+            }
+        }
+
+        function goHome() {
+            document.getElementById('quiz-screen').classList.add('hidden');
+            document.getElementById('result-screen').classList.add('hidden');
+            document.getElementById('subjects-screen').classList.add('hidden');
+            document.getElementById('directions-screen').classList.remove('hidden');
+
+            document.getElementById('quiz-badge').classList.add('hidden');
+            document.getElementById('back-home-btn').classList.add('hidden');
+            document.getElementById('logo-icon').classList.remove('hidden');
+            document.getElementById('sub-title').innerText = "Yo'nalishni tanlang";
+
+            const subjectList = document.getElementById('subject-list');
+            subjectList.classList.remove('hidden');
+
+            currentDirection = '';
+            currentSubject = '';
+            quizQuestions = [];
+        }
+    </script>
+</body>
+
+</html>

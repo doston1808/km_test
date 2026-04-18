@@ -1,0 +1,1592 @@
+[
+  {
+    "question": "Axborotning eng kichik o`lchov birligi qaysi ?",
+    "options": [
+      "Bit",
+      "Bayt",
+      "Kilobayt",
+      "Megabayt"
+    ],
+    "answer": "Bit"
+  },
+  {
+    "question": "1 Bayt necha Bitga teng ?",
+    "options": [
+      "8",
+      "16",
+      "4",
+      "32"
+    ],
+    "answer": "8"
+  },
+  {
+    "question": "1 Kb necha Baytga teng ?",
+    "options": [
+      "1024",
+      "1000",
+      "512",
+      "2048"
+    ],
+    "answer": "1024"
+  },
+  {
+    "question": "Texnologiya nima ?",
+    "options": [
+      "Obyektni sifat jihatidan yangi mahsulotga aylantirish jarayoni",
+      "Axborot yig`ish uchun bajariladigan harakatlar yig`indisi",
+      "Matematik hisoblash usullari majmuasi",
+      "Qurilmalar majmuasi"
+    ],
+    "answer": "Obyektni sifat jihatidan yangi mahsulotga aylantirish jarayoni"
+  },
+  {
+    "question": "Axborot tizimi qanday ta`riflanadi ?",
+    "options": [
+      "Kompyuter texnologiyalari yordamida axborot ishlab chiqarish va qaror qabul qilishni qo`llab-quvvatlash tizimi",
+      "Ma`lumotlar bazasini yaratish imkoniyatini beruvchi dasturlar to`plami",
+      "Kompyuter ishlashini ta`minlovchi dasturlar majmuasi",
+      "Ma`lumotlarni kodlash jarayonini boshqarish"
+    ],
+    "answer": "Kompyuter texnologiyalari yordamida axborot ishlab chiqarish va qaror qabul qilishni qo`llab-quvvatlash tizimi"
+  },
+  {
+    "question": "Elektron tijorat qanday izohlanadi ?",
+    "options": [
+      "Internet orqali mahsulot va xizmatlar savdosi",
+      "Oddiy bozorda mahsulot savdosi",
+      "Mahsulot ishlab chiqarish jarayoni",
+      "Moliyaviy hisobot yuritish"
+    ],
+    "answer": "Internet orqali mahsulot va xizmatlar savdosi"
+  },
+  {
+    "question": "B2C elektron tijorat turi qanday ?",
+    "options": [
+      "Kompaniyalardan iste`molchiga mahsulot sotish",
+      "Kompaniyalar o`rtasidagi savdo",
+      "Foydalanuvchilar o`zaro mahsulot sotish",
+      "Foydalanuvchilarning kompaniyaga mahsulot taklifi"
+    ],
+    "answer": "Kompaniyalardan iste`molchiga mahsulot sotish"
+  },
+  {
+    "question": "B2B modeli qaysi ?",
+    "options": [
+      "Kompaniyalar o`rtasidagi savdo",
+      "Kompaniyadan iste`molchiga savdo",
+      "Foydalanuvchilarning o`zaro savdosi",
+      "Onlayn reklama jarayoni"
+    ],
+    "answer": "Kompaniyalar o`rtasidagi savdo"
+  },
+  {
+    "question": "C2C modeli qanday ta`riflanadi ?",
+    "options": [
+      "Foydalanuvchilar o`zaro mahsulot yoki xizmat almashishi",
+      "Kompaniya va iste`molchi o`rtasidagi savdo",
+      "Foydalanuvchi va kompaniya o`rtasidagi xizmat taklifi",
+      "Kompaniyalar o`rtasidagi kelishuv"
+    ],
+    "answer": "Foydalanuvchilar o`zaro mahsulot yoki xizmat almashishi"
+  },
+  {
+    "question": "C2B modeli qaysi faoliyatni bildiradi ?",
+    "options": [
+      "Foydalanuvchining kompaniyaga xizmat yoki mahsulot taklifi",
+      "Kompaniyadan iste`molchiga mahsulot yetkazish",
+      "Kompaniyalararo hamkorlik",
+      "Onlayn bank xizmatlari"
+    ],
+    "answer": "Foydalanuvchining kompaniyaga xizmat yoki mahsulot taklifi"
+  },
+  {
+    "question": "Elektron tijoratning asosiy afzalliklaridan biri qaysi ?",
+    "options": [
+      "24/7 ishlash imkoniyati",
+      "Faqat naqd pul bilan ishlash",
+      "Maxsus bozor talab qilishi",
+      "Qimmat xarajatlarni ko`paytirish"
+    ],
+    "answer": "24/7 ishlash imkoniyati"
+  },
+  {
+    "question": "Elektron tijoratda xarajatlarni kamaytirish qanday ta`minlanadi ?",
+    "options": [
+      "Do`kon ijarasi va xodimlar sonining qisqarishi orqali",
+      "Mahsulot narxini oshirish orqali",
+      "Foydalanuvchilar sonini kamaytirish orqali",
+      "Faqatgina xalqaro savdoga chiqish orqali"
+    ],
+    "answer": "Do`kon ijarasi va xodimlar sonining qisqarishi orqali"
+  },
+  {
+    "question": "1 Gb necha Mb ga teng ?",
+    "options": [
+      "1024",
+      "512",
+      "100",
+      "2048"
+    ],
+    "answer": "1024"
+  },
+  {
+    "question": "Axborot o`lchov birliklarining to`g`ri ketma-ketligi qaysi ?",
+    "options": [
+      "Bit – Bayt – Kb – Mb – Gb – Tb",
+      "Bayt – Bit – Mb – Tb – Gb",
+      "Bit – Mb – Bayt – Tb – Gb– Pb",
+      "Bayt – Tb – Kb – Mb – Gb"
+    ],
+    "answer": "Bit – Bayt – Kb – Mb – Gb – Tb"
+  },
+  {
+    "question": "Internet savdosi uchun O`zbekistonda mashhur platforma qaysi ?",
+    "options": [
+      "Uzum",
+      "Amazon",
+      "eBay",
+      "Alibaba"
+    ],
+    "answer": "Uzum"
+  },
+  {
+    "question": "Elektron tijoratda biznesni rivojlantirish uchun qaysi imkoniyat muhim ?",
+    "options": [
+      "Xaridorlarning xarid qilish odatlarini tahlil qilish",
+      "Asosan faqat reklama qilish",
+      "Mahsulot narxini oshirish",
+      "Omborlarni ko`paytirish"
+    ],
+    "answer": "Xaridorlarning xarid qilish odatlarini tahlil qilish"
+  },
+  {
+    "question": "Axborot texnologiyalari infratuzilmasining asosiy tarkibiy qismlaridan biri bu :",
+    "options": [
+      "Dasturiy ta`minot",
+      "Tashqi muhit",
+      "Ijtimoiy tarmoq",
+      "Mobil ilova"
+    ],
+    "answer": "Dasturiy ta`minot"
+  },
+  {
+    "question": "Axborotlarni saqlash va qayta ishlashda foydalaniladigan qurilmalar qanday nomlanadi ?",
+    "options": [
+      "Apparat vositalar",
+      "E`lonlar tizimi",
+      "Tarmoq protokollari",
+      "Hisoblash tizimi"
+    ],
+    "answer": "Apparat vositalar"
+  },
+  {
+    "question": "Quyidagilardan qaysi biri axborot texnologiyalarining tarmoq infratuzilmasiga misol bo`ladi ?",
+    "options": [
+      "Wi-Fi router",
+      "Klaviatura",
+      "Monitor",
+      "Printer"
+    ],
+    "answer": "Wi-Fi router"
+  },
+  {
+    "question": "Ma`lumotlarni markazlashtirilgan holda saqlovchi va ulardan foydalanishga imkon beruvchi tizim qanday ataladi ?",
+    "options": [
+      "Ma`lumotlar bazasi",
+      "Brauzer",
+      "Mobil qurilma",
+      "Elektron pochta"
+    ],
+    "answer": "Ma`lumotlar bazasi"
+  },
+  {
+    "question": "Tashkilotda axborot texnologiyalari infratuzilmasining xavfsizligini ta`minlovchi dasturiy vosita bu :",
+    "options": [
+      "Antivirus",
+      "MS Word",
+      "Paint",
+      "Excel"
+    ],
+    "answer": "Antivirus"
+  },
+  {
+    "question": "Quyidagilardan qaysi biri dasturiy ta`minotga kiradi ?",
+    "options": [
+      "Operatsion tizim",
+      "Skanner",
+      "Mikrofonn",
+      "USB fleshka"
+    ],
+    "answer": "Operatsion tizim"
+  },
+  {
+    "question": "Tizimdagi nosozliklarni aniqlash va bartaraf etish vazifasi kimga yuklatiladi ?",
+    "options": [
+      "IT mutaxassisi",
+      "Marketing bo`limi",
+      "Buxgalter",
+      "Dizayner"
+    ],
+    "answer": "IT mutaxassisi"
+  },
+  {
+    "question": "Axborot infratuzilmasida Internet tarmog`i qaysi qismga tegishli ?",
+    "options": [
+      "Tarmoq infratuzilmasi",
+      "Grafik dizayn infratuzilmasiga",
+      "Elektr ta`minoti",
+      "Avtomatlashtirilgan boshqaruv"
+    ],
+    "answer": "Tarmoq infratuzilmasi"
+  },
+  {
+    "question": "Quyidagilardan qaysi biri ma`lumotlar xavfsizligini oshirish usulidir ?",
+    "options": [
+      "Shifrlash (kriptografiya)",
+      "Kompyuter o`yinlari o`rnatish",
+      "Klaviaturani almashtirish",
+      "Rangli printerdan foydalanish"
+    ],
+    "answer": "Shifrlash (kriptografiya)"
+  },
+  {
+    "question": "Axborotlarni saqlashga mo`ljallangan qurilmalar to`g`ri ko`rsatilgan javob :",
+    "options": [
+      "Qattiq disk, fleshka, SSD",
+      "Sichqoncha, klaviatura, monitor",
+      "Wi-Fi, modem, kabel",
+      "Kamera, mikrofon, skaner"
+    ],
+    "answer": "Qattiq disk, fleshka, SSD"
+  },
+  {
+    "question": "Bulutli texnologiyalarning asosiy afzalligi nima ?",
+    "options": [
+      "Ma`lumotlarga masofadan kirish imkoni",
+      "Faqat bitta kompyuterda ishlaydi",
+      "Ma`lumotlarni chop etadi",
+      "Qurilmani tezroq ishga tushiradi"
+    ],
+    "answer": "Ma`lumotlarga masofadan kirish imkoni"
+  },
+  {
+    "question": "Axborot infratuzilmasining rivojlanishida muhim ahamiyatga ega bo`lgan zamonaviy yo`nalish :",
+    "options": [
+      "Sun`iy intellekt",
+      "Avtomobil ishlab chiqarish",
+      "Qishloq xo`jaligi",
+      "Fizika"
+    ],
+    "answer": "Sun`iy intellekt"
+  },
+  {
+    "question": "\"Elektron hukumat\" tizimi nima uchun kerak ?",
+    "options": [
+      "Davlat xizmatlarini raqamli shaklda taqdim etish uchun",
+      "Elektron pochta ochish va undan foydalanish uchun",
+      "O`yin yaratish va o`ynash uchun",
+      "Grafik chizish va undan foydalanish uchun"
+    ],
+    "answer": "Davlat xizmatlarini raqamli shaklda taqdim etish uchun"
+  },
+  {
+    "question": "O`zbekiston Respublikasining raqamli rivojlanish strategiyasi qanday nomlanadi ?",
+    "options": [
+      "“Raqamli O`zbekiston – 2030”",
+      "“Internet tezligi – 2025”",
+      "“Kiberxavfsizlik – 2040”",
+      "“Texnopark – 2035”"
+    ],
+    "answer": "“Raqamli O`zbekiston – 2030”"
+  },
+  {
+    "question": "Axborot texnologiyalari infratuzilmasini optimallashtirishda qaysi bo`lim muhim rol o`ynaydi ?",
+    "options": [
+      "IT bo`limi",
+      "Savdo bo`limi",
+      "Xodimlar bo`limi",
+      "Ombor bo`limi"
+    ],
+    "answer": "IT bo`limi"
+  },
+  {
+    "question": "Axborot texnologiyalari infratuzilmasi qanday ta`riflanadi ?",
+    "options": [
+      "Tashkilotda axborot oqimlarini boshqarish, uzatish va qayta ishlash uchun zarur texnik, dasturiy va tashkiliy vositalar majmuasi",
+      "Kompyuter va dasturlar majmuasi",
+      "Internet va Wi-Fi tarmoqlari",
+      "Dasturiy ta`minot va serverlar"
+    ],
+    "answer": "Tashkilotda axborot oqimlarini boshqarish, uzatish va qayta ishlash uchun zarur texnik, dasturiy va tashkiliy vositalar majmuasi"
+  },
+  {
+    "question": "Apparatura vositalariga qaysi qurilmalar kiradi ?",
+    "options": [
+      "Kompyuterlar, serverlar, tarmoq qurilmalari, saqlash qurilmalari, printerlar",
+      "Noutbuk va monitor",
+      "Antivirus va xavfsizlik devorlari",
+      "Tizim tasturiy ta`minoti, amaliy dasturiy ta`minotlar va drayverlar"
+    ],
+    "answer": "Kompyuterlar, serverlar, tarmoq qurilmalari, saqlash qurilmalari, printerlar"
+  },
+  {
+    "question": "Axborot texnologiyalari infratuzilmasining vazifalaridan biri qaysi ?",
+    "options": [
+      "Ma`lumotlar almashinuvini ta`minlash",
+      "Printerdan foydalanish",
+      "Ma`lumotlarni nusxalash",
+      "Dasturiy ta`minot o`rnatish"
+    ],
+    "answer": "Ma`lumotlar almashinuvini ta`minlash"
+  },
+  {
+    "question": "Kompyuterning asosiy vazifalari qatoriga nimalar kiradi ?",
+    "options": [
+      "Ma`lumotlarni qabul qilish, qayta ishlash, chiqarish, saqlash",
+      "Internetga ulanish",
+      "Matn yozish",
+      "Signallarni qabul qilish, qayta ishlash, chiqarish, saqlash"
+    ],
+    "answer": "Ma`lumotlarni qabul qilish, qayta ishlash, chiqarish, saqlash"
+  },
+  {
+    "question": "Superkompyuterning asosiy vazifasi nima ?",
+    "options": [
+      "Ilmiy hisoblashlar, ob-havo prognozi va genetik tadqiqotlar",
+      "Uy sharoitida matn terish",
+      "Internetda muloqot qilish va ijtimoiy tarmoqda ishlash",
+      "Printer bilan ishlash jarayonini nazorat qilish"
+    ],
+    "answer": "Ilmiy hisoblashlar, ob-havo prognozi va genetik tadqiqotlar"
+  },
+  {
+    "question": "Monitorning vazifasi nimadan iborat ?",
+    "options": [
+      "Ma`lumotlarni matnli yoki grafik ko`rinishda ekranga chiqarish",
+      "Ma`lumotlarni saqlash",
+      "Ma`lumotlarni qayta ishlash jarayonida signallar yuborish",
+      "Ma`lumotlarni kiritish"
+    ],
+    "answer": "Ma`lumotlarni matnli yoki grafik ko`rinishda ekranga chiqarish"
+  },
+  {
+    "question": "Bulutli texnologiyalarning asosiy afzalligi nimada ?",
+    "options": [
+      "Infratuzilmaning qimmat qismlarini masofaviy serverlar orqali taqdim etish",
+      "Kompyuter xotirasini kengaytirish",
+      "Infratuzilmaning arzon qismlarini masofaviy serverlar orqali taqdim etish",
+      "Lokal tarmoqni yaratish"
+    ],
+    "answer": "Infratuzilmaning qimmat qismlarini masofaviy serverlar orqali taqdim etish"
+  },
+  {
+    "question": "“Raqamli O`zbekiston – 2030” strategiyasida qanday yo`nalishlar amalga oshirilmoqda ?",
+    "options": [
+      "Data-markazlar qurilishi, davlat xizmatlarini raqamlashtirish, elektron hukumatni kengaytirish, IT-parklarni rivojlantirish",
+      "Yangi printerlar sotib olish",
+      "Dasturiy ta`minot o`rnatish",
+      "Internet tezligini oshirish, Dasturiy ta`minot o`rnatish, elektron hukumatni kengaytirishga to`sqinlik qilish"
+    ],
+    "answer": "Data-markazlar qurilishi, davlat xizmatlarini raqamlashtirish, elektron hukumatni kengaytirish, IT-parklarni rivojlantirish"
+  },
+  {
+    "question": "Kiberxavfsizlik nima uchun muhim hisoblanadi ?",
+    "options": [
+      "Infratuzilma xavfsizligini ta`minlash uchun",
+      "Printerdan foydalanishda xavfsizlikni ta`minlash uchun",
+      "Monitorni sozlash jarayonini nazorat qilish uchun",
+      "Antivirus o`rnatish uchun"
+    ],
+    "answer": "Infratuzilma xavfsizligini ta`minlash uchun"
+  },
+  {
+    "question": "Kompyuter dasturi qanday ta`riflanadi ?",
+    "options": [
+      "Buyruqlar ketma-ketligi yoki algoritm",
+      "Kompyuterning tashqi qurilmalari majmuasi",
+      "Asosan faqat internetga ulanish dasturi",
+      "Matn hujjatlarini yaratish muhiti"
+    ],
+    "answer": "Buyruqlar ketma-ketligi yoki algoritm"
+  },
+  {
+    "question": "Algoritmning asosiy belgilari qaysilar ?",
+    "options": [
+      "Aniq va to`liq ketma-ketlikdagi buyruqlar majmuasi",
+      "Hujjatlarni tahrirlash uchun mo`ljallangan dastur",
+      "Tarmoq orqali ma`lumot uzatish vositasi",
+      "Grafika muharriri"
+    ],
+    "answer": "Aniq va to`liq ketma-ketlikdagi buyruqlar majmuasi"
+  },
+  {
+    "question": "Tizimli dasturiy ta`minotning vazifasi nima ?",
+    "options": [
+      "Kompyuter qurilmalarini boshqarish va asosiy operatsiyalarni bajarish",
+      "Hujjatlar yaratish va tahrirlash",
+      "Multimedia fayllarini ishlashini ta`minlash",
+      "Internet orqali xabar yuborish jarayoniga cheklov qo`yish"
+    ],
+    "answer": "Kompyuter qurilmalarini boshqarish va asosiy operatsiyalarni bajarish"
+  },
+  {
+    "question": "Amaliy dasturiy ta`minot nima uchun yaratiladi ?",
+    "options": [
+      "Foydalanuvchilarning maxsus ehtiyojlarini qondirish",
+      "Operatsion tizimni o`rnatish maqsadida",
+      "Asosan faqat drayverlarni yangilash uchun yaratilgan",
+      "Qurilma resurslarini taqsimlash"
+    ],
+    "answer": "Foydalanuvchilarning maxsus ehtiyojlarini qondirish"
+  },
+  {
+    "question": "Quyidagilardan qaysi biri ofis dasturlariga kiradi ?",
+    "options": [
+      "Microsoft Word, Excel, PowerPoint",
+      "VLC Media Player",
+      "Adobe Photoshop, Internet",
+      "Google Chrome, Opera, Yandex"
+    ],
+    "answer": "Microsoft Word, Excel, PowerPoint"
+  },
+  {
+    "question": "Multimedia dasturlariga misol bo`la oladigan variantni toping.",
+    "options": [
+      "Adobe Photoshop, CorelDRAW",
+      "Microsoft Excel, Word, PowerPoint",
+      "Google Chrome, Opera, Yandex",
+      "Zoom, Kasperskiy"
+    ],
+    "answer": "Adobe Photoshop, CorelDRAW"
+  },
+  {
+    "question": "Internet va aloqa dasturlariga to`g`ri misol qaysi ?",
+    "options": [
+      "Google Chrome, Zoom, Skype",
+      "Adobe Illustrator, CorelDRAW",
+      "Microsoft Word, Excel",
+      "1C Buxgalteriya"
+    ],
+    "answer": "Google Chrome, Zoom, Skype"
+  },
+  {
+    "question": "Moliyaviy va biznes dasturlariga kiruvchi dasturlar qaysilar ?",
+    "options": [
+      "1C Buxgalteriya, QuickBooks, Salesforce CRM",
+      "VLC Media Player, Photoshop",
+      "Google Docs, LibreOffice",
+      "Mozilla Firefox, Edge"
+    ],
+    "answer": "1C Buxgalteriya, QuickBooks, Salesforce CRM"
+  },
+  {
+    "question": "Operatsion tizim nima uchun kerak ?",
+    "options": [
+      "Kompyuter va foydalanuvchi o`rtasida muloqotni ta`minlash",
+      "Kompyuter va foydalanuvchi o`rtasida muloqotni cheklash uchun",
+      "Internet sahifalarini ko`rish",
+      "Rasmlarni tahrirlash va chop etish uchun"
+    ],
+    "answer": "Kompyuter va foydalanuvchi o`rtasida muloqotni ta`minlash"
+  },
+  {
+    "question": "Operatsion tizimlarning mashhur turlari qaysilar ?",
+    "options": [
+      "Windows, macOS, Linux",
+      "Google Docs, Sheets, Slides",
+      "Adobe Photoshop, Illustrator",
+      "Zoom, Skype, Google Chrome"
+    ],
+    "answer": "Windows, macOS, Linux"
+  },
+  {
+    "question": "Mobil qurilmalar uchun operatsion tizimlarga misol qaysi ?",
+    "options": [
+      "Android va iOS",
+      "Windows va Linux",
+      "VLC va Winamp",
+      "LibreOffice, Chrome"
+    ],
+    "answer": "Android va iOS"
+  },
+  {
+    "question": "Drayverlarning vazifasi qanday ?",
+    "options": [
+      "Apparat va dasturiy ta`minot o`rtasida bog`lanish o`rnatish",
+      "Apparat va dasturiy ta`minot o`rtasida cheklov o`rnatish",
+      "Foydalanuvchilarga hujjat yaratish",
+      "Multimediya fayllarini ko`paytirish"
+    ],
+    "answer": "Apparat va dasturiy ta`minot o`rtasida bog`lanish o`rnatish"
+  },
+  {
+    "question": "Dasturiy ta`minot platformasi deganda nima tushuniladi ?",
+    "options": [
+      "Dasturlarni ishlab chiqish va ishlatish uchun mo`ljallangan muhit",
+      "Dasturlarni ishlab chiqish va ishlatish uchun mo`ljallangan kompyuter",
+      "Internet brauzerlari majmuasi",
+      "Matn muharrirlari to`plami"
+    ],
+    "answer": "Dasturlarni ishlab chiqish va ishlatish uchun mo`ljallangan muhit"
+  },
+  {
+    "question": "Bir masalali operatsion tizimning xususiyati qanday ?",
+    "options": [
+      "Bir vaqtning o`zida faqat bitta dastur bajariladi",
+      "Bir nechta dastur bir vaqtda ishlaydi",
+      "Asosan faqat multimedia fayllarini ochadi",
+      "Internet orqali ma`lumot uzatadi"
+    ],
+    "answer": "Bir vaqtning o`zida faqat bitta dastur bajariladi"
+  },
+  {
+    "question": "Ko`p masalali operatsion tizim qanday ishlaydi ?",
+    "options": [
+      "Bir nechta jarayonni bir vaqtning o`zida boshqaradi",
+      "Asosan faqat bitta vazifani bajaradi",
+      "Bir nechta resursni bir vaqtning o`zida boshqaradi",
+      "Drayverlarni o`rnatadi"
+    ],
+    "answer": "Bir nechta jarayonni bir vaqtning o`zida boshqaradi"
+  },
+  {
+    "question": "Microsoft Windows operatsion tizimining asosiy interfeysi qanday ?",
+    "options": [
+      "Oynali grafik interfeys",
+      "Faqat buyruqlar satri",
+      "Matnli terminal oynasi",
+      "Qora fonli DOS rejimi"
+    ],
+    "answer": "Oynali grafik interfeys"
+  },
+  {
+    "question": "“Windows” so`zining o`zbekcha ma`nosi qanday ?",
+    "options": [
+      "Oyna",
+      "Kompyuter",
+      "Internet",
+      "Ilova"
+    ],
+    "answer": "Oyna"
+  },
+  {
+    "question": "Microsoft Windowsning birinchi versiyasi qaysi yil ishlab chiqilgan ?",
+    "options": [
+      "1980 yil (MS-DOS)",
+      "1990 yil (Windows 3.0)",
+      "1995 yil (Windows 95)",
+      "2001 yil (Windows XP)"
+    ],
+    "answer": "1980 yil (MS-DOS)"
+  },
+  {
+    "question": "Windows 10 qachon taqdim etilgan ?",
+    "options": [
+      "2015 yil",
+      "2021 yil",
+      "2009 yil",
+      "1995 yil"
+    ],
+    "answer": "2015 yil"
+  },
+  {
+    "question": "Windows 11 versiyasi qachon chiqarilgan ?",
+    "options": [
+      "2021 yil",
+      "2015 yil",
+      "2012 yil",
+      "2006 yil"
+    ],
+    "answer": "2021 yil"
+  },
+  {
+    "question": "Windows 11 uchun minimal operativ xotira talabi qancha ?",
+    "options": [
+      "4 GB",
+      "2 GB",
+      "8 GB",
+      "1 GB"
+    ],
+    "answer": "4 GB"
+  },
+  {
+    "question": "Windows 11 uchun zarur minimal protsessor talabi qaysi ?",
+    "options": [
+      "1 gigagertsli yoki undan yuqori, 64 bitli, 2 yadroli",
+      "2 gigagertsli, 32 bitli, 1 yadroli",
+      "512 megagertsli, 16 bitli",
+      "3 gigagertsli, 128 bitli"
+    ],
+    "answer": "1 gigagertsli yoki undan yuqori, 64 bitli, 2 yadroli"
+  },
+  {
+    "question": "Microsoft 2025 yil fevral oyida Windows 11 tizimiga qanday yangi imkoniyat qo`shdi ?",
+    "options": [
+      "«Пуск» menyusida dasturlarni guruhlash",
+      "Yangi multimedia pleer qo`shildi",
+      "Faqat 32-bit dasturlarni qo`llash imkoniyati",
+      "Maxsus grafik muharrir"
+    ],
+    "answer": "«Пуск» menyusida dasturlarni guruhlash"
+  },
+  {
+    "question": "Word dasturida yaratilgan fayllarning kengaytmalari qaysilar ?",
+    "options": [
+      "doc, docx",
+      "pdf, xls",
+      "jpg, png",
+      "exe, com"
+    ],
+    "answer": "doc, docx"
+  },
+  {
+    "question": "Microsoft Word dasturi dastlab qaysi operatsion tizim uchun yaratilgan ?",
+    "options": [
+      "MS-DOS",
+      "Windows 95",
+      "Windows XP",
+      "Linux"
+    ],
+    "answer": "MS-DOS"
+  },
+  {
+    "question": "Microsoft Office paketiga qaysi dasturlar kiradi ?",
+    "options": [
+      "Word, Excel, PowerPoint",
+      "Photoshop, CorelDraw, Paint",
+      "AutoCAD, SolidWorks, ArchiCAD",
+      "Winamp, Aimp, VLC"
+    ],
+    "answer": "Word, Excel, PowerPoint"
+  },
+  {
+    "question": "Microsoft Word dasturining asosiy vazifasi nima ?",
+    "options": [
+      "Matnli hujjatlar yaratish va tahrirlash",
+      "Videomontaj qilish",
+      "Audio fayllar yozib olish",
+      "Sonli ma`lumotlar bilan ishlash va tahrirlash"
+    ],
+    "answer": "Matnli hujjatlar yaratish va tahrirlash"
+  },
+  {
+    "question": "Word dasturida jadvallar qanday imkoniyatni beradi ?",
+    "options": [
+      "Ma`lumotlarni tartibga solish va arifmetik amallar bajarish",
+      "Rasmlarni rangini o`zgartirish",
+      "Video effektlar qo`shish",
+      "Ma`lumotlarni tartibsiz saqlash va geometrik amallar bajarish"
+    ],
+    "answer": "Ma`lumotlarni tartibga solish va arifmetik amallar bajarish"
+  },
+  {
+    "question": "Word 2013 versiyasida qaysi imkoniyat qo`shilgan ?",
+    "options": [
+      "PDF fayllarni ochish va tahrirlash",
+      "DOCX formatini qo`llash",
+      "Grafik vositalar Spot Eraser",
+      "Office Assistant"
+    ],
+    "answer": "PDF fayllarni ochish va tahrirlash"
+  },
+  {
+    "question": "Word 2016 versiyasida foydalanuvchilarga qanday qulaylik berilgan ?",
+    "options": [
+      "\"Nima qilmoqchisiz\" funksiyasi",
+      "PDF fayllarni tahrirlash",
+      "DOC formatini saqlash",
+      "Avtofigura qo`shish"
+    ],
+    "answer": "\"Nima qilmoqchisiz\" funksiyasi"
+  },
+  {
+    "question": "Word 2019 versiyasida asosiy yangilik nima edi ?",
+    "options": [
+      "Real vaqtda hamkorlikni takomillashtirish",
+      "Internetdan video qo`shish",
+      "DOCX formatini joriy qilish",
+      "Tell Me funksiyasi"
+    ],
+    "answer": "Real vaqtda hamkorlikni takomillashtirish"
+  },
+  {
+    "question": "Word 2021 versiyasida qaysi qo`shimcha vositalar paydo bo`lgan ?",
+    "options": [
+      "Premium Creative Content, Spot Eraser, Ruler, Lasso",
+      "AutoCorrect va Office Assistant",
+      "XML formatini qo`llash",
+      "Hujjatlarni tiklash"
+    ],
+    "answer": "Premium Creative Content, Spot Eraser, Ruler, Lasso"
+  },
+  {
+    "question": "Microsoft Word dasturini ishga tushirish usullaridan biri qaysi ?",
+    "options": [
+      "\"Пуск\" menyusi orqali",
+      "BIOS orqali",
+      "Disk formatlash orqali",
+      "CMD oynasi orqali"
+    ],
+    "answer": "\"Пуск\" menyusi orqali"
+  },
+  {
+    "question": "Microsoft Word dasturida shriftlar bilan qanday amal bajariladi ?",
+    "options": [
+      "Hajmi, turi, rangi o`zgartiriladi",
+      "Video tahrirlanadi",
+      "Interval, politra, tonni o`zgartiriladi",
+      "Fayl siqiladi"
+    ],
+    "answer": "Hajmi, turi, rangi o`zgartiriladi"
+  },
+  {
+    "question": "Microsoft Word dasturida hujjatlarni himoya qilish uchun nima ishlatiladi ?",
+    "options": [
+      "Parol va elektron imzo",
+      "Virusga qarshi dastur",
+      "VPN ulanishi",
+      "Antivirus skaneri"
+    ],
+    "answer": "Parol va elektron imzo"
+  },
+  {
+    "question": "Word dasturida sahifalarni avtomatik raqamlash nima uchun qulay ?",
+    "options": [
+      "Kitob va dissertatsiya yozishda",
+      "Internet sahifalarini ko`rishda",
+      "Video montaj qilishda",
+      "Musiqa fayllarni qo`shishda"
+    ],
+    "answer": "Kitob va dissertatsiya yozishda"
+  },
+  {
+    "question": "Google Docs dasturining asosiy afzalligi nima ?",
+    "options": [
+      "Bulutli texnologiya orqali saqlash",
+      "Rasm chizish imkoniyati",
+      "Audio yozib olish",
+      "Video montaj qilish"
+    ],
+    "answer": "Bulutli texnologiya orqali saqlash"
+  },
+  {
+    "question": "LibreOffice paketida matn muharriri qanday nomlanadi ?",
+    "options": [
+      "Writer",
+      "Calc",
+      "Impress",
+      "Outlook"
+    ],
+    "answer": "Writer"
+  },
+  {
+    "question": "Microsoft Word dasturida formulalar qanday kiritiladi ?",
+    "options": [
+      "Maxsus vositalar yordamida",
+      "Excel orqali",
+      "Paint dasturi orqali",
+      "Kamera orqali"
+    ],
+    "answer": "Maxsus vositalar yordamida"
+  },
+  {
+    "question": "Microsoft Word dasturida havolalar nima uchun qo`shiladi ?",
+    "options": [
+      "Matnni qulay tushunish va o`tish uchun",
+      "Musiqa ijro etish uchun",
+      "Video qo`shish uchun",
+      "Faylni arxivlash uchun"
+    ],
+    "answer": "Matnni qulay tushunish va o`tish uchun"
+  },
+  {
+    "question": "Elektron jadval nima uchun ishlatiladi ?",
+    "options": [
+      "Raqamli ma`lumotlarni qayta ishlash va tahlil qilish uchun",
+      "Matnlarni tarjima qilish uchun",
+      "Grafika chizish uchun",
+      "Audio fayllarni o`qish uchun"
+    ],
+    "answer": "Raqamli ma`lumotlarni qayta ishlash va tahlil qilish uchun"
+  },
+  {
+    "question": "Microsoft Excel dasturi qaysi to`plam tarkibiga kiradi ?",
+    "options": [
+      "Microsoft Office",
+      "Windows Media Player",
+      "Adobe Photoshop",
+      "CorelDRAW"
+    ],
+    "answer": "Microsoft Office"
+  },
+  {
+    "question": "Excel fayllarining asosiy kengaytmalari qaysilar ?",
+    "options": [
+      ".xls va .xlsx",
+      ".docx",
+      ".pptx",
+      ".txt"
+    ],
+    "answer": ".xls va .xlsx"
+  },
+  {
+    "question": "Excel ishchi kitobi nimalardan tashkil topadi ?",
+    "options": [
+      "Varaqlardan",
+      "Papkalardan",
+      "Diagrammalardan",
+      "Jadvallardan"
+    ],
+    "answer": "Varaqlardan"
+  },
+  {
+    "question": "Excel varag`ida ustunlar qanday belgilanadi ?",
+    "options": [
+      "Harflar bilan",
+      "Raqamlar bilan",
+      "Belgilar bilan",
+      "Ranglar bilan"
+    ],
+    "answer": "Harflar bilan"
+  },
+  {
+    "question": "Excel varag`idagi satrlar qanday belgilanadi ?",
+    "options": [
+      "Raqamlar bilan",
+      "Harflar bilan",
+      "Belgilar bilan",
+      "Ranglar bilan"
+    ],
+    "answer": "Raqamlar bilan"
+  },
+  {
+    "question": "Excel dasturi zamonaviy versiyalari varag`ida nechta satr mavjud ?",
+    "options": [
+      "1048576 ta",
+      "65536 ta",
+      "500000 ta",
+      "999999 ta"
+    ],
+    "answer": "1048576 ta"
+  },
+  {
+    "question": "Excel varag`ida nechta ustun mavjud ?",
+    "options": [
+      "16384 ta",
+      "1048576 ta",
+      "5000 ta",
+      "32678 ta"
+    ],
+    "answer": "16384 ta"
+  },
+  {
+    "question": "Katak nima hisoblanadi ?",
+    "options": [
+      "Qator va ustun kesishmasi",
+      "Diagramma elementi",
+      "Papka nomi",
+      "Oyna belgisi"
+    ],
+    "answer": "Qator va ustun kesishmasi"
+  },
+  {
+    "question": "Excel dasturida formulalar qanday belgidan boshlanadi ?",
+    "options": [
+      "=",
+      "+",
+      "–",
+      "*"
+    ],
+    "answer": "="
+  },
+  {
+    "question": "Diagrammalar qanday maqsadda qo`llaniladi ?",
+    "options": [
+      "Ma`lumotlarni grafik ko`rinishda ifodalash uchun",
+      "Hujjatni chop etish uchun",
+      "Ma`lumotni o`chirish uchun",
+      "O`yin yaratish uchun"
+    ],
+    "answer": "Ma`lumotlarni grafik ko`rinishda ifodalash uchun"
+  },
+  {
+    "question": "Excel dasturida AVERAGE funksiyasi nima hisoblaydi ?",
+    "options": [
+      "O`rtacha qiymatni",
+      "Eng katta qiymatni",
+      "Eng kichik qiymatni",
+      "Umumiy yig`indini"
+    ],
+    "answer": "O`rtacha qiymatni"
+  },
+  {
+    "question": "MAX funksiyasi nima uchun ishlatiladi ?",
+    "options": [
+      "Eng katta qiymatni aniqlash uchun",
+      "Eng kichik qiymatni aniqlash uchun",
+      "O`rtacha qiymatni hisoblash uchun",
+      "Summani chiqarish uchun"
+    ],
+    "answer": "Eng katta qiymatni aniqlash uchun"
+  },
+  {
+    "question": "MIN funksiyasi nima qiladi ?",
+    "options": [
+      "Eng kichik qiymatni topadi",
+      "Eng katta qiymatni topadi",
+      "O`rtacha qiymatni chiqaradi",
+      "Summani hisoblaydi"
+    ],
+    "answer": "Eng kichik qiymatni topadi"
+  },
+  {
+    "question": "Excelda ma`lumotlarni saralash qanday amalga oshiriladi ?",
+    "options": [
+      "Sort buyruqlari orqali",
+      "Delete tugmasi orqali",
+      "Print menyusi orqali",
+      "Insert tugmasi orqali"
+    ],
+    "answer": "Sort buyruqlari orqali"
+  },
+  {
+    "question": "Excelda filtrlash nimaga xizmat qiladi ?",
+    "options": [
+      "Kerakli ma`lumotlarni ajratib ko`rsatish uchun",
+      "Fayl nomini o`zgartirish uchun",
+      "Ranglarni almashtirish uchun",
+      "Papkalarni ochish uchun"
+    ],
+    "answer": "Kerakli ma`lumotlarni ajratib ko`rsatish uchun"
+  },
+  {
+    "question": "Excelda yangi varaq qanday qo`shiladi ?",
+    "options": [
+      "Insert Sheet orqali",
+      "Delete tugmasi orqali",
+      "Diagramma qo`shish orqali",
+      "Save As orqali"
+    ],
+    "answer": "Insert Sheet orqali"
+  },
+  {
+    "question": "Excelda IF funksiyasi nima uchun ishlatiladi ?",
+    "options": [
+      "Shartlarni tekshirish uchun",
+      "Summani hisoblash uchun",
+      "Eng katta qiymatni topish uchun",
+      "Diagramma tuzish uchun"
+    ],
+    "answer": "Shartlarni tekshirish uchun"
+  },
+  {
+    "question": "Excel dasturida COUNT funksiyasi nima hisoblaydi ?",
+    "options": [
+      "Katakdagi sonli qiymatlar sonini",
+      "O`rtacha qiymatni",
+      "Eng katta qiymatni",
+      "Matn uzunligini"
+    ],
+    "answer": "Katakdagi sonli qiymatlar sonini"
+  },
+  {
+    "question": "Excel yordamida iqtisodiy hisob-kitoblarda nimalar amalga oshiriladi ?",
+    "options": [
+      "Moliyaviy tahlillar va prognozlar",
+      "Video tahrirlash",
+      "Integratsion tahlillar va prognozlar",
+      "Grafika chizish"
+    ],
+    "answer": "Moliyaviy tahlillar va prognozlar"
+  },
+  {
+    "question": "Microsoft Excel dasturi qanday turdagi dastur hisoblanadi ?",
+    "options": [
+      "Elektron jadval muharriri",
+      "Matn muharriri",
+      "Grafik muharriri",
+      "Prezentatsiya dasturi"
+    ],
+    "answer": "Elektron jadval muharriri"
+  },
+  {
+    "question": "Excel fayllarining asosiy kengaytmasi qaysi ?",
+    "options": [
+      ".xlsx",
+      ".docx",
+      ".pptx",
+      ".txt"
+    ],
+    "answer": ".xlsx"
+  },
+  {
+    "question": "Ishchi kitob (Workbook) nimalardan iborat bo`ladi ?",
+    "options": [
+      "Bir nechta ishchi varaqdan",
+      "Bitta matndan",
+      "Diagrammadan",
+      "Asosan faqat formuladan"
+    ],
+    "answer": "Bir nechta ishchi varaqdan"
+  },
+  {
+    "question": "Bir varaqda maksimal nechta ustun mavjud ?",
+    "options": [
+      "16384",
+      "65536",
+      "1048576",
+      "8192"
+    ],
+    "answer": "16384"
+  },
+  {
+    "question": "Bir varaqda maksimal nechta satr mavjud ?",
+    "options": [
+      "1048576",
+      "65536",
+      "16384",
+      "32768"
+    ],
+    "answer": "1048576"
+  },
+  {
+    "question": "Excel`da formula qanday belgidan boshlanadi ?",
+    "options": [
+      "=",
+      "+",
+      "-",
+      "*"
+    ],
+    "answer": "="
+  },
+  {
+    "question": "Excel dasturida qo`llaniladigan matematik operatorlarga qaysi misol to`g`ri ?",
+    "options": [
+      "+, -, *, /",
+      "@, #, %, &",
+      "?, !, ^, ~",
+      "{, }, [, ]"
+    ],
+    "answer": "+, -, *, /"
+  },
+  {
+    "question": "Excel`da СУММ funksiyasi nima uchun ishlatiladi ?",
+    "options": [
+      "Sonlarni yig`indisini hisoblash",
+      "Maksimal qiymatni topish",
+      "O`rtacha qiymatni hisoblash",
+      "Minimal qiymatni aniqlash"
+    ],
+    "answer": "Sonlarni yig`indisini hisoblash"
+  },
+  {
+    "question": "МАКС funksiyasi nima uchun ishlatiladi ?",
+    "options": [
+      "Eng katta qiymatni topish",
+      "Eng kichik qiymatni topish",
+      "O`rtacha qiymatni hisoblash",
+      "Shartni tekshirish"
+    ],
+    "answer": "Eng katta qiymatni topish"
+  },
+  {
+    "question": "МИН funksiyasi qanday qiymatni aniqlaydi ?",
+    "options": [
+      "Eng kichik qiymatni",
+      "Eng katta qiymatni",
+      "O`rtacha qiymatni",
+      "Yig`indini"
+    ],
+    "answer": "Eng kichik qiymatni"
+  },
+  {
+    "question": "ЕСЛИ funksiyasi qanday vazifani bajaradi ?",
+    "options": [
+      "Shart asosida qiymat qaytaradi",
+      "Yig`indi hisoblaydi",
+      "Diagramma chizadi",
+      "Minimal qiymatni topadi"
+    ],
+    "answer": "Shart asosida qiymat qaytaradi"
+  },
+  {
+    "question": "TREND funksiyasi nima uchun qo`llanadi ?",
+    "options": [
+      "Statistik trendlarni aniqlash",
+      "Diagramma yaratish",
+      "Katak formatlash",
+      "Minimal qiymatni hisoblash"
+    ],
+    "answer": "Statistik trendlarni aniqlash"
+  },
+  {
+    "question": "FORECAST funksiyasi qanday maqsadda ishlatiladi ?",
+    "options": [
+      "Oldindan prognozlash",
+      "Yig`indi topish",
+      "Diagramma chizish",
+      "Satr qo`shish"
+    ],
+    "answer": "Oldindan prognozlash"
+  },
+  {
+    "question": "GROWTH funksiyasi qanday hisoblashda yordam beradi ?",
+    "options": [
+      "Eksponensial o`sishni tahlil qilish",
+      "Maksimal qiymatni aniqlash",
+      "Kataknı formatlash",
+      "Yig`indini hisoblash"
+    ],
+    "answer": "Eksponensial o`sishni tahlil qilish"
+  },
+  {
+    "question": "Excel`da formulani nusxalash qanday amalga oshiriladi ?",
+    "options": [
+      "Avtomatik to`ldirish belgisi orqali",
+      "Faqat yozish orqali",
+      "Diagramma chizish orqali",
+      "Qo`lda kiritish orqali"
+    ],
+    "answer": "Avtomatik to`ldirish belgisi orqali"
+  },
+  {
+    "question": "Excel`da diagramma yaratishning birinchi bosqichi nima ?",
+    "options": [
+      "Ma`lumotlarni tanlash",
+      "Rang berish",
+      "O`lchamini o`zgartirish",
+      "Formatlash"
+    ],
+    "answer": "Ma`lumotlarni tanlash"
+  },
+  {
+    "question": "Ustunli diagramma qaysi ma`lumotni ko`rsatish uchun qulay ?",
+    "options": [
+      "Miqdoriy solishtirish",
+      "Vaqt bo`yicha o`zgarish",
+      "Foiz ko`rinishida taqsimot",
+      "Matnli ma`lumot"
+    ],
+    "answer": "Miqdoriy solishtirish"
+  },
+  {
+    "question": "Chiziqli grafik ko`proq qaysi holatda qo`llaniladi ?",
+    "options": [
+      "Vaqt bo`yicha o`zgarishni ko`rsatishda",
+      "Miqdoriy solishtirishda",
+      "Struktura taqsimotida",
+      "Diagramma formatlashda"
+    ],
+    "answer": "Vaqt bo`yicha o`zgarishni ko`rsatishda"
+  },
+  {
+    "question": "Doira diagramma qanday ma`lumotlarni ko`rsatadi ?",
+    "options": [
+      "Butunning qismlarini foizlarda",
+      "Vaqt bo`yicha o`zgarishni",
+      "Miqdoriy solishtirishni",
+      "Formulalarni hisoblashni"
+    ],
+    "answer": "Butunning qismlarini foizlarda"
+  },
+  {
+    "question": "PivotTable qanday vazifani bajaradi ?",
+    "options": [
+      "Ma`lumotlarni guruhlash va tahlil qilish",
+      "Diagramma chizish",
+      "Formulalarni nusxalash",
+      "Kataklarni birlashtirish"
+    ],
+    "answer": "Ma`lumotlarni guruhlash va tahlil qilish"
+  },
+  {
+    "question": "PowerPoint dasturi qaysi kompaniya tomonidan ishlab chiqilgan ?",
+    "options": [
+      "Microsoft",
+      "Google",
+      "Apple",
+      "IBM"
+    ],
+    "answer": "Microsoft"
+  },
+  {
+    "question": "PowerPoint dasturida yaratilgan fayllar kengaytmasi qanday bo`ladi ?",
+    "options": [
+      ".ppt yoki .pptx",
+      ".doc yoki .docx",
+      ".xls yoki .xlsx",
+      ".pdf"
+    ],
+    "answer": ".ppt yoki .pptx"
+  },
+  {
+    "question": "PowerPoint dasturining asosiy vazifasi nimadan iborat ?",
+    "options": [
+      "Taqdimotlar yaratish va namoyish qilish",
+      "Elektron jadval tuzish va tahrirlash",
+      "Matnli hujjatlar yozish va tahrirlash",
+      "Internet sahifalarini ishlab chiqish"
+    ],
+    "answer": "Taqdimotlar yaratish va namoyish qilish"
+  },
+  {
+    "question": "PowerPoint dasturida slaydlar to`plami qanday nomlanadi ?",
+    "options": [
+      "Taqdimot",
+      "Hujjat",
+      "Jadval",
+      "Diagramma"
+    ],
+    "answer": "Taqdimot"
+  },
+  {
+    "question": "Slaydlarga rasm, video va grafik qo`shish imkoniyati qaysi dasturda mavjud ?",
+    "options": [
+      "PowerPoint",
+      "Paint",
+      "WordPad",
+      "Notepad"
+    ],
+    "answer": "PowerPoint"
+  },
+  {
+    "question": "PowerPointda slaydlar orasida qaysi imkoniyat taqdimotni qiziqarli qiladi ?",
+    "options": [
+      "O`tish effektlari",
+      "Shriftsiz matn",
+      "Ranglarni kamaytirish",
+      "Bosma nusxasiz ishlash"
+    ],
+    "answer": "O`tish effektlari"
+  },
+  {
+    "question": "Matn yoki rasmlarga harakat berish uchun qaysi imkoniyatdan foydalaniladi ?",
+    "options": [
+      "Animatsiya effektlari",
+      "Qog`oz nusxasi",
+      "Oddiy rejim",
+      "PDF eksport"
+    ],
+    "answer": "Animatsiya effektlari"
+  },
+  {
+    "question": "PowerPointda taqdimotni auditoriyaga ko`rsatish uchun qaysi rejimdan foydalaniladi ?",
+    "options": [
+      "Slayd shou rejimi",
+      "Oddiy rejim",
+      "Saralash rejimi",
+      "O`qish rejimi"
+    ],
+    "answer": "Slayd shou rejimi"
+  },
+  {
+    "question": "PowerPoind dasturida ma`ruzachi eslatmalari qanday xususiyatga ega ?",
+    "options": [
+      "Faqat ma`ruzachiga ko`rinadi",
+      "Auditoriyaga ko`rinadi",
+      "Ekranda chiqmaydi",
+      "Slaydlardan o`chib ketadi"
+    ],
+    "answer": "Faqat ma`ruzachiga ko`rinadi"
+  },
+  {
+    "question": "PowerPointning “Oddiy” rejimi qanday vazifani bajaradi ?",
+    "options": [
+      "Bir slayd bilan alohida ishlash",
+      "Hamma slaydlarni bir vaqtda ko`rsatish",
+      "Internetga yuklash",
+      "Slayd shou ko`rsatish"
+    ],
+    "answer": "Bir slayd bilan alohida ishlash"
+  },
+  {
+    "question": "PowerPoind dasturida “Slide Sorter” (Slaydlarni saralash) rejimining vazifasi qanday ?",
+    "options": [
+      "Slaydlar ketma-ketligini boshqarish",
+      "Matn tahrirlash",
+      "Sahifalar ketma-ketligini boshqarish",
+      "Faylni saqlash"
+    ],
+    "answer": "Slaydlar ketma-ketligini boshqarish"
+  },
+  {
+    "question": "O`qish rejimi qanday imkoniyat beradi ?",
+    "options": [
+      "Slaydlarni to`liq ekranda ko`rish",
+      "Slaydlarni chop etish",
+      "Slaydlarni o`chirish",
+      "Yangi taqdimot yaratish"
+    ],
+    "answer": "Slaydlarni to`liq ekranda ko`rish"
+  },
+  {
+    "question": "Slayd shou rejimida nimalar amalga oshiriladi ?",
+    "options": [
+      "Taqdimotni to`liq namoyish qilish",
+      "Slaydlarni saralash",
+      "Slaydga faqat matn kiritish",
+      "Eslatmalar yozish"
+    ],
+    "answer": "Taqdimotni to`liq namoyish qilish"
+  },
+  {
+    "question": "PowerPoint dasturini ishga tushirishning bir yo`li qaysi ?",
+    "options": [
+      "“Пуск” menyusidan Microsoft Office bo`limi orqali",
+      "Kompyuterni qayta yuklash orqali",
+      "Matn hujjati ochish orqali",
+      "Faqatgina internet orqali"
+    ],
+    "answer": "“Пуск” menyusidan Microsoft Office bo`limi orqali"
+  },
+  {
+    "question": "PowerPoind dasturida yangi taqdimot yaratish uchun qaysi tugmalar juftligi ishlatiladi ?",
+    "options": [
+      "Ctrl+N",
+      "Ctrl+C",
+      "Ctrl+V",
+      "Ctrl+X"
+    ],
+    "answer": "Ctrl+N"
+  },
+  {
+    "question": "PowerPoind dasturida yangi slayd qo`shish uchun qanday tugmalar juftligidan foydalaniladi ?",
+    "options": [
+      "Ctrl+M",
+      "Ctrl+P",
+      "Ctrl+S",
+      "Ctrl+D"
+    ],
+    "answer": "Ctrl+M"
+  },
+  {
+    "question": "PowerPoint interfeysida slayd ketma-ketligi qayerda joylashadi ?",
+    "options": [
+      "Chap tomonda",
+      "Pastki qismda",
+      "O`ng tomonda",
+      "Yuqori qismda"
+    ],
+    "answer": "Chap tomonda"
+  },
+  {
+    "question": "Slaydlarga o`tish animatsiyasi qaysi rejimda ko`rsatiladi ?",
+    "options": [
+      "Slide Sorter",
+      "Matn muharriri",
+      "Oddiy hujjat",
+      "Internet brauzer"
+    ],
+    "answer": "Slide Sorter"
+  },
+  {
+    "question": "Slaydlarga eslatma qo`shish imkoniyati qaysi rejimda mavjud ?",
+    "options": [
+      "Oddiy rejim",
+      "Slayd shou rejimi",
+      "O`qish rejimi",
+      "PDF eksport rejimi"
+    ],
+    "answer": "Oddiy rejim"
+  },
+  {
+    "question": "Taqdimotlarni internet orqali namoyish qilish imkoniyati qaysi dasturda bor ?",
+    "options": [
+      "PowerPoint",
+      "Paint",
+      "Notepad",
+      "WordPad"
+    ],
+    "answer": "PowerPoint"
+  },
+  {
+    "question": "Slaydlarni o`chirish uchun qaysi amal bajariladi ?",
+    "options": [
+      "Slaydni tanlab “Delete” tugmasini bosish",
+      "Slaydni bosib saqlash",
+      "Slaydni ko`paytirish",
+      "Slaydni ko`chirib qo`yish"
+    ],
+    "answer": "Slaydni tanlab “Delete” tugmasini bosish"
+  },
+  {
+    "question": "Kompyuter tarmog`i foydalanuvchiga nimalarni beradi ?",
+    "options": [
+      "Ma`lumot almashish imkoniyatini",
+      "Kompyuterni buzish imkoniyatini",
+      "Internetni o`chirib qo`yishni",
+      "Elektr energiyasini tejashni"
+    ],
+    "answer": "Ma`lumot almashish imkoniyatini"
+  },
+  {
+    "question": "Internet so`zining talqinlaridan biri qaysi ?",
+    "options": [
+      "International Network",
+      "Internal Document",
+      "Interactive Service",
+      "Integrated Program"
+    ],
+    "answer": "International Network"
+  },
+  {
+    "question": "Internet qanday tizim hisoblanadi ?",
+    "options": [
+      "Jahon global tarmog`i",
+      "Alohida lokal tarmoq",
+      "Lokal tarmoq",
+      "Elektron pochta dasturi"
+    ],
+    "answer": "Jahon global tarmog`i"
+  },
+  {
+    "question": "Internet xizmatlaridan birini toping.",
+    "options": [
+      "Elektron pochta xizmati",
+      "Klaviaturani nazorat qilish xizmati",
+      "Monitor qurilmasini nazorat qilish xizmati",
+      "Printerni nazorat qilish servisi"
+    ],
+    "answer": "Elektron pochta xizmati"
+  },
+  {
+    "question": "Veb-forum qanday xizmat turiga kiradi ?",
+    "options": [
+      "Internet xizmatlari",
+      "Lokal qurilma",
+      "Faqat dasturiy ta`minot",
+      "Antivirus"
+    ],
+    "answer": "Internet xizmatlari"
+  },
+  {
+    "question": "Bloglarning asosiy vazifasi nima ?",
+    "options": [
+      "Shaxsiy fikr va ma`lumotlarni tarqatish",
+      "Tarmoqni o`chirib qo`yish",
+      "Fayllarni viruslash",
+      "Qurilmalarni boshqarish"
+    ],
+    "answer": "Shaxsiy fikr va ma`lumotlarni tarqatish"
+  },
+  {
+    "question": "Internet auksion qanday imkoniyat yaratadi ?",
+    "options": [
+      "Onlayn savdo qilish",
+      "Fayllarni nusxalash",
+      "Kompyuterni qayta yuklash",
+      "Antivirusni yangilash"
+    ],
+    "answer": "Onlayn savdo qilish"
+  },
+  {
+    "question": "Internet radio orqali nima amalga oshiriladi ?",
+    "options": [
+      "Onlayn musiqiy eshittirishlar",
+      "Matnli hujjatlarni tahrirlash",
+      "Qurilmalarni ulash",
+      "Operatsion tizimni yangilash"
+    ],
+    "answer": "Onlayn musiqiy eshittirishlar"
+  },
+  {
+    "question": "IP-telefoniya qanday xizmat turiga kiradi ?",
+    "options": [
+      "Internet orqali telefon aloqasi",
+      "Oddiy telefon qurilmasi",
+      "Kompyuter bloklarini nazorat qilish",
+      "Televizor dasturlarini boshqarish"
+    ],
+    "answer": "Internet orqali telefon aloqasi"
+  },
+  {
+    "question": "Internet magazinlar nima uchun kerak ?",
+    "options": [
+      "Onlayn mahsulot xarid qilish uchun",
+      "Kompyuter qismlarini yig`ish uchun",
+      "Elektron pochta yaratish uchun",
+      "Tarmoq qurilmalari sozlash uchun"
+    ],
+    "answer": "Onlayn mahsulot xarid qilish uchun"
+  },
+  {
+    "question": "Qaysi xizmat yangiliklarni yetkazib beradi ?",
+    "options": [
+      "Internet yangiliklar",
+      "Antivirus dasturlari",
+      "Klaviatura drayverlari",
+      "Lokal printer"
+    ],
+    "answer": "Internet yangiliklar"
+  },
+  {
+    "question": "Elektron to`lov tizimlari yordamida nima amalga oshiriladi ?",
+    "options": [
+      "Onlayn pul o`tkazmalari",
+      "Kompyuterlarni yig`ish",
+      "Operatsion tizim o`rnatish",
+      "Hujjatlarni chop etish"
+    ],
+    "answer": "Onlayn pul o`tkazmalari"
+  },
+  {
+    "question": "Internet reklamaning vazifasi nima ?",
+    "options": [
+      "Mahsulot va xizmatlarni targ`ib qilish",
+      "Qurilmalarni o`chirish",
+      "Viruslarni tarqatish",
+      "Fayllarni shifrlash"
+    ],
+    "answer": "Mahsulot va xizmatlarni targ`ib qilish"
+  },
+  {
+    "question": "Mesendjerlar qanday xizmat turiga kiradi ?",
+    "options": [
+      "Onlayn xabar almashish dasturlari",
+      "Ma`lumot bazasi yaratish",
+      "Lokal qurilmalarni ulash",
+      "Grafik tahrirlash"
+    ],
+    "answer": "Onlayn xabar almashish dasturlari"
+  },
+  {
+    "question": "World Wide Web (WWW) qanday nom bilan ataladi ?",
+    "options": [
+      "Butunjahon o`rgimchak to`ri",
+      "Lokal kompyuter tarmog`i",
+      "Elektron pochta tizimi",
+      "Telefon aloqasi"
+    ],
+    "answer": "Butunjahon o`rgimchak to`ri"
+  },
+  {
+    "question": "Web sahifa yaratishda qaysi tillar ishlatiladi ?",
+    "options": [
+      "CSS, Java Script, Python",
+      "Pascal, Delphi, C++",
+      "MS Word, Excel, Access",
+      "Windows, Linux, MacOS"
+    ],
+    "answer": "CSS, Java Script, Python"
+  },
+  {
+    "question": "lex.uz sayti qanday xizmat ko`rsatadi ?",
+    "options": [
+      "Qonun hujjatlari va normativ bazani taqdim etadi",
+      "Asosoan yangiliklar portal sifatida xizmat ko`rsatadi",
+      "Onlayn savdo xizmati",
+      "Internet radio"
+    ],
+    "answer": "Qonun hujjatlari va normativ bazani taqdim etadi"
+  },
+  {
+    "question": "ziyonet.uz sayti qanday yo`nalishda xizmat qiladi ?",
+    "options": [
+      "Ta`lim va ilmiy ma`lumotlarni taqdim etadi",
+      "Asosan sport yangiliklari yo`nalishda xizmat qiladi",
+      "Onlayn savdo tizimi",
+      "Telefon aloqasi"
+    ],
+    "answer": "Ta`lim va ilmiy ma`lumotlarni taqdim etadi"
+  }
+]

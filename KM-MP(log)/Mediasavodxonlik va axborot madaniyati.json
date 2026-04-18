@@ -1,0 +1,852 @@
+[
+  {
+    "question": "“Post-haqiqat” atamasi qaysi yilda Oksford lug`atida yil so`zi deb e`tirof etilgan?",
+    "options": ["2016", "2014", "2018", "2020"],
+    "answer": "2016"
+  },
+  {
+    "question": "Deepfake texnologiyalari asoschisi kim?",
+    "options": ["Yan Gudfellow", "Elon Musk", "Geoff Hinton", "Mark Zuckerberg"],
+    "answer": "Yan Gudfellow"
+  },
+  {
+    "question": "Yan Gudfellowning taxminiga ko`ra, youtube necha yildan so`ng soxta videolar bilan to`lishi mumkin?",
+    "options": ["10 yil", "5 yil", "8 yil", "15 yil"],
+    "answer": "10 yil"
+  },
+  {
+    "question": "Nvidia algoritmi qaysi sohada ishonavarli natija berdi?",
+    "options": ["Soxta videolar yaratish", "3D modellashtirish", "Tarjima qilish", "Kiberhujumlarni aniqlash"],
+    "answer": "Soxta videolar yaratish"
+  },
+  {
+    "question": "Media savodxonligi qaysi huquqiy hujjatning 19-moddasi bilan bog`liq?",
+    "options": ["Inson huquqlari umumjahon deklaratsiyasi", "BMT nizomi", "Venesiya Konvensiyasi", "Yevropa Kengashi kodeksi"],
+    "answer": "Inson huquqlari umumjahon deklaratsiyasi"
+  },
+  {
+    "question": "19-modda matnida qanday huquq ta`kidlanadi?",
+    "options": ["E`tiqod erkinligi va axborotni izlash, olish, tarqatish huquqi", "Fikr bildirish huquqi", "Sudga murojaat qilish", "Ta`lim olish huquqi"],
+    "answer": "E`tiqod erkinligi va axborotni izlash, olish, tarqatish huquqi"
+  },
+  {
+    "question": "Media-savodxon fuqarolar bajarishi kerak bo`lgan asosiy faoliyatlar qaysi?",
+    "options": ["Olish, baholash, yaratish, tarqatish", "Yaratish", "Baholash", "O`qish"],
+    "answer": "Olish, baholash, yaratish, tarqatish"
+  },
+  {
+    "question": "Media-savodxonlik ko`nikmalarining asosiy yo`nalishlari qaysi?",
+    "options": ["Tushunish, foydalanish, yaratish", "Yozish, tahlil qilish, tinglash", "Tinglash, o`qish, uzatish", "Nazorat, qabul qilish, tahlil"],
+    "answer": "Tushunish, foydalanish, yaratish"
+  },
+  {
+    "question": "“Prosyumer” atamasi kim tomonidan kiritilgan?",
+    "options": ["Elvin Toffler", "O.Baranov", "A.Sharikova", "Marshall Mcluhan"],
+    "answer": "Elvin Toffler"
+  },
+  {
+    "question": "“Prosyumer” so`zi qaysi ikki so`zdan tashkil topgan?",
+    "options": ["Producer + Consumer", "Program + User", "Project + Consumer", "Provider + Customer"],
+    "answer": "Producer + Consumer"
+  },
+  {
+    "question": "Yangi media ekotizimi foydalanuvchidan nimalarni talab qiladi?",
+    "options": ["Networking, remiksing, sharing", "Videolar ko`rish", "Matn yozish", "Rasm yaratish"],
+    "answer": "Networking, remiksing, sharing"
+  },
+  {
+    "question": "Yangi media savodxonligi tushunchasining paydo bo`lishi nimaga bog`liq?",
+    "options": ["Raqamli media va platformalarning kengayishi", "Gazetalar sonining kamayishi", "TV kontentning yo`qolishi", "Radio tinglovchilarining kamayishi"],
+    "answer": "Raqamli media va platformalarning kengayishi"
+  },
+  {
+    "question": "YUNESKO tomonidan nechta asosiy tamoyil ilgari surilgan?",
+    "options": ["5", "3", "4", "7"],
+    "answer": "5"
+  },
+  {
+    "question": "YUNESKO tamoyillaridan biriga ko`ra, axborot manbalari qanday baholanishi kerak?",
+    "options": ["Teng maqomda", "Rasmiy manbalar ustuvor", "Ierarxik tartibda", "Internet manbalari ishonchli"],
+    "answer": "Teng maqomda"
+  },
+  {
+    "question": "Qaysi tamoyilga ko`ra har bir fuqaro axborot yaratuvchisidir?",
+    "options": ["2-tamoyil", "1-tamoyil", "4-tamoyil", "5-tamoyil"],
+    "answer": "2-tamoyil"
+  },
+  {
+    "question": "Finlyandiyada mediasavodxonlik qachon o`quv dasturlariga kiritilgan?",
+    "options": ["1970-yil", "1980-yil", "1990-yil", "1975-yil"],
+    "answer": "1970-yil"
+  },
+  {
+    "question": "1977-yildan boshlab mediasavodxonlik qayerda o`qitila boshlandi?",
+    "options": ["Oliy o`quv yurtlarida", "Maktablarda", "Litseylarda", "Kollejlarda"],
+    "answer": "Maktablarda"
+  },
+  {
+    "question": "Shvetsiyada mediasavodxonlik qachon alohida fan sifatida o`qitila boshlangan?",
+    "options": ["1980-yil", "1970-yil", "1990-yil", "2000-yil"],
+    "answer": "1980-yil"
+  },
+  {
+    "question": "Rossiyada mediata`lim bo`yicha “Mediata`lim” darsligi qachon yaratilgan?",
+    "options": ["2005-yil", "1995-yil", "2000-yil", "2010-yil"],
+    "answer": "2005-yil"
+  },
+  {
+    "question": "1939-yilda oavning manipulyativ kuchini ko`rsatgan hodisa qaysi?",
+    "options": ["“Dunyolar urushi” radiopostanovkasi", "BBC yangiliklari", "CNN birinchi efiri", "New York Times maqolasi"],
+    "answer": "“Dunyolar urushi” radiopostanovkasi"
+  },
+  {
+    "question": "Tilning paydo bo`lishi qaysi davrga oid deb hisoblanadi?",
+    "options": ["Miloddan avvalgi 35 ming yillik", "Miloddan avvalgi 10 ming yillik", "Miloddan avvalgi 5 ming yillik", "Miloddan avvalgi 1 ming yillik"],
+    "answer": "Miloddan avvalgi 35 ming yillik"
+  },
+  {
+    "question": "Cro-Magnon g`or rasmlari nimani tasdiqlaydi?",
+    "options": ["Tilning qadimdan mavjudligini", "Yozuvning paydo bo`lishini", "Qabilalar o`rtasidagi urushlarni", "Diniy marosimlarni"],
+    "answer": "Tilning qadimdan mavjudligini"
+  },
+  {
+    "question": "Yozuv dastlab qayerda paydo bo`lgan?",
+    "options": ["Shumerda, Mesopotamiyada", "Misrda", "Hindistonda", "Xitoyda"],
+    "answer": "Shumerda, Mesopotamiyada"
+  },
+  {
+    "question": "Shumer yozuvining dastlabki shakli nima deb ataladi?",
+    "options": ["Mixxat", "Ieroglif", "Runi", "Piktograf"],
+    "answer": "Mixxat"
+  },
+  {
+    "question": "Misr yozuvi qanday nom bilan tanilgan?",
+    "options": ["Ieroglif", "Mixxat", "Demotik", "Brahmi"],
+    "answer": "Ieroglif"
+  },
+  {
+    "question": "Xitoy yozuvi dastlab qaysi amaliyotdan kelib chiqqan?",
+    "options": ["Suyaklardagi fol ochishdan", "Qog`oz yasashdan", "Savdo hisobidan", "Me`moriy yozuvlardan"],
+    "answer": "Suyaklardagi fol ochishdan"
+  },
+  {
+    "question": "Piktogrammalarning dastlabki vazifasi nima bo`lgan?",
+    "options": ["Narsalarni tasvirlash va hisob yuritish", "Madaniy marosimlarni qayd etish", "She`r yozish", "Astronomik kuzatuvlar"],
+    "answer": "Narsalarni tasvirlash va hisob yuritish"
+  },
+  {
+    "question": "Qadimgi Mesopotamiyadagi eng ko`p yozuvlar nimaga oid bo`lgan?",
+    "options": ["Pivo savdosiga", "Qurilish rejalari", "Podshoh farmonlari", "Harbiy yurishlar"],
+    "answer": "Pivo savdosiga"
+  },
+  {
+    "question": "Papirus qanday materialdan tayyorlangan?",
+    "options": ["Papirus o`simligining poyasidan", "Zaytun daraxtidan", "Arpa poyasidan", "Hayvon terisidan"],
+    "answer": "Papirus o`simligining poyasidan"
+  },
+  {
+    "question": "Papirus varaqlari qanday tarzda quritilgan?",
+    "options": ["Quyoshga chiqarilgan", "Tuzli suvda saqlangan", "Shamolda aylantirilgan", "Olovda quritilgan"],
+    "answer": "Quyoshga chiqarilgan"
+  },
+  {
+    "question": "`Kalila va Dimna` asari qaysi mamlakatda yaratilgan?",
+    "options": ["Hindistonda", "Xitoyda", "Arabistonda", "Eronda"],
+    "answer": "Hindistonda"
+  },
+  {
+    "question": "`Kalila va Dimna` ning asosiy g`oyasi nimani targ`ib qiladi?",
+    "options": ["Adolat va ezgulikni", "Urushni", "Boylik orttirishni", "Siyosiy kuchni"],
+    "answer": "Adolat va ezgulikni"
+  },
+  {
+    "question": "`Mahabharata` qaysi tilga mansub eposdir?",
+    "options": ["Sanskrit", "Pahlaviy", "Arab tili", "Lotin"],
+    "answer": "Sanskrit"
+  },
+  {
+    "question": "`Ramayana` muallifi kim deb taxmin qilinadi?",
+    "options": ["Valmiki", "Vyasa", "Shankaracharya", "Brahma"],
+    "answer": "Valmiki"
+  },
+  {
+    "question": "`Ramayana` markaziy voqeasi nima?",
+    "options": ["Sitaning Raavan tomonidan o`g`irlab ketilishi", "Kurukshetra jangi", "Ramning tug`ilishi", "Hindu ibodat marosimlari"],
+    "answer": "Sitaning Raavan tomonidan o`g`irlab ketilishi"
+  },
+  {
+    "question": "`Mahabharata` qaysi yillarda to`liq shakllangan?",
+    "options": ["Milodning 2-asriga kelib", "Miloddan avvalgi 5-asrda", "Miloddan avvalgi 1-asrda", "Milodning 10-asrida"],
+    "answer": "Milodning 2-asriga kelib"
+  },
+  {
+    "question": "Hind adabiyotidagi eposlar ta`siri haqida Jawaharlal Neru nima degan?",
+    "options": ["Hech bir kitob bu ikki eposdek ta`sir ko`rsatmagan", "Ular unchalik mashhur emas", "Diniy ahamiyatga ega", "Ular zamonaviy adabiyotga ta`sir qilmagan"],
+    "answer": "Hech bir kitob bu ikki eposdek ta`sir ko`rsatmagan"
+  },
+  {
+    "question": "Papirus varaqlari qanday shaklga keltirilgan?",
+    "options": ["Rulonga o`ralgan", "Kvadrat shaklida qoldirilgan", "Katlama holida", "Bo`laklarga bo`lingan"],
+    "answer": "Rulonga o`ralgan"
+  },
+  {
+    "question": "Yozuvning eng qadimgi shakli qanday edi?",
+    "options": ["Piktogrammalar", "Alfavit", "Ieroglif", "Mixxat"],
+    "answer": "Piktogrammalar"
+  },
+  {
+    "question": "Piktogrammalarda qanday muammo mavjud edi?",
+    "options": ["Axborotning yo`nalishi va mazmuni aniq bo`lmasdi", "Belgilar ko`p edi", "Ularni yasash qimmatga tushardi", "Ruhoniylar o`qirdi"],
+    "answer": "Axborotning yo`nalishi va mazmuni aniq bo`lmasdi"
+  },
+  {
+    "question": "Kutubxona so`zining ma`nosi qaysi ikki so`zdan tashkil topgan?",
+    "options": ["Arabcha `kutub` va forscha `xona`", "Arabcha `kitob` va turkcha `uy`", "Forscha `kitob` va arabcha `xon`", "Lotincha `biblio` va yunoncha `teka`"],
+    "answer": "Arabcha `kutub` va forscha `xona`"
+  },
+  {
+    "question": "Kutubxonada axborot qaysi shakllarda bo`lishi mumkin?",
+    "options": ["Kitob, gazeta, jurnal, audio-video tasma, optik disk", "Kitob", "Gazeta va jurnal", "Audio yozuvlar"],
+    "answer": "Kitob, gazeta, jurnal, audio-video tasma, optik disk"
+  },
+  {
+    "question": "Yozuvning paydo bo`lishi kutubxonalar rivojiga qanday ta`sir ko`rsatdi?",
+    "options": ["Kitoblarning yaratilishi va ko`payishiga sharoit yaratdi", "Kutubxonalar sonini kamaytirdi", "Diniy matnlar paydo bo`ldi", "Yozma aloqa bekor qilindi"],
+    "answer": "Kitoblarning yaratilishi va ko`payishiga sharoit yaratdi"
+  },
+  {
+    "question": "Dunyodagi eng qadimgi yirik kutubxona qaysi shaharda bo`lgan?",
+    "options": ["Nineviya", "Bobil", "Memfis", "Uruk"],
+    "answer": "Nineviya"
+  },
+  {
+    "question": "Ashshurbanapal kutubxonasida nechta gil taxtacha topilgan?",
+    "options": ["25 000–30 000", "10 000", "5 000", "50 000"],
+    "answer": "25 000–30 000"
+  },
+  {
+    "question": "Ashshurbanapal kutubxonasidagi matnlar qaysi tillarda yozilgan?",
+    "options": ["Shumer va akkad tillarida", "Arab va fors tillarida", "Yunon va lotin tillarida", "Sanskrit va pahlaviy tillarida"],
+    "answer": "Shumer va akkad tillarida"
+  },
+  {
+    "question": "Aleksandriya kutubxonasiga qaysi sulola davrida asos solingan?",
+    "options": ["Ptolemeylar sulolasi davrida", "Ahamoniylar davrida", "Rim imperiyasi davrida", "Sosoniylar davrida"],
+    "answer": "Ptolemeylar sulolasi davrida"
+  },
+  {
+    "question": "Aleksandriya kutubxonasida taxminan nechta jild saqlangan?",
+    "options": ["700 ming jild", "100 ming jild", "1 million jild", "50 ming jild"],
+    "answer": "700 ming jild"
+  },
+  {
+    "question": "Gazeta so`zi qaysi til orqali shakllangan?",
+    "options": ["Fransuz tilidan", "Arab tilidan", "Lotin tilidan", "Yunon tilidan"],
+    "answer": "Fransuz tilidan"
+  },
+  {
+    "question": "Gazeta nomining kelib chiqishi qaysi mamlakat tangasiga borib taqaladi?",
+    "options": ["Venetsiya tangasiga", "Rim tangasiga", "Yunon tangasiga", "Misr tangasiga"],
+    "answer": "Venetsiya tangasiga"
+  },
+  {
+    "question": "Angliyada hukumat jurnali sifatida gazeta qaysi yilda paydo bo`lgan?",
+    "options": ["1700-yilda", "1600-yilda", "1550-yilda", "1750-yilda"],
+    "answer": "1700-yilda"
+  },
+  {
+    "question": "Birinchi Venetsiya gazetalarining umumiy nomi qanday bo`lgan?",
+    "options": ["Gazette", "Journal", "Bulletin", "Chronicle"],
+    "answer": "Gazette"
+  },
+  {
+    "question": "Dunyodagi eng qadimgi fransuz gazetalaridan biri qaysi?",
+    "options": ["The Gazette (1631)", "Le Figaro", "Le Monde", "Paris Journal"],
+    "answer": "The Gazette (1631)"
+  },
+  {
+    "question": "Bostonda nashr etilgan ilk Amerika gazetasi qaysi yilda chop etilgan?",
+    "options": ["1690-yilda", "1704-yilda", "1650-yilda", "1720-yilda"],
+    "answer": "1690-yilda"
+  },
+  {
+    "question": "Daniyel Defo chop eta boshlagan gazeta qaysi nom bilan tanilgan?",
+    "options": ["Review", "The London Times", "Daily Mirror", "The Independent"],
+    "answer": "Review"
+  },
+  {
+    "question": "Yuliy Sezar buyrug`iga ko`ra repartyorlar nima qilgan?",
+    "options": ["Aholiga siyosiy va mahalliy xabarlarni yetkazgan", "Yozuvlarni tarjima qilgan", "Podshoh amrlarini yozgan", "Qo`shinlarni boshqargan"],
+    "answer": "Aholiga siyosiy va mahalliy xabarlarni yetkazgan"
+  },
+  {
+    "question": "713-yilda Xitoyda chop etila boshlagan gazeta qanday nomlangan?",
+    "options": ["Mixed News", "Kaiyuan News", "Dragon Chronicle", "Imperial Record"],
+    "answer": "Kaiyuan News"
+  },
+  {
+    "question": "Pi Sheng qaysi ixtiro bilan mashhur?",
+    "options": ["Bosma sahifalarni almashtirish uskunasi", "Qog`oz yasash", "Chop etish siyohi", "Harakatli harflar matbuoti"],
+    "answer": "Bosma sahifalarni almashtirish uskunasi"
+  },
+  {
+    "question": "Iogan Guttenberg nimalarni yaratgan?",
+    "options": ["Ko`p nusxada chop etuvchi bosma dastgoh", "Papirus ishlab chiqarish usuli", "Yangi alfavit", "Yozuvning elektron shaklini"],
+    "answer": "Ko`p nusxada chop etuvchi bosma dastgoh"
+  },
+  {
+    "question": "O`zbekistonda birinchi milliy gazeta qachon chop etilgan?",
+    "options": ["1906-yilda", "1890-yilda", "1918-yilda", "1920-yilda"],
+    "answer": "1906-yilda"
+  },
+  {
+    "question": "Qadimgi Rimdagi birinchi gazeta qanday nomlangan?",
+    "options": ["Acta Diurna", "Awiso", "La Gazette", "Jin Bao"],
+    "answer": "Acta Diurna"
+  },
+  {
+    "question": "Xitoydagi ilk rasmiy gazeta nomi qanday?",
+    "options": ["Jin Bao", "Kaiyuan News", "Awiso", "Mixed News"],
+    "answer": "Jin Bao"
+  },
+  {
+    "question": "Gazeta so`zi qaysi tangadan kelib chiqqan?",
+    "options": ["Gazzetta", "Dinar", "Sestertiy", "Denariy"],
+    "answer": "Gazzetta"
+  },
+  {
+    "question": "Birinchi davriy gazeta muallifi kim?",
+    "options": ["Iogann Karolyus", "Valmiki", "Rene Dekart", "Makiavelli"],
+    "answer": "Iogann Karolyus"
+  },
+  {
+    "question": "1631-yilda tashkil etilgan mashhur fransuz gazetasi qaysi?",
+    "options": ["La Gazette", "Daily Courant", "Review", "Mercury News"],
+    "answer": "La Gazette"
+  },
+  {
+    "question": "Rishele matbuot kuchini nimada ko`rgan?",
+    "options": ["Odamlar ongiga ta`sir qilishda", "Savdo hajmini oshirishda", "Ilmiy maqolalar yozishda", "Ko`ngilochar dasturlar tarqatishda"],
+    "answer": "Odamlar ongiga ta`sir qilishda"
+  },
+  {
+    "question": "1650-yilda Leypsigda qanday yangilik yuz bergan?",
+    "options": ["Birinchi kundalik gazeta chiqarilgan", "Birinchi rangli gazeta yaratilgan", "Birinchi reklama bosilgan", "Birinci jurnallar paydo bo`lgan"],
+    "answer": "Birinchi kundalik gazeta chiqarilgan"
+  },
+  {
+    "question": "XIX asrda matbuotda qanday jarayon yuz bergan?",
+    "options": ["Ixtisoslashgan gazetalar paydo bo`lgan", "Gazetalar yo`qolgan", "Matbuot rasmiy bo`lgan", "Diniy nashrlar qolgan"],
+    "answer": "Ixtisoslashgan gazetalar paydo bo`lgan"
+  },
+  {
+    "question": "La Gazette qachongacha faoliyat yuritgan?",
+    "options": ["1915-yilgacha", "1750-yilgacha", "1800-yilgacha", "2000-yilgacha"],
+    "answer": "1915-yilgacha"
+  },
+  {
+    "question": "La Gazette gazetasi nechta nusxada chiqarilgan?",
+    "options": ["1200 nusxa", "500 nusxa", "3000 nusxa", "10000 nusxa"],
+    "answer": "1200 nusxa"
+  },
+  {
+    "question": "Qadimgi Rim gazetalariga kim rasmiy hisobotlarni kiritishni buyurgan?",
+    "options": ["Yuliy Sezar", "Avgust", "Neron", "Klavdiy"],
+    "answer": "Yuliy Sezar"
+  },
+  {
+    "question": "Awiso qanday nashr bo`lgan?",
+    "options": ["Qo`lda yozilgan siyosiy va iqtisodiy yangiliklar to`plami", "Bosma diniy matn", "Sud qarorlari jamlanmasi", "Savdo hujjatlari"],
+    "answer": "Qo`lda yozilgan siyosiy va iqtisodiy yangiliklar to`plami"
+  },
+  {
+    "question": "Birinchi davriy bosma gazeta qaysi shaharda yaratilgan?",
+    "options": ["Strasburgda", "Venetsiyada", "Rimda", "Berlin"],
+    "answer": "Strasburgda"
+  },
+  {
+    "question": "Gutenberg ixtirosining asosiy g`oyasi nima edi?",
+    "options": ["Alohida harflardan yig`iladigan sahifa yaratish", "Qo`lda tez yozish", "Qog`oz tayyorlash", "Yog`och o`ymakorligi"],
+    "answer": "Alohida harflardan yig`iladigan sahifa yaratish"
+  },
+  {
+    "question": "Italiyada birinchi axborot yig`ish byurolari qayerda shakllangan?",
+    "options": ["Venetsiyada", "Rimda", "Milanoda", "Florensiyada"],
+    "answer": "Venetsiyada"
+  },
+  {
+    "question": "Radio so`zining lotincha ma`nosi nima?",
+    "options": ["Nur, nurlanaman", "To`lqin", "Ovoz", "Signal"],
+    "answer": "Nur, nurlanaman"
+  },
+  {
+    "question": "Radioda ma`lumot uzatish qanday to`lqinlar orqali amalga oshiriladi?",
+    "options": ["Elektromagnit to`lqinlar orqali", "Suv to`lqinlari orqali", "Yer silkinishlari orqali", "Infraqizil nurlar orqali"],
+    "answer": "Elektromagnit to`lqinlar orqali"
+  },
+  {
+    "question": "Radio ixtirosi bilan bog`liq asosiy yillar qaysi olim nomi bilan bog`lanadi?",
+    "options": ["Aleksandr Popov", "Albert Eynshteyn", "Nils Bor", "Jeyms Joule"],
+    "answer": "Aleksandr Popov"
+  },
+  {
+    "question": "Guglielmo Markoni qachon tug`ilgan?",
+    "options": ["1874 yil 25 aprel", "1865 yil 10 may", "1880 yil 1 yanvar", "1870 yil 30 iyun"],
+    "answer": "1874 yil 25 aprel"
+  },
+  {
+    "question": "Markonining birinchi uzoq masofali simsiz signali qayerga yuborilgan?",
+    "options": ["Atlantika okeani bo`ylab g`arbdan sharqqa", "Tinch okeani bo`ylab shimoldan janubga", "Sahro bo`ylab sharqdan g`arbga", "Yevropadan Osiyoga"],
+    "answer": "Atlantika okeani bo`ylab g`arbdan sharqqa"
+  },
+  {
+    "question": "Markoni birinchi transatlantik simsiz aloqa xizmatini qaysi yilda yo`lga qo`ydi?",
+    "options": ["1907 yilda", "1899 yilda", "1914 yilda", "1920 yilda"],
+    "answer": "1907 yilda"
+  },
+  {
+    "question": "Tarixdagi birinchi ovozli radiouzatish qachon amalga oshirilgan?",
+    "options": ["1906 yil 24 dekabrda", "1900 yil 1 yanvarda", "1910 yil 9 mayda", "1895 yil 7 noyabrda"],
+    "answer": "1906 yil 24 dekabrda"
+  },
+  {
+    "question": "Tarixdagi birinchi ovozli radiouzatishni kim amalga oshirgan?",
+    "options": ["Rejinald Fessenden", "Tomas Edison", "Nikola Tesla", "Aleksandr Popov"],
+    "answer": "Rejinald Fessenden"
+  },
+  {
+    "question": "Titanik kemasining “SOS” signali radio orqali qachon odamlarni qutqarishda muhim rol o`ynagan?",
+    "options": ["1912 yilda", "1902 yilda", "1920 yilda", "1930 yilda"],
+    "answer": "1912 yilda"
+  },
+  {
+    "question": "Markoni va Braun qaysi mukofot bilan taqdirlangan?",
+    "options": ["Nobel mukofoti", "Turing mukofoti", "Pulitser mukofoti", "Oskar mukofoti"],
+    "answer": "Nobel mukofoti"
+  },
+  {
+    "question": "Nikola Teslaning mashhur qurilmasi qanday nomlangan?",
+    "options": ["Rezonans-transformator", "Fotoeffekt detektori", "Elektron mikroskop", "Plazma generatori"],
+    "answer": "Rezonans-transformator"
+  },
+  {
+    "question": "Nikola Tesla radiotexnikaga oid qaysi g`oya bo`yicha patent olgan?",
+    "options": ["Masofadan boshqariladigan suzuvchi qurilma (torpedo) uchun uzatuvchi va qabul qiluvchi qurilma", "Simli telegraf qurilmasi", "Elektr dvigateli uchun nasos", "Termoyadro reaktori modeli"],
+    "answer": "Masofadan boshqariladigan suzuvchi qurilma (torpedo) uchun uzatuvchi va qabul qiluvchi qurilma"
+  },
+  {
+    "question": "Aqsh Oliy sudi 1943 yilda radio ixtirosida birinchilikni kimga nisbat bergan?",
+    "options": ["Nikola Teslaga", "Guglielmo Markoniga", "Aleksandr Popovga", "Tomas Edisonga"],
+    "answer": "Nikola Teslaga"
+  },
+  {
+    "question": "Aleksandr Popov qaysi sohada faoliyat yuritgan?",
+    "options": ["Dengiz floti bilan bog`liq radio tajribalari sohasida", "Aviatsiya dvigatellari sohasida", "Kimyo sanoati sohasida", "Qishloq xo`jaligi mexanizatsiyasi sohasida"],
+    "answer": "Dengiz floti bilan bog`liq radio tajribalari sohasida"
+  },
+  {
+    "question": "Popovning radiostantsiyalari qaysi urush davrida yetarlicha qo`llanilmagani oqibatida mag`lubiyatga sabab bo`lgan?",
+    "options": ["Rus-yapon urushi davrida", "Birinchi jahon urushi davrida", "Ikkinchi jahon urushi davrida", "Koreya urushi davrida"],
+    "answer": "Rus-yapon urushi davrida"
+  },
+  {
+    "question": "Chet elda birinchi muntazam radiostantsiya qachon ishga tushirilgan?",
+    "options": ["1920 yil 2 noyabrda, Pitsburgda", "1910 yil 1 martda, Londonda", "1915 yil 9 mayda, Parijda", "1930 yil 5 dekabrda, Tokioda"],
+    "answer": "1920 yil 2 noyabrda, Pitsburgda"
+  },
+  {
+    "question": "Toshkentda muntazam radioeshittirishlar qaysi yilda boshlangan?",
+    "options": ["1927 yilda", "1920 yilda", "1930 yilda", "1941 yilda"],
+    "answer": "1927 yilda"
+  },
+  {
+    "question": "Televideniye so`zi qaysi tillardan olingan?",
+    "options": ["Grekcha `tele` va lotincha `video`", "Arabcha `talya` va forscha `did`", "Ruscha `dal` va inglizcha `show`", "Lotincha `visio` va yunoncha `faros`"],
+    "answer": "Grekcha `tele` va lotincha `video`"
+  },
+  {
+    "question": "Televideniyening ishlash prinsipi nimaga asoslangan?",
+    "options": ["Tasvir kadrini satrlarga bo`lib uzatishga", "Tovushni qayd etishga", "Tasvirni plyonkaga yozishga", "Magnit lentani aylantirishga"],
+    "answer": "Tasvir kadrini satrlarga bo`lib uzatishga"
+  },
+  {
+    "question": "Toshkent telemarkazining tajriba sinov ko`rsatuvlari qachon boshlangan?",
+    "options": ["1956 yil 5 noyabrda", "1945 yil 9 mayda", "1960 yil 1 yanvarda", "1950 yil 10 iyulda"],
+    "answer": "1956 yil 5 noyabrda"
+  },
+  {
+    "question": "Kino san`ati ommaviy namoyish sifatida qaysi sana bilan bog`lanadi?",
+    "options": ["1895-yil 28 dekabr, Parij", "1890-yil 1 yanvar, London", "1900-yil 10 may, Berlin", "1885-yil 5 iyun, Nyu-York"],
+    "answer": "1895-yil 28 dekabr, Parij"
+  },
+  {
+    "question": "Aka-uka Lyumyerlarning birinchi tijorat kinonamoyishi qayerda o`tkazilgan?",
+    "options": ["Parijdagi “Grand-kafe”da", "Londondagi teatr zalida", "Berlin sirkida", "Rimdagi maydonda"],
+    "answer": "Parijdagi “Grand-kafe”da"
+  },
+  {
+    "question": "Nemis tomoshabinlariga ilk marta pul evaziga kino ko`rsatgan qurilma qanday atalgan?",
+    "options": ["Bioskop", "Kinematograf", "Projektoskop", "Fenakistoskop"],
+    "answer": "Bioskop"
+  },
+  {
+    "question": "Kinoda dastlab ommalashgan maxsus effektlar qaysi rejissyor nomi bilan bog`liq?",
+    "options": ["Jorj Melьes", "D. Griffit", "S. Eyzenshteyn", "Ch. Chaplin"],
+    "answer": "Jorj Melьes"
+  },
+  {
+    "question": "Sinxron ovoz yozish kinoda qachon ommalashgan?",
+    "options": ["1920-yillarning oxiridan", "1910-yillarning boshidan", "1939-yildan keyin", "1900-yillarning o`rtalarida"],
+    "answer": "1920-yillarning oxiridan"
+  },
+  {
+    "question": "Keng ekranli formatlar kinoda qaysi davrdan boshlab asosiy oqimga aylangan?",
+    "options": ["1950-yillardan boshlab", "1920-yillardan boshlab", "1960-yillardan boshlab", "1980-yillardan boshlab"],
+    "answer": "1950-yillardan boshlab"
+  },
+  {
+    "question": "28 dekabr qanday sana sifatida nishonlanadi?",
+    "options": ["Xalqaro kino kuni", "Rejissyorlar kuni", "Ovozli kino kuni", "Rangli kino kuni"],
+    "answer": "Xalqaro kino kuni"
+  },
+  {
+    "question": "Aka-uka Lyumyerlar sinematograf namoyishini o`tkazgan joyda kirish narxi qancha bo`lgan?",
+    "options": ["1 frank", "5 frank", "10 frank", "50 santim"],
+    "answer": "1 frank"
+  },
+  {
+    "question": "O`zbekistondagi eng eski va yirik kinostudiya qaysi?",
+    "options": ["“O`zbekfilm” kinostudiyasi", "“Buxkino” studiyasi", "“Sharq yulduzi” studiyasi", "“Toshkent film” studiyasi"],
+    "answer": "“O`zbekfilm” kinostudiyasi"
+  },
+  {
+    "question": "“O`zbekfilm” studiyasining dastlabki nomi qanday bo`lgan?",
+    "options": ["“Sharq yulduzi”", "“Buxkino”", "“Yangi O`zbekiston”", "“O`rta Osiyo kino”"],
+    "answer": "“Sharq yulduzi”"
+  },
+  {
+    "question": "“Sharq yulduzi” kinostudiyasi qachon tashkil etilgan?",
+    "options": ["1925-yil 4-iyunda", "1918-yil 1-mayda", "1930-yil 10-dekabrda", "1920-yil 1-yanvarda"],
+    "answer": "1925-yil 4-iyunda"
+  },
+  {
+    "question": "Ikkinchi jahon urushi yillarida kinostudiya qanday nom bilan yuritilgan?",
+    "options": ["“Toshkent kinostudiyasi”", "“Buxoro kinostudiyasi”", "“Sharq kinostudiyasi”", "“Markaziy Osiyo studiyasi”"],
+    "answer": "“Toshkent kinostudiyasi”"
+  },
+  {
+    "question": "O`zbek kino san`atida ilk rangli badiiy film qaysi?",
+    "options": ["“Amirlikning yemirilishi”", "“Tohir va Zuhra”", "“Nasriddinning sarguzashtlari”", "“Qasam”"],
+    "answer": "“Tohir va Zuhra”"
+  },
+  {
+    "question": "“Maftuningman” filmi qaysi studiya tomonidan ishlangan mashhur film hisoblanadi?",
+    "options": ["“O`zbekfilm” studiyasi", "“Mosfilm” studiyasi", "“Lenfilm” studiyasi", "“Belarusfilm” studiyasi"],
+    "answer": "“O`zbekfilm” studiyasi"
+  },
+  {
+    "question": "Kino san`atida yirik plan, parallel montaj kabi uslublarni birinchi keng qo`llagan rejissyor kim?",
+    "options": ["D. Griffit", "S. Eyzenshteyn", "Ch. Chaplin", "K. Yormatov"],
+    "answer": "D. Griffit"
+  },
+  {
+    "question": "O`zbek milliy kino san`ati qaysi davrda shakllana boshlagan?",
+    "options": ["20-asrning 20-yillarida", "19-asr oxirida", "20-asrning 50-yillarida", "21-asr boshlarida"],
+    "answer": "20-asrning 20-yillarida"
+  },
+  {
+    "question": "Birinchi o`zbek ovozli filmi qaysi asar hisoblanadi?",
+    "options": ["“Qasam”", "“Nasriddin Buxoroda”", "“Tohir va Zuhra”", "“Alisher Navoiy”"],
+    "answer": "“Qasam”"
+  },
+  {
+    "question": "“Nasriddin Buxoroda” filmi o`zbek kinosida nimani namoyon qilib berdi?",
+    "options": ["Xalq mavzusining imkoniyatlarini, tasviriy vositalar go`zalligini", "Tarixiy voqealarni hujjatlashtirishni", "Komediya janrini", "Qo`rqinchli sahnalarni"],
+    "answer": "Xalq mavzusining imkoniyatlarini, tasviriy vositalar go`zalligini"
+  },
+  {
+    "question": "“Tohir va Zuhra” filmi o`zbek kino tarixida qanday ahamiyatga ega?",
+    "options": ["Xalq ertaklari asosida tarixiy filmlar yaratish yo`lini ochib berdi", "Fakat hujjatli film sifatida mashhur bo`ldi", "Musiqa filmi edi", "Fakat chet el ssenariysi asosida ishlangan"],
+    "answer": "Xalq ertaklari asosida tarixiy filmlar yaratish yo`lini ochib berdi"
+  },
+  {
+    "question": "O`zbek kinosida yangi davrni boshlab bergan, “Otamdan qolgan dalalar” filmi qachon suratga olingan?",
+    "options": ["1997-yilda", "1985-yilda", "2000-yilda", "1990-yilda"],
+    "answer": "1997-yilda"
+  },
+  {
+    "question": "The Times gazetasi qaysi yildan beri chop etiladi?",
+    "options": ["1785-yildan", "1851-yildan", "1831-yildan", "1895-yildan"],
+    "answer": "1785-yildan"
+  },
+  {
+    "question": "The Times gazetasini hozirda qaysi kompaniya nashr etadi va egalik qiladi?",
+    "options": ["Times Newspapers Limited va News Corporation", "BBC va British Media Group", "Guardian Media Group", "Financial Times Ltd"],
+    "answer": "Times Newspapers Limited va News Corporation"
+  },
+  {
+    "question": "The New York Times gazetasi birinchi marta qachon nashr etilgan?",
+    "options": ["1851-yil 18-sentabrda", "1831-yil 25-iyulda", "1785-yil 1-yanvarda", "1896-yil 24-fevralda"],
+    "answer": "1851-yil 18-sentabrda"
+  },
+  {
+    "question": "The New York Times onlayn nashri qaysi yilda paydo bo`lgan?",
+    "options": ["1996-yilda", "1983-yilda", "1999-yilda", "2008-yilda"],
+    "answer": "1996-yilda"
+  },
+  {
+    "question": "Birinchi turk gazetasi \"Takvim-i Vakayi\" qachon nashr etilgan?",
+    "options": ["1831-yilda", "1785-yilda", "1851-yilda", "1901-yilda"],
+    "answer": "1831-yilda"
+  },
+  {
+    "question": "Birinci Usmonli gazetasi turk, arab va fransuz tillarida qaysi sanada nashr etilgan?",
+    "options": ["1831-yil 25-iyulda", "1830-yil 1-yanvarda", "1840-yil 10-martda", "1825-yil 5-mayda"],
+    "answer": "1831-yil 25-iyulda"
+  },
+  {
+    "question": "Turkiyaning kunlik \"Sabah\" gazetasi qachon asos solingan?",
+    "options": ["1985-yil 22-aprelda", "1990-yil 10-dekabrda", "1970-yil 1-yanvarda", "2000-yil 1-iyulda"],
+    "answer": "1985-yil 22-aprelda"
+  },
+  {
+    "question": "Sabah gazetasining shiori qanday?",
+    "options": ["\"Türkiye`nin en iyi gazetesi\"", "\"Dunyoning eng yaxshi gazetasi\"", "\"Haqiqat va adolat\"", "\"Yangilik va tahlil manbai\""],
+    "answer": "\"Türkiye`nin en iyi gazetesi\""
+  },
+  {
+    "question": "Qaysi gazeta The New York Times International Weekly maqolalarini turkchaga tarjima qilib, e`lon qilish uchun tanlangan?",
+    "options": ["Sabah gazetasi", "Hürriyet gazetasi", "Milliyet gazetasi", "Cumhuriyet gazetasi"],
+    "answer": "Sabah gazetasi"
+  },
+  {
+    "question": "\"Amerika Ovozi\" radiosi birinchi marta qachon efirga chiqqan?",
+    "options": ["1942-yil 24-fevralda", "1939-yil 1-sentyabrda", "1950-yil 10-yanvarda", "1960-yil 5-mayda"],
+    "answer": "1942-yil 24-fevralda"
+  },
+  {
+    "question": "\"Amerika Ovozi\" radiosi dastlab qanday maqsadda tashkil etilgan edi?",
+    "options": ["Gebbels targ`ibotiga qarshi axborot qarshiog`irligi sifatida", "Aqsh ichki siyosatini yoritish uchun", "Faoliyatini musiqa eshittirishlarga bag`ishlash uchun", "Iqtisodiy reklama uchun maxsus kanal sifatida"],
+    "answer": "Gebbels targ`ibotiga qarshi axborot qarshiog`irligi sifatida"
+  },
+  {
+    "question": "\"Ozod Yevropa\" radiosi o`z missiyasini qanday ta`riflaydi?",
+    "options": ["Matbuot erkinligi cheklangan mamlakatlarda demokratik qadriyatlarni targ`ib qilish", "Yevropa bozoridagi reklama kampaniyalarini yoritish", "Harbiy yangiliklarni qisqa xabarlar shaklida berish", "Sport va madaniyat yangiliklarini uzatish"],
+    "answer": "Matbuot erkinligi cheklangan mamlakatlarda demokratik qadriyatlarni targ`ib qilish"
+  },
+  {
+    "question": "\"Ozod Yevropa\" radiosi 2018-yil oktabr holatiga ko`ra nechta davlatga va nechta tilda eshittirish olib borgan?",
+    "options": ["23 davlatga 26 tilda", "10 davlatga 10 tilda", "50 davlatga 50 tilda", "5 davlatga 3 tilda"],
+    "answer": "23 davlatga 26 tilda"
+  },
+  {
+    "question": "O`ztv1 — \"O`zbekiston\" telekanalida 2004-yil 1-yanvardan 30-iyungacha efir vaqtining necha foizi o`z mahsulotlariga to`g`ri kelgan?",
+    "options": ["78,4 %", "51,4 %", "45 %", "25,7 %"],
+    "answer": "78,4 %"
+  },
+  {
+    "question": "Qaysi O`zbek telekanalida o`z mahsulotlar ulushi eng past ko`rsatkichga ega bo`lgan?",
+    "options": ["TV4 — \"Sport\" telekanali", "O`ztv1 — \"O`zbekiston\"", "TV2 — \"Yoshlar\"", "TV3 — \"Toshkent\""],
+    "answer": "TV4 — \"Sport\" telekanali"
+  },
+  {
+    "question": "Matnga ko`ra, O`zteleradiokompaniya kanallaridagi dunyo yangiliklarining taxminan necha foizi chet el agentliklaridan noqonuniy ko`chirib olingan?",
+    "options": ["99 % atrofida", "50 % atrofida", "25 % atrofida", "10 % dan kam"],
+    "answer": "99 % atrofida"
+  },
+  {
+    "question": "Globallashuv atamasi dastlab qaysi sohada va kim tomonidan ommalashtirilgan?",
+    "options": ["Iqtisodiyot sohasida T. Levitt tomonidan", "Siyosatshunoslikda S. Xantington tomonidan", "Falsafada J. Habermas tomonidan", "Sotsiologiyada E. Giddens tomonidan"],
+    "answer": "Iqtisodiyot sohasida T. Levitt tomonidan"
+  },
+  {
+    "question": "Fransuz tadqiqotchisi B. Bandi globallashuv jarayonining qaysi jihatini ta`kidlaydi?",
+    "options": ["Milliy chegaralarning \"yuvilib ketishi\" jarayoni", "Texnika taraqqiyoti", "Harbiy bloklarning kengayishi", "Internet tezligining oshishi"],
+    "answer": "Milliy chegaralarning \"yuvilib ketishi\" jarayoni"
+  },
+  {
+    "question": "Mahatma Gandining globallashuv haqidagi obrazli fikrida asosiy g`oya nimadan iborat?",
+    "options": ["Uyga toza havo kirishi kerak, lekin dovul bo`lib hammasini ag`darib yubormasligi lozim", "Barcha eshik va derazalarni butunlay yopib qo`yish kerak", "Begona shamol qanchalik kuchli bo`lsa, shuncha yaxshi", "Globallashuvni butunlay to`xtatish mumkin"],
+    "answer": "Uyga toza havo kirishi kerak, lekin dovul bo`lib hammasini ag`darib yubormasligi lozim"
+  },
+  {
+    "question": "Globallashuv (globalizatsiya) atamasi qaysi so`zdan kelib chiqqan va qanday ma`noni anglatadi?",
+    "options": ["Lotincha \"globus\" so`zidan bo`lib, \"dumaloqlashuv\" ma`nosini anglatadi", "Yunoncha \"logos\" so`zidan bo`lib, \"nutq\" ma`nosini anglatadi", "Arabcha \"alam\" so`zidan bo`lib, \"olam\" ma`nosini anglatadi", "Ruscha \"mir\" so`zidan bo`lib, \"tinchlik\" ma`nosini anglatadi"],
+    "answer": "Lotincha \"globus\" so`zidan bo`lib, \"dumaloqlashuv\" ma`nosini anglatadi"
+  },
+  {
+    "question": "“Axborotlashgan jamiyat” atamasi dastlab qaysi davlatda vujudga kelgan?",
+    "options": ["Yaponiyada", "Aqshda", "Germaniyada", "Fransiyada"],
+    "answer": "Yaponiyada"
+  },
+  {
+    "question": "“Axborotlashgan jamiyat” tushunchasini birinchi bo`lib fanga kim kiritgan?",
+    "options": ["Y.Xayashi", "D.Bell", "M.Kastels", "A.Toffler"],
+    "answer": "Y.Xayashi"
+  },
+  {
+    "question": "Yapon faylasufi Y.Xayashi Yaponiya hukumatiga “Yaponiya axborotlashgan jamiyat bardamligi siyosatiga chizgilar” nomli hujjatni qaysi yilda taqdim etgan?",
+    "options": ["1969 yilda", "1965 yilda", "1975 yilda", "1971 yilda"],
+    "answer": "1969 yilda"
+  },
+  {
+    "question": "“Axborotlashgan jamiyat rejasi” nomli tadqiqot qaysi yilda taqdim etilgan?",
+    "options": ["1971 yilda", "1969 yilda", "1981 yilda", "1991 yilda"],
+    "answer": "1971 yilda"
+  },
+  {
+    "question": "Y.Xayashi fikriga ko`ra jamiyatning shakllantiruvchi va rivojlantiruvchi kuchiga nima aylanadi?",
+    "options": ["Axborotlashuv mahsuloti", "Moddiy mahsulot", "Tabiiy resurslar", "Harbiy qudrat"],
+    "answer": "Axborotlashuv mahsuloti"
+  },
+  {
+    "question": "Jamiyatni axborotlashtirish jarayoniga kiruvchi “mediatizatsiya” nimani anglatadi?",
+    "options": ["Axborot to`plash, saqlash va tarqatish vositalarini takomillashtirish", "Axborot yaratish va uni idrok etish qobiliyatini rivojlantirish", "Axborot izlash va unga ishlov berish vositalarini takomillashtirish", "Faoliyatni ommaviy axborot vositalariga bog`lash"],
+    "answer": "Faoliyatni ommaviy axborot vositalariga bog`lash"
+  },
+  {
+    "question": "Jamiyatni axborotlashtirish jarayoniga kiruvchi “kompyuterlashtirish” qanday jarayondir?",
+    "options": ["Axborot izlash va unga ishlov berish vositalarini takomillashtirish jarayoni", "Axborotni saqlash jarayoni", "Axborotning moddiy tomoni", "Axborotni matn ko`rinishida berish"],
+    "answer": "Axborot izlash va unga ishlov berish vositalarini takomillashtirish jarayoni"
+  },
+  {
+    "question": "Jamiyatni axborotlashtirishdagi “intellektualizatsiya” nimani o`z ichiga oladi?",
+    "options": ["Axborot yaratish va uni idrok etish qobiliyatini rivojlantirish", "Kompyuter texnikasini yangilash", "Axborotni qog`ozda ko`paytirish", "Iqtisodiy ko`rsatkichlarni oshirish"],
+    "answer": "Axborot yaratish va uni idrok etish qobiliyatini rivojlantirish"
+  },
+  {
+    "question": "Axborotlashgan jamiyat avvalgi jamiyatlardan nimasi bilan tubdan farq qiladi?",
+    "options": ["Bilim va axborot birinchi o`ringa chiqadi", "Sanoat ishlab chiqarishiga tayanadi", "Qishloq xo`jaligiga tayanadi", "Harbiy sohani rivojlantiradi"],
+    "answer": "Bilim va axborot birinchi o`ringa chiqadi"
+  },
+  {
+    "question": "2006 yilni Butun jahon axborot jamiyati yili deb e`lon qilgan xalqaro tuzilma qaysi?",
+    "options": ["BMT Bosh Assambleyasi", "YUNESKO", "Yevropa Ittifoqi", "Yevroparlament"],
+    "answer": "BMT Bosh Assambleyasi"
+  },
+  {
+    "question": "Ma`lumotlarga ko`ra, internetdan foydalanuvchilarning taxminan necha foizi unga mustahkam bog`lanib qolgan?",
+    "options": ["10 foizi", "25 foizi", "5 foizi", "1 foizi"],
+    "answer": "10 foizi"
+  },
+  {
+    "question": "2006 yil 8 sentabrda qabul qilingan BMT global aksilterror strategiyasida nimalarning oldini olishga alohida e`tibor qaratilgan?",
+    "options": ["Bioterrorizm va internetdan terror maqsadida foydalanish", "Yadro qurollari tarqalishi", "Iqtisodiy jinoyatlar", "Davlatlararo savdo mojarolari"],
+    "answer": "Bioterrorizm va internetdan terror maqsadida foydalanish"
+  },
+  {
+    "question": "Aqsh Davlat departamenti tomonidan 2007 yilda joriy qilingan “Tashqi raqamli aloqalar guruhi” dasturining maqsadi nima?",
+    "options": ["Internetda aqsh siyosati haqidagi dezinformatsiyaga qarshi kurashish", "Yangi ijtimoiy tarmoqlar yaratish", "Yadro qurolini nazorat qilish", "Xalqaro savdo bitimlarini tuzish"],
+    "answer": "Internetda aqsh siyosati haqidagi dezinformatsiyaga qarshi kurashish"
+  },
+  {
+    "question": "Matnga ko`ra, hozirgi kunda terroristik tashkilotlar foydalanadigan internet saytlari soni taxminan qancha?",
+    "options": ["7000 dan ortiq", "700 ta", "70 mingdan ortiq", "700 mingdan ortiq"],
+    "answer": "7000 dan ortiq"
+  },
+  {
+    "question": "Islom Karimovning globallashuv haqida keltirilgan fikrida qanday ogohlantirish ilgari suriladi?",
+    "options": ["Dunyodagi voqealarga beparvo qaragan xalq taraqqiyotdan orqada qolishi mumkin", "Ichki siyosatni o`rganish zarur", "Globallashuv jamiyatga foyda keltiradi", "Axborot oqimlariga umuman e`tibor bermaslik kerak"],
+    "answer": "Dunyodagi voqealarga beparvo qaragan xalq taraqqiyotdan orqada qolishi mumkin"
+  },
+  {
+    "question": "“Axborot” so`zi qaysi tilga mansub “xabar” so`zidan olingan?",
+    "options": ["Arab tilidan", "Lotin tilidan", "Yunon tilidan", "Fors tilidan"],
+    "answer": "Arab tilidan"
+  },
+  {
+    "question": "Matnga ko`ra, axborot deganda nimani tushunish mumkin?",
+    "options": ["Narsa yoki hodisa haqida darak va ma`lumotni yetkazish jarayoni", "Og`zaki gaplar majmuini", "Texnik ko`rsatkichlarni", "Siyosiy shiorlarni"],
+    "answer": "Narsa yoki hodisa haqida darak va ma`lumotni yetkazish jarayoni"
+  },
+  {
+    "question": "2017 yil 30 iyun kuni qabul qilingan Prezident Farmoni nimani rivojlantirishga qaratilgan?",
+    "options": ["Axborot texnologiyalari sohasini rivojlantirish uchun shart-sharoitlarni tubdan yaxshilash", "Qishloq xo`jaligi ekinlarini kengaytirish", "Transport tizimini modernizatsiya qilish", "Turizm sohasi uchun imtiyozlar berish"],
+    "answer": "Axborot texnologiyalari sohasini rivojlantirish uchun shart-sharoitlarni tubdan yaxshilash"
+  },
+  {
+    "question": "Internet 50 millionlik auditoriyaga erishishi uchun taxminan necha yil kerak bo`lgan?",
+    "options": ["5 yil", "38 yil", "13 yil", "10 yil"],
+    "answer": "5 yil"
+  },
+  {
+    "question": "Davlat va xo`jalik boshqaruvi organlarining axborot xizmati qanday tarkibiy bo`linma hisoblanadi?",
+    "options": ["Markaziy apparatning mustaqil tarkibiy bo`linmasi", "Matbuot konferensiyalarini o`tkazuvchi kichik bo`linma", "Hududiy bo`linmalar tarkibidagi vaqtinchalik guruh", "Texnik xizmat ko`rsatish bo`limi"],
+    "answer": "Markaziy apparatning mustaqil tarkibiy bo`linmasi"
+  },
+  {
+    "question": "Axborot xizmati o`z faoliyatida qaysi hujjat va tamoyillarga amal qiladi?",
+    "options": ["Konstitutsiya, qonunlar, Prezident farmonlari, VM qarorlari va Nizom", "Rahbarning og`zaki topshiriqlari", "Xalqaro shartnomalar", "Vazirlikning ichki buyrug`i"],
+    "answer": "Konstitutsiya, qonunlar, Prezident farmonlari, VM qarorlari va Nizom"
+  },
+  {
+    "question": "Axborot ekologiyasining asosiy predmeti nima?",
+    "options": ["Insonning axborot muhiti bilan o`zaro munosabati", "Axborot texnologiyalarini ishlab chiqarish jarayoni", "Kompyuter dasturlarini yaratish usullari", "Internet tarmoqlarini boshqarish tamoyillari"],
+    "answer": "Insonning axborot muhiti bilan o`zaro munosabati"
+  },
+  {
+    "question": "Axborot ekologiyasi tushunchasi birinchi qaysi davlatda shakllangan?",
+    "options": ["Yaponiya", "AQSH", "Germaniya", "Fransiya"],
+    "answer": "Yaponiya"
+  },
+  {
+    "question": "Y.Xayashi axborotlashgan jamiyat tushunchasini qaysi yilda fanga kiritgan?",
+    "options": ["1969–1971 yillar", "1950–1952 yillar", "1985–1986 yillar", "1990–1992 yillar"],
+    "answer": "1969–1971 yillar"
+  },
+  {
+    "question": "Axborotlashgan jamiyatni shakllantiruvchi asosiy omil nima?",
+    "options": ["Bilim va axborotning ustuvorligi", "Og`ir sanoatning rivoji", "Harbiy texnika ustunligi", "Qishloq xo`jaligi mahsulotlari"],
+    "answer": "Bilim va axborotning ustuvorligi"
+  },
+  {
+    "question": "Axborotlashgan jamiyatni tashkil etuvchi uch tarkibiy qism qaysilar?",
+    "options": ["Mediatizatsiya, kompyuterlashtirish, intellektualizatsiya", "Energetika, iqtisodiyot, ijtimoiy tarmoq", "Biotexnologiya, genetika, robototexnika", "Texnika, iqtisod, moliya"],
+    "answer": "Mediatizatsiya, kompyuterlashtirish, intellektualizatsiya"
+  },
+  {
+    "question": "“Axloq” so`zini fanga kim kiritgan?",
+    "options": ["Aristotel", "Platon", "Suqrot", "Demokrit"],
+    "answer": "Aristotel"
+  },
+  {
+    "question": "Manfaatlar to`qnashuvi qanday holat?",
+    "options": ["Shaxsiy manfaat bilan davlat, jamiyat manfaatlari o`rtasidagi qarama-qarshilik", "Moliyaviy hisob-kitoblardagi xatolik", "Xodimning xizmat vazifasini bajara olmasligi", "Rahbarning noto`g`ri ko`rsatmasi"],
+    "answer": "Shaxsiy manfaat bilan davlat, jamiyat manfaatlari o`rtasidagi qarama-qarshilik"
+  },
+  {
+    "question": "Manfaatlar to`qnashuvi yuzaga kelganda xodim nima qilishi kerak?",
+    "options": ["Rahbarini darhol xabardor qilishi", "Vaziyatni yashirishi", "Mustaqil hal qilishi", "Bo`limini o`zgartirishi"],
+    "answer": "Rahbarini darhol xabardor qilishi"
+  },
+  {
+    "question": "Yevropada bosmaxona va harakatlanuvchi literani kim ixtiro qilgan?",
+    "options": ["Iogann Gutenberg", "Nyuton", "Eynshteyn", "Da Vinchi"],
+    "answer": "Iogann Gutenberg"
+  },
+  {
+    "question": "Aqshning Kibermakon bo`yicha birinchi xalqaro strategiyasi qaysi yilda qabul qilingan?",
+    "options": ["2012-yil", "2005-yil", "1999-yil", "2020-yil"],
+    "answer": "2012-yil"
+  },
+  {
+    "question": "“Tashqi raqamli aloqalar jamoasi”ning asosiy vazifasi nima?",
+    "options": ["Internetda dezinformatsiyaga qarshi kurashish", "Yangi kompyuter yaratish", "Harbiy texnika ishlab chiqarish", "Korporativ boshqaruvni nazorat qilish"],
+    "answer": "Internetda dezinformatsiyaga qarshi kurashish"
+  },
+  {
+    "question": "Terroristik tashkilotlarning ijtimoiy bazasi kengayayotgani nimani anglatadi?",
+    "options": ["Turli ijtimoiy qatlam vakillarini jalb qilmoqda", "Iqtisodiy muammolar kuchaygan", "Diniy guruhlar ko`paygan", "Ishsizlar soni ortgan"],
+    "answer": "Turli ijtimoiy qatlam vakillarini jalb qilmoqda"
+  },
+  {
+    "question": "“Al Qoida” a`zolari tarkibining katta qismi kimlardan iborat?",
+    "options": ["Oliy ma`lumotli mutaxassislar", "Diniy ulamolar", "Harbiylar", "Savdogarlar"],
+    "answer": "Oliy ma`lumotli mutaxassislar"
+  },
+  {
+    "question": "Mediasavodxonlikning ahamiyati nimada?",
+    "options": ["Axborotni tanqidiy tahlil qilishga yordam beradi", "Internet tezligini oshiradi", "Kompyuterlarni ta`mirlaydi", "Televideniye sifatini oshiradi"],
+    "answer": "Axborotni tanqidiy tahlil qilishga yordam beradi"
+  }
+]

@@ -1,0 +1,1502 @@
+[
+  {
+    "question": "I ___ happy.",
+    "options": [
+      "am",
+      "is",
+      "are",
+      "be"
+    ],
+    "answer": "am"
+  },
+  {
+    "question": "You ___ my friend.",
+    "options": [
+      "are",
+      "am",
+      "is",
+      "be"
+    ],
+    "answer": "are"
+  },
+  {
+    "question": "He ___ a teacher.",
+    "options": [
+      "is",
+      "am",
+      "are",
+      "be"
+    ],
+    "answer": "is"
+  },
+  {
+    "question": "She ___ at home.",
+    "options": [
+      "is",
+      "am",
+      "are",
+      "be"
+    ],
+    "answer": "is"
+  },
+  {
+    "question": "It ___ cold today.",
+    "options": [
+      "is",
+      "am",
+      "are",
+      "be"
+    ],
+    "answer": "is"
+  },
+  {
+    "question": "They ___ at school.",
+    "options": [
+      "are",
+      "is",
+      "am",
+      "be"
+    ],
+    "answer": "are"
+  },
+  {
+    "question": "I ___ your classmate.",
+    "options": [
+      "am",
+      "is",
+      "are",
+      "be"
+    ],
+    "answer": "am"
+  },
+  {
+    "question": "You ___ clever.",
+    "options": [
+      "are",
+      "am",
+      "is",
+      "be"
+    ],
+    "answer": "are"
+  },
+  {
+    "question": "He ___ my brother.",
+    "options": [
+      "is",
+      "are",
+      "am",
+      "be"
+    ],
+    "answer": "is"
+  },
+  {
+    "question": "I ___ not tired.",
+    "options": [
+      "am",
+      "is",
+      "are is",
+      "not be"
+    ],
+    "answer": "am"
+  },
+  {
+    "question": "You ___ busy.",
+    "options": [
+      "are not",
+      "am not",
+      "is not",
+      "not be"
+    ],
+    "answer": "are not"
+  },
+  {
+    "question": "He ___ my father.",
+    "options": [
+      "is not",
+      "am not",
+      "are not",
+      "not be"
+    ],
+    "answer": "is not"
+  },
+  {
+    "question": "She ___ at work.",
+    "options": [
+      "is not",
+      "are not",
+      "am not",
+      "not be"
+    ],
+    "answer": "is not"
+  },
+  {
+    "question": "It ___ cold.",
+    "options": [
+      "is not",
+      "am not",
+      "are not",
+      "not be"
+    ],
+    "answer": "is not"
+  },
+  {
+    "question": "We ___ ready.",
+    "options": [
+      "are not",
+      "is not",
+      "am not",
+      "not be"
+    ],
+    "answer": "are not"
+  },
+  {
+    "question": "They ___ at school.",
+    "options": [
+      "are not",
+      "is not",
+      "am not",
+      "not be"
+    ],
+    "answer": "are not"
+  },
+  {
+    "question": "I ___ a student.",
+    "options": [
+      "am not",
+      "is not",
+      "are not",
+      "not be"
+    ],
+    "answer": "am not"
+  },
+  {
+    "question": "He ___ my friend.",
+    "options": [
+      "is not",
+      "am not",
+      "are not",
+      "not be"
+    ],
+    "answer": "is not"
+  },
+  {
+    "question": "She ___ tired.",
+    "options": [
+      "is not",
+      "are not",
+      "am not",
+      "not be"
+    ],
+    "answer": "is not"
+  },
+  {
+    "question": "___ I late?",
+    "options": [
+      "Am",
+      "Is",
+      "Are",
+      "Be"
+    ],
+    "answer": "Am"
+  },
+  {
+    "question": "___ you ready?",
+    "options": [
+      "Are",
+      "Is",
+      "Am",
+      "Be"
+    ],
+    "answer": "Are"
+  },
+  {
+    "question": "___ he your teacher?",
+    "options": [
+      "Is",
+      "Are",
+      "Am",
+      "Be"
+    ],
+    "answer": "Is"
+  },
+  {
+    "question": "___ she at school?",
+    "options": [
+      "Is",
+      "Are",
+      "Am",
+      "Be"
+    ],
+    "answer": "Is"
+  },
+  {
+    "question": "___ it cold today?",
+    "options": [
+      "Is",
+      "Are",
+      "Am",
+      "Be"
+    ],
+    "answer": "Is"
+  },
+  {
+    "question": "___ we on time?",
+    "options": [
+      "Are",
+      "Is",
+      "Am",
+      "Be"
+    ],
+    "answer": "Are"
+  },
+  {
+    "question": "___ they your friends?",
+    "options": [
+      "Are",
+      "Is",
+      "Am",
+      "Be"
+    ],
+    "answer": "Are"
+  },
+  {
+    "question": "___ I correct?",
+    "options": [
+      "Am",
+      "Is",
+      "Are",
+      "Be"
+    ],
+    "answer": "Am"
+  },
+  {
+    "question": "___ he happy?",
+    "options": [
+      "Is",
+      "Are",
+      "Am",
+      "Be"
+    ],
+    "answer": "Is"
+  },
+  {
+    "question": "___ you my classmate?",
+    "options": [
+      "Are",
+      "Is",
+      "Am",
+      "Be"
+    ],
+    "answer": "Are"
+  },
+  {
+    "question": "I ___ to school every day.",
+    "options": [
+      "go",
+      "goes",
+      "going",
+      "goed"
+    ],
+    "answer": "go"
+  },
+  {
+    "question": "He ___ football on weekends.",
+    "options": [
+      "plays",
+      "play",
+      "playing",
+      "played"
+    ],
+    "answer": "plays"
+  },
+  {
+    "question": "We ___ English every Monday.",
+    "options": [
+      "study",
+      "studies",
+      "studying",
+      "studied"
+    ],
+    "answer": "study"
+  },
+  {
+    "question": "They ___ to music every day.",
+    "options": [
+      "listen",
+      "listens",
+      "listening",
+      "listened"
+    ],
+    "answer": "listen"
+  },
+  {
+    "question": "I ___ like coffee.",
+    "options": [
+      "do",
+      "does",
+      "am",
+      "is"
+    ],
+    "answer": "do"
+  },
+  {
+    "question": "He ___ play basketball.",
+    "options": [
+      "does not",
+      "do not",
+      "am not",
+      "is not"
+    ],
+    "answer": "does not"
+  },
+  {
+    "question": "She ___ eat meat.",
+    "options": [
+      "does not",
+      "do not",
+      "am not",
+      "is not"
+    ],
+    "answer": "does not"
+  },
+  {
+    "question": "We ___ watch TV in the morning.",
+    "options": [
+      "do not",
+      "does not",
+      "am not",
+      "is not"
+    ],
+    "answer": "do not"
+  },
+  {
+    "question": "They ___ go to the park on Sunday.",
+    "options": [
+      "do not",
+      "does not",
+      "am not",
+      "is not"
+    ],
+    "answer": "do not"
+  },
+  {
+    "question": "___ I play the piano?",
+    "options": [
+      "Do",
+      "Does",
+      "Doing",
+      "Did"
+    ],
+    "answer": "Do"
+  },
+  {
+    "question": "___ he like pizza?",
+    "options": [
+      "Does",
+      "Do",
+      "Doing",
+      "Did"
+    ],
+    "answer": "Does"
+  },
+  {
+    "question": "___ she go to school by bus?",
+    "options": [
+      "Does",
+      "Do",
+      "Doing",
+      "Did"
+    ],
+    "answer": "Does"
+  },
+  {
+    "question": "___ we have a test today?",
+    "options": [
+      "Do",
+      "Does",
+      "Doing",
+      "Did"
+    ],
+    "answer": "Do"
+  },
+  {
+    "question": "___ they study English?",
+    "options": [
+      "Do",
+      "Does",
+      "Doing",
+      "Did"
+    ],
+    "answer": "Do"
+  },
+  {
+    "question": "I ___ my homework every day.",
+    "options": [
+      "do",
+      "does",
+      "doing",
+      "did"
+    ],
+    "answer": "do"
+  },
+  {
+    "question": "He ___ his room on Saturdays.",
+    "options": [
+      "cleans",
+      "clean",
+      "cleaning",
+      "cleaned"
+    ],
+    "answer": "cleans"
+  },
+  {
+    "question": "She ___ water every morning.",
+    "options": [
+      "drinks",
+      "drink",
+      "drinking",
+      "drank"
+    ],
+    "answer": "drinks"
+  },
+  {
+    "question": "We ___ TV in the evening.",
+    "options": [
+      "watch",
+      "watches",
+      "watching",
+      "watched"
+    ],
+    "answer": "watch"
+  },
+  {
+    "question": "They ___ soccer after school every day.",
+    "options": [
+      "play",
+      "plays",
+      "playing",
+      "played"
+    ],
+    "answer": "play"
+  },
+  {
+    "question": "I ___ TV every day.",
+    "options": [
+      "watch",
+      "watches",
+      "watching",
+      "watched"
+    ],
+    "answer": "watch"
+  },
+  {
+    "question": "She ___ breakfast at 7 a.m.",
+    "options": [
+      "eats",
+      "eat",
+      "eating",
+      "ate"
+    ],
+    "answer": "eats"
+  },
+  {
+    "question": "He ___ football on Sundays.",
+    "options": [
+      "plays",
+      "play",
+      "playing",
+      "played"
+    ],
+    "answer": "plays"
+  },
+  {
+    "question": "We ___ English at school.",
+    "options": [
+      "study",
+      "studies",
+      "studying",
+      "studied"
+    ],
+    "answer": "study"
+  },
+  {
+    "question": "They ___ music every evening.",
+    "options": [
+      "listen",
+      "listens",
+      "listening",
+      "listened"
+    ],
+    "answer": "listen"
+  },
+  {
+    "question": "I ___ coffee in the morning.",
+    "options": [
+      "drink",
+      "drinks",
+      "drinking",
+      "drank"
+    ],
+    "answer": "drink"
+  },
+  {
+    "question": "She ___ her homework every day.",
+    "options": [
+      "does",
+      "do",
+      "doing",
+      "did"
+    ],
+    "answer": "does"
+  },
+  {
+    "question": "He ___ water every morning.",
+    "options": [
+      "drinks",
+      "drink",
+      "drinking",
+      "drank"
+    ],
+    "answer": "drinks"
+  },
+  {
+    "question": "They ___ soccer after school.",
+    "options": [
+      "play",
+      "plays",
+      "playing",
+      "played"
+    ],
+    "answer": "play"
+  },
+  {
+    "question": "I ___ TV now.",
+    "options": [
+      "am watching",
+      "watch",
+      "watches",
+      "watched"
+    ],
+    "answer": "am watching"
+  },
+  {
+    "question": "She ___ breakfast at the moment.",
+    "options": [
+      "is eating",
+      "eats",
+      "ate",
+      "eating"
+    ],
+    "answer": "is eating"
+  },
+  {
+    "question": "They ___ English now.",
+    "options": [
+      "are studying",
+      "study",
+      "studied",
+      "studying"
+    ],
+    "answer": "are studying"
+  },
+  {
+    "question": "He ___ to music right now.",
+    "options": [
+      "is listening",
+      "listens",
+      "listened",
+      "listen"
+    ],
+    "answer": "is listening"
+  },
+  {
+    "question": "We ___ in the park now.",
+    "options": [
+      "are walking",
+      "walk",
+      "walked",
+      "walking"
+    ],
+    "answer": "are walking"
+  },
+  {
+    "question": "My mother ___ the house now.",
+    "options": [
+      "is cleaning",
+      "cleans",
+      "cleaned",
+      "clean"
+    ],
+    "answer": "is cleaning"
+  },
+  {
+    "question": "The students ___ the teacher now.",
+    "options": [
+      "are listening to",
+      "listen to",
+      "listened to",
+      "listening to"
+    ],
+    "answer": "are listening to"
+  },
+  {
+    "question": "The baby ___ now.",
+    "options": [
+      "is sleeping",
+      "sleeps",
+      "slept",
+      "sleeping"
+    ],
+    "answer": "is sleeping"
+  },
+  {
+    "question": "You ___ too fast now.",
+    "options": [
+      "are running",
+      "run",
+      "ran",
+      "running"
+    ],
+    "answer": "are running"
+  },
+  {
+    "question": "I ___ with my friend now.",
+    "options": [
+      "am talking",
+      "talk",
+      "talked",
+      "talking"
+    ],
+    "answer": "am talking"
+  },
+  {
+    "question": "She ___ her homework now.",
+    "options": [
+      "is doing",
+      "does",
+      "did",
+      "doing"
+    ],
+    "answer": "is doing"
+  },
+  {
+    "question": "The dog ___ loudly now.",
+    "options": [
+      "is barking",
+      "barks",
+      "barked",
+      "barking"
+    ],
+    "answer": "is barking"
+  },
+  {
+    "question": "They ___ a movie now.",
+    "options": [
+      "are watching",
+      "watch",
+      "watched",
+      "watching"
+    ],
+    "answer": "are watching"
+  },
+  {
+    "question": "We ___ coffee at the moment.",
+    "options": [
+      "are drinking",
+      "drink",
+      "drank",
+      "drinking"
+    ],
+    "answer": "are drinking"
+  },
+  {
+    "question": "He ___ a book now.",
+    "options": [
+      "is reading",
+      "reads",
+      "read",
+      "reading"
+    ],
+    "answer": "is reading"
+  },
+  {
+    "question": "I ___ for my keys now.",
+    "options": [
+      "am looking",
+      "look",
+      "looked",
+      "looking"
+    ],
+    "answer": "am looking"
+  },
+  {
+    "question": "She ___ to school now.",
+    "options": [
+      "is going",
+      "goes",
+      "went",
+      "going"
+    ],
+    "answer": "is going"
+  },
+  {
+    "question": "They ___ football now.",
+    "options": [
+      "are playing",
+      "play",
+      "played",
+      "playing"
+    ],
+    "answer": "are playing"
+  },
+  {
+    "question": "The children ___ now.",
+    "options": [
+      "are smiling",
+      "smile",
+      "smiled",
+      "smiling"
+    ],
+    "answer": "are smiling"
+  },
+  {
+    "question": "My brother ___ lunch right now.",
+    "options": [
+      "is making",
+      "makes",
+      "made",
+      "making"
+    ],
+    "answer": "is making"
+  },
+  {
+    "question": "I ___ football yesterday.",
+    "options": [
+      "played",
+      "play",
+      "playing",
+      "plays"
+    ],
+    "answer": "played"
+  },
+  {
+    "question": "He ___ to school last week.",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "answer": "went"
+  },
+  {
+    "question": "We ___ a book yesterday.",
+    "options": [
+      "read",
+      "reads",
+      "reading",
+      "readed"
+    ],
+    "answer": "read"
+  },
+  {
+    "question": "She ___ dinner last night.",
+    "options": [
+      "cooked",
+      "cook",
+      "cooking",
+      "cooks"
+    ],
+    "answer": "cooked"
+  },
+  {
+    "question": "I ___ my phone yesterday.",
+    "options": [
+      "did not use",
+      "use",
+      "using",
+      "uses"
+    ],
+    "answer": "did not use"
+  },
+  {
+    "question": "He ___ TV yesterday.",
+    "options": [
+      "did not watch",
+      "watches",
+      "watch",
+      "watching"
+    ],
+    "answer": "did not watch"
+  },
+  {
+    "question": "___ you go to school yesterday?",
+    "options": [
+      "Did",
+      "Do",
+      "Does",
+      "Are"
+    ],
+    "answer": "Did"
+  },
+  {
+    "question": "___ she go to work yesterday?",
+    "options": [
+      "Did",
+      "Do",
+      "Does",
+      "Is"
+    ],
+    "answer": "Did"
+  },
+  {
+    "question": "We ___ late yesterday.",
+    "options": [
+      "did not arrive",
+      "arrive",
+      "arriving",
+      "arrives"
+    ],
+    "answer": "did not arrive"
+  },
+  {
+    "question": "They ___ the game yesterday.",
+    "options": [
+      "did not play",
+      "play",
+      "playing",
+      "plays"
+    ],
+    "answer": "did not play"
+  },
+  {
+    "question": "I ___ my homework last night.",
+    "options": [
+      "did",
+      "do",
+      "does",
+      "doing"
+    ],
+    "answer": "did"
+  },
+  {
+    "question": "She ___ her keys yesterday.",
+    "options": [
+      "lost",
+      "lose",
+      "losing",
+      "loses"
+    ],
+    "answer": "lost"
+  },
+  {
+    "question": "He ___ the movie last week.",
+    "options": [
+      "watched",
+      "watch",
+      "watches",
+      "watching"
+    ],
+    "answer": "watched"
+  },
+  {
+    "question": "They ___ the museum last month.",
+    "options": [
+      "visited",
+      "visit",
+      "visits",
+      "visiting"
+    ],
+    "answer": "visited"
+  },
+  {
+    "question": "We ___ early yesterday.",
+    "options": [
+      "woke up",
+      "wake up",
+      "wakes up",
+      "waking up"
+    ],
+    "answer": "woke up"
+  },
+  {
+    "question": "I ___ breakfast this morning.",
+    "options": [
+      "ate",
+      "eat",
+      "eating",
+      "eats"
+    ],
+    "answer": "ate"
+  },
+  {
+    "question": "He ___ a letter yesterday.",
+    "options": [
+      "wrote",
+      "write",
+      "writes",
+      "writing"
+    ],
+    "answer": "wrote"
+  },
+  {
+    "question": "She ___ coffee yesterday morning.",
+    "options": [
+      "drank",
+      "drink",
+      "drinks",
+      "drinking"
+    ],
+    "answer": "drank"
+  },
+  {
+    "question": "They ___ to music yesterday.",
+    "options": [
+      "listened",
+      "listen",
+      "listens",
+      "listening"
+    ],
+    "answer": "listened"
+  },
+  {
+    "question": "We ___ shopping last weekend.",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "answer": "went"
+  },
+  {
+    "question": "I ___ my friend last night.",
+    "options": [
+      "called",
+      "call",
+      "calls",
+      "calling"
+    ],
+    "answer": "called"
+  },
+  {
+    "question": "He ___ his homework yesterday.",
+    "options": [
+      "did",
+      "do",
+      "does",
+      "doing"
+    ],
+    "answer": "did"
+  },
+  {
+    "question": "She ___ to the party last week.",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "answer": "went"
+  },
+  {
+    "question": "They ___ a song yesterday.",
+    "options": [
+      "sang",
+      "sing",
+      "sings",
+      "singing"
+    ],
+    "answer": "sang"
+  },
+  {
+    "question": "We ___ TV last night.",
+    "options": [
+      "watched",
+      "watch",
+      "watches",
+      "watching"
+    ],
+    "answer": "watched"
+  },
+  {
+    "question": "I ___ lunch at 1 p.m. yesterday.",
+    "options": [
+      "had",
+      "have",
+      "has",
+      "having"
+    ],
+    "answer": "had"
+  },
+  {
+    "question": "He ___ a bicycle last year.",
+    "options": [
+      "bought",
+      "buy",
+      "buys",
+      "buying"
+    ],
+    "answer": "bought"
+  },
+  {
+    "question": "She ___ her room yesterday.",
+    "options": [
+      "cleaned",
+      "clean",
+      "cleans",
+      "cleaning"
+    ],
+    "answer": "cleaned"
+  },
+  {
+    "question": "They ___ football last Sunday.",
+    "options": [
+      "played",
+      "play",
+      "plays",
+      "playing"
+    ],
+    "answer": "played"
+  },
+  {
+    "question": "We ___ to the park yesterday.",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "answer": "went"
+  },
+  {
+    "question": "I ___ a new book last week.",
+    "options": [
+      "bought",
+      "buy",
+      "buys",
+      "buying"
+    ],
+    "answer": "bought"
+  },
+  {
+    "question": "He ___ a cake yesterday.",
+    "options": [
+      "made",
+      "make",
+      "makes",
+      "making"
+    ],
+    "answer": "made"
+  },
+  {
+    "question": "She ___ a song yesterday.",
+    "options": [
+      "sang",
+      "sing",
+      "sings",
+      "singing"
+    ],
+    "answer": "sang"
+  },
+  {
+    "question": "They ___ late yesterday.",
+    "options": [
+      "arrived",
+      "arrive",
+      "arrives",
+      "arriving"
+    ],
+    "answer": "arrived"
+  },
+  {
+    "question": "We ___ the homework yesterday.",
+    "options": [
+      "did",
+      "do",
+      "does",
+      "doing"
+    ],
+    "answer": "did"
+  },
+  {
+    "question": "I ___ my room last weekend.",
+    "options": [
+      "cleaned",
+      "clean",
+      "cleans",
+      "cleaning"
+    ],
+    "answer": "cleaned"
+  },
+  {
+    "question": "He ___ a movie yesterday.",
+    "options": [
+      "watched",
+      "watch",
+      "watches",
+      "watching"
+    ],
+    "answer": "watched"
+  },
+  {
+    "question": "She ___ tea yesterday morning.",
+    "options": [
+      "drank",
+      "drink",
+      "drinks",
+      "drinking"
+    ],
+    "answer": "drank"
+  },
+  {
+    "question": "They ___ English last year.",
+    "options": [
+      "studied",
+      "study",
+      "studies",
+      "studying"
+    ],
+    "answer": "studied"
+  },
+  {
+    "question": "We ___ to the beach last summer.",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "answer": "went"
+  },
+  {
+    "question": "I ___ the answer yesterday.",
+    "options": [
+      "knew",
+      "know",
+      "knows",
+      "knowing"
+    ],
+    "answer": "knew"
+  },
+  {
+    "question": "He ___ a song yesterday.",
+    "options": [
+      "sang",
+      "sing",
+      "sings",
+      "singing"
+    ],
+    "answer": "sang"
+  },
+  {
+    "question": "She ___ a letter yesterday.",
+    "options": [
+      "wrote",
+      "write",
+      "writes",
+      "writing"
+    ],
+    "answer": "wrote"
+  },
+  {
+    "question": "They ___ home late yesterday.",
+    "options": [
+      "came",
+      "come",
+      "comes",
+      "coming"
+    ],
+    "answer": "came"
+  },
+  {
+    "question": "We ___ a new car last month.",
+    "options": [
+      "bought",
+      "buy",
+      "buys",
+      "buying"
+    ],
+    "answer": "bought"
+  },
+  {
+    "question": "I ___ breakfast yesterday morning.",
+    "options": [
+      "ate",
+      "eat",
+      "eats",
+      "eating"
+    ],
+    "answer": "ate"
+  },
+  {
+    "question": "He ___ his bike yesterday.",
+    "options": [
+      "rode",
+      "ride",
+      "rides",
+      "riding"
+    ],
+    "answer": "rode"
+  },
+  {
+    "question": "She ___ the window yesterday.",
+    "options": [
+      "opened",
+      "open",
+      "opens",
+      "opening"
+    ],
+    "answer": "opened"
+  },
+  {
+    "question": "They ___ TV last night.",
+    "options": [
+      "watched",
+      "watch",
+      "watches",
+      "watching"
+    ],
+    "answer": "watched"
+  },
+  {
+    "question": "We ___ to school yesterday.",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "answer": "went"
+  },
+  {
+    "question": "I ___ a new phone.",
+    "options": [
+      "have",
+      "has",
+      "is",
+      "are"
+    ],
+    "answer": "have"
+  },
+  {
+    "question": "She ___ a cat.",
+    "options": [
+      "has",
+      "have",
+      "is",
+      "are"
+    ],
+    "answer": "has"
+  },
+  {
+    "question": "They ___ many books.",
+    "options": [
+      "have",
+      "has",
+      "is",
+      "are"
+    ],
+    "answer": "have"
+  },
+  {
+    "question": "He ___ two sisters.",
+    "options": [
+      "has",
+      "have",
+      "is",
+      "are"
+    ],
+    "answer": "has"
+  },
+  {
+    "question": "We ___ a garden.",
+    "options": [
+      "have",
+      "has",
+      "is",
+      "are"
+    ],
+    "answer": "have"
+  },
+  {
+    "question": "There ___ a park near my house.",
+    "options": [
+      "is",
+      "are",
+      "have",
+      "has"
+    ],
+    "answer": "is"
+  },
+  {
+    "question": "There ___ many students in the class.",
+    "options": [
+      "are",
+      "is",
+      "have",
+      "has"
+    ],
+    "answer": "are"
+  },
+  {
+    "question": "There ___ a supermarket in my street.",
+    "options": [
+      "is",
+      "are",
+      "have",
+      "has"
+    ],
+    "answer": "is"
+  },
+  {
+    "question": "There ___ several trees in the garden.",
+    "options": [
+      "are",
+      "is",
+      "has",
+      "have"
+    ],
+    "answer": "are"
+  },
+  {
+    "question": "I ___ some money in my wallet.",
+    "options": [
+      "have",
+      "has",
+      "is",
+      "are"
+    ],
+    "answer": "have"
+  },
+  {
+    "question": "She ___ a lot of homework.",
+    "options": [
+      "has",
+      "have",
+      "is",
+      "are"
+    ],
+    "answer": "has"
+  },
+  {
+    "question": "They ___ many friends.",
+    "options": [
+      "have",
+      "has",
+      "is",
+      "are"
+    ],
+    "answer": "have"
+  },
+  {
+    "question": "He ___ a new bike.",
+    "options": [
+      "has",
+      "have",
+      "is",
+      "are"
+    ],
+    "answer": "has"
+  },
+  {
+    "question": "There ___ a dog in the yard.",
+    "options": [
+      "is",
+      "are",
+      "have",
+      "has"
+    ],
+    "answer": "is"
+  },
+  {
+    "question": "There ___ many chairs in the room.",
+    "options": [
+      "are",
+      "is",
+      "have",
+      "has"
+    ],
+    "answer": "are"
+  },
+  {
+    "question": "There ___ a big tree in the park.",
+    "options": [
+      "is",
+      "are",
+      "have",
+      "has"
+    ],
+    "answer": "is"
+  },
+  {
+    "question": "There ___ two cats on the roof.",
+    "options": [
+      "are",
+      "is",
+      "has",
+      "have"
+    ],
+    "answer": "are"
+  },
+  {
+    "question": "I ___ some sugar in the kitchen.",
+    "options": [
+      "have",
+      "has",
+      "is",
+      "are"
+    ],
+    "answer": "have"
+  },
+  {
+    "question": "She ___ a little milk in the fridge.",
+    "options": [
+      "has",
+      "have",
+      "is",
+      "are"
+    ],
+    "answer": "has"
+  },
+  {
+    "question": "They ___ some bread.",
+    "options": [
+      "have",
+      "has",
+      "is",
+      "are"
+    ],
+    "answer": "have"
+  },
+  {
+    "question": "He ___ a glass of water.",
+    "options": [
+      "has",
+      "have",
+      "is",
+      "are"
+    ],
+    "answer": "has"
+  },
+  {
+    "question": "We ___ some rice.",
+    "options": [
+      "have",
+      "has",
+      "is",
+      "are"
+    ],
+    "answer": "have"
+  },
+  {
+    "question": "There ___ a car in front of the house.",
+    "options": [
+      "is",
+      "are",
+      "have",
+      "has"
+    ],
+    "answer": "is"
+  }
+]

@@ -1,0 +1,1202 @@
+[
+  {
+    "savol": "\"Axborot texnologiyalari\" iborasidagi \"texnologiya\" so'zi qaysi tildan olingan?",
+    "A": "Lotincha",
+    "B": "Ispancha",
+    "C": "Grekcha",
+    "D": "Nemisha",
+    "javob": "C"
+  },
+  {
+    "savol": "\"Axborot texnologiyalari\" iborasidagi \"texnologiya\" so'zi lotincha \"logos\" so'zidan olingan bo'lib qaysi ma'noni anglatadi?",
+    "A": "Fan",
+    "B": "Ustali",
+    "C": "Hunar",
+    "D": "Kitob",
+    "javob": "A"
+  },
+  {
+    "savol": "Microsoft Word dasturiga yuklangan hujjatni yopish tartibi to'g'ri keltirilgan javobni ko'rsating:",
+    "A": "«Файл Закрыть» menyu amalini bajarish",
+    "B": "«Файл Выход» menyu amalini bajarish",
+    "C": "«Закрыть» tugmasini bosish",
+    "D": "«Файл Завершить» menyu amalini bajarish",
+    "javob": "A"
+  },
+  {
+    "savol": "Yordam chaqirish qaysi tugma orqali amalga oshiriladi?",
+    "A": "F1",
+    "B": "F2",
+    "C": "F3",
+    "D": "F4",
+    "javob": "A"
+  },
+  {
+    "savol": "Microsoft Word dasturiga yuklangan joriy hujjatda «Ctrl+Home» tugmalar birikmasi bosilsa nima sodir bo'ladi?",
+    "A": "Hujjatning boshiga o'tish",
+    "B": "Hujjatning oxiriga o'tish",
+    "C": "Hujjatning keyingi saxifasiga o'tish",
+    "D": "Hujjatning oldingi saxifasiga o'tish",
+    "javob": "A"
+  },
+  {
+    "savol": "Microsoft Word dasturiga yuklangan joriy hujjatda «Ctrl+End» tugmalar birikmasi bosilsa nima sodir bo'ladi?",
+    "A": "Hujjatning oxiriga o'tish",
+    "B": "Hujjatning boshiga o'tish",
+    "C": "Hujjat sahifasini o'chiradi",
+    "D": "Hujjatga belgi qo'yadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Microsoft Word dasturida sichqoncha yordamida matnning ixtiyoriy qismlarini ixtiyoriy tartibda belgilash uchun qaysi tugmadan foydalaniladi?",
+    "A": "Ctrl",
+    "B": "Shift",
+    "C": "Tab",
+    "D": "Alt",
+    "javob": "A"
+  },
+  {
+    "savol": "Sezgi a'zolari, turli asboblar va hokazolar yordamida qayd etiladigan tashqi dunyo dalillari deb ataladi",
+    "A": "Ma'lumotlar",
+    "B": "Axborot",
+    "C": "Dastur",
+    "D": "Kitob",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi belgilarning qaysi biri chop etilmaydi?",
+    "A": "¶",
+    "B": "©",
+    "C": "!",
+    "D": "?",
+    "javob": "A"
+  },
+  {
+    "savol": "Microsoft Word dasturida CTRL tugmasini bosib sichqoncha g'ildiragi aylantirilsa nima sodir bo'ladi?",
+    "A": "Hujjat masshtabi o'zgaradi",
+    "B": "Hujjat varaqlari almashadi",
+    "C": "Kursorning joylashish joyi o'zgaradi",
+    "D": "Matn o'lchami o'zgaradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Microsoft Word dasturida kursordan chapdagi belgilarni o'chirish uchun qaysi tugmadan foydalaniladi?",
+    "A": "Backspace",
+    "B": "Delete",
+    "C": "Insert",
+    "D": "F8",
+    "javob": "A"
+  },
+  {
+    "savol": "Microsoft Excel -- bu:",
+    "A": "Jadval muxarriri",
+    "B": "Matn muxarriri",
+    "C": "Grafik muxarrir",
+    "D": "Taqdimot muxarriri",
+    "javob": "A"
+  },
+  {
+    "savol": "«Big Data» atamasi qanday ma'noni bildiradi?",
+    "A": "Katta ma'lumotlar degan ma'noni",
+    "B": "Kichik ma'lumotlar degan ma'noni",
+    "C": "O'rtacha ma'lumotlar degan ma'noni",
+    "D": "Uncha kichik bo'lmagan ma'lumotlar degan ma'noni",
+    "javob": "A"
+  },
+  {
+    "savol": "1 Kb nimaga teng?",
+    "A": "1 Kb =1024 bayt,",
+    "B": "1 Kb=1026 bayt,",
+    "C": "1Kb=1029bayt,",
+    "D": "1 Kb =1000 bayt,",
+    "javob": "A"
+  },
+  {
+    "savol": "Kompyuter necha qismdan tashkil topgan?",
+    "A": "Asosiy qism Qo'shimcha qism",
+    "B": "Asosiy qism Qo'shimcha qism O'rtacha qism",
+    "C": "Asosiy qism Qo'shimcha qism Keyingi qism",
+    "D": "Asosiy qism Qo'shimcha qism Oldingi qism",
+    "javob": "A"
+  },
+  {
+    "savol": "Kompyuter qaysi ta'minotlardan tashkil topgan?",
+    "A": "Apparat ta'minot (Hardware) Dasturiy ta'minot (Software)",
+    "B": "Apparat ta'minot (Hardware)",
+    "C": "Dasturiy ta'minot (Software)",
+    "D": "O'rtacha ta'minot (Midlleware)",
+    "javob": "A"
+  },
+  {
+    "savol": "......-- bu juda tez sur'atlarda o'sib borayotgan katta hajmdagi tizimli va tizimsiz raqamli ma'lumotlar to'plami",
+    "A": "«Big Data»",
+    "B": "«Mini Data»",
+    "C": "«Midlle Data»",
+    "D": "«About Data»",
+    "javob": "A"
+  },
+  {
+    "savol": "Hisoblash jarayoni muammoni hal qilishning barcha bosqichlari ushbu bosqichlarni yozilishning tabiiy tartibida amalga oshirilsa qanday nomlanadi?",
+    "A": "Chiziqli",
+    "B": "Tarmoqlanuvchi",
+    "C": "Siklik",
+    "D": "Takrorlanuvchi",
+    "javob": "A"
+  },
+  {
+    "savol": "2D --nima?",
+    "A": "Inglizcha two dimension - ikki o'lchamli jumlasidan olingan",
+    "B": "Lotincha - ikki o'lchamli jumlasidan olingan",
+    "C": "Fransuzcha - ikki o'lchamli jumlasidan olingan",
+    "D": "Inglizcha one dimension - bir o'lchamli jumlasidan olingan",
+    "javob": "A"
+  },
+  {
+    "savol": "3D-nima?",
+    "A": "(inglizcha three dimension - uch o'lchamli jumlasidan olingan)",
+    "B": "Lotincha - uch o'lchamli jumlasidan olingan",
+    "C": "Fransuzcha - ikki o'lchamli jumlasidan olingan",
+    "D": "Inglizcha two dimension - ikki o'lchamli jumlasidan olingan",
+    "javob": "A"
+  },
+  {
+    "savol": "« xls» kengaytmaga ega bo'lgan faylni sichqonchaning chap tugmasi bilan ikki marta bosilsa nima sodir bo'ladi?",
+    "A": "Microsoft Excel dasturi ishga tushiriladi va unga tanlangan hujjat yuklanadi",
+    "B": "Microsoft Power Point dasturi ishga tushiriladi va unga tanlangan hujjat yuklanadi",
+    "C": "Microsoft Word dasturi ishga tushiriladi va unga tanlangan hujjat yuklanadi",
+    "D": "Microsoft Outlook Express dasturi ishga tushiriladi va unga tanlangan hujjat yuklanadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Microsoft Excel dasturida hujjatni yopish uchun qanday amal bajariladi?",
+    "A": "«Файл закрыть» menyu amalini bajarish",
+    "B": "«Файл Открыть» menyu amalini bajarish",
+    "C": "«Файл переименовать» menyu amalini bajarish",
+    "D": "«Файл-развернуть» menyu amalini bajarish",
+    "javob": "A"
+  },
+  {
+    "savol": "Microsoft Excel dasturida yangi hujjat yaratish tartibi to'g'ri ko'rsatilgan variantni tanlang:",
+    "A": "\"Файл Создать'\"",
+    "B": "\"Файл Закрыть\"",
+    "C": "\" Файл переименовать \"",
+    "D": "\"Файл печать\"",
+    "javob": "A"
+  },
+  {
+    "savol": "Microsoft Excel dasturi jadvalida formulalarni yozish qaysi belgidan boshlanadi?",
+    "A": "=",
+    "B": "/",
+    "C": "*",
+    "D": "-",
+    "javob": "A"
+  },
+  {
+    "savol": "Microsoft Excel dasturida quyida keltirilgan ma'lumotlar turining qaysi biri mavjud emas?",
+    "A": "Grafik",
+    "B": "Matn",
+    "C": "Jadval",
+    "D": "Sonlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Yacheyka manzili to'g'ri yozilgan javobni ko'rsating",
+    "A": "B7",
+    "B": "Ж5",
+    "C": "Г8+И9",
+    "D": "Ы5",
+    "javob": "A"
+  },
+  {
+    "savol": "Noto'g'ri yozilgan formulani ko'rsating",
+    "A": "A1+B4",
+    "B": "=A1+B4",
+    "C": "=A1+B4-A2",
+    "D": "=(A1+B4)/5",
+    "javob": "A"
+  },
+  {
+    "savol": "Microsoft Power Point dasturida yangi hujjat yaratilganda, odatda dastur tomonidan unga qanday nom beriladi?",
+    "A": "\"Презентация 1\"",
+    "B": "\"Документ1\"",
+    "C": "\"Книга 1\"",
+    "D": "\"База данных1\"",
+    "javob": "A"
+  },
+  {
+    "savol": "Kompyuter klaviaturasi -- bu ...",
+    "A": "Alfavit-raqamli ma'lumotlarni kiritish qurilmasi",
+    "B": "Alfavit-raqamli ma'lumotlarni chiqarish qurilmasi",
+    "C": "Alfavit-raqamli ma'lumotlarni chop etish qurilmasi",
+    "D": "Alfavit-raqamli ma'lumotlarni saqlash qurilmasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Kompyuter monitori -- bu ...",
+    "A": "Alfavit-raqamli va grafik ma'lumotlarni ekranga chiqarish qurilmasi",
+    "B": "Alfavit-raqamli ma'lumotlarni kiritish qurilmasi",
+    "C": "Alfavit-raqamli ma'lumotlarni o'chirish qurilmasi",
+    "D": "Alfavit-raqamli ma'lumotlarni chop etish qurilmasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Kiritish qurilmasini belgilang",
+    "A": "Klaviatura",
+    "B": "Monitor",
+    "C": "Printer",
+    "D": "Sichqoncha",
+    "javob": "A"
+  },
+  {
+    "savol": "Chiqarish qurilmasi -bu",
+    "A": "Displey va printer",
+    "B": "Klaviatura",
+    "C": "Sichqoncha",
+    "D": "Skaner",
+    "javob": "A"
+  },
+  {
+    "savol": "Matn qaysi klavishlar orqali katta harflarda teriladi?",
+    "A": "Caps Lock",
+    "B": "Delete",
+    "C": "Alt",
+    "D": "Ctrl",
+    "javob": "A"
+  },
+  {
+    "savol": "Power Point da faylni xotiraga yozib qo'yish qanday amalga oshiriladi?",
+    "A": "Файл,Сохранить как (fayl nomi), Сохранить",
+    "B": "Файл, Печать, [fayl nomi], ok",
+    "C": "Файл, Выход [fayl nomi], ok",
+    "D": "Файл, Открыть [fayl nomi], ok",
+    "javob": "A"
+  },
+  {
+    "savol": "Power Point yordamida mavjud faylni ochish qanday amalga oshiriladi?",
+    "A": "File, Open, [fayl nomi], ok",
+    "B": "File, Save, [fayl nomi], ok",
+    "C": "File, Print, [fayl nomi], ok",
+    "D": "Fayl, Exit, [fayl nomi], ok",
+    "javob": "A"
+  },
+  {
+    "savol": "Internet qaysi tarmoq turiga kiradi?",
+    "A": "Global",
+    "B": "Lokal",
+    "C": "Mintaqaviy",
+    "D": "Regional",
+    "javob": "A"
+  },
+  {
+    "savol": "Power Point da Ctrl+S tugmalari bosilsa nima sodir bo'ladi?",
+    "A": "Faylni saqlash",
+    "B": "Faylni chop etish",
+    "C": "Faylni ochish",
+    "D": "Fayldan nusxa ko'chirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Power Point dasturining asosiy vazifasi nimalardan iborat?",
+    "A": "Prezentatsiya yaratish",
+    "B": "Matnlar bilan ishlash",
+    "C": "Sonlar bilan ishlash",
+    "D": "Grafik tasvir yaratish",
+    "javob": "A"
+  },
+  {
+    "savol": "Qattiq disk bu?",
+    "A": "Kompyuterning doimiy xotirasi",
+    "B": "Kompyuterning monitori",
+    "C": "Kompyuter sichqonchasi",
+    "D": "Qog'ozga chiqaradigan qurilma",
+    "javob": "A"
+  },
+  {
+    "savol": "\"Мой компьютер\" yorlig'ining vazifasi nima?",
+    "A": "Disklar bilan ishlash, disklarni tanlash, operativ xotira haqida ma'lumot olish va h k",
+    "B": "Word matn muxarririni ishga tushirish",
+    "C": "Excel dasturini ishga tushirish",
+    "D": "Power Point dasturini ishga tushirish",
+    "javob": "A"
+  },
+  {
+    "savol": "\"Korzina\" yorlig'ining vazifasi nima?",
+    "A": "O'chirilgan fayllarni vaqtincha saqlash",
+    "B": "Hujjatlarni tahrirlash",
+    "C": "Sonlar bilan ishlash",
+    "D": "Video dasturlar bilan ishlash",
+    "javob": "A"
+  },
+  {
+    "savol": "Microsoft Excel dasturi qanday ishga tushiriladi?",
+    "A": "\"Пуск\" - \"Программы\" - \"Microsoft EXCEL\"",
+    "B": "\"Пуск\" - \"Adobe \" - \"Microsoft EXCEL\"",
+    "C": "\"Пуск\" - \"Fine Reader\" - \"Microsoft EXCEL\"",
+    "D": "\"Пуск\" -\"Eset Antivirus\" - \"Microsoft EXCEL\"",
+    "javob": "A"
+  },
+  {
+    "savol": "Skaner -- bu ...",
+    "A": "Grafik ma'lumotlarni kiritish qurilmasi;",
+    "B": "Ma'lumotlarni qog'ozga chiqarish qurilmasi",
+    "C": "Videotasvirlarni qayta ishlash qurilmasi",
+    "D": "Ma'lumotlarni o'chiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Upload (yuklab qo'yish) bu",
+    "A": "Ma'lumotlarni (fayllarni) kompyuterdan tarmoqdagi yoki Internetdagi boshqa kompyuterga yoki serverga yuklab qo'yish",
+    "B": "Ma'lumotlarni (odatda faylni) tarmoqdagi yoki Internetdagi boshqa kompyuterlar va serverlardan o'z kompyuteriga yuklab olish",
+    "C": "Ma'lumotlarni o'chiradi",
+    "D": "Videotasvirlarni qayta ishlash qurilmasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ijtimoiy tarmoqlar berilgan qatorni toping",
+    "A": "Youtube, Facebook, Telegram, Instagram",
+    "B": "Youtube, Facebook, Windows, Instagram",
+    "C": "Outlook Express, Facebook, Telegram",
+    "D": "Telegram, Instagram, Word Press, youtube",
+    "javob": "A"
+  },
+  {
+    "savol": "Download (yuklab olish) bu",
+    "A": "Ma'lumotlarni (odatda faylni) tarmoqdagi yoki Internetdagi boshqa kompyuterlar va serverlardan o'z kompyuteriga yuklab olish",
+    "B": "Ma'lumotlarni (fayllarni) kompyuterdan tarmoqdagi yoki Internetdagi boshqa kompyuterga yoki serverga yuklab qo'yish",
+    "C": "Excel dasturini ishga tushirish",
+    "D": "Power Point dasturini ishga tushirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Axborot xavfsizligini ta'minlash qaysi xususiyatlarni ta'minlaydi?",
+    "A": "Konfidentsiallik, butunlik foydalanuvchanlik",
+    "B": "Konfidentsiallik, butunlik",
+    "C": "Konfidentsiallik",
+    "D": "Konfidentsiallik, foydalanuvchanlik",
+    "javob": "A"
+  },
+  {
+    "savol": "......xususiyati axborotning ruxsat etilmagan foydalanuvchilardan yashirish, ma'lumot ma'nosini tushunib olmaslik uchun, uni tushunarsiz holatda o'tkazish kabi vazifalarni bajarish orqali bajariladi",
+    "A": "Konfidentsiallik",
+    "B": "Butunlik",
+    "C": "Foydalanuvchanlik",
+    "D": "Umumiy",
+    "javob": "A"
+  },
+  {
+    "savol": "Ms Wordda pagedown klavishi qanday vazifani bajaradi?",
+    "A": "Keyingi sahifaga o'tish",
+    "B": "Oxirgi sahifaga o'tish",
+    "C": "Oxirgi satrga o'tish",
+    "D": "Satr boshiga o'tish",
+    "javob": "A"
+  },
+  {
+    "savol": "......asosida ma'lumotni uzatish davomida unga o'zgartirish kiritilganligi yoki kiritilmaganligi aniqlanadi",
+    "A": "Butunlik",
+    "B": "Foydalanuvchanlik",
+    "C": "Umumiy",
+    "D": "Konfidentsiallik",
+    "javob": "A"
+  },
+  {
+    "savol": "Hosting nima?",
+    "A": "Web-sayt uchun joy ajratib beruvchi xizmat turi",
+    "B": "HTML fayl kengaytmasiga ega bo'lgan gipermatnli fayl",
+    "C": "Biror-bir serverda joylashgan saytga olib boradigan manzil",
+    "D": "Internet xizmati uchun tashkilot",
+    "javob": "A"
+  },
+  {
+    "savol": "Domen nima?",
+    "A": "Biror-bir serverda joylashgan saytga olib boradigan manzil",
+    "B": "Internet xizmati uchun tashkilot",
+    "C": "HTML fayl kengaytmasiga ega bo'lgan gipermatnli fayl",
+    "D": "Web-sayt uchun joy ajratib beruvchi xizmat turi",
+    "javob": "A"
+  },
+  {
+    "savol": "Alt+Ctrl+Del klavishasining vazifasi nima?",
+    "A": "Tizimni qayta ishga tushirish",
+    "B": "Savatchadagi ma'lumotlarni o'chirish",
+    "C": "Mening kompyuterim ilovasini ishga tushirish",
+    "D": "Tizimni o'chirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Algoritm haqida aytilgan quyidagi fikr uning qaysi xossasini ifodalaydi: \"Berilgan dastlabki ma'lumotlar bilan hisoblash jarayonining aniq natijasini olishni nazarda tutadi\"",
+    "A": "Aniqlik",
+    "B": "Natijaviylik",
+    "C": "Ommaviylik",
+    "D": "Diskretlik",
+    "javob": "A"
+  },
+  {
+    "savol": "Arial Black vazifasi nima?",
+    "A": "Yozuv shriftini tanlash",
+    "B": "Yozuv rangni tanlash",
+    "C": "Ro'yxat hosil qilish",
+    "D": "Matndan qidirish",
+    "javob": "A"
+  },
+  {
+    "savol": "......foydalanish imkoniyati mavjudligi bilan belgilanadi",
+    "A": "Foydalanuvchanlik",
+    "B": "Umumiy",
+    "C": "Konfidentsiallik",
+    "D": "Butunlik",
+    "javob": "A"
+  },
+  {
+    "savol": "Standart kompakt disklarning(CD) ma'lumotlar sig'imi qancha?",
+    "A": "650-700 Mb",
+    "B": "1 Mb",
+    "C": "1 Gb",
+    "D": "650-700 Kb",
+    "javob": "A"
+  },
+  {
+    "savol": "Fayllarni barchasini tanlab, nusxasini olish tezkor tugmalari ketma-ketligini ko'rsating?",
+    "A": "Ctrl+A; Ctrl+C",
+    "B": "Ctrl+V; Ctrl+C",
+    "C": "Ctrl+C; Ctrl+S",
+    "D": "Ctrl+A; Ctrl+S",
+    "javob": "A"
+  },
+  {
+    "savol": "Faylni tiklash qanday amalga oshiriladi?",
+    "A": "O'chirilgan fayllarni korzinkadan belgilab «Восстановить» tugmasi orqali",
+    "B": "O'chirilgan fayllarni korzinkadan belgilab \"!\" Tugmasi orqali",
+    "C": "O'chirilgan fayllarni tiklash uchun Shift+Ctrl+! Tugmasi bosiladi",
+    "D": "O'chirilgan fayllarni \"system volume information\" papkasidan ko'chiriladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Hujjatlarga parol o'rnatishda parol kamida nechta belgidan iborat bo'lishi lozim?",
+    "A": "8",
+    "B": "6",
+    "C": "9",
+    "D": "12",
+    "javob": "A"
+  },
+  {
+    "savol": "Axborot xavfsizligini ta'minlashda harakatlar tartibi qaysi javobda to'g'ri ko'rsatilgan?",
+    "A": "Identifikasiya-audentifikasiya-avtorizasiya",
+    "B": "Identifikasiya-avtorizasiya audentifikasiya-",
+    "C": "Audentifikasiya-identifikasiya-avtorizasiya",
+    "D": "Avtorizasiya identifikasiya-audentifikasiya-",
+    "javob": "A"
+  },
+  {
+    "savol": "...dunyoning bir nuqtasidan ikkinchisiga ma'lumotlarni uzatish imkonini beruvchi, yagona standart asosida faoliyat yurituvchi butun jahon kompyuter tarmoqlari majmui",
+    "A": "Internet",
+    "B": "Mahalliy tarmoq",
+    "C": "Lokal tarmoq",
+    "D": "Aralash tarmoq",
+    "javob": "A"
+  },
+  {
+    "savol": "Elektron jadvalda A1:B3 yacheykalar ajratilgan Ajratilgan yacheykalar soni nechta?",
+    "A": "6",
+    "B": "7",
+    "C": "8",
+    "D": "9",
+    "javob": "A"
+  },
+  {
+    "savol": "WWW nima?",
+    "A": "Internet orqali foydalanish mumkin bo'lgan veb-sahifalar majmui",
+    "B": "\"birlashgan tarmoqlar\" so'z birikmasining qisqartmasi",
+    "C": "Internetga ulanish va u bilan bog'liq boshqa xizmatlarni ko'rsatuvchi tashkilot",
+    "D": "Internetdan foydalanuvchi dastur",
+    "javob": "A"
+  },
+  {
+    "savol": "Monitor - bu:",
+    "A": "Kompyuterdagi axborotlarni aks ettiruvchi ekran",
+    "B": "Bitta tarmoqqa ulangan bir nechta terminallar majmui",
+    "C": "Axborotni chiqarish uchun xizmat qiluvchi mikrosxemalar yig'indisi",
+    "D": "Klaviatura va displey",
+    "javob": "A"
+  },
+  {
+    "savol": "............- bu foydalanuvchini tizimga o'zini tanitish jarayoni bo'lib, unda foydalanuvchi nomidan (login), maxsus shaxsiy kartalardan yoki biometrik xususiyatlaridan foydalanish mumkin",
+    "A": "Identifikatsiya",
+    "B": "Autentifikatsiya",
+    "C": "Avtorizatsiya",
+    "D": "Belgilash",
+    "javob": "A"
+  },
+  {
+    "savol": "Printerning vazifasi:",
+    "A": "Kompyuter ekranidagi tasvirni qog'ozga ko'chirish",
+    "B": "Perfokartalarga axborot yozish",
+    "C": "Magnit disklariga axborot yozish",
+    "D": "Axborotlarni qog'ozga chop etish",
+    "javob": "A"
+  },
+  {
+    "savol": "Axborotni ehmga kiritish qurilmalari:",
+    "A": "Diskovod, klaviatura, sichqoncha",
+    "B": "Diskovod, printer, graffyasagich",
+    "C": "Sichqoncha, displey, graffyasagich",
+    "D": "Klaviatura, displey, nurli pero",
+    "javob": "A"
+  },
+  {
+    "savol": "Ms Excel faylining kengaytmasi qaysi?",
+    "A": "Xls yoki xlsx",
+    "B": "Pbf",
+    "C": "Jpg",
+    "D": "Doc yoki docx",
+    "javob": "A"
+  },
+  {
+    "savol": "Xosting nima va uning o'lchov birligi?",
+    "A": "Internet tarmog'ida ma'lumotlarni joylashtirish uchun maxsus joy, MB larda",
+    "B": "Maxsus dastur",
+    "C": "Maxsus joy",
+    "D": "Dasturlash tili",
+    "javob": "A"
+  },
+  {
+    "savol": "Ms Excelda ustun sarlavhasiga sichqoncha ko'rsatkichi bilan bosilsa nima sodir bo'ladi?",
+    "A": "Ustun to'liq belgilanadi",
+    "B": "Ustunning ekranda ko'ringan qismi bo'yaladi",
+    "C": "Kursor tanlangan ustunga o'rnatiladi",
+    "D": "Ustun rangli bo'ladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Tizimga parolsiz kirish huquqi mavjud, ammo kompyuter va operatsion tizimni boshqarish bo'yicha hech qanday imkoniyatga ega bo'lmagan foydalanuvchi turini ko'rsating",
+    "A": "Mehmon foydalanuvchi (Гость)",
+    "B": "Tashrif foydalanuvchi (Посетитель)",
+    "C": "Oddiy foydalanuvchi (Пользователь)",
+    "D": "Adminstrator (Администратор)",
+    "javob": "A"
+  },
+  {
+    "savol": "Microsoft Excelda har bir yacheyka nimaga ega?",
+    "A": "Manzilga",
+    "B": "Hajmga",
+    "C": "Ovozga",
+    "D": "Tasvirga",
+    "javob": "A"
+  },
+  {
+    "savol": "jpg kengaytmali fayl qanday axborotni saqlaydi?",
+    "A": "Rasmlarni",
+    "B": "Matnni",
+    "C": "Videoni",
+    "D": "Musiqani",
+    "javob": "A"
+  },
+  {
+    "savol": "Ms Word da qaysi tugmalar bosilsa matnning nusxasi olingan bo'lagi zarur joyga qo'yiladi?",
+    "A": "Ctrl + V",
+    "B": "Ctrl + Insert",
+    "C": "Shift + CTRL",
+    "D": "Alt + Insert",
+    "javob": "A"
+  },
+  {
+    "savol": "Ms Wordda hujjatning to'la matnini belgilash uchun qaysi tugmalar bosiladi?",
+    "A": "Ctrl+A",
+    "B": "Ctrl+O",
+    "C": "Ctrl+H",
+    "D": "Ctrl+L",
+    "javob": "A"
+  },
+  {
+    "savol": "...... Moddani o'rganish bilan paydo bo'ldi",
+    "A": "Texnosfera",
+    "B": "Ergosfera",
+    "C": "Infosfera",
+    "D": "Atmosfera",
+    "javob": "A"
+  },
+  {
+    "savol": "...... Energiyani o'rganish bilan paydo bo'ldi",
+    "A": "Ergosfera",
+    "B": "Infosfera",
+    "C": "Atmosfera",
+    "D": "Texnosfera",
+    "javob": "A"
+  },
+  {
+    "savol": "...... Axborotni o'rganish bilan paydo bo'ldi",
+    "A": "Infosfera",
+    "B": "Atmosfera",
+    "C": "Texnosfera",
+    "D": "Ergosfera",
+    "javob": "A"
+  },
+  {
+    "savol": "Ms Word dasturi nima uchun mo'ljallangan?",
+    "A": "Matnli ma'lumotlarni qayta ishlaydigan dastur",
+    "B": "Sonlar ustida ishlaydigan dastur",
+    "C": "Multimedia fayllar ustida ishlaydigan dastur",
+    "D": "Prezentatsiya bilan ishlaydigan dastur",
+    "javob": "A"
+  },
+  {
+    "savol": "Ms Excel dasturi nima uchun mo'ljallangan?",
+    "A": "Jadvalli ma'lumotlarni qayta ishlaydigan dastur",
+    "B": "Matnli ma'lumotlarni qayta ishlaydigan dastur",
+    "C": "Prezentatsiya bilan ishlaydigan dastur",
+    "D": "Multimedia fayllar ustida ishlaydigan dastur",
+    "javob": "A"
+  },
+  {
+    "savol": "... -- bu minglab lokal va mintaqaviy kompyuter tarmoqlarni birlashtiruvchi tizim",
+    "A": "Internet",
+    "B": "Lokal tarmoq",
+    "C": "Mintaqaviy tarmoq",
+    "D": "Shaxsiy kompyuter",
+    "javob": "A"
+  },
+  {
+    "savol": "B1=4 B2=3 B3=5 СУММ (B1;B3) yacheyka bo'yicha jami hisob natijasini belgilang",
+    "A": "9",
+    "B": "12",
+    "C": "8",
+    "D": "5",
+    "javob": "A"
+  },
+  {
+    "savol": "Microsoft Excel dasturida ustunlar qanday nomlangan?",
+    "A": "Lotin harflari bilan",
+    "B": "Kirill harflari bilan",
+    "C": "Grek harflari bilan",
+    "D": "Ispan harflari bilan",
+    "javob": "A"
+  },
+  {
+    "savol": ".........- bu foydalanuvchilarni haqiqiyligini tekshirish jarayoni bo'lib, jarayon natijasida foydalanuvchi tizimdan foydalanish uchun ruxsat oladi yoki olmaydi",
+    "A": "Autentifikatsiya",
+    "B": "Avtorizatsiya",
+    "C": "Belgilash",
+    "D": "Identifikatsiya",
+    "javob": "A"
+  },
+  {
+    "savol": ".........- bu foydalanuvchiga tizim tomonidan berilgan huquqlar to'plami bo'lib, foydalanuvchini tizim doirasida qilishi mumkin bo'lgan vazifalarini belgilaydi",
+    "A": "Avtorizatsiya",
+    "B": "Belgilash",
+    "C": "Identifikatsiya",
+    "D": "Autentifikatsiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Word matn muxarriri qaysi firma tomonidan ishlab chiqilgan?",
+    "A": "Microsoft",
+    "B": "Apple",
+    "C": "Skynet",
+    "D": "WWW",
+    "javob": "A"
+  },
+  {
+    "savol": "Algoritmning birinchi xossa nomi qanday nomlangan?",
+    "A": "Diskretlilik",
+    "B": "Aniqlik",
+    "C": "Tushunarlilik",
+    "D": "Ommaviylik",
+    "javob": "A"
+  },
+  {
+    "savol": "Algoritmning uchunchi xossa nomi qanday nomlangan?",
+    "A": "Aniqlik",
+    "B": "Diskiretlik",
+    "C": "Tarmoqlanuvchi",
+    "D": "Takrorlanuvchi",
+    "javob": "A"
+  },
+  {
+    "savol": "......... - axborotni to'plash, saqlash, izlash, unga ishlov berish hamda undan foydalanish imkonini beradigan, tashkiliy jihatdan tartibga solingan jami axborot resurslari, axborot texnologiyalari va aloqa vositalari",
+    "A": "Axborot tizimi",
+    "B": "Tarmoqlanuvchi",
+    "C": "Takrorlanuvchi",
+    "D": "Aniqlik",
+    "javob": "A"
+  },
+  {
+    "savol": "Taqdimotni ko'rish rejimidan to'xtatish uchun qaysi tugmani bosish kerak?",
+    "A": "Esc",
+    "B": "Backspace",
+    "C": "Delete",
+    "D": "Numlock",
+    "javob": "A"
+  },
+  {
+    "savol": "Slaydga rasm qo'yishda to'g'ri ketma-ketlikni tanlang",
+    "A": "Вставка-- рисунок",
+    "B": "Numlock",
+    "C": "Файл -- рисунок",
+    "D": "Главная -- рисунок",
+    "javob": "A"
+  },
+  {
+    "savol": "Microsoft Рower Рoint dasturini qanday turdagi hujjatlarni qayta ishlaydi?",
+    "A": "ррt kengaytmali hujjatlar",
+    "B": "txt kengaytmali hujjatlar",
+    "C": "xls kengaytmali hujjatlar",
+    "D": "doc kengaytmali hujjatlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Рower Рoint dasturi nima?",
+    "A": "Statik va dinamik taqdimotlar yaratish uchun Microsoft Office dasturi",
+    "B": "Jadval ma'lumotlarini yaratish va qayta ishlash uchun dasturiy ta'minot",
+    "C": "Audio ma'lumotlarini yaratish va qayta ishlash uchun dasturiy ta'minot",
+    "D": "Vektorli grafikalar bilan ishlash uchun dastur",
+    "javob": "A"
+  },
+  {
+    "savol": "Power Pointda F5 tugmasini bosganingizda nima bo'ladi?",
+    "A": "Slayd-shou boshlanadi",
+    "B": "Slaydni sozlash oynasi ochiladi",
+    "C": "Slayd-shou yakullanadi",
+    "D": "Yordam menyusi ochiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "=C1+80-50 ma'nosi nima?",
+    "A": "C1 xonaga 80 sonini qo'shib keyin 50 ni ayiradi",
+    "B": "C1 xonaga 80 qo'shish",
+    "C": "C1 xonadan 80 ayirish",
+    "D": "C1 xonaga 80 qo'shib hisoblash",
+    "javob": "A"
+  },
+  {
+    "savol": "Internetda WEB-sahifani ko'rish uchun qaysi dastur kerak bo'ladi?",
+    "A": "Brauzer",
+    "B": "Adobe Fine Reader",
+    "C": "Microsoft Ofiice",
+    "D": "Adobe Reader",
+    "javob": "A"
+  },
+  {
+    "savol": "Elektron pochta nima uchun mo'ljallangan?",
+    "A": "Maxsus dastur bo'lib, uning yordamida dunyoning ixtiyoriy joyidagi elektron manzilga ma'lumotni jo'natish va qabul qilish mumkin",
+    "B": "Web-sahifalar tuzishda ishlatiladigan gipermatnga asoslangan dasturlash tili",
+    "C": "Sonlar ustida ishlaydigan dastur",
+    "D": "Prezentatsiya bilan ishlaydigan dastur",
+    "javob": "A"
+  },
+  {
+    "savol": "Kompyuter grafikasi qanday turlarga bo'linadi?",
+    "A": "Rastrli, vektorli va fraktal grafika",
+    "B": "Vektorli va fraktal grafika",
+    "C": "Vektorli va rastrli grafika",
+    "D": "Fraktal va rastrli grafika",
+    "javob": "A"
+  },
+  {
+    "savol": "=B1*50 % ma'nosi nima?",
+    "A": "B1 xonani yarmini xisoblaydi",
+    "B": "B1 xonaga 50 qo'shish",
+    "C": "B1 xonadan 50 ayirish",
+    "D": "B1 xonaga 50 qo'shib hisoblash",
+    "javob": "A"
+  },
+  {
+    "savol": "Kompyuter tarmoqlari ulanish turlari bo'yicha qaysi turlarga bo'linadi?",
+    "A": "Simli va simsiz",
+    "B": "Kanalli",
+    "C": "Rastrli",
+    "D": "Vektorli",
+    "javob": "A"
+  },
+  {
+    "savol": "......elektron jadvallar oddiy matn muharririga aylanib qoladi Jumlani to'ldiring",
+    "A": "Formulalarsiz",
+    "B": "Matnlarsiz",
+    "C": "Rasmlarsiz",
+    "D": "Diagrammalarsiz",
+    "javob": "A"
+  },
+  {
+    "savol": "=a1*25% ma'nosi nima?",
+    "A": "A1 xonaning 25% hisoblash",
+    "B": "A1 xonaga 25% qo'shish",
+    "C": "A1 xonadan 25% ayirish",
+    "D": "A1 xonaga 25 qo'shib 1% hisoblash",
+    "javob": "A"
+  },
+  {
+    "savol": "//a1*25 formulasi to'g'ri kiritilganmi?",
+    "A": "Noto'g'ri",
+    "B": "To'g'ri",
+    "C": "Qisman to'g'ri",
+    "D": "A1 xonaga 25 qo'shib hisoblash",
+    "javob": "A"
+  },
+  {
+    "savol": "Bulutli texnologiyalar nima?",
+    "A": "Bu onlayn xizmat sifatida Internet foydalanuvchisiga kompyuter resurslari taqdim etilgan ma'lumotlarni qayta ishlash texnologiyalari",
+    "B": "Shaxsiy kompyuter qurilmasi",
+    "C": "Shaxsiy kompyuter dasturi",
+    "D": "Shaxsiy kompyuterdan foydalanish",
+    "javob": "A"
+  },
+  {
+    "savol": "kiritilgan sonli qiymatlar bo'yicha yangi qiymatlarni hisoblaydigan ifodalardir",
+    "A": "Formulalar",
+    "B": "Sonli ifodalar",
+    "C": "Matnli ma'lumotlar",
+    "D": "Adobe Photoshop",
+    "javob": "A"
+  },
+  {
+    "savol": "Raqamli ma'lumotlar qaysi sanoq tizimida ishlaydi va ular qaysi sonlar?",
+    "A": "2 (0,1)",
+    "B": "6 (0,1,2,3,4,5)",
+    "C": "10 (0,1,2,3,4,5,6,7,8,9)",
+    "D": "12 (0,1,2,3,4,5,6,7,8,9,A,B)",
+    "javob": "A"
+  },
+  {
+    "savol": "Axborot xavfsizligini ta'minlashda deshifrlash qanday vazifani bajaradi?",
+    "A": "Axborotlarni maxfiy ko'rinishdan ochish",
+    "B": "Axborotlarni o'chirish",
+    "C": "Axborotlardan nusxa olish",
+    "D": "Axborotlarni ko'chirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Axborot xavfsizligini ta'minlashda Shifrlash qanday vazifani bajaradi?",
+    "A": "Axborotlarni maxfiy ko'rinishga o'tkazish",
+    "B": "Axborotlardan nusxa olish",
+    "C": "Axborotlarni o'chirish",
+    "D": "Axborotlarni ko'chirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Dunyodagi ilk veb-sahifani ishga tushirilganda unga qanday matn kiritilgan edi?",
+    "A": "World Wide Web (www) internet tarmog'ining qanday ishlashi",
+    "B": "Internetdan fayllarni ko'chirib olish",
+    "C": "Internetga fayllarni yuklash",
+    "D": "Web-sahifalar formatlash tili haqida",
+    "javob": "A"
+  },
+  {
+    "savol": "Axborot xavfsizligi axborotning muhimligi nimaga bog'liq?",
+    "A": "Axborot yo'qotilgandan keyin keltiradigan zarariga",
+    "B": "Qurilmalarning sifatiga",
+    "C": "Axborotning foydalanuvchiga nisbatan qadriga",
+    "D": "Axborotning qanchalik hajmi yuqoriligiga yoki kamligiga",
+    "javob": "A"
+  },
+  {
+    "savol": "Internetda Web sahifalarni ko'rish uchun quyidagi dasturlardan foydalaniladi",
+    "A": "Internet Explorer, Opera, Google Chrome, Mozilla Firefox",
+    "B": "Microsoft Access, microsoft Works",
+    "C": "Microsoft Word, Word Pad",
+    "D": "Htmlpad, Front Page",
+    "javob": "A"
+  },
+  {
+    "savol": "$A$1 formulasi qanaqa adress hisoblanadi?",
+    "A": "Absolyut",
+    "B": "Tegishli",
+    "C": "Tegishli emas",
+    "D": "Absolyut emas",
+    "javob": "A"
+  },
+  {
+    "savol": "O'zida milliondan ortiq rangni jamlovchi grafik tasvirlarni saqlovchi format ko'rsatilgan javobni aniqlang?",
+    "A": "jpeg",
+    "B": "swf",
+    "C": "bmp",
+    "D": "gif",
+    "javob": "A"
+  },
+  {
+    "savol": "Kompyuterni telefon tarmog'iga ulash uchun qaysi qurilma ishlatiladi?",
+    "A": "Modem",
+    "B": "Hub",
+    "C": "Switch",
+    "D": "Chipset",
+    "javob": "A"
+  },
+  {
+    "savol": "Grafik fayllarning formatlari berilgan javobni aniqlang",
+    "A": "Gif, jpeg, bmp, png",
+    "B": "Gif, jpeg, tiff, doc",
+    "C": "Bmp, gif, jpg, tf, xls",
+    "D": "Bmp, gif, jpg, pptx",
+    "javob": "A"
+  },
+  {
+    "savol": "Microsoft Excel dasturi qaysi paketga kiradi?",
+    "A": "Microsoft Office",
+    "B": "Microsoft Windows",
+    "C": "Adobe Photoshop",
+    "D": "3 D MAX",
+    "javob": "A"
+  },
+  {
+    "savol": "Microsoft Excel dasturi qaysi operasion tizim boshqaruvida ishlaydi?",
+    "A": "Microsoft Windows",
+    "B": "Adobe Photoshop",
+    "C": "3 D MAX",
+    "D": "Microsoft Office",
+    "javob": "A"
+  },
+  {
+    "savol": "Elektron manzilni belgilovchi maxsus belgini ko'rsating?",
+    "A": "@",
+    "B": "*",
+    "C": "-",
+    "D": "+",
+    "javob": "A"
+  },
+  {
+    "savol": "Brauzer dasturining vazifasi bu",
+    "A": "Web fayllarni va sahifalarni ko'rish",
+    "B": "Matnli ma'lumotlarni qayta ishlaydigan dastur",
+    "C": "Sonlar bilan ishlash",
+    "D": "Prezentatsiya bilan ishlaydigan dastur",
+    "javob": "A"
+  },
+  {
+    "savol": "\"Texnologiya\" so'zi qaysi tildan olingan?",
+    "A": "Yunoncha",
+    "B": "Lotincha",
+    "C": "Inglizcha",
+    "D": "Arabcha",
+    "javob": "A"
+  },
+  {
+    "savol": "\"Techne\" so'zining ma'nosi nima?",
+    "A": "Ustalik, san'at",
+    "B": "Hisoblash",
+    "C": "Axborot",
+    "D": "Qurilma",
+    "javob": "A"
+  },
+  {
+    "savol": "Axborot texnologiyasi nima?",
+    "A": "Axborotni to'plash, saqlash, ishlov berish va tarqatish jarayoni",
+    "B": "Ma'lumotlarni saqlash",
+    "C": "Tarmoqlarni boshqarish",
+    "D": "Kompyuter dasturlari yaratish",
+    "javob": "A"
+  },
+  {
+    "savol": "Axborot texnologiyalarining asosiy maqsadi nima?",
+    "A": "Inson uchun axborotni ishlab chiqish va qaror qabul qilishga yordam berish",
+    "B": "Ma'lumotlarni yo'qotish",
+    "C": "Xotirani to'ldirish",
+    "D": "Dasturlarni yaratish",
+    "javob": "A"
+  },
+  {
+    "savol": "Zamonaviy axborot texnologiyalari komponentalari necha turga bo'linadi?",
+    "A": "2 tur: apparatli va dasturiy",
+    "B": "3 tur: apparatli, dasturiy, tarmoqli",
+    "C": "4 tur: texnik, dasturiy, insoniy, resursli",
+    "D": "1 tur: apparatli",
+    "javob": "A"
+  },
+  {
+    "savol": "Proyektor nima uchun ishlatiladi?",
+    "A": "Ma'lumotni katta ekranga chiqarish uchun",
+    "B": "Ma'lumotlarni saqlash uchun",
+    "C": "Matn yozish uchun",
+    "D": "Tovush uzatish uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "Foydalanuvchi interfeysi nima?",
+    "A": "Kompyuter bilan foydalanuvchi o'rtasidagi muloqot shakli",
+    "B": "Kompyuterning texnik qismi",
+    "C": "Internet tarmog'i orqali aloqa",
+    "D": "Dasturlarni o'rnatish usuli",
+    "javob": "A"
+  },
+  {
+    "savol": "Taqdimot asosan nimadan iborat bo'ladi?",
+    "A": "Slaydlar yig'indisidan",
+    "B": "Jadval va matndan",
+    "C": "Grafiklardan",
+    "D": "Video lavhalardan",
+    "javob": "A"
+  },
+  {
+    "savol": "Taqdimotlar asosan qayerlarda keng qo'llaniladi?",
+    "A": "Seminarlarda, konferensiyalarda, ta'lim jarayonida",
+    "B": "Kinoteatrlarda",
+    "C": "Laboratoriyalarda",
+    "D": "Kompyuter do'konlarida",
+    "javob": "A"
+  },
+  {
+    "savol": "Taqdimot (prezentatsiy) so'zi ingliz tilidan qanday ma'noni anglatadi?",
+    "A": "Tasavvur qilmoq",
+    "B": "Taqdim qilmoq",
+    "C": "O'rganmoq",
+    "D": "Namoyish qilmoq",
+    "javob": "A"
+  },
+  {
+    "savol": "Multimedia texnologiyalaridagi \"multi\" so'zi nimani anglatadi?",
+    "A": "Ko'p",
+    "B": "Tovush",
+    "C": "Rasm",
+    "D": "Axborot",
+    "javob": "A"
+  },
+  {
+    "savol": "O'qitish dasturlarida multimedia qanday vazifani bajaradi?",
+    "A": "O'quv jarayonini jonlantiradi va tushunarli qiladi",
+    "B": "Matn yozadi",
+    "C": "Rasm ko'rsatadi",
+    "D": "Tovush eshittiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Microsoft Excel dasturi qanday maqsadda yaratilgan?",
+    "A": "Elektron jadvallar bilan ishlash uchun",
+    "B": "Matnli hujjatlar tayyorlash uchun",
+    "C": "Prezentatsiyalar yaratish uchun",
+    "D": "Grafika bilan ishlash uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "Excel dasturida asosiy ma'lumotlar qaysi elementga kiritiladi?",
+    "A": "Yacheykaga",
+    "B": "Satrga",
+    "C": "Ustunga",
+    "D": "Varakka",
+    "javob": "A"
+  },
+  {
+    "savol": "Excel dasturida qatorlar qanday belgilanadi?",
+    "A": "1, 2, 3, Butun sonlar bilan",
+    "B": "A, B, C, Harflar bilan",
+    "C": "Raqam va harf aralash tarzda",
+    "D": "Maxsus belgilar bilan",
+    "javob": "A"
+  },
+  {
+    "savol": "Excel fayllarining kengaytmasi qanday?",
+    "A": "xlsx",
+    "B": "docx",
+    "C": "pptx",
+    "D": "xlsm",
+    "javob": "A"
+  },
+  {
+    "savol": "Excel dasturida ustunlar qanday belgilanadi?",
+    "A": "Lotin alifbosining harflari bilan",
+    "B": "Butun sonlar bilan",
+    "C": "Raqam va belgilar bilan",
+    "D": "Harflar va raqamlar aralash tarzda",
+    "javob": "A"
+  },
+  {
+    "savol": "Excelda yangi hujjatni yaratish uchun qaysi buyruq tanlanadi?",
+    "A": "\"Пустая книга\"",
+    "B": "\"Сохранить как\"",
+    "C": "\"Открыть\"",
+    "D": "\"Печать\"",
+    "javob": "A"
+  },
+  {
+    "savol": "Excel dasturi quyidagi sohalarning qaysisida keng qo'llaniladi?",
+    "A": "Buxgalteriya va bank hisobi",
+    "B": "Tibbiyot",
+    "C": "Grafik dizayn",
+    "D": "Tarjima",
+    "javob": "A"
+  },
+  {
+    "savol": "Excel 2013 versiyasida nechta qator mavjud?",
+    "A": "1 048 576 ta",
+    "B": "16 384 ta",
+    "C": "100 000 ta",
+    "D": "1 000 000 ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Excel 2013 versiyasida nechta ustun mavjud?",
+    "A": "16 384 ta",
+    "B": "1 048 576 ta",
+    "C": "10 000 ta",
+    "D": "500 ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Excel fayli ichidagi har bir varaq nima deyiladi?",
+    "A": "Ishchi varaq",
+    "B": "Ishchi jadval",
+    "C": "Hisobot",
+    "D": "Ma'lumot",
+    "javob": "A"
+  },
+  {
+    "savol": "Excel dasturini ishga tushirish uchun qaysi menyu orqali kiriladi?",
+    "A": "\"Пуск\" menyusi orqali",
+    "B": "\"Открыть\" buyrug'i orqali",
+    "C": "\"Сохранить\" orqali",
+    "D": "\"Формулы\" menyusi orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Excelda SUMM(A1:A10) funksiyasi nima qiladi?",
+    "A": "Ko'rsatilgan kataklar yig'indisini hisoblaydi",
+    "B": "Eng katta sonni chiqaradi",
+    "C": "Eng kichik sonni topadi",
+    "D": "O'rtacha qiymatni topadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Excelda MAX(A1:A10) funksiyasi nima uchun ishlatiladi?",
+    "A": "Eng katta qiymatni aniqlaydi",
+    "B": "Eng kichik qiymatni aniqlaydi",
+    "C": "O'rtacha qiymatni hisoblaydi",
+    "D": "Yig'indini topadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Excelda MIN(A1:A10) funksiyasi nima uchun ishlatiladi?",
+    "A": "Eng kichik qiymatni topadi",
+    "B": "Eng katta qiymatni topadi",
+    "C": "O'rtacha qiymatni hisoblaydi",
+    "D": "Modul qiymatini topadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Excelda СРЗНАЧ funksiyasi nima uchun ishlatiladi?",
+    "A": "O'rtacha qiymatni hisoblash uchun",
+    "B": "Eng katta qiymatni topish uchun",
+    "C": "Eng kichik qiymatni topish uchun",
+    "D": "Modulni hisoblash uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "Excelda funksiyani kiritgandan so'ng natijani olish uchun nima bosiladi?",
+    "A": "Enter tugmasi",
+    "B": "Ctrl tugmasi",
+    "C": "Alt tugmasi",
+    "D": "Shift tugmasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Biotexnologiya so'zi qaysi so'zlardan tashkil topgan?",
+    "A": "Bio va texne",
+    "B": "Bio va sistem",
+    "C": "Bio va genetika",
+    "D": "Bio va organizm",
+    "javob": "A"
+  },
+  {
+    "savol": "Excelda jadvalni chop etish uchun qanday tugmalar bosiladi?",
+    "A": "Ctrl + P",
+    "B": "Ctrl + N",
+    "C": "Ctrl + O",
+    "D": "Ctrl + S",
+    "javob": "A"
+  }
+]
