@@ -183,6 +183,18 @@
                             class="w-8 h-8 rounded-lg bg-blue-50 flex items-center justify-center text-blue-600 flex-shrink-0">
                             →</div>
                     </button>
+                    <button onclick="selectDirection('KM-NGT')"
+                        class="w-full bg-white hover:bg-slate-50 border-2 border-blue-50 p-4 rounded-2xl text-left transition-all active:scale-95 flex items-center justify-between group shadow-sm">
+                        <div class="pr-2">
+                            <h3
+                                class="subject-btn-title font-bold text-slate-800 group-hover:text-blue-600 transition-colors leading-tight">
+                                KM-NGT</h3>
+                            <p class="text-[10px] text-slate-400 mt-1">Yo'nalishga kirish</p>
+                        </div>
+                        <div
+                            class="w-8 h-8 rounded-lg bg-blue-50 flex items-center justify-center text-blue-600 flex-shrink-0">
+                            →</div>
+                    </button>
                 </div>
             </div>
         </div>
@@ -306,6 +318,8 @@
                 subjects = ["Iqtisodiy ta'limotlar tarixi", "Ingliz tili", "O'zbekistonning eng yangi tarixi", "Amaliy matematika", "Iqtisodiyotda AKT"];
             } else if (dir === 'KM-MP(log)') {
                 subjects = ["Falsafa", "Mediasavodxonlik va axborot madaniyati", "Umumiy Psixologiya"];
+            } else if (dir === 'KM-NGT') {
+                subjects = ["Oliy matematika", "Kimyo", "O'zbekistonning eng yangi tarixi", "Fizika", "Ingliz tili", "Rus tili"];
             }
 
             subjects.forEach(subj => {
