@@ -1,838 +1,797 @@
-{
-  "quiz": [
-    {
-      "question": "Ustun matritsani ko'rsating",
-      "options": [
-        "$$\\begin{bmatrix} 1 \\\\ 2 \\\\ 3 \\end{bmatrix}$$",
-        "$$\\begin{bmatrix} 1 & 2 & 3 \\end{bmatrix}$$",
-        "$$(1,2,3)$$"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "Matritsa deb nimaga aytiladi?",
-      "options": [
-        "m ta satr va n ta ustunga ega bo'lgan qavslar ichiga olingan to'rtburchakli sonlar jadvali",
-        "m ta satr va n ta ustunga ega bo'lgan qavslar ichiga olingan uchburchakli harflar jadvali",
-        "Harflar yig'indisidan iborat ifoda",
-        "Sonlarning ko'paytmasidan iborat ifoda"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "Matritsani tashkil qilgan sonlar nima deyiladi",
-      "options": ["Elementlar", "Harflar", "Belgilar", "Natural sonlar"],
-      "correct": 0
-    },
-    {
-      "question": "3 ta satr va 4 ta ustundan iborat matritsa o'lchami toping",
-      "options": ["3x4", "4x3", "3x3", "4x4"],
-      "correct": 0
-    },
-    {
-      "question": "3-satr va 4-ustunda turgan elementni qanday belgilanadi",
-      "options": ["$$a_{34}$$", "$$a_{43}$$", "$$a_{33}$$", "$$a_{44}$$"],
-      "correct": 0
-    },
-    {
-      "question": "3x4 o'lchamli matritsada nechta element bo'ladi",
-      "options": ["12", "16", "9", "20"],
-      "correct": 0
-    },
-    {
-      "question": "Barcha elementlari noldan iborat bo'lgan matritsa qanaqa matritsa deyiladi",
-      "options": ["Nol matritsa", "Kvadrat matritsa", "Diagonal matritsa", "To'rtburchak matritsa"],
-      "correct": 0
-    },
-    {
-      "question": "Birlik matritsani ko'rsating",
-      "options": [
-        "$$E = \\begin{bmatrix} 1 & 0 \\\\ 0 & 1 \\end{bmatrix}$$",
-        "$$\\begin{bmatrix} 1 & 2 & 3 \\end{bmatrix}$$",
-        "$$\\begin{pmatrix} 1 & 0 & 0 \\\\ 0 & 1 & 0 \\\\ 0 & 0 & 1 \\end{pmatrix}$$"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Kvadrat matritsa deb qanday matritsaga aytiladi?",
-      "options": [
-        "Satrlar soni ustunlar soniga teng matritsaga",
-        "Satrlar soni ustunlar soniga teng bo'lmagan matritsaga",
-        "Satrlar soni ustunlar sonidan katta bo'lgan matritsaga",
-        "Satrlar soni ustunlar sonidan kichik bo'lgan matritsaga"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "Matritsalarni qo'shish mumkin, agar...",
-      "options": [
-        "Ikkala matritsa o'lchamlari bir xil bo'lsa",
-        "Ikkala matritsa elementlari teng bo'lsa",
-        "Ikkala matritsa elementlari musbat bo'lsa",
-        "Ikkala matritsa kvadrat matritsa bo'lsa"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "A matritsaning elementlari bo'yicha a23 + a32 yig'indini toping",
-      "image": "media/image4.png",
-      "options": ["-4", "4", "0", "5"],
-      "correct": 2
-    },
-    {
-      "question": "Matritsa tartibini aniqlang",
-      "image": "media/image4.png",
-      "options": ["3x3", "3x2", "2x3", "2x2"],
-      "correct": 0
-    },
-    {
-      "question": "Matritsaning barcha elementlari yig'indisini toping",
-      "image": "media/image4.png",
-      "options": ["17", "7", "0", "15"],
-      "correct": 0
-    },
-    {
-      "question": "Agar matritsa bitta ustundan iborat bo'lsa bu matritsa....",
-      "options": ["Ustun matritsa", "Satr matritsa", "Yo'l matritsa", "Diagonal matritsa"],
-      "correct": 0
-    },
-    {
-      "question": "Bu matritsa nechta satr va ustunga ega",
-      "image": "media/image5.png",
-      "options": ["2 ta satr, 3 ta ustun", "3 ta satr, 2 ta ustun", "2 ta satr, 2 ta ustun", "5 ta satr, 2 ta ustun"],
-      "correct": 0
-    },
-    {
-      "question": "A-B matritsani hisoblang",
-      "image": "media/image6.png",
-      "options": ["media/image7.png", "media/image8.png", "media/image9.png", "media/image10.png"],
-      "correct": 0
-    },
-    {
-      "question": "A+B matritsani hisoblang",
-      "image": "media/image11.png",
-      "options": [
-        "Bu matritsalar ustida qo'shish amalini bajarib bo'lmaydi",
-        "media/image12.png",
-        "media/image13.png",
-        "media/image14.png"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "Bosh diagonal elementlaridan boshqa barcha elementlari nollardan iborat kvadrat matritsaga .... deyiladi",
-      "options": ["Diagonal matritsa", "Birlik matritsa", "Kvadrat matritsa", "Nol matritsa"],
-      "correct": 0
-    },
-    {
-      "question": "Quyidagi determinantni hisoblang: $$\\begin{vmatrix} a & b \\\\ c & d \\end{vmatrix}$$",
-      "options": ["$$ac - bd$$", "0", "$$ac$$", "$$bd$$"],
-      "correct": 0
-    },
-    {
-      "question": "Quyidagi determinantni hisoblang: $$\\begin{vmatrix} 2 & 3 \\\\ 4 & 5 \\end{vmatrix}$$",
-      "options": ["26", "13", "15", "14"],
-      "correct": 0
-    },
-    {
-      "question": "Chiziqli tenglamalar sistemasida $$\\Delta \\neq 0$$ shart bajarilsa ... bo'ladi",
-      "options": [
-        "Tenglamalar sistemasi yagona yechimga ega",
-        "Tenglamalar sistemasi yechimga ega emas",
-        "Tenglamalar sistemasi cheksiz ko'p yechimga ega",
-        "Tenglamalar sistemasi parallel"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "Chiziqli tenglamalar sistemasida $$\\Delta = 0$$ va $$\\Delta_x = \\Delta_y = 0$$ shart bajarilsa ... bo'ladi",
-      "options": [
-        "Tenglamalar sistemasi cheksiz ko'p yechimga ega",
-        "Tenglamalar sistemasi yagona yechimga ega",
-        "Tenglamalar sistemasi yechimga ega emas",
-        "Tenglamalar sistemasi parallel"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "Chiziqli tenglamalar sistemasida $$\\Delta = 0$$ va $$\\Delta_x \\neq 0$$ shart bajarilsa ... bo'ladi",
-      "options": [
-        "Tenglamalar sistemasi yechimga ega emas",
-        "Tenglamalar sistemasi yagona yechimga ega",
-        "Tenglamalar sistemasi cheksiz ko'p yechimga ega",
-        "Tenglamalar sistemasi parallel"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "Birgalikdagi tenglamalar sistemasi yagona yechimga ega bo'lsa .... deyiladi",
-      "options": ["Aniq", "Trivial", "Yechim yo'q", "Cheksiz ko'p yechim"],
-      "correct": 0
-    },
-    {
-      "question": "Birgalikdagi tenglamalar sistemasi bittadan ortiq yechimga ega bo'lsa .... deyiladi",
-      "options": ["Aniqmas", "Trivial", "Yechim yo'q", "Cheksiz ko'p yechim"],
-      "correct": 0
-    },
-    {
-      "question": "$$\\begin{cases} x + y = 6 \\\\ x - y = 2 \\end{cases}$$ Tenglamalar sistemasini yeching",
-      "options": ["$$x=4, y=2$$", "$$x=2, y=0$$", "$$x=10, y=10$$", "$$x=5, y=-5$$"],
-      "correct": 0
-    },
-    {
-      "question": "$$\\begin{cases} x + 2y = 4 \\\\ x - y = 1 \\end{cases}$$ Tenglamalar sistemasini yeching",
-      "options": ["$$x=2, y=1$$", "$$x=2, y=0$$", "$$x=10, y=10$$", "$$x=5, y=-5$$"],
-      "correct": 0
-    },
-    {
-      "question": "$$\\begin{cases} 2x + y = 10 \\\\ x - y = 2 \\end{cases}$$ Tenglamalar sistemasini yeching",
-      "options": ["$$x=4, y=2$$", "$$x=2, y=0$$", "$$x=10, y=10$$", "$$x=5, y=-5$$"],
-      "correct": 0
-    },
-    {
-      "question": "$$\\begin{cases} x + y = 0 \\\\ x - y = 0 \\end{cases}$$ Tenglamalar sistemasini o'rniga qo'yish usuli bilan yeching",
-      "options": ["$$x=0, y=0$$", "$$x=2, y=0$$", "$$x=10, y=10$$", "$$x=5, y=-5$$"],
-      "correct": 0
-    },
-    {
-      "question": "$$\\begin{cases} x + y = 7 \\\\ x - y = 3 \\end{cases}$$ Tenglamalar sistemasini o'rniga qo'yish usuli bilan yeching",
-      "options": ["$$x=5, y=2$$", "$$x=2, y=0$$", "$$x=10, y=10$$", "$$x=5, y=-5$$"],
-      "correct": 0
-    },
-    {
-      "question": "$$\\begin{cases} x + y = 7 \\\\ x - y = 3 \\end{cases}$$ Tenglamalar sistemasini qo'shish usuli bilan yeching",
-      "options": ["$$x=5, y=2$$", "$$x=2, y=0$$", "$$x=10, y=10$$", "$$x=5, y=-5$$"],
-      "correct": 0
-    },
-    {
-      "question": "$$\\begin{cases} 2x + y = 2 \\\\ x - y = 4 \\end{cases}$$ Tenglamalar sistemasini qo'shish usuli bilan yeching",
-      "options": ["$$x=2, y=-2$$", "$$x=2, y=0$$", "$$x=10, y=10$$", "$$x=5, y=-5$$"],
-      "correct": 0
-    },
-    {
-      "question": "$$\\begin{cases} 2x + y = 8 \\\\ x - y = 1 \\end{cases}$$ Tenglamalar sistemasini qo'shish usuli bilan yeching",
-      "options": ["$$x=3, y=2$$", "$$x=2, y=0$$", "$$x=10, y=10$$", "$$x=5, y=-5$$"],
-      "correct": 0
-    },
-    {
-      "question": "Cheksiz ko'p yechim nima?",
-      "options": ["Javobi istalgan son", "Javobi yo'q", "Javobi nolga teng", "Javobi ikkita bo'lgan son"],
-      "correct": 0
-    },
-    {
-      "question": "A(7, -3) va B(10, -9) bo'lsa, $$\\overrightarrow{AB}$$ vektor koordinatasini toping",
-      "options": ["$$(3, -6)$$", "$$(4, -3)$$", "$$(8, -6)$$", "$$(-4, -6)$$"],
-      "correct": 0
-    },
-    {
-      "question": "A(5, 3) va B(10, 9) bo'lsa, $$\\overrightarrow{AB}$$ vektor koordinatasini toping",
-      "options": ["$$(5, 6)$$", "$$(7, -3)$$", "$$(8, -5)$$", "$$(-4, -6)$$"],
-      "correct": 0
-    },
-    {
-      "question": "A(1, 3) va B(10, 3) bo'lsa, $$\\overrightarrow{AB}$$ vektor koordinatasini toping",
-      "options": ["$$(9, 0)$$", "$$(7, 3)$$", "$$(18, -5)$$", "$$(4, 6)$$"],
-      "correct": 0
-    },
-    {
-      "question": "A(12, 3) va B(15, 9) bo'lsa, $$\\overrightarrow{AB}$$ vektor koordinatasini toping",
-      "options": ["$$(3, 6)$$", "$$(17, -3)$$", "$$(83, -5)$$", "$$(4, -6)$$"],
-      "correct": 0
-    },
-    {
-      "question": "A(5, 3) va B(5, 3) bo'lsa, $$\\overrightarrow{AB}$$ vektor koordinatasini toping",
-      "options": ["$$(0, 0)$$", "$$(6, -3)$$", "$$(2, -5)$$", "$$(-4, -6)$$"],
-      "correct": 0
-    },
-    {
-      "question": "A(5, 3) va B(1, 9) bo'lsa, $$\\overrightarrow{AB}$$ vektor koordinatasini toping",
-      "options": ["$$(-4, 6)$$", "$$(7, -3)$$", "$$(8, -5)$$", "$$(14, 6)$$"],
-      "correct": 0
-    },
-    {
-      "question": "$$\\vec{a}=(-2, 6, 3)$$ vektorning modulini hisoblang",
-      "options": ["$$|\\vec{a}|=7$$", "$$|\\vec{a}|=49$$", "$$|\\vec{a}|=\\sqrt{7}$$", "$$|\\vec{a}|=121$$"],
-      "correct": 0
-    },
-    {
-      "question": "$$\\vec{a}=(0, 3, 4)$$ vektorning modulini hisoblang",
-      "options": ["$$|\\vec{a}|=5$$", "$$|\\vec{a}|=3$$", "$$|\\vec{a}|=4$$", "$$|\\vec{a}|=9$$"],
-      "correct": 0
-    },
-    {
-      "question": "$$\\vec{a}=(6, 8, 0)$$ vektorning modulini hisoblang",
-      "options": ["$$|\\vec{a}|=10$$", "$$|\\vec{a}|=12$$", "$$|\\vec{a}|=15$$", "$$|\\vec{a}|=0$$"],
-      "correct": 0
-    },
-    {
-      "question": "$$\\overrightarrow{AB}$$ qanday o'qiladi?",
-      "options": ["AB vektor", "AB to'g'ri chiziq", "AB egri chiziq", "AB nuqta"],
-      "correct": 0
-    },
-    {
-      "question": "$$\\vec{a}$$ qanday o'qiladi?",
-      "options": ["a vektor", "a nuqta", "a to'g'ri chiziq", "a kesma"],
-      "correct": 0
-    },
-    {
-      "question": "Vektorning moduli qanday belgilanadi?",
-      "options": ["$$|\\vec{a}|$$", "$$\\vec{a}$$", "$$a$$", "$$\\bar{a}$$"],
-      "correct": 0
-    },
-    {
-      "question": "$$\\lambda \\vec{a}$$ nimani ifodalaydi?",
-      "options": [
-        "Vektorni skalyarga ko'paytirish",
-        "Ikki vektorning skalyar ko'paytmasi",
-        "Ikki vektorning vektor ko'paytmasi",
-        "Vektorlarni qo'shish"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "$$\\vec{a} = (x, y, z)$$ nimani ifodalaydi?",
-      "options": [
-        "Koordinatalari bilan berilgan vektor",
-        "Vektor uzunligi",
-        "Ikki vektorning ayirmasi",
-        "Birlik vektor"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "$$\\vec{a} \\cdot \\vec{b}$$ nimani ifodalaydi?",
-      "options": [
-        "Ikki vektorning skalyar ko'paytmasi",
-        "Ikki vektorning vektor ko'paytmasi",
-        "Aralash ko'paytma",
-        "Vektorlarni qo'shish"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "$$\\vec{a} \\times \\vec{b}$$ nimani ifodalaydi?",
-      "options": [
-        "Ikki vektorning vektor ko'paytmasi",
-        "Skalyar ko'paytma",
-        "Aralash ko'paytma",
-        "Ikki vektorning ayirmasi"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "$$(\\vec{a} \\times \\vec{b}) \\cdot \\vec{c}$$ nimani ifodalaydi?",
-      "options": ["Aralash ko'paytma", "Vektor ko'paytmasi", "Vektorlar bo'linmasi", "Vektorlarni qo'shish"],
-      "correct": 0
-    },
-    {
-      "question": "Vektorlarning skalyar ko'paytmasi formulasi qaysi?",
-      "options": [
-        "$$x_1x_2 + y_1y_2$$",
-        "$$x_1x_2 - y_1y_2$$",
-        "$$x_1y_2 + y_1y_2$$",
-        "$$y_1x_2 + y_1y_2 = 0$$"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "$$\\vec{a}=(3, 0, 1)$$ bo'lsa, $$-5\\vec{a}$$ ni toping",
-      "options": ["$$(-15, 0, -5)$$", "$$(5, -4, 1)$$", "$$(3, -8, 7)$$", "$$(7, 8, 1)$$"],
-      "correct": 0
-    },
-    {
-      "question": "$$\\vec{a}=(0,0,0)$$ qanday vektor?",
-      "options": ["Nol vektor", "Birlik vektor", "Vektor emas", "Qiymati yuq"],
-      "correct": 0
-    },
-    {
-      "question": "$$\\frac{x}{a} + \\frac{y}{b} = 1$$ qaysi tenglama?",
-      "options": [
-        "To'g'ri chiziqning kesmalardagi tenglamasi",
-        "To'g'ri chiziqning kanonik tenglamasi",
-        "To'g'ri chiziqning vektorli tenglamasi",
-        "Berilgan ikki nuqtadan o'tgan to'g'ri chiziq tenglamasi"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "$$y = kx + b$$ qaysi tenglama?",
-      "options": [
-        "To'g'ri chiziqning burchak koeffitsientli tenglamasi",
-        "To'g'ri chiziqning kanonik tenglamasi",
-        "To'g'ri chiziqning vektorli tenglamasi",
-        "Berilgan ikki nuqtadan o'tgan to'g'ri chiziq tenglamasi"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "$$\\frac{x - x_1}{x_2 - x_1} = \\frac{y - y_1}{y_2 - y_1}$$ qaysi tenglama?",
-      "options": [
-        "Berilgan ikki nuqtadan o'tgan to'g'ri chiziq tenglamasi",
-        "Skalyar ko'paytma",
-        "To'g'ri chiziqning kanonik tenglamasi",
-        "To'g'ri chiziqning vektorli tenglamasi"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "$$Ax + By + Cz + D = 0$$ tenglama bilan berilgan tekislikning normal vektori qaysi?",
-      "options": ["$$\\vec{n} = (A, B, C)$$", "$$\\vec{n} = (C, A, B)$$", "$$\\vec{n} = (A, B, D)$$", "$$\\vec{n} = (B, C, D)$$"],
-      "correct": 0
-    },
-    {
-      "question": "$$3x + 4y + 7z - 81 = 0$$ tenglama bilan berilgan tekislikning normalini aniqlang",
-      "options": ["$$\\vec{n} = (3, 4, 7)$$", "$$\\vec{n} = (-3, -4, 81)$$", "$$\\vec{n} = (4, 7, -81)$$", "$$\\vec{n} = (3, 4, -81)$$"],
-      "correct": 0
-    },
-    {
-      "question": "$$4x + 5y + 8z - 81 = 0$$ tenglama bilan berilgan tekislikning normalini aniqlang",
-      "options": ["$$\\vec{n} = (4, 5, 8)$$", "$$\\vec{n} = (3, 4, 1)$$", "$$\\vec{n} = (4, 7, 81)$$", "$$\\vec{n} = (3, 4, -81)$$"],
-      "correct": 0
-    },
-    {
-      "question": "$$7x + 5y + 4z - 81 = 0$$ tenglama bilan berilgan tekislikning normalini aniqlang",
-      "options": ["$$\\vec{n} = (7, 5, 4)$$", "$$\\vec{n} = (-3, -4, 81)$$", "$$\\vec{n} = (4, 7, -81)$$", "$$\\vec{n} = (3, 4, -81)$$"],
-      "correct": 0
-    },
-    {
-      "question": "Tekislikdagi to'g'ri chiziqning umumiy $$3x + 5y + 2 = 0$$ tenglamasi bo'yicha uning normal vektorini toping",
-      "options": ["$$\\vec{n} = (3, 5)$$", "$$\\vec{n} = (3, 2)$$", "$$\\vec{n} = (2, 5)$$", "$$\\vec{n} = (5, 3)$$"],
-      "correct": 0
-    },
-    {
-      "question": "Tekislikdagi to'g'ri chiziqning umumiy $$Ax + By + C = 0$$ tenglamasida $$\\vec{n} = (A, B)$$ vektor to'g'ri chiziqqa ...",
-      "options": ["Perpendikulyar bo'ladi", "Parallel bo'ladi", "Tegishli bo'ladi", "Perpendikulyar bo'lmaydi"],
-      "correct": 0
-    },
-    {
-      "question": "Kesimda to'g'ri chiziq tenglamasida b koeffitsiyent nimani anglatadi?",
-      "options": [
-        "To'g'ri chiziq OY o'qini kesib o'tgan nuqta",
-        "Koordinata boshigacha bo'lgan masofa",
-        "Koordinata boshini",
-        "OX o'qini"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "To'g'ri chiziqning kanonik tenglamasida m=0 bo'lsa, bu nimani anglatadi",
-      "options": ["OX o'qiga perpendikulyarlikni", "Koordinata boshini", "OX o'qini", "OY o'qini"],
-      "correct": 0
-    },
-    {
-      "question": "Ikki nuqtani tutashtiruvchi kesmaning o'rtasining koordinatasi qanday topiladi?",
-      "options": [
-        "Ikki nuqtaning mos koordinatalari yig'indisining yarmiga teng",
-        "Ikki nuqtaning mos koordinatalari ayirmasiga teng",
-        "Ikki nuqtaning mos koordinatalari ko'paytmasiga teng",
-        "Kvadratga ko'tarish kerak"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "(-2, -3, -4) nuqtaning OX o'qidagi qiymatini toping",
-      "options": ["-2", "-3", "4", "5"],
-      "correct": 0
-    },
-    {
-      "question": "(-3, 4, 6) nuqtaning OY o'qidagi qiymatini toping",
-      "options": ["4", "9", "-2", "3"],
-      "correct": 0
-    },
-    {
-      "question": "(7, 3, 5) nuqtaning OZ o'qidagi qiymatini toping",
-      "options": ["5", "3", "2", "3"],
-      "correct": 0
-    },
-    {
-      "question": "$$y = 2x + 3$$ ning $$x = 1$$ nuqtadagi y qiymatini toping",
-      "options": ["5", "3", "4", "1"],
-      "correct": 0
-    },
-    {
-      "question": "To'g'ri chiziqning umumiy tenglamasini ko'rsating",
-      "options": ["$$Ax + By + C = 0$$", "$$y = kx + b$$", "$$Ax = 0$$", "$$By = 0$$"],
-      "correct": 0
-    },
-    {
-      "question": "Ikki nuqtadan o'tuvchi to'g'ri chiziq tenglamasini ko'rsating",
-      "options": [
-        "$$\\frac{x - x_1}{x_2 - x_1} = \\frac{y - y_1}{y_2 - y_1}$$",
-        "$$Ax + 1 = 0$$",
-        "$$By = C$$",
-        "$$Ax = -C$$"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "$$f(x) = 12x^4 - 5x^3 + 3x - 1$$, $$f'(0) = ?$$",
-      "options": ["3", "4", "2", "1"],
-      "correct": 0
-    },
-    {
-      "question": "$$f(x) = 3x^4 - 5x^3 + x - 4$$, $$f''(1) = ?$$",
-      "options": ["6", "1", "2", "3"],
-      "correct": 0
-    },
-    {
-      "question": "$$f(x) = 4x^3 - 6x^2 + 5$$, $$f'(0) = ?$$",
-      "options": ["0", "3", "32", "21"],
-      "correct": 0
-    },
-    {
-      "question": "$$f(x) = 5x^4 - 9x^2 + 8$$, $$f'(1) = ?$$",
-      "options": ["2", "1", "0", "23"],
-      "correct": 0
-    },
-    {
-      "question": "$$f(x) = 10x^4 - 12x^3 + 10x$$, $$f'(0) = ?$$",
-      "options": ["10", "2", "1", "0"],
-      "correct": 0
-    },
-    {
-      "question": "$$f(x) = 9x^2 - 12x^3 + e^x$$, $$f'(0) = ?$$",
-      "options": ["1", "0", "3", "4"],
-      "correct": 0
-    },
-    {
-      "question": "Funksiya so'zi qaysi tildan olingan",
-      "options": ["Lotincha", "Yunoncha", "Ruscha", "Inglizcha"],
-      "correct": 0
-    },
-    {
-      "question": "Funksiyaning aniqlanish sohasi ... bilan belgilanadi",
-      "options": ["$$D(y)$$", "$$E(y)$$", "$$F(y)$$", "$$G(y)$$"],
-      "correct": 0
-    },
-    {
-      "question": "Funksiyaning qiymatlar sohasi ... bilan belgilanadi",
-      "options": ["$$E(y)$$", "$$D(y)$$", "$$G(y)$$", "$$F(y)$$"],
-      "correct": 0
-    },
-    {
-      "question": "$$y = f(x)$$ funksiyada $$x$$ nima",
-      "options": ["Erkli o'zgaruvchi", "Erksiz o'zgaruvchi", "Parametr", "Operator"],
-      "correct": 0
-    },
-    {
-      "question": "$$y = f(x)$$ funksiyada $$y$$ nima",
-      "options": ["Erksiz o'zgaruvchi", "Erkli o'zgaruvchi", "Parametr", "Operator"],
-      "correct": 0
-    },
-    {
-      "question": "$$y = f(x)$$ funksiyada $$f$$ nima",
-      "options": ["$$x$$ ni $$y$$ ga mos qo'yuvchi qoida", "Erkli o'zgaruvchi", "Parametr", "Erksiz o'zgaruvchi"],
-      "correct": 0
-    },
-    {
-      "question": "Funksiyaning hosilasini toping: $$f(x) = x^3 - 7x + 5$$",
-      "options": ["$$3x^2 - 7$$", "$$9 - x$$", "$$2x - 9$$", "$$3x - 7$$"],
-      "correct": 0
-    },
-    {
-      "question": "$$y = 2x + 5$$ hosilasini toping",
-      "options": ["2", "1", "5", "0"],
-      "correct": 0
-    },
-    {
-      "question": "$$y = 5x^2 + 3x - 4$$ hosilasini toping",
-      "options": ["$$10x + 3$$", "$$3x - 4$$", "$$5x - 6$$", "$$4x - 6$$"],
-      "correct": 0
-    },
-    {
-      "question": "$$y = 2\\sin x$$ funksiya uchun $$y'$$ ni toping",
-      "options": ["$$2\\cos x$$", "$$\\cos 3x$$", "$$-2\\sin x$$", "$$2\\sin x$$"],
-      "correct": 0
-    },
-    {
-      "question": "Ayirmaning hosilasi ....",
-      "options": ["Hosilalar ayirmasiga teng", "Hosilalar yig'indisiga teng", "Hosilalar ko'paytmasiga teng", "Hosilalar bo'linmasiga teng"],
-      "correct": 0
-    },
-    {
-      "question": "Yig'indining hosilasi....",
-      "options": ["Hosilalar yig'indisiga teng", "Hosilalar ayirmasiga teng", "Hosilalar ko'paytmasiga teng", "Hosilalar bo'linmasiga teng"],
-      "correct": 0
-    },
-    {
-      "question": "$$y = \\sin x$$ funksiyaning hosilasini toping",
-      "options": ["$$\\cos x$$", "$$-\\sin x$$", "$$\\tan x$$", "$$\\cot x$$"],
-      "correct": 0
-    },
-    {
-      "question": "$$\\begin{vmatrix} 1 & 2 & 3 \\\\ 4 & 5 & 6 \\\\ 7 & 8 & 9 \\end{vmatrix}$$ determinantni hisoblang",
-      "options": ["0", "12", "-12", "24"],
-      "correct": 0
-    },
-    {
-      "question": "$$\\begin{vmatrix} 1 & 2 \\\\ 3 & 4 \\end{vmatrix}$$ determinantni hisoblang",
-      "options": ["-2", "2", "-1", "1"],
-      "correct": 0
-    },
-    {
-      "question": "Matritsa mazmuni qayerda to'g'ri ko'rsatilgan?",
-      "options": ["Sonlar jadvali", "Sonlar yig'indisi", "Sonlar ko'paytmasi", "Sonlar birlashmasi"],
-      "correct": 0
-    },
-    {
-      "question": "Quyidagi shartlardan qaysi biri bajarilsa determinant nolga teng bo'ladi?",
-      "options": [
-        "Ixtiyoriy ikkita qatori proportsional bo'lsa",
-        "Birorta elementi nolga teng bo'lsa",
-        "Biror qator elementlari mos ravishda bir ustun elementlariga teng bo'lsa",
-        "Birorta qator noldan farqli ko'paytuvchiga ega bo'lsa"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "Determinant bu -",
-      "options": ["Son", "Vektor", "Doiraviy qavs ichiga olingan jadval", "AB ko'paytma"],
-      "correct": 0
-    },
-    {
-      "question": "$$f(x) = x^6 - 10x^2$$, $$f(1) = ?$$",
-      "options": ["-9", "15", "1", "-10"],
-      "correct": 0
-    },
-    {
-      "question": "$$\\begin{vmatrix} 1 & 2 \\\\ 3 & 4 \\end{vmatrix}$$ determinantni hisoblang",
-      "options": ["-2", "5", "9", "4"],
-      "correct": 0
-    },
-    {
-      "question": "$$\\lim_{x \\to 2} (3x^2 - 5x + 3)$$ limitni hisoblang",
-      "options": ["5", "2", "4", "-3"],
-      "correct": 0
-    },
-    {
-      "question": "$$\\lim_{x \\to 1} (2x^2 + 3x - 1)$$ limitni hisoblang",
-      "options": ["4", "2", "6", "-3"],
-      "correct": 0
-    },
-    {
-      "question": "$$\\lim_{n \\to \\infty} \\left(1 + \\frac{1}{n}\\right)^n$$ limitni hisoblang",
-      "options": ["$$e$$", "3.14", "0", "1"],
-      "correct": 0
-    },
-    {
-      "question": "Birinchi ajoyib limit ifodalangan javobni toping",
-      "options": [
-        "$$\\lim_{x \\to 0} \\frac{\\sin x}{x} = 1$$",
-        "$$\\lim_{x \\to 0} \\frac{\\cos x}{x} = 1$$",
-        "$$\\lim_{x \\to 0} \\frac{\\sin x \\cos x}{x} = 1$$",
-        "$$\\lim_{x \\to 0} \\frac{\\arccos x}{x} = 1$$"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "Ikki funksiya bo'linmasining limiti bu funksiyalar...",
-      "options": ["Limitlarning nisbatiga teng", "Limitlarning ko'paytmasiga teng", "Limitlarning ayirmasiga teng", "Limitlarning yig'indisiga teng"],
-      "correct": 0
-    },
-    {
-      "question": "Ikki funksiya ko'paytmasining limiti bu funksiyalar...",
-      "options": ["Limitlarning ko'paytmasiga teng", "Limitlarning bo'linmasiga teng", "Limitlarning ayirmasiga teng", "Limitlarning yig'indisiga teng"],
-      "correct": 0
-    },
-    {
-      "question": "Differensial tenglama tartibini aniqlang: $$y'''' = x - 2$$",
-      "options": ["4", "2", "1", "3"],
-      "correct": 0
-    },
-    {
-      "question": "11 ta satr va 4 ta ustunga ega matritsaning nechta elementi mavjud?",
-      "options": ["44", "40", "20", "15"],
-      "correct": 0
-    },
-    {
-      "question": "10 ta satr va 9 ta ustunga ega matritsaning nechta elementi mavjud?",
-      "options": ["90", "19", "15", "29"],
-      "correct": 0
-    },
-    {
-      "question": "Agar $$f(-x) = f(x)$$ tenglik bajarilsa, $$f(x)$$ funksiya...",
-      "options": ["Juft funksiya", "Toq funksiya", "Davriy funksiya", "Monoton funksiya"],
-      "correct": 0
-    },
-    {
-      "question": "Agar $$f(-x) = -f(x)$$ tenglik bajarilsa, $$f(x)$$ funksiya...",
-      "options": ["Toq funksiya", "Juft funksiya", "Monoton funksiya", "Davriy funksiya"],
-      "correct": 0
-    },
-    {
-      "question": "O'suvchi va kamayuvchi funksiyalar umumiy nom bilan qanday funksiyalar deyiladi?",
-      "options": ["Monoton funksiya", "Toq funksiya", "O'suvchi", "Kamayuvchi"],
-      "correct": 0
-    },
-    {
-      "question": "$$y = 3x^2 + 5x - 9$$ funksiyaning aniqlanish sohasini toping",
-      "options": ["$$x \\in R$$", "[2;6]", "$(0; +\\infty)$", "$(3; +\\infty)$"],
-      "correct": 0
-    },
-    {
-      "question": "$$y = \\log_7(3x - 15)$$ funksiyaning aniqlanish sohasini toping",
-      "options": ["$$(5; +\\infty)$$", "$$(-5; +\\infty)$$", "$$(3; +\\infty)$$", "$$(7; +\\infty)$$"],
-      "correct": 0
-    },
-    {
-      "question": "$$y = \\frac{10 - 13x}{9x - 27}$$ funksiyaning aniqlanish sohasini toping",
-      "options": [
-        "$$(-\\infty; 3) \\cup (3; +\\infty)$$",
-        "$$(-\\infty; 4) \\cup (5; +\\infty)$$",
-        "$$(-\\infty; 3) \\cup (13; +\\infty)$$",
-        "$$(-\\infty; 13) \\cup (13; +\\infty)$$"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "$$y = \\frac{14x - 9}{2x - 20}$$ funksiyaning aniqlanish sohasini toping",
-      "options": [
-        "$$(-\\infty; 10) \\cup (10; +\\infty)$$",
-        "$$(-\\infty; 0) \\cup (1; +\\infty)$$",
-        "$$(-\\infty; -10) \\cup (10; +\\infty)$$",
-        "$$(-\\infty; 4) \\cup (10; +\\infty)$$"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "Differensial tenglamaga kirgan hosilalarning eng yuqori tartibiga ... deyiladi",
-      "options": [
-        "Differensial tenglamaning tartibi",
-        "O'zgaruvchilari ajralgan differensial tenglama",
-        "Birinchi tartibli differensial tenglama",
-        "Ikkinchi tartibli differensial tenglama"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "Differensial tenglama tartibini aniqlang: $$y'' + y' + y = 0$$",
-      "options": ["2", "3", "0", "1"],
-      "correct": 0
-    },
-    {
-      "question": "Differensial tenglama tartibini aniqlang: $$y''' + y'' + y = x$$",
-      "options": ["3", "4", "2", "1"],
-      "correct": 0
-    },
-    {
-      "question": "$$\\lim_{x \\to 0} \\frac{\\sin x}{x}$$ limitni hisoblang",
-      "options": ["1", "4", "-5", "3"],
-      "correct": 0
-    },
-    {
-      "question": "$$\\lim_{x \\to 0} \\frac{\\tan x}{x}$$ limitni hisoblang",
-      "options": ["1", "-4", "2", "0"],
-      "correct": 0
-    },
-    {
-      "question": "$$f(x) = 2x^2 - 6x + 7$$ funksiyaning $$f(1)$$ qiymatini toping",
-      "options": ["3", "-3", "5", "4"],
-      "correct": 0
-    },
-    {
-      "question": "$$f(x) = 7x^8 - 10x^2$$ funksiyaning $$f(1)$$ qiymatini toping",
-      "options": ["-3", "3", "5", "1"],
-      "correct": 0
-    },
-    {
-      "question": "$$f(x) = x^4 - 6x^2 + 7$$ funksiya haqidagi to'g'ri tasdiqni aniqlang",
-      "options": ["Juft funksiya", "Na juft na toq", "Toq funksiya", "Kamayuvchi funksiya"],
-      "correct": 0
-    },
-    {
-      "question": "$$f(x) = x^6 - 5x^2$$ funksiya haqidagi to'g'ri tasdiqni aniqlang",
-      "options": ["Juft funksiya", "Toq funksiya", "Na juft na toq", "Davriy funksiya"],
-      "correct": 0
-    },
-    {
-      "question": "$$f(x) = x^8 - 10x^2$$ funksiya haqidagi to'g'ri tasdiqni aniqlang",
-      "options": ["Juft funksiya", "Toq funksiya", "Na juft na toq", "Kamayuvchi funksiya"],
-      "correct": 0
-    },
-    {
-      "question": "$$f(x) = x^5 - 10x^3$$ funksiya haqidagi to'g'ri tasdiqni aniqlang",
-      "options": ["Toq funksiya", "Juft funksiya", "Na juft na toq", "Kamayuvchi funksiya"],
-      "correct": 0
-    },
-    {
-      "question": "$$f(x) = 6x^6 - 5x^2$$ funksiyaning $$f(1)$$ qiymatini toping",
-      "options": ["1", "2", "-2", "5"],
-      "correct": 0
-    },
-    {
-      "question": "$$\\frac{d}{dx}(\\ln x)$$ qaysi funksiyaning hosilasi?",
-      "options": ["$$\\frac{1}{x}$$", "$$e^x$$", "$$\\ln x$$", "$$\\sqrt[3]{x}$$"],
-      "correct": 0
-    },
-    {
-      "question": "$$\\frac{d}{dx}(\\tan x)$$ qaysi funksiyaning hosilasi?",
-      "options": ["$$\\sec^2 x$$", "$$\\cot x$$", "$$-\\tan x$$", "$$\\frac{1}{\\cot x}$$"],
-      "correct": 0
-    },
-    {
-      "question": "$$y = 3\\sin x - 5\\cos x$$ funksiyaning hosilasini toping",
-      "options": ["$$3\\cos x + 5\\sin x$$", "$$\\cos 4x + 5\\sin x$$", "$$12\\cos 4x - 5\\sin x$$", "$$7\\cos 4x + 5\\sin x$$"],
-      "correct": 0
-    },
-    {
-      "question": "O'zgarmas sonning hosilasi",
-      "options": ["0", "1", "Mavjud emas", "-1"],
-      "correct": 0
-    },
-    {
-      "question": "$$\\frac{d}{dx}(\\cot x)$$ qaysi funksiyaning hosilasi?",
-      "options": ["$$-\\csc^2 x$$", "$$-\\cot x$$", "$$2\\cot x$$", "$$\\frac{1}{\\tan x}$$"],
-      "correct": 0
-    },
-    {
-      "question": "$$y = e^x - 6x + 14$$ funksiyaning hosilasini toping",
-      "options": ["$$e^x - 6$$", "$$e^{3x} - 6$$", "$$3e^{3x}$$", "$$3e^{3x} - 6x$$"],
-      "correct": 0
-    },
-    {
-      "question": "$$y = 4x + 26$$ funksiyaning hosilasini toping",
-      "options": ["4", "5", "26", "2"],
-      "correct": 0
-    },
-    {
-      "question": "$$y = \\cos x + 2\\sin x$$ funksiyaning hosilasini toping",
-      "options": ["$$-\\sin x + 2\\cos x$$", "$$\\sin 5x + 2\\cos x$$", "$$\\sin 5x + 2\\cos x$$", "$$2\\sin 5x + 2\\cos x$$"],
-      "correct": 0
-    },
-    {
-      "question": "$$f(x) = x^4 - 6x^3 + 8x$$ funksiyaning hosilasini toping",
-      "options": ["$$4x^3 - 18x^2 + 8$$", "$$x^3 - 18x^2 + 8$$", "$$4x^3 - 18x^2$$", "$$3x^3 - 18x^2 + 8x$$"],
-      "correct": 0
-    },
-    {
-      "question": "$$f(x) = 3x^4 - 5x^3 + x - 4$$ funksiyaning hosilasini toping",
-      "options": ["$$12x^3 - 15x^2 + 1$$", "$$4x^3 - 15x^2$$", "$$12x^3 + 15x^2 + 8$$", "$$8x^3 - 15x^2 - 1$$"],
-      "correct": 0
-    },
-    {
-      "question": "$$y = 4\\sin 2x - 9\\cos 5x$$ funksiyaning hosilasini toping",
-      "options": ["$$8\\cos 2x + 45\\sin 5x$$", "$$\\cos 2x + 45\\sin 5x$$", "$$8\\cos 2x + 5\\sin 5x$$", "$$8\\cos 2x - 45\\sin 5x$$"],
-      "correct": 0
-    },
-    {
-      "question": "$$\\Delta y$$ - bu....",
-      "options": ["Funksiya orttirmasi", "Argument orttirmasi", "Funksiya limiti", "Funksiya uzluksizligi"],
-      "correct": 0
-    },
-    {
-      "question": "$$y = \\ln(2x + x)$$ funksiyaning hosilasini toping",
-      "options": ["$$\\frac{2}{x} + 1$$", "$$2x - 1$$", "$$2x + 1$$", "$$3x - 1$$"],
-      "correct": 0
-    },
-    {
-      "question": "Ayirmaning hosilasi ....",
-      "options": ["Hosilalar ayirmasiga teng", "Hosilalar yig'indisiga teng", "Hosilalar ko'paytmasiga teng", "Hosilalar bo'linmasiga teng"],
-      "correct": 0
-    },
-    {
-      "question": "Yig'indining hosilasi....",
-      "options": ["Hosilalar yig'indisiga teng", "Hosilalar ayirmasiga teng", "Hosilalar ko'paytmasiga teng", "Hosilalar bo'linmasiga teng"],
-      "correct": 0
-    }
-  ]
-}
+[
+  {
+    "id": 1,
+    "question": "Ustun matritsani ko'rsating",
+    "options": ["$\\begin{pmatrix} a \\\\ b \\end{pmatrix}$", "$\\begin{pmatrix} a & b \\end{pmatrix}$", "$\\begin{pmatrix} a & b \\\\ c & d \\end{pmatrix}$", "$(1, 2, 3)$"]
+  },
+  {
+    "id": 2,
+    "question": "Matritsa deb nimaga aytiladi?",
+    "options": ["$m$ ta satr va $n$ ta ustunga ega bo'lgan qavslar ichiga olingan to'rtburchakli sonlar jadvali", "$m$ ta satr va $n$ ta ustunga ega bo'lgan qavslar ichiga olingan uchburchakli harflar jadvali", "Harflar yig'indisidan iborat ifoda", "Sonlarning ko'paytmasidan iborat ifoda"]
+  },
+  {
+    "id": 3,
+    "question": "Matritsani tashkil qilgan sonlar nima deyiladi?",
+    "options": ["Elementlar", "Harflar", "Belgilar", "Natural sonlar"]
+  },
+  {
+    "id": 4,
+    "question": "$3$ ta satr va $4$ ta ustundan iborat matritsa o'lchami toping",
+    "options": ["$3 \\times 4$", "$4 \\times 3$", "$3 \\times 3$", "$4 \\times 4$"]
+  },
+  {
+    "id": 5,
+    "question": "$3$-satr va $4$-ustunda turgan elementni qanday belgilanadi?",
+    "options": ["$a_{34}$", "$a_{43}$", "$A_{34}$", "$A_{43}$"]
+  },
+  {
+    "id": 6,
+    "question": "$3 \\times 4$ o'lchamli matritsada nechta element bo'ladi?",
+    "options": ["$12$", "$16$", "$9$", "$20$"]
+  },
+  {
+    "id": 7,
+    "question": "Barcha elementlari noldan iborat bo'lgan matritsa qanaqa matritsa deyiladi?",
+    "options": ["Nol matritsa", "Kvadrat matritsa", "Diagonal matritsa", "To'rtburchak matritsa"]
+  },
+  {
+    "id": 8,
+    "question": "Birlik matritsani ko`rsating.",
+    "options": ["$I$", "$\\begin{pmatrix} 1 & 0 \\\\ 0 & 1 \\end{pmatrix}$", "$(2, 1, 3)$", "$O$"]
+  },
+  {
+    "id": 9,
+    "question": "Kvadrat matritsa deb qanday matritsaga aytiladi?",
+    "options": ["Satrlar soni ustunlar soniga teng matritsaga ($m=n$)", "Satrlar soni ustunlar soniga teng bo'lmagan matritsaga", "Satrlar soni ustunlar sonidan katta bo'lgan matritsaga", "Satrlar soni ustunlar sonidan kichik bo'lgan matritsaga"]
+  },
+  {
+    "id": 10,
+    "question": "Matritsalarni qo'shish mumkin, agar…",
+    "options": ["Ikkala matritsa bir xil tartibli bo'lsa ($A, B \\in \\mathbb{R}^{m \\times n}$)", "Ikkala matritsa elementlari teng bo'lsa", "Ikkala matritsa elementlari musbat bo'lsa", "Ikkala matritsa mos satr va ustun elementlari teng bo'lmasa"]
+  },
+  {
+    "id": 11,
+    "question": "$A$ matritsaning elementlari bo'yicha $a_{23} + a_{32}$ yig'indini toping.",
+    "options": ["$-4$", "$4$", "$0$", "$5$"]
+  },
+  {
+    "id": 12,
+    "question": "Matritsa tartibini aniqlang.",
+    "options": ["$3 \\times 3$", "$3 \\times 2$", "$2 \\times 3$", "$2 \\times 2$"]
+  },
+  {
+    "id": 13,
+    "question": "Matritsaning barcha elementlari yig'indisini toping.",
+    "options": ["$17$", "$7$", "$0$", "$15$"]
+  },
+  {
+    "id": 14,
+    "question": "Agar matritsa bitta ustundan iborat bo'lsa bu matritsa ….",
+    "options": ["ustun matritsa (vektor-stolb)", "$m \\times 1$ matritsa", "birlik matritsa", "kvadrat matritsa"]
+  },
+  {
+    "id": 15,
+    "question": "Bu matritsa nechta satr va ustunga ega?",
+    "options": ["$m \\times n$", "$n \\times m$", "$1 \\times n$", "$m \\times 1$"]
+  },
+  {
+    "id": 16,
+    "question": "$A$ va $B$ berilgan bo'lsa $A - B$ matritsani hisoblang.",
+    "options": ["$[A-B]$", "$[A+B]$", "$[-A-B]$", "$[B-A]$"]
+  },
+  {
+    "id": 17,
+    "question": "$A+B$ matritsani hisoblang.",
+    "options": ["Bu matritsalar ustida qo'shish amalini bajarib bo'lmaydi.", "$[A+B]$", "$[A-B]$", "$[B-A]$"]
+  },
+  {
+    "id": 18,
+    "question": "Bosh diagonal elementlaridan boshqa barcha elementlari nollardan iborat kvadrat matritsaga ....... deyiladi.",
+    "options": ["diagonal matritsa", "birlik matritsa", "kvadrat matritsa", "nol matritsa"]
+  },
+  {
+    "id": 19,
+    "question": "Quyidagi determinantni hisoblang: $\\begin{vmatrix} a & b \\\\ c & d \\end{vmatrix}$",
+    "options": ["$ac-bd$", "$ad-bc$", "$ac$", "$bd$"]
+  },
+  {
+    "id": 20,
+    "question": "Quyidagi determinantni hisoblang: $\\begin{vmatrix} 5 & 2 \\\\ 3 & 4 \\end{vmatrix}$",
+    "options": ["$26$", "$13$", "$15$", "$14$"]
+  },
+  {
+    "id": 21,
+    "question": "Chiziqli tenglamalar sistemasida. Agar $\\Delta \\neq 0$ shart bajarilsa ........ bo'ladi.",
+    "options": ["tenglamalar sistemasi yagona yechimga ega", "tenglamalar sistemasi yechimga ega emas", "tenglamalar sistemasi cheksiz ko'p yechimga ega", "tenglamalar sistemasi parallel"]
+  },
+  {
+    "id": 22,
+    "question": "Chiziqli tenglamalar sistemasida. Agar $\\Delta = 0$ va $\\Delta_x \\neq 0$ shart bajarilsa ........ bo'ladi.",
+    "options": ["tenglamalar sistemasi yechimga ega emas", "tenglamalar sistemasi yagona yechimga ega", "tenglamalar sistemasi cheksiz ko'p yechimga ega", "tenglamalar sistemasi parallel"]
+  },
+  {
+    "id": 23,
+    "question": "Chiziqli tenglamalar sistemasida. Agar $\\Delta = \\Delta_x = \\Delta_y = 0$ shart bajarilsa ........",
+    "options": ["tenglamalar sistemasi cheksiz ko'p yechimga ega", "tenglamalar sistemasi yagona yechimga ega", "tenglamalar sistemasi yechimga ega emas", "tenglamalar sistemasi parallel"]
+  },
+  {
+    "id": 24,
+    "question": "Birgalikdagi tenglamalar sistemasi yagona yechimga ega bo'lsa .......... deyiladi.",
+    "options": ["aniq", "trivial", "Yechim yo'q", "Cheksiz ko'p yechim"]
+  },
+  {
+    "id": 25,
+    "question": "Birgalikdagi tenglamalar sistemasi bittadan ortiq yechimga ega bo'lsa ....... deyiladi.",
+    "options": ["aniqmas", "trivial", "Yechim yo'q", "Cheksiz ko'p yechim"]
+  },
+  {
+    "id": 26,
+    "question": "Tenglamalar sistemasini yeching: $\\begin{cases} 2x+y=5 \\\\ x-y=1 \\end{cases}$",
+    "options": ["$x=2, y=1$", "Yechimga ega emas", "Cheksiz ko'p yechim", "Yechimlari nolga teng"]
+  },
+  {
+    "id": 27,
+    "question": "Chiziqli tenglamalar sistemasi yechimini asosiy va yordamchi determinantlar orqali ifodalovchi tengliklar ...... formulalari deyiladi.",
+    "options": ["Kramer", "Gauss", "chiziqli", "Bir jinsli"]
+  },
+  {
+    "id": 28,
+    "question": "Agar chiziqli tenglamalar sistemasining barcha ozod hadlari nolga teng bo'lsa ($b_i=0$), chiziqli tenglamalar sistemasi ........... deyiladi.",
+    "options": ["Bir jinsli", "trivial", "Yechim yo'q", "Cheksiz ko'p yechim"]
+  },
+  {
+    "id": 29,
+    "question": "Agarda, tenglamalar ozod hadlaridan hech bo'lmaganda bittasi noldan farqli bo'lsa ($\\exists b_i \\neq 0$), sistema ...... deb ataladi.",
+    "options": ["bir jinsli bo'lmagan sistema", "trivial", "Yechim yo'q", "Cheksiz ko'p yechim"]
+  },
+  {
+    "id": 30,
+    "question": "Bir jinsli chiziqli tenglamalar sistemaning yechimi faqat nollardan iborat bo'lsa ($x_1=x_2=...=x_n=0$), u ..... yechim.",
+    "options": ["trivial yechim", "notrivial yechim", "Yechim yo'q", "Cheksiz ko'p yechim"]
+  },
+  {
+    "id": 31,
+    "question": "Bir jinsli chiziqli tenglamalar sistemasining yechimi ichida kamida bitta noldan farqli son mavjud bo'lsa, u ..... deb ataladi.",
+    "options": ["notrivial yechim", "trivial", "Yechim yo'q", "Cheksiz ko'p yechim"]
+  },
+  {
+    "id": 32,
+    "question": "Tenglamalar sistemasini yeching: $\\begin{cases} x+y=6 \\\\ x-y=2 \\end{cases}$",
+    "options": ["$x=4, y=2$", "$x=2, y=0$", "$x=10, y=10$", "$x=5, y=-5$"]
+  },
+  {
+    "id": 33,
+    "question": "Tenglamalar sistemasini yeching: $\\begin{cases} x+2y=4 \\\\ x-y=1 \\end{cases}$",
+    "options": ["$x=2, y=1$", "$x=2, y=0$", "$x=10, y=10$", "$x=5, y=-5$"]
+  },
+  {
+    "id": 34,
+    "question": "Tenglamalar sistemasini yeching: $\\begin{cases} 2x+y=10 \\\\ x-y=2 \\end{cases}$",
+    "options": ["$x=4, y=2$", "$x=2, y=0$", "$x=10, y=10$", "$x=5, y=-5$"]
+  },
+  {
+    "id": 35,
+    "question": "Tenglamalar sistemasini o'rniga qo'yish usuli bilan yeching: $\\begin{cases} x+y=0 \\\\ x-y=-12 \\end{cases}$",
+    "options": ["$x=-6, y=6$", "$x=2, y=0$", "$x=10, y=10$", "$x=5, y=-5$"]
+  },
+  {
+    "id": 36,
+    "question": "Tenglamalar sistemasini o'rniga qo'yish usuli bilan yeching: $\\begin{cases} 2x+y=12 \\\\ x-y=3 \\end{cases}$",
+    "options": ["$x=5, y=2$", "$x=2, y=0$", "$x=10, y=10$", "$x=5, y=-5$"]
+  },
+  {
+    "id": 37,
+    "question": "Tenglamalar sistemasini qo'shish usuli bilan yeching: $\\begin{cases} 3x+y=17 \\\\ 2x-y=8 \\end{cases}$",
+    "options": ["$x=5, y=2$", "$x=2, y=0$", "$x=10, y=10$", "$x=5, y=-5$"]
+  },
+  {
+    "id": 38,
+    "question": "Tenglamalar sistemasini qo'shish usuli bilan yeching: $\\begin{cases} x+y=0 \\\\ x-y=4 \\end{cases}$",
+    "options": ["$x=2, y=-2$", "$x=2, y=0$", "$x=10, y=10$", "$x=5, y=-5$"]
+  },
+  {
+    "id": 39,
+    "question": "Tenglamalar sistemasini qo'shish usuli bilan yeching: $\\begin{cases} 2x+y=8 \\\\ x-y=1 \\end{cases}$",
+    "options": ["$x=3, y=2$", "$x=2, y=0$", "$x=10, y=10$", "$x=5, y=-5$"]
+  },
+  {
+    "id": 40,
+    "question": "Cheksiz ko'p yechim nima?",
+    "options": ["Javobi istalgan son ($x \\in \\mathbb{R}$)", "Javobi yo'q ($\\varnothing$)", "Javobi nolga teng bo'lgan son", "Javobi ikkita bo'lgan son"]
+  },
+  {
+    "id": 41,
+    "question": "$A(7; -3)$ va $B(10; -9)$ bo'lsa, $\\vec{AB}$ vektor koordinatasini toping.",
+    "options": ["$(3; -6)$", "$(4; -3)$", "$(8; -6)$", "$(-4; -6)$"]
+  },
+  {
+    "id": 42,
+    "question": "$A(5; 3)$ va $B(10; 9)$ bo'lsa, $\\vec{AB}$ vektor koordinatasini toping.",
+    "options": ["$(5; 6)$", "$(7; -3)$", "$(8; -5)$", "$(-4; -6)$"]
+  },
+  {
+    "id": 43,
+    "question": "$A(1; 3)$ va $B(10; 3)$ bo'lsa, $\\vec{AB}$ vektor koordinatasini toping.",
+    "options": ["$(9; 0)$", "$(7; 3)$", "$(18; -5)$", "$(4; 6)$"]
+  },
+  {
+    "id": 44,
+    "question": "$A(12; 3)$ va $B(15; 9)$ bo'lsa, $\\vec{AB}$ vektor koordinatasini toping.",
+    "options": ["$(3; 6)$", "$(17; -3)$", "$(83; -5)$", "$(4; -6)$"]
+  },
+  {
+    "id": 45,
+    "question": "$A(5; 3)$ va $B(5; 3)$ bo'lsa, $\\vec{AB}$ vektor koordinatasini toping.",
+    "options": ["$(0; 0)$", "$(6; -3)$", "$(2; -5)$", "$(-4; -6)$"]
+  },
+  {
+    "id": 46,
+    "question": "$A(5; 3)$ va $B(1; 9)$ bo'lsa, $\\vec{AB}$ vektor koordinatasini toping.",
+    "options": ["$(-4; 6)$", "$(7; -3)$", "$(8; -5)$", "$(14; 6)$"]
+  },
+  {
+    "id": 47,
+    "question": "$\\vec{a}=(-2, 6, 3)$ vektorning $|\\vec{a}|$ modulini hisoblang.",
+    "options": ["$|\\vec{a}|=7$", "$|\\vec{a}|=49$", "$|\\vec{a}|=\\sqrt{49}$", "$|\\vec{a}|=121$"]
+  },
+  {
+    "id": 48,
+    "question": "$\\vec{a}=(0, 3, 4)$ vektorning $|\\vec{a}|$ modulini hisoblang.",
+    "options": ["$|\\vec{a}|=5$", "$|\\vec{a}|=3$", "$|\\vec{a}|=4$", "$|\\vec{a}|=9$"]
+  },
+  {
+    "id": 49,
+    "question": "$\\vec{a}=(6, 8, 0)$ vektorning $|\\vec{a}|$ modulini hisoblang.",
+    "options": ["$|\\vec{a}|=10$", "$|\\vec{a}|=12$", "$|\\vec{a}|=15$", "$|\\vec{a}|=0$"]
+  },
+  {
+    "id": 50,
+    "question": "$\\overrightarrow{AB}$ qanday o'qiladi?",
+    "options": ["$AB$ vektor", "$AB$ to'g'ri chiziq", "$AB$ egri chiziq", "$AB$ nuqta"]
+  },
+  {
+    "id": 51,
+    "question": "$\\vec{a}$ qanday o'qiladi?",
+    "options": ["$a$ vektor", "$a$ nuqta", "$a$ to'g'ri chiziq", "$a$ kesma"]
+  },
+  {
+    "id": 52,
+    "question": "Vektorning modulini ko'rsating.",
+    "options": ["$|\\vec{a}|$", "$\\|\\vec{a}\\|$", "$a$", "$\\sqrt{\\vec{a}}$"]
+  },
+  {
+    "id": 53,
+    "question": "$k \\cdot \\vec{a}$ nimani ifodalaydi?",
+    "options": ["vektorni skalyarga ko'paytirish", "ikki vektorning skalyar ko'paytmasi", "ikki vektorning vektor ko'paytmasi", "vektorlarni qo'shish"]
+  },
+  {
+    "id": 54,
+    "question": "$\\vec{a} = (x; y; z)$ nimani ifodalaydi?",
+    "options": ["koordinatalari bilan berilgan vektor", "vektor uzunligi", "ikki vektorning ayirmasi", "birlik vektor"]
+  },
+  {
+    "id": 55,
+    "question": "$\\vec{a} = (2; 0; 0)$ vektorning uzunligi topilsin.",
+    "options": ["$2$", "$3$", "$0$", "$-1$"]
+  },
+  {
+    "id": 56,
+    "question": "$\\vec{a} \\cdot \\vec{b}$ nimani ifodalaydi?",
+    "options": ["ikki vektorning skalyar ko'paytmasi", "ikki vektorning vektor ko'paytmasi", "aralash ko'paytma", "vektor bo'linmasi"]
+  },
+  {
+    "id": 57,
+    "question": "$\\vec{a} \\times \\vec{b}$ nimani ifodalaydi?",
+    "options": ["ikki vektorning vektor ko'paytmasi", "skalyar ko'paytma", "aralash ko'paytma", "ikki vektorning ayirmasi"]
+  },
+  {
+    "id": 58,
+    "question": "$(\\vec{a}, \\vec{b}, \\vec{c})$ nimani ifodalaydi?",
+    "options": ["aralash ko'paytma", "vektor ko'paytmasi", "vektorlar bo'linmasi", "vektorlarni qo'shish"]
+  },
+  {
+    "id": 59,
+    "question": "Vektorlarning skalyar ko'paytmasi topilsin: $\\vec{a}=(x_1, y_1), \\vec{b}=(x_2, y_2)$",
+    "options": ["$x_1 x_2 + y_1 y_2$", "$x_1 x_2 - y_1 y_2$", "$x_1 y_2 + y_1 x_2$", "$y_1 x_2 + y_1 y_2 = 0$"]
+  },
+  {
+    "id": 60,
+    "question": "$\\vec{a}=(3, 0, 1)$ bo'lsa, $-5\\vec{a} = ?$",
+    "options": ["$(-15, 0, -5)$", "$(5, -4, 1)$", "$(3, -8, 7)$", "$(7, 8, 1)$"]
+  },
+  {
+    "id": 61,
+    "question": "$\\vec{a}=(0, 0, 0)$ bu nima?",
+    "options": ["Nol vektor $\\vec{0}$", "Birlik vektor", "Vektor emas", "Qiymati yo'q"]
+  },
+  {
+    "id": 62,
+    "question": "Quyida qaysi formula ko'rsatilgan? $\\frac{x}{a} + \\frac{y}{b} = 1$",
+    "options": ["to'g'ri chiziqning kesmalardagi tenglamasi", "to'g'ri chiziqning kanonik tenglamasi", "to'g'ri chiziqning vektorli tenglamasi", "Berilgan ikki nuqtadan o'tgan to'g'ri chiziqning tenglamasi"]
+  },
+  {
+    "id": 63,
+    "question": "Quyida qaysi formula ko'rsatilgan: $y = kx+b$",
+    "options": ["to'g'ri chiziqning burchak koeffitsientli tenglamasi", "to'g'ri chiziqning kanonik tenglamasi", "to'g'ri chiziqning vektorli tenglamasi", "Berilgan ikki nuqtadan o'tgan to'g'ri chiziqning tenglamasi"]
+  },
+  {
+    "id": 64,
+    "question": "Quyida qaysi formula ko'rsatilgan? $\\frac{y-y_1}{y_2-y_1} = \\frac{x-x_1}{x_2-x_1}$",
+    "options": ["Berilgan ikki nuqtadan o'tgan to'g'ri chiziqning tenglamasi", "Skalyar ko'paytma", "to'g'ri chiziqning kanonik tenglamasi", "to'g'ri chiziqning vektorli tenglamasi"]
+  },
+  {
+    "id": 65,
+    "question": "Quyidagilardan qaysi biri $Ax+By+Cz+D=0$ tenglama bilan berilgan tekislikning $\\vec{n}$ normal vektori bo'ladi?",
+    "options": ["$\\vec{n}=(A, B, C)$", "$\\vec{n}=(C, A, B)$", "$\\vec{n}=(A, B, D)$", "$\\vec{n}=(B, C, D)$"]
+  },
+  {
+    "id": 66,
+    "question": "$3x+4y+7z-81=0$ tenglama bilan berilgan tekislikning normalini aniqlang.",
+    "options": ["$\\vec{n}=(3, 4, 7)$", "$\\vec{n}=(-3, -4, 81)$", "$\\vec{n}=(4, 7, -81)$", "$\\vec{n}=(3, 4, -81)$"]
+  },
+  {
+    "id": 67,
+    "question": "$4x+5y+8z-81=0$ tenglama bilan berilgan tekislikning normalini aniqlang.",
+    "options": ["$\\vec{n}=(4, 5, 8)$", "$\\vec{n}=(3, 4, 1)$", "$\\vec{n}=(4, 7, 81)$", "$\\vec{n}=(3, 4, -81)$"]
+  },
+  {
+    "id": 68,
+    "question": "$7x+5y+4z-81=0$ tenglama bilan berilgan tekislik normalini aniqlang.",
+    "options": ["$\\vec{n}=(7, 5, 4)$", "$\\vec{n}=(-3, -4, 81)$", "$\\vec{n}=(4, 7, -81)$", "$\\vec{n}=(3, 4, -81)$"]
+  },
+  {
+    "id": 69,
+    "question": "Tekislikdagi to'g'ri chiziqning umumiy $3x+5y+2=0$ tenglamasi bo'yicha uning $\\vec{n}=(A,B)$ normal vektorini toping.",
+    "options": ["$\\vec{n}=(3, 5)$", "$\\vec{n}=(3, 2)$", "$\\vec{n}=(2, 5)$", "$\\vec{n}=(5, 3)$"]
+  },
+  {
+    "id": 70,
+    "question": "Tekislikdagi to'g'ri chiziqning umumiy $Ax+By+C=0$ tenglamasidagi $A$ va $B$ koeffitsiyentlar qanday shartni qanoatlantirishi kerak?",
+    "options": ["$A^2 + B^2 \\neq 0$", "$A \\cdot B > 0$", "$A + B = 0$", "$A - B < 0$"]
+  },
+  {
+    "id": 71,
+    "question": "Tasdiqni yakunlang: Tekislikdagi to'g'ri chiziqning umumiy $Ax + By + C = 0$ tenglamasi bo'yicha tuzilgan $\\vec{n} = (A, B)$ vektor bu to'g'ri chiziqqa ∙∙∙.",
+    "options": ["perpendikulyar bo'ladi ($\\perp$)", "parallel bo'ladi ($\\parallel$)", "tegishli bo'ladi", "perpendikulyar bo'lmaydi"]
+  },
+  {
+    "id": 72,
+    "question": "Kesimda to'g'ri chiziq tenglamasida $b$ koeffitsient nimani anglatadi?",
+    "options": ["To'g'ri chiziqning $OY$ o'qini kesib o'tgan nuqtaning koordinata boshigacha bo'lgan masofasi", "$b = y_{kesish}$", "Koordinata boshini", "$OX$ o'qini"]
+  },
+  {
+    "id": 73,
+    "question": "To'g'ri chiziqning kanonik tenglamasida $m=0$ bo'lgani nimani anglatadi?",
+    "options": ["$OX$ o'qiga perpendikulyarlikni", "Koordinata boshi", "$OX$ o'qi", "$OY$ o'qi"]
+  },
+  {
+    "id": 74,
+    "question": "Agar $M(x,y)$ nuqta kesmaning o'rtasidagi nuqta bo'lsa, u holda ……",
+    "options": ["$x = \\frac{x_1+x_2}{2}, \\ y = \\frac{y_1+y_2}{2}$", "$x = x_2-x_1, \\ y = y_2-y_1$", "$x = \\frac{x_1-x_2}{2}$", "$x = x_1 \\cdot x_2$"]
+  },
+  {
+    "id": 75,
+    "question": "Ikki nuqtani tutashtirish hosil bo'lgan kesmaning o'rtasini koordinatasi qanday topiladi?",
+    "options": ["Ikki nuqtaning mos koordinatalar yig'indisining yarmiga teng", "Ikki nuqtaning mos koordinatalar ayirmasiga", "Ikki nuqtaning mos koordinatalari ko'paytmasiga teng", "Kvadratga ko'tarish kerak"]
+  },
+  {
+    "id": 76,
+    "question": "$(-2; -3; -4)$ nuqtaning $OX$ o'qidagi qiymatini toping",
+    "options": ["$-2$", "$-3$", "$4$", "$5$"]
+  },
+  {
+    "id": 77,
+    "question": "$(-3; 4; 6)$ nuqtaning $OY$ o'qidagi qiymatini toping.",
+    "options": ["$4$", "$9$", "$-2$", "$3$"]
+  },
+  {
+    "id": 78,
+    "question": "$(7; 3; 5)$ nuqtaning $OZ$ o'qidagi qiymatini toping.",
+    "options": ["$5$", "$3$", "$2$", "$3$"]
+  },
+  {
+    "id": 79,
+    "question": "$y=2x+3$ ning $x=1$ nuqtadagi $y$ qiymatini toping",
+    "options": ["$5$", "$3$", "$4$", "$1$"]
+  },
+  {
+    "id": 80,
+    "question": "To'g'ri chiziqning umumiy tenglamasini ko'rsating.",
+    "options": ["$Ax + By + C = 0$", "$y = kx + b$", "$Ax=0$", "$By=0$"]
+  },
+  {
+    "id": 81,
+    "question": "Ikki nuqtadan o'tuvchi to'g'ri chiziq tenglamasini ko'rsating.",
+    "options": ["$\\frac{y-y_1}{y_2-y_1} = \\frac{x-x_1}{x_2-x_1}$", "$Ax+1=0$", "$By=C$", "$Ax=-C$"]
+  },
+  {
+    "id": 82,
+    "question": "Hisoblang: $f(x)=12x^4-5x^3+3x-1$, $f'(0)=?$",
+    "options": ["$3$", "$4$", "$2$", "$1$"]
+  },
+  {
+    "id": 83,
+    "question": "Hisoblang: $f(x)=3x^4-5x^3+x-4$, $f''(1)=?$",
+    "options": ["$6$", "$1$", "$2$", "$3$"]
+  },
+  {
+    "id": 84,
+    "question": "Hisoblang: $f(x)=4x^3-6x^2+5$, $f'(0)=?$",
+    "options": ["$0$", "$3$", "$32$", "$21$"]
+  },
+  {
+    "id": 85,
+    "question": "Hisoblang: $f(x)=5x^4-9x^2+8$, $f'(1)=?$",
+    "options": ["$2$", "$1$", "$0$", "$23$"]
+  },
+  {
+    "id": 86,
+    "question": "Hisoblang: $f(x)=10x^4-12x^3+10x$, $f'(0)=?$",
+    "options": ["$10$", "$2$", "$1$", "$0$"]
+  },
+  {
+    "id": 87,
+    "question": "Funksiya berilgan: $f'(0)$ qiymatini toping. $f(x)=9x^2-12x^3+e^x$",
+    "options": ["$1$", "$0$", "$3$", "$4$"]
+  },
+  {
+    "id": 88,
+    "question": "Funksiya so'zi qaysi tildan olingan?",
+    "options": ["lotincha ($functio$)", "yunoncha", "Ruscha", "Inglizcha"]
+  },
+  {
+    "id": 89,
+    "question": "Funksiyaning aniqlanish sohasi … bilan belgilanadi",
+    "options": ["$D(f)$", "$E(f)$", "$\\text{dom}(f)$", "$\\text{range}(f)$"]
+  },
+  {
+    "id": 90,
+    "question": "Funksiyaning qiymatlar sohasi … bilan belgilanadi",
+    "options": ["$D(f)$", "$E(f)$", "$\\text{dom}(f)$", "$\\text{range}(f)$"]
+  },
+  {
+    "id": 91,
+    "question": "$y = f(x)$ funksiyada $x$ nima?",
+    "options": ["erkli o'zgaruvchi (argument)", "erksiz o'zgaruvchi (funksiya)", "Parameter", "Operator"]
+  },
+  {
+    "id": 92,
+    "question": "$y = f(x)$ funksiyada $y$ nima?",
+    "options": ["erksiz o'zgaruvchi", "Erkli o'zgaruvchi", "Parameter", "Operator"]
+  },
+  {
+    "id": 93,
+    "question": "$y = f(x)$ funksiyada $f$ nima?",
+    "options": ["$x$ ni $y$ ga mos qo'yuvchi qoida", "Erkli o'zgaruvchi", "Parameter", "erksiz o'zgaruvchi"]
+  },
+  {
+    "id": 94,
+    "question": "Funksiyaning hosilasini toping: $f(x)=x^3-7x+5$",
+    "options": ["$3x^2-7$", "$9-x$", "$2x-9$", "$3x-7$"]
+  },
+  {
+    "id": 95,
+    "question": "$y=2x+5$ hosilasini toping.",
+    "options": ["$2$", "$1$", "$5$", "$0$"]
+  },
+  {
+    "id": 96,
+    "question": "$y=5x^2+3x-4$ hosilasini toping.",
+    "options": ["$10x+3$", "$3x-4$", "$5x-6$", "$4x-6$"]
+  },
+  {
+    "id": 97,
+    "question": "$y=x^2+5x$ hosilasini toping.",
+    "options": ["$2x+5$", "$3x-4$", "$5x-6$", "$4x-6$"]
+  },
+  {
+    "id": 98,
+    "question": "Ushbu $y=2\\sin x$ funktsiya uchun $y'$ ni toping",
+    "options": ["$2\\cos x$", "$\\cos 3x$", "$2\\sin x$", "$\\cos x$"]
+  },
+  {
+    "id": 99,
+    "question": "Ayirmaning hosilasi ….",
+    "options": ["Hosilalar ayirmasiga teng: $(f-g)' = f' - g'$", "Hosilalar yig'indisiga teng", "Hosilalar ko'paytmasiga teng", "Hosilalar bo'linmasiga teng"]
+  },
+  {
+    "id": 100,
+    "question": "Yig'indining hosilasi ….",
+    "options": ["Hosilalar yig'indisiga teng: $(f+g)' = f' + g'$", "Hosilalar ayirmasiga teng", "Hosilalar ko'paytmasiga teng", "Hosilalar bo'linmasiga teng"]
+  },
+  {
+    "id": 101,
+    "question": "$y=\\sin x$ funksiyaning hosilasini toping.",
+    "options": ["$\\cos x$", "$-\\sin x$", "$\\tan x$", "$\\cot x$"]
+  },
+  {
+    "id": 102,
+    "question": "Quyidagi determinantni hisoblang: $\\begin{vmatrix} 4 & 5 \\\\ 2 & 3 \\end{vmatrix}$",
+    "options": ["$26$", "$13$", "$15$", "$14$"]
+  },
+  {
+    "id": 103,
+    "question": "Ushbu determinantni hisoblang: $\\begin{vmatrix} 6 & 3 \\\\ 4 & 2 \\end{vmatrix}$",
+    "options": ["$0$", "$12$", "$-12$", "$24$"]
+  },
+  {
+    "id": 104,
+    "question": "Matritsa mazmuni qayerda to'g'ri ko'rsatilgan?",
+    "options": ["sonlar jadvali", "sonlar yig'indisi", "sonlar ko'paytmasi", "sonlar birlashmasi"]
+  },
+  {
+    "id": 105,
+    "question": "Quyidagi shartlardan qaysi biri bajarilsa determinant nolga teng bo'ladi?",
+    "options": ["Ixtiyoriy ikkita qatori (yoki ustuni) proportsional bo'lsa", "Birorta elementi nolga teng bo'lsa", "Biror qator elementlari mos ravishda bir ustun elementlariga teng bo'ladi", "Birorta qator noldan farqli ko'paytuvchiga ega bo'lsa"]
+  },
+  {
+    "id": 106,
+    "question": "Determinant bu -",
+    "options": ["Son ($\\Delta \\in \\mathbb{R}$)", "Vektor", "doiraviy qavs ichiga olingan jadval", "$AB$ ko'paytma"]
+  },
+  {
+    "id": 107,
+    "question": "$f(x)=x^6-10x^2$, $f(1)=?$",
+    "options": ["$-9$", "$15$", "$1$", "$-10$"]
+  },
+  {
+    "id": 108,
+    "question": "Quyidagi determinantni hisoblang: $\\begin{vmatrix} 3 & 2 \\\\ 1 & 4 \\end{vmatrix}$",
+    "options": ["$13$", "$5$", "$9$", "$4$"]
+  },
+  {
+    "id": 109,
+    "question": "Limitni hisoblang: $\\lim_{x \\to 3} (2x^2 - 5x + 7)$",
+    "options": ["$16$", "$12$", "$-9$", "$14$"]
+  },
+  {
+    "id": 110,
+    "question": "Limitni hisoblang: $\\lim_{x \\to 2} \\frac{x^2-4}{x-2}$",
+    "options": ["$7$", "$2$", "$4$", "$-3$"]
+  },
+  {
+    "id": 111,
+    "question": "Limitni hisoblang: $\\lim_{x \\to \\infty} \\left(1+\\frac{1}{x}\\right)^x$",
+    "options": ["$e$", "$3,14$", "$0$", "$1$"]
+  },
+  {
+    "id": 112,
+    "question": "Birinchi ajoyib limit ifodalangan javobni toping.",
+    "options": ["$\\lim_{x \\to 0} \\frac{\\sin x}{x} = 1$", "$\\lim_{x \\to \\infty} \\left(1+\\frac{1}{x}\\right)^x = e$", "$\\lim_{x \\to 0} \\frac{e^x-1}{x} = 1$", "$\\lim_{x \\to 0} \\frac{\\ln(1+x)}{x} = 1$"]
+  },
+  {
+    "id": 113,
+    "question": "Agar $\\vec{a}=(6, -3), \\vec{b}=(-4, 6)$ bo'lsa, ushbu vektorlar skalyar ko'paytmasini toping.",
+    "options": ["$-42$", "$30$", "$1$", "$0$"]
+  },
+  {
+    "id": 114,
+    "question": "$\\vec{a}=(3, 4), \\vec{b}=(5, 2)$ vektorlarning skalyar ko'paytmasini toping.",
+    "options": ["$25$", "$10$", "$28$", "$22$"]
+  },
+  {
+    "id": 115,
+    "question": "Ikki funksiya bo'linmasining limiti bu funksiyalar…",
+    "options": ["Limitlarning nisbatiga teng: $\\lim \\frac{f}{g} = \\frac{\\lim f}{\\lim g}$", "Limitlarning ko'paytmasiga teng", "Limitlarning ayirmasiga teng", "Limitlarning yig'indisiga teng"]
+  },
+  {
+    "id": 116,
+    "question": "Ikki funksiya ko'paytmasining limiti bu funksiyalar…",
+    "options": ["Limitlarning ko'paytmasiga teng: $\\lim (f \\cdot g) = \\lim f \\cdot \\lim g$", "Limitlarning bo'linmasiga teng", "Limitlarning ayirmasiga teng", "Limitlarning yig'indisiga teng"]
+  },
+  {
+    "id": 117,
+    "question": "Differensial tenglama tartibini aniqlang: $y^{(4)} = x-2$",
+    "options": ["$4$", "$2$", "$1$", "$3$"]
+  },
+  {
+    "id": 118,
+    "question": "$11$ ta satr va $4$ ta ustunga ega matritsaning nechta elementi mavjud?",
+    "options": ["$44$", "$40$", "$20$", "$15$"]
+  },
+  {
+    "id": 119,
+    "question": "$10$ ta satr va $9$ ta ustunga ega matritsaning nechta elementi mavjud?",
+    "options": ["$90$", "$19$", "$15$", "$29$"]
+  },
+  {
+    "id": 120,
+    "question": "Agar $f(-x) = f(x)$ tenglik bajarilsa $f(x)$ funksiya…",
+    "options": ["Juft funksiya", "Toq funksiya", "Davriy funksiya", "Monoton funksiya"]
+  },
+  {
+    "id": 121,
+    "question": "Agar $f(-x) = -f(x)$ tenglik bajarilsa $f(x)$ funksiya…",
+    "options": ["Toq funksiya", "Juft funksiya", "Monoton funksiya", "Davriy funksiya"]
+  },
+  {
+    "id": 122,
+    "question": "O'suvchi va kamayuvchi funksiyalar umumiy nom bilan qanday funksiyalar deyiladi?",
+    "options": ["Monoton funksiya", "Toq funksiya", "O'suvchi", "Kamayuvchi"]
+  },
+  {
+    "id": 123,
+    "question": "$y=3x^2+5x-9$ Funksiyaning aniqlanish sohasini toping.",
+    "options": ["$x \\in \\mathbb{R}$", "$[2; 6]$", "$(0)$", "$(3)$"]
+  },
+  {
+    "id": 124,
+    "question": "Funksiyaning aniqlanish sohasini toping: $y=\\sqrt{x-2}$",
+    "options": ["$[2; +\\infty)$", "$(-\\infty; 2]$", "$(2; +\\infty)$", "$\\mathbb{R}$"]
+  },
+  {
+    "id": 125,
+    "question": "Funksiyaning aniqlanish sohasini toping: $y=\\frac{1}{x+3}$",
+    "options": ["$(-\\infty; -3) \\cup (-3; +\\infty)$", "$\\mathbb{R}$", "$[ -3; +\\infty)$", "$(-\\infty; 3)$"]
+  },
+  {
+    "id": 126,
+    "question": "Funksiyaning aniqlanish sohasini toping: $y=\\ln(x)$",
+    "options": ["$(0; +\\infty)$", "$[0; +\\infty)$", "$(-\\infty; 0)$", "$(-\\infty; +\\infty)$"]
+  },
+  {
+    "id": 127,
+    "question": "Funksiyaning $x \\to 2$ bo'lgandagi limiti topilsin: $\\lim_{x \\to 2} (3x^2 + 2x - 1)$",
+    "options": ["$17$", "$15$", "$-24$", "$5$"]
+  },
+  {
+    "id": 128,
+    "question": "Differensial tenglamaga kirgan hosilalarning eng yuqori tartibiga ….",
+    "options": ["differensial tenglamaning tartibi deyiladi", "o'zgaruvchilari ajralgan differensial tenglama deyiladi", "Birinchi tartibli differensial tenglama deyiladi", "Ikkinchi tartibli differensial tenglama deyiladi"]
+  },
+  {
+    "id": 129,
+    "question": "Differensial tenglama tartibini aniqlang: $y'' + 3y' = e^x$",
+    "options": ["$2$", "$3$", "$0$", "$1$"]
+  },
+  {
+    "id": 130,
+    "question": "Differensial tenglama tartibini aniqlang: $y''' - y = \\sin x$",
+    "options": ["$3$", "$4$", "$2$", "$1$"]
+  },
+  {
+    "id": 131,
+    "question": "Limitni hisoblang: $\\lim_{x \\to 0} \\frac{\\sin 3x}{x}$",
+    "options": ["$1$", "$4$", "$-5$", "$3$"]
+  },
+  {
+    "id": 132,
+    "question": "Limitni hisoblang: $\\lim_{x \\to 2} \\frac{x^2-4}{x-2}$",
+    "options": ["$4$", "$-4$", "$2$", "$1$"]
+  },
+  {
+    "id": 133,
+    "question": "$f(x)=2x^2-6x+7$ funksiyaning $f(1)$ ni qiymatini toping.",
+    "options": ["$3$", "$-3$", "$5$", "$4$"]
+  },
+  {
+    "id": 134,
+    "question": "$f(x)=7x^8-10x^2$ funksiyaning $f(1)$ dagi qiymatini toping.",
+    "options": ["$-3$", "$3$", "$5$", "$1$"]
+  },
+  {
+    "id": 135,
+    "question": "$f(x)=x^4-6x^2+7$ funksiya haqidagi to'g'ri tasdiqni aniqlang.",
+    "options": ["juft funksiya", "na juft na toq", "toq funksiya", "kamayuvchi funksiya"]
+  },
+  {
+    "id": 136,
+    "question": "$f(x)=x^6-5x^2$ funksiya haqidagi to'g'ri tasdiqni aniqlang.",
+    "options": ["juft funksiya", "toq funksiya", "na juft na toq", "Davriy funksiya"]
+  },
+  {
+    "id": 137,
+    "question": "$f(x)=x^8-10x^2$ funksiya haqidagi to'g'ri tasdiqni aniqlang.",
+    "options": ["juft funksiya", "toq funksiya", "na juft na toq", "kamayuvchi funksiya"]
+  },
+  {
+    "id": 138,
+    "question": "$f(x)=x^5-10x^3$ funksiya haqidagi to'g'ri tasdiqni aniqlang.",
+    "options": ["toq funksiya", "juft funksiya", "na juft na toq", "kamayuvchi funksiya"]
+  },
+  {
+    "id": 139,
+    "question": "$f(x)=6x^6-5x^2$ funksiyaning $f(1)$ dagi qiymatini toping.",
+    "options": ["$1$", "$2$", "$-2$", "$5$"]
+  },
+  {
+    "id": 140,
+    "question": "$\\frac{d}{dx}(\\cos x)$ qaysi funksiyaning hosilasi hisoblanadi?",
+    "options": ["$-\\sin x$", "$\\sin x$", "$\\cos x$", "$\\tan x$"]
+  },
+  {
+    "id": 141,
+    "question": "$\\frac{d}{dx}(\\tan x)$ qaysi funksiyaning hosilasi hisoblanadi?",
+    "options": ["$\\tan x$", "$\\cot x$", "$-\\tan x$", "$\\frac{1}{\\cos^2 x}$"]
+  },
+  {
+    "id": 142,
+    "question": "$y - y_0 = f'(x_0)(x - x_0)$ $f(x)$ funksiyaning …tenglamasi deyiladi.",
+    "options": ["Urinma", "Normal", "chiziqli", "Kanonik"]
+  },
+  {
+    "id": 143,
+    "question": "$y=3\\sin x-5\\cos x$ funksiyaning hosilasini toping.",
+    "options": ["$3\\cos x + 5\\sin x$", "$\\cos 4x + 5\\sin x$", "$12\\cos 4x - 5\\sin x$", "$7\\cos 4x + 5\\sin x$"]
+  },
+  {
+    "id": 144,
+    "question": "Moddiy nuqta harakat qonuni $s=s(t)$ funksiya bilan berilganda (bunda $s$-o'tilgan yo'l, $t$-vaqt) funksiyaning $t$ nuqtadagi hosilasi …",
+    "options": ["$t$ momentdagi harakat tezligini ifodalaydi ($v=s'(t)$)", "$t$ momentdagi tezlanishni ifodalaydi", "$t$ momentdagi harakat chastotasini ifodalaydi", "$t$ momentdagi masofani ifodalaydi"]
+  },
+  {
+    "id": 145,
+    "question": "$y=\\cos x - x^3 - 3$ funksiyaning hosilasini toping.",
+    "options": ["$-\\sin x - 3x^2$", "$-\\sin x - 3x^2 - 3$", "$\\sin x + 3x^2$", "$-\\tan x + 3x^2$"]
+  },
+  {
+    "id": 146,
+    "question": "$y=4x^2-x$ hosilasini toping.",
+    "options": ["$8x-1$", "$4x-1$", "$1$", "$-1$"]
+  },
+  {
+    "id": 147,
+    "question": "$y=3x^2-5x$ hosilasini toping.",
+    "options": ["$6x-5$", "$3x-5$", "$-5$", "$+5$"]
+  },
+  {
+    "id": 148,
+    "question": "O'zgarmas sonning hosilasini toping: $(C)' = ?",
+    "options": ["$0$", "$1$", "Mavjud emas", "$-1$"]
+  },
+  {
+    "id": 149,
+    "question": "$\\frac{d}{dx}(\\cot x)$ qaysi funksiyaning hosilasi hisoblanadi?",
+    "options": ["$\\cot x$", "$-\\cot x$", "$2\\cot x$", "$-\\frac{1}{\\sin^2 x}$"]
+  },
+  {
+    "id": 150,
+    "question": "$y=-6x+14$ funksiyaning hosilasini toping.",
+    "options": ["$-6$", "$6$", "$-6x$", "$14$"]
+  },
+  {
+    "id": 151,
+    "question": "Funksiya hosilasini toping: $y=4x+26$",
+    "options": ["$4$", "$5$", "$4x$", "$26$"]
+  },
+  {
+    "id": 152,
+    "question": "$y=\\cos x + 2\\sin x$ funksiyaning hosilasini toping.",
+    "options": ["$-\\sin x + 2\\cos x$", "$\\sin 5x + 2\\cos x$", "$\\sin 5x + 2\\cos x$", "$2\\sin 5x + 2\\cos x$"]
+  },
+  {
+    "id": 153,
+    "question": "$f(x)=x^4-6x^3+8x$ funksiyaning hosilasini toping.",
+    "options": ["$4x^3 - 18x^2 + 8$", "$x^3 - 18x^2 + 8$", "$4x^3 - 18x^2$", "$3x^3 - 18x^2 + 8x$"]
+  },
+  {
+    "id": 154,
+    "question": "$f(x)=3x^4-5x^3+x-4$ funksiyaning hosilasini toping.",
+    "options": ["$12x^3 - 15x^2 + 1$", "$4x^3 - 15x^2$", "$12x^3 + 15x^2 + 8$", "$8x^3 - 15x^2 - 1$"]
+  },
+  {
+    "id": 155,
+    "question": "$y=4\\sin 2x - 9\\cos 5x$ funksiyaning hosilasini toping.",
+    "options": ["$8\\cos 2x + 45\\sin 5x$", "$\\cos 2x + 45\\sin 5x$", "$8\\cos 2x + 5\\sin 5x$", "$8\\cos 2x - 45\\sin 5x$"]
+  },
+  {
+    "id": 156,
+    "question": "$\\Delta y = f(x+\\Delta x) - f(x)$ bu….",
+    "options": ["Funksiya orttirmasi", "Argument orttirmasi", "Funktsiya limiti", "Funksiya uzluksizligi"]
+  },
+  {
+    "id": 157,
+    "question": "Funksiyaning hosilasini toping: $y=x^2-x+1$",
+    "options": ["$2x-1$", "$2x+1$", "$3x+1$", "$x-1$"]
+  },
+  {
+    "id": 158,
+    "question": "Ayirmaning hosilasi ….",
+    "options": ["Hosilalar ayirmasiga teng: $(f-g)' = f' - g'$", "Hosilalar yig'indisiga teng", "Hosilalar ko'paytmasiga teng", "Hosilalar bo'linmasiga teng"]
+  },
+  {
+    "id": 159,
+    "question": "Yig'indining hosilasi….",
+    "options": ["Hosilalar yig'indisiga teng: $(f+g)' = f' + g'$", "Hosilalar ayirmasiga teng", "Hosilalar ko'paytmasiga teng", "Hosilalar bo'linmasiga teng"]
+  }
+]
