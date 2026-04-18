@@ -347,7 +347,9 @@
             spinner.classList.remove('hidden');
 
             try {
-                const url = `./${currentDirection}/${subjectName}.json`;
+                const encodedDir = currentDirection.split(' ').join('%20');
+                const encodedSubj = subjectName.split(' ').join('%20');
+                const url = `./${encodedDir}/${encodedSubj}.json`;
                 console.log("Yuklanmoqda:", url);
                 const response = await fetch(url);
                 if (!response.ok) throw new Error(`JSON fayl topilmadi: ${url}`);
