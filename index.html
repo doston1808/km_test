@@ -238,7 +238,7 @@
                     class="nav-btn hidden flex-[1.5] bg-blue-600 text-white py-3 rounded-xl font-bold text-xs md:text-sm shadow-lg transition-all active:scale-95">
                     Keyingi
                 </button>
-                <button id="finish-early-btn" onclick="finishQuiz()"
+                <button id="finish-early-btn" onclick="checkAndFinishQuiz()"
                     class="nav-btn flex-1 bg-red-50 text-red-600 py-3 rounded-xl font-bold text-xs md:text-sm border border-red-100 transition-all active:scale-95">
                     Yakunlash
                 </button>
@@ -266,6 +266,17 @@
         </div>
     </div>
 
+    <!-- Custom Modal Oynasi (Tasdiqlash uchun) -->
+    <div id="custom-modal" class="hidden fixed inset-0 z-50 flex items-center justify-center bg-slate-900/40 backdrop-blur-sm p-4">
+        <div class="bg-white rounded-3xl p-6 md:p-8 max-w-sm w-full shadow-2xl animate-fade">
+            <h3 id="modal-title" class="text-lg font-extrabold text-slate-800 mb-2">Tasdiqlash</h3>
+            <p id="modal-desc" class="text-slate-500 text-sm mb-6 leading-relaxed"></p>
+            <div id="modal-buttons" class="flex gap-3">
+                <!-- Tugmalar dinamik qo'shiladi -->
+            </div>
+        </div>
+    </div>
+
     <script>
         let quizQuestions = [];
         let currentIndex = 0;
@@ -274,6 +285,33 @@
         let currentDegree = '';
         let currentDirection = '';
         let currentSubject = '';
+
+        // --- Custom Modal Mantiqi ---
+        function showModal(title, desc, buttons) {
+            document.getElementById('modal-title').innerText = title;
+            document.getElementById('modal-desc').innerHTML = desc;
+            
+            const btnContainer = document.getElementById('modal-buttons');
+            btnContainer.innerHTML = '';
+            
+            buttons.forEach(btn => {
+                const button = document.createElement('button');
+                button.className = `flex-1 py-3 px-2 rounded-xl font-bold text-xs md:text-sm transition-all active:scale-95 ${btn.styleClass}`;
+                button.innerText = btn.text;
+                button.onclick = () => {
+                    closeModal();
+                    if (btn.action) btn.action();
+                };
+                btnContainer.appendChild(button);
+            });
+
+            document.getElementById('custom-modal').classList.remove('hidden');
+        }
+
+        function closeModal() {
+            document.getElementById('custom-modal').classList.add('hidden');
+        }
+        // -----------------------------
 
         function typesetMath() {
             if (window.MathJax && window.MathJax.typesetPromise) {
@@ -305,7 +343,6 @@
             if (degree === 'Bakalavriat') {
                 directions = ['KM-TMJ', 'KM-IQ', 'KM-MP(log)', 'KM-NGT'];
             } else if (degree === 'Magistratura') {
-                // Namuna sifatida, keyincha kerakli magistratura yo'nalishlariga almashtirishingiz mumkin
                 directions = ['Magistratura Yo\'nalish 1', 'Magistratura Yo\'nalish 2']; 
             }
 
@@ -356,10 +393,8 @@
             } else if (dir === 'KM-NGT') {
                 subjects = ["Oliy matematika", "Kimyo", "O'zbekistonning eng yangi tarixi", "Fizika", "Ingliz tili", "Rus tili"];
             } else if (dir === 'Magistratura Yo\'nalish 1') {
-                // Namuna fan
                 subjects = ["Mutaxassislik fani 1"];
             } else if (dir === 'Magistratura Yo\'nalish 2') {
-                // Namuna fan
                 subjects = ["Mutaxassislik fani 2"];
             }
 
@@ -389,14 +424,23 @@
             currentSubject = '';
         }
 
-        // Yangi funksiya: Test jarayonida `<` bosilsa testni to'xtatib fanlarga qaytish uchun
         function goBackToSubjects() {
-            // Agar test ochiq bo'lsa, chiqib ketishni tasdiqlash
+            // Agar test ekrani ochiq bo'lsa, custom modal orqali tasdiqlash so'raymiz
             if (!document.getElementById('quiz-screen').classList.contains('hidden')) {
-                const isConfirmed = confirm("Haqiqatan ham testni to'xtatmoqchimisiz? Barcha belgilangan javoblar o'chib ketadi.");
-                if (!isConfirmed) return;
+                showModal(
+                    "Testni to'xtatish",
+                    "Haqiqatan ham testdan chiqmoqchimisiz?<br>Barcha belgilangan javoblar yo'qotiladi.",
+                    [
+                        { text: "Yo'q, qolish", styleClass: "bg-slate-100 text-slate-600", action: null },
+                        { text: "Ha, chiqish", styleClass: "bg-red-50 text-red-600 border border-red-100", action: executeGoBackToSubjects }
+                    ]
+                );
+                return;
             }
+            executeGoBackToSubjects();
+        }
 
+        function executeGoBackToSubjects() {
             document.getElementById('quiz-screen').classList.add('hidden');
             document.getElementById('result-screen').classList.add('hidden');
             document.getElementById('quiz-badge').classList.add('hidden');
@@ -424,34 +468,18 @@
                 const encodedDir = currentDirection.split(' ').join('%20');
                 const encodedSubj = subjectName.split(' ').join('%20');
                 const url = `./${encodedDir}/${encodedSubj}.json`;
-                console.log("Yuklanmoqda:", url);
                 const response = await fetch(url);
-                if (!response.ok) throw new Error(`JSON fayl topilmadi: ${url}`);
+                
+                if (!response.ok) throw new Error(`Fayl topilmadi`);
 
                 let data = await response.json();
-                console.log("Yuklangan ma'lumot:", data);
 
-                // HAR XIL JSON FORMATLARINI QO'LLAB-QUVVATLASH
                 let rawQuestions = [];
-
-                // Format 1: To'g'ridan-to'g'ri massiv
-                if (Array.isArray(data)) {
-                    rawQuestions = data;
-                }
-                // Format 2: {test_questions: [...]}
-                else if (data.test_questions && Array.isArray(data.test_questions)) {
-                    rawQuestions = data.test_questions;
-                }
-                // Format 3: {questions: [...]}
-                else if (data.questions && Array.isArray(data.questions)) {
-                    rawQuestions = data.questions;
-                }
-                // Format 4: {"test_questions": {"questions": [...]}}
-                else if (data.test_questions && data.test_questions.questions && Array.isArray(data.test_questions.questions)) {
-                    rawQuestions = data.test_questions.questions;
-                }
+                if (Array.isArray(data)) rawQuestions = data;
+                else if (data.test_questions && Array.isArray(data.test_questions)) rawQuestions = data.test_questions;
+                else if (data.questions && Array.isArray(data.questions)) rawQuestions = data.questions;
+                else if (data.test_questions && data.test_questions.questions && Array.isArray(data.test_questions.questions)) rawQuestions = data.test_questions.questions;
                 else {
-                    // Agar yuqoridagi formatlarning hech biri bo'lmasa, obyektning kalitlarini tekshiramiz
                     let found = false;
                     for (let key in data) {
                         if (Array.isArray(data[key]) && data[key].length > 0 && (data[key][0].question || data[key][0].savol)) {
@@ -465,7 +493,6 @@
 
                 if (rawQuestions.length === 0) throw new Error("Savollar massivi bo'sh");
 
-                // Savollarni randomlashtirish va kerakli formatga o'tkazish
                 quizQuestions = [...rawQuestions]
                     .sort(() => Math.random() - 0.5)
                     .slice(0, Math.min(rawQuestions.length, totalToPlay))
@@ -474,7 +501,6 @@
                         let correctText = "";
                         let options = [];
 
-                        // Format 1: {savol, A, B, C, D, javob} - O'zbek tilidagi format
                         if (item.savol && item.A) {
                             questionText = item.savol;
                             correctText = item.javob;
@@ -483,19 +509,16 @@
                             }
                             options = [item.A, item.B, item.C, item.D];
                         }
-                        // Format 2: {question, options, correct_option} - Ingliz tilidagi format (0-index)
                         else if (item.question && item.options && item.correct_option !== undefined) {
                             questionText = item.question;
                             correctText = item.options[item.correct_option];
                             options = [...item.options];
                         }
-                        // Format 3: {question, options, answer} - To'g'ri javob matni bilan
                         else if (item.question && item.options && item.answer) {
                             questionText = item.question;
                             correctText = item.answer;
                             options = [...item.options];
                         }
-                        // Format 4: {savol, javob, A, B, C, D} - alternativ o'zbek formati
                         else if (item.savol && item.javob && item.A) {
                             questionText = item.savol;
                             correctText = item.javob;
@@ -504,18 +527,15 @@
                             }
                             options = [item.A, item.B, item.C, item.D];
                         }
-                        // Format 5: {question, answer, options}
                         else if (item.question && item.answer && item.options) {
                             questionText = item.question;
                             correctText = item.answer;
                             options = [...item.options];
                         }
                         else {
-                            console.warn("Noma'lum format:", item);
                             return null;
                         }
 
-                        // Variantlarni randomlashtirish
                         const shuffledOptions = [...options].sort(() => Math.random() - 0.5);
                         return {
                             q: questionText,
@@ -524,7 +544,7 @@
                         };
                     }).filter(q => q !== null);
 
-                if (quizQuestions.length === 0) throw new Error("Hech qanday savol yuklanmadi");
+                if (quizQuestions.length === 0) throw new Error("Hech qanday savol o'qilmadi");
 
                 currentIndex = 0;
                 userAnswers = Array(quizQuestions.length).fill(null);
@@ -537,13 +557,21 @@
                 document.getElementById('current-badge').innerText = '1';
                 document.getElementById('total-badge').innerText = quizQuestions.length;
 
-                // Testga kirganda "Orqaga" tugmasi vazifasini o'zgartiramiz
                 document.getElementById('back-home-btn').onclick = goBackToSubjects;
 
                 showQuestion();
             } catch (error) {
                 console.error("Xatolik:", error);
-                alert(`Xatolik: ${error.message}\n\n"${currentDirection}/${subjectName}.json" faylini tekshiring.\n\nPapka tuzilmasi:\n- ${currentDirection}/ papkasi mavjudmi?\n- Fayl nomi to'g'rimi?\n- JSON formati to'g'rimi?`);
+                
+                // Custom modal orqali xatoni ko'rsatish
+                showModal(
+                    "Xatolik yuz berdi",
+                    `<b>${currentDirection}</b> papkasidan <b>${subjectName}.json</b> faylini o'qib bo'lmadi.<br><br>Iltimos, fayl mavjudligini tekshiring.`,
+                    [
+                        { text: "Tushunarli", styleClass: "bg-blue-600 text-white", action: null }
+                    ]
+                );
+                
                 subjectList.classList.remove('hidden');
             } finally {
                 spinner.classList.add('hidden');
@@ -567,7 +595,6 @@
             feedback.classList.add('hidden');
             prevBtn.disabled = currentIndex === 0;
 
-            // Javob berilgan bo'lsa next btn ko'rinadi
             nextBtn.classList.toggle('hidden', userAnswer === null);
             nextBtn.innerText = (currentIndex === quizQuestions.length - 1) ? "Natijani ko'rish" : "Keyingi";
 
@@ -575,7 +602,6 @@
                 const btn = document.createElement('button');
                 btn.className = 'option-btn w-full text-left p-3.5 rounded-xl bg-white border border-slate-200 text-slate-700 font-semibold text-sm flex items-center gap-3 active:scale-95';
 
-                // assign accurate value to the button DOM to avoid innerText parsing issues later
                 btn.dataset.value = opt;
 
                 const letter = String.fromCharCode(65 + i);
@@ -638,6 +664,23 @@
             if (currentIndex > 0) {
                 currentIndex--;
                 showQuestion();
+            }
+        }
+
+        // Testni erta yakunlash bosilganda Modal orqali so'rash
+        function checkAndFinishQuiz() {
+            const answeredCount = userAnswers.filter(a => a !== null).length;
+            if (answeredCount < quizQuestions.length) {
+                showModal(
+                    "Testni yakunlash",
+                    `Siz ${quizQuestions.length} ta savoldan faqat ${answeredCount} tasiga javob berdingiz.<br>Haqiqatan ham testni hozir yakunlamoqchimisiz?`,
+                    [
+                        { text: "Davom etish", styleClass: "bg-slate-100 text-slate-600", action: null },
+                        { text: "Yakunlash", styleClass: "bg-blue-600 text-white", action: finishQuiz }
+                    ]
+                );
+            } else {
+                finishQuiz();
             }
         }
 
