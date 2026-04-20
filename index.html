@@ -131,7 +131,7 @@
                     <h1 class="font-extrabold text-sm md:text-lg truncate">Testlar</h1>
                     <p id="sub-title"
                         class="text-[8px] md:text-[10px] uppercase font-bold text-slate-400 tracking-tighter">
-                        Yo'nalishni tanlang
+                        Ta'lim darajasini tanlang
                     </p>
                 </div>
             </div>
@@ -141,60 +141,47 @@
             </div>
         </header>
 
+        <!-- Degree Screen -->
+        <div id="degree-screen" class="animate-fade">
+            <div class="bg-white rounded-3xl p-5 md:p-8 shadow-sm border border-slate-100 relative overflow-hidden">
+                <div class="absolute top-0 left-0 w-full h-1 bg-blue-600"></div>
+                <h2 class="text-lg md:text-xl font-extrabold text-slate-800 mb-5">Ta'lim darajasini tanlang:</h2>
+                <div class="space-y-3">
+                    <button onclick="selectDegree('Bakalavriat')"
+                        class="w-full bg-white hover:bg-slate-50 border-2 border-blue-50 p-4 rounded-2xl text-left transition-all active:scale-95 flex items-center justify-between group shadow-sm">
+                        <div class="pr-2">
+                            <h3
+                                class="subject-btn-title font-bold text-slate-800 group-hover:text-blue-600 transition-colors leading-tight">
+                                Bakalavriat</h3>
+                            <p class="text-[10px] text-slate-400 mt-1">Bakalavr yo'nalishlari</p>
+                        </div>
+                        <div
+                            class="w-8 h-8 rounded-lg bg-blue-50 flex items-center justify-center text-blue-600 flex-shrink-0">
+                            →</div>
+                    </button>
+                    <button onclick="selectDegree('Magistratura')"
+                        class="w-full bg-white hover:bg-slate-50 border-2 border-blue-50 p-4 rounded-2xl text-left transition-all active:scale-95 flex items-center justify-between group shadow-sm">
+                        <div class="pr-2">
+                            <h3
+                                class="subject-btn-title font-bold text-slate-800 group-hover:text-blue-600 transition-colors leading-tight">
+                                Magistratura</h3>
+                            <p class="text-[10px] text-slate-400 mt-1">Magistratura mutaxassisliklari</p>
+                        </div>
+                        <div
+                            class="w-8 h-8 rounded-lg bg-blue-50 flex items-center justify-center text-blue-600 flex-shrink-0">
+                            →</div>
+                    </button>
+                </div>
+            </div>
+        </div>
+
         <!-- Directions Screen -->
-        <div id="directions-screen" class="animate-fade">
+        <div id="directions-screen" class="hidden animate-fade">
             <div class="bg-white rounded-3xl p-5 md:p-8 shadow-sm border border-slate-100 relative overflow-hidden">
                 <div class="absolute top-0 left-0 w-full h-1 bg-blue-600"></div>
                 <h2 class="text-lg md:text-xl font-extrabold text-slate-800 mb-5">Yo'nalishni tanlang:</h2>
-                <div class="space-y-3">
-                    <button onclick="selectDirection('KM-TMJ')"
-                        class="w-full bg-white hover:bg-slate-50 border-2 border-blue-50 p-4 rounded-2xl text-left transition-all active:scale-95 flex items-center justify-between group shadow-sm">
-                        <div class="pr-2">
-                            <h3
-                                class="subject-btn-title font-bold text-slate-800 group-hover:text-blue-600 transition-colors leading-tight">
-                                KM-TMJ</h3>
-                            <p class="text-[10px] text-slate-400 mt-1">Yo'nalishga kirish</p>
-                        </div>
-                        <div
-                            class="w-8 h-8 rounded-lg bg-blue-50 flex items-center justify-center text-blue-600 flex-shrink-0">
-                            →</div>
-                    </button>
-                    <button onclick="selectDirection('KM-IQ')"
-                        class="w-full bg-white hover:bg-slate-50 border-2 border-blue-50 p-4 rounded-2xl text-left transition-all active:scale-95 flex items-center justify-between group shadow-sm">
-                        <div class="pr-2">
-                            <h3
-                                class="subject-btn-title font-bold text-slate-800 group-hover:text-blue-600 transition-colors leading-tight">
-                                KM-IQ</h3>
-                            <p class="text-[10px] text-slate-400 mt-1">Yo'nalishga kirish</p>
-                        </div>
-                        <div
-                            class="w-8 h-8 rounded-lg bg-blue-50 flex items-center justify-center text-blue-600 flex-shrink-0">
-                            →</div>
-                    </button>
-                    <button onclick="selectDirection('KM-MP(log)')"
-                        class="w-full bg-white hover:bg-slate-50 border-2 border-blue-50 p-4 rounded-2xl text-left transition-all active:scale-95 flex items-center justify-between group shadow-sm">
-                        <div class="pr-2">
-                            <h3
-                                class="subject-btn-title font-bold text-slate-800 group-hover:text-blue-600 transition-colors leading-tight">
-                                KM-MP(log)</h3>
-                            <p class="text-[10px] text-slate-400 mt-1">Yo'nalishga kirish</p>
-                        </div>
-                        <div
-                            class="w-8 h-8 rounded-lg bg-blue-50 flex items-center justify-center text-blue-600 flex-shrink-0">
-                            →</div>
-                    </button>
-                    <button onclick="selectDirection('KM-NGT')"
-                        class="w-full bg-white hover:bg-slate-50 border-2 border-blue-50 p-4 rounded-2xl text-left transition-all active:scale-95 flex items-center justify-between group shadow-sm">
-                        <div class="pr-2">
-                            <h3
-                                class="subject-btn-title font-bold text-slate-800 group-hover:text-blue-600 transition-colors leading-tight">
-                                KM-NGT</h3>
-                            <p class="text-[10px] text-slate-400 mt-1">Yo'nalishga kirish</p>
-                        </div>
-                        <div
-                            class="w-8 h-8 rounded-lg bg-blue-50 flex items-center justify-center text-blue-600 flex-shrink-0">
-                            →</div>
-                    </button>
+                <div id="direction-list" class="space-y-3">
+                    <!-- Dynamic Directions Render Here -->
                 </div>
             </div>
         </div>
@@ -209,7 +196,7 @@
                     <!-- Dynamic Subjects Render Here -->
                 </div>
 
-                <button onclick="goHome()"
+                <button onclick="goBackToDirections()"
                     class="mt-4 w-full bg-slate-50 hover:bg-slate-100 border border-slate-200 text-slate-600 font-bold p-3.5 rounded-xl text-center transition-all active:scale-95 text-sm flex items-center justify-center gap-2 shadow-sm">
                     <svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4" fill="none" viewBox="0 0 24 24"
                         stroke="currentColor">
@@ -284,6 +271,7 @@
         let currentIndex = 0;
         let userAnswers = [];
         const totalToPlay = 35; // Testda nechta savol chiqishi kerakligini belgilash
+        let currentDegree = '';
         let currentDirection = '';
         let currentSubject = '';
 
@@ -300,12 +288,59 @@
             feedback.classList.remove('hidden');
         }
 
+        function selectDegree(degree) {
+            currentDegree = degree;
+            document.getElementById('degree-screen').classList.add('hidden');
+            document.getElementById('directions-screen').classList.remove('hidden');
+            
+            document.getElementById('back-home-btn').classList.remove('hidden');
+            document.getElementById('back-home-btn').onclick = goBackToDegree;
+            document.getElementById('logo-icon').classList.add('hidden');
+            document.getElementById('sub-title').innerText = degree.toUpperCase();
+
+            const dirList = document.getElementById('direction-list');
+            dirList.innerHTML = '';
+
+            let directions = [];
+            if (degree === 'Bakalavriat') {
+                directions = ['KM-TMJ', 'KM-IQ', 'KM-MP(log)', 'KM-NGT'];
+            } else if (degree === 'Magistratura') {
+                // Namuna sifatida, keyincha kerakli magistratura yo'nalishlariga almashtirishingiz mumkin
+                directions = ['Magistratura Yo\'nalish 1', 'Magistratura Yo\'nalish 2']; 
+            }
+
+            directions.forEach(dir => {
+                const btn = document.createElement('button');
+                btn.className = 'w-full bg-white hover:bg-slate-50 border-2 border-blue-50 p-4 rounded-2xl text-left transition-all active:scale-95 flex items-center justify-between group shadow-sm mb-3';
+                btn.innerHTML = `
+                    <div class="pr-2">
+                        <h3 class="subject-btn-title font-bold text-slate-800 group-hover:text-blue-600 transition-colors leading-tight">${dir}</h3>
+                        <p class="text-[10px] text-slate-400 mt-1">Yo'nalishga kirish</p>
+                    </div>
+                    <div class="w-8 h-8 rounded-lg bg-blue-50 flex items-center justify-center text-blue-600 flex-shrink-0">→</div>
+                `;
+                btn.onclick = () => selectDirection(dir);
+                dirList.appendChild(btn);
+            });
+        }
+
+        function goBackToDegree() {
+            document.getElementById('directions-screen').classList.add('hidden');
+            document.getElementById('degree-screen').classList.remove('hidden');
+
+            document.getElementById('back-home-btn').classList.add('hidden');
+            document.getElementById('logo-icon').classList.remove('hidden');
+            document.getElementById('sub-title').innerText = "Ta'lim darajasini tanlang";
+            
+            currentDegree = '';
+            currentDirection = '';
+        }
+
         function selectDirection(dir) {
             currentDirection = dir;
             document.getElementById('directions-screen').classList.add('hidden');
             document.getElementById('subjects-screen').classList.remove('hidden');
-            document.getElementById('back-home-btn').classList.remove('hidden');
-            document.getElementById('logo-icon').classList.add('hidden');
+            document.getElementById('back-home-btn').onclick = goBackToDirections;
             document.getElementById('sub-title').innerText = dir.toUpperCase();
 
             const subjectsList = document.getElementById('subject-list');
@@ -320,6 +355,12 @@
                 subjects = ["Falsafa", "Mediasavodxonlik va axborot madaniyati", "Umumiy Psixologiya"];
             } else if (dir === 'KM-NGT') {
                 subjects = ["Oliy matematika", "Kimyo", "O'zbekistonning eng yangi tarixi", "Fizika", "Ingliz tili", "Rus tili"];
+            } else if (dir === 'Magistratura Yo\'nalish 1') {
+                // Namuna fan
+                subjects = ["Mutaxassislik fani 1"];
+            } else if (dir === 'Magistratura Yo\'nalish 2') {
+                // Namuna fan
+                subjects = ["Mutaxassislik fani 2"];
             }
 
             subjects.forEach(subj => {
@@ -335,6 +376,17 @@
                 btn.onclick = () => startQuiz(subj);
                 subjectsList.appendChild(btn);
             });
+        }
+
+        function goBackToDirections() {
+            document.getElementById('subjects-screen').classList.add('hidden');
+            document.getElementById('directions-screen').classList.remove('hidden');
+            
+            document.getElementById('back-home-btn').onclick = goBackToDegree;
+            document.getElementById('sub-title').innerText = currentDegree.toUpperCase();
+            
+            currentDirection = '';
+            currentSubject = '';
         }
 
         async function startQuiz(subjectName) {
@@ -592,16 +644,18 @@
             document.getElementById('quiz-screen').classList.add('hidden');
             document.getElementById('result-screen').classList.add('hidden');
             document.getElementById('subjects-screen').classList.add('hidden');
-            document.getElementById('directions-screen').classList.remove('hidden');
+            document.getElementById('directions-screen').classList.add('hidden');
+            document.getElementById('degree-screen').classList.remove('hidden');
 
             document.getElementById('quiz-badge').classList.add('hidden');
             document.getElementById('back-home-btn').classList.add('hidden');
             document.getElementById('logo-icon').classList.remove('hidden');
-            document.getElementById('sub-title').innerText = "Yo'nalishni tanlang";
+            document.getElementById('sub-title').innerText = "Ta'lim darajasini tanlang";
 
             const subjectList = document.getElementById('subject-list');
             subjectList.classList.remove('hidden');
 
+            currentDegree = '';
             currentDirection = '';
             currentSubject = '';
             quizQuestions = [];
