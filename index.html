@@ -389,6 +389,28 @@
             currentSubject = '';
         }
 
+        // Yangi funksiya: Test jarayonida `<` bosilsa testni to'xtatib fanlarga qaytish uchun
+        function goBackToSubjects() {
+            // Agar test ochiq bo'lsa, chiqib ketishni tasdiqlash
+            if (!document.getElementById('quiz-screen').classList.contains('hidden')) {
+                const isConfirmed = confirm("Haqiqatan ham testni to'xtatmoqchimisiz? Barcha belgilangan javoblar o'chib ketadi.");
+                if (!isConfirmed) return;
+            }
+
+            document.getElementById('quiz-screen').classList.add('hidden');
+            document.getElementById('result-screen').classList.add('hidden');
+            document.getElementById('quiz-badge').classList.add('hidden');
+            
+            document.getElementById('subjects-screen').classList.remove('hidden');
+            
+            document.getElementById('back-home-btn').onclick = goBackToDirections;
+            document.getElementById('sub-title').innerText = currentDirection.toUpperCase();
+            
+            currentSubject = '';
+            quizQuestions = [];
+            userAnswers = [];
+        }
+
         async function startQuiz(subjectName) {
             currentSubject = subjectName;
 
@@ -514,6 +536,9 @@
                 document.getElementById('sub-title').innerText = subjectName.toUpperCase();
                 document.getElementById('current-badge').innerText = '1';
                 document.getElementById('total-badge').innerText = quizQuestions.length;
+
+                // Testga kirganda "Orqaga" tugmasi vazifasini o'zgartiramiz
+                document.getElementById('back-home-btn').onclick = goBackToSubjects;
 
                 showQuestion();
             } catch (error) {
