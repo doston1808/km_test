@@ -278,6 +278,25 @@
     </div>
 
     <script>
+        // --- MARKAZLASHGAN O'QUV DASTURI (Yo'nalishlar va Fanlar) ---
+        const curriculumData = {
+            "Bakalavriat": {
+                "KM-TMJ": ["Oliy matematika", "Fizika", "Mutaxasislikga kirish", "Dinshunoslik", "Тexnik tizimlarda AKT"],
+                "KM-IQ": ["Iqtisodiy ta'limotlar tarixi", "Ingliz tili", "O'zbekistonning eng yangi tarixi", "Amaliy matematika", "Iqtisodiyotda AKT"],
+                "KM-MP(log)": ["Falsafa", "Mediasavodxonlik va axborot madaniyati", "Umumiy Psixologiya"],
+                "KM-NGT": ["Oliy matematika", "Kimyo", "O'zbekistonning eng yangi tarixi", "Fizika", "Ingliz tili", "Rus tili"],
+                "DAV-25": ["Odam anatomiyasi", "Tibbiy biologiya"],
+                "OHI-25": ["Odam anatomiyasi", "Tibbiy biologiya", "O'zbek (rus) tili", "Tibbiy kimyo", "Tibbiyotda axborot texnologiyalari"],
+                "KM-BIO": ["Botanika", "O’zbekistonning eng yangi tarixi", "Oliy matematika", "Sitologiya, gistologiya", "Umumiy kimyo va fizika", "Umumiy psixologiya"],
+                "KM-MT": [],
+                "KM-BT": []
+            },
+            "Magistratura": {
+                "MM-IQ": ["Maxsus fanlar o`qitish metodikasi", "Ekonometrika", "Ilmiy tadqiqot metodologiyasi", "Mikroiqtisodiyot"]
+            }
+        };
+        // -------------------------------------------------------------
+
         let quizQuestions = [];
         let currentIndex = 0;
         let userAnswers = [];
@@ -339,12 +358,8 @@
             const dirList = document.getElementById('direction-list');
             dirList.innerHTML = '';
 
-            let directions = [];
-            if (degree === 'Bakalavriat') {
-                directions = ['KM-TMJ', 'KM-IQ', 'KM-MP(log)', 'KM-NGT', 'DAV-25', 'OHI-25', 'KM-BIO', 'KM-MT', 'KM-BT'];
-            } else if (degree === 'Magistratura') {
-                directions = ['MM-IQ']; 
-            }
+            // Ob'ektdan yo'nalishlarni olish
+            let directions = curriculumData[degree] ? Object.keys(curriculumData[degree]) : [];
 
             directions.forEach(dir => {
                 const btn = document.createElement('button');
@@ -383,42 +398,26 @@
             const subjectsList = document.getElementById('subject-list');
             subjectsList.innerHTML = '';
 
-            let subjects = [];
-            if (dir === 'KM-TMJ') {
-                subjects = ['Oliy matematika', 'Fizika', 'Mutaxasislikga kirish', 'Dinshunoslik', 'Тexnik tizimlarda AKT'];
-            } else if (dir === 'KM-IQ') {
-                subjects = ["Iqtisodiy ta'limotlar tarixi", "Ingliz tili", "O'zbekistonning eng yangi tarixi", "Amaliy matematika", "Iqtisodiyotda AKT"];
-            } else if (dir === 'KM-MP(log)') {
-                subjects = ["Falsafa", "Mediasavodxonlik va axborot madaniyati", "Umumiy Psixologiya"];
-            } else if (dir === 'KM-NGT') {
-                subjects = ["Oliy matematika", "Kimyo", "O'zbekistonning eng yangi tarixi", "Fizika", "Ingliz tili", "Rus tili"];
-            } else if (dir === 'DAV-25') {
-                subjects = ["Odam anatomiyasi", "Tibbiy biologiya"];
-            } else if (dir === 'OHI-25') {
-                subjects = ["Odam anatomiyasi", "Tibbiy biologiya", "O'zbek (rus) tili", "Tibbiy kimyo", "Tibbiyotda axborot texnologiyalari"];
-            } else if (dir === 'MM-IQ') {
-                subjects = ["Maxsus fanlar o`qitish metodikasi", "Ekonometrika", "Ilmiy tadqiqot metodologiyasi", "Mikroiqtisodiyot"];
-            } else if (dir === 'KM-BIO') {
-                subjects = ["Botanika", "O’zbekistonning eng yangi tarixi", "Oliy matematika", "Sitologiya, gistologiya", "Umumiy kimyo va fizika", "Umumiy psixologiya"];
-            } else if (dir === 'KM-MT') {
-                subjects = [];
-            } else if (dir === 'KM-BT') {
-                subjects = [];
-            }
+            // Ob'ektdan fanlarni olish
+            let subjects = (curriculumData[currentDegree] && curriculumData[currentDegree][dir]) ? curriculumData[currentDegree][dir] : [];
 
-            subjects.forEach(subj => {
-                const btn = document.createElement('button');
-                btn.className = 'w-full bg-white hover:bg-slate-50 border-2 border-blue-50 p-4 rounded-2xl text-left transition-all active:scale-95 flex items-center justify-between group shadow-sm mb-3';
-                btn.innerHTML = `
-                    <div class="pr-2">
-                        <h3 class="subject-btn-title font-bold text-slate-800 group-hover:text-blue-600 transition-colors leading-tight">${subj}</h3>
-                        <p class="text-[10px] text-slate-400 mt-1">Testni boshlash</p>
-                    </div>
-                    <div class="w-8 h-8 rounded-lg bg-blue-50 flex items-center justify-center text-blue-600 flex-shrink-0">→</div>
-                `;
-                btn.onclick = () => startQuiz(subj);
-                subjectsList.appendChild(btn);
-            });
+            if(subjects.length === 0) {
+                subjectsList.innerHTML = `<p class="text-center text-sm text-slate-400 font-medium py-4">Ushbu yo'nalish uchun fanlar hozircha kiritilmagan.</p>`;
+            } else {
+                subjects.forEach(subj => {
+                    const btn = document.createElement('button');
+                    btn.className = 'w-full bg-white hover:bg-slate-50 border-2 border-blue-50 p-4 rounded-2xl text-left transition-all active:scale-95 flex items-center justify-between group shadow-sm mb-3';
+                    btn.innerHTML = `
+                        <div class="pr-2">
+                            <h3 class="subject-btn-title font-bold text-slate-800 group-hover:text-blue-600 transition-colors leading-tight">${subj}</h3>
+                            <p class="text-[10px] text-slate-400 mt-1">Testni boshlash</p>
+                        </div>
+                        <div class="w-8 h-8 rounded-lg bg-blue-50 flex items-center justify-center text-blue-600 flex-shrink-0">→</div>
+                    `;
+                    btn.onclick = () => startQuiz(subj);
+                    subjectsList.appendChild(btn);
+                });
+            }
         }
 
         function goBackToDirections() {
