@@ -267,7 +267,8 @@
     </div>
 
     <!-- Custom Modal Oynasi (Tasdiqlash uchun) -->
-    <div id="custom-modal" class="hidden fixed inset-0 z-50 flex items-center justify-center bg-slate-900/40 backdrop-blur-sm p-4">
+    <div id="custom-modal"
+        class="hidden fixed inset-0 z-50 flex items-center justify-center bg-slate-900/40 backdrop-blur-sm p-4">
         <div class="bg-white rounded-3xl p-6 md:p-8 max-w-sm w-full shadow-2xl animate-fade">
             <h3 id="modal-title" class="text-lg font-extrabold text-slate-800 mb-2">Tasdiqlash</h3>
             <p id="modal-desc" class="text-slate-500 text-sm mb-6 leading-relaxed"></p>
@@ -288,7 +289,7 @@
                 "DAV-25": ["Odam anatomiyasi", "Tibbiy biologiya"],
                 "OHI-25": ["Odam anatomiyasi", "Tibbiy biologiya", "O'zbek (rus) tili", "Tibbiy kimyo", "Tibbiyotda axborot texnologiyalari"],
                 "KM-BIO": ["Botanika", "O’zbekistonning eng yangi tarixi", "Oliy matematika", "Sitologiya, gistologiya", "Umumiy kimyo va fizika", "Umumiy psixologiya"],
-                "KM-MT": [],
+                "KM-MT": ["Bolalar psixologiyasi va psixodiagnostikasi", "Bolalarni sahnalashtirish va ijodiy faoliyatga o'rgatish", "Rivojlantiruvchi markazlarni tashkil qilish texnologiyasi", "Mediasavodxonlik va axborot madaniyat", "Ilk va maktabgacha yoshdagi bolalar pedagogikasi", "Bolalarning ijtimoiy moslashuvi"],
                 "KM-BT": ["Amaliy rus tili", "Boshlang'ich matematika kursi nazariyasi", "Mediasavodxonlik", "O`zbek tilining sohada qo'llanilishi", "O’zbekistonning eng yangi tarixi", "Ona tili", "Umumiy psixologiya"]
             },
             "Magistratura": {
@@ -309,10 +310,10 @@
         function showModal(title, desc, buttons) {
             document.getElementById('modal-title').innerText = title;
             document.getElementById('modal-desc').innerHTML = desc;
-            
+
             const btnContainer = document.getElementById('modal-buttons');
             btnContainer.innerHTML = '';
-            
+
             buttons.forEach(btn => {
                 const button = document.createElement('button');
                 button.className = `flex-1 py-3 px-2 rounded-xl font-bold text-xs md:text-sm transition-all active:scale-95 ${btn.styleClass}`;
@@ -349,7 +350,7 @@
             currentDegree = degree;
             document.getElementById('degree-screen').classList.add('hidden');
             document.getElementById('directions-screen').classList.remove('hidden');
-            
+
             document.getElementById('back-home-btn').classList.remove('hidden');
             document.getElementById('back-home-btn').onclick = goBackToDegree;
             document.getElementById('logo-icon').classList.add('hidden');
@@ -383,7 +384,7 @@
             document.getElementById('back-home-btn').classList.add('hidden');
             document.getElementById('logo-icon').classList.remove('hidden');
             document.getElementById('sub-title').innerText = "Ta'lim darajasini tanlang";
-            
+
             currentDegree = '';
             currentDirection = '';
         }
@@ -401,7 +402,7 @@
             // Ob'ektdan fanlarni olish
             let subjects = (curriculumData[currentDegree] && curriculumData[currentDegree][dir]) ? curriculumData[currentDegree][dir] : [];
 
-            if(subjects.length === 0) {
+            if (subjects.length === 0) {
                 subjectsList.innerHTML = `<p class="text-center text-sm text-slate-400 font-medium py-4">Ushbu yo'nalish uchun fanlar hozircha kiritilmagan.</p>`;
             } else {
                 subjects.forEach(subj => {
@@ -423,10 +424,10 @@
         function goBackToDirections() {
             document.getElementById('subjects-screen').classList.add('hidden');
             document.getElementById('directions-screen').classList.remove('hidden');
-            
+
             document.getElementById('back-home-btn').onclick = goBackToDegree;
             document.getElementById('sub-title').innerText = currentDegree.toUpperCase();
-            
+
             currentDirection = '';
             currentSubject = '';
         }
@@ -451,12 +452,12 @@
             document.getElementById('quiz-screen').classList.add('hidden');
             document.getElementById('result-screen').classList.add('hidden');
             document.getElementById('quiz-badge').classList.add('hidden');
-            
+
             document.getElementById('subjects-screen').classList.remove('hidden');
-            
+
             document.getElementById('back-home-btn').onclick = goBackToDirections;
             document.getElementById('sub-title').innerText = currentDirection.toUpperCase();
-            
+
             currentSubject = '';
             quizQuestions = [];
             userAnswers = [];
@@ -476,7 +477,7 @@
                 const encodedSubj = subjectName.split(' ').join('%20');
                 const url = `./${encodedDir}/${encodedSubj}.json`;
                 const response = await fetch(url);
-                
+
                 if (!response.ok) throw new Error(`Fayl topilmadi`);
 
                 let data = await response.json();
@@ -569,7 +570,7 @@
                 showQuestion();
             } catch (error) {
                 console.error("Xatolik:", error);
-                
+
                 // Custom modal orqali xatoni ko'rsatish
                 showModal(
                     "Test mavjud emas",
@@ -578,7 +579,7 @@
                         { text: "Tushunarli", styleClass: "bg-blue-600 text-white", action: null }
                     ]
                 );
-                
+
                 subjectList.classList.remove('hidden');
             } finally {
                 spinner.classList.add('hidden');
