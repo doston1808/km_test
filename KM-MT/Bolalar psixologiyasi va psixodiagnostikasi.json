@@ -1,0 +1,1282 @@
+[
+  {
+    "savol": "Bolalar psixologiyasi qaysi fan sohasiga kiradi?",
+    "A": "Psixologiya",
+    "B": "Biologiya",
+    "C": "Pedagogika",
+    "D": "Falsafa",
+    "javob": "A"
+  },
+  {
+    "savol": "Bolalar psixologiyasi nimalarni o`rganadi?",
+    "A": "Bola psixikasining rivojlanishini",
+    "B": "Fiziologik jarayonlarni",
+    "C": "Ijtimoiy munosabatlarni",
+    "D": "Atrof-muhitni",
+    "javob": "A"
+  },
+  {
+    "savol": "Bolalar psixologiyasi qaysi davrni qamrab oladi?",
+    "A": "Tug`ilgandan maktabga chiqqunga qadar",
+    "B": "Maktab davri",
+    "C": "O`smirlik davrining tugashi",
+    "D": "Chaqaloqlik",
+    "javob": "A"
+  },
+  {
+    "savol": "Bolalar psixologiyasi fanining asosiy e`tibori nimaga qaratilgan?",
+    "A": "Bola psixikasi va ongining rivojlanishiga",
+    "B": "Jamiyatdagi munosabatlarga",
+    "C": "Ota-onalar tarbiyasiga",
+    "D": "Biologik omillarga",
+    "javob": "A"
+  },
+  {
+    "savol": "Ontogenetik taraqqiyot yo`li deganda nimani tushunamiz?",
+    "A": "Tug`ilgandan ulg`aygungacha bo`lgan rivojlanish",
+    "B": "Nasldan-naslga o`tish",
+    "C": "Biologik o`sish",
+    "D": "Jismoniy rivojlanish",
+    "javob": "A"
+  },
+  {
+    "savol": "Nazariy vazifalarga qaysi biri kiradi?",
+    "A": "Bolalarning psixik xususiyatlarini o`rganish",
+    "B": "Sport mashg`ulotlari",
+    "C": "Oziqlanish nazariyasi",
+    "D": "Siyosiy qarash",
+    "javob": "A"
+  },
+  {
+    "savol": "Amaliy vazifalar qaysi faoliyat bilan bog`liq?",
+    "A": "Jamoatchilikni psixologik bilimlardan xabardor qilish",
+    "B": "Laboratoriya ishlari",
+    "C": "Biologik tajribalar",
+    "D": "Texnik rivojlanish",
+    "javob": "A"
+  },
+  {
+    "savol": "Bolalar psixologiyasi qaysi fanlar bilan chambarchas bog`liq?",
+    "A": "Pedagogika, psixologiya va tibbiyot",
+    "B": "Geografiya va tarix",
+    "C": "Matematika va fizika",
+    "D": "Kimyo va biologiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Bolalar psixologiyasi fan sifatida qachondan rivojlana boshladi?",
+    "A": "XIX asr o`rtalaridan",
+    "B": "XX asr boshlaridan",
+    "C": "XVIII asrdan",
+    "D": "XXI asrdan",
+    "javob": "A"
+  },
+  {
+    "savol": "Bolalar psixologiyasi fanining markaziy muammosi nima?",
+    "A": "Bola psixikasining o`sishi va qonuniyatlari",
+    "B": "O`qituvchilarning metodlari",
+    "C": "Atrof-muhitning tabiati",
+    "D": "Biologik kasalliklar",
+    "javob": "A"
+  },
+  {
+    "savol": "I.M. Sechenov qaysi asarida psixik taraqqiyot haqida yozgan?",
+    "A": "“Bosh miya reflekslari”",
+    "B": "“Psixologiya asoslari”",
+    "C": "“Tafakkur psixologiyasi”",
+    "D": "“Bolalar psixologiyasi”",
+    "javob": "A"
+  },
+  {
+    "savol": "P.P. Blonskiy qaysi asarlarda bolalar psixologiyasiga oid fikrlar bildirgan?",
+    "A": "“Psixologiya ocherki”",
+    "B": "“Matematika asoslari”",
+    "C": "“Astronomiya asoslari”",
+    "D": "“Kimyo asoslari”",
+    "javob": "A"
+  },
+  {
+    "savol": "L.S. Vigotskiy rivojlanishda nimani asosiy deb ko`rsatgan?",
+    "A": "Tashqi muhitning rolini",
+    "B": "Nasl omillarini",
+    "C": "Texnologik yutuqlarni",
+    "D": "Jismoniy mashqlarni",
+    "javob": "A"
+  },
+  {
+    "savol": "A.N. Leontyev ilmiy tadqiqotlarida qaysi masalani o`rgangan?",
+    "A": "Yetakchi faoliyat va motivlar",
+    "B": "Siyosiy qarashlar",
+    "C": "Musiqa rivoji",
+    "D": "San`at yutuqlari",
+    "javob": "A"
+  },
+  {
+    "savol": "Bolalar psixologiyasining amaliy vazifalari kimlarga mo`ljallangan?",
+    "A": "Ota-onalar, pedagoglar, tarbiyachilar",
+    "B": "Olimlar",
+    "C": "Davlat idoralari",
+    "D": "Tibbiyot xodimlari",
+    "javob": "A"
+  },
+  {
+    "savol": "J. Piajening ilmiy faoliyati nimaga qaratilgan?",
+    "A": "Bola tafakkurining rivojlanishiga",
+    "B": "Iqlim o`zgarishiga",
+    "C": "Sog`liqni saqlashga",
+    "D": "Siyosiy qarashlarga",
+    "javob": "A"
+  },
+  {
+    "savol": "Bolalar psixologiyasi fani qaysi sohaga kiradi?",
+    "A": "Umumiy psixologiyaning maxsus sohasi",
+    "B": "Iqtisod fanining bo`limi",
+    "C": "Tibbiyotning bir qismi",
+    "D": "Falsafa yo`nalishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko`ndalangiga kesim metodi nimani o`rganadi?",
+    "A": "Turli yoshdagi bolalar farqlari",
+    "B": "Egizaklarni",
+    "C": "Maktab o`quvchilarini",
+    "D": "Kattalarni",
+    "javob": "A"
+  },
+  {
+    "savol": "Uzunasiga kesim metodi qanday tadqiqotni bildiradi?",
+    "A": "Bir bola yoki guruhning uzoq muddatli o`rganilishi",
+    "B": "Qisqa muddatli kuzatish",
+    "C": "Laboratoriya tajribasi",
+    "D": "Suhbatlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Longityud metodi yana qanday nomlanadi?",
+    "A": "Longityud tadqiqot",
+    "B": "Eksperiment",
+    "C": "Kuzatish",
+    "D": "Sotsiometriya",
+    "javob": "A"
+  },
+  {
+    "savol": "Obyektivlik tamoyili tadqiqotchidan nimani talab qiladi?",
+    "A": "Ma`lumot bilan talqinni aralashtirmaslik",
+    "B": "Suhbat o`tkazish",
+    "C": "Yozma ish olish",
+    "D": "Test olish",
+    "javob": "A"
+  },
+  {
+    "savol": "Sababiylik tamoyili nimani o`rganishni talab qiladi?",
+    "A": "Shaxs rivojiga ta`sir qiluvchi omillarni",
+    "B": "Xotirani",
+    "C": "Qobiliyatni",
+    "D": "Tasavvurni",
+    "javob": "A"
+  },
+  {
+    "savol": "Sinchkovlik va muntazamlik tamoyili nimalarni belgilashni talab qiladi?",
+    "A": "Tadqiqot joyi, mazmuni, vaqti",
+    "B": "Suhbat mavzusi",
+    "C": "Kuzatish soni",
+    "D": "Bolalar soni",
+    "javob": "A"
+  },
+  {
+    "savol": "Bolalar psixologiyasining asosiy metodlaridan biri qaysi?",
+    "A": "Kuzatish metodi",
+    "B": "Tajriba almashish",
+    "C": "Test o`tkazish",
+    "D": "O`yin metodlari",
+    "javob": "A"
+  },
+  {
+    "savol": "Eksperiment metodining nechta turi bor?",
+    "A": "Uchta",
+    "B": "Ikki",
+    "C": "To`rtta",
+    "D": "Bitta",
+    "javob": "A"
+  },
+  {
+    "savol": "Laboratoriya eksperimenti qayerda o`tkaziladi?",
+    "A": "Laboratoriyada",
+    "B": "O`yin maydonchasida",
+    "C": "Uyda",
+    "D": "Ko`chada",
+    "javob": "A"
+  },
+  {
+    "savol": "Tabiiy eksperiment qaysi sharoitda o`tkaziladi?",
+    "A": "Tabiiy sharoitda",
+    "B": "Laboratoriya sharoiti da",
+    "C": "Dars jarayonida",
+    "D": "Oilada",
+    "javob": "A"
+  },
+  {
+    "savol": "Pedagogik eksperimentning maqsadi nima?",
+    "A": "Ta`lim–tarbiya metodini sinash",
+    "B": "Bolalarni o`qitish",
+    "C": "Faoliyatni kuzatish",
+    "D": "Xotirani tekshirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Faoliyat mahsullarini o`rganish metodida nima tahlil qilinadi?",
+    "A": "Bolalar yaratgan narsalar",
+    "B": "Suhbat",
+    "C": "Laboratoriya natijalari",
+    "D": "Testlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Suhbat metodidan nechchi yoshdan boshlab foydalanish mumkin?",
+    "A": "5–6 yoshdan",
+    "B": "2 yoshdan",
+    "C": "10 yoshdan",
+    "D": "15 yoshdan",
+    "javob": "A"
+  },
+  {
+    "savol": "Test so`zi qaysi tildan olingan?",
+    "A": "Inglizcha",
+    "B": "Ruscha",
+    "C": "Lotincha",
+    "D": "Arabcha",
+    "javob": "A"
+  },
+  {
+    "savol": "Sotsiometriya metodi yordamida nima aniqlanadi?",
+    "A": "Bolalar o`zaro munosabatlari",
+    "B": "Kattalar munosabatlari",
+    "C": "Oilaviy munosabatlar",
+    "D": "O`qituvchi fikri",
+    "javob": "A"
+  },
+  {
+    "savol": "Bolalar psixologiyasi metodlarini bilish kimlar uchun muhim?",
+    "A": "Pedagog va tarbiyachilar uchun",
+    "B": "Ota–onalar uchun",
+    "C": "Psixologlar uchun",
+    "D": "Talabalar uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "Vigotskiy psixologik qarashlarida asosiy e`tibor qaysi masalaga qaratilgan?",
+    "A": "Bolaning ijtimoiy-madaniy taraqqiyoti",
+    "B": "Nerv tizimining fiziologiyasi",
+    "C": "Shartsiz reflekslar",
+    "D": "Biologik meros",
+    "javob": "A"
+  },
+  {
+    "savol": "Oliy psixik funksiyalar taraqqiyotining manbai nima?",
+    "A": "Ijtimoiy muhit",
+    "B": "Tug`ma xususiyatlar",
+    "C": "Genetik omillar",
+    "D": "Tasodifiy holatlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Vigotskiyga ko`ra psixik taraqqiyotning harakatlantiruvchi kuchi nima?",
+    "A": "Ta`lim",
+    "B": "Tarbiya",
+    "C": "Biologik rivojlanish",
+    "D": "Irsiy omillar",
+    "javob": "A"
+  },
+  {
+    "savol": "L.S. Obuxovaning fikricha Vigotskiy bolalar psixologiyasiga nima kiritgan?",
+    "A": "Tarixiylik tamoyilini",
+    "B": "Empirik kuzatish metodini",
+    "C": "Psixoanalitik yondashuvni",
+    "D": "Statistik tahlil usulini",
+    "javob": "A"
+  },
+  {
+    "savol": "Psixologik qurol sifatida nima xizmat qiladi?",
+    "A": "Belgilar",
+    "B": "Reflekslar",
+    "C": "Biologik mexanizmlar",
+    "D": "Nerv tolalari",
+    "javob": "A"
+  },
+  {
+    "savol": "Ixtiyorsiz psixik funksiyalarni Vigotskiy qanday atagan?",
+    "A": "Natural yoki tuban funksiyalar",
+    "B": "Sun`iy funksiyalar",
+    "C": "Ijtimoiy funksiyalar",
+    "D": "Yashirin funksiyalar",
+    "javob": "A"
+  },
+  {
+    "savol": "Rivojlanishning eng yaqin zonasi qanday ta`riflanadi?",
+    "A": "Aktual va potensial rivojlanish oralig`i",
+    "B": "Bolaning jismoniy o`sish darajasi",
+    "C": "Bolaning nutq tezligi",
+    "D": "Bolaning tug`ma qobiliyati",
+    "javob": "A"
+  },
+  {
+    "savol": "Vigotskiy nazariyasida “interiorizatsiya” nimani anglatadi?",
+    "A": "Tashqi munosabatlarning ichki jarayonga aylanishi",
+    "B": "Xotiraning mustahkamlanishi",
+    "C": "Ta`lim jarayonida o`rganish",
+    "D": "Diqqatni jamlash jarayoni",
+    "javob": "A"
+  },
+  {
+    "savol": "Vigotskiy qaysi qonunlarni ta`riflab bergan?",
+    "A": "Taraqqiyot qonunlari",
+    "B": "Evolyutsiya qonunlari",
+    "C": "Biologik qonunlar",
+    "D": "Fizik qonunlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Faoliyat nazariyasining asoschilaridan biri kim?",
+    "A": "Leontyev",
+    "B": "Vigotskiy",
+    "C": "Myasishchev",
+    "D": "Z. Freyd",
+    "javob": "A"
+  },
+  {
+    "savol": "Leontyev nazariyasiga ko`ra faoliyat nima?",
+    "A": "Sub`ektning predmetli olam bilan ta`sirlashuvi",
+    "B": "Ongning rivojlanishi",
+    "C": "Biologik jarayon",
+    "D": "Nerv impulslarining o`tishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Faoliyatning asosiy tarkibiy birligi nima?",
+    "A": "Harakat",
+    "B": "Operatsiya",
+    "C": "Motiv",
+    "D": "Maqsad",
+    "javob": "A"
+  },
+  {
+    "savol": "Leontyev ta`kidlashicha shaxsning birinchi tug`ilishi qaysi davrda bo`ladi?",
+    "A": "Maktabgacha yosh davri",
+    "B": "Chaqaloqlik davri",
+    "C": "O`smirlikda",
+    "D": "Boshlang`ich maktab davrida",
+    "javob": "A"
+  },
+  {
+    "savol": "Leontyev nazariyasida shaxsning ikkinchi tug`ilishi qachon sodir bo`ladi?",
+    "A": "O`smir davrida",
+    "B": "Maktabgacha yosh davrida",
+    "C": "Chaqaloqlikda",
+    "D": "Kattalik davrida",
+    "javob": "A"
+  },
+  {
+    "savol": "Yetakchi faoliyat tushunchasini kim ilgari surgan?",
+    "A": "A.n. leontyev",
+    "B": "L.s. vigotskiy",
+    "C": "V.n. myasishchev",
+    "D": "J. Piajе",
+    "javob": "A"
+  },
+  {
+    "savol": "Myasishchev kontsepsiyasi nimaga asoslangan?",
+    "A": "Munosabatlar tizimiga",
+    "B": "Biologik merosga",
+    "C": "Reflekslar tizimiga",
+    "D": "Shaxsning tug`ma qobiliyatiga",
+    "javob": "A"
+  },
+  {
+    "savol": "Myasishchev ajratib ko`rsatgan munosabatlar kategoriyalaridan biri?",
+    "A": "Tabiat hodisalari va narsa-buyumlar",
+    "B": "Til qobiliyatlari",
+    "C": "Irsi omillar",
+    "D": "Biologik ehtiyojlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Myasishchevga ko`ra shaxsning asosini nima tashkil etadi?",
+    "A": "Atrof olam va o`z-o`ziga munosabatlari",
+    "B": "Genetik qobiliyatlar",
+    "C": "Fiziologik xususiyatlar",
+    "D": "Tarbiya jarayoni",
+    "javob": "A"
+  },
+  {
+    "savol": "Myasishchev nazariyasiga ko`ra idrokning mustahkamligi nimaga bog`liq?",
+    "A": "Ijobiy munosabatga",
+    "B": "Xotiraning kuchiga",
+    "C": "Tafakkurning tezligiga",
+    "D": "Nerv tizimining xususiyatiga",
+    "javob": "A"
+  },
+  {
+    "savol": "Bolaning yoshi odatda qaysi kundan boshlab hisoblanadi?",
+    "A": "Tug`ilgan kundan",
+    "B": "Ona homilador bo`lgan kundan",
+    "C": "Bola yurishni boshlagan kundan",
+    "D": "Bola gapirishni boshlagan kundan",
+    "javob": "A"
+  },
+  {
+    "savol": "Bola rivojlanishi asosan qaysi davr bilan uzviy bog`liq?",
+    "A": "Ona qornidagi taraqqiyoti bilan",
+    "B": "Bola yasliga borgandan keyin",
+    "C": "Bola maktabga chiqqandan keyin",
+    "D": "Bola gapira boshlaganidan keyin",
+    "javob": "A"
+  },
+  {
+    "savol": "Bola hayotining bir yoshgacha bo`lgan davri qanday davr hisoblanadi?",
+    "A": "Kam harakat va “nutqsiz” taraqqiyot davri",
+    "B": "Mustaqil harakat davri",
+    "C": "Maktabgacha tayyorlov davri",
+    "D": "O`smirlik davri",
+    "javob": "A"
+  },
+  {
+    "savol": "Yangi tug`ilgan bolaning boshi gavdasiga nisbatan qanday bo`ladi?",
+    "A": "Juda katta",
+    "B": "Juda kichkina",
+    "C": "Teng",
+    "D": "Oddiy",
+    "javob": "A"
+  },
+  {
+    "savol": "Katta odam bir minutda taxminan necha marta nafas oladi?",
+    "A": "14–16 marta",
+    "B": "50–60 marta",
+    "C": "30–40 marta",
+    "D": "100 marta",
+    "javob": "A"
+  },
+  {
+    "savol": "Chaqaloq bola yuragi bir minutda taxminan necha marta uradi?",
+    "A": "120 marta va undan ortiq",
+    "B": "70–75 marta",
+    "C": "50–55 marta",
+    "D": "90 marta",
+    "javob": "A"
+  },
+  {
+    "savol": "Bola vazni bir yoshga to`lganda necha marta ortadi?",
+    "A": "Uch marta",
+    "B": "Ikki marta",
+    "C": "To`rt marta",
+    "D": "Besh marta",
+    "javob": "A"
+  },
+  {
+    "savol": "Normal tug`ilgan bolaning o`rtacha vazni qancha bo`ladi?",
+    "A": "2800–3500 g",
+    "B": "2000–2500 g",
+    "C": "1500–2000 g",
+    "D": "4000–4500 g",
+    "javob": "A"
+  },
+  {
+    "savol": "Normal tug`ilgan bolaning bo`yi necha santimetr bo`ladi?",
+    "A": "45–52 sm",
+    "B": "35–40 sm",
+    "C": "55–60 sm",
+    "D": "40–42 sm",
+    "javob": "A"
+  },
+  {
+    "savol": "Bir yoshgacha bola bo`yi taxminan necha santimetrga o`sadi?",
+    "A": "25 sm",
+    "B": "15 sm",
+    "C": "10 sm",
+    "D": "40 sm",
+    "javob": "A"
+  },
+  {
+    "savol": "Chaqaloqlik davrida skelet qanday bo`ladi?",
+    "A": "Yumshoq tog`aydan iborat",
+    "B": "Mustahkam suyakdan iborat",
+    "C": "To`liq qattiq bo`ladi",
+    "D": "O`zgarmaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Skolioz kasalligi qanday kasallik?",
+    "A": "Umurtqa suyagining qiyshayishi",
+    "B": "Yurak kasalligi",
+    "C": "O`pka kasalligi",
+    "D": "Miya kasalligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Skolioz kasalligiga kimlar ko`proq moyil bo`ladi?",
+    "A": "Qiz bolalar",
+    "B": "O`g`il bolalar",
+    "C": "Katta odamlar",
+    "D": "Chaqaloqlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Skolioz kasalligini davolashda kim ishtirok etadi?",
+    "A": "Ortoped vrachlar",
+    "B": "Psixologlar",
+    "C": "Tarbiyachilar",
+    "D": "Pediatrlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Go`dak bolada dastlab qaysi analizatorlar rivojlana boshlaydi?",
+    "A": "Harakat analizatorlari",
+    "B": "Ko`rish analizatorlari",
+    "C": "Eshitish analizatorlari",
+    "D": "Ta`m analizatorlari",
+    "javob": "A"
+  },
+  {
+    "savol": "Uch oylik bola atrofdagi narsalardan qaysini ajrata boshlaydi?",
+    "A": "Odamni",
+    "B": "O`yinchoqni",
+    "C": "Ranglarni",
+    "D": "Taomni",
+    "javob": "A"
+  },
+  {
+    "savol": "Olti oylik bola qaysi murakkab harakatni bajarishni boshlaydi?",
+    "A": "Mustaqil o`tiradi",
+    "B": "Mustaqil yuradi",
+    "C": "Emaklaydi",
+    "D": "Qo`lini cho`zadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Sakkiz oylik bola qaysi yangi harakatni o`zlashtiradi?",
+    "A": "Emaklashni",
+    "B": "Yugurishni",
+    "C": "Mustaqil yurishni",
+    "D": "Gapira olish",
+    "javob": "A"
+  },
+  {
+    "savol": "9–10 oylik bola odatda nimani boshlaydi?",
+    "A": "Yurishni",
+    "B": "Gapirishni",
+    "C": "O`tirishni",
+    "D": "Chopishni",
+    "javob": "A"
+  },
+  {
+    "savol": "Ilk bolalik davri qaysi yosh oralig`ini o`z ichiga oladi?",
+    "A": "1–3 yosh oralig`i",
+    "B": "3–6 yoshda",
+    "C": "6–10 yosh",
+    "D": "0–1 yosh",
+    "javob": "A"
+  },
+  {
+    "savol": "3 yoshga kelib bolaning miyasi kattalarnikining necha foiziga yetadi?",
+    "A": "80–90 %",
+    "B": "50%",
+    "C": "60%",
+    "D": "100%",
+    "javob": "A"
+  },
+  {
+    "savol": "Ilk bolalik davrida tishlar soni qancha bo`ladi?",
+    "A": "20 ta sut tishi",
+    "B": "10 ta sut tishi",
+    "C": "32 ta tish",
+    "D": "16 ta tish",
+    "javob": "A"
+  },
+  {
+    "savol": "Bola 1 yoshda qanday harakatlarni bajarishi mumkin?",
+    "A": "O`tirish, emaklash, yurish",
+    "B": "Mustaqil sakrash",
+    "C": "To`p o`ynash",
+    "D": "Yugurish",
+    "javob": "A"
+  },
+  {
+    "savol": "2 yoshli bola qanday harakatlarni bajaradi?",
+    "A": "Yuguradi va buyum ko`taradi",
+    "B": "Maktabga boradi",
+    "C": "Kitob o`qiydi",
+    "D": "Chopish",
+    "javob": "A"
+  },
+  {
+    "savol": "Bola necha yoshda qoshiq bilan ovqatlana boshlaydi?",
+    "A": "1,5 yoshda",
+    "B": "7 oyligida",
+    "C": "7 yoshda",
+    "D": "3 yoshda",
+    "javob": "A"
+  },
+  {
+    "savol": "Ilk bolalik davrida diqqatning asosiy xususiyati qanday?",
+    "A": "Ixtiyorsiz va beqaror",
+    "B": "Juda barqaror",
+    "C": "Mustaqil rejalashtirilgan",
+    "D": "Mantiqiy mustahkam",
+    "javob": "A"
+  },
+  {
+    "savol": "Bolalarda tafakkur qanday xarakterga ega?",
+    "A": "Konkret va harakatli",
+    "B": "Juda mavhum",
+    "C": "Matematik",
+    "D": "Ilmiy-nazariy",
+    "javob": "A"
+  },
+  {
+    "savol": "Ilk bolalik davrida bolalar qanday xayolga ega bo`ladi?",
+    "A": "Ixtiyorsiz xayol",
+    "B": "Mustaqil xayol",
+    "C": "Rejali xayol",
+    "D": "Kreativ xayol",
+    "javob": "A"
+  },
+  {
+    "savol": "Bola o`yinida taqlidiy harakatlar qachon paydo bo`ladi?",
+    "A": "2 yoshda",
+    "B": "1 yoshda",
+    "C": "8 yoshda",
+    "D": "9 yoshda",
+    "javob": "A"
+  },
+  {
+    "savol": "3 yoshga kelib bolaning o`rtacha bo`yi qancha bo`ladi?",
+    "A": "90–95 sm",
+    "B": "60 sm",
+    "C": "70 sm",
+    "D": "110 sm",
+    "javob": "A"
+  },
+  {
+    "savol": "3 yoshli bolaning vazni taxminan qancha bo`ladi?",
+    "A": "13–15 kg",
+    "B": "7–8 kg",
+    "C": "20 kg",
+    "D": "25 kg",
+    "javob": "A"
+  },
+  {
+    "savol": "Bola “men” so`zini qaysi davrda ishlata boshlaydi?",
+    "A": "Ilk bolalik davrida",
+    "B": "Maktabgacha davrida",
+    "C": "O`smirlik davrida",
+    "D": "Chaqaloqlik davrida",
+    "javob": "A"
+  },
+  {
+    "savol": "Bola biron narsaga uzoq vaqt diqqatini qachondan qaratadi?",
+    "A": "2 yoshdan keyin",
+    "B": "6 oyligida",
+    "C": "4 yoshda",
+    "D": "5 yoshda",
+    "javob": "A"
+  },
+  {
+    "savol": "Bola yangi so`zlardan keng foydalana boshlashi nimaga olib keladi?",
+    "A": "Tafakkurning o`sishiga",
+    "B": "Nutqning sekinlashishiga",
+    "C": "Idrokning pasayishiga",
+    "D": "Xotiraning susayishiga",
+    "javob": "A"
+  },
+  {
+    "savol": "Bolaning mayda motorikasi qachon rivojlanadi?",
+    "A": "1,5–3 yosh oralig`ida",
+    "B": "Tug`ilganda",
+    "C": "6 yoshdan keyin",
+    "D": "Maktab davrida",
+    "javob": "A"
+  },
+  {
+    "savol": "Ilk bolalik davrida bolaning asosiy ehtiyoji nima?",
+    "A": "Tevarak-atrofni bilish",
+    "B": "Maktabga borish",
+    "C": "Kitob o`qish",
+    "D": "Hisoblash",
+    "javob": "A"
+  },
+  {
+    "savol": "Maktabgacha yosh davri qaysi yosh oralig`ini o`z ichiga oladi?",
+    "A": "3–6 yosh",
+    "B": "7–10 yosh",
+    "C": "1–3 yosh",
+    "D": "10–12 yosh",
+    "javob": "A"
+  },
+  {
+    "savol": "Bu davrda bolaning asosiy faoliyat turi nima hisoblanadi?",
+    "A": "O`yin",
+    "B": "Mehnat",
+    "C": "O`qish",
+    "D": "Sport",
+    "javob": "A"
+  },
+  {
+    "savol": "Maktabgacha yoshda bolaning nutqi qanday rivojlanadi?",
+    "A": "So`z boyligi kengayadi",
+    "B": "Nutqi susayishi",
+    "C": "Gapira olmasligi",
+    "D": "Imo-ishora ishlatadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Jismoniy rivojlanish uchun eng muhim omil qaysi?",
+    "A": "To`g`ri ovqatlanish",
+    "B": "Ko`p uxlash",
+    "C": "Tez gapirish",
+    "D": "Televizor ko`rish",
+    "javob": "A"
+  },
+  {
+    "savol": "Psixologik barqarorlikni ta`minlashda nima muhim hisoblanadi?",
+    "A": "Mehr va e`tibor",
+    "B": "Qattiq nazorat",
+    "C": "Dars",
+    "D": "Mukofotlash",
+    "javob": "A"
+  },
+  {
+    "savol": "Bolaning ijtimoiy ko`nikmalari qanday rivojlanadi?",
+    "A": "Jamoadagi o`yinlar",
+    "B": "Dars",
+    "C": "Filmlar ko`rish",
+    "D": "Yolg`iz qolish",
+    "javob": "A"
+  },
+  {
+    "savol": "Ta`limiy sharoitlarning asosiy vazifasi nima?",
+    "A": "Aqliy salohiyatni rivojlantirish",
+    "B": "Jismoniy tarbiya",
+    "C": "Ovqatlanish",
+    "D": "Uyquni nazorat qilish",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq rivoji bolaning qaysi jihatini mustahkamlaydi?",
+    "A": "Tafakkur va muloqot",
+    "B": "Yugurish",
+    "C": "Jismoniy kuch",
+    "D": "Ko`rish qobiliyati",
+    "javob": "A"
+  },
+  {
+    "savol": "O`yin faoliyatining bolaning rivojlanishidagi o`rni qanday?",
+    "A": "Asosiy faoliyat turi",
+    "B": "Vaqt o`tkazish",
+    "C": "O`rinsiz mashg`ulot",
+    "D": "Noto`g`ri odatlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Maktabgacha yoshda bolaning savollar berishi nimani anglatadi?",
+    "A": "Bilish faoliyatining faolligi",
+    "B": "Dangasalik",
+    "C": "Nutqsizlik",
+    "D": "Kamchilik",
+    "javob": "A"
+  },
+  {
+    "savol": "Bolaning axloqiy tarbiyasi qaysi vositalar orqali shakllanadi?",
+    "A": "San`at, ertak va qo`shiqlar",
+    "B": "Sport",
+    "C": "Uyqu",
+    "D": "Texnika",
+    "javob": "A"
+  },
+  {
+    "savol": "Ota-onalar va tarbiyachilarning hamkorligi nima uchun muhim?",
+    "A": "Bola uchun sog`lom muhit yaratish uchun",
+    "B": "Nazorat uchun",
+    "C": "Jazolash uchun",
+    "D": "Keraksiz",
+    "javob": "A"
+  },
+  {
+    "savol": "Maktabgacha ta`limda qaysi mashg`ulotlar ijodiy qobiliyatni rivojlantiradi?",
+    "A": "Rasm, musiqa, konstruktor",
+    "B": "Yugurish",
+    "C": "Multfilmlar ko`rish",
+    "D": "O`qish",
+    "javob": "A"
+  },
+  {
+    "savol": "Jismoniy tarbiya bolaning qaysi sifatlarini rivojlantiradi?",
+    "A": "Tezkorlik va chaqqonlik",
+    "B": "Ko`rish",
+    "C": "Eshitish",
+    "D": "Gapirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Oilaviy muhit bolaning qaysi rivojlanishiga ta`sir ko`rsatadi?",
+    "A": "Shaxsiyati va psixologik rivoji",
+    "B": "Jismoniy rivojlanishi",
+    "C": "O`qish malakasi",
+    "D": "Iqtisodiy tarbiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Rol o`yinlari bolaning nimani o`rganishiga yordam beradi?",
+    "A": "Kattalarning faoliyatini",
+    "B": "Uyquni",
+    "C": "Ovqatlanishni",
+    "D": "Texnikani",
+    "javob": "A"
+  },
+  {
+    "savol": "Estetik tarbiya bolaning nimani rivojlantiradi?",
+    "A": "Go`zallikni qadrlashni",
+    "B": "Kuchni",
+    "C": "Tezlikni",
+    "D": "Xotirani",
+    "javob": "A"
+  },
+  {
+    "savol": "Bog`chada ta`limiy o`yinlarning maqsadi nima?",
+    "A": "Bilim berish va tafakkurni rivojlantirish",
+    "B": "Kuchaytirish",
+    "C": "Xotirani pasaytirish",
+    "D": "Diqqatning chalg`uvchanligini oshirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Bolaning kelajakdagi maktab hayotiga tayyorgarligi qaysi davrda yaratiladi?",
+    "A": "Maktabgacha davrda",
+    "B": "Boshlang`ich sinfda",
+    "C": "O`rta maktabda",
+    "D": "Kollejda",
+    "javob": "A"
+  },
+  {
+    "savol": "Maktabgacha yoshni nega oltin davr deb atash mumkin?",
+    "A": "Shaxsiy rivojlanishning poydevori",
+    "B": "Sohalar tarkibi",
+    "C": "Samarali umr",
+    "D": "Gigiyena",
+    "javob": "A"
+  },
+  {
+    "savol": "Uch yosh inqirozi psixologiyada qanday davr sifatida ta`riflanadi?",
+    "A": "Inqiroz davri",
+    "B": "O`yin davri",
+    "C": "Tinim davri",
+    "D": "O`sish davri",
+    "javob": "A"
+  },
+  {
+    "savol": "L.S. Vigotskiy uch yosh inqirozini qanday baholagan?",
+    "A": "Ijtimoiy rivojlanishdagi burilish",
+    "B": "Nutqning sekinlashuvi",
+    "C": "Passiv davr",
+    "D": "Jismoniy o`sish davri",
+    "javob": "A"
+  },
+  {
+    "savol": "D.B. Elkonin uch yosh davrida nimani ta`kidlagan?",
+    "A": "Shaxsiy “men” shakllanishi",
+    "B": "O`yin faoliyati",
+    "C": "Jismoniy kuch ortishi",
+    "D": "Nutqning sustlashishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Jan Piagetga ko`ra, uch yoshda bola qaysi bosqichga o`tadi?",
+    "A": "Old operatsion bosqich",
+    "B": "Sensorimotor bosqich",
+    "C": "Formal bosqich",
+    "D": "Konkretsiyali bosqich",
+    "javob": "A"
+  },
+  {
+    "savol": "Erikson nazariyasida uch yosh davri qanday nomlanadi?",
+    "A": "Mustaqillik va shubha bosqichi",
+    "B": "Ishonch va ishonchsizlik",
+    "C": "O`yin va mehnat",
+    "D": "O`smirlik",
+    "javob": "A"
+  },
+  {
+    "savol": "Uch yosh inqirozining asosiy belgilaridan biri qaysi?",
+    "A": "O`jarlik",
+    "B": "Tashabbuskorlik",
+    "C": "Ishonch",
+    "D": "Odob",
+    "javob": "A"
+  },
+  {
+    "savol": "Mustaqillikka intilish qanday ko`rinishda namoyon bo`ladi?",
+    "A": "Kiyinish va ovqatlanishni o`zi bajarishga urinish",
+    "B": "Yig`lash",
+    "C": "Uxlab qolish",
+    "D": "Gapirmaslik",
+    "javob": "A"
+  },
+  {
+    "savol": "Men-maniya nimani anglatadi?",
+    "A": "Bolaning o`z “men”ini anglash istagi",
+    "B": "Yig`lash holati",
+    "C": "Kattalarni inkor qilish",
+    "D": "Qarshilik",
+    "javob": "A"
+  },
+  {
+    "savol": "Inqiroz davrida bola kattalar topshirig`iga qanday munosabat bildiradi?",
+    "A": "Ko`r-ko`rona emas, o`z qarashlari bilan",
+    "B": "Har doim bajara oladi",
+    "C": "Hech qachon bajarmaydi",
+    "D": "Yig`laydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Tengdoshlar bilan muloqot qachon faol rivojlana boshlaydi?",
+    "A": "Uch yosh davrida",
+    "B": "Ikki yoshda",
+    "C": "Besh yoshda",
+    "D": "O`n yoshda",
+    "javob": "A"
+  },
+  {
+    "savol": "Uch yosh davrida bolaning nutqi qanday o`zgaradi?",
+    "A": "Murakkab gaplar tuza boshlaydi",
+    "B": "Nutqi susayadi",
+    "C": "Imo ishlatadi",
+    "D": "Gapira olmaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq rivoji bolaning qaysi qobiliyatini mustahkamlaydi?",
+    "A": "Mantiqiy tafakkur",
+    "B": "Jismoniy kuch",
+    "C": "Tezlik",
+    "D": "Diqqat",
+    "javob": "A"
+  },
+  {
+    "savol": "Ota-onalar bolaning mustaqillik intilishini qanday qo`llab-quvvatlashi kerak?",
+    "A": "Mustaqilligini rag`batlantirish",
+    "B": "Jazolash",
+    "C": "Nazorat",
+    "D": "E`tibor bermaslik",
+    "javob": "A"
+  },
+  {
+    "savol": "Bola o`zini kamsitilgan his qilsa, qanday bo`lib qolishi mumkin?",
+    "A": "Qaysar yoki passiv",
+    "B": "Faol va mustaqil",
+    "C": "Ijodkor",
+    "D": "Odobli",
+    "javob": "A"
+  },
+  {
+    "savol": "Uch yosh inqirozi qanday ijobiy jihatlarga ega?",
+    "A": "Mustaqillik va shaxsiy fikrni shakllantiradi",
+    "B": "Yig`lashni ko`paytiradi",
+    "C": "Passivlikni kuchaytiradi",
+    "D": "Qattiqlikni oshiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Psixologlar inqirozni yengishda nimalarni tavsiya qiladilar?",
+    "A": "Sabr-toqat va yo`naltirish",
+    "B": "Jazolash",
+    "C": "Nazorat",
+    "D": "E`tibor bermaslik",
+    "javob": "A"
+  },
+  {
+    "savol": "Amaliy mashqlar bolaning qaysi jihatini rivojlantiradi?",
+    "A": "Mas`uliyat va mustaqillik",
+    "B": "Jismoniy kuch",
+    "C": "Xotira",
+    "D": "Uyqu",
+    "javob": "A"
+  },
+  {
+    "savol": "Vigotskiy madaniy-tarixiy yondashuvida uch yosh inqirozi nimani bildiradi?",
+    "A": "Yangi ijtimoiy mavqe",
+    "B": "Nutqiy rivojlanish",
+    "C": "Jismoniy-tarbiyaviy",
+    "D": "Axloqiy tarbiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Inqirozdan keyin bola qanday qobiliyatlarni rivojlantiradi?",
+    "A": "Nutq, tafakkur, xotira, diqqat",
+    "B": "Nutqiy",
+    "C": "Axloqiy",
+    "D": "Analizatorlar faolligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Uch yosh inqirozini to`g`ri boshdan kechirish nimani ta`minlaydi?",
+    "A": "Keyingi hayot poydevorini",
+    "B": "Fapirishniqat o`yin faoliyatini",
+    "C": "Jismoniy kuchsizlik",
+    "D": "Tezkorlikni",
+    "javob": "A"
+  },
+  {
+    "savol": "Psixodiagnostika nima?",
+    "A": "Psixik jarayonlarni o`lchash va baholash usullari",
+    "B": "O`yin faoliyatini o`rganish",
+    "C": "Nutqni o`rganish",
+    "D": "Jismoniy rivojlanishni kuzatish",
+    "javob": "A"
+  },
+  {
+    "savol": "Psixodiagnostikaning asosiy maqsadi nima?",
+    "A": "Bolaning rivojlanish darajasini aniqlash",
+    "B": "Maktabda baho qo`yish",
+    "C": "Ota-onani kuzatish",
+    "D": "Tarbiyachini nazorat qilish",
+    "javob": "A"
+  },
+  {
+    "savol": "Maktabgacha yoshdagi bolalarda psixodiagnostika nimalarni o`rganadi?",
+    "A": "Bilish jarayonlari va emotsional holatni",
+    "B": "Jismoniy kuchni",
+    "C": "Yozuv malakasini",
+    "D": "Yugurish qobiliyatini",
+    "javob": "A"
+  },
+  {
+    "savol": "Kuzatish metodida nimalar aniqlanadi?",
+    "A": "Bolaning kundalik faoliyatini",
+    "B": "Matematik bilimlarni",
+    "C": "Sport qobiliyatlarini",
+    "D": "Qo`shiq aytishini",
+    "javob": "A"
+  },
+  {
+    "savol": "Suhbat metodi nimani o`rganish uchun qo`llaniladi?",
+    "A": "Nutq va fikrini o`rganish",
+    "B": "Jismonan rivojlanish",
+    "C": "Yugurish qobiliyati",
+    "D": "Yozish malakasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Test metodlari yordamida qaysi jarayonlar baholanadi?",
+    "A": "Diqqat, xotira, tafakkur",
+    "B": "Yugurish tezligi",
+    "C": "Bo`y uzunligi",
+    "D": "Vazni",
+    "javob": "A"
+  },
+  {
+    "savol": "Loyihaviy metodlarga qaysi topshiriqlar kiradi?",
+    "A": "Asm chizish va hikoya tuzish",
+    "B": "Sport o`yinlari",
+    "C": "Atematik topshiriqlar",
+    "D": "Raqs mashqlari",
+    "javob": "A"
+  },
+  {
+    "savol": "O`yin metodlari qanday maqsadda ishlatiladi?",
+    "A": "Shaxsiy va ijtimoiy sifatlarni baholash",
+    "B": "Sport rivojini baholash",
+    "C": "Fiziologik o`zgarishlarni o`lchash",
+    "D": "Ovoz kuchini o`lchash",
+    "javob": "A"
+  },
+  {
+    "savol": "Diqqatni o`lchashda qaysi testlar qo`llaniladi?",
+    "A": "Zinchenko testi va Bells testi",
+    "B": "Matematika testi",
+    "C": "Yugurish testi",
+    "D": "Xotira testi",
+    "javob": "A"
+  },
+  {
+    "savol": "Xotirani baholash uchun qanday topshiriqlar beriladi?",
+    "A": "So`zlarni eslab qolish va qayta hikoya qilish",
+    "B": "Yugurish topshiriqlari",
+    "C": "Chizish topshiriqlari",
+    "D": "O`qish topshiriqlari",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutqni baholashda nimalar tahlil qilinadi?",
+    "A": "So`z boyligi va grammatik to`g`rilik",
+    "B": "Yugurish qobiliyati",
+    "C": "Axloqiy ko`rinish",
+    "D": "Perseptiv diqqat",
+    "javob": "A"
+  },
+  {
+    "savol": "Hissiy holatlarni aniqlash uchun qaysi test qo`llaniladi?",
+    "A": "Rasm bo`yash testi",
+    "B": "Sport testlari",
+    "C": "O`qish testlari",
+    "D": "Yozish testlari",
+    "javob": "A"
+  },
+  {
+    "savol": "Irodaviy sifatlar qanday aniqlanadi?",
+    "A": "Topshiriqlarni oxirigacha bajarishi orqali",
+    "B": "Tez yugurishi orqali",
+    "C": "Ovoz kuchi orqali",
+    "D": "Bo`yi orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Ijtimoiy munosabatlarni aniqlashda qaysi metod qo`llaniladi?",
+    "A": "Rolli o`yinlar va ijtimoiy vaziyatlarni modellashtirish",
+    "B": "Matematik topshiriqlar",
+    "C": "Yozish topshiriqlari",
+    "D": "Sport topshiriqlari",
+    "javob": "A"
+  },
+  {
+    "savol": "Psixodiagnostika natijalari kimlar uchun muhim ahamiyatga ega?",
+    "A": "Pedagog va ota-onalar uchun",
+    "B": "Sportchilar uchun",
+    "C": "Shifokorlar uchun",
+    "D": "Yozuvchilar uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "Korreksion ishlar qachon amalga oshiriladi?",
+    "A": "Muammo aniqlanganda",
+    "B": "Bola yaxshi bo`lsa",
+    "C": "Maktabda",
+    "D": "Bog`chada",
+    "javob": "A"
+  },
+  {
+    "savol": "`Oila daraxti` metodi nimani aniqlashga yordam beradi?",
+    "A": "Bolaning oilaviy munosabatlarni qanday qabul qilayotganini",
+    "B": "Aqliy salohiyat uchun",
+    "C": "Axloqiy salohiyatni",
+    "D": "Ta`limiy salohiyatni",
+    "javob": "A"
+  },
+  {
+    "savol": "Psixodiagnostika yordamida iste`dodlarni aniqlashdan maqsad nima?",
+    "A": "Iste`dodlarni rivojlantirish",
+    "B": "Jazolash",
+    "C": "Nazorat qilish",
+    "D": "Kuchaytirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Psixodiagnostikaning umumiy ahamiyati nimada?",
+    "A": "Bola rivojini chuqur o`rganishda",
+    "B": "Sportda",
+    "C": "Yozishda",
+    "D": "Musiqada",
+    "javob": "A"
+  },
+  {
+    "savol": "Maktab ta`limiga tayyorlik nimalar bilan belgilanadi?",
+    "A": "Psixik yetuklik va ijtimoiy moslashuv",
+    "B": "Bo`yning normada o`sishi",
+    "C": "Sochning normada o`sishi",
+    "D": "Ovqatlana olishida",
+    "javob": "A"
+  },
+  {
+    "savol": "Psixik tayyorgarlik nimani anglatadi?",
+    "A": "Bolaning psixologik sifatlari majmui",
+    "B": "Oo`yin faoliyatini",
+    "C": "Nutqiy rivojlanishni",
+    "D": "Jismoniy tayyorgarlikni",
+    "javob": "A"
+  },
+  {
+    "savol": "Bilish jarayonlari psixik tayyorgarlikda qanday rol o`ynaydi?",
+    "A": "Bilim olish jarayonini yengillashtiradi",
+    "B": "O`yin qiziqarli bo`lishini",
+    "C": "Charchashni kamaytiradi",
+    "D": "Jismoniy rivojlanishni",
+    "javob": "A"
+  },
+  {
+    "savol": "Diqqatning barqarorligi nimaga yordam beradi?",
+    "A": "Topshiriqlarni uzoq davom ettirishga",
+    "B": "Tez yugurishga",
+    "C": "Baland gapirishga",
+    "D": "O`yin o`ynashga",
+    "javob": "A"
+  },
+  {
+    "savol": "Xotira bolaning qaysi faoliyatida muhim rol o`ynaydi?",
+    "A": "Bilimlarni eslab qolishda",
+    "B": "Jismoniy mashqlarda",
+    "C": "Uyquni yaxshilashda",
+    "D": "Chizishda",
+    "javob": "A"
+  },
+  {
+    "savol": "Tafakkurning mantiqiyligi nimani ta`minlaydi?",
+    "A": "Mantiqiy fikrlashni",
+    "B": "Tez yugurishni",
+    "C": "Axloqiylikni",
+    "D": "Baland ovoz chiqarishni",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq rivoji bolaning maktabga tayyorligida qanday ahamiyatga ega?",
+    "A": "O`qituvchini tushunish va fikrni ifodalashda",
+    "B": "Suzishda",
+    "C": "Qo`shiq kuylashda",
+    "D": "Televizor ko`rishda",
+    "javob": "A"
+  },
+  {
+    "savol": "Hissiy-irodaviy tayyorgarlik nimalarni o`z ichiga oladi?",
+    "A": "Sabr, intizom va o`zini boshqarish",
+    "B": "Tez yugurish",
+    "C": "Baland gapirish",
+    "D": "Kuchaytirishda",
+    "javob": "A"
+  },
+  {
+    "savol": "Bola sabrsiz bo`lsa, maktab jarayonida qanday muammo yuz beradi?",
+    "A": "Topshiriqlarni oxiriga yetkazmaydi",
+    "B": "Yaxshi yuguradi",
+    "C": "Ko`p gapiradi",
+    "D": "Tez yozadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ijtimoiy tayyorgarlikning asosiy mazmuni nimada?",
+    "A": "O`qituvchi va tengdoshlar bilan muloqot",
+    "B": "O`yin o`ynash",
+    "C": "Sport mashg`uloti",
+    "D": "Kitob o`qish",
+    "javob": "A"
+  },
+  {
+    "savol": "Maktabga moslashishda ijtimoiy tayyorgarlik qanday yordam beradi?",
+    "A": "Jamoaga tez moslashadi",
+    "B": "Ko`p gapiradi",
+    "C": "Ko`p kuylaydi",
+    "D": "Ko`p kuladi",
+    "javob": "A"
+  },
+  {
+    "savol": "O`yin faoliyatidan o`quv faoliyatiga o`tish qanday amalga oshiriladi?",
+    "A": "Didaktik va rolli o`yinlar orqali",
+    "B": "Sport mashg`ulotlari orqali",
+    "C": "Televizor ko`rish orqali",
+    "D": "Yozish orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Didaktik o`yinlar maktabga tayyorlashda qanday rol o`ynaydi?",
+    "A": "Bilim olishni qiziqarli ko`rsatadi",
+    "B": "Yugurish tezligini oshiradi",
+    "C": "Yozishni",
+    "D": "Baland gapirishni",
+    "javob": "A"
+  }
+]
