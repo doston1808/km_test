@@ -1,0 +1,1442 @@
+[
+  {
+    "savol": "Mikroskopning qaysi qismi yordamida obyektivlar o‘zgartiriladi?",
+    "A": "Revolver",
+    "B": "Obyektiv",
+    "C": "Tubs (trubka)",
+    "D": "Diapozitiv",
+    "javob": "A"
+  },
+  {
+    "savol": "Piyoz pusti epiteliy hujayralarini mikroskopda aniqlik bilan ko‘rish uchun qaysi modda tomiziladi?",
+    "A": "Yod eritmasi",
+    "B": "Spirt",
+    "C": "Glitserinning 1% eritmasi",
+    "D": "NaCl eritmasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Turgor hodisasi nimaga bog‘liq?",
+    "A": "Hujayra shirasining osmotik bosimi va po‘stining elastikligiga",
+    "B": "Hujayra yadrosi kattaligiga",
+    "C": "Vakuolaning o‘lchamiga",
+    "D": "Sitoplazma harakatiga",
+    "javob": "A"
+  },
+  {
+    "savol": "Plazmoliz hodisasi qanday eritma bilan yuzaga keladi?",
+    "A": "Kuchsiz tuzli eritma (NaCl yoki KCl)",
+    "B": "Toza suv",
+    "C": "Spirt (NaCl va KCl)",
+    "D": "Glitserinning suyultirilgan eritmasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Prozenxima hujayralarining asosiy belgisi nima?",
+    "A": "O‘lik bo‘ladi va faqat hujayra po‘stidan iborat",
+    "B": "Yadro markazda joylashgan bo‘ladi",
+    "C": "Har tomonlama teng kattalikda bo‘ladi",
+    "D": "Hujayra ichi pigmentlarga boy",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi to‘qima boshqa to‘qimalarni hosil qilish xususiyatiga ega?",
+    "A": "Meristema",
+    "B": "Parenxima",
+    "C": "Sklerexima",
+    "D": "Ksilema",
+    "javob": "A"
+  },
+  {
+    "savol": "Meristema hujayralarida yadroning o‘lchami qanday?",
+    "A": "Hujayraning ¾ qismini egallaydi",
+    "B": "Hujayraning ¼ qismini egallaydi",
+    "C": "Hujayraning ½ qismini egallaydi",
+    "D": "Yadro yo‘q",
+    "javob": "A"
+  },
+  {
+    "savol": "Apikal meristemaning asosiy vazifasi nima?",
+    "A": "O‘suvchi organlarni bo‘yiga o‘stirish",
+    "B": "O‘suvchi konusni shakllantirish",
+    "C": "Yashil plastidalar hosil qilish",
+    "D": "Organlarni yon tomonga o‘stirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Ikkilamchi meristema qaysi to‘qimalardan hosil bo‘ladi?",
+    "A": "Birlamchi meristema yoki asosiy to‘qimadan",
+    "B": "Prokambiyadan",
+    "C": "Parenximadan",
+    "D": "Faqat birlamchi meristemadan",
+    "javob": "A"
+  },
+  {
+    "savol": "Meristema qanday hujayralardan tashkil topgan?",
+    "A": "Zich joylashgan parenxima hujayralaridan",
+    "B": "Yassi epitelial hujayralardan",
+    "C": "Sklerexima hujayralaridan",
+    "D": "Kollenxima hujayralaridan",
+    "javob": "A"
+  },
+  {
+    "savol": "Qoplovchi to‘qimaning asosiy vazifasi nima?",
+    "A": "Himoya qilish",
+    "B": "Fotosintez qilish",
+    "C": "Ozuqa moddalari to‘plash",
+    "D": "Havo almashinuvini ta’minlash",
+    "javob": "A"
+  },
+  {
+    "savol": "Epiderma qanday hujayralardan tashkil topgan?",
+    "A": "Bir qator, zich joylashgan parenxima hujayralardan",
+    "B": "Ko‘p qavatli epiteliy hujayralardan",
+    "C": "Prokambiy hujayralardan",
+    "D": "Sklerexima hujayralardan",
+    "javob": "A"
+  },
+  {
+    "savol": "Epiderma qaysi birlamchi to‘qimadan kelib chiqadi?",
+    "A": "Birlamchi meristemaning ustki qavatidan",
+    "B": "Prokambiy",
+    "C": "Sklerexima",
+    "D": "Ikkilamchi meristemaning pastki qatlamidan",
+    "javob": "A"
+  },
+  {
+    "savol": "Peridermani hosil qiluvchi uch to‘qima qaysilar?",
+    "A": "Po’kak, Fеllоgен, Felloderma",
+    "B": "Epiderma, Ksilema, Floema",
+    "C": "Parchalanma, Fibrilla, Kollenkima",
+    "D": "Parchalanma, Tormozchi, Proplastid",
+    "javob": "A"
+  },
+  {
+    "savol": "Po’kak hujayralari qanday xususiyatga ega?",
+    "A": "O‘lik, suv o‘tkazmaydi",
+    "B": "Tirik, suv o‘tkazuvchi",
+    "C": "Tirik, havo o‘tkazadi",
+    "D": "O‘lik, havo va suvni yaxshi o‘tkazadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Interkalyar (oralik) meristema qayerda joylashadi?",
+    "A": "Poya bo‘g‘imlarida",
+    "B": "Poya uchida",
+    "C": "Barglarda",
+    "D": "Ildiz uchida",
+    "javob": "A"
+  },
+  {
+    "savol": "Qanday sharoitda yara meristemasi hosil bo‘ladi?",
+    "A": "O‘simliklar shikastlanganda",
+    "B": "Suvsizlanishda",
+    "C": "Mevalar pishganda",
+    "D": "Barglar to‘kilganda",
+    "javob": "A"
+  },
+  {
+    "savol": "Po’stloq qanday hollarda paydo bo‘ladi?",
+    "A": "Ko‘p yillik daraxtlarda, fеllogen faoliyati tufayli",
+    "B": "Faqat bir yillik novdalarda",
+    "C": "Barglar to‘kilganda",
+    "D": "Har qanday yosh o‘simlikda",
+    "javob": "A"
+  },
+  {
+    "savol": "Epiderma tuzilmasida qanday tuzilmalar nafas olishda qatnashadi?",
+    "A": "Ustitsalar og‘izchalar",
+    "B": "O‘simta tukchalar",
+    "C": "Lenticellalar",
+    "D": "Ksilema naychalari",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi reaktiv yordamida po’kak to‘qimasi aniqlanadi?",
+    "A": "Sudan III",
+    "B": "Yod eritmasi",
+    "C": "Fenol qizili",
+    "D": "Bromtimol ko‘k",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi mexanik to‘qima “tiriq hujayralardan” tashkil topgan?",
+    "A": "Kollenxima",
+    "B": "Sklerenxima",
+    "C": "Sklereid",
+    "D": "Naylar",
+    "javob": "A"
+  },
+  {
+    "savol": "Sklerenxima hujayralarining po‘stlari qanday xususiyatga ega?",
+    "A": "Bir tekis qalinlashgan, yog‘ochlashgan",
+    "B": "Notekis qalinlashgan",
+    "C": "Burchaklari qalinlashgan",
+    "D": "Yupqa va shifof",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi hujayralar “o‘lik”, qalin po‘stli, juda mustahkam va turli organlarda uchraydi?",
+    "A": "Sklereidlar",
+    "B": "Parenxima",
+    "C": "Kollenxima",
+    "D": "Epiderma",
+    "javob": "A"
+  },
+  {
+    "savol": "Kollenxima asosan qaerda joylashadi?",
+    "A": "Poya va bargda qoplovchi to‘qimadan keyin",
+    "B": "Meva tuxumida",
+    "C": "Ildiz uchida",
+    "D": "Ikkilamchi lub to‘qimasi ichida",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi mexanik to‘qimada “yashil plastidalar” uchraydi?",
+    "A": "Kollenxima",
+    "B": "Sklereid",
+    "C": "Sklerenxima",
+    "D": "Lub tolalari",
+    "javob": "A"
+  },
+  {
+    "savol": "Sklerenximaning kelib chiqishi bo‘yicha to‘g‘ri javobni toping:",
+    "A": "Birlamchi va ikkilamchi meristemalardan",
+    "B": "Ikkilamchi va uchlamchi qoplovchi to‘qimadan",
+    "C": "Sudan III bilan ranglangan to‘qimadan",
+    "D": "Parenximaning yog‘ochlashishidan",
+    "javob": "A"
+  },
+  {
+    "savol": "Lub tolalarining xossasi to‘g‘ri ko‘rsatilgan javob:",
+    "A": "Cho‘ziq, uchli, o‘lik, mustahkam",
+    "B": "Uzun va to‘rtburchak, protoplastga ega",
+    "C": "Radial yo‘nalishda joylashgan epidermis ostida",
+    "D": "Hammasi tirik va yashil",
+    "javob": "A"
+  },
+  {
+    "savol": "Sklereid hujayralari asosan qaerlarda ko‘p uchraydi?",
+    "A": "Nok va behi etida",
+    "B": "Ildiz uchida",
+    "C": "Gul to‘shchasida",
+    "D": "Ikkilamchi yog‘ochlikda",
+    "javob": "A"
+  },
+  {
+    "savol": "Naylar (traxeya) qanday to‘qimaga mansub?",
+    "A": "O‘tkazuvchi to‘qima",
+    "B": "Qoplovchi to‘qima",
+    "C": "Asosiy to‘qima",
+    "D": "Mexanik to‘qima",
+    "javob": "A"
+  },
+  {
+    "savol": "Naylar devorining qalinlashishiga ko‘ra necha turga bo‘linadi?",
+    "A": "6 (halqasimon, spiralsimon, narvonsimon, tursimon, nuqtasimon, aralash)",
+    "B": "5 (spiralsimon, narvonsimon, tursimon, nuqtasimon, aralash)",
+    "C": "4 (halqasimon, spiralsimon, narvonsimon, tursimon)",
+    "D": "3 (narvonsimon, tursimon, nuqtasimon)",
+    "javob": "A"
+  },
+  {
+    "savol": "Elaksimon naylar qanday moddalarni o‘tkazadi?",
+    "A": "Organik moddalar",
+    "B": "Gazlar va havo",
+    "C": "Faqat mineral moddalar",
+    "D": "Faqat suv",
+    "javob": "A"
+  },
+  {
+    "savol": "Yo‘ldosh hujayralarning vazifasi nimadan iborat?",
+    "A": "Elaksimon naylar bilan organik moddalarni olib o‘tish",
+    "B": "Mexanik mustahkamlikni ta’minlash",
+    "C": "Suv o‘tkazish",
+    "D": "Qoplash",
+    "javob": "A"
+  },
+  {
+    "savol": "Traxeidlar qanday hujayralardan tashkil topgan?",
+    "A": "Uzun, cho‘ziq, uchli o‘lik prozenxima hujayralardan",
+    "B": "Protoplastga ega silindrsimon tiriq hujayralardan",
+    "C": "Kollenxima hujayralaridan",
+    "D": "Butunlay parenximadan",
+    "javob": "A"
+  },
+  {
+    "savol": "Naychalar (traxeya) orqali qanday oqim amalga oshadi?",
+    "A": "Ko‘tariluvchi oqim",
+    "B": "Tushuvchi oqim",
+    "C": "Uzluksiz oqim",
+    "D": "Parrandasimon oqim",
+    "javob": "A"
+  },
+  {
+    "savol": "Sklereid hujayralarini kuzatishda qanday modda bilan ishlov beriladi?",
+    "A": "Floroglyusin + HCl",
+    "B": "Yod",
+    "C": "Floroglyusin + Eritrotsin",
+    "D": "Sudan III",
+    "javob": "A"
+  },
+  {
+    "savol": "Ildizning asosiy vazifasi nimadan iborat?",
+    "A": "O‘simlikni tuproqqa mahkam ushlab turish va suv, mineral moddalarni so‘rish",
+    "B": "Barglarda moddalar almashinuvini ta’minlash",
+    "C": "Havo almashinuvini ta’minlash",
+    "D": "Changlanishni ta’minlash",
+    "javob": "A"
+  },
+  {
+    "savol": "Ildizning shimish zonasida qanday tuzilma paydo bo‘ladi?",
+    "A": "Tukchalar",
+    "B": "Ustitsa",
+    "C": "Chang hujayralari",
+    "D": "Ksilema naylari",
+    "javob": "A"
+  },
+  {
+    "savol": "Ildizning tashqi qoplovchi to‘qimasi nima deb ataladi?",
+    "A": "Epiblema rezoderma",
+    "B": "Endoderma",
+    "C": "Ekzoderma",
+    "D": "Perisikl",
+    "javob": "A"
+  },
+  {
+    "savol": "Birlamchi po‘stloqning tashqi qatlami qaysi?",
+    "A": "Ekzoderma",
+    "B": "Mezoderma",
+    "C": "Endoderma",
+    "D": "Perisikl",
+    "javob": "A"
+  },
+  {
+    "savol": "Birlamchi po‘stloqning asosiy qismini tashkil etuvchi parenxima hujayralari qaysi qatlamda joylashgan?",
+    "A": "Mezoderma",
+    "B": "Endoderma",
+    "C": "Perisikl",
+    "D": "Kambiy",
+    "javob": "A"
+  },
+  {
+    "savol": "Endoderma hujayralari asosan qanday vazifani bajaradi?",
+    "A": "Suv va moddalar o‘tishini tartibga solish",
+    "B": "Yog‘ to‘plash",
+    "C": "Havo almashinuvi",
+    "D": "Ozuqani saqlash",
+    "javob": "A"
+  },
+  {
+    "savol": "Perisikldan nima hosil bo‘ladi?",
+    "A": "Yonildizlar va fellogen",
+    "B": "Tukchalar",
+    "C": "Barglar",
+    "D": "Ksilema va floema",
+    "javob": "A"
+  },
+  {
+    "savol": "Ildiz markazida joylashgan, suv o‘tkazuvchi naylardan iborat to‘qima:",
+    "A": "Ksilema",
+    "B": "Floema",
+    "C": "Mezoderma",
+    "D": "Endoderma",
+    "javob": "A"
+  },
+  {
+    "savol": "Ildizning ikkilamchi tuzilishi qaysi to‘qima faoliyati bilan boshlanadi?",
+    "A": "Kambiy va fellogen",
+    "B": "Endoderma",
+    "C": "Mezoderma",
+    "D": "Ekzoderma",
+    "javob": "A"
+  },
+  {
+    "savol": "Kambiyning asosiy vazifasi nima?",
+    "A": "Ikkilamchi yog‘ochlik va lubni hosil qiladi",
+    "B": "Ildizning cho‘zilib o‘sishini ta’minlaydi",
+    "C": "Suvni shimadi",
+    "D": "Himoya vazifasini bajaradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ikkilamchi tuzilish natijasida ildiz qanday o‘zgaradi?",
+    "A": "Yenga o‘sadi yo‘g‘onlashadi",
+    "B": "Uzayadi",
+    "C": "Ipsimon bo‘ladi",
+    "D": "Qurib ketadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Fellogen qaysi qatlam hujayralarining bo‘linishidan hosil bo‘ladi?",
+    "A": "Perisikl",
+    "B": "Endoderma",
+    "C": "Kambiy",
+    "D": "Ksilema",
+    "javob": "A"
+  },
+  {
+    "savol": "Fellogendan tashqariga ajralib chiqadigan to‘qima qanday ataladi?",
+    "A": "Po‘kak fellema",
+    "B": "Felloderma",
+    "C": "Kambiy",
+    "D": "Floema",
+    "javob": "A"
+  },
+  {
+    "savol": "Ildizdagi radial nurlar qanday tuzilmalardan tashkil topgan?",
+    "A": "Yog‘ochlik parenximasi hujayralaridan",
+    "B": "Epidermis hujayralaridan",
+    "C": "Fellogen hujayralaridan",
+    "D": "Floema naylaridan",
+    "javob": "A"
+  },
+  {
+    "savol": "Gulsavsar ildizida yog‘ochlangan to‘qimalarni aniqlash uchun qaysi reaktiv ishlatiladi?",
+    "A": "Floroglyusin + xlorid kislota",
+    "B": "Yod eritmasi + xlorid kislota",
+    "C": "Safra sabuni",
+    "D": "Etil spirti",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘simlikning asosiy (o‘q) qismi nima deb ataladi?",
+    "A": "Poya",
+    "B": "Barg",
+    "C": "Ildiz",
+    "D": "Gul",
+    "javob": "A"
+  },
+  {
+    "savol": "Bir pallali o‘simliklar poyasida o‘tkazuvchi bog‘lamlar qanday joylashgan bo‘ladi?",
+    "A": "Sochilib joylashgan",
+    "B": "Halqa shaklida",
+    "C": "Faqat markazda",
+    "D": "Bir qatorli holda",
+    "javob": "A"
+  },
+  {
+    "savol": "Makkajo‘xori poyasida o‘tkazuvchi bog‘lamlar qanday tipga kiradi?",
+    "A": "Yopiq kollateral",
+    "B": "Ochiq kollateral",
+    "C": "Radial",
+    "D": "Bikambiy tip",
+    "javob": "A"
+  },
+  {
+    "savol": "Ikki pallali o‘simlik poyasida poya eniga o‘sishini ta’minlaydigan to‘qima qaysi?",
+    "A": "Kambiy",
+    "B": "Epiderma",
+    "C": "Kollenxima",
+    "D": "Sklerenxima",
+    "javob": "A"
+  },
+  {
+    "savol": "Bir pallali o‘simliklar poyasida kambiy mavjudmi?",
+    "A": "Yo‘q, mavjud emas",
+    "B": "Ha, mavjud",
+    "C": "Faqat ildiz qismida",
+    "D": "Faqat yosh poyalarda",
+    "javob": "A"
+  },
+  {
+    "savol": "Poyaning sirtki qatlami qanday ataladi?",
+    "A": "Epiderma",
+    "B": "Endoderma",
+    "C": "Kambiy",
+    "D": "Po‘stloq parenximasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Floroglyusin va xlorid kislotasi bilan bo‘yalganda yog‘ochlashgan hujayralar qanday rangga kiradi?",
+    "A": "Qizil",
+    "B": "Ko‘k",
+    "C": "Sariq",
+    "D": "Sabz",
+    "javob": "A"
+  },
+  {
+    "savol": "Ikki pallali o‘simlik poyasida o‘tkazuvchi bog‘lamlar qanday joylashgan bo‘ladi?",
+    "A": "Halqa shaklida",
+    "B": "Tarqoq holda",
+    "C": "Bitta markazda",
+    "D": "Faqat sirtda",
+    "javob": "A"
+  },
+  {
+    "savol": "Kambiy bo‘linganda qanday to‘qimalar hosil bo‘ladi?",
+    "A": "Ikkilamchi floema va ksilema",
+    "B": "Birlamchi floema va ksilema",
+    "C": "Epiderma va kollenxima",
+    "D": "Sklerenxima va parenxima",
+    "javob": "A"
+  },
+  {
+    "savol": "Ikki pallali poyaning markaziy qismida joylashgan katta, havo bilan to‘lgan hujayralar to‘plami nima deyiladi?",
+    "A": "O‘zak markaziy silindr",
+    "B": "Endoderma",
+    "C": "Po‘stloq",
+    "D": "Periskl",
+    "javob": "A"
+  },
+  {
+    "savol": "“Vegetativ” so‘zi qaysi tildan olingan va qanday ma’noni anglatadi?",
+    "A": "Lotincha, “tirik” degani",
+    "B": "Yunoncha, “o‘simlik” degani",
+    "C": "Arabcha, “hayot” degani",
+    "D": "Ruscha, “ko‘payuvchi” degani",
+    "javob": "A"
+  },
+  {
+    "savol": "Yuksak o‘simliklarning asosiy vegetativ organlariga nimalar kiradi?",
+    "A": "Ildiz, poya, barg",
+    "B": "Ildiz, gul, meva",
+    "C": "Barg, poya, urug‘",
+    "D": "Barg, meva, urug‘",
+    "javob": "A"
+  },
+  {
+    "savol": "Poya bilan barg qo‘shilib qanday tuzilmani hosil qiladi?",
+    "A": "Novda",
+    "B": "Bo‘g‘im",
+    "C": "Kurtak",
+    "D": "Tuganak",
+    "javob": "A"
+  },
+  {
+    "savol": "Tuban o‘simliklarning vegetativ tanasi nima deb ataladi?",
+    "A": "Tallom yoki qattana",
+    "B": "Rizoid",
+    "C": "Mikoriza",
+    "D": "Novda",
+    "javob": "A"
+  },
+  {
+    "savol": "Yon ildizlar qayerdan hosil bo‘ladi?",
+    "A": "Perisikldan",
+    "B": "Rizodermadan",
+    "C": "Floemadan",
+    "D": "Xilermadan",
+    "javob": "A"
+  },
+  {
+    "savol": "Qo‘shimcha ildizlar qanday organlardan hosil bo‘ladi?",
+    "A": "Poya va barglardan",
+    "B": "Faqat ildizdan",
+    "C": "Urug‘dan",
+    "D": "Mevadan",
+    "javob": "A"
+  },
+  {
+    "savol": "Ildizning qaysi zonasi suv va mineral moddalarning so‘rilishida ishtirok etadi?",
+    "A": "So‘ruvchi yutuvchi zona",
+    "B": "Bo‘linuvchi zona",
+    "C": "O‘suvchi zona",
+    "D": "O‘tkazuvchi zona",
+    "javob": "A"
+  },
+  {
+    "savol": "Ildiz tukchalarini hosil qiluvchi hujayralar nima deb ataladi?",
+    "A": "Trikoblast",
+    "B": "Perisikl",
+    "C": "Entoderma",
+    "D": "Rizoid",
+    "javob": "A"
+  },
+  {
+    "savol": "Ildiz bilan zamburug‘ o‘rtasidagi simbioz holat qanday nomlanadi?",
+    "A": "Mikoriza",
+    "B": "Rizoid",
+    "C": "Nitrogin",
+    "D": "Endoderma",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi ildiz turlaridan qaysi biri havo orqali suvni shimadi?",
+    "A": "Havo ildiz",
+    "B": "Nafas oluvchi ildiz",
+    "C": "Tortuvchi ildiz",
+    "D": "Ustunsimon ildiz",
+    "javob": "A"
+  },
+  {
+    "savol": "Ildiz va poya orasidagi chegara qismi nima deb ataladi?",
+    "A": "Ildiz bo‘yni",
+    "B": "Gipokotil",
+    "C": "Novda",
+    "D": "Perisikl",
+    "javob": "A"
+  },
+  {
+    "savol": "Urug‘ pallaning pastki bandi qanday nomlanadi?",
+    "A": "Gipokotil",
+    "B": "Epikotil",
+    "C": "Bo‘g‘im oralig‘i",
+    "D": "Novda bandi",
+    "javob": "A"
+  },
+  {
+    "savol": "Asosiy ildiz kuchli rivojlangan ildiz sistemasi qanday ataladi?",
+    "A": "O‘q ildiz",
+    "B": "Popuk ildiz",
+    "C": "Patak ildiz",
+    "D": "Qo‘shimcha ildiz",
+    "javob": "A"
+  },
+  {
+    "savol": "Asosiy ildiz rivojlanmagan, ko‘p sonli ildizlardan iborat sistemaga nima deyiladi?*",
+    "A": "Popuk patak ildiz",
+    "B": "O‘q ildiz",
+    "C": "Yon ildiz",
+    "D": "Tuganak ildiz",
+    "javob": "A"
+  },
+  {
+    "savol": "Ildiz qini (qopqog‘i)ning vazifasi nimadan iborat?",
+    "A": "Tuproqda ildizning o‘sishini osonlashtirish",
+    "B": "Suvni shimish",
+    "C": "Oziq modda to‘plash",
+    "D": "Gaz almashinuvi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ildizning bo‘linuvchi zonasidagi hujayralar qanday xususiyatga ega?",
+    "A": "Bo‘linish qobiliyatiga ega tirik hujayralardan tashkil topgan",
+    "B": "O‘lgan hujayralardan iborat",
+    "C": "Faqat suv to‘playdi",
+    "D": "Faqat oziqa modda saqlaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Markaziy silindr qaysi qismdan hosil bo‘ladi?",
+    "A": "Pleroma",
+    "B": "Periblema",
+    "C": "Rizoderma",
+    "D": "Endoderma",
+    "javob": "A"
+  },
+  {
+    "savol": "Ildizdagi o‘tkazuvchi to‘qimalar nimalardan iborat?",
+    "A": "Floema va ksilema",
+    "B": "Rizoderma va periblema",
+    "C": "Entoderma va perisikl",
+    "D": "Po‘stloq va kolumella",
+    "javob": "A"
+  },
+  {
+    "savol": "Dukkakli o‘simliklar ildizidagi tugunak bakteriyalarining vazifasi nima?",
+    "A": "Havo azotini o‘zlashtirish",
+    "B": "Oziqa moddalarning parchalanishi",
+    "C": "Suvni saqlash",
+    "D": "Fotosintez jarayonini amalga oshirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Banyan daraxtidagi ustunsimon ildizlarning asosiy vazifasi nima?",
+    "A": "Tayanch vazifasini bajarish",
+    "B": "Suv so‘rish",
+    "C": "Gaz almashish",
+    "D": "Azotni bog‘lash",
+    "javob": "A"
+  },
+  {
+    "savol": "Ulothrixning qaysi stadiyasi harakatchan?",
+    "A": "Zoospora",
+    "B": "Vegetativ tana",
+    "C": "Zigota",
+    "D": "Gametofit",
+    "javob": "A"
+  },
+  {
+    "savol": "Urug‘chilarning yig‘indisi nima deb ataladi?",
+    "A": "Ginetsiy",
+    "B": "Androsiy",
+    "C": "Periant",
+    "D": "Apokarp",
+    "javob": "A"
+  },
+  {
+    "savol": "Ginetsiyning apokarp turi qanday xususiyatga ega?",
+    "A": "Urug‘chilari alohida joylashgan",
+    "B": "Urug‘chilari to‘liq tutashgan",
+    "C": "Tugunchasi ko‘p bo‘ladi",
+    "D": "Faqat erkak gulda bo‘ladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Urug‘chining tuman shaklidagi yuqori qismi nima deyiladi?",
+    "A": "Tumshuqcha",
+    "B": "Ustuncha",
+    "C": "Tuguncha",
+    "D": "Mikropile",
+    "javob": "A"
+  },
+  {
+    "savol": "Urug‘ murtagidagi nuzellus nima?",
+    "A": "Murtak markazidagi oziqa to‘qimasi",
+    "B": "Tashqi qobiq",
+    "C": "Chang naychasi yo‘li",
+    "D": "Tugunchaning tashqi qavati",
+    "javob": "A"
+  },
+  {
+    "savol": "Urug‘ murtagidagi ikkita qobiq nima deb ataladi?",
+    "A": "Integrumentlar",
+    "B": "Antipodlar",
+    "C": "Endospermlar",
+    "D": "Sinergidlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Urug‘ murtagidagi mikropile joyi qaysi vazifani bajaradi?",
+    "A": "Chang naychasi kiradigan teshikcha",
+    "B": "Oziqa to‘playdi",
+    "C": "Himoya qavati",
+    "D": "Endosperma hosil qiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Murtak halta ichida nechta hujayra bo‘ladi?",
+    "A": "7 ta",
+    "B": "5 ta",
+    "C": "9 ta",
+    "D": "6 ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Antipod hujayralar qayerda joylashadi?",
+    "A": "Murtak halta halaza tomonida",
+    "B": "Mikropile tomonida",
+    "C": "Markazda",
+    "D": "Ustuncha uchida",
+    "javob": "A"
+  },
+  {
+    "savol": "Changchi qanday qismlardan tashkil topgan?",
+    "A": "Changdon, bog‘lovchi, chang ipi",
+    "B": "Tumshuqcha, ustuncha, tuguncha",
+    "C": "Ekzina, intina, kutikula",
+    "D": "Kosachabarg, tojbarg, changchi",
+    "javob": "A"
+  },
+  {
+    "savol": "Changchilar yig‘indisi nima deb ataladi?",
+    "A": "Androsiy",
+    "B": "Ginetsiy",
+    "C": "Periant",
+    "D": "Tuxumdon",
+    "javob": "A"
+  },
+  {
+    "savol": "Tapetum qatlami qanday vazifani bajaradi?",
+    "A": "Changni oziqa bilan ta’minlaydi",
+    "B": "Changni tashqariga chiqaradi",
+    "C": "Himoya qatlami",
+    "D": "Havo almashinuvini ta’minlaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Changchi ichidagi tashqi mustahkam qobiq qaysi?",
+    "A": "Ekzina",
+    "B": "Intina",
+    "C": "Tapetum",
+    "D": "Epidermis",
+    "javob": "A"
+  },
+  {
+    "savol": "Changdagi ichki yupqa qavat nima deb ataladi?",
+    "A": "Intina",
+    "B": "Ekzina",
+    "C": "Tapetum",
+    "D": "Fibrilla",
+    "javob": "A"
+  },
+  {
+    "savol": "Changdagi yirik hujayra qanday vazifani bajaradi?",
+    "A": "Vegetativ hujayra bo‘lib, chang naychasini hosil qiladi",
+    "B": "Urug‘lanish jarayonida ishtirok etadi",
+    "C": "Endosperma hosil qiladi",
+    "D": "Changni tashqariga chiqaradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Generativ hujayra necha dona spermiya hosil qiladi?",
+    "A": "2 ta",
+    "B": "1 ta",
+    "C": "3 ta",
+    "D": "4 ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Urug‘lanish jarayonida birinchi spermiya qaysi hujayra bilan qo‘shiladi?",
+    "A": "Tuxum hujayra bilan",
+    "B": "Sinergid bilan",
+    "C": "Antipod bilan",
+    "D": "Endosperma bilan",
+    "javob": "A"
+  },
+  {
+    "savol": "Murtak xalta ichidagi yirik markaziy hujayra nima deb ataladi?",
+    "A": "Tuxum hujayra",
+    "B": "Sinergid",
+    "C": "Antipod",
+    "D": "Diploid yadro",
+    "javob": "A"
+  },
+  {
+    "savol": "Ikkinchi spermiya qaysi hujayra bilan birlashadi?",
+    "A": "Markaziy diploid yadro bilan",
+    "B": "Tuxum hujayra bilan",
+    "C": "Sinergid bilan",
+    "D": "Antipod bilan",
+    "javob": "A"
+  },
+  {
+    "savol": "Gulli o‘simliklarda qo’sh urug‘lanish hodisasi kim tomonidan aniqlangan?",
+    "A": "S. G. Navashin",
+    "B": "Ch. Darvin",
+    "C": "K. Linney",
+    "D": "A. Oparin",
+    "javob": "A"
+  },
+  {
+    "savol": "Endospermsiz urug‘lar qaysi oila vakillarida uchraydi?",
+    "A": "Dukkakdoshlar",
+    "B": "G‘aladonlilar",
+    "C": "Bug‘doydoshlar",
+    "D": "Qoqidoshlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Endospermdagi asosiy oziqa modda g‘alladoshlarda qaysi modda hisoblanadi?",
+    "A": "Kraxmal",
+    "B": "Moy",
+    "C": "Oqsil",
+    "D": "Vitamin",
+    "javob": "A"
+  },
+  {
+    "savol": "Loviya urug‘ining qanday belgisi endospermsiz ekanini ko‘rsatadi?",
+    "A": "Oziqa urug‘ pallasida to‘plangan",
+    "B": "Urug‘ pallasida oziqa modda yo‘qligi",
+    "C": "Murtak o‘rni yo‘qligi",
+    "D": "Urug‘ po‘stining qalinligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Bug‘doy donidagi alevron qavati qanday moddalarga boy?",
+    "A": "Oqsillar",
+    "B": "Moylar",
+    "C": "Kraxmal donachalari",
+    "D": "Vitaminlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi mevalar chatnamaydigan quruq mevalarga kiradi?",
+    "A": "Bodom, yong‘oq",
+    "B": "Loviya, no‘xat",
+    "C": "Piyoz, lola",
+    "D": "Karam, sholg‘om",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi mevalarda kosacha yoki tojibarg meva hosil bo‘lishida ishtirok etadi?",
+    "A": "Soxta mevalar",
+    "B": "Chin mevalarda",
+    "C": "To‘p mevalarda",
+    "D": "Murch mevalarda",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi meva turi teshikcha orqali ikki tomonga ajraluvchi quruq meva hisoblanadi?",
+    "A": "Chanoq",
+    "B": "Dukkak",
+    "C": "Qozg‘oq",
+    "D": "Qoqi meva",
+    "javob": "A"
+  },
+  {
+    "savol": "Shamol yordamida tarqaladigan meva va urug‘larning asosiy moslanmasi nima?",
+    "A": "Tukchalar va qanotchalar",
+    "B": "Qalin po‘st",
+    "C": "Yumshoq mezokarp",
+    "D": "Rangli ekzokarp",
+    "javob": "A"
+  },
+  {
+    "savol": "Endosperm qaysi organ kelib chiqishidan hosil bo‘lgan to‘qima hisoblanadi?",
+    "A": "Urug‘chining markaziy hujayrasidan",
+    "B": "Murtak ildizchasi",
+    "C": "Urug‘ pallasi",
+    "D": "Urug‘ yo‘li (mikropil)",
+    "javob": "A"
+  },
+  {
+    "savol": "Dukkak mevalarining o‘ziga xos xususiyati qaysi?",
+    "A": "Ikki chok bo‘ylab ochiladi",
+    "B": "Meva devori yog‘ochlashgan",
+    "C": "Bir urug‘li bo‘ladi",
+    "D": "Oshlovchi moddalarga boy",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi meva turi bir nechta gulning birlashishi natijasida hosil bo‘ladi?",
+    "A": "To‘p meva",
+    "B": "Soxta meva",
+    "C": "Chin meva",
+    "D": "Don meva",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi mevalarda urug‘chidan tashqari boshqa gulli organlar ishtirok etib, meva hosil qiladi?",
+    "A": "Soxta meva",
+    "B": "Chin meva",
+    "C": "Don meva",
+    "D": "Yong‘oq meva",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi meva devorida exzokarp, mezokarp va endokarp aniq ajralgan qatlamlar bo‘ladi?",
+    "A": "Rezavor meva",
+    "B": "Don meva",
+    "C": "Ko‘p yong‘oqchali meva",
+    "D": "Yong‘oq meva",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi meva turi mezokarpi go‘shtdor, endokarpi qattiq va urug‘ni o‘rab turadi?",
+    "A": "Danakli meva",
+    "B": "Rezavor meva",
+    "C": "To‘p meva",
+    "D": "Ko‘p urug‘li meva",
+    "javob": "A"
+  },
+  {
+    "savol": "Meva tanasida urug‘larning hayvonlar yordamida tarqalishi qanday nomlanadi?",
+    "A": "Zooxoriya",
+    "B": "Anemoxoriya",
+    "C": "Antropoxoriya",
+    "D": "Gidroxoriya",
+    "javob": "A"
+  },
+  {
+    "savol": "Tugunchaning faqat o‘zi ishtirok etib hosil bo‘lgan meva turi qaysi?",
+    "A": "Chin meva",
+    "B": "Soxta meva",
+    "C": "To‘p meva",
+    "D": "Aralash meva",
+    "javob": "A"
+  },
+  {
+    "savol": "To’pgulning biologik afzalliklaridan biri qaysi?",
+    "A": "Changlanish ni ko’paytiradi",
+    "B": "Gullarining yirik bo‘lishi",
+    "C": "Barglarining ko‘payishi",
+    "D": "Mevaning tez pishishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Botrik (monopodial) to‘pgullarda gullarning ochilish ketma-ketligi qanday?",
+    "A": "Pastdan yuqoriga (akropetal)",
+    "B": "Yuqoridan pastga (bazipetal)",
+    "C": "Markazdan chetga",
+    "D": "Bir vaqtda ochiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi to‘pgulda markaziy o‘q yo‘g‘onlashib, etli shakl hosil qiladi?",
+    "A": "Sôta",
+    "B": "Savatcha",
+    "C": "Boshcha",
+    "D": "Shingil",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi o‘simliklardan qaysi biri boshcha ko‘rinishidagi to‘pgulga ega?",
+    "A": "Beda",
+    "B": "Piyoz",
+    "C": "Zubturum",
+    "D": "G‘o‘za",
+    "javob": "A"
+  },
+  {
+    "savol": "Savatcha to‘pgulning asosiy xususiyati nimada?",
+    "A": "Markaziy o‘q kengayib, likopchasimon bo‘ladi",
+    "B": "Markaziy o‘q cho‘zilgan va tarvaqaylagan",
+    "C": "Gullar bandidir",
+    "D": "Gullar juft-juft joylashadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi to‘pgul turi simpodial shoxlanishga ega?",
+    "A": "Tsimoz to‘pgullar",
+    "B": "Shingil",
+    "C": "Boshcha",
+    "D": "Savatcha",
+    "javob": "A"
+  },
+  {
+    "savol": "Murakkab boshoq to‘pguliga misol bo‘la oladigan o‘simlik qaysi?",
+    "A": "Arpa",
+    "B": "Buzina",
+    "C": "Piyoz",
+    "D": "Siren",
+    "javob": "A"
+  },
+  {
+    "savol": "Murakkab soyabon to‘pgul qaysi o‘simlik oilalarida ko‘p uchraydi?",
+    "A": "Soyabondoshlar",
+    "B": "Bug‘doydoshlar",
+    "C": "Dukkakdoshlar",
+    "D": "Murtakdoshlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Dixaziy tsimoz to‘pgulning eng muhim belgisi qaysi?",
+    "A": "Markaziy o‘q yakka gul bilan tugaydi",
+    "B": "Gullar bir vaqtda ochiladi",
+    "C": "Boshqa o‘qlar bir tomondan rivojlanadi",
+    "D": "Gullar yuqoridan pastga ochiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi to‘pgul turida markaziy o‘q juda qisqarib, barcha gulbandidar bir tekislikda joylashadi?",
+    "A": "Oddiy soyabon",
+    "B": "Boshcha",
+    "C": "Qalqoncha",
+    "D": "Savatcha",
+    "javob": "A"
+  },
+  {
+    "savol": "Shingil to‘pgulning boshqalaridan farqi nimada?",
+    "A": "Gullar kichik boshokchalarda joylashadi",
+    "B": "Markaziy o‘q qisqa bo‘ladi",
+    "C": "Mayda gular bo‘lakchalarga bo‘linadi",
+    "D": "Gullar bantsiz bo‘ladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Boshoq to‘pgulida gullar qanday joylashadi?",
+    "A": "Markaziy o‘q bo‘ylab, bandlarisiz",
+    "B": "Barchasi bir tekislikda",
+    "C": "Yirik likopcha ustida",
+    "D": "Juft-juft bo‘lib",
+    "javob": "A"
+  },
+  {
+    "savol": "Savatcha to‘pgul qaysi oila vakillarida eng ko‘p uchraydi?",
+    "A": "Qoqisdoshlar",
+    "B": "Dukkakdoshlar",
+    "C": "Murtakdoshlar",
+    "D": "Bug‘doydoshlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Oddiy qalqoncha to‘pgulning tuzilish xususiyati qanday?",
+    "A": "Gullar barchasi bir tekislikda joylashadi",
+    "B": "Markaziy o‘q cho‘zilgan bo‘ladi",
+    "C": "Gullar navbat bilan ochiladi",
+    "D": "Gullar qatlamlarga joylashadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi to‘pgulda gullar bir-biriga juda zich, bandlarsiz joylashadi?",
+    "A": "Boshcha",
+    "B": "Qalqoncha",
+    "C": "Boshoq",
+    "D": "Soyabon",
+    "javob": "A"
+  },
+  {
+    "savol": "Soyabon to‘pgullarining asosiy morfologik xususiyati nima?",
+    "A": "Barcha pilkalar bir nuqtadan tarqaladi",
+    "B": "Gullar bandli va uzun bo‘ladi",
+    "C": "Markaziy o‘q kengayadi",
+    "D": "Uchki gul birinchi ochiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Murakkab qalqoncha to‘pgulga misol qaysi?",
+    "A": "marjon daraxti",
+    "B": "Sabzi",
+    "C": "Makka",
+    "D": "Bodring",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi to‘pgul tsimoz tipida bo‘lib, uchdan ortiq yon shoxlar hosil qiladi?",
+    "A": "Pleyoxaziy",
+    "B": "Murokkab shingil",
+    "C": "Monoхазий",
+    "D": "Oddiy savatcha",
+    "javob": "A"
+  },
+  {
+    "savol": "Dukkakdosh o‘simliklarda (masalan, beda) qaysi to‘pgul turi ko‘p uchraydi?",
+    "A": "Boshcha",
+    "B": "Soyabon",
+    "C": "Savatcha",
+    "D": "Boshoq",
+    "javob": "A"
+  },
+  {
+    "savol": "Murakkab shingil to‘pgul qaysi o‘simlikda uchraydi?",
+    "A": "Siren",
+    "B": "Piyoz",
+    "C": "Sabzi",
+    "D": "Uzum",
+    "javob": "A"
+  },
+  {
+    "savol": "Urug‘chining ginetsey qismi qaysi o‘simlik qismini tashkil qiladi?",
+    "A": "Gulning markaziy qismi",
+    "B": "Gulning bargi",
+    "C": "Gulning poyasi",
+    "D": "Gulning tomiri",
+    "javob": "A"
+  },
+  {
+    "savol": "Urug‘chining tipik uch qismi qaysilar?",
+    "A": "Tumshuqcha, ustuncha, tuguncha",
+    "B": "Changchi, barg, kosachabarg",
+    "C": "Murtak, nusellus, integrument",
+    "D": "Poy, gul, urug‘chi",
+    "javob": "A"
+  },
+  {
+    "savol": "Tumshuqchaning asosiy vazifasi nima?",
+    "A": "Changni ushlab qolish",
+    "B": "Urug‘ni oziqlantirish",
+    "C": "Gulni himoya qilish",
+    "D": "Barglarni ranglash",
+    "javob": "A"
+  },
+  {
+    "savol": "Ginetseyning morfologik turlaridan biri nima?",
+    "A": "Apokarp",
+    "B": "Androtsey",
+    "C": "Tapetum",
+    "D": "Nusellus",
+    "javob": "A"
+  },
+  {
+    "savol": "Apokarp ginetseyning asosiy xususiyati nima?",
+    "A": "Urug‘chilari alohida joylashadi",
+    "B": "Urug‘chilari tutashgan bo‘ladi",
+    "C": "Changchi uch qismdan iborat",
+    "D": "Barglar yo‘q",
+    "javob": "A"
+  },
+  {
+    "savol": "Senokarp ginetseyga misol bo‘la oladigan o‘simlik:",
+    "A": "Chinnigul",
+    "B": "Loliya",
+    "C": "Olma",
+    "D": "Tol",
+    "javob": "A"
+  },
+  {
+    "savol": "Urug‘ murtak xaltachasidagi markaziy qism nima deb ataladi?",
+    "A": "Nusellus",
+    "B": "Integrument",
+    "C": "Tapetum",
+    "D": "Endosperma",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘z-o‘zidan changlanish qachon sodir bo‘ladi?",
+    "A": "Chang urug‘chining o‘z tumshuqchasiga tushganda",
+    "B": "Urug‘chi boshqa gul changi bilan urug‘lanadi",
+    "C": "Murtak xaltachasi ochilganda",
+    "D": "Gul ochilganda",
+    "javob": "A"
+  },
+  {
+    "savol": "Chetdan changlanishning afzalligi nima?",
+    "A": "Irsiy jihatdan barqaror, individual o‘zgaruvchanligi kuchli bo‘ladi",
+    "B": "Nasl biologik jihatdan kuchsiz bo‘ladi",
+    "C": "O‘z-o‘zidan hosil bo‘ladi",
+    "D": "Gul ochilishi kechikadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Changchi qaysi qismlardan iborat?",
+    "A": "Changdon, chang ipi, bog‘lovchi",
+    "B": "Tumshuqcha, ustuncha, tuguncha",
+    "C": "Poya, barg, kosachabarg",
+    "D": "Nusellus, murtak xaltachasi, integument",
+    "javob": "A"
+  },
+  {
+    "savol": "Androtsey nima?",
+    "A": "Gulning changchi yig‘indisi",
+    "B": "Gulning urug‘chi yig‘indisi",
+    "C": "Urug‘ murtagi",
+    "D": "Nusellus qatlami",
+    "javob": "A"
+  },
+  {
+    "savol": "Tapetumning vazifasi nima?",
+    "A": "Chang yetilishida oziq moddalar bilan ta’minlash",
+    "B": "Urug‘ni himoya qilish",
+    "C": "Poyani mustahkamlash",
+    "D": "Gul rangini berish",
+    "javob": "A"
+  },
+  {
+    "savol": "Changdonning markaziy qismidagi o‘tkazuvchi to‘qimaning vazifasi nima?",
+    "A": "Suv va organik moddalarni o‘tkazish",
+    "B": "Urug‘ni yetishtirish",
+    "C": "Changni yig‘ish",
+    "D": "Bargni himoya qilish",
+    "javob": "A"
+  },
+  {
+    "savol": "Generativ hujayraning vazifasi nima?",
+    "A": "Spermiya hosil qilish",
+    "B": "Bargni ranglash",
+    "C": "Tapetumni oziqlantirish",
+    "D": "Poyani mustahkamlash",
+    "javob": "A"
+  },
+  {
+    "savol": "Zigota qaysi jarayon natijasida hosil bo‘ladi?",
+    "A": "Spermiya va tuxum hujayra birlashishi",
+    "B": "Changning tumshuqchaga tushishi",
+    "C": "Tapetum faoliyati",
+    "D": "Nusellus o‘sishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Endosperma qaysi jarayonda hosil bo‘ladi?",
+    "A": "Ikkinchi spermiya murtak xaltachasi ikkilamchi yadrosi bilan birlashganda",
+    "B": "O‘z-o‘zidan changlanish",
+    "C": "Changdon rivojlanayotganda",
+    "D": "Poya o‘sayotganda",
+    "javob": "A"
+  },
+  {
+    "savol": "Changning shakli va o‘lchami nimaga bog‘liq?",
+    "A": "O‘simlik turi",
+    "B": "Poyaning uzunligi",
+    "C": "Urug‘chining rangi",
+    "D": "Tuproq tarkibi",
+    "javob": "A"
+  },
+  {
+    "savol": "Chang naychasi qaysi hujayradan hosil bo‘ladi?",
+    "A": "Sifonogen hujayra",
+    "B": "Sperma hujayra",
+    "C": "Tuxum hujayra",
+    "D": "Endosperm",
+    "javob": "A"
+  },
+  {
+    "savol": "Urug‘murtak ichiga kiradigan sperma hujayralaridan biri tuxum hujayra bilan qo‘shilib nima hosil qiladi?",
+    "A": "Zigota",
+    "B": "Endosperm",
+    "C": "Tortma",
+    "D": "Gaustoriya",
+    "javob": "A"
+  },
+  {
+    "savol": "Qo‘shaloq urug‘lanishning asosiy natijasi nima?",
+    "A": "Endosperm hosil bo‘lishi",
+    "B": "Tuxum hujayra bo‘linishi",
+    "C": "Embrion xaltasi yo‘qolishi",
+    "D": "Po‘st hosil bo‘lishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Bazal hujayra va terminal hujayra bo‘linishidan keyin hosil bo‘ladigan hujayra turi:",
+    "A": "Oktang hujayralar",
+    "B": "Triploid hujayra",
+    "C": "Diploid sinergid",
+    "D": "Haploid hujayra",
+    "javob": "A"
+  },
+  {
+    "savol": "Tortmaning vazifasi nima?",
+    "A": "Endosperm bilan embrionni oziqlantirish",
+    "B": "Urug‘ni himoya qilish",
+    "C": "Urug‘palla hosil qilish",
+    "D": "Mevani tarqatish",
+    "javob": "A"
+  },
+  {
+    "savol": "Gaustoriya nima?",
+    "A": "Tortmaning yuqori qismi, ozuqa so‘rgich",
+    "B": "Embrionning o‘sish nuqtasi",
+    "C": "Endospermning oziqlanish qisimi",
+    "D": "Urug‘palla",
+    "javob": "A"
+  },
+  {
+    "savol": "Embrionning novdasi qaysi hujayradan hosil bo‘ladi?",
+    "A": "Terminal hujayra",
+    "B": "Bazal hujayra",
+    "C": "Sinergid",
+    "D": "Endosperm",
+    "javob": "A"
+  },
+  {
+    "savol": "Ikkilamchi yadro bilan sperma qo‘shilganda nima hosil bo‘ladi?",
+    "A": "Endosperm",
+    "B": "Zigota",
+    "C": "Tortma",
+    "D": "Urug‘palla",
+    "javob": "A"
+  },
+  {
+    "savol": "Apomiksis nima?",
+    "A": "Urug‘lanmagan tuxum hujayradan rivojlanish",
+    "B": "Po‘st hosil bo‘lishi",
+    "C": "Sperma hujayraning bo‘linishi",
+    "D": "Urug‘langan tuxum hujayradan rivojlanish",
+    "javob": "A"
+  },
+  {
+    "savol": "Apogamiya hodisasi qaysi hujayradan o‘sadi?",
+    "A": "Sinergid yoki antipod hujayralar",
+    "B": "Tuxum hujayra",
+    "C": "Sperma hujayra",
+    "D": "Tortma",
+    "javob": "A"
+  },
+  {
+    "savol": "Urug‘murtakdan hosil bo‘lgan po‘st qanday nomlanadi?",
+    "A": "Perikarpiy",
+    "B": "Ekzokarpiy",
+    "C": "Mezokarpiy",
+    "D": "Endosperm",
+    "javob": "A"
+  },
+  {
+    "savol": "Haqiqiy meva qaysi shartga ega?",
+    "A": "Faqat urug‘chilardan hosil bo‘ladi",
+    "B": "Bir nechta mevabarglardan hosil bo‘ladi",
+    "C": "Hech qachon urug‘siz bo‘lmaydi",
+    "D": "Faqat apomiksis orqali hosil bo‘ladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Murakkab meva misoli:",
+    "A": "Malina",
+    "B": "Olma",
+    "C": "Apelsin",
+    "D": "Yong‘oq",
+    "javob": "A"
+  },
+  {
+    "savol": "Sinkarp mevalar xususiyati:",
+    "A": "Birlashgan urug‘chilardan hosil bo‘ladi",
+    "B": "Har doim rezavor bo‘ladi",
+    "C": "Endosperm bo‘lmaydi",
+    "D": "Faqat bir urug‘chi hosil bo‘ladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko‘sak yoki chanoq mevalari qancha urug‘li bo‘lishi mumkin?",
+    "A": "Ikkidan ortiq urug‘li",
+    "B": "Faqat bir urug‘li",
+    "C": "Hech qachon urug‘siz",
+    "D": "Faqat murakkab meva bo‘ladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qo‘zoq va qo‘zoqcha mevalar qanday mevalar?",
+    "A": "Ikkita uyli sinkarp mevalar",
+    "B": "Hesperidiy mevalar",
+    "C": "Rezavor mevalar",
+    "D": "Murakkab mevalar",
+    "javob": "A"
+  },
+  {
+    "savol": "Hesperidiy meva misoli:",
+    "A": "Apelsin",
+    "B": "Malina",
+    "C": "Yong‘oq",
+    "D": "Pomidor",
+    "javob": "A"
+  },
+  {
+    "savol": "Psevdomonokarp meva xususiyati:",
+    "A": "Tuguncha ostki qismidan hosil bo‘ladi",
+    "B": "Haqiqiy yong‘oqdan hosil bo‘ladi",
+    "C": "Faqat rezavor meva",
+    "D": "Endosperm yo‘q",
+    "javob": "A"
+  },
+  {
+    "savol": "Parakarp mevalar qanday hosil bo‘ladi?",
+    "A": "Bir nechta mevabarglar yig‘indisidan",
+    "B": "Bir mevabargdan",
+    "C": "Faqat apomiksis orqali",
+    "D": "Faqat sug‘orish orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Poliembroniya hodisasi qachon yuz beradi?",
+    "A": "Bir urug‘murtakdan bir nechta embrion hosil bo‘lganda",
+    "B": "Endosperm bo‘lmaganda",
+    "C": "Urug‘lanmagan tuxum hujayradan",
+    "D": "Bir urug‘murtakdan bir embrion hosil bo‘lganda",
+    "javob": "A"
+  },
+  {
+    "savol": "Merikarpiy mevalar qanday xususiyatga ega?",
+    "A": "Bo‘laklarga bo‘linadi",
+    "B": "Shirin va sersuv",
+    "C": "Faqat bir urug‘li",
+    "D": "Havo bilan tarqaladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Diaspora tushunchasi nima?",
+    "A": "O‘simlik tanasidan ajralib, tarqaladigan organ",
+    "B": "O‘simlikning ildizi",
+    "C": "Urug‘ning oziqlanish qismi",
+    "D": "Mevaning po‘sti",
+    "javob": "A"
+  },
+  {
+    "savol": "Avtoxor o‘simliklarga misol:",
+    "A": "Yong‘oq",
+    "B": "Akatsiya",
+    "C": "Burmaqora",
+    "D": "Sho‘ra",
+    "javob": "A"
+  },
+  {
+    "savol": "Alloxor o‘simliklar tarqalish vositalari:",
+    "A": "Shamol, hayvon, suv, odam",
+    "B": "Faqat shamol",
+    "C": "Faqat hayvon",
+    "D": "Faqat suv",
+    "javob": "A"
+  },
+  {
+    "savol": "Anemoxor tarqalish nima?",
+    "A": "Shamol orqali",
+    "B": "Hayvon orqali",
+    "C": "Suv orqali",
+    "D": "Inson orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Zooxor tarqalish usullari:",
+    "A": "Hayvon va odam",
+    "B": "Shamol va suv",
+    "C": "Faqat suv",
+    "D": "Faqat shamol",
+    "javob": "A"
+  },
+  {
+    "savol": "Ornitoxoriya tarqalish:",
+    "A": "Qushlar yordamida",
+    "B": "Chumolilar yordamida",
+    "C": "Inson yordamida",
+    "D": "Shamol yordamida",
+    "javob": "A"
+  }
+]

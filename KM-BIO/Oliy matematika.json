@@ -1,0 +1,1418 @@
+[
+  {
+    "savol": "Matritsa mazmuni qayerda to'g'ri ko'rsatilgan?",
+    "A": "sonlar jadvali",
+    "B": "sonlar yig'indisi",
+    "C": "sonlar ko'paytmasi",
+    "D": "sonlar birlashmasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Matritsalar qanday belgilanadi?",
+    "A": "Katta harflar bilan",
+    "B": "Kichik harflar bilan",
+    "C": "Belgilanmaydi",
+    "D": "Nuqta bilan",
+    "javob": "A"
+  },
+  {
+    "savol": "Matritsalar o'lchami nimaga bog'liq?",
+    "A": "Satrlar va ustunlar soniga",
+    "B": "Elementlar soniga",
+    "C": "Manfiy sonlarga",
+    "D": "Musbat sonlarga",
+    "javob": "A"
+  },
+  {
+    "savol": "Satr matritsa nima?",
+    "A": "Faqat 1 ta satrdan iborat matritsa",
+    "B": "Faqat bitta ustundan iborat matritsa",
+    "C": "Ikkita satrdan iborat matritsa",
+    "D": "Ikkita ustundan iborat matritsa",
+    "javob": "A"
+  },
+  {
+    "savol": "Nol matritsa nima?",
+    "A": "Barcha elementlari noldan iborat bo'lgan matritsa",
+    "B": "Barcha elementlari birdan iborat bo'lgan matritsa",
+    "C": "Har xil sonlardan iborat matritsa",
+    "D": "Manfiy sonlardan iborat matritsa",
+    "javob": "A"
+  },
+  {
+    "savol": "Birlik matritsa nima?",
+    "A": "Diagonal elementlari 1 dan iborat bo'lgan matritsa",
+    "B": "Barcha elementlari 1 dan iborat bo'lgan matritsa",
+    "C": "Dioganaldan boshqa elementlari 1 bo'lgan matritsa",
+    "D": "Turli sonlardan iborat matritsa",
+    "javob": "A"
+  },
+  {
+    "savol": "$\\begin{pmatrix} 1 & 2 & 3 \\\\ 4 & 5 & 6 \\end{pmatrix}$ matritsaning tartibini aniqlang.",
+    "A": "2×3",
+    "B": "3×2",
+    "C": "3×3",
+    "D": "2×2",
+    "javob": "A"
+  },
+  {
+    "savol": "Birlik matritsani ko'rsating.",
+    "A": "$\\begin{pmatrix} 1 & 0 \\\\ 0 & 1 \\end{pmatrix}$",
+    "B": "$\\begin{pmatrix} 0 & 1 \\\\ 1 & 0 \\end{pmatrix}$",
+    "C": "$\\begin{pmatrix} 1 & 1 \\\\ 1 & 1 \\end{pmatrix}$",
+    "D": "$\\begin{pmatrix} 0 & 0 \\\\ 0 & 0 \\end{pmatrix}$",
+    "javob": "A"
+  },
+  {
+    "savol": "4ta satr va 5ta ustunga ega matritsaning nechta elementi mavjud?",
+    "A": "20",
+    "B": "14",
+    "C": "15",
+    "D": "18",
+    "javob": "A"
+  },
+  {
+    "savol": "6 ta ustun 9 ta satrga ega matritsani nechta elementi mavjud.",
+    "A": "54",
+    "B": "15",
+    "C": "56",
+    "D": "18",
+    "javob": "A"
+  },
+  {
+    "savol": "Ushbu M va N matritsalarning $M+N$ yig'indisini toping: $M=\\begin{pmatrix} 1 & 2 \\\\ 3 & 4 \\end{pmatrix}$, $N=\\begin{pmatrix} 5 & 6 \\\\ 7 & 8 \\end{pmatrix}$",
+    "A": "$\\begin{pmatrix} 6 & 8 \\\\ 10 & 12 \\end{pmatrix}$",
+    "B": "$\\begin{pmatrix} 5 & 12 \\\\ 21 & 32 \\end{pmatrix}$",
+    "C": "$\\begin{pmatrix} 1 & 2 \\\\ 3 & 4 \\end{pmatrix}$",
+    "D": "$\\begin{pmatrix} 0 & 0 \\\\ 0 & 0 \\end{pmatrix}$",
+    "javob": "A"
+  },
+  {
+    "savol": "5ta satr va 7ta ustunga ega matritsaning nechta elementi mavjud?",
+    "A": "35",
+    "B": "14",
+    "C": "25",
+    "D": "18",
+    "javob": "A"
+  },
+  {
+    "savol": "$A = \\begin{pmatrix} 1 & 2 \\\\ 3 & 4 \\end{pmatrix}$ matritsa bo'yicha $2A$ matritsani toping.",
+    "A": "$\\begin{pmatrix} 2 & 4 \\\\ 6 & 8 \\end{pmatrix}$",
+    "B": "$\\begin{pmatrix} 1 & 2 \\\\ 3 & 4 \\end{pmatrix}$",
+    "C": "$\\begin{pmatrix} 2 & 2 \\\\ 2 & 2 \\end{pmatrix}$",
+    "D": "$\\begin{pmatrix} 0 & 0 \\\\ 0 & 0 \\end{pmatrix}$",
+    "javob": "A"
+  },
+  {
+    "savol": "$\\begin{pmatrix} 1 & 2 \\\\ 3 & 4 \\\\ 5 & 6 \\end{pmatrix}$ matritsa tartibini aniqlang.",
+    "A": "3x2",
+    "B": "2x3",
+    "C": "3x1",
+    "D": "1x3",
+    "javob": "A"
+  },
+  {
+    "savol": "Determinant bu-",
+    "A": "Son",
+    "B": "vektor",
+    "C": "doiraviy qavs ichiga olingan jadval",
+    "D": "AB ko'paytma",
+    "javob": "A"
+  },
+  {
+    "savol": "$\\begin{vmatrix} 2 & 5 \\\\ 8 & 1 \\end{vmatrix}$ Determinantni hisoblang.",
+    "A": "-38",
+    "B": "40",
+    "C": "38",
+    "D": "1",
+    "javob": "A"
+  },
+  {
+    "savol": "$\\begin{vmatrix} 1 & 4 \\\\ 2 & 3 \\end{vmatrix}$ Determinantni hisoblang.",
+    "A": "-5",
+    "B": "-13",
+    "C": "13",
+    "D": "7",
+    "javob": "A"
+  },
+  {
+    "savol": "$\\begin{vmatrix} 3 & 2 \\\\ 4 & 1 \\end{vmatrix}$ determinantni hisoblang.",
+    "A": "-5",
+    "B": "13",
+    "C": "-13",
+    "D": "-1",
+    "javob": "A"
+  },
+  {
+    "savol": "$\\begin{vmatrix} 1 & 4 \\\\ 3 & 1 \\end{vmatrix}$ Determinantni hisoblang.",
+    "A": "-11",
+    "B": "-5",
+    "C": "13",
+    "D": "-6",
+    "javob": "A"
+  },
+  {
+    "savol": "12 ta satr va 5 ta ustunga ega matritsaning nechta elementi mavjud?",
+    "A": "60",
+    "B": "24",
+    "C": "17",
+    "D": "10",
+    "javob": "A"
+  },
+  {
+    "savol": "11 ta satr va 4 ta ustunga ega matritsaning nechta elementi mavjud?",
+    "A": "44",
+    "B": "40",
+    "C": "20",
+    "D": "15",
+    "javob": "A"
+  },
+  {
+    "savol": "13 ta satr va 5 ta ustunga ega matritsaning nechta elementi mavjud?",
+    "A": "65",
+    "B": "45",
+    "C": "18",
+    "D": "25",
+    "javob": "A"
+  },
+  {
+    "savol": "$\\begin{vmatrix} 1 & 2 \\\\ 3 & 1 \\end{vmatrix}$ Determinant qiymatini toping.",
+    "A": "-5",
+    "B": "0",
+    "C": "-2",
+    "D": "2",
+    "javob": "A"
+  },
+  {
+    "savol": "3 - tartibli determinant nechta elementi mavjud.",
+    "A": "9",
+    "B": "10",
+    "C": "3",
+    "D": "6",
+    "javob": "A"
+  },
+  {
+    "savol": "4 - tartibli determinant nechta elementi mavjud.",
+    "A": "16",
+    "B": "20",
+    "C": "18",
+    "D": "8",
+    "javob": "A"
+  },
+  {
+    "savol": "5 - tartibli determinant nechta elementi mavjud.",
+    "A": "25",
+    "B": "15",
+    "C": "20",
+    "D": "32",
+    "javob": "A"
+  },
+  {
+    "savol": "6 - tartibli determinant nechta elementi mavjud.",
+    "A": "36",
+    "B": "30",
+    "C": "24",
+    "D": "12",
+    "javob": "A"
+  },
+  {
+    "savol": "7 - tartibli determinant nechta elementi mavjud.",
+    "A": "49",
+    "B": "42",
+    "C": "35",
+    "D": "28",
+    "javob": "A"
+  },
+  {
+    "savol": "11 ta satr va 5 ta ustunga ega matritsaning nechta elementi mavjud?",
+    "A": "55",
+    "B": "24",
+    "C": "17",
+    "D": "10",
+    "javob": "A"
+  },
+  {
+    "savol": "10 ta satr va 4 ta ustunga ega matritsaning nechta elementi mavjud?",
+    "A": "40",
+    "B": "44",
+    "C": "20",
+    "D": "15",
+    "javob": "A"
+  },
+  {
+    "savol": "8 ta satr va 5 ta ustunga ega matritsaning nechta elementi mavjud?",
+    "A": "40",
+    "B": "45",
+    "C": "18",
+    "D": "25",
+    "javob": "A"
+  },
+  {
+    "savol": "2 - tartibli determinant nechta elementi mavjud.",
+    "A": "4",
+    "B": "10",
+    "C": "3",
+    "D": "6",
+    "javob": "A"
+  },
+  {
+    "savol": "$A = \\begin{pmatrix} 1 & 2 \\\\ 3 & 4 \\end{pmatrix}$ matritsa bo'yicha $3A$ matritsani toping.",
+    "A": "$\\begin{pmatrix} 3 & 6 \\\\ 9 & 12 \\end{pmatrix}$",
+    "B": "$\\begin{pmatrix} 1 & 2 \\\\ 3 & 4 \\end{pmatrix}$",
+    "C": "$\\begin{pmatrix} 2 & 2 \\\\ 2 & 2 \\end{pmatrix}$",
+    "D": "$\\begin{pmatrix} 0 & 0 \\\\ 0 & 0 \\end{pmatrix}$",
+    "javob": "A"
+  },
+  {
+    "savol": "$\\begin{pmatrix} 1 & 2 & 3 \\\\ 4 & 5 & 6 \\end{pmatrix}$ matritsa tartibini aniqlang.",
+    "A": "2x3",
+    "B": "2x1",
+    "C": "3x1",
+    "D": "1x3",
+    "javob": "A"
+  },
+  {
+    "savol": "$\\begin{pmatrix} 1 & 2 \\\\ 3 & 4 \\\\ 5 & 6 \\end{pmatrix}$ matritsa tartibini aniqlang.",
+    "A": "3x2",
+    "B": "2x1",
+    "C": "3x1",
+    "D": "1x3",
+    "javob": "A"
+  },
+  {
+    "savol": "$\\begin{pmatrix} 1 & 2 & 3 \\\\ 4 & 5 & 6 \\end{pmatrix}$ ushbu matritsaning nechta elementi mavjud?",
+    "A": "6",
+    "B": "5",
+    "C": "7",
+    "D": "8",
+    "javob": "A"
+  },
+  {
+    "savol": "$\\begin{pmatrix} 1 & 2 & 3 \\\\ 4 & 5 & 6 \\\\ 7 & 8 & 9 \\end{pmatrix}$ ushbu matritsaning nechta elementi mavjud?",
+    "A": "9",
+    "B": "8",
+    "C": "10",
+    "D": "12",
+    "javob": "A"
+  },
+  {
+    "savol": "$\\begin{pmatrix} 1 & 2 & 3 \\\\ 4 & 5 & 6 \\end{pmatrix}$ ushbu matritsaning elementlari yig'indisini toping.",
+    "A": "21",
+    "B": "20",
+    "C": "10",
+    "D": "19",
+    "javob": "A"
+  },
+  {
+    "savol": "$\\begin{pmatrix} 1 & 2 & 3 \\\\ 4 & 5 & 6 \\end{pmatrix}$ qanday matritsa tasvirlangan?",
+    "A": "Satr matritsasi",
+    "B": "Ustun matritsa",
+    "C": "Nol matritsa",
+    "D": "Birlik matritsa",
+    "javob": "A"
+  },
+  {
+    "savol": "$\\begin{pmatrix} 1 & 2 & 3 \\\\ 4 & 5 & 6 \\end{pmatrix}$ bu matritsa nechta satr va ustunga ega?",
+    "A": "2ta satr va 3ta ustun",
+    "B": "3ta satr va 3ta ustun",
+    "C": "3ta satr va 2ta ustun",
+    "D": "5ta satr va 3ta ustun",
+    "javob": "A"
+  },
+  {
+    "savol": "Diagonal matritsa deganda nimani tushunasiz?",
+    "A": "Faqat bosh diogonaldagi elementlari nol bo'lmagan matritsa",
+    "B": "Har bir elementi nol bo'lgan matritsa",
+    "C": "Barcha elementlari bir xil bo'lgan matritsa",
+    "D": "Ustunlari teng bo'lgan matritsa",
+    "javob": "A"
+  },
+  {
+    "savol": "Ustun matritsa nima?",
+    "A": "Faqat ustundan iborat bo'lgan matritsa",
+    "B": "Faqat satrdan iborat bo'lgan matritsa",
+    "C": "Ustunlari nollardan iborat bo'lgan matritsa",
+    "D": "Satrlari nollardan iborat bo'lgan matritsa",
+    "javob": "A"
+  },
+  {
+    "savol": "Matritsani nolga ko'paytirish natijasi qanday?",
+    "A": "Nol matritsa hosil qiladi",
+    "B": "Kvadrat matritsa hosil qiladi",
+    "C": "Qator va ustunlar sonini o'zgartiradi",
+    "D": "Matritsaning determinantini beradi",
+    "javob": "A"
+  },
+  {
+    "savol": "$\\begin{vmatrix} 1 & 2 \\\\ 3 & 1 \\end{vmatrix}$ Quyidagi determinantni hisoblang:",
+    "A": "-5",
+    "B": "4",
+    "C": "3",
+    "D": "2",
+    "javob": "A"
+  },
+  {
+    "savol": "$\\begin{pmatrix} 1 & 0 \\\\ 0 & 1 \\end{pmatrix}$ Quyidagi matritsa qanday turga kiradi?",
+    "A": "Birlik matritsa",
+    "B": "Kvadrat matritsa",
+    "C": "Nol matritsa",
+    "D": "Diagonal matritsa",
+    "javob": "A"
+  },
+  {
+    "savol": "$\\begin{pmatrix} 1 & 2 & 3 \\\\ 4 & 5 & 6 \\end{pmatrix}$ bu matritsa nechta satr va ustunga ega?",
+    "A": "$2\\ ta\\ satr\\ 3\\ ta\\ ustun$",
+    "B": "$3\\ ta\\ satr\\ 2\\ ta\\ ustun$",
+    "C": "$2\\ ta\\ satr\\ 2\\ ta\\ ustun$",
+    "D": "$5\\ ta\\ satr\\ 2\\ ta\\ ustun$",
+    "javob": "A"
+  },
+  {
+    "savol": "$\\begin{pmatrix} 1 & 2 & 3 \\\\ 4 & 5 & 6 \\\\ 7 & 8 & 9 \\end{pmatrix}$ bu matritsa nechta satr va ustunga ega?",
+    "A": "$3\\ ta\\ satr\\ 3\\ ta\\ ustun$",
+    "B": "$2\\ ta\\ satr\\ 3\\ ta\\ ustun$",
+    "C": "$5\\ ta\\ satr\\ 3\\ ta\\ ustun$",
+    "D": "$3\\ ta\\ satr\\ 2\\ ta\\ ustun$",
+    "javob": "A"
+  },
+  {
+    "savol": "Berilgan A va B matritsalar uchun $C=2A+3B$ matritsani toping. $A=\\begin{pmatrix} 1 & 2 \\\\ 3 & 4 \\end{pmatrix}$, $B=\\begin{pmatrix} 0 & 1 \\\\ 2 & 3 \\end{pmatrix}$",
+    "A": "$\\begin{pmatrix} 2 & 7 \\\\ 12 & 17 \\end{pmatrix}$",
+    "B": "C=(1,0,12)",
+    "C": "C=(9,4,8)",
+    "D": "$\\begin{pmatrix} 2 & 5 \\\\ 9 & 14 \\end{pmatrix}$",
+    "javob": "A"
+  },
+  {
+    "savol": "$\\begin{vmatrix} 4 & 2 \\\\ 1 & 1 \\end{vmatrix}$ Determinantni hisoblang.",
+    "A": "2",
+    "B": "3",
+    "C": "4",
+    "D": "5",
+    "javob": "A"
+  },
+  {
+    "savol": "$\\begin{vmatrix} 4 & 0 \\\\ 1 & 1 \\end{vmatrix}$ Determinantni hisoblang.",
+    "A": "4",
+    "B": "3",
+    "C": "0",
+    "D": "5",
+    "javob": "A"
+  },
+  {
+    "savol": "$\\begin{vmatrix} 4 & 0 \\\\ 1 & 2 \\end{vmatrix}$ Determinantni hisoblang.",
+    "A": "8",
+    "B": "3",
+    "C": "4",
+    "D": "5",
+    "javob": "A"
+  },
+  {
+    "savol": "$\\begin{vmatrix} 2 & 2 \\\\ 0 & 1 \\end{vmatrix}$ Determinantni hisoblang.",
+    "A": "2",
+    "B": "3",
+    "C": "4",
+    "D": "5",
+    "javob": "A"
+  },
+  {
+    "savol": "Chiziqli tenglamalar sistemasi nimalardan iborat?",
+    "A": "Noma'lum koeffitsiyentlar, Sistema koeffitsiyentlari va ozod sonlardan",
+    "B": "Faqat ozod sonlardan",
+    "C": "Faqat noma'lum koeffitsiyentlardan",
+    "D": "Faqat sistema koeffitsiyentlaridan",
+    "javob": "A"
+  },
+  {
+    "savol": "Sistemaning yechimi nima?",
+    "A": "$x_1, x_2, \\dots, x_n$ noma'lum koeffitsiyentlar o'rniga qo'yilganda tenglikni ayniyatga aylantiradigan yechimlar",
+    "B": "Sistemadagi ozod sonlar",
+    "C": "Sistemadagi noma'lum hadlar",
+    "D": "To'g'ri javob yo'q",
+    "javob": "A"
+  },
+  {
+    "savol": "Chiziqli tenglamalar sistemasi qachon *birgalikda* deyiladi?",
+    "A": "Algebraik tenglamalar sistemasi yechimga ega bo'lsa",
+    "B": "Algebraik tenglamalar sistemasi yechimga ega bo'lmasa",
+    "C": "Faqat bitta yechimga ega bo'lsa",
+    "D": "Cheksiz ko'p yechimga ega bo'lsa",
+    "javob": "A"
+  },
+  {
+    "savol": "Chiziqli tenglamalar sistemasi qachon *birgalikda emas* deyiladi?",
+    "A": "Algebraik tenglamalar sistemasi yechimga ega bo'lmasa",
+    "B": "Algebraik tenglamalar sistemasi yechimga ega bo'lsa",
+    "C": "Faqat bitta yechimga ega bo'lsa",
+    "D": "Cheksiz ko'p yechimga ega bo'lsa",
+    "javob": "A"
+  },
+  {
+    "savol": "Chiziqli tenglamalar sistemasi qachon *sistema aniqlangan* deyiladi?",
+    "A": "Faqat bitta yechimga ega bo'lsa",
+    "B": "Algebraik tenglamalar sistemasi yechimga ega bo'lsa",
+    "C": "Algebraik tenglamalar sistemasi yechimga ega bo'lmasa",
+    "D": "Cheksiz ko'p yechimga ega bo'lsa",
+    "javob": "A"
+  },
+  {
+    "savol": "Chiziqli tenglamalar sistemasi qachon *sistema aniqlanmagan* deyiladi?",
+    "A": "Cheksiz ko'p yechimga ega bo'lsa",
+    "B": "Algebraik tenglamalar sistemasi yechimga ega bo'lsa",
+    "C": "Algebraik tenglamalar sistemasi yechimga ega bo'lmasa",
+    "D": "Faqat bitta yechimga ega bo'lsa",
+    "javob": "A"
+  },
+  {
+    "savol": "Chiziqli tenglamalar sistemasi qachon *bir jinsli* deyiladi?",
+    "A": "Ozod hadlar nolga teng bo'lsa",
+    "B": "Ozod hadlar birga teng bo'lsa",
+    "C": "Ozod hadlar ikkiga teng bo'lsa",
+    "D": "Ozod hadlar uchga teng bo'lsa",
+    "javob": "A"
+  },
+  {
+    "savol": "$\\begin{cases} a_{11}x_1 + a_{12}x_2 + a_{13}x_3 = b_1 \\\\ a_{21}x_1 + a_{22}x_2 + a_{23}x_3 = b_2 \\\\ a_{31}x_1 + a_{32}x_2 + a_{33}x_3 = b_3 \\end{cases}$ Uch noma'lumli tenglamalar sistemasida nechta noma'lum had mavjud?",
+    "A": "3 ta",
+    "B": "2 ta",
+    "C": "6 ta",
+    "D": "8 ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Chiziqli tenglamalar sistemasini yechishda qaysi elementlardan matritsa tuziladi?",
+    "A": "Noma'lumlar oldidagi koeffitsiyentlardan",
+    "B": "Ozod sonlardan",
+    "C": "Indekslardan",
+    "D": "Barcha javoblar to'g'ri",
+    "javob": "A"
+  },
+  {
+    "savol": "Chiziqli tenglamalar sistemasini yechishda qaysi usullardan foydalanamiz?",
+    "A": "Kramer, matritsa va Gauss usuli",
+    "B": "Dalamber usuli",
+    "C": "Uchburchaklar usuli",
+    "D": "Sarius usuli",
+    "javob": "A"
+  },
+  {
+    "savol": "Ta'rifni davom ettiring. Bir to'plam elementlarini boshqa to'plam elementlari bilan ma'lum bir qoida orqali bo'lanishiga ...... deyiladi.",
+    "A": "Funksiya",
+    "B": "Nol",
+    "C": "Matritsa",
+    "D": "Determinant",
+    "javob": "A"
+  },
+  {
+    "savol": "Ta'rifni davom ettiring. $y=f(x)$ funksiyaning qabul qilishi mumkin bo'lgan qiymatlar to'plamiga .... deyiladi.",
+    "A": "qiymatlar sohasi",
+    "B": "aniqlanish sohasi",
+    "C": "funksiya",
+    "D": "nol",
+    "javob": "A"
+  },
+  {
+    "savol": "Ta'rifni davom ettiring. Funksiyaning aniqlanish sohasi .... kabi belgilanadi.",
+    "A": "D(f)",
+    "B": "E(f)",
+    "C": "t(f)",
+    "D": "f(x)",
+    "javob": "A"
+  },
+  {
+    "savol": "Ta'rifni davom ettiring. Funksiyaning qiymatlar sohasi .... kabi belgilanadi.",
+    "A": "E(f)",
+    "B": "t(f)",
+    "C": "f(x)",
+    "D": "D(f)",
+    "javob": "A"
+  },
+  {
+    "savol": "$y(x)=5x+13$ funksiyaning $y(1)$ dagi qiymatini toping.",
+    "A": "18",
+    "B": "5",
+    "C": "13",
+    "D": "0",
+    "javob": "A"
+  },
+  {
+    "savol": "$y(x)=5x+13$ funksiyaning $y(2)$ dagi qiymatini toping.",
+    "A": "23",
+    "B": "5",
+    "C": "13",
+    "D": "0",
+    "javob": "A"
+  },
+  {
+    "savol": "Funksiyalar nechchi xil usulda beriladi?",
+    "A": "3",
+    "B": "2",
+    "C": "6",
+    "D": "5",
+    "javob": "A"
+  },
+  {
+    "savol": "O'suvchi va kamayuvchi funksiyalar umumiy nom bilan qanday funksiyalar deyiladi?",
+    "A": "Monoton funksiyalar",
+    "B": "Davriy funksiya",
+    "C": "Toq funksiya",
+    "D": "Uzluksiz funksiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Ta'rifni to'ldiring: $y=f(x)$ funksiyaning ....... deb $x$ argumentning qabul qilishi mumkin bo'ladigan qiymatlar to'plamiga aytiladi.",
+    "A": "aniqlanish sohasi",
+    "B": "manfiy",
+    "C": "cheksiz",
+    "D": "Ma'noga ega",
+    "javob": "A"
+  },
+  {
+    "savol": "$y=3x-7$ funksiyaning $y(3)$ dagi qiymatini toping.",
+    "A": "2",
+    "B": "5",
+    "C": "7",
+    "D": "9",
+    "javob": "A"
+  },
+  {
+    "savol": "$y=6x^2-7x+1$ funksiyaning $y(-1)$ dagi qiymatini toping.",
+    "A": "14",
+    "B": "5",
+    "C": "7",
+    "D": "9",
+    "javob": "A"
+  },
+  {
+    "savol": "$y=x^2-5x+2$ funksiyaning $y(-2)$ dagi qiymatini toping.",
+    "A": "16",
+    "B": "15",
+    "C": "17",
+    "D": "9",
+    "javob": "A"
+  },
+  {
+    "savol": "Analitik usulda berilgan funksiyalar qanday ko'rinishda bo'ladi?",
+    "A": "funksiya ma'lum formula, ya'ni erkli o'zgaruvchi(argument)ning erksiz o'zgaruvchi(funksiya)ga bog'lanish ko'rinishida beriladi",
+    "B": "funksiyaning qiymatlarining argument qiymatlariga bog'liqligining grafik tarzda beriladi",
+    "C": "erkli o'zgaruvchi(argument)ning erksiz o'zgaruvchi(funksiya)ning mos qiymatlarini jadval shaklda beriladi",
+    "D": "Barcha javoblar to'g'ri",
+    "javob": "A"
+  },
+  {
+    "savol": "Grafik usulda berilgan funksiyalar qanday ko'rinishda bo'ladi?",
+    "A": "funksiyaning qiymatlarining argument qiymatlariga bog'liqligining grafik tarzda beriladi",
+    "B": "funksiya ma'lum formula, ya'ni erkli o'zgaruvchi(argument)ning erksiz o'zgaruvchi(funksiya)ga bog'lanish ko'rinishida beriladi",
+    "C": "erkli o'zgaruvchi(argument)ning erksiz o'zgaruvchi(funksiya)ning mos qiymatlarini jadval shaklda beriladi",
+    "D": "Barcha javoblar to'g'ri",
+    "javob": "A"
+  },
+  {
+    "savol": "Funksiyaning hosilasini toping. $f(x)=x^3-7x+5$",
+    "A": "$3x^2-7$",
+    "B": "$9-x$",
+    "C": "$2x-9$",
+    "D": "$3x-7$",
+    "javob": "A"
+  },
+  {
+    "savol": "$y=2x+5$ hosilasini toping.",
+    "A": "2",
+    "B": "1",
+    "C": "5",
+    "D": "0",
+    "javob": "A"
+  },
+  {
+    "savol": "$y=5x^2+3x-4$ hosilasini toping.",
+    "A": "$10x+3$",
+    "B": "$3x-4$",
+    "C": "$5x-6$",
+    "D": "$4x-6$",
+    "javob": "A"
+  },
+  {
+    "savol": "$y=x^2+5x-4$ hosilasini toping.",
+    "A": "$2x+5$",
+    "B": "$3x-4$",
+    "C": "$5x-6$",
+    "D": "$4x-6$",
+    "javob": "A"
+  },
+  {
+    "savol": "Ushbu $y=2\\sin x$ funktsiya uchun $y'$ ni toping.",
+    "A": "$2 \\cos x$",
+    "B": "$\\cos 3x$",
+    "C": "$-2\\sin x$",
+    "D": "$2\\sin x$",
+    "javob": "A"
+  },
+  {
+    "savol": "Ayirmaning hosilasi ....",
+    "A": "Hosilalar ayirmasiga teng",
+    "B": "Hosilalar yig'indisiga teng",
+    "C": "Hosilalar ko'paytmasiga teng",
+    "D": "Hosilalar bo'linmasiga teng",
+    "javob": "A"
+  },
+  {
+    "savol": "Yig'indining hosilasi....",
+    "A": "Hosilalar yig'indisiga teng",
+    "B": "Hosilalar ayirmasiga teng",
+    "C": "Hosilalar ko'paytmasiga teng",
+    "D": "Hosilalar bo'linmasiga teng",
+    "javob": "A"
+  },
+  {
+    "savol": "$y= \\sin x$ funksiyaning hosilasini toping.",
+    "A": "$\\cos x$",
+    "B": "$-\\sin x$",
+    "C": "$\\tan x$",
+    "D": "$\\cot x$",
+    "javob": "A"
+  },
+  {
+    "savol": "$y=4x^2-x+5$ hosilasini toping.",
+    "A": "$8x-1$",
+    "B": "$3x-5$",
+    "C": "$5x$",
+    "D": "$4x-6$",
+    "javob": "A"
+  },
+  {
+    "savol": "$y=5\\sin x - \\cos x$ hosilasini toping.",
+    "A": "$5\\cos x + \\sin x$",
+    "B": "$3\\cos x$",
+    "C": "$\\sin x - \\cos x$",
+    "D": "$2\\cos x - \\sin x$",
+    "javob": "A"
+  },
+  {
+    "savol": "Tezlikdan olingan hosila...",
+    "A": "tezlanishga teng",
+    "B": "nolga teng",
+    "C": "mavjud emas",
+    "D": "chastotaga teng",
+    "javob": "A"
+  },
+  {
+    "savol": "$y=3x+\\sin x$ funksiyaning hosilasi toping.",
+    "A": "$3+\\cos x$",
+    "B": "$\\cos x-4$",
+    "C": "$\\sin x-2$",
+    "D": "$\\sin x+2$",
+    "javob": "A"
+  },
+  {
+    "savol": "$y=\\cos x-8x-12$ funksiyaning hosilasi toping.",
+    "A": "$-\\sin x-8$",
+    "B": "$\\cos x-8$",
+    "C": "$\\sin x-12$",
+    "D": "$\\sin x+24$",
+    "javob": "A"
+  },
+  {
+    "savol": "O'zgarmas sonning hosilasi nimaga teng?",
+    "A": "Nolga",
+    "B": "birga",
+    "C": "ikkiga",
+    "D": "Uchga",
+    "javob": "A"
+  },
+  {
+    "savol": "Tenglikni davom ettiring: $(\\sin x)' =$",
+    "A": "$\\cos x$",
+    "B": "$-\\sin x$",
+    "C": "$\\tan x$",
+    "D": "$\\cot x$",
+    "javob": "A"
+  },
+  {
+    "savol": "Tenglikni davom ettiring: $(x)' =$",
+    "A": "1",
+    "B": "0",
+    "C": "$x$",
+    "D": "$x^2$",
+    "javob": "A"
+  },
+  {
+    "savol": "Funksiyaning hosilasini toping. $f(x)=x^3-6x+5$",
+    "A": "$3x^2-6$",
+    "B": "$9-x$",
+    "C": "$2x-9$",
+    "D": "$3x-7$",
+    "javob": "A"
+  },
+  {
+    "savol": "$y=3x+5$ hosilasini toping.",
+    "A": "3",
+    "B": "1",
+    "C": "5",
+    "D": "0",
+    "javob": "A"
+  },
+  {
+    "savol": "$y=4x^2+3x-4$ hosilasini toping.",
+    "A": "$8x+3$",
+    "B": "$3x-4$",
+    "C": "$5x-6$",
+    "D": "$4x-6$",
+    "javob": "A"
+  },
+  {
+    "savol": "Funksiyaning hosilasini toping. $f(x)=x^3-5x+5$",
+    "A": "$3x^2-5$",
+    "B": "$9-x$",
+    "C": "$2x-9$",
+    "D": "$3x-7$",
+    "javob": "A"
+  },
+  {
+    "savol": "$y=5x+5$ hosilasini toping.",
+    "A": "5",
+    "B": "1",
+    "C": "2",
+    "D": "0",
+    "javob": "A"
+  },
+  {
+    "savol": "$y=3x^2+3x-4$ hosilasini toping.",
+    "A": "$6x+3$",
+    "B": "$3x-4$",
+    "C": "$5x-6$",
+    "D": "$4x-6$",
+    "javob": "A"
+  },
+  {
+    "savol": "$y=7x+5$ hosilasini toping.",
+    "A": "7",
+    "B": "1",
+    "C": "5",
+    "D": "0",
+    "javob": "A"
+  },
+  {
+    "savol": "$y=x^2+3x-4$ hosilasini toping.",
+    "A": "$2x+3$",
+    "B": "$3x-4$",
+    "C": "$5x-6$",
+    "D": "$4x-6$",
+    "javob": "A"
+  },
+  {
+    "savol": "Funksiyaning hosilasini toping. $f(x)=x^3-4x+5$",
+    "A": "$3x^2-4$",
+    "B": "$9-x$",
+    "C": "$2x-9$",
+    "D": "$3x-7$",
+    "javob": "A"
+  },
+  {
+    "savol": "Funksiyaning hosilasini toping. $f(x)=\\cos x$",
+    "A": "$-\\sin x$",
+    "B": "$\\cos x$",
+    "C": "$\\tan x$",
+    "D": "$\\cot x$",
+    "javob": "A"
+  },
+  {
+    "savol": "Funksiyaning hosilasini toping. $f(x)=\\sin x$",
+    "A": "$\\cos x$",
+    "B": "$\\sin x$",
+    "C": "$\\tan x$",
+    "D": "$\\cot x$",
+    "javob": "A"
+  },
+  {
+    "savol": "Funksiyaning hosilasini toping. $f(x)=\\sin x + \\cos x$",
+    "A": "$\\cos x - \\sin x$",
+    "B": "$-\\cos x$",
+    "C": "$\\sin x$",
+    "D": "$\\tan x$",
+    "javob": "A"
+  },
+  {
+    "savol": "Funksiyaning hosilasini toping. $f(x)=2\\sin x + \\cos x$",
+    "A": "$2\\cos x - \\sin x$",
+    "B": "$-\\cos x$",
+    "C": "$\\sin x$",
+    "D": "$\\tan x$",
+    "javob": "A"
+  },
+  {
+    "savol": "Funksiyaning hosilasini toping. $f(x)=2x$",
+    "A": "2",
+    "B": "X",
+    "C": "2x",
+    "D": "0",
+    "javob": "A"
+  },
+  {
+    "savol": "Funksiyaning hosilasini toping. $f(x)=5x+1$",
+    "A": "5",
+    "B": "6",
+    "C": "7",
+    "D": "8",
+    "javob": "A"
+  },
+  {
+    "savol": "Funksiyaning hosilasini toping. $f(x)=7x+1$",
+    "A": "7",
+    "B": "8",
+    "C": "0",
+    "D": "1",
+    "javob": "A"
+  },
+  {
+    "savol": "Funksiyaning hosilasini toping. $f(x)=3+5x$",
+    "A": "5",
+    "B": "6",
+    "C": "4",
+    "D": "2",
+    "javob": "A"
+  },
+  {
+    "savol": "Funksiyaning hosilasini toping. $f(x)=2x-3$",
+    "A": "2",
+    "B": "3",
+    "C": "4",
+    "D": "7",
+    "javob": "A"
+  },
+  {
+    "savol": "$y=4x-7$ funksiyaning $y(2)$ dagi qiymatini toping.",
+    "A": "1",
+    "B": "5",
+    "C": "7",
+    "D": "9",
+    "javob": "A"
+  },
+  {
+    "savol": "$y=6x^2-7x+1$ funksiyaning $y(1)$ dagi qiymatini toping.",
+    "A": "0",
+    "B": "5",
+    "C": "7",
+    "D": "2",
+    "javob": "A"
+  },
+  {
+    "savol": "$y=x^2-5x+2$ funksiyaning $y(2)$ dagi qiymatini toping.",
+    "A": "-4",
+    "B": "5",
+    "C": "1",
+    "D": "9",
+    "javob": "A"
+  },
+  {
+    "savol": "$y=4x-1$ funksiyaning $y(3)$ dagi qiymatini toping.",
+    "A": "11",
+    "B": "5",
+    "C": "7",
+    "D": "0",
+    "javob": "A"
+  },
+  {
+    "savol": "$y=4x+5$ funksiyaning $y(3)$ dagi qiymatini toping.",
+    "A": "17",
+    "B": "5",
+    "C": "7",
+    "D": "11",
+    "javob": "A"
+  },
+  {
+    "savol": "$y=4x-1$ funksiyaning $y(2)$ dagi qiymatini toping.",
+    "A": "7",
+    "B": "5",
+    "C": "17",
+    "D": "3",
+    "javob": "A"
+  },
+  {
+    "savol": "$y=4x-1$ funksiyaning $y(5)$ dagi qiymatini toping.",
+    "A": "19",
+    "B": "5",
+    "C": "7",
+    "D": "9",
+    "javob": "A"
+  },
+  {
+    "savol": "$y=4x-1$ funksiyaning $y(6)$ dagi qiymatini toping.",
+    "A": "23",
+    "B": "5",
+    "C": "7",
+    "D": "25",
+    "javob": "A"
+  },
+  {
+    "savol": "$y=2x-1$ funksiyaning $y(3)$ dagi qiymatini toping.",
+    "A": "5",
+    "B": "4",
+    "C": "3",
+    "D": "9",
+    "javob": "A"
+  },
+  {
+    "savol": "$y=2x+3$ funksiyaning $y(3)$ dagi qiymatini toping.",
+    "A": "9",
+    "B": "5",
+    "C": "7",
+    "D": "2",
+    "javob": "A"
+  },
+  {
+    "savol": "$\\vec{a} = (1; 1; 1)$ vektorning uzunligini toping.",
+    "A": "$\\sqrt{3}$",
+    "B": "2",
+    "C": "$\\sqrt{5}$",
+    "D": "$-\\sqrt{3}$",
+    "javob": "A"
+  },
+  {
+    "savol": "$\\vec{a} = (1; 2; 3)$ vektorning uzunligini toping.",
+    "A": "$\\sqrt{14}$",
+    "B": "7",
+    "C": "$\\sqrt{12}$",
+    "D": "6",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyida qaysi formula ko'rsatilgan? $\\vec{a} \\cdot \\vec{b} = x_1x_2 + y_1y_2 + z_1z_2$",
+    "A": "Skalyar ko'paytma",
+    "B": "Vektor ko'paytma",
+    "C": "Aralash ko'paytma",
+    "D": "Sonlar ko'paytmasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Yo'nalishga ega bo'lgan kesmaga...",
+    "A": "Vektor deyiladi",
+    "B": "Tenglama deyiladi",
+    "C": "Aralash vektor deyiladi",
+    "D": "Vektor uzunligi deyiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "$\\vec{a} = (3; -2; 1)$ va $\\vec{b} = (4; -3; 2)$ vektorlar yig'indisining koordinatalarini toping.",
+    "A": "(7; -5; 3)",
+    "B": "$(-1; 1; -1)$",
+    "C": "$(12; 6; 2)$",
+    "D": "$(1; -1; 1)$",
+    "javob": "A"
+  },
+  {
+    "savol": "$\\vec{a}$ vektorning modulini ko'rsating.",
+    "A": "$|\\vec{a}|$",
+    "B": "$\\vec{a}$",
+    "C": "a",
+    "D": "$\\|\\vec{a}\\|$",
+    "javob": "A"
+  },
+  {
+    "savol": "$\\vec{a} = \\{3; -2; -5\\}$ vektorning koordinatalari qayerda to'g'ri ko'rsatilgan.",
+    "A": "{3; -2; -5}",
+    "B": "{3; -2; 9}",
+    "C": "{-3; 2; 7}",
+    "D": "{3; 2; 4}",
+    "javob": "A"
+  },
+  {
+    "savol": "$\\vec{a} = (-6; 8)$ bo'lsa, uning uzunligini toping.",
+    "A": "10",
+    "B": "15",
+    "C": "8",
+    "D": "9",
+    "javob": "A"
+  },
+  {
+    "savol": "$\\vec{a} = (-3; -4)$ bo'lsa, uning uzunligini toping.",
+    "A": "5",
+    "B": "8",
+    "C": "6",
+    "D": "4",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyida qaysi formula ko'rsatilgan? $|\\vec{a}| = \\sqrt{x^2 + y^2 + z^2}$",
+    "A": "Vektor uzunligi",
+    "B": "Skalyar ko'paytma",
+    "C": "vektor ko'paytma",
+    "D": "Aralash ko'paytma",
+    "javob": "A"
+  },
+  {
+    "savol": "$\\vec{a} = (1; 2)$ va $\\vec{b} = (1; 0)$ vektorlar berilgan. Ular yig'indisini toping.",
+    "A": "(2; 2)",
+    "B": "(2; -2)",
+    "C": "(-1; 2)",
+    "D": "(-3; 2)",
+    "javob": "A"
+  },
+  {
+    "savol": "$k \\cdot \\vec{a}$ nimani ifodalaydi...",
+    "A": "Vektorni songa (skalyarga) ko'paytirish",
+    "B": "ikki vektorning skalyar ko'paytmasi",
+    "C": "ikki vektorning vektor ko'paytmasi",
+    "D": "vektorlarni qo'shish",
+    "javob": "A"
+  },
+  {
+    "savol": "Noldan farqli ikkita vektor bir to'g'ri chiziqda yoki parallel to'g'ri chiziqlarda yotsa bunday vektorlar ........ deyiladi",
+    "A": "Kollinear vektorlar",
+    "B": "Komplanar vektorlar",
+    "C": "Teng vektorlar",
+    "D": "Qarama-qarshi vektorlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Moduli birga teng bo'lgan vektor qanaqa vektor deyiladi?",
+    "A": "Birlik vektor",
+    "B": "Nol vektor",
+    "C": "Absolyut vektor",
+    "D": "Kollinear vektor",
+    "javob": "A"
+  },
+  {
+    "savol": "Moduli nolga teng bo'lgan vector qanaqa vektor deyiladi?",
+    "A": "Nol vektor",
+    "B": "Birlik vektor",
+    "C": "Absolyut vektor",
+    "D": "Kollinear vektor",
+    "javob": "A"
+  },
+  {
+    "savol": "Bitta tekislikda yotuvchi yoki shu tekislikka parallel bo'lgan vektorlar ......... deyiladi.",
+    "A": "Komplanar vektorlar",
+    "B": "Kollinear vektorlar",
+    "C": "Birlik vektor",
+    "D": "Nol vektorlar",
+    "javob": "A"
+  },
+  {
+    "savol": "$\\vec{a} = (2; -4; 1)$ bo'lsa $-2\\vec{a}$?",
+    "A": "(-4; 8; -2)",
+    "B": "(5; -4; 1)",
+    "C": "(3; -8; 7)",
+    "D": "(7; 8; 1)",
+    "javob": "A"
+  },
+  {
+    "savol": "$\\vec{a} = (3; 4; 0)$ bo'lsa $3\\vec{a}$?",
+    "A": "(9; 12; 0)",
+    "B": "(5; -4; 1)",
+    "C": "(3; -8; 7)",
+    "D": "(7; 8; 1)",
+    "javob": "A"
+  },
+  {
+    "savol": "$\\vec{a} = (0; 2; 1)$ bo'lsa $-5\\vec{a}$?",
+    "A": "(0; -10; -5)",
+    "B": "(5; -4; 1)",
+    "C": "(3; -8; 7)",
+    "D": "(7; 8; 1)",
+    "javob": "A"
+  },
+  {
+    "savol": "$\\vec{a} = (2; -1; 1)$ bo'lsa $2\\vec{a}$?",
+    "A": "(4; -2; 2)",
+    "B": "(5; -4; 1)",
+    "C": "(3; -8; 7)",
+    "D": "(7; 8; 1)",
+    "javob": "A"
+  },
+  {
+    "savol": "$\\vec{a} = (3; 0; 1)$ bo'lsa $-5\\vec{a}$?",
+    "A": "(-15; 0; -5)",
+    "B": "(5; -4; 1)",
+    "C": "(3; -8; 7)",
+    "D": "(7; 8; 1)",
+    "javob": "A"
+  },
+  {
+    "savol": "$\\vec{a} = (0; 4; 1)$ bo'lsa $-2\\vec{a}$?",
+    "A": "(0; -8; -2)",
+    "B": "(5; -4; 1)",
+    "C": "(3; -8; 7)",
+    "D": "(7; 8; 1)",
+    "javob": "A"
+  },
+  {
+    "savol": "$\\vec{a} = (-2; 1; 0)$ bo'lsa $3\\vec{a}$?",
+    "A": "(-6; 3; 0)",
+    "B": "(5; -4; 1)",
+    "C": "(3; -8; 7)",
+    "D": "(7; 8; 1)",
+    "javob": "A"
+  },
+  {
+    "savol": "$\\vec{a} = (0; 1; 1)$ bo'lsa $-5\\vec{a}$?",
+    "A": "(0; -5; -5)",
+    "B": "(5; -4; 1)",
+    "C": "(3; -8; 7)",
+    "D": "(7; 8; 1)",
+    "javob": "A"
+  },
+  {
+    "savol": "$\\vec{a} = (8; -1; 1)$ bo'lsa $2\\vec{a}$?",
+    "A": "(16; -2; 2)",
+    "B": "(5; -4; 1)",
+    "C": "(3; -8; 7)",
+    "D": "(7; 8; 1)",
+    "javob": "A"
+  },
+  {
+    "savol": "$\\vec{a} = (3; 0; 1)$ bo'lsa $6\\vec{a}$?",
+    "A": "(18; 0; 6)",
+    "B": "(5; -4; 1)",
+    "C": "(3; -8; 7)",
+    "D": "(7; 8; 1)",
+    "javob": "A"
+  },
+  {
+    "savol": "$\\vec{a} = (2; -1; 1)$ bo'lsa $7\\vec{a}$?",
+    "A": "(14; -7; 7)",
+    "B": "(5; -4; 1)",
+    "C": "(3; -8; 7)",
+    "D": "(7; 8; 1)",
+    "javob": "A"
+  },
+  {
+    "savol": "$\\vec{a} = (0; 4; 1)$ bo'lsa $3\\vec{a}$?",
+    "A": "(0; 12; 3)",
+    "B": "(5; -4; 1)",
+    "C": "(3; -8; 7)",
+    "D": "(7; 8; 1)",
+    "javob": "A"
+  },
+  {
+    "savol": "$\\vec{a} = (2; 2; 3)$ bo'lsa $2\\vec{a}$?",
+    "A": "(4; 4; 6)",
+    "B": "(5; -4; 1)",
+    "C": "(3; -8; 7)",
+    "D": "(7; 8; 1)",
+    "javob": "A"
+  },
+  {
+    "savol": "$\\vec{a} = (2; -1; 1)$ bo'lsa $8\\vec{a}$?",
+    "A": "(16; -8; 8)",
+    "B": "(5; -4; 1)",
+    "C": "(3; -8; 7)",
+    "D": "(7; 8; 1)",
+    "javob": "A"
+  },
+  {
+    "savol": "$\\vec{a} = (0; 10; 1)$ bo'lsa $5\\vec{a}$?",
+    "A": "(0; 50; 5)",
+    "B": "(5; -4; 1)",
+    "C": "(3; -8; 7)",
+    "D": "(7; 8; 1)",
+    "javob": "A"
+  },
+  {
+    "savol": "Funksiya so'zining ma'nosi nima?",
+    "A": "vazifa",
+    "B": "yumush",
+    "C": "ish",
+    "D": "Masala",
+    "javob": "A"
+  },
+  {
+    "savol": "Ikki o'zgaruvchining funktsiyasi simvolik tarzda quyidagicha belgilanadi.",
+    "A": "$z = f(x,y)$",
+    "B": "$y = f(x)$",
+    "C": "$z = f(x)$",
+    "D": "$x = f(y)$",
+    "javob": "A"
+  },
+  {
+    "savol": "Funksiya so'zi qaysi tildan olingan?",
+    "A": "lotincha",
+    "B": "yunoncha",
+    "C": "ruscha",
+    "D": "inglizcha",
+    "javob": "A"
+  },
+  {
+    "savol": "$y_1 = 2x + 5$, $y_2 = 3x + 2$ bo'lsa $y_1 + y_2$ ni hisoblang.",
+    "A": "$5x + 7$",
+    "B": "$4x + 14$",
+    "C": "$x + 11$",
+    "D": "$x + 14$",
+    "javob": "A"
+  },
+  {
+    "savol": "$y_1 = 3x + 2$, $y_2 = x + 7$ bo'lsa $y_1 + y_2$ ni hisoblang.",
+    "A": "$4x + 9$",
+    "B": "$x + 14$",
+    "C": "$4x + 11$",
+    "D": "$x + 15$",
+    "javob": "A"
+  },
+  {
+    "savol": "$y_1 = 2x + 15$, $y_2 = 3x + 9$ bo'lsa $y_1 + y_2$ ni hisoblang.",
+    "A": "$5x + 24$",
+    "B": "$4x + 14$",
+    "C": "$-x + 9$",
+    "D": "$4x + 1$",
+    "javob": "A"
+  },
+  {
+    "savol": "$y_1 = 4x + 12$, $y_2 = 3x + 12$ bo'lsa $y_1 - y_2$ ni hisoblang.",
+    "A": "$x$",
+    "B": "$4x$",
+    "C": "$4$",
+    "D": "$4x + 14$",
+    "javob": "A"
+  },
+  {
+    "savol": "$y_1 = 2x + 5$, $y_2 = x + 2$ bo'lsa $y_1 - y_2$ ni hisoblang.",
+    "A": "$x + 3$",
+    "B": "$x + 14$",
+    "C": "$4x$",
+    "D": "$4x - 14$",
+    "javob": "A"
+  },
+  {
+    "savol": "$y_1 = x + 12$, $y_2 = x + 11$ bo'lsa $y_1 - y_2$ ni hisoblang.",
+    "A": "$1$",
+    "B": "$2x + 1$",
+    "C": "$x + 1$",
+    "D": "$4x$",
+    "javob": "A"
+  },
+  {
+    "savol": "$y_1 = 4x + 5$, $y_2 = 3x + 2$ bo'lsa $y_1 + y_2$ ni hisoblang.",
+    "A": "$7x + 7$",
+    "B": "$4x + 14$",
+    "C": "$x + 11$",
+    "D": "$x + 14$",
+    "javob": "A"
+  },
+  {
+    "savol": "$y_1 = 3x + 1$, $y_2 = x + 7$ bo'lsa $y_1 + y_2$ ni hisoblang.",
+    "A": "$4x + 8$",
+    "B": "$x + 14$",
+    "C": "$4x + 11$",
+    "D": "$x + 15$",
+    "javob": "A"
+  },
+  {
+    "savol": "$y_1 = 2x + 5$, $y_2 = x + 9$ bo'lsa $y_1 + y_2$ ni hisoblang.",
+    "A": "$3x + 14$",
+    "B": "$4x + 14$",
+    "C": "$-x + 9$",
+    "D": "$4x + 1$",
+    "javob": "A"
+  },
+  {
+    "savol": "$y_1 = 6x + 1$, $y_2 = 3x + 12$ bo'lsa $y_1 - y_2$ ni hisoblang.",
+    "A": "$9x + 13$",
+    "B": "$4x$",
+    "C": "$4$",
+    "D": "$4x + 14$",
+    "javob": "A"
+  },
+  {
+    "savol": "Ixtiyoriy tabiatli narsalarning ma'lum belgi bo'yicha birlashmasi",
+    "A": "To'plam",
+    "B": "majmua",
+    "C": "yig'indi",
+    "D": "kolleksiya",
+    "javob": "A"
+  },
+  {
+    "savol": "To'plamni tashkil etgan narsalar uning ... deyiladi",
+    "A": "elementlari",
+    "B": "bazisi",
+    "C": "koordinatasi",
+    "D": "Tashkil etuvchisi",
+    "javob": "A"
+  },
+  {
+    "savol": "Matematikada to'plamlar ... harflar bilan belgilanadi.",
+    "A": "bosh",
+    "B": "kichik",
+    "C": "yozma",
+    "D": "turlicha",
+    "javob": "A"
+  },
+  {
+    "savol": "Matematikada to'plamlarning elementlari ... harflar bilan belgilanadi.",
+    "A": "kichik",
+    "B": "yozma",
+    "C": "turlicha",
+    "D": "bosh",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar A chekli sondagi elementlardan tashkil topgan bo'lsa... to'plam deyiladi",
+    "A": "chekli",
+    "B": "cheksiz",
+    "C": "chegaralangan",
+    "D": "chegaralanmagan",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar A cheksiz sondagi elementlardan tashkil topgan bo'lsa... to'plam deyiladi",
+    "A": "cheksiz",
+    "B": "chekli",
+    "C": "chegaralangan",
+    "D": "chegaralanmagan",
+    "javob": "A"
+  },
+  {
+    "savol": "A to'plamning barcha elementlari B to'plamga tegishli bo'lsa ... deyiladi",
+    "A": "A to'plam B ning qismi",
+    "B": "A to'plam B ning bo'lagi",
+    "C": "B to'plam A ning qismi",
+    "D": "B to'plam A ning bo'lagi",
+    "javob": "A"
+  },
+  {
+    "savol": "A va B to'plamlar bir xil elementlardan tashkil topgan bo'lsa ular ... deyiladi",
+    "A": "teng",
+    "B": "tengmas",
+    "C": "qismiy",
+    "D": "chekli",
+    "javob": "A"
+  },
+  {
+    "savol": "Teng to'plam bu ... to'plam",
+    "A": "bir xil elementlardan",
+    "B": "har xil elementlardan",
+    "C": "Elementlarga ega bo'lmagan",
+    "D": "Elementlarga ega bo'lgan",
+    "javob": "A"
+  },
+  {
+    "savol": "Bitta ham elementga ega bo'lmagan to'plam ... deyiladi",
+    "A": "Bo'sh",
+    "B": "chekli",
+    "C": "cheksiz",
+    "D": "qismiy",
+    "javob": "A"
+  },
+  {
+    "savol": "Bo'sh to'plam bu ... to'plam.",
+    "A": "Bitta ham elementga ega bo'lmagan",
+    "B": "Cheksiz elementga ega bo'lgan",
+    "C": "Cheklita elementga ega bo'lgan",
+    "D": "Bir xil elementga ega bo'lgan",
+    "javob": "A"
+  },
+  {
+    "savol": "Qanday to'plam N bilan ifodalanadi?",
+    "A": "Natural sonlar to'plami",
+    "B": "Butun sonlar to'plami",
+    "C": "Ratsional sonlar to'plami",
+    "D": "Haqiqiy sonlar to'plami",
+    "javob": "A"
+  },
+  {
+    "savol": "Qanday to'plam R bilan ifodalanadi?",
+    "A": "Haqiqiy sonlar to'plami",
+    "B": "Butun sonlar to'plami",
+    "C": "Ratsional sonlar to'plami",
+    "D": "Natural sonlar to'plami",
+    "javob": "A"
+  }
+]
