@@ -341,7 +341,7 @@
 
             let directions = [];
             if (degree === 'Bakalavriat') {
-                directions = ['KM-TMJ', 'KM-IQ', 'KM-MP(log)', 'KM-NGT', 'DAV-25', 'OHI-25'];
+                directions = ['KM-TMJ', 'KM-IQ', 'KM-MP(log)', 'KM-NGT', 'DAV-25', 'OHI-25', 'KM-BIO', 'KM-MT', 'KM-BT'];
             } else if (degree === 'Magistratura') {
                 directions = ['MM-IQ']; 
             }
@@ -398,6 +398,12 @@
                 subjects = ["Odam anatomiyasi", "Tibbiy biologiya", "O'zbek (rus) tili"];
             } else if (dir === 'MM-IQ') {
                 subjects = ["Maxsus fanlar o`qitish metodikasi", "Ekonometrika", "Ilmiy tadqiqot metodologiyasi", "Mikroiqtisodiyot"];
+            } else if (dir === 'KM-BIO') {
+                subjects = ["Botanika", "O’zbekistonning eng yangi tarixi", "Oliy matematika", "Sitologiya, gistologiya", "Umumiy kimyo va fizika", "Umumiy psixologiya"];
+            } else if (dir === 'KM-MT') {
+                subjects = [];
+            } else if (dir === 'KM-BT') {
+                subjects = [];
             }
 
             subjects.forEach(subj => {
