@@ -1,0 +1,1090 @@
+[
+  {
+    "savol": "Fonetika nima?",
+    "A": "Tilshunoslikning tovushlarni o`rganadigan bo`lim",
+    "B": "So`z yasalishini o`rganadigan bo`lim",
+    "C": "Gap tuzilishini o`rganadigan bo`lim",
+    "D": "Ma`no tahlilini o`rganadigan bo`lim",
+    "javob": "A"
+  },
+  {
+    "savol": "Fonetikada nimalar o`rganiladi?",
+    "A": "Tovushlarning hosil bo`lishi, talaffuzi va akustikasi",
+    "B": "So`zlarning ma`nosi",
+    "C": "Gaplarning mazmuni",
+    "D": "Matnlarning mazmuni",
+    "javob": "A"
+  },
+  {
+    "savol": "Fonologiya nimani o`rganadi?",
+    "A": "Tovushlarning ma`no farqlash vazifasini",
+    "B": "Tovushlarning eshitilish jarayonini",
+    "C": "Tovushlarning talaffuzini",
+    "D": "So`zlarning yozilishini",
+    "javob": "A"
+  },
+  {
+    "savol": "Fonologiyada nutq tovushi qanday ataladi?",
+    "A": "Fonema",
+    "B": "Morfema",
+    "C": "Grafema",
+    "D": "Sintagma",
+    "javob": "A"
+  },
+  {
+    "savol": "“Bol” va “pol” so`zlari orasidagi farq nimaga bog`liq?",
+    "A": "Bosh tovushga",
+    "B": "Unlilar soniga",
+    "C": "Urg`uga",
+    "D": "So`z uzunligiga",
+    "javob": "A"
+  },
+  {
+    "savol": "Fonetika va fonologiya orasidagi asosiy farq nimada?",
+    "A": "Fonetika tovushning tashqi tomonini, fonologiya ichki vazifasini o`rganadi",
+    "B": "Ikkalasi bir xil narsani o`rganadi",
+    "C": "Fonetika yozuvni, fonologiya talaffuzni o`rganadi",
+    "D": "Fonetika so`zlarni, fonologiya gaplarni o`rganadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq apparati nechta qismdan iborat?",
+    "A": "3 qism",
+    "B": "2 qism",
+    "C": "4 qism",
+    "D": "5 qism",
+    "javob": "A"
+  },
+  {
+    "savol": "Nafas organlari qaysilar?",
+    "A": "O`pka, traxeya va bronxlar",
+    "B": "Til va lablar",
+    "C": "Tishlar va tanglay",
+    "D": "Burun va hiqildoq",
+    "javob": "A"
+  },
+  {
+    "savol": "Ovoz hosil bo`lishi qayerda yuz beradi?",
+    "A": "Hiqildoqdagi ovoz paychalarida",
+    "B": "Burunda",
+    "C": "Tishda",
+    "D": "Til uchida",
+    "javob": "A"
+  },
+  {
+    "savol": "Jarangli tovush qanday hosil bo`ladi?",
+    "A": "Ovoz paychalari titraganda",
+    "B": "Burun orqali havo o`tganda",
+    "C": "Til tanglayga tekkanda",
+    "D": "Lablar yopilganda",
+    "javob": "A"
+  },
+  {
+    "savol": "Jarangsiz tovush qanday hosil bo`ladi?",
+    "A": "Ovoz paychalari ajralib turganda",
+    "B": "Ovoz paychalari titraganda",
+    "C": "Til tanglayga tekkanda",
+    "D": "Lablar ishtirokida",
+    "javob": "A"
+  },
+  {
+    "savol": "Artikulyatsiya organlariga qaysilar kiradi?",
+    "A": "Til, tishlar, lablar, tanglay, burun",
+    "B": "O`pka",
+    "C": "Hiqildoq",
+    "D": "Traxeya",
+    "javob": "A"
+  },
+  {
+    "savol": "O`zbek tilida nechta unli tovush bor?",
+    "A": "6 ta",
+    "B": "5 ta",
+    "C": "7 ta",
+    "D": "8 ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Old qator unlilar qaysilar?",
+    "A": "[i], [e], [a]",
+    "B": "[o], [o`], [u]",
+    "C": "[m], [n], [ng]",
+    "D": "[b], [p], [d]",
+    "javob": "A"
+  },
+  {
+    "savol": "Orqa qator unlilar qaysilar?",
+    "A": "[o], [o`], [u]",
+    "B": "[i], [e], [a]",
+    "C": "[m], [n], [ng]",
+    "D": "[f], [v], [b]",
+    "javob": "A"
+  },
+  {
+    "savol": "Yuqori ko`tarilish unlilari qaysilar?",
+    "A": "[i], [u]",
+    "B": "[a], [o]",
+    "C": "[e], [o`]",
+    "D": "[b], [p]",
+    "javob": "A"
+  },
+  {
+    "savol": "O`rta ko`tarilish unlilari qaysilar?",
+    "A": "[e], [o`]",
+    "B": "[a], [o]",
+    "C": "[i], [u]",
+    "D": "[m], [n]",
+    "javob": "A"
+  },
+  {
+    "savol": "Past ko`tarilish unlilari qaysilar?",
+    "A": "[a], [o]",
+    "B": "[i], [u]",
+    "C": "[e], [o`]",
+    "D": "[b], [v]",
+    "javob": "A"
+  },
+  {
+    "savol": "Lablangan unlilar qaysilar?",
+    "A": "[o], [o`], [u]",
+    "B": "[a], [e], [i]",
+    "C": "[m], [n], [ng]",
+    "D": "[p], [t], [k]",
+    "javob": "A"
+  },
+  {
+    "savol": "Lablanmagan unlilar qaysilar?",
+    "A": "[a], [e], [i]",
+    "B": "[o], [o`], [u]",
+    "C": "[m], [n], [ng]",
+    "D": "[f], [v], [b]",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq tovushlari nechta tomondan o`rganiladi?",
+    "A": "3 tomon",
+    "B": "2 tomon",
+    "C": "4 tomon",
+    "D": "1 tomon",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq tovushining fiziologik tomoni qanday nomlanadi?",
+    "A": "Artikulyatsion tomon",
+    "B": "Fonologik tomon",
+    "C": "Akustik tomon",
+    "D": "Lingvistik tomon",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq tovushi qanday organlar yordamida hosil qilinadi?",
+    "A": "Nutq apparati a`zolari",
+    "B": "Lab",
+    "C": "Til",
+    "D": "Tish",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq tovushining moddiy xususiyatlari qaysi tomonga tegishli?",
+    "A": "Akustik tomon",
+    "B": "Fiziologik tomon",
+    "C": "Fonologik tomon",
+    "D": "Leksik tomon",
+    "javob": "A"
+  },
+  {
+    "savol": "[a] va [u] tovushlarining tembri qaysi jihat bilan izohlanadi?",
+    "A": "Akustik tomon",
+    "B": "Fiziologik tomon",
+    "C": "Ijtimoiy tomon",
+    "D": "Morfologik tomon",
+    "javob": "A"
+  },
+  {
+    "savol": "Fonema nima?",
+    "A": "Ma`no farqlovchi minimal birlik",
+    "B": "So`zning morfologik shakli",
+    "C": "Gapning ohang birligi",
+    "D": "Urg`u bilan bog`liq birlik",
+    "javob": "A"
+  },
+  {
+    "savol": "`Bol` va `pol` so`zlaridagi farq qaysi fonema orqali yuzaga keladi?",
+    "A": "[b] va [p]",
+    "B": "[o] va [a]",
+    "C": "[l] va [r]",
+    "D": "[p] va [t]",
+    "javob": "A"
+  },
+  {
+    "savol": "Bo`g`in hosil qiluvchi asosiy birlik nima?",
+    "A": "Unli tovush",
+    "B": "Undosh tovush",
+    "C": "Fonema",
+    "D": "Urg`u",
+    "javob": "A"
+  },
+  {
+    "savol": "`O`zi` so`zida nechta bo`g`in bor?",
+    "A": "2 ta",
+    "B": "1 ta",
+    "C": "3 ta",
+    "D": "4 ta",
+    "javob": "A"
+  },
+  {
+    "savol": "O`zbek tilida urg`u qaysi bo`g`inga tushadi?",
+    "A": "Oxirgi bo`g`inga",
+    "B": "Birinchi bo`g`inga",
+    "C": "O`rtadagi bo`g`inga",
+    "D": "Har qanday bo`g`inga",
+    "javob": "A"
+  },
+  {
+    "savol": "Gap ohangining maqsadga qarab o`zgarishi nima deyiladi?",
+    "A": "Intonatsiya",
+    "B": "Urg`u",
+    "C": "Fonema",
+    "D": "Bo`g`in",
+    "javob": "A"
+  },
+  {
+    "savol": "O`zbek tilidagi bo`g`inlar nechta turga bo`linadi?",
+    "A": "4 turga",
+    "B": "2 turga",
+    "C": "3 turga",
+    "D": "5 turga",
+    "javob": "A"
+  },
+  {
+    "savol": "`Kitob` so`zidagi `kit` bo`g`ini qaysi turga kiradi?",
+    "A": "Yopiq bo`g`in",
+    "B": "Ochiq bo`g`in",
+    "C": "Aralash bo`g`in",
+    "D": "Bir unli bo`g`in",
+    "javob": "A"
+  },
+  {
+    "savol": "`Ki` bo`g`ini qaysi turga kiradi?",
+    "A": "Ochiq bo`g`in",
+    "B": "Yopiq bo`g`in",
+    "C": "Bir unli bo`g`in",
+    "D": "Aralash bo`g`in",
+    "javob": "A"
+  },
+  {
+    "savol": "bitta unli tovushdan iborat bo`g`in qanday ataladi?",
+    "A": "Bir unli bo`g`in",
+    "B": "Ochiq bo`g`in",
+    "C": "Aralash bo`g`in",
+    "D": "Yopiq bo`g`in",
+    "javob": "A"
+  },
+  {
+    "savol": "`Qo`ng`iroq` so`zidagi `roq` bo`g`ini qaysi turga kiradi?",
+    "A": "Aralash bo`g`in",
+    "B": "Bir unli bo`g`in",
+    "C": "Yopiq bo`g`in",
+    "D": "Ochiq bo`g`in",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq tovushining ijtimoiy tomoni nima deb ataladi?",
+    "A": "Fonologik tomon",
+    "B": "Fiziologik tomon",
+    "C": "Akustik tomon",
+    "D": "Artikulyatsion tomon",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq tovushining eng kichik fonetik birligi nima?",
+    "A": "Tovush",
+    "B": "Fonema",
+    "C": "Bo`g`in",
+    "D": "Intonatsiya",
+    "javob": "A"
+  },
+  {
+    "savol": "So`z yoki bo`g`inning kuchliroq talaffuz qilinishi nima deyiladi?",
+    "A": "Urg`u",
+    "B": "Intonatsiya",
+    "C": "Fonema",
+    "D": "Bo`g`in",
+    "javob": "A"
+  },
+  {
+    "savol": "Fonetik birliklarning to`g`ri ketma-ketligi qaysi?",
+    "A": "Tovush → Fonema → Bo`g`in → Urg`u → Intonatsiya",
+    "B": "Fonema → Bo`g`in → Intonatsiya → Urg`u → Tovush",
+    "C": "Bo`g`in → Fonema → Tovush → Intonatsiya → Urg`u",
+    "D": "Urg`u → Intonatsiya → Tovush → Fonema → Bo`g`in",
+    "javob": "A"
+  },
+  {
+    "savol": "Yozuv nima?",
+    "A": "Inson nutqini grafik belgilar yordamida ifodalash tizimi",
+    "B": "So`zlarni talaffuz qilish qoidalari",
+    "C": "Nutq tovushlarini o`rganish",
+    "D": "Dialektlarni farqlash",
+    "javob": "A"
+  },
+  {
+    "savol": "Yozuvning asosiy vazifalaridan biri qaysi?",
+    "A": "Bilimlarni saqlash",
+    "B": "Tovushlarni talaffuz qilish",
+    "C": "Shevalarni o`rganish",
+    "D": "So`zlarni qisqartirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Piktografik yozuv nima orqali ifodalanadi?",
+    "A": "Rasm orqali",
+    "B": "Harflar orqali",
+    "C": "Belgilar orqali",
+    "D": "Tovushlar orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Ideografik yozuv nimani ifodalaydi?",
+    "A": "Tushunchalarni",
+    "B": "Tovushlarni",
+    "C": "Bo`g`inlarni",
+    "D": "So`zlarni talaffuzini",
+    "javob": "A"
+  },
+  {
+    "savol": "Bo`g`in yozuvida har bir belgi nimani ifodalaydi?",
+    "A": "Bir bo`g`inni",
+    "B": "Bir tovushni",
+    "C": "Bir tushunchani",
+    "D": "Bir rasmni",
+    "javob": "A"
+  },
+  {
+    "savol": "Harfiy yozuvning asosiy xususiyati?",
+    "A": "Har bir belgi tovushni ifodalaydi",
+    "B": "Har bir belgi bo`g`inni ifodalaydi",
+    "C": "Har bir belgi rasmni bildiradi",
+    "D": "Har bir belgi so`zdir",
+    "javob": "A"
+  },
+  {
+    "savol": "O`zbek yozuvi tarixida birinchi bo`lib qaysi yozuv qo`llangan?",
+    "A": "Qadimgi turkiy yozuv",
+    "B": "Arab yozuvi",
+    "C": "Lotin yozuvi",
+    "D": "Kiril yozuvi",
+    "javob": "A"
+  },
+  {
+    "savol": "IX asrdan XX asr boshlarigacha qaysi yozuv qo`llangan?",
+    "A": "Arab yozuvi",
+    "B": "Lotin yozuvi",
+    "C": "Kiril yozuvi",
+    "D": "Runik yozuv",
+    "javob": "A"
+  },
+  {
+    "savol": "1929-yildan 1940-yilgacha o`zbeklar qaysi yozuvdan foydalangan?",
+    "A": "Lotin yozuvi",
+    "B": "Arab yozuvi",
+    "C": "Kiril yozuvi",
+    "D": "Piktografik yozuv",
+    "javob": "A"
+  },
+  {
+    "savol": "1940-yildan 1991-yilgacha o`zbeklar qaysi yozuvda yozgan?",
+    "A": "Kiril yozuvi",
+    "B": "Lotin yozuvi",
+    "C": "Arab yozuvi",
+    "D": "Ideografik yozuv",
+    "javob": "A"
+  },
+  {
+    "savol": "1993-yildan buyon O`zbekistonda davlat yozuvi sifatida qabul qilingan yozuv?",
+    "A": "Lotin yozuvi",
+    "B": "Kiril yozuvi",
+    "C": "Arab yozuvi",
+    "D": "Runik yozuv",
+    "javob": "A"
+  },
+  {
+    "savol": "Yozuvning madaniy ahamiyati?",
+    "A": "Madaniyat va tafakkurni rivojlantiradi",
+    "B": "Tarixiy ma`lumot beradi",
+    "C": "Shevalarni saqlaydi",
+    "D": "Nutq tovushlarini o`rganadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Orfografiya so`zining ma`nosi?",
+    "A": "To`g`ri yozish qoidalari",
+    "B": "To`g`ri talaffuz qoidalari",
+    "C": "So`z yasash qoidalari",
+    "D": "Tovushlarni tahlil qilish",
+    "javob": "A"
+  },
+  {
+    "savol": "Orfografiyaning asosiy vazifasi?",
+    "A": "Yozuvdagi yagona me`yorni belgilash",
+    "B": "Nutq tovushlarini o`rganish",
+    "C": "So`zlarni qisqartirish",
+    "D": "Dialektlarni farqlash",
+    "javob": "A"
+  },
+  {
+    "savol": "Orfografiyada qaysi tamoyil `qanday eshitilsa, shunday yoziladi` deb ataladi?",
+    "A": "Fonetik tamoyil",
+    "B": "Morfologik tamoyil",
+    "C": "Tarixiy tamoyil",
+    "D": "Differensial tamoyil",
+    "javob": "A"
+  },
+  {
+    "savol": "So`z shakli saqlanib yoziladigan tamoyil?",
+    "A": "Morfologik tamoyil",
+    "B": "Fonetik tamoyil",
+    "C": "Tarixiy tamoyil",
+    "D": "Differensial tamoyil",
+    "javob": "A"
+  },
+  {
+    "savol": "Tarixan shakllanib qolgan yozilish saqlanadigan tamoyil?",
+    "A": "An`anaviy tamoyil",
+    "B": "Fonetik tamoyil",
+    "C": "Morfologik tamoyil",
+    "D": "Differensial tamoyil",
+    "javob": "A"
+  },
+  {
+    "savol": "O`xshash so`zlarni farqlash uchun amal qilinadigan tamoyil?",
+    "A": "Differensial tamoyil",
+    "B": "Fonetik tamoyil",
+    "C": "Morfologik tamoyil",
+    "D": "An`anaviy tamoyil",
+    "javob": "A"
+  },
+  {
+    "savol": "Orfoepiya va orfografiya farqi nimada?",
+    "A": "Orfoepiya talaffuz, orfografiya yozuv qoidasi",
+    "B": "Ikkalasi ham talaffuz qoidasi",
+    "C": "Ikkalasi ham yozuv qoidasi",
+    "D": "Farqi yo`q",
+    "javob": "A"
+  },
+  {
+    "savol": "Orfografiyaning muloqotdagi ahamiyati?",
+    "A": "Yozma nutqni hammaga tushunarli qiladi",
+    "B": "Shevalarni farqlash uchun xizmat qiladi",
+    "C": "Kitob yozishga yordam beradi",
+    "D": "Nutqni saqlaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "O`zbek tilida imlo nima bilan belgilanadi?",
+    "A": "So`z va harflarning yozilish qoidalari",
+    "B": "So`zlarning talaffuz qoidalari",
+    "C": "Til tarixiy taraqqiyoti",
+    "D": "Dialekt farqlari",
+    "javob": "A"
+  },
+  {
+    "savol": "Lotin yozuvida o` va g` qanday yoziladi?",
+    "A": "Maxsus belgilar bilan yoziladi",
+    "B": "Sh va ch kabi yoziladi",
+    "C": "Bir harf bilan yoziladi",
+    "D": "Umuman yozilmaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Kirill yozuvida o` va g` qaysi harflar bilan ifodalanadi?",
+    "A": "ў va ғ",
+    "B": "ш va ч",
+    "C": "н va г",
+    "D": "е va э",
+    "javob": "A"
+  },
+  {
+    "savol": "Lotin yozuvida sh va ch qanday yoziladi?",
+    "A": "Ikki harf birgalikda yoziladi",
+    "B": "Bitta harf bilan yoziladi",
+    "C": "ʼ bilan yoziladi",
+    "D": "Lotinda yo`q",
+    "javob": "A"
+  },
+  {
+    "savol": "Ng tovushi lotin yozuvida qanday ifodalanadi?",
+    "A": "Ikki harf bilan yozilib, bitta tovushni bildiradi",
+    "B": "Bitta harf bilan yoziladi",
+    "C": "ʼ bilan yoziladi",
+    "D": "Ikki tovushni bildiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "ʼ belgisi lotinda qayerda ishlatiladi?",
+    "A": "Arabcha va o`zlashma so`zlarda",
+    "B": "Ot so`zlarda",
+    "C": "Fe`llarda",
+    "D": "Qo`shimchalarda",
+    "javob": "A"
+  },
+  {
+    "savol": "X va H harflari imloda qanday qoida asosida yoziladi?",
+    "A": "Qat`iy ajratiladi",
+    "B": "Farqlanmaydi",
+    "C": "Talaffuzga qaraladi",
+    "D": "Tarixiy yozuvda farqlanadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ye harfi so`z boshida qanday yoziladi?",
+    "A": "Ye tarzida",
+    "B": "E tarzida",
+    "C": "I tarzida",
+    "D": "Yo tarzida",
+    "javob": "A"
+  },
+  {
+    "savol": "Ye harfi so`z o`rtasida qanday yoziladi?",
+    "A": "E tarzida",
+    "B": "Ye tarzida",
+    "C": "Yo tarzida",
+    "D": "I tarzida",
+    "javob": "A"
+  },
+  {
+    "savol": "So`zning asos qismi yozuvda qanday saqlanadi?",
+    "A": "Talaffuzdagi o`zgarish yozuvda aks etmaydi",
+    "B": "Talaffuzga qarab yoziladi",
+    "C": "O`zgartirib yoziladi",
+    "D": "Har doim qisqartiriladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Kitobchi so`zi talaffuzda qanday aytiladi?",
+    "A": "Kitopchi, lekin yozuvda kitobchi yoziladi",
+    "B": "Kitobchi yoziladi va aytiladi",
+    "C": "Kitapchi yoziladi",
+    "D": "Kitop yoziladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qo`shimchalar asosan qanday yoziladi?",
+    "A": "Qanday eshitilsa, shunday yoziladi",
+    "B": "Tarixiy yozuv asosida",
+    "C": "Talaffuzga qarab",
+    "D": "O`zgarmas shaklda",
+    "javob": "A"
+  },
+  {
+    "savol": "Jarangli undoshdan keyin qanday qo`shimcha keladi?",
+    "A": "Jarangli qo`shimcha",
+    "B": "Jarangsiz qo`shimcha",
+    "C": "Har doim bir xil qo`shimcha",
+    "D": "ʼ bilan qo`shimcha",
+    "javob": "A"
+  },
+  {
+    "savol": "Jarangsiz undoshdan keyin qanday qo`shimcha keladi?",
+    "A": "Jarangsiz qo`shimcha",
+    "B": "Jarangli qo`shimcha",
+    "C": "ʼ bilan qo`shimcha",
+    "D": "Har doim o`zgarmas qo`shimcha",
+    "javob": "A"
+  },
+  {
+    "savol": "-ki qo`shimchasi qanday yoziladi?",
+    "A": "Shakli o`zgarib yoziladi ertangi, kechagi",
+    "B": "Doim bir xil yoziladi",
+    "C": "ʼ bilan yoziladi",
+    "D": "Ajratib yoziladi",
+    "javob": "A"
+  },
+  {
+    "savol": "-lar qo`shimchasi qanday yoziladi?",
+    "A": "Shakli o`zgarib yoziladi bolalar, qizlar",
+    "B": "Har doim -lar qo`shiladi",
+    "C": "Ajratib yoziladi",
+    "D": "erkaklarga qo`shiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qo`shimchalar so`zdan qanday yoziladi?",
+    "A": "Har doim asoslarga qo`shib yoziladi",
+    "B": "Alohida yoziladi",
+    "C": "Shevada qo`shib yoziladi",
+    "D": "ʼ bilan yoziladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qiz bola so`zi qanday yoziladi?",
+    "A": "Alohida yoziladi",
+    "B": "Qizbola",
+    "C": "Qizbol",
+    "D": "Qiz-bola",
+    "javob": "A"
+  },
+  {
+    "savol": "Daftar so`ziga qaysi qo`shimcha to`g`ri qo`shiladi?",
+    "A": "Daftarka",
+    "B": "Daftarga",
+    "C": "Daftar+ga",
+    "D": "Daftarqo",
+    "javob": "A"
+  },
+  {
+    "savol": "Gul so`ziga qaysi qo`shimcha to`g`ri qo`shiladi?",
+    "A": "Gulga",
+    "B": "Gulka",
+    "C": "Gul+ka",
+    "D": "Gulqar",
+    "javob": "A"
+  },
+  {
+    "savol": "Leksikologiya nima?",
+    "A": "Tilning lug`at tarkibini va so`zlarning ma`nosini o`rganuvchi bo`lim",
+    "B": "So`zlarning talaffuzini o`rganuvchi bo`lim",
+    "C": "Gap tuzilishini o`rganuvchi bo`lim",
+    "D": "Nutq apparatini o`rganuvchi bo`lim",
+    "javob": "A"
+  },
+  {
+    "savol": "Leksikologiya atamasi qaysi tildan olingan?",
+    "A": "Yunon tilidan",
+    "B": "Arab tilidan",
+    "C": "Lotin tilidan",
+    "D": "Fors tilidan",
+    "javob": "A"
+  },
+  {
+    "savol": "Leksikologiyaning predmeti nimalardan iborat?",
+    "A": "So`zning shakli va mazmuni, kelib chiqishi, ma`nodagi o`zgarishlari",
+    "B": "So`zlarning talaffuzi",
+    "C": "Gap bo`laklari",
+    "D": "Tovushlar tizimi",
+    "javob": "A"
+  },
+  {
+    "savol": "Umumiy leksikologiya nimani o`rganadi?",
+    "A": "Barcha tillarga xos umumiy qonuniyatlarni",
+    "B": "O`zbek tilini",
+    "C": "Arab tilini",
+    "D": "Rus tilini",
+    "javob": "A"
+  },
+  {
+    "savol": "Xususiy leksikologiya nimani o`rganadi?",
+    "A": "Muayyan bir tilning lug`at tarkibini",
+    "B": "Barcha tillarni umumiy",
+    "C": "Fonetika qonunlarini",
+    "D": "Morfologik shakllarni",
+    "javob": "A"
+  },
+  {
+    "savol": "Tarixiy leksikologiya nimalarni o`rganadi?",
+    "A": "So`zlarning kelib chiqishi va tarixiy o`zgarishlarini",
+    "B": "Sinonimlarni",
+    "C": "Antonimlarni",
+    "D": "So`z turkumlarini",
+    "javob": "A"
+  },
+  {
+    "savol": "Amaliy leksikologiyaning vazifasi nima?",
+    "A": "Lug`at tuzish, imlo va talaffuz me`yorlarini ishlab chiqishda qo`llaniladi",
+    "B": "Adabiy asar yozishda",
+    "C": "Fonetika darsida",
+    "D": "Tarixiy kitoblarda",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko`p ma`nolilik qanday hodisa?",
+    "A": "Bitta so`zning bir nechta ma`noga ega bo`lishi",
+    "B": "Bir nechta so`zning bitta ma`noga ega bo`lishi",
+    "C": "So`zlarning talaffuzdagi o`zgarishi",
+    "D": "So`zlarning tarixiy shakli",
+    "javob": "A"
+  },
+  {
+    "savol": "Omonimlar qanday so`zlar?",
+    "A": "Shakli bir xil, ma`nosi boshqa-boshqa so`zlar",
+    "B": "Ma`nodosh so`zlar",
+    "C": "Qarama-qarshi so`zlar",
+    "D": "Yangi so`zlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Sinonimlar qanday so`zlar?",
+    "A": "Ma`nodosh so`zlar",
+    "B": "Shakli bir xil, ma`nosi boshqa",
+    "C": "Qarama-qarshi so`zlar",
+    "D": "Tovushdosh so`zlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Antonimlar qanday so`zlar?",
+    "A": "Qarama-qarshi ma`noli so`zlar",
+    "B": "Ma`nodosh so`zlar",
+    "C": "Omonim so`zlar",
+    "D": "Bir xil yoziladigan so`zlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Paronimlar qanday so`zlar?",
+    "A": "Talaffuzi o`xshash, ma`nosi farqli so`zlar",
+    "B": "Ma`nodosh so`zlar",
+    "C": "Qarama-qarshi so`zlar",
+    "D": "Shakli bir xil so`zlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Etimologiya nimani o`rganadi?",
+    "A": "So`zlarning kelib chiqishini",
+    "B": "So`zlarning talaffuzini",
+    "C": "So`z turkumlarini",
+    "D": "Gap bo`laklarini",
+    "javob": "A"
+  },
+  {
+    "savol": "Semasiologiya nimani o`rganadi?",
+    "A": "So`z ma`nolarini va ularning o`zgarishini",
+    "B": "So`zlarning talaffuzini",
+    "C": "Tilning fonetik tizimini",
+    "D": "Gap tuzilishini",
+    "javob": "A"
+  },
+  {
+    "savol": "Onomasiologiya nimani o`rganadi?",
+    "A": "Narsalarga nom qo`yish qonuniyatlarini",
+    "B": "So`z ma`nolarini",
+    "C": "So`z turkumlarini",
+    "D": "Tovush tizimini",
+    "javob": "A"
+  },
+  {
+    "savol": "Frazeologiya nimani o`rganadi?",
+    "A": "Barqaror so`z birikmalarini",
+    "B": "So`zlarning talaffuzini",
+    "C": "Tilning tarixini",
+    "D": "Nutq apparatini",
+    "javob": "A"
+  },
+  {
+    "savol": "Onomastika nimani o`rganadi?",
+    "A": "Maxsus nomlarni",
+    "B": "Fonetika hodisalarini",
+    "C": "Gap bo`laklarini",
+    "D": "Qo`shimchalarni",
+    "javob": "A"
+  },
+  {
+    "savol": "So`zning shakli nimani anglatadi?",
+    "A": "Tovush qobig`ini",
+    "B": "Ma`nosini",
+    "C": "Gapdagi vazifasini",
+    "D": "Qo`shimchalarini",
+    "javob": "A"
+  },
+  {
+    "savol": "So`zning ma`nosi nimani bildiradi?",
+    "A": "Ifodalagan tushunchani",
+    "B": "Tovush qobig`ini",
+    "C": "Grammatik shaklini",
+    "D": "Talaffuzni",
+    "javob": "A"
+  },
+  {
+    "savol": "So`zning asosiy birligi qaysi?",
+    "A": "Gaplar so`zlardan tuziladi",
+    "B": "So`zlar gaplardan tuziladi",
+    "C": "So`zlar tovushlardan tuziladi",
+    "D": "So`zlar faqat qo`shimchalardan tuziladi",
+    "javob": "A"
+  },
+  {
+    "savol": "So`zning leksik ma`nosi nima?",
+    "A": "So`zning narsani, hodisani, belgi yoki harakatni ifodalash mazmuni",
+    "B": "So`zning talaffuzi",
+    "C": "So`zning yozilishi",
+    "D": "So`zning grammatik shakli",
+    "javob": "A"
+  },
+  {
+    "savol": "Asosiy (birlamchi) ma`no nimani bildiradi?",
+    "A": "So`zning to`g`ridan-to`g`ri, dastlabki ma`nosini",
+    "B": "So`zning ko`chma ma`nosini",
+    "C": "So`zning kontekstual ma`nosini",
+    "D": "So`zning frazeologik ma`nosini",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko`chma ma`no qanday yuzaga keladi?",
+    "A": "So`z asosiy ma`nosidan boshqa narsani ifodalashda ishlatilganda",
+    "B": "So`z kontekstdan tashqarida ishlatilganda",
+    "C": "Terminologiyada qo`llanganda",
+    "D": "Frazeologik birikmalarda qo`llanganda",
+    "javob": "A"
+  },
+  {
+    "savol": "To`g`ri (denotativ) ma`no qaysi?",
+    "A": "So`zning obyektiv reallikka bog`liq haqiqiy ma`nosi",
+    "B": "So`zning badiiy ma`nosi",
+    "C": "So`zning emotsional yuklamasi",
+    "D": "So`zning kontekstual ma`nosi",
+    "javob": "A"
+  },
+  {
+    "savol": "Kontekstual ma`no qanday aniqlanadi?",
+    "A": "muayyan nutq doirasida",
+    "B": "So`zning asosiy ma`nosiga qarab",
+    "C": "Frazeologik iboralardan",
+    "D": "Metafora orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Terminologik ma`no qaysi sohalarga xos?",
+    "A": "Maxsus ilmiy sohalarga",
+    "B": "Adabiyotga",
+    "C": "Xalq og`zaki ijodiga",
+    "D": "Kundalik nutqqa",
+    "javob": "A"
+  },
+  {
+    "savol": "Emotsional-ekspressiv ma`no nimani bildiradi?",
+    "A": "So`zning qo`shimcha his-tuyg`u yoki baholash yuklamasini",
+    "B": "So`zning to`g`ridan-to`g`ri ma`nosini",
+    "C": "So`zning ilmiy mazmunini",
+    "D": "So`zning kontekstual qo`llanilishini",
+    "javob": "A"
+  },
+  {
+    "savol": "Frazeologik ma`no qayerda yuzaga keladi?",
+    "A": "So`z birikmalari tarkibida barqaror ma`noda",
+    "B": "Kontekstdan tashqarida",
+    "C": "Grammatik qoida asosida",
+    "D": "Bitta so`z bilan",
+    "javob": "A"
+  },
+  {
+    "savol": "Metafora qanday ko`chishga asoslanadi?",
+    "A": "O`xshashlik asosida",
+    "B": "Yaqinlik asosida",
+    "C": "Butun-qism munosabatida",
+    "D": "Vazifadosh ko`chishda",
+    "javob": "A"
+  },
+  {
+    "savol": "Metonimiya qanday ko`chishga asoslanadi?",
+    "A": "Yaqinlik, bog`liqlik asosida",
+    "B": "O`xshashlik asosida",
+    "C": "Butun-qism asosida",
+    "D": "Simvolik ma`noda",
+    "javob": "A"
+  },
+  {
+    "savol": "Sinekdoxa qanday ko`chish?",
+    "A": "Butun – qism, qism – butun asosida",
+    "B": "O`xshashlik asosida",
+    "C": "Yaqinlik asosida",
+    "D": "Ramziy ko`chish asosida",
+    "javob": "A"
+  },
+  {
+    "savol": "Vazifa asosidagi ko`chishda so`z qanday ishlatiladi?",
+    "A": "Narsaning funksiyasi boshqa narsaga ko`chiriladi",
+    "B": "Ramziy ma`noda qo`llaniladi",
+    "C": "Emotsional ma`noda ishlatiladi",
+    "D": "Frazeologiyada uchraydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ramziy (simvolik) ko`chishda so`z qanday bo`ladi?",
+    "A": "Timsoliy ma`noga ega bo`ladi",
+    "B": "Grammatik ma`no bildiradi",
+    "C": "Kontekstdan kelib chiqadi",
+    "D": "Termin sifatida ishlatiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Sinonimiya nima?",
+    "A": "Bir xil yoki yaqin ma`noli so`zlarning mavjudligi hodisasi",
+    "B": "Ma`nosi qarama-qarshi so`zlar hodisasi",
+    "C": "Shakli bir xil, ma`nosi boshqa so`zlar hodisasi",
+    "D": "Yozilishi o`xshash, ma`nosi turlicha so`zlar hodisasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Sinonimlarning xususiyatlaridan biri qaysi?",
+    "A": "Ma`noda yaqin, ammo shakli turlicha bo`lishi",
+    "B": "Bir xil shaklda bo`lishi",
+    "C": "Dialektda qo`llanishi",
+    "D": "Termin sifatida ishlatilishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ma`no sinonimiga misolni toping:",
+    "A": "daryo – irmoq",
+    "B": "qorin – qom",
+    "C": "pomidor – pamata",
+    "D": "katta – kichik",
+    "javob": "A"
+  },
+  {
+    "savol": "Uslubiy sinonimga misol qaysi?",
+    "A": "qorin – qom",
+    "B": "daryo – irmoq",
+    "C": "pomidor – pamata",
+    "D": "oy – 12 oylik vaqt birligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Dialekt sinonimlarga misolni belgilang:",
+    "A": "pomidor – pamidor – pamata",
+    "B": "daryo – irmoq",
+    "C": "katta – kichik",
+    "D": "oq – qora",
+    "javob": "A"
+  },
+  {
+    "savol": "Omonim nima?",
+    "A": "Shakli bir xil, lekin ma`nosi har xil bo`lgan so`zlar",
+    "B": "Ma`noda yaqin, shakli turlicha so`zlar",
+    "C": "Ma`nosi qarama-qarshi so`zlar",
+    "D": "Yozilishi o`xshash, ma`nosi turlicha so`zlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Leksik omonimga misol:",
+    "A": "oy – (osmon jismi), (12 oylik vaqt birligi)",
+    "B": "yuz – (ot), (son)",
+    "C": "bor – (sifat), (fe`l)",
+    "D": "oq – qora",
+    "javob": "A"
+  },
+  {
+    "savol": "Leksik-grammatik omonimga misol:",
+    "A": "yuz – (ot: odam yuzi), (son: 100)",
+    "B": "oy – (osmon jismi), (12 oy)",
+    "C": "bor – (sifat), (fe`l)",
+    "D": "katta – kichik",
+    "javob": "A"
+  },
+  {
+    "savol": "Grammatik omonimga misol qaysi?",
+    "A": "bor – (sifat: mavjud), (fe`l: ketmoq)",
+    "B": "oy – (osmon jismi), (12 oy)",
+    "C": "yuz – (ot), (son)",
+    "D": "oq – qora",
+    "javob": "A"
+  },
+  {
+    "savol": "Antonim nima?",
+    "A": "Ma`nosi qarama-qarshi bo`lgan so`zlar",
+    "B": "Ma`nosi yaqin bo`lgan so`zlar",
+    "C": "Shakli bir xil, ma`nosi turlicha bo`lgan so`zlar",
+    "D": "Talaffuzi o`xshash, ma`nosi boshqa so`zlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Leksik yo`l bilan hosil bo`lgan antonimlarga misol:",
+    "A": "oq – qora, katta – kichik",
+    "B": "do`st – dushman",
+    "C": "yaqin – uzoq (kontekstda)",
+    "D": "savol – javob",
+    "javob": "A"
+  },
+  {
+    "savol": "So`z yasash yo`li bilan hosil bo`lgan antonimlarga misol:",
+    "A": "do`st – dushman, to`g`ri – noto`g`ri",
+    "B": "oq – qora",
+    "C": "katta – kichik",
+    "D": "pomidor – pamata",
+    "javob": "A"
+  },
+  {
+    "savol": "Kontekstual antonimga misol qaysi?",
+    "A": "Unga yaqin – mendan uzoq",
+    "B": "Oq – qora",
+    "C": "Do`st – dushman",
+    "D": "Bor – ketmoq",
+    "javob": "A"
+  },
+  {
+    "savol": "Paronim nima?",
+    "A": "Talaffuzi va yozilishi o`xshash, lekin ma`nosi turlicha bo`lgan so`zlar",
+    "B": "Ma`noda yaqin so`zlar",
+    "C": "Ma`nosi qarama-qarshi so`zlar",
+    "D": "Shakli bir xil, ma`nosi boshqa so`zlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Paronimlarga misolni toping:",
+    "A": "savol – javob, me`yor – mehnat",
+    "B": "oq – qora",
+    "C": "daryo – irmoq",
+    "D": "oy – 12 oy",
+    "javob": "A"
+  },
+  {
+    "savol": "Tilning eng harakatchan va boyib boruvchi qatlami qaysi?",
+    "A": "Leksika",
+    "B": "Fonetik tizim",
+    "C": "Morfologiya",
+    "D": "Sintaksis",
+    "javob": "A"
+  },
+  {
+    "savol": "Leksikaning o`zgaruvchanligi nimaga bog`liq?",
+    "A": "Jamiyat taraqqiyotiga",
+    "B": "Fonetik o`zgarishga",
+    "C": "Yozuv tizimiga",
+    "D": "Adabiyotga",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi so`zlardan qaysi biri tarixiy so`z hisoblanadi?",
+    "A": "mirshab",
+    "B": "sudya",
+    "C": "qo`riqchi",
+    "D": "kompyuter",
+    "javob": "A"
+  },
+  {
+    "savol": "So`z yasash orqali hosil bo`lgan so`zga misolni belgilang:",
+    "A": "o`qituvchi",
+    "B": "telefon",
+    "C": "sichqon (kompyuter qurilmasi)",
+    "D": "internet",
+    "javob": "A"
+  },
+  {
+    "savol": "O`zlashma so`zga misol:",
+    "A": "kompyuter",
+    "B": "o`qituvchi",
+    "C": "bilimdon",
+    "D": "kitobxon",
+    "javob": "A"
+  },
+  {
+    "savol": "Semantik yo`l bilan yaratilgan so`z qaysi?",
+    "A": "sichqon kompyuter qurilmasi",
+    "B": "kitobxon",
+    "C": "internet",
+    "D": "telefon",
+    "javob": "A"
+  },
+  {
+    "savol": "So`zlarning chiqib ketishiga nima sabab bo`ladi?",
+    "A": "Tarixiy voqealar va ijtimoiy o`zgarishlar",
+    "B": "Fonetik o`zgarish",
+    "C": "Imlo qoidalari",
+    "D": "Badiiy adabiyot",
+    "javob": "A"
+  },
+  {
+    "savol": "Neologizmlar qachon yaratiladi?",
+    "A": "Jamiyatda yangi tushuncha va ixtirolar paydo bo`lganda",
+    "B": "Tarixiy jarayonlarda",
+    "C": "Boshqa tillardan o`zlashganda",
+    "D": "She`riyatda",
+    "javob": "A"
+  }
+]
