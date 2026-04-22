@@ -178,7 +178,7 @@
         }
         .menu-card:active { transform: scale(0.97); }
 
-        /* Navigator nuqtalar - Yangilandi (Raqamli ko'rinish) */
+        /* Navigator nuqtalar */
         #nav-dots::-webkit-scrollbar {
             display: none;
         }
@@ -416,7 +416,7 @@
             <!-- Navigator nuqtalar -->
             <div id="nav-dots" class="flex gap-2.5 overflow-x-auto py-3 px-1 w-full snap-x"></div>
 
-            <!-- Tugmalar - "Ortga" tugmasi olib tashlandi -->
+            <!-- Tugmalar -->
             <div class="flex flex-row gap-2.5 mt-2">
                 <button id="finish-early-btn" onclick="checkAndFinishQuiz()"
                     class="nav-btn w-full py-3.5 rounded-xl font-bold text-xs md:text-sm transition-all active:scale-95"
@@ -505,7 +505,7 @@
                 "KM-MP(log)": ["Falsafa", "Mediasavodxonlik va axborot madaniyati", "Umumiy Psixologiya"],
                 "KM-NGT": ["Oliy matematika", "Kimyo", "O'zbekistonning eng yangi tarixi", "Fizika", "Ingliz tili", "Rus tili"],
                 "DAV-25": ["Odam anatomiyasi", "Tibbiy biologiya"],
-                "OHI-25": ["Odam anatomiyasi", "Tibbiy biologiya", "O'zbek (rus) tili", "Tibbiy kimyo", "Tibbiyotda axborot texconfiguration", "Lotin tili va tibbiy terminologiya", "O'zbek tilini sohada qo'llash"],
+                "OHI-25": ["Odam anatomiyasi", "Tibbiy biologiya", "O'zbek (rus) tili", "Tibbiy kimyo", "Tibbiyotda axborot texnologiyalari", "Lotin tili va tibbiy terminologiya", "O'zbek tilini sohada qo'llash"],
                 "KM-BIO": ["Botanika", "O'zbekistonning eng yangi tarixi", "Oliy matematika", "Sitologiya, gistologiya", "Umumiy kimyo va fizika", "Umumiy psixologiya"],
                 "KM-MT": ["Bolalar psixologiyasi va psixodiagnostikasi", "Bolalarni sahnalashtirish va ijodiy faoliyatga o'rgatish", "Rivojlantiruvchi markazlarni tashkil qilish texnologiyasi", "Mediasavodxonlik va axborot madaniyat", "Ilk va maktabgacha yoshdagi bolalar pedagogikasi", "Bolalarning ijtimoiy moslashuvi"],
                 "KM-BT": ["Amaliy rus tili", "Boshlang'ich matematika kursi nazariyasi", "Mediasavodxonlik", "O'zbek tilining sohada qo'llanilishi", "O'zbekistonning eng yangi tarixi", "Ona tili", "Umumiy psixologiya"]
@@ -555,12 +555,14 @@
         let currentDirection = '';
         let currentSubject = '';
 
-        // Taymër
+        // Taymër va render vaqtlari
         let timerInterval = null;
-        let elapsedSeconds = 0;
-
-        // Avtomatik o'tish uchun timeout
+        const TIME_LIMIT = 35 * 60; // 35 daqiqa (2100 soniya)
+        let remainingSeconds = TIME_LIMIT;
         let autoAdvanceTimeout = null;
+        
+        // GHOST CLICK (Arvoh bosish) lar oldini olish uchun Lock (qulf) vaqti
+        let questionRenderTime = 0; 
 
         // Swipe
         let touchStartX = 0;
@@ -752,10 +754,7 @@
             }
 
             directions.forEach((dir, i) => {
-                // Yo'nalish ichida nechta fan borligini sanaymiz
                 const subCount = (curriculumData[degree][dir] || []).length;
-                
-                // Asosiy nom sifatida dir (masalan KM-TMJ), tagiga esa nechta fan borligi yoziladi
                 dirList.appendChild(createMenuCard(dir, `Yo'nalishga kirish | ${subCount} ta fandan test mavjud`, 'icon-map-pin', () => selectDirection(dir), i));
             });
         }
@@ -823,11 +822,21 @@
 
         // ========== TAYMÈR ==========
         function startTimer() {
-            elapsedSeconds = 0;
+            remainingSeconds = TIME_LIMIT;
             updateTimerDisplay();
             timerInterval = setInterval(() => {
-                elapsedSeconds++;
+                remainingSeconds--;
                 updateTimerDisplay();
+
+                // Vaqt tugaganda avtomatik yakunlash
+                if (remainingSeconds <= 0) {
+                    stopTimer();
+                    showModal(
+                        "Vaqt tugadi!",
+                        "Test uchun ajratilgan 35 daqiqa o'z nihoyasiga yetdi. Natijalar hisoblanmoqda...",
+                        [{ text: "Natijani ko'rish", styleClass: "background:var(--primary);color:#fff;", action: finishQuiz }]
+                    );
+                }
             }, 1000);
         }
 
@@ -836,16 +845,19 @@
         }
 
         function updateTimerDisplay() {
-            const m = Math.floor(elapsedSeconds / 60);
-            const s = elapsedSeconds % 60;
+            const m = Math.floor(remainingSeconds / 60);
+            const s = remainingSeconds % 60;
             const display = `${String(m).padStart(2,'0')}:${String(s).padStart(2,'0')}`;
             const el = document.getElementById('timer-value');
             el.innerText = display;
 
-            // 2 daqiqadan o'tsa ogohlantirish
+            // 2 daqiqadan kam qolganda qizil ogohlantirish
             const box = document.getElementById('timer-box');
-            if (elapsedSeconds > 120) box.classList.add('timer-warning');
-            else box.classList.remove('timer-warning');
+            if (remainingSeconds <= 120 && remainingSeconds > 0) {
+                box.classList.add('timer-warning');
+            } else {
+                box.classList.remove('timer-warning');
+            }
         }
 
         function formatTime(seconds) {
@@ -927,27 +939,35 @@
         function normalizeQuestion(item) {
             let questionText = "", correctText = "", options = [];
 
+            // Savol va javoblarni tozalash (Trim - probellarni qirqish)
             if (item.savol && item.A) {
-                questionText = item.savol;
-                if (item.javob && ['A','B','C','D'].includes(String(item.javob).toUpperCase())) {
-                    correctText = item[String(item.javob).toUpperCase()];
+                questionText = String(item.savol).trim();
+                let j = String(item.javob || "").trim();
+                if (['A','B','C','D'].includes(j.toUpperCase())) {
+                    correctText = String(item[j.toUpperCase()] || "").trim();
                 } else {
-                    correctText = item.javob;
+                    correctText = j;
                 }
-                options = [item.A, item.B, item.C, item.D].filter(Boolean);
+                options = [item.A, item.B, item.C, item.D].filter(Boolean).map(s => String(s).trim());
             } else if (item.question && item.options && item.correct_option !== undefined) {
-                questionText = item.question;
-                correctText = item.options[item.correct_option];
-                options = [...item.options];
+                questionText = String(item.question).trim();
+                correctText = String(item.options[item.correct_option] || "").trim();
+                options = item.options.map(s => String(s).trim());
             } else if (item.question && item.options && item.answer) {
-                questionText = item.question;
-                correctText = item.answer;
-                options = [...item.options];
+                questionText = String(item.question).trim();
+                correctText = String(item.answer || "").trim();
+                options = item.options.map(s => String(s).trim());
             } else {
                 return null;
             }
 
             if (!questionText || options.length === 0) return null;
+
+            // Xatoliklarni oldini olish uchun "To'g'ri javob" aynan variantlar ro'yxatida bormi, yo'qmi tekshirish
+            if (!options.includes(correctText)) {
+                let matched = options.find(o => o.toLowerCase() === correctText.toLowerCase());
+                if (matched) correctText = matched; // Kichik/Katta harf farqi bo'lsa to'g'rilash
+            }
 
             const shuffled = [...options].sort(() => Math.random() - 0.5);
             return { q: questionText, correct: correctText, options: shuffled };
@@ -960,7 +980,7 @@
             quizQuestions.forEach((_, i) => {
                 const dot = document.createElement('div');
                 dot.className = 'nav-dot snap-center';
-                dot.innerText = i + 1; // Raqam qo'shildi
+                dot.innerText = i + 1;
                 dot.title = `Savol ${i + 1}`;
                 dot.onclick = () => jumpToQuestion(i);
                 container.appendChild(dot);
@@ -971,14 +991,13 @@
         function updateNavDots() {
             const dots = document.querySelectorAll('.nav-dot');
             dots.forEach((dot, i) => {
-                dot.className = 'nav-dot snap-center'; // Asosiy klassni yangilaymiz
+                dot.className = 'nav-dot snap-center'; 
                 if (i === currentIndex) dot.classList.add('active');
                 else if (userAnswers[i] !== null) {
                     dot.classList.add(userAnswers[i] === quizQuestions[i].correct ? 'answered-correct' : 'answered-wrong');
                 }
             });
 
-            // Faol nuqtani markazda ko'rish uchun scroll
             const activeDot = document.querySelector('.nav-dot.active');
             if (activeDot) activeDot.scrollIntoView({ behavior: 'smooth', block: 'nearest', inline: 'center' });
         }
@@ -993,6 +1012,9 @@
 
         // ========== SAVOL KO'RSATISH ==========
         function showQuestion(animClass = 'animate-fade') {
+            // Yangi savol render bo'lganda ghost-click oldini olish uchun Lock vaqtini yangilash
+            questionRenderTime = Date.now();
+
             const data = quizQuestions[currentIndex];
             const userAnswer = userAnswers[currentIndex];
 
@@ -1000,7 +1022,6 @@
             document.getElementById('progress-bar').style.width = ((currentIndex / quizQuestions.length) * 100) + '%';
             document.getElementById('question-text').innerHTML = data.q;
 
-            // Savol kartasini animatsiya qilish
             const qCard = document.getElementById('question-card');
             qCard.className = qCard.className.replace(/animate-\w+/g, '');
             qCard.classList.add(animClass);
@@ -1025,11 +1046,15 @@
                 `;
 
                 if (userAnswer !== null) {
-                    btn.disabled = true;
+                    // Agar bu savol oldin ishlangan bo'lsa
+                    btn.disabled = false; 
+                    btn.style.cursor = 'pointer';
                     btn.style.opacity = opt === userAnswer || opt === data.correct ? '1' : '0.5';
+                    
                     if (opt === data.correct) btn.classList.add('correct');
                     if (opt === userAnswer && opt !== data.correct) btn.classList.add('wrong');
                     
+                    // Oldin ishlangan test variantlaridan birortasini bossa keyingisiga o'tib ketadi
                     btn.onclick = () => {
                         clearTimeout(autoAdvanceTimeout);
                         if (currentIndex < quizQuestions.length - 1) {
@@ -1039,10 +1064,8 @@
                             checkAndFinishQuiz();
                         }
                     };
-                    btn.disabled = false; 
-                    btn.style.cursor = 'pointer';
-
                 } else {
+                    // Yangi savol uchun
                     btn.onclick = () => checkAnswer(btn, opt);
                 }
                 optionsBox.appendChild(btn);
@@ -1050,7 +1073,7 @@
 
             if (userAnswer !== null) {
                 const isCorrect = userAnswer === data.correct;
-                showFeedback(isCorrect ? "To'g'ri! 🌟 (Keyingiga o'tish uchun bosing)" : "Noto'g'ri ❌ (Keyingiga o'tish uchun bosing)", isCorrect ? 'correct' : 'error');
+                showFeedback(isCorrect ? "To'g'ri! 🌟" : "Noto'g'ri ❌", isCorrect ? 'correct' : 'error');
             }
 
             updateNavDots();
@@ -1072,22 +1095,23 @@
 
         // ========== JAVOB TEKSHIRISH ==========
         function checkAnswer(btn, selected) {
+            // 1. Ghost click qulfi: savol chiqqaniga 300ms bo'lmagan bo'lsa bekor qilish (double tap oldini olish)
+            if (Date.now() - questionRenderTime < 300) return;
+            
+            // 2. Takroriy bosishni qulflash
+            if (userAnswers[currentIndex] !== null) return; 
+
             clearTimeout(autoAdvanceTimeout);
             const data = quizQuestions[currentIndex];
             const isCorrect = selected === data.correct;
             userAnswers[currentIndex] = selected;
 
+            // Barcha tugmalarni darhol o'chiramizki, yana bosib bo'lmasin
             const allBtns = document.querySelectorAll('.option-btn');
             allBtns.forEach(b => {
-                b.onclick = () => {
-                    clearTimeout(autoAdvanceTimeout);
-                    if (currentIndex < quizQuestions.length - 1) {
-                        currentIndex++;
-                        showQuestion('animate-slide-right');
-                    } else {
-                        checkAndFinishQuiz();
-                    }
-                };
+                b.disabled = true;
+                b.style.cursor = 'default';
+                
                 const val = b.dataset.value;
                 if (val === data.correct) {
                     b.classList.add('correct');
@@ -1214,7 +1238,10 @@
             // Statistika
             document.getElementById('stat-correct').innerText = correctTotal;
             document.getElementById('stat-wrong').innerText = wrongTotal + unanswered;
-            document.getElementById('stat-time').innerText = formatTime(elapsedSeconds);
+            
+            // Sarflangan vaqtni hisoblash
+            const timeSpent = TIME_LIMIT - remainingSeconds;
+            document.getElementById('stat-time').innerText = formatTime(timeSpent);
 
             // Eng yaxshi natijani tekshirish va saqlash
             const storageKey = `best_${currentDegree}_${currentDirection}_${currentSubject}`;
@@ -1239,7 +1266,6 @@
             function update(currentTime) {
                 const elapsed = currentTime - startTime;
                 const progress = Math.min(elapsed / duration, 1);
-                // easeOutCubic
                 const eased = 1 - Math.pow(1 - progress, 3);
                 const current = Math.round(start + (end - start) * eased);
                 el.innerText = current + suffix;
@@ -1273,22 +1299,23 @@
         // ========== KLAVIATURA NAVIGATSIYASI ==========
         function setupKeyboardNav() {
             document.addEventListener('keydown', (e) => {
-                // Faqat test ekrani ochiq bo'lganda
                 if (document.getElementById('quiz-screen').classList.contains('hidden')) return;
-                // Modal ochiq bo'lsa ignore
                 if (!document.getElementById('custom-modal').classList.contains('hidden')) return;
 
                 if (e.key === 'ArrowRight' || e.key === 'd') {
                     e.preventDefault();
+                    if (Date.now() - questionRenderTime < 300) return;
                     nextQuestion();
                 } else if (e.key === 'ArrowLeft' || e.key === 'a') {
                     e.preventDefault();
+                    if (Date.now() - questionRenderTime < 300) return;
                     prevQuestion();
                 } else if (e.key >= '1' && e.key <= '4') {
                     e.preventDefault();
+                    if (Date.now() - questionRenderTime < 300) return; // Klaviatura auto-repeat blokirovkasi
+                    
                     const idx = parseInt(e.key) - 1;
                     const btns = document.querySelectorAll('.option-btn:not(:disabled)');
-                    // agar btn.disabled bo'lmasa click qilish
                     if (btns[idx] && !btns[idx].hasAttribute('disabled')) btns[idx].click();
                 }
             });
@@ -1314,12 +1341,11 @@
 
             if (Math.abs(diff) < threshold) return;
             if (document.getElementById('quiz-screen').classList.contains('hidden')) return;
+            if (Date.now() - questionRenderTime < 300) return; // Swipe lock
 
             if (diff > 0) {
-                // Chapga surish → keyingi
                 nextQuestion();
             } else {
-                // O'ngga surish → oldingi
                 prevQuestion();
             }
         }
