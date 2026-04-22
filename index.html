@@ -250,13 +250,9 @@
 
             <!-- Tugmalar bir qatorda -->
             <div class="flex flex-row gap-2">
-                <button id="prev-btn" onclick="prevQuestion()"
-                    class="nav-btn flex-1 bg-slate-100 text-slate-400 py-3 rounded-xl font-bold text-xs md:text-sm transition-all active:scale-95 disabled:opacity-40">
-                    Ortga
-                </button>
                 <button id="finish-early-btn" onclick="checkAndFinishQuiz()"
-                    class="nav-btn flex-1 bg-red-50 text-red-600 py-3 rounded-xl font-bold text-xs md:text-sm border border-red-100 transition-all active:scale-95">
-                    Yakunlash
+                    class="nav-btn w-full bg-red-50 text-red-600 py-3 rounded-xl font-bold text-xs md:text-sm border border-red-100 transition-all active:scale-95">
+                    Testni yakunlash
                 </button>
             </div>
         </div>
@@ -710,11 +706,9 @@
 
             const optionsBox = document.getElementById('options-container');
             const feedback = document.getElementById('feedback');
-            const prevBtn = document.getElementById('prev-btn');
 
             optionsBox.innerHTML = '';
             feedback.classList.add('hidden');
-            prevBtn.disabled = currentIndex === 0;
 
             data.options.forEach((opt, i) => {
                 const btn = document.createElement('button');
@@ -802,14 +796,6 @@
                     checkAndFinishQuiz();
                 }
             }, 1200);
-        }
-
-        function prevQuestion() {
-            clearTimeout(autoAdvanceTimeout);
-            if (currentIndex > 0) {
-                currentIndex--;
-                showQuestion();
-            }
         }
 
         // Testni erta yakunlash bosilganda Modal orqali so'rash
