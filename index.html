@@ -107,7 +107,7 @@
             overflow-y: hidden;
             vertical-align: middle;
         }
-        
+
         mjx-container[display="true"] {
             display: block !important;
             overflow-x: auto;
@@ -181,7 +181,8 @@
         <div id="degree-screen" class="animate-fade">
             <div class="bg-white rounded-3xl p-4 md:p-8 shadow-sm border border-slate-100 relative overflow-hidden">
                 <div class="absolute top-0 left-0 w-full h-1 bg-blue-600"></div>
-                <h2 class="text-lg md:text-xl font-extrabold text-slate-800 mb-4 md:mb-5 break-words-custom">Ta'lim darajasini tanlang:</h2>
+                <h2 class="text-lg md:text-xl font-extrabold text-slate-800 mb-4 md:mb-5 break-words-custom">Ta'lim
+                    darajasini tanlang:</h2>
                 <div class="space-y-3">
                     <button onclick="selectDegree('Bakalavriat')"
                         class="w-full bg-white hover:bg-slate-50 border-2 border-blue-50 p-3.5 md:p-4 rounded-2xl text-left transition-all active:scale-95 flex items-center justify-between group shadow-sm">
@@ -215,7 +216,8 @@
         <div id="directions-screen" class="hidden animate-fade">
             <div class="bg-white rounded-3xl p-4 md:p-8 shadow-sm border border-slate-100 relative overflow-hidden">
                 <div class="absolute top-0 left-0 w-full h-1 bg-blue-600"></div>
-                <h2 class="text-lg md:text-xl font-extrabold text-slate-800 mb-4 md:mb-5 break-words-custom">Yo'nalishni tanlang:</h2>
+                <h2 class="text-lg md:text-xl font-extrabold text-slate-800 mb-4 md:mb-5 break-words-custom">Yo'nalishni
+                    tanlang:</h2>
                 <div id="direction-list" class="space-y-3">
                     <!-- Dynamic Directions Render Here -->
                 </div>
@@ -226,7 +228,8 @@
         <div id="subjects-screen" class="hidden animate-fade">
             <div class="bg-white rounded-3xl p-4 md:p-8 shadow-sm border border-slate-100 relative overflow-hidden">
                 <div class="absolute top-0 left-0 w-full h-1 bg-blue-600"></div>
-                <h2 class="text-lg md:text-xl font-extrabold text-slate-800 mb-4 md:mb-5 break-words-custom">Fanni tanlang:</h2>
+                <h2 class="text-lg md:text-xl font-extrabold text-slate-800 mb-4 md:mb-5 break-words-custom">Fanni
+                    tanlang:</h2>
 
                 <div id="subject-list" class="space-y-3">
                     <!-- Dynamic Subjects Render Here -->
@@ -255,19 +258,23 @@
             </div>
 
             <!-- Savollar navigatsiyasi -->
-            <div id="question-nav" class="flex gap-2 overflow-x-auto py-2 px-1 scrollbar-hide snap-x items-center w-full">
+            <div id="question-nav"
+                class="flex gap-2 overflow-x-auto py-2 px-1 scrollbar-hide snap-x items-center w-full">
             </div>
 
             <!-- Savol qismi gorizontal skroll xususiyati bilan -->
             <div
                 class="bg-white rounded-2xl p-4 md:p-6 shadow-sm border border-slate-100 min-h-[90px] flex items-center overflow-x-auto w-full">
                 <h3 id="question-text"
-                    class="question-text text-base md:text-lg font-bold text-slate-800 leading-relaxed w-full break-words-custom"></h3>
+                    class="question-text text-base md:text-lg font-bold text-slate-800 leading-relaxed w-full break-words-custom">
+                </h3>
             </div>
 
             <div id="options-container" class="grid gap-2 w-full"></div>
 
-            <div id="feedback" class="hidden animate-fade p-2.5 rounded-xl text-center font-bold text-sm break-words-custom w-full"></div>
+            <div id="feedback"
+                class="hidden animate-fade p-2.5 rounded-xl text-center font-bold text-sm break-words-custom w-full">
+            </div>
 
             <!-- Tugmalar bir qatorda -->
             <div class="flex flex-row gap-2 w-full pt-2">
@@ -291,7 +298,8 @@
                 <p id="result-summary" class="text-sm text-slate-500 mb-6 font-medium break-words-custom"></p>
                 <div class="grid grid-cols-2 gap-2">
                     <button onclick="restartQuiz()"
-                        class="bg-slate-900 text-white py-3 px-2 rounded-xl font-bold text-sm transition-transform active:scale-95 truncate">Qayta urinish</button>
+                        class="bg-slate-900 text-white py-3 px-2 rounded-xl font-bold text-sm transition-transform active:scale-95 truncate">Qayta
+                        urinish</button>
                     <button onclick="goHome()"
                         class="bg-slate-100 text-slate-600 py-3 px-2 rounded-xl font-bold text-sm transition-transform active:scale-95 truncate">Menyu</button>
                 </div>
@@ -300,10 +308,13 @@
     </div>
 
     <!-- Custom Modal Oynasi (Tasdiqlash uchun) - Moslashuvchan qilingan -->
-    <div id="custom-modal" class="hidden fixed inset-0 z-50 flex items-center justify-center bg-slate-900/40 backdrop-blur-sm p-4">
-        <div class="bg-white rounded-3xl p-6 md:p-8 max-w-[90%] sm:max-w-sm w-full shadow-2xl animate-fade max-h-[85vh] overflow-y-auto flex flex-col">
+    <div id="custom-modal"
+        class="hidden fixed inset-0 z-50 flex items-center justify-center bg-slate-900/40 backdrop-blur-sm p-4">
+        <div
+            class="bg-white rounded-3xl p-6 md:p-8 max-w-[90%] sm:max-w-sm w-full shadow-2xl animate-fade max-h-[85vh] overflow-y-auto flex flex-col">
             <h3 id="modal-title" class="text-lg font-extrabold text-slate-800 mb-2 break-words-custom">Tasdiqlash</h3>
-            <p id="modal-desc" class="text-slate-500 text-sm mb-6 leading-relaxed break-words-custom overflow-y-auto"></p>
+            <p id="modal-desc" class="text-slate-500 text-sm mb-6 leading-relaxed break-words-custom overflow-y-auto">
+            </p>
             <div id="modal-buttons" class="flex gap-2 w-full mt-auto">
                 <!-- Tugmalar dinamik qo'shiladi -->
             </div>
@@ -323,7 +334,9 @@
                 "KM-BIO": ["Botanika", "O’zbekistonning eng yangi tarixi", "Oliy matematika", "Sitologiya, gistologiya", "Umumiy kimyo va fizika", "Umumiy psixologiya"],
                 "KM-MT": ["Bolalar psixologiyasi va psixodiagnostikasi", "Bolalarni sahnalashtirish va ijodiy faoliyatga o'rgatish", "Rivojlantiruvchi markazlarni tashkil qilish texnologiyasi", "Mediasavodxonlik va axborot madaniyat", "Ilk va maktabgacha yoshdagi bolalar pedagogikasi", "Bolalarning ijtimoiy moslashuvi"],
                 "KM-BT": ["Amaliy rus tili", "Boshlang'ich matematika kursi nazariyasi", "Mediasavodxonlik", "O`zbek tilining sohada qo'llanilishi", "O’zbekistonning eng yangi tarixi", "Ona tili", "Umumiy psixologiya"],
-                "KM-Siyosatshunoslik": ["Siyosiy ta`limotlar tarixi", "Konstitutsiyaviy huquq", "Xorijiy til", "Siyosatshunoslikka kirish"]
+                "KM-Siyosatshunoslik": ["Siyosiy ta`limotlar tarixi", "Konstitutsiyaviy huquq", "Xorijiy til", "Siyosatshunoslikka kirish"],
+                "DAV-24": ["Odam anatomiyasi", "Psixologiya", "Normal fiziologiya", "Mikrobiologiya, immunologiya, virusologiya", "Gistologiya, sitologiya va embriologiya", "Biokimyo", "Bioetika"],
+                "STOM-24": []
             },
             "Magistratura": {
                 "MM-IQ": ["Maxsus fanlar o`qitish metodikasi", "Ekonometrika", "Ilmiy tadqiqot metodologiyasi", "Mikroiqtisodiyot"]
@@ -369,7 +382,7 @@
             const m = Math.floor(timeRemaining / 60);
             const s = timeRemaining % 60;
             document.getElementById('time-left').innerText = `${m.toString().padStart(2, '0')}:${s.toString().padStart(2, '0')}`;
-            
+
             const timerBadge = document.getElementById('timer-badge');
             if (timeRemaining <= 180 && timeRemaining > 0) {
                 timerBadge.classList.replace('bg-red-50', 'bg-red-600');
@@ -391,10 +404,10 @@
         function showModal(title, desc, buttons) {
             document.getElementById('modal-title').innerText = title;
             document.getElementById('modal-desc').innerHTML = desc;
-            
+
             const btnContainer = document.getElementById('modal-buttons');
             btnContainer.innerHTML = '';
-            
+
             buttons.forEach(btn => {
                 const button = document.createElement('button');
                 button.className = `flex-1 py-3 px-2 rounded-xl font-bold text-xs md:text-sm transition-all active:scale-95 break-words-custom w-full ${btn.styleClass}`;
@@ -419,7 +432,7 @@
             const navContainer = document.getElementById('question-nav');
             if (!navContainer) return;
             navContainer.innerHTML = '';
-            
+
             quizQuestions.forEach((_, i) => {
                 const btn = document.createElement('button');
                 const isAnswered = userAnswers[i] !== null;
@@ -441,7 +454,7 @@
                 btn.onclick = () => {
                     clearTimeout(autoAdvanceTimeout);
                     currentIndex = i;
-                    showQuestion(); 
+                    showQuestion();
                 };
                 navContainer.appendChild(btn);
             });
@@ -472,7 +485,7 @@
             currentDegree = degree;
             document.getElementById('degree-screen').classList.add('hidden');
             document.getElementById('directions-screen').classList.remove('hidden');
-            
+
             document.getElementById('back-home-btn').classList.remove('hidden');
             document.getElementById('back-home-btn').onclick = goBackToDegree;
             document.getElementById('logo-icon').classList.add('hidden');
@@ -506,7 +519,7 @@
             document.getElementById('back-home-btn').classList.add('hidden');
             document.getElementById('logo-icon').classList.remove('hidden');
             document.getElementById('sub-title').innerText = "Ta'lim darajasini tanlang";
-            
+
             currentDegree = '';
             currentDirection = '';
         }
@@ -524,7 +537,7 @@
             // Ob'ektdan fanlarni olish
             let subjects = (curriculumData[currentDegree] && curriculumData[currentDegree][dir]) ? curriculumData[currentDegree][dir] : [];
 
-            if(subjects.length === 0) {
+            if (subjects.length === 0) {
                 subjectsList.innerHTML = `<p class="text-center text-sm text-slate-400 font-medium py-4">Ushbu yo'nalish uchun fanlar hozircha kiritilmagan.</p>`;
             } else {
                 subjects.forEach(subj => {
@@ -546,10 +559,10 @@
         function goBackToDirections() {
             document.getElementById('subjects-screen').classList.add('hidden');
             document.getElementById('directions-screen').classList.remove('hidden');
-            
+
             document.getElementById('back-home-btn').onclick = goBackToDegree;
             document.getElementById('sub-title').innerText = currentDegree.toUpperCase();
-            
+
             currentDirection = '';
             currentSubject = '';
         }
@@ -577,12 +590,12 @@
             document.getElementById('quiz-screen').classList.add('hidden');
             document.getElementById('result-screen').classList.add('hidden');
             document.getElementById('quiz-badge').classList.add('hidden');
-            
+
             document.getElementById('subjects-screen').classList.remove('hidden');
-            
+
             document.getElementById('back-home-btn').onclick = goBackToDirections;
             document.getElementById('sub-title').innerText = currentDirection.toUpperCase();
-            
+
             currentSubject = '';
             quizQuestions = [];
             userAnswers = [];
@@ -602,7 +615,7 @@
                 const encodedSubj = subjectName.split(' ').join('%20');
                 const url = `./${encodedDir}/${encodedSubj}.json`;
                 const response = await fetch(url);
-                
+
                 if (!response.ok) throw new Error(`Fayl topilmadi`);
 
                 let data = await response.json();
@@ -696,7 +709,7 @@
                 showQuestion();
             } catch (error) {
                 console.error("Xatolik:", error);
-                
+
                 // Custom modal orqali xatoni ko'rsatish
                 showModal(
                     "Test mavjud emas",
@@ -705,7 +718,7 @@
                         { text: "Tushunarli", styleClass: "bg-blue-600 text-white", action: null }
                     ]
                 );
-                
+
                 subjectList.classList.remove('hidden');
             } finally {
                 spinner.classList.add('hidden');
@@ -717,11 +730,11 @@
             const userAnswer = userAnswers[currentIndex];
 
             document.getElementById('current-badge').innerText = currentIndex + 1;
-            
+
             // Progress barni faqat ishlangan savollar soniga qarab to'ldirish
             const answeredCount = userAnswers.filter(a => a !== null).length;
             document.getElementById('progress-bar').style.width = ((answeredCount / quizQuestions.length) * 100) + '%';
-            
+
             updateQuestionNav(true); // Navigatsiyani yangilash va scroll qilish
 
             document.getElementById('question-text').innerHTML = data.q;
@@ -748,7 +761,7 @@
                 if (userAnswer !== null) {
                     if (opt === data.correct) btn.classList.add('correct');
                     if (opt === userAnswer && opt !== data.correct) btn.classList.add('wrong');
-                    
+
                     // Oldingi savolni ko'rayotganda istalgan variant bosilsa, oldinga o'tib ketish
                     btn.onclick = () => {
                         clearTimeout(autoAdvanceTimeout);
@@ -803,9 +816,9 @@
                 });
             }
             showStatus(isCorrect ? "To'g'ri! 🌟" : "Noto'g'ri ❌", isCorrect ? 'correct' : 'error');
-            
+
             updateQuestionNav(false); // Tepani yangilash
-            
+
             const answeredCount = userAnswers.filter(a => a !== null).length;
             document.getElementById('progress-bar').style.width = ((answeredCount / quizQuestions.length) * 100) + '%';
 
@@ -817,7 +830,7 @@
                 } else {
                     checkAndFinishQuiz();
                 }
-            }, 2000);
+            }, 2500);
         }
 
         // Testni erta yakunlash bosilganda Modal orqali so'rash
