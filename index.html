@@ -80,6 +80,16 @@
             animation: fadeIn 0.3s ease-out forwards;
         }
 
+        /* YANGLI QISM: Scrollbar'ni yashirish uchun */
+        .scrollbar-hide::-webkit-scrollbar {
+            display: none;
+        }
+
+        .scrollbar-hide {
+            -ms-overflow-style: none;
+            scrollbar-width: none;
+        }
+
         @media (max-width: 480px) {
             .subject-btn-title {
                 font-size: 0.85rem;
@@ -224,6 +234,10 @@
                 <div id="progress-bar" class="h-full bg-blue-600 transition-all duration-300" style="width: 0%"></div>
             </div>
 
+            <!-- YANGLI QISM: Savollar navigatsiyasi -->
+            <div id="question-nav" class="flex gap-2 overflow-x-auto py-2 px-1 scrollbar-hide snap-x items-center">
+            </div>
+
             <div
                 class="bg-white rounded-2xl p-5 md:p-6 shadow-sm border border-slate-100 min-h-[100px] flex items-center">
                 <h3 id="question-text"
@@ -239,6 +253,10 @@
                 <button id="prev-btn" onclick="prevQuestion()"
                     class="nav-btn flex-1 bg-slate-100 text-slate-400 py-3 rounded-xl font-bold text-xs md:text-sm transition-all active:scale-95 disabled:opacity-40">
                     Ortga
+                </button>
+                <button id="next-btn" onclick="nextQuestion()"
+                    class="nav-btn flex-[1.5] bg-blue-600 text-white py-3 rounded-xl font-bold text-xs md:text-sm shadow-lg transition-all active:scale-95">
+                    Keyingi
                 </button>
                 <button id="finish-early-btn" onclick="checkAndFinishQuiz()"
                     class="nav-btn flex-1 bg-red-50 text-red-600 py-3 rounded-xl font-bold text-xs md:text-sm border border-red-100 transition-all active:scale-95">
@@ -308,7 +326,6 @@
         let currentSubject = '';
 
         // Timer va Auto-advance o'zgaruvchilari
-        let autoAdvanceTimeout = null;
         let quizTimer = null;
         let timeRemaining = 35 * 60; // 35 daqiqa (soniyalarda)
 
@@ -379,6 +396,46 @@
 
         function closeModal() {
             document.getElementById('custom-modal').classList.add('hidden');
+        }
+        // -----------------------------
+
+        // --- YANGLI QISM: Savollar Navigatsiyasini chizish ---
+        function updateQuestionNav(scrollToActive = false) {
+            const navContainer = document.getElementById('question-nav');
+            if (!navContainer) return;
+            navContainer.innerHTML = '';
+            
+            quizQuestions.forEach((_, i) => {
+                const btn = document.createElement('button');
+                const isAnswered = userAnswers[i] !== null;
+                const isCurrent = i === currentIndex;
+
+                btn.className = `w-9 h-9 md:w-10 md:h-10 rounded-xl flex-shrink-0 flex items-center justify-center font-bold text-sm transition-all shadow-sm snap-center `;
+
+                if (isAnswered) {
+                    btn.className += 'bg-blue-600 text-white ';
+                } else {
+                    btn.className += 'bg-slate-100 text-slate-500 border border-slate-200 ';
+                }
+
+                if (isCurrent) {
+                    btn.className += 'ring-4 ring-blue-200 scale-110 ';
+                }
+
+                btn.innerText = i + 1;
+                btn.onclick = () => {
+                    currentIndex = i;
+                    showQuestion(); 
+                };
+                navContainer.appendChild(btn);
+            });
+
+            if (scrollToActive) {
+                const activeBtn = navContainer.children[currentIndex];
+                if (activeBtn) {
+                    activeBtn.scrollIntoView({ behavior: 'smooth', inline: 'center', block: 'nearest' });
+                }
+            }
         }
         // -----------------------------
 
@@ -498,7 +555,6 @@
         }
 
         function executeGoBackToSubjects() {
-            clearTimeout(autoAdvanceTimeout);
             stopTimer();
 
             document.getElementById('quiz-screen').classList.add('hidden');
@@ -644,16 +700,27 @@
             const userAnswer = userAnswers[currentIndex];
 
             document.getElementById('current-badge').innerText = currentIndex + 1;
-            document.getElementById('progress-bar').style.width = ((currentIndex / quizQuestions.length) * 100) + '%';
+            
+            // Progress barni faqat ishlangan savollar soniga qarab to'ldirish
+            const answeredCount = userAnswers.filter(a => a !== null).length;
+            document.getElementById('progress-bar').style.width = ((answeredCount / quizQuestions.length) * 100) + '%';
+            
+            updateQuestionNav(true); // Navigatsiyani yangilash va scroll qilish
+
             document.getElementById('question-text').innerHTML = data.q;
 
             const optionsBox = document.getElementById('options-container');
             const feedback = document.getElementById('feedback');
             const prevBtn = document.getElementById('prev-btn');
+            const nextBtn = document.getElementById('next-btn');
 
             optionsBox.innerHTML = '';
             feedback.classList.add('hidden');
             prevBtn.disabled = currentIndex === 0;
+
+            // Keyingi tugmasi oxirgi savolda "Natijani ko'rish" ga o'zgaradi
+            nextBtn.classList.remove('hidden');
+            nextBtn.innerText = (currentIndex === quizQuestions.length - 1) ? "Natijani ko'rish" : "Keyingi";
 
             data.options.forEach((opt, i) => {
                 const btn = document.createElement('button');
@@ -669,19 +736,9 @@
                 `;
 
                 if (userAnswer !== null) {
+                    btn.disabled = true;
                     if (opt === data.correct) btn.classList.add('correct');
                     if (opt === userAnswer && opt !== data.correct) btn.classList.add('wrong');
-                    
-                    // Oldingi savolni qayta ko'rayotganda variantlardan biriga bosilsa oldinga o'tish
-                    btn.onclick = () => {
-                        clearTimeout(autoAdvanceTimeout);
-                        if (currentIndex < quizQuestions.length - 1) {
-                            currentIndex++;
-                            showQuestion();
-                        } else {
-                            checkAndFinishQuiz();
-                        }
-                    };
                 } else {
                     btn.onclick = () => checkAnswer(btn, opt);
                 }
@@ -690,14 +747,13 @@
 
             if (userAnswer !== null) {
                 const isCorrect = userAnswer === data.correct;
-                showStatus(isCorrect ? "To'g'ri! 🌟 (Oldinga o'tish uchun bosing)" : "Noto'g'ri ❌ (Oldinga o'tish uchun bosing)", isCorrect ? 'correct' : 'error');
+                showStatus(isCorrect ? "To'g'ri! 🌟" : "Noto'g'ri ❌", isCorrect ? 'correct' : 'error');
             }
 
             typesetMath();
         }
 
         function checkAnswer(btn, selected) {
-            clearTimeout(autoAdvanceTimeout);
             const data = quizQuestions[currentIndex];
             const isCorrect = selected === data.correct;
             userAnswers[currentIndex] = selected;
@@ -717,19 +773,22 @@
             }
             showStatus(isCorrect ? "To'g'ri! 🌟" : "Noto'g'ri ❌", isCorrect ? 'correct' : 'error');
             
-            // Avtomatik keyingi savolga o'tish
-            autoAdvanceTimeout = setTimeout(() => {
-                if (currentIndex < quizQuestions.length - 1) {
-                    currentIndex++;
-                    showQuestion();
-                } else {
-                    checkAndFinishQuiz();
-                }
-            }, 1200);
+            updateQuestionNav(false); // Tepani yangilash
+            
+            const answeredCount = userAnswers.filter(a => a !== null).length;
+            document.getElementById('progress-bar').style.width = ((answeredCount / quizQuestions.length) * 100) + '%';
+        }
+
+        function nextQuestion() {
+            if (currentIndex < quizQuestions.length - 1) {
+                currentIndex++;
+                showQuestion();
+            } else {
+                checkAndFinishQuiz();
+            }
         }
 
         function prevQuestion() {
-            clearTimeout(autoAdvanceTimeout);
             if (currentIndex > 0) {
                 currentIndex--;
                 showQuestion();
@@ -754,7 +813,6 @@
         }
 
         function finishQuiz() {
-            clearTimeout(autoAdvanceTimeout);
             stopTimer();
 
             document.getElementById('quiz-screen').classList.add('hidden');
@@ -781,7 +839,6 @@
         }
 
         function goHome() {
-            clearTimeout(autoAdvanceTimeout);
             stopTimer();
 
             document.getElementById('quiz-screen').classList.add('hidden');
