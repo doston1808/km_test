@@ -1,0 +1,2026 @@
+[
+  {
+    "savol": "Chuqur nafas chiqargandan keyin o`pkada … qoladi.",
+    "A": "qoldik havo hajmi",
+    "B": "hech nima qolmaydi",
+    "C": "rezerv havo hajmi",
+    "D": "qo`shimcha havo hajmi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi ferment dipeptidlarni aminokislotagacha parchalaydi",
+    "A": "Aminopeptidaza",
+    "B": "Tripsin",
+    "C": "elastaza",
+    "D": "maltaza",
+    "javob": "A"
+  },
+  {
+    "savol": "Filtratsiyalanuvchi suyuqlik",
+    "A": "qon plazmasi",
+    "B": "ikkilamchi siydik",
+    "C": "suv",
+    "D": "shaklli elementlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Filtratsiya uchun muhim…",
+    "A": "samarali filtratsion bosim",
+    "B": "osmotik bosim past bo`lishi",
+    "C": "faqat onkotik bosim",
+    "D": "faqat kapsula bosimi",
+    "javob": "A"
+  },
+  {
+    "savol": "Filtratsiya uchun filtrni ko`rsating.",
+    "A": "endoteliy, bazal membrana, podosit",
+    "B": "seroz parda",
+    "C": "proksimal va distal naycha",
+    "D": "proksimal naycha, genli halqasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Reabsorbsiya bu… .",
+    "A": "Ikkilamchi siydikning hosil bo`lishi",
+    "B": "Birlamchi siydikning hosil bo`lishi",
+    "C": "Bu siydikning chiqarilishi",
+    "D": "Bu filtratsiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Aktiv reabsorbsiya ko`rinishlari",
+    "A": "Birlamchi, ikkilamchi",
+    "B": "Aktiv, passiv",
+    "C": "Doimiy va vaqtincha",
+    "D": "To`liq va qisman",
+    "javob": "A"
+  },
+  {
+    "savol": "Suvning reabsorbsiyasi",
+    "A": "Oblegat va fakultativ",
+    "B": "Birlamchi, ikkilamchi",
+    "C": "Doimiy va vaqtincha",
+    "D": "To`liq va qisman",
+    "javob": "A"
+  },
+  {
+    "savol": "Buyraklarning ayirishga aloqador bo`lmagan vazifaklari?",
+    "A": "Osmoregulyatsiya, Qon bosimini ko`tarishi",
+    "B": "Ekskretor, suv balansi",
+    "C": "Siydik hosil qilishi, qon bosimini ko`tarishi",
+    "D": "Ikkilamchi siydik hosil bo`lishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Buyraklarning morfofunksional birligi… .",
+    "A": "nefron",
+    "B": "neyron",
+    "C": "gepatotsit",
+    "D": "koptokcha",
+    "javob": "A"
+  },
+  {
+    "savol": "Nefronlar necha turga bo`linadi?",
+    "A": "3",
+    "B": "2",
+    "C": "4",
+    "D": "5",
+    "javob": "A"
+  },
+  {
+    "savol": "Siydik umuman ajralmasligi bu?",
+    "A": "anuriya",
+    "B": "taxikardiya",
+    "C": "poliuriya",
+    "D": "polidipsiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Buyraklarda nima sintezlaniladi?",
+    "A": "eritropoyitin",
+    "B": "eritrotsit",
+    "C": "leykotsit",
+    "D": "Vit B12",
+    "javob": "A"
+  },
+  {
+    "savol": "Buyraklar nechta segmentdan iborat?",
+    "A": "5",
+    "B": "4",
+    "C": "6",
+    "D": "3",
+    "javob": "A"
+  },
+  {
+    "savol": "Birlamchi siydik qon plazmasidan farqi?",
+    "A": "Oqsil bo`lmasligi",
+    "B": "Tuz bo`lmsligi",
+    "C": "Mochevina bo`lishi",
+    "D": "Suvning bo`lishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Samarali filtratsion bosim siydik normada hosil bo`lishi uchun, minimal nechiga teng bo`ladi",
+    "A": "20",
+    "B": "40",
+    "C": "50",
+    "D": "60",
+    "javob": "A"
+  },
+  {
+    "savol": "Qo`shimcha nafas olish nima?",
+    "A": "Tinch nafas olishdan tashqari, yana chuqur nafas olgandagi nafas",
+    "B": "Tinch nafas olishdan tashqari, chuqur nafas chiqara olishi",
+    "C": "O`pkadan chiqmaydigan havo",
+    "D": "O`lik bo`shliqdagi havo",
+    "javob": "A"
+  },
+  {
+    "savol": "Nafas olganda… .",
+    "A": "Diafragma pastga tushadi",
+    "B": "Diafragma bo`shashadi",
+    "C": "Diafragma o`zgarmaydi",
+    "D": "Diafragma yuqoriga ko`tariladi",
+    "javob": "A"
+  },
+  {
+    "savol": "O`pkaning tiriklik sig`imi nima?",
+    "A": "Tinch nafas+qo`shimcha nafas olish+rezerv nafas",
+    "B": "Tinch nafas +rezerv nafas",
+    "C": "Tinch nafas+qo`shimcha nafas olish+qoldiq nafas",
+    "D": "Qoldiq nafas+ o`lik bo`shliqdagi",
+    "javob": "A"
+  },
+  {
+    "savol": "O`pkaning umumiy sig`imi nima?",
+    "A": "Tinch nafas+qo`shimcha nafas olish+rezerv nafas+qoldiq nafas",
+    "B": "Tinch nafas +rezerv nafas",
+    "C": "Tinch nafas+qo`shimcha nafas olish+qoldiq nafas",
+    "D": "Qoldiq nafas+ o`lik bo`shliqdagi",
+    "javob": "A"
+  },
+  {
+    "savol": "Nafas olish nechta bosqichga bo`linadi?",
+    "A": "5",
+    "B": "4",
+    "C": "3",
+    "D": "7",
+    "javob": "A"
+  },
+  {
+    "savol": "Nafas olishning birinchi bosqichi",
+    "A": "O`pka ventilyatsiyasi",
+    "B": "Diffuziya",
+    "C": "Gazlar transporti",
+    "D": "Perfuziya",
+    "javob": "A"
+  },
+  {
+    "savol": "Inspiratsiya nima?",
+    "A": "Nafas olish",
+    "B": "Nafas chiqarish",
+    "C": "Nafasni ichida ushlash",
+    "D": "Nafas tiqilishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ekspiratsiya nima?",
+    "A": "Nafas chiqarish",
+    "B": "Nafas olish",
+    "C": "Nafasni ichida ushlash",
+    "D": "Nafas tiqilishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Tinch holatda sog`lom odam nafas olish soni bir minutda nechta?",
+    "A": "12-18",
+    "B": "20-22",
+    "C": "22-24",
+    "D": "25",
+    "javob": "A"
+  },
+  {
+    "savol": "Atmosfera havosiga nisbattan plevra bo`shlig`idagi bosim nechiga teng (atmosfera bosimi nolga teng deb olganda)?",
+    "A": "-6",
+    "B": "nol",
+    "C": "+3",
+    "D": "-1",
+    "javob": "A"
+  },
+  {
+    "savol": "Nafas olishning 2-bosqichi",
+    "A": "Gazlar diffuziyasi",
+    "B": "Gazlar transporti",
+    "C": "Perfuziya",
+    "D": "O`pkaga havo tashqaridan kirishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Periferik qondagi gemoglobinning kislorod bilan to`yinishi nima deyiladi?",
+    "A": "Saturatsiya",
+    "B": "Gipoksiya",
+    "C": "Ishemiya",
+    "D": "ekspiratsiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Aspiratsiya nima?",
+    "A": "Nafas yo`liga qusuq massa, suv, ovqat tushishi",
+    "B": "Bo`gilish holati",
+    "C": "Tranxeyaning bosilib qolishi",
+    "D": "Nafas yo`liga yot jism tiqilishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Nafas olishning tezlashishi nima deyiladi?",
+    "A": "Taxipnoe",
+    "B": "Bradipnoe",
+    "C": "Taxikardiya",
+    "D": "Apnoe",
+    "javob": "A"
+  },
+  {
+    "savol": "Nafas olish mexanizmining modelini yaratgan olim",
+    "A": "Donders",
+    "B": "Pavlov",
+    "C": "Paster",
+    "D": "Mechnikov",
+    "javob": "A"
+  },
+  {
+    "savol": "Alveola devorini namlab, uni yopishib qolishdan saqlaydigan modda",
+    "A": "Surfaktant",
+    "B": "Kislorod",
+    "C": "Karbonat angidrid",
+    "D": "Geparin",
+    "javob": "A"
+  },
+  {
+    "savol": "Qontomirni toraytiradi va aldesteronni hosil bo`lishini stimullab qon bosimini ko`taradi… .",
+    "A": "Angiotenzin II",
+    "B": "Angiotenzin I",
+    "C": "Angiotenzinogen",
+    "D": "ADG",
+    "javob": "A"
+  },
+  {
+    "savol": "Reabsorbsiya nima hosil bo`lsdi?",
+    "A": "Ikkilamchi siydikning hosil bo`lishi",
+    "B": "Birlamchi siydikning hosil bo`lishi",
+    "C": "Bu siydikning chiqarilishi",
+    "D": "Bu filtratsiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Reabsorbsiya nima?",
+    "A": "Birlamchi siydikning 99%ining qayta qonga so`rilishi",
+    "B": "Bu siydikning chiqarilishi",
+    "C": "Bu filtratsiya",
+    "D": "Ikkilamchi siydikning tashqariga chiqishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Reabsorsiya necha turga bo`ladi?",
+    "A": "2",
+    "B": "4",
+    "C": "3",
+    "D": "5",
+    "javob": "A"
+  },
+  {
+    "savol": "Reabsorbsiya qanday turlarga bo`ladi?",
+    "A": "Aktiv,passiv",
+    "B": "Birlamchi, ikkilamchi",
+    "C": "Doimiy va vaqtincha",
+    "D": "To`liq va qisman",
+    "javob": "A"
+  },
+  {
+    "savol": "Tinch holatdagi 1martalik chiqariladigan nafas hajmi?",
+    "A": "300-800 ml",
+    "B": "200-400 ml",
+    "C": "300-1000 ml",
+    "D": "100-200 ml",
+    "javob": "A"
+  },
+  {
+    "savol": "Nafas olish qanday boshqariladi?",
+    "A": "Nerv va gumoral yul bilan",
+    "B": "Faqat nerv",
+    "C": "Faqat gumoral",
+    "D": "Boshqarilmaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Nafas markazi qayerda joylashgan?",
+    "A": "Uzunchoq miyada",
+    "B": "Orqa miyada",
+    "C": "Oraliq miyada",
+    "D": "Miya kuprigida",
+    "javob": "A"
+  },
+  {
+    "savol": "Passiv reabsorbsiya nima?",
+    "A": "Energiya sarfisiz",
+    "B": "Energiya sarfi bilan",
+    "C": "Qisman energiya sarfi bilan",
+    "D": "Bazan energiya sarfalanishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Chaynash refleksini quyidagi nerv motoneyronlari ta`minlaydi:",
+    "A": "Uchlik",
+    "B": "bet",
+    "C": "til-xalkum",
+    "D": "til osti",
+    "javob": "A"
+  },
+  {
+    "savol": "Xemoretseptor qayerda joylashgan?",
+    "A": "Aortada va karotid sinusida",
+    "B": "Oshqozonda",
+    "C": "Yurakda",
+    "D": "Upkada",
+    "javob": "A"
+  },
+  {
+    "savol": "Gipoksiya bu?",
+    "A": "Qonda O2 ning kamayishi",
+    "B": "Qonda CO2 ning kupayishi",
+    "C": "Qonda CO ning kamayishi",
+    "D": "Qonda O2 ning kupayishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Gemoglobinning CO2 bilan birikmasi qanday ataladi?",
+    "A": "Karbgemoglobin",
+    "B": "Karboksigemoglobin",
+    "C": "Oksigemoglobin",
+    "D": "Metgemoglobin",
+    "javob": "A"
+  },
+  {
+    "savol": "Apnoe nima?",
+    "A": "Nafas olishning to`xtashi",
+    "B": "Bo`gilish holati",
+    "C": "Nafas olish sekinlashishi",
+    "D": "Nafas olishning tezlashishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Asfiksiya nima?",
+    "A": "Bo`gilish holati",
+    "B": "Nafas olish sekinlashishi",
+    "C": "Nafas olishning tezlashishi",
+    "D": "Nafas olishning to`xtashi",
+    "javob": "A"
+  },
+  {
+    "savol": "Bradipnoye nima?",
+    "A": "Nafas olish sekinlashishi",
+    "B": "Nafas olishning tezlashishi",
+    "C": "Nafas olishning to`xtashi",
+    "D": "Bo`gilish holati",
+    "javob": "A"
+  },
+  {
+    "savol": "Sirkulyar gipoksiya nima?",
+    "A": "Qon aylanishining buzilishi bilan bog`liq",
+    "B": "Tashqi muhitda O2 miqdorining kamayishi",
+    "C": "Qusuq massa, suv, so`lakning nafas yo`liga tushishi",
+    "D": "Nafas olish sekinlashishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Mikroblarni parchalaydigan modda?",
+    "A": "Lizotsim",
+    "B": "Lipaza",
+    "C": "Proteaza",
+    "D": "Amilaza",
+    "javob": "A"
+  },
+  {
+    "savol": "Yog`larni parchalaydi…",
+    "A": "Lipaza",
+    "B": "Karboangidraza",
+    "C": "Tripsin",
+    "D": "Pepsin",
+    "javob": "A"
+  },
+  {
+    "savol": "Oqsillarni parchalaydi…",
+    "A": "Tripsin",
+    "B": "Lipaza",
+    "C": "Karboangidraza",
+    "D": "Lizotsim",
+    "javob": "A"
+  },
+  {
+    "savol": "O`tning vazifasi nima?",
+    "A": "Yog`larni emulsiya holatiga keltiradi",
+    "B": "Uglevodlarni parchalaydi",
+    "C": "Oqsini aminokislotagacha parchalaydi",
+    "D": "Pepsinni faollashtiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Gidrolitik fermentlarning kelib chiqish mohiyatiga ko`ra bo`linadi",
+    "A": "Xususiy, simbiot, autolitik",
+    "B": "Kontakt, aralash",
+    "C": "Distant va chegaraviy",
+    "D": "Tashqi va ichki",
+    "javob": "A"
+  },
+  {
+    "savol": "Gidrolitik fermentlarning kelib chiqish mohiyatiga ko`ra necha turga bo`linadi bo`linadi",
+    "A": "3",
+    "B": "2",
+    "C": "4",
+    "D": "5",
+    "javob": "A"
+  },
+  {
+    "savol": "Autolitik hazm nima?",
+    "A": "Ovqat o`zining tarkibidagi fermenti hisobiga hazm bo`lishi",
+    "B": "Bakteriyalar tasirida hazm bo`lishi",
+    "C": "Oshqozondagi fermentlar ta`sirida hazm bo`lishi",
+    "D": "Dorolar ta`siridagi hazm",
+    "javob": "A"
+  },
+  {
+    "savol": "Gidroliz jarayoni qayerda kechayotganiga qarab bo`linadi",
+    "A": "Hujayra ichi va hujayra tashqarisidagi hazm",
+    "B": "Xususiy va simbiot",
+    "C": "Autolitik va simbiot hazm",
+    "D": "Ichki, tashqi, aralsh",
+    "javob": "A"
+  },
+  {
+    "savol": "Ingichka ichak mikrovarsinkalari yuzasidagi hazm bu…",
+    "A": "Devor oldi",
+    "B": "Xususiy",
+    "C": "Autolitik",
+    "D": "Aralash",
+    "javob": "A"
+  },
+  {
+    "savol": "Lizosomal ferment ishtirokidagi hazm bu…",
+    "A": "Hujayra ichidagi hazm",
+    "B": "Hujayra tashqarisidagi hazm",
+    "C": "Autolitik hazm",
+    "D": "Aralash",
+    "javob": "A"
+  },
+  {
+    "savol": "Og`iz bo`shlig`idagi uglevodlar qaysi ferment ta`sirida parchalanadi?",
+    "A": "Alfa amilaza",
+    "B": "Lipaza",
+    "C": "Enterokinaza",
+    "D": "Pepsin",
+    "javob": "A"
+  },
+  {
+    "savol": "Og`iz bo`shlig`idagi katta so`lak bezlarini aniqlang?",
+    "A": "Quloq oldi, jag`osti, tilosti",
+    "B": "Til yuzasi, til uchi, lunjdagi",
+    "C": "Lunj va tilosti",
+    "D": "Jag`usti lunj, tilosti",
+    "javob": "A"
+  },
+  {
+    "savol": "Og`iz bo`shlig`ida parchalanmaydi",
+    "A": "Oqsil",
+    "B": "uglevodlar",
+    "C": "Saxaridlar",
+    "D": "mikroblar",
+    "javob": "A"
+  },
+  {
+    "savol": "Og`iz bo`shlig`ida parchalanmaydi",
+    "A": "Yog`lar",
+    "B": "uglevodlar",
+    "C": "Saxaridlar",
+    "D": "mikroblar",
+    "javob": "A"
+  },
+  {
+    "savol": "Halqumdagi yutish bu?",
+    "A": "Tez ixtiyorsiz",
+    "B": "Tez ixtiyoriy",
+    "C": "Sekin ixtiyorsiz",
+    "D": "Sekin ixtiyoriy",
+    "javob": "A"
+  },
+  {
+    "savol": "Qizilo`ngachda yutish qanday",
+    "A": "Sekin ixtiyorsiz",
+    "B": "Tez ixtiyoriy",
+    "C": "Tez ixtiyorsiz",
+    "D": "Sekin ixtiyoriy",
+    "javob": "A"
+  },
+  {
+    "savol": "Medaning parietal hujayralari ishlab chiqaradi…",
+    "A": "HCl",
+    "B": "Pepsin",
+    "C": "Enterokinaza",
+    "D": "Maltaza",
+    "javob": "A"
+  },
+  {
+    "savol": "Medaning bosh hujayralarida ishlab chiqariladi…",
+    "A": "Pepsin",
+    "B": "Enterokinaza",
+    "C": "Maltaza",
+    "D": "HCl",
+    "javob": "A"
+  },
+  {
+    "savol": "Xolerez bu…",
+    "A": "O`tning hosil bo`lishi",
+    "B": "O`tning quyuqlashishi",
+    "C": "O`tning ekskretsiyasi",
+    "D": "O`tning quyilishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Xolekinez…",
+    "A": "O`tning 12 barmoqli ichakka quyilishi",
+    "B": "O`tning hosil bo`lishi",
+    "C": "O`tning quyuqlashishi",
+    "D": "O`tning ekskretsiyasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Xolerezni tormozlaydi...",
+    "A": "Simpatik nerv",
+    "B": "Parasimpatik nerv",
+    "C": "sekretin",
+    "D": "gastrin",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi qaysi a`zo detoksikatsiya, qon deposi, bilirubin almashinuvida ahamiyatli?",
+    "A": "Jigar",
+    "B": "Taloq",
+    "C": "Buyrak",
+    "D": "Ichak",
+    "javob": "A"
+  },
+  {
+    "savol": "Meda osti bezida qaysi fermentlar nofaol ajraladi?",
+    "A": "Proteazalar",
+    "B": "Amilaza",
+    "C": "Lipaza",
+    "D": "Nukleazalar",
+    "javob": "A"
+  },
+  {
+    "savol": "Meda osti bezida qaysi fermentlar faol ajraladi?",
+    "A": "Amilaza, Lipaza",
+    "B": "Proteazalar",
+    "C": "Tripsin, xemotripsin",
+    "D": "Pepsin",
+    "javob": "A"
+  },
+  {
+    "savol": "Meda osti bezi qaysi fermentlarni ajratadi?",
+    "A": "Amilaza, Lipaza, tripsin",
+    "B": "Pepsin, HCl",
+    "C": "Lipaza, Lizotsim",
+    "D": "Maltaza",
+    "javob": "A"
+  },
+  {
+    "savol": "Tripsinogen nima ta`sirida faollashadi?",
+    "A": "Enterokinaza",
+    "B": "Elastin",
+    "C": "amilaza",
+    "D": "HCl",
+    "javob": "A"
+  },
+  {
+    "savol": "Ichak sekretsiyasini tormozlaydi?",
+    "A": "Somatostatin",
+    "B": "Adashgan nerv",
+    "C": "Enterokrinin",
+    "D": "Motilin",
+    "javob": "A"
+  },
+  {
+    "savol": "Ichak sekretsiyasini qo`zg`atadi?",
+    "A": "Adashgan nerv",
+    "B": "Somastatin",
+    "C": "Simpatik nerv",
+    "D": "Atropin",
+    "javob": "A"
+  },
+  {
+    "savol": "Yo`g`on ichak mikroflorasi…",
+    "A": "Bifidobakteriyalar",
+    "B": "Tayoqchasimon bakteriyalar",
+    "C": "streptokokk",
+    "D": "stafilokokk",
+    "javob": "A"
+  },
+  {
+    "savol": "Najasning 10-30%ini …tashkil qiladi",
+    "A": "Mikrob tanalari",
+    "B": "Organik moddalar",
+    "C": "Shilliq",
+    "D": "Sterkobilin",
+    "javob": "A"
+  },
+  {
+    "savol": "Defekatsiya nima?",
+    "A": "Yo`gon ichak bo`shalishi",
+    "B": "Siydik ajralishi",
+    "C": "Ovqat hazm bo`lishi",
+    "D": "Ichning qabziyatli bo`lish",
+    "javob": "A"
+  },
+  {
+    "savol": "Antiperestaltika nima?",
+    "A": "Ichakning teskari harakati",
+    "B": "Ichakning mayatniksimon harakati",
+    "C": "Ritmik segmentatsiya",
+    "D": "Tonik harakat",
+    "javob": "A"
+  },
+  {
+    "savol": "Ritmik segmentatsiya bu?",
+    "A": "Asosan halqasimon mushaklarning qisqarishi",
+    "B": "Bo`ylama mushaklarning qisqarishi",
+    "C": "Moyatniksimon harakat",
+    "D": "Antiperistaltik harakat",
+    "javob": "A"
+  },
+  {
+    "savol": "Oshqozonda uchramaydigan proteazani tanlang",
+    "A": "Tripsin",
+    "B": "Pepsin",
+    "C": "Gastreksin",
+    "D": "Renin",
+    "javob": "A"
+  },
+  {
+    "savol": "Quiyidagilardan qaysi biri og`iz bo`shlig`i fermenti emas",
+    "A": "elastaza",
+    "B": "amilaza",
+    "C": "maltaza",
+    "D": "mutsin",
+    "javob": "A"
+  },
+  {
+    "savol": "Aminopeptidaza oqsillarni parchalaydi…",
+    "A": "aminokislotagacha",
+    "B": "peptongacha",
+    "C": "polipeptidgacha",
+    "D": "monosaxaridgacha",
+    "javob": "A"
+  },
+  {
+    "savol": "Uglevodlarni monosaxaridlargacha parchalaydi…",
+    "A": "maltaza",
+    "B": "amilaza",
+    "C": "renin",
+    "D": "Elastaza",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi pigmentlardan qaysi biri najasga rang beradi?",
+    "A": "sterkoblin",
+    "B": "sterkoblinogen",
+    "C": "uroblin",
+    "D": "biliverdin",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan o`t tarkibidagi qaysi modda, HCl ni neytrallaydi",
+    "A": "karbonatlar",
+    "B": "sulfatlar",
+    "C": "pepsin",
+    "D": "enterokinaza",
+    "javob": "A"
+  },
+  {
+    "savol": "Oshqozonni HCl dan himoya qiladi…",
+    "A": "mutsin",
+    "B": "sulfatlar",
+    "C": "lizotsim",
+    "D": "Pepsin",
+    "javob": "A"
+  },
+  {
+    "savol": "Kaslning ichki omilini ko`rsating",
+    "A": "Gastromukoproteid",
+    "B": "Vit B12",
+    "C": "Vit C",
+    "D": "Mutsin",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri Lipzalarga taluqli emas.",
+    "A": "Elastaza",
+    "B": "Fosfolipaza",
+    "C": "Proesteraza",
+    "D": "Lipaza",
+    "javob": "A"
+  },
+  {
+    "savol": "Omez dorisining ta`siri",
+    "A": "Proton pompasi ingibitori",
+    "B": "Oshqozon osti bezi tayyor fermentlari",
+    "C": "Nofaol fermentlar",
+    "D": "Perestaltikani kuchaytiruvchi",
+    "javob": "A"
+  },
+  {
+    "savol": "Bilirubin glyukouronid nima?",
+    "A": "Bog`langan billirubin",
+    "B": "Bog`lanmagan bilirubin",
+    "C": "Erkin bilirubin",
+    "D": "Biliverdin",
+    "javob": "A"
+  },
+  {
+    "savol": "Xemotripsinogenni faollashtirishtiradi…",
+    "A": "tripsin",
+    "B": "enterokinaza",
+    "C": "HCl",
+    "D": "O`t suyuqligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Nevr sistemasining morfofunksional birligi…",
+    "A": "neyron",
+    "B": "nefron",
+    "C": "atsinus",
+    "D": "Gepototsit",
+    "javob": "A"
+  },
+  {
+    "savol": "Markaziy nerv sistemasiga kiradi…",
+    "A": "bosh va orqa miya",
+    "B": "bosh miya",
+    "C": "orqa miya",
+    "D": "bosh miya va 12 juft nervlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Bajaradigan vazifasiga ko`ra neyronlar necha guruhga bo`linadi?",
+    "A": "Sezuvchi, oraliq, harakatlantiruvchi",
+    "B": "Afferent, oziqlantiruvchi, harakatlantiruvchi, yig`uvchi",
+    "C": "oziqlantiruvchi, harakatlantiruvchi, yig`uvchi",
+    "D": "Sezuvchi, Afferent, Qabul qiluvchi",
+    "javob": "A"
+  },
+  {
+    "savol": "Neyronlar o`siqlar soniga qarab qanday turlarga bo`linadi?",
+    "A": "Unipolyar, bipolyar, multipolyar, psevdounipolyar",
+    "B": "Superfastsial, intrakortikal, bipolyar",
+    "C": "Superfastsial, intrakortikal, multipolyar",
+    "D": "Sezuvchi, Afferent, Qabul qiluvchi",
+    "javob": "A"
+  },
+  {
+    "savol": "Orqa miya chegaralarini ko`rsating.",
+    "A": "Uzunchoq miya pyramidal kesishmasidan yuquri qismi, pastki qismi 1-2-bel umurtqalarida tugaydi.",
+    "B": "1-bo`yin umurqalaridan boshlanib, 1-dumg`aza umurtqalarida tugaydi.",
+    "C": "3-bo`yin umurqalaridan boshlanib, 1-bel umurtqalarida tugaydi.",
+    "D": "1-bo`yin umurqalaridan boshlanib, 1-bel umurtqalarida tugaydi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Glial hujayralarni ko`rsating.",
+    "A": "Astrotsit, oligodendrotsit, mikrogliya",
+    "B": "Unipolyar, bipolyar, multipolyar",
+    "C": "Bipolyar, multipolyar, psevdounipolyar",
+    "D": "Superfastsial, intrakortikal, bipolyar",
+    "javob": "A"
+  },
+  {
+    "savol": "Glial hujayralardan qaysi biri miyelin hosil qilishda ishtirok etadi?",
+    "A": "Oligodendrotsit",
+    "B": "Astrotsit",
+    "C": "Mikrogliya",
+    "D": "Makrogliya",
+    "javob": "A"
+  },
+  {
+    "savol": "Glial hujayralardan qaysi biri gematoentsefalik baryer hosil qilishda ishtirok etadi?",
+    "A": "Astrotsit",
+    "B": "Oligodendrotsit",
+    "C": "Mikrogliya",
+    "D": "Makrogliya",
+    "javob": "A"
+  },
+  {
+    "savol": "O`rta miya to`rt tepaligining, yuqorigi tepaligi … markazi hisoblanadi.",
+    "A": "Ko`ruv",
+    "B": "Eshituv",
+    "C": "Gapiruv",
+    "D": "Aksa urish",
+    "javob": "A"
+  },
+  {
+    "savol": "O`rta miya to`rt tepaligining pastki tepaligi … markazi hisoblanadi.",
+    "A": "Eshituv",
+    "B": "Gapiruv",
+    "C": "Aksa urish",
+    "D": "Ko`ruv",
+    "javob": "A"
+  },
+  {
+    "savol": "Substansiya nigra zararlansa kelib chiqadi…",
+    "A": "Parkinsonizm",
+    "B": "Bukuvchi muskullar tonusi oshadi",
+    "C": "Yozuvchi muskullar tonusi oshadi",
+    "D": "Hech narsa o`zgarmaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Miyachaning o`rta oyoqlari miyachani qaysi qism bilan bog`laydi",
+    "A": "Miya yarim sharlarining peshona bo`limi bilan",
+    "B": "Talamus va miya ko`prigi bilan",
+    "C": "Uzunchoq miya bilan",
+    "D": "Gipotalamus bilan",
+    "javob": "A"
+  },
+  {
+    "savol": "Antiduretik gormon qayerda ishlab chiqariladi?",
+    "A": "Gipotalamusda",
+    "B": "Gipofizning orqa bo`lagida",
+    "C": "Buyrak usti bezida",
+    "D": "Buyraklarda",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi miya bo`limi zararlanganda asteniya, ataksiya, astaziya kelib chiqadi?",
+    "A": "Miyacha",
+    "B": "Orqa miya",
+    "C": "Miya ko`prigi",
+    "D": "M`rta miya",
+    "javob": "A"
+  },
+  {
+    "savol": "Chanqoqlik markazi miyaning qaysi bo`limida joylashgan?",
+    "A": "Gipotalamus",
+    "B": "Uzunchok miyada",
+    "C": "Miya ko`prigi",
+    "D": "O`rta miya",
+    "javob": "A"
+  },
+  {
+    "savol": "Gipotalamusning oldingi bo`lagi yadrolari … chiqaradi.",
+    "A": "Liberin, statinlar",
+    "B": "Liberin",
+    "C": "Statin",
+    "D": "Oksitotsin, vasopressin",
+    "javob": "A"
+  },
+  {
+    "savol": "Chaynash kabi murakkab kordinator vazifani boshqaradi:",
+    "A": "uzunchok miya",
+    "B": "urta miyaning kizil yadrosi",
+    "C": "kora substanstiya",
+    "D": "retikulyar formastiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Uzunchoq miya qaysi refleksni yuzaga keltirmaydi:",
+    "A": "qorachiq",
+    "B": "so`rish",
+    "C": "chaynash",
+    "D": "Nafas",
+    "javob": "A"
+  },
+  {
+    "savol": "Qizil yadro qayerda joylashgan?",
+    "A": "O`rta miya",
+    "B": "Uzunchoq miya",
+    "C": "Miya ko`prigi",
+    "D": "Oraliq miya",
+    "javob": "A"
+  },
+  {
+    "savol": "Oraliq miya necha qismdan iborat?",
+    "A": "3 qism",
+    "B": "2 qism",
+    "C": "4 qism",
+    "D": "5 qism",
+    "javob": "A"
+  },
+  {
+    "savol": "Gipotalamusning oldingi guruh yadrolari chiqaradi…",
+    "A": "Oksitotsin, vazopressin",
+    "B": "Liberin, statin",
+    "C": "Oksitotsin, statin",
+    "D": "Liberin, vasopressin",
+    "javob": "A"
+  },
+  {
+    "savol": "Asab markazlarining tez charchashiga sabablarini ko`rsating.",
+    "A": "Mediator zaxirasining kamayishi, energiya yetishmovchiligi, retseptorlar sezuvchanligining pasayishi",
+    "B": "Mediator zaxirasining kamayish",
+    "C": "Energiya yetishmovchiligi",
+    "D": "retseptorlar sezuvchanligining pasayishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Periferik, nerv sistemasiga ta`luqli…",
+    "A": "Bosh miyadan chiquvchi 12 juft nerv va orqa miyadan chiquvchi nervlar",
+    "B": "Bosh miya",
+    "C": "Orqa miya",
+    "D": "Orqa miya va uning tolalari",
+    "javob": "A"
+  },
+  {
+    "savol": "Avtonom nerv sistemasining oliy markazini ko`rsating.",
+    "A": "Gipotalamus",
+    "B": "Gipofiz",
+    "C": "Miyacha",
+    "D": "Orqa miya",
+    "javob": "A"
+  },
+  {
+    "savol": "Bosh miyani qattiq pardasi",
+    "A": "Duramater",
+    "B": "Piamater",
+    "C": "Araxnoideya",
+    "D": "Miamater",
+    "javob": "A"
+  },
+  {
+    "savol": "Gipotalamusda sintezlanadi.",
+    "A": "Antidiuretik gormon",
+    "B": "Tiroksi",
+    "C": "Somototrop gormon",
+    "D": "Insulin",
+    "javob": "A"
+  },
+  {
+    "savol": "Markaziy nerv tizimi mediatoriga xos bo`lmagan xususiyat:",
+    "A": "diffuziya tariqasida ajraladi",
+    "B": "neyronni tanasida ishlanadi",
+    "C": "aksonni oxirida yiiladi",
+    "D": "pufakchalarda bo`ladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Talamus orqali o`tmaydigan analizator yo`li.",
+    "A": "hid bilish",
+    "B": "eshitish",
+    "C": "taktil",
+    "D": "ko`rish analizatori",
+    "javob": "A"
+  },
+  {
+    "savol": "Har ikkala adashgan va simpatik asablarni kirkandan sung yurakning kiskarish chastotasi:",
+    "A": "oshadi",
+    "B": "yurak tuxtaydi",
+    "C": "kamayadi",
+    "D": "Uzgarmaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko`rish maydoni deb… aytiladi",
+    "A": "Markaziy va chetki ko`rish yig`indisiga",
+    "B": "Ikki nuqtani ajrata olishga",
+    "C": "Rang ajratishga",
+    "D": "Arentir olishga",
+    "javob": "A"
+  },
+  {
+    "savol": "Miyelinsiz nerv tolalarida qo`zalish ... tarqaladi.",
+    "A": "butun membrana yuzasi bo`ylab qo`zalish soxasidan qo`zalish yo`q soxaga",
+    "B": "saltotor, tolaning mielin bilan qoplangan soxalaridan sakrab",
+    "C": "elektrotonik, yuzaga kelgan soxadan ikki tomonga",
+    "D": "aksopalazma oqimi bo`ylab",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri vazodilatator ta`siriga ega emas?",
+    "A": "Angiotenzin II",
+    "B": "Azot II oksidi",
+    "C": "Atsetil xolin",
+    "D": "Prostaglandin",
+    "javob": "A"
+  },
+  {
+    "savol": "Miyachani shikastlanish belgisiga kirmaydi",
+    "A": "detserebratsion regidlik",
+    "B": "Gipotonus",
+    "C": "ataksiya",
+    "D": "tremor dismetriya",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi qo`zaluvchan to`qima deyarli charchamaydi?",
+    "A": "nerv tolasi",
+    "B": "nerv hujayrasi",
+    "C": "sinaps",
+    "D": "skelet muskullari",
+    "javob": "A"
+  },
+  {
+    "savol": "Paratgormonning ichaklarga ta`siri",
+    "A": "Ichaklarda kalsiy so`rilishini kuchaytiradi",
+    "B": "Ichak harakatlarini kuchaytiradi",
+    "C": "Ichaklarda kalsiy va suv so`rilishini kamaytiradi",
+    "D": "O`t ajralishini kamaytiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Paratgormon ta`sirida qonda kalsiy miqdori.",
+    "A": "Ortadi",
+    "B": "Keskin amayadi",
+    "C": "O`zgarmaydi",
+    "D": "Ta`sir qilmaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Shartli nafas reflekslar markazi joylashgan.",
+    "A": "miya yarimsharlar po`stloida",
+    "B": "orqa miyada",
+    "C": "uzunchoq miyada",
+    "D": "varoliev ko`prigida",
+    "javob": "A"
+  },
+  {
+    "savol": "Bulbar vestibulyar markaz joylashgan",
+    "A": "Uzunchoq miyada",
+    "B": "Orqa miyada",
+    "C": "Oraliq miyada",
+    "D": "Bazal yadrolarda",
+    "javob": "A"
+  },
+  {
+    "savol": "Yurak faolyatini boshqaruvchi parasimpatik nerv markaz joylashgan.",
+    "A": "Uzunchoq miyada",
+    "B": "Orqa miyaning ko`krak segmentlarida",
+    "C": "Orqa miyaning bo`yin segmentlarida",
+    "D": "Gipotalamusda",
+    "javob": "A"
+  },
+  {
+    "savol": "O`rta miyada qaysi biri bo`lmaydi:",
+    "A": "deyters yadrosi",
+    "B": "qora modda",
+    "C": "g`altaksimon nerv yadrosi",
+    "D": "qizil yadro",
+    "javob": "A"
+  },
+  {
+    "savol": "Pankreatik fermentlariga ... kirmaydi.",
+    "A": "enterokinaza",
+    "B": "ximotripsin",
+    "C": "nukleaza",
+    "D": "Lipaza",
+    "javob": "A"
+  },
+  {
+    "savol": "Antidiuretik gormon etishmovchiligida kuzatiladi.",
+    "A": "Qandsiz diabet",
+    "B": "Arterial bosim ortadi",
+    "C": "Axromegamiya",
+    "D": "Qandli diabet",
+    "javob": "A"
+  },
+  {
+    "savol": "Uzunchoq miyaning asab markazlariga kirmaydi.",
+    "A": "hid sezish",
+    "B": "ko`zni pirpiratish",
+    "C": "yurak faoliyati",
+    "D": "ovqat hazm qilish",
+    "javob": "A"
+  },
+  {
+    "savol": "Tovush signallarini qayta ishlovchi markaz.",
+    "A": "O`rta miya",
+    "B": "Uzunchoq miya",
+    "C": "Oraliq miya",
+    "D": "Orqa mya",
+    "javob": "A"
+  },
+  {
+    "savol": "Vazopressin arterial tomirlarni.",
+    "A": "Toraytiradi",
+    "B": "Kengaytiradi",
+    "C": "Buyrak tomirlarini kengaytiradi",
+    "D": "Buyrak tomirlarini toraytiradi, qolgan tomirlarga ta`sir qilmaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Buyrakda ajratish vazifasidan tashqari yana qanday jarayon kechadi?",
+    "A": "sintez",
+    "B": "sekretsiya",
+    "C": "reabsorbsiya",
+    "D": "Filtratsiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Paratgormon ko`p miqdorda ajralganda kuzatiladi.",
+    "A": "Osteoporoz",
+    "B": "Tetaniya",
+    "C": "Akromegaliya",
+    "D": "Teri oqarishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko`z akkomadatsion aparatiga taalluqli emas.",
+    "A": "shoh parda",
+    "B": "siliar mushak",
+    "C": "sin boylamlari",
+    "D": "ko`z gavhari",
+    "javob": "A"
+  },
+  {
+    "savol": "Orqa miya uzunchoq miya ostidan kesilganda nafas",
+    "A": "nafas to`xtaydi",
+    "B": "siyrak va yuzaki bo`ladi",
+    "C": "siyrak va chuqur bo`ladi",
+    "D": "o`zgarmaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Eshituv analizatorining markaziy qismi qayerda joylashgan?",
+    "A": "Chakka qismda",
+    "B": "Ensa qismda",
+    "C": "Tepa qismda",
+    "D": "Somatosensor sohada",
+    "javob": "A"
+  },
+  {
+    "savol": "Adrenalin kam miqdorda bo`lganda siydik ayirishni …",
+    "A": "Kuchaytiradi",
+    "B": "Susaytiradi",
+    "C": "O`zgartirmaydi",
+    "D": "Normallashtiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko`rish o`tkirligi deb…ga aytiladi",
+    "A": "Ikki nuqta orasidagi minimal masofani ajrata olish",
+    "B": "4 tomonlama ko`rish yig`indisi",
+    "C": "Rang ajratish xususiyati",
+    "D": "Arentirovka",
+    "javob": "A"
+  },
+  {
+    "savol": "Ekstroretseptorlarga kirmaydi:",
+    "A": "Proprio retseptorlar",
+    "B": "Eshitish retseptorlar",
+    "C": "Ko`rish retseptorlar",
+    "D": "Hid bilish retseptorlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko`rish o`tkirlii aniqlanadi…",
+    "A": "Golovin",
+    "B": "Perimetr",
+    "C": "Pinet",
+    "D": "Santimetr",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko`rish maydoni aniqlanadi",
+    "A": "Perimetr",
+    "B": "Sivorsov",
+    "C": "Santimetr",
+    "D": "Golovin",
+    "javob": "A"
+  },
+  {
+    "savol": "Miya qorinchalarida va orqa miyadagi suyuqlik",
+    "A": "Likvor",
+    "B": "Plevral",
+    "C": "Perikardial",
+    "D": "Perilimfa",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko`z olmasi necha qavatdan iborat",
+    "A": "3 qavat",
+    "B": "1 qavat",
+    "C": "2 qavat",
+    "D": "6 qavat",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko`z Olmasining tashqi qavatiga kiradi",
+    "A": "Oqsil parda",
+    "B": "Qontomirli",
+    "C": "To`rparda",
+    "D": "Yog`pard",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko`z Olmasining tashqi qavatiga kiradi",
+    "A": "Shox parda",
+    "B": "Shishasimon tana",
+    "C": "Gavhar",
+    "D": "Qontomirli",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko`z Olmasining o`rta qavatiga kiradi",
+    "A": "Qontomirli parda",
+    "B": "Shox parda",
+    "C": "Shishasimon tana",
+    "D": "Gavhar",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko`z Olmasining ichki qavatiga kiradi",
+    "A": "To`r parda",
+    "B": "Shox parda",
+    "C": "Sklera",
+    "D": "Gavhar",
+    "javob": "A"
+  },
+  {
+    "savol": "Kunduzgi ko`rishni ta`minlaydigan retseptorlar",
+    "A": "Kolbachasimon",
+    "B": "Tayoqchasimon",
+    "C": "Fatirpatchini",
+    "D": "Tishsimon",
+    "javob": "A"
+  },
+  {
+    "savol": "Tungi ko`rishni ta`minlaydigan retseptorlar",
+    "A": "Tayoqchasimon",
+    "B": "Fatirpatchini",
+    "C": "Kolbachasimon",
+    "D": "Tishsimon",
+    "javob": "A"
+  },
+  {
+    "savol": "Rang ajrata olishning buzulish kasalligi",
+    "A": "Daltonizm",
+    "B": "Daun",
+    "C": "Autizm",
+    "D": "Nanizm",
+    "javob": "A"
+  },
+  {
+    "savol": "Uzoqni yaxshi ko`ra olmaslik",
+    "A": "Miopiya",
+    "B": "Diplopiya",
+    "C": "Gipertoniya",
+    "D": "Oligouriya",
+    "javob": "A"
+  },
+  {
+    "savol": "Yaqinni ko`ra olmaslik",
+    "A": "Gipermetropiya",
+    "B": "Diplopiya",
+    "C": "Gipertoniya",
+    "D": "Oligouriya",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko`zning nurni har xil sindirish kasalligi",
+    "A": "Astigmatism",
+    "B": "Nanizm",
+    "C": "Daun",
+    "D": "Miopiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Astigmatizmning necha xil turi mavjud",
+    "A": "2 xil",
+    "B": "3 xil",
+    "C": "4 xil",
+    "D": "5 xil",
+    "javob": "A"
+  },
+  {
+    "savol": "Miopiyani korreksiya qilishda… linzalar ishlatiladi",
+    "A": "2 tomoni botiq",
+    "B": "2 tomoni qavariq",
+    "C": "1 tomoni qavariq",
+    "D": "3 tomoni qavariq",
+    "javob": "A"
+  },
+  {
+    "savol": "Gipermetropiyani korreksiya qilishda…linzalar ishlatiladi",
+    "A": "2 tomoni qavariq",
+    "B": "1 tomoni qavariq",
+    "C": "3 tomoni qavariq",
+    "D": "2 tomoni qavariq",
+    "javob": "A"
+  },
+  {
+    "savol": "Sodda yoki murakkabligidan qatiy nazar sensor sistemasi necha qismdan iborat",
+    "A": "3 qismdan",
+    "B": "2 qismdan",
+    "C": "6 qismdan",
+    "D": "4 qismdan",
+    "javob": "A"
+  },
+  {
+    "savol": "Adekvat ta`sirlovchilar necha xil bo`ladi?",
+    "A": "5 xil",
+    "B": "7 xil",
+    "C": "10 xil",
+    "D": "15 xil",
+    "javob": "A"
+  },
+  {
+    "savol": "Tayanch –harakatlanish tizimida … mavjud",
+    "A": "Mexanoretseptorlar",
+    "B": "Fotoretseptor",
+    "C": "Xemoretseptor",
+    "D": "Termoretseptor",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko`zda joylashgan retseptorlar…",
+    "A": "Fotoretseptorlar",
+    "B": "Mexanoretseptorlar",
+    "C": "Xemoretseptor",
+    "D": "Termoretseptor",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko`z qorachig`i qorong`uda …",
+    "A": "Kengayadi",
+    "B": "Torayadi",
+    "C": "O`zgarmaydi",
+    "D": "Susayadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Xona yaxshi yorug`lik bilan ta`minlanganda ko`z qorachig`i …",
+    "A": "Torayadi",
+    "B": "Kengayadi",
+    "C": "O`zgarmaydi",
+    "D": "Susayadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ementropiya bu…?",
+    "A": "Normadagi ko`rish",
+    "B": "Yaqinni ko`rolmaslik",
+    "C": "ko`rolmaslik",
+    "D": "Uzoqni ko`rolmaslik",
+    "javob": "A"
+  },
+  {
+    "savol": "Keksa yoshli insonlarda yaqindagi yozuvlarni o`qiy olmasligi sababi nima?",
+    "A": "Kipriksimon muskullar tonusi pasayib bo`shashib qoladi",
+    "B": "Tasvir to`r pardadan oldinroqqa tushadi",
+    "C": "Tasvir to`r pardadan orqaroqqa tushadi",
+    "D": "Kipriksimon muskullar tonusi ortadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko`rish analizatorining 3-qismi…",
+    "A": "Brokman bo`yicha 17-zonada",
+    "B": "Geshli zonasida",
+    "C": "Brokman bo`yicha 42-zonada",
+    "D": "Bets hujarasida",
+    "javob": "A"
+  },
+  {
+    "savol": "Ixtiyoriy harakat yo`li boshlanadi",
+    "A": "Yirik pyramidal hujayralardan",
+    "B": "Donador hujayralardan",
+    "C": "Muskuldan",
+    "D": "Orqa miyadan",
+    "javob": "A"
+  },
+  {
+    "savol": "Oqsil parda vazifasi",
+    "A": "Ko`z shaklini taminlaydi",
+    "B": "Ko`rish o`tkirligini taminlaydi",
+    "C": "Nurni sindiradi",
+    "D": "Ko`z bosimini belgilaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko`rdog`da joylashadi",
+    "A": "Ko`ruv nervi",
+    "B": "Hidlov nervi",
+    "C": "Koxlear nerv",
+    "D": "Vestibulyar nerv",
+    "javob": "A"
+  },
+  {
+    "savol": "Dismetriya…",
+    "A": "Arentir olish buzulishi",
+    "B": "Harakat ketma-ketligi buzulishi",
+    "C": "Husni-xat buzilishi",
+    "D": "Gapirish buzulishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Dizartriya…",
+    "A": "Gapirish buzulishi",
+    "B": "Arentir olish buzulishi",
+    "C": "Harakat ketma-ketligi buzulishi",
+    "D": "Husni-xat buzilishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Miyacha shikastlanganda",
+    "A": "Mastga o`xshab harakatlanish",
+    "B": "Ixtiyoriy harakat buzuladi",
+    "C": "Eshitish pasayadi",
+    "D": "Ko`rish xiralashadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Tashqi quloq a`zosi emas",
+    "A": "Bolg`acha",
+    "B": "Quloq suprasi",
+    "C": "Tashqi eshituv yo`li",
+    "D": "Nog`ora parda",
+    "javob": "A"
+  },
+  {
+    "savol": "O`rta quloq tarkibiga kiradi",
+    "A": "Uzangi",
+    "B": "Chig`anoq",
+    "C": "Kortiy a`zosi",
+    "D": "Suyak labirinti",
+    "javob": "A"
+  },
+  {
+    "savol": "Ichki quloq hisoblanadi",
+    "A": "Chig`anoq",
+    "B": "Sangdon",
+    "C": "Nog`ora parda",
+    "D": "Quloq suprasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Yevstaxiy nayi qayerda joylashgan",
+    "A": "O`rta quloqda",
+    "B": "Chig`anoqda",
+    "C": "Tashqi quloqda",
+    "D": "Ichki quloqda",
+    "javob": "A"
+  },
+  {
+    "savol": "Eshitish a`zosi necha qismdan iborat",
+    "A": "3 qism",
+    "B": "2 qism",
+    "C": "Ajratilmagan",
+    "D": "5 qismdan",
+    "javob": "A"
+  },
+  {
+    "savol": "Eshitish qobilyatini tekshiradi",
+    "A": "Kamerton",
+    "B": "Elizarov",
+    "C": "Pulsoksimetr",
+    "D": "Spirometr",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko`zni kuchli toliqtiradi",
+    "A": "qizil",
+    "B": "yashil",
+    "C": "oq",
+    "D": "Qora",
+    "javob": "A"
+  },
+  {
+    "savol": "Eshitish markazi",
+    "A": "Geshli zonasi",
+    "B": "Brokman zonasi",
+    "C": "Presentral zona",
+    "D": "Sentral zona",
+    "javob": "A"
+  },
+  {
+    "savol": "Bosh miyani yumshoq pardasi…",
+    "A": "Piamater",
+    "B": "Duramater",
+    "C": "Miamater",
+    "D": "Araxnoidea",
+    "javob": "A"
+  },
+  {
+    "savol": "Bosh miyani to`rsimon pardasi…",
+    "A": "Araxnoidea",
+    "B": "Piamater",
+    "C": "Duramater",
+    "D": "Miamater",
+    "javob": "A"
+  },
+  {
+    "savol": "Piramidal yo`l kesishmasi",
+    "A": "Dekustatsio piramidalis",
+    "B": "Dekustatsio frontalis",
+    "C": "Hojsimon",
+    "D": "Kesishmaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Govers va Fleksik yo`llari",
+    "A": "Miyachada",
+    "B": "Oraliq miyada",
+    "C": "Talamusda",
+    "D": "Gipotalamusda",
+    "javob": "A"
+  },
+  {
+    "savol": "Reflektor yoyi boshlanadi",
+    "A": "Retseptordan",
+    "B": "Sezuvchi toladan",
+    "C": "Harakatlantiruvchi toladan",
+    "D": "Gangliyadan",
+    "javob": "A"
+  },
+  {
+    "savol": "Gomeostaz nechi turga bo`linadi",
+    "A": "2ta",
+    "B": "4ta",
+    "C": "6ta",
+    "D": "7ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Gomeostaz turlari to`g`ri ko`rsatilgan qatorni tanlang.",
+    "A": "Mutloq va plastik",
+    "B": "Yuza va ichki",
+    "C": "Tashqi va yuza",
+    "D": "Spetsefik va nospetsefik",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri gomeostazning plastik konstantasiga tegishli.",
+    "A": "Tana harorati",
+    "B": "PH",
+    "C": "O2 va CO2",
+    "D": "Qondagi qand miqdori",
+    "javob": "A"
+  },
+  {
+    "savol": "Qonning rang ko`rsatkichi deb… aytiladi",
+    "A": "Eritrotsitlarning gemoglobin bilan to`yinishiga",
+    "B": "Eritrositning hosil bo`lishi",
+    "C": "Eritrositning bo`yoqlarda bo`yalishi",
+    "D": "Leyotsitning eritrotsit bilan bo`yalishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Plazma tarkibidagi oqsillar uning necha foizini tashkil qiladi?",
+    "A": "7% ini",
+    "B": "0,9%ini",
+    "C": "0,8%ini",
+    "D": "1%ini",
+    "javob": "A"
+  },
+  {
+    "savol": "Qonning onkotik bosimini nima taminlaydi?",
+    "A": "80% ini albumin",
+    "B": "70%globulin",
+    "C": "40%fibrinogen",
+    "D": "80%fibrin",
+    "javob": "A"
+  },
+  {
+    "savol": "Qonning osmotik bosimining 60% nimaga to`g`ri keladi?",
+    "A": "0,9% li NaCl",
+    "B": "0,8%li NaCl",
+    "C": "0,9%li HCl",
+    "D": "70%globulin",
+    "javob": "A"
+  },
+  {
+    "savol": "Fiziologik gemoglobin birikmalarini tanlang",
+    "A": "oksigemoglobin, karbgemoglobin",
+    "B": "Metgemoglobin, Karbgemoglobin",
+    "C": "Metgemoglobin, oksigemoglobin,",
+    "D": "Metgemoglobin, Dezoksigemoglobin",
+    "javob": "A"
+  },
+  {
+    "savol": "Patologik gemoglobin birikmalariga mansublarini tanlang.",
+    "A": "metgemoglobin, karboksigemoglobin",
+    "B": "oksigemoglobin, karbgemoglobin",
+    "C": "Metgemoglobin, oksigemoglobin,",
+    "D": "Metgemoglobin, Dezoksigemoglobin",
+    "javob": "A"
+  },
+  {
+    "savol": "Eritrositlar hosil bo`lishi nima deyiladi?",
+    "A": "eritropoyez",
+    "B": "eritroginin",
+    "C": "gemostaz",
+    "D": "Gomeostaz",
+    "javob": "A"
+  },
+  {
+    "savol": "PH ning ishqoriy tomonga siljishi nima deyiladi?",
+    "A": "alkaloz",
+    "B": "Atsidoz",
+    "C": "eritron",
+    "D": "Gemostaz",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri fiziologik leykotsitozga misol bo`la oladi?",
+    "A": "homiladorlikdagi",
+    "B": "Infarkt",
+    "C": "Yallig`lanish",
+    "D": "Leykoz",
+    "javob": "A"
+  },
+  {
+    "savol": "Gemolizning necha turi tafovut etiladi?",
+    "A": "5 ta",
+    "B": "4 ta",
+    "C": "2ta",
+    "D": "1ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyida keltirilgan plazma oqsillaridan qaysi biri immun ta`sirga ega.",
+    "A": "globulin",
+    "B": "fibrinogen",
+    "C": "fibrin",
+    "D": "Gem",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri qonning himoya funksiyasiga tegishli?",
+    "A": "gemostaz",
+    "B": "transport",
+    "C": "temperatura",
+    "D": "gazlar tashilishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Buffer sistemalarning qaysi biri 75%ni tashkil qiladi?",
+    "A": "gemoglobinli",
+    "B": "karbonatli",
+    "C": "fosfatli",
+    "D": "Oqsilli",
+    "javob": "A"
+  },
+  {
+    "savol": "Eritrotsitlar mozori?",
+    "A": "taloq",
+    "B": "jigar",
+    "C": "o`pka",
+    "D": "Buyrak",
+    "javob": "A"
+  },
+  {
+    "savol": "To`qimalarda PH nechiga teng",
+    "A": "7,2 ga",
+    "B": "8,0 ga",
+    "C": "6,7 ga",
+    "D": "7,0 ga",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri qonnig boshqaruv funksiyasiga kiradi?",
+    "A": "termoregulyatsiya",
+    "B": "PH",
+    "C": "Qondagi qand miqdori",
+    "D": "CO2 va O2",
+    "javob": "A"
+  },
+  {
+    "savol": "Moddalar almashinuvining nihoyaviy maxsulotlarini ekskretor a`zolarga yetkazish qonning qaysi funksiyasiga taluqli?",
+    "A": "transport",
+    "B": "himoya",
+    "C": "boshqaruv",
+    "D": "Regulyatsiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri qonnig boshqaruv funksiyasiga kiradi?",
+    "A": "suv-tuz almashinuvi",
+    "B": "trofik",
+    "C": "nafas",
+    "D": "Gaz almashinuvi",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilarning qaysi birida reaktiv leykotsitoz kuzatiladi?",
+    "A": "infarktda",
+    "B": "homiladorlik",
+    "C": "miogen",
+    "D": "ovqatlangandan so`ng",
+    "javob": "A"
+  },
+  {
+    "savol": "Qo`zg`luvchan to`qimaning qo`zg`alishi uchun kerak bo`ladigan ta`sirlovchining eng minimal miqdori… deyiladi",
+    "A": "bo`sag`a kuchi",
+    "B": "loka javob",
+    "C": "mahalliy javob",
+    "D": "Refrakterlik",
+    "javob": "A"
+  },
+  {
+    "savol": "ATF sarfi hisobiga ionlarni konsentratsiysi past joydan yuqori joyga o`tkazadi.",
+    "A": "nasoslar",
+    "B": "kanallar",
+    "C": "tirqish",
+    "D": "Poralar",
+    "javob": "A"
+  },
+  {
+    "savol": "Membrana potensiali quyidagilarga bo`liq?",
+    "A": "Membrananing tanlab o`tkazihiga, Ionlarning hujayra ichi va tashqarisidagi farq, Nasoslar",
+    "B": "kanallar",
+    "C": "tirqish",
+    "D": "Poralar",
+    "javob": "A"
+  },
+  {
+    "savol": "Ta`sirlovchi qanchalik kuchli bo`lmasin lekin qo`zg`aluvchan to`qimaning bu tasirga umuman javob bera olmasligi… deyiladi.",
+    "A": "mutlaq refrakterlik",
+    "B": "loka javob",
+    "C": "mahalliy javob",
+    "D": "Depolerizatsiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Bo`sag`a kuchidan past kuch bilan qo`zg`aluvchan to`qimaga ta`sir etilganda nima kuzatiladi?",
+    "A": "lokal javob",
+    "B": "harakat potensiali",
+    "C": "depolerizatsiya",
+    "D": "mutlaq refrakterlik",
+    "javob": "A"
+  },
+  {
+    "savol": "Qonning yopishqoqligi nechiga teng?",
+    "A": "5ga",
+    "B": "55ga",
+    "C": "1ga",
+    "D": "7ga",
+    "javob": "A"
+  },
+  {
+    "savol": "Hujayra tashqarisi suyuqliklarini ko`rsating",
+    "A": "Qon, Limfa, To`qima suyuqligi",
+    "B": "Sellula ichidagi",
+    "C": "sitoplazma",
+    "D": "Protoplazma",
+    "javob": "A"
+  },
+  {
+    "savol": "Qonnin PH ko`rsagichi arteriyalarda qanday?",
+    "A": "7,4",
+    "B": "7,0",
+    "C": "6,4",
+    "D": "6,8",
+    "javob": "A"
+  },
+  {
+    "savol": "Vena qontomirida PH nechiga teng?",
+    "A": "7,34",
+    "B": "7,0",
+    "C": "6,4",
+    "D": "6,8",
+    "javob": "A"
+  },
+  {
+    "savol": "Metgemoglobin gemoglobinning qaysi gaz bilan hosil qilgan birikmasi?",
+    "A": "oksidlovchilar ta`sirida Fe+2 dan Fe+3 ga o`tishi",
+    "B": "Kislorod gazi bilan hosil qilgan birikma",
+    "C": "Karbonat angidrid gazi bilan hosil qilgan birikma",
+    "D": "Qaytarilgan gemoglobin",
+    "javob": "A"
+  },
+  {
+    "savol": "Dezoksigemoglobin nima?",
+    "A": "Qaytarilgan gemoglobin",
+    "B": "Is gazi bilan hosil qilgan birikma",
+    "C": "Kislorod gazi bilan hosil qilgan birikma",
+    "D": "Karbonat angidrid gazi bilan hosil qilgan birikma",
+    "javob": "A"
+  },
+  {
+    "savol": "Qonning himoya funksiyasiga kirmaydi",
+    "A": "termoregulyatsiya",
+    "B": "Spetsefik immunitet",
+    "C": "Nospetsifik immunitet",
+    "D": "Gemostaz",
+    "javob": "A"
+  },
+  {
+    "savol": "Eritrogenin qayerda ishlab chiqariladi?",
+    "A": "buyraklarda",
+    "B": "yurakda",
+    "C": "taloqda",
+    "D": "Siydik pufagida",
+    "javob": "A"
+  },
+  {
+    "savol": "Eritrosit qayerda parchalanadi?",
+    "A": "taloqda",
+    "B": "buyraklarda",
+    "C": "yurakda",
+    "D": "Jigarda",
+    "javob": "A"
+  },
+  {
+    "savol": "Eritrositning temir saqlovchi qismini toping",
+    "A": "Gem",
+    "B": "Globin",
+    "C": "Bilirubin",
+    "D": "Oqsilli qismi",
+    "javob": "A"
+  },
+  {
+    "savol": "Gomeostazning mutloq konstantasiga kiradi",
+    "A": "kislorod va karbonat miqdori",
+    "B": "temperatura",
+    "C": "puls",
+    "D": "Qon bosimi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qonning fizik-kimyoviy xossalarini ko`rsating",
+    "A": "Rangi, Osmotik bosimi, Yopishqoqligi",
+    "B": "qattiqligi",
+    "C": "fagatsitoz",
+    "D": "Gemostaz",
+    "javob": "A"
+  },
+  {
+    "savol": "NaCl ning 0,9% li eritmasi",
+    "A": "izotonik eritmasi",
+    "B": "gipertonik eritmasi",
+    "C": "gipotonik eritmasi",
+    "D": "megatonik eritma",
+    "javob": "A"
+  },
+  {
+    "savol": "NaCl ning 0,9% li eritmasidan yuqori bo`lgan eritma",
+    "A": "gipertonik eritmasi",
+    "B": "izotonik eritmasi",
+    "C": "gipotonik eritmasi",
+    "D": "Izobarik eritma",
+    "javob": "A"
+  },
+  {
+    "savol": "NaCl ning 0,9% li eritmasidan past eritmasi",
+    "A": "gipotonik eritma",
+    "B": "gipertonik eritmasi",
+    "C": "izotonik eritmasi",
+    "D": "Izobarik eritma",
+    "javob": "A"
+  },
+  {
+    "savol": "Qon plazmasining necha foizini oqsillar tashkil qiladi?",
+    "A": "7% ini",
+    "B": "0,8%",
+    "C": "0,9%",
+    "D": "10%",
+    "javob": "A"
+  },
+  {
+    "savol": "Qon plazmasining necha foizini yog`llar tashkil qiladi?",
+    "A": "0,8%",
+    "B": "0,9%",
+    "C": "10%",
+    "D": "7%",
+    "javob": "A"
+  },
+  {
+    "savol": "Qon plazmasining necha foizini suv tashkil qiladi?",
+    "A": "90-92%",
+    "B": "0,9%",
+    "C": "10%",
+    "D": "7%",
+    "javob": "A"
+  },
+  {
+    "savol": "Qon plazmasining necha foizi minirallarga to`g`ri keladi?",
+    "A": "0,9% ini",
+    "B": "90-92%",
+    "C": "10%",
+    "D": "7%",
+    "javob": "A"
+  },
+  {
+    "savol": "Qonning osmotik bosimi nechiga teng?",
+    "A": "7,6 atm.ga",
+    "B": "25 atm.ga",
+    "C": "4,6 atm.ga",
+    "D": "100 atm.ga",
+    "javob": "A"
+  },
+  {
+    "savol": "Qonga NaCl ning gipotonik eritmasi quyilganda kelib chiqadi",
+    "A": "osmotik gemoliz",
+    "B": "Mexanik gemoliz",
+    "C": "Immun gemoliz",
+    "D": "Termik gemoliz",
+    "javob": "A"
+  },
+  {
+    "savol": "Qon plazmasidagi qaysi oqsil qon ivishida ishtirok etadi?",
+    "A": "fibrinogen",
+    "B": "albumin",
+    "C": "globulin",
+    "D": "Kollagen",
+    "javob": "A"
+  },
+  {
+    "savol": "Atsidoz bu?",
+    "A": "PH ning kislotali tomonga siljishi",
+    "B": "PH ning ishqoriy tomonga siljishi",
+    "C": "Qon suyulib ketishi",
+    "D": "Qon quyuqlashishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Alkaloz bu?",
+    "A": "PH ning ishqoriy tomonga siljishi",
+    "B": "PH ning kislotali tomonga siljishi",
+    "C": "Qon suyulib ketishi",
+    "D": "Qon quyuqlashishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qonda albumin kamayishi nimaga olib keladi?",
+    "A": "oqsilsiz shishlarga",
+    "B": "PH ning ishqoriy tomonga siljishi",
+    "C": "PH ning kislotali tomonga siljishi",
+    "D": "Qon suyulib ketishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qonda uchramaydigan oqsilni ko`rsating",
+    "A": "globulin, fibrinogen, albumin",
+    "B": "kollagen",
+    "C": "fibrin",
+    "D": "NaCl",
+    "javob": "A"
+  },
+  {
+    "savol": "Albuminning vazifasini ko`rsating",
+    "A": "Transport, Onkotik bosim, Eritrotsit atrofida suvli halqa",
+    "B": "Transport",
+    "C": "Onkotik bosim",
+    "D": "Eritrotsit atrofida suvli halqa",
+    "javob": "A"
+  },
+  {
+    "savol": "Mutlaq refrakterlikda … bo`ladi.",
+    "A": "Na+ kannallari to`liq yopilgan",
+    "B": "Na+ kannallari to`liq ochilgan",
+    "C": "Hujayra ta`sirlovchi kuchiga qarab qo`zg`aladi",
+    "D": "Hujayra ta`sirlovchi kuchli bo`lsa qo`zg`aladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Bo`sag`a kuchi bu…?",
+    "A": "Harakat potensialin hosil qiluvchi minimal miqdordagi ta`sirlovchi",
+    "B": "Harakat potensialin hosil qiluvchi maksimal miqdordagi ta`sirlovchi",
+    "C": "Lokal javobga sabab bo`luvchi kuch",
+    "D": "Mahalliy javobga sabab bo`luvchi kuch",
+    "javob": "A"
+  },
+  {
+    "savol": "Tomozlovchi mediatorni ko`rsating.",
+    "A": "Glitsin",
+    "B": "Atsetilxolin",
+    "C": "Adrenalin",
+    "D": "Dofamin",
+    "javob": "A"
+  },
+  {
+    "savol": "Bir hujayradan ikkinchi hujayraga impuls o`tkazuvchi…tizim",
+    "A": "Sinaps",
+    "B": "Transpartyor",
+    "C": "Miozin",
+    "D": "Troponin",
+    "javob": "A"
+  },
+  {
+    "savol": "Kimyoviy sinaps xususiyatini ko`rsating",
+    "A": "Mediatori mavjud",
+    "B": "Boshqarib bo`lmaydi",
+    "C": "Tormozlanmaydi",
+    "D": "Charchamaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Elektr sinapslarning kamchiligini ko`rsating",
+    "A": "Boshqarib bo`lmaydi",
+    "B": "Tez charchaydi",
+    "C": "Bir tomonlama impuls o`tadi",
+    "D": "Kamchligi yo`q",
+    "javob": "A"
+  },
+  {
+    "savol": "Koagulyatsion gemostaz fazalari nechta?",
+    "A": "3ta",
+    "B": "2ta",
+    "C": "5ta",
+    "D": "4ta",
+    "javob": "A"
+  }
+]

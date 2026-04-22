@@ -1,0 +1,1882 @@
+[
+  {
+    "savol": "Sterilizatsiyadan keyin asboblar qanday saqlanadi ?",
+    "A": "usti steril mato bilan yopilgan holatda",
+    "B": "avtoklav",
+    "C": "ultrasonik apparat",
+    "D": "barcha javob to`gri",
+    "javob": "A"
+  },
+  {
+    "savol": "Kimyoviy antiseptika nima ?",
+    "A": "jarohatga ishlov berishda antiseptik va kimyoterapevtik vositalardan foydalanish",
+    "B": "gigroskopik bo`lib materiallari bilan infeksiyani chiqishini ta`minlash",
+    "C": "qon zardoblari,immunol ogik preparatlar qollash orqali infeksiyaga qarshi kurashish",
+    "D": "yaraga jarrohlik ishlov berish",
+    "javob": "A"
+  },
+  {
+    "savol": "Aralash antiseptika nima?",
+    "A": "antiseptikanibg bir necha xil usullarini birgalikda qo`llash",
+    "B": "gigroskopik bo`lib materiallari bilan infeksiyani chiqishini ta`minlash",
+    "C": "jarohatga ishlov berishda antiseptik va kimyoterapevtik vositalardan foydalanish",
+    "D": "yaraga jarrohlik ishlov berish",
+    "javob": "A"
+  },
+  {
+    "savol": "Aseptika nima ?",
+    "A": "davolash va tashxislash vaqtida mikroorganizmlarn i jarohatga tushishini oldini olish",
+    "B": "davolash va tashxislash vaqtida mikroorganizmlarn i jarohatdan bartaraf qilish chora tadbirlari davolash va tashxislash vaqtida mikroorganizmlarn i jarohatdan bartaraf qilish chora tadbirlari",
+    "C": "patogen va shartli patogen mikroorganizmlarn ing yo`qotishga qaratilgan chora tadbirlar",
+    "D": "mikroorganizmlar va ularning doiralarini fizik kimyoviy usullar bilan bartaraf qilish",
+    "javob": "A"
+  },
+  {
+    "savol": "Antiseptika nima?",
+    "A": "davolash va tashxislash vaqtida mikroorganizmlarn i jarohatdan bartaraf qilish chora tadbirlari davolash va tashxislash vaqtida mikroorganizmlarn i jarohatdan bartaraf qilish chora tadbirlari",
+    "B": "davolash va tashxislash vaqtida mikroorganizmlarn i jarohatga tushishini oldini olish",
+    "C": "patogen va shartli patogen mikroorganizmlarn ing yo`qotishga qaratilgan chora tadbirlar",
+    "D": "mikroorganizmlar va ularning doiralarini fizik kimyoviy usullar bilan bartaraf qilish",
+    "javob": "A"
+  },
+  {
+    "savol": "Dezinfeksiya nima?",
+    "A": "patogen va shartli patogen mikroorganizmlarn ing yo`qotishga qaratilgan chora tadbirlar",
+    "B": "davolash va tashxislash vaqtida mikroorganizmlarn i jarohatdan bartaraf qilish chora tadbirlari davolash va tashxislash vaqtida mikroorganizmlarni jarohatdan bartaraf qilish chora tadbirlari",
+    "C": "davolash va tashxislash vaqtida mikroorganizmlarn i jarohatga tushishini oldini olish",
+    "D": "mikroorganizmlar va ularning doiralarini fizik kimyoviy usullar bilan bartaraf qilish",
+    "javob": "A"
+  },
+  {
+    "savol": "Sterilizatsiya nima ?",
+    "A": "mikroorganizmlar va ularning sporalarini fizik kimyoviy ta`surotlar bilan bartaraf qilish",
+    "B": "davolash va tashxislash vaqtida mikroorganizmlarni jarohatga tushishini oldini olish",
+    "C": "patogen va shartli patogen mikroorganizmlarn ing yo`qotishga qaratilgan chora tadbirlar",
+    "D": "davolash va tashxislash vaqtida mikroorganizmlarn i jarohatdan bartaraf qilish chora tadbirlari davolash va tashxislash vaqtida mikroorganizmlarni jarohatdan bartaraf qilish chora tadbirlari",
+    "javob": "A"
+  },
+  {
+    "savol": "Rux-fosfat sementga kiradi?",
+    "A": "unifas",
+    "B": "charisma",
+    "C": "fuji",
+    "D": "composite",
+    "javob": "A"
+  },
+  {
+    "savol": "Rux-fosfat sementga kiradi?",
+    "A": "unisem",
+    "B": "charisma",
+    "C": "fuji",
+    "D": "composite",
+    "javob": "A"
+  },
+  {
+    "savol": "Kariyes kovakni yakuniy charxlash mezoni bo`lib hisoblanadi:",
+    "A": "zondlanganda oqish tusdagi, zich dentinni borligi",
+    "B": "oqish tusdagi yumshagan dentinni borligi",
+    "C": "pigmentlashgan yumshoq dentinni borligi",
+    "D": "barchasi to`g`ri",
+    "javob": "A"
+  },
+  {
+    "savol": "Dorili ishlov berishda nimalardan foydalaniladi ?",
+    "A": "kuchli bo`lmagan antiseptiklar",
+    "B": "kuchli antiseptiklar",
+    "C": "pulpaga zararli tasir etadigan",
+    "D": "dorilar bilan",
+    "javob": "A"
+  },
+  {
+    "savol": "Minimal invaziv charxlash usuli avzalliklari",
+    "A": "tish strukturasiga minimal tasir etish",
+    "B": "davolashga ko`p vaqt ketishi",
+    "C": "tish strukturasiga maksimal tasir etish",
+    "D": "kuchli og`riq bo`lishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Fissuralar germetizatsiyasi qaysi tishlarda o`tkaziladi?",
+    "A": "chaynov tishlarda",
+    "B": "frontal",
+    "C": "kesuv",
+    "D": "barcha tishlarga",
+    "javob": "A"
+  },
+  {
+    "savol": "Karioz kovakni charxlashning asosiy tamoyili",
+    "A": "zararlangan to`qimani to`liq olib tashlash",
+    "B": "texnik muvofiqlik tamoyili",
+    "C": "zararlanmagan to`qimani to`liq olib tashlash",
+    "D": "barchasi to`g`ri",
+    "javob": "A"
+  },
+  {
+    "savol": "“Qutisimon” kariyes kovak tamoyili",
+    "A": "kovak devori tubiga nisbatan 90oburchak ostida bo`lishi",
+    "B": "kovak devori tubiga nisbatan 180o burchak ostida bo`lishi",
+    "C": "kovak devori tubiga nisbatan 45oburchak ostida bo`lishi",
+    "D": "kovak devori tubiga nisbatan 190oburchak ostida bo`lishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Emal qirralariga ishlov berish amalga oshiriladi",
+    "A": "olmos bor bilan",
+    "B": "silindrik po`lat bor bilan",
+    "C": "barchasi to`g`ri",
+    "D": "korborund boshcha bilan",
+    "javob": "A"
+  },
+  {
+    "savol": "Sement asosli plomba fiksatsiyasini yaxshilash uchun qo`llaniladi:",
+    "A": "qo`shimcha maydon va retentsion nuqtalarni hosil qilish",
+    "B": "kovakka dumaloqlashgan shakl berish",
+    "C": "ajratuvchi taglik qo`ymaslik",
+    "D": "anker shtiftlar qo`yish",
+    "javob": "A"
+  },
+  {
+    "savol": "Qo`shimcha maydon tubining joylanishi:",
+    "A": "emal-dentin chegaradan 1-2 mm pastda",
+    "B": "emal va dentin chegarasida",
+    "C": "pulpa oldi dentin chegarasida",
+    "D": "barcha keltirilgan variantlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Kariesni topografik jihatdan turi?",
+    "A": "chuqur karies",
+    "B": "Blek bo`yicha Vsinf",
+    "C": "Blek bo`yicha VI sinf",
+    "D": "o`tkir",
+    "javob": "A"
+  },
+  {
+    "savol": "Kariesni topografik jihatdan turi?",
+    "A": "o`rta karies",
+    "B": "o`tkir",
+    "C": "surunkali",
+    "D": "Blek bo`yicha Vsinf",
+    "javob": "A"
+  },
+  {
+    "savol": "Kariesni topografik jihatdan turi?",
+    "A": "dog karies",
+    "B": "o`tkir",
+    "C": "Blek bo`yicha Vsinf",
+    "D": "surunkali",
+    "javob": "A"
+  },
+  {
+    "savol": "Kariesni topografik jihatdan turi?",
+    "A": "yuza karies",
+    "B": "Blek bo`yicha Vsinf",
+    "C": "o`tkir",
+    "D": "surunkali",
+    "javob": "A"
+  },
+  {
+    "savol": "Remodent qaysi kariesda qo`llaniladi?",
+    "A": "dog karies",
+    "B": "chuqur karies",
+    "C": "o`rta karies",
+    "D": "periodontitda",
+    "javob": "A"
+  },
+  {
+    "savol": "Adgeziya ma`nosi?",
+    "A": "yopishish birikish",
+    "B": "chirish",
+    "C": "ko`chish",
+    "D": "atrofiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Fissuralar germetizatsiyasida qanaqa plomba turlari qo`llaniladi?",
+    "A": "oquvchan plombalar",
+    "B": "sementlar",
+    "C": "shishaionomer",
+    "D": "amalgamalar",
+    "javob": "A"
+  },
+  {
+    "savol": "Tishning gistologik tuzilishiga kiradi?",
+    "A": "emal",
+    "B": "toj qism",
+    "C": "ildiz qism",
+    "D": "bo`yin qism",
+    "javob": "A"
+  },
+  {
+    "savol": "Tishning gistologik tuzilishiga kiradi?",
+    "A": "dentin",
+    "B": "ildiz qism",
+    "C": "toj qism",
+    "D": "bo`yin qism",
+    "javob": "A"
+  },
+  {
+    "savol": "Tishning gistologik tuzilishiga kiradi?",
+    "A": "sement",
+    "B": "toj qism",
+    "C": "ildiz qism",
+    "D": "bo`yin qism",
+    "javob": "A"
+  },
+  {
+    "savol": "Tishning anatomic tuzilishiga kiradi?",
+    "A": "toj qism",
+    "B": "emal",
+    "C": "dentin",
+    "D": "sement",
+    "javob": "A"
+  },
+  {
+    "savol": "Tishning anatomic tuzilishiga kiradi?",
+    "A": "ildiz qism",
+    "B": "dentin",
+    "C": "emal",
+    "D": "sement",
+    "javob": "A"
+  },
+  {
+    "savol": "Tishning anatomik tuzilishiga kiradi?",
+    "A": "bo`yin qism",
+    "B": "dentin",
+    "C": "sement",
+    "D": "emal",
+    "javob": "A"
+  },
+  {
+    "savol": "Chuqur kariesni davolashda birinchi bosqich?",
+    "A": "og`riqsizlantirish",
+    "B": "plomba qo`yish",
+    "C": "pardozlash",
+    "D": "kovakni shakllantirish",
+    "javob": "A"
+  },
+  {
+    "savol": "O`rta kariesni davolashda birinchi bosqich?",
+    "A": "og`riqsizlantirish",
+    "B": "kovakni shakllantirish",
+    "C": "plomba qo`yish",
+    "D": "pardozlash",
+    "javob": "A"
+  },
+  {
+    "savol": "Chuqur kariesni davolashda oxirgi bosqich?",
+    "A": "pardozlash",
+    "B": "kovakni shakllantirish",
+    "C": "og`riqsizlantirish",
+    "D": "anamnez yig`ish",
+    "javob": "A"
+  },
+  {
+    "savol": "Tomirsiz, hujayrasiz, organizmning eng qattiq to`qimasi qaysi?",
+    "A": "emal",
+    "B": "dentin",
+    "C": "sement",
+    "D": "pulpa",
+    "javob": "A"
+  },
+  {
+    "savol": "Birlamchi dentin bu?",
+    "A": "tish rivojlanishida hosil bo`ladi",
+    "B": "tasirotga javoban(eroziya, patologik yemirilish, karies) himoya to`siq sifatida vujudga keladi",
+    "C": "insonning hayoti davomida pulpaning fiziologik faoliyati natijasida ya`ni tish milkni yorib chiqqandan keyin paydo bo`ladi",
+    "D": "tish tortilgandan keyin yuzaga keladigan sement o`rnidagi dentin",
+    "javob": "A"
+  },
+  {
+    "savol": "Uchlamchi dentin bu?",
+    "A": "tasirotga javoban himoya to`siq sifatida vujudga keladi",
+    "B": "insonning hayoti davomida pulpaning fiziologik faoliyati natijasida ya`ni tish milkni yorib chiqqandan keyin paydo bo`ladi",
+    "C": "tish rivojlanishida hosil bo`ladi",
+    "D": "tish tortilgandan keyin yuzaga keladigan sement o`rnidagi dentin",
+    "javob": "A"
+  },
+  {
+    "savol": "Fissuralar germetizatsiyasida ishlatiladigan plombalarga misol keltiring",
+    "A": "shishaionomer sementlar",
+    "B": "rux fosfat sementlar",
+    "C": "sillerlar",
+    "D": "dentin malhami",
+    "javob": "A"
+  },
+  {
+    "savol": "Fissuralar germetizatsiyasida ishlatiladigan plombalarga misol keltiring",
+    "A": "kompomerlar",
+    "B": "rux fosfat sementlar",
+    "C": "sillerlar",
+    "D": "dentin malhami",
+    "javob": "A"
+  },
+  {
+    "savol": "O`tkazuvchanlik, ion almashinuvi va remineralizatsiya xususiyatlarga ega.bu qaysi to`qimaga xos",
+    "A": "emal",
+    "B": "dentin",
+    "C": "sement",
+    "D": "pulpa",
+    "javob": "A"
+  },
+  {
+    "savol": "Dental rentgen bu-",
+    "A": "1yoki 2ta tishning rentgen tasviri",
+    "B": "milkning rentgen tasviri",
+    "C": "barchasi to`g`ri",
+    "D": "butun jag`ning rentgen tasviri",
+    "javob": "A"
+  },
+  {
+    "savol": "Panaram rentgen bu-",
+    "A": "butun jag`ning rentgen tasviri",
+    "B": "milkning rentgen tasviri",
+    "C": "barchasi to`g`ri",
+    "D": "1yoki 2ta tishning rentgen tasviri",
+    "javob": "A"
+  },
+  {
+    "savol": "3D Rentgen bunda",
+    "A": "jag to`qimasiining qavatma- qavat tasviri",
+    "B": "milkning rentgen tasviri",
+    "C": "barchasi to`g`ri",
+    "D": "1yoki 2ta tishning rentgen tasviri",
+    "javob": "A"
+  },
+  {
+    "savol": "Karies kovakni charxlashning asosiy 2-bosqichi",
+    "A": "kengaytirish",
+    "B": "ochish",
+    "C": "nekroektomiya",
+    "D": "shakllantirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Profilaktik kengaytirish usulini o`tkazishdan maqsad",
+    "A": "retsediv kariesni oldini olish",
+    "B": "retentsion nuqtani hosil qilish",
+    "C": "adgeziv birikishini hosil qilish",
+    "D": "barchasi to`g`ri",
+    "javob": "A"
+  },
+  {
+    "savol": "Blek bo`yicha 1-sinf karioz kovak tasnifi",
+    "A": "moyar,premolyarlarning fissuralarida",
+    "B": "molyar,premolyarlarning kontakt yuzasi",
+    "C": "barcha tishlarning bo`yin sohasi",
+    "D": "kurak , qoziq tishlarning kontakt yuzasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Blek bo`yicha 2-sinf karioz kovak tasnifi",
+    "A": "moiyar,premolyarlarning kontakt yuzasi",
+    "B": "moiyar,premolyarlarning chaynov yuzasi",
+    "C": "barcha tishlarning bo`yin sohasi",
+    "D": "kurak , qoziq tishlarning kontakt yuzasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Blek bo`yicha 3-sinf karioz kovak tasnifi",
+    "A": "kurak , qoziq tishlarning faqat kontakt yuzasi",
+    "B": "moiyar,premolyarlarning chaynov yuzasi",
+    "C": "barcha tishlarning bo`yin sohasi",
+    "D": "moiyar,premolyarlarning kontakt yuzasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Kovakni charxlashda borning harakati",
+    "A": "keskin,tubidan tashqariga qarab",
+    "B": "kovak tubidan ichkariga qarab",
+    "C": "kovak devoridan tubiga qarab",
+    "D": "barchasi to`g`ri",
+    "javob": "A"
+  },
+  {
+    "savol": "Yallig`lanish belgisi",
+    "A": "og`riq",
+    "B": "qonash",
+    "C": "funksiyasining buzilmasligi",
+    "D": "barchasi to`g`ri",
+    "javob": "A"
+  },
+  {
+    "savol": "Yallig`lanish belgisi",
+    "A": "shish",
+    "B": "funksiyasining buzilmasligi",
+    "C": "barchasi to`g`ri",
+    "D": "kesish",
+    "javob": "A"
+  },
+  {
+    "savol": "Yallig`lanish belgisi",
+    "A": "qonash",
+    "B": "funksiyasining buzilmasligi",
+    "C": "barchasi to`g`ri",
+    "D": "kesish",
+    "javob": "A"
+  },
+  {
+    "savol": "Aseptikaga nimalar kirmaydi?",
+    "A": "jarohatni dorilar bilan yuvish.",
+    "B": "asboblar, bog`lov materiallarni sterillash.",
+    "C": "qo`lga maxsus ishlov berish.",
+    "D": "davolash vaqtida tozalikka rioya qilish.",
+    "javob": "A"
+  },
+  {
+    "savol": "EODda sog`lom tishlar qanday tok kuchiga javob beradi?",
+    "A": "2-6 mka",
+    "B": "50-60 mka",
+    "C": "80-100 mka",
+    "D": "120-200 mka",
+    "javob": "A"
+  },
+  {
+    "savol": "EOD 100dan yuqori bo`lsa",
+    "A": "pulpa to`liq nekrozga uchragan",
+    "B": "sog`lom tish",
+    "C": "karies",
+    "D": "o`tkir pulpit",
+    "javob": "A"
+  },
+  {
+    "savol": "EOD nima?",
+    "A": "pulpaning elektr tokiga javob reaksiyasi",
+    "B": "periodontning elektr tokiga javob reaksiyasi",
+    "C": "milkning elektr tokiga javob reaksiyasi",
+    "D": "barchasi to`g`ri",
+    "javob": "A"
+  },
+  {
+    "savol": "Palpatsiya nima?",
+    "A": "barmoq yordamida ushlab ko`rish",
+    "B": "tishni tuqqilatib ko`rish",
+    "C": "karioz kovak chuqurligini aniqlash",
+    "D": "barchasi to`g`ri",
+    "javob": "A"
+  },
+  {
+    "savol": "Perkussiya nima?",
+    "A": "tishni tukkilatib ko`rish",
+    "B": "barmoq yordamida ushlab ko`rish",
+    "C": "milkning elektr tokiga javob reaksiyasi",
+    "D": "karioz kovak chuqurligini aniqlash",
+    "javob": "A"
+  },
+  {
+    "savol": "Zondlash bu- zond yordamida…",
+    "A": "karioz kovak chuqurligini aniqlash",
+    "B": "tishni tukkilatib ko`rish",
+    "C": "barmoq yordamida ushlab ko`rish",
+    "D": "milkning elektr tokiga javob reaksiyasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Pulpitning klinik formulasini ko`rsating",
+    "A": "P",
+    "B": "A",
+    "C": "Pt",
+    "D": "C",
+    "javob": "A"
+  },
+  {
+    "savol": "Kariyes kasalligi klinik formulasini ko`rsating",
+    "A": "C",
+    "B": "P",
+    "C": "A",
+    "D": "Pt",
+    "javob": "A"
+  },
+  {
+    "savol": "Periodontitning klinik formulasini ko`rsating",
+    "A": "Pt",
+    "B": "C",
+    "C": "P",
+    "D": "A",
+    "javob": "A"
+  },
+  {
+    "savol": "Dog` karies qaysi kasallik bilan qiyosiy tashxislanadi?",
+    "A": "flyaroz",
+    "B": "chuqur karies",
+    "C": "barchasi bilan",
+    "D": "ponasimon nuqson",
+    "javob": "A"
+  },
+  {
+    "savol": "Dog` karies qaysi kasallik bilan qiyosiy tashxislanadi?",
+    "A": "gipoplaziya",
+    "B": "chuqur karies",
+    "C": "barchasi bilan",
+    "D": "ponasimon nuqson",
+    "javob": "A"
+  },
+  {
+    "savol": "Milk usti karashlar",
+    "A": "karies chaqiruvchi omil",
+    "B": "pulpit chaqiruvchi omil",
+    "C": "paradont kasalligini chaqiruvchi omil",
+    "D": "flyaroz chaqiruvchi omil",
+    "javob": "A"
+  },
+  {
+    "savol": "Milk osti karashlar",
+    "A": "paradont kasalligini chaqiruvchi omil",
+    "B": "flyaroz chaqiruvchi omil",
+    "C": "karies chaqiruvchi omil",
+    "D": "pulpit chaqiruvchi omil",
+    "javob": "A"
+  },
+  {
+    "savol": "Plombalangan tishning klinik formulasini ko`rsating",
+    "A": "П",
+    "B": "Pt",
+    "C": "C",
+    "D": "P",
+    "javob": "A"
+  },
+  {
+    "savol": "Tish karashi hosil bo`lishiga olib kelu vchi asosiy faktor",
+    "A": "yomon og`iz bo`shlig`i gigiyenasi",
+    "B": "plomba va protezlar borligi",
+    "C": "chaynov intensivligi",
+    "D": "ovqat ratsioni",
+    "javob": "A"
+  },
+  {
+    "savol": "Tishning bo`yin sohasida emalning qalinligi",
+    "A": "0,01mm",
+    "B": "0,05mm",
+    "C": "0,5mm",
+    "D": "0,1mm",
+    "javob": "A"
+  },
+  {
+    "savol": "Emalning asosiy stukturali elementini ko`rsating",
+    "A": "emal prizmalari",
+    "B": "emal birikmalari",
+    "C": "emal naychalari",
+    "D": "emal suyuqligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Dentinning gistologik tuzilishi nimalardan iborat",
+    "A": "dentin naychalari",
+    "B": "dentin prizmalari",
+    "C": "dentin suyuqligi",
+    "D": "dentin birikmalari",
+    "javob": "A"
+  },
+  {
+    "savol": "Emalning kimyoviy tarkibi",
+    "A": "96%anorganik,1-2 %organik,3,8%suv",
+    "B": "90%anorganik,1,2 %organik,3,8%suv",
+    "C": "99%anorganik,1,2 %organik,3,8%suv",
+    "D": "95%anorganik,9,2 %organik,3,8%suv",
+    "javob": "A"
+  },
+  {
+    "savol": "Ikkilamchi dentin bu?",
+    "A": "insonning hayoti davomida pulpaning fiziologik faoliyati natijasida ya`ni tish milkni yorib chiqqandan keyin paydo bo`ladi",
+    "B": "tish rivojlanishida hosil bo`ladi",
+    "C": "tasirotga javoban(eroziya, patologik yemirilish, karies) himoya to`siq sifatida vujudga keladi",
+    "D": "tish tortilgandan keyin yuzaga keladigan sement o`rnidagi dentin",
+    "javob": "A"
+  },
+  {
+    "savol": "Hujayrasiz sement qayerda bo`ladi",
+    "A": "dentinga yaqin atrofda",
+    "B": "ildiz ichida",
+    "C": "dentin ichida",
+    "D": "emalga yo`nalib",
+    "javob": "A"
+  },
+  {
+    "savol": "ICON terapiyada ETCH geli tarkibi nima?",
+    "A": "15% li HCl",
+    "B": "15%Ortofosfor kislota",
+    "C": "45% li HCl",
+    "D": "37% Ortofosfor kislota",
+    "javob": "A"
+  },
+  {
+    "savol": "Fissuralar germetizatsiyasida ishlatiladigan plombalarga misol keltiring",
+    "A": "silantlar",
+    "B": "rux fosfat sementlar",
+    "C": "sillerlar",
+    "D": "dentin malhami",
+    "javob": "A"
+  },
+  {
+    "savol": "Fizik antiseptika nima ?",
+    "A": "gigroskopik bo`lib materiallari bilan infeksiyani chiqishini ta`minlash",
+    "B": "yaraga jarrohlik ishlov berish",
+    "C": "qon zardoblari, immunol ogik preparatlar qollash orqali infeksiyaga qarshi kurashish",
+    "D": "jarohatga ishlov berishda antiseptik va kimyoterapevtik vositalardan foydalanish",
+    "javob": "A"
+  },
+  {
+    "savol": "Biologik antiseptika nima?",
+    "A": "qon zardoblari, immunol ogik preparatlar qollash orqali infeksiyaga qarshi kurashish",
+    "B": "gigroskopik bo`lib materiallari bilan infeksiyani chiqishini ta`minlash",
+    "C": "jarohatga ishlov berishda antiseptik va kimyoterapevtik vositalardan foydalanish",
+    "D": "yaraga jarrohlik ishlov berish",
+    "javob": "A"
+  },
+  {
+    "savol": "Mexanik antiseptika nima ?",
+    "A": "yaraga jarrohlik ishlov berish",
+    "B": "qon zardoblari, immunol ogik preparatlar qo`llash orqali infeksiyaga qarshi kurashish",
+    "C": "antiseptikanibg bir necha xil usullarini birgalikda qo`llash",
+    "D": "jarohatga ishlov berishda antiseptik va kimyoterapevtik vositalardan foydalanish",
+    "javob": "A"
+  },
+  {
+    "savol": "Fizik antiseptika nima?",
+    "A": "gigroskopik bo`lib materiallari bilan infeksiyani chiqishini ta`minlash",
+    "B": "yaraga jarrohlik ishlov berish",
+    "C": "qon zardoblari, immunol ogik preparatlar qollash orqali infeksiyaga qarshi kurashish",
+    "D": "jarohatga ishlov berishda antiseptik va kimyoterapevtik vositalardan foydalanish",
+    "javob": "A"
+  },
+  {
+    "savol": "37-tishdagi ildiz va kanallar soni",
+    "A": "2ta ildiz 3ta kanal",
+    "B": "3ta ildiz 2ta kanal",
+    "C": "4ta ildiz 3ta kanal",
+    "D": "3ta ildiz 3ta kanal",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi bosqichdagi kariesda remineralizatsion davolash eng samarali bo`ladi?",
+    "A": "dog` bosqichidagi karies",
+    "B": "o`tkir karies",
+    "C": "surunkali karies",
+    "D": "pulpit",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri remineralizatsiyani kuchaytiradi?",
+    "A": "fluoridli preparatlar va kalsiy-fosfat tuzlari",
+    "B": "kislotalar va shirin mahsulotlar",
+    "C": "antibiotiklar",
+    "D": "juda sovuq ichimliklar",
+    "javob": "A"
+  },
+  {
+    "savol": "Remineralizatsiya nima?",
+    "A": "emalda yo`qolgan minerallarni qayta tiklash jarayoni",
+    "B": "tishni burg`ulash jarayoni",
+    "C": "emaldan minerallar chiqib ketishi",
+    "D": "pulpani olib tashlash",
+    "javob": "A"
+  },
+  {
+    "savol": "Surunkali kariesda tish to`qimalarining holati qanday bo`ladi?",
+    "A": "qattiq, qoramtir rangda",
+    "B": "yumshoq va och rangli",
+    "C": "yumshoq, oqish rangda",
+    "D": "shaffof, o`zgarishsiz",
+    "javob": "A"
+  },
+  {
+    "savol": "Dog` bosqichidagi kariesda asosiy patologik jarayon qaysi?",
+    "A": "emalning minerallanishining buzilishi",
+    "B": "emal organik moddasining yo`qolishi",
+    "C": "dentin yorig`i paydo bo`lishi",
+    "D": "pulpaning yallig`lanishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Dog` bosqichidagi kariesda emal yuzasida qanday o`zgarish kuzatiladi?",
+    "A": "emal silliqligi yo`qoladi, oqaradi yoki qorayadi",
+    "B": "tish yuzasi chuqurlashadi",
+    "C": "tish silliqligi ortadi",
+    "D": "tish qattiqligi oshadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Pulpaning tashqi qavatida joylashgan hujayralar qaysi?",
+    "A": "odontoblastlar",
+    "B": "fibroblastlar",
+    "C": "limfotsitlar",
+    "D": "plazmotsitlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Predentin qayerda joylashgan?",
+    "A": "emal yuzasida",
+    "B": "pulpa bilan chegarada",
+    "C": "sement ostida",
+    "D": "tish ildizida",
+    "javob": "A"
+  },
+  {
+    "savol": "Sementni hosil qiluvchi asosiy hujayralar qanday nomlanadi?",
+    "A": "sementoblastlar",
+    "B": "odontoblastlar",
+    "C": "osteoblastlar",
+    "D": "fibroblastlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Kariesning boshlang`ich bosqichida qaysi o`zgarish kuzatiladi?",
+    "A": "emalda demineralizatsiya",
+    "B": "emal qatlamining mexanik buzilishi",
+    "C": "dentin yoriqlari paydo bo`lishi",
+    "D": "pulpit rivojlanishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Karies nazariyalaridan qaysi biri eng ko`p tan olingan?",
+    "A": "kimyoviy-parazitar nazariya",
+    "B": "fermentativ nazariya",
+    "C": "parazitar nazariya",
+    "D": "trofik nazariya",
+    "javob": "A"
+  },
+  {
+    "savol": "Karies rivojlanishida qaysi bakteriya eng muhim rol o`ynaydi?",
+    "A": "streptococcus mutans",
+    "B": "lactobacillus acidophilus",
+    "C": "actinomyces israelii",
+    "D": "staphylococcus aureus",
+    "javob": "A"
+  },
+  {
+    "savol": "Emal tarkibida eng ko`p uchraydigan modda qaysi?",
+    "A": "gidroksiapatit kristallari",
+    "B": "organik modda",
+    "C": "suv",
+    "D": "kollagen tolalar",
+    "javob": "A"
+  },
+  {
+    "savol": "Emal prizmasini ishlab chiqaruvchi hujayralar qanday nomlanadi?",
+    "A": "ameloblastlar",
+    "B": "odontoblastlar",
+    "C": "fibroblastlar",
+    "D": "osteoblastlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Fissura germetizatsiyasining asosiy maqsadi nima?",
+    "A": "Chuqur va tor fissuralarni kariesdan himoya qilish",
+    "B": "Tishni oqartirish",
+    "C": "Emalni remineralizatsiya qilish",
+    "D": "Tishni mustahkamlash uchun ortodontik tayyorlash",
+    "javob": "A"
+  },
+  {
+    "savol": "003 raqamli kasallik varasi?",
+    "A": "Bemorlarni kasalxonada yotqizish to`g`risida",
+    "B": "Profilaktik emlash to`g`risida",
+    "C": "Stomatologik bemorlarni qabul qilish to`g`risida",
+    "D": "Tibbiy qon taxlili",
+    "javob": "A"
+  },
+  {
+    "savol": "063 raqamli kasallik varasi?",
+    "A": "Profilaktik emlash to`g`risida",
+    "B": "Bemorlarni kasalxonada yotqizish to`g`risida",
+    "C": "Tibbiy qon taxlili",
+    "D": "Stomatologik bemorlarni qabul qilish to`g`risida",
+    "javob": "A"
+  },
+  {
+    "savol": "043 raqamli kasallik varasi?",
+    "A": "Stomatologik bemorlarni qabul qilish to`g`risida",
+    "B": "Bemorlarni kasalxonada yotqizish to`g`risida",
+    "C": "Profilaktik emlash to`g`risida",
+    "D": "Tibbiy qon taxlili",
+    "javob": "A"
+  },
+  {
+    "savol": "207 raqamli kasallik varasi?",
+    "A": "Tibbiy qon taxlili",
+    "B": "Bemorlarni kasalxonada yotqizish to`g`risida",
+    "C": "Profilaktik emlash to`g`risida",
+    "D": "Stomatologik bemorlarni qabul qilish to`g`risida",
+    "javob": "A"
+  },
+  {
+    "savol": "Miller nazariyasiga ko`ra kariesning asosiy sababi nima?",
+    "A": "Bakteriyalar tomonidan hosil qilingan kislotalar",
+    "B": "Tishning mineral tarkibi",
+    "C": "Gingivaning yallig`lanishi",
+    "D": "Tish toshlari",
+    "javob": "A"
+  },
+  {
+    "savol": "Miller nazariyasiga ko`ra kariesni boshlovchi asosiy kislota qaysi?",
+    "A": "Sut kislotasi",
+    "B": "Sulfat kislota",
+    "C": "Azot kislotasi",
+    "D": "Uglekislota",
+    "javob": "A"
+  },
+  {
+    "savol": "Miller nazariyasida karies jarayonining birinchi bosqichi qaysi?",
+    "A": "emalning demineralizatsiyasi",
+    "B": "Dentin ichida kavita hosil bo`lishi",
+    "C": "Pulpaga o`tish",
+    "D": "Tishning sinishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Miller nazariyasi qanday ikki omilga asoslanadi?",
+    "A": "Kimyoviy + bakterial omillar",
+    "B": "Mexanik + termik",
+    "C": "Irritatsiya + travma",
+    "D": "Oziqa + gormonal",
+    "javob": "A"
+  },
+  {
+    "savol": "Entinga ko`ra pulpa qon aylanishining buzilishi qaysi oqibatga olib keladi?",
+    "A": "Emalning zaiflashishi va kariesga moyillik oshishiga",
+    "B": "Tish toshlarining ko`payishiga",
+    "C": "Pulpitning darhol rivojlanishiga",
+    "D": "Gingivit paydo bo`lishiga",
+    "javob": "A"
+  },
+  {
+    "savol": "Platonov nazariyasiga ko`ra karies jarayoni qanday boshlanadi?",
+    "A": "Emal osti zonasida trofik buzilishlar",
+    "B": "Emalga kislota bevosita ta`siri",
+    "C": "Emal prizmalari mexanik yorilishi",
+    "D": "Tish yuzasiga shakar yopishishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Platonov nazariyasi yana qanday nom bilan yuritiladi?",
+    "A": "Trofik–neyrogen nazariya",
+    "B": "Kimyoviy–bakterial nazariya",
+    "C": "Galvanik nazariya",
+    "D": "Moddalar almashinuvi nazariyasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Paradontit nima?",
+    "A": "Paradont to`qima yalig`lanishi",
+    "B": "Og`iz bo`shligining yallig`lanishi",
+    "C": "Tilning yalig`lanishi",
+    "D": "Pulpaning yalig`lanishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Periodontit bu-?",
+    "A": "Periodont to`qima yalig`lanishi",
+    "B": "Paradont to`qima yalig`lanishi",
+    "C": "Og`iz bo`shligining yallig`lanishi",
+    "D": "Tilning yalig`lanishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Kariyes bu…",
+    "A": "Tish qattiq toqimasining nuqsoni",
+    "B": "Tish yumshoq toqimasining nuqsoni",
+    "C": "Og`iz bo`shligining yallig`lanishi",
+    "D": "Milkning yalliglanishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Paradont to`qimasiga kiradi",
+    "A": "Ildiz sementi, periodont",
+    "B": "Suyak usti pardasi,til",
+    "C": "Ildiz sementi,lunj",
+    "D": "Barchasi to`g`ri",
+    "javob": "A"
+  },
+  {
+    "savol": "Paradont to`qimasiga kiradi?",
+    "A": "Suyak usti pardasi, milk",
+    "B": "Barchasi to`g`ri",
+    "C": "Suyak usti pardasi,til",
+    "D": "Til,milk,lunj",
+    "javob": "A"
+  },
+  {
+    "savol": "Kariesning asorati",
+    "A": "Pulpit",
+    "B": "Ponasimon nuqson",
+    "C": "Flyuoroz",
+    "D": "Barcha javoblar to`g`ri",
+    "javob": "A"
+  },
+  {
+    "savol": "Nokarioz kasalliklarga kiradi",
+    "A": "Ponasimon nuqson",
+    "B": "Pulpit",
+    "C": "Karies",
+    "D": "Periodontit",
+    "javob": "A"
+  },
+  {
+    "savol": "Nokarioz kasalliklarga kiradi",
+    "A": "Gipoplaziya",
+    "B": "Pulpit",
+    "C": "Karies",
+    "D": "Periodontit",
+    "javob": "A"
+  },
+  {
+    "savol": "Nokarioz kasalliklarga kiradi",
+    "A": "Flyuroz",
+    "B": "Pulpit",
+    "C": "Karies",
+    "D": "Periodontit",
+    "javob": "A"
+  },
+  {
+    "savol": "Nokarioz kasalliklarga kiradi",
+    "A": "Emal eroziyasi",
+    "B": "Pulpit",
+    "C": "Karies",
+    "D": "Periodontit",
+    "javob": "A"
+  },
+  {
+    "savol": "Nokarioz kasalliklarga kiradi",
+    "A": "Giperplaziya",
+    "B": "Pulpit",
+    "C": "Karies",
+    "D": "Periodontit",
+    "javob": "A"
+  },
+  {
+    "savol": "EODda sog`lom tishlar qanday tok kuchiga javob beradi?",
+    "A": "2-6 mkA;",
+    "B": "50-60 mkA;",
+    "C": "80-100 mkA;",
+    "D": "120-200 mkA;",
+    "javob": "A"
+  },
+  {
+    "savol": "EODda chuqur kariesda tishlar qanday tok kuchiga javob beradi",
+    "A": "8-12-15mkA;",
+    "B": "2-6 mkA;",
+    "C": "50-60 mkA;",
+    "D": "80-100 mkA;",
+    "javob": "A"
+  },
+  {
+    "savol": "O`tkir o`choqli pulpitda EOD nechchiga teng",
+    "A": "20-40 mkА;",
+    "B": "2-6 mkA;",
+    "C": "50-60 mkA;",
+    "D": "80-100 mkA;",
+    "javob": "A"
+  },
+  {
+    "savol": "EODda dog` bosqichidagi kariesda qanday tok kuchiga javob beradi?",
+    "A": "2-6 mkA;",
+    "B": "50-60 mkA;",
+    "C": "80-100 mkA;",
+    "D": "120-200 mkA;",
+    "javob": "A"
+  },
+  {
+    "savol": "EOD 100dan yuqori bo`lsa",
+    "A": "Pulpa to`liq nekrozga uchragan",
+    "B": "Sog`lom tish",
+    "C": "Karies",
+    "D": "O`tkir pulpit",
+    "javob": "A"
+  },
+  {
+    "savol": "Gorizontal perkussiyadagi og`riq bu-",
+    "A": "Marginal to`qimalardagi yallig`lanish",
+    "B": "Emal emirilishi",
+    "C": "Apical to`qimalardagi yallig`lanish",
+    "D": "Barchasi to`g`ri",
+    "javob": "A"
+  },
+  {
+    "savol": "Vertical perkussiyadagi og`riq bu-",
+    "A": "Apical to`qimalardagi yallig`lanish",
+    "B": "Marginal to`qimalardagi yallig`lanish",
+    "C": "Emal emirilishi",
+    "D": "Barchasi to`g`ri",
+    "javob": "A"
+  },
+  {
+    "savol": "Kariyesimmun zonalar joylashadi:",
+    "A": "do`mboq va vestibulyar yuzalarda",
+    "B": "ko`r teshiklarda",
+    "C": "fissura va do`mboqlarda",
+    "D": "vestibulyar yuza va fissuralarda",
+    "javob": "A"
+  },
+  {
+    "savol": "O`rta karies qaysi kasallik bilan qiyosiy tashxislanadi?",
+    "A": "Surunkali periodontit",
+    "B": "Dog` karies",
+    "C": "O`tkir o`choqli pulpit",
+    "D": "Periostit",
+    "javob": "A"
+  },
+  {
+    "savol": "O`rta karies qaysi kasallik bilan qiyosiy tashxislanadi?",
+    "A": "Chuqur karies",
+    "B": "Osteomielit",
+    "C": "Dog` karies",
+    "D": "Surunkali fibroz pulpit",
+    "javob": "A"
+  },
+  {
+    "savol": "O`rta karies qaysi kasallik bilan qiyosiy tashxislanadi?",
+    "A": "Ponasimon nuqson",
+    "B": "Periostit",
+    "C": "Osteomielit",
+    "D": "Dog` karies",
+    "javob": "A"
+  },
+  {
+    "savol": "Chuqur karies qaysi kasallik bilan qiyosiy tashxislanadi?",
+    "A": "O`tkir o`choqli pulpit",
+    "B": "Periostit",
+    "C": "Osteomielit",
+    "D": "Dog` karies",
+    "javob": "A"
+  },
+  {
+    "savol": "Chuqur karies qaysi kasallik bilan qiyosiy tashxislanadi?",
+    "A": "Surunkali fibroz pulpit",
+    "B": "Periostit",
+    "C": "Osteomielit",
+    "D": "Dog` karies",
+    "javob": "A"
+  },
+  {
+    "savol": "Karies etiologiyasida mahalliy omillar:",
+    "A": "Mikroorganizmlarga boy tish qarashi",
+    "B": "Noto`liq ovqatlanish va sifatsiz ichimlik suvi",
+    "C": "Organizmga ekstremal ta`sir",
+    "D": "Barchasi to`g`ri",
+    "javob": "A"
+  },
+  {
+    "savol": "Karies etiologiyasida umumiy omillar:",
+    "A": "Sifatsiz ichimlik suvi",
+    "B": "Og`iz bo`shlig`idagi yopishqoq uglivod qoldiqlari",
+    "C": "Tish qattiq to`qimalarini rezistentligi",
+    "D": "Tish qattiq to`qimalarining noto`liq strukturasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Karies etiologiyasida mahalliy omillar:",
+    "A": "Og`iz suyuqligini tarkibi va miqdorini o`zgarishi",
+    "B": "Organizmga ekstremal ta`sir",
+    "C": "Noto`liq ovqatlanish va sifatsiz ichimlik suvi",
+    "D": "Barchasi to`g`ri",
+    "javob": "A"
+  },
+  {
+    "savol": "Tishlar qattiqligi ni maga bog`liq.",
+    "A": "emal tarkibidagikristal va prizmalarga",
+    "B": "dentin tarkibidagikristallar va prizmalarga",
+    "C": "ovqatlanishga",
+    "D": "Immunitetga",
+    "javob": "A"
+  },
+  {
+    "savol": "Chuqur kariesning lotinchasi nima?",
+    "A": "Caries profunda",
+    "B": "Caries macula",
+    "C": "Caries superficialis",
+    "D": "Caries media",
+    "javob": "A"
+  },
+  {
+    "savol": "O`rta kariesning lotinchasi nima?",
+    "A": "Caries media",
+    "B": "Caries profunda",
+    "C": "Caries macula",
+    "D": "Caries superficialis",
+    "javob": "A"
+  },
+  {
+    "savol": "Chuqur kariesda tishning qaysi qismi zararlanadi?",
+    "A": "Emal va dentin",
+    "B": "Pulpa",
+    "C": "Sement",
+    "D": "Faqat emal",
+    "javob": "A"
+  },
+  {
+    "savol": "Tishning emal to`qimasi qayerda joylashgan",
+    "A": "Tishning toj qismida",
+    "B": "Barchasi to`g`ri",
+    "C": "Tishning toj va ildiz qismida",
+    "D": "Suyak usti pardasida",
+    "javob": "A"
+  },
+  {
+    "savol": "Tishning dentin to`qimasi qayerda joylashgan ?",
+    "A": "Tishning toj va ildiz qismida",
+    "B": "Tishning faqat ildiz qismida",
+    "C": "Tishning faqat toj qismida",
+    "D": "Barchasi to`g`ri",
+    "javob": "A"
+  },
+  {
+    "savol": "Tishning sement to`qimasi qayerda joylashgan?",
+    "A": "Tishning ildiz qismida",
+    "B": "Barchasi to`g`ri",
+    "C": "Tishning toj va ildiz qismida",
+    "D": "Suyak usti pardasida",
+    "javob": "A"
+  },
+  {
+    "savol": "Odontotrop davolovchi taglikka xos xususiyat",
+    "A": "Pulpa ustidagi dentin qavatini mineralizatsiyasini kuchaytirishi",
+    "B": "Odontotrop va biologik ta`sir etuvchi",
+    "C": "Tish pulpasi va organizmga indifferentligi",
+    "D": "Doimiy plomba fiksatsiyasini oshirishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Аjrаtuvchi tаgliklаrga tаlаblаr:",
+    "A": "Dentinga remineralizatsiyalo vchi ta`sir etishi",
+    "B": "Ikkilamchi dentin hosil bo`lishini tezlashtirishi",
+    "C": "Odontotrop va biologik ta`sir etuvchi",
+    "D": "Tish pulpasi va organizmga indifferentligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Аjrаtuvchi tаgliklаrga tаlаblаr:",
+    "A": "Chaynov bosimiga chidamli bo`lishi kerak",
+    "B": "Tish pulpasi va organizmga indifferentligi",
+    "C": "Ikkilamchi dentin hosil bo`lishini tezlashtiruvchi",
+    "D": "Qotmaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Asosli ajrаtuvchi tаgliklаrga xos xususiyat:",
+    "A": "Kavakni optimal geometriyasini, tayanch nuqtalarini saqlagan xolda xosil qilish",
+    "B": "Ikkilamchi dentin hosil bo`lishini tezlashtiruvchi",
+    "C": "Odontotrop va biologik ta`sir etuvchi",
+    "D": "Mexanik mustaxkam emas",
+    "javob": "A"
+  },
+  {
+    "savol": "Asosli ajrаtuvchi tаgliklаrga xos xususiyat:",
+    "A": "Pulpani termik , kimyoviy ta`surotlardan ximoyalash",
+    "B": "Mexanik mustaxkam emas",
+    "C": "Ikkilamchi dentin hosil bo`lishini tezlashtiruvchi",
+    "D": "Odontotrop va biologik ta`sir etuvchi",
+    "javob": "A"
+  },
+  {
+    "savol": "Kariyesni jarrohlik davolash nima?",
+    "A": "Charxlash, plombalash",
+    "B": "Remineralizatsion terapiya",
+    "C": "Icon terapiyasi",
+    "D": "Konservativ davolash",
+    "javob": "A"
+  },
+  {
+    "savol": "Kariyesni noinvaziv davolash nima?",
+    "A": "Icon terapiyasi",
+    "B": "Charxlash",
+    "C": "Plombalash",
+    "D": "Barchasi to`g`ri",
+    "javob": "A"
+  },
+  {
+    "savol": "Kariyesni noinvaziv davolash nima?",
+    "A": "Remineralizatsion terapiya",
+    "B": "Charxlash",
+    "C": "Plombalash",
+    "D": "Barchasi to`g`ri",
+    "javob": "A"
+  },
+  {
+    "savol": "Mahalliy og`riqsizlantirish bo`linadi:",
+    "A": "in`eksion va noin`eksion",
+    "B": "invaziv bo`lmagan va invaziv usullar",
+    "C": "fizik, ximik va boshqa usullar",
+    "D": "infiltratsion, o`tkazuvchi In`eksion og`riqsizlantirish nima?",
+    "javob": "A"
+  },
+  {
+    "savol": "Noin`eksion og`riqsizlantirish turlari:",
+    "A": "fizik, ximik va boshqalar",
+    "B": "infiltratsion, o`tkazuvchi",
+    "C": "in`eksion va noin`eksion",
+    "D": "invaziv bo`lmagan va invaziv",
+    "javob": "A"
+  },
+  {
+    "savol": "In`eksion og`riqsizlantirish turlari:",
+    "A": "infiltratsion, o`tkazuvchi",
+    "B": "in`eksion va noin`eksion",
+    "C": "invaziv bo`lmagan va invaziv",
+    "D": "fizik, ximik va boshqa",
+    "javob": "A"
+  },
+  {
+    "savol": "Infiltratsion og`riqsizlantirish turlari:",
+    "A": "Intrapulpar",
+    "B": "Mental",
+    "C": "Mandibulyar",
+    "D": "Torusal",
+    "javob": "A"
+  },
+  {
+    "savol": "Kimyoviy og`riqsizlantirish turi:",
+    "A": "Aplikasiya",
+    "B": "Muzlatish",
+    "C": "Anistetikni elektrofarez yordamida shimdirish",
+    "D": "Barchasi to`g`ri",
+    "javob": "A"
+  },
+  {
+    "savol": "Fizik og`riqsizlantirish turi:",
+    "A": "Muzlatish",
+    "B": "Aplikasiya",
+    "C": "Anistetikni elektrofarez yordamida shimdirish",
+    "D": "Barchasi to`g`ri",
+    "javob": "A"
+  },
+  {
+    "savol": "Ozon terapiyasidan foydalanishga qarshi ko`rsatmalar",
+    "A": "Yurak-qon tomir tizimining yetishmovchiligi",
+    "B": "Yosh bolalarga",
+    "C": "Nogironlarga",
+    "D": "Oshqozon ichak kasalliklarida",
+    "javob": "A"
+  },
+  {
+    "savol": "Ozon terapiyasidan foydalanishga qarshi ko`rsatmalar",
+    "A": "Gipertonik kasallik",
+    "B": "Yosh bolalarga",
+    "C": "Nogironlarga",
+    "D": "Oshqozon ichak kasalliklarida",
+    "javob": "A"
+  },
+  {
+    "savol": "Ozon terapiyasidan foydalanishga qarshi ko`rsatmalar",
+    "A": "Homiladorlar",
+    "B": "Yosh bolalarga",
+    "C": "Nogironlarga",
+    "D": "Oshqozon ichak kasalliklarida",
+    "javob": "A"
+  },
+  {
+    "savol": "Glasperlinli sterilizatsiya usulida harorat qancha bo`lishi kerak",
+    "A": "230-270",
+    "B": "500",
+    "C": "100-200",
+    "D": "100-150",
+    "javob": "A"
+  },
+  {
+    "savol": "Avtoklavda sterilizatsiya qilish usulini tanlang",
+    "A": "132 C° da 20 daqiqa",
+    "B": "12 C° da 2 daqiqa",
+    "C": "100C° da 20 daqiqa",
+    "D": "320 C° da 10 daqiqa",
+    "javob": "A"
+  },
+  {
+    "savol": "Avtoklavda sterilizatsiya qilish usulini tanlang",
+    "A": "120 C° da 45 daqiqa",
+    "B": "12 C° da 2 daqiqa",
+    "C": "100C° da 20 daqiqa",
+    "D": "320 C° da 10 daqiqa",
+    "javob": "A"
+  },
+  {
+    "savol": "Emalning bo`ylama kesigida ingichka, parallel sariq-jigarrang ko`rinishdagi chiziqlar ko`rinadi.Bu-?",
+    "A": "Retsius chiziqlari",
+    "B": "Shregger chiziqlari",
+    "C": "Lord tolalari",
+    "D": "ebner tolasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Hujayrali sement qayerda bo`ladi?",
+    "A": "Tish ildiz uchi atrofida",
+    "B": "Ildiz ichida",
+    "C": "Dentin ichida",
+    "D": "Emalga yo`nalib",
+    "javob": "A"
+  },
+  {
+    "savol": "Hujayrasiz sement qayerda bo`ladi?",
+    "A": "Dentinga yaqin atrofda",
+    "B": "Ildiz ichida",
+    "C": "Dentin ichida",
+    "D": "Emalga yo`nalib",
+    "javob": "A"
+  },
+  {
+    "savol": "Fissuralar necha xil boladi?",
+    "A": "2xil",
+    "B": "Bir necha xil",
+    "C": "Individual",
+    "D": "Uning xillari yo`q",
+    "javob": "A"
+  },
+  {
+    "savol": "Mustahkamlik bilan birgalikda mo`rt ham hisoblanadi. Bu qaysi to`qimaga xos?",
+    "A": "Emal",
+    "B": "Dentin",
+    "C": "Sement",
+    "D": "Periodont",
+    "javob": "A"
+  },
+  {
+    "savol": "Doimiy tishlarning anatomik formulasi?",
+    "A": "2123",
+    "B": "2102",
+    "C": "3212",
+    "D": "2312",
+    "javob": "A"
+  },
+  {
+    "savol": "Sut tishlarining anatomik formulasi?",
+    "A": "2102",
+    "B": "3212",
+    "C": "2312",
+    "D": "2123",
+    "javob": "A"
+  },
+  {
+    "savol": "In`eksion og`riqsizlantirish nima?",
+    "A": "Igna sanchib og`riqsizlantirish",
+    "B": "Igna sanchmasdan tog`ri",
+    "C": "invaziv bo`lmagan",
+    "D": "invaziv",
+    "javob": "A"
+  },
+  {
+    "savol": "Stomatologiya bo`limlari:",
+    "A": "Terapevtik bo`lim",
+    "B": "Rentgen bo`limi",
+    "C": "Fizioterapevtikbo`lim",
+    "D": "Navbatchi bo`limi",
+    "javob": "A"
+  },
+  {
+    "savol": "Stomatologiya bo`limlari:",
+    "A": "Ortopedik bo`lim",
+    "B": "Navbatchi bo`limi",
+    "C": "Rentgen bo`limi",
+    "D": "Fizioterapevtikbo`lim",
+    "javob": "A"
+  },
+  {
+    "savol": "Stomatologiya bo`limlari:",
+    "A": "Jarrohlik bo`limi",
+    "B": "Fizioterapevtikbo`lim",
+    "C": "Navbatchi bo`limi",
+    "D": "Rentgen bo`limi",
+    "javob": "A"
+  },
+  {
+    "savol": "Stomatologiya bo`limlari:",
+    "A": "Bolalar stomatologiyasi",
+    "B": "Rentgen bo`limi",
+    "C": "Fizioterapevtikbo`lim",
+    "D": "Barchasi to`g`ri",
+    "javob": "A"
+  },
+  {
+    "savol": "Terapevtik stomatologiya bo`linadi:",
+    "A": "Odontologiya",
+    "B": "Ortopedik",
+    "C": "Fizioterapevtik",
+    "D": "Jarrohlik",
+    "javob": "A"
+  },
+  {
+    "savol": "Terapevtik stomatologiya bo`linadi:",
+    "A": "Endodontiya",
+    "B": "Jarrohlik",
+    "C": "Ortopedik",
+    "D": "Bolalar stomatologiyasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Terapevtik stomatologiya bo`linadi:",
+    "A": "Paradontologiya",
+    "B": "Fizioterapevtik",
+    "C": "Jarrohlik",
+    "D": "Ortopedik",
+    "javob": "A"
+  },
+  {
+    "savol": "Paradontologiya nimani o`ganadi?",
+    "A": "Og`iz bo`shlig`i shilliq qavati kasalliklarini",
+    "B": "Tish bo`shlig`ini",
+    "C": "Pulpa kasalliklarini",
+    "D": "Karies kasalliklarini",
+    "javob": "A"
+  },
+  {
+    "savol": "Endodontiya nimani o`ganadi?",
+    "A": "Tishlarning ildiz kanallaridagi manipulyasitalarni",
+    "B": "Tug`ma va ortirilgan nuqsonlarni davolash",
+    "C": "Og`iz bo`shlig`i shilliq qavati kasalliklarini",
+    "D": "Paradontal to`qima kasalliklarini",
+    "javob": "A"
+  },
+  {
+    "savol": "Odontologiya nimani o`ganadi?",
+    "A": "Tishlarning shikastlanishi bilan bog`liq kasalliklarni davolashni",
+    "B": "Paradontal to`qima kasalliklarini",
+    "C": "Tishlarning ildiz kanallaridagi manipulyasitalarni",
+    "D": "Og`iz bo`shlig`i shilliq qavati kasalliklarini",
+    "javob": "A"
+  },
+  {
+    "savol": "Paradontologiya nimani o`ganadi?",
+    "A": "Paradontal to`qima kasalliklarini",
+    "B": "Tug`ma va ortirilgan nuqsonlarni davolash",
+    "C": "Tishlarning shikastlanishi bilan bog`liq kasalliklarni davolashni",
+    "D": "Tishlarning ildiz kanallaridagi manipulyasitalarni",
+    "javob": "A"
+  },
+  {
+    "savol": "Jarrohlik stomatologiyasi nimani o`ganadi?",
+    "A": "Yuz-jag` sohasining shikastlanishlarini davolashni",
+    "B": "Tishlarning ildiz kanallaridagi manipulyasitalarni",
+    "C": "Paradontal to`qima kasalliklarini",
+    "D": "Tishlarning shikastlanishi bilan bog`liq kasalliklarni davolashni",
+    "javob": "A"
+  },
+  {
+    "savol": "Jarrohlik stomatologiyasi nimani o`ganadi?",
+    "A": "Plastik jarrohlikni",
+    "B": "Tishlarning shikastlanishi bilan bog`liq kasalliklarni davolashni",
+    "C": "Og`iz bo`shlig`i shilliq qavati kasalliklarini",
+    "D": "Paradontal to`qima kasalliklarini",
+    "javob": "A"
+  },
+  {
+    "savol": "Jarrohlik stomatologiyasi nimani o`ganadi?",
+    "A": "Tug`ma va orttirilgan nuqsonlarni bartaraf etishni",
+    "B": "Paradontal to`qima kasalliklarini",
+    "C": "Tishlarning ildiz kanallaridagi manipulyasitalarni",
+    "D": "Og`iz bo`shlig`i shilliq qavati kasalliklarini",
+    "javob": "A"
+  },
+  {
+    "savol": "Jarrohlik stomatologiyasi nimani o`ganadi?",
+    "A": "Tishlarni sug`urish",
+    "B": "Tish protezlari o`rnatish",
+    "C": "Tishlarning shikastlanishi bilan bog`liq kasalliklarni davolashni",
+    "D": "Paradontal to`qima kasalliklarini",
+    "javob": "A"
+  },
+  {
+    "savol": "Implantologiya:",
+    "A": "Jag`ga sun`iy ildizni o`rnatish",
+    "B": "Tishlarning ildiz kanallaridagi manipulyasitalar",
+    "C": "Paradontal to`qima kasalliklari",
+    "D": "Tishlarning shikastlanishi bilan bog`liq kasalliklarni davolash",
+    "javob": "A"
+  },
+  {
+    "savol": "Implantologiya:",
+    "A": "Jarrohlik stomatologiyasi bo`limi",
+    "B": "Bolalarda og`iz bo`shlig`i ,yuz-jag`sohasidagi barcha kasalliklar",
+    "C": "Tishlarning shikastlanishi bilan bog`liq kasalliklarni davolash",
+    "D": "Tish protezlari o`rnatish",
+    "javob": "A"
+  },
+  {
+    "savol": "Ortopedik stomatologiya nimani o`ganadi?",
+    "A": "Tish protezlari o`rnatish",
+    "B": "Bolalarda og`iz bo`shlig`i ,yuz-jag`sohasidagi barcha kasalliklarni",
+    "C": "Tishlarning ildiz kanallaridagi manipulyasitalarni",
+    "D": "Tishlarni sug`urish",
+    "javob": "A"
+  },
+  {
+    "savol": "Ortopedik stomatologiya nimani o`ganadi?",
+    "A": "Yoqotilgan tish qatorini to`ldirish",
+    "B": "Tishlarni sug`urish",
+    "C": "Plastik jarrohlikni",
+    "D": "Bolalarda og`iz bo`shlig`i ,yuz-jag`sohasidagi barcha kasalliklarni",
+    "javob": "A"
+  },
+  {
+    "savol": "Ortodontiya nimani o`ganadi?",
+    "A": "Tish qatorini tekislash",
+    "B": "Tishlarning ildiz kanallaridagi manipulyasitalarni",
+    "C": "Jag`ga sun`iy ildizni o`rnatish",
+    "D": "Tishlarni sug`urish",
+    "javob": "A"
+  },
+  {
+    "savol": "Bolalar stomatologiyasi nimani o`ganadi?",
+    "A": "Bolalarda og`iz bo`shlig`i ,yuz-jag`sohasidagi barcha kasalliklarni",
+    "B": "Yoqotilgan tish qatorini to`ldirish",
+    "C": "Tish protezlari o`rnatish",
+    "D": "Barchasi to`g`ri",
+    "javob": "A"
+  },
+  {
+    "savol": "Ergonomika nima?",
+    "A": "Mehnat jarayonidaqulay sharoit yaratish",
+    "B": "Tish protezlari yasash",
+    "C": "Tish qatorini tekislash",
+    "D": "Tish protezlari o`rnatish",
+    "javob": "A"
+  },
+  {
+    "savol": "Stomatologik kabinetda bitta shifokorning ish joyi kamida qancha joy bo`lishi kerak",
+    "A": "14m2",
+    "B": "7m2",
+    "C": "7,5m2",
+    "D": "10m2",
+    "javob": "A"
+  },
+  {
+    "savol": "Qo`shimcha har bir kreslo uchu qancha joy bo`lishi kerak",
+    "A": "7m2",
+    "B": "10m2",
+    "C": "14m2",
+    "D": "21m2",
+    "javob": "A"
+  },
+  {
+    "savol": "Qo`shimcha stomatologik moslama uchun qancha joy bo`lishi kerak",
+    "A": "10m2",
+    "B": "14m2",
+    "C": "7m2",
+    "D": "5m2",
+    "javob": "A"
+  },
+  {
+    "savol": "Stomatologik xonaning balandligi:",
+    "A": "3,3m",
+    "B": "7m",
+    "C": "2,5m",
+    "D": "5m",
+    "javob": "A"
+  },
+  {
+    "savol": "Sharsimon bor ishlatiladi:",
+    "A": "Nekroektomiya qilishda",
+    "B": "Ildiz kanallarini kengaytirish,",
+    "C": "Tishni charxlash",
+    "D": "Ildiz kanallarini plombalash",
+    "javob": "A"
+  },
+  {
+    "savol": "Sharsimon bor ishlatiladi:",
+    "A": "Ildiz kanallar og`zini kengaytirish,",
+    "B": "Tishni charxlash",
+    "C": "Ildiz kanallarini plombalash",
+    "D": "Ildiz kanallarini kengaytirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Konussimon fissur bor ishlatiladi:",
+    "A": "Karioz bo`shliq devorlariga ishlov berish",
+    "B": "Ildiz kanallarini kengaytirish",
+    "C": "Karioz bo`shliq tubiga ishlov beriladi",
+    "D": "Ildiz kanallarini plombalash",
+    "javob": "A"
+  },
+  {
+    "savol": "Teskari konussimon bor ishlatiladi:",
+    "A": "Karioz bo`shliq tubiga ishlov beriladi",
+    "B": "Tishni charxlash",
+    "C": "Ildiz kanallarini kengaytirish",
+    "D": "Ildiz kanallarini plombalash",
+    "javob": "A"
+  },
+  {
+    "savol": "Teskari konussimon bor ishlatiladi:",
+    "A": "Tayanch nuqtalari hosil qilinadi",
+    "B": "Ildiz kanallarini plombalash",
+    "C": "Tishni charxlash",
+    "D": "Ildiz kanallarini kengaytirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Adgeziya tizimining asosiy vazifasi nima?",
+    "A": "Tish to`qimasi va plomb o`rtasida bog`lanishini ta`minlash",
+    "B": "Tish emalini yumshatish",
+    "C": "Plomb materialini mustahkamlash",
+    "D": "Tishning rangini o`zgartirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Adgeziya manosi?",
+    "A": "yopishish birikish",
+    "B": "chirish",
+    "C": "ko`chish",
+    "D": "atrofiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Tishlar jagda joylashishiga ko`ra ajratish belgilari",
+    "A": "Toj burchak",
+    "B": "Ildiz burchak",
+    "C": "Bo`yin egrilik",
+    "D": "Barchasi to`g`ri",
+    "javob": "A"
+  },
+  {
+    "savol": "Tishlar jagda joylashishiga ko`ra ajratish belgilari",
+    "A": "Ildiz egrilik",
+    "B": "Bo`yin egrilik",
+    "C": "Ildiz burchak",
+    "D": "Barchasi to`g`ri",
+    "javob": "A"
+  },
+  {
+    "savol": "Tishlar jagda joylashishiga ko`ra ajratish belgilari",
+    "A": "Toj egrilik",
+    "B": "Barchasi to`g`ri",
+    "C": "Bo`yin egrilik",
+    "D": "Ildiz burchak",
+    "javob": "A"
+  },
+  {
+    "savol": "Birlamchii sementning tuzilishi",
+    "A": "Kollagen tolalar va amorf yopishqoq modda",
+    "B": "Sementotsithujayralar va asosiy moddalardan tashkil topgan",
+    "C": "Barcha javoblar to`g`ri",
+    "D": "Emal prizmalari va dentin naychalaridan",
+    "javob": "A"
+  },
+  {
+    "savol": "Ikkilamchi sementning tuzilishi",
+    "A": "Sementotsithujayralar va asosiy moddalardan tashkil topgan",
+    "B": "Kollagen tolalar va amorf yopishqoq modda",
+    "C": "Emal prizmalari va dentin naychalaridan",
+    "D": "Barcha javoblar to`g`ri",
+    "javob": "A"
+  },
+  {
+    "savol": "Kariyes kovak charxlashni birinchi bosqichi",
+    "A": "kariyes kovakni ochish",
+    "B": "kariyes kovakni kengaytirish",
+    "C": "nekroektomiya",
+    "D": "emal qirralariga ishlov berish",
+    "javob": "A"
+  },
+  {
+    "savol": "Kariyes kovak charxlashni uchinchi bosqichi",
+    "A": "nekroektomiya",
+    "B": "kariyes kovakni kengaytirish",
+    "C": "kariyes kovakni shakllantirish",
+    "D": "emal qirralariga ishlov berish",
+    "javob": "A"
+  },
+  {
+    "savol": "Kariyes kovak charxlashni to`rtinchi bosqichi",
+    "A": "kariyes kovakni shakllantirish",
+    "B": "nekrektomiya",
+    "C": "kariyes kovakni kengaytirish",
+    "D": "emal qirralariga ishlov berish",
+    "javob": "A"
+  },
+  {
+    "savol": "Kariyes kovak charxlashni beshinchi bosqichi",
+    "A": "emal qirralariga ishlov berish",
+    "B": "kariyes kovakni kengaytirish",
+    "C": "nekrektomiya",
+    "D": "kariyes kovakni shakllantirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Nekroektomiya uchun borni tanlang:",
+    "A": "sharsimon",
+    "B": "konussimon",
+    "C": "silindr",
+    "D": "barchasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Kariyes kovakni vertikal devorlarini shakllantirishda ishlatiladigan borlar",
+    "A": "silindr",
+    "B": "sharsimon",
+    "C": "konussimon",
+    "D": "teskarikonussimon",
+    "javob": "A"
+  },
+  {
+    "savol": "Kariyesimmun zonalar joylashadi:",
+    "A": "do`mboq va vestibulyar yuzalarda",
+    "B": "ko`r teshiklarda",
+    "C": "fissura va do`mboqlarda",
+    "D": "Kariyesimmun zonalar joylashadi",
+    "javob": "A"
+  },
+  {
+    "savol": "35tish chaynov do`mboqlaridagi zararlanish",
+    "A": "6sinf",
+    "B": "5sinf",
+    "C": "3sinf",
+    "D": "1sinf",
+    "javob": "A"
+  },
+  {
+    "savol": "Zamonaviy 7-avlod adgeziya tizimlarining asosiy xususiyati nima?",
+    "A": "Hamma komponentlar bitta flakonda aralashgan",
+    "B": "Gravirovka alohida bosqichda bajariladi",
+    "C": "Har bir modda alohida surtiladi",
+    "D": "Faqat emalga ishlatiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Fissura bu-",
+    "A": "Chaynov do`mboqchalar orasidagi chuqurchalar",
+    "B": "Chaynov do`mboqchalar",
+    "C": "Chaynov do`mboqchalar va qirralar",
+    "D": "Kesuv qirralari",
+    "javob": "A"
+  },
+  {
+    "savol": "Fissuralar tuzilishiga ko`ra",
+    "A": "Ochiq va yopiq",
+    "B": "Asosiy va qo`shimcha",
+    "C": "Asosiy va yopiq",
+    "D": "Ochiq va qo`shimcha",
+    "javob": "A"
+  },
+  {
+    "savol": "Fals hosil qilishdan maqsad",
+    "A": "Plomba chaynov bosimi ostida siljimasligi",
+    "B": "Qo`shimcha maydon hosil qilish",
+    "C": "Plomba chaynov bosimi ostida siljishi",
+    "D": "Retentsion nuqta hosil qilish",
+    "javob": "A"
+  },
+  {
+    "savol": "Fals hosil qilinadi",
+    "A": "45oda",
+    "B": "90oda",
+    "C": "180oda",
+    "D": "110oda",
+    "javob": "A"
+  },
+  {
+    "savol": "Medikamentoz ishlov berish bu-",
+    "A": "Dorilar bilan",
+    "B": "Suv bilan",
+    "C": "Zond bilan",
+    "D": "Borlar bilan",
+    "javob": "A"
+  },
+  {
+    "savol": "Karies kovakni profilaktik kengaytirish usulini kim taklif qilgan",
+    "A": "Blek",
+    "B": "Lukomskiy",
+    "C": "VOZ",
+    "D": "Fosher",
+    "javob": "A"
+  },
+  {
+    "savol": "Biologik muvofiqlik usulining mohiyati",
+    "A": "Zararlanmagan to`qimani avaylab charxlash",
+    "B": "Kariesga moyil sohani keng charxlash",
+    "C": "Karies kovakni nekrotomiyaqilish",
+    "D": "Doimiy tish fissuralarini charxlash",
+    "javob": "A"
+  },
+  {
+    "savol": "Charxlanayotgan kovakka nisbatan borning hajmi",
+    "A": "Kichik",
+    "B": "Katta",
+    "C": "Ahamiyati yo`q",
+    "D": "Kovak hajmi bilan bir xil",
+    "javob": "A"
+  },
+  {
+    "savol": "Yuqori jag`ning birinchi molyaridagi beshinchi rivojlanmay qolgan do`mboq nomi?",
+    "A": "karabelli",
+    "B": "Bunday do`mboq ushbu tishda mavjud emas",
+    "C": "korabl",
+    "D": "korall",
+    "javob": "A"
+  },
+  {
+    "savol": "Pastki jag`dagi birinchi do`mboqlar soni",
+    "A": "5ta",
+    "B": "6ta",
+    "C": "4ta",
+    "D": "3ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Yuqori jag` birinchi premolyari ildiz va do`mboqlar soni?",
+    "A": "2ta ildiz 2ta do`mboq",
+    "B": "2ta ildiz 3ta do`mboq",
+    "C": "2ta ildiz 1ta do`mboq",
+    "D": "1ta ildiz 2ta do`mboq",
+    "javob": "A"
+  },
+  {
+    "savol": "Borovskiy-Volkov usulida konservativ davolash?",
+    "A": "10%ammoniy fosfat va kalsiy nitrat eritmasini aplikasiya yoki elektroforez qilish",
+    "B": "Remodent eritmasini eritmasini aplikasiya yoki elektroforez qilish",
+    "C": "Kaliy xlor eritmasini eritmasini aplikasiya yoki elektroforez qilish",
+    "D": "Barcha javoblar to`g`ri",
+    "javob": "A"
+  },
+  {
+    "savol": "Borovskiy-Paxomov usulida konservativ davolash?",
+    "A": "Remodent eritmasini eritmasini aplikasiya yoki elektroforez qilish",
+    "B": "10%ammoniy fosfat va kalsiy nitrat eritmasini aplikasiya yoki elektroforez qilish",
+    "C": "Kaliy xlor eritmasini eritmasini aplikasiya yoki elektroforez qilish",
+    "D": "Barcha javoblar to`g`ri",
+    "javob": "A"
+  },
+  {
+    "savol": "Lakuna nima?",
+    "A": "Emal prizmalarida kalsiy,ftor,fosfor ionlarini remenerilizasiyalash orqali kristallar aro modda hosil bo`lishi",
+    "B": "Emal prizmalarida kaliy,yod,fosfor ionlarini remenerilizasiyalash orqali kristallar aro modda hosil bo`lishi",
+    "C": "Emal prizmalarida natriy,ftor,azot ionlarini remenerilizasiyalash orqali kristallar aro modda hosil bo`lishi",
+    "D": "Emal prizmalarida kalsiy,titan,fosfat tuzi ionlarini remenerilizasiyalash orqali kristallar aro modda hosil bo`lishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Karies topografiyasi bo`yicha klassifikasiyaga quyidagi kiradi?",
+    "A": "Chuqur karies",
+    "B": "odontoklaziya",
+    "C": "Ressesiv karies",
+    "D": "Aniqlanmagan karies",
+    "javob": "A"
+  },
+  {
+    "savol": "Plombalashda yo`l qo`yiladigan xatolar?",
+    "A": "Plombalashda plombani ko`tarib qo`yish",
+    "B": "Yumshoq to`qimaga borchik bilan zarar yetkazish",
+    "C": "Qo`shni tish devorini perfor qilish",
+    "D": "Kovak hajmidan katta borchik tanlash",
+    "javob": "A"
+  },
+  {
+    "savol": "Charxlashda yo`l qo`yiladigan xatolar?",
+    "A": "Yumshoq to`qimaga borchik bilan zarar yetkazish",
+    "B": "Plombalashda plombani (prikusni) ko`tarib qo`yish",
+    "C": "Adgeziv tizimni noto`g`ri foydalasnish",
+    "D": "Bir vaqtning o`zida yon tish bilan bir vaqtda plombani qo`yib yuborish",
+    "javob": "A"
+  },
+  {
+    "savol": "Papillit kasaligi nimani natijasida kelib chiqadi?",
+    "A": "Tish devorini tiklashdaplombani ortiqcha qo`yish tufayli",
+    "B": "Plombalashda plombani (prikusni) ko`tarib qo`yish",
+    "C": "Adgeziv tizimni noto`g`ri foydalasnish",
+    "D": "Bir vaqtning o`zida yon tish bilan bir vaqtda plombani qo`yib yuborish",
+    "javob": "A"
+  },
+  {
+    "savol": "Surunkali kechuvchi kariesning klinik belgilari?",
+    "A": "Simptomsiz,uzoq kechadi",
+    "B": "Og`riqli va jarayon jadal kechadi",
+    "C": "Hech qanday klinik belgisi bo`lmaydi",
+    "D": "To`g`ri javob berilmagan",
+    "javob": "A"
+  }
+]

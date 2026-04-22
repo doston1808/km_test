@@ -1,0 +1,842 @@
+[
+  {
+    "savol": "Jahon sog`liqni saqlash tashkilotiga quyidagilardan qaysi biri asos solgan?",
+    "A": "Birlashgan millatlar tashkiloti",
+    "B": "Nato",
+    "C": "Unicef",
+    "D": "Yunesko",
+    "javob": "A"
+  },
+  {
+    "savol": "Sog`lom ovqatlanish uchun nimalarga e`tibor berishimiz kerak?",
+    "A": "Muvozanatli ovqatlanish",
+    "B": "To`yib ovqatlanmaslik",
+    "C": "To`g`ri ovqatlanish",
+    "D": "Tez-tez ovqatlanish",
+    "javob": "A"
+  },
+  {
+    "savol": "Har yili dunyoda o`rtacha qancha inson jismoniy harakatsizlik tufayli vafot etadi?",
+    "A": "3 million kishi",
+    "B": "50 million kishi",
+    "C": "100 ming kishi",
+    "D": "1000 kishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Jahon sog`liqni saqlash tashkiloti 6-17 yosh guruhiga bolalarga qancha vaqt jismoniy faollikni tavsiya qiladi?",
+    "A": "Har kuni - 1 soat",
+    "B": "Haftada 5 kun - 10 daqiqadan",
+    "C": "Haftasiga 1 kun - 7 soatdan",
+    "D": "Haftada 2 marta - 1 soatdan",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi biri semizlik sababi emas?",
+    "A": "Har kuni 10 soat uxlash",
+    "B": "Genetik omillar",
+    "C": "Noto`g`ri ovqatlanish",
+    "D": "Jismoniy faollikning yetarli emasligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi holatda biz kun davomida olishimiz kerak bo`lgan suv miqdorini oshirishimiz shart emas?",
+    "A": "Sovuq havoda",
+    "B": "Biz sport bilan shug`ullanganimizda",
+    "C": "Isitma, qusish va diareya holatlarida",
+    "D": "Namli havoda",
+    "javob": "A"
+  },
+  {
+    "savol": "Bolalar va yoshlarning semizlik holatini nazorat qilishimiz uchun qanday ma`lumotlar kerak emas?",
+    "A": "Puls",
+    "B": "Jins",
+    "C": "Og`irligi",
+    "D": "Yoshi",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri yaxshiroq uxlash uchun qilishimiz kerak bo`lgan narsalardan biri emas?",
+    "A": "Kofe va qaynatilgan choy",
+    "B": "Yaxshi to`shak",
+    "C": "Kun davomida faol bo`lish",
+    "D": "Qorong`u muhit",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri haddan tashqari ko`p texnologiyadan foydalanishning yon ta`siri emas?",
+    "A": "Istalgan ma`lumotga erishish",
+    "B": "Uyqu rejimini ishga tushiradi",
+    "C": "Semizlikka olib keladi",
+    "D": "Yuqori nurlanish va saraton kasalligini keltirib chiqaradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri bolalar uchun sportning bevosita foydasi emas?",
+    "A": "Moliyaviy rivojlanish",
+    "B": "Ijtimoiy rivojlanish",
+    "C": "Aqliy rivojlanish",
+    "D": "Hissiyotlarning rivojlanishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri yoshlar egallaydigan ko`nikmalar emas?",
+    "A": "Tijorat malakasi",
+    "B": "O`z-o`zini boshqarish",
+    "C": "Yetakchilik",
+    "D": "Intizom",
+    "javob": "A"
+  },
+  {
+    "savol": "Biz yo`l-transport hodisalari haqidagi xabarlarni tez-tez eshitamiz. Yo`l-transport hodisalarini keltirib chiqaradigan odatlardan biri quyidagilardan qaysi biri?",
+    "A": "Spirtli ichimliklar",
+    "B": "Sigaretalar",
+    "C": "Semirib ketish",
+    "D": "Telefon",
+    "javob": "A"
+  },
+  {
+    "savol": "Chekish va spirtli ichimliklarni iste`mol qilish haqida fikrlarning qaysi biri to`g`ri emas?",
+    "A": "Sigaret va spirtli ichimliklar vaqt o`tishi bilan qaramlikka olib kelmaydi",
+    "B": "Chekish va spirtli ichimliklar saraton xavfini oshiradi",
+    "C": "Spirtli ichimliklar odamni hushini yo`qotishiga olib kelishi mumkin",
+    "D": "Spirtli ichimliklarni iste`mol qilish, nafas olish organlarining shikastlanishini beradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qo`l toza bo`lishi uchun necha soniya yuvilishi kerak?",
+    "A": "15 soniya",
+    "B": "10 soniya",
+    "C": "3 soniya",
+    "D": "35 soniya",
+    "javob": "A"
+  },
+  {
+    "savol": "Gigiena mashg`ulotlari qaysi nizomga muvofiq o`tkaziladi?",
+    "A": "Gigiena qoidalari",
+    "B": "Birinchi yordam ko`rsatish qoidalari",
+    "C": "Oziq-ovqat qoidalari",
+    "D": "Mehnatni muhofaza qilish qoidalari",
+    "javob": "A"
+  },
+  {
+    "savol": "Shaxsiy gigiena ta`rifiga qaysi biri to`g`ri keladi?",
+    "A": "Bu shaxs o`z sog`lig`ini saqlash uchun qiladigan amaliyotlarini o`z ichiga oladi",
+    "B": "U shaxsning va qarindoshlaning farovonligi uchun gigienik muhitni ta`minlashni o`z ichiga oladi",
+    "C": "Oziq-ovqat mahsulotlarini saqlash shartlarini o`z ichiga oladi",
+    "D": "Shifoxonalarning gigienik muhitini o`z ichiga oladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi me`yorlardan qaysi biri ish joylarida gigiyena ta`limini talab qiladi?",
+    "A": "Gigiyena ma`lumotlarini nizomini",
+    "B": "Oziq-ovqat gigienasi qoidalari",
+    "C": "Chiqindilarni boshqarish nizomi",
+    "D": "Ozuqa gigienasi qoidalari",
+    "javob": "A"
+  },
+  {
+    "savol": "Salomatlik holatini saqlash hamda kasalliklarning oldini olish uchun barcha amaliyotlar va yordamchi shart-sharoitlarni qamrab oluvchi jarayonlarning yaxlitligi qanday nomlanadi?",
+    "A": "Gigiena",
+    "B": "Sanitariya",
+    "C": "Tozalash",
+    "D": "Salomatlik",
+    "javob": "A"
+  },
+  {
+    "savol": "\"Dastur natijasida insonlarga qo`l yuvishning ahamiyati tushuntirildi, qanday yuvish kerakligi ko`rsatildi va insonlar qo`llarini xohlagancha yuvishlari ko`rindi.\" Bu quyidagi dasturlardan qaysi biriga misol?",
+    "A": "Ta`lım dasturi",
+    "B": "O`quv dasturi",
+    "C": "Xulq-atvorni shakllantirish dasturi",
+    "D": "Bilimlarni uzatish dasturi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi biri gigienik muhit ish joyiga foydalarından biri emas?",
+    "A": "Inson salomatligi nuqtai nazaridan ishonchli muhit ta`minlanadi",
+    "B": "Xodimlarning ma`naviyati yaxshilanadi va ularning motivatsiyasi ortadi",
+    "C": "Mahsulot sifati oshadi",
+    "D": "Ishlab chiqarish hajmini kamaytiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Gigiena qaysi davlatdan kelib chiqqan?",
+    "A": "Gretsiya",
+    "B": "Germaniya",
+    "C": "AQSH",
+    "D": "Angliya",
+    "javob": "A"
+  },
+  {
+    "savol": "Oziq-ovqat gigienasi nimani anglatadi?",
+    "A": "Oziq-ovqat mahsulotlarini zararli mikrorganizmlardan tozalash orqali sog`lom va toza holda tayyorlash, saqlash va xizmat ko`rsatish",
+    "B": "O`ngli ishlab chiqarishni anglatadi",
+    "C": "Ish muhitini toza saqlash",
+    "D": "Bu oziq-ovqat mahsulotlarini foydali mikrorganizmlardan tozalash",
+    "javob": "A"
+  },
+  {
+    "savol": "Oziq-ovqat zaharlanishining belgilari qanday?",
+    "A": "Qusish, diareya, qorin og`rig`i",
+    "B": "Qaltirash",
+    "C": "Kuchli bosh og`rig`i",
+    "D": "Hushidan ketish",
+    "javob": "A"
+  },
+  {
+    "savol": "Dezinfektsiya nimani anglatadi?",
+    "A": "Tozalash yo`li bilan yo`q qilib bo`lmaydigan zararli bakteriyalarni yo`q qilish jarayoni",
+    "B": "Iflos joyni kirdan tozalash",
+    "C": "Iflos joyni suv va kimyoviy mahsulotlar yordamida tozalash",
+    "D": "Iflos joyni suv bilan yuvish",
+    "javob": "A"
+  },
+  {
+    "savol": "....... shaxsning o`zi boshdan kechirayotgan barcha ijobiy va salbiy his-tuyg`ularga qarshi kurashish mexanizmlarini rivojlantirishi sifatida tushuntiriladi. Quyidagilardan qaysi biri bo`sh joyga kelishi kerak?",
+    "A": "Hissiyotlar bilan muomala qilish",
+    "B": "O`z-o`zini anglash",
+    "C": "Stress bilan kurashish",
+    "D": "Hissiyotlarni etiborga olmaslik",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri hayotiy ko`nikmalar emas?",
+    "A": "Puldan foydalanish",
+    "B": "Dazmollash ibodat",
+    "C": "Shaxsiy parvarish",
+    "D": "Kasbiy mahorat",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri o`smirlarda stressni yengish qobiliyatiga ega bo`lishga yordam beradigan xatti-harakatlardan biri emas?",
+    "A": "Bolani boshidan kechirgan narsalari uchun minnatdor bo`lishga o`rgatish",
+    "B": "Bolaga salom aytish qobiliyatini berish",
+    "C": "Bolaga muammoni hal qilish ko`nikmalarini berish",
+    "D": "Bolaga o`zini ifoda etish qobiliyatini berish",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri o`smirni stresga soladigan vaziyatlardan biri emas?",
+    "A": "Jins",
+    "B": "Imtihonlar",
+    "C": "Rad etishdan qo`rqish",
+    "D": "Dostlar guruhiga kirmaslikdan qo`rqish",
+    "javob": "A"
+  },
+  {
+    "savol": "Bu insonning ichki dunyosida ma`lum narsalar, hodisalar yoki shaxslar yaratadigan taassurot………sifatida belgilanadi. Quyidagilardan qaysi biri bo`sh joyga kelishi kerak?",
+    "A": "Hissiyot",
+    "B": "Xulq-atvor",
+    "C": "Stress",
+    "D": "Fikrlash",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri o`z-o`zini parvarish qilish ko`nikmalariga kirmaydi?",
+    "A": "O`zini ifoda etish",
+    "B": "Kiyinish",
+    "C": "Vanna qabul qilish",
+    "D": "Qo`lni yuvish",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri bolaning birinchi ijtimoiy muhiti hisoblanadi?",
+    "A": "Oila",
+    "B": "Maktab",
+    "C": "Do`stlar doirasi",
+    "D": "Oliy ta`lim muassasasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri sportning jismoniy foydalari qatoriga kirmaydi?",
+    "A": "Aqliy hushyorlikni oshirish",
+    "B": "Tananing egiluvchanlikni ta`minlash",
+    "C": "Tananing chidamliligini oshirish",
+    "D": "Bo`g`inlarga yukni kamaytirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri jismoniy shaxslar tomonidan rasmiy qoidalar doirasida musobaqa shaklida amalga oshiriladigan jismoniy faoliyatning yaxlitligi sifatida tavsiflanadi?",
+    "A": "Sport",
+    "B": "Faoliyat",
+    "C": "Salomatlik",
+    "D": "O`yin-kulgi",
+    "javob": "A"
+  },
+  {
+    "savol": "Katta yoshli inson tanasining 18-25% ni tashkil qiladi. Bu insonning asosiy energiya zaxirasidir. Qabul qilingan energiya yetarli bo`lmaganda, tana bu do`kondan foydalanadi. Quyidagi oziq moddalardan qaysi biri yuqorida tavsiflangan?",
+    "A": "Yog `",
+    "B": "Uglevod",
+    "C": "Protein",
+    "D": "Mineral",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi fikrlardan qaysi biri to`g`ri?",
+    "A": "Salomatlik va kasallik statik emas",
+    "B": "Kasallik odam o`zini kasal his qilganda boshlanadi",
+    "C": "Kasallik shikoyati bo`lmagan bemorlarda topilmaydi",
+    "D": "Nogiron bo`lmagan odamni bemor deb atash mumkin emas",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri salomatlikka ta`sir etuvchi ekologik omil emas?",
+    "A": "Psixologik muhit",
+    "B": "Jismoniy muhit",
+    "C": "Kimyoviy muhit",
+    "D": "Biologik muhit",
+    "javob": "A"
+  },
+  {
+    "savol": "Tana massasi indeksiga ko`ra qanday tana normal hisoblanadi?",
+    "A": "18-25",
+    "B": "16-18",
+    "C": "25-29",
+    "D": "30-39",
+    "javob": "A"
+  },
+  {
+    "savol": "Jismoniy tarbiya bo`yicha takliflarni yaratishda berilishi kerak bo`lgan savollardan qaysi biri shaxsning motivatsiyasiga ijobiy ta`sir qiladi?",
+    "A": "Shaxsni qiziqtiradigan jismoniy tarbiya turlari",
+    "B": "Biror kishining oldingi mashqlar tarixi",
+    "C": "Shaxsning yoshi",
+    "D": "Insoning sog`lig`i bilan bog`liq muammolari",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi holatlarning qaysi birida jismoniy tarbiya xavfsiz deb hisoblanadi?",
+    "A": "Jismoniy tarbiya mashg`ulotlaridan keyin mushaklarning og`rig`i bir kundan kam davom etsa",
+    "B": "Agar odam mashqdan keyin charchagan bo`lsa",
+    "C": "Jismoniy tarbiya paytida oyoqlarda kuchli og`riq",
+    "D": "Jismoniy tarbiya jarayonida odam gapira olmasa",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri salomatlikka ta`sir qiluvchi asosiy omillardan biri emas?",
+    "A": "Harakter",
+    "B": "Jismoniy/ekologik sharoitlar",
+    "C": "Madaniyat/turmush tarzi",
+    "D": "Yosh",
+    "javob": "A"
+  },
+  {
+    "savol": "Gigiena nuqtai nazaridan ichki kiyimni qanchalik tez-tez almashtirish kerak?",
+    "A": "Har kuni yoki har ikki kunda",
+    "B": "Har uch yoki to`rt kunda",
+    "C": "Har to`rt yoki besh kunda",
+    "D": "Xaftada bir marotaba",
+    "javob": "A"
+  },
+  {
+    "savol": "Bu odamlar o`zlarining sog`lig`ini himoya qilish va yaxshilash uchun atrof-muhit omillarini nazorat qilish bilan birga qiladigan amaliyotlardir?",
+    "A": "Shaxsiy gigiena",
+    "B": "Sog`lom turmush tarzi",
+    "C": "Shaxsiy parvarish",
+    "D": "Tozalash",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri motivatsiyani eng yaxshi tavsiflaydi?",
+    "A": "Shaxsni xulq-atvorga undaydigan omil",
+    "B": "Insonning ijobiy umidlari",
+    "C": "Insonning xavfsizlikka bo`lgan ehtiyoji",
+    "D": "Shaxsga bo`lgan kontekst",
+    "javob": "A"
+  },
+  {
+    "savol": "Jismoniy tarbiya bilan shug`ullanadigan shaxslarda xavf-xatarlarga qarshi asosiy ehtiyot chorasi nima?",
+    "A": "Jismoniy tarbiya bilan shug`ullanadigan shaxslarni sog`lig`ini tekshirish",
+    "B": "Tegishli sport turini tanlash",
+    "C": "Tegishli kiyim tanlashni aniqlash",
+    "D": "To`g`ri ovqatlanish rejasini ishlab chiqish",
+    "javob": "A"
+  },
+  {
+    "savol": "Salomatlikning ta`rifi nima?",
+    "A": "Kasallik va nogironlikning yo`qligi bilan bir qatorda, bu to`liq jismoniy, ruhiy va ijtimoiy farovonlik holatidir",
+    "B": "Insonning jamiyatdagi mavqei yaxshiligi",
+    "C": "Bu insonning jismoniy va ruhiy farovonligi",
+    "D": "Bu har qanday kasallikning yo`qligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Vaqtni noto`g`ri boshqarish inson salomatligiga qanday ta`sir qiladi?",
+    "A": "Stres",
+    "B": "Tartibsiz turmush tarzi",
+    "C": "Ish joyidagi mavqeini yo`qotish",
+    "D": "Ishni o`z vaqtida tugatmaslik",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri ijtimoiy-madaniy muhit nuqtai nazaridan salomatlikka ta`sir qiluvchi omillardan biri emas?",
+    "A": "Kiyinish uslubi",
+    "B": "Iqtisodiy daromad",
+    "C": "Ta`lim",
+    "D": "Ish",
+    "javob": "A"
+  },
+  {
+    "savol": "Oziqlantirish bo`yicha tadqiqotlar qachon muvaffaqiyatli deb hisoblanadi?",
+    "A": "Tajribalarni o`rganishda amalga aylanganda",
+    "B": "Oziqlanish haqida to`g`ri ma`lumot olinganda",
+    "C": "Resurslarni to`g`ri tanlash mumkin bolganda",
+    "D": "Koproq ovqat yeganimizda",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri, ayniqsa soglikni tekshiruv vaqtida eng ko`p qo`llaniladigan usullardan biri emas?",
+    "A": "Boy balandligini o`lchashda",
+    "B": "Qon bosimini o`lchashda",
+    "C": "Yurak urishi o`lchashda",
+    "D": "Tana harorati o`lchashda",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri to`g`ri?",
+    "A": "Agar inson ruhiy, jismonan va o`zi yashayotgan muhit nuqtai nazaridan yaxshi holatda bo`lsa, bu baxtli va osoyishtalikni anglatadi",
+    "B": "Eng katta baxt - bu jismoniy nuqsonning yo`qligi",
+    "C": "Sog`lom hayot uchun eng muhimi ruhiy sog`lom bo`lishdir",
+    "D": "Baxtli va tinch hayot uchun kasal bo`lmaslik kifoya",
+    "javob": "A"
+  },
+  {
+    "savol": "Jismoniy tarbiya dasturini boshlashdan oldin shaxslarning salomatlik holatini tekshirish qaysi bandga kirmaydi?",
+    "A": "Iqtisodiy imkoniyatlar mavjud bo`lgan sport zallarini qidirish",
+    "B": "Og`irlik holatini baholash",
+    "C": "Sizda qandli diabet borligini aniqlash",
+    "D": "Shaxs tomonidan ishlatiladigan dorilarni o`rganish",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri tana tuzilishini ko`rsatadigan o`lchov va mezonlardan biri emas?",
+    "A": "Soch uzunligi",
+    "B": "Vazn hajmi",
+    "C": "Og`irligi",
+    "D": "Bel atrofi",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri jismoniy tarbiya dasturiga umrbod amal qilish uchun beriladigan tavsiyalar qatoriga kirmaydi?",
+    "A": "Har doim bir xil dasturni bajarish kerak",
+    "B": "Jismoniy tarbiya jarayonida musiqa tinglash, audio kitoblar tinglash va televizor ko`rish kabi mashg`ulotlar bilan mashg`ulotlar zavqli bo`lishi mumkin",
+    "C": "Inson jismoniy tarbiya uchun o`zi uchun qulay bo`lgan vaqtni tanlashi kerak",
+    "D": "Jismoniy tarbiya vaqtida tegishli kiyim kiyish kerak",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi tashkilot 1948 yilda salomatlikni “nafaqat kasallik yoki nogironlikning yo`qligi emas, balki to`liq jismoniy, ruhiy va ijtimoiy farovonlik holati” deb ta`riflagan?",
+    "A": "Jahon Sog`liqni saqlash tashkiloti",
+    "B": "Birlashgan Millatlar Tashkiloti",
+    "C": "Yevropa Ittifoqi parlamenti",
+    "D": "YUNESKO",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi biri sog`lom turmush tarzini targ`ib qilish va tarbiyalashda asos bo`lishi kerak bo`lgan masalalardan biri emas?",
+    "A": "Ish joyiga ega bo`lish",
+    "B": "Oilani rejalashtirish",
+    "C": "Hobbi",
+    "D": "Jismoniy faoliyat",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri chaqaloqlar tug`ilganda ega bo`ladigan qobiliyat emas?",
+    "A": "Yurish",
+    "B": "O`rganish qobiliyati",
+    "C": "Hid va ta`m",
+    "D": "Ko`rish",
+    "javob": "A"
+  },
+  {
+    "savol": "Mushaklar necha yoshdan keyin zaiflasha boshlaydi?",
+    "A": "40",
+    "B": "20",
+    "C": "30",
+    "D": "60",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri inson taraqqiyotini belgilovchi jarayonlardan biri emas?",
+    "A": "Madaniy rivojlanish",
+    "B": "Hissiy rivojlanish",
+    "C": "Ijtimoiy rivojlanish",
+    "D": "Jismoniy rivojlanish",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri qarishning asosiy fiziologik o`zgarishi hisoblanadi?",
+    "A": "Yurak-qon tomir tizimi",
+    "B": "Jismoniy qobiliyat sekinlanishi",
+    "C": "Tez tez uyqu buzulushi",
+    "D": "Og`riqlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Organizmning tarkibiy o`sishini ifodalovchi va sodir bo`ladigan son o`zgarishlarni o`z ichiga olgan tushuncha ......... Boshqa tomondan, ijtimoiy-emotsional, kognitiv, til, psixo- vosita, axloqiy va jinsiy jihatlari....... deyiladi. Yuqoridagi gapdagi boʻsh joylarni toʻldirish uchun quyidagi atamalardan qaysi kelishi kerak?",
+    "A": "O`sish-Rivojlanish",
+    "B": "O`sish - yutuklik",
+    "C": "Yutuklik-o`rganish",
+    "D": "Rivojlanish – tayyorlik",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri malakali shaxsga xosdir?",
+    "A": "U o`z majburiyatlarini biladi va bajaradi",
+    "B": "Bu boshqalarning huquqlarini buzadi",
+    "C": "U o`z ishini rejasiz bajaradi",
+    "D": "Texnologiyadagi o`zgarishlarga yopiq",
+    "javob": "A"
+  },
+  {
+    "savol": "\"Odamlar yashaydigan muhit sifatida baholanganda, atrof-muhit va sog`likka salbiy ta`sir ko`rsatadigan / ta`sir qiladigan elementlardan qochish kerak, ijobiy misollar keltirilishi va kerakli yaxshilanishlar qilinishi kerak.\" Quyidagi harakatlardan qaysi biri salomatlikni mustahkamlash ifodasiga kiradi?",
+    "A": "Qo`llab-quvvatlovchi muhitlarni yaratish",
+    "B": "To`g`ri tarbiya siyosatini yaratish",
+    "C": "Sog`liqni saqlash xizmatlarini qayta tashkil etish",
+    "D": "Shaxsiy ko`nikmalarni rivojlantirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri shaxsning ijtimoiy farovonligiga yordam beradi?",
+    "A": "Shaxsning ishi",
+    "B": "Yetarli miqdorda suv ichish",
+    "C": "Balansli ovqatlanish",
+    "D": "Yolg`iz yugurish",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi kishilardan qaysi biri albatta shifokor nazorati ostida mashq qilishni boshlashi kerak?",
+    "A": "Tug`ma yurak kasalligi bo`lganlar",
+    "B": "Ijobiy salomatlik tarixi bo`lganlar",
+    "C": "Uzoq vaqt davomida muntazam ravishda mashq qiladiganlar",
+    "D": "Hech qanday ma`lum kasalliklarga ega bo`lmaganlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Jismoniy mashqlar haqidagi quyidagi fikrlardan qaysi biri to`g`ri?",
+    "A": "Qanchalik erta mashq qilishni boshlasangiz, shuncha yaxshi",
+    "B": "Mashq qilish stressni keltirib chiqarish orqali o`z joniga qasd qilish va depressiya kabi vaziyatlarni keltirib chiqaradi",
+    "C": "Jismoniy mashqlar natijasida qarish jarayonlari tezlashadi",
+    "D": "Qarishning ta`siri jismoniy mashqlar natijasida ko`proq ko`rinadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri jamiyatni tashkil etuvchi shaxslarning sog`lig`iga salbiy ta`sir ko`rsatgan yoki yomonlashgan taqdirda amalga oshirilishi kerak bo`lgan muhim choralardan biri emas?",
+    "A": "Odamlarning iqtisodiy ahvolini qo`llab-quvvatlash",
+    "B": "Agar kasallik yoki boshqa omillar tufayli tibbiy yoki ijtimoiy nogironlik yuzaga kelsa, shaxslarni shaxsiy asosda reabilitatsiya qilish",
+    "C": "Samarali davolash usullarini qo`llash",
+    "D": "Aniqlanishi bilanoq zarur choralarni ko`rish",
+    "javob": "A"
+  },
+  {
+    "savol": "Jismoniy mashqlar haqidagi quyidagi fikrlardan qaysi biri to`g`ri?",
+    "A": "Bu yurak kasalliklari, semirish, yuqori qon bosimi kabi kasalliklarning paydo bo`lishining oldini olishga yordam beradi",
+    "B": "Mashq qilish hech qanday intizom talab qilmaydi",
+    "C": "Agar siz harakatsiz hayotda bo`lsangiz va uzoq vaqt davomida kam jismoniy faollik bilan shug`ullansangiz, mashqlarni intensiv ravishda boshlash kerak",
+    "D": "Kundalik jismoniy mashqlar ham jismoniy mashqlar hisoblanadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Jahon sog`liqni saqlash tashkiloti ma`lumotlariga ko`ra qarish necha yoshdan boshlanadi?",
+    "A": "65",
+    "B": "55",
+    "C": "60",
+    "D": "75",
+    "javob": "A"
+  },
+  {
+    "savol": "Bu tanadagi yog ` to`qimalarining to`planishi natijasida yuzaga keladigan juda jiddiy kasallikdir. Uning mavjudligi diabet, yurak diabeti, yurak kasalliklari, yuqori qon bosimi va saratonning ayrim turlari xavfini oshiradi. Quyidagilardan qaysi biri surunkali kasallik hisoblanadi?",
+    "A": "Semirib ketish",
+    "B": "Sil kasalligi",
+    "C": "Giperkolesterolemiya",
+    "D": "Podagra",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri insonlar uchun profilaktik tibbiy xizmatlardan biridir?",
+    "A": "Ruhiy salomatlikni himoya qilish va mustahkamlash",
+    "B": "Tabiiy, o`simlik va hayvonot dunyosini muhofaza qilish",
+    "C": "Havoning ifloslanishini nazorat qilish",
+    "D": "Sog`lom yashash joylarini ta`minlash",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri salomatlikni mustahkamlashga qaratilgan strategik yondashuv emas?",
+    "A": "Hayotni qiyinlashtirish",
+    "B": "Ijtimoiy tuzilmalarni qo`llab-quvvatlash",
+    "C": "Xavfli guruhlar uchun va ular bilan harakat qilish",
+    "D": "Organ yetishmovchiligi tufayli hayoti xavf ostida bo`lganlar uchun organ donorligi haqida jamiyatning xabardorligini oshirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Jismoniy mashqlar haqidagi quyidagi fikrlardan qaysi biri to`g`ri?",
+    "A": "Jismoniy mashqlar muvozanat funktsiyalarining rivojlanishini ta`minlaydi",
+    "B": "Bu hissiy stressga ta`sir qilmaydi",
+    "C": "Shikastlanmaslik uchun muntazam jismoniy mashqlar qilishdan qochish kerak",
+    "D": "Jismoniy mashqlar tananing samaradorligini oshirsa-da, miya faoliyatining pasayishiga olib keladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri muntazam mashq qilishning foydasi emas?",
+    "A": "Bu kundalik hayotda zarur bo`lgan faoliyat qobiliyatini pasaytiradi",
+    "B": "Bu tana vaznini (vazn darajasi) nazorat qilishni ta`minlaydi",
+    "C": "Bu suyaklar va mushaklarni mustahkamlaydi",
+    "D": "Jismoniy kuch va tayyorgarlikni yaxshilaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri shaxsiy gigiyenaning birinchi va eng asosiy bosqichi hisoblanadi?",
+    "A": "Qo`l yuvish",
+    "B": "Tishni parvarish qilish",
+    "C": "Oziq-ovqat gigienasi",
+    "D": "Oziq-ovqat xavfsizligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Har qanday mashq harakatida quyidagilardan qaysi biri birinchi navbatda bajarilishi kerak?",
+    "A": "Isitish harakatlari",
+    "B": "Cho`zish harakatlari",
+    "C": "Chidamlilik harakatlari",
+    "D": "Jismoniy mashqlar dasturiga rioya qilish",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri tibbiy xizmatning asosiy vazifasi hisoblanadi?",
+    "A": "Inson salomatligini muhofaza qilish va mustahkamlash",
+    "B": "Uyda parvarishlash xizmatlarini ko`rsatish",
+    "C": "Odamlarni yuqumli kasalliklardan himoya qilish",
+    "D": "Kasalliklarni to`g`ri tashxislash",
+    "javob": "A"
+  },
+  {
+    "savol": "Jismoniy faollik haqidagi quyidagi fikrlardan qaysi biri to`g`ri?",
+    "A": "Tanada ko`proq energiya talab qiladigan har qanday faoliyat",
+    "B": "Buni sport zallarida murabbiy bilan qilish kerak",
+    "C": "Takrorlanmaydigan jismoniy faoliyat sog`liq uchun hech qanday foyda keltirmaydi",
+    "D": "Jismoniy faollik, albatta, tabiyatda amalga oshirilishi kerak",
+    "javob": "A"
+  },
+  {
+    "savol": "Jismoniy mashqlar haqidagi quyidagi fikrlardan qaysi biri to`g`ri?",
+    "A": "Ovqatdan keyin kamida ikki soat o`tgach amalga oshirilishi kerak",
+    "B": "Oldindan suv ichmaslik kerak",
+    "C": "Dastlab, kirish tezkor harakatlar bilan amalga oshirilishi kerak",
+    "D": "Yomg`irli kunlarda mashq qilmaslik kerak",
+    "javob": "A"
+  },
+  {
+    "savol": "Tana massasi indeksi 28 ga teng inson quyidagi toifalarning qaysi biriga kiradi?",
+    "A": "Semiz",
+    "B": "Juda semiz",
+    "C": "Zaif",
+    "D": "Oddiy",
+    "javob": "A"
+  },
+  {
+    "savol": "Semizlik haqidagi quyidagi fikrlardan qaysi biri to`g`ri?",
+    "A": "Kundalik faoliyatning pasayishi bilan semirish kuchayadi",
+    "B": "Genetika hech qanday ta`sir ko`rsatmaydi",
+    "C": "Nikohdan keyin semirishga moyillik kamayadi",
+    "D": "Ko`pincha 25-35 yoshda semirishga boshlanadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri bolalarda semirishning oldini olishga kirmaydi?",
+    "A": "Bolaning televizor va kompyuter oldida o`tkazadigan vaqtini ko`paytirish",
+    "B": "Bolaning tez ovqat iste`molini kamaytirish",
+    "C": "Har doim oilangiz bilan ovqatlanish",
+    "D": "Bolaning yog` va shakar miqdori yuqori bo`lgan oziq-ovqatlarni iste`mol qilishiga yo`l qo`ymaslik",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri jismoniy tarbiyani haddan tashqari va xavfli deb tushunish mumkin bo`lgan signal belgilaridan biri emas?",
+    "A": "Inson bajargan mashqni takrorlay olishni qilaolsa",
+    "B": "Uyqu buzilishlariga ega bolsa",
+    "C": "Oyoqlarda shish paydo bolsa",
+    "D": "Surunkali charchoq hissi bolsa",
+    "javob": "A"
+  },
+  {
+    "savol": "Rivojlanayotgan mamlakatlarda dunyoda salomatlik holatini baholashda eng ko`p o`lim, kasallik va nogironlikni keltirib chiqaradigan xavf omillaridan qaysi biri hisoblanadi?",
+    "A": "Zaiflik",
+    "B": "Moddadan foydalanish",
+    "C": "Spirtli ichimliklarni iste`mol qilish",
+    "D": "Mashq qilmaslik",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri salomatlikka ta`sir qiluvchi asosiy omillar qatoriga kirmaydi?",
+    "A": "Motivatsiya",
+    "B": "Yosh",
+    "C": "Madaniyat/turmush tarzi",
+    "D": "Jismoniy/ekologik sharoitlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Faqat kasallik yoki zaiflikning yo`qligi emas, balki to`liq jismoniy, ruhiy va ijtimoiy farovonlik…….deyiladi.Yuqoridagi gapdagi bo`sh joyni qaysi biri to`g`ri to`ldiradi?",
+    "A": "Salomatlik",
+    "B": "Fiziologiya",
+    "C": "Tinchlik",
+    "D": "Bahtli hayot",
+    "javob": "A"
+  },
+  {
+    "savol": "Jismoniy mashqlar foydasi haqidagi quyidagi fikrlardan qaysi biri noto`g`ri?",
+    "A": "Bu tana vaznini oshiradi",
+    "B": "Depressiyaga olib kelishi mumkin bo`lgan hissiy buzilishlarni yaxshilaydi",
+    "C": "Bu uzoq va sifatli hayotni ta`minlaydi",
+    "D": "Jismoniy kuch va tayyorgarlikni yaxshilaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Shaxs tug`ilgan paytdan boshlab o`rin olgan va hayotini davom ettirish uchun zarur bo`lgan g`amxo`rlik va yordam ko`rsatiladigan ijtimoiy muhit qanday nomlanadi?",
+    "A": "Oila muhiti",
+    "B": "Yashash muhiti",
+    "C": "Ijtimoiy muhit",
+    "D": "Xavfsiz muhit",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri sog`lom muloqotni o`rnatishning birinchi sharti hisoblanadi?",
+    "A": "Empatik tinglash",
+    "B": "Muloqot ko`nikmalarini rivojlantirish",
+    "C": "Ko`p gapirmaslik",
+    "D": "Tanani yaxshilash",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri texnologiyaning asosiy manbai hisoblanadi?",
+    "A": "Inson",
+    "B": "Pul",
+    "C": "Tadqiqotlar",
+    "D": "Asboblar",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri insoning doimiy ravishda yashash bilan band bo`lgan kasblardan biri emas?",
+    "A": "Taʼlim",
+    "B": "Oziqlanish",
+    "C": "Kiyinish",
+    "D": "Dam olish",
+    "javob": "A"
+  },
+  {
+    "savol": "Texnologiya haqidagi quyidagi fikrlardan qaysi biri noto`g`ri?",
+    "A": "U faqat tsivilizatsiyalashgan mamlakatlarda rivojlanadi",
+    "B": "Bu odamlar hayotini osonlashtirishga qaratilgan",
+    "C": "Bu odamlarning ehtiyojlarini qondirish usullarini o`zgartiradi",
+    "D": "Texnologiya inson hayotining barcha bosqichlarini qamrab oladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Texnologiya qachon paydo bo`lgan?",
+    "A": "Insonniyatning boshlanishi bilan",
+    "B": "Yozuvning boshlanishi bilan",
+    "C": "Bilimning boshlanishi bilan",
+    "D": "San`atning boshlanishi bilan",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri insonning boshqalar bilan ijtimoiy hayotida zarur bo`lgan birinchi talim hisoblanadi?",
+    "A": "Oila",
+    "B": "Maktab",
+    "C": "Universitet",
+    "D": "Hayot",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri inson hayoti uchun mutlaq zarurat emas?",
+    "A": "Sayohat qilish",
+    "B": "Oziqlanish",
+    "C": "Kiyinish",
+    "D": "Dam olish va qiziqarli narsalar qilish",
+    "javob": "A"
+  },
+  {
+    "savol": "Odamlarning eng ko`p yuqumli kasalliklarga duchor bo`lgan davri ................. davri hisoblanadi. Yuqoridagi bo`sh joyga qaysi birini to`ldirish kerak?",
+    "A": "Bolalik payti",
+    "B": "Chaqalok payti",
+    "C": "Voyaga yetganlik payti",
+    "D": "Qarilik",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi fikrlardan qaysi biri to`g`ri emas?",
+    "A": "To`g`ri ovqatlanish hamma uchun bir xil",
+    "B": "Ortiqcha ovqatlanish tanaga to`yib ovqatlanmaslik kabi zararli",
+    "C": "Muvozanatli ovqatlanish uchun ovqatni vagtida yemasdan o`tkazib yubormaslik kerak",
+    "D": "Oziq-ovqat iste`moli energiya sarfiga mos ravishda sozlanishi kerak",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri inson salomatligiga ta`sir qiluvchi ekologik omillardan biri emas?",
+    "A": "Oziq-ovqat qo`shimchalari",
+    "B": "Radiatsiya",
+    "C": "Mobil telefon",
+    "D": "Havoning ifloslanishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri atrof-muhitning inson salomatligiga salbiy ta`siri hisoblanmaydi?",
+    "A": "Bu kasallikning yo`qolishiga olib kelishi mumkin",
+    "B": "Kasalliklarni keltirib chiqarishi mumkin",
+    "C": "U kasalliklar uchun zamin tayyorlashi mumkin",
+    "D": "Bu kasalliklarning tarqalishini osonlashtirishi mumkin",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri salomatlikning ijtimoiy hal qiluvchi omili emas?",
+    "A": "Yosh holati",
+    "B": "Iqtisodiy vaziyat",
+    "C": "Madaniy holat",
+    "D": "Oilaviy holat",
+    "javob": "A"
+  },
+  {
+    "savol": "Inson jamiyat va davlatdan o`z sog`lig`ini asrashni, kerak bo`lganda davolanib, sog`lom bo`lishini so`rashi nima deb ataladi?",
+    "A": "Sog`liq huquqi",
+    "B": "Yashash huquqi",
+    "C": "Ta`lim huquqi",
+    "D": "Dam olish huquqi",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri Jahon sog`liqni saqlash tashkiloti hisoblanadi?",
+    "A": "WHO",
+    "B": "WHOM",
+    "C": "UNESCO",
+    "D": "UNICEF",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri inson salomatligiga ta`sir qiluvchi jismoniy omillar emas?",
+    "A": "Depressiya",
+    "B": "Radiatsiya",
+    "C": "Mobil telefon",
+    "D": "Havoning ifloslanishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Jismoniy shaxslarning jismoniy faoliyati; I. Shaxslarda muloqot qilish ko`nikmalarini rivojlantiradi II. Ijobiy fikrlash yordam beradi III. Bu shaxsda yashash quvonchini oshiradi Quyidagilardan qaysi birinda ko`rsatilgan?",
+    "A": "I, II va III",
+    "B": "I va II",
+    "C": "II va III",
+    "D": "I va III",
+    "javob": "A"
+  },
+  {
+    "savol": "Futbol o`ynash Velosipetda balandlikla chiqish Raqobatli suzish Dam olish uchun yurish Quyidagilardan qaysi biri og`ir jismoniy tarbiya turkumiga kiradi?",
+    "A": "II va III",
+    "B": "I, III va IV",
+    "C": "I va II",
+    "D": "I va III",
+    "javob": "A"
+  },
+  {
+    "savol": "I. Chekish II. Genetik omillar III. Balansli ovqatlanish IV. Qarilik Quyidagilardan qaysi biri salomatlikka ta`sir qiluvchi o`zgartirilishi mumkin bo`lgan omillar?",
+    "A": "I va III",
+    "B": "II va III",
+    "C": "I va II",
+    "D": "II va IV",
+    "javob": "A"
+  }
+]

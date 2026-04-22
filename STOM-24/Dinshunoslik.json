@@ -1,0 +1,794 @@
+[
+  {
+    "savol": "Zardushtiylik ta`limotiga ko`ra, Zardusht necha yoshga yetganida unga payg`ambarlik vazifasi berilgan?",
+    "A": "30 yoshga",
+    "B": "35 yoshga",
+    "C": "28 yoshga",
+    "D": "55 yoshga",
+    "javob": "A"
+  },
+  {
+    "savol": "“Avesto”matniga yozilgan sharh nima deb nomlanadi?",
+    "A": "Zend",
+    "B": "Vidovat",
+    "C": "Vispart",
+    "D": "Yasht",
+    "javob": "A"
+  },
+  {
+    "savol": "Cherkov bu − ...?",
+    "A": "Xristianlik diniy marosim oʻtkazish uchun moʻljallangan diniy tashkilot",
+    "B": "Diniy dunyoqarash turi",
+    "C": "Muqaddas matnlar toʻplami",
+    "D": "Kult, e`tiqod",
+    "javob": "A"
+  },
+  {
+    "savol": "E`tiqod qiluvchilarning soniga koʻra eng katta jahon dini qaysi?",
+    "A": "Xristianlik",
+    "B": "Buddizm",
+    "C": "Islom",
+    "D": "Hinduiylik",
+    "javob": "A"
+  },
+  {
+    "savol": "Eng qadimgi jahon dini...?",
+    "A": "Buddizm",
+    "B": "Xristianlik",
+    "C": "Islom",
+    "D": "Yahudiylik",
+    "javob": "A"
+  },
+  {
+    "savol": "Islomga qadar Markaziy Osiyoda eng keng tarqalgan din qaysi javobda berilgan?",
+    "A": "Zardushtiylik",
+    "B": "Buddaviylik",
+    "C": "Konfutsiychilik",
+    "D": "Braxmanchilik",
+    "javob": "A"
+  },
+  {
+    "savol": "Iso Masih qaysi dinning paygʻambari hisoblanadi?",
+    "A": "Xristianlik",
+    "B": "Islom",
+    "C": "Sintoiylik",
+    "D": "Lamaizm",
+    "javob": "A"
+  },
+  {
+    "savol": "Iso Masih tugʻilgan joy nomi?",
+    "A": "Nazaret",
+    "B": "Bobil",
+    "C": "Misr",
+    "D": "Vizantiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Iso Masihning nechta apostoli boʻlgan?",
+    "A": "Oʻn ikkita",
+    "B": "Oʻn uchta",
+    "C": "uchta",
+    "D": "Yettita",
+    "javob": "A"
+  },
+  {
+    "savol": "Jahon dinlaridan birining nomini aniqlang?",
+    "A": "Islom",
+    "B": "Pyatidesyatniklik",
+    "C": "Adventistlik",
+    "D": "Baptistlik",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi dinlar jahon dinlari deb ataladi?",
+    "A": "Buddizm, xristianlik, islom",
+    "B": "Zardushtiylik, sintoiylik, daolik",
+    "C": "Islom, krishnachilik, bahoiylik",
+    "D": "Yahudiylik, xristianlik, islom",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi dinlar milliy dinlardan hisoblanadi?",
+    "A": "Hinduizm, jaynizm, konfutsilik",
+    "B": "Fetishizm, totemizm,anemizm",
+    "C": "Buddizm, islom,xristianlik",
+    "D": "Katolisizm, pravoslaviya,protestantlik",
+    "javob": "A"
+  },
+  {
+    "savol": "Islom dininig asoschisi qaysi javobda to`g`ri ko`rsatilgan?",
+    "A": "Muhammad(s a v)",
+    "B": "Iso",
+    "C": "Muso",
+    "D": "Sidhata",
+    "javob": "A"
+  },
+  {
+    "savol": "Xristianlik qachon va qayerda vujudga kelgan?",
+    "A": "Mil.I asrda Falastinda",
+    "B": "Mil.avv.I-asrda Suriyada",
+    "C": "Mil.IV asrda Vizantiyada",
+    "D": "Mil.avv.IV-asrda Suriyada",
+    "javob": "A"
+  },
+  {
+    "savol": "Yahudiylik dinidagi muqaddas dam olish kuni qaysi?",
+    "A": "Shanba",
+    "B": "Dushanba",
+    "C": "Payshanba",
+    "D": "Juma",
+    "javob": "A"
+  },
+  {
+    "savol": "Zardushtiylik dinining asosiy gʻoyasi nimadan iborat?",
+    "A": "Ezgu fikr, Ezgu soʻz, Ezgu amal",
+    "B": "Yovuz fikr, Yovuz soʻz, Yovuz amal",
+    "C": "Yovuzlik bilan murosa qilish",
+    "D": "Toʻgʻri javob yoq`",
+    "javob": "A"
+  },
+  {
+    "savol": "Zardushtiylikning muqaddas manbasi ...",
+    "A": "Аvesto",
+    "B": "Veda",
+    "C": "Zabur",
+    "D": "Tavrot",
+    "javob": "A"
+  },
+  {
+    "savol": "Yakkaxudolik dini qanday din hisoblanadi?",
+    "A": "monoteistik",
+    "B": "politeizm",
+    "C": "teologik",
+    "D": "polo-monotelistik",
+    "javob": "A"
+  },
+  {
+    "savol": "Zardushtiylik dinida muqaddas hisoblangan to`rt unsur qaysi javobda to`g`ri ko`rsatilgan?",
+    "A": "Suv,havo,tuproq,olov",
+    "B": "Non,tuz,suv,havo",
+    "C": "Kitob,yozuv,olov,tuproq",
+    "D": "Tuz,suv,kitob,qilich",
+    "javob": "A"
+  },
+  {
+    "savol": "Islom dini qachon paydo bo`lgan?",
+    "A": "Mil.VII asrda",
+    "B": "Mil.I asrda",
+    "C": "Mil. avv.VI asrda",
+    "D": "Mil.avv XII asrda",
+    "javob": "A"
+  },
+  {
+    "savol": "Islom dinining muqaddas kitobi qaysi javobda to`g`ri ko`rsatilgan?",
+    "A": "“Qur`on”",
+    "B": "“Bibliya”",
+    "C": "“Tavrot”",
+    "D": "“Avesto”",
+    "javob": "A"
+  },
+  {
+    "savol": "“Qur`on” so`zining ma`nosini aniqlang",
+    "A": "``o`qish”",
+    "B": "“gapirish”",
+    "C": "“itoat etish”",
+    "D": "“muqaddas”",
+    "javob": "A"
+  },
+  {
+    "savol": "Muhammad (sav) ayollarining ismi qaysi javobda tog`ri ko`rsatilgan?",
+    "A": "Xadicha",
+    "B": "Fotima",
+    "C": "Halima",
+    "D": "Omina",
+    "javob": "A"
+  },
+  {
+    "savol": "Xristianlik dinining asoschisi Iso necha yoshida xudoning amri bilan Yaxyo payg`ambar oldiga boradi ?",
+    "A": "33 yoshida",
+    "B": "35 yoshida",
+    "C": "40 yoshida",
+    "D": "45yoshida",
+    "javob": "A"
+  },
+  {
+    "savol": "Muhammad (sav) onalarining ismi qaysi javobda tog`ri ko`rsatilgan?",
+    "A": "Omina",
+    "B": "Xadicha",
+    "C": "Fotima",
+    "D": "Halima",
+    "javob": "A"
+  },
+  {
+    "savol": "Qachon Muhammad (sav) ga Allohdan Jabroil farishta vositasida birinchi vahiy tushadi?",
+    "A": "610 yil",
+    "B": "622 yil",
+    "C": "630 yil",
+    "D": "632 yil",
+    "javob": "A"
+  },
+  {
+    "savol": "BMT tomonidan qaysi kun –“Xalqaro bag`rikenglik kuni” deb e`lon qilingan?",
+    "A": "16-noyabr",
+    "B": "25- mart",
+    "C": "18- sentabr",
+    "D": "22-fevral",
+    "javob": "A"
+  },
+  {
+    "savol": "XII asr oxirida yuzaga kelgan mashhur Kubroviya tariqatati qayerda yuzaga kelgan?",
+    "A": "Xorazmda",
+    "B": "Buxoroda",
+    "C": "Xurosonda",
+    "D": "Eronda",
+    "javob": "A"
+  },
+  {
+    "savol": "“Dil bayor-u dast bakor” (“ko`ngil Allohda bo`lsin-u, qo`1 ish bilan band bo`lsin”) degan hikmati bilan mashur tariqatni aniqlang",
+    "A": "Naqshbandiya tariqati",
+    "B": "Gijduvoniy tariqati",
+    "C": "Kubroviya tariqati",
+    "D": "Yassaviya tariqati",
+    "javob": "A"
+  },
+  {
+    "savol": "Hadis to`plovchi kishilar… deyiladi",
+    "A": "Musahhihlar",
+    "B": "mutakallimlar",
+    "C": "So`fiylar",
+    "D": "Faqihlar",
+    "javob": "A"
+  },
+  {
+    "savol": "“Missiya” atamasining izohi qaysi javobda to`g`ri ko`rsatilgan?",
+    "A": "“yuborish”, “vazifa topshirish”",
+    "B": "«so`z», «gap», «jumla»",
+    "C": "“tinchlik,vatanparvarlik”",
+    "D": "“muhokama”, vaziyat”",
+    "javob": "A"
+  },
+  {
+    "savol": "Har bir musulmon kishining kuniga besh mahal poklanib,qiblaga yuzlangan holda amalga oshiradigan farz ibodati nima deyiladi?",
+    "A": "namoz",
+    "B": "zakot",
+    "C": "imon",
+    "D": "ijmo",
+    "javob": "A"
+  },
+  {
+    "savol": "Qur`oni Karim necha yil davomida payg`ambarimizga nozil bo`lgan?",
+    "A": "23 yil",
+    "B": "20 yil",
+    "C": "40 yil",
+    "D": "36 yil",
+    "javob": "A"
+  },
+  {
+    "savol": "Qu`roni Karimda nechta sura bor?",
+    "A": "114 ta",
+    "B": "125 ta",
+    "C": "200 ta",
+    "D": "220 ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Muhammad(sav) vafotidan so`ng nechta xalifa xalifalikni boshqargan?",
+    "A": "4ta",
+    "B": "12 ta",
+    "C": "5 ta",
+    "D": "8 ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Islom dinining Qur`oni Karimdan keying o`rinda turuvchi manbasi nima deyiladi?",
+    "A": "Hadis",
+    "B": "sunnat",
+    "C": "namoz",
+    "D": "ro`za",
+    "javob": "A"
+  },
+  {
+    "savol": "“Al Jome`as-Sahih” asarining muallafini aniqlang",
+    "A": "Imom Al- Buxoriy",
+    "B": "Marg`inoniy",
+    "C": "Farg`oniy",
+    "D": "Zamaxshariy",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi xalifa davrida Qur`on kitob holatiga keltirilgan?",
+    "A": "Usmon ibn Affon",
+    "B": "Abu Bakr Siddiq",
+    "C": "Zayud ibn Sobit",
+    "D": "Ali",
+    "javob": "A"
+  },
+  {
+    "savol": "Muhammad (s.a.v) qizlarining ismini aniqlang",
+    "A": "Fotima",
+    "B": "Halima",
+    "C": "Omina",
+    "D": "Xadicha",
+    "javob": "A"
+  },
+  {
+    "savol": "Qur`on necha oyatdan iborat?",
+    "A": "6236",
+    "B": "4578",
+    "C": "7654",
+    "D": "7890",
+    "javob": "A"
+  },
+  {
+    "savol": "Mo`gullat istilosiga qarshi lashkar to`plagan shayx N.Kubro necha yoshda bo`lgan?",
+    "A": "76 yoshda",
+    "B": "89 yoshda",
+    "C": "80 yoshda",
+    "D": "70 yoshda",
+    "javob": "A"
+  },
+  {
+    "savol": "“Devoni Hikmat” asari kimning qalamiga mansub?",
+    "A": "A.Yassaviy",
+    "B": "Kubroviy",
+    "C": "Naqshbandiy",
+    "D": "Gijduvoniy",
+    "javob": "A"
+  },
+  {
+    "savol": "Jahon dinlarining qaysi biri yosh din hisoblanadi?",
+    "A": "Islom",
+    "B": "Xristianlik",
+    "C": "Buddizm",
+    "D": "hinduiylik",
+    "javob": "A"
+  },
+  {
+    "savol": "Diniy urf-odatlar yigʻindisi qanday ataladi?",
+    "A": "Diniy marosim",
+    "B": "An`ana",
+    "C": "Duo",
+    "D": "Diniy ong",
+    "javob": "A"
+  },
+  {
+    "savol": "Bugunki kunda bir necha terrorchi tashkilotlar o`z saflariga ijtimoiy tarmoqlar orqali asosan necha yosh oralig`idagi bo`lgan kishilarni yollamoqda?",
+    "A": "17- 35 yosh",
+    "B": "20-25 yosh",
+    "C": "25-35 yosh",
+    "D": "30-40 yosh",
+    "javob": "A"
+  },
+  {
+    "savol": "632–634 yillarda hukmronlik qilgan xalifani aniqlang",
+    "A": "Xalifa Abu Bakr",
+    "B": "Umar ibn Xattob",
+    "C": "Usmon ibn Affon",
+    "D": "Hazrat Ali",
+    "javob": "A"
+  },
+  {
+    "savol": "Umar ibn Xattobning hukmronlik qilgan yillari qaysi javobda to`g`ri ko`rsatilgan?",
+    "A": "644-656 yillar",
+    "B": "632-634 yillar",
+    "C": "634-644 yillar",
+    "D": "656-661yillar",
+    "javob": "A"
+  },
+  {
+    "savol": "Tassavuf ta`limoti qayerda paydo bo`lgan?",
+    "A": "Iroqda",
+    "B": "Eronda",
+    "C": "Misrda",
+    "D": "Hindistonda",
+    "javob": "A"
+  },
+  {
+    "savol": "Bobolari Abdulmutollibning vafotidan keyin Rasululloh (s.a.v)ni kim tarbiyasiga olgan?",
+    "A": "Amakilari",
+    "B": "Usmon",
+    "C": "Umar",
+    "D": "Abu Bakr",
+    "javob": "A"
+  },
+  {
+    "savol": "Kasta nima?",
+    "A": "Tabaqa",
+    "B": "Din",
+    "C": "Ishonch",
+    "D": "Tumor",
+    "javob": "A"
+  },
+  {
+    "savol": "AQSHda ro`y berga terroristik harakat natijasida \"egizak minoralar\"ning qulatilishi qachon sodir bo`lgan edi?",
+    "A": "2001-yil 11-sentabrda",
+    "B": "1999-yil 16-fevralda",
+    "C": "2008-yil 14-oktabrda",
+    "D": "2005-yil 13- mayda",
+    "javob": "A"
+  },
+  {
+    "savol": "Musulmonlar uchun muborak sanalgan kunni belgilang",
+    "A": "Juma",
+    "B": "Dushanba",
+    "C": "Qadr kechasi",
+    "D": "Payshanba",
+    "javob": "A"
+  },
+  {
+    "savol": "“Xushxabar” deb tarjima qilingan nasroniylikning muqaddas kitoblaridan biri...?",
+    "A": "Injil",
+    "B": "Muqaddas yozuvlar",
+    "C": "Apokalipsis",
+    "D": "Tavrot",
+    "javob": "A"
+  },
+  {
+    "savol": "Musulmonlarning ibodat qiladigan joyi qanday ataladi?",
+    "A": "Masjid",
+    "B": "Cherkov",
+    "C": "Sinagoga",
+    "D": "Madrasa",
+    "javob": "A"
+  },
+  {
+    "savol": "Arab tilida “shariat” soʻzining ma`nosi...?",
+    "A": "Toʻgʻri yoʻl",
+    "B": "Notoʻgʻri yoʻl",
+    "C": "Ta`qiq",
+    "D": "Gunohsiz yoʻl",
+    "javob": "A"
+  },
+  {
+    "savol": "Qur`oni Karim birinchi qayerda nozil boʻlgan?",
+    "A": "Makkada, Hiro togʻida",
+    "B": "Teshiktoshk gʻorida",
+    "C": "Sinoy togʻida",
+    "D": "Himolay togʻida",
+    "javob": "A"
+  },
+  {
+    "savol": "“Tolerantlik” soʻzining ma`nosi?",
+    "A": "bagʻrikenglik",
+    "B": "Baxillik",
+    "C": "yaxshilik",
+    "D": "yovuzlik",
+    "javob": "A"
+  },
+  {
+    "savol": "Dunyoda nechta diniy konfessiyalar faoliyat olib boradi?",
+    "A": "1000 dan ortiq",
+    "B": "100 tacha",
+    "C": "2000",
+    "D": "3000",
+    "javob": "A"
+  },
+  {
+    "savol": "Nechanchi yilda “Toshkent – islom madaniyati poytaxti”deb nomlangan?",
+    "A": "2007 yilda",
+    "B": "1997 yilda",
+    "C": "2000 yilda",
+    "D": "2017 yilda",
+    "javob": "A"
+  },
+  {
+    "savol": "“Terrorizm” qanday oqibatlarga olib keladi?",
+    "A": "Insoniyatni hayotini xavf ostiga olib keladi",
+    "B": "Koʻngilocharlikka olib keladi",
+    "C": "Baxt-saodatga olib keladi",
+    "D": "Tinchlikka olib keladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qachon Toshkent shahrida terroristlar tomonidan uyushtirilgan portlashlardan keyin terrorizm muammosi Oʻzbekistondagi ijtimoiy-siyosiy hayotga tahdid soluvchi asosiy xavf-xatarlardan biriga aylandi?",
+    "A": "1999 yil 16 fevral",
+    "B": "2001 yil 11 sentabr",
+    "C": "2004 yil 29 mart",
+    "D": "2005 yil 15 may",
+    "javob": "A"
+  },
+  {
+    "savol": "Musulmonlrning diniy ta`lim oladigan joyi qanday nomlanadi ?",
+    "A": "Madrasa",
+    "B": "Akademiya",
+    "C": "Seminariya",
+    "D": "Masjid",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi daryoda Iso Masih choʻqintirilgan?",
+    "A": "Iordan daryosida",
+    "B": "Nil daryosida",
+    "C": "Gang daryosida",
+    "D": "Yefrat daryosida",
+    "javob": "A"
+  },
+  {
+    "savol": "Qur`onda nechta payg`ambarning nomlari zikr etilgan?",
+    "A": "25",
+    "B": "20",
+    "C": "30",
+    "D": "35",
+    "javob": "A"
+  },
+  {
+    "savol": "Yassaviya g`oyalari qaysi asarda jamlangan?",
+    "A": "“Devoni Hikmat”",
+    "B": "“Hindiston”",
+    "C": "“Musnad”",
+    "D": "“As-Sahih”",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi tariqatning 2-nomi Xojagon yo`nalishi deb nomlanadi?",
+    "A": "Naqshbandiya",
+    "B": "Yassaviya",
+    "C": "Kubroviya",
+    "D": "Molikiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Qur`on nechanchi yillarda nozil bo`lgan?",
+    "A": "610-632 yillarda",
+    "B": "720-740 yillarda",
+    "C": "315-363 yillarda",
+    "D": "515-533 yillarda",
+    "javob": "A"
+  },
+  {
+    "savol": "Qur`oni Karimda “ilm” so`zi necha marta takrorlangan?",
+    "A": "750 martadan ortiq",
+    "B": "720 marta",
+    "C": "650 martadan ortiq",
+    "D": "850 marta",
+    "javob": "A"
+  },
+  {
+    "savol": "Payg`ambarni ko`rgan, u bilan muloqatda bo`lgan musulmonlar nima deb ataladi?",
+    "A": "Sahobalar",
+    "B": "Xalifalar",
+    "C": "Xabarchilar",
+    "D": "Elchilar",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi alloma islom olamida “Musulmonlarning е`tiqodini tuzatuvchi” degan yuksak sharafga sazovor bo`lgan?",
+    "A": "Moturidiy",
+    "B": "Termiziy",
+    "C": "Farg`oniy",
+    "D": "Marg`inoniy",
+    "javob": "A"
+  },
+  {
+    "savol": "Hadis so`zining ma`nosi?",
+    "A": "Hikoya",
+    "B": "Maqola",
+    "C": "Haq",
+    "D": "Qoida",
+    "javob": "A"
+  },
+  {
+    "savol": "Alisher Navoiy va Abdurahmon Jomiy hazratlari qaysi tasavvuf tariqatiga е`tiqod qilganlar?",
+    "A": "Naqshbandiya",
+    "B": "Yassaviya",
+    "C": "Kubroviya",
+    "D": "Ja`fariya",
+    "javob": "A"
+  },
+  {
+    "savol": "O`zbekiston Respublikasining fuqarosi necha yoshda diniy jamiyatga a`zo bo`lishi mumkin?",
+    "A": "18 yosh",
+    "B": "16 yosh",
+    "C": "20 yosh",
+    "D": "21 yosh",
+    "javob": "A"
+  },
+  {
+    "savol": "O`zbekistonda diniy tashkilotlar qaysi idora tomonidan ro`yxatga olinadi?",
+    "A": "Adliya Vazirligi",
+    "B": "O`zbekiston musulmonlari idorasi",
+    "C": "Vazirlar Mahkamasi",
+    "D": "Diniy ishlar idorasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Toshkent Islom universiteti qachon tashkil еtilgan?",
+    "A": "1999-yil",
+    "B": "1997-yil",
+    "C": "2001-yil",
+    "D": "2002-yil",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi davlatlar terroristik faoliyatning markazlari hisoblanadi?",
+    "A": "Iroq, Afg`oniston, Suriya",
+    "B": "AQSH, Rossiya, Fransiya",
+    "C": "Eron, Misr, Pokiston",
+    "D": "Buyuk Britaniya, Germaniya, Yaponiya",
+    "javob": "A"
+  },
+  {
+    "savol": "“Sekulyarizatsiya” atamasi diniy jihatdan qanday ma`noda ishlatiladi?",
+    "A": "Dinning davlatdan ajratilganligini ifodalash uchun",
+    "B": "Vijdon еrkinligini ifodalanish uchun",
+    "C": "Diniy bag`rikenglikni ifodalanish uchun",
+    "D": "Diniy tashkilotlarning qonun oldida tengligini ifodalanish uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "Budda qaysi qabiladan bo`lgan?",
+    "A": "Shakya",
+    "B": "Shavkana",
+    "C": "Shashya",
+    "D": "Shaxsana",
+    "javob": "A"
+  },
+  {
+    "savol": "Budda so`zining ma`nosi nima?",
+    "A": "Nurlangan",
+    "B": "poklangan",
+    "C": "Iyonmangan",
+    "D": "sanamlarga sig`inuvchi",
+    "javob": "A"
+  },
+  {
+    "savol": "Mil.avv I asrda qaysi hududda buddaviylik ustuvor mavqega ega bo`ldi?",
+    "A": "Termizda",
+    "B": "Buxoroda",
+    "C": "Qashqarda",
+    "D": "Xolchayonda",
+    "javob": "A"
+  },
+  {
+    "savol": "Buddaviylik dini Turkiston mintaqasiga qaysi podsholik davrida kirib kelgan?",
+    "A": "Kushon",
+    "B": "Qang`",
+    "C": "Davan",
+    "D": "Baqtriya",
+    "javob": "A"
+  },
+  {
+    "savol": "“Insonlar bilan hayvon va oʻsimliklar oʻrtasida qarindoshchilik aloqalari mavjud”- degan tasavvur qaysi diniy tasavvurda namoyon boʻladi?",
+    "A": "Тotemizm",
+    "B": "Animizm",
+    "C": "Fetishizm",
+    "D": "Мagiya",
+    "javob": "A"
+  },
+  {
+    "savol": "“Insonning joni oʻlgandan keyin korinmas ruh boʻlib yashaydi”- degan tasavvur qaysi dinning ibtidoiy shaklida uchraydi?",
+    "A": "Animizm",
+    "B": "Fetishizm",
+    "C": "Тotemizm",
+    "D": "Мagiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Grek tilidagi “Christos” soʻzining ma`nosi...?",
+    "A": "Xaloskor",
+    "B": "Nurlangan",
+    "C": "Sariq tuya yetaklagan",
+    "D": "Paygʻambar",
+    "javob": "A"
+  },
+  {
+    "savol": "Politeizm – bu...:",
+    "A": "Koʻpxudolik",
+    "B": "Yakkaxudolik",
+    "C": "Sekta",
+    "D": "Cherkov tashkiloti",
+    "javob": "A"
+  },
+  {
+    "savol": "\"Vijdon erkinligi” tushunchasi nimani anglatadi?",
+    "A": "Fuqarolarning biron bir dinga e`tiqod qilish yoki e`tiqod qilmaslik huquqi",
+    "B": "Fuqarolarning bitta dinga ishonishi zarurligi",
+    "C": "Fuqarolarning oʻz millatiga ishonish huquqi",
+    "D": "Fuqarolarning dinga ishonmaslik va unga qarshi chiqish huquqi",
+    "javob": "A"
+  },
+  {
+    "savol": "Xristian dinini “boshqa dinlar bilan teng”- deb e`lon qilgan imperator kim edi?",
+    "A": "Konstantin",
+    "B": "Litsiniy,",
+    "C": "Yustian",
+    "D": "Luliy Sezar",
+    "javob": "A"
+  },
+  {
+    "savol": "Yaponlarning milliy dini qanday nomlanadi?",
+    "A": "Sintoizm",
+    "B": "Lamaizm",
+    "C": "Buddizm",
+    "D": "Krishnachilik",
+    "javob": "A"
+  },
+  {
+    "savol": "Yaxudiylik dinining paygʻambarini aniqlang",
+    "A": "Muso",
+    "B": "Iso Masih",
+    "C": "Muhammad(s.a.v)",
+    "D": "Dovud",
+    "javob": "A"
+  },
+  {
+    "savol": "Alloh bilan payg`ambarlar o`rtasida elchi vazifasini bajaruvchi farishtaning nomi qaysi javobda to`g`ri ko`rsatilgan?",
+    "A": "Jabroil",
+    "B": "Sulaymon",
+    "C": "Mikoil",
+    "D": "Azroil",
+    "javob": "A"
+  },
+  {
+    "savol": "Bajarilishi yomon sanalgan amalga nima deyiladi?",
+    "A": "Makruh",
+    "B": "Mandub",
+    "C": "Kasta",
+    "D": "Qiyomat",
+    "javob": "A"
+  },
+  {
+    "savol": "Islom diniga qadar Makkadagi bosh ilohning nomi qaysi javobda to`g`ri ko`rsatilgan?",
+    "A": "Hubal",
+    "B": "Manot",
+    "C": "Lot",
+    "D": "Uzot",
+    "javob": "A"
+  },
+  {
+    "savol": "Muhammad (sav) Arabiston tarixida “Fil voqeasi” nomi bilan mashhur jangdan necha kundan keyin tavallud topgan?",
+    "A": "50 kun",
+    "B": "100 kun",
+    "C": "120 kun",
+    "D": "150 kun",
+    "javob": "A"
+  },
+  {
+    "savol": "Qur`on Madinada necha yil davomida nozil bo`lgan?",
+    "A": "10 yil",
+    "B": "12 yil",
+    "C": "15 yil",
+    "D": "20 yil",
+    "javob": "A"
+  },
+  {
+    "savol": "Din talablarini bajarmagan gunohkorlar oxiratda jazolanadigan joy qanday ataladi?",
+    "A": "Do`zax",
+    "B": "Jannat",
+    "C": "Vojib",
+    "D": "Sunnat",
+    "javob": "A"
+  },
+  {
+    "savol": "Arabcha-“bog`,bo`ston”- taqvodor dindorlar narigi dunyoda rohat va farog`atda yashaydigan joyga nima deyiladi?",
+    "A": "Jannat",
+    "B": "Mazhab",
+    "C": "Vojib",
+    "D": "Sunnat",
+    "javob": "A"
+  },
+  {
+    "savol": "Qur`on Makkada necha yil davomida nozil bo`lgan?",
+    "A": "13 yil",
+    "B": "15 yil",
+    "C": "11 yil",
+    "D": "20 yil",
+    "javob": "A"
+  },
+  {
+    "savol": "Hamma uchun vijdon erkinligi kafolatlanadi.Har kim xohlagan diniga e`tiqod qilish yoki hech qaysi dinga e`tiqod qilmaslik huquqiga ega.Diniy qarashlarni majburan singdirishga yo`l qo`yilmaydi. Ushbu modda O`zbekiston Respublikasi Konstitutsiyasining nechanchi moddasida bayon etilgan?",
+    "A": "35- modda",
+    "B": "38- modda",
+    "C": "40- modda",
+    "D": "42- modda",
+    "javob": "A"
+  },
+  {
+    "savol": "Islom dinining asoschisi Muhammad (sav) qaysi voqeadan 50 kun o`tgach tavallud topgan?",
+    "A": "“Fil voqeasi”",
+    "B": "“Shiffin janggi”",
+    "C": "“Quraysh janggi”",
+    "D": "“Chinoz janggi”",
+    "javob": "A"
+  }
+]
