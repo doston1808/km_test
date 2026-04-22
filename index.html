@@ -135,9 +135,15 @@
                     </p>
                 </div>
             </div>
-            <div id="quiz-badge"
-                class="hidden px-2 py-1 bg-blue-50 text-blue-600 rounded-lg font-bold text-[10px] md:text-sm whitespace-nowrap">
-                <span id="current-badge">1</span>/<span id="total-badge">35</span>
+            <div class="flex items-center gap-2">
+                <div id="timer-badge"
+                    class="hidden px-2 py-1 bg-red-50 text-red-600 rounded-lg font-bold text-[10px] md:text-sm whitespace-nowrap border border-red-100 flex items-center gap-1 transition-colors">
+                    ⏱ <span id="time-left">35:00</span>
+                </div>
+                <div id="quiz-badge"
+                    class="hidden px-2 py-1 bg-blue-50 text-blue-600 rounded-lg font-bold text-[10px] md:text-sm whitespace-nowrap">
+                    <span id="current-badge">1</span>/<span id="total-badge">35</span>
+                </div>
             </div>
         </header>
 
@@ -234,10 +240,6 @@
                     class="nav-btn flex-1 bg-slate-100 text-slate-400 py-3 rounded-xl font-bold text-xs md:text-sm transition-all active:scale-95 disabled:opacity-40">
                     Ortga
                 </button>
-                <button id="next-btn" onclick="nextQuestion()"
-                    class="nav-btn hidden flex-[1.5] bg-blue-600 text-white py-3 rounded-xl font-bold text-xs md:text-sm shadow-lg transition-all active:scale-95">
-                    Keyingi
-                </button>
                 <button id="finish-early-btn" onclick="checkAndFinishQuiz()"
                     class="nav-btn flex-1 bg-red-50 text-red-600 py-3 rounded-xl font-bold text-xs md:text-sm border border-red-100 transition-all active:scale-95">
                     Yakunlash
@@ -267,8 +269,7 @@
     </div>
 
     <!-- Custom Modal Oynasi (Tasdiqlash uchun) -->
-    <div id="custom-modal"
-        class="hidden fixed inset-0 z-50 flex items-center justify-center bg-slate-900/40 backdrop-blur-sm p-4">
+    <div id="custom-modal" class="hidden fixed inset-0 z-50 flex items-center justify-center bg-slate-900/40 backdrop-blur-sm p-4">
         <div class="bg-white rounded-3xl p-6 md:p-8 max-w-sm w-full shadow-2xl animate-fade">
             <h3 id="modal-title" class="text-lg font-extrabold text-slate-800 mb-2">Tasdiqlash</h3>
             <p id="modal-desc" class="text-slate-500 text-sm mb-6 leading-relaxed"></p>
@@ -287,10 +288,10 @@
                 "KM-MP(log)": ["Falsafa", "Mediasavodxonlik va axborot madaniyati", "Umumiy Psixologiya"],
                 "KM-NGT": ["Oliy matematika", "Kimyo", "O'zbekistonning eng yangi tarixi", "Fizika", "Ingliz tili", "Rus tili"],
                 "DAV-25": ["Odam anatomiyasi", "Tibbiy biologiya"],
-                "OHI-25": ["Odam anatomiyasi", "Tibbiy biologiya", "O'zbek (rus) tili", "Tibbiy kimyo", "Tibbiyotda axborot texnologiyalari", "Lotin tili va tibbiy terminologiya", "O'zbek tilini sohada qo'llash"],
+                "OHI-25": ["Odam anatomiyasi", "Tibbiy biologiya", "O'zbek (rus) tili", "Tibbiy kimyo", "Tibbiyotda axborot texnologiyalari"],
                 "KM-BIO": ["Botanika", "O’zbekistonning eng yangi tarixi", "Oliy matematika", "Sitologiya, gistologiya", "Umumiy kimyo va fizika", "Umumiy psixologiya"],
-                "KM-MT": ["Bolalar psixologiyasi va psixodiagnostikasi", "Bolalarni sahnalashtirish va ijodiy faoliyatga o'rgatish", "Rivojlantiruvchi markazlarni tashkil qilish texnologiyasi", "Mediasavodxonlik va axborot madaniyat", "Ilk va maktabgacha yoshdagi bolalar pedagogikasi", "Bolalarning ijtimoiy moslashuvi"],
-                "KM-BT": ["Amaliy rus tili", "Boshlang'ich matematika kursi nazariyasi", "Mediasavodxonlik", "O`zbek tilining sohada qo'llanilishi", "O’zbekistonning eng yangi tarixi", "Ona tili", "Umumiy psixologiya"]
+                "KM-MT": [],
+                "KM-BT": []
             },
             "Magistratura": {
                 "MM-IQ": ["Maxsus fanlar o`qitish metodikasi", "Ekonometrika", "Ilmiy tadqiqot metodologiyasi", "Mikroiqtisodiyot"]
@@ -306,14 +307,62 @@
         let currentDirection = '';
         let currentSubject = '';
 
+        // Timer va Auto-advance o'zgaruvchilari
+        let autoAdvanceTimeout = null;
+        let quizTimer = null;
+        let timeRemaining = 35 * 60; // 35 daqiqa (soniyalarda)
+
+        function startTimer() {
+            clearInterval(quizTimer);
+            timeRemaining = 35 * 60;
+            updateTimerUI();
+            document.getElementById('timer-badge').classList.remove('hidden');
+
+            quizTimer = setInterval(() => {
+                timeRemaining--;
+                updateTimerUI();
+
+                if (timeRemaining <= 0) {
+                    clearInterval(quizTimer);
+                    showModal(
+                        "Vaqt tugadi!",
+                        "Test uchun ajratilgan vaqt o'z nihoyasiga yetdi. Natijalarni hisoblaymiz...",
+                        [{ text: "Natijani ko'rish", styleClass: "bg-blue-600 text-white", action: finishQuiz }]
+                    );
+                }
+            }, 1000);
+        }
+
+        function updateTimerUI() {
+            const m = Math.floor(timeRemaining / 60);
+            const s = timeRemaining % 60;
+            document.getElementById('time-left').innerText = `${m.toString().padStart(2, '0')}:${s.toString().padStart(2, '0')}`;
+            
+            const timerBadge = document.getElementById('timer-badge');
+            if (timeRemaining <= 180 && timeRemaining > 0) {
+                timerBadge.classList.replace('bg-red-50', 'bg-red-600');
+                timerBadge.classList.replace('text-red-600', 'text-white');
+                timerBadge.classList.add('animate-pulse');
+            } else {
+                timerBadge.classList.replace('bg-red-600', 'bg-red-50');
+                timerBadge.classList.replace('text-white', 'text-red-600');
+                timerBadge.classList.remove('animate-pulse');
+            }
+        }
+
+        function stopTimer() {
+            clearInterval(quizTimer);
+            document.getElementById('timer-badge').classList.add('hidden');
+        }
+
         // --- Custom Modal Mantiqi ---
         function showModal(title, desc, buttons) {
             document.getElementById('modal-title').innerText = title;
             document.getElementById('modal-desc').innerHTML = desc;
-
+            
             const btnContainer = document.getElementById('modal-buttons');
             btnContainer.innerHTML = '';
-
+            
             buttons.forEach(btn => {
                 const button = document.createElement('button');
                 button.className = `flex-1 py-3 px-2 rounded-xl font-bold text-xs md:text-sm transition-all active:scale-95 ${btn.styleClass}`;
@@ -350,7 +399,7 @@
             currentDegree = degree;
             document.getElementById('degree-screen').classList.add('hidden');
             document.getElementById('directions-screen').classList.remove('hidden');
-
+            
             document.getElementById('back-home-btn').classList.remove('hidden');
             document.getElementById('back-home-btn').onclick = goBackToDegree;
             document.getElementById('logo-icon').classList.add('hidden');
@@ -384,7 +433,7 @@
             document.getElementById('back-home-btn').classList.add('hidden');
             document.getElementById('logo-icon').classList.remove('hidden');
             document.getElementById('sub-title').innerText = "Ta'lim darajasini tanlang";
-
+            
             currentDegree = '';
             currentDirection = '';
         }
@@ -402,7 +451,7 @@
             // Ob'ektdan fanlarni olish
             let subjects = (curriculumData[currentDegree] && curriculumData[currentDegree][dir]) ? curriculumData[currentDegree][dir] : [];
 
-            if (subjects.length === 0) {
+            if(subjects.length === 0) {
                 subjectsList.innerHTML = `<p class="text-center text-sm text-slate-400 font-medium py-4">Ushbu yo'nalish uchun fanlar hozircha kiritilmagan.</p>`;
             } else {
                 subjects.forEach(subj => {
@@ -424,10 +473,10 @@
         function goBackToDirections() {
             document.getElementById('subjects-screen').classList.add('hidden');
             document.getElementById('directions-screen').classList.remove('hidden');
-
+            
             document.getElementById('back-home-btn').onclick = goBackToDegree;
             document.getElementById('sub-title').innerText = currentDegree.toUpperCase();
-
+            
             currentDirection = '';
             currentSubject = '';
         }
@@ -449,15 +498,18 @@
         }
 
         function executeGoBackToSubjects() {
+            clearTimeout(autoAdvanceTimeout);
+            stopTimer();
+
             document.getElementById('quiz-screen').classList.add('hidden');
             document.getElementById('result-screen').classList.add('hidden');
             document.getElementById('quiz-badge').classList.add('hidden');
-
+            
             document.getElementById('subjects-screen').classList.remove('hidden');
-
+            
             document.getElementById('back-home-btn').onclick = goBackToDirections;
             document.getElementById('sub-title').innerText = currentDirection.toUpperCase();
-
+            
             currentSubject = '';
             quizQuestions = [];
             userAnswers = [];
@@ -477,7 +529,7 @@
                 const encodedSubj = subjectName.split(' ').join('%20');
                 const url = `./${encodedDir}/${encodedSubj}.json`;
                 const response = await fetch(url);
-
+                
                 if (!response.ok) throw new Error(`Fayl topilmadi`);
 
                 let data = await response.json();
@@ -567,10 +619,11 @@
 
                 document.getElementById('back-home-btn').onclick = goBackToSubjects;
 
+                startTimer();
                 showQuestion();
             } catch (error) {
                 console.error("Xatolik:", error);
-
+                
                 // Custom modal orqali xatoni ko'rsatish
                 showModal(
                     "Test mavjud emas",
@@ -579,7 +632,7 @@
                         { text: "Tushunarli", styleClass: "bg-blue-600 text-white", action: null }
                     ]
                 );
-
+                
                 subjectList.classList.remove('hidden');
             } finally {
                 spinner.classList.add('hidden');
@@ -596,15 +649,11 @@
 
             const optionsBox = document.getElementById('options-container');
             const feedback = document.getElementById('feedback');
-            const nextBtn = document.getElementById('next-btn');
             const prevBtn = document.getElementById('prev-btn');
 
             optionsBox.innerHTML = '';
             feedback.classList.add('hidden');
             prevBtn.disabled = currentIndex === 0;
-
-            nextBtn.classList.toggle('hidden', userAnswer === null);
-            nextBtn.innerText = (currentIndex === quizQuestions.length - 1) ? "Natijani ko'rish" : "Keyingi";
 
             data.options.forEach((opt, i) => {
                 const btn = document.createElement('button');
@@ -620,9 +669,19 @@
                 `;
 
                 if (userAnswer !== null) {
-                    btn.disabled = true;
                     if (opt === data.correct) btn.classList.add('correct');
                     if (opt === userAnswer && opt !== data.correct) btn.classList.add('wrong');
+                    
+                    // Oldingi savolni qayta ko'rayotganda variantlardan biriga bosilsa oldinga o'tish
+                    btn.onclick = () => {
+                        clearTimeout(autoAdvanceTimeout);
+                        if (currentIndex < quizQuestions.length - 1) {
+                            currentIndex++;
+                            showQuestion();
+                        } else {
+                            checkAndFinishQuiz();
+                        }
+                    };
                 } else {
                     btn.onclick = () => checkAnswer(btn, opt);
                 }
@@ -631,13 +690,14 @@
 
             if (userAnswer !== null) {
                 const isCorrect = userAnswer === data.correct;
-                showStatus(isCorrect ? "To'g'ri! 🌟" : "Noto'g'ri ❌", isCorrect ? 'correct' : 'error');
+                showStatus(isCorrect ? "To'g'ri! 🌟 (Oldinga o'tish uchun bosing)" : "Noto'g'ri ❌ (Oldinga o'tish uchun bosing)", isCorrect ? 'correct' : 'error');
             }
 
             typesetMath();
         }
 
         function checkAnswer(btn, selected) {
+            clearTimeout(autoAdvanceTimeout);
             const data = quizQuestions[currentIndex];
             const isCorrect = selected === data.correct;
             userAnswers[currentIndex] = selected;
@@ -656,19 +716,20 @@
                 });
             }
             showStatus(isCorrect ? "To'g'ri! 🌟" : "Noto'g'ri ❌", isCorrect ? 'correct' : 'error');
-            document.getElementById('next-btn').classList.remove('hidden');
-        }
-
-        function nextQuestion() {
-            if (currentIndex < quizQuestions.length - 1) {
-                currentIndex++;
-                showQuestion();
-            } else {
-                finishQuiz();
-            }
+            
+            // Avtomatik keyingi savolga o'tish
+            autoAdvanceTimeout = setTimeout(() => {
+                if (currentIndex < quizQuestions.length - 1) {
+                    currentIndex++;
+                    showQuestion();
+                } else {
+                    checkAndFinishQuiz();
+                }
+            }, 1200);
         }
 
         function prevQuestion() {
+            clearTimeout(autoAdvanceTimeout);
             if (currentIndex > 0) {
                 currentIndex--;
                 showQuestion();
@@ -693,6 +754,9 @@
         }
 
         function finishQuiz() {
+            clearTimeout(autoAdvanceTimeout);
+            stopTimer();
+
             document.getElementById('quiz-screen').classList.add('hidden');
             document.getElementById('result-screen').classList.remove('hidden');
 
@@ -717,6 +781,9 @@
         }
 
         function goHome() {
+            clearTimeout(autoAdvanceTimeout);
+            stopTimer();
+
             document.getElementById('quiz-screen').classList.add('hidden');
             document.getElementById('result-screen').classList.add('hidden');
             document.getElementById('subjects-screen').classList.add('hidden');
