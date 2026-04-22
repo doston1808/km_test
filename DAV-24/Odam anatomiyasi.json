@@ -1,0 +1,1866 @@
+[
+  {
+    "savol": "Uzunchoq miyada boʻladi:",
+    "A": "pyramid",
+    "B": "corporа.mamillariа",
+    "C": "flocculus",
+    "D": "Infundibulum",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri Cerebellumda boʻladi:",
+    "A": "nodulus",
+    "B": "nucleus ruber",
+    "C": "infundibulum",
+    "D": "corpus pineale",
+    "javob": "A"
+  },
+  {
+    "savol": "Pons da boʻladi:",
+    "A": "sulcus a. basillaris",
+    "B": "colliculus inferior",
+    "C": "pedunculi cerebri",
+    "D": "nucleus dentatus",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri Ventriculus quartusda boʻladi",
+    "A": "fossа.rhomboidea",
+    "B": "nucleus ruber",
+    "C": "infundibulum",
+    "D": "corpus pineale",
+    "javob": "A"
+  },
+  {
+    "savol": "Miyacha oʻzaklari qaysilar",
+    "A": "hammasi",
+    "B": "nucleus globosus",
+    "C": "nucleus dentatus",
+    "D": "nucleus emboliformis",
+    "javob": "A"
+  },
+  {
+    "savol": "Prosencephalondan qaysi qism rivojlanadi.",
+    "A": "telencephalon",
+    "B": "hemispheriа cerebelli",
+    "C": "mesencephalon",
+    "D": "ventriculus quartus",
+    "javob": "A"
+  },
+  {
+    "savol": "Bemorda bilakning orqa teri sezgisi yoʻqolgan. Qaysi nerv jaroxatlangan?",
+    "A": "n.radialis",
+    "B": "n.ulnaris",
+    "C": "n.medianus",
+    "D": "n.musculocutaneus",
+    "javob": "A"
+  },
+  {
+    "savol": "Bemorda bilak-kaft bugʻimining yozilishi buzilgan. Qaysi nerv jaroxatlangan?",
+    "A": "n.radialis",
+    "B": "n.ulnaris",
+    "C": "n.medianus",
+    "D": "n.musculocutaneus",
+    "javob": "A"
+  },
+  {
+    "savol": "Bemorda boldirning orqa teri sezgisi yuqolgan. Qaysi nerv jaroxatlangan?",
+    "A": "n.suralis",
+    "B": "n.saphenus",
+    "C": "n.peroneus superficialis",
+    "D": "n.peroneus profundus",
+    "javob": "A"
+  },
+  {
+    "savol": "Bemorda boldirning medial teri sezgisi yoʻqolgan. Qaysi nerv jaroxatlangan?",
+    "A": "n.saphenus",
+    "B": "n.peroneus communis",
+    "C": "n.obturatorius",
+    "D": "n.peroneus superficialis",
+    "javob": "A"
+  },
+  {
+    "savol": "Bemorning ko`rsatkich barmogi yozilishi buzilgan. Qaysi nerv jaroxatlangan?",
+    "A": "n.radialis",
+    "B": "n.ulnaris",
+    "C": "n.medianus",
+    "D": "n.musculocutaneus",
+    "javob": "A"
+  },
+  {
+    "savol": "Bemorning barmoqlari yozilishi buzilgan. Qaysi nerv jaroxatlangan?",
+    "A": "n.radialis",
+    "B": "n.ulnaris",
+    "C": "n.medianus",
+    "D": "n.musculocutaneus",
+    "javob": "A"
+  },
+  {
+    "savol": "Bemorda bilak va kaftning pronatsiyasi buzilgan. Qaysi nerv jaroxatlangan?",
+    "A": "n.medianus",
+    "B": "n.radialis",
+    "C": "n.ulnaris",
+    "D": "n.musculocutaneus",
+    "javob": "A"
+  },
+  {
+    "savol": "Bemorning bosh bormogi bukilmayapti. Qaysi nerv jaroxatlangan?",
+    "A": "n.medianus",
+    "B": "n.musculocutaneus",
+    "C": "n.ulnaris",
+    "D": "n.musculocutaneus",
+    "javob": "A"
+  },
+  {
+    "savol": "Bemorning lunji sezmayapti. Qaysi nerv jaroxatlangan?",
+    "A": "n.mandibularis",
+    "B": "n.maxillaris",
+    "C": "n.ophtalmicus",
+    "D": "n.facialis",
+    "javob": "A"
+  },
+  {
+    "savol": "Bemorning kuzini uzoklashtirish buzilgan. Qaysi nerv jaroxatlangan?",
+    "A": "n.abducens",
+    "B": "n.trochlearis",
+    "C": "n.oculomotorius",
+    "D": "n.ophtalmicus",
+    "javob": "A"
+  },
+  {
+    "savol": ".Truncus n. spinalis boʻlinadi: a) ramus dorsalis, b) r.r. superior,c) r.r. communicantes d) r. meningeus, e) r.r. craniales",
+    "A": "a,c,d",
+    "B": "a,b,c",
+    "C": "b,c,d",
+    "D": "a,d,e",
+    "javob": "A"
+  },
+  {
+    "savol": "Truncus n. spinalis xostl boʻladi : a) r.r. inferior, b) ramus ventralis, c) r. communicantes albi, d) r. caudalis , e) r. dorsalis",
+    "A": "b,e",
+    "B": "a,c,d",
+    "C": "c,d,e",
+    "D": "b,d,e",
+    "javob": "A"
+  },
+  {
+    "savol": "Rami dorsales n. n. spinales: a) n. occipitalis minor, b) n. suboccipitalis, c) n. clunium inferior, d) n. occipitalis major, e) n. clunium medius",
+    "A": "b,d,e",
+    "B": "a,b,e",
+    "C": "b,c,d",
+    "D": "c,d,e",
+    "javob": "A"
+  },
+  {
+    "savol": "N. suboccipitalis innervatsiya qiladi: a) m. epicranius, b) m. tranezius, c) m. rectus capitis major, d) m. semispinalis capitis, e) m. obliqus capitis",
+    "A": "c,d,e",
+    "B": "a,c,e",
+    "C": "b,c,e",
+    "D": "a,b,d",
+    "javob": "A"
+  },
+  {
+    "savol": ".  Plexus cervicalis tarmoqlari:    a) n. occipitalis major, b) n. occipitalis minor, c) n. transversus colli, d) n.n. supraclaviculares, e) n. suboccipitalis",
+    "A": "b,c,d",
+    "B": "a,c,e",
+    "C": "d,c,a",
+    "D": "5) b,d,e",
+    "javob": "A"
+  },
+  {
+    "savol": "Plexus cervicalis tarmoqlari:    a) n. auricularis magnus, b) n. auriculotemporalis, c) n. auricularis minor, d) n. transversus colli, e) n. phrenicus",
+    "A": "a,d,e",
+    "B": "b,d,e",
+    "C": "c,d,e",
+    "D": "a,c,e",
+    "javob": "A"
+  },
+  {
+    "savol": "Plexus brachialis tarmoqlari : a) n. phrenicus, b) n. subclavius, c) n. suprascapularis, d) n. suboccipitalis, e) n. axillaris",
+    "A": "b,c,e",
+    "B": "a,b,c",
+    "C": "b,d,e",
+    "D": "a,b,d",
+    "javob": "A"
+  },
+  {
+    "savol": "Rolland egati qayerda joylashgan?",
+    "A": "bosh miya yarimsharlarida",
+    "B": "mesencephalonda",
+    "C": "diencephalonda",
+    "D": "cerebellumda",
+    "javob": "A"
+  },
+  {
+    "savol": "Aqueductus cerebri qaysi qorinchalarni tutashtiradi?",
+    "A": "ventriculus quartus va ventriculus tertiusni",
+    "B": "ventriculus lateralislarni",
+    "C": "ventriculus tertius va ventriculus lateralisni",
+    "D": "ventriculus quartus va ventriculus lateralisni",
+    "javob": "A"
+  },
+  {
+    "savol": "Prosencephalondan qaysi qism rivojlanadi.",
+    "A": "diencephalon",
+    "B": "hemispheriа cerebelli",
+    "C": "mesencephalon",
+    "D": "ventriculus quartus",
+    "javob": "A"
+  },
+  {
+    "savol": "Rhombencephalondan qaysi qism rivojlanadi.",
+    "A": "myelencephalon",
+    "B": "hemispheriа cerebelli",
+    "C": "mesencephalon",
+    "D": "diencephalon",
+    "javob": "A"
+  },
+  {
+    "savol": "Rhombencephalondan qaysi qism rivojlanadi.",
+    "A": "metencephalon",
+    "B": "hemispheriа cerebelli",
+    "C": "mesencephalon",
+    "D": "diencephalon",
+    "javob": "A"
+  },
+  {
+    "savol": "Metencephalondan qaysi qism(lar) rivojlanadi.",
+    "A": "cerebellum, pons",
+    "B": "hemispheriа cerebelli, mesencephalon",
+    "C": "diencephalon",
+    "D": "pons, medulla oblangata",
+    "javob": "A"
+  },
+  {
+    "savol": "Nerv tizimi ontogenezida dastlab nechta miya pufakchasi boʻladi.",
+    "A": "3 ta",
+    "B": "2 ta",
+    "C": "5 ta",
+    "D": "4 ta",
+    "javob": "A"
+  },
+  {
+    "savol": "N. intermedius tarkibida nimalar bo`ladi?",
+    "A": "Parasimpatik va ta`m bilish sezgi tolalari",
+    "B": "Faqat motor tolalar",
+    "C": "Faqat sensor tolalar",
+    "D": "Faqat simpatik tolalar",
+    "javob": "A"
+  },
+  {
+    "savol": "N. facialisning parasimpatik yadrosi qaysi?",
+    "A": "Nucleus    salivatorius inferior",
+    "B": "Nucleus ambiguus",
+    "C": "Nucleus salivatorius superior",
+    "D": "Nucleus dorsalis nervi vagi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ganglion trigeminale qanday turdagi tugun?",
+    "A": "Sensor",
+    "B": "Simpatik",
+    "C": "Parasempatik",
+    "D": "Motor",
+    "javob": "A"
+  },
+  {
+    "savol": "Orqa miyaning qattiq pardasi va umurtqa pag`onasining suyak usti pardasi orasida qanday bo`shliq mavjud?",
+    "A": "spatium epidurale",
+    "B": "spatium subdurale",
+    "C": "spatium subarachnoidale",
+    "D": "spatium epiarachnoidale",
+    "javob": "A"
+  },
+  {
+    "savol": "Orqa miyaning to`r va yumshoq pardalari orasida qanday bo`shliq mavjud?",
+    "A": "spatium subarachnoidale",
+    "B": "spatium subdurale",
+    "C": "spatium epidurale",
+    "D": "spatium epiarachnoidale",
+    "javob": "A"
+  },
+  {
+    "savol": "Orqa miyaning qattiq va to`r pardalari orasida qanday bo`shliq mavjud?",
+    "A": "spatium subdurale",
+    "B": "spatium epidurale",
+    "C": "spatium subarachnoidale",
+    "D": "spatium epiarachnoidale",
+    "javob": "A"
+  },
+  {
+    "savol": "Ganglion Pterygopalatinaga boradigan afferent shox qaysi?",
+    "A": "Nervus maxillaris",
+    "B": "Nervus mandibularis",
+    "C": "Nervus ophtalmicus",
+    "D": "Nervus Facialis",
+    "javob": "A"
+  },
+  {
+    "savol": "Nervus trigeminusning 3 ta asosiy shoxidan chiquvchi 3 ta o`xshash nomli va bitta joyni innervatsiya qiladigan nerv qaysi?",
+    "A": "Ramus meningeus",
+    "B": "Ramus alveolaris",
+    "C": "Ramus palatinus",
+    "D": "Ramus orbitalis",
+    "javob": "A"
+  },
+  {
+    "savol": "Bo`yin chigali nechta tarmog`ga bo`linadi?",
+    "A": "3",
+    "B": "bolinmaydi",
+    "C": "7",
+    "D": "9",
+    "javob": "A"
+  },
+  {
+    "savol": "Plexus cervicalis nechta tarmog`ga bo`linadi?",
+    "A": "3 ta",
+    "B": "6 ta",
+    "C": "2 ta",
+    "D": "5 ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Bo`yin chigalining aralash tarmog`iga qaysi nerv kiradi?",
+    "A": "n.phrenicus",
+    "B": "n.auricularis",
+    "C": "n.transversa colli",
+    "D": "n.cervicalis",
+    "javob": "A"
+  },
+  {
+    "savol": "Epitalamusda qaysi bez joylashadi?",
+    "A": "epifiz",
+    "B": "gipofiz",
+    "C": "gipotalamus",
+    "D": "ayrisimon bez",
+    "javob": "A"
+  },
+  {
+    "savol": "Gipotalamusda qaysi bez joylashadi?",
+    "A": "gipofiz",
+    "B": "qalqonsimon bez",
+    "C": "gipotalamus",
+    "D": "ayrisimon bez",
+    "javob": "A"
+  },
+  {
+    "savol": "Bo`yin chuqur mushaklarini bo`yinning qaysi tarmog`i  innervatsiya qiladi?",
+    "A": "harakatlantiruvchi",
+    "B": "sezuvchi",
+    "C": "aralash",
+    "D": "innervatsiya qilmaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Bo`yinning terisini bo`yinning qaysi tarmog`i  innervatsiya qiladi?",
+    "A": "sezuvchi",
+    "B": "harakatlantiruvchi",
+    "C": "aralash",
+    "D": "innervatsiya qiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Plevra va pericardni bo`yinning qaysi tarmog`I   innervatsiya qiladi?",
+    "A": "Diafragma nervining sezuvchi tarmog`i",
+    "B": "Harakatlanuvchi tarmog`i",
+    "C": "Aralash tarmoqning harakatlantiruvchisi",
+    "D": "innervatsiya qilmaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Dengiz oti pushtasida qaysi markaz joylashgan?",
+    "A": "Hidlov",
+    "B": "Eshitib xotirlash",
+    "C": "Ko`rib xotirlash",
+    "D": "Nutq",
+    "javob": "A"
+  },
+  {
+    "savol": "Bo`yin chigali nima deb nomlanadi?",
+    "A": "Plexus cervicalis",
+    "B": "Plexus lumbalis",
+    "C": "Plexus lumbo-sacralis",
+    "D": "Plexus coccygealis",
+    "javob": "A"
+  },
+  {
+    "savol": "Diafragma muskulini  bo`yinning qaysi tarmog`i innervatsiya qiladi?",
+    "A": "aralash",
+    "B": "sezuvchi",
+    "C": "oraliq",
+    "D": "innervatsiya qilmaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Bo`yin sirtmog`i nima deb ataladi?",
+    "A": "Ansa cervicalis",
+    "B": "Plexus lumbalis",
+    "C": "Plexus costalis",
+    "D": "Plexus radialis",
+    "javob": "A"
+  },
+  {
+    "savol": "Yelka chigali nima deb nomlanadi?",
+    "A": "Plexus brachialis",
+    "B": "Plexus lumbalis",
+    "C": "Plexus costalis",
+    "D": "Plexus radialis",
+    "javob": "A"
+  },
+  {
+    "savol": "Yelka chigali formulasini ko`rsating?",
+    "A": "C5-C8, qisman Th1",
+    "B": "C5-C10",
+    "C": "Th9-L6",
+    "D": "L1-L6",
+    "javob": "A"
+  },
+  {
+    "savol": "Yelka chigali qanday tarmoqlar beradi?",
+    "A": "O`mrov usti va o`mrov osti",
+    "B": "Sezuvchi va harakatlantiruvchi",
+    "C": "Aralash",
+    "D": "faqat harakat",
+    "javob": "A"
+  },
+  {
+    "savol": "Yelka chigalining o`mrov usti tarmog`idan  nechta  nerv chiqadi?",
+    "A": "7 ta",
+    "B": "5 ta",
+    "C": "6 ta",
+    "D": "3 ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Yelka chigalining o`mrov osti tarmog` nechta tutamga bo`linadi?",
+    "A": "3 ga",
+    "B": "5 ga",
+    "C": "6 ga",
+    "D": "4 ga",
+    "javob": "A"
+  },
+  {
+    "savol": "Plexus brachialis qanday tarmoqlar beradi?",
+    "A": "O`mrov usti va o`mrov osti",
+    "B": "Sezuvchi va harakatlantiruvchi",
+    "C": "Faqat sezuvchi",
+    "D": "Faqat harakat",
+    "javob": "A"
+  },
+  {
+    "savol": "N.medianus bilakning old guruh mushaklarining nechtasini innervatsiya qiladi?",
+    "A": "7.5",
+    "B": "5",
+    "C": "6",
+    "D": "2",
+    "javob": "A"
+  },
+  {
+    "savol": "N.ulnaris bilakning old guruh mushaklarining nechtasini innervatsiya qiladi?",
+    "A": "1.5",
+    "B": "5",
+    "C": "6",
+    "D": "2",
+    "javob": "A"
+  },
+  {
+    "savol": "Po`stloqning birinchi qavat hujayralari qanaqa tuzilgan?",
+    "A": "molekulyar",
+    "B": "Tashqi donador",
+    "C": "piramidasimon",
+    "D": "duksimon",
+    "javob": "A"
+  },
+  {
+    "savol": "Miyachada joylashgan tishsimon o`zak nimaga javob beradi?",
+    "A": "Qo`l va oyoq mushaklarining harakati",
+    "B": "Qo`l mushaklari harakati",
+    "C": "Oyoq mushaklari harakati",
+    "D": "muvozanat",
+    "javob": "A"
+  },
+  {
+    "savol": "Miyachada joylashgan cho`qqi o`zagi nimaga javob beradi?",
+    "A": "muvozanatga",
+    "B": "Tana mushaklari tonusiga",
+    "C": "Tana mushaklariga harakatiga",
+    "D": "Mushaklar elastikligiga",
+    "javob": "A"
+  },
+  {
+    "savol": "N.medianus kaft old sohasida nechta barmoq falangasini innervatsiya qiladi?",
+    "A": "3.5",
+    "B": "3",
+    "C": "4",
+    "D": "1",
+    "javob": "A"
+  },
+  {
+    "savol": "N.radialis qaysi tutamdan hosil bo`ladi?",
+    "A": "Fassiculus posterior",
+    "B": "Fassiculus lateralis",
+    "C": "Fassiculus medialis",
+    "D": "Fassiculus inferior",
+    "javob": "A"
+  },
+  {
+    "savol": "M.latissimus dorsini qaysi nerv innervatsiya qiladi?",
+    "A": "n.Thoraco-dorsalis",
+    "B": "n.ulnaris",
+    "C": "n.femoralis",
+    "D": "n.ischiadicus",
+    "javob": "A"
+  },
+  {
+    "savol": "N.subclavius qaysi mushakni innervatsiya qiladi?",
+    "A": "m.subclavius",
+    "B": "m.subscapularis",
+    "C": "m.transversi colli",
+    "D": "m.biceps brachii",
+    "javob": "A"
+  },
+  {
+    "savol": "N.thoracicus ant. qaysi mushakni innervatsiya qiladi?",
+    "A": "m.serratus  ant.",
+    "B": "m.tansversus colli",
+    "C": "m.flexor digitorum",
+    "D": "m.longissimus capiti",
+    "javob": "A"
+  },
+  {
+    "savol": "N.medianus qaysi chigaldan hosil bo`ladi?",
+    "A": "Yelka",
+    "B": "Bo`yin",
+    "C": "Bel",
+    "D": "Dumg`aza",
+    "javob": "A"
+  },
+  {
+    "savol": "N.ulnaris qaysi chigaldan hosil bo`ladi?",
+    "A": "Plexus brachialis",
+    "B": "Foramen jugularis",
+    "C": "Plexus costalis",
+    "D": "Plexus radialis",
+    "javob": "A"
+  },
+  {
+    "savol": "N.musculocutaneus qaysi chigaldan hosil bo`ladi?",
+    "A": "Plexus brachialis",
+    "B": "Plexus sacralis",
+    "C": "Plexus lumbalis",
+    "D": "Plexus cervicalis",
+    "javob": "A"
+  },
+  {
+    "savol": "N.musculocutaneus qaysi soha muskullarini innervatsiya qiladi?",
+    "A": "Yelka muskullarini",
+    "B": "Bo`yin",
+    "C": "Rombsimon",
+    "D": "O`mrov osti",
+    "javob": "A"
+  },
+  {
+    "savol": "Bel chigali nima deb nomlanadi?",
+    "A": "Plexus lumbalis",
+    "B": "Plexus coccygeus",
+    "C": "Plexus sacralis",
+    "D": "Plexus radialis",
+    "javob": "A"
+  },
+  {
+    "savol": "Bel chigalini formulasi?",
+    "A": "Qisman Th12, va  L1-L3",
+    "B": "C1-C4",
+    "C": "L1-S3",
+    "D": "C5-C8",
+    "javob": "A"
+  },
+  {
+    "savol": "Bel chigalining tarmoqlari nechchiga bo`linadi?",
+    "A": "Uzun va kalta",
+    "B": "uzun",
+    "C": "kalta",
+    "D": "aralash",
+    "javob": "A"
+  },
+  {
+    "savol": "Bel chigalining genitofemoralis tarmog`i nechchiga bo`linadi?",
+    "A": "2 ga",
+    "B": "3 ga",
+    "C": "Bo`linmaydi",
+    "D": "5 ga",
+    "javob": "A"
+  },
+  {
+    "savol": "Yonbosh-chov nervi qanday nomlanadi?",
+    "A": "n.ilioinguinalis",
+    "B": "n.transversa colli",
+    "C": "n.axillaris",
+    "D": "r.colli",
+    "javob": "A"
+  },
+  {
+    "savol": "N.femoralis nechta tarmoqqa bo`linadi?",
+    "A": "3 ta",
+    "B": "1 ta",
+    "C": "2 ta",
+    "D": "5 ta",
+    "javob": "A"
+  },
+  {
+    "savol": "n.saphenus qaysi chigaldan chiqadi?",
+    "A": "Bel chigalidan",
+    "B": "Bo`yin chigalidan",
+    "C": "Dumg`aza chigalidan",
+    "D": "Yelka chigalidan",
+    "javob": "A"
+  },
+  {
+    "savol": "n.obturatorius qaysi chigaldan chiqadi?",
+    "A": "Bel chigali",
+    "B": "Dumg`aza chigali",
+    "C": "Son chigali",
+    "D": "Yelka chigali",
+    "javob": "A"
+  },
+  {
+    "savol": "n.femoralis qaysi mushaklarni innervatsiya qiladi?",
+    "A": "Son mushaklari",
+    "B": "Yelka mushaklari",
+    "C": "Bo`yin mushaklari",
+    "D": "Qorin mushaklari",
+    "javob": "A"
+  },
+  {
+    "savol": "Sonning lateral terisini qaysi nerv innervatsiya qiladi?",
+    "A": "n.cutaneus femoris lateralis",
+    "B": "n.tibialis",
+    "C": "n.plantaris",
+    "D": "n.peroneus",
+    "javob": "A"
+  },
+  {
+    "savol": "n.femoralis qaysi chigaldan hosil bo`ladi?",
+    "A": "Plexus lumbalis",
+    "B": "Plexus cocsygeus",
+    "C": "Plexus costalis",
+    "D": "Plexus radialis",
+    "javob": "A"
+  },
+  {
+    "savol": "Dumg`aza chigalining nomlanishi?",
+    "A": "Plexus sacralis",
+    "B": "Plexus coccegeus",
+    "C": "Plexus costalis",
+    "D": "Plexus radialis",
+    "javob": "A"
+  },
+  {
+    "savol": "Dumg`aza chigalining formulasi?",
+    "A": "L4-L5, S1-S3",
+    "B": "C1-C4",
+    "C": "L1-S3",
+    "D": "C5-C8",
+    "javob": "A"
+  },
+  {
+    "savol": "Dumg`aza chigalining qanday tarmoqlari farqlanadi?",
+    "A": "kalta va uzun",
+    "B": "o`mrov osti",
+    "C": "harakatlantiruvchi",
+    "D": "aralash",
+    "javob": "A"
+  },
+  {
+    "savol": "Plexus sacralis qayerda joylashgan?",
+    "A": "dumg`azaning chanoqga qaragan yuzasida",
+    "B": "yelka muskuli orasida",
+    "C": "sonning orqa yuzasi",
+    "D": "Bo`yinning oldingi yuzasida",
+    "javob": "A"
+  },
+  {
+    "savol": "Plexus cervicalis qayerda joylashgan?",
+    "A": "M.sternocleidomasdoideus orqa tomoni",
+    "B": "M.romboideus",
+    "C": "M.palpebralis",
+    "D": "M.transversa colli",
+    "javob": "A"
+  },
+  {
+    "savol": "Plexus cervicalisning hosil bo`lish formulasi?",
+    "A": "C1-C4",
+    "B": "C5-C10",
+    "C": "Th1-Th12",
+    "D": "L1-L5",
+    "javob": "A"
+  },
+  {
+    "savol": "n.glutea superior qaysi muskulni innervatsiya qiladi?",
+    "A": "m. gluteus medius",
+    "B": "m.costalis",
+    "C": "m.axillaris",
+    "D": "m.colli",
+    "javob": "A"
+  },
+  {
+    "savol": "Uyatli nerv nomini olgan nervni belgilang?",
+    "A": "n.pudentus",
+    "B": "n.costalis",
+    "C": "n.axillaris",
+    "D": "n.femoris",
+    "javob": "A"
+  },
+  {
+    "savol": "n.pudentus nechta tarmoqqa bo`linadi?",
+    "A": "3 ta",
+    "B": "2 ta",
+    "C": "1 ta",
+    "D": "5 ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Dumg`aza chigalining uzun tarmog`ini belgilang?",
+    "A": "n.ischiadicus",
+    "B": "n.costalis",
+    "C": "n.axillaris",
+    "D": "n.muscularis",
+    "javob": "A"
+  },
+  {
+    "savol": "Dumg`aza chigalining kalta tarmog`ini belgilang?",
+    "A": "n.glutea superior",
+    "B": "n.ischiadicus",
+    "C": "n.axillaris",
+    "D": "r.tibialis",
+    "javob": "A"
+  },
+  {
+    "savol": "Boldirning leteral terisini qaysi nerv innervatsiya qiladi?",
+    "A": "n.suralis",
+    "B": "n.muscularis",
+    "C": "n.axillaris",
+    "D": "r.femoralis",
+    "javob": "A"
+  },
+  {
+    "savol": "n.peroneus communis qaysi chigalning tarmog`i?",
+    "A": "Plexus sacralis",
+    "B": "Plexus coccygeus",
+    "C": "Plexus costalis",
+    "D": "Plexus radialis",
+    "javob": "A"
+  },
+  {
+    "savol": "n.tibialis qaysi chigalning tarmog`i?",
+    "A": "Plexus sacralis",
+    "B": "Plexus cocsegeus",
+    "C": "Plexus brachialis",
+    "D": "Plexus lumbalis",
+    "javob": "A"
+  },
+  {
+    "savol": "Oraliq sohasi mushaklarini qaysi nerv innervatsiya qiladi?",
+    "A": "oraliq nerv",
+    "B": "yuz nerv",
+    "C": "teri nerv",
+    "D": "to`sh nerv",
+    "javob": "A"
+  },
+  {
+    "savol": "Boldirning leteral terisini jimjiloq terisigacha qaysi nerv innervatsiya qiladi?",
+    "A": "n.suralis",
+    "B": "a.radialis",
+    "C": "v.axillaris",
+    "D": "r.femoralis",
+    "javob": "A"
+  },
+  {
+    "savol": "Kichik dumba muskulini qaysi nerv innervatsiya qiladi?",
+    "A": "n.glutea superior",
+    "B": "n.costalis",
+    "C": "n.tibialis",
+    "D": "r.femoralis",
+    "javob": "A"
+  },
+  {
+    "savol": "Plexus sacralisning kalta tarmog`ini ko`rsating?",
+    "A": "n.glutea superior",
+    "B": "a.radialis",
+    "C": "n.axillaris",
+    "D": "v.colli",
+    "javob": "A"
+  },
+  {
+    "savol": "Plexus sacralisning uzun tarmog`ini belgilang?",
+    "A": "n.ischiadicus",
+    "B": "n.costalis",
+    "C": "a.axillaris",
+    "D": "r.colli",
+    "javob": "A"
+  },
+  {
+    "savol": "N.ischiadicus qaysi chigalning tarmog`i?",
+    "A": "Plexus sacralis",
+    "B": "Plexus coccygeus",
+    "C": "Plexus costalis",
+    "D": "Nervus radialis",
+    "javob": "A"
+  },
+  {
+    "savol": "Sonning orqa soha terisini qaysi nerv innervatsiya qiladi?",
+    "A": "N.cutaneus femoris posterior",
+    "B": "N.cutaneus femoris lateralis",
+    "C": "N.ischiadicus",
+    "D": "N.femoris",
+    "javob": "A"
+  },
+  {
+    "savol": "Hidlov nervining 1-neyroni qayerdan boshlanadi?",
+    "A": "Regio olfactoria",
+    "B": "Pars opticus",
+    "C": "hidlov miyasida",
+    "D": "Pars occipitalis",
+    "javob": "A"
+  },
+  {
+    "savol": "Hidlov nervining 1-neyroni qayerdan tugaydi?",
+    "A": "Bulbus olfactorius",
+    "B": "Pars opticus",
+    "C": "Pars colli",
+    "D": "Pars radii",
+    "javob": "A"
+  },
+  {
+    "savol": "Hidlov nervining 2-neyroni qayerdan tugaydi?",
+    "A": "Trigonum olfactorium",
+    "B": "Pars opticus",
+    "C": "Pars intraocular",
+    "D": "Pars orbitalis",
+    "javob": "A"
+  },
+  {
+    "savol": "Hidlov nervining 3-neyroni qayerdan tugaydi?",
+    "A": "Uncus",
+    "B": "Colliculus superior",
+    "C": "Pars colli",
+    "D": "Pars radii",
+    "javob": "A"
+  },
+  {
+    "savol": "Orqa miya qattiq pardasi nima deb nomlanadi?",
+    "A": "dura mater spinalis",
+    "B": "pia mater",
+    "C": "Cavuum epiduralis",
+    "D": "pons",
+    "javob": "A"
+  },
+  {
+    "savol": "Orqa miya yumshoq pardasi nima deb nomlanadi?",
+    "A": "pia mater spinalis",
+    "B": "dura mater spinalis",
+    "C": "epiduralis spinalis",
+    "D": "funiculus piramidalis",
+    "javob": "A"
+  },
+  {
+    "savol": "Soxta bosh miya nervini ko`rsating?",
+    "A": "Hidlov nervi",
+    "B": "Adashgan nerv",
+    "C": "Yuz nervi",
+    "D": "Uch shoxli nerv",
+    "javob": "A"
+  },
+  {
+    "savol": "Soxta bosh miya nervi nomini olgan nervni ko`rsating?",
+    "A": "Ko`ruv nervi",
+    "B": "Til-yutqin nervi",
+    "C": "Til osti nervi",
+    "D": "Uch shoxli nerv",
+    "javob": "A"
+  },
+  {
+    "savol": "Sezuvchi bosh miya nervlarini belgilang?",
+    "A": "1,2,8",
+    "B": "5,7",
+    "C": "3,4",
+    "D": "10,11",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko`ruv nervining bosh miyaga kirish joyi?",
+    "A": "Chiasma opticus",
+    "B": "Pars opticus",
+    "C": "Pars colli",
+    "D": "Pars radii",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko`ruv nervining kalla asosidan kirish joyi?",
+    "A": "Canalis opticus",
+    "B": "Pars opticus",
+    "C": "Pars spinalis",
+    "D": "Pars costalis",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko`ruv nervida nechta neyroni bor?",
+    "A": "4ta",
+    "B": "3ta",
+    "C": "2ta",
+    "D": "1ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko`ruv nervining 1-neyroni qayerda joylashgan?",
+    "A": "Kolbacha va tayoqchalarda",
+    "B": "Pars opticus",
+    "C": "Pars",
+    "D": "Pars radii",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko`ruv nervining 2-neyroni qayerda joylashgan?",
+    "A": "Bipolyar hujayralarda",
+    "B": "Pars opticus",
+    "C": "Pars colli",
+    "D": "Pars orbitalis",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko`ruv nervining 3-neyroni qayerda joylashgan?",
+    "A": "Ganglioz hujayralarda",
+    "B": "Pars opticus",
+    "C": "Pars colli",
+    "D": "Pars radii",
+    "javob": "A"
+  },
+  {
+    "savol": "n.occulomotoriusning vegetativ yadrosi nima deb ataladi?",
+    "A": "Yakubovich o`zagi",
+    "B": "Sivisiy o`zagi",
+    "C": "Bell o`zagi",
+    "D": "Nucleus trochlearis",
+    "javob": "A"
+  },
+  {
+    "savol": "3-juft bosh miya nerv yadrolari qayerda joylashgan?",
+    "A": "O`rta miya",
+    "B": "Uzunchoq miya",
+    "C": "Miyacha",
+    "D": "Oraliq miya",
+    "javob": "A"
+  },
+  {
+    "savol": "3-juft bosh miya nervning miya bo`shlig`idan chiqish joyi?",
+    "A": "O`rta miya oyoqlari orasidan",
+    "B": "Lobus occipitalis",
+    "C": "Pars frontalis",
+    "D": "Pars radii",
+    "javob": "A"
+  },
+  {
+    "savol": "3-juft bosh miya nervning kalla asosidan chiqish joyi?",
+    "A": "Fissura orbitalis superior",
+    "B": "Lobus supraopticus",
+    "C": "Pars orbitalis",
+    "D": "Pars costalis",
+    "javob": "A"
+  },
+  {
+    "savol": "4-juft bosh miya nervning kalla asosidan chiqish joyi?",
+    "A": "Fissura orbitalis superior",
+    "B": "Lobus opticus",
+    "C": "Pars supraorbitalis",
+    "D": "Pars segmentalis",
+    "javob": "A"
+  },
+  {
+    "savol": "6-juft bosh miya nervning kalla asosidan chiqish joyi?",
+    "A": "Fissura orbitalis superior",
+    "B": "Lobus temporalis inferior",
+    "C": "Pars orbitalis",
+    "D": "Pars  intacranialis",
+    "javob": "A"
+  },
+  {
+    "savol": "M.rectus oculi lateralisni qaysi bosh miya nervi innervatsiya qiladi?",
+    "A": "6-juft",
+    "B": "4-juft",
+    "C": "1-juft",
+    "D": "2-juft",
+    "javob": "A"
+  },
+  {
+    "savol": "N.ophtalmicus bosh miya nervning kalla asosidan chiqish joyi?",
+    "A": "Fissura orbitalis superior",
+    "B": "Foramen spinosum",
+    "C": "Pars sternalis",
+    "D": "Pars radii",
+    "javob": "A"
+  },
+  {
+    "savol": "5-juft bosh miya nervining sezuvchi tarmog`ini belgilang?",
+    "A": "n.ophtalmicus",
+    "B": "n.costalis",
+    "C": "n.axillaris",
+    "D": "r.colli",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko`z yosh bezining kapsulasini qaysi nerv innervatsiya qiladi?",
+    "A": "n.lacrimalis",
+    "B": "a.costalis",
+    "C": "n.ulnaris",
+    "D": "v.jugularis",
+    "javob": "A"
+  },
+  {
+    "savol": "8-juft bosh miya nervining nechta o`zagi bor?",
+    "A": "4 va 2",
+    "B": "5",
+    "C": "3",
+    "D": "2",
+    "javob": "A"
+  },
+  {
+    "savol": "Halqumning yuqorigi shilliq qavatini qaysi nerv innervatsiya qiladi?",
+    "A": "7-juft bosh miya nervi",
+    "B": "5-juft bosh miya nervi",
+    "C": "8-juft bosh miya nervi",
+    "D": "9-juft bosh miya nervi",
+    "javob": "A"
+  },
+  {
+    "savol": "10-juft bosh miya nervining o`zaklari qayerda joylashgan?",
+    "A": "Uzunchoq miya",
+    "B": "Yon qorincha",
+    "C": "Ko`prik",
+    "D": "Uchinchi qorincha",
+    "javob": "A"
+  },
+  {
+    "savol": "11-juft bosh miya nervining o`zaklari qayerda joylashgan?",
+    "A": "Uzunchoq miya",
+    "B": "Miyacha",
+    "C": "Oraliq miya",
+    "D": "Orqa miya",
+    "javob": "A"
+  },
+  {
+    "savol": "12-juft bosh miya nervining o`zaklari qayerda joylashgan?",
+    "A": "Uzunchoq miya",
+    "B": "Foramen ovale",
+    "C": "Ko`prik",
+    "D": "O`rta miya",
+    "javob": "A"
+  },
+  {
+    "savol": "9-juft bosh miya nervining o`zaklari qayerda joylashgan?",
+    "A": "Uzunchoq miya",
+    "B": "Oraliq miya",
+    "C": "Ko`prik",
+    "D": "O`rta miya",
+    "javob": "A"
+  },
+  {
+    "savol": "3-juft bosh miya nervining o`zaklari qayerda joylashgan?",
+    "A": "Mesencephalon",
+    "B": "Lamina quadrigemina",
+    "C": "Fornix",
+    "D": "diencephalon",
+    "javob": "A"
+  },
+  {
+    "savol": "4-juft bosh miya nervining o`zaklari qayerda joylashgan?",
+    "A": "Mesencephalon",
+    "B": "Metencephalon",
+    "C": "Corpus callosum",
+    "D": "cerebellum",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi bosh miya nervi til mushagini innervatsiya qiladi?",
+    "A": "12-juft bosh miya nervi",
+    "B": "11-juft bosh miya nervi",
+    "C": "7-juft bosh miya nervi",
+    "D": "9-juft bosh miya nervi",
+    "javob": "A"
+  },
+  {
+    "savol": "Til mushagini innervatsiya qiluvchi nerv qaysi?",
+    "A": "n.hypoglossus",
+    "B": "n.lacrimalis",
+    "C": "n.facialis",
+    "D": "n.femoris",
+    "javob": "A"
+  },
+  {
+    "savol": "Qo`shimcha nervning kalla asosidan chiqish joyini belgilang?",
+    "A": "Foramen jugularis",
+    "B": "Lobus opticus",
+    "C": "Foramen mentalis",
+    "D": "Foramen supraorbitalis",
+    "javob": "A"
+  },
+  {
+    "savol": "11-juft bosh miya nervning kalla asosidan chiqish joyini belgilang?",
+    "A": "Foramen jugularis",
+    "B": "Foramen spinalis",
+    "C": "Foramen rotundum",
+    "D": "Foramen ovalis",
+    "javob": "A"
+  },
+  {
+    "savol": "Vegetativ nerv sistemasi nechchiga bo`linadi?",
+    "A": "2 ga",
+    "B": "Bo`linmaydi",
+    "C": "periferik",
+    "D": "8",
+    "javob": "A"
+  },
+  {
+    "savol": "Vegetativ sistemaning tarkibini belgilang?",
+    "A": "Simpatik va parasimpatik",
+    "B": "Bosh miya",
+    "C": "Orqa miya",
+    "D": "Sezuv va aralash",
+    "javob": "A"
+  },
+  {
+    "savol": "Simpatik poyaning bo`yin qismi nechta tugundan iborat?",
+    "A": "3-5 ta",
+    "B": "8 ta",
+    "C": "1 ta",
+    "D": "6 ta",
+    "javob": "A"
+  },
+  {
+    "savol": "N.jugularis interna simpatik poyaning qaysi qismidan chiqadi?",
+    "A": "bo`yin",
+    "B": "qo`l",
+    "C": "ko`krak",
+    "D": "dumg`aza",
+    "javob": "A"
+  },
+  {
+    "savol": "N.caroticus externus simpatik poyaning qaysi qismidan chiqadi?",
+    "A": "bo`yin",
+    "B": "yuz",
+    "C": "qovurg`a",
+    "D": "dum",
+    "javob": "A"
+  },
+  {
+    "savol": "N.caroticus interna simpatik poyaning qaysi qismidan chiqadi?",
+    "A": "bo`yin",
+    "B": "dumg`aza",
+    "C": "ko`krak",
+    "D": "dum",
+    "javob": "A"
+  },
+  {
+    "savol": "Simpatik poyaning bel qismi qayerda joylashgan?",
+    "A": "Bel umurtqasining ikki yon tomonlarida",
+    "B": "Qovurg`alarning yonida",
+    "C": "Dumg`azada",
+    "D": "Bo`yinda",
+    "javob": "A"
+  },
+  {
+    "savol": "Simpatik poyaning dumg`aza qismi qayerda joylashgan?",
+    "A": "Dumg`azaning chanoqga qaragan yuzida",
+    "B": "Qovurg`alarning yonidan",
+    "C": "Bel sohasida",
+    "D": "Bo`yinda",
+    "javob": "A"
+  },
+  {
+    "savol": "Simpatik poyaning ko`krak qismi qayerda joylashgan?",
+    "A": "Qovurg`alarning bo`yin sohasida",
+    "B": "Dumg`azada",
+    "C": "Bel sohasida",
+    "D": "Bo`yinda",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyosh chigali nima deb nomlanadi?",
+    "A": "Truncus coleacus",
+    "B": "Plexus coccygeus",
+    "C": "Plexus costalis",
+    "D": "Plexus radialis",
+    "javob": "A"
+  },
+  {
+    "savol": "Truncus coleacus nima?",
+    "A": "Quyosh chigali",
+    "B": "Bo`yin chigali",
+    "C": "Bel chigali",
+    "D": "Dumg`aza chigali",
+    "javob": "A"
+  },
+  {
+    "savol": "Vegetative nerv sistemasining parasimpatik qismi qanday tarkibiy qismlardan iborat?",
+    "A": "bosh va dumg`aza",
+    "B": "bel",
+    "C": "ko`krak",
+    "D": "dum",
+    "javob": "A"
+  },
+  {
+    "savol": "Vegetative nerv sistemasining parasimpatik qismiga qaysi bosh miya nervlari kiradi?",
+    "A": "3- juft",
+    "B": "12- juft",
+    "C": "11- juft",
+    "D": "4- juft",
+    "javob": "A"
+  },
+  {
+    "savol": "Parasimpatik nervning  bosh miya qismiga qaysi bosh miya nervi kiradi?",
+    "A": "7-juft",
+    "B": "1- juft",
+    "C": "2- juft",
+    "D": "4- juft",
+    "javob": "A"
+  },
+  {
+    "savol": "Avtonom nerv sistemasining parasimpatik qismiga qaysi bosh miya nervlari kiradi?",
+    "A": "9-juft",
+    "B": "5- juft",
+    "C": "2- juft",
+    "D": "1- juft",
+    "javob": "A"
+  },
+  {
+    "savol": "Vegetativ nerv sistemasining parasimpatik qismiga qaysi bosh miya nervlari kiradi?",
+    "A": "10-juft",
+    "B": "1- juft",
+    "C": "2- juft",
+    "D": "8- juft",
+    "javob": "A"
+  },
+  {
+    "savol": "Avtonom nerv sistemasining parasimpatik nervining qaysi bosh miya nervlari kiradi?",
+    "A": "n.vagus",
+    "B": "n.lacrimalis",
+    "C": "n.hypoglossus",
+    "D": "n.ulnaris",
+    "javob": "A"
+  },
+  {
+    "savol": "Quloq oldi tuguni qayerda joylashgan?",
+    "A": "Foramen ovale ostida",
+    "B": "Foramen spinosum",
+    "C": "Foramen mentale",
+    "D": "Foramen costale",
+    "javob": "A"
+  },
+  {
+    "savol": "Quloq oldi tuguni nima deb nomlanadi?",
+    "A": "Ganglion oticum",
+    "B": "Ganglion nervum",
+    "C": "Ganglion opticum",
+    "D": "Ganglion mandibulare",
+    "javob": "A"
+  },
+  {
+    "savol": "Tashqi quloq nima deb nomlanadi?",
+    "A": "Auris exsterna",
+    "B": "Collumna",
+    "C": "Opticus interna",
+    "D": "Costae",
+    "javob": "A"
+  },
+  {
+    "savol": "Nog`ora parda nima deb nomlanadi?",
+    "A": "Membrana tympani",
+    "B": "Cartilage costae",
+    "C": "Caroticus",
+    "D": "Opticus interna",
+    "javob": "A"
+  },
+  {
+    "savol": "O`rta quloq nima deb nomlanadi?",
+    "A": "Auris media",
+    "B": "Yevstaxiy nayi",
+    "C": "Opticus interna",
+    "D": "Auricula",
+    "javob": "A"
+  },
+  {
+    "savol": "O`rta quloq nimadan tashkil topgan?",
+    "A": "Nog`ora bo`shlig` va yevstaxiy nayi",
+    "B": "Tashqi eshituv yo`li",
+    "C": "Nog`ora parda",
+    "D": "Cochlearis",
+    "javob": "A"
+  },
+  {
+    "savol": "Nog`ora bo`shlig`ining nechta devori bor?",
+    "A": "6 ta",
+    "B": "4 ta",
+    "C": "5 ta",
+    "D": "7 ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Ichki quloq nima deb nomlanadi?",
+    "A": "Auris interna",
+    "B": "Auris externa",
+    "C": "Opticus interna",
+    "D": "Auris media",
+    "javob": "A"
+  },
+  {
+    "savol": "Ichki quloq nimadan tashkil topgan?",
+    "A": "Suyak va parda labirintidan",
+    "B": "Tashqi eshituv yo`li",
+    "C": "Nog`ora parda",
+    "D": "Yevstaxiy nayi",
+    "javob": "A"
+  },
+  {
+    "savol": "O`rta quloq bo`shlig`i yevstaxiy nayi orqali qayer bilan bog`langan?",
+    "A": "Halqum bo`shlig`i",
+    "B": "Burun bo`shlig`i",
+    "C": "Tashqi eshituv yo`li",
+    "D": "Opticus interna",
+    "javob": "A"
+  },
+  {
+    "savol": "Bosh miya nima deb nomlanadi?",
+    "A": "encephalon",
+    "B": "cerebrum",
+    "C": "cerebellum",
+    "D": "pons",
+    "javob": "A"
+  },
+  {
+    "savol": "Uzunchoq  miya lotinchada nima deb nomlanadi?",
+    "A": "medulla oblangata",
+    "B": "cerebrum",
+    "C": "dura mater",
+    "D": "pons",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko`z necha qavat parda bilan o`ralgan?",
+    "A": "3",
+    "B": "2",
+    "C": "1",
+    "D": "7",
+    "javob": "A"
+  },
+  {
+    "savol": "Shlemmov kanalining vazifasi nimadan iborat?",
+    "A": "Ko`z ichi bosimini normallashtiradi",
+    "B": "Bosimni oshiradi",
+    "C": "Bosimga ta`sir qilmaydi",
+    "D": "Bosimga aloqasi yo`q",
+    "javob": "A"
+  },
+  {
+    "savol": "Rangdor parda tarkibida nima tutadi?",
+    "A": "Melatonin",
+    "B": "Temir",
+    "C": "Molibden",
+    "D": "Serotonin",
+    "javob": "A"
+  },
+  {
+    "savol": "Shox parda qanday yo`l bilan oziqlanadi",
+    "A": "Diffuz",
+    "B": "Aerob",
+    "C": "Anaerob",
+    "D": "Vaskulyar",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko`zning fibroz pardasi nima deyiladi?",
+    "A": "Tunica fibrosa",
+    "B": "Tunica vasculosa",
+    "C": "Tunica mucosa",
+    "D": "Tunica adventitia",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko`zning tomirli pardasi nima deyiladi?",
+    "A": "Tunica vasculosa",
+    "B": "Tunica submucosa",
+    "C": "Tunica mucosa",
+    "D": "Tunica gangliosa",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko`zning to`r pardasi nima deyiladi?",
+    "A": "Tunica retina",
+    "B": "Tunica mucosa",
+    "C": "Foramen jugularis",
+    "D": "Tunica submucosa",
+    "javob": "A"
+  },
+  {
+    "savol": "N.accessorius qaysi mushaklarni innervatsiya qiladi?",
+    "A": "m.sternocleidomastoideus m.trapesius",
+    "B": "m.transverus colli m.longissimus capitis",
+    "C": "m.orbicularis oris m.risorius",
+    "D": "m.orbicularis oculi m.tranversus colli",
+    "javob": "A"
+  },
+  {
+    "savol": "Ganglion submandibulare qayerni innervatsiya qiladi?",
+    "A": "Glandula submandibulare",
+    "B": "Glandula parotidea",
+    "C": "Glandula  thyroidea",
+    "D": "Glandula parathyroidea",
+    "javob": "A"
+  },
+  {
+    "savol": "Ganglion sublinguale qayerni innervatsiya qiladi?",
+    "A": "Glandula sublinguale",
+    "B": "Glandula oticum",
+    "C": "Glandula parotidea",
+    "D": "Glandula thyroidea",
+    "javob": "A"
+  },
+  {
+    "savol": "N.vestibulo-cochlearisning cochlear qismi o`zaklari qaysilar?",
+    "A": "Ventral va dorsal",
+    "B": "Yuqori va pastki",
+    "C": "O`ng va chap",
+    "D": "Lateral va medial",
+    "javob": "A"
+  },
+  {
+    "savol": "Bosh miya qattiq pardasi suyak tomonga nima hosil qiladi?",
+    "A": "sinuslar",
+    "B": "o`roqlar",
+    "C": "sisternalar",
+    "D": "bo`shliq",
+    "javob": "A"
+  },
+  {
+    "savol": "Gumbaz nima deb nomlanadi?",
+    "A": "fornix",
+    "B": "Medulla spinalis",
+    "C": "caput",
+    "D": "spinalis",
+    "javob": "A"
+  },
+  {
+    "savol": "Qadoqsimon tana nima deb nomlanadi",
+    "A": "corpus collosum",
+    "B": "caput",
+    "C": "metencephalon",
+    "D": "fornix",
+    "javob": "A"
+  },
+  {
+    "savol": "Oraliq miya nima deb ataladi?",
+    "A": "diencephalon",
+    "B": "pons",
+    "C": "Medulla spinalis",
+    "D": "cerebellum",
+    "javob": "A"
+  },
+  {
+    "savol": "Targ`il tana nima deb nomlanadi?",
+    "A": "corpus striatum",
+    "B": "corpus collosum",
+    "C": "caput",
+    "D": "spinalis",
+    "javob": "A"
+  },
+  {
+    "savol": "Capsula internaning nechta qismi tafovut qilinadi?",
+    "A": "3 ta",
+    "B": "2 ta",
+    "C": "4 ta",
+    "D": "5 ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Qadoqsimon tananing tarkibiy qismini ko`rsating?",
+    "A": "Splenius",
+    "B": "caput",
+    "C": "spinalis",
+    "D": "fornix",
+    "javob": "A"
+  },
+  {
+    "savol": "Commisural o`tkazuv yo`lni nima hosil qiladi?",
+    "A": "Qadoqsimon tana",
+    "B": "Miyacha",
+    "C": "Bosh miya",
+    "D": "Orqa miya",
+    "javob": "A"
+  },
+  {
+    "savol": "Miyachada joylashgan 4-o`zakni ko`rsating?",
+    "A": "nucleus dentatus",
+    "B": "nucleus ambigius",
+    "C": "nucleus  ruber",
+    "D": "nucleus lentiformis",
+    "javob": "A"
+  },
+  {
+    "savol": "Miyachada joylashgan 3-o`zakni ko`rsating?",
+    "A": "nucleus emboliformis",
+    "B": "nucleus ambigius",
+    "C": "nucleus  amygdala",
+    "D": "nucleus lentiformis",
+    "javob": "A"
+  },
+  {
+    "savol": "Miyachada joylashgan 1-o`zakni ko`rsating?",
+    "A": "nucleus fastigi",
+    "B": "nucleus ambigius",
+    "C": "nucleus  costa",
+    "D": "nucleus amygdala",
+    "javob": "A"
+  },
+  {
+    "savol": "Miyachada joylashgan 2-o`zakni ko`rsating?",
+    "A": "nucleus globosus",
+    "B": "nucleus ambigius",
+    "C": "nucleus  ruber",
+    "D": "nucleus pallidus",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko`prikdan qaysi bosh miya nervlari chiqadi?",
+    "A": "V,VI, VII",
+    "B": "X, V",
+    "C": "III,IV",
+    "D": "X, IX, XII , X",
+    "javob": "A"
+  },
+  {
+    "savol": "Eng katta commissural o`tkazuv yo`lni nima hosil qiladi?",
+    "A": "Corpus collosum",
+    "B": "Medulla oblangata",
+    "C": "Mojandi teshigi",
+    "D": "Aquaductus cerebri",
+    "javob": "A"
+  },
+  {
+    "savol": "O`tkazuv yo`llari nechchiga bo`linadi?",
+    "A": "3 guruh",
+    "B": "2 guruh",
+    "C": "1 guruh",
+    "D": "7 guruh",
+    "javob": "A"
+  },
+  {
+    "savol": "Bosh va orqa miya orasidagi yo`l qaysi o`tkazuv yo`l tarkibiga kiradi?",
+    "A": "proyeksion",
+    "B": "comissural",
+    "C": "assotsiativ",
+    "D": "Rubro-nuclear",
+    "javob": "A"
+  },
+  {
+    "savol": "Faqat bitta yarimsharda impuls almashinuvi bo`lsa bu qaysi o`tkazuv yo`lga kiradi?",
+    "A": "assotsiativ",
+    "B": "comissural",
+    "C": "proeksion",
+    "D": "ekstroseptiv",
+    "javob": "A"
+  },
+  {
+    "savol": "Ikkala yarimsharda implus almashinuvi bo`lsa bu qaysi o`tkazuv yo`lga kiradi?",
+    "A": "commissural",
+    "B": "assotsiativ",
+    "C": "proeksion",
+    "D": "introseptiv",
+    "javob": "A"
+  },
+  {
+    "savol": "Sezuv o`tkazuv yo`l uchun xos xususiyatni belgilang?",
+    "A": "3 neyronli",
+    "B": "4 neyronli",
+    "C": "markazdan qochuvchi",
+    "D": "2 neyronli",
+    "javob": "A"
+  },
+  {
+    "savol": "Sezuvchi o`tkazuv yo`lni yana qanday nomlash mumkin?",
+    "A": "Afferent yo`l",
+    "B": "Efferent yo`l",
+    "C": "markazdan qochuvchi yo`l",
+    "D": "6 neyronli yo`l",
+    "javob": "A"
+  },
+  {
+    "savol": "Sezuv o`tkazuv yo`l uchun yana bir o`ziga xos xususiyat?",
+    "A": "markazga intiluvchi",
+    "B": "efferent",
+    "C": "markazdan",
+    "D": "4 neyronli",
+    "javob": "A"
+  },
+  {
+    "savol": "2-neyron doimo kesishadi qaysi o`tkazuv yo`li uchun xos?",
+    "A": "Sezuv o`tkazuv yo`li",
+    "B": "Ektrapiramidal o`tkazuv yo`li",
+    "C": "Miyacha va miya po`stlog`I o`rtasidagi yo`l",
+    "D": "Qizil o`zak va orqa miya o`rtasidagi yo`l",
+    "javob": "A"
+  },
+  {
+    "savol": "Miya ko`prigi lotinchada nima deb nomlanadi?",
+    "A": "pons",
+    "B": "cerebellum",
+    "C": "encephalon",
+    "D": "myelencephalon",
+    "javob": "A"
+  },
+  {
+    "savol": "Uzunchoq  miyaning lotincha nomi nima deb nomlanadi?",
+    "A": "medulla oblangata",
+    "B": "Pia mater",
+    "C": "Subarachnoidal mater",
+    "D": "pons",
+    "javob": "A"
+  },
+  {
+    "savol": "Afferent o`tkazuv yo`lning 1-neyroni qayerdan boshlanadi?",
+    "A": "1-neyron ganglion spinalidan boshlanadi",
+    "B": "Periferiyadan boshlanadi",
+    "C": "markazdan qochuvchi",
+    "D": "7 neyronli yo`l",
+    "javob": "A"
+  },
+  {
+    "savol": "Afferent o`tkazuv yo`lning markazi qayerda?",
+    "A": "markazi gyrus postcentralis",
+    "B": "Gyrus temporalis superior",
+    "C": "markazdan qochuvchi",
+    "D": "9neyronli",
+    "javob": "A"
+  },
+  {
+    "savol": "Sezuv o`tkazuv yo`lning markaziy pushtasi nima deb nomlanadi?",
+    "A": "Gyrus postcentralis",
+    "B": "Gyrus triangularis",
+    "C": "Gyrus frontalis media",
+    "D": "8 neyronli",
+    "javob": "A"
+  },
+  {
+    "savol": "Harakat o`tkazuv yo`lning ikkinchi nomi?",
+    "A": "Efferent o`tkazuv yo`li",
+    "B": "markazi gyrus postcentralis",
+    "C": "Gyrus triangularis",
+    "D": "Vernike markazi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qizil o`zak tarkibida nima saqlaydi?",
+    "A": "temir",
+    "B": "melanin",
+    "C": "molibden",
+    "D": "sink",
+    "javob": "A"
+  },
+  {
+    "savol": "Harakat o`tkazuv yo`l uchun o`ziga  xoslik nimada?",
+    "A": "1-neyron kesishadi",
+    "B": "markazi gyrus postcentralis",
+    "C": "markazga intiluvchi",
+    "D": "4 neyronli",
+    "javob": "A"
+  },
+  {
+    "savol": "Ventriculus  quartusda joylashgan Lushka teshigi qayerga ochiladi?",
+    "A": "subarachnoedal bo`shliqga",
+    "B": "3-qorincha",
+    "C": "yon qorinchalar",
+    "D": "arteriya",
+    "javob": "A"
+  },
+  {
+    "savol": "To`rtinchi qorincha uchinchi qorincha bilan nima orqali bog`langan?",
+    "A": "Silvisiy suv yo`li",
+    "B": "yon qorinchalar",
+    "C": "arteriya",
+    "D": "Venoz chigal",
+    "javob": "A"
+  },
+  {
+    "savol": "Ventriculus quartus uchinchi qorincha bilan nima orqali bog`langan?",
+    "A": "Aquaductus cerebri",
+    "B": "yon qorinchalar",
+    "C": "lyushka",
+    "D": "Venoz chigal",
+    "javob": "A"
+  },
+  {
+    "savol": "Ventriculus tertius ventriculus quartus bilan nima orqali bog`langan?",
+    "A": "suv yo`li",
+    "B": "yon qorinchalar",
+    "C": "Mojandi teshigi",
+    "D": "Venoz chigal",
+    "javob": "A"
+  },
+  {
+    "savol": "O`rta miyada nechta yuzasi bor?",
+    "A": "Ventral, dorsal",
+    "B": "Lateral ventral",
+    "C": "Lateral posterior",
+    "D": "Dorsal lateral",
+    "javob": "A"
+  },
+  {
+    "savol": "O`rta miya  ventral qismida nima joylashgan?",
+    "A": "Miya oyoqlari –pedunculi cerebri",
+    "B": "Nucleus rubra",
+    "C": "To`rt tepalik  -lamina quadragemina",
+    "D": "Silvisiy suv yo`li",
+    "javob": "A"
+  },
+  {
+    "savol": "Mesencephalonning  ventral qismida nima joylashgan?",
+    "A": "pedunculi cerebri",
+    "B": "Nucleus amygdala",
+    "C": "To`rt tepalik  -lamina quadragemina",
+    "D": "Silvisiy suv yo`li",
+    "javob": "A"
+  },
+  {
+    "savol": "Harakat  o`tkazuv yo`li qaysi o`tkazuv yo`l tarkibiga kiradi?",
+    "A": "proeksion",
+    "B": "comissural",
+    "C": "assotsiativ",
+    "D": "barchasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Harakat o`tkazuv yo`li nechta neyrondan iborat?",
+    "A": "Ikki neyronli",
+    "B": "Bir neyronli",
+    "C": "Uch neyronli",
+    "D": "Sakkiz neyronli",
+    "javob": "A"
+  },
+  {
+    "savol": "Harakat o`tkazuv yo`lida qaysi neyron kesishadi?",
+    "A": "Birinchisi",
+    "B": "Beshinchisi",
+    "C": "Oltinchisi",
+    "D": "To`rtinchisi",
+    "javob": "A"
+  },
+  {
+    "savol": "Efferent  o`tkazuv yo`li nechta neyrondan iborat?",
+    "A": "Ikkita",
+    "B": "Bitta",
+    "C": "To`rtta",
+    "D": "O`nta",
+    "javob": "A"
+  },
+  {
+    "savol": "Po`stloq osti ko`ruv markazini nima hosil qiladi?",
+    "A": "colliculis superior",
+    "B": "colliculus inferior",
+    "C": "miyacha",
+    "D": "pons",
+    "javob": "A"
+  },
+  {
+    "savol": "Piramidal yo`lda 1-neyron qayerdan boshlanadi?",
+    "A": "gyrus precentralis",
+    "B": "gyrus angularis",
+    "C": "miyacha",
+    "D": "gyrus cubitii",
+    "javob": "A"
+  },
+  {
+    "savol": "Piramidal yo`l qaysi o`tkazuv yo`l tarkibiga kiradi?",
+    "A": "harakat",
+    "B": "sezuv",
+    "C": "afferent",
+    "D": "comissural",
+    "javob": "A"
+  },
+  {
+    "savol": "Exstrapiramidal yo`lda 1-neyron qayerdan boshlanadi?",
+    "A": "Nucleus ruber",
+    "B": "Gyrus angularis",
+    "C": "Miyacha",
+    "D": "Gyrus cubitii",
+    "javob": "A"
+  },
+  {
+    "savol": "Exstrapiramidal yo`l qaysi o`tkazuv yo`l tarkibiga kiradi?",
+    "A": "harakat",
+    "B": "sezuv",
+    "C": "afferent",
+    "D": "comissural",
+    "javob": "A"
+  },
+  {
+    "savol": "Tractus rubro spinalisda 1-neyron qayerdan boshlanadi?",
+    "A": "qizil o`zak",
+    "B": "gyrus angularis",
+    "C": "miyacha",
+    "D": "gyrus cubitii",
+    "javob": "A"
+  },
+  {
+    "savol": "Harakat o`tkazuv yo`li nechchiga bo`linadi?",
+    "A": "Uchga",
+    "B": "Bo`linmaydi",
+    "C": "To`rtga",
+    "D": "Beshga",
+    "javob": "A"
+  },
+  {
+    "savol": "Silvisiy suv yo`li uzunligi qanchaga teng?",
+    "A": "1.5-2 sm",
+    "B": "2.5-3 sm",
+    "C": "3-4 sm",
+    "D": "5 sm",
+    "javob": "A"
+  },
+  {
+    "savol": "Po`stloq necha qavat hujayralardan iborat?",
+    "A": "6 qavat",
+    "B": "5 qavat",
+    "C": "4 qavat",
+    "D": "3 qavat",
+    "javob": "A"
+  },
+  {
+    "savol": "Orqa miya nervlari nechchi juft ?",
+    "A": "31",
+    "B": "12",
+    "C": "13",
+    "D": "21",
+    "javob": "A"
+  },
+  {
+    "savol": "Bosh miya nervlari nechchi juft ?",
+    "A": "12",
+    "B": "30",
+    "C": "13",
+    "D": "21",
+    "javob": "A"
+  },
+  {
+    "savol": "Bo`yin chigali qayerda joylashgan?",
+    "A": "M.sternocleidomasdoideus orqa tomoni",
+    "B": "M.longissimus colli",
+    "C": "M.auricularis",
+    "D": "M.transversa colli",
+    "javob": "A"
+  },
+  {
+    "savol": "Bo`yin chigalining hosil bo`lish formulasi?",
+    "A": "C1-C4",
+    "B": "C5-C8",
+    "C": "Th1-L5",
+    "D": "L1-L6",
+    "javob": "A"
+  }
+]
