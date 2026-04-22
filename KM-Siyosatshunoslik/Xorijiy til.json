@@ -1,0 +1,1202 @@
+[
+  {
+    "savol": "Ali ___ speak English very well. (ability)",
+    "A": "can",
+    "B": "must",
+    "C": "should",
+    "D": "may",
+    "javob": "A"
+  },
+  {
+    "savol": "You ___ wear a seatbelt in the car. (strong obligation)",
+    "A": "must",
+    "B": "can",
+    "C": "should",
+    "D": "might",
+    "javob": "A"
+  },
+  {
+    "savol": "Students ___ study more if they want good marks. (advice)",
+    "A": "should",
+    "B": "can",
+    "C": "must",
+    "D": "may",
+    "javob": "A"
+  },
+  {
+    "savol": "It ___ rain today, take an umbrella. (weak possibility)",
+    "A": "might",
+    "B": "must",
+    "C": "should",
+    "D": "can",
+    "javob": "A"
+  },
+  {
+    "savol": "You ___ leave the room now if you want. (permission)",
+    "A": "may",
+    "B": "must",
+    "C": "should",
+    "D": "could",
+    "javob": "A"
+  },
+  {
+    "savol": "She ___ speak French when she was a child. (past ability)",
+    "A": "could",
+    "B": "can",
+    "C": "must",
+    "D": "should",
+    "javob": "A"
+  },
+  {
+    "savol": "He ___ be tired after running 10 km. (strong deduction)",
+    "A": "must",
+    "B": "might",
+    "C": "can",
+    "D": "should",
+    "javob": "A"
+  },
+  {
+    "savol": "You ___ come tomorrow if you don`t want to. (no necessity)",
+    "A": "don`t have to",
+    "B": "must",
+    "C": "shouldn`t",
+    "D": "can`t",
+    "javob": "A"
+  },
+  {
+    "savol": "You ___ smoke here. It is forbidden. (prohibition)",
+    "A": "mustn`t",
+    "B": "shouldn`t",
+    "C": "can`t",
+    "D": "may not",
+    "javob": "A"
+  },
+  {
+    "savol": "You ___ drink too much coffee at night. (negative advice)",
+    "A": "shouldn`t",
+    "B": "mustn`t",
+    "C": "can`t",
+    "D": "couldn`t",
+    "javob": "A"
+  },
+  {
+    "savol": "___ I borrow your pen, please? (polite request)",
+    "A": "Could",
+    "B": "Must",
+    "C": "Should",
+    "D": "Will",
+    "javob": "A"
+  },
+  {
+    "savol": "We ___ finish this project today if we work fast. (possibility)",
+    "A": "can",
+    "B": "must",
+    "C": "might",
+    "D": "should",
+    "javob": "A"
+  },
+  {
+    "savol": "They ___ arrive later; I`m not sure. (uncertain possibility)",
+    "A": "might",
+    "B": "must",
+    "C": "can",
+    "D": "should",
+    "javob": "A"
+  },
+  {
+    "savol": "You ___ pay the fine before Friday. (external obligation)",
+    "A": "have to",
+    "B": "should",
+    "C": "can",
+    "D": "might",
+    "javob": "A"
+  },
+  {
+    "savol": "You ___ try restarting the computer. (polite suggestion)",
+    "A": "could",
+    "B": "must",
+    "C": "may",
+    "D": "can`t",
+    "javob": "A"
+  },
+  {
+    "savol": "Usually, Nigina ___ early for work.",
+    "A": "is",
+    "B": "was",
+    "C": "are",
+    "D": "am",
+    "javob": "A"
+  },
+  {
+    "savol": "Every day, Lola and Jasmina ___ at the gym.",
+    "A": "are",
+    "B": "was",
+    "C": "is",
+    "D": "am",
+    "javob": "A"
+  },
+  {
+    "savol": "Now, Bekzod ___ tired.",
+    "A": "is",
+    "B": "was",
+    "C": "are",
+    "D": "am",
+    "javob": "A"
+  },
+  {
+    "savol": "Today, Sarvar and Timur ___ in Tashkent.",
+    "A": "are",
+    "B": "was",
+    "C": "is",
+    "D": "am",
+    "javob": "A"
+  },
+  {
+    "savol": "Usually, Kamila ___ helpful to everyone.",
+    "A": "is",
+    "B": "was",
+    "C": "are",
+    "D": "am",
+    "javob": "A"
+  },
+  {
+    "savol": "Every day, Rustam ___ late for class.",
+    "A": "is",
+    "B": "was",
+    "C": "are",
+    "D": "am",
+    "javob": "A"
+  },
+  {
+    "savol": "Right now, Valentina and Igor ___ busy.",
+    "A": "are",
+    "B": "was",
+    "C": "is",
+    "D": "am",
+    "javob": "A"
+  },
+  {
+    "savol": "Today, Jasur ___ very calm.",
+    "A": "is",
+    "B": "was",
+    "C": "are",
+    "D": "am",
+    "javob": "A"
+  },
+  {
+    "savol": "Yesterday, Ali ___ at home.",
+    "A": "was",
+    "B": "are",
+    "C": "is",
+    "D": "am",
+    "javob": "A"
+  },
+  {
+    "savol": "Last night, Laylo and Saida ___ at the cinema.",
+    "A": "were",
+    "B": "are",
+    "C": "is",
+    "D": "am",
+    "javob": "A"
+  },
+  {
+    "savol": "In 2010, Jamshid ___ a student.",
+    "A": "was",
+    "B": "are",
+    "C": "is",
+    "D": "am",
+    "javob": "A"
+  },
+  {
+    "savol": "Yesterday, Timur and Bobur ___ tired after training.",
+    "A": "were",
+    "B": "are",
+    "C": "is",
+    "D": "am",
+    "javob": "A"
+  },
+  {
+    "savol": "Last weekend, Farida ___ in Samarkand.",
+    "A": "was",
+    "B": "are",
+    "C": "is",
+    "D": "am",
+    "javob": "A"
+  },
+  {
+    "savol": "Two days ago, Diana and Kamila ___ at a conference.",
+    "A": "were",
+    "B": "are",
+    "C": "is",
+    "D": "am",
+    "javob": "A"
+  },
+  {
+    "savol": "Yesterday morning, Nigina ___ very busy.",
+    "A": "was",
+    "B": "are",
+    "C": "is",
+    "D": "am",
+    "javob": "A"
+  },
+  {
+    "savol": "Last year, Rustam ___ in Moscow.",
+    "A": "was",
+    "B": "are",
+    "C": "is",
+    "D": "am",
+    "javob": "A"
+  },
+  {
+    "savol": "In 2005, Lola and Jasmina ___ classmates.",
+    "A": "were",
+    "B": "are",
+    "C": "is",
+    "D": "am",
+    "javob": "A"
+  },
+  {
+    "savol": "Yesterday, Bekzod ___ sick.",
+    "A": "was",
+    "B": "are",
+    "C": "is",
+    "D": "am",
+    "javob": "A"
+  },
+  {
+    "savol": "Last night, Sarvar and Timur ___ online.",
+    "A": "were",
+    "B": "are",
+    "C": "is",
+    "D": "am",
+    "javob": "A"
+  },
+  {
+    "savol": "A week ago, Valentina ___ in Italy.",
+    "A": "was",
+    "B": "are",
+    "C": "is",
+    "D": "am",
+    "javob": "A"
+  },
+  {
+    "savol": "Yesterday afternoon, Igor and Pavel ___ free.",
+    "A": "were",
+    "B": "are",
+    "C": "is",
+    "D": "am",
+    "javob": "A"
+  },
+  {
+    "savol": "In 2018, Kamila ___ a new employee.",
+    "A": "was",
+    "B": "are",
+    "C": "is",
+    "D": "am",
+    "javob": "A"
+  },
+  {
+    "savol": "Last summer, Sherzod and Bobur ___ in Bukhara.",
+    "A": "were",
+    "B": "are",
+    "C": "is",
+    "D": "am",
+    "javob": "A"
+  },
+  {
+    "savol": "Now, Ali ___ a book.",
+    "A": "is reading",
+    "B": "reads",
+    "C": "read",
+    "D": "is read",
+    "javob": "A"
+  },
+  {
+    "savol": "Right now, Nilufar ___ dinner.",
+    "A": "is cooking",
+    "B": "cooks",
+    "C": "cooked",
+    "D": "cooking",
+    "javob": "A"
+  },
+  {
+    "savol": "At the moment, Jamshid ___ football.",
+    "A": "is playing",
+    "B": "plays",
+    "C": "played",
+    "D": "play",
+    "javob": "A"
+  },
+  {
+    "savol": "Today, Laylo ___ her project.",
+    "A": "is finishing",
+    "B": "finishes",
+    "C": "finished",
+    "D": "finish",
+    "javob": "A"
+  },
+  {
+    "savol": "Now, Rustam ___ to music.",
+    "A": "is listening",
+    "B": "listens",
+    "C": "listened",
+    "D": "listen",
+    "javob": "A"
+  },
+  {
+    "savol": "At the moment, Kamila ___ a message.",
+    "A": "is writing",
+    "B": "writes",
+    "C": "wrote",
+    "D": "writing",
+    "javob": "A"
+  },
+  {
+    "savol": "Right now, Jasur ___ the room.",
+    "A": "is cleaning",
+    "B": "cleans",
+    "C": "cleaned",
+    "D": "clean",
+    "javob": "A"
+  },
+  {
+    "savol": "Now, Valentina ___ TV.",
+    "A": "is watching",
+    "B": "watches",
+    "C": "watched",
+    "D": "watch",
+    "javob": "A"
+  },
+  {
+    "savol": "Today, Bekzod ___ in the library.",
+    "A": "is studying",
+    "B": "studies",
+    "C": "studied",
+    "D": "study",
+    "javob": "A"
+  },
+  {
+    "savol": "At the moment, Saida and Malika ___ coffee.",
+    "A": "are drinking",
+    "B": "drink",
+    "C": "drinks",
+    "D": "drank",
+    "javob": "A"
+  },
+  {
+    "savol": "Right now, Timur and Sherzod ___ chess.",
+    "A": "are playing",
+    "B": "play",
+    "C": "played",
+    "D": "playing",
+    "javob": "A"
+  },
+  {
+    "savol": "Today, Nigina ___ a new lesson.",
+    "A": "is learning",
+    "B": "learns",
+    "C": "learned",
+    "D": "learn",
+    "javob": "A"
+  },
+  {
+    "savol": "At the moment, Diana ___ the piano.",
+    "A": "is playing",
+    "B": "plays",
+    "C": "played",
+    "D": "play",
+    "javob": "A"
+  },
+  {
+    "savol": "Now, Igor ___ to his teacher.",
+    "A": "is talking",
+    "B": "talks",
+    "C": "talked",
+    "D": "talk",
+    "javob": "A"
+  },
+  {
+    "savol": "Today, Lola and Jasmina ___ shopping.",
+    "A": "are going",
+    "B": "go",
+    "C": "went",
+    "D": "going",
+    "javob": "A"
+  },
+  {
+    "savol": "Right now, Farida ___ for the exam.",
+    "A": "is preparing",
+    "B": "prepares",
+    "C": "prepared",
+    "D": "prepare",
+    "javob": "A"
+  },
+  {
+    "savol": "At the moment, Pavel ___ lunch.",
+    "A": "is having",
+    "B": "has",
+    "C": "had",
+    "D": "having",
+    "javob": "A"
+  },
+  {
+    "savol": "Now, Bobur and Timur ___ the bus.",
+    "A": "are waiting for",
+    "B": "wait for",
+    "C": "waited for",
+    "D": "waiting",
+    "javob": "A"
+  },
+  {
+    "savol": "Today, Kamila ___ a cake.",
+    "A": "is baking",
+    "B": "bakes",
+    "C": "baked",
+    "D": "bake",
+    "javob": "A"
+  },
+  {
+    "savol": "Right now, Ali and Jamshid ___ the homework.",
+    "A": "are doing",
+    "B": "do",
+    "C": "did",
+    "D": "doing",
+    "javob": "A"
+  },
+  {
+    "savol": "Ali has ___ his homework already.",
+    "A": "finished",
+    "B": "finish",
+    "C": "finishing",
+    "D": "finishes",
+    "javob": "A"
+  },
+  {
+    "savol": "Nilufar has ___ to London twice.",
+    "A": "been",
+    "B": "went",
+    "C": "go",
+    "D": "goes",
+    "javob": "A"
+  },
+  {
+    "savol": "Jasur has just ___ his room.",
+    "A": "cleaned",
+    "B": "clean",
+    "C": "cleaning",
+    "D": "cleans",
+    "javob": "A"
+  },
+  {
+    "savol": "Laylo has ___ the project today.",
+    "A": "completed",
+    "B": "complete",
+    "C": "completing",
+    "D": "completes",
+    "javob": "A"
+  },
+  {
+    "savol": "Bekzod has ___ lunch already.",
+    "A": "eaten",
+    "B": "eat",
+    "C": "eating",
+    "D": "eats",
+    "javob": "A"
+  },
+  {
+    "savol": "Kamila has just ___ her new teacher.",
+    "A": "met",
+    "B": "meet",
+    "C": "meeting",
+    "D": "meets",
+    "javob": "A"
+  },
+  {
+    "savol": "Valentina has never ___ abroad.",
+    "A": "traveled",
+    "B": "travel",
+    "C": "traveling",
+    "D": "travels",
+    "javob": "A"
+  },
+  {
+    "savol": "Timur has just ___ the report.",
+    "A": "finished",
+    "B": "finish",
+    "C": "finishing",
+    "D": "finishes",
+    "javob": "A"
+  },
+  {
+    "savol": "Rustam has never ___ that movie.",
+    "A": "seen",
+    "B": "see",
+    "C": "seeing",
+    "D": "sees",
+    "javob": "A"
+  },
+  {
+    "savol": "Saida has recently ___ her new job.",
+    "A": "started",
+    "B": "start",
+    "C": "starting",
+    "D": "starts",
+    "javob": "A"
+  },
+  {
+    "savol": "Igor has just ___ his manager.",
+    "A": "called",
+    "B": "call",
+    "C": "calling",
+    "D": "calls",
+    "javob": "A"
+  },
+  {
+    "savol": "Bobur has already ___ the email.",
+    "A": "written",
+    "B": "write",
+    "C": "writing",
+    "D": "writes",
+    "javob": "A"
+  },
+  {
+    "savol": "Jasmina has never ___ to Paris.",
+    "A": "been",
+    "B": "go",
+    "C": "going",
+    "D": "went",
+    "javob": "A"
+  },
+  {
+    "savol": "Farida has recently ___ the task.",
+    "A": "completed",
+    "B": "complete",
+    "C": "completing",
+    "D": "completes",
+    "javob": "A"
+  },
+  {
+    "savol": "Pavel has already ___ his grandparents this week.",
+    "A": "visited",
+    "B": "visit",
+    "C": "visiting",
+    "D": "visits",
+    "javob": "A"
+  },
+  {
+    "savol": "Ali wakes up ___ 7 a.m.",
+    "A": "at",
+    "B": "in",
+    "C": "on",
+    "D": "to",
+    "javob": "A"
+  },
+  {
+    "savol": "Nilufar studies English ___ the evening.",
+    "A": "in",
+    "B": "on",
+    "C": "at",
+    "D": "for",
+    "javob": "A"
+  },
+  {
+    "savol": "Jasur plays football ___ Sundays.",
+    "A": "on",
+    "B": "in",
+    "C": "at",
+    "D": "to",
+    "javob": "A"
+  },
+  {
+    "savol": "Laylo starts work ___ the morning.",
+    "A": "in",
+    "B": "at",
+    "C": "on",
+    "D": "by",
+    "javob": "A"
+  },
+  {
+    "savol": "Bekzod finishes class ___ 3 o`clock.",
+    "A": "at",
+    "B": "in",
+    "C": "on",
+    "D": "for",
+    "javob": "A"
+  },
+  {
+    "savol": "Kamila travels to Samarkand ___ June.",
+    "A": "in",
+    "B": "on",
+    "C": "at",
+    "D": "to",
+    "javob": "A"
+  },
+  {
+    "savol": "Valentina meets her friend ___ Monday.",
+    "A": "on",
+    "B": "in",
+    "C": "at",
+    "D": "from",
+    "javob": "A"
+  },
+  {
+    "savol": "Timur reads books ___ night.",
+    "A": "at",
+    "B": "in",
+    "C": "on",
+    "D": "by",
+    "javob": "A"
+  },
+  {
+    "savol": "Rustam was born ___ 1998.",
+    "A": "in",
+    "B": "at",
+    "C": "on",
+    "D": "by",
+    "javob": "A"
+  },
+  {
+    "savol": "Saida goes to the gym ___ weekends.",
+    "A": "on",
+    "B": "in",
+    "C": "at",
+    "D": "by",
+    "javob": "A"
+  },
+  {
+    "savol": "Igor starts lessons ___ noon.",
+    "A": "at",
+    "B": "in",
+    "C": "on",
+    "D": "for",
+    "javob": "A"
+  },
+  {
+    "savol": "Bobur visits his grandparents ___ the summer.",
+    "A": "in",
+    "B": "on",
+    "C": "at",
+    "D": "for",
+    "javob": "A"
+  },
+  {
+    "savol": "Jasmina has an exam ___ Friday morning.",
+    "A": "on",
+    "B": "in",
+    "C": "at",
+    "D": "by",
+    "javob": "A"
+  },
+  {
+    "savol": "Farida drinks tea ___ breakfast.",
+    "A": "at",
+    "B": "in",
+    "C": "on",
+    "D": "to",
+    "javob": "A"
+  },
+  {
+    "savol": "Pavel travels a lot ___ the winter.",
+    "A": "in",
+    "B": "on",
+    "C": "at",
+    "D": "for",
+    "javob": "A"
+  },
+  {
+    "savol": "If Ali studies hard, he ___ the exam.",
+    "A": "will pass",
+    "B": "passes",
+    "C": "passed",
+    "D": "will passing",
+    "javob": "A"
+  },
+  {
+    "savol": "If Nilufar calls me, I ___ her back.",
+    "A": "will call",
+    "B": "call",
+    "C": "called",
+    "D": "calling",
+    "javob": "A"
+  },
+  {
+    "savol": "If Jasur finishes early, he ___ us.",
+    "A": "will join",
+    "B": "joins",
+    "C": "joined",
+    "D": "joining",
+    "javob": "A"
+  },
+  {
+    "savol": "If Laylo is free today, she ___ to the party.",
+    "A": "will come",
+    "B": "comes",
+    "C": "came",
+    "D": "coming",
+    "javob": "A"
+  },
+  {
+    "savol": "If Bekzod eats too much, he ___ sick.",
+    "A": "will feel",
+    "B": "feels",
+    "C": "felt",
+    "D": "feeling",
+    "javob": "A"
+  },
+  {
+    "savol": "If Kamila leaves now, she ___ on time.",
+    "A": "will arrive",
+    "B": "arrives",
+    "C": "arrived",
+    "D": "arriving",
+    "javob": "A"
+  },
+  {
+    "savol": "If Valentina works harder, she ___ better results.",
+    "A": "will get",
+    "B": "gets",
+    "C": "got",
+    "D": "getting",
+    "javob": "A"
+  },
+  {
+    "savol": "If Timur calls a taxi, it ___ quickly.",
+    "A": "will arrive",
+    "B": "arrives",
+    "C": "arrived",
+    "D": "arriving",
+    "javob": "A"
+  },
+  {
+    "savol": "If Rustam studies English, he ___ it well.",
+    "A": "will learn",
+    "B": "learns",
+    "C": "learned",
+    "D": "learning",
+    "javob": "A"
+  },
+  {
+    "savol": "If Saida is tired, she ___ a rest.",
+    "A": "will take",
+    "B": "takes",
+    "C": "took",
+    "D": "taking",
+    "javob": "A"
+  },
+  {
+    "savol": "If Ali had more time, he ___ more books.",
+    "A": "would read",
+    "B": "reads",
+    "C": "will read",
+    "D": "reading",
+    "javob": "A"
+  },
+  {
+    "savol": "If Nilufar knew Spanish, she ___ in Spain.",
+    "A": "would live",
+    "B": "lives",
+    "C": "lived",
+    "D": "living",
+    "javob": "A"
+  },
+  {
+    "savol": "If Jasur won the lottery, he ___ a new house.",
+    "A": "would buy",
+    "B": "buys",
+    "C": "bought",
+    "D": "buying",
+    "javob": "A"
+  },
+  {
+    "savol": "If Laylo were a teacher, she ___ children.",
+    "A": "would teach",
+    "B": "teaches",
+    "C": "taught",
+    "D": "teaching",
+    "javob": "A"
+  },
+  {
+    "savol": "If Bekzod had a car, he ___ to work easily.",
+    "A": "would drive",
+    "B": "drives",
+    "C": "drove",
+    "D": "driving",
+    "javob": "A"
+  },
+  {
+    "savol": "If Kamila were taller, she ___ basketball.",
+    "A": "would play",
+    "B": "plays",
+    "C": "played",
+    "D": "playing",
+    "javob": "A"
+  },
+  {
+    "savol": "If Valentina had enough money, she ___ abroad.",
+    "A": "would travel",
+    "B": "travels",
+    "C": "travelled",
+    "D": "traveling",
+    "javob": "A"
+  },
+  {
+    "savol": "If Timur saw a ghost, he ___ scared.",
+    "A": "would be",
+    "B": "is",
+    "C": "was",
+    "D": "being",
+    "javob": "A"
+  },
+  {
+    "savol": "If Rustam met his idol, he ___ excited.",
+    "A": "would feel",
+    "B": "feels",
+    "C": "felt",
+    "D": "feeling",
+    "javob": "A"
+  },
+  {
+    "savol": "If Saida studied harder, she ___ better grades.",
+    "A": "would get",
+    "B": "gets",
+    "C": "got",
+    "D": "getting",
+    "javob": "A"
+  },
+  {
+    "savol": "Ali is a student. ___ is very smart.",
+    "A": "He",
+    "B": "She",
+    "C": "They",
+    "D": "It",
+    "javob": "A"
+  },
+  {
+    "savol": "Nilufar is my sister. ___ is kind.",
+    "A": "She",
+    "B": "He",
+    "C": "They",
+    "D": "It",
+    "javob": "A"
+  },
+  {
+    "savol": "Ali and Bekzod are in the yard. ___ are playing.",
+    "A": "They",
+    "B": "He",
+    "C": "She",
+    "D": "It",
+    "javob": "A"
+  },
+  {
+    "savol": "Kamila is at work. ___ is a doctor.",
+    "A": "She",
+    "B": "He",
+    "C": "They",
+    "D": "It",
+    "javob": "A"
+  },
+  {
+    "savol": "The book is new. ___ is on the table.",
+    "A": "It",
+    "B": "He",
+    "C": "They",
+    "D": "She",
+    "javob": "A"
+  },
+  {
+    "savol": "Jasur and I are classmates. ___ study together.",
+    "A": "We",
+    "B": "They",
+    "C": "He",
+    "D": "She",
+    "javob": "A"
+  },
+  {
+    "savol": "Pavel is from Russia. ___ speaks Russian.",
+    "A": "He",
+    "B": "She",
+    "C": "They",
+    "D": "It",
+    "javob": "A"
+  },
+  {
+    "savol": "Lola and Saida are friends. ___ are talking now.",
+    "A": "They",
+    "B": "We",
+    "C": "She",
+    "D": "He",
+    "javob": "A"
+  },
+  {
+    "savol": "My brother is tall. ___ plays basketball.",
+    "A": "He",
+    "B": "She",
+    "C": "They",
+    "D": "It",
+    "javob": "A"
+  },
+  {
+    "savol": "My sister is a singer. ___ sings very well.",
+    "A": "She",
+    "B": "He",
+    "C": "They",
+    "D": "It",
+    "javob": "A"
+  },
+  {
+    "savol": "Timur and Kamila are at school. ___ are teachers.",
+    "A": "They",
+    "B": "We",
+    "C": "He",
+    "D": "She",
+    "javob": "A"
+  },
+  {
+    "savol": "This computer is old. ___ works slowly.",
+    "A": "It",
+    "B": "They",
+    "C": "He",
+    "D": "She",
+    "javob": "A"
+  },
+  {
+    "savol": "You and I are late. ___ should hurry.",
+    "A": "We",
+    "B": "They",
+    "C": "He",
+    "D": "She",
+    "javob": "A"
+  },
+  {
+    "savol": "Igor is my friend. ___ lives in Tashkent.",
+    "A": "He",
+    "B": "She",
+    "C": "They",
+    "D": "It",
+    "javob": "A"
+  },
+  {
+    "savol": "Farida and I are ready. ___ can start now.",
+    "A": "We",
+    "B": "They",
+    "C": "He",
+    "D": "She",
+    "javob": "A"
+  },
+  {
+    "savol": "Ali is ___ than Bekzod.",
+    "A": "taller",
+    "B": "tall",
+    "C": "tallest",
+    "D": "more tall",
+    "javob": "A"
+  },
+  {
+    "savol": "Nilufar is ___ than her sister.",
+    "A": "smarter",
+    "B": "smart",
+    "C": "smartest",
+    "D": "more smart",
+    "javob": "A"
+  },
+  {
+    "savol": "Jasur is ___ today than yesterday.",
+    "A": "happier",
+    "B": "happy",
+    "C": "happiest",
+    "D": "more happy",
+    "javob": "A"
+  },
+  {
+    "savol": "Laylo is ___ than Kamila in math.",
+    "A": "better",
+    "B": "good",
+    "C": "best",
+    "D": "more good",
+    "javob": "A"
+  },
+  {
+    "savol": "Pavel is ___ than Igor.",
+    "A": "stronger",
+    "B": "strong",
+    "C": "strongest",
+    "D": "more strong",
+    "javob": "A"
+  },
+  {
+    "savol": "Saida is ___ than Lola.",
+    "A": "more beautiful",
+    "B": "most beautiful",
+    "C": "beautiful",
+    "D": "beautifuller",
+    "javob": "A"
+  },
+  {
+    "savol": "Timur is ___ now than last year.",
+    "A": "faster",
+    "B": "fast",
+    "C": "fastest",
+    "D": "more fast",
+    "javob": "A"
+  },
+  {
+    "savol": "Valentina is ___ than her classmates.",
+    "A": "more responsible",
+    "B": "most responsible",
+    "C": "responsible",
+    "D": "responsibler",
+    "javob": "A"
+  },
+  {
+    "savol": "Farida is ___ than Jasmina.",
+    "A": "older",
+    "B": "old",
+    "C": "oldest",
+    "D": "more old",
+    "javob": "A"
+  },
+  {
+    "savol": "Bobur is ___ at English than Ali.",
+    "A": "more confident",
+    "B": "confident",
+    "C": "most confident",
+    "D": "confider",
+    "javob": "A"
+  },
+  {
+    "savol": "Rustam is ___ than before.",
+    "A": "healthier",
+    "B": "healthy",
+    "C": "healthiest",
+    "D": "more healthy",
+    "javob": "A"
+  },
+  {
+    "savol": "Kamila is ___ than her brother.",
+    "A": "more patient",
+    "B": "most patient",
+    "C": "patient",
+    "D": "patienter",
+    "javob": "A"
+  },
+  {
+    "savol": "Igor is ___ than Pavel in reading.",
+    "A": "quicker",
+    "B": "quick",
+    "C": "quickest",
+    "D": "more quick",
+    "javob": "A"
+  },
+  {
+    "savol": "Jasur is ___ than Timur at sports.",
+    "A": "more active",
+    "B": "most active",
+    "C": "active",
+    "D": "activer",
+    "javob": "A"
+  },
+  {
+    "savol": "Lola is ___ than Saida today.",
+    "A": "busier",
+    "B": "busy",
+    "C": "busiest",
+    "D": "more busy",
+    "javob": "A"
+  },
+  {
+    "savol": "Ali is ___ student in the class.",
+    "A": "the smartest",
+    "B": "the smarter",
+    "C": "smart",
+    "D": "smartest",
+    "javob": "A"
+  },
+  {
+    "savol": "Nilufar is ___ singer in her family.",
+    "A": "the best",
+    "B": "better",
+    "C": "good",
+    "D": "the goodest",
+    "javob": "A"
+  },
+  {
+    "savol": "Jasur is ___ player on the team.",
+    "A": "the fastest",
+    "B": "faster",
+    "C": "fast",
+    "D": "the more fast",
+    "javob": "A"
+  },
+  {
+    "savol": "Laylo is ___ girl in the group.",
+    "A": "the kindest",
+    "B": "kinder",
+    "C": "kind",
+    "D": "the more kind",
+    "javob": "A"
+  },
+  {
+    "savol": "Bekzod is ___ boy in the neighborhood.",
+    "A": "the tallest",
+    "B": "taller",
+    "C": "tall",
+    "D": "the more tall",
+    "javob": "A"
+  },
+  {
+    "savol": "Kamila is ___ student in math.",
+    "A": "the most intelligent",
+    "B": "the intelligent",
+    "C": "more intelligent",
+    "D": "intelligent",
+    "javob": "A"
+  },
+  {
+    "savol": "Valentina is ___ daughter in the family.",
+    "A": "the youngest",
+    "B": "younger",
+    "C": "young",
+    "D": "the more young",
+    "javob": "A"
+  },
+  {
+    "savol": "Timur is ___ runner in the competition.",
+    "A": "the strongest",
+    "B": "stronger",
+    "C": "strong",
+    "D": "the more strong",
+    "javob": "A"
+  },
+  {
+    "savol": "Saida is ___ person I know.",
+    "A": "the most patient",
+    "B": "more patient",
+    "C": "patient",
+    "D": "the patientest",
+    "javob": "A"
+  },
+  {
+    "savol": "Igor is ___ driver among his friends.",
+    "A": "the safest",
+    "B": "safer",
+    "C": "safe",
+    "D": "the more safe",
+    "javob": "A"
+  },
+  {
+    "savol": "Farida is ___ worker in the office.",
+    "A": "the most responsible",
+    "B": "responsible",
+    "C": "more responsible",
+    "D": "the responsible",
+    "javob": "A"
+  },
+  {
+    "savol": "Pavel is ___ boy in the class.",
+    "A": "the funniest",
+    "B": "funnier",
+    "C": "funny",
+    "D": "the more funny",
+    "javob": "A"
+  }
+]
