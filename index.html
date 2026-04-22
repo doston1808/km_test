@@ -254,10 +254,6 @@
                     class="nav-btn flex-1 bg-slate-100 text-slate-400 py-3 rounded-xl font-bold text-xs md:text-sm transition-all active:scale-95 disabled:opacity-40">
                     Ortga
                 </button>
-                <button id="next-btn" onclick="nextQuestion()"
-                    class="nav-btn flex-[1.5] bg-blue-600 text-white py-3 rounded-xl font-bold text-xs md:text-sm shadow-lg transition-all active:scale-95">
-                    Keyingi
-                </button>
                 <button id="finish-early-btn" onclick="checkAndFinishQuiz()"
                     class="nav-btn flex-1 bg-red-50 text-red-600 py-3 rounded-xl font-bold text-xs md:text-sm border border-red-100 transition-all active:scale-95">
                     Yakunlash
@@ -306,10 +302,10 @@
                 "KM-MP(log)": ["Falsafa", "Mediasavodxonlik va axborot madaniyati", "Umumiy Psixologiya"],
                 "KM-NGT": ["Oliy matematika", "Kimyo", "O'zbekistonning eng yangi tarixi", "Fizika", "Ingliz tili", "Rus tili"],
                 "DAV-25": ["Odam anatomiyasi", "Tibbiy biologiya"],
-                "OHI-25": ["Odam anatomiyasi", "Tibbiy biologiya", "O'zbek (rus) tili", "Tibbiy kimyo", "Tibbiyotda axborot texnologiyalari"],
+                "OHI-25": ["Odam anatomiyasi", "Tibbiy biologiya", "O'zbek (rus) tili", "Tibbiy kimyo", "Tibbiyotda axborot texnologiyalari", "Lotin tili va tibbiy terminologiya", "O'zbek tilini sohada qo'llash"],
                 "KM-BIO": ["Botanika", "O’zbekistonning eng yangi tarixi", "Oliy matematika", "Sitologiya, gistologiya", "Umumiy kimyo va fizika", "Umumiy psixologiya"],
-                "KM-MT": [],
-                "KM-BT": []
+                "KM-MT": ["Bolalar psixologiyasi va psixodiagnostikasi", "Bolalarni sahnalashtirish va ijodiy faoliyatga o'rgatish", "Rivojlantiruvchi markazlarni tashkil qilish texnologiyasi", "Mediasavodxonlik va axborot madaniyat", "Ilk va maktabgacha yoshdagi bolalar pedagogikasi", "Bolalarning ijtimoiy moslashuvi"],
+                "KM-BT": ["Amaliy rus tili", "Boshlang'ich matematika kursi nazariyasi", "Mediasavodxonlik", "O`zbek tilining sohada qo'llanilishi", "O’zbekistonning eng yangi tarixi", "Ona tili", "Umumiy psixologiya"]
             },
             "Magistratura": {
                 "MM-IQ": ["Maxsus fanlar o`qitish metodikasi", "Ekonometrika", "Ilmiy tadqiqot metodologiyasi", "Mikroiqtisodiyot"]
@@ -326,6 +322,7 @@
         let currentSubject = '';
 
         // Timer va Auto-advance o'zgaruvchilari
+        let autoAdvanceTimeout = null;
         let quizTimer = null;
         let timeRemaining = 35 * 60; // 35 daqiqa (soniyalarda)
 
@@ -424,6 +421,7 @@
 
                 btn.innerText = i + 1;
                 btn.onclick = () => {
+                    clearTimeout(autoAdvanceTimeout);
                     currentIndex = i;
                     showQuestion(); 
                 };
@@ -555,6 +553,7 @@
         }
 
         function executeGoBackToSubjects() {
+            clearTimeout(autoAdvanceTimeout);
             stopTimer();
 
             document.getElementById('quiz-screen').classList.add('hidden');
@@ -712,15 +711,10 @@
             const optionsBox = document.getElementById('options-container');
             const feedback = document.getElementById('feedback');
             const prevBtn = document.getElementById('prev-btn');
-            const nextBtn = document.getElementById('next-btn');
 
             optionsBox.innerHTML = '';
             feedback.classList.add('hidden');
             prevBtn.disabled = currentIndex === 0;
-
-            // Keyingi tugmasi oxirgi savolda "Natijani ko'rish" ga o'zgaradi
-            nextBtn.classList.remove('hidden');
-            nextBtn.innerText = (currentIndex === quizQuestions.length - 1) ? "Natijani ko'rish" : "Keyingi";
 
             data.options.forEach((opt, i) => {
                 const btn = document.createElement('button');
@@ -736,9 +730,19 @@
                 `;
 
                 if (userAnswer !== null) {
-                    btn.disabled = true;
                     if (opt === data.correct) btn.classList.add('correct');
                     if (opt === userAnswer && opt !== data.correct) btn.classList.add('wrong');
+                    
+                    // Oldingi savolni ko'rayotganda istalgan variant bosilsa, oldinga o'tib ketish
+                    btn.onclick = () => {
+                        clearTimeout(autoAdvanceTimeout);
+                        if (currentIndex < quizQuestions.length - 1) {
+                            currentIndex++;
+                            showQuestion();
+                        } else {
+                            checkAndFinishQuiz();
+                        }
+                    };
                 } else {
                     btn.onclick = () => checkAnswer(btn, opt);
                 }
@@ -747,19 +751,30 @@
 
             if (userAnswer !== null) {
                 const isCorrect = userAnswer === data.correct;
-                showStatus(isCorrect ? "To'g'ri! 🌟" : "Noto'g'ri ❌", isCorrect ? 'correct' : 'error');
+                showStatus(isCorrect ? "To'g'ri! 🌟 (Oldinga o'tish uchun bosing)" : "Noto'g'ri ❌ (Oldinga o'tish uchun bosing)", isCorrect ? 'correct' : 'error');
             }
 
             typesetMath();
         }
 
         function checkAnswer(btn, selected) {
+            clearTimeout(autoAdvanceTimeout);
             const data = quizQuestions[currentIndex];
             const isCorrect = selected === data.correct;
             userAnswers[currentIndex] = selected;
 
             const allBtns = document.querySelectorAll('.option-btn');
-            allBtns.forEach(b => b.disabled = true);
+            allBtns.forEach(b => {
+                b.onclick = () => {
+                    clearTimeout(autoAdvanceTimeout);
+                    if (currentIndex < quizQuestions.length - 1) {
+                        currentIndex++;
+                        showQuestion();
+                    } else {
+                        checkAndFinishQuiz();
+                    }
+                };
+            });
 
             if (isCorrect) {
                 btn.classList.add('correct');
@@ -777,18 +792,20 @@
             
             const answeredCount = userAnswers.filter(a => a !== null).length;
             document.getElementById('progress-bar').style.width = ((answeredCount / quizQuestions.length) * 100) + '%';
-        }
 
-        function nextQuestion() {
-            if (currentIndex < quizQuestions.length - 1) {
-                currentIndex++;
-                showQuestion();
-            } else {
-                checkAndFinishQuiz();
-            }
+            // Avtomatik keyingi savolga o'tish
+            autoAdvanceTimeout = setTimeout(() => {
+                if (currentIndex < quizQuestions.length - 1) {
+                    currentIndex++;
+                    showQuestion();
+                } else {
+                    checkAndFinishQuiz();
+                }
+            }, 1200);
         }
 
         function prevQuestion() {
+            clearTimeout(autoAdvanceTimeout);
             if (currentIndex > 0) {
                 currentIndex--;
                 showQuestion();
@@ -813,6 +830,7 @@
         }
 
         function finishQuiz() {
+            clearTimeout(autoAdvanceTimeout);
             stopTimer();
 
             document.getElementById('quiz-screen').classList.add('hidden');
@@ -839,6 +857,7 @@
         }
 
         function goHome() {
+            clearTimeout(autoAdvanceTimeout);
             stopTimer();
 
             document.getElementById('quiz-screen').classList.add('hidden');
