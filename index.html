@@ -80,7 +80,7 @@
             animation: fadeIn 0.3s ease-out forwards;
         }
 
-        /* YANGLI QISM: Scrollbar'ni yashirish uchun */
+        /* Scrollbar'ni yashirish uchun */
         .scrollbar-hide::-webkit-scrollbar {
             display: none;
         }
@@ -88,6 +88,31 @@
         .scrollbar-hide {
             -ms-overflow-style: none;
             scrollbar-width: none;
+        }
+
+        /* Matnlar toshib ketmasligi uchun */
+        .break-words-custom {
+            word-wrap: break-word;
+            overflow-wrap: break-word;
+            -webkit-hyphens: auto;
+            hyphens: auto;
+        }
+
+        /* MathJax formulalari ekranga sig'ishi uchun */
+        mjx-container {
+            display: inline-block !important;
+            margin: 0 2px;
+            max-width: 100%;
+            overflow-x: auto;
+            overflow-y: hidden;
+            vertical-align: middle;
+        }
+        
+        mjx-container[display="true"] {
+            display: block !important;
+            overflow-x: auto;
+            overflow-y: hidden;
+            max-width: 100%;
         }
 
         @media (max-width: 480px) {
@@ -104,24 +129,19 @@
             }
 
             .nav-btn {
-                font-size: 0.7rem !important;
-                padding: 0.75rem 0.25rem !important;
+                font-size: 0.75rem !important;
+                padding: 0.75rem 0.5rem !important;
             }
-        }
-
-        mjx-container {
-            display: inline-block !important;
-            margin: 0 2px;
         }
     </style>
 </head>
 
-<body class="min-h-screen text-slate-900">
+<body class="min-h-screen text-slate-900 flex flex-col">
 
-    <div class="max-w-2xl mx-auto px-3 py-4 md:py-10">
+    <div class="max-w-2xl mx-auto px-3 py-4 w-full flex-1 md:py-10">
         <!-- Header -->
         <header class="sticky top-2 z-40 glass-card rounded-2xl p-3 shadow-md mb-6 flex items-center justify-between">
-            <div class="flex items-center gap-2 overflow-hidden">
+            <div class="flex items-center gap-2 overflow-hidden flex-1 mr-2">
                 <button id="back-home-btn" onclick="goHome()"
                     class="hidden w-9 h-9 bg-slate-100 hover:bg-slate-200 rounded-lg flex items-center justify-center text-slate-600 flex-shrink-0 transition-colors">
                     <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5" fill="none" viewBox="0 0 24 24"
@@ -137,21 +157,21 @@
                             d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253" />
                     </svg>
                 </div>
-                <div class="overflow-hidden">
+                <div class="overflow-hidden min-w-0">
                     <h1 class="font-extrabold text-sm md:text-lg truncate">Testlar</h1>
                     <p id="sub-title"
-                        class="text-[8px] md:text-[10px] uppercase font-bold text-slate-400 tracking-tighter">
+                        class="text-[8px] md:text-[10px] uppercase font-bold text-slate-400 tracking-tighter truncate">
                         Ta'lim darajasini tanlang
                     </p>
                 </div>
             </div>
-            <div class="flex items-center gap-2">
+            <div class="flex items-center gap-1.5 flex-shrink-0">
                 <div id="timer-badge"
-                    class="hidden px-2 py-1 bg-red-50 text-red-600 rounded-lg font-bold text-[10px] md:text-sm whitespace-nowrap border border-red-100 flex items-center gap-1 transition-colors">
+                    class="hidden px-2 py-1 bg-red-50 text-red-600 rounded-lg font-bold text-[10px] md:text-sm border border-red-100 flex items-center gap-1 transition-colors">
                     ⏱ <span id="time-left">35:00</span>
                 </div>
                 <div id="quiz-badge"
-                    class="hidden px-2 py-1 bg-blue-50 text-blue-600 rounded-lg font-bold text-[10px] md:text-sm whitespace-nowrap">
+                    class="hidden px-2 py-1 bg-blue-50 text-blue-600 rounded-lg font-bold text-[10px] md:text-sm">
                     <span id="current-badge">1</span>/<span id="total-badge">35</span>
                 </div>
             </div>
@@ -159,29 +179,29 @@
 
         <!-- Degree Screen -->
         <div id="degree-screen" class="animate-fade">
-            <div class="bg-white rounded-3xl p-5 md:p-8 shadow-sm border border-slate-100 relative overflow-hidden">
+            <div class="bg-white rounded-3xl p-4 md:p-8 shadow-sm border border-slate-100 relative overflow-hidden">
                 <div class="absolute top-0 left-0 w-full h-1 bg-blue-600"></div>
-                <h2 class="text-lg md:text-xl font-extrabold text-slate-800 mb-5">Ta'lim darajasini tanlang:</h2>
+                <h2 class="text-lg md:text-xl font-extrabold text-slate-800 mb-4 md:mb-5 break-words-custom">Ta'lim darajasini tanlang:</h2>
                 <div class="space-y-3">
                     <button onclick="selectDegree('Bakalavriat')"
-                        class="w-full bg-white hover:bg-slate-50 border-2 border-blue-50 p-4 rounded-2xl text-left transition-all active:scale-95 flex items-center justify-between group shadow-sm">
-                        <div class="pr-2">
+                        class="w-full bg-white hover:bg-slate-50 border-2 border-blue-50 p-3.5 md:p-4 rounded-2xl text-left transition-all active:scale-95 flex items-center justify-between group shadow-sm">
+                        <div class="pr-2 min-w-0">
                             <h3
-                                class="subject-btn-title font-bold text-slate-800 group-hover:text-blue-600 transition-colors leading-tight">
+                                class="subject-btn-title font-bold text-slate-800 group-hover:text-blue-600 transition-colors leading-tight truncate">
                                 Bakalavriat</h3>
-                            <p class="text-[10px] text-slate-400 mt-1">Bakalavr yo'nalishlari</p>
+                            <p class="text-[10px] text-slate-400 mt-1 truncate">Bakalavr yo'nalishlari</p>
                         </div>
                         <div
                             class="w-8 h-8 rounded-lg bg-blue-50 flex items-center justify-center text-blue-600 flex-shrink-0">
                             →</div>
                     </button>
                     <button onclick="selectDegree('Magistratura')"
-                        class="w-full bg-white hover:bg-slate-50 border-2 border-blue-50 p-4 rounded-2xl text-left transition-all active:scale-95 flex items-center justify-between group shadow-sm">
-                        <div class="pr-2">
+                        class="w-full bg-white hover:bg-slate-50 border-2 border-blue-50 p-3.5 md:p-4 rounded-2xl text-left transition-all active:scale-95 flex items-center justify-between group shadow-sm">
+                        <div class="pr-2 min-w-0">
                             <h3
-                                class="subject-btn-title font-bold text-slate-800 group-hover:text-blue-600 transition-colors leading-tight">
+                                class="subject-btn-title font-bold text-slate-800 group-hover:text-blue-600 transition-colors leading-tight truncate">
                                 Magistratura</h3>
-                            <p class="text-[10px] text-slate-400 mt-1">Magistratura mutaxassisliklari</p>
+                            <p class="text-[10px] text-slate-400 mt-1 truncate">Magistratura mutaxassisliklari</p>
                         </div>
                         <div
                             class="w-8 h-8 rounded-lg bg-blue-50 flex items-center justify-center text-blue-600 flex-shrink-0">
@@ -193,9 +213,9 @@
 
         <!-- Directions Screen -->
         <div id="directions-screen" class="hidden animate-fade">
-            <div class="bg-white rounded-3xl p-5 md:p-8 shadow-sm border border-slate-100 relative overflow-hidden">
+            <div class="bg-white rounded-3xl p-4 md:p-8 shadow-sm border border-slate-100 relative overflow-hidden">
                 <div class="absolute top-0 left-0 w-full h-1 bg-blue-600"></div>
-                <h2 class="text-lg md:text-xl font-extrabold text-slate-800 mb-5">Yo'nalishni tanlang:</h2>
+                <h2 class="text-lg md:text-xl font-extrabold text-slate-800 mb-4 md:mb-5 break-words-custom">Yo'nalishni tanlang:</h2>
                 <div id="direction-list" class="space-y-3">
                     <!-- Dynamic Directions Render Here -->
                 </div>
@@ -204,9 +224,9 @@
 
         <!-- Subjects Screen -->
         <div id="subjects-screen" class="hidden animate-fade">
-            <div class="bg-white rounded-3xl p-5 md:p-8 shadow-sm border border-slate-100 relative overflow-hidden">
+            <div class="bg-white rounded-3xl p-4 md:p-8 shadow-sm border border-slate-100 relative overflow-hidden">
                 <div class="absolute top-0 left-0 w-full h-1 bg-blue-600"></div>
-                <h2 class="text-lg md:text-xl font-extrabold text-slate-800 mb-5">Fanni tanlang:</h2>
+                <h2 class="text-lg md:text-xl font-extrabold text-slate-800 mb-4 md:mb-5 break-words-custom">Fanni tanlang:</h2>
 
                 <div id="subject-list" class="space-y-3">
                     <!-- Dynamic Subjects Render Here -->
@@ -229,29 +249,30 @@
         </div>
 
         <!-- Quiz Screen -->
-        <div id="quiz-screen" class="hidden space-y-4">
+        <div id="quiz-screen" class="hidden space-y-4 w-full max-w-full overflow-hidden">
             <div class="w-full bg-slate-200 h-1 rounded-full overflow-hidden">
                 <div id="progress-bar" class="h-full bg-blue-600 transition-all duration-300" style="width: 0%"></div>
             </div>
 
-            <!-- YANGLI QISM: Savollar navigatsiyasi -->
-            <div id="question-nav" class="flex gap-2 overflow-x-auto py-2 px-1 scrollbar-hide snap-x items-center">
+            <!-- Savollar navigatsiyasi -->
+            <div id="question-nav" class="flex gap-2 overflow-x-auto py-2 px-1 scrollbar-hide snap-x items-center w-full">
             </div>
 
+            <!-- Savol qismi gorizontal skroll xususiyati bilan -->
             <div
-                class="bg-white rounded-2xl p-5 md:p-6 shadow-sm border border-slate-100 min-h-[100px] flex items-center">
+                class="bg-white rounded-2xl p-4 md:p-6 shadow-sm border border-slate-100 min-h-[90px] flex items-center overflow-x-auto w-full">
                 <h3 id="question-text"
-                    class="question-text text-base md:text-lg font-bold text-slate-800 leading-tight"></h3>
+                    class="question-text text-base md:text-lg font-bold text-slate-800 leading-relaxed w-full break-words-custom"></h3>
             </div>
 
-            <div id="options-container" class="grid gap-2"></div>
+            <div id="options-container" class="grid gap-2 w-full"></div>
 
-            <div id="feedback" class="hidden animate-fade p-2.5 rounded-xl text-center font-bold text-sm"></div>
+            <div id="feedback" class="hidden animate-fade p-2.5 rounded-xl text-center font-bold text-sm break-words-custom w-full"></div>
 
             <!-- Tugmalar bir qatorda -->
-            <div class="flex flex-row gap-2">
+            <div class="flex flex-row gap-2 w-full pt-2">
                 <button id="finish-early-btn" onclick="checkAndFinishQuiz()"
-                    class="nav-btn w-full bg-red-50 text-red-600 py-3 rounded-xl font-bold text-xs md:text-sm border border-red-100 transition-all active:scale-95">
+                    class="nav-btn w-full bg-red-50 text-red-600 py-3.5 rounded-xl font-bold text-sm border border-red-100 transition-all active:scale-95">
                     Testni yakunlash
                 </button>
             </div>
@@ -267,23 +288,23 @@
                     <span id="score-percent"
                         class="text-2xl md:text-3xl font-black text-blue-600 leading-none">0%</span>
                 </div>
-                <p id="result-summary" class="text-sm text-slate-500 mb-6 font-medium"></p>
+                <p id="result-summary" class="text-sm text-slate-500 mb-6 font-medium break-words-custom"></p>
                 <div class="grid grid-cols-2 gap-2">
                     <button onclick="restartQuiz()"
-                        class="bg-slate-900 text-white py-3 rounded-xl font-bold text-sm">Qayta urinish</button>
+                        class="bg-slate-900 text-white py-3 px-2 rounded-xl font-bold text-sm transition-transform active:scale-95 truncate">Qayta urinish</button>
                     <button onclick="goHome()"
-                        class="bg-slate-100 text-slate-600 py-3 rounded-xl font-bold text-sm">Menyu</button>
+                        class="bg-slate-100 text-slate-600 py-3 px-2 rounded-xl font-bold text-sm transition-transform active:scale-95 truncate">Menyu</button>
                 </div>
             </div>
         </div>
     </div>
 
-    <!-- Custom Modal Oynasi (Tasdiqlash uchun) -->
+    <!-- Custom Modal Oynasi (Tasdiqlash uchun) - Moslashuvchan qilingan -->
     <div id="custom-modal" class="hidden fixed inset-0 z-50 flex items-center justify-center bg-slate-900/40 backdrop-blur-sm p-4">
-        <div class="bg-white rounded-3xl p-6 md:p-8 max-w-sm w-full shadow-2xl animate-fade">
-            <h3 id="modal-title" class="text-lg font-extrabold text-slate-800 mb-2">Tasdiqlash</h3>
-            <p id="modal-desc" class="text-slate-500 text-sm mb-6 leading-relaxed"></p>
-            <div id="modal-buttons" class="flex gap-3">
+        <div class="bg-white rounded-3xl p-6 md:p-8 max-w-[90%] sm:max-w-sm w-full shadow-2xl animate-fade max-h-[85vh] overflow-y-auto flex flex-col">
+            <h3 id="modal-title" class="text-lg font-extrabold text-slate-800 mb-2 break-words-custom">Tasdiqlash</h3>
+            <p id="modal-desc" class="text-slate-500 text-sm mb-6 leading-relaxed break-words-custom overflow-y-auto"></p>
+            <div id="modal-buttons" class="flex gap-2 w-full mt-auto">
                 <!-- Tugmalar dinamik qo'shiladi -->
             </div>
         </div>
@@ -375,7 +396,7 @@
             
             buttons.forEach(btn => {
                 const button = document.createElement('button');
-                button.className = `flex-1 py-3 px-2 rounded-xl font-bold text-xs md:text-sm transition-all active:scale-95 ${btn.styleClass}`;
+                button.className = `flex-1 py-3 px-2 rounded-xl font-bold text-xs md:text-sm transition-all active:scale-95 break-words-custom w-full ${btn.styleClass}`;
                 button.innerText = btn.text;
                 button.onclick = () => {
                     closeModal();
@@ -442,7 +463,7 @@
         function showStatus(text, type = 'info') {
             const feedback = document.getElementById('feedback');
             feedback.innerText = text;
-            feedback.className = `p-2.5 rounded-xl text-center font-bold text-sm block animate-fade ${type === 'correct' ? 'bg-emerald-50 text-emerald-600' : type === 'error' ? 'bg-red-50 text-red-600' : 'bg-blue-50 text-blue-600'}`;
+            feedback.className = `p-2.5 rounded-xl text-center font-bold text-sm block animate-fade break-words-custom ${type === 'correct' ? 'bg-emerald-50 text-emerald-600' : type === 'error' ? 'bg-red-50 text-red-600' : 'bg-blue-50 text-blue-600'}`;
             feedback.classList.remove('hidden');
         }
 
@@ -464,13 +485,13 @@
 
             directions.forEach(dir => {
                 const btn = document.createElement('button');
-                btn.className = 'w-full bg-white hover:bg-slate-50 border-2 border-blue-50 p-4 rounded-2xl text-left transition-all active:scale-95 flex items-center justify-between group shadow-sm mb-3';
+                btn.className = 'w-full bg-white hover:bg-slate-50 border-2 border-blue-50 p-3.5 md:p-4 rounded-2xl text-left transition-all active:scale-95 flex items-center justify-between group shadow-sm mb-3';
                 btn.innerHTML = `
-                    <div class="pr-2">
-                        <h3 class="subject-btn-title font-bold text-slate-800 group-hover:text-blue-600 transition-colors leading-tight">${dir}</h3>
-                        <p class="text-[10px] text-slate-400 mt-1">Yo'nalishga kirish</p>
+                    <div class="pr-2 min-w-0 flex-1">
+                        <h3 class="subject-btn-title font-bold text-slate-800 group-hover:text-blue-600 transition-colors leading-tight break-words-custom">${dir}</h3>
+                        <p class="text-[10px] text-slate-400 mt-1 truncate">Yo'nalishga kirish</p>
                     </div>
-                    <div class="w-8 h-8 rounded-lg bg-blue-50 flex items-center justify-center text-blue-600 flex-shrink-0">→</div>
+                    <div class="w-8 h-8 rounded-lg bg-blue-50 flex items-center justify-center text-blue-600 flex-shrink-0 ml-2">→</div>
                 `;
                 btn.onclick = () => selectDirection(dir);
                 dirList.appendChild(btn);
@@ -507,13 +528,13 @@
             } else {
                 subjects.forEach(subj => {
                     const btn = document.createElement('button');
-                    btn.className = 'w-full bg-white hover:bg-slate-50 border-2 border-blue-50 p-4 rounded-2xl text-left transition-all active:scale-95 flex items-center justify-between group shadow-sm mb-3';
+                    btn.className = 'w-full bg-white hover:bg-slate-50 border-2 border-blue-50 p-3.5 md:p-4 rounded-2xl text-left transition-all active:scale-95 flex items-center justify-between group shadow-sm mb-3';
                     btn.innerHTML = `
-                        <div class="pr-2">
-                            <h3 class="subject-btn-title font-bold text-slate-800 group-hover:text-blue-600 transition-colors leading-tight">${subj}</h3>
-                            <p class="text-[10px] text-slate-400 mt-1">Testni boshlash</p>
+                        <div class="pr-2 min-w-0 flex-1">
+                            <h3 class="subject-btn-title font-bold text-slate-800 group-hover:text-blue-600 transition-colors leading-tight break-words-custom">${subj}</h3>
+                            <p class="text-[10px] text-slate-400 mt-1 truncate">Testni boshlash</p>
                         </div>
-                        <div class="w-8 h-8 rounded-lg bg-blue-50 flex items-center justify-center text-blue-600 flex-shrink-0">→</div>
+                        <div class="w-8 h-8 rounded-lg bg-blue-50 flex items-center justify-center text-blue-600 flex-shrink-0 ml-2">→</div>
                     `;
                     btn.onclick = () => startQuiz(subj);
                     subjectsList.appendChild(btn);
@@ -712,7 +733,7 @@
 
             data.options.forEach((opt, i) => {
                 const btn = document.createElement('button');
-                btn.className = 'option-btn w-full text-left p-3.5 rounded-xl bg-white border border-slate-200 text-slate-700 font-semibold text-sm flex items-center gap-3 active:scale-95';
+                btn.className = 'option-btn w-full text-left p-3 md:p-3.5 rounded-xl bg-white border border-slate-200 text-slate-700 font-semibold text-sm flex items-center gap-2 md:gap-3 active:scale-95';
 
                 btn.dataset.value = opt;
 
@@ -720,7 +741,7 @@
 
                 btn.innerHTML = `
                     <span class="w-8 h-8 rounded-lg bg-slate-50 flex items-center justify-center text-slate-400 font-bold border border-slate-100 flex-shrink-0 text-xs">${letter}</span>
-                    <span class="flex-1 leading-tight option-text">${opt}</span>
+                    <span class="flex-1 leading-snug option-text break-words-custom min-w-0">${opt}</span>
                 `;
 
                 if (userAnswer !== null) {
