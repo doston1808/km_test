@@ -657,6 +657,13 @@
     </div>
 
     <script>
+        // ========== YORDAMCHI: APOSTROFLARNI TO'G'RILASH ==========
+        // Har xil qing'ir-qiyshiq tutuq belgilarini faqatgina bitta standart variantga (') o'tkazadi
+        function fixUzbekChars(str) {
+            if (!str) return "";
+            return String(str).replace(/[`‘’ʻ]/g, "'");
+        }
+
         // ========== MA'LUMOTLAR BAZASI ==========
         const curriculumData = {
             "Bakalavriat": {
@@ -668,8 +675,9 @@
                 "OHI-25": ["Odam anatomiyasi", "Tibbiy biologiya", "O'zbek (rus) tili", "Tibbiy kimyo", "Tibbiyotda axborot texnologiyalari", "Lotin tili va tibbiy terminologiya", "O'zbek tilini sohada qo'llash"],
                 "KM-BIO": ["Botanika", "O'zbekistonning eng yangi tarixi", "Oliy matematika", "Sitologiya, gistologiya", "Umumiy kimyo va fizika", "Umumiy psixologiya"],
                 "KM-MT": ["Bolalar psixologiyasi va psixodiagnostikasi", "Bolalarni sahnalashtirish va ijodiy faoliyatga o'rgatish", "Rivojlantiruvchi markazlarni tashkil qilish texnologiyasi", "Mediasavodxonlik va axborot madaniyat", "Ilk va maktabgacha yoshdagi bolalar pedagogikasi", "Bolalarning ijtimoiy moslashuvi"],
-                "KM-BT": ["Amaliy rus tili", "Boshlang'ich matematika kursi nazariyasi", "Mediasavodxonlik", "O`zbek tilining sohada qo'llanilishi", "O’zbekistonning eng yangi tarixi", "Ona tili", "Umumiy psixologiya"],
-                "KM-KDS": ["Amaliy rus tili", "Fizika", "Oliy matematika", "O'zbekiston eng yangi tarixi", "Xorijiy til"]
+                "KM-BT": ["Amaliy rus tili", "Boshlang'ich matematika kursi nazariyasi", "Mediasavodxonlik", "O'zbek tilining sohada qo'llanilishi", "O'zbekistonning eng yangi tarixi", "Ona tili", "Umumiy psixologiya"],
+                "KM-KDS": ["Amaliy rus tili", "Fizika", "Oliy matematika", "O'zbekiston eng yangi tarixi", "Xorijiy til"],
+                "KM-PS": ["Mutaxasislikga kirish", "Oliy matematika", "O'zbekistonning eng yangi tarixi", "Umumiy psixologiya", "Xorijiy til"]
             },
             "Magistratura": {
                 "MM-IQ": ["Maxsus fanlar o'qitish metodikasi", "Ekonometrika", "Ilmiy tadqiqot metodologiyasi", "Mikroiqtisodiyot"]
@@ -686,7 +694,7 @@
         };
 
         function getSubjectIcon(name) {
-            const lower = name.toLowerCase();
+            const lower = fixUzbekChars(name).toLowerCase();
             for (let key in subjectIcons) {
                 if (lower.includes(key)) return subjectIcons[key];
             }
@@ -881,7 +889,8 @@
                 { name: "Magistratura", desc: "Magistratura mutaxassisliklari", icon: "icon-award" }
             ];
             degrees.forEach((d, i) => {
-                container.appendChild(createMenuCard(d.name, d.desc, d.icon, () => selectDegree(d.name), i));
+                // UI da toza ko'rsatish
+                container.appendChild(createMenuCard(fixUzbekChars(d.name), d.desc, d.icon, () => selectDegree(d.name), i));
             });
         }
 
@@ -889,7 +898,7 @@
         function selectDegree(degree) {
             currentDegree = degree;
             showScreen('directions-screen');
-            updateHeader(true, goBackToDegree, degree.toUpperCase());
+            updateHeader(true, goBackToDegree, fixUzbekChars(degree).toUpperCase());
 
             const dirList = document.getElementById('direction-list');
             dirList.innerHTML = '';
@@ -902,7 +911,7 @@
 
             directions.forEach((dir, i) => {
                 const subCount = (curriculumData[degree][dir] || []).length;
-                dirList.appendChild(createMenuCard(dir, `Yo'nalishga kirish | ${subCount} ta fandan test mavjud`, 'icon-map-pin', () => selectDirection(dir), i));
+                dirList.appendChild(createMenuCard(fixUzbekChars(dir), `Yo'nalishga kirish | ${subCount} ta fandan test mavjud`, 'icon-map-pin', () => selectDirection(dir), i));
             });
         }
 
@@ -917,7 +926,7 @@
         function selectDirection(dir) {
             currentDirection = dir;
             showScreen('subjects-screen');
-            updateHeader(true, goBackToDirections, dir.toUpperCase());
+            updateHeader(true, goBackToDirections, fixUzbekChars(dir).toUpperCase());
 
             const subjectsList = document.getElementById('subject-list');
             subjectsList.innerHTML = '';
@@ -929,14 +938,15 @@
             } else {
                 subjects.forEach((subj, i) => {
                     const icon = getSubjectIcon(subj);
-                    subjectsList.appendChild(createMenuCard(subj, 'Testni boshlash', icon, () => startQuiz(subj), i));
+                    // UI ga chiroyli (' bilan) chiqaramiz, lekin ishlash logikasiga aslini yuboramiz
+                    subjectsList.appendChild(createMenuCard(fixUzbekChars(subj), 'Testni boshlash', icon, () => startQuiz(subj), i));
                 });
             }
         }
 
         function goBackToDirections() {
             showScreen('directions-screen');
-            updateHeader(true, goBackToDegree, currentDegree.toUpperCase());
+            updateHeader(true, goBackToDegree, fixUzbekChars(currentDegree).toUpperCase());
             currentDirection = '';
             currentSubject = '';
         }
@@ -961,7 +971,7 @@
             clearTimeout(autoAdvanceTimeout);
             stopTimer();
             showScreen('subjects-screen');
-            updateHeader(true, goBackToDirections, currentDirection.toUpperCase());
+            updateHeader(true, goBackToDirections, fixUzbekChars(currentDirection).toUpperCase());
             currentSubject = '';
             quizQuestions = [];
             userAnswers = [];
@@ -1013,6 +1023,39 @@
             return `${m}:${String(s).padStart(2, '0')}`;
         }
 
+        // ========== JSON FAYLNI QIDIRISH (Apostroflardan qat'iy nazar) ==========
+        async function fetchSubjectData(dir, subj) {
+            const encodedDir = dir.split(' ').join('%20');
+            
+            // Kompyuteringizda yoki serveringizda qanday apostrof ishlatilgan bo'lsa ham
+            // tizim ularni barini bitta-bitta sinab ko'radi
+            const vars = [
+                subj,
+                subj.replace(/['`‘’ʻ]/g, "'"),
+                subj.replace(/['`‘’ʻ]/g, "`"),
+                subj.replace(/['`‘’ʻ]/g, "’"),
+                subj.replace(/['`‘’ʻ]/g, "‘"),
+                subj.replace(/['`‘’ʻ]/g, "ʻ")
+            ];
+            
+            // Takroriylarni yo'q qilish
+            const uniqueVars = [...new Set(vars)];
+            
+            for (let variant of uniqueVars) {
+                const encodedSubj = variant.split(' ').join('%20');
+                const url = `./${encodedDir}/${encodedSubj}.json`;
+                try {
+                    const response = await fetch(url);
+                    if (response.ok) {
+                        return await response.json();
+                    }
+                } catch (e) {
+                    // Xatolikni inobatga olmaymiz, keyingi ehtimolni sinaymiz
+                }
+            }
+            throw new Error('Fayl topilmadi');
+        }
+
         // ========== TEST BOSHLASH ==========
         async function startQuiz(subjectName) {
             currentSubject = subjectName;
@@ -1024,14 +1067,9 @@
             spinner.classList.remove('hidden');
 
             try {
-                const encodedDir = currentDirection.split(' ').join('%20');
-                const encodedSubj = subjectName.split(' ').join('%20');
-                const url = `./${encodedDir}/${encodedSubj}.json`;
-                const response = await fetch(url);
-
-                if (!response.ok) throw new Error('Fayl topilmadi');
-
-                let data = await response.json();
+                // Yangilangan, xatolikda to'xtamaydigan qidiruv texnologiyasi
+                let data = await fetchSubjectData(currentDirection, subjectName);
+                
                 let rawQuestions = extractQuestions(data);
 
                 if (rawQuestions.length === 0) throw new Error("Savollar topilmadi");
@@ -1048,7 +1086,7 @@
                 userAnswers = Array(quizQuestions.length).fill(null);
 
                 showScreen('quiz-screen', 'animate-fade');
-                updateHeader(true, goBackToSubjects, subjectName.toUpperCase(), true, true);
+                updateHeader(true, goBackToSubjects, fixUzbekChars(subjectName).toUpperCase(), true, true);
                 document.getElementById('current-badge').innerText = '1';
                 document.getElementById('total-badge').innerText = quizQuestions.length;
 
@@ -1061,7 +1099,7 @@
                 console.error("Xatolik:", error);
                 showModal(
                     "Test mavjud emas",
-                    `<b>${currentDirection}</b> yo'nalishida <b>${subjectName}</b> fanidan testlar hozircha qo'shilmagan.`,
+                    `<b>${fixUzbekChars(currentDirection)}</b> yo'nalishida <b>${fixUzbekChars(subjectName)}</b> fanidan testlar topilmadi.`,
                     [{ text: "Tushunarli", styleClass: "background:var(--primary);color:#fff;", action: null }]
                 );
                 subjectList.classList.remove('hidden');
@@ -1086,7 +1124,7 @@
         function normalizeQuestion(item) {
             let questionText = "", correctText = "", options = [];
 
-            // Savol va javoblarni tozalash (Trim - probellarni qirqish)
+            // Savol va javoblarni o'qish
             if (item.savol && item.A) {
                 questionText = String(item.savol).trim();
                 let j = String(item.javob || "").trim();
@@ -1110,10 +1148,16 @@
 
             if (!questionText || options.length === 0) return null;
 
-            // Xatoliklarni oldini olish uchun "To'g'ri javob" aynan variantlar ro'yxatida bormi, yo'qmi tekshirish
+            // XATOLIKNI TO'G'RILASH: JSON ichidagi barcha savol, javob va variantlardagi
+            // tutuq belgilarini faqat standart (') ga o'tkazib yuboramiz. 
+            questionText = fixUzbekChars(questionText);
+            correctText = fixUzbekChars(correctText);
+            options = options.map(o => fixUzbekChars(o));
+
+            // Matnni topishni kafolatlash
             if (!options.includes(correctText)) {
                 let matched = options.find(o => o.toLowerCase() === correctText.toLowerCase());
-                if (matched) correctText = matched; // Kichik/Katta harf farqi bo'lsa to'g'rilash
+                if (matched) correctText = matched;
             }
 
             const shuffled = [...options].sort(() => Math.random() - 0.5);
