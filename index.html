@@ -24,43 +24,45 @@
 
         :root {
             --bg: #f0f4f8;
-            --card: rgba(255,255,255,0.92);
+            --card: rgba(255, 255, 255, 0.92);
             --card-solid: #ffffff;
-            --border: rgba(203,213,225,0.5);
+            --border: rgba(203, 213, 225, 0.5);
             --text: #0f172a;
             --text-sec: #475569;
             --text-muted: #94a3b8;
             --primary: #2563eb;
-            --primary-glow: rgba(37,99,235,0.15);
+            --primary-glow: rgba(37, 99, 235, 0.15);
             --success: #059669;
             --success-bg: #ecfdf5;
             --error: #dc2626;
             --error-bg: #fef2f2;
             --accent: #f59e0b;
-            --shadow: 0 1px 3px rgba(0,0,0,0.04), 0 4px 12px rgba(0,0,0,0.03);
-            --shadow-lg: 0 4px 24px rgba(0,0,0,0.07);
+            --shadow: 0 1px 3px rgba(0, 0, 0, 0.04), 0 4px 12px rgba(0, 0, 0, 0.03);
+            --shadow-lg: 0 4px 24px rgba(0, 0, 0, 0.07);
         }
 
         .dark {
             --bg: #0c1222;
-            --card: rgba(22,33,62,0.92);
+            --card: rgba(22, 33, 62, 0.92);
             --card-solid: #16213e;
-            --border: rgba(51,65,85,0.5);
+            --border: rgba(51, 65, 85, 0.5);
             --text: #e2e8f0;
             --text-sec: #94a3b8;
             --text-muted: #64748b;
             --primary: #3b82f6;
-            --primary-glow: rgba(59,130,246,0.15);
+            --primary-glow: rgba(59, 130, 246, 0.15);
             --success: #10b981;
-            --success-bg: rgba(16,185,129,0.1);
+            --success-bg: rgba(16, 185, 129, 0.1);
             --error: #f87171;
-            --error-bg: rgba(248,113,113,0.1);
+            --error-bg: rgba(248, 113, 113, 0.1);
             --accent: #fbbf24;
-            --shadow: 0 1px 3px rgba(0,0,0,0.2), 0 4px 12px rgba(0,0,0,0.15);
-            --shadow-lg: 0 4px 24px rgba(0,0,0,0.3);
+            --shadow: 0 1px 3px rgba(0, 0, 0, 0.2), 0 4px 12px rgba(0, 0, 0, 0.15);
+            --shadow-lg: 0 4px 24px rgba(0, 0, 0, 0.3);
         }
 
-        * { box-sizing: border-box; }
+        * {
+            box-sizing: border-box;
+        }
 
         body {
             font-family: 'Plus Jakarta Sans', sans-serif;
@@ -80,15 +82,20 @@
             width: 200%;
             height: 200%;
             background: radial-gradient(ellipse at 20% 20%, var(--primary-glow) 0%, transparent 50%),
-                        radial-gradient(ellipse at 80% 80%, rgba(245,158,11,0.06) 0%, transparent 50%);
+                radial-gradient(ellipse at 80% 80%, rgba(245, 158, 11, 0.06) 0%, transparent 50%);
             pointer-events: none;
             z-index: 0;
             animation: bgFloat 20s ease-in-out infinite alternate;
         }
 
         @keyframes bgFloat {
-            0% { transform: translate(0,0) rotate(0deg); }
-            100% { transform: translate(-3%,-3%) rotate(3deg); }
+            0% {
+                transform: translate(0, 0) rotate(0deg);
+            }
+
+            100% {
+                transform: translate(-3%, -3%) rotate(3deg);
+            }
         }
 
         .glass-card {
@@ -98,10 +105,13 @@
             box-shadow: var(--shadow);
         }
 
-        .screen { position: relative; z-index: 1; }
+        .screen {
+            position: relative;
+            z-index: 1;
+        }
 
         .option-btn {
-            transition: all 0.2s cubic-bezier(0.4,0,0.2,1);
+            transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
             word-wrap: break-word;
             background: var(--card-solid);
             border: 1.5px solid var(--border);
@@ -114,80 +124,171 @@
             transform: translateY(-1px);
         }
 
-        .option-btn:not(:disabled):active { transform: scale(0.98); }
+        .option-btn:not(:disabled):active {
+            transform: scale(0.98);
+        }
 
         .correct {
             background-color: var(--success) !important;
             color: #fff !important;
             border-color: var(--success) !important;
-            box-shadow: 0 0 0 3px rgba(5,150,105,0.2) !important;
+            box-shadow: 0 0 0 3px rgba(5, 150, 105, 0.2) !important;
         }
 
         .wrong {
             background-color: var(--error) !important;
             color: #fff !important;
             border-color: var(--error) !important;
-            box-shadow: 0 0 0 3px rgba(220,38,38,0.2) !important;
+            box-shadow: 0 0 0 3px rgba(220, 38, 38, 0.2) !important;
         }
 
         @keyframes fadeInUp {
-            from { opacity: 0; transform: translateY(12px); }
-            to { opacity: 1; transform: translateY(0); }
+            from {
+                opacity: 0;
+                transform: translateY(12px);
+            }
+
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
         }
+
         @keyframes fadeIn {
-            from { opacity: 0; }
-            to { opacity: 1; }
+            from {
+                opacity: 0;
+            }
+
+            to {
+                opacity: 1;
+            }
         }
+
         @keyframes scaleIn {
-            from { opacity: 0; transform: scale(0.95); }
-            to { opacity: 1; transform: scale(1); }
+            from {
+                opacity: 0;
+                transform: scale(0.95);
+            }
+
+            to {
+                opacity: 1;
+                transform: scale(1);
+            }
         }
+
         @keyframes slideInRight {
-            from { opacity: 0; transform: translateX(20px); }
-            to { opacity: 1; transform: translateX(0); }
+            from {
+                opacity: 0;
+                transform: translateX(20px);
+            }
+
+            to {
+                opacity: 1;
+                transform: translateX(0);
+            }
         }
+
         @keyframes slideInLeft {
-            from { opacity: 0; transform: translateX(-20px); }
-            to { opacity: 1; transform: translateX(0); }
+            from {
+                opacity: 0;
+                transform: translateX(-20px);
+            }
+
+            to {
+                opacity: 1;
+                transform: translateX(0);
+            }
         }
 
-        .animate-fade-up { animation: fadeInUp 0.35s ease-out forwards; }
-        .animate-fade { animation: fadeIn 0.3s ease-out forwards; }
-        .animate-scale { animation: scaleIn 0.3s ease-out forwards; }
-        .animate-slide-right { animation: slideInRight 0.3s ease-out forwards; }
-        .animate-slide-left { animation: slideInLeft 0.3s ease-out forwards; }
+        .animate-fade-up {
+            animation: fadeInUp 0.35s ease-out forwards;
+        }
 
-        .stagger-1 { animation-delay: 0.04s; opacity: 0; }
-        .stagger-2 { animation-delay: 0.08s; opacity: 0; }
-        .stagger-3 { animation-delay: 0.12s; opacity: 0; }
-        .stagger-4 { animation-delay: 0.16s; opacity: 0; }
-        .stagger-5 { animation-delay: 0.2s; opacity: 0; }
-        .stagger-6 { animation-delay: 0.24s; opacity: 0; }
-        .stagger-7 { animation-delay: 0.28s; opacity: 0; }
-        .stagger-8 { animation-delay: 0.32s; opacity: 0; }
+        .animate-fade {
+            animation: fadeIn 0.3s ease-out forwards;
+        }
+
+        .animate-scale {
+            animation: scaleIn 0.3s ease-out forwards;
+        }
+
+        .animate-slide-right {
+            animation: slideInRight 0.3s ease-out forwards;
+        }
+
+        .animate-slide-left {
+            animation: slideInLeft 0.3s ease-out forwards;
+        }
+
+        .stagger-1 {
+            animation-delay: 0.04s;
+            opacity: 0;
+        }
+
+        .stagger-2 {
+            animation-delay: 0.08s;
+            opacity: 0;
+        }
+
+        .stagger-3 {
+            animation-delay: 0.12s;
+            opacity: 0;
+        }
+
+        .stagger-4 {
+            animation-delay: 0.16s;
+            opacity: 0;
+        }
+
+        .stagger-5 {
+            animation-delay: 0.2s;
+            opacity: 0;
+        }
+
+        .stagger-6 {
+            animation-delay: 0.24s;
+            opacity: 0;
+        }
+
+        .stagger-7 {
+            animation-delay: 0.28s;
+            opacity: 0;
+        }
+
+        .stagger-8 {
+            animation-delay: 0.32s;
+            opacity: 0;
+        }
 
         .menu-card {
             background: var(--card-solid);
             border: 1.5px solid var(--border);
             transition: all 0.2s ease;
         }
+
         .menu-card:hover {
             border-color: var(--primary);
             box-shadow: 0 0 0 3px var(--primary-glow), var(--shadow);
             transform: translateY(-2px);
         }
-        .menu-card:active { transform: scale(0.97); }
+
+        .menu-card:active {
+            transform: scale(0.97);
+        }
 
         /* Navigator nuqtalar */
         #nav-dots::-webkit-scrollbar {
             display: none;
         }
+
         #nav-dots {
             -ms-overflow-style: none;
             scrollbar-width: none;
         }
+
         .nav-dot {
-            width: 40px; height: 40px;
+            width: 40px;
+            height: 40px;
             border-radius: 12px;
             background: var(--card-solid);
             border: 1px solid var(--border);
@@ -200,8 +301,9 @@
             transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
             cursor: pointer;
             flex-shrink: 0;
-            box-shadow: 0 1px 2px rgba(0,0,0,0.05);
+            box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
         }
+
         .nav-dot.active {
             background: var(--primary);
             color: #ffffff;
@@ -209,20 +311,34 @@
             transform: scale(1.1);
             box-shadow: 0 4px 12px var(--primary-glow);
         }
-        .nav-dot.answered-correct { background: var(--success); color: #fff; border-color: var(--success); }
-        .nav-dot.answered-wrong { background: var(--error); color: #fff; border-color: var(--error); }
+
+        .nav-dot.answered-correct {
+            background: var(--success);
+            color: #fff;
+            border-color: var(--success);
+        }
+
+        .nav-dot.answered-wrong {
+            background: var(--error);
+            color: #fff;
+            border-color: var(--error);
+        }
 
         /* Timer */
         .timer-display {
             font-variant-numeric: tabular-nums;
             letter-spacing: 0.05em;
         }
-        .timer-warning { color: var(--error) !important; }
+
+        .timer-warning {
+            color: var(--error) !important;
+        }
 
         /* Toast */
         .toast {
             animation: slideInRight 0.3s ease-out forwards;
         }
+
         .toast-exit {
             animation: fadeIn 0.2s ease-out reverse forwards;
         }
@@ -230,7 +346,8 @@
         /* Confetti */
         .confetti-piece {
             position: fixed;
-            width: 8px; height: 8px;
+            width: 8px;
+            height: 8px;
             border-radius: 2px;
             z-index: 9999;
             pointer-events: none;
@@ -243,9 +360,15 @@
             animation: shimmer 1.5s infinite;
             border-radius: 8px;
         }
+
         @keyframes shimmer {
-            0% { background-position: 200% 0; }
-            100% { background-position: -200% 0; }
+            0% {
+                background-position: 200% 0;
+            }
+
+            100% {
+                background-position: -200% 0;
+            }
         }
 
         /* Stat kartasi */
@@ -255,9 +378,18 @@
         }
 
         /* Scrollbar */
-        ::-webkit-scrollbar { width: 4px; }
-        ::-webkit-scrollbar-track { background: transparent; }
-        ::-webkit-scrollbar-thumb { background: var(--text-muted); border-radius: 4px; }
+        ::-webkit-scrollbar {
+            width: 4px;
+        }
+
+        ::-webkit-scrollbar-track {
+            background: transparent;
+        }
+
+        ::-webkit-scrollbar-thumb {
+            background: var(--text-muted);
+            border-radius: 4px;
+        }
 
         /* Progress ring */
         .progress-ring-circle {
@@ -267,20 +399,36 @@
         }
 
         @media (max-width: 480px) {
-            .subject-btn-title { font-size: 0.85rem; }
-            .question-text { font-size: 0.93rem !important; }
-            .option-text { font-size: 0.78rem !important; }
-            .nav-btn { font-size: 0.7rem !important; padding: 0.75rem 0.25rem !important; }
+            .subject-btn-title {
+                font-size: 0.85rem;
+            }
+
+            .question-text {
+                font-size: 0.93rem !important;
+            }
+
+            .option-text {
+                font-size: 0.78rem !important;
+            }
+
+            .nav-btn {
+                font-size: 0.7rem !important;
+                padding: 0.75rem 0.25rem !important;
+            }
         }
 
-        mjx-container { display: inline-block !important; margin: 0 2px; }
+        mjx-container {
+            display: inline-block !important;
+            margin: 0 2px;
+        }
     </style>
 </head>
 
 <body class="min-h-screen">
 
     <!-- Toast Container -->
-    <div id="toast-container" class="fixed top-4 right-4 z-[100] flex flex-col gap-2 pointer-events-none" style="max-width:340px;"></div>
+    <div id="toast-container" class="fixed top-4 right-4 z-[100] flex flex-col gap-2 pointer-events-none"
+        style="max-width:340px;"></div>
 
     <div class="max-w-2xl mx-auto px-3 py-4 md:py-8 screen">
         <!-- Header -->
@@ -298,8 +446,7 @@
                 </div>
                 <div class="overflow-hidden">
                     <h1 class="font-extrabold text-sm md:text-base truncate" style="color:var(--text);">Testlar</h1>
-                    <p id="sub-title"
-                        class="text-[8px] md:text-[10px] uppercase font-bold tracking-tighter"
+                    <p id="sub-title" class="text-[8px] md:text-[10px] uppercase font-bold tracking-tighter"
                         style="color:var(--text-muted);">
                         Ta'lim darajasini tanlang
                     </p>
@@ -307,7 +454,9 @@
             </div>
             <div class="flex items-center gap-2">
                 <!-- Timer -->
-                <div id="timer-box" class="hidden items-center gap-1.5 px-2.5 py-1 rounded-lg font-bold text-xs timer-display" style="background:var(--primary-glow);color:var(--primary);">
+                <div id="timer-box"
+                    class="hidden items-center gap-1.5 px-2.5 py-1 rounded-lg font-bold text-xs timer-display"
+                    style="background:var(--primary-glow);color:var(--primary);">
                     <i class="icon-clock" style="font-size:13px;"></i>
                     <span id="timer-value">00:00</span>
                 </div>
@@ -328,10 +477,12 @@
 
         <!-- Degree Screen -->
         <div id="degree-screen" class="animate-fade-up screen">
-            <div class="rounded-3xl p-5 md:p-8 relative overflow-hidden" style="background:var(--card-solid);border:1px solid var(--border);box-shadow:var(--shadow-lg);">
+            <div class="rounded-3xl p-5 md:p-8 relative overflow-hidden"
+                style="background:var(--card-solid);border:1px solid var(--border);box-shadow:var(--shadow-lg);">
                 <div class="absolute top-0 left-0 w-full h-1" style="background:var(--primary);"></div>
                 <div class="flex items-center gap-3 mb-6">
-                    <div class="w-10 h-10 rounded-xl flex items-center justify-center" style="background:var(--primary-glow);">
+                    <div class="w-10 h-10 rounded-xl flex items-center justify-center"
+                        style="background:var(--primary-glow);">
                         <i class="icon-graduation-cap" style="font-size:20px;color:var(--primary);"></i>
                     </div>
                     <div>
@@ -345,10 +496,12 @@
 
         <!-- Directions Screen -->
         <div id="directions-screen" class="hidden screen">
-            <div class="rounded-3xl p-5 md:p-8 relative overflow-hidden" style="background:var(--card-solid);border:1px solid var(--border);box-shadow:var(--shadow-lg);">
+            <div class="rounded-3xl p-5 md:p-8 relative overflow-hidden"
+                style="background:var(--card-solid);border:1px solid var(--border);box-shadow:var(--shadow-lg);">
                 <div class="absolute top-0 left-0 w-full h-1" style="background:var(--primary);"></div>
                 <div class="flex items-center gap-3 mb-6">
-                    <div class="w-10 h-10 rounded-xl flex items-center justify-center" style="background:var(--primary-glow);">
+                    <div class="w-10 h-10 rounded-xl flex items-center justify-center"
+                        style="background:var(--primary-glow);">
                         <i class="icon-compass" style="font-size:20px;color:var(--primary);"></i>
                     </div>
                     <div>
@@ -362,10 +515,12 @@
 
         <!-- Subjects Screen -->
         <div id="subjects-screen" class="hidden screen">
-            <div class="rounded-3xl p-5 md:p-8 relative overflow-hidden" style="background:var(--card-solid);border:1px solid var(--border);box-shadow:var(--shadow-lg);">
+            <div class="rounded-3xl p-5 md:p-8 relative overflow-hidden"
+                style="background:var(--card-solid);border:1px solid var(--border);box-shadow:var(--shadow-lg);">
                 <div class="absolute top-0 left-0 w-full h-1" style="background:var(--primary);"></div>
                 <div class="flex items-center gap-3 mb-6">
-                    <div class="w-10 h-10 rounded-xl flex items-center justify-center" style="background:var(--primary-glow);">
+                    <div class="w-10 h-10 rounded-xl flex items-center justify-center"
+                        style="background:var(--primary-glow);">
                         <i class="icon-book-marked" style="font-size:20px;color:var(--primary);"></i>
                     </div>
                     <div>
@@ -388,7 +543,8 @@
                     <div class="skeleton h-14 w-full"></div>
                     <div class="skeleton h-14 w-full"></div>
                     <div class="skeleton h-14 w-full"></div>
-                    <p class="text-center text-xs font-medium pt-2" style="color:var(--text-muted);">Ma'lumotlar yuklanmoqda...</p>
+                    <p class="text-center text-xs font-medium pt-2" style="color:var(--text-muted);">Ma'lumotlar
+                        yuklanmoqda...</p>
                 </div>
             </div>
         </div>
@@ -397,14 +553,15 @@
         <div id="quiz-screen" class="hidden space-y-3 screen">
             <!-- Progress bar -->
             <div class="w-full h-1.5 rounded-full overflow-hidden" style="background:var(--border);">
-                <div id="progress-bar" class="h-full rounded-full transition-all duration-500 ease-out" style="width:0%;background:var(--primary);"></div>
+                <div id="progress-bar" class="h-full rounded-full transition-all duration-500 ease-out"
+                    style="width:0%;background:var(--primary);"></div>
             </div>
 
             <!-- Savol karta -->
-            <div id="question-card"
-                class="rounded-2xl p-5 md:p-6 min-h-[90px] flex items-center"
+            <div id="question-card" class="rounded-2xl p-5 md:p-6 min-h-[90px] flex items-center"
                 style="background:var(--card-solid);border:1px solid var(--border);box-shadow:var(--shadow);">
-                <h3 id="question-text" class="question-text text-base md:text-lg font-bold leading-tight" style="color:var(--text);"></h3>
+                <h3 id="question-text" class="question-text text-base md:text-lg font-bold leading-tight"
+                    style="color:var(--text);"></h3>
             </div>
 
             <!-- Variantlar -->
@@ -428,16 +585,18 @@
 
         <!-- Result Screen -->
         <div id="result-screen" class="hidden screen">
-            <div class="rounded-3xl p-6 md:p-10 text-center relative overflow-hidden" style="background:var(--card-solid);border:1px solid var(--border);box-shadow:var(--shadow-lg);">
-                <div class="absolute top-0 left-0 w-full h-1.5" style="background:linear-gradient(90deg,var(--primary),var(--accent));"></div>
+            <div class="rounded-3xl p-6 md:p-10 text-center relative overflow-hidden"
+                style="background:var(--card-solid);border:1px solid var(--border);box-shadow:var(--shadow-lg);">
+                <div class="absolute top-0 left-0 w-full h-1.5"
+                    style="background:linear-gradient(90deg,var(--primary),var(--accent));"></div>
 
                 <!-- Progress Ring -->
                 <div class="mx-auto mb-5 relative" style="width:140px;height:140px;">
                     <svg width="140" height="140" viewBox="0 0 140 140">
-                        <circle cx="70" cy="70" r="58" fill="none" stroke="var(--border)" stroke-width="8"/>
-                        <circle id="result-ring" cx="70" cy="70" r="58" fill="none" stroke="var(--primary)" stroke-width="8"
-                            stroke-linecap="round" stroke-dasharray="364.42" stroke-dashoffset="364.42"
-                            class="progress-ring-circle"/>
+                        <circle cx="70" cy="70" r="58" fill="none" stroke="var(--border)" stroke-width="8" />
+                        <circle id="result-ring" cx="70" cy="70" r="58" fill="none" stroke="var(--primary)"
+                            stroke-width="8" stroke-linecap="round" stroke-dasharray="364.42" stroke-dashoffset="364.42"
+                            class="progress-ring-circle" />
                     </svg>
                     <div class="absolute inset-0 flex flex-col items-center justify-center">
                         <span id="score-percent" class="text-3xl font-black" style="color:var(--primary);">0%</span>
@@ -465,8 +624,10 @@
                 </div>
 
                 <!-- Eng yaxshi natija -->
-                <div id="best-score-box" class="hidden mb-5 py-2.5 px-4 rounded-xl text-xs font-bold" style="background:var(--primary-glow);color:var(--primary);">
-                    <i class="icon-trophy" style="font-size:13px;"></i> Eng yaxshi natija: <span id="best-score-val">0%</span>
+                <div id="best-score-box" class="hidden mb-5 py-2.5 px-4 rounded-xl text-xs font-bold"
+                    style="background:var(--primary-glow);color:var(--primary);">
+                    <i class="icon-trophy" style="font-size:13px;"></i> Eng yaxshi natija: <span
+                        id="best-score-val">0%</span>
                 </div>
 
                 <div class="grid grid-cols-2 gap-2.5">
@@ -475,8 +636,7 @@
                         style="background:var(--text);">
                         <i class="icon-rotate-ccw" style="font-size:14px;"></i> Qayta
                     </button>
-                    <button onclick="goHome()"
-                        class="py-3 rounded-xl font-bold text-sm transition-all active:scale-95"
+                    <button onclick="goHome()" class="py-3 rounded-xl font-bold text-sm transition-all active:scale-95"
                         style="background:var(--bg);color:var(--text-sec);border:1px solid var(--border);">
                         <i class="icon-home" style="font-size:14px;"></i> Menyu
                     </button>
@@ -486,10 +646,10 @@
     </div>
 
     <!-- Custom Modal -->
-    <div id="custom-modal"
-        class="hidden fixed inset-0 z-50 flex items-center justify-center p-4"
+    <div id="custom-modal" class="hidden fixed inset-0 z-50 flex items-center justify-center p-4"
         style="background:rgba(0,0,0,0.4);backdrop-filter:blur(6px);">
-        <div class="rounded-3xl p-6 md:p-8 max-w-sm w-full animate-scale" style="background:var(--card-solid);box-shadow:var(--shadow-lg);">
+        <div class="rounded-3xl p-6 md:p-8 max-w-sm w-full animate-scale"
+            style="background:var(--card-solid);box-shadow:var(--shadow-lg);">
             <h3 id="modal-title" class="text-lg font-extrabold mb-2" style="color:var(--text);">Tasdiqlash</h3>
             <p id="modal-desc" class="text-sm mb-6 leading-relaxed" style="color:var(--text-sec);"></p>
             <div id="modal-buttons" class="flex gap-3"></div>
@@ -508,25 +668,12 @@
                 "OHI-25": ["Odam anatomiyasi", "Tibbiy biologiya", "O'zbek (rus) tili", "Tibbiy kimyo", "Tibbiyotda axborot texnologiyalari", "Lotin tili va tibbiy terminologiya", "O'zbek tilini sohada qo'llash"],
                 "KM-BIO": ["Botanika", "O'zbekistonning eng yangi tarixi", "Oliy matematika", "Sitologiya, gistologiya", "Umumiy kimyo va fizika", "Umumiy psixologiya"],
                 "KM-MT": ["Bolalar psixologiyasi va psixodiagnostikasi", "Bolalarni sahnalashtirish va ijodiy faoliyatga o'rgatish", "Rivojlantiruvchi markazlarni tashkil qilish texnologiyasi", "Mediasavodxonlik va axborot madaniyat", "Ilk va maktabgacha yoshdagi bolalar pedagogikasi", "Bolalarning ijtimoiy moslashuvi"],
-                "KM-BT": ["Amaliy rus tili", "Boshlang'ich matematika kursi nazariyasi", "Mediasavodxonlik", "O'zbek tilining sohada qo'llanilishi", "O'zbekistonning eng yangi tarixi", "Ona tili", "Umumiy psixologiya"]
+                "KM-BT": ["Amaliy rus tili", "Boshlang'ich matematika kursi nazariyasi", "Mediasavodxonlik", "O'zbek tilining sohada qo'llanilishi", "O'zbekistonning eng yangi tarixi", "Ona tili", "Umumiy psixologiya"],
+                "KM-KDS": ["Amaliy rus tili", "Fizika", "Oliy matematika", "O'zbekiston eng yangi tarixi", "Xorijiy til"]
             },
             "Magistratura": {
                 "MM-IQ": ["Maxsus fanlar o'qitish metodikasi", "Ekonometrika", "Ilmiy tadqiqot metodologiyasi", "Mikroiqtisodiyot"]
             }
-        };
-
-        // Yo'nalishlarning tavsiflari
-        const dirDescriptions = {
-            "KM-TMJ": "Texnika fanlari va matematika",
-            "KM-IQ": "Iqtisodiyot fanlari",
-            "KM-MP(log)": "Mantiqiy mutaxassislik",
-            "KM-NGT": "Tabiiy fanlar va texnologiyalar",
-            "DAV-25": "Davolash ishi",
-            "OHI-25": "Oilaviy tibbiyot",
-            "KM-BIO": "Biologiya fanlari",
-            "KM-MT": "Mustaqil ta'lim texnologiyalari",
-            "KM-BT": "Boshlang'ich ta'lim",
-            "MM-IQ": "Iqtisodiyot magistraturasi"
         };
 
         // Fan uchun ikonkalar
@@ -560,9 +707,9 @@
         const TIME_LIMIT = 35 * 60; // 35 daqiqa (2100 soniya)
         let remainingSeconds = TIME_LIMIT;
         let autoAdvanceTimeout = null;
-        
-        // GHOST CLICK (Arvoh bosish) lar oldini olish uchun Lock (qulf) vaqti
-        let questionRenderTime = 0; 
+
+        // GHOST CLICK (Arvoh bosish) lar oldini olish uchun qat'iy Lock (qulf)
+        let actionLock = false;
 
         // Swipe
         let touchStartX = 0;
@@ -617,7 +764,7 @@
 
         // ========== CONFETTI ==========
         function launchConfetti() {
-            const colors = ['#2563eb','#059669','#f59e0b','#dc2626','#8b5cf6','#ec4899'];
+            const colors = ['#2563eb', '#059669', '#f59e0b', '#dc2626', '#8b5cf6', '#ec4899'];
             for (let i = 0; i < 60; i++) {
                 const piece = document.createElement('div');
                 piece.className = 'confetti-piece';
@@ -627,14 +774,14 @@
                 piece.style.width = (Math.random() * 8 + 4) + 'px';
                 piece.style.height = (Math.random() * 8 + 4) + 'px';
                 piece.style.borderRadius = Math.random() > 0.5 ? '50%' : '2px';
-                piece.style.transform = `rotate(${Math.random()*360}deg)`;
+                piece.style.transform = `rotate(${Math.random() * 360}deg)`;
                 document.body.appendChild(piece);
 
                 const duration = Math.random() * 2000 + 1500;
                 const xDrift = (Math.random() - 0.5) * 200;
                 piece.animate([
                     { transform: `translate(0,0) rotate(0deg)`, opacity: 1 },
-                    { transform: `translate(${xDrift}px, ${window.innerHeight + 50}px) rotate(${Math.random()*720}deg)`, opacity: 0 }
+                    { transform: `translate(${xDrift}px, ${window.innerHeight + 50}px) rotate(${Math.random() * 720}deg)`, opacity: 0 }
                 ], { duration, easing: 'cubic-bezier(0.25,0.46,0.45,0.94)' });
 
                 setTimeout(() => piece.remove(), duration);
@@ -644,7 +791,7 @@
         // ========== MATHJAX ==========
         function typesetMath() {
             if (window.MathJax && window.MathJax.typesetPromise) {
-                window.MathJax.typesetPromise().catch(() => {});
+                window.MathJax.typesetPromise().catch(() => { });
             }
         }
 
@@ -673,7 +820,7 @@
 
         // ========== NAVIGATSIYA YORDAMCHILARI ==========
         function hideAllScreens() {
-            ['degree-screen','directions-screen','subjects-screen','quiz-screen','result-screen'].forEach(id => {
+            ['degree-screen', 'directions-screen', 'subjects-screen', 'quiz-screen', 'result-screen'].forEach(id => {
                 document.getElementById(id).classList.add('hidden');
             });
         }
@@ -847,7 +994,7 @@
         function updateTimerDisplay() {
             const m = Math.floor(remainingSeconds / 60);
             const s = remainingSeconds % 60;
-            const display = `${String(m).padStart(2,'0')}:${String(s).padStart(2,'0')}`;
+            const display = `${String(m).padStart(2, '0')}:${String(s).padStart(2, '0')}`;
             const el = document.getElementById('timer-value');
             el.innerText = display;
 
@@ -863,7 +1010,7 @@
         function formatTime(seconds) {
             const m = Math.floor(seconds / 60);
             const s = seconds % 60;
-            return `${m}:${String(s).padStart(2,'0')}`;
+            return `${m}:${String(s).padStart(2, '0')}`;
         }
 
         // ========== TEST BOSHLASH ==========
@@ -943,7 +1090,7 @@
             if (item.savol && item.A) {
                 questionText = String(item.savol).trim();
                 let j = String(item.javob || "").trim();
-                if (['A','B','C','D'].includes(j.toUpperCase())) {
+                if (['A', 'B', 'C', 'D'].includes(j.toUpperCase())) {
                     correctText = String(item[j.toUpperCase()] || "").trim();
                 } else {
                     correctText = j;
@@ -991,7 +1138,7 @@
         function updateNavDots() {
             const dots = document.querySelectorAll('.nav-dot');
             dots.forEach((dot, i) => {
-                dot.className = 'nav-dot snap-center'; 
+                dot.className = 'nav-dot snap-center';
                 if (i === currentIndex) dot.classList.add('active');
                 else if (userAnswers[i] !== null) {
                     dot.classList.add(userAnswers[i] === quizQuestions[i].correct ? 'answered-correct' : 'answered-wrong');
@@ -1003,7 +1150,8 @@
         }
 
         function jumpToQuestion(index) {
-            if (index === currentIndex) return;
+            if (index === currentIndex || actionLock) return;
+            actionLock = true;
             clearTimeout(autoAdvanceTimeout);
             const dir = index > currentIndex ? 'animate-slide-right' : 'animate-slide-left';
             currentIndex = index;
@@ -1012,8 +1160,9 @@
 
         // ========== SAVOL KO'RSATISH ==========
         function showQuestion(animClass = 'animate-fade') {
-            // Yangi savol render bo'lganda ghost-click oldini olish uchun Lock vaqtini yangilash
-            questionRenderTime = Date.now();
+            // Yangi savol render bo'lganda ghost-click oldini olish uchun 400ms qulf
+            actionLock = true;
+            setTimeout(() => { actionLock = false; }, 400);
 
             const data = quizQuestions[currentIndex];
             const userAnswer = userAnswers[currentIndex];
@@ -1047,15 +1196,18 @@
 
                 if (userAnswer !== null) {
                     // Agar bu savol oldin ishlangan bo'lsa
-                    btn.disabled = false; 
+                    btn.disabled = false;
                     btn.style.cursor = 'pointer';
                     btn.style.opacity = opt === userAnswer || opt === data.correct ? '1' : '0.5';
-                    
+
                     if (opt === data.correct) btn.classList.add('correct');
                     if (opt === userAnswer && opt !== data.correct) btn.classList.add('wrong');
-                    
+
                     // Oldin ishlangan test variantlaridan birortasini bossa keyingisiga o'tib ketadi
-                    btn.onclick = () => {
+                    btn.onclick = (e) => {
+                        if (e) e.preventDefault();
+                        if (actionLock) return;
+                        actionLock = true;
                         clearTimeout(autoAdvanceTimeout);
                         if (currentIndex < quizQuestions.length - 1) {
                             currentIndex++;
@@ -1066,7 +1218,11 @@
                     };
                 } else {
                     // Yangi savol uchun
-                    btn.onclick = () => checkAnswer(btn, opt);
+                    btn.onclick = (e) => {
+                        if (e) e.preventDefault();
+                        if (actionLock) return;
+                        checkAnswer(btn, opt);
+                    };
                 }
                 optionsBox.appendChild(btn);
             });
@@ -1095,11 +1251,12 @@
 
         // ========== JAVOB TEKSHIRISH ==========
         function checkAnswer(btn, selected) {
-            // 1. Ghost click qulfi: savol chiqqaniga 300ms bo'lmagan bo'lsa bekor qilish (double tap oldini olish)
-            if (Date.now() - questionRenderTime < 300) return;
-            
-            // 2. Takroriy bosishni qulflash
-            if (userAnswers[currentIndex] !== null) return; 
+            // Ghost click va takroriy bosishlarni qulflash
+            if (actionLock || userAnswers[currentIndex] !== null) return;
+
+            actionLock = true;
+            // Javob berilgach, "keyingisiga tez o'tkazish" funksiyasi uchun qulfni tez ochish
+            setTimeout(() => { actionLock = false; }, 350);
 
             clearTimeout(autoAdvanceTimeout);
             const data = quizQuestions[currentIndex];
@@ -1111,7 +1268,21 @@
             allBtns.forEach(b => {
                 b.disabled = true;
                 b.style.cursor = 'default';
-                
+
+                // Variant qayta bosilsa, keyingi savolga o'tkazish
+                b.onclick = (e) => {
+                    if (e) e.preventDefault();
+                    if (actionLock) return;
+                    actionLock = true;
+                    clearTimeout(autoAdvanceTimeout);
+                    if (currentIndex < quizQuestions.length - 1) {
+                        currentIndex++;
+                        showQuestion('animate-slide-right');
+                    } else {
+                        checkAndFinishQuiz();
+                    }
+                };
+
                 const val = b.dataset.value;
                 if (val === data.correct) {
                     b.classList.add('correct');
@@ -1132,17 +1303,20 @@
 
             // AVTOMATIK KEYINGI SAVOLGA O'TISH (1.2 SONIYA = 1200 ms)
             autoAdvanceTimeout = setTimeout(() => {
+                actionLock = true;
                 if (currentIndex < quizQuestions.length - 1) {
                     currentIndex++;
                     showQuestion('animate-slide-right');
                 } else {
                     checkAndFinishQuiz();
                 }
-            }, 2000);
+            }, 1200);
         }
 
         // ========== NAVIGATSIYA ==========
         function nextQuestion() {
+            if (actionLock) return;
+            actionLock = true;
             clearTimeout(autoAdvanceTimeout);
             if (currentIndex < quizQuestions.length - 1) {
                 currentIndex++;
@@ -1153,6 +1327,8 @@
         }
 
         function prevQuestion() {
+            if (actionLock) return;
+            actionLock = true;
             clearTimeout(autoAdvanceTimeout);
             if (currentIndex > 0) {
                 currentIndex--;
@@ -1238,7 +1414,7 @@
             // Statistika
             document.getElementById('stat-correct').innerText = correctTotal;
             document.getElementById('stat-wrong').innerText = wrongTotal + unanswered;
-            
+
             // Sarflangan vaqtni hisoblash
             const timeSpent = TIME_LIMIT - remainingSeconds;
             document.getElementById('stat-time').innerText = formatTime(timeSpent);
@@ -1304,16 +1480,16 @@
 
                 if (e.key === 'ArrowRight' || e.key === 'd') {
                     e.preventDefault();
-                    if (Date.now() - questionRenderTime < 300) return;
+                    if (actionLock) return;
                     nextQuestion();
                 } else if (e.key === 'ArrowLeft' || e.key === 'a') {
                     e.preventDefault();
-                    if (Date.now() - questionRenderTime < 300) return;
+                    if (actionLock) return;
                     prevQuestion();
                 } else if (e.key >= '1' && e.key <= '4') {
                     e.preventDefault();
-                    if (Date.now() - questionRenderTime < 300) return; // Klaviatura auto-repeat blokirovkasi
-                    
+                    if (actionLock) return; // Klaviatura auto-repeat blokirovkasi
+
                     const idx = parseInt(e.key) - 1;
                     const btns = document.querySelectorAll('.option-btn:not(:disabled)');
                     if (btns[idx] && !btns[idx].hasAttribute('disabled')) btns[idx].click();
@@ -1341,7 +1517,7 @@
 
             if (Math.abs(diff) < threshold) return;
             if (document.getElementById('quiz-screen').classList.contains('hidden')) return;
-            if (Date.now() - questionRenderTime < 300) return; // Swipe lock
+            if (actionLock) return; // Swipe lock
 
             if (diff > 0) {
                 nextQuestion();
