@@ -1,867 +1,1250 @@
 [
   {
-    "question": "$A+B$ matritsani hisoblang.",
-    "options": [
-      "Bu matritsalar ustida qo'shish amalini bajarib bo'lmaydi.",
-      "$\\begin{pmatrix} 1 & 2 \\\\ 3 & 4 \\end{pmatrix}$",
-      "$\\begin{pmatrix} 2 & 4 \\\\ 6 & 8 \\end{pmatrix}$",
-      "$\\begin{pmatrix} 3 & 6 \\\\ 9 & 12 \\end{pmatrix}$"
-    ],
-    "answer": "Bu matritsalar ustida qo'shish amalini bajarib bo'lmaydi."
+    "savol": "$A=\\begin{pmatrix}2&3&4\\\\2&5&0\\end{pmatrix}, B=\\begin{pmatrix}3&-2\\\\-1&4\\end{pmatrix}$ matritsalar berilgan. $A+B$ matritsani hisoblang.",
+    "A": "Bu matritsalar ustida qo'shish amalini bajarib bo'lmaydi.",
+    "B": "$\\begin{pmatrix}6&1&9\\\\8&2&7\\end{pmatrix}$",
+    "C": "$\\begin{pmatrix}4&-2&5\\\\6&-3&7\\end{pmatrix}$",
+    "D": "$\\begin{pmatrix}2&3&4\\\\2&5&0\\end{pmatrix}$",
+    "javob": "A"
+  },
+  {
+    "savol": "$y=kx+b$ to'g'ri chiziq tenglamasida $b$ koeffitsiyent nima deyiladi?",
+    "A": "Ozod son",
+    "B": "Burchak koeffitsiyent",
+    "C": "Oxirgi nuqta",
+    "D": "Kesim",
+    "javob": "A"
+  },
+  {
+    "savol": "$A=\\begin{bmatrix}2&0&1\\\\33&-22&0\\end{bmatrix}$ bu matritsa nechta satr va ustunga ega?",
+    "A": "2 ta satr 3 ta ustun",
+    "B": "3 ta satr 2 ta ustun",
+    "C": "2 ta satr 2 ta ustun",
+    "D": "5 ta satr 2 ta ustun",
+    "javob": "A"
+  },
+  {
+    "savol": "$\\begin{pmatrix}-2&5&0\\\\4&1&-3\\\\6&-1&7\\end{pmatrix}$ matritsaning barcha elementlari yig'indisini toping.",
+    "A": "17",
+    "B": "7",
+    "C": "0",
+    "D": "15",
+    "javob": "A"
+  },
+  {
+    "savol": "$\\begin{cases} a_{11}x_{1}+a_{12}x_{2}+a_{13}x_{3}=b_{1} \\\\ a_{21}x_{1}+a_{22}x_{2}+a_{23}x_{3}=b_{2} \\\\ a_{31}x_{1}+a_{32}x_{2}+a_{33}x_{3}=b_{3} \\end{cases}$ Uch noma'lumli tenglamalar sistemasida nechta noma'lum had mavjud?",
+    "A": "3 ta",
+    "B": "2 ta",
+    "C": "6 ta",
+    "D": "8 ta",
+    "javob": "A"
+  },
+  {
+    "savol": "$\\vec{a}=\\{0;1\\}$ va $\\vec{b}=\\{2;1\\}$ vektorlar berilgan. Ular yig'indisini toping.",
+    "A": "(2; 2)",
+    "B": "(2; -2)",
+    "C": "(-1; 2)",
+    "D": "(-3; 2)",
+    "javob": "A"
+  },
+  {
+    "savol": "$\\bar{a}(3;-2;5)$ va $\\bar{b}(4;-3;-2)$ vektorlar yig'indisining koordinatalarini toping.",
+    "A": "(7; -5; 3)",
+    "B": "(7; -5; 7)",
+    "C": "(7; 5; 7)",
+    "D": "(7; -5; -3)",
+    "javob": "A"
+  },
+  {
+    "savol": "$f(x)=5x+1$, $g(x)=-2x$ bo'lsa, $f(x)+g(x)$ ni toping.",
+    "A": "3x+1",
+    "B": "-5x+2",
+    "C": "-14x+12",
+    "D": "6x-23",
+    "javob": "A"
+  },
+  {
+    "savol": "$\\vec{a}=(1,2,3)$ vektorning uzunligini toping.",
+    "A": "$\\sqrt{14}$",
+    "B": "7",
+    "C": "$\\sqrt{12}$",
+    "D": "6",
+    "javob": "A"
+  },
+  {
+    "savol": "$\\vec{a}=(-6;8)$ bo'lsa, uning uzunligini toping.",
+    "A": "10",
+    "B": "15",
+    "C": "8",
+    "D": "9",
+    "javob": "A"
+  },
+  {
+    "savol": "$f(x)=x^2-6$ Funksiyani berilgan argumentda qiymatini toping. $f(0)$ toping.",
+    "A": "-6",
+    "B": "4",
+    "C": "-12",
+    "D": "5",
+    "javob": "A"
+  },
+  {
+    "savol": "$f(x)=x^3+2x$ Funksiyani berilgan argumentda qiymatini toping. $F(-1)$ toping.",
+    "A": "-3",
+    "B": "2",
+    "C": "1",
+    "D": "5",
+    "javob": "A"
+  },
+  {
+    "savol": "$y = 2x^2 + 5x - 1$ funksiyaning $x \\to 2$ bo'lgandagi limiti topilsin.",
+    "A": "17",
+    "B": "15",
+    "C": "-24",
+    "D": "5",
+    "javob": "A"
   },
   {
-    "question": "$y = kx + b$ to'g'ri chiziq tenglamasida $b$ koeffitsiyent nima deyiladi?",
-    "options": ["Ozod son", "Burchak koeffitsiyenti", "Oxirgi nuqta", "Kesim"],
-    "answer": "Ozod son"
+    "savol": "$\\vec{a}(x,y,z)$ nimani ifodalaydi?",
+    "A": "Koordinatalari bilan berilgan vektor",
+    "B": "Vektor uzunligi",
+    "C": "Ikki vektorning ayirmasi",
+    "D": "Birlik vektor",
+    "javob": "A"
   },
   {
-    "question": "$\\begin{pmatrix} 1 & 2 & 3 \\\\ 4 & 5 & 6 \\end{pmatrix}$ bu matritsa nechta satr va ustunga ega?",
-    "options": ["$2$ ta satr, $3$ ta ustun", "$3$ ta satr, $2$ ta ustun", "$2$ ta satr, $2$ ta ustun", "$5$ ta satr, $2$ ta ustun"],
-    "answer": "$2$ ta satr, $3$ ta ustun"
+    "savol": "$\\vec{a} \\cdot \\vec{b} \\cdot \\vec{c}$ nimani ifodalaydi?",
+    "A": "Aralash ko'paytma",
+    "B": "Vektor ko'paytmasi",
+    "C": "Vektorlar bo'linmasi",
+    "D": "Vektorlarni qo'shish",
+    "javob": "A"
   },
   {
-    "question": "$\\begin{pmatrix} 1 & 2 & 3 \\\\ 4 & 5 & 6 \\\\ 7 & 8 & 9 \\end{pmatrix}$ matritsaning barcha elementlari yig'indisini toping.",
-    "options": ["$17$", "$7$", "$0$", "$15$"],
-    "answer": "$17$"
+    "savol": "$(a,b)$ oraliqda differensiallanuvchi $y = f(x)$ funksiya manfiy hosilaga ega, ya'ni $f'(x) < 0$ bo'lsa, funksiya shu oraliqda... Bo'ladi.",
+    "A": "Kamayuvchi",
+    "B": "O'suvchi",
+    "C": "Uzluksiz",
+    "D": "Monoton",
+    "javob": "A"
   },
   {
-    "question": "Uch noma'lumli tenglamalar sistemasida nechta noma'lum had mavjud?",
-    "options": ["$3$ ta", "$2$ ta", "$6$ ta", "$8$ ta"],
-    "answer": "$3$ ta"
+    "savol": "$\\vec{AB}$ qanday o'qiladi?",
+    "A": "AB vektor",
+    "B": "AB to'g'ri chiziq",
+    "C": "AB egri chiziq",
+    "D": "AB nuqta",
+    "javob": "A"
   },
   {
-    "question": "$\\vec{a}(2; -2)$ va $\\vec{b}(-1; 2)$ vektorlar berilgan. Ular yig'indisini toping.",
-    "options": ["$(2; 2)$", "$(2; -2)$", "$(-1; 2)$", "$(-3; 2)$"],
-    "answer": "$(2; 2)$"
+    "savol": "$\\begin{cases} x+y=7 \\\\ 3x-y=13 \\end{cases}$ Tenglamalar sistemasini qo'shish usuli bilan yeching.",
+    "A": "X=5; y=2",
+    "B": "X=2; y=0",
+    "C": "X=10; y=10",
+    "D": "X=5; y=-5",
+    "javob": "A"
   },
   {
-    "question": "$\\vec{a}(1; -2; 3)$ va $\\vec{b}(3; 2; 4)$ vektorlar yig'indisining koordinatalarini toping.",
-    "options": ["$(7; -5; 3)$", "$(4; 0; 7)$", "$(4; 0; 7)$", "$(1; 2; 3)$"],
-    "answer": "$(4; 0; 7)$"
+    "savol": "$\\vec{a}=(3;-2;5)$ va $\\vec{b}=(4;-3;-2)$ vektorlar yig'indisining koordinatalarini toping.",
+    "A": "(7; -5; 3)",
+    "B": "(7; -5; 7)",
+    "C": "(7; 5; 7)",
+    "D": "(7; -5; -3)",
+    "javob": "A"
   },
   {
-    "question": "$f(x)=2x+1$, $g(x)=3x-5$ bo'lsa, $f(g(x))$ ni toping.",
-    "options": ["$3x+1$", "$-5x+2$", "$-14x+12$", "$6x-23$"],
-    "answer": "$6x-23$"
+    "savol": "$\\vec{a}$ vektorning modulini ko'rsating.",
+    "A": "$|\\vec{a}|$",
+    "B": "$\\vec{a}$",
+    "C": "a",
+    "D": "$A$",
+    "javob": "A"
   },
   {
-    "question": "$\\vec{a}(3;4)$ vektorning uzunligini toping.",
-    "options": ["$5$", "$7$", "$1$", "$6$"],
-    "answer": "$5$"
+    "savol": "$A = \\begin{bmatrix} 2 & 0 & 1 \\\\ 33 & -22 & 0 \\end{bmatrix}$ bu matritsa nechta satr va ustunga ega?",
+    "A": "2 ta satr va 3 ta ustun",
+    "B": "3 ta satr va 3 ta ustun",
+    "C": "3 ta satr va 2 ta ustun",
+    "D": "5 ta satr va 3 ta ustun",
+    "javob": "A"
   },
   {
-    "question": "$\\vec{a}(6;8)$ bo'lsa, uning uzunligini toping.",
-    "options": ["$10$", "$15$", "$8$", "$9$"],
-    "answer": "$10$"
+    "savol": "$B = \\begin{pmatrix} 2 & -1 & 0 \\\\ 1 & 3 & -1 \\end{pmatrix}$ ushbu matritsaning nechta elementi mavjud?",
+    "A": "6",
+    "B": "5",
+    "C": "7",
+    "D": "8",
+    "javob": "A"
   },
   {
-    "question": "$f(x)=2x^2+4x-6$ funksiyaning $f(2)$ qiymatini toping.",
-    "options": ["$-6$", "$4$", "$-12$", "$5$"],
-    "answer": "$4$"
+    "savol": "$\\vec{a}=(-3;4)$ bo'lsa, uning uzunligini toping.",
+    "A": "5",
+    "B": "6",
+    "C": "3",
+    "D": "-9",
+    "javob": "A"
   },
   {
-    "question": "$f(x)=2x^2+4x-6$ funksiyaning $f(-1)$ qiymatini toping.",
-    "options": ["$-3$", "$2$", "$1$", "$5$"],
-    "answer": "$-3$"
+    "savol": "$\\vec{a}=(3;-4)$ bo'lsa, uning uzunligini toping.",
+    "A": "5",
+    "B": "1",
+    "C": "-7",
+    "D": "2",
+    "javob": "A"
   },
   {
-    "question": "$f(x)=2x^2-5x+3$ funksiyaning $x \\to 2$ bo'lgandagi limiti topilsin.",
-    "options": ["$17$", "$15$", "$-24$", "$5$"],
-    "answer": "$17$"
+    "savol": "$\\begin{cases} a_{11}x_{1} + a_{12}x_{2} + a_{13}x_{3} = b_{1} \\\\ a_{21}x_{1} + a_{22}x_{2} + a_{23}x_{3} = b_{2} \\\\ a_{31}x_{1} + a_{32}x_{2} + a_{33}x_{3} = b_{3} \\end{cases}$ Chiziqli tenglamalar sistemasida $a_{12}$ element turgan o'rnini toping.",
+    "A": "Birinchi tenglamadagi ikkinchi noma'lumga ko'paytirilgan",
+    "B": "Ikkinchi tenglamadagi ikkinchi noma'lum hadga ko'paytirilgan",
+    "C": "Birinchi tenglamadagi birinchi noma'lum hadga ko'paytirilgan",
+    "D": "Birinchi tenglamadagi uchinchi noma'lumga ko'paytirilgan",
+    "javob": "A"
   },
   {
-    "question": "$|\\vec{a}|$ nimani ifodalaydi?",
-    "options": ["Koordinatalari bilan berilgan vektor", "Vektor uzunligi", "Ikki vektorning ayirmasi", "Birlik vektor"],
-    "answer": "Vektor uzunligi"
+    "savol": "$\\begin{cases} a_{11}x_{1} + a_{12}x_{2} + a_{13}x_{3} = b_{1} \\\\ a_{21}x_{1} + a_{22}x_{2} + a_{23}x_{3} = b_{2} \\\\ a_{31}x_{1} + a_{32}x_{2} + a_{33}x_{3} = b_{3} \\end{cases}$ Chiziqli tenglamalar sistemasida $a_{21}$ element turgan o'rnini toping.",
+    "A": "Ikkinchi tenglamadagi birinchi noma'lum hadga ko'paytirilgan",
+    "B": "Ikkinchi tenglamadagi ikkinchi noma'lum hadga ko'paytirilgan",
+    "C": "Birinchi tenglamadagi ikkinchi noma'lum hadga ko'paytirilgan",
+    "D": "Birinchi tenglamadagi uchinchi noma'lumga ko'paytirilgan",
+    "javob": "A"
   },
   {
-    "question": "$\\vec{a} \\cdot \\vec{b}$ nimani ifodalaydi?",
-    "options": ["Aralash ko'paytma", "Vektor ko'paytmasi", "Vektorlar bo'linmasi", "Vektorlarni qo'shish"],
-    "answer": "Vektor ko'paytmasi"
+    "savol": "$f(x)=x^2-6$ Funksiyani berilgan argumentda qiymatini toping. $f(-3)$ toping.",
+    "A": "3",
+    "B": "6",
+    "C": "4",
+    "D": "-6",
+    "javob": "A"
   },
   {
-    "question": "$(a;b)$ oraliqda differensiallanuvchi $f(x)$ funksiya manfiy hosilaga ega, ya'ni $f'(x)<0$ bo'lsa, funksiya shu oraliqda ... bo'ladi.",
-    "options": ["Kamayuvchi", "O'suvchi", "Uzluksiz", "Monoton"],
-    "answer": "Kamayuvchi"
+    "savol": "$f(z) = z^2 + 3z$ funksiyaning $f(-i)$ dagi xususiy qiymatini toping.",
+    "A": "-4i",
+    "B": "1-2i",
+    "C": "5(1-3i)",
+    "D": "5",
+    "javob": "A"
   },
   {
-    "question": "$\\overrightarrow{AB}$ qanday o'qiladi?",
-    "options": ["$AB$ vektor", "$AB$ to'g'ri chiziq", "$AB$ egri chiziq", "$AB$ nuqta"],
-    "answer": "$AB$ vektor"
+    "savol": "$f(z) = z^2 + z$ funksiyaning $f(1 + i)$ dagi xususiy qiymatini toping.",
+    "A": "1+3i",
+    "B": "2+3i",
+    "C": "1+i",
+    "D": "3+3i",
+    "javob": "A"
   },
   {
-    "question": "$\\begin{cases} x+y=7 \\\\ x-y=3 \\end{cases}$ tenglamalar sistemasini qo'shish usuli bilan yeching.",
-    "options": ["$x=5; y=2$", "$x=2; y=0$", "$x=10; y=10$", "$x=5; y=-5$"],
-    "answer": "$x=5; y=2$"
+    "savol": "$y=6x^2-7x+1$ funksiyaning $y(-1)$ dagi qiymatini toping.",
+    "A": "14",
+    "B": "5",
+    "C": "7",
+    "D": "9",
+    "javob": "A"
   },
   {
-    "question": "$\\vec{a}(1; -2; 3)$ va $\\vec{b}(3; 2; 4)$ vektorlar yig'indisining koordinatalarini toping.",
-    "options": ["$(7; -5; 3)$", "$(7; -5; 7)$", "$(7; 5; 7)$", "$(7; -5; -3)$"],
-    "answer": "$(7; -5; 3)$"
+    "savol": "$y=x^2+5x-1$ funksiyaning $x=3$ bo'lgandagi qiymatini toping.",
+    "A": "23",
+    "B": "21",
+    "C": "-1",
+    "D": "10",
+    "javob": "A"
   },
   {
-    "question": "$|\\vec{a}|$ vektorning modulini ko'rsating.",
-    "options": ["$|\\vec{a}|$", "$\\vec{a}$", "$a$", "$|a|$"],
-    "answer": "$|\\vec{a}|$"
+    "savol": "$(5 + 2i) - (7 + 8i)$ ifodaning yechimini toping.",
+    "A": "-2-6i",
+    "B": "-2+6i",
+    "C": "2-6i",
+    "D": "2+6i",
+    "javob": "A"
   },
   {
-    "question": "$\\begin{pmatrix} 1 & 2 & 3 \\\\ 4 & 5 & 6 \\end{pmatrix}$ bu matritsa nechta satr va ustunga ega?",
-    "options": ["$2$ ta satr, $3$ ta ustun", "$3$ ta satr, $3$ ta ustun", "$3$ ta satr, $2$ ta ustun", "$5$ ta satr, $3$ ta ustun"],
-    "answer": "$2$ ta satr, $3$ ta ustun"
+    "savol": "$(6 - 2i) - (7 + 8i)$ ifodaning yechimini toping.",
+    "A": "-1-10i",
+    "B": "10+12i",
+    "C": "10+8i",
+    "D": "10+10i",
+    "javob": "A"
   },
   {
-    "question": "$\\begin{pmatrix} 1 & 2 \\\\ 3 & 4 \\\\ 5 & 6 \\end{pmatrix}$ ushbu matritsaning nechta elementi mavjud?",
-    "options": ["$6$", "$5$", "$7$", "$8$"],
-    "answer": "$6$"
+    "savol": "$(9 - 2i) + (7 + 8i)$ ifodaning yechimini toping.",
+    "A": "16+6i",
+    "B": "10+12i",
+    "C": "10+8i",
+    "D": "10+10i",
+    "javob": "A"
   },
   {
-    "question": "$\\vec{a}(4; -3)$ bo'lsa, uning uzunligini toping.",
-    "options": ["$5$", "$6$", "$3$", "$-9$"],
-    "answer": "$5$"
+    "savol": "$(5 - 2i) + (7 + 8i)$ ifodaning yechimini toping.",
+    "A": "12+6i",
+    "B": "10+12i",
+    "C": "10+8i",
+    "D": "10+10i",
+    "javob": "A"
   },
   {
-    "question": "$\\vec{a}(3; -4)$ bo'lsa, uning uzunligini toping.",
-    "options": ["$5$", "$1$", "$-7$", "$2$"],
-    "answer": "$5$"
+    "savol": "$z = a + bi$ kompleks sonning haqiqiy qismini ko'rsating.",
+    "A": "a",
+    "B": "b",
+    "C": "i",
+    "D": "bi",
+    "javob": "A"
   },
   {
-    "question": "$\\begin{cases} a_{11}x_1 + a_{12}x_2 + a_{13}x_3 = b_1 \\\\ a_{21}x_1 + a_{22}x_2 + a_{23}x_3 = b_2 \\\\ a_{31}x_1 + a_{32}x_2 + a_{33}x_3 = b_3 \\end{cases}$ chiziqli tenglamalar sistemasida $a_{22}$ element turgan o'rnini toping.",
-    "options": [
-      "Birinchi tenglamadagi ikkinchi noma'lumga ko'paytirilgan",
-      "Ikkinchi tenglamadagi ikkinchi noma'lum hadga ko'paytirilgan",
-      "Birinchi tenglamadagi birinchi noma'lum hadga ko'paytirilgan",
-      "Birinchi tenglamadagi uchinchi noma'lumga ko'paytirilgan"
-    ],
-    "answer": "Ikkinchi tenglamadagi ikkinchi noma'lum hadga ko'paytirilgan"
+    "savol": "$z = a + bi$ kompleks sonning mavhum birligini ko'rsating.",
+    "A": "i",
+    "B": "a",
+    "C": "b",
+    "D": "bi",
+    "javob": "A"
   },
   {
-    "question": "Yuqoridagi sistemada $a_{21}$ element turgan o'rnini toping.",
-    "options": [
-      "Ikkinchi tenglamadagi birinchi noma'lum hadga ko'paytirilgan",
-      "Ikkinchi tenglamadagi ikkinchi noma'lum hadga ko'paytirilgan",
-      "Birinchi tenglamadagi ikkinchi noma'lumga ko'paytirilgan",
-      "Birinchi tenglamadagi uchinchi noma'lumga ko'paytirilgan"
-    ],
-    "answer": "Ikkinchi tenglamadagi birinchi noma'lum hadga ko'paytirilgan"
+    "savol": "$z = a + bi$ kompleks sonning mavhum qismini ko'rsating.",
+    "A": "bi",
+    "B": "a",
+    "C": "b",
+    "D": "i",
+    "javob": "A"
   },
   {
-    "question": "$f(x)=3x^2-2x+1$ funksiyaning $f(2)$ qiymatini toping.",
-    "options": ["$3$", "$6$", "$4$", "$-6$"],
-    "answer": "$3$"
+    "savol": "$\\vec{a} \\cdot \\vec{b}$ nimani ifodalaydi?",
+    "A": "Ikki vektorning skalyar ko'paytmasi",
+    "B": "Ikki vektorning vektor ko'paytmasi",
+    "C": "Ikki vektorning skalyar ko'paytmasi",
+    "D": "Ikki vektorning skalyar ko'paytmasi",
+    "javob": "A"
   },
   {
-    "question": "$f(z)=2z^2+3z-4$ funksiyaning $z=2i$ dagi xususiy qiymatini toping.",
-    "options": ["$-4i$", "$1-2i$", "$5(1-3i)$", "$5$"],
-    "answer": "$-4i$"
+    "savol": "$\\begin{cases} x=-y \\\\ x+2y=6 \\end{cases}$ Tenglamalar sistemasini o'rniga qo'yish usuli bilan yeching.",
+    "A": "X=-6; y=6",
+    "B": "X=2; y=0",
+    "C": "X=10; y=10",
+    "D": "X=5; y=-5",
+    "javob": "A"
   },
   {
-    "question": "$f(z)=2z^2+3z-4$ funksiyaning $z=1+i$ dagi xususiy qiymatini toping.",
-    "options": ["$1+3i$", "$2+3i$", "$1+i$", "$3+3i$"],
-    "answer": "$1+3i$"
+    "savol": "$\\begin{cases} 2x+4y=14 \\\\ 3x-4y=1 \\end{cases}$ Tenglamalar sistemasini qo'shish usuli bilan yeching.",
+    "A": "X=3; y=2",
+    "B": "X=2; y=0",
+    "C": "X=10; y=10",
+    "D": "X=5; y=-5",
+    "javob": "A"
   },
   {
-    "question": "$y=2x^2-3x+5$ funksiyaning $y(-1)$ dagi qiymatini toping.",
-    "options": ["$14$", "$5$", "$7$", "$9$"],
-    "answer": "$14$"
+    "savol": "......ko'rinishdagi ifodaga kompleks son deyiladi.",
+    "A": "$a + bi$",
+    "B": "$a + bk$",
+    "C": "$a + bj$",
+    "D": "$a + bd$",
+    "javob": "A"
   },
   {
-    "question": "$y=3x^2+2x-4$ funksiyaning $x=3$ bo'lgandagi qiymatini toping.",
-    "options": ["$23$", "$21$", "$-1$", "$10$"],
-    "answer": "$23$"
+    "savol": "10 ta satr va 9 ta ustunga ega matritsaning nechta elementi mavjud?",
+    "A": "90",
+    "B": "19",
+    "C": "15",
+    "D": "29",
+    "javob": "A"
   },
   {
-    "question": "$(2+3i)(1-2i)$ ifodaning yechimini toping.",
-    "options": ["$-2-6i$", "$-2+6i$", "$2-6i$", "$2+6i$"],
-    "answer": "$2-6i$"
+    "savol": "11 ta satr va 4 ta ustunga ega matritsaning nechta elementi mavjud?",
+    "A": "44",
+    "B": "40",
+    "C": "20",
+    "D": "15",
+    "javob": "A"
   },
   {
-    "question": "$(2+3i)(2+4i)$ ifodaning yechimini toping.",
-    "options": ["$-1-10i$", "$10+12i$", "$10+8i$", "$10+10i$"],
-    "answer": "$10+12i$"
+    "savol": "11 ta satr va 3 ta ustunga ega matritsaning nechta elementi mavjud?",
+    "A": "33",
+    "B": "11",
+    "C": "22",
+    "D": "44",
+    "javob": "A"
   },
   {
-    "question": "$(3+4i)(2+2i)$ ifodaning yechimini toping.",
-    "options": ["$16+6i$", "$10+12i$", "$10+8i$", "$10+10i$"],
-    "answer": "$16+6i$"
+    "savol": "3 ta satr va 4 ta ustundan iborat matritsa o'lchami toping.",
+    "A": "3x4",
+    "B": "4x3",
+    "C": "3x3",
+    "D": "4x4",
+    "javob": "A"
   },
   {
-    "question": "$(4+2i)(2+3i)$ ifodaning yechimini toping.",
-    "options": ["$12+6i$", "$10+12i$", "$10+8i$", "$10+10i$"],
-    "answer": "$12+6i$"
+    "savol": "3-satr va 4-ustunda turgan elementni qanday belgilanadi?",
+    "A": "$a_{34}$",
+    "B": "$3$",
+    "C": "$4$",
+    "D": "$34$",
+    "javob": "A"
   },
   {
-    "question": "$a+bi$ kompleks sonning haqiqiy qismini ko'rsating.",
-    "options": ["$a$", "$b$", "$i$", "$bi$"],
-    "answer": "$a$"
+    "savol": "4 ta satr va 4 ta ustunga ega matritsaning nechta elementi mavjud?",
+    "A": "16",
+    "B": "15",
+    "C": "20",
+    "D": "9",
+    "javob": "A"
   },
   {
-    "question": "$a+bi$ kompleks sonning mavhum birligini ko'rsating.",
-    "options": ["$i$", "$a$", "$b$", "$bi$"],
-    "answer": "$i$"
+    "savol": "4 ta satr va 5 ta ustunga ega matritsaning nechta elementi mavjud?",
+    "A": "20",
+    "B": "14",
+    "C": "15",
+    "D": "18",
+    "javob": "A"
   },
   {
-    "question": "$a+bi$ kompleks sonning mavhum qismini ko'rsating.",
-    "options": ["$bi$", "$a$", "$b$", "$i$"],
-    "answer": "$bi$"
+    "savol": "6 ta satr va 5 ta ustunga ega matritsaning nechta elementi mavjud?",
+    "A": "30",
+    "B": "20",
+    "C": "15",
+    "D": "80",
+    "javob": "A"
   },
   {
-    "question": "$\\vec{a} \\cdot \\vec{b}$ nimani ifodalaydi?",
-    "options": [
-      "Ikki vektorning skalyar ko'paytmasi",
-      "Ikki vektorning vektor ko'paytmasi",
-      "$\\vec{a} \\cdot \\vec{b}$ nimani ifodalaydi?",
-      "Ikki vektorning skalyar ko'paytmasi"
-    ],
-    "answer": "Ikki vektorning skalyar ko'paytmasi"
+    "savol": "$A(12; 3)$ va $B(15; 9)$ bo'lsa, $\\vec{AB}$ vektor koordinatasini toping.",
+    "A": "(3; 6)",
+    "B": "(17; -3)",
+    "C": "(83; -5)",
+    "D": "(4; -6)",
+    "javob": "A"
   },
   {
-    "question": "$\\begin{cases} x+y=0 \\\\ x-y=-12 \\end{cases}$ tenglamalar sistemasini o'rniga qo'yish usuli bilan yeching.",
-    "options": ["$x=-6; y=6$", "$x=2; y=0$", "$x=10; y=10$", "$x=5; y=-5$"],
-    "answer": "$x=-6; y=6$"
+    "savol": "$A(5; 3)$ va $B(1; 9)$ bo'lsa, $\\vec{AB}$ vektor koordinatasini toping.",
+    "A": "(-4; 6)",
+    "B": "(7; -3)",
+    "C": "(8; -5)",
+    "D": "(14; 6)",
+    "javob": "A"
   },
   {
-    "question": "$\\begin{cases} x+y=5 \\\\ x-y=1 \\end{cases}$ tenglamalar sistemasini qo'shish usuli bilan yeching.",
-    "options": ["$x=3; y=2$", "$x=2; y=0$", "$x=10; y=10$", "$x=5; y=-5$"],
-    "answer": "$x=3; y=2$"
+    "savol": "$A(5; 3)$ va $B(10; 9)$ bo'lsa, $\\vec{AB}$ vektor koordinatasini toping.",
+    "A": "(5; 6)",
+    "B": "(7; -3)",
+    "C": "(8; -5)",
+    "D": "(-4; -6)",
+    "javob": "A"
   },
   {
-    "question": "$a+bi$ ko'rinishdagi ifodaga kompleks son deyiladi.",
-    "options": ["$a+bi$", "$a+bi$", "$a+bi$", "$a+bi$"],
-    "answer": "$a+bi$"
+    "savol": "$A(7; -3)$ va $B(10; -9)$ bo'lsa, $\\vec{AB}$ vektor koordinatasini toping.",
+    "A": "(3; -6)",
+    "B": "(4; -3)",
+    "C": "(8; -6)",
+    "D": "(-4; -6)",
+    "javob": "A"
   },
   {
-    "question": "$10$ ta satr va $9$ ta ustunga ega matritsaning nechta elementi mavjud?",
-    "options": ["$90$", "$19$", "$15$", "$29$"],
-    "answer": "$90$"
+    "savol": "$A = (1\\ 3\\ 7)$ matritsa bo'yicha $2A$ matritsani toping.",
+    "A": "$(2\\ 6\\ 14)$",
+    "B": "$(10\\ 4\\ 18)$",
+    "C": "$(1\\ 3\\ 7)$",
+    "D": "$(2\\ 3\\ 7)$",
+    "javob": "A"
   },
   {
-    "question": "$11$ ta satr va $4$ ta ustunga ega matritsaning nechta elementi mavjud?",
-    "options": ["$44$", "$40$", "$20$", "$15$"],
-    "answer": "$44$"
+    "savol": "$A(1;2)$ va $B(1;8)$ nuqtalar berilgan. $AB$ kesmani teng ikkiga bo'luvchi $C$ nuqtani toping.",
+    "A": "$C(1;5)$",
+    "B": "$C(6;2)$",
+    "C": "$C(12;5)$",
+    "D": "$C(5;0)$",
+    "javob": "A"
   },
   {
-    "question": "$11$ ta satr va $3$ ta ustunga ega matritsaning nechta elementi mavjud?",
-    "options": ["$33$", "$11$", "$22$", "$44$"],
-    "answer": "$33$"
+    "savol": "$A(1;2;-7)$ nuqtani $YOZ$ tekisligiga nisbatan simmetrik ko'chiring.",
+    "A": "(-1; 2; -7)",
+    "B": "(1; 23; 3)",
+    "C": "(-1; -1; 0)",
+    "D": "(0; 0; 1)",
+    "javob": "A"
   },
   {
-    "question": "$3$ ta satr va $4$ ta ustundan iborat matritsa o'lchamini toping.",
-    "options": ["$3 \\times 4$", "$4 \\times 3$", "$3 \\times 3$", "$4 \\times 4$"],
-    "answer": "$3 \\times 4$"
+    "savol": "$A(-2;-3)$ nuqta koordinatalar tekisligining qaysi choraklarida joylashgan?",
+    "A": "III",
+    "B": "I",
+    "C": "II",
+    "D": "IV",
+    "javob": "A"
   },
   {
-    "question": "$3$-satr va $4$-ustunda turgan element qanday belgilanadi?",
-    "options": ["$a_{34}$", "$3$", "$4$", "$34$"],
-    "answer": "$a_{34}$"
+    "savol": "$A(2;3)$ nuqta koordinatalar tekisligining qaysi choraklarida joylashgan?",
+    "A": "I",
+    "B": "IV",
+    "C": "II",
+    "D": "III",
+    "javob": "A"
   },
   {
-    "question": "$4$ ta satr va $4$ ta ustunga ega matritsaning nechta elementi mavjud?",
-    "options": ["$16$", "$15$", "$20$", "$9$"],
-    "answer": "$16$"
+    "savol": "$A(5;2)$ va $B(5;4)$ nuqtalar berilgan. $AB$ kesmani teng ikkiga bo'luvchi $C$ nuqtani toping.",
+    "A": "$C(5;3)$",
+    "B": "$C(6;2)$",
+    "C": "$C(12;5)$",
+    "D": "$C(5;0)$",
+    "javob": "A"
   },
   {
-    "question": "$4$ ta satr va $5$ ta ustunga ega matritsaning nechta elementi mavjud?",
-    "options": ["$20$", "$14$", "$15$", "$18$"],
-    "answer": "$20$"
+    "savol": "$A(5;2;0)$ nuqtani $OZ$ o'qiga nisbatan simmetrik ko'chiring.",
+    "A": "(-5; -2; 0)",
+    "B": "(5; 2; 9)",
+    "C": "(-1; -1; 0)",
+    "D": "(0; 0; 1)",
+    "javob": "A"
   },
   {
-    "question": "$6$ ta satr va $5$ ta ustunga ega matritsaning nechta elementi mavjud?",
-    "options": ["$30$", "$20$", "$15$", "$80$"],
-    "answer": "$30$"
+    "savol": "$A=\\begin{pmatrix}-2&5&0\\\\4&1&-3\\\\6&-1&7\\end{pmatrix}$ matritsaning elementlari bo'yicha $a_{23}+a_{32}$ yig'indini toping.",
+    "A": "-4",
+    "B": "4",
+    "C": "0",
+    "D": "5",
+    "javob": "A"
   },
   {
-    "question": "$A(12;3)$ va $B(15;9)$ bo'lsa, $\\overrightarrow{AB}$ vektor koordinatasini toping.",
-    "options": ["$(3;6)$", "$(17;-3)$", "$(83;-5)$", "$(4;-6)$"],
-    "answer": "$(3;6)$"
+    "savol": "$\\vec{a}=(0, 1, 1)$ bo'lsa, $-5\\vec{a}$ ni toping.",
+    "A": "(0, -5, -5)",
+    "B": "(5, -4, 1)",
+    "C": "(3, -8, 7)",
+    "D": "(7, 8, 1)",
+    "javob": "A"
   },
   {
-    "question": "$A(5;3)$ va $B(1;9)$ bo'lsa, $\\overrightarrow{AB}$ vektor koordinatasini toping.",
-    "options": ["$(-4;6)$", "$(7;-3)$", "$(8;-5)$", "$(14;6)$"],
-    "answer": "$(-4;6)$"
+    "savol": "$\\vec{a}=(0, 2, 1)$ bo'lsa, $-5\\vec{a}$ ni toping.",
+    "A": "(0, -10, -5)",
+    "B": "(5, -4, 1)",
+    "C": "(3, -8, 7)",
+    "D": "(7, 8, 1)",
+    "javob": "A"
   },
   {
-    "question": "$A(5;3)$ va $B(10;9)$ bo'lsa, $\\overrightarrow{AB}$ vektor koordinatasini toping.",
-    "options": ["$(5;6)$", "$(7;-3)$", "$(8;-5)$", "$(-4;-6)$"],
-    "answer": "$(5;6)$"
+    "savol": "$\\vec{a}=(0, 3, 4)$ vektorning $|\\vec{a}|$ modulini hisoblang.",
+    "A": "$|\\vec{a}|=5$",
+    "B": "$|\\vec{a}|=3$",
+    "C": "$|\\vec{a}|=4$",
+    "D": "$|\\vec{a}|=9$",
+    "javob": "A"
   },
   {
-    "question": "$A(7;-3)$ va $B(10;-9)$ bo'lsa, $\\overrightarrow{AB}$ vektor koordinatasini toping.",
-    "options": ["$(3;-6)$", "$(4;-3)$", "$(8;-6)$", "$(-4;-6)$"],
-    "answer": "$(3;-6)$"
+    "savol": "$\\vec{a}=(0, 4, 1)$ bo'lsa, $-2\\vec{a}$ ni toping.",
+    "A": "(0, -8, -2)",
+    "B": "(5, -4, 1)",
+    "C": "(3, -8, 7)",
+    "D": "(7, 8, 1)",
+    "javob": "A"
   },
   {
-    "question": "$A = \\begin{pmatrix} 1 & 2 \\\\ 3 & 4 \\end{pmatrix}$ matritsa bo'yicha $2A$ matritsani toping.",
-    "options": [
-      "$\\begin{pmatrix} 2 & 4 \\\\ 6 & 8 \\end{pmatrix}$",
-      "$\\begin{pmatrix} 1 & 2 \\\\ 3 & 4 \\end{pmatrix}$",
-      "$\\begin{pmatrix} 0 & 0 \\\\ 0 & 0 \\end{pmatrix}$",
-      "$\\begin{pmatrix} 2 & 1 \\\\ 4 & 3 \\end{pmatrix}$"
-    ],
-    "answer": "$\\begin{pmatrix} 2 & 4 \\\\ 6 & 8 \\end{pmatrix}$"
+    "savol": "$\\vec{a}=(-2, 1, 0)$ bo'lsa, $3\\vec{a}$ ni toping.",
+    "A": "(-6, 3, 0)",
+    "B": "(5, -4, 1)",
+    "C": "(3, -8, 7)",
+    "D": "(7, 8, 1)",
+    "javob": "A"
   },
   {
-    "question": "$A(1;2)$ va $B(1;8)$ nuqtalar berilgan. $AB$ kesmani teng ikkiga bo'luvchi $C$ nuqtani toping.",
-    "options": ["$C(1;5)$", "$C(6;2)$", "$C(12;5)$", "$C(5;0)$"],
-    "answer": "$C(1;5)$"
+    "savol": "$\\vec{a}=(2, -1, 1)$ bo'lsa, $2\\vec{a}$ ni toping.",
+    "A": "(4, -2, 2)",
+    "B": "(5, -4, 1)",
+    "C": "(3, -8, 7)",
+    "D": "(7, 8, 1)",
+    "javob": "A"
   },
   {
-    "question": "$A(1;2;-7)$ nuqtani $YOZ$ tekisligiga nisbatan simmetrik ko'chiring.",
-    "options": ["$(-1;2;-7)$", "$(1;23;3)$", "$(-1;-1;0)$", "$(0;0;1)$"],
-    "answer": "$(-1;2;-7)$"
+    "savol": "$\\vec{a}=(2, -4, 1)$ bo'lsa, $-2\\vec{a}$ ni toping.",
+    "A": "(-4, 8, -2)",
+    "B": "(5, -4, 1)",
+    "C": "(3, -8, 7)",
+    "D": "(7, 8, 1)",
+    "javob": "A"
   },
   {
-    "question": "$A(-2;-3)$ nuqta koordinatalar tekisligining qaysi choragida joylashgan?",
-    "options": ["III", "I", "II", "IV"],
-    "answer": "III"
+    "savol": "$\\vec{a}=(3, 0, 1)$ bo'lsa, $-5\\vec{a}$ ni toping.",
+    "A": "(-15, 0, -5)",
+    "B": "(5, -4, 1)",
+    "C": "(3, -8, 7)",
+    "D": "(7, 8, 1)",
+    "javob": "A"
   },
   {
-    "question": "$A(2;3)$ nuqta koordinatalar tekisligining qaysi choragida joylashgan?",
-    "options": ["I", "IV", "II", "III"],
-    "answer": "I"
+    "savol": "$\\vec{a}=(3, 4, 0)$ bo'lsa, $3\\vec{a}$ ni toping.",
+    "A": "(9, 12, 0)",
+    "B": "(5, -4, 1)",
+    "C": "(3, -8, 7)",
+    "D": "(7, 8, 1)",
+    "javob": "A"
   },
   {
-    "question": "$A(5;2)$ va $B(5;4)$ nuqtalar berilgan. $AB$ kesmani teng ikkiga bo'luvchi $C$ nuqtani toping.",
-    "options": ["$C(5;3)$", "$C(6;2)$", "$C(12;5)$", "$C(5;0)$"],
-    "answer": "$C(5;3)$"
+    "savol": "Agar $\\forall x \\in X$ uchun $f(-x) = -f(x)$ tenglik bajarilsa $f(x)$ funksiya...",
+    "A": "Toq funksiya",
+    "B": "Juft funksiya",
+    "C": "Monoton funksiya",
+    "D": "Davriy funksiya",
+    "javob": "A"
   },
   {
-    "question": "$A(5;2;0)$ nuqtani $OZ$ o'qiga nisbatan simmetrik ko'chiring.",
-    "options": ["$(-5;-2;0)$", "$(5;2;9)$", "$(-1;-1;0)$", "$(0;0;1)$"],
-    "answer": "$(-5;-2;0)$"
+    "savol": "Agarda, tenglamalar ozod hadlaridan hech bo'lmaganda bittasi noldan farqli bo'lsa, sistema ...... Deb ataladi.",
+    "A": "Bir jinsli bo'lmagan sistema",
+    "B": "Trivial",
+    "C": "Yechim yo'q",
+    "D": "Cheksiz ko'p yechim",
+    "javob": "A"
   },
   {
-    "question": "$A = \\begin{pmatrix} 1 & 2 & 3 \\\\ 4 & 5 & 6 \\\\ 7 & 8 & 9 \\end{pmatrix}$ matritsaning elementlari bo'yicha $a_{23} + a_{32}$ yig'indini toping.",
-    "options": ["$-4$", "$4$", "$0$", "$5$"],
-    "answer": "$-4$"
+    "savol": "Barcha elementlari noldan iborat bo'lgan matritsa qanaqa matritsa deyiladi?",
+    "A": "Nol matritsa",
+    "B": "Kvadrat matritsa",
+    "C": "Diagonal matritsa",
+    "D": "To'rtburchak matritsa",
+    "javob": "A"
   },
   {
-    "question": "$\\vec{A} = (0, 1, 1)$ bo'lsa, $-5\\vec{A}$ ni toping.",
-    "options": ["$(0, -5, -5)$", "$(5, -4, 1)$", "$(3, -8, 7)$", "$(7, 8, 1)$"],
-    "answer": "$(0, -5, -5)$"
+    "savol": "Bir jinsli chiziqli tenglamalar sistemasining yechimi ichida kamida bitta noldan farqli son mavjud bo'lsa, u ..... Deb ataladi.",
+    "A": "Notrivial yechim",
+    "B": "Trivial",
+    "C": "Yechim yo'q",
+    "D": "Cheksiz ko'p yechim",
+    "javob": "A"
   },
   {
-    "question": "$\\vec{A} = (0, 2, 1)$ bo'lsa, $-5\\vec{A}$ ni toping.",
-    "options": ["$(0, -10, -5)$", "$(5, -4, 1)$", "$(3, -8, 7)$", "$(7, 8, 1)$"],
-    "answer": "$(0, -10, -5)$"
+    "savol": "Birlik matritsa nima?",
+    "A": "Diagonal elementlari 1 dan iborat bo'lgan matritsa",
+    "B": "Barcha elementlari 1 dan iborat bo'lgan matritsa",
+    "C": "Diaganaldan boshqa elementlari 1 bo'lgan matritsa",
+    "D": "Turli sonlardan iborat matritsa",
+    "javob": "A"
   },
   {
-    "question": "$\\vec{A} = (0, 3, 4)$ vektorning $|\\vec{a}|$ modulini hisoblang.",
-    "options": ["$|\\vec{a}| = 5$", "$|\\vec{a}| = 3$", "$|\\vec{a}| = 4$", "$|\\vec{a}| = 9$"],
-    "answer": "$|\\vec{a}| = 5$"
+    "savol": "Birlik matritsani ko'rsating.",
+    "A": "$\\begin{pmatrix} 1&0&0\\\\0&1&0\\\\0&0&1 \\end{pmatrix}$",
+    "B": "$\\begin{pmatrix} 1\\\\3\\\\1 \\end{pmatrix}$",
+    "C": "$(2\\ 1\\ 3)$",
+    "D": "$\\begin{pmatrix} 2\\\\2 \\end{pmatrix}$",
+    "javob": "A"
   },
   {
-    "question": "$\\vec{A} = (0, 4, 1)$ bo'lsa, $-2\\vec{A}$ ni toping.",
-    "options": ["$(0, -8, -2)$", "$(5, -4, 1)$", "$(3, -8, 7)$", "$(7, 8, 1)$"],
-    "answer": "$(0, -8, -2)$"
+    "savol": "Burchak koeffitsienti 1 ga teng bo'lsa, chiziqning yo'nalishi qanday bo'ladi?",
+    "A": "45° burchak ostida",
+    "B": "Gorizontal yo'nalishda",
+    "C": "Parallel holatda",
+    "D": "90° burchak ostida",
+    "javob": "A"
   },
   {
-    "question": "$\\vec{A} = (-2, 1, 0)$ bo'lsa, $3\\vec{A}$ ni toping.",
-    "options": ["$(-6, 3, 0)$", "$(5, -4, 1)$", "$(3, -8, 7)$", "$(7, 8, 1)$"],
-    "answer": "$(-6, 3, 0)$"
+    "savol": "Chiziqli tenglamalar sistemasi nimalardan iborat?",
+    "A": "Noma'lum koeffitsiyentlar, Sistema koeffitsiyentlari va ozod sonlardan",
+    "B": "Ozod sonlardan",
+    "C": "Noma'lum koeffitsiyentlardan",
+    "D": "Sistema koeffitsiyentlaridan",
+    "javob": "A"
   },
   {
-    "question": "$\\vec{A} = (2, -1, 1)$ bo'lsa, $2\\vec{A}$ ni toping.",
-    "options": ["$(4, -2, 2)$", "$(5, -4, 1)$", "$(3, -8, 7)$", "$(7, 8, 1)$"],
-    "answer": "$(4, -2, 2)$"
+    "savol": "Chiziqli tenglamalar sistemasi qachon bir jinsli deyiladi?",
+    "A": "Ozod hadlar nolga teng bo'lsa",
+    "B": "Ozod hadlar birga teng bo'lsa",
+    "C": "Ozod hadlar ikkiga teng bo'lsa",
+    "D": "Ozod hadlar uchga teng bo'lsa",
+    "javob": "A"
   },
   {
-    "question": "$\\vec{A} = (2, -4, 1)$ bo'lsa, $-2\\vec{A}$ ni toping.",
-    "options": ["$(-4, 8, -2)$", "$(5, -4, 1)$", "$(3, -8, 7)$", "$(7, 8, 1)$"],
-    "answer": "$(-4, 8, -2)$"
+    "savol": "Chiziqli tenglamalar sistemasi qachon birgalikda deyiladi?",
+    "A": "Algebraik tenglamalar sistemasi yechimga ega bo'lsa",
+    "B": "Algebraik tenglamalar sistemasi yechimga ega bo'lmasa",
+    "C": "Faqat bitta yechimga ega bo'lsa",
+    "D": "Cheksiz ko'p yechimga ega bo'lsa",
+    "javob": "A"
   },
   {
-    "question": "$\\vec{A} = (3, 0, 1)$ bo'lsa, $-5\\vec{A}$ ni toping.",
-    "options": ["$(-15, 0, -5)$", "$(5, -4, 1)$", "$(3, -8, 7)$", "$(7, 8, 1)$"],
-    "answer": "$(-15, 0, -5)$"
+    "savol": "Chiziqli tenglamalar sistemasi qachon sistema aniqlangan deyiladi?",
+    "A": "Faqat bitta yechimga ega bo'lsa",
+    "B": "Algebraik tenglamalar sistemasi yechimga ega bo'lsa",
+    "C": "Algebraik tenglamalar sistemasi yechimga ega bo'lmasa",
+    "D": "Cheksiz ko'p yechimga ega bo'lsa",
+    "javob": "A"
   },
   {
-    "question": "$\\vec{A} = (3, 4, 0)$ bo'lsa, $3\\vec{A}$ ni toping.",
-    "options": ["$(9, 12, 0)$", "$(5, -4, 1)$", "$(3, -8, 7)$", "$(7, 8, 1)$"],
-    "answer": "$(9, 12, 0)$"
+    "savol": "Chiziqli tenglamalar sistemasida $\\Delta \\neq 0$ bo'lsa nechta yechim mavjud bo'ladi?",
+    "A": "3 ta",
+    "B": "2 ta",
+    "C": "Yechim yo'q",
+    "D": "Cheksiz",
+    "javob": "A"
   },
   {
-    "question": "Agar $f(-x) = -f(x)$ tenglik bajarilsa, $f(x)$ funksiya ...",
-    "options": ["Toq funksiya", "Juft funksiya", "Monoton funksiya", "Davriy funksiya"],
-    "answer": "Toq funksiya"
+    "savol": "Chiziqli tenglamalar sistemasida $\\Delta=0$ bo'lib, $\\Delta_1= \\Delta_2= \\Delta_3=0$ bo'lsa nechta yechim mavjud bo'ladi?",
+    "A": "Cheksiz",
+    "B": "Yechim yo'q",
+    "C": "3 ta",
+    "D": "2 ta",
+    "javob": "A"
   },
   {
-    "question": "Agarda tenglamalar ozod hadlaridan hech bo'lmaganda bittasi noldan farqli bo'lsa, sistema ... deb ataladi.",
-    "options": ["Bir jinsli bo'lmagan sistema", "Trivial", "Yechim yo'q", "Cheksiz ko'p yechim"],
-    "answer": "Bir jinsli bo'lmagan sistema"
+    "savol": "Chiziqli tenglamalar sistemasini yechishda qaysi elementlardan matritsa tuziladi?",
+    "A": "Noma'lumlar oldidagi koeffitsiyentlardan",
+    "B": "Ozod sonlardan",
+    "C": "Indekslardan",
+    "D": "Barcha javoblar to'g'ri",
+    "javob": "A"
   },
   {
-    "question": "Barcha elementlari noldan iborat bo'lgan matritsa qanaqa matritsa deyiladi?",
-    "options": ["Nol matritsa", "Kvadrat matritsa", "Diagonal matritsa", "To'rtburchak matritsa"],
-    "answer": "Nol matritsa"
+    "savol": "Chiziqli tenglamalar sistemasini yechishda qaysi usullardan foydalanamiz?",
+    "A": "Kramer, matritsa va Gauss usuli",
+    "B": "Dalamber usuli",
+    "C": "Uchburchaklar usuli",
+    "D": "Sarius usuli",
+    "javob": "A"
   },
   {
-    "question": "Bir jinsli chiziqli tenglamalar sistemasining yechimi ichida kamida bitta noldan farqli son mavjud bo'lsa, u ... deb ataladi.",
-    "options": ["Notrivial yechim", "Trivial", "Yechim yo'q", "Cheksiz ko'p yechim"],
-    "answer": "Notrivial yechim"
+    "savol": "$\\begin{vmatrix} 1 & 4 \\\\ 2 & 3 \\end{vmatrix}$ Determinantni hisoblang.",
+    "A": "-5",
+    "B": "-13",
+    "C": "13",
+    "D": "7",
+    "javob": "A"
   },
   {
-    "question": "Birlik matritsa nima?",
-    "options": [
-      "Diagonal elementlari $1$ dan iborat bo'lgan matritsa",
-      "Barcha elementlari $1$ dan iborat bo'lgan matritsa",
-      "Diagonallan boshqa elementlari $1$ bo'lgan matritsa",
-      "Turli sonlardan iborat matritsa"
-    ],
-    "answer": "Diagonal elementlari $1$ dan iborat bo'lgan matritsa"
+    "savol": "$\\begin{vmatrix} 1 & 4 \\\\ 3 & 1 \\end{vmatrix}$ Determinantni hisoblang:",
+    "A": "-13",
+    "B": "-5",
+    "C": "13",
+    "D": "-6",
+    "javob": "A"
   },
   {
-    "question": "Birlik matritsani ko'rsating.",
-    "options": [
-      "$\\begin{pmatrix} 1 & 0 \\\\ 0 & 1 \\end{pmatrix}$",
-      "$\\begin{pmatrix} 0 & 1 \\\\ 1 & 0 \\end{pmatrix}$",
-      "$(2 \\; 1 \\; 3)$",
-      "$\\begin{pmatrix} 1 \\\\ 1 \\end{pmatrix}$"
-    ],
-    "answer": "$\\begin{pmatrix} 1 & 0 \\\\ 0 & 1 \\end{pmatrix}$"
+    "savol": "Determinant bu-",
+    "A": "Son",
+    "B": "Vektor",
+    "C": "Doiraviy qavs ichiga olingan jadval",
+    "D": "AB ko'paytma",
+    "javob": "A"
   },
   {
-    "question": "Burchak koeffitsienti $1$ ga teng bo'lsa, chiziqning yo'nalishi qanday bo'ladi?",
-    "options": ["$45^\\circ$ burchak ostida", "Gorizontal yo'nalishda", "Parallel holatda", "$90^\\circ$ burchak ostida"],
-    "answer": "$45^\\circ$ burchak ostida"
+    "savol": "$f(x)$ va $g(x)$ funksiyalarni qo'shish qoidasini toping.",
+    "A": "$(f+g)(x)=f(x)+g(x)$",
+    "B": "$(f-g)(x)=f(x)-g(x)$",
+    "C": "$(fg)(x)=f(x)g(x)$",
+    "D": "$(f/g)(x)=f(x)/g(x)$",
+    "javob": "A"
   },
   {
-    "question": "Chiziqli tenglamalar sistemasi nimalardan iborat?",
-    "options": [
-      "Noma'lumlar, koeffitsiyentlar va ozod sonlardan",
-      "Faqat ozod sonlardan",
-      "Faqat noma'lumlar koeffitsiyentlaridan",
-      "Faqat sistema koeffitsiyentlaridan"
-    ],
-    "answer": "Noma'lumlar, koeffitsiyentlar va ozod sonlardan"
+    "savol": "$F(x)=2x^2-6x+7$ funksiyani $f(1)$ qiymatini toping.",
+    "A": "3",
+    "B": "-3",
+    "C": "5",
+    "D": "4",
+    "javob": "A"
   },
   {
-    "question": "Chiziqli tenglamalar sistemasi qachon bir jinsli deyiladi?",
-    "options": ["Ozod hadlar nolga teng bo'lsa", "Ozod hadlar birga teng bo'lsa", "Ozod hadlar ikkiga teng bo'lsa", "Ozod hadlar uchga teng bo'lsa"],
-    "answer": "Ozod hadlar nolga teng bo'lsa"
+    "savol": "$F(x)=6x^6-5x^2$ funksiyaning $f(1)$ dagi qiymatini toping.",
+    "A": "1",
+    "B": "2",
+    "C": "-2",
+    "D": "5",
+    "javob": "A"
   },
   {
-    "question": "Chiziqli tenglamalar sistemasi qachon birgalikda deyiladi?",
-    "options": ["Yechimga ega bo'lsa", "Yechimga ega bo'lmasa", "Faqat bitta yechimga ega bo'lsa", "Cheksiz ko'p yechimga ega bo'lsa"],
-    "answer": "Yechimga ega bo'lsa"
+    "savol": "$F(x)=x^4-6x^2+7$ funksiya haqidagi to'g'ri tasdiqni aniqlang.",
+    "A": "Juft funksiya.",
+    "B": "Na juft na toq",
+    "C": "Toq funksiya",
+    "D": "Kamayuvchi funksiya",
+    "javob": "A"
   },
   {
-    "question": "Chiziqli tenglamalar sistemasi qachon aniqlangan deyiladi?",
-    "options": ["Faqat bitta yechimga ega bo'lsa", "Yechimga ega bo'lsa", "Yechimga ega bo'lmasa", "Cheksiz ko'p yechimga ega bo'lsa"],
-    "answer": "Faqat bitta yechimga ega bo'lsa"
+    "savol": "Funksiya maksimum va minimumlari umumiy nom bilan uning .... Deyiladi.",
+    "A": "Ekstremumlari",
+    "B": "Statsionar nuqtalari",
+    "C": "Egilish nuqtalari",
+    "D": "Asimtotalari",
+    "javob": "A"
   },
   {
-    "question": "Chiziqli tenglamalar sistemasida $\\operatorname{rank}(A) = 3$, $\\operatorname{rank}(A|B) = 3$, $n = 3$ bo'lsa, nechta yechim mavjud?",
-    "options": ["$3$ ta", "$2$ ta", "Yechim yo'q", "Cheksiz ko'p"],
-    "answer": "Cheksiz ko'p"
+    "savol": "Funksiya so'zi qaysi tildan olingan?",
+    "A": "Lotincha",
+    "B": "Yunoncha",
+    "C": "Ruscha",
+    "D": "Inglizcha",
+    "javob": "A"
   },
   {
-    "question": "Chiziqli tenglamalar sistemasida $\\operatorname{rank}(A) = 2$, $\\operatorname{rank}(A|B) = 3$, $n = 3$ bo'lsa, nechta yechim mavjud?",
-    "options": ["Cheksiz ko'p", "Yechim yo'q", "$3$ ta", "$2$ ta"],
-    "answer": "Yechim yo'q"
+    "savol": "Funksiya so'zining ma'nosi nima?",
+    "A": "Vazifa",
+    "B": "Yumush",
+    "C": "Ish",
+    "D": "Masala",
+    "javob": "A"
   },
   {
-    "question": "Chiziqli tenglamalar sistemasini yechishda qaysi elementlardan matritsa tuziladi?",
-    "options": ["Noma'lumlar oldidagi koeffitsiyentlardan", "Ozod sonlardan", "Indekslardan", "Barcha javoblar to'g'ri"],
-    "answer": "Noma'lumlar oldidagi koeffitsiyentlardan"
+    "savol": "Funksiyaning aniqlanish sohasi ... bilan belgilanadi.",
+    "A": "$D(y)$",
+    "B": "$E(y)$",
+    "C": "$F(y)$",
+    "D": "$G(y)$",
+    "javob": "A"
   },
   {
-    "question": "Chiziqli tenglamalar sistemasini yechishda qaysi usullardan foydalanamiz?",
-    "options": ["Kramer, matritsa va Gauss usuli", "Dalamber usuli", "Uchburchaklar usuli", "Sarius usuli"],
-    "answer": "Kramer, matritsa va Gauss usuli"
+    "savol": "Grafik usulda berilgan funksiyalar qanday ko'rinishda bo'ladi?",
+    "A": "Funksiyaning qiymatlarining argument qiymatlariga bog'liqligining grafik tarzda beriladi",
+    "B": "Funksiya ma'lum formula, ya'ni erkli o'zgaruvchi( argument)ning erksiz o'zgaruvchi(funksiya) ga bog'lanish ko'rinishida beriladi",
+    "C": "Erkli o'zgaruvchi(argument) ning erksiz o'zgaruvchi(funksiya ) ning mos qiymatlarini jadval shaklda beriladi",
+    "D": "Barcha javoblar to'g'ri",
+    "javob": "A"
   },
   {
-    "question": "$\\begin{vmatrix} 1 & 2 \\\\ 3 & 4 \\end{vmatrix}$ determinantni hisoblang.",
-    "options": ["$-5$", "$-13$", "$13$", "$7$"],
-    "answer": "$-5$"
+    "savol": "Ikki funksiya ko'paytmasining limiti bu funksiyalar...",
+    "A": "Limitlarning ko'paytmasiga teng",
+    "B": "Limitlarning bo'linmasiga teng",
+    "C": "Limitlarning ayirmasiga teng",
+    "D": "Limitlarning yig'indisiga teng",
+    "javob": "A"
   },
   {
-    "question": "$\\begin{vmatrix} 2 & 1 \\\\ 3 & 5 \\end{vmatrix}$ determinantni hisoblang.",
-    "options": ["$-13$", "$-5$", "$13$", "$-6$"],
-    "answer": "$-13$"
+    "savol": "Ikki to'g'ri chiziqning perpendikulyar joylashish sharti qaysi qatorda ko'rsatilgan?",
+    "A": "$k_1 \\cdot k_2 = -1$",
+    "B": "$k=0$",
+    "C": "$k=1$",
+    "D": "$k<0$",
+    "javob": "A"
   },
   {
-    "question": "Determinant bu ...",
-    "options": ["Son", "Vektor", "Doiraviy qavs ichiga olingan jadval", "$AB$ ko'paytma"],
-    "answer": "Son"
+    "savol": "Jadval usulda berilgan funksiyalar qanday ko'rinishda bo'ladi?",
+    "A": "Erkli o'zgaruvchi(argument) ning erksiz o'zgaruvchi(funksiya) ning mos qiymatlarini jadval shaklda beriladi",
+    "B": "Funksiya ma'lum formula, ya'ni erkli o'zgaruvchi(argument)ning erksiz o'zgaruvchi(funksiya) ga bog'lanish ko'rinishida beriladi",
+    "C": "Funksiyaning qiymatlarining argument qiymatlariga bog'liqligining grafik tarzda beriladi",
+    "D": "Barcha javoblar to'g'ri",
+    "javob": "A"
   },
   {
-    "question": "$f(x)$ va $g(x)$ funksiyalarni qo'shish qoidasini toping.",
-    "options": [
-      "$(f+g)(x) = f(x) + g(x)$",
-      "$(f+g)(x) = f(x) + g(x)$",
-      "$(f+g)(x) = f(x) + g(x)$",
-      "$(f+g)(x) = f(x) + g(x)$"
-    ],
-    "answer": "$(f+g)(x) = f(x) + g(x)$"
+    "savol": "Kompleks sonning haqiqiy qismi qanday belgilanadi?",
+    "A": "$Re(Z)$",
+    "B": "$Im(Z)$",
+    "C": "$R$",
+    "D": "$Q$",
+    "javob": "A"
   },
   {
-    "question": "$f(x) = 2x^2 - 6x + 7$ funksiyaning $f(1)$ qiymatini toping.",
-    "options": ["$3$", "$-3$", "$5$", "$4$"],
-    "answer": "$3$"
+    "savol": "Kompleks sonning mavhum qismi qanday ifodalanadi?",
+    "A": "$Im(Z)$",
+    "B": "$Re(Z)$",
+    "C": "$R$",
+    "D": "$Q$",
+    "javob": "A"
   },
   {
-    "question": "$f(x) = 6x^6 - 5x^2$ funksiyaning $f(1)$ qiymatini toping.",
-    "options": ["$1$", "$2$", "$-2$", "$5$"],
-    "answer": "$1$"
+    "savol": "Kompleks sonning moduli qanday formula orqali aniqlanadi?",
+    "A": "$|z|=\\sqrt{a^2+b^2}$",
+    "B": "$|z|=\\sqrt{a^2b^2}$",
+    "C": "$|z|=\\sqrt{a^2+ib^2}$",
+    "D": "$|z|=\\sqrt{ia^2+b^2}$",
+    "javob": "A"
   },
   {
-    "question": "$f(x) = x^4 - 6x^2 + 7$ funksiya haqidagi to'g'ri tasdiqni aniqlang.",
-    "options": ["Juft funksiya", "Na juft na toq", "Toq funksiya", "Kamayuvchi funksiya"],
-    "answer": "Juft funksiya"
+    "savol": "Kramer usuli yordamida uch noma'lumli sistemada nechta yordamchi determinant hisoblanadi?",
+    "A": "3 ta",
+    "B": "2 ta",
+    "C": "4 ta",
+    "D": "1 ta",
+    "javob": "A"
   },
   {
-    "question": "Funksiya maksimum va minimumlari umumiy nom bilan uning ... deyiladi.",
-    "options": ["Ekstremumlari", "Statsionar nuqtalari", "Egilish nuqtalari", "Asimptotalari"],
-    "answer": "Ekstremumlari"
+    "savol": "Kramer usulida $\\Delta$ determinant 0 ga teng bo'lmasa, sistema qanday yechimga ega?",
+    "A": "Yagona",
+    "B": "Yechimga ega emas",
+    "C": "Cheksiz ko'p yechimga ega",
+    "D": "Ikkita yechimga ega",
+    "javob": "A"
   },
   {
-    "question": "Funksiya so'zi qaysi tildan olingan?",
-    "options": ["Lotincha", "Yunoncha", "Ruscha", "Inglizcha"],
-    "answer": "Lotincha"
+    "savol": "Kramer usulida $\\Delta_x$ determinant qanday hosil qilinadi?",
+    "A": "X oldidagi koeffitsiyentlar o'rniga ozod hadlar qo'yishdan",
+    "B": "Sistema koeffitsiyentlardan",
+    "C": "Ozod hadlardan",
+    "D": "Ma'lum harflardan",
+    "javob": "A"
   },
   {
-    "question": "Funksiya so'zining ma'nosi nima?",
-    "options": ["Vazifa", "Yumush", "Ish", "Masala"],
-    "answer": "Vazifa"
+    "savol": "Kvadrat matritsa deb qanday matritsaga aytiladi?",
+    "A": "Satrlar soni ustunlar soniga teng matritsaga",
+    "B": "Satrlar soni ustunlar soniga teng bo'lmagan matritsaga",
+    "C": "Satrlar soni ustunlar sonidan katta bo'lgan matritsaga",
+    "D": "Satrlar soni ustunlar sonidan kichik bo'lgan matritsaga",
+    "javob": "A"
   },
   {
-    "question": "Funksiyaning aniqlanish sohasi ... bilan belgilanadi.",
-    "options": ["$D(y)$", "$E(y)$", "$F(y)$", "$G(y)$"],
-    "answer": "$D(y)$"
+    "savol": "Matritsa deb nimaga aytiladi?",
+    "A": "M ta satr va n ta ustunga ega bo'lgan qavslar ichiga olingan to'rtburchakli sonlar jadvali",
+    "B": "M ta satr va n ta ustunga ega bo'lgan qavslar ichiga olingan uchburchakli harflar jadvali",
+    "C": "Harflar yig'indisidan iborat ifoda",
+    "D": "Sonlarning ko'paytmasidan iborat ifoda",
+    "javob": "A"
   },
   {
-    "question": "Grafik usulda berilgan funksiyalar qanday ko'rinishda bo'ladi?",
-    "options": [
-      "Funksiyaning qiymatlarining argument qiymatlariga bog'liqligining grafik tarzda beriladi",
-      "Funksiya formula ko'rinishida beriladi",
-      "Qiymatlar jadval shaklida beriladi",
-      "Barcha javoblar to'g'ri"
-    ],
-    "answer": "Funksiyaning qiymatlarining argument qiymatlariga bog'liqligining grafik tarzda beriladi"
+    "savol": "Matritsalar qanday belgilanadi?",
+    "A": "Katta harflar bilan",
+    "B": "Kichik harflar bilan",
+    "C": "Belgilanmaydi",
+    "D": "Nuqta bilan",
+    "javob": "A"
   },
   {
-    "question": "Ikki funksiya ko'paytmasining limiti bu funksiyalar ...",
-    "options": ["Limitlarning ko'paytmasiga teng", "Limitlarning bo'linmasiga teng", "Limitlarning ayirmasiga teng", "Limitlarning yig'indisiga teng"],
-    "answer": "Limitlarning ko'paytmasiga teng"
+    "savol": "Matritsani nolga ko'paytirish natijasi qanday?",
+    "A": "Nol matritsa hosil qiladi",
+    "B": "Kvadrat matritsa hosil qiladi",
+    "C": "Qator va ustunlar sonini o'zgartiradi",
+    "D": "Matritsaning determinantini beradi",
+    "javob": "A"
   },
   {
-    "question": "Ikki to'g'ri chiziqning perpendikular joylashish sharti qaysi?",
-    "options": ["$k_1 \\cdot k_2 = -1$", "$k = 0$", "$k = 1$", "$k < 0$"],
-    "answer": "$k_1 \\cdot k_2 = -1$"
+    "savol": "Matritsani tashkil qilgan sonlar nima deyiladi?",
+    "A": "Elementlar",
+    "B": "Harflar",
+    "C": "Belgilar",
+    "D": "Natural sonlar",
+    "javob": "A"
   },
   {
-    "question": "Jadval usulda berilgan funksiyalar qanday ko'rinishda bo'ladi?",
-    "options": [
-      "Erkli o'zgaruvchining erksiz o'zgaruvchiga mos qiymatlari jadval shaklida beriladi",
-      "Funksiya formula ko'rinishida beriladi",
-      "Funksiya grafik ko'rinishida beriladi",
-      "Barcha javoblar to'g'ri"
-    ],
-    "answer": "Erkli o'zgaruvchining erksiz o'zgaruvchiga mos qiymatlari jadval shaklida beriladi"
+    "savol": "Moduli nolga teng bo'lgan vektor qanaqa vektor deyiladi?",
+    "A": "Nol vektor",
+    "B": "Birlik vektor",
+    "C": "Absolyut vektor",
+    "D": "Kollinear vektor",
+    "javob": "A"
   },
   {
-    "question": "Kompleks sonning haqiqiy qismi qanday belgilanadi?",
-    "options": ["$\\operatorname{Re}(Z)$", "$\\operatorname{Im}(Z)$", "$R$", "$Q$"],
-    "answer": "$\\operatorname{Re}(Z)$"
+    "savol": "O'suvchi va kamayuvchi funksiyalar umumiy nom bilan qanday funksiyalar deyiladi?",
+    "A": "Monoton funksiyalar",
+    "B": "Davriy funksiya",
+    "C": "Toq funksiya",
+    "D": "Uzluksiz funksiya",
+    "javob": "A"
   },
   {
-    "question": "Kompleks sonning mavhum qismi qanday ifodalanadi?",
-    "options": ["$\\operatorname{Im}(Z)$", "$\\operatorname{Re}(Z)$", "$R$", "$Q$"],
-    "answer": "$\\operatorname{Im}(Z)$"
+    "savol": "Parallel chiziqlar uchun asosiy shart qaysi?",
+    "A": "Ularning burchak koeffitsientlari teng bo'lishi",
+    "B": "Ularning kesishish nuqtasi nol bo'lishi",
+    "C": "Ularning uzunliklari teng bo'lishi",
+    "D": "Ularning grafigi bir xil bo'lishi",
+    "javob": "A"
   },
   {
-    "question": "Kompleks sonning moduli qanday formula orqali aniqlanadi?",
-    "options": ["$|z| = \\sqrt{a^2 + b^2}$", "$|z| = a + b$", "$|z| = a^2 + b^2$", "$|z| = \\sqrt{a^2 - b^2}$"],
-    "answer": "$|z| = \\sqrt{a^2 + b^2}$"
+    "savol": "Quyida qaysi formula ko'rsatilgan? $|\\vec{a}| = \\sqrt{x^2+y^2+z^2}$",
+    "A": "Vektor uzunligi",
+    "B": "Skalyar ko'paytma",
+    "C": "Vektor ko'paytma",
+    "D": "Aralash ko'paytma",
+    "javob": "A"
   },
   {
-    "question": "Kramer usuli yordamida uch noma'lumli sistemada nechta yordamchi determinant hisoblanadi?",
-    "options": ["$3$ ta", "$2$ ta", "$4$ ta", "$1$ ta"],
-    "answer": "$3$ ta"
+    "savol": "Quyida qaysi formula ko'rsatilgan? $\\frac{x}{a}+\\frac{y}{b}=1$",
+    "A": "To'g'ri chiziqning kesmalardagi tenglamasi",
+    "B": "To'g'ri chiziqning kanonik tenglamasi",
+    "C": "To'g'ri chiziqning vektorli tenglamasi",
+    "D": "Berilgan ikki nuqtadan o'tgan to'g'ri chiziqning tenglamasi",
+    "javob": "A"
   },
   {
-    "question": "Kramer usulida $\\Delta$ determinant $0$ ga teng bo'lmasa, sistema qanday yechimga ega?",
-    "options": ["Yagona", "Yechimga ega emas", "Cheksiz ko'p yechimga ega", "Ikkita yechimga ega"],
-    "answer": "Yagona"
+    "savol": "Quyida qaysi formula ko'rsatilgan? $\\vec{a} \\cdot \\vec{b} = x_1x_2+y_1y_2+z_1z_2$",
+    "A": "Skalyar ko'paytma",
+    "B": "Vektor ko'paytma",
+    "C": "Aralash ko'paytma",
+    "D": "Sonlar ko'paytmasi",
+    "javob": "A"
   },
   {
-    "question": "Kramer usulida $\\Delta_x$ determinant qanday hosil qilinadi?",
-    "options": [
-      "$x$ oldidagi koeffitsiyentlar o'rniga ozod hadlar qo'yishdan",
-      "Sistema koeffitsiyentlaridan",
-      "Ozod hadlardan",
-      "Ma'lum harflardan"
-    ],
-    "answer": "$x$ oldidagi koeffitsiyentlar o'rniga ozod hadlar qo'yishdan"
+    "savol": "Quyida qaysi formula ko'rsatilgan? $|\\vec{a}| = \\sqrt{x^2+y^2}$",
+    "A": "Vektor uzunligi",
+    "B": "Skalyar ko'paytma",
+    "C": "Vektor ko'paytma",
+    "D": "Aralash ko'paytma",
+    "javob": "A"
   },
   {
-    "question": "Kvadrat matritsa deb qanday matritsaga aytiladi?",
-    "options": [
-      "Satrlar soni ustunlar soniga teng matritsaga",
-      "Satrlar soni ustunlar soniga teng bo'lmagan matritsaga",
-      "Satrlar soni ustunlar sonidan katta matritsaga",
-      "Satrlar soni ustunlar sonidan kichik matritsaga"
-    ],
-    "answer": "Satrlar soni ustunlar soniga teng matritsaga"
+    "savol": "Satr matritsa nima?",
+    "A": "Faqat 1 ta satrdan iborat matritsa",
+    "B": "Faqat bitta ustundan iborat matritsa",
+    "C": "Ikkita satrdan iborat matritsa",
+    "D": "Ikkita ustundan iborat matritsa",
+    "javob": "A"
   },
   {
-    "question": "Matritsa deb nimaga aytiladi?",
-    "options": [
-      "$m$ ta satr va $n$ ta ustunga ega bo'lgan qavslar ichiga olingan to'rtburchakli sonlar jadvali",
-      "$m$ ta satr va $n$ ta ustunga ega bo'lgan uchburchakli harflar jadvali",
-      "Harflar yig'indisidan iborat ifoda",
-      "Sonlarning ko'paytmasidan iborat ifoda"
-    ],
-    "answer": "$m$ ta satr va $n$ ta ustunga ega bo'lgan qavslar ichiga olingan to'rtburchakli sonlar jadvali"
+    "savol": "Skalyar ko'paytma yordamida nimani aniqlash mumkin?",
+    "A": "Ikki vektor orasidagi burchakni",
+    "B": "Vektorning uzunligini",
+    "C": "Vektorning modulini",
+    "D": "Radiusni",
+    "javob": "A"
   },
   {
-    "question": "Matritsalar qanday belgilanadi?",
-    "options": ["Katta harflar bilan", "Kichik harflar bilan", "Belgilanmaydi", "Nuqta bilan"],
-    "answer": "Katta harflar bilan"
+    "savol": "Ta'rifni davom ettiring. Bir to'plam elementlarini boshqa to'plam elementlari bilan ma'lum bir qoida orqali bo'lanishiga ...... deyiladi.",
+    "A": "Funksiya",
+    "B": "Nol",
+    "C": "Matritsa",
+    "D": "Determinant",
+    "javob": "A"
   },
   {
-    "question": "Matritsani nolga ko'paytirish natijasi qanday?",
-    "options": ["Nol matritsa hosil qiladi", "Kvadrat matritsa hosil qiladi", "Qator va ustunlar sonini o'zgartiradi", "Matritsaning determinantini beradi"],
-    "answer": "Nol matritsa hosil qiladi"
+    "savol": "Ta'rifni davom ettiring. Funksiyaning qiymatlar sohasi .... kabi belgilanadi.",
+    "A": "$E(f)$",
+    "B": "$T(f)$",
+    "C": "$F(x)$",
+    "D": "$D(f)$",
+    "javob": "A"
   },
   {
-    "question": "Matritsani tashkil qilgan sonlar nima deyiladi?",
-    "options": ["Elementlar", "Harflar", "Belgilar", "Natural sonlar"],
-    "answer": "Elementlar"
+    "savol": "Ta'rifni davom ettiring. $y=f(x)$ funksiyaning qabul qilishi mumkin bo'lgan qiymatlar to'plamiga .... deyiladi.",
+    "A": "Qiymatlar sohasi",
+    "B": "Aniqlanish sohasi",
+    "C": "Funksiya",
+    "D": "Nol",
+    "javob": "A"
   },
   {
-    "question": "Moduli nolga teng bo'lgan vektor qanaqa vektor deyiladi?",
-    "options": ["Nol vektor", "Birlik vektor", "Absolyut vektor", "Kollinear vektor"],
-    "answer": "Nol vektor"
+    "savol": "Ta'rifni to'ldiring: $y=f(x)$ funksiyaning ....... deb $x$ argumentning qabul qilishi mumkin bo'ladigan qiymatlar to'plamiga aytiladi.",
+    "A": "Aniqlanish sohasi",
+    "B": "Manfiy",
+    "C": "Cheksiz",
+    "D": "Ma'noga ega",
+    "javob": "A"
   },
   {
-    "question": "O'suvchi va kamayuvchi funksiyalar umumiy nom bilan qanday funksiyalar deyiladi?",
-    "options": ["Monoton funksiyalar", "Davriy funksiya", "Toq funksiya", "Uzluksiz funksiya"],
-    "answer": "Monoton funksiyalar"
+    "savol": "Teng vektorlar qanday aniqlanadi?",
+    "A": "Mos komponentlari teng bo'lsa",
+    "B": "Har doim parallel bo'lsa",
+    "C": "Har doim perpendikulyar bo'lsa",
+    "D": "Nol bo'lsa",
+    "javob": "A"
   },
   {
-    "question": "Parallel chiziqlar uchun asosiy shart qaysi?",
-    "options": ["Burchak koeffitsientlari teng bo'lishi", "Kesishish nuqtasi nol bo'lishi", "Uzunliklari teng bo'lishi", "Grafigi bir xil bo'lishi"],
-    "answer": "Burchak koeffitsientlari teng bo'lishi"
+    "savol": "Tenglamalar sistemasini determinantlar orqali yechish usulini toping.",
+    "A": "Kramer",
+    "B": "Gauss",
+    "C": "Gauss-Jordan",
+    "D": "O'rniga qo'yish usuli",
+    "javob": "A"
   },
   {
-    "question": "$\\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$ formula nimani ifodalaydi?",
-    "options": ["Vektor uzunligi", "Skalyar ko'paytma", "Vektor ko'paytma", "Aralash ko'paytma"],
-    "answer": "Vektor uzunligi"
+    "savol": "$\\begin{cases} x+2y=4 \\\\ x-y=1 \\end{cases}$ Tenglamalar sistemasini yeching.",
+    "A": "X=2; Y=1",
+    "B": "X=2; y=0",
+    "C": "X=10; y=10",
+    "D": "X=5; y=-5",
+    "javob": "A"
   },
   {
-    "question": "$\\frac{x}{a} + \\frac{y}{b} = 1$ formula nimani ifodalaydi?",
-    "options": [
-      "To'g'ri chiziqning kesmalardagi tenglamasi",
-      "To'g'ri chiziqning kanonik tenglamasi",
-      "To'g'ri chiziqning vektorli tenglamasi",
-      "Berilgan ikki nuqtadan o'tgan to'g'ri chiziq tenglamasi"
-    ],
-    "answer": "To'g'ri chiziqning kesmalardagi tenglamasi"
+    "savol": "Teskari matritsa usuli qaysi turdagi sistemalar uchun ishlatiladi?",
+    "A": "Kvadrat sistemalar uchun",
+    "B": "Har qanday sistemalar uchun",
+    "C": "Faqat bitta noma'lumli sistemalar uchun",
+    "D": "Determinantli sistemalar uchun",
+    "javob": "A"
   },
   {
-    "question": "$\\vec{a} \\cdot \\vec{b} = |\\vec{a}| \\cdot |\\vec{b}| \\cdot \\cos\\alpha$ formula nimani ifodalaydi?",
-    "options": ["Skalyar ko'paytma", "Vektor ko'paytma", "Aralash ko'paytma", "Sonlar ko'paytmasi"],
-    "answer": "Skalyar ko'paytma"
+    "savol": "To'g'ri chiziqning burchak koeffitsienti nolga teng bo'lsa, bu qanday chiziq?",
+    "A": "Gorizontal chiziq",
+    "B": "Vertikal chiziq",
+    "C": "Parallel chiziq",
+    "D": "Perpendikulyar chiziq",
+    "javob": "A"
   },
   {
-    "question": "$|\\vec{a} \\times \\vec{b}| = |\\vec{a}| \\cdot |\\vec{b}| \\cdot \\sin\\alpha$ formula nimani ifodalaydi?",
-    "options": ["Vektor uzunligi", "Skalyar ko'paytma", "Vektor ko'paytma", "Aralash ko'paytma"],
-    "answer": "Vektor ko'paytma"
+    "savol": "Trigonometrik ko'rinishdagi kompleks sonni aniqlang.",
+    "A": "$z = r(\\cos \\phi + i \\sin \\phi)$",
+    "B": "$z = 5 - 15i$",
+    "C": "$z = r(\\cos \\phi + \\sin \\phi)$",
+    "D": "$z = (\\cos \\phi + \\sin \\phi)$",
+    "javob": "A"
   },
   {
-    "question": "Satr matritsa nima?",
-    "options": ["Faqat $1$ ta satrdan iborat matritsa", "Faqat bitta ustundan iborat matritsa", "Ikkita satrdan iborat matritsa", "Ikkita ustundan iborat matritsa"],
-    "answer": "Faqat $1$ ta satrdan iborat matritsa"
+    "savol": "Funksiyaning hosilasini toping. $F(x)=-\\cos x$",
+    "A": "$\\sin x$",
+    "B": "$\\cos x$",
+    "C": "$\\tan x$",
+    "D": "$\\cot x$",
+    "javob": "A"
   },
   {
-    "question": "Skalyar ko'paytma yordamida nimani aniqlash mumkin?",
-    "options": ["Ikki vektor orasidagi burchakni", "Vektorning uzunligini", "Vektorning modulini", "Radiusni"],
-    "answer": "Ikki vektor orasidagi burchakni"
+    "savol": "Ustun matritsa nima?",
+    "A": "Faqat ustundan iborat bo'lgan matritsa",
+    "B": "Satrdan iborat bo'lgan matritsa",
+    "C": "Ustunlari nollardan iborat bo'lgan matritsa",
+    "D": "Satrlari nollardan iborat bo'lgan matritsa",
+    "javob": "A"
   },
   {
-    "question": "Bir to'plam elementlarini boshqa to'plam elementlari bilan ma'lum bir qoida orqali bo'lanishiga ... deyiladi.",
-    "options": ["Funksiya", "Nol", "Matritsa", "Determinant"],
-    "answer": "Funksiya"
+    "savol": "Y (funksiya)ning qabul qilishi mumkin bo'lgan qiymatlar to'plamiga funksiyaning .... Sohasi deyiladi.",
+    "A": "Qiymatlar sohasi",
+    "B": "Aniqlanish sohasi",
+    "C": "O'suvchi soha",
+    "D": "Monoton soha",
+    "javob": "A"
   },
   {
-    "question": "Funksiyaning qiymatlar sohasi ... kabi belgilanadi.",
-    "options": ["$E(f)$", "$T(f)$", "$F(x)$", "$D(f)$"],
-    "answer": "$E(f)$"
+    "savol": "$Y(x)=5x+13$ funksiyaning $y(1)$ dagi qiymatini toping.",
+    "A": "18",
+    "B": "5",
+    "C": "13",
+    "D": "0",
+    "javob": "A"
   },
   {
-    "question": "$y = f(x)$ funksiyaning qabul qilishi mumkin bo'lgan qiymatlar to'plamiga ... deyiladi.",
-    "options": ["Qiymatlar sohasi", "Aniqlanish sohasi", "Funksiya", "Nol"],
-    "answer": "Qiymatlar sohasi"
+    "savol": "$Y(x)=5x+13$ funksiyaning $y(2)$ dagi qiymatini toping.",
+    "A": "23",
+    "B": "5",
+    "C": "13",
+    "D": "0",
+    "javob": "A"
   },
   {
-    "question": "$y = f(x)$ funksiyaning $x$ argumentning qabul qilishi mumkin bo'lgan qiymatlar to'plamiga ... deyiladi.",
-    "options": ["Aniqlanish sohasi", "Manfiy", "Cheksiz", "Ma'noga ega"],
-    "answer": "Aniqlanish sohasi"
+    "savol": "$Y(x)=5x+2$ funksiyaning $y(3)$ dagi qiymatini toping.",
+    "A": "17",
+    "B": "4",
+    "C": "12",
+    "D": "8",
+    "javob": "A"
   },
   {
-    "question": "Teng vektorlar qanday aniqlanadi?",
-    "options": ["Mos komponentlari teng bo'lsa", "Har doim parallel bo'lsa", "Har doim perpendikulyar bo'lsa", "Nol bo'lsa"],
-    "answer": "Mos komponentlari teng bo'lsa"
+    "savol": "$Y=2x+3$ ning $x=1$ nuqtadagi $y$ qiymatini toping.",
+    "A": "5",
+    "B": "13",
+    "C": "2",
+    "D": "16",
+    "javob": "A"
   },
   {
-    "question": "Tenglamalar sistemasini determinantlar orqali yechish usuli qaysi?",
-    "options": ["Kramer", "Gauss", "Gauss-Jordan", "O'rniga qo'yish usuli"],
-    "answer": "Kramer"
+    "savol": "$Y=2x+3$ ning $x=2$ nuqtadagi $y$ qiymatini toping.",
+    "A": "7",
+    "B": "13",
+    "C": "4",
+    "D": "12",
+    "javob": "A"
   },
   {
-    "question": "$\\begin{cases} x + 2y = 4 \\\\ x - y = 1 \\end{cases}$ tenglamalar sistemasini yeching.",
-    "options": ["$x=2, y=1$", "$x=2, y=0$", "$x=10, y=10$", "$x=5, y=-5$"],
-    "answer": "$x=2, y=1$"
+    "savol": "$Y=2x+3$ ning $x=3$ nuqtadagi $y$ qiymatini toping.",
+    "A": "9",
+    "B": "32",
+    "C": "4",
+    "D": "10",
+    "javob": "A"
   },
   {
-    "question": "Teskari matritsa usuli qaysi turdagi sistemalar uchun ishlatiladi?",
-    "options": ["Kvadrat sistemalar uchun", "Har qanday sistemalar uchun", "Faqat bitta noma'lumli sistemalar uchun", "Determinantli sistemalar uchun"],
-    "answer": "Kvadrat sistemalar uchun"
+    "savol": "$Y=2x+3$ ning $x=4$ nuqtadagi $y$ qiymatini toping.",
+    "A": "11",
+    "B": "31",
+    "C": "4",
+    "D": "14",
+    "javob": "A"
   },
   {
-    "question": "To'g'ri chiziqning burchak koeffitsienti nolga teng bo'lsa, bu qanday chiziq?",
-    "options": ["Gorizontal chiziq", "Vertikal chiziq", "Parallel chiziq", "Perpendikulyar chiziq"],
-    "answer": "Gorizontal chiziq"
+    "savol": "$Y=2x-5$ ning $x=0$ nuqtadagi $y$ qiymatini toping.",
+    "A": "-5",
+    "B": "8",
+    "C": "2",
+    "D": "1",
+    "javob": "A"
   },
   {
-    "question": "Trigonometrik ko'rinishdagi kompleks sonni aniqlang.",
-    "options": [
-      "$z = r(\\cos\\varphi + i\\sin\\varphi)$",
-      "$z = a + bi$",
-      "$z = r(\\cos\\varphi + i\\sin\\varphi)$",
-      "$z = r(\\cos\\varphi + i\\sin\\varphi)$"
-    ],
-    "answer": "$z = r(\\cos\\varphi + i\\sin\\varphi)$"
+    "savol": "$Y=2x-5$ ning $x=1$ nuqtadagi $y$ qiymatini toping.",
+    "A": "-3",
+    "B": "18",
+    "C": "21",
+    "D": "11",
+    "javob": "A"
   },
   {
-    "question": "$F(x) = -\\cos x$ funksiyaning hosilasini toping.",
-    "options": ["$-\\sin x$", "$\\cos x$", "$\\tan x$", "$\\cot x$"],
-    "answer": "$-\\sin x$"
-  },
-  {
-    "question": "Ustun matritsa nima?",
-    "options": [
-      "Faqat ustundan iborat bo'lgan matritsa",
-      "Faqat satrdan iborat bo'lgan matritsa",
-      "Ustunlari nollardan iborat matritsa",
-      "Satrlari nollardan iborat matritsa"
-    ],
-    "answer": "Faqat ustundan iborat bo'lgan matritsa"
-  },
-  {
-    "question": "$y$ (funksiya)ning qabul qilishi mumkin bo'lgan qiymatlar to'plamiga funksiyaning ... sohasi deyiladi.",
-    "options": ["Qiymatlar sohasi", "Aniqlanish sohasi", "O'suvchi soha", "Monoton soha"],
-    "answer": "Qiymatlar sohasi"
-  },
-  {
-    "question": "$y(x) = 5x + 13$ funksiyaning $y(1)$ qiymatini toping.",
-    "options": ["$18$", "$5$", "$13$", "$0$"],
-    "answer": "$18$"
-  },
-  {
-    "question": "$y(x) = 5x + 13$ funksiyaning $y(2)$ qiymatini toping.",
-    "options": ["$23$", "$5$", "$13$", "$0$"],
-    "answer": "$23$"
-  },
-  {
-    "question": "$y(x) = 5x + 2$ funksiyaning $y(3)$ qiymatini toping.",
-    "options": ["$17$", "$4$", "$12$", "$8$"],
-    "answer": "$17$"
-  },
-  {
-    "question": "$y = 2x + 3$ ning $x = 1$ nuqtadagi qiymatini toping.",
-    "options": ["$5$", "$13$", "$2$", "$16$"],
-    "answer": "$5$"
-  },
-  {
-    "question": "$y = 2x + 3$ ning $x = 2$ nuqtadagi qiymatini toping.",
-    "options": ["$7$", "$13$", "$4$", "$12$"],
-    "answer": "$7$"
-  },
-  {
-    "question": "$y = 2x + 3$ ning $x = 3$ nuqtadagi qiymatini toping.",
-    "options": ["$9$", "$32$", "$4$", "$10$"],
-    "answer": "$9$"
-  },
-  {
-    "question": "$y = 2x + 3$ ning $x = 4$ nuqtadagi qiymatini toping.",
-    "options": ["$11$", "$31$", "$4$", "$14$"],
-    "answer": "$11$"
-  },
-  {
-    "question": "$y = 2x - 5$ ning $x = 0$ nuqtadagi qiymatini toping.",
-    "options": ["$-5$", "$8$", "$2$", "$1$"],
-    "answer": "$-5$"
-  },
-  {
-    "question": "$y = 2x - 5$ ning $x = 1$ nuqtadagi qiymatini toping.",
-    "options": ["$-3$", "$18$", "$21$", "$11$"],
-    "answer": "$-3$"
-  },
-  {
-    "question": "$y = 2x - 5$ ning $x = 2$ nuqtadagi qiymatini toping.",
-    "options": ["$-1$", "$8$", "$2$", "$3$"],
-    "answer": "$-1$"
-  },
-  {
-    "question": "$y = 2x - 5$ ning $x = 3$ nuqtadagi qiymatini toping.",
-    "options": ["$1$", "$4$", "$21$", "$12$"],
-    "answer": "$1$"
-  },
-  {
-    "question": "$y = 3x^2 + 5x - 9$ funksiyaning aniqlanish sohasini toping.",
-    "options": ["$x \\in \\mathbb{R}$", "$[2;6]$", "$(0; +\\infty)$", "$x \\neq 0$"],
-    "answer": "$x \\in \\mathbb{R}$"
-  },
-  {
-    "question": "$y = 3x - 3$ ning $x = 3$ nuqtadagi qiymatini toping.",
-    "options": ["$6$", "$3$", "$0$", "$18$"],
-    "answer": "$6$"
-  },
-  {
-    "question": "$y = 3x - 7$ funksiyaning $y(4)$ qiymatini toping.",
-    "options": ["$5$", "$2$", "$7$", "$9$"],
-    "answer": "$5$"
-  },
-  {
-    "question": "$F(x) = \\sin x + \\cos x$ funksiyaning hosilasini toping.",
-    "options": ["$\\cos x - \\sin x$", "$-\\cos x$", "$\\sin x$", "$\\tan x$"],
-    "answer": "$\\cos x - \\sin x$"
-  },
-  {
-    "question": "$y = 6x - 3$ ning $x = 3$ nuqtadagi qiymatini toping.",
-    "options": ["$15$", "$3$", "$10$", "$8$"],
-    "answer": "$15$"
-  },
-  {
-    "question": "$y = 6x - 3$ ning $x = 4$ nuqtadagi qiymatini toping.",
-    "options": ["$21$", "$23$", "$9$", "$8$"],
-    "answer": "$21$"
-  },
-  {
-    "question": "$y = f(x)$ funksiyada $f$ nima?",
-    "options": ["$x$ ni $y$ ga mos qo'yuvchi qoida", "Erkli o'zgaruvchi", "Parametr", "Erksiz o'zgaruvchi"],
-    "answer": "$x$ ni $y$ ga mos qo'yuvchi qoida"
-  },
-  {
-    "question": "$y = f(x)$ funksiyada $x$ nima?",
-    "options": ["Erkli o'zgaruvchi", "Erksiz o'zgaruvchi", "Parametr", "Operator"],
-    "answer": "Erkli o'zgaruvchi"
-  },
-  {
-    "question": "Yo'nalishi va kattaligi bilan aniqlanadigan miqdorlar ... deyiladi.",
-    "options": ["Vektor miqdorlar", "Skalyar miqdorlar", "Absolyut miqdorlar", "Nisbiy miqdorlar"],
-    "answer": "Vektor miqdorlar"
-  },
-  {
-    "question": "$y = x^2 + 3x - 4$ funksiyaning hosilasini toping.",
-    "options": ["$2x + 3$", "$3x - 4$", "$5x - 6$", "$4x - 6$"],
-    "answer": "$2x + 3$"
-  },
-  {
-    "question": "$F(x) = \\sin x - 1$ funksiyaning hosilasini toping.",
-    "options": ["$\\cos x$", "$\\sin x$", "$\\tan x$", "$\\cot x$"],
-    "answer": "$\\cos x$"
+    "savol": "$Y=2x-5$ ning $x=2$ nuqtadagi $y$ qiymatini toping.",
+    "A": "-1",
+    "B": "8",
+    "C": "2",
+    "D": "3",
+    "javob": "A"
+  },
+  {
+    "savol": "$Y=2x-5$ ning $x=3$ nuqtadagi $y$ qiymatini toping.",
+    "A": "1",
+    "B": "4",
+    "C": "21",
+    "D": "12",
+    "javob": "A"
+  },
+  {
+    "savol": "$Y=3x^2+5x-9$ Funksiyaning aniqlanish sohasini toping.",
+    "A": "$X \\in R$",
+    "B": "$[2;6]$",
+    "C": "$(0; +\\infty)$",
+    "D": "$(-\\infty; 10) \\cup (10; +\\infty)$",
+    "javob": "A"
+  },
+  {
+    "savol": "$Y=3x-3$ ning $x=3$ nuqtadagi $y$ qiymatini toping.",
+    "A": "6",
+    "B": "3",
+    "C": "0",
+    "D": "18",
+    "javob": "A"
+  },
+  {
+    "savol": "$Y=3x-7$ funksiyaning $y(4)$ dagi qiymatini toping.",
+    "A": "5",
+    "B": "2",
+    "C": "7",
+    "D": "9",
+    "javob": "A"
+  },
+  {
+    "savol": "Funksiyaning hosilasini toping. $F(x)=\\sin x + \\cos x$",
+    "A": "$\\cos x - \\sin x$",
+    "B": "$-\\cos x$",
+    "C": "$\\sin x$",
+    "D": "$\\tan x$",
+    "javob": "A"
+  },
+  {
+    "savol": "$Y=6x-3$ ning $x=3$ nuqtadagi $y$ qiymatini toping.",
+    "A": "15",
+    "B": "3",
+    "C": "10",
+    "D": "8",
+    "javob": "A"
+  },
+  {
+    "savol": "$Y=6x-3$ ning $x=4$ nuqtadagi $y$ qiymatini toping.",
+    "A": "21",
+    "B": "23",
+    "C": "9",
+    "D": "8",
+    "javob": "A"
+  },
+  {
+    "savol": "$Y=f(x)$ funksiyada $f$ nima?",
+    "A": "X ni y ga mos qo'yuvchi qoida",
+    "B": "Erkli o'zgaruvchi",
+    "C": "Parameter",
+    "D": "Erksiz o'zgaruvchi",
+    "javob": "A"
+  },
+  {
+    "savol": "$Y=f(x)$ funksiyada $x$ nima?",
+    "A": "Erkli o'zgaruvchi",
+    "B": "Erksiz o'zgaruvchi",
+    "C": "Parameter",
+    "D": "Operator",
+    "javob": "A"
+  },
+  {
+    "savol": "Yo'nalishi va kattaligi bilan aniqlanadigan miqdorlar ...... deyiladi.",
+    "A": "Vektor miqdorlar",
+    "B": "Skalyar miqdorlar",
+    "C": "Absolyut miqdorlar",
+    "D": "Nisbiy miqdorlar",
+    "javob": "A"
+  },
+  {
+    "savol": "$Y=x^2+3x-4$ hosilasini toping.",
+    "A": "$2x+3$",
+    "B": "$3x-4$",
+    "C": "$5x-6$",
+    "D": "$4x-6$",
+    "javob": "A"
+  },
+  {
+    "savol": "Funksiyaning hosilasini toping. $F(x)=\\sin x-1$",
+    "A": "$\\cos x$",
+    "B": "$\\sin x$",
+    "C": "$\\tan x$",
+    "D": "$\\cot x$",
+    "javob": "A"
   }
 ]
