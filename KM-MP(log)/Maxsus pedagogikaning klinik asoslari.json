@@ -1,0 +1,1442 @@
+[
+  {
+    "savol": "Maxsus pedagogika nimani o`rganadi?",
+    "A": "Nogironligi bo`lgan bolalarning ta`lim-tarbiyasini",
+    "B": "Umumiy ta`lim tizimini",
+    "C": "Faqat defektologiyani",
+    "D": "Ijtimoiy sohani",
+    "javob": "A"
+  },
+  {
+    "savol": "Klinik asoslar nimani anglatadi?",
+    "A": "Kasalliklarning fiziologik-psixologik asoslarini",
+    "B": "Fikr yuritish jarayonini",
+    "C": "O`qitish metodikasini",
+    "D": "Nutqni shakllantirishni",
+    "javob": "A"
+  },
+  {
+    "savol": "Defektologiya fanining asosiy maqsadi nima?",
+    "A": "Maxsus ehtiyojli bolalarni o`qitish va tarbiyalash",
+    "B": "Maktab dasturlarini yaratish",
+    "C": "Ta`lim texnologiyalarini ishlab chiqish",
+    "D": "Ko`rish tizimini o`rganish",
+    "javob": "A"
+  },
+  {
+    "savol": "Surdopedagogika nimani o`rganadi?",
+    "A": "Eshitishida nuqsoni bo`lgan bolalarni",
+    "B": "Ko`zi ojiz bolalarni",
+    "C": "Nutqi buzilgan bolalarni",
+    "D": "Psixik rivojlanishida orqada qolgan bolalarni",
+    "javob": "A"
+  },
+  {
+    "savol": "Tiflopedagogika so`zi nimani anglatadi?",
+    "A": "Ko`zi ojiz bolalar pedagogikasi",
+    "B": "Eshituvchi bolalar ta`limi",
+    "C": "Aqliy zaif bolalar o`qitilishi",
+    "D": "Nutq buzilishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Oligofrenopedagogika kimlarga taalluqli?",
+    "A": "Aqliy rivojlanishida orqada qolgan bolalarga",
+    "B": "Ko`zi ojiz bolalarga",
+    "C": "Eshituvida nuqsoni bor bolalarga",
+    "D": "Nutqi buzilganlarga",
+    "javob": "A"
+  },
+  {
+    "savol": "Logopediya qanday fanlar bilan bog`liq?",
+    "A": "Psixologiya va nevrologiya bilan",
+    "B": "Falsafa va tarix",
+    "C": "Kimyo va biologiya",
+    "D": "Geografiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Afaziya nima?",
+    "A": "So`zlash qobiliyatining yo`qolishi",
+    "B": "Ko`rish qobiliyatining buzilishi",
+    "C": "Hidni sezmaslik",
+    "D": "Yurak faoliyati buzilishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Dislaliya qanday nutq buzilishi?",
+    "A": "Tovush talaffuzining buzilishi",
+    "B": "Nutq yo`qolishi",
+    "C": "So`z boyligi yetishmasligi",
+    "D": "Eshitish pasayishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Rinolaliya nima?",
+    "A": "Burun rezonansining buzilishi",
+    "B": "Til mushaklari falaji",
+    "C": "Eshitishning pasayishi",
+    "D": "So`z esda qolmasligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Dizartriya qanday holat?",
+    "A": "Nutq apparati mushaklari falaji",
+    "B": "Ko`rish apparati zarari",
+    "C": "Tovush chiqmasligi",
+    "D": "Eshitishning yo`qolishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Poltern nima?",
+    "A": "Juda tez va notekis so`zlash",
+    "B": "Sekin gapirish",
+    "C": "Tovushlarni cho`zish",
+    "D": "So`zlarni yoddan chiqarmaslik",
+    "javob": "A"
+  },
+  {
+    "savol": "Agrammatizm qanday nutq holati?",
+    "A": "Grammatik tuzilmaning buzilishi",
+    "B": "So`zlarni chalkashtirish",
+    "C": "Eshitishning pasayishi",
+    "D": "Ko`rishning yo`qolishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Broka markazi qayerda joylashgan?",
+    "A": "Chap peshona pushtasining orqa qismida",
+    "B": "Tepa pushtasida",
+    "C": "Ensa qismida",
+    "D": "Chakka sohasida",
+    "javob": "A"
+  },
+  {
+    "savol": "Vernike markazi qayerda joylashgan?",
+    "A": "Chap chakka pushtasida",
+    "B": "Ensa qismining o`ngida",
+    "C": "Tepa qismining markazida",
+    "D": "Peshona sohasida",
+    "javob": "A"
+  },
+  {
+    "savol": "Broka markazi nima uchun javob beradi?",
+    "A": "So`zlarni talaffuz qilish uchun",
+    "B": "Nutqni tushunish uchun",
+    "C": "Hidni idrok etish uchun",
+    "D": "Ko`rishni boshqarish uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "Vernike markazi nima uchun javob beradi?",
+    "A": "So`z ma`nosini anglash uchun",
+    "B": "Talaffuz qilish uchun",
+    "C": "Ko`rish uchun",
+    "D": "Eshitish uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "Sensor afaziya qanday holat?",
+    "A": "So`zlarni eshitib tushunmaslik",
+    "B": "Gapira olmaslik",
+    "C": "Ko`rmaslik",
+    "D": "Hidni sezmaslik",
+    "javob": "A"
+  },
+  {
+    "savol": "Motor afaziya qanday holat?",
+    "A": "Gapira olmaslik, lekin tushunish saqlanadi",
+    "B": "So`zlarni tushunmaslik",
+    "C": "Ko`rish refleksi yo`q",
+    "D": "Hidni sezmaslik",
+    "javob": "A"
+  },
+  {
+    "savol": "Apraksiya nima?",
+    "A": "Oddiy harakatlarni bajara olmaslik",
+    "B": "Nutqni eshitmaslik",
+    "C": "Ko`rishning yo`qolishi",
+    "D": "Haroratni sezmaslik",
+    "javob": "A"
+  },
+  {
+    "savol": "Disgrafiya nimani bildiradi?",
+    "A": "Yozuvdagi xatoliklar",
+    "B": "Ko`rishdagi nuqson",
+    "C": "Eshitishdagi pasayish",
+    "D": "So`z boyligi yetishmasligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Logopedik tashxis nima uchun kerak?",
+    "A": "Nutq buzilishlarini aniqlash uchun",
+    "B": "Ko`rish aniqligi uchun",
+    "C": "Eshitish kuchini aniqlash",
+    "D": "Yurak faoliyatini baholash",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq analizatori nechta qismdan iborat?",
+    "A": "Uchtadan",
+    "B": "Ikkidan",
+    "C": "To`rtdan",
+    "D": "Beshtadan",
+    "javob": "A"
+  },
+  {
+    "savol": "Hid analizatori qayerda?",
+    "A": "Burun bo`shlig`ida",
+    "B": "Til ildizida",
+    "C": "Ensa",
+    "D": "Tepa",
+    "javob": "A"
+  },
+  {
+    "savol": "Ta`m analizatori qayerda?",
+    "A": "Til yuzasida",
+    "B": "Burun yo`lida",
+    "C": "Ko`z qopqog`ida",
+    "D": "Chakka",
+    "javob": "A"
+  },
+  {
+    "savol": "Miya po`stlog`ining asosiy vazifasi?",
+    "A": "Oliy nerv faoliyatini boshqarish",
+    "B": "Ko`rish refleksini ta`minlash",
+    "C": "Hidni boshqarish",
+    "D": "Eshitishni kuchaytirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Orqa miya vazifasi?",
+    "A": "Reflektor javoblarni bajaradi",
+    "B": "Ko`rish refleksini boshqaradi",
+    "C": "Tafakkurni",
+    "D": "Hidni",
+    "javob": "A"
+  },
+  {
+    "savol": "Kichik miyaning roli?",
+    "A": "Muvozanatni ta`minlaydi",
+    "B": "Nutqni",
+    "C": "Eshitishni",
+    "D": "Ko`rishni",
+    "javob": "A"
+  },
+  {
+    "savol": "Po`stloq osti yadrolari vazifasi?",
+    "A": "Harakatni muvofiqlashtiradi",
+    "B": "Eshitishni boshqaradi",
+    "C": "Ko`rishni",
+    "D": "Nutqni",
+    "javob": "A"
+  },
+  {
+    "savol": "Talamus nima?",
+    "A": "Sezgi signallarini uzatuvchi markaz",
+    "B": "Eshitish organi",
+    "C": "Ko`rish apparati",
+    "D": "Nutq asbobi",
+    "javob": "A"
+  },
+  {
+    "savol": "Gipotalamus vazifasi?",
+    "A": "Vegetativ jarayonlarni boshqarish",
+    "B": "Ko`rishni",
+    "C": "Hidni",
+    "D": "Eshitishni",
+    "javob": "A"
+  },
+  {
+    "savol": "Analizator nima?",
+    "A": "Idrokni hosil qiluvchi tizim",
+    "B": "Ko`rish organi",
+    "C": "Instinkt",
+    "D": "Mushak apparati",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko`rish analizatori retseptorlari qayerda?",
+    "A": "To`r pardada",
+    "B": "Linza orqasida",
+    "C": "Ko`z qopqog`ida",
+    "D": "Qorachiqda",
+    "javob": "A"
+  },
+  {
+    "savol": "To`r pardadagi tayoqchalar nimani sezadi?",
+    "A": "Yorug`likni",
+    "B": "Rangni",
+    "C": "Harakatni",
+    "D": "Shaklni",
+    "javob": "A"
+  },
+  {
+    "savol": "Konuslar nimani farqlaydi?",
+    "A": "Ranglarni",
+    "B": "Yorug`likni",
+    "C": "Tovushni",
+    "D": "Harakatni",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko`rish nervi qayerga ulanadi?",
+    "A": "Ko`rish markaziga",
+    "B": "Eshituv markaziga",
+    "C": "Talamusga",
+    "D": "Miyachaga",
+    "javob": "A"
+  },
+  {
+    "savol": "Eshitish apparatining asosiy vazifasi?",
+    "A": "Tovushni idrok etish",
+    "B": "Ko`rish",
+    "C": "Nutq",
+    "D": "Tafakkur",
+    "javob": "A"
+  },
+  {
+    "savol": "Vestibulyar apparat qayerda?",
+    "A": "Ichki quloqda",
+    "B": "Ensa sohasida",
+    "C": "Burun yo`lida",
+    "D": "Ko`z olmasida",
+    "javob": "A"
+  },
+  {
+    "savol": "Vestibulyar apparat vazifasi?",
+    "A": "Muvozanatni saqlash",
+    "B": "Ko`rishni boshqarish",
+    "C": "Nutqni",
+    "D": "Eshitishni",
+    "javob": "A"
+  },
+  {
+    "savol": "Mushak sezgisi qanday ataladi?",
+    "A": "Proprioreseptiv",
+    "B": "Ko`ruv",
+    "C": "Eshituv",
+    "D": "Hid",
+    "javob": "A"
+  },
+  {
+    "savol": "Po`stloq osti markazlari nima uchun kerak?",
+    "A": "Harakatni boshqaradi",
+    "B": "Tafakkurni",
+    "C": "Ko`rishni",
+    "D": "Eshitishni",
+    "javob": "A"
+  },
+  {
+    "savol": "EEG nimani o`lchaydi?",
+    "A": "Miya bioelektrik faoliyatini",
+    "B": "Ko`rish o`tkirligini",
+    "C": "Eshitish kuchini",
+    "D": "Nafas tezligini",
+    "javob": "A"
+  },
+  {
+    "savol": "EEGda qanday to`lqinlar aniqlanadi?",
+    "A": "Bioelektrik impulslar",
+    "B": "Akustik signallar",
+    "C": "Mushak zo`riqishi",
+    "D": "Nafas ritmlari",
+    "javob": "A"
+  },
+  {
+    "savol": "Shartli reflekslar qanday paydo bo`ladi?",
+    "A": "Tajriba va takrorlanish orqali",
+    "B": "Tug`ma yo`l bilan",
+    "C": "Instinkt orqali",
+    "D": "Tasodifiy",
+    "javob": "A"
+  },
+  {
+    "savol": "Tormozlanish jarayoni nima?",
+    "A": "Qo`zg`alishning susayishi",
+    "B": "Neyronlarning ko`payishi",
+    "C": "Nafasning tezlashuvi",
+    "D": "Yurak urishining sekinlashuvi",
+    "javob": "A"
+  },
+  {
+    "savol": "Refleks yoyida nechta bo`g`in bor?",
+    "A": "Besh",
+    "B": "Uch",
+    "C": "To`rt",
+    "D": "Olti",
+    "javob": "A"
+  },
+  {
+    "savol": "Retseptor nima?",
+    "A": "Tashqi ta`sirni qabul qiluvchi tuzilma",
+    "B": "Harakat organi",
+    "C": "Ko`rish markazi",
+    "D": "Eshituv organi",
+    "javob": "A"
+  },
+  {
+    "savol": "Effektor nima?",
+    "A": "Ta`sirga javob qaytaruvchi organ",
+    "B": "Ko`rish markazi",
+    "C": "Sezgi nervi",
+    "D": "Qon tomiri",
+    "javob": "A"
+  },
+  {
+    "savol": "Sechenov refleksni qanday tushuntirgan?",
+    "A": "Reflektor javob miya faoliyati bilan bog`liq",
+    "B": "Faqat mushak orqali bajariladi",
+    "C": "Ko`rish refleksi orqali",
+    "D": "Nafas tizimi bilan",
+    "javob": "A"
+  },
+  {
+    "savol": "Pavlovning asosiy xulosasi?",
+    "A": "Oliy nerv faoliyati reflektor tabiatga ega",
+    "B": "Eshitish markazi mustaqil",
+    "C": "Ko`rish mustaqil tizim",
+    "D": "Harakatlar instinktiv",
+    "javob": "A"
+  },
+  {
+    "savol": "Birlamchi signal tizimi kimlarda mavjud?",
+    "A": "Odam va hayvonlarda",
+    "B": "Faqat odamlarda",
+    "C": "Faqat hayvonlarda",
+    "D": "Faqat bolalarda",
+    "javob": "A"
+  },
+  {
+    "savol": "Ikkinchi signal tizimi nimani bildiradi?",
+    "A": "So`z orqali fikr almashish",
+    "B": "Harakat orqali",
+    "C": "Hid orqali",
+    "D": "Ko`rish orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Dinamik stereotip nima?",
+    "A": "Takrorlanuvchi ta`sirlar tizimi",
+    "B": "Instinktlar to`plami",
+    "C": "Harakat refleksi",
+    "D": "Uyqu jarayoni",
+    "javob": "A"
+  },
+  {
+    "savol": "EEG qanday maqsadda qo`llaniladi?",
+    "A": "Miya faoliyatini tahlil qilish uchun",
+    "B": "Eshituv kuchini o`lchash uchun",
+    "C": "Yurak ritmini baholash uchun",
+    "D": "Ko`rish o`tkirligini o`lchash uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "EEGda qaysi to`lqinlar aniqlanadi?",
+    "A": "Bioelektrik impulslar",
+    "B": "Akustik signallar",
+    "C": "Nafas ritmlari",
+    "D": "Mushak zo`riqishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Agnoziya qanday holatda kuzatiladi?",
+    "A": "Buyumni ko`rib tanimaslik",
+    "B": "So`zlarni talaffuz qilmaslik",
+    "C": "Harakatni bajara olmaslik",
+    "D": "Tovushni farqlamaslik",
+    "javob": "A"
+  },
+  {
+    "savol": "Apraksiya qanday aniqlanadi?",
+    "A": "Oddiy harakatlarni bajara olmaslik",
+    "B": "So`zlarni eshitmaslik",
+    "C": "Ko`rmaslik",
+    "D": "Yozolmaslik",
+    "javob": "A"
+  },
+  {
+    "savol": "Afaziya nimaning natijasi?",
+    "A": "Miya po`stlog`i shikastlanishi",
+    "B": "Tovush apparati buzilishi",
+    "C": "Ko`rish nervi zararlanishi",
+    "D": "Eshitish asabi yallig`lanishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Broka markazi qaysi funksiyani bajaradi?",
+    "A": "Talaffuzni ta`minlaydi",
+    "B": "Nutqni tushunadi",
+    "C": "Ko`rishni boshqaradi",
+    "D": "Harakatni muvofiqlashtiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Vernike markazi qaysi funksiyani bajaradi?",
+    "A": "So`z ma`nosini anglaydi",
+    "B": "Tovush chiqaradi",
+    "C": "Ko`rishni ta`minlaydi",
+    "D": "Hidni sezadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Motor afaziya qanday holatda bo`ladi?",
+    "A": "Gapira olmaydi, lekin tushunadi",
+    "B": "Nutqni tushunmaydi",
+    "C": "Ko`rmaydi",
+    "D": "Eshitmaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Sensor afaziya qanday aniqlanadi?",
+    "A": "Nutqni tushunmaydi",
+    "B": "Gapira olmaydi",
+    "C": "Tovush chiqarmaydi",
+    "D": "Yozolmaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Analizatorlar nechta asosiy turga bo`linadi?",
+    "A": "Besh",
+    "B": "To`rt",
+    "C": "Uch",
+    "D": "Olti",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko`ruv analizatori markazi qayerda?",
+    "A": "Ensa bo`lagi",
+    "B": "Peshona bo`lagi",
+    "C": "Chakka bo`lagi",
+    "D": "Tepa bo`lagi",
+    "javob": "A"
+  },
+  {
+    "savol": "Hid analizatori markazi qayerda?",
+    "A": "Chakka oldi sohasida",
+    "B": "Ensa qismida",
+    "C": "Tepa qismida",
+    "D": "Po`stloq ostida",
+    "javob": "A"
+  },
+  {
+    "savol": "Ta`m analizatori markazi qayerda?",
+    "A": "Peshona oldi qismida",
+    "B": "Til ildizida",
+    "C": "Ensa qismida",
+    "D": "Tepa pushtasida",
+    "javob": "A"
+  },
+  {
+    "savol": "Sensor markazlar nima qiladi?",
+    "A": "Tashqi ta`sirni idrok etadi",
+    "B": "Harakatni boshqaradi",
+    "C": "Talaffuzni shakllantiradi",
+    "D": "Ko`rish refleksini kuchaytiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Reflektor yoy qanday ishlaydi?",
+    "A": "Ta`sirni qabul qilib javob hosil qiladi",
+    "B": "Faqat harakatni uzatadi",
+    "C": "Mushakni qisqartiradi",
+    "D": "Nafasni boshqaradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Po`stloq osti markazlari vazifasi?",
+    "A": "Harakat va sezgini muvofiqlashtirish",
+    "B": "Nutqni boshqarish",
+    "C": "Ko`rishni",
+    "D": "Eshitishni",
+    "javob": "A"
+  },
+  {
+    "savol": "Kichik miya nima uchun javob beradi?",
+    "A": "Muvozanat",
+    "B": "Ko`rish",
+    "C": "Tafakkur",
+    "D": "Eshitish",
+    "javob": "A"
+  },
+  {
+    "savol": "O`ng yarimshar faoliyati bilan nima bog`liq?",
+    "A": "Emotsiya va ijodkorlik",
+    "B": "Mantiq",
+    "C": "Matematika",
+    "D": "Nutq",
+    "javob": "A"
+  },
+  {
+    "savol": "Chap yarimshar nimani boshqaradi?",
+    "A": "Nutq va mantiqiy tafakkur",
+    "B": "Hid sezgi",
+    "C": "Ko`rish",
+    "D": "Uyqu",
+    "javob": "A"
+  },
+  {
+    "savol": "I.P. Pavlovning ilmiy yo`nalishi?",
+    "A": "Fiziologiya",
+    "B": "Psixologiya",
+    "C": "Anatomiya",
+    "D": "Nevrologiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Sechenovning ilmiy hissasi?",
+    "A": "Refleks nazariyasini asoslagan",
+    "B": "Ko`rish markazini topgan",
+    "C": "Eshituv mexanizmini tushuntirgan",
+    "D": "Nutqni tahlil qilgan",
+    "javob": "A"
+  },
+  {
+    "savol": "Oliy nerv faoliyati qanday asosga ega?",
+    "A": "Reflektor",
+    "B": "Instinktiv",
+    "C": "Ixtiyoriy",
+    "D": "Avtomatik",
+    "javob": "A"
+  },
+  {
+    "savol": "Tormozlanish qanday jarayon?",
+    "A": "Qo`zg`alishni sekinlashtiruvchi",
+    "B": "Faollashtiruvchi",
+    "C": "Elektrik",
+    "D": "Kimyoviy",
+    "javob": "A"
+  },
+  {
+    "savol": "Agnoziya qanday buzilish?",
+    "A": "Idrokning yo`qolishi",
+    "B": "Eshituv buzilishi",
+    "C": "Nutqning buzilishi",
+    "D": "Ko`rish zaifligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Apraksiya nimaning natijasi?",
+    "A": "Tepa bo`lagi shikastlanishi",
+    "B": "Chakka bo`lagi",
+    "C": "Peshona",
+    "D": "Orqa miya",
+    "javob": "A"
+  },
+  {
+    "savol": "EEGda nimalar aniqlanadi?",
+    "A": "Miya bioelektrik to`lqinlari",
+    "B": "Eshituv darajasi",
+    "C": "Ko`rish refleksi",
+    "D": "Nafas ritmi",
+    "javob": "A"
+  },
+  {
+    "savol": "Miya suyuqligi nima uchun kerak?",
+    "A": "Himoya va oziqlantirish",
+    "B": "Nafas olish",
+    "C": "Hidni ta`minlash",
+    "D": "Tovushni o`tkazish",
+    "javob": "A"
+  },
+  {
+    "savol": "Bazal yadrolar funksiyasi?",
+    "A": "Harakatni muvofiqlashtirish",
+    "B": "Eshitish",
+    "C": "Ko`rish",
+    "D": "Nutq",
+    "javob": "A"
+  },
+  {
+    "savol": "Miyacha qanday vazifani bajaradi?",
+    "A": "Muvozanatni ta`minlaydi",
+    "B": "Tafakkur",
+    "C": "Hidni",
+    "D": "Ko`rishni",
+    "javob": "A"
+  },
+  {
+    "savol": "Pavlovning tajribalari qaysi hayvonda o`tkazilgan?",
+    "A": "Itlarda",
+    "B": "Maymunlarda",
+    "C": "Quyonlarda",
+    "D": "Sichqonlarda",
+    "javob": "A"
+  },
+  {
+    "savol": "Dinamik stereotip nimani bildiradi?",
+    "A": "Takrorlanuvchi shartli reflekslar",
+    "B": "Ko`rish refleksi",
+    "C": "Harakat instinkti",
+    "D": "Uyqu holati",
+    "javob": "A"
+  },
+  {
+    "savol": "Po`stloq osti tuzilmalari qaysi?",
+    "A": "Bazal yadrolar",
+    "B": "Eshituv markazi",
+    "C": "Ko`rish",
+    "D": "Nutq",
+    "javob": "A"
+  },
+  {
+    "savol": "Broka markazi qayerda?",
+    "A": "Chap peshona pushtasi orqa qismi",
+    "B": "Chakka",
+    "C": "Ensa",
+    "D": "Tepa",
+    "javob": "A"
+  },
+  {
+    "savol": "Vernike markazi qayerda?",
+    "A": "Chap chakka pushtasi",
+    "B": "Ensa",
+    "C": "Tepa",
+    "D": "O`ng peshona",
+    "javob": "A"
+  },
+  {
+    "savol": "Tormozlanish va qo`zg`alish o`zaro qanday?",
+    "A": "Muvozanatda bo`ladi",
+    "B": "Mustaqil",
+    "C": "Faqat tormozlanadi",
+    "D": "Faqat qo`zg`aladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Bosh miya reflekslari kimga tegishli asar?",
+    "A": "I.M. Sechenov",
+    "B": "I.P. Pavlov",
+    "C": "Bekhterev",
+    "D": "Freyd",
+    "javob": "A"
+  },
+  {
+    "savol": "Refleks yoyida qanday elementlar bor?",
+    "A": "Retseptor, nerv, markaz, effektor",
+    "B": "Faqat retseptor",
+    "C": "Faqat markaz",
+    "D": "Faqat nerv",
+    "javob": "A"
+  },
+  {
+    "savol": "Oliy asab faoliyatining mohiyati?",
+    "A": "Qo`zg`alish va tormozlanish muvozanati",
+    "B": "Instinktlar to`plami",
+    "C": "Uyqu jarayoni",
+    "D": "Ko`rish refleksi",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq analizatori qayerda joylashgan?",
+    "A": "Chap yarim sharda",
+    "B": "O`ng yarim sharda",
+    "C": "Orqa miyada",
+    "D": "Ko`prikda",
+    "javob": "A"
+  },
+  {
+    "savol": "Eshituv analizatori markazi qayerda?",
+    "A": "Chakka bo`lagida",
+    "B": "Ensa bo`lagida",
+    "C": "Tepa bo`lagida",
+    "D": "Peshona bo`lagida",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko`ruv analizatori qayerda?",
+    "A": "Ensa bo`lagida",
+    "B": "Chakka bo`lagida",
+    "C": "Tepa bo`lagida",
+    "D": "Peshona bo`lagida",
+    "javob": "A"
+  },
+  {
+    "savol": "Afaziya qanday holat?",
+    "A": "So`zlay olmaslik",
+    "B": "Ko`rmaslik",
+    "C": "Eshitmaslik",
+    "D": "Hidni sezmaslik",
+    "javob": "A"
+  },
+  {
+    "savol": "Agrammatizm nimani bildiradi?",
+    "A": "Grammatik tuzilmaning buzilishi",
+    "B": "Tovushlarni cho`zish",
+    "C": "So`zlarni chalkashtirish",
+    "D": "Nutq tezligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Dizartriya qanday buzilish?",
+    "A": "Nutq apparati mushaklari falaji",
+    "B": "Ko`z mushaklari falaji",
+    "C": "Burun mushaklari falaji",
+    "D": "Til ildizi falaji",
+    "javob": "A"
+  },
+  {
+    "savol": "Rinolaliya qanday holat?",
+    "A": "Burun rezonansi buzilishi",
+    "B": "Til mushaklari falaji",
+    "C": "Ko`rish pasayishi",
+    "D": "Nutq sekinlashuvi",
+    "javob": "A"
+  },
+  {
+    "savol": "Dislaliya qanday holat?",
+    "A": "Tovush talaffuzi buzilishi",
+    "B": "So`z boyligi yetishmasligi",
+    "C": "Eshitish pasayishi",
+    "D": "Ko`rish refleksi",
+    "javob": "A"
+  },
+  {
+    "savol": "Logonevroz nima?",
+    "A": "Duduqlanish",
+    "B": "Eshitish pasayishi",
+    "C": "Ko`rish refleksi",
+    "D": "So`z yo`qolishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Agnoziya nima?",
+    "A": "Buyumni tanimaslik",
+    "B": "Eshitish yo`qolishi",
+    "C": "Hidni farqlamaslik",
+    "D": "Nutqni anglamaslik",
+    "javob": "A"
+  },
+  {
+    "savol": "Apraksiya qanday holatda kuzatiladi?",
+    "A": "Oddiy harakatni bajara olmaslik",
+    "B": "Nutq yo`qolishi",
+    "C": "Eshitmaslik",
+    "D": "Yozolmaslik",
+    "javob": "A"
+  },
+  {
+    "savol": "Disgrafiya nima?",
+    "A": "Yozuvdagi xatoliklar",
+    "B": "O`qishdagi xato",
+    "C": "Eshituvdagi pasayish",
+    "D": "So`zlarni chalkashtirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Disleksiya nima?",
+    "A": "O`qishdagi buzilish",
+    "B": "Yozuvdagi xatolik",
+    "C": "Ko`rishdagi nuqson",
+    "D": "Eshituv pasayishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq buzilishining sababi nima?",
+    "A": "Miya po`stlog`i shikastlanishi",
+    "B": "Til shikastlanishi",
+    "C": "Burun to`sig`i",
+    "D": "Ko`z muskullari",
+    "javob": "A"
+  },
+  {
+    "savol": "Logopediya fani nimani o`rganadi?",
+    "A": "Nutq buzilishlarini",
+    "B": "Ko`rish",
+    "C": "Eshitish",
+    "D": "Hidni",
+    "javob": "A"
+  },
+  {
+    "savol": "Oligofrenopedagogika kimlarga tegishli?",
+    "A": "Aqli zaif bolalarga",
+    "B": "Ko`zi ojiz bolalarga",
+    "C": "Eshitmaydigan bolalarga",
+    "D": "Nutqi buzilgan bolalarga",
+    "javob": "A"
+  },
+  {
+    "savol": "Surdopedagogika kimlarni o`rganadi?",
+    "A": "Eshitishida nuqsoni bor bolalarni",
+    "B": "Ko`rishida nuqsoni bor bolalarni",
+    "C": "Psixik rivojlanishida kechikkanlarni",
+    "D": "Nutqida nuqsoni borlarni",
+    "javob": "A"
+  },
+  {
+    "savol": "Tiflopedagogika kimlar bilan shug`ullanadi?",
+    "A": "Ko`zi ojiz bolalar",
+    "B": "Eshitmaydigan bolalar",
+    "C": "Nutqi buzilgan bolalar",
+    "D": "Aqli zaif bolalar",
+    "javob": "A"
+  },
+  {
+    "savol": "Klinik asoslar nimalarni o`rganadi?",
+    "A": "Kasalliklarning psixofiziologik asoslarini",
+    "B": "Ta`lim metodikasini",
+    "C": "Pedagogik jarayonlarni",
+    "D": "Ko`rish mexanizmini",
+    "javob": "A"
+  },
+  {
+    "savol": "Defektologiya fanining asosiy maqsadi?",
+    "A": "Maxsus ehtiyojli bolalarni o`qitish va tarbiyalash",
+    "B": "Umumiy ta`limni rivojlantirish",
+    "C": "Darsliklar yaratish",
+    "D": "O`qituvchilar tayyorlash",
+    "javob": "A"
+  },
+  {
+    "savol": "Logopedik tashxisning maqsadi?",
+    "A": "Nutq buzilishini aniqlash",
+    "B": "Ko`rish o`tkirligini aniqlash",
+    "C": "Eshitish kuchini baholash",
+    "D": "Hidni tekshirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq markazlari qayerda joylashgan?",
+    "A": "Chap yarim sharda",
+    "B": "O`ng yarim sharda",
+    "C": "Ensa bo`lagida",
+    "D": "Orqa miyada",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko`rish analizatori markazi qayerda?",
+    "A": "Ensa bo`lagida",
+    "B": "Chakka bo`lagida",
+    "C": "Tepa bo`lagida",
+    "D": "Peshona bo`lagida",
+    "javob": "A"
+  },
+  {
+    "savol": "Hid analizatori markazi qayerda?",
+    "A": "Burun bo`shlig`ida",
+    "B": "Til ildizida",
+    "C": "Ensa pushtasida",
+    "D": "Tepa bo`lagida",
+    "javob": "A"
+  },
+  {
+    "savol": "Ta`m analizatori qayerda joylashgan?",
+    "A": "Til yuzasida",
+    "B": "Burun yo`lida",
+    "C": "Ko`z olmasida",
+    "D": "Ensa bo`lagida",
+    "javob": "A"
+  },
+  {
+    "savol": "Kichik miyaning vazifasi?",
+    "A": "Muvozanatni ta`minlash",
+    "B": "Eshitish",
+    "C": "Nutq",
+    "D": "Ko`rish",
+    "javob": "A"
+  },
+  {
+    "savol": "Orqa miyaning vazifasi?",
+    "A": "Reflektor javobni bajarish",
+    "B": "Ko`rishni",
+    "C": "Eshitishni",
+    "D": "Tovushni chiqarish",
+    "javob": "A"
+  },
+  {
+    "savol": "Talamus vazifasi?",
+    "A": "Sezgi signallarini uzatish",
+    "B": "Ko`rish",
+    "C": "Eshitish",
+    "D": "Nutqni",
+    "javob": "A"
+  },
+  {
+    "savol": "Po`stloq osti yadrolari nima qiladi?",
+    "A": "Harakatni muvofiqlashtiradi",
+    "B": "Ko`rishni",
+    "C": "Eshitishni",
+    "D": "Nutqni",
+    "javob": "A"
+  },
+  {
+    "savol": "Neyron nima?",
+    "A": "Asab hujayrasi",
+    "B": "Mushak tolasi",
+    "C": "Qon hujayrasi",
+    "D": "Suyak hujayrasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Akson nima?",
+    "A": "Impulsni uzatuvchi qism",
+    "B": "Retseptor",
+    "C": "Markaziy yadrosi",
+    "D": "Sinaps",
+    "javob": "A"
+  },
+  {
+    "savol": "Dendrit nima?",
+    "A": "Impulsni qabul qiluvchi shoxcha",
+    "B": "Tovush chiqaruvchi a`zo",
+    "C": "Qon tomiri",
+    "D": "Asab markazi",
+    "javob": "A"
+  },
+  {
+    "savol": "Sinaps nima?",
+    "A": "Ikki neyron orasidagi aloqa joyi",
+    "B": "Ko`z pardasi",
+    "C": "Quloq kanali",
+    "D": "Miya suyuqligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Refleks yoyining birinchi bo`g`ini?",
+    "A": "Retseptor",
+    "B": "Effektor",
+    "C": "Markaz",
+    "D": "Tormoz markazi",
+    "javob": "A"
+  },
+  {
+    "savol": "Refleks yoyining oxirgi bo`g`ini?",
+    "A": "Effektor",
+    "B": "Retseptor",
+    "C": "Markaz",
+    "D": "Neyron",
+    "javob": "A"
+  },
+  {
+    "savol": "Qo`zg`alish nima?",
+    "A": "Nerv impulsining hosil bo`lishi",
+    "B": "Ko`rish refleksi",
+    "C": "Eshituv aks sadosi",
+    "D": "Hidni sezish",
+    "javob": "A"
+  },
+  {
+    "savol": "Tormozlanish nima?",
+    "A": "Qo`zg`alishning susayishi",
+    "B": "Nerv impulsining kuchayishi",
+    "C": "Ko`rish refleksi",
+    "D": "Hidni kuchaytirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Pavlov kim?",
+    "A": "Oliy nerv faoliyatini o`rgangan olim",
+    "B": "Psixolog",
+    "C": "Biolog",
+    "D": "Tarixchi",
+    "javob": "A"
+  },
+  {
+    "savol": "Sechenov kim?",
+    "A": "“Bosh miya reflekslari” asari muallifi",
+    "B": "Nevropatolog",
+    "C": "Psixiatr",
+    "D": "Fiziolog",
+    "javob": "A"
+  },
+  {
+    "savol": "Shartli refleks nima?",
+    "A": "Tajriba orqali hosil bo`lgan refleks",
+    "B": "Tug`ma refleks",
+    "C": "Instinktiv harakat",
+    "D": "Tasodifiy javob",
+    "javob": "A"
+  },
+  {
+    "savol": "Shartsiz refleks nima?",
+    "A": "Tug`ma refleks",
+    "B": "O`rganilgan refleks",
+    "C": "Sun`iy refleks",
+    "D": "Tajriba refleksi",
+    "javob": "A"
+  },
+  {
+    "savol": "Miya po`stlog`ining asosiy funksiyasi?",
+    "A": "Oliy nerv faoliyatini boshqarish",
+    "B": "Eshitish",
+    "C": "Ko`rish",
+    "D": "Nutq",
+    "javob": "A"
+  },
+  {
+    "savol": "Tormozlanish va qo`zg`alish qanday jarayon?",
+    "A": "O`zaro muvozanatda bo`ladi",
+    "B": "Mustaqil",
+    "C": "Faqat tormozlanish",
+    "D": "Faqat qo`zg`alish",
+    "javob": "A"
+  },
+  {
+    "savol": "Eshitish qobiliyatining turg`un pasayishi qanday bo`ladi?",
+    "A": "Tug`ma yoki orttirilgan",
+    "B": "Faqat orttirilgan",
+    "C": "Faqat tug`ma",
+    "D": "Yoshga bog`liq",
+    "javob": "A"
+  },
+  {
+    "savol": "Eshitishning tug`ma pasayishiga nima sabab bo`ladi?",
+    "A": "Ota-onaning kar bo`lishi",
+    "B": "Burun kasalligi",
+    "C": "Tovush kuchi",
+    "D": "Talamus buzilishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Homiladorlikda qaysi omil eshitish pasayishiga olib keladi?",
+    "A": "Virusli infeksiya (qizamiq, gripp)",
+    "B": "Vitamin ortiqligi",
+    "C": "Kuchsiz yurak",
+    "D": "Kamqonlik",
+    "javob": "A"
+  },
+  {
+    "savol": "Eshitish pasayishining orttirilgan sababi?",
+    "A": "Yiringli otit",
+    "B": "Ko`rish nervi shikasti",
+    "C": "Mushak falaji",
+    "D": "Hidni yo`qotish",
+    "javob": "A"
+  },
+  {
+    "savol": "Adenoid o`smalar nimaga olib keladi?",
+    "A": "Eshituv nayining o`tkazuvchanligi buzilishiga",
+    "B": "Hidni pasayishiga",
+    "C": "Ko`rish pasayishiga",
+    "D": "Tovushni kuchaytirishga",
+    "javob": "A"
+  },
+  {
+    "savol": "Tepki kasalligi natijasida nima yuz beradi?",
+    "A": "Bir tomonlama karlik",
+    "B": "Ko`rmaslik",
+    "C": "Hidni yo`qotish",
+    "D": "Nutq buzilishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Eshitishning og`ir darajadagi buzilishi qayer shikastida kuzatiladi?",
+    "A": "Ichki quloq va eshituv nervida",
+    "B": "Burun yo`lida",
+    "C": "Til ildizida",
+    "D": "Ko`rish pushtasida",
+    "javob": "A"
+  },
+  {
+    "savol": "Sifilis infeksiyasi nimalarni zararlaydi?",
+    "A": "Ichki quloqdagi nerv apparatini",
+    "B": "Ko`rish retseptorini",
+    "C": "Hid retseptorini",
+    "D": "Tovush suyakchasini",
+    "javob": "A"
+  },
+  {
+    "savol": "Tug`ruqdagi jarohat qanday oqibatga olib keladi?",
+    "A": "Eshitishning turg`un pasayishiga",
+    "B": "Ko`rishning buzilishiga",
+    "C": "Nutqning yo`qolishiga",
+    "D": "Mushak falajiga",
+    "javob": "A"
+  },
+  {
+    "savol": "Eshitish qobiliyati buzilishining asosiy shakli?",
+    "A": "Karlar va zaif eshituvchilar",
+    "B": "Faqat karlar",
+    "C": "Faqat zaif eshituvchilar",
+    "D": "Eshituv nervi",
+    "javob": "A"
+  },
+  {
+    "savol": "Kar-soqovlik nimadan kelib chiqadi?",
+    "A": "Eshitishning erta yo`qolishidan",
+    "B": "Til jarohatidan",
+    "C": "Ko`rish nuqsonidan",
+    "D": "O`pka kasalligidan",
+    "javob": "A"
+  },
+  {
+    "savol": "Orttirilgan karlik sababi?",
+    "A": "Meningit",
+    "B": "Burun oqishi",
+    "C": "Nutq apparati shikasti",
+    "D": "Ko`z yallig`lanishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Kar-soqov bolalar nutqi qanday bo`ladi?",
+    "A": "Yo`q yoki so`nib boradi",
+    "B": "Ravon",
+    "C": "Kuchsiz",
+    "D": "Buzilmagan",
+    "javob": "A"
+  },
+  {
+    "savol": "Zaif eshituvchi bolalarda nutq qanday shakllanadi?",
+    "A": "Noto`liq",
+    "B": "To`liq",
+    "C": "Ortiqcha",
+    "D": "Boshqa organ orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Nasliy karlik necha foiz holatda uchraydi?",
+    "A": "30–50%",
+    "B": "5-10%",
+    "C": "10-15%",
+    "D": "70%",
+    "javob": "A"
+  },
+  {
+    "savol": "Nasliy karlik qaysi yo`l bilan o`tadi?",
+    "A": "Retsessiv va dominant",
+    "B": "Faqat autosom",
+    "C": "Faqat gormonal",
+    "D": "Faqat onadan",
+    "javob": "A"
+  },
+  {
+    "savol": "Zaif eshituvchanlik darajasi nimaga bog`liq?",
+    "A": "Nutq diapazonidagi tovushni eshitish darajasiga",
+    "B": "Ko`rish burchagiga",
+    "C": "Burun o`tkazuvchanligiga",
+    "D": "Til harakatiga",
+    "javob": "A"
+  },
+  {
+    "savol": "Zaif eshituvchi bolalar nutqida nima kuzatiladi?",
+    "A": "Tovushlarni almashtirish",
+    "B": "Ranglarni chalkashtirish",
+    "C": "So`zlarni takrorlash",
+    "D": "Tovushni cho`zish",
+    "javob": "A"
+  },
+  {
+    "savol": "Zaif eshituvchi bolalarda qanday fonetik xato ko`p uchraydi?",
+    "A": "Jarangli tovushlar o`rniga jarangsiz",
+    "B": "Unlilarni tushirib qoldirish",
+    "C": "Qo`sh so`z yaratish",
+    "D": "So`z oxirini cho`zish",
+    "javob": "A"
+  },
+  {
+    "savol": "Suyak orqali eshitish pasayganda nima sodir bo`ladi?",
+    "A": "Eshitish kamayadi",
+    "B": "Tovush kuchayadi",
+    "C": "Quloq shovqini ortadi",
+    "D": "Qon bosimi oshadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Audiometriya yordamida nima aniqlanadi?",
+    "A": "Eshitish grafigi",
+    "B": "Ko`rish darajasi",
+    "C": "Nutq tezligi",
+    "D": "Hid kuchi",
+    "javob": "A"
+  },
+  {
+    "savol": "Akumetriyada ishlatiladigan vosita?",
+    "A": "Kamerton",
+    "B": "Stetoskop",
+    "C": "Ko`zoynak",
+    "D": "Qalam",
+    "javob": "A"
+  },
+  {
+    "savol": "Audiometriyada ishlatiladigan asbob?",
+    "A": "Audiometr",
+    "B": "Tonometr",
+    "C": "Termometr",
+    "D": "Barometr",
+    "javob": "A"
+  },
+  {
+    "savol": "Normada shivirlab gapirish nech metrda eshitiladi?",
+    "A": "6 metrda",
+    "B": "1 metrda",
+    "C": "2 metrda",
+    "D": "10 metrda",
+    "javob": "A"
+  },
+  {
+    "savol": "Odatdagi gapirish eshitilishi necha metr bo`lishi kerak?",
+    "A": "50 metr",
+    "B": "10 metr",
+    "C": "20 metr",
+    "D": "5 metr",
+    "javob": "A"
+  },
+  {
+    "savol": "Rinne sinamasi nimani bildiradi?",
+    "A": "Havo orqali eshitish yaxshiroq",
+    "B": "Suyak orqali eshitish kuchli",
+    "C": "Tovush yo`q",
+    "D": "Kasallik og`ir",
+    "javob": "A"
+  },
+  {
+    "savol": "Weber sinamasi nimaga asoslanadi?",
+    "A": "Tovush lateralizatsiyasiga",
+    "B": "Tovush kuchiga",
+    "C": "So`z takroriga",
+    "D": "Nutq bosimiga",
+    "javob": "A"
+  },
+  {
+    "savol": "Kamerton sinovida S128 nimani bildiradi?",
+    "A": "Past tovush chastotasi",
+    "B": "Yuqori tovush",
+    "C": "O`rta chastota",
+    "D": "Ultratovush",
+    "javob": "A"
+  },
+  {
+    "savol": "S2048 kamertoni nimani tekshiradi?",
+    "A": "Ichki quloq faoliyatini",
+    "B": "O`rta quloq suyakchalarini",
+    "C": "Tovush chiqishini",
+    "D": "Mushak harakatini",
+    "javob": "A"
+  },
+  {
+    "savol": "Audiometriya qanday sharoitda o`tkaziladi?",
+    "A": "Tovush o`tkazmaydigan xonada",
+    "B": "Ko`rish apparatida",
+    "C": "Hid kamerasida",
+    "D": "Nutq zalida",
+    "javob": "A"
+  },
+  {
+    "savol": "Akumetriya natijasi qayerga yoziladi?",
+    "A": "Eshitish pasportiga",
+    "B": "Ko`rish jadvaliga",
+    "C": "Nutq kartasiga",
+    "D": "Sensor varaqasiga",
+    "javob": "A"
+  },
+  {
+    "savol": "Kamerton tebranishi nimaga bog`liq?",
+    "A": "Tovush chastotasiga",
+    "B": "Tovush balandligiga",
+    "C": "Havo bosimiga",
+    "D": "Suyuqlikka",
+    "javob": "A"
+  },
+  {
+    "savol": "Audiometriyada signal turi?",
+    "A": "Tovush chastotasi",
+    "B": "Hid",
+    "C": "Rang",
+    "D": "Nutq",
+    "javob": "A"
+  },
+  {
+    "savol": "Eshitish yo`llari kasalligida Rinne sinamasi qanday bo`ladi?",
+    "A": "Manfiy",
+    "B": "Musbat",
+    "C": "Nol",
+    "D": "O`rtacha",
+    "javob": "A"
+  },
+  {
+    "savol": "Akumetriya natijasi qayerda qayd etiladi?",
+    "A": "Eshitish pasportida",
+    "B": "Tibbiy xaritada",
+    "C": "Ko`rish jadvalida",
+    "D": "Diagnostik varaqada",
+    "javob": "A"
+  },
+  {
+    "savol": "Normada tovush diapazoni?",
+    "A": "16–20000 Gts",
+    "B": "20–1000 Gts",
+    "C": "100–5000 Gts",
+    "D": "10000 Gts dan ortiq",
+    "javob": "A"
+  },
+  {
+    "savol": "Eshitish suyakchalari qayerda joylashgan?",
+    "A": "O`rta quloqda",
+    "B": "Ichki quloqda",
+    "C": "Tashqi quloqda",
+    "D": "Chakka suyagida",
+    "javob": "A"
+  },
+  {
+    "savol": "Eshitish analizatori markazi qayerda?",
+    "A": "Chakka sohasida",
+    "B": "Ensa",
+    "C": "Tepa",
+    "D": "Peshona",
+    "javob": "A"
+  },
+  {
+    "savol": "Vestibulyar analizator markazi qayerda?",
+    "A": "Kichik miyada",
+    "B": "Peshona bo`lagida",
+    "C": "Ensa qismining oldida",
+    "D": "Talamusda",
+    "javob": "A"
+  },
+  {
+    "savol": "Proprioreseptor nima?",
+    "A": "Mushak sezgi retseptori",
+    "B": "Hid retseptori",
+    "C": "Eshitish retseptori",
+    "D": "Ko`rish reseptori",
+    "javob": "A"
+  },
+  {
+    "savol": "Audiometriya natijasida olingan jadval nima deyiladi?",
+    "A": "Audiogramma",
+    "B": "Kardiogramma",
+    "C": "Elektrogramma",
+    "D": "Fiziogramma",
+    "javob": "A"
+  },
+  {
+    "savol": "Eshitish qobiliyatining umumiy ahamiyati?",
+    "A": "Tashqi olam bilan muloqotni ta`minlaydi",
+    "B": "Ko`rish reaksiyasini",
+    "C": "Hid tahlilini",
+    "D": "Nutq refleksini",
+    "javob": "A"
+  },
+  {
+    "savol": "Suyak orqali eshitish pasporti qancha davom etadi?",
+    "A": "Taxminan yarmigacha",
+    "B": "Ko`p",
+    "C": "Uzoq",
+    "D": "Cheksiz",
+    "javob": "A"
+  },
+  {
+    "savol": "Kamerton S512 qaysi chastotaga to`g`ri keladi?",
+    "A": "O`rta chastota",
+    "B": "Past tovush",
+    "C": "Yuqori chastota",
+    "D": "Ultratovush",
+    "javob": "A"
+  },
+  {
+    "savol": "Audiometriya kim tomonidan o`tkaziladi?",
+    "A": "Otorinolaringolog",
+    "B": "Nevropatolog",
+    "C": "Psixolog",
+    "D": "Logoped",
+    "javob": "A"
+  },
+  {
+    "savol": "Tovushni eshitish jarayonida qaysi tuzilma ishtirok etadi?",
+    "A": "Ichki quloq",
+    "B": "Ko`z",
+    "C": "Til",
+    "D": "Burun",
+    "javob": "A"
+  }
+]
