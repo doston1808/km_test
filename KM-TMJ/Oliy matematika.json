@@ -150,12 +150,12 @@
     "answer": "$3$"
   },
   {
-    "question": "$f(z)=2z^2+3z-4$ funksiyaning $z=2i$ dagi xususiy qiymatini toping.",
+    "question": "$f(z)=z^2+3z$ funksiyaning $z=-i$ dagi xususiy qiymatini toping.",
     "options": ["$-4i$", "$1-2i$", "$5(1-3i)$", "$5$"],
     "answer": "$-4i$"
   },
   {
-    "question": "$f(z)=2z^2+3z-4$ funksiyaning $z=1+i$ dagi xususiy qiymatini toping.",
+    "question": "$f(z)=z^2+3z$ funksiyaning $z=1+i$ dagi xususiy qiymatini toping.",
     "options": ["$1+3i$", "$2+3i$", "$1+i$", "$3+3i$"],
     "answer": "$1+3i$"
   },
