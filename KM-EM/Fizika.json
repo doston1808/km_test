@@ -1,0 +1,1370 @@
+[
+  {
+    "savol": "Fizika fani nimalarni o`rgatadi?",
+    "A": "jonsiz tabiatdagi barcha jarayonlarni o`rganadigan fan",
+    "B": "faqatgina jismning harakatini",
+    "C": "kimyoviy reaksiyalarni fizik xossalarini",
+    "D": "faqatgina termodinamika qonunlarini",
+    "javob": "A"
+  },
+  {
+    "savol": "Fizika fani nechta bo`limdan iborat?",
+    "A": "6 ta",
+    "B": "4 ta",
+    "C": "3 ta",
+    "D": "8 ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Fizika fanining bo`limlari qaysi javobda to`liq ko`rsatilgan?",
+    "A": "mexanika,molekulyar fizika,elektr va magnetizm,optika, atom fizikasi va yadro fizikasi",
+    "B": "mexanika, optika, atom fizikasi",
+    "C": "kinematika, dinamika va statika",
+    "D": "atom va yadro fizikasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Bivosita o`lchov birliklari qaysi javobda to`g`ri ko`rsatilgan?",
+    "A": "m, kg, s",
+    "B": "n va j",
+    "C": "metr taqsim sekund kvadrat",
+    "D": "metr taqsim sekund kub,joul taqsim sekund",
+    "javob": "A"
+  },
+  {
+    "savol": "Bilvosita o`lchov birliklari qaysi qatorda to`g`ri ko`rsatilgan?",
+    "A": "n, j, metr taqsim sekund kvadrat",
+    "B": "metr taqsim sekund kub, joul taqsim sekund va kg, m",
+    "C": "sekund,metr taqsim sekund",
+    "D": "kg va metr taqsim sekund",
+    "javob": "A"
+  },
+  {
+    "savol": "Bir jismning vaqt o`tishi bilan boshqa jismga nisbatan trayektoriyasining o`zgarishiga nima deb ataladi?",
+    "A": "mexanik harakat",
+    "B": "jismning tezligi",
+    "C": "bosib o`tilgan yo`l",
+    "D": "jismning tezlanishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Yer va bulut qanday zaryadga ega?",
+    "A": "yer ham, bulut ham manfiy",
+    "B": "yer manfiy, bulut musbat",
+    "C": "yer ham, bulut ham musbat",
+    "D": "yer musbat, bulut manfiy",
+    "javob": "A"
+  },
+  {
+    "savol": "Zaryadlar qanday o`zaro ta`sirlashadi?",
+    "A": "bir xil ishorali zaryadlar itarishadi, har xil ishorali zaryadlar tortishadi",
+    "B": "musbat zaryadlar itariladi, manfiy zaryadlar tortiladi",
+    "C": "hamma zaryadlar tortiladi",
+    "D": "musbat zaryadlar tortiladi, manfiy zaryadlar itariladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Xalqaro birliklar sistemasida tok kuchi qanday birlikda o`lchanadi?",
+    "A": "Amper",
+    "B": "Sekund",
+    "C": "Joul",
+    "D": "Kulon",
+    "javob": "A"
+  },
+  {
+    "savol": "O`tkazgichda elektr tokini uzoq vaqt saqlash uchun nima kerak?",
+    "A": "Tok manbai",
+    "B": "Magnit maydon",
+    "C": "Elektr maydon",
+    "D": "Elektr zanjir",
+    "javob": "A"
+  },
+  {
+    "savol": "Elektr toki deb nimaga aytiladi.",
+    "A": "Zaryadlangan zarraning tartibli harakatiga",
+    "B": "Manfiy zaryadlarning harakatiga",
+    "C": "Musbat zaryadlarning harakatiga",
+    "D": "Zaryadlangan zarraning tartibsiz harakatiga",
+    "javob": "A"
+  },
+  {
+    "savol": "Metall o`tkazgichlarda elektr toki qanday vujudga keladi?",
+    "A": "Elektronlarning harakati tufayli",
+    "B": "Ionlarning harakati tufayli",
+    "C": "Elektr maydoni ta`sirida erkin elektronlarning tartibli harakati tufayli",
+    "D": "Protonlarning harakati tufayli",
+    "javob": "A"
+  },
+  {
+    "savol": "10kA necha amperga teng.",
+    "A": "1000 A",
+    "B": "100A",
+    "C": "10A",
+    "D": "10000A",
+    "javob": "A"
+  },
+  {
+    "savol": "O`tkazgichlarning qarshiligi nimaga bog`liq ?",
+    "A": "O`tkazgichning uzunligiga to`g`ri proporsional, kesim yuziga teskari proporsional hamda materialiga bog`liq",
+    "B": "O`tkazgichning uzunligiga to`g`ri proporsional",
+    "C": "O`tkazgichning kesim yuziga teskari proporsional",
+    "D": "O`tkazgichning qalinligiga to`g`ri proporsional, kesim yuziga teskari proporsional",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi metallardan qaysi biri eng yaxshi o`tkazgich hisoblanadi?",
+    "A": "Mis",
+    "B": "kumush",
+    "C": "Bronza",
+    "D": "Po`lat",
+    "javob": "A"
+  },
+  {
+    "savol": "Nima uchun benzin tashiydigan mashinalarning zanjiri yerga tegib turadi ?",
+    "A": "Suyuqlik qatlamlari ishqalanganda hosil bo`lgan zaryadlar yerga o`tib ketishi uchun",
+    "B": "Suyuqlik ishqalanganda zaryadlar hosil qilish uchun.",
+    "C": "Suyuqlik ichqalanganda uchqun chiqaradi",
+    "D": "Zaryadlar hosil bo`lishi uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi zarralardan qaysi biri manfiy zaryadga ega ?",
+    "A": "elektron",
+    "B": "neytron",
+    "C": "proton",
+    "D": "yadro",
+    "javob": "A"
+  },
+  {
+    "savol": "10 megavatt necha vattga teng ?",
+    "A": "10000000 W",
+    "B": "10W",
+    "C": "10000W",
+    "D": "100W",
+    "javob": "A"
+  },
+  {
+    "savol": "Xalqaro birliklar sistemasida ish birligi sifatida nima qabul qilingan ?",
+    "A": "J",
+    "B": "N",
+    "C": "A",
+    "D": "V",
+    "javob": "A"
+  },
+  {
+    "savol": "I=q/t formuladan qanday fizik kattalik anqlanadi ?",
+    "A": "Tok kuchi",
+    "B": "Kuchlanish",
+    "C": "Qarshilik",
+    "D": "Ish",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi elektr kattaliklar parallel ulangan o`tgazgichlarning barchasida bir xil bo`ladi ? 1) Kuchlanish; 2) Tok kuchi; 3) Qarshilik;",
+    "A": "1;",
+    "B": "2; 3;",
+    "C": "1; 2;",
+    "D": "1;3:",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi fizik kattaliklardan qaysilari skalyar kattaliklardir. 1.O`tgan yo`l 2. Ko`chish 3.Tezlik 4. Tezlanish.",
+    "A": "1",
+    "B": "2,3",
+    "C": "1,5",
+    "D": "2,3,4",
+    "javob": "A"
+  },
+  {
+    "savol": "Havosi so`rib olingan trubkada po`kak, yogoch bo`lakchasi va qush pati bor. Shu jismlarning  qaysi biri katta tezlanish bilan tushadi?.",
+    "A": "hammasi bir xil tezlanish bilan.",
+    "B": "po`kak.",
+    "C": "qush pati",
+    "D": "yog`och bo`lakchasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Erkin tushush tezlanish vektorining yo`nalishini ko`rsating",
+    "A": "vertikal pastga",
+    "B": "vertikal",
+    "C": "gorizontal",
+    "D": "ushbu kattalik skalyar kattaligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Tezlanish bilan yuqoriga harakat qilgan jismning og`irligi nimaga teng ?",
+    "A": "P=m(g+a)",
+    "B": "P=m(g- a)",
+    "C": "P=ga",
+    "D": "tjy",
+    "javob": "A"
+  },
+  {
+    "savol": "Trayektoriya uzunligi jismning………. deb ataladi?",
+    "A": "o`tgan yo`li",
+    "B": "ko`chish",
+    "C": "mexanik harakat",
+    "D": "kordinatasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Erkin tushish tezlanishi nimaga teng?",
+    "A": "9,8m/s2",
+    "B": "980m/s2",
+    "C": "98m/s2",
+    "D": "0.98m/s2",
+    "javob": "A"
+  },
+  {
+    "savol": "Kuch birligini ko`rsating. 1)N 2) m 3)m/s 4)m/s2",
+    "A": "1",
+    "B": "2",
+    "C": "4",
+    "D": "3",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar har qanday jism istalgan bir xil vaqt oralig`ida bir xil yo`lni bosib o`tsa, u holda uning harakati…….. deyiladi",
+    "A": "tekis harakat",
+    "B": "notekis harakat",
+    "C": "aylana harakat",
+    "D": "ilgarilanma harakat",
+    "javob": "A"
+  },
+  {
+    "savol": "Yer quyosh atrofida aylanayotganda moddiy nuqta deb bo`ladimi?",
+    "A": "Moddiy nuqta bo`ladi",
+    "B": "Moddiy nuqta bo`lmaydi",
+    "C": "Moddiy nuqta bo`lishi ham, bo`lmasligi ham mumkin",
+    "D": "Yer Quyosh atrofida aylanmaganda moddiy nuqta bo`ladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Jismning boshlang`ich va oxirgi vaziyatini tutashtiruvchi to`g`ri chiziq kesmasi…….deyiladi?",
+    "A": "…..ko`chish",
+    "B": "….trayektoriya",
+    "C": "..masofa",
+    "D": "…tezlik",
+    "javob": "A"
+  },
+  {
+    "savol": "Harakatlanayotgan holda o`lchamlari va shaklini hisobga olmasa ham bo`ladigan darajadagi kichik jism….. deyiladi?",
+    "A": "… moddiy nuqta",
+    "B": "trayektoriya",
+    "C": "ilgarilanma harakat",
+    "D": "tezlanish",
+    "javob": "A"
+  },
+  {
+    "savol": "Nyutonning 2-qonunining ifodasi qaysi javobda to`g`ri ko`rsatilgan?",
+    "A": "a=F/m",
+    "B": "F=mg",
+    "C": "F=pVg",
+    "D": "a=V2/R",
+    "javob": "A"
+  },
+  {
+    "savol": "Kuchni qanday asbobda o`lchash mumkin?",
+    "A": "Dinamometr",
+    "B": "Menzurka",
+    "C": "Tarozi",
+    "D": "Barometr",
+    "javob": "A"
+  },
+  {
+    "savol": "Jismga boshqa jismlarning ta`siri bo`lmaganda o`z tezligini saqlash hodisasi nima deb ataladi?",
+    "A": "Inersiya",
+    "B": "Harakat",
+    "C": "Tinchlik",
+    "D": "Muvozanat",
+    "javob": "A"
+  },
+  {
+    "savol": "Jismning boshqa jism bilan o`zaro ta`siri natijasida olgan tezlanishi kuchga qanday proporsional massagachi?",
+    "A": "Kuchga to`g`ri popopsional, massaga teskari proporsional",
+    "B": "kuchga to`g`ri proporsional,massaga to`g`ri propsional",
+    "C": "Kuchga teskari proporsional,massaga teskari proporsional",
+    "D": "Kuchga teskari proporsional, masaga to`g`ri proporsional",
+    "javob": "A"
+  },
+  {
+    "savol": "Prujinaga jism osilgan. Bunda elastiklik kuchi qayerda paydo bo`ladi?",
+    "A": "prujinada",
+    "B": "ikkalasida",
+    "C": "tayanchda",
+    "D": "ikkalasi o`rtasida",
+    "javob": "A"
+  },
+  {
+    "savol": "Jism impuls deb nimaga aytiladi?",
+    "A": "Jism massasining tezlikka ko`paytmasiga",
+    "B": "Jism massasi bilan ta`sir e`tuvchi kuch ko`paytmasiga",
+    "C": "Ta`sir etuvchi kuchning vaqtga ko`paytmasi",
+    "D": "Ta`sir etuvchi kuchning massaga ko`paytmasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ishqalanish kuchini kamaytirish uchun texnikada qanday ish bajarish mumkin?",
+    "A": "Moylash",
+    "B": "Tozalash",
+    "C": "Ishqalash",
+    "D": "Yuvish",
+    "javob": "A"
+  },
+  {
+    "savol": "Jismni tashkil qilgan molekulalarning harakati va o`zaro ta`sir energiyasi qanday nomlanadi?",
+    "A": "Ichki energiya",
+    "B": "kinetic enrgiya",
+    "C": "potensial energiya",
+    "D": "mexanik energiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Reaktiv harakat deb nimaga aytiladi?",
+    "A": "Jismlarning o`zaro ta`siri natijasida yuzaga keladigan harakati",
+    "B": "Jismlarning harakati",
+    "C": "Jislarning o`zaro ta`siri",
+    "D": "Jismlarning tortilishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi jismlarning qaysi biri kinetik energiyaga ega bo`ladi?",
+    "A": "avtomobilning harakati",
+    "B": "Yerdan ko`tarilgan jism",
+    "C": "kamoldan otganda tarang tortilgan kamon ipi",
+    "D": "yerda turgan jism",
+    "javob": "A"
+  },
+  {
+    "savol": "Suyuqlik va gazlar qattiq jismlardan qanday xususiyati bilan farqlanadi?",
+    "A": "Oquvchanligi va muayyan shaklga ega bo`lmasligi",
+    "B": "Oquvchanligi",
+    "C": "Shakiga ega bo`lmasligi.",
+    "D": "Oquvchanligi va muayyan shaklga ega ekanligi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Mexanikaning qattiq jismlarga xos bo`lgan qonunlarini suyuqlik va gazlarda qo`llash mumkinmi?",
+    "A": "Suyuqlikda mumkin, gazda mumkin emas",
+    "B": "Suyuqlik muvozanat holatda tursa",
+    "C": "mumkin emas.",
+    "D": "Suyuqlik va gazlarning o`zaro joylashuvi o`zgarmagan holda",
+    "javob": "A"
+  },
+  {
+    "savol": "Katta bo`lmagan tezliklarda suyuqlik bir-biriga nisbatan ko`chmasdan sirpanadigan qatlamlarga bo`linib oqadigan oqim qanday nomlanadi?",
+    "A": "Laminar",
+    "B": "Uyurma",
+    "C": "Turbulent",
+    "D": "Bo`ylama",
+    "javob": "A"
+  },
+  {
+    "savol": "Quvurning keng joylarida bosim qanday bo`ladi?",
+    "A": "Katta",
+    "B": "Kichik",
+    "C": "Bir xil",
+    "D": "har xil",
+    "javob": "A"
+  },
+  {
+    "savol": "Tebranish deb nimaga aytiladi?",
+    "A": "Muyozanat vaziyatiga nisbatan davriy ravishda takrorlanib turuvchi harakatga",
+    "B": "Takrorlanuvchi harakatlarni bir marta takrorlanishi uchun ketgan vaqtga",
+    "C": "Vaqtga teskari bo`lgan kattalikka",
+    "D": "Sistemaning muvozanat vaziyatidan eng katta chetga chetlashishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Xalqaro birliklar sistemasida chastota birligi qilib nima qabul qilingan?",
+    "A": "Gers",
+    "B": "Paskal",
+    "C": "Sekund",
+    "D": "Joul",
+    "javob": "A"
+  },
+  {
+    "savol": "Majburlovchi kuch chastotasi erkin tebranishlar chastotasiga yaqinlashganda majburiy tebranishlar amplitudasining keskin ortib ketish hodisasi ……ataladi.",
+    "A": "…..rezonans",
+    "B": "…..tebranish",
+    "C": "…..amplituda",
+    "D": "….chastota",
+    "javob": "A"
+  },
+  {
+    "savol": "Qanday to`lqinlar mavjud?",
+    "A": "Ko`dalang, Bo`ylama",
+    "B": "Bo`ylama",
+    "C": "Ko`ndalang",
+    "D": "Aylana",
+    "javob": "A"
+  },
+  {
+    "savol": "Samolyot qanotining ko`tarish kuchi hosil bo`lishi nimaga asoslangan?",
+    "A": "Qanotning ustki sirtida bosimning kamayishiga",
+    "B": "Qanotning ostida bosimning kamayishiga",
+    "C": "Qanotning ustki sirtida havo oqimi tezligi kichik bo`lishiga",
+    "D": "Qanotning ostki sirtida havo oqimi tezligi kichik bo`lishig",
+    "javob": "A"
+  },
+  {
+    "savol": "Fizikada tovush hodisalarini o`rganadigan bo`lim……deb ataladi.",
+    "A": "….akustika",
+    "B": "……mexanika",
+    "C": "…….optika",
+    "D": "…..knematika",
+    "javob": "A"
+  },
+  {
+    "savol": "Bir sekundda yuz beradigan tebranishlar soni ….deb ataladi.",
+    "A": "….chastota",
+    "B": "…..sekund",
+    "C": "…..davr",
+    "D": "….radian",
+    "javob": "A"
+  },
+  {
+    "savol": "Ishqalanish kuchi –bu…",
+    "A": "bir jismning boshqa jism sirtida harakatlanishida paydo bo`ladigan va harakatga qarshi yo`nalgan kuch;",
+    "B": "bir-biriga tegib turadigan jismlarning g`adir-budurligi tufayli hosil bo`ladigan va jism harakatiga qarshilik qiladigan kuch;",
+    "C": "bir-biriga tegib turadigan jismlar molekulalarining o`zarota`siri tufayli hosil bo`ladigan va jism harakatiga qarshilik qiladigan kuch;",
+    "D": "Javoblar orasida to`g`risi yo`q",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri xalqaro birliklar tizimining asosiy birligi hisoblanadi?",
+    "A": "kelvin",
+    "B": "nyuton",
+    "C": "paskal",
+    "D": "joul",
+    "javob": "A"
+  },
+  {
+    "savol": "Izobarik jarayon deb nimaga aytiladi?",
+    "A": "doimiy bosim ostida",
+    "B": "doimiy hajmda",
+    "C": "haroratda",
+    "D": "tjy",
+    "javob": "A"
+  },
+  {
+    "savol": "Izobarik qizdirilgan bir atomli gazning ichki energiyasi qanday o`zgaradi?",
+    "A": "ortadi",
+    "B": "kamayadi",
+    "C": "o`zgarmaydi",
+    "D": "tjy",
+    "javob": "A"
+  },
+  {
+    "savol": "Izoxorik jarayon deb qanday jarayonga aytiladi?",
+    "A": "doimiy hajmda ostida",
+    "B": "doimiy bosim",
+    "C": "doimiy haroratda",
+    "D": "issiqlik almachmasdan kechuvchi jarayon",
+    "javob": "A"
+  },
+  {
+    "savol": "Izotermik jarayon deb qanday jarayonga aytiladi?",
+    "A": "doimiy haroratda ostid",
+    "B": "doimiy hajmda",
+    "C": "doimiy bosimd",
+    "D": "issiqlik almachmasdan kechuvchi jarayon",
+    "javob": "A"
+  },
+  {
+    "savol": "Adabatik jarayon deb nimaga aytiladi?",
+    "A": "issiqlik almachmasdan kechuvchi jarayon",
+    "B": "doimiy bosim ostida",
+    "C": "doimiy issiqlik cig`imida",
+    "D": "doimiy harorat ostida",
+    "javob": "A"
+  },
+  {
+    "savol": "Gaz bosimi nimaga bog`liq?",
+    "A": "Molekulyar tezligiga",
+    "B": "Molekulaning faqat konsentrasiyasiga",
+    "C": "Molekulalar konsentrasiyasi tezligiga",
+    "D": "molekulalarga bog`liq emas",
+    "javob": "A"
+  },
+  {
+    "savol": "Izotermik jarayonda parametrlardan... o`zgarmas bo`ladi.",
+    "A": "temperatura",
+    "B": "bosim",
+    "C": "hajm",
+    "D": "zichlik",
+    "javob": "A"
+  },
+  {
+    "savol": "Qattiq jism atomlari qanday harakatda bo`ladi?",
+    "A": "tebranma harakat qiladi.",
+    "B": "tartibsiz ilgarilanma harakat qiladi.",
+    "C": "aylanma harakat qiladi.",
+    "D": "harakatlanmaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Moddani qaysi holatida uni siqib hajmini kamaytirish mumkin?",
+    "A": "gaz",
+    "B": "suyuqlik",
+    "C": "qattiq",
+    "D": "hammasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Elektr tokining magmit maydoni ta`siri qaysi muhitdan o`tganda kuzatiladi?",
+    "A": "yarim o`tkazgichlarda",
+    "B": "istagan muhutda",
+    "C": "vakuumdan",
+    "D": "metalldan",
+    "javob": "A"
+  },
+  {
+    "savol": "Elektr tokening issiqlik ta`siri qaysi muhitdan o`tganda kuzatimaydi?",
+    "A": "vakuumda",
+    "B": "gazda",
+    "C": "metallda",
+    "D": "elektrostatikda",
+    "javob": "A"
+  },
+  {
+    "savol": "Tashqi ta`sir bo`lmagan holda paydo bo`ladingan tebranishlar nima deyiladi?",
+    "A": "erkin tebranishlar",
+    "B": "tebranishlar",
+    "C": "mexanik tebranishlar",
+    "D": "t j y",
+    "javob": "A"
+  },
+  {
+    "savol": "Trolleybus liniyasining havodagi ikki simi o`zaro qanday ta`sirlashadi?",
+    "A": "itarishadi",
+    "B": "ta`silashmaydi",
+    "C": "tok chastotasiga qarab bir-biriga itarishadi yoki tortishadi",
+    "D": "tjy",
+    "javob": "A"
+  },
+  {
+    "savol": "Tebranayotgan kattalikning qiymat moduli nima deb aytiladi?",
+    "A": "amplitudaviy qiymat to`g``ri javob",
+    "B": "bunday qiymat mvjut emas",
+    "C": "ta`sir etuvchi qiymat",
+    "D": "t j y",
+    "javob": "A"
+  },
+  {
+    "savol": "Molekulyar kinetik nazariyaning asosiy qoidasini belgilang.",
+    "A": "barcha javob",
+    "B": "molekulalar orasida o`zaro ta`sir kuchlari mavjud",
+    "C": "molekulalar tartibsiz harakat qiladi.",
+    "D": "barcha moddalar molekulalardan tuzilgan",
+    "javob": "A"
+  },
+  {
+    "savol": "Ikki xil modda molekulalarining tartibsiz harakati tufayli aralashib ketish hodisasiga … deyiladi.",
+    "A": "diffuziya",
+    "B": "broun harakati",
+    "C": "materiya",
+    "D": "ichki energiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Tebranayotgan kattalikning qiymat moduli nima deb aytiladi?",
+    "A": "amplitudaviy qiymat",
+    "B": "bunday qiymat mvjut emas",
+    "C": "ta`sir etuvchi qiymat",
+    "D": "t j y",
+    "javob": "A"
+  },
+  {
+    "savol": "Tashqi ta`sirsiz paydo bo`ladigan tebranishlar …..deyiladi.",
+    "A": "erkin tebranishlar",
+    "B": "majburiy tebranishlar",
+    "C": "garmonik tebranishlar",
+    "D": "avto tebranishlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Vaqt o`tishi bilan sinus yoki kosinus qonuniga bo`ysunadigan tebranishlarga ……deyiladi.",
+    "A": "garmonik tebranishlar",
+    "B": "majburiy tebranishlar",
+    "C": "avto tebranishlar",
+    "D": "erkin tebranishlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Vaqt o`tishi bilan amplitudasi kamayadigan tebranishlar….. deyiladi",
+    "A": "so`nuvchi tebranishlar",
+    "B": "majburiy tebranishlar",
+    "C": "avto tebranishlar",
+    "D": "erkin tebranishlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Fizika so `zi ilk bor qaysi olimning asarlarida paydo bo `ladi?",
+    "A": "Aristotel",
+    "B": "I.Nyuton",
+    "C": "Arximed",
+    "D": "G.Galiley",
+    "javob": "A"
+  },
+  {
+    "savol": "Harakat troyekoriyasi to`g`ri chiziqdan iborta bo`lgan harakat……….. deyiladi",
+    "A": "to`g`ri chiziqli tekis harakt",
+    "B": "aylanma harakat",
+    "C": "o`zgaruvchan harakat",
+    "D": "notekis harakat",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi harakat turida jism tezligining kattaligi o`zgaradi yo`nalishi o`zgarmaydi.",
+    "A": "to`gri chiziqli notekis harakat.",
+    "B": "aylanma harakat",
+    "C": "tekis harakat",
+    "D": "ilgarilanma harakta",
+    "javob": "A"
+  },
+  {
+    "savol": "Vaqt biligi ichidagi aylanishlar soniga ……… deyiladi",
+    "A": "davr",
+    "B": "chastota",
+    "C": "chiziqli tezlik",
+    "D": "burilish burchagi",
+    "javob": "A"
+  },
+  {
+    "savol": "Chiziqli tezlik , burchak tezlik aylanish davri va chastota qaysi harakatni xarakterlaydi",
+    "A": "aylanma",
+    "B": "ilgarilanma",
+    "C": "tekis",
+    "D": "notekis",
+    "javob": "A"
+  },
+  {
+    "savol": "Tebranish nima?",
+    "A": "Jismning goh bir tomonga goh qarama-qarshi tomonga harakatlanishi",
+    "B": "Jismning to`xtab, yana harakatlanishi",
+    "C": "Aylana bo`ylab harakat",
+    "D": "Gorizontal  harakat",
+    "javob": "A"
+  },
+  {
+    "savol": "Tebranuvchi sistemaning bir marta to`la tebranishi uchun ketgan va?t orali?i nima deyiladi?",
+    "A": "Davri",
+    "B": "Doira",
+    "C": "Aylana",
+    "D": "Chastota",
+    "javob": "A"
+  },
+  {
+    "savol": "Tovush hodisalarini o`rganishda qanday fizik asbobdan foydalaniladi?",
+    "A": "Osilograf",
+    "B": "Komeron",
+    "C": "Rubob",
+    "D": "Toch",
+    "javob": "A"
+  },
+  {
+    "savol": "Jismning 1sekund ichidagi tebranishlari soni tebranishlar.",
+    "A": "Chastotasi",
+    "B": "Aylanasi",
+    "C": "Aylanma harakati",
+    "D": "Tebranma harakati",
+    "javob": "A"
+  },
+  {
+    "savol": "Molekula so`zining ma`nosi to`g`ri yozilgan javobni belgilang?",
+    "A": "kichik massa",
+    "B": "modda",
+    "C": "atom",
+    "D": "zarra",
+    "javob": "A"
+  },
+  {
+    "savol": "Molekulalar tezligini birinchi bo`lib kim aniqlagan",
+    "A": "O.Shtere",
+    "B": "Klapeyron",
+    "C": "Joul",
+    "D": "J.Vatt",
+    "javob": "A"
+  },
+  {
+    "savol": "Jismning yerga tortilish kuchi …… deb ataladi?",
+    "A": "Ogirlik kuchi",
+    "B": "Ishkalanish kuchi",
+    "C": "Tortishish kuchi",
+    "D": "Elastiklik kuchi",
+    "javob": "A"
+  },
+  {
+    "savol": "Jismning muvozanat holatidan eng katta siljish tebranish ……… deyiladi?",
+    "A": "Amplituda",
+    "B": "Chastota",
+    "C": "Fazaviy",
+    "D": "doiraviy",
+    "javob": "A"
+  },
+  {
+    "savol": "Tebranishlarning muhitda tarqalish jarayoni ... deb ataladi?",
+    "A": "to`lkin",
+    "B": "oqim",
+    "C": "uzunlik",
+    "D": "chastota",
+    "javob": "A"
+  },
+  {
+    "savol": "Qarama-qarshi ishorada, teng mikdorda zaryadlangan ikki o`kazgichdan iborat to`plovchi kurilmaga ..... deyiladi",
+    "A": "kondensator",
+    "B": "sigim",
+    "C": "bosim",
+    "D": "kuch",
+    "javob": "A"
+  },
+  {
+    "savol": "Zaryadlangan zarralarning bir tomonga tartibli harakatiga .... deyiladi?",
+    "A": "tok",
+    "B": "zaryad",
+    "C": "karshilik",
+    "D": "kuchlanish",
+    "javob": "A"
+  },
+  {
+    "savol": "Metal utkazgichda elektr toki kanday zarralarning harakati bilan boglik?",
+    "A": "Elektron",
+    "B": "Ion",
+    "C": "Azot",
+    "D": "kislorod",
+    "javob": "A"
+  },
+  {
+    "savol": "Qanday atomlar boglanishiga kovalent boglanish deyiladi",
+    "A": "ikkita atom uzoro ikkita elektron orkali boglanishiga",
+    "B": "ikkita atom uzoro bir elektron orkali boglanishiga",
+    "C": "ikkita atom uzoro uch elektron orkali boglanishiga",
+    "D": "ikkita atom uzoro elektron orkali boglanmasa",
+    "javob": "A"
+  },
+  {
+    "savol": "Tinch holatdagi yoki to`g`ri chiziqli tekis harakatlanayotgan sanoq sistemalri…..deyiladi",
+    "A": "Noinersial sanoq sistemasi",
+    "B": "Nisbiy sanoq sistema",
+    "C": "Inersial sanoq sistema",
+    "D": "Relativistik sistema",
+    "javob": "A"
+  },
+  {
+    "savol": "Liftning qanday harakatida undagi jismga yuklama vujudga keladi.",
+    "A": "Yuqoriga o`zgarmas tezlanish bilan",
+    "B": "Pastga o`zgarmas tezlik bilan",
+    "C": "Yuqoriga o`zgarmas telik bilan",
+    "D": "Lift harakatsiz bo`lganda",
+    "javob": "A"
+  },
+  {
+    "savol": "O`zaro ta`sirlashuvchi jismlarning bir-biriga ta`sir kuchlari bir to`gri chiziq bo`ylab yo`nalgan, moduli bo`yicha teng va yo`nalish bo`yicha qarama-qarshidir. Bu ......",
+    "A": "Nyutonning 3- konuni",
+    "B": "Nyutonning 2- konuni",
+    "C": "Nyutonning 1- konuni",
+    "D": "Nyutonning 4- konuni",
+    "javob": "A"
+  },
+  {
+    "savol": "Suv qo`yilgan idish lift kabinasiga joylashtirilgan. Agar lift tezlanish bilan yukoriga harakatlansa, suvning idish tubiga bosimi Qanday o`zgaradi?",
+    "A": "Ortadi",
+    "B": "kamayadi",
+    "C": "Uzgarmaydi",
+    "D": "bilmayman",
+    "javob": "A"
+  },
+  {
+    "savol": "Vaqt davomida Takroriylikka ega bo`lgan harakatlar yoki jarayonlar …………… deyladi",
+    "A": "Tebranishlar",
+    "B": "Tudkinlar",
+    "C": "Fazalar",
+    "D": "uzunliklar",
+    "javob": "A"
+  },
+  {
+    "savol": ".… Kuchning shu kuch ta;sirida ro`y bergan k`chishiga skalyar ko`paytmasiga teng bo`lgan kattalik",
+    "A": "Mexanik ish",
+    "B": "Energiya",
+    "C": "Kinetic energiya",
+    "D": "Potensial energiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Energiya hech qachon bordan yo`q bo`lmaydi , yo`qdan bor bo`lmaydi. U faqat bir turdan 2- turga aylanadi. Bu nimaning ta`rifi.",
+    "A": "Energiyaning saqlanish qonuni",
+    "B": "Nyutonning 1- qonuni",
+    "C": "Nyutonning 2- qonuni",
+    "D": "Nyutonning 4- qonuni",
+    "javob": "A"
+  },
+  {
+    "savol": "Foydali ishning to`la ishga nisbati nimani anglatadi.",
+    "A": "FIK ni",
+    "B": "Energiyani",
+    "C": "Potensial energiyani",
+    "D": "Kinetik energiyani",
+    "javob": "A"
+  },
+  {
+    "savol": "Sistemaning .. deb uning potensial va kinetik enegiyalari yigindisiga aytiladi",
+    "A": "To`la mexanik energiya",
+    "B": "Mexanik ish",
+    "C": "Energiya",
+    "D": "Potensial energiyani",
+    "javob": "A"
+  },
+  {
+    "savol": "Kuch momenti qanday birlikda o`lchanadi.",
+    "A": "Nm",
+    "B": "N/m",
+    "C": "Js",
+    "D": "Ws",
+    "javob": "A"
+  },
+  {
+    "savol": "Tovush balandligi nimaga bog`liq?",
+    "A": "Tovush chastotasiga",
+    "B": "Tovush to`lqin uzunligiga",
+    "C": "Tovush amplitudasiga",
+    "D": "Tovush tarqalish tezligiga",
+    "javob": "A"
+  },
+  {
+    "savol": "Areometr yerdamida kanday fizik kattalik ulchanadi?",
+    "A": "Suyuklik zichligi",
+    "B": "Xavoning namligi",
+    "C": "Solishtirma ogirlik",
+    "D": "Suyuklikning okish tezligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Jismning elektrlangan yeki elektrlanmaganligini aniqlaydigan asbob nima deb ataladi?",
+    "A": "Elektroskop",
+    "B": "Ampermetr",
+    "C": "Barometr",
+    "D": "Voltmetr",
+    "javob": "A"
+  },
+  {
+    "savol": "Dielektrik so`zining ma`nosi ?",
+    "A": "O`tkazmas",
+    "B": "O`tkazuvchi",
+    "C": "Sig`im",
+    "D": "Zaryad",
+    "javob": "A"
+  },
+  {
+    "savol": "Temperatura o`zgarmas bo`lganda kechadigan fizik jarayon… jarayon deyiladi ?",
+    "A": "Izotermik",
+    "B": "Izoxorik",
+    "C": "Izobarik",
+    "D": "adiabatik",
+    "javob": "A"
+  },
+  {
+    "savol": "Issiqlik miqdori o`z – o`zidan past temperaturali jismdan yuqori temperaturali jismga o`tmaydi  Bu ta`rif nimani ifodalaydi",
+    "A": "Termodinamikaning 2- qonuni",
+    "B": "Termodinamikaning 1- qonuni",
+    "C": "Termodinamik muvozanat",
+    "D": "Termodinamik jarayon",
+    "javob": "A"
+  },
+  {
+    "savol": "Yoqilg`ining ichki energiyasini mexanik energiyaga aylantirib beruvchi mashinaga…..",
+    "A": "Issiqlik mashinasi",
+    "B": "Reaktiv dvigatel",
+    "C": "Ichki yonuv dvigateli",
+    "D": "Bug` turbinasi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Atrof muhit bilan issiqlik almashinmauydogan jarayon………",
+    "A": "Adiabatik",
+    "B": "Izoxorik",
+    "C": "Izobarik",
+    "D": "izotermik",
+    "javob": "A"
+  },
+  {
+    "savol": "Sistemanig oxirgi holatidan boshlang`ich holatiga o`sha oraliq holat orqali teskari yo`nalishda atrof muhitda hech qanday o`zgarish roy bermasdan otishi……",
+    "A": "Qaytar jarayon",
+    "B": "Qaytmas jarayon",
+    "C": "Termodinamik jarayon",
+    "D": "Termodinamik muvozanat.",
+    "javob": "A"
+  },
+  {
+    "savol": "Modda zarralarining potensial va kinetik energiyalari yig`indisi…….",
+    "A": "Ichki energiya",
+    "B": "Issiqlik energiyasi",
+    "C": "Holat",
+    "D": "Muvozanat",
+    "javob": "A"
+  },
+  {
+    "savol": "Tovush balandligi bilan …. aniqlanadi. Gapni to`ldiring.",
+    "A": "tebranishlar chastotasi",
+    "B": "amplitudasi",
+    "C": "to `lqin tezligi",
+    "D": "to `lqin uzunligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Yerga quyoshdan energiya qanday usulda keladi?",
+    "A": "nurlanish",
+    "B": "konveksiya",
+    "C": "issiqlik o `tkazuvchanlik",
+    "D": "konveksiya va issiqlik o`tkazuvchanlik",
+    "javob": "A"
+  },
+  {
+    "savol": "Qanday fizik kattalik ( N*m) da o`lchanadi?",
+    "A": "kuch momenti",
+    "B": "ish",
+    "C": "kuch impuls",
+    "D": "bosim",
+    "javob": "A"
+  },
+  {
+    "savol": "Jismning fazoda qoldirgan iziga nima deb ataladi?",
+    "A": "bosib o`tilgan yo`l",
+    "B": "tezlik",
+    "C": "egri chiziq",
+    "D": "kuch",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaralayotgan tomonga nisbatan jismning o`lchami e`tiborga olinmaydigan darajada kichik jismga nima deb ataladi?",
+    "A": "moddiy nuqta",
+    "B": "mashina",
+    "C": "yo`l",
+    "D": "jismlar sistemasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Mexanika nechta bo`limdan iborat?",
+    "A": "3 ta",
+    "B": "5 ta",
+    "C": "7 ta",
+    "D": "2 ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Mexanikaning bo`limlari qaysi javobda to`liq ko`rsatilgan?",
+    "A": "kenimatika, dinamika va statika",
+    "B": "atom va yadro fizikasi",
+    "C": "termodinamika va kinetika",
+    "D": "tekis va notekis harakat",
+    "javob": "A"
+  },
+  {
+    "savol": "Kinematika bo`limida nimalarni o`rganamiz?",
+    "A": "jismlarning harakati va ularni vujudga keltiruvchi kuch sabablarisiz o`rganamiz",
+    "B": "jismlarning harakati va ularni vujudga keltiruvchi kuch sabablari bilan bog`lab  o`rganamiz",
+    "C": "molekulyar fizikani o`rganamiz",
+    "D": "atom tuzilishini o`rganamiz",
+    "javob": "A"
+  },
+  {
+    "savol": "Dinamika bo`limida nimalarni o`rganamiz?",
+    "A": "jismlarning harakati va ularni vujudga keltiruvchi kuch sabablari bilan bog`lab  o`rganamiz",
+    "B": "muvozanat shartlarini o`rganamiz",
+    "C": "elektrostatik maydon haqida o`rganamiz",
+    "D": "molekulyar kinetik nazariyasini o`rganamiz",
+    "javob": "A"
+  },
+  {
+    "savol": "Statika bo`limida nimalarni o`rganamiz?",
+    "A": "jismlarning muvozanat shartlarini o`rganamiz",
+    "B": "tekis tezlanuvchan harakatni o`rganamiz",
+    "C": "tekis harakatni grafik ravishda tasvirlashni o`rganamiz",
+    "D": "atom tuzilishini o`rganamiz",
+    "javob": "A"
+  },
+  {
+    "savol": "Harakat jismning tezligiga bog`liq ravishda nechta turga bo`linadi va ular qaysilar?",
+    "A": "2 turga, tekis va notekis harakat",
+    "B": "3 turga, to`gri va egri chiziqli harakat va sekinlanuvchan harakat",
+    "C": "4 turga, mexanika, egri chiziqli, optika va tinch harakat",
+    "D": "2 turga, to`gri va egri chiziqli harakat",
+    "javob": "A"
+  },
+  {
+    "savol": "Harakat yo`nalishiga qarab harakat  nechta turga bo`linadi va ular qaysilar?",
+    "A": "2 turga, to`gri va egri chiziqli harakat",
+    "B": "3 turga,tekis, tezlanuvchan va sekinlanuvchan",
+    "C": "2 turga,tich holatda va tekis harakat",
+    "D": "4 turga,mexanika,egri chiziqli,optika va tinch harakat",
+    "javob": "A"
+  },
+  {
+    "savol": "Notekis harakat turlari qaysi javobda to`g`ri ko`rsatilgan?",
+    "A": "to`g`ri chiziqli tekis tezlanuvchan va tekis sekinlanuvchan",
+    "B": "to`g`ri va egri chiziqli harakat",
+    "C": "chiziqli va optika",
+    "D": "o`rtacha va oniy harakat",
+    "javob": "A"
+  },
+  {
+    "savol": "Vaqt birligi ichida bosib o`tilgan yo`lga nima deb ataladi?",
+    "A": "tezlik",
+    "B": "tezlanish",
+    "C": "bosib o`tilgan yo`l",
+    "D": "tezlanishning o`zgarishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Jism harakat vaqtining birinchi yarmida 20 m/s tezlik bilan harakatlanib,qolgan vaqtda esa 40 m/s tezlik bilan harakatlangan bo`lsa,jismning harakat davomidagi o`rtacha tezligini toping? (m/s)",
+    "A": "30",
+    "B": "20",
+    "C": "15",
+    "D": "10",
+    "javob": "A"
+  },
+  {
+    "savol": "Jism harakat vaqtining birinchi yarmida 15 m/s tezlik bilan harakatlanib,qolgan vaqtda esa 35 m/s tezlik bilan harakatlangan bo`lsa, jismning harakat davomidagi o`rtacha tezligini toping?(m/s)",
+    "A": "25",
+    "B": "10",
+    "C": "17",
+    "D": "15",
+    "javob": "A"
+  },
+  {
+    "savol": "Jism to`g`ri chiziqli tekis harakat qilib 60 sekund davomida 1800 m masofani bosib o`tgan bo`lsa,jismning tezligini toping? (m/s)",
+    "A": "30",
+    "B": "60",
+    "C": "20",
+    "D": "3",
+    "javob": "A"
+  },
+  {
+    "savol": "Mashina 20 m/s tezlik bilan harakatlanib, 50 sekunda A nuqtadan B nuqtaga yetib borgan bo`lsa, shu A nuqtadan B nuqtagacha bo`lgan masofani toping? (m)",
+    "A": "1000",
+    "B": "500",
+    "C": "100",
+    "D": "1500",
+    "javob": "A"
+  },
+  {
+    "savol": "Tekis harakatda bosib o`tilgan yo`l bilan vaqtning bog`langan grafikida yo`lning chizmasi qanaqa ko`rinishda bo`ladi?",
+    "A": "to`g`ri chiziqdan iborat bo`ladi",
+    "B": "paraboladan iborat bo`ladi",
+    "C": "giperboladan iborat bo`ladi",
+    "D": "siniq chiziqlardan iborat bo`ladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Tekis harakatda tezlikning vaqtga bog`langan grafikida tezlik bilan vaqt o`qlarining chegaralangan sohasi nimaga teng?",
+    "A": "bosib o`tilgan yo`lga",
+    "B": "o`rtacha tezlikka",
+    "C": "tezlanishga",
+    "D": "hech qanday fizik kattalikni ifodalamaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Tekis harakatda bosib o`tilgan yo`lni vaqtga bog`langan grafikidan tezlik nimaga teng bo`ladi?",
+    "A": "tga$α$",
+    "B": "sina",
+    "C": "cosa",
+    "D": "ctga$α$",
+    "javob": "A"
+  },
+  {
+    "savol": "Umumiy yo`lni shu yo`lni bosib o`tishga ketgan vaqtga nisbati nimaga teng bo`ladi?",
+    "A": "o`rtacha tezlikka",
+    "B": "oniy tezlikka",
+    "C": "tezlanishga",
+    "D": "kuchga",
+    "javob": "A"
+  },
+  {
+    "savol": "Xalqaro birliklar sistemasida tezlikning birligi nima?",
+    "A": "m/s",
+    "B": "j",
+    "C": "n",
+    "D": "wt",
+    "javob": "A"
+  },
+  {
+    "savol": "Jism harakat vaqtining birinchi yarimi 30 m/s tezlik bilan harakatlanib,qolgan vaqtda esa 50 m/s tezlik bilan harakatlangan bo`lsa,uning o`rtacha tezligini toping? (m/s)",
+    "A": "40",
+    "B": "20",
+    "C": "15",
+    "D": "50",
+    "javob": "A"
+  },
+  {
+    "savol": "Jism  bosib o`tilgan yo`lning birinchi yarimi 20 m/s tezlik bilan harakatlanib,qolgan yo`lda esa 60 m/s tezlik bilan harakatlangan bo`lsa,uning o`rtacha tezligini toping? (m/s)",
+    "A": "30",
+    "B": "20",
+    "C": "15",
+    "D": "45",
+    "javob": "A"
+  },
+  {
+    "savol": "Vaqt birligi ichida tezlikning o`zgarishini ifodalaydigan fizik kattalikka nima deb ataladi?",
+    "A": "tezlanish",
+    "B": "tezlik",
+    "C": "bosib o`tilgan yo`l",
+    "D": "mexanik harakat",
+    "javob": "A"
+  },
+  {
+    "savol": "Tezlik qanday kattalik?",
+    "A": "vektor kattalik",
+    "B": "skalyar kattalik",
+    "C": "o`zgarmas kattalik",
+    "D": "doimiy kattalik",
+    "javob": "A"
+  },
+  {
+    "savol": "To`g`ri chiziqli tekis tezlanuvchan harakatda tezlanishning yo`nalishi qanday bo`ladi?",
+    "A": "musbat",
+    "B": "manfiy",
+    "C": "nolga teng bo`ladi",
+    "D": "manfiydan musbatga qarab o`sib boradi",
+    "javob": "A"
+  },
+  {
+    "savol": "To`g`ri chiziqli tekis sekinlanuvchan harakatda tezlanishning yo`nalishi qanday bo`ladi?",
+    "A": "manfiy",
+    "B": "musbat",
+    "C": "nolga teng bo`ladi",
+    "D": "musbatdan manfiyga qarab kamayib boradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Tekis harakatda tezlanish nimaga teng?",
+    "A": "nolga teng",
+    "B": "musbat qiymatga teng",
+    "C": "manfiy qiymatga teng",
+    "D": "cheksizga teng",
+    "javob": "A"
+  },
+  {
+    "savol": "Oniy tezlik jismning qanday tezligini bildiradi?",
+    "A": "oniy tezlik jismning kuzatilayotgan ondagi tezligini bildiradi.",
+    "B": "oniy tezlik jismning butun yo`l davomidagi tezligini bildiradi.",
+    "C": "oniy tezlik jismning o`rtacha tezligini bildiradi.",
+    "D": "oniy tezlik jismning umumiy tezligini bildiradi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Tekis sekinlanuvchan harakatda tezlikning moduli qanday o`zgaradi?",
+    "A": "kamayib boradi",
+    "B": "oshib boradi",
+    "C": "o`zgarmas saqlanadi",
+    "D": "tezlikning kvadratiga mos ravishda oshib boradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Har qanday harakatda bosib o`tilgan yo`l nimaga teng?",
+    "A": "o`rtacha tezlikni vaqtga ko`paytmasiga teng",
+    "B": "tezlikni tezlanishga ko`patymasiga teng",
+    "C": "vaqtni tezlanishga ko`patymasiga teng",
+    "D": "tezlanishga teng",
+    "javob": "A"
+  },
+  {
+    "savol": "Egri chiziqli harakatga misol qaysi javobda to`g`ri ko`rsatilgan?",
+    "A": "aylana bo`ylab harakat",
+    "B": "to`g`ri chiqizli harakatda",
+    "C": "tekis yo`lda harakatlanayotgan mashina harakati",
+    "D": "traektoriyasi to`g`ri chiziqdan iborat harakat",
+    "javob": "A"
+  },
+  {
+    "savol": "Tezlanishning birligi qaysi javobda to`g`ri ko`rsatilgan?",
+    "A": "metr taqsim sekund kvadrat((kg*m)/s2)",
+    "B": "metr taqsim sekund(m/s)",
+    "C": "kilogram ko`paytirilgan metr(kg*m)",
+    "D": "metr(m)",
+    "javob": "A"
+  },
+  {
+    "savol": "Matematik mayatnik deb nimaga aytiladi?",
+    "A": "cho`zilmas va vaznsiz ipga osilgan hamda muvozanat vaziyati atrofida davriy tebranma harakat qiluvchi moddiy nuqta matematik mayatnik deyiladi.",
+    "B": "davriy tebranma harakat qiladigan jism yoki jismlar sistemasi mayatnik deyiladi.",
+    "C": "bikirligi k bo`lgan prujinaga osilgan m massali yukdan iborat tizimga prujinali mayatnik deyiladi",
+    "D": "tashqi kuch ta`sirida jismlar shakli va o`lchamining o`zgarishiga aytiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Vaqt birligi ichida aylanishlar soniga nima deb ataladi?",
+    "A": "chastota",
+    "B": "davr",
+    "C": "burchak tezlik",
+    "D": "burchak tezlanish",
+    "javob": "A"
+  },
+  {
+    "savol": "Avtomobil, kema, samolyot tezligi nima yordamida o`lchanadi?",
+    "A": "spidometr",
+    "B": "dinamometr",
+    "C": "metr",
+    "D": "sekundanomer",
+    "javob": "A"
+  },
+  {
+    "savol": "Aylana bo`ylab harakatda jism tezligining yo`nalishini qaysi kattalik ifodalaydi?",
+    "A": "tanginsial tezlanish",
+    "B": "normal tezlanish",
+    "C": "burchak tezlik",
+    "D": "tezlik o`zgarishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Aylana bo`ylab harakatda jism tezligining modulini qaysi kattalik ifodalaydi?",
+    "A": "normal tezlanish",
+    "B": "tebranish davri",
+    "C": "tebranish chastotasi",
+    "D": "bosib o`tilgan yo`l",
+    "javob": "A"
+  },
+  {
+    "savol": "O`lchashning necha xil usuli bor va ular qaysilar?",
+    "A": "bivosita va bilvosita",
+    "B": "aniq",
+    "C": "aniq va xato",
+    "D": "chiziqli o`lchash",
+    "javob": "A"
+  },
+  {
+    "savol": "Fizik jismlar deb nimalarga aytiladi?",
+    "A": "fizik jismlar deb, tabiatda uchraydigan barcha jismlarga aytiladi.",
+    "B": "fizik jismlar deb suvda cho`kmaydigan jismlarga aytiladi",
+    "C": "fizik jismlar deb, osmon jismlariga aytiladi",
+    "D": "fizik jismlar deb, tabiatda uchraydigan barcha metallarga aytiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Vaqt birligi ichida tebranishlar soniga nima deb ataladi?",
+    "A": "tebranish chastotasi",
+    "B": "tebranish davri",
+    "C": "tebranish tezlanishi",
+    "D": "tebranish amplitudasi",
+    "javob": "A"
+  },
+  {
+    "savol": "U yoki bu dаrаjаdа tаkrоrlаnuvchаnligi bilаn аjrаlib  turаdigаn prоsеsslаrgа  nimala dеb  аtаlаdi.",
+    "A": "tеbrаnishlаr",
+    "B": "sunishlar",
+    "C": "elektr toklari",
+    "D": "quvvat",
+    "javob": "A"
+  },
+  {
+    "savol": "Tebranishlarga misollar qaysi qatorda to`g`ri ko`rsatilgan?",
+    "A": "mexanik,  elеktrоmаgnit va elеktrоmexanik",
+    "B": "elektr va optik",
+    "C": "kinematik va dinamik",
+    "D": "kinetik va potensial",
+    "javob": "A"
+  },
+  {
+    "savol": "Mexanik tebranishlar necha turga bo`linadi?",
+    "A": "2 turga",
+    "B": "3 turga",
+    "C": "4 turga",
+    "D": "5 turga",
+    "javob": "A"
+  },
+  {
+    "savol": "Mexanik tebranish turlari qaysi javobda to`g`ri ko`rsatilgan?",
+    "A": "bo`ylama va ko`ndalang",
+    "B": "tekis va notekis",
+    "C": "tezlanuvchan va sekinlanuvchan",
+    "D": "botiq va qavariq",
+    "javob": "A"
+  },
+  {
+    "savol": "Ingichkа cho`zilmаs vаznsiz оg`irligi bir nuqtagа tushgаn sistеmаgа  nima deb аytilаdi?",
+    "A": "mаtеmаtik mаyatnik",
+    "B": "prujinali mayatnik",
+    "C": "fizik mayatnik",
+    "D": "botiq mayatnik",
+    "javob": "A"
+  },
+  {
+    "savol": "Og`irlik markazidan o`tmagan har qanday nuqtasidan osilgan va muvozanat atrofida tеbranma harakat qiladigan jism yoki jismlar sistеmasiga nima  dеyiladi?",
+    "A": "fizik mayatnik",
+    "B": "mаtеmаtik mаyatnik",
+    "C": "prujinali mayatnik",
+    "D": "qavariq mayatnik",
+    "javob": "A"
+  },
+  {
+    "savol": "Erkin tushish tezlanishining son qiymati nechiga teng? (m/s2)",
+    "A": "9.81",
+    "B": "8.31",
+    "C": "1.38",
+    "D": "1.6",
+    "javob": "A"
+  },
+  {
+    "savol": "Muvozanat holatidan chiqqanda, qaysi kuch shu yo`nalishda mayatnikning harakatiga sabab bo`ladi?",
+    "A": "muvozanatga qaytaruvchi",
+    "B": "yadroviy kuchlar",
+    "C": "ishqalanish kuchlari",
+    "D": "elastik kuchlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Oyning yer atrofida aylanishi, kеchasi bilan kunduzning almashinishi, soat mayatnigining tеbranishi, aylanma harakat qiluvchi jismlar-bularning hammasi qanaqa jarayonlarga misol bo`lishi mumkin?",
+    "A": "davriy takrorlanish",
+    "B": "mexanik harakat",
+    "C": "tartibli harakat",
+    "D": "sunuvchan harakat",
+    "javob": "A"
+  },
+  {
+    "savol": "Tebranish davrining birligi qaysi qatorda to`g`ri ko`rsatilgan?",
+    "A": "sekund",
+    "B": "1/s",
+    "C": "n",
+    "D": "j",
+    "javob": "A"
+  },
+  {
+    "savol": "Tebranish chastotasining birligi qaysi qatorda to`g`ri ko`rsatilgan?",
+    "A": "Hz",
+    "B": "sekund",
+    "C": "sekund kvadrat",
+    "D": "N*s",
+    "javob": "A"
+  },
+  {
+    "savol": "Og`irlik kuchining formulasi qaysi qatorda to`g`ri ko`rsatilgan?",
+    "A": "P=mg",
+    "B": "F=ma",
+    "C": "K=mv",
+    "D": "S=vt",
+    "javob": "A"
+  },
+  {
+    "savol": "Ham son qiymatiga,ham yo`nalishiga ega kattalikka qanaqa kattalik deyiladi?",
+    "A": "vektor kattalik",
+    "B": "skalyar kattalik",
+    "C": "oddiy kattalik",
+    "D": "murakkab kattalik",
+    "javob": "A"
+  },
+  {
+    "savol": "Faqatgina son qiymatiga ega bo`lgan kattalikka qanaqa kattalik hisoblanadi?",
+    "A": "skalyar kattalik",
+    "B": "vektor kattalik",
+    "C": "murakkab kattalik",
+    "D": "oddiy kattalik",
+    "javob": "A"
+  },
+  {
+    "savol": "Matematik mayatnik 12 sekund davomida 6 marta tebrangan bo`lsa,uning tebranish davrini toping?(s)",
+    "A": "2",
+    "B": "3",
+    "C": "4",
+    "D": "5",
+    "javob": "A"
+  }
+]
