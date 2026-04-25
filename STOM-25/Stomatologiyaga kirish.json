@@ -1,0 +1,1970 @@
+[
+  {
+    "savol": "Doimiy tishlarning anatomik klinikasi?",
+    "A": "2,1,2,3",
+    "B": "2,1,0,2",
+    "C": "2,1,3,2",
+    "D": "2,1,0,3",
+    "javob": "A"
+  },
+  {
+    "savol": "Doimiy tishlarning klinik formulasi?",
+    "A": "1,2,3,4,5,6,7,8",
+    "B": "2,1,2,3",
+    "C": "2,1,0,2",
+    "D": "1,2,3,4,5",
+    "javob": "A"
+  },
+  {
+    "savol": "Sut tishlarning anatomic formulasi?",
+    "A": "2,1,0,2",
+    "B": "2,1,2,3",
+    "C": "1,2,3,4,5,6,7,8",
+    "D": "11,21,31,41",
+    "javob": "A"
+  },
+  {
+    "savol": "Bolalarda nechta sut tishi mavjud?",
+    "A": "20",
+    "B": "28",
+    "C": "32",
+    "D": "16",
+    "javob": "A"
+  },
+  {
+    "savol": "Doimiy tishlar soni?",
+    "A": "28-32",
+    "B": "20",
+    "C": "30",
+    "D": "26",
+    "javob": "A"
+  },
+  {
+    "savol": "Organizmdagi eng qattiq to`qima qaysi?",
+    "A": "emal",
+    "B": "dentin",
+    "C": "sement",
+    "D": "periodont",
+    "javob": "A"
+  },
+  {
+    "savol": "Doimiy tishlarning voz(fdi)bo`yicha formulasi?",
+    "A": "11,23,31,47",
+    "B": "11,51,32,61",
+    "C": "51,61,71,81",
+    "D": "12,52,34,55",
+    "javob": "A"
+  },
+  {
+    "savol": "Sut tishlarning voz(fdi)bo`yicha formulasi?",
+    "A": "52,62,75,83",
+    "B": "28,85,45,76",
+    "C": "51,64,43,64",
+    "D": "45,23,11,23",
+    "javob": "A"
+  },
+  {
+    "savol": "Tish qismlarini ko`rsating?",
+    "A": "toj,bo`yin,ildiz",
+    "B": "emal,ildiz,sement",
+    "C": "emal,dentin,sement",
+    "D": "pulpa,periodont",
+    "javob": "A"
+  },
+  {
+    "savol": "Tishni oziqlantiruvchi qavati qaysi?",
+    "A": "pulpa",
+    "B": "emal",
+    "C": "dentin",
+    "D": "emal prizma",
+    "javob": "A"
+  },
+  {
+    "savol": "Tishning ildiz qismini qoplovchi to`qimasi?",
+    "A": "sement",
+    "B": "emal",
+    "C": "periodont",
+    "D": "dentin",
+    "javob": "A"
+  },
+  {
+    "savol": "Tishning 80%ini tashkil qiladi?",
+    "A": "dentin",
+    "B": "emal",
+    "C": "sement",
+    "D": "pulpa",
+    "javob": "A"
+  },
+  {
+    "savol": "Har bir tishda nechta yuza mavjud?",
+    "A": "5",
+    "B": "6",
+    "C": "4",
+    "D": "3",
+    "javob": "A"
+  },
+  {
+    "savol": "Tishlarning og`iz bo`shlig`iga qaragan yuzasi?",
+    "A": "oral",
+    "B": "vestibulyar",
+    "C": "kontakt",
+    "D": "medial",
+    "javob": "A"
+  },
+  {
+    "savol": "Medial yuzasi to`rtburchak, distal yuzasi dumaloqlashgan bu qaysi tish?",
+    "A": "markaziy kurak",
+    "B": "yon kurak",
+    "C": "qoziq",
+    "D": "premolyar",
+    "javob": "A"
+  },
+  {
+    "savol": "Bu tishlar asosan uchburchak,to`rtburchak,dumaloq shakllarda uchraydi?",
+    "A": "kurak",
+    "B": "qoziq",
+    "C": "premolyar",
+    "D": "molyar",
+    "javob": "A"
+  },
+  {
+    "savol": "Sut tishlarda qaysi tish uchramaydi?",
+    "A": "premolyar",
+    "B": "molyar",
+    "C": "kurak",
+    "D": "yon kurak",
+    "javob": "A"
+  },
+  {
+    "savol": "Yuqorigi markaziy va yon kurakning bir biridan farqi?",
+    "A": "hamma javoblar to`g`ri",
+    "B": "o`lchami kichik",
+    "C": "o`z o`qi atrofida buralishi",
+    "D": "kontakt yuzalari dumaloq",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi tish o`z o`qi atrifida buralib chiqadi?",
+    "A": "yon kurak",
+    "B": "markaziy kurak",
+    "C": "qoziq",
+    "D": "premolyar",
+    "javob": "A"
+  },
+  {
+    "savol": "Ekvatori markaziy yuzaning markazida joylashgan bu qaysi tish?",
+    "A": "13",
+    "B": "15",
+    "C": "45",
+    "D": "32",
+    "javob": "A"
+  },
+  {
+    "savol": "Vestibulyar yuzasidagi markaziy bolish medialga og`gan bu qaysi tish?",
+    "A": "23",
+    "B": "44",
+    "C": "25",
+    "D": "36",
+    "javob": "A"
+  },
+  {
+    "savol": "Ildizi bitta, uzunligi 29,7mm bu qaysi tish?",
+    "A": "13",
+    "B": "44",
+    "C": "55",
+    "D": "38",
+    "javob": "A"
+  },
+  {
+    "savol": "13 va 14 tishlarning farqlari(vestibulyar yuza)",
+    "A": "hammasi to`g`ri",
+    "B": "ekvatori bo`yinga yaqin o`tgan",
+    "C": "o`lchami kichik",
+    "D": "markaziy bolish distalga og`gan",
+    "javob": "A"
+  },
+  {
+    "savol": "Qoziq tishning oral yuzasi?",
+    "A": "medial yuzaga og`gan",
+    "B": "distal yuzaga og`gan",
+    "C": "og`magan",
+    "D": "bolishlari bor",
+    "javob": "A"
+  },
+  {
+    "savol": "24 tish chaynov yuzasida nechta asosiy do`mbog`i mavjud?",
+    "A": "2ta",
+    "B": "3ta",
+    "C": "do`mboqlari yoq",
+    "D": "4ta",
+    "javob": "A"
+  },
+  {
+    "savol": "14 tishdagi eng katta do`mbog`i qaysi?",
+    "A": "vestibulyar",
+    "B": "oral",
+    "C": "hammasi to`g`ri",
+    "D": "distal",
+    "javob": "A"
+  },
+  {
+    "savol": "24 tishning oral yuzasi…?",
+    "A": "medialga og`gan",
+    "B": "distalga og`gan",
+    "C": "og`magan",
+    "D": "kontakt",
+    "javob": "A"
+  },
+  {
+    "savol": "Sut prikusida qaysi tishlar uchraydi?",
+    "A": "kesuv,qoziq,molyar",
+    "B": "kesuv,premolyar,molyar",
+    "C": "kesuv,qoziq,premolyar",
+    "D": "hamma javoblar to`g`ri",
+    "javob": "A"
+  },
+  {
+    "savol": "Sut tishlarning rangi:",
+    "A": "ko`kimtir oq",
+    "B": "sariq",
+    "C": "oq sariq",
+    "D": "sarg`imtir",
+    "javob": "A"
+  },
+  {
+    "savol": "11 tishning chiqish muddati",
+    "A": "6-8oy",
+    "B": "8-10oy",
+    "C": "10oy",
+    "D": "8-9oy",
+    "javob": "A"
+  },
+  {
+    "savol": "21 tishning ildizining shakllanish muddati?",
+    "A": "2yoshda",
+    "B": "3yoshda",
+    "C": "2,5yoshda",
+    "D": "4yoshda",
+    "javob": "A"
+  },
+  {
+    "savol": "Qoziq tishning ildizining so`rilish muddati qachon?",
+    "A": "7yoshda",
+    "B": "5yoshda",
+    "C": "7,5yoshda",
+    "D": "9yoshda",
+    "javob": "A"
+  },
+  {
+    "savol": "Cavum dentis nima?",
+    "A": "pulpa",
+    "B": "toj",
+    "C": "bo`yin",
+    "D": "sement",
+    "javob": "A"
+  },
+  {
+    "savol": "Qoziq tishlarning lotincha nomi?",
+    "A": "d.canini",
+    "B": "d.incisive",
+    "C": "d.molyaris",
+    "D": "d.premolyaris",
+    "javob": "A"
+  },
+  {
+    "savol": "Yuqori jag` markaziy kurak o`rtacha uzunligi?",
+    "A": "25mm",
+    "B": "19mm",
+    "C": "20mm",
+    "D": "21mm",
+    "javob": "A"
+  },
+  {
+    "savol": "Yuqorigi jag` yon kurak tish uzunligi:",
+    "A": "21-25mm",
+    "B": "19-26mm",
+    "C": "24-29mm",
+    "D": "25-29mm",
+    "javob": "A"
+  },
+  {
+    "savol": "24 tishda necha % 2ta ildiz va 2ta kanal",
+    "A": "72%",
+    "B": "75%",
+    "C": "80%",
+    "D": "73%",
+    "javob": "A"
+  },
+  {
+    "savol": "24 tishda necha % 1ta ildiz va 1ta kanal",
+    "A": "9%",
+    "B": "6%",
+    "C": "72%",
+    "D": "13%",
+    "javob": "A"
+  },
+  {
+    "savol": "24 tishda necha % 1ta ildiz va 2ta kanal:",
+    "A": "13%",
+    "B": "9%",
+    "C": "6%",
+    "D": "15%",
+    "javob": "A"
+  },
+  {
+    "savol": "14 tishda necha % 3ta ildiz va 3ta kanal:",
+    "A": "6%",
+    "B": "13%",
+    "C": "9%",
+    "D": "16%",
+    "javob": "A"
+  },
+  {
+    "savol": "24 tish oral yuzasi ekvatori qayerda joylashgan:",
+    "A": "chaynov yuzaga yaqin",
+    "B": "bo`yinga yaqin",
+    "C": "bo`yinda",
+    "D": "chaynov yuzada",
+    "javob": "A"
+  },
+  {
+    "savol": "Premolyar tishlarning oral yuzasidagi bolishlari qanday joylashgan:",
+    "A": "bolishlari bo`lmaydi",
+    "B": "medialga og`gan",
+    "C": "distalga og`gan",
+    "D": "bolishlari bo`ladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Yuqori jag`ning ikkinchi premolyari necha % 1ildiz va 1kanal",
+    "A": "75%",
+    "B": "24%",
+    "C": "1%",
+    "D": "13%",
+    "javob": "A"
+  },
+  {
+    "savol": "Yuqori jag`ning ikkinchi premolyari necha % 2 ildiz va 2 kanal",
+    "A": "24%",
+    "B": "1%",
+    "C": "75%",
+    "D": "9%",
+    "javob": "A"
+  },
+  {
+    "savol": "Yuqori jag`ning ikkinchi premolyari necha % 3 ildiz va 3 kanal",
+    "A": "1%",
+    "B": "13%",
+    "C": "9%",
+    "D": "75%",
+    "javob": "A"
+  },
+  {
+    "savol": "15 tishning o`rtacha uzunligi?",
+    "A": "22mm",
+    "B": "25mm",
+    "C": "21mm",
+    "D": "19mm",
+    "javob": "A"
+  },
+  {
+    "savol": "25 tish asosiy do`mboqlarini ajratib turuvchi ariqcha qanday joylashgan?",
+    "A": "medial yuzada yuzaroq joylashgan",
+    "B": "distal yuzaga yuzaroq joylashgan",
+    "C": "medial yuzada chuqurroq joylashgan",
+    "D": "distal yuzaga chuqurroq joylashgan",
+    "javob": "A"
+  },
+  {
+    "savol": "24 tish bilan 25 tishning farqlari?",
+    "A": "hamma javoblar to`g`ri",
+    "B": "oral yuzasi medial yuzaga og`gan",
+    "C": "chaynov yuzasi yaxshi rivojlangan",
+    "D": "markaziy ariqcha medial yuzaga yuzaroq joylashgan",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi tishning chaynov yuzasi rombsimon shaklga ega?",
+    "A": "16",
+    "B": "25",
+    "C": "34",
+    "D": "45",
+    "javob": "A"
+  },
+  {
+    "savol": "26 tishning chaynov yuzasida nechta asosiy do`mboqlari mavjud?",
+    "A": "4",
+    "B": "5",
+    "C": "6",
+    "D": "3",
+    "javob": "A"
+  },
+  {
+    "savol": "26 tishning eng katta asosiy do`mbog`i qaysi?",
+    "A": "oral medial",
+    "B": "oral distal",
+    "C": "vestibulyar medial",
+    "D": "vestibulyar distal",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi tishning vestibulyar yuzasi xuddi 2ta premolyar tishni qo`shilib turganga o`xshash?",
+    "A": "16",
+    "B": "25",
+    "C": "45",
+    "D": "44",
+    "javob": "A"
+  },
+  {
+    "savol": "Karravelli do`mboqcha qaysi tishda mavjud?",
+    "A": "16,26",
+    "B": "16.36",
+    "C": "26,46",
+    "D": "36,46",
+    "javob": "A"
+  },
+  {
+    "savol": "16,26 tishning uzunligi?",
+    "A": "20-24",
+    "B": "22-26",
+    "C": "24-28",
+    "D": "20-26",
+    "javob": "A"
+  },
+  {
+    "savol": "17 va 27 tishning uzunligi:",
+    "A": "19-23",
+    "B": "20-24",
+    "C": "19-25",
+    "D": "22-26",
+    "javob": "A"
+  },
+  {
+    "savol": "31 tishning uzunligi:",
+    "A": "19-23",
+    "B": "20-24",
+    "C": "20-25",
+    "D": "19-22",
+    "javob": "A"
+  },
+  {
+    "savol": "Medial va distal yuzalari to`g`ri burchak shaklida bu qaysi tish:",
+    "A": "31",
+    "B": "32",
+    "C": "42",
+    "D": "12",
+    "javob": "A"
+  },
+  {
+    "savol": "32 tishning uzunligi :",
+    "A": "20-24",
+    "B": "22-24",
+    "C": "20-26",
+    "D": "24-26",
+    "javob": "A"
+  },
+  {
+    "savol": "41 tishda necha % 1ta kanal va 1ta ildiz",
+    "A": "70%",
+    "B": "65%",
+    "C": "75%",
+    "D": "100%",
+    "javob": "A"
+  },
+  {
+    "savol": "41 tishda necha % 1ta kanal va 2ta ildiz",
+    "A": "30%",
+    "B": "70%",
+    "C": "100%",
+    "D": "10%",
+    "javob": "A"
+  },
+  {
+    "savol": "42 tishda necha % 1ta kanal va 1ta ildiz",
+    "A": "94%",
+    "B": "6%",
+    "C": "100%",
+    "D": "95%",
+    "javob": "A"
+  },
+  {
+    "savol": "42 tishda necha % 1ta kanal va 2ta ildiz",
+    "A": "6%",
+    "B": "100%",
+    "C": "94%",
+    "D": "95%",
+    "javob": "A"
+  },
+  {
+    "savol": "Pastki jag` qoziq tishning uzunligi?",
+    "A": "24-29,7mm",
+    "B": "24-28mm",
+    "C": "22-29mm",
+    "D": "26-29,5mm",
+    "javob": "A"
+  },
+  {
+    "savol": "Pastki jag` qoziq tishning o`rtacha uzunligi?",
+    "A": "27mm",
+    "B": "24mm",
+    "C": "28mm",
+    "D": "25mm",
+    "javob": "A"
+  },
+  {
+    "savol": "43 tishda necha % 1ta kanal va 1ta ildiz",
+    "A": "100%",
+    "B": "94%",
+    "C": "6%",
+    "D": "to`g`ri javob yoq",
+    "javob": "A"
+  },
+  {
+    "savol": "33 tishda necha % 1ta kanal va 1ta ildiz",
+    "A": "100%",
+    "B": "94%",
+    "C": "6%",
+    "D": "to`g`ri javob yoq",
+    "javob": "A"
+  },
+  {
+    "savol": "23 va 43 tishlarning farqlari?",
+    "A": "b va d to`g`ri",
+    "B": "o`lchami kichkina",
+    "C": "oral yuzasi sodda tuzilgan",
+    "D": "to`g`ri javob yoq",
+    "javob": "A"
+  },
+  {
+    "savol": "Pastki jag` birinchi premolyar tishning o`rtacha uzunligi?",
+    "A": "22mm",
+    "B": "24mm",
+    "C": "26mm",
+    "D": "28mm",
+    "javob": "A"
+  },
+  {
+    "savol": "Pastki jag` birinchi premolyar tishning uzunligi?",
+    "A": "20-24mm",
+    "B": "22-26mm",
+    "C": "22-24mm",
+    "D": "26-28mm",
+    "javob": "A"
+  },
+  {
+    "savol": "Pastki jag` birinchi premolyar tishning chaynov yuzasida nechta do`mboq bor?",
+    "A": "2ta",
+    "B": "3ta",
+    "C": "1ta",
+    "D": "4ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Pastki jag` birinchi premolyar tishning chaynov yuzasidagi katta do`mbog`i qaysi?",
+    "A": "vestibulyar",
+    "B": "oral",
+    "C": "medial",
+    "D": "distal",
+    "javob": "A"
+  },
+  {
+    "savol": "Pastki jag` birinchi premolyar tishning oral yuzasidagi ekvatori qayerda joylashgan?",
+    "A": "chaynov yuzaga yaqin",
+    "B": "bo`yinga yaqin",
+    "C": "to`g`ri javob yoq",
+    "D": "ekvatori bo`lmaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Pastki jag` birinchi premolyar tishning oral yuzasidagi bolishlari qanday joylashgan?",
+    "A": "bolishlar bo`lmaydi",
+    "B": "bolishlari medialga og`gan",
+    "C": "bolishlari distalga og`gan",
+    "D": "markaziy bolishi distalga og`gan",
+    "javob": "A"
+  },
+  {
+    "savol": "35va 45 tishning uzunligi?",
+    "A": "20-24mm",
+    "B": "22-26mm",
+    "C": "23-28mm",
+    "D": "to`g`ri javob yoq",
+    "javob": "A"
+  },
+  {
+    "savol": "35va 45 tishning o`rtacha uzunligi?",
+    "A": "22mm",
+    "B": "24mm",
+    "C": "23mm",
+    "D": "20mm",
+    "javob": "A"
+  },
+  {
+    "savol": "Pastki jag` ikkinchi premolyar tishning chaynov yuzasida nechta do`mboq bor?",
+    "A": "3ta",
+    "B": "2ta",
+    "C": "4ta",
+    "D": "to`g`ri javob yoq",
+    "javob": "A"
+  },
+  {
+    "savol": "Pastki jag` ikkinchi premolyar tishning chaynov yuzasidagi eng katta do`mbog`i qaysi?",
+    "A": "vestibulyar",
+    "B": "oral medial",
+    "C": "oral distal",
+    "D": "to`g`ri javob yoq",
+    "javob": "A"
+  },
+  {
+    "savol": "Pastki jag` ikkinchi premolyar tishning chaynov yuzasida nechta oral do`mbog`i bor:",
+    "A": "2ta",
+    "B": "1ta",
+    "C": "do`mboq bo`lmaydi",
+    "D": "to`g`ri javob yoq",
+    "javob": "A"
+  },
+  {
+    "savol": "Pastki jag` birinchi molyar tishning oral yuzasidagi markaziy ariqcha qanday joylashgan?",
+    "A": "chaynov yuza chegarasidan biroz pastga tushgan",
+    "B": "markaziy ariqchasi bo`ynigacha borgan",
+    "C": "markaziy ariqchasi bo`lmaydi",
+    "D": "to`g`ri javob yoq",
+    "javob": "A"
+  },
+  {
+    "savol": "Pastki jag` birinchi molyar tishning oral yuzasidagi ekvatori qayerda joylashgan?",
+    "A": "chaynov yuzaga yaqin",
+    "B": "bo`yinga yaqin",
+    "C": "to`g`ri javob yoq",
+    "D": "ekvatori bo`lmaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Pastki jag` birinchi molyar tishning chaynov yuzasidagi kichik do`mbog`i qaysi?",
+    "A": "vestibulyar distal",
+    "B": "vestibulyar medial",
+    "C": "oral distal",
+    "D": "to`g`ri javob yoq",
+    "javob": "A"
+  },
+  {
+    "savol": "Tish qattiq to`qimalariga nimalar kiradi?",
+    "A": "emal,dentin,sement",
+    "B": "pulpa,periodont",
+    "C": "emal,dentin, periodont",
+    "D": "dentin,pulpa,sement",
+    "javob": "A"
+  },
+  {
+    "savol": "Tishning eng qattiq to`qimasi qaysi?",
+    "A": "emal",
+    "B": "dentin",
+    "C": "sement",
+    "D": "periodont",
+    "javob": "A"
+  },
+  {
+    "savol": "Tishning asosiy to`qimasi qaysi?",
+    "A": "dentin",
+    "B": "emal",
+    "C": "sement",
+    "D": "pulpa",
+    "javob": "A"
+  },
+  {
+    "savol": "Tishning yumshoq to`qimalariga nimalar kiradi?",
+    "A": "pulpa,periodont",
+    "B": "emal,dentin,sement",
+    "C": "emal,dentin, periodont",
+    "D": "dentin,pulpa,sement",
+    "javob": "A"
+  },
+  {
+    "savol": "Emal tarkibida necha % anorganik moddalar bor?",
+    "A": "95",
+    "B": "98",
+    "C": "56",
+    "D": "90",
+    "javob": "A"
+  },
+  {
+    "savol": "Emal tarkibida necha % organik moddalar bor?",
+    "A": "1,2",
+    "B": "1,8",
+    "C": "1,6",
+    "D": "3,8",
+    "javob": "A"
+  },
+  {
+    "savol": "Emal tarkibida necha % suv bor?",
+    "A": "3,8",
+    "B": "1,2",
+    "C": "3,4",
+    "D": "4,2",
+    "javob": "A"
+  },
+  {
+    "savol": "Emalning struktur va funksional birligi nima?",
+    "A": "emal prizmalari",
+    "B": "retsius chizig`i",
+    "C": "nasmit parda",
+    "D": "to`g`ri javob yoq",
+    "javob": "A"
+  },
+  {
+    "savol": "Emal yuzasi qanday parda bilan qoplangan?",
+    "A": "nasmit",
+    "B": "periost",
+    "C": "pardasi bo`lmaydi",
+    "D": "to`g`ri javob yoq",
+    "javob": "A"
+  },
+  {
+    "savol": "Emalda qanday hujayralar joylashgan?",
+    "A": "hujayrasiz",
+    "B": "birlamchi hujayra",
+    "C": "ikkilamchi hujayra",
+    "D": "to`g`ri javob yoq",
+    "javob": "A"
+  },
+  {
+    "savol": "Tishning eng mustahkam va mo`rt to`qimasi qaysi?",
+    "A": "emal",
+    "B": "dentin",
+    "C": "sement",
+    "D": "periodont",
+    "javob": "A"
+  },
+  {
+    "savol": "Dentin tarkibida necha % anorganik modda mavjud?",
+    "A": "70-72",
+    "B": "68",
+    "C": "95",
+    "D": "78",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi dentin tishning rivojlanish davrida hosil bo`ladi?",
+    "A": "birlamchi",
+    "B": "ikkilamchi",
+    "C": "uchlamchi",
+    "D": "to`g`ri javob yoq",
+    "javob": "A"
+  },
+  {
+    "savol": "Necha xil sement mavjud:",
+    "A": "2",
+    "B": "3",
+    "C": "1",
+    "D": "hammasi to`g`ri",
+    "javob": "A"
+  },
+  {
+    "savol": "Hujayrasiz sement qayerda joylashadi?",
+    "A": "dentin yuzasida",
+    "B": "ildiz uchida",
+    "C": "bifurkatsiya soxasida",
+    "D": "hammasi to`g`ri",
+    "javob": "A"
+  },
+  {
+    "savol": "Necha xil dentin uchraydi?",
+    "A": "3",
+    "B": "2",
+    "C": "1",
+    "D": "uchramaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Tish milkni yorib chiqqandan so`ng paydo bo`ladigan dentin:",
+    "A": "ikkilamchi",
+    "B": "uchlamchi",
+    "C": "birlamchi",
+    "D": "hammasi to`g`ri",
+    "javob": "A"
+  },
+  {
+    "savol": "Insonning hayoti davomida pulpaning fiziologik faoliyati natijasida paydo bo`ladigan dentin:",
+    "A": "ikkilamchi",
+    "B": "uchlamchi",
+    "C": "birlamchi",
+    "D": "hammasi to`g`ri",
+    "javob": "A"
+  },
+  {
+    "savol": "Ta`sirotga javoban himoya to`siq sifatida vujudga keladigan dentin:",
+    "A": "uchlamchi",
+    "B": "ikkilamchi",
+    "C": "birlamchi",
+    "D": "hammasi to`g`ri",
+    "javob": "A"
+  },
+  {
+    "savol": "Eroziyaga javoban himoya to`siq sifatida vujudga keladigan dentin:",
+    "A": "uchlamchi",
+    "B": "ikkilamchi",
+    "C": "birlamchi",
+    "D": "hammasi to`g`ri",
+    "javob": "A"
+  },
+  {
+    "savol": "Patologik yemirilishga javoban himoya to`siq sifatida vujudga keladigan dentin:",
+    "A": "uchlamchi",
+    "B": "ikkilamchi",
+    "C": "birlamchi",
+    "D": "hammasi to`g`ri",
+    "javob": "A"
+  },
+  {
+    "savol": "Kariesga javoban himoya to`siq sifatida vujudga keladigan dentin:",
+    "A": "uchlamchi",
+    "B": "ikkilamchi",
+    "C": "birlamchi",
+    "D": "hammasi to`g`ri",
+    "javob": "A"
+  },
+  {
+    "savol": "Uchlamchi dentin nomi?",
+    "A": "irregulyar",
+    "B": "introregulyar",
+    "C": "ekstremal",
+    "D": "hammasi to`g`ri",
+    "javob": "A"
+  },
+  {
+    "savol": "Dentin tarkibida necha %suv mavjud:",
+    "A": "28-30",
+    "B": "25-35",
+    "C": "20-30",
+    "D": "25-30",
+    "javob": "A"
+  },
+  {
+    "savol": "Dentin necha qismdan tashkil topgan:",
+    "A": "2",
+    "B": "3",
+    "C": "4",
+    "D": "hammasi to`g`ri",
+    "javob": "A"
+  },
+  {
+    "savol": "Pulpa necha qismdan iborat:",
+    "A": "2",
+    "B": "3",
+    "C": "4",
+    "D": "hammasi to`g`ri",
+    "javob": "A"
+  },
+  {
+    "savol": "Og`iz bo`shlig`ida ovqat luqmasini maydalash vazifasini bajaradigan tish qismi:",
+    "A": "emal",
+    "B": "dentin",
+    "C": "sement",
+    "D": "pulpa",
+    "javob": "A"
+  },
+  {
+    "savol": "Nima hisobdan ildiz pulpasi qattiqroq tuzilishga ega:",
+    "A": "kolagen tolalari",
+    "B": "amorf moddalar",
+    "C": "kristall moddalar",
+    "D": "hammasi to`g`ri",
+    "javob": "A"
+  },
+  {
+    "savol": "Tishlarning farqlashning necha xil belgilari mavjud:",
+    "A": "3",
+    "B": "4",
+    "C": "5",
+    "D": "hammasi to`g`ri",
+    "javob": "A"
+  },
+  {
+    "savol": "Tishlarning jag`da joylashishiga qarab ajratish belgilari:",
+    "A": "toj burchak, toj egrilik, ildiz egrilik",
+    "B": "toj egrilik, toj burchak, ildiz to`g`rilik",
+    "C": "toj egrilik, toj burchak,",
+    "D": "hammasi to`g`ri",
+    "javob": "A"
+  },
+  {
+    "savol": "Tish ildizlari kesuv va qoziq tishlarda qaysi tomonga egilgan bo`ladi:",
+    "A": "distal",
+    "B": "medial",
+    "C": "qiyshiq",
+    "D": "media-distal",
+    "javob": "A"
+  },
+  {
+    "savol": "Doimiy va sut tishlarning farqlarini ko`rsating:",
+    "A": "hamma javoblar tog`ri",
+    "B": "ildizlari kalta",
+    "C": "tish bo`shlig`i keng",
+    "D": "rangi ko`kimtir-oq",
+    "javob": "A"
+  },
+  {
+    "savol": "Domiy markaziy kurak tish qachon chiqadi:",
+    "A": "6-8yosh",
+    "B": "6-8oy",
+    "C": "10yosh",
+    "D": "9yosh",
+    "javob": "A"
+  },
+  {
+    "savol": "36 va 46 tishlar chiqish muddati:",
+    "A": "6yosh",
+    "B": "5yosh",
+    "C": "7yosh",
+    "D": "6-8oy",
+    "javob": "A"
+  },
+  {
+    "savol": "Tishlar anotomik tuzlishi bo`yicha necha qismdan iborat:",
+    "A": "3",
+    "B": "2",
+    "C": "4",
+    "D": "qismlari yoq",
+    "javob": "A"
+  },
+  {
+    "savol": "Tishlarning dahliz yuzasi-",
+    "A": "vestibulyar",
+    "B": "oral",
+    "C": "medial",
+    "D": "distal",
+    "javob": "A"
+  },
+  {
+    "savol": "Dentis canini bu qaysi tish:",
+    "A": "qoziq",
+    "B": "katta oziq",
+    "C": "kurak",
+    "D": "kichik oziq",
+    "javob": "A"
+  },
+  {
+    "savol": "Dentis incisive qaysi tish:",
+    "A": "kurak",
+    "B": "qoziq",
+    "C": "katta oziq",
+    "D": "kichik oziq",
+    "javob": "A"
+  },
+  {
+    "savol": "Kurak tishlarni toping:",
+    "A": "11,41,22,32",
+    "B": "11,22,43,24",
+    "C": "21,34,32,12",
+    "D": "12,21,34,41",
+    "javob": "A"
+  },
+  {
+    "savol": "Katta oziq tishlarni toping:",
+    "A": "26,38,46,17",
+    "B": "45,26,38,15",
+    "C": "36,28,24,17",
+    "D": "16,28,35,47",
+    "javob": "A"
+  },
+  {
+    "savol": "O`zbekistonda stomatologiya fani qachondan boshlab shakllandi va stomatologiya fakulteti ochildi?",
+    "A": "1954-yil",
+    "B": "1956-yil",
+    "C": "1994-yil",
+    "D": "1992-yil",
+    "javob": "A"
+  },
+  {
+    "savol": "Stomatologiyaning qaysi bo`limi tish va periodontal to`qimalar patologiyalarini, og`iz bo`shlig`i shilliq qavati kasalliklarini tashxislash va konservativ davolash bilan shug`ullanadi?",
+    "A": "terapevtik stomatologiya",
+    "B": "ortopedik stomatologiya",
+    "C": "jarrohlik stomatologiyasi",
+    "D": "ortodontik stomatologiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Stomatologiyaning qaysi bo`limi tish-jag` sistemasi kasalliklari va deformatsiyalarini tashxislash, davolash va oldini olish bilan shug`ullanadi?",
+    "A": "ortopedik stomatologiya",
+    "B": "jarrohlik stomatologiyasi",
+    "C": "terapevtik stomatologiya",
+    "D": "ortodontik stomatologiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Stomatologiyaning qaysi bo`limi tish olish, yuz-jag` hamda unga qo`shni sohalardagi yallig`lanishlar, o`smalar, shikastlanishlar, tug`ma va orttirilgan nuqsonlar bilan shug`ullanadi?",
+    "A": "jarrohlik stomatologiyasi",
+    "B": "ortopedik stomatologiya",
+    "C": "terapevtik stomatologiya",
+    "D": "ortodontik stomatologiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Tish protezlari, ortodont qurilmalari va boshqa tibbiy jihozlarni loyihalash va ishlab chiqarish stomatologiyaning qaysi fan bilan bog`liqligini o`rganadi?",
+    "A": "injeneriya",
+    "B": "farmakologiya",
+    "C": "kimyo",
+    "D": "psixologiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Mikroorganizmlarning barcha turlari, ularning sporalari va viruslarni fizik-kimyoviy ta`sirotlar yordamida yo`q qilish nima deb ataladi?",
+    "A": "sterilizatsiya",
+    "B": "antiseptika",
+    "C": "dezinfeksiya",
+    "D": "aseptika",
+    "javob": "A"
+  },
+  {
+    "savol": "Patogen va shartli patogen mikroorganizmlarni yo`qotishga qaratilgan chora-tadbirlar majmuasi nima deb ataladi?",
+    "A": "dezinfeksiya",
+    "B": "sterilizatsiya",
+    "C": "aseptika",
+    "D": "antiseptika",
+    "javob": "A"
+  },
+  {
+    "savol": "Dezinfeksiyalanuvchi sohalarni ko`rsating.",
+    "A": "barcha javoblar to`g`ri",
+    "B": "qo`l terisi",
+    "C": "yuzalar",
+    "D": "asboblar",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri asboblar dezinfeksiyasi uchun qo`llaniladi?",
+    "A": "barcha javoblar to`g`ri",
+    "B": "alaminol",
+    "C": "dekoneks",
+    "D": "septustin",
+    "javob": "A"
+  },
+  {
+    "savol": "Stomatologik asboblarning birlamchi dezinfeksiyasidan keyin sterilizatsiyaning qaysi bosqichi amalga oshiriladi?",
+    "A": "sterilizatsiya oldi tozalash",
+    "B": "sterilizatsiya sifatini nazorat qilish",
+    "C": "steril instrumentlarni saqlash",
+    "D": "ikkilamchi dezinfeksiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Asboblarni oqsil, yog`, mexanik qoldiqlar, dori vositalaridan tozalash bosqichini ko`rsating.",
+    "A": "sterilizatsiya oldi tozalash",
+    "B": "birlamchi dezinfeksiya",
+    "C": "steril asboblarni saqlash",
+    "D": "sterilizatsiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Sterilizatsiya oldi tozalashning mexanik usulini ko`rsating.",
+    "A": "ultrasonik cleaner qurilmasi",
+    "B": "avtoklav yordamida",
+    "C": "suxojarka yordamida",
+    "D": "cho`tka yordamida yuvish",
+    "javob": "A"
+  },
+  {
+    "savol": "Sterilizatsiya oldi tozalash bosqichi sifatini tekshirish sinamalarini ko`rsating.",
+    "A": "barcha javoblar to`g`ri",
+    "B": "azopiram sinamasi",
+    "C": "amidopirin sinamasi",
+    "D": "fenolftaliyen sinamasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri dezinfeksiyalangan asboblardagi qon qoldiqlarini tekshirish sinamasi sifatida ishlatiladi?",
+    "A": "azopiram",
+    "B": "fenolftaliyen",
+    "C": "alaminol",
+    "D": "dyulbal bb",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri dezinfeksiyalangan asboblardagi qon qoldiqlarini tekshirish sinamasi sifatida ishlatiladi?",
+    "A": "amidopirin",
+    "B": "fenolftaliyen",
+    "C": "alaminol",
+    "D": "dyulbal bb",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri dezinfeksiyalangan asboblardagi ishqor qoldiqlarini tekshirish sinamasi sifatida ishlatiladi?",
+    "A": "fenolftaliyen",
+    "B": "amidopirin",
+    "C": "alaminol",
+    "D": "azopiram",
+    "javob": "A"
+  },
+  {
+    "savol": "Fizikaviy sterilizatsiya turini ko`rsating.",
+    "A": "glasperlinli",
+    "B": "gazli",
+    "C": "plazmali",
+    "D": "suyuq",
+    "javob": "A"
+  },
+  {
+    "savol": "Fizikaviy sterilizatsiya turini ko`rsating.",
+    "A": "bug`li",
+    "B": "gazli",
+    "C": "suyuq",
+    "D": "plazmali",
+    "javob": "A"
+  },
+  {
+    "savol": "Fizikaviy sterilizatsiya turini ko`rsating.",
+    "A": "quruq havoli",
+    "B": "plazmali",
+    "C": "suyuq",
+    "D": "gazli",
+    "javob": "A"
+  },
+  {
+    "savol": "Fizikaviy sterilizatsiya turini ko`rsating.",
+    "A": "infraqizil",
+    "B": "suyuq",
+    "C": "plazmali",
+    "D": "gazli",
+    "javob": "A"
+  },
+  {
+    "savol": "Kimyoviy sterilizatsiya turini ko`rsating.",
+    "A": "gazli",
+    "B": "glasperlinli",
+    "C": "quruq havoli",
+    "D": "bug`li",
+    "javob": "A"
+  },
+  {
+    "savol": "Kimyoviy sterilizatsiya turini ko`rsating.",
+    "A": "suyuq",
+    "B": "quruq havoli",
+    "C": "glasperlinli",
+    "D": "bug`li",
+    "javob": "A"
+  },
+  {
+    "savol": "Kimyoviy sterilizatsiya turini ko`rsating.",
+    "A": "plazmali",
+    "B": "glasperlinli",
+    "C": "quruq havoli",
+    "D": "bug`li",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyida avtoklavlash (bug`li sterilizatsiya) usulini ko`rsating.",
+    "A": "134 daraja 2 atm bosim 20 daqiqa",
+    "B": "180 daraja 60 daqiqa",
+    "C": "230-270 daraja 10-20 sekund",
+    "D": "180 daraja 2 atm bosim",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyida suxojarka (quruq havoli sterilizatsiya) usulini ko`rsating.",
+    "A": "180 daraja 60 daqiqa",
+    "B": "230-270 daraja 10-20 sekund",
+    "C": "134 daraja 2 atm bosim 20 daqiqa",
+    "D": "180 daraja 2 atm bosim",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyida glasperlinli usulni ko`rsating.",
+    "A": "230-270 daraja 10-20 sekund",
+    "B": "180 daraja 60 daqiqa",
+    "C": "134 daraja 2 atm bosim 20 daqiqa",
+    "D": "180 daraja 2 atm bosim",
+    "javob": "A"
+  },
+  {
+    "savol": "134 daraja 2 atm bosimda 20 daqiqada asboblarni sterilizatsiya qilish usulini ko`rsating.",
+    "A": "avtoklavlash",
+    "B": "glasperlinli",
+    "C": "suxojarka",
+    "D": "infraqizil",
+    "javob": "A"
+  },
+  {
+    "savol": "230-270 darajada 2mm li qizdirilgan shisha koptokchalar yordamida 10-20 sekundda sterilizatsiya qilish usulini ko`rsating.",
+    "A": "glasperlinli",
+    "B": "suxojarka",
+    "C": "avtoklavlash",
+    "D": "infraqizil",
+    "javob": "A"
+  },
+  {
+    "savol": "180 darajada 60 daqiqa davomida quruq havoda qizdirish orqali sterilizatsiya qilish usulini ko`rsating.",
+    "A": "suxojarka",
+    "B": "glasperlinli",
+    "C": "avtoklavlash",
+    "D": "infraqizil",
+    "javob": "A"
+  },
+  {
+    "savol": "Deontologiya so`zi yunonchada qanday ma`noni anglatadi?",
+    "A": "“deon” - burch",
+    "B": "“deon” - axloq",
+    "C": "“deon” - tibbiyot",
+    "D": "“deon” - huquq",
+    "javob": "A"
+  },
+  {
+    "savol": "“Siz har bir kishining shaxsan o`ziga xos tabiati borligini bilishingiz kerak. Hech kimga o`xshamaydigan noyob bemor sifatida qarash kerak”. Har bir bemorga alohida yondashuv haqida aytilgan yuqoridagi gapning muallifi kim?",
+    "A": "abu ali ibn sino",
+    "B": "gippokrat",
+    "C": "abu kozim",
+    "D": "xesi ra",
+    "javob": "A"
+  },
+  {
+    "savol": "Tibbiy etikaning shaxslararo va ular o`rtasidagi munosabatlarini o`rganuvchi 3ta asosiy yo`nalishlarini ko`rsating",
+    "A": "barcha javoblar to`g`ri",
+    "B": "tibbiy xodim – bemor o`rsatida",
+    "C": "tibbiy xodim – bemorning qarindoshlari o`rtasida",
+    "D": "tibbiy xodim – tibbiy xodim o`rtasida",
+    "javob": "A"
+  },
+  {
+    "savol": "Tibbiyot xodimlari tomonidan bemor bilan muloqotning deontologik prinsiplarini buzishi tufayli kasallikning kelib chiqishi nima deb ataladi?",
+    "A": "yatrogeniya",
+    "B": "farmokogeniya",
+    "C": "deontologiya",
+    "D": "etika",
+    "javob": "A"
+  },
+  {
+    "savol": "Tibbiy manipulyatsiyalarning noto`g`ri oqibatlari xavfini ta`kidlab o`tgan “ingliz gippokrati” kim?",
+    "A": "tomas sidenxem",
+    "B": "abu ali ibn sino",
+    "C": "gippokrat",
+    "D": "yogan liss",
+    "javob": "A"
+  },
+  {
+    "savol": "Yuqumli kasallik haqida tezkor xabar beruvchi tibbiy hujjat shaklini ko`rsating.",
+    "A": "058/u",
+    "B": "043/u",
+    "C": "003/u",
+    "D": "207/u",
+    "javob": "A"
+  },
+  {
+    "savol": "Shifokorlar bemorlarning manfaatlarini birinchi o`ringa qo`yishi tibbiy etikaning qaysi tamoyiliga kiradi?",
+    "A": "benefitsiyentlik",
+    "B": "nonmalifitsiyentlik",
+    "C": "avtonomlik",
+    "D": "adolatlilik",
+    "javob": "A"
+  },
+  {
+    "savol": "Barcha bemorlarga teng muomala qilish va bir xil imkoniyatlar taqdim etish tibbiy etikaning qaysi tamoyiliga kiradi?",
+    "A": "adolatlilik",
+    "B": "benefitsiyentlik",
+    "C": "nonmalifitsiyentlik",
+    "D": "avtonomlik",
+    "javob": "A"
+  },
+  {
+    "savol": "Shifokorlarning bemorlarga zarar yetkazmaslik tamoyilini ko`rsating.",
+    "A": "nonmalifitsiyentlik",
+    "B": "adolatlilik",
+    "C": "benefitsiyentlik",
+    "D": "avtonomlik",
+    "javob": "A"
+  },
+  {
+    "savol": "Shifokor bemorning qarorini hurmat qilish, qabul qilish tamoyilini ko`rsating.",
+    "A": "avtonomlik",
+    "B": "nonmalifitsiyentlik",
+    "C": "benefitsiyentlik",
+    "D": "adolatlilik",
+    "javob": "A"
+  },
+  {
+    "savol": "________ – Bu vaqtni samarali boshqarish jarayoni bo`lib, u ishlarning rejalashtirilishi, amalga oshirilishi va nazorat qilinishini o`z ichiga oladi. Yuqoridagi ta`rif qaysi atamaga taalluqli?",
+    "A": "taym menejment",
+    "B": "avtonomlik",
+    "C": "benefitsiyentlik",
+    "D": "nonmalifitsiyentlik",
+    "javob": "A"
+  },
+  {
+    "savol": "_____ Jarayonlari stomatologik amaliyotlarda muhim ahamiyatga ega, chunki ular bemorlarning vaqtini va shifokorlarning samaradorligini oshirishga yordam beradi. Nuqtalar o`rnida qaysi atama bo`lishi kerak?",
+    "A": "taym menejment",
+    "B": "benefitsiyentlik",
+    "C": "avtonomlik",
+    "D": "nonmalifitsiyentlik",
+    "javob": "A"
+  },
+  {
+    "savol": "Taym menejmentning maqsadini ko`rsating.",
+    "A": "barcha javoblar to`g`ri",
+    "B": "bemorlarning ehtiyojlarini o`z vaqtida qondirish",
+    "C": "shifokorlarning ish vaqtini optimallashtirish",
+    "D": "xizmat ko`rsatish sifatini oshirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Taym menejmentni amalga oshirish orqali ishlash jarayonida olingan natijalarni belgilaydigan atama nima?",
+    "A": "samara",
+    "B": "samardorlik",
+    "C": "foydalilik",
+    "D": "zarar yetkazmaslik",
+    "javob": "A"
+  },
+  {
+    "savol": "Resusrlar (vaqt, mablag` va mehnat)ni maksimal darajada ishlatish orqali maqsadga erishish nima deb ataladi?",
+    "A": "samaradorlik",
+    "B": "samara",
+    "C": "foydalilik",
+    "D": "avtonomlik",
+    "javob": "A"
+  },
+  {
+    "savol": "Muassasa ma`muriyati tomonidan tasdiqlangan jadval bo`yicha bemorlarni ambulator qabul qilish kimning vazifasiga kiradi?",
+    "A": "vrach",
+    "B": "kichik tibbiy xodim",
+    "C": "o`rta tibbiy xodim",
+    "D": "barcha javoblar to`g`ri",
+    "javob": "A"
+  },
+  {
+    "savol": "Bwmorlarni asosiy va qo`shimcha tekshirish usullari yordamida tish, jag`-yuz sohasidagi barcha kasalliklarni aniqlash kimning vazifasi kiradi?",
+    "A": "shifokor",
+    "B": "hamshira",
+    "C": "sanitarka",
+    "D": "barcha javoblar to`g`ri",
+    "javob": "A"
+  },
+  {
+    "savol": "Asboblarni sterilizatsiya qilish va tibbiy hujjatlarni yuritish kimning vazifasiga kiradi?",
+    "A": "hamshira",
+    "B": "shifokor",
+    "C": "sanitarka",
+    "D": "barcha javoblar to`g`ri",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyida bemorlarning asosiy huquqlarini ko`rsating.",
+    "A": "barcha javoblar to`g`ri",
+    "B": "ma`lumot olish",
+    "C": "davolanish",
+    "D": "shaxsiy hayotini himoya qilish",
+    "javob": "A"
+  },
+  {
+    "savol": "Vrachlar oldidagi majburiyatlarni ko`rsating.",
+    "A": "barcha javoblar to`g`ri",
+    "B": "bemorga kerakli ma`lumotlarni taqdim etish",
+    "C": "bemorlarning xavfsizliklarini ta`minlash",
+    "D": "bemorlarga qaror qabul qilishda yordam berish",
+    "javob": "A"
+  },
+  {
+    "savol": "Klinika sharoitida xodimlar va bemorlar orasida kasallik tarqatuvchilarining tarqalishi nima deb ataladi?",
+    "A": "kesishgan infitsirlash",
+    "B": "infeksiya manbalari",
+    "C": "tashqi muhit ob`ektlari",
+    "D": "latent holatidagi tashuvchilar",
+    "javob": "A"
+  },
+  {
+    "savol": "Kasallikni yaqqol yoki latent holatidagi tashuvchilar nima deb ataladi?",
+    "A": "infeksiya manbalari",
+    "B": "kesishgan infitsirlash",
+    "C": "tashqi muhit ob`ektlari",
+    "D": "barcha javoblar to`g`ri",
+    "javob": "A"
+  },
+  {
+    "savol": "Infeksiyaning tarqalish yo`llarini ko`rsating.",
+    "A": "barcha javoblar to`g`ri",
+    "B": "aerozolli",
+    "C": "kontakt",
+    "D": "parenteral",
+    "javob": "A"
+  },
+  {
+    "savol": "Stomatologik qabulda infeksiya tarqalishini chegaralovchi asosiy chora-tadbirlarni ko`rsating.",
+    "A": "barcha javoblar to`g`ri",
+    "B": "dezinfeksiya",
+    "C": "sterilizatsiya",
+    "D": "aseptika",
+    "javob": "A"
+  },
+  {
+    "savol": "Davolash va tashxislash jarayonida mikrotanachalarning yaraga, to`qimaga yoki tana bo`shlig`iga kirishining oldini olish chora-tadbirlar majmui nima deb ataladi?",
+    "A": "aseptika",
+    "B": "dezinfeksiya",
+    "C": "sterilizatsiya",
+    "D": "antiseptika",
+    "javob": "A"
+  },
+  {
+    "savol": "Bakterial, infitsirlangan yaralarni davolash, yiringli, anaerob va chirituvchi jarayonlarni qo`zg`atuvchilar, ulat tushgan yara va to`qimalarni davolash usuli nima deb ataladi?",
+    "A": "antiseptika",
+    "B": "dezinfeksiya",
+    "C": "aseptika",
+    "D": "sterilizatsiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Infeksion kasalliklar tarqatuvchilarni tashqi muhitda yo`qotish nima deb ataladi?",
+    "A": "dezinfeksiya",
+    "B": "antiseptika",
+    "C": "aseptika",
+    "D": "sterilizatsiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Mikroorganizmlarning barcha turlari, ularning sporalari va viruslarni fizik-kimyoviy ta`sirotlar yordamida bartaraf etish nima deb ataladi?",
+    "A": "sterilizatsiya",
+    "B": "antiseptika",
+    "C": "dezinfeksiya",
+    "D": "aseptika",
+    "javob": "A"
+  },
+  {
+    "savol": "Yaraga jarrohlik ishlovi berish antiseptikaning qaysi turiga kiradi?",
+    "A": "mexanik",
+    "B": "fizik",
+    "C": "kimyoviy",
+    "D": "aralash",
+    "javob": "A"
+  },
+  {
+    "savol": "Gigroskopik bog`lov materiallari antiseptikaning qaysi turiga kiradi?",
+    "A": "fizik",
+    "B": "kimyoviy",
+    "C": "mexanik",
+    "D": "aralash",
+    "javob": "A"
+  },
+  {
+    "savol": "Gipertonik eritmalarga infeksiya chiqishini ta`minlash antiseptikaning qaysi turiga kiradi?",
+    "A": "fizik",
+    "B": "aralash",
+    "C": "kimyoviy",
+    "D": "mexanik",
+    "javob": "A"
+  },
+  {
+    "savol": "Kimyoterapevtik vositalarni qo`llash antiseptikaning qaysi turiga kiradi?",
+    "A": "kimyoviy",
+    "B": "fizik",
+    "C": "mexanik",
+    "D": "biologik",
+    "javob": "A"
+  },
+  {
+    "savol": "Qon preparatlarini qo`llash antiseptikaning qaysi turiga kiradi?",
+    "A": "biologik",
+    "B": "kimyoviy",
+    "C": "fizik",
+    "D": "mexanik",
+    "javob": "A"
+  },
+  {
+    "savol": "Sivorotkalarni qo`llash antiseptikaning qaysi turiga kiradi?",
+    "A": "biologik",
+    "B": "fizik",
+    "C": "kimyoviy",
+    "D": "mexanik",
+    "javob": "A"
+  },
+  {
+    "savol": "Aktiv immunizatsiya vositalarini qo`llash antiseptikaning qaysi turiga kiradi?",
+    "A": "biologik",
+    "B": "fizik",
+    "C": "mexanik",
+    "D": "kimyoviy",
+    "javob": "A"
+  },
+  {
+    "savol": "Antispetikaning bir necha turlarini qo`llash antiseptikaning qaysi turiga kiradi?",
+    "A": "aralash",
+    "B": "biologik",
+    "C": "kimyoviy",
+    "D": "fizik",
+    "javob": "A"
+  },
+  {
+    "savol": "Antiseptik vositalarni qo`llash antiseptikaning qaysi turiga kiradi?",
+    "A": "kimyoviy",
+    "B": "fizik",
+    "C": "mexanik",
+    "D": "biologik",
+    "javob": "A"
+  },
+  {
+    "savol": "Hamshiraning majburiyatini ko`rsating.",
+    "A": "asboblar sterilizatsiyasi",
+    "B": "kabinetni dez.eritma bilan tozalash",
+    "C": "texnik xavfsizlikka rioya qilish",
+    "D": "tuflagichni tozalash",
+    "javob": "A"
+  },
+  {
+    "savol": "Stomatologiya bu..",
+    "A": "ogʻiz boʻshligʻi kasalliklarini oʻrganadi",
+    "B": "ko`z kasalliklarini oʻrganadi",
+    "C": "oshqozon ichak kasalliklarini oʻrganadi",
+    "D": "yuz sohasi kasalliklarini oʻrganadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi qaysi bo`lim terapevtik stomatologiya tarkibiga kiradi?",
+    "A": "endodontiya",
+    "B": "yuz -jagʻ jarrohligi",
+    "C": "implantologiya",
+    "D": "ortodontiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Ortodontik stomatologiya boʻlimi nimani oʻrganadi?",
+    "A": "tishlar qatoridagi egriliklarni toʻgʻrilaydi.",
+    "B": "yoʻqotilgan tishlar oʻrnini sunʼiy tishlar bilan toʻldiradi",
+    "C": "bolalarda uchraydigan tish kasalliklarini davolaydi.",
+    "D": "barcha javoblar toʻgʻri",
+    "javob": "A"
+  },
+  {
+    "savol": "Ortopedik stomatologiya boʻlimi nimani oʻrganadi?",
+    "A": "yoʻqotilgan tishlar oʻrnini sunʼiy tishlar bilan toʻldiradi",
+    "B": "tishlar qatoridagi egriliklarni toʻgʻirlaydi",
+    "C": "bolalarda uchraydigan tish kasalliklarini davolaydi.",
+    "D": "barcha javob toʻgʻri",
+    "javob": "A"
+  },
+  {
+    "savol": "Bolalar stomatologiya boʻlimi nimani oʻrganadi?",
+    "A": "bolalarda uchraydigan tish kasalliklarini davolaydi",
+    "B": "tishlar qatoridagi egriliklarni toʻgʻirlaydi",
+    "C": "yoʻqotilgan tishlar oʻrnini sunʼiy tishlar bilan toʻldiradi",
+    "D": "yuz va jagʻdagi tugʻma va orttirilgan nuqsonlarini davolaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Jarrohlik stomatologiya boʻlimi nimani oʻrganadi",
+    "A": "yuz va jagʻdagi tugʻma va orttirilgan nuqsonlarini davolaydi",
+    "B": "bolalarda uchraydigan tish kasalliklarini davolaydi",
+    "C": "yoʻqotilgan tishlar oʻrnini sunʼiy tishlar bilan toʻldiradi",
+    "D": "tishlar qatoridagi egriliklarni toʻgʻirlaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Terapevtik stomatologiya xonasining hajmi qancha boʻlishi kerak?",
+    "A": "14 m²",
+    "B": "10m²",
+    "C": "15m²",
+    "D": "7m²",
+    "javob": "A"
+  },
+  {
+    "savol": "Birlamchi ko`rik uchun asboblarga qaysilar kiradi?",
+    "A": "stomatologik zond",
+    "B": "miller ignasi",
+    "C": "shpatel",
+    "D": "shtopfer",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi qaysi instrument yordamida tishlarning qimirlash darajasi aniqlanadi?",
+    "A": "stomatologik pinset bilan",
+    "B": "stomatologik ko`zgu bilan",
+    "C": "shtopfer",
+    "D": "shpatel",
+    "javob": "A"
+  },
+  {
+    "savol": "Plombani kavakka qo`yish uchun qaysi asbobdan foydalaniladi?",
+    "A": "gladilka",
+    "B": "zond",
+    "C": "shtopfer",
+    "D": "ekskavator",
+    "javob": "A"
+  },
+  {
+    "savol": "Parodontologik zond ko`rish uchun zonddan farqlanadi?",
+    "A": "uchi o`tmas ishchi qismi millimetrlarga bo`lingan",
+    "B": "uchi o`tmas dastak qismi ko`ndalang egilgan",
+    "C": "shpatel",
+    "D": "farqlanmaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Stomatologik shpatel turlari?",
+    "A": "metall; plastmassa",
+    "B": "yog`ochli; metall",
+    "C": "uchi o`tkir ishchi qismi to`g`ri",
+    "D": "barcha javoblar to`g`ri",
+    "javob": "A"
+  },
+  {
+    "savol": "Shtopfer yordamida bajariladi?",
+    "A": "kavakda plomba zichlashtiriladi",
+    "B": "tish toshlari olinadi",
+    "C": "tishlarni qimirlash darjasi aniqlanadi",
+    "D": "plomba qoriladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Tishning anatomik tuzilishini ko`rsating.",
+    "A": "toj, bo`yin, ildiz;",
+    "B": "toj qismi, emal, dentin;",
+    "C": "sement,dentin",
+    "D": "emal dentin",
+    "javob": "A"
+  },
+  {
+    "savol": "Tishlarning gistologik tuzilishini ko`rsating.",
+    "A": "emal, dentin, sement, periodont, pulpa;",
+    "B": "ildiz qismi, toj qismi, bo`yin qismi;",
+    "C": "emal, sement, ildiz qismi;",
+    "D": "emal, dentin, pulpa;",
+    "javob": "A"
+  },
+  {
+    "savol": "Kichik oziq tishlar nima deb ataladi?",
+    "A": "premolyar",
+    "B": "molyar",
+    "C": "kesuvchi",
+    "D": "qoziq",
+    "javob": "A"
+  },
+  {
+    "savol": "Katta oziq tishlar nima deb ataladi?",
+    "A": "molyar",
+    "B": "premolyar",
+    "C": "qoziq",
+    "D": "kesuvchi",
+    "javob": "A"
+  },
+  {
+    "savol": "Toshkent tibbiyot institutida terapevtik stomatologiya kafedrasi qachon ochilgan?",
+    "A": "1956",
+    "B": "1974",
+    "C": "1932",
+    "D": "1995",
+    "javob": "A"
+  },
+  {
+    "savol": "Etika bu-",
+    "A": "yunoncha-axloqiy o`rganish",
+    "B": "yunoncha-burch",
+    "C": "lotincha-og`iz",
+    "D": "lotincha-fan",
+    "javob": "A"
+  },
+  {
+    "savol": "Deontologiya bu-",
+    "A": "yunoncha -burch",
+    "B": "yunoncha-axloq",
+    "C": "lotincha og`iz",
+    "D": "lotincha o`rganish",
+    "javob": "A"
+  },
+  {
+    "savol": "Kichik tibbiy xodimning majburiyatlarini ko`rsating.",
+    "A": "xonani dez.eritma bilan tozalash",
+    "B": "a va b shkafdagi dorilar nazorati",
+    "C": "to`rt qo`l texnikasi ishtirokchisi",
+    "D": "sterilizatsiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Stomatologiya bo`limidagi qo`shimcha xonalarni ko`rsating.",
+    "A": "fizioterapevtik va parodontologik xona",
+    "B": "terapevt xonasi",
+    "C": "jarroh xonasi",
+    "D": "ortoped xonasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Implantologiya qanday bo`lim?",
+    "A": "sun`iy ildiz qoyish",
+    "B": "sun`iy tish qo`yish",
+    "C": "briketlar bilan tishlarni to`girlash",
+    "D": "tishlarni olib tashlash",
+    "javob": "A"
+  },
+  {
+    "savol": "Endodontiya bu-",
+    "A": "tish ildiz qismi kasalliklarini o`rganadi",
+    "B": "tish toj qismi kasalliklarini o`rganadi",
+    "C": "tish va milk kasalliklarini o`rganadi",
+    "D": "paradont to`qimasi kasalliklarini o`rganadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Sterilizatsiya turlarini ko`rsating.",
+    "A": "hamma javoblar to`g`ri",
+    "B": "quruq havoli",
+    "C": "kimyoviy",
+    "D": "bug`li",
+    "javob": "A"
+  },
+  {
+    "savol": "Gippokrat tish og`rig`ini qoldirish uchun nimadan foydalangan.",
+    "A": "kuchsiz ko`ngil aynituvchi vositalardan",
+    "B": "mishyak",
+    "C": "tuzli eritma",
+    "D": "muzdan",
+    "javob": "A"
+  },
+  {
+    "savol": "Bolalar stomatologiyasining asosiy vazifasi nima?",
+    "A": "profilaktik chora tadbirlarni qoʻllash",
+    "B": "sut tishlarini tortib tashlash",
+    "C": "doimiy tishlarni davolash",
+    "D": "toshlarni skaler bilan tozalash",
+    "javob": "A"
+  },
+  {
+    "savol": "Anatomik jihatdan tish qismini tanlang.",
+    "A": "ildiz",
+    "B": "emal",
+    "C": "dentin",
+    "D": "sement",
+    "javob": "A"
+  },
+  {
+    "savol": "Avtoklavlashni kamchiliklarini ko`rsating.",
+    "A": "korroziyaga chidamsiz asboblarni sterilizatsiya qilolmaydi",
+    "B": "elektr energiya ko`p talab qiladi",
+    "C": "suv ko`p talab qiladi",
+    "D": "iqtisodiy qimmat",
+    "javob": "A"
+  },
+  {
+    "savol": "Quruq havoda sterilizatsiya usulini kamchiligini ko`rsating.",
+    "A": "asboblarni o`tmas holga olib keladi",
+    "B": "korroziyaga chidamsiz asboblarni sterilizatsiya qilolmaydi",
+    "C": "elektr energiya ko`p talab qiladi",
+    "D": "suv ko`p talab qiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Kimyoviy sterilizatsiya uchun ishlatiladigan etil spirtini % ini ko`rsating.",
+    "A": "70",
+    "B": "60",
+    "C": "50",
+    "D": "96",
+    "javob": "A"
+  },
+  {
+    "savol": "Glasperlinli sterilizatsiya usulida harorat qancha bo`lishi kerak?",
+    "A": "230-270c",
+    "B": "180c",
+    "C": "134c",
+    "D": "120c",
+    "javob": "A"
+  },
+  {
+    "savol": "Asboblarni qadoqlash uchun nima ishlatiladi?",
+    "A": "kraft paketlar",
+    "B": "kvars lampa",
+    "C": "boks",
+    "D": "avtoklav",
+    "javob": "A"
+  },
+  {
+    "savol": "Sterilizatsiya qilishda ishlatiladigan qurilma nomi nima?",
+    "A": "avtoklav",
+    "B": "kraft paketlar",
+    "C": "kvars lampa",
+    "D": "boks",
+    "javob": "A"
+  },
+  {
+    "savol": "Taym menejment nima?",
+    "A": "vaqtni samarali boshqarish",
+    "B": "ergonomika qoidalariga amal qilish",
+    "C": "bemorning ruhiy ahvolini yaxshilash",
+    "D": "bemorning tishini davolash",
+    "javob": "A"
+  },
+  {
+    "savol": "Taym menejmentning asosiy prinsipi nima?",
+    "A": "ishni rejalashtirish",
+    "B": "pala partish ishlash",
+    "C": "bemorlarning iqtisodiy muammosini yechish",
+    "D": "bemor tishini bemalol davolash",
+    "javob": "A"
+  },
+  {
+    "savol": "Taym menejmentda ish samaradorligini oshirishga nima yordam beradi?",
+    "A": "zamonaviy texnologiya",
+    "B": "bemorning iqtisodiy ahvoli",
+    "C": "ergonomikani yomonligi",
+    "D": "psixik kasalligi bor bemorlarning boʻlishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Shifokorga oʻtkir hidli parfyumеriyadan foydalanish mumkinmi?",
+    "A": "yo`q",
+    "B": "ha",
+    "C": "baʼzida boʻlishi mumkin",
+    "D": "toʻgʻri javob yoʻq",
+    "javob": "A"
+  },
+  {
+    "savol": "Sut tishlari qachondan boshlab chiqadi?",
+    "A": "6 oylik",
+    "B": "2 yosh",
+    "C": "6 yosh",
+    "D": "12 yosh",
+    "javob": "A"
+  },
+  {
+    "savol": "Sut tishlari qachon toʻliq chiqib boʻladi?",
+    "A": "2 yosh",
+    "B": "6 yosh",
+    "C": "28 yosh",
+    "D": "6 oylik",
+    "javob": "A"
+  },
+  {
+    "savol": "Tishlar anatomik tuzilishinecha qismdan iborat?",
+    "A": "toj, boʻyin, ildiz",
+    "B": "emal, dentin, sement",
+    "C": "toj, emal, dentin",
+    "D": "emal, dentin, ildiz",
+    "javob": "A"
+  },
+  {
+    "savol": "Radix dentis bu….",
+    "A": "tish ildizi",
+    "B": "tish toji",
+    "C": "tish bo`yni",
+    "D": "kesuv qirrasi",
+    "javob": "A"
+  },
+  {
+    "savol": "8 yoshda qaysi sut tishlari ildizi so`rilishni boshlaydi?",
+    "A": "qoziq",
+    "B": "kesuv",
+    "C": "chaynov",
+    "D": "to`g`ri javob yo`q",
+    "javob": "A"
+  },
+  {
+    "savol": "Sut tishlarining rangi qanday bo`ladi?",
+    "A": "ko`kimtir",
+    "B": "sarg`ish",
+    "C": "kulrang",
+    "D": "to`g`ri javob yo`q",
+    "javob": "A"
+  },
+  {
+    "savol": "Sut prikusida qaysi tishlar bo`lmaydi?",
+    "A": "premolyar",
+    "B": "molyar",
+    "C": "kesuv",
+    "D": "qoziq",
+    "javob": "A"
+  },
+  {
+    "savol": "Doimiy tishlar sonini belgilang.",
+    "A": "28- 32 ta",
+    "B": "20 ta",
+    "C": "12 ta",
+    "D": "8 ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Sut tishlar sonini belgilang.",
+    "A": "20 ta",
+    "B": "12 ta",
+    "C": "16 ta",
+    "D": "28 ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Buxoro davlat tibbiyot institituti tashkil etilgan yilni belgilang.",
+    "A": "mustaqillikdan so`ng",
+    "B": "1955 y",
+    "C": "1954 y",
+    "D": "1952 y",
+    "javob": "A"
+  },
+  {
+    "savol": "Qadimda tishlarni olish qanday kasb egalari zimmasida bo`lgan?",
+    "A": "sartaroshlar",
+    "B": "oshpazlar",
+    "C": "askarlar",
+    "D": "to`g`ri javob yo`q",
+    "javob": "A"
+  },
+  {
+    "savol": "Birinchi stomatologik kreslo kim tomonidan ishlangan?",
+    "A": "morrison",
+    "B": "leus",
+    "C": "volodkina",
+    "D": "parma",
+    "javob": "A"
+  },
+  {
+    "savol": "Stomatologiya qaysi tibbiy fanlar bilan bog`liq?",
+    "A": "barcha javoblar to`g`ri",
+    "B": "anatomiya",
+    "C": "fiziologiya",
+    "D": "radiologiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Inson og`iz bo`shlig`ining sog`ligini saqlash va davolash bilan shug`ullanadi?",
+    "A": "stomatologiya",
+    "B": "kardiologiya",
+    "C": "oftalmologiya",
+    "D": "kosmetologiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Doimiy tishlarning klinik formulasini ko`rsating.",
+    "A": "12345678",
+    "B": "12345",
+    "C": "i.ii.iii.iv.v",
+    "D": "i.ii.iii.iv.v.vi.vii.viii",
+    "javob": "A"
+  },
+  {
+    "savol": "Sut tishlarning klinik formulasini ko`rsating.",
+    "A": "i.ii.iii.iv.v",
+    "B": "12345678",
+    "C": "12345",
+    "D": "i.ii.iii.iv.v.vi.vii.viii",
+    "javob": "A"
+  },
+  {
+    "savol": "Shifokor koʻzoynagining vazifasi nima?",
+    "A": "koʻz shilliq qavatini himoya qilish",
+    "B": "havo-tomchi infeksiyalardan himoya qilish",
+    "C": "qoʻl dezinfeksiyasi vaqtida ishlatiladi",
+    "D": "xirurgik dezinfeksiyada muhim ahamiyatga ega.",
+    "javob": "A"
+  },
+  {
+    "savol": "Shifokorning himoya vositalariga nimalar kiradi?",
+    "A": "maska,qoʻlqop,himoya koʻzoynak",
+    "B": "bor mashina",
+    "C": "led lampa",
+    "D": "galogen lampa",
+    "javob": "A"
+  },
+  {
+    "savol": "Aralash antiseptika nima?",
+    "A": "antiseptikaning bir necha xil usullarini birgalikda qoʻllash",
+    "B": "yaraga jarrohlik ishlov berish",
+    "C": "qon zardoblari,immunologik preparatlar qoʻllash orqali infeksiyaga qarshi kurashish",
+    "D": "jarohatga ishlov berishda antiseptik va kimyoterapevtik vositalardan foydalanish",
+    "javob": "A"
+  },
+  {
+    "savol": "Infeksiyaning yuqish yoʻllariga misol keltiring.",
+    "A": "kontakt",
+    "B": "telefonda gaplashganda",
+    "C": "uzoq masofadan gaplashganda",
+    "D": "etika qoidalari buzilganda",
+    "javob": "A"
+  }
+]

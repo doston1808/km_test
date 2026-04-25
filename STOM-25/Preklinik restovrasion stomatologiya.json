@@ -1,0 +1,1570 @@
+[
+  {
+    "savol": "Karies kovakni profilaktik kengaytirish usulini kim taklif qilgan",
+    "A": "Blek",
+    "B": "Lukomskiy",
+    "C": "VOZ",
+    "D": "Fosher",
+    "javob": "A"
+  },
+  {
+    "savol": "Charxlanayotgan kovakka nisbatan borning hajmi",
+    "A": "Kichik",
+    "B": "Katta",
+    "C": "Ahamiyati yo`q",
+    "D": "Kovak hajmi bilan bir xil",
+    "javob": "A"
+  },
+  {
+    "savol": "Karies kovakni charxlashning asosiy 2-bosqichi",
+    "A": "Kengaytirish",
+    "B": "Ochish",
+    "C": "Nekroektomiya",
+    "D": "Shakllantirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Profilaktik kengaytirish usulini o`tkazishdan maqsad",
+    "A": "Retsediv kariesni oldini olish",
+    "B": "Retentsion nuqtani hosil qilish",
+    "C": "Adgeziv birikishini hosil qilish",
+    "D": "Barchasi to`g`ri",
+    "javob": "A"
+  },
+  {
+    "savol": "Blek bo`yicha 1-sinf karioz kovak tasnifi",
+    "A": "Molyar,premolyarlarning fissuralarida",
+    "B": "Molyar,premolyarlarning kontakt yuzasi",
+    "C": "Barcha tishlarning bo`yin sohasi",
+    "D": "Kurak , qoziq tishlarning kontakt yuzasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Blek bo`yicha 2-sinf karioz kovak tasnifi",
+    "A": "Molyar,premolyarlarning kontakt yuzasi",
+    "B": "Molyar,premolyarlarning chaynov yuzasi",
+    "C": "Barcha tishlarning bo`yin sohasi",
+    "D": "Kurak , qoziq tishlarning kontakt yuzasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Trubinali dastakning aylanish tezligi",
+    "A": "160.000 /min-400.000/min",
+    "B": "100.000/min-160.000/min",
+    "C": "10.000/min-12.000/min",
+    "D": "200.000/min-450.000/min",
+    "javob": "A"
+  },
+  {
+    "savol": "Finirlash -bu",
+    "A": "Emal qirralarini silliqlash",
+    "B": "Karioz kovakni kengaytirish",
+    "C": "Karioz kovakni ochish",
+    "D": "Plombaga yakuniy ishlov berish",
+    "javob": "A"
+  },
+  {
+    "savol": "Mexanik burchakli dastakning aylanish tezligi",
+    "A": "5000ay/min-230000ay/min",
+    "B": "25000ay/min-30000ay/min",
+    "C": "15000ay/min-25000ay/min",
+    "D": "45000ay/min-50000ay/min",
+    "javob": "A"
+  },
+  {
+    "savol": "Blek bo`yicha 4-sinf karioz kovak tasnifi",
+    "A": "Kurak , qoziq tishlarning kontakt yuzasi kesuv qirrasi bilan",
+    "B": "Moiyar,premolyarlarning kontakt yuzasi",
+    "C": "Barcha tishlarning bo`yin sohasi",
+    "D": "Kurak , qoziq tishlarning faqat kontakt yuzasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Karioz kovakni charxlashning asosiy tamoyili",
+    "A": "Zararlangan to`qimani to`liq olib tashlash",
+    "B": "Texnik muvofiqlik",
+    "C": "Zararlanmagan to`qimani to`liq olib tashlash",
+    "D": "Barchasi to`g`ri",
+    "javob": "A"
+  },
+  {
+    "savol": "Emal qirralariga ishlov berish amalga oshiriladi",
+    "A": "Olmos bor bilan",
+    "B": "Silindrik po`lat bor bilan",
+    "C": "Barchasi to`g`ri",
+    "D": "Korborund boshcha bilan",
+    "javob": "A"
+  },
+  {
+    "savol": "Barcha guruh tishlarning bo`yin oldi sohasidagi kariyes kovak xos:",
+    "A": "5- sinfga",
+    "B": "4-sinfga",
+    "C": "3-sinfga",
+    "D": "6- sinfga",
+    "javob": "A"
+  },
+  {
+    "savol": "Kariyes kovakni yakuniy charxlash mezoni bo`lib hisoblanadi:",
+    "A": "Zondlanganda oqish tusdagi, zich dentinni borligi",
+    "B": "Oqish tusdagi yumshagan dentinni borligi",
+    "C": "Pigmentlashgan yumshoq dentinni borligi",
+    "D": "Barchasi to`g`ri",
+    "javob": "A"
+  },
+  {
+    "savol": "V sinf kariyes kovagini asosiy joylashadigan yuzasi:",
+    "A": "Vestibulyar",
+    "B": "Til",
+    "C": "Kontakt",
+    "D": "Tanglay",
+    "javob": "A"
+  },
+  {
+    "savol": "Blek bo`yicha V sinf kariyes kovagi bo`lib hisoblanadi:",
+    "A": "Barcha guruh tishlarning bo`yin oldi sohasi",
+    "B": "Molyar va premolyar tishlarning kontakt yuzalarida",
+    "C": "Barcha gurux tishlardagi tabiiy fissuralarida",
+    "D": "Barchasi to`g`ri",
+    "javob": "A"
+  },
+  {
+    "savol": "Blek bo`yicha III sinf kariyes kovagining asosiy joylashuvi:",
+    "A": "Kuraklarning kontakt yuzasi",
+    "B": "Kuraklarning vestibulyar yuzasi",
+    "C": "Molyarlarning kontakt yuzasi",
+    "D": "Molyarlarning chaynov yuzasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Blek tisnifida kariyes kovaklarni qaysi belgilari asos qilib olingan?",
+    "A": "Anatomo-topografik",
+    "B": "Gistologik",
+    "C": "Klinik-topografik",
+    "D": "Topografik",
+    "javob": "A"
+  },
+  {
+    "savol": "18 tishni chaynov yuzasidagi fissurada joylashgan kariyes kovak",
+    "A": "1 sinf",
+    "B": "5 sinf",
+    "C": "3 sinf",
+    "D": "4 sinf",
+    "javob": "A"
+  },
+  {
+    "savol": "37 tishni lunj yuzasidagi tabiiy chuqurchasida joylashgan kariyes kovak",
+    "A": "1 sinf",
+    "B": "5 sinf",
+    "C": "3 sinf",
+    "D": "4 sinf",
+    "javob": "A"
+  },
+  {
+    "savol": "12 tishni ko`r teshigi sohasida joylashgan kariyes kovak",
+    "A": "1 sinf",
+    "B": "5 sinf",
+    "C": "3 sinf",
+    "D": "4 sinf",
+    "javob": "A"
+  },
+  {
+    "savol": "11 tishni kontakt yuzasini bo`yin oldi sohasida joylashgan kariyes kovak",
+    "A": "3 sinf",
+    "B": "5 sinf",
+    "C": "1 sinf",
+    "D": "4 sinf",
+    "javob": "A"
+  },
+  {
+    "savol": "14 tishni oldingi kontakt yuzasida joylashgan kariyes kovak",
+    "A": "2 sinf",
+    "B": "5 sinf",
+    "C": "1 sinf",
+    "D": "4 sinf",
+    "javob": "A"
+  },
+  {
+    "savol": "16 tishni oldingi kontakt yuzasida joylashgan kariyes kovak",
+    "A": "2 sinf",
+    "B": "5 sinf",
+    "C": "1 sinf",
+    "D": "4 sinf",
+    "javob": "A"
+  },
+  {
+    "savol": "33 tishni oldingi kontakt yuzasida joylashgan kariyes kovak",
+    "A": "3 sinf",
+    "B": "2 sinf",
+    "C": "5 sinf",
+    "D": "4 sinf",
+    "javob": "A"
+  },
+  {
+    "savol": "17 tishni old va orqadagi kontakt yuzasida joylashgan kariyes kovak",
+    "A": "2 sinf",
+    "B": "5 sinf",
+    "C": "4 sinf",
+    "D": "3 sinf",
+    "javob": "A"
+  },
+  {
+    "savol": "11 tishni lateral kontakt yuzasida kesuv burchagini zararlanishi bilan kechadigan kariyes kovak",
+    "A": "4 sinf",
+    "B": "2 sinf",
+    "C": "5 sinf",
+    "D": "3 sinf",
+    "javob": "A"
+  },
+  {
+    "savol": "Blek tasnifi bo`yicha II sinf kariyes kovagiga mansub:",
+    "A": "Molyarlarning kontakt yuzasi",
+    "B": "Qoziq tishlarning kontakt yuzasi",
+    "C": "Molyarlarning lunj yuzasi",
+    "D": "Kurak tishlarning lateral yuzasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Kariyes kovak charxlashni birinchi bosqichi",
+    "A": "Kariyes kovakni ochish",
+    "B": "Kariyes kovakni kengaytirish",
+    "C": "Nekroektomiya",
+    "D": "Emal qirralariga ishlov berish",
+    "javob": "A"
+  },
+  {
+    "savol": "Kariyes kovak charxlashni uchinchi bosqichi",
+    "A": "Nekroektomiya",
+    "B": "Kariyes kovakni kengaytirish",
+    "C": "Kariyes kovakni shakllantirish",
+    "D": "Emal qirralariga ishlov berish",
+    "javob": "A"
+  },
+  {
+    "savol": "Kariyes kovak charxlashni to`rtinchi bosqichi",
+    "A": "Kariyes kovakni shakllantirish",
+    "B": "Nekrektomiya",
+    "C": "Kariyes kovakni kengaytirish",
+    "D": "Emal qirralariga ishlov berish",
+    "javob": "A"
+  },
+  {
+    "savol": "Kariyes kovak charxlashni beshinchi bosqichi",
+    "A": "Emal qirralariga ishlov berish",
+    "B": "Kariyes kovakni kengaytirish",
+    "C": "Nekrektomiya",
+    "D": "Kariyes kovakni shakllantirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Vaqtinchalik plomba ashyosiga kiradi",
+    "A": "Sink oksid evgenol",
+    "B": "Endofil",
+    "C": "Rezodent",
+    "D": "Epoksid smola asosli malham",
+    "javob": "A"
+  },
+  {
+    "savol": "Vaqtinchalik plomba ashyosiga kiradi",
+    "A": "Dentin malham",
+    "B": "Vinoksol",
+    "C": "Sink oksid evgenol",
+    "D": "Barchasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Mexanik burchakli dastakdan foydalaniladi",
+    "A": "Plomba ashyolarini silliqlashda",
+    "B": "Kanalni shtiflashga tayorlashda",
+    "C": "Kanalni siler bilan to`ldirishda",
+    "D": "Barchasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Sement asosli plomba fiksatsiyasini yaxshilash uchun qo`llaniladi:",
+    "A": "Qo`shimcha maydon va retentsion nuqtalarni hosil qilish",
+    "B": "Kovakka dumaloqlashgan shakl berish",
+    "C": "Ajratuvchi taglik qo`ymaslik",
+    "D": "Anker shtiftlar qo`yish",
+    "javob": "A"
+  },
+  {
+    "savol": "Trubinali dastakdan foydalaniladi",
+    "A": "Karioz kovakni ochishda",
+    "B": "Nekroektomiyada",
+    "C": "Kanalni plombaga tayorlashda",
+    "D": "Barcha keltirilgan variantlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Fissura bu-",
+    "A": "Chaynov do`mboqchalar orasidagi chuqurchalar",
+    "B": "Chaynov do`mboqchalar",
+    "C": "Chaynov do`mboqchalar va qirralar",
+    "D": "Kesuv qirralari",
+    "javob": "A"
+  },
+  {
+    "savol": "Fissuralar tuzilishiga ko`ra",
+    "A": "Ochiq va yopiq",
+    "B": "Asosiy va qo`shimcha",
+    "C": "Asosiy va yopiq",
+    "D": "Ochiq va qo`shimcha",
+    "javob": "A"
+  },
+  {
+    "savol": "Fals hosil qilishdan maqsad",
+    "A": "Plomba chaynov bosimi ostida siljimasligi",
+    "B": "Qo`shimcha maydon hosil qilish",
+    "C": "Plomba chaynov bosimi ostida siljishi",
+    "D": "Retentsion nuqta hosil qilish",
+    "javob": "A"
+  },
+  {
+    "savol": "Fals hosil qilinadi",
+    "A": "45$^{ }$gradusda",
+    "B": "90$^{ }$gradusda",
+    "C": "180$^{ }$gradusda",
+    "D": "110$^{ }$gradusda",
+    "javob": "A"
+  },
+  {
+    "savol": "Medikamentoz ishlov berish bu-",
+    "A": "Dorilar bilan",
+    "B": "Suv bilan",
+    "C": "Zond bilan",
+    "D": "Borlar bilan",
+    "javob": "A"
+  },
+  {
+    "savol": "Dorili ishlov berishda nimalardan foydalaniladi",
+    "A": "Kuchli bo`lmagan antiseptiklar",
+    "B": "Kuchli antiseptiklar",
+    "C": "Pulpaga zararli tasir etadigan",
+    "D": "Dorilar bilan",
+    "javob": "A"
+  },
+  {
+    "savol": "Minimal invaziv charxlash usuli avzalliklari",
+    "A": "Tish strukturasiga minimal tasir etish",
+    "B": "Davolashga ko`p vaqt ketishi",
+    "C": "Tish strukturasiga maksimal tasir etish",
+    "D": "Kuchli og`riq bo`lishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Minimal invaziv charxlash usuli avzalliklari",
+    "A": "Davolashga kam vaqt ketishi",
+    "B": "Tish strukturasiga maksimal tasir etish",
+    "C": "Blek koncepciyasiga qarama qarshiligi",
+    "D": "Kuchli og`riq bo`lishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Minimal invaziv charxlash usuli avzalliklari",
+    "A": "Og`riqni kam yoki umuman bo`lmasligi",
+    "B": "Kuchli og`riq bo`lishi",
+    "C": "Tish strukturasiga maksimal tasir etish",
+    "D": "Davolashga ko`p vaqt ketishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Minimal invaziv charxlash usuli avzalliklari",
+    "A": "Profilaktik samarani vujudga kelishi",
+    "B": "Blek koncepciyasiga qarama qarshiligi",
+    "C": "Kuchli og`riq bo`lishi",
+    "D": "Tish strukturasiga maksimal tasir etish",
+    "javob": "A"
+  },
+  {
+    "savol": "Minimal invaziv charxlash usuli kamchiligi",
+    "A": "Blek koncepciyasiga qarama qarshiligi",
+    "B": "Profilaktik samarani vujudga kelishi",
+    "C": "Og`riqni kam yoki umuman bo`lmasligi",
+    "D": "Tish strukturasiga minimal tasir etish",
+    "javob": "A"
+  },
+  {
+    "savol": "Minimal invaziv charxlash usuliga kiradi",
+    "A": "ART usuli",
+    "B": "Tunnel usuli",
+    "C": "Blek usuli",
+    "D": "Barchasi to`g`ri",
+    "javob": "A"
+  },
+  {
+    "savol": "Borlarning turlari",
+    "A": "Karbidli",
+    "B": "Po`lat",
+    "C": "Olmosli",
+    "D": "Barchasi to`g`ri",
+    "javob": "A"
+  },
+  {
+    "savol": "Minimal invaziv charxlash usuliga kirmaydi",
+    "A": "Blek usuli",
+    "B": "To`g`ri javob yo`q",
+    "C": "ART usuli",
+    "D": "Barchasi to`g`ri",
+    "javob": "A"
+  },
+  {
+    "savol": "Borlarning turlari",
+    "A": "Olmosli",
+    "B": "Metalli",
+    "C": "Trubinali",
+    "D": "Barchasi to`g`ri",
+    "javob": "A"
+  },
+  {
+    "savol": "Charxlashning minimal invaziv uslilga kiradi",
+    "A": "ICON terapiya",
+    "B": "Ozonoterpiya",
+    "C": "Lazer yordamida charxlash",
+    "D": "Barchasi to`g`ri",
+    "javob": "A"
+  },
+  {
+    "savol": "Minimal invaziv usulning kamchigi",
+    "A": "Stomatologning kasbiy mahoratiga yuqori talab",
+    "B": "Oddiy asboblarning ishlatilishi",
+    "C": "Qisqa vaqt sarflanishi",
+    "D": "Barchasi to`g`ri",
+    "javob": "A"
+  },
+  {
+    "savol": "ART usuli tamoyili",
+    "A": "Tishni adgeziv plomba bilan tiklash",
+    "B": "Profilaktik usulga qarshiligi",
+    "C": "Barchasi to`g`ri",
+    "D": "Karies kovagini faqat bor mashinada charxlash",
+    "javob": "A"
+  },
+  {
+    "savol": "Plombaga pardoz beruvchi asbobga kiradi",
+    "A": "Finir",
+    "B": "Polir",
+    "C": "Disk",
+    "D": "Barchasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Gibrid shisha ionomer sementga kiradi",
+    "A": "Vitrimer",
+    "B": "Fuji",
+    "C": "Semion",
+    "D": "Fuji 1",
+    "javob": "A"
+  },
+  {
+    "savol": "An`anaviy shisha ionomer sementga kiradi",
+    "A": "Fuji,semion",
+    "B": "Vitrimer ,fuji",
+    "C": "Fuji LC",
+    "D": "Barchasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Shisha ionomer semenlarning qotish mexanizmi bo`yicha turi",
+    "A": "Uchlamchi qotuvchi",
+    "B": "Klassik",
+    "C": "Tiklash uchun",
+    "D": "Barchasi",
+    "javob": "A"
+  },
+  {
+    "savol": "21tish kesuv qirrasining shikastlanishi",
+    "A": "6 sinf",
+    "B": "5 sinf",
+    "C": "4 sinf",
+    "D": "3sinf",
+    "javob": "A"
+  },
+  {
+    "savol": "22tish kesuv qirrasining shikastlanishi",
+    "A": "6 sinf",
+    "B": "5 sinf",
+    "C": "4 sinf",
+    "D": "3sinf",
+    "javob": "A"
+  },
+  {
+    "savol": "26tish chaynov do`mboqchasida zararlanish",
+    "A": "6 sinf",
+    "B": "5 sinf",
+    "C": "4 sinf",
+    "D": "3sinf",
+    "javob": "A"
+  },
+  {
+    "savol": "24tish chaynov do`mboqchasida zararlanish",
+    "A": "6 sinf",
+    "B": "5 sinf",
+    "C": "4 sinf",
+    "D": "3sinf",
+    "javob": "A"
+  },
+  {
+    "savol": "23tish kesuv qirrasining shikastlanishi",
+    "A": "6 sinf",
+    "B": "5 sinf",
+    "C": "4 sinf",
+    "D": "3sinf",
+    "javob": "A"
+  },
+  {
+    "savol": "44tish distal yuzasidagi zararlanish",
+    "A": "2sinf",
+    "B": "5 sinf",
+    "C": "4 sinf",
+    "D": "3sinf",
+    "javob": "A"
+  },
+  {
+    "savol": "46tish distal yuzasidagi zararlanish",
+    "A": "2 sinf",
+    "B": "5 sinf",
+    "C": "4 sinf",
+    "D": "3sinf",
+    "javob": "A"
+  },
+  {
+    "savol": "Nekroektomiya bu-",
+    "A": "Nekrotik to`qimani olib tashlash",
+    "B": "Nekrotik to`qima",
+    "C": "Yumshagan dentinni qoldirish",
+    "D": "Pigmentlashgan dentin",
+    "javob": "A"
+  },
+  {
+    "savol": "23tish ko`r chuqurchasidagi zararlanish",
+    "A": "1sinf",
+    "B": "5 sinf",
+    "C": "6sinf",
+    "D": "2sinf",
+    "javob": "A"
+  },
+  {
+    "savol": "24tish medial yuzasidagi zararlanish",
+    "A": "2sinf",
+    "B": "5 sinf",
+    "C": "6sinf",
+    "D": "1sinf",
+    "javob": "A"
+  },
+  {
+    "savol": "42tish medial yuzasidagi zararlanish",
+    "A": "3sinf",
+    "B": "5 sinf",
+    "C": "6sinf",
+    "D": "2sinf",
+    "javob": "A"
+  },
+  {
+    "savol": "42tish medial yuzasi kesuv qirrasi bilan zararlanishi",
+    "A": "4sinf",
+    "B": "5 sinf",
+    "C": "6sinf",
+    "D": "2sinf",
+    "javob": "A"
+  },
+  {
+    "savol": "35tish vestibulyar yuzasi bo`yin oldi sohasi zararlanishi",
+    "A": "5sinf",
+    "B": "4sinf",
+    "C": "6sinf",
+    "D": "2sinf",
+    "javob": "A"
+  },
+  {
+    "savol": "43tish vestibulyar yuzasi bo`yin oldi sohasi zararlanishi",
+    "A": "5sinf",
+    "B": "4sinf",
+    "C": "6sinf",
+    "D": "2sinf",
+    "javob": "A"
+  },
+  {
+    "savol": "Davolovchi taglik qo`yishdan maqsad",
+    "A": "Pulpa yallig`lanishini oldini olish",
+    "B": "Pulpani yallig`lanishi",
+    "C": "Plomba adgeziyasi",
+    "D": "Pulpani jonsizlantirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Davolovchi taglik qo`yishdan maqsad",
+    "A": "Ikkilamchi o`rinbosar dentin hosil qilish",
+    "B": "Doimiy plomba qo`yish",
+    "C": "Pulpani yallig`lanishi",
+    "D": "Plomba adgeziyasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Davolovchi taglik qaerga qo`yiladi",
+    "A": "Kovak tubiga",
+    "B": "Kovak devoriga",
+    "C": "Emal qirrasiga",
+    "D": "Barchasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Davolovchi taglik qachon qo`yiladi",
+    "A": "Chuqur kariesda",
+    "B": "Pulpitda",
+    "C": "Yuza kariesda",
+    "D": "Periodontitda",
+    "javob": "A"
+  },
+  {
+    "savol": "Davolovchi taglikka nima kiradi?",
+    "A": "Dycal",
+    "B": "Fuji",
+    "C": "Semion",
+    "D": "Unisem",
+    "javob": "A"
+  },
+  {
+    "savol": "Davolovchi taglikka nima kiradi?",
+    "A": "Life",
+    "B": "Fuji",
+    "C": "Unisem",
+    "D": "Semion",
+    "javob": "A"
+  },
+  {
+    "savol": "Ajratuvchi taglikka nima kiradi?",
+    "A": "Fuji",
+    "B": "Life",
+    "C": "Dycal",
+    "D": "Charisma",
+    "javob": "A"
+  },
+  {
+    "savol": "Ajratuvchi taglikka nima kiradi?",
+    "A": "Semion",
+    "B": "Life",
+    "C": "Dycal",
+    "D": "Charisma",
+    "javob": "A"
+  },
+  {
+    "savol": "Ajratuvchi taglikka nima kiradi?",
+    "A": "Unifas",
+    "B": "Dycal",
+    "C": "Life",
+    "D": "Charisma",
+    "javob": "A"
+  },
+  {
+    "savol": "Ajratuvchi taglikka nima kiradi?",
+    "A": "Unisem",
+    "B": "Life",
+    "C": "Dycal",
+    "D": "Charisma",
+    "javob": "A"
+  },
+  {
+    "savol": "Tarkibida kalsiy gidrooksid saqlovchi preparatlar?",
+    "A": "Davolovchi tagliklar",
+    "B": "Ajratuvchi tagliklar",
+    "C": "Kimyoviy qotuvchi",
+    "D": "Nur yordamida qotuvchi",
+    "javob": "A"
+  },
+  {
+    "savol": "Plombaning pulpaga toksik tasir qilmasligini taminlab beruvchi preparat?",
+    "A": "Ajratuvchi taglik",
+    "B": "Davolovchi taglik",
+    "C": "Kimyoviy qotuvchi",
+    "D": "Oquvchi plombalar",
+    "javob": "A"
+  },
+  {
+    "savol": "Fuji nimaning tarkibiga kiradi?",
+    "A": "Shishaionomer",
+    "B": "Nur yordamida qotuvchi",
+    "C": "Kimyoviy qotuvchi",
+    "D": "Oquvchan plombalar",
+    "javob": "A"
+  },
+  {
+    "savol": "Semion nimaning tarkibiga kiradi?",
+    "A": "Shishaionomer",
+    "B": "Kimyoviy qotuvchi",
+    "C": "Nur yordamida qotuvchi",
+    "D": "Oquvchan plombalar",
+    "javob": "A"
+  },
+  {
+    "savol": "Plombaning tish qattiq to`qimasiga kimyoviy birikishiga qaysi plombani misol keltirsa bo`ladi?",
+    "A": "Shishaionomer",
+    "B": "Kimyoviy qotuvchi",
+    "C": "Nur yordamida qotuvchi",
+    "D": "Oquvchan plombalar",
+    "javob": "A"
+  },
+  {
+    "savol": "Misli, kumushli turlari bor?",
+    "A": "Amalgama",
+    "B": "Kimyoviy qotuvchi",
+    "C": "Nur yordamida qotuvchi",
+    "D": "Oquvchan plombalar",
+    "javob": "A"
+  },
+  {
+    "savol": "Davolovchi taglikka kiradi",
+    "A": "MTA",
+    "B": "Endofil",
+    "C": "Vitrimer",
+    "D": "Barchasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Rux oksid evgenol silerlarga kiradi",
+    "A": "Endofil",
+    "B": "Rezodent",
+    "C": "Eodent",
+    "D": "Krezodent",
+    "javob": "A"
+  },
+  {
+    "savol": "Rux oksid evgenol sileriga tegishli xususiyat",
+    "A": "Kanalda so`rilishi",
+    "B": "Apexni zararlashi",
+    "C": "Rentgenokontrast emasligi",
+    "D": "Kanaldan chiqarish qiyinligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Kariesni topografik jihatdan turi?",
+    "A": "Chuqur karies",
+    "B": "Blek bo`yicha Vsinf",
+    "C": "Blek bo`yicha VI sinf",
+    "D": "O`tkir",
+    "javob": "A"
+  },
+  {
+    "savol": "Kariesni topografik jihatdan turi?",
+    "A": "O`rta karies",
+    "B": "O`tkir",
+    "C": "Surunkali",
+    "D": "Blek bo`yicha Vsinf",
+    "javob": "A"
+  },
+  {
+    "savol": "Kariesni topografik jihatdan turi?",
+    "A": "Dog karies",
+    "B": "O`tkir",
+    "C": "Blek bo`yicha Vsinf",
+    "D": "Surunkali",
+    "javob": "A"
+  },
+  {
+    "savol": "Kariesni topografik jihatdan turi?",
+    "A": "Yuza karies",
+    "B": "Blek bo`yicha Vsinf",
+    "C": "O`tkir",
+    "D": "Surunkali",
+    "javob": "A"
+  },
+  {
+    "savol": "Davolovchi taglikka nima kiradi?",
+    "A": "Kalsogen plus",
+    "B": "Fuji",
+    "C": "Unisem",
+    "D": "Unifas",
+    "javob": "A"
+  },
+  {
+    "savol": "Davolovchi taglikka nima kiradi?",
+    "A": "Calcipulpe",
+    "B": "Unisem",
+    "C": "Fuji",
+    "D": "Unifas",
+    "javob": "A"
+  },
+  {
+    "savol": "Perkusiyada ishlatiladi?",
+    "A": "Zond",
+    "B": "Shpatel",
+    "C": "Ekskavator",
+    "D": "Elevator",
+    "javob": "A"
+  },
+  {
+    "savol": "Terapiyada ishlatiladi?",
+    "A": "Fayllar",
+    "B": "Ombur",
+    "C": "Elevator",
+    "D": "Skalpel",
+    "javob": "A"
+  },
+  {
+    "savol": "Terapiyada ishlatiladi?",
+    "A": "Borlar",
+    "B": "Elevator",
+    "C": "Ombur",
+    "D": "Skalpel",
+    "javob": "A"
+  },
+  {
+    "savol": "Terapiyada ishlatiladi?",
+    "A": "Matritsa",
+    "B": "Elevator",
+    "C": "Ombur",
+    "D": "Skalpel",
+    "javob": "A"
+  },
+  {
+    "savol": "Terapiyada ishlatiladi?",
+    "A": "Endomotor",
+    "B": "Ombur",
+    "C": "Skalpel",
+    "D": "Loshka",
+    "javob": "A"
+  },
+  {
+    "savol": "Terapiyada ishlatiladi?",
+    "A": "Profayllar",
+    "B": "Loshka",
+    "C": "Zeta plus",
+    "D": "Bayonet",
+    "javob": "A"
+  },
+  {
+    "savol": "Terapiyada ishlatiladi?",
+    "A": "Plomba",
+    "B": "Skalpel",
+    "C": "Bayonet",
+    "D": "Ombur",
+    "javob": "A"
+  },
+  {
+    "savol": "Terapiyada ishlatiladi?",
+    "A": "Davolovchi taglik",
+    "B": "Skalpel",
+    "C": "Bayonet",
+    "D": "Ombur",
+    "javob": "A"
+  },
+  {
+    "savol": "Terapiyada ishlatiladi?",
+    "A": "Amalgama",
+    "B": "Loshka",
+    "C": "Bayonet",
+    "D": "Elevator",
+    "javob": "A"
+  },
+  {
+    "savol": "Terapiyada ishlatiladi?",
+    "A": "Ajratuvchi taglik",
+    "B": "Bayonet",
+    "C": "Elevator",
+    "D": "Maxsus ombur",
+    "javob": "A"
+  },
+  {
+    "savol": "Terapiyada ishlatiladi?",
+    "A": "H file",
+    "B": "Bayonet",
+    "C": "Maxsus ombur",
+    "D": "Elevator",
+    "javob": "A"
+  },
+  {
+    "savol": "Terapiyada ishlatiladi?",
+    "A": "K file",
+    "B": "Maxsus ombur",
+    "C": "Bayonet",
+    "D": "Elevator",
+    "javob": "A"
+  },
+  {
+    "savol": "Terapiyada ishlatiladi?",
+    "A": "Travitel",
+    "B": "Skalpel",
+    "C": "Loshka",
+    "D": "Bayonet",
+    "javob": "A"
+  },
+  {
+    "savol": "Terapiyada ishlatiladi?",
+    "A": "Bond",
+    "B": "Maxsus ombur",
+    "C": "Zeta plus",
+    "D": "Bayonet",
+    "javob": "A"
+  },
+  {
+    "savol": "Terapiyada ishlatiladi?",
+    "A": "Devit",
+    "B": "Upen",
+    "C": "Elevator",
+    "D": "Loshka",
+    "javob": "A"
+  },
+  {
+    "savol": "Terapiyada ishlatiladi?",
+    "A": "Dycal",
+    "B": "Skalpel",
+    "C": "Bayonet",
+    "D": "Implant",
+    "javob": "A"
+  },
+  {
+    "savol": "Silikat sementga kiradi",
+    "A": "Belasin",
+    "B": "Beladont",
+    "C": "Vissin",
+    "D": "Barchsi",
+    "javob": "A"
+  },
+  {
+    "savol": "Silikofosfat vakili",
+    "A": "Laktodont",
+    "B": "Silisin",
+    "C": "Unisem",
+    "D": "Barchasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Terapiyada ishlatiladi?",
+    "A": "Lampa",
+    "B": "Implant",
+    "C": "Bayonet",
+    "D": "Breket",
+    "javob": "A"
+  },
+  {
+    "savol": "Terapiyada ishlatiladi?",
+    "A": "Skaler",
+    "B": "Bayonet",
+    "C": "Implant",
+    "D": "Breket",
+    "javob": "A"
+  },
+  {
+    "savol": "Terapiyada ishlatiladi?",
+    "A": "Pulpaekstraktor",
+    "B": "Breket",
+    "C": "Bayonet",
+    "D": "Implant",
+    "javob": "A"
+  },
+  {
+    "savol": "Terapiyada ishlatiladi?",
+    "A": "Sharsimon bor",
+    "B": "Bayonet",
+    "C": "Implant",
+    "D": "Breket",
+    "javob": "A"
+  },
+  {
+    "savol": "Tishni plombalash qaysi bo`limda bajariladi?",
+    "A": "Terapiyada",
+    "B": "Ortopediyada",
+    "C": "Ortodontiyada",
+    "D": "Xirurgiyada",
+    "javob": "A"
+  },
+  {
+    "savol": "Rezorsin formalin asosli silerni toping",
+    "A": "Foradent",
+    "B": "Krezodent",
+    "C": "Endofil",
+    "D": "Barchasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Sementlar nima yordamida qoriladi?",
+    "A": "Shpatel",
+    "B": "Gladilka",
+    "C": "Zond",
+    "D": "Oynacha",
+    "javob": "A"
+  },
+  {
+    "savol": "Rux-fosfat sementga kiradi?",
+    "A": "Unifas",
+    "B": "Charisma",
+    "C": "Fuji",
+    "D": "Composite",
+    "javob": "A"
+  },
+  {
+    "savol": "Rux-fosfat sementga kiradi?",
+    "A": "Unisem",
+    "B": "Charisma",
+    "C": "Fuji",
+    "D": "Composite",
+    "javob": "A"
+  },
+  {
+    "savol": "Rux-fosfat sementga kiradi?",
+    "A": "Adgezor",
+    "B": "Charisma",
+    "C": "Fuji",
+    "D": "Amalgama",
+    "javob": "A"
+  },
+  {
+    "savol": "Rux-fosfat sementga kiradi?",
+    "A": "Tenet",
+    "B": "Life",
+    "C": "Dycal",
+    "D": "Amalgama",
+    "javob": "A"
+  },
+  {
+    "savol": "Endodontiya qilish qaysi bo`limda bajariladi?",
+    "A": "Terapiyada",
+    "B": "Ortodontiyada",
+    "C": "Ortopediyada",
+    "D": "Xirurgiyada",
+    "javob": "A"
+  },
+  {
+    "savol": "Tishning gistologik tuzilishiga kiradi?",
+    "A": "Emal",
+    "B": "Toj qism",
+    "C": "Ildiz qism",
+    "D": "Bo`yin qism",
+    "javob": "A"
+  },
+  {
+    "savol": "Tishning gistologik tuzilishiga kiradi?",
+    "A": "Dentin",
+    "B": "Ildiz qism",
+    "C": "Toj qism",
+    "D": "Bo`yin qism",
+    "javob": "A"
+  },
+  {
+    "savol": "Tishning gistologik tuzilishiga kiradi?",
+    "A": "Sement",
+    "B": "Toj qism",
+    "C": "Ildiz qism",
+    "D": "Bo`yin qism",
+    "javob": "A"
+  },
+  {
+    "savol": "Fissuralar germetizatsiyasi qaysi tishlarda o`tkaziladi?",
+    "A": "Chaynov tishlarda",
+    "B": "Klik",
+    "C": "Frontal",
+    "D": "Kesuv",
+    "javob": "A"
+  },
+  {
+    "savol": "36 va 46 tishlarning qaysi do`mboqlari aktiv",
+    "A": "Vestibulyar",
+    "B": "Oral",
+    "C": "Vestibulo-oral",
+    "D": "Barchasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Kariesning klinik kechishi bo`yicha turi?",
+    "A": "O`tkir",
+    "B": "Dog`",
+    "C": "Yuza",
+    "D": "O`rta",
+    "javob": "A"
+  },
+  {
+    "savol": "Kariesning klinik kechishi bo`yicha turi?",
+    "A": "Surunkali",
+    "B": "Dog`",
+    "C": "O`rta",
+    "D": "Chuqur",
+    "javob": "A"
+  },
+  {
+    "savol": "Silikat sementga kiradi?",
+    "A": "Silisin",
+    "B": "Charisma",
+    "C": "Fuji",
+    "D": "Composite",
+    "javob": "A"
+  },
+  {
+    "savol": "Rezorsin formalin asosli silerlarning xususiyati",
+    "A": "Tish rangini o`zgartirishi",
+    "B": "Kanalda so`rilishi",
+    "C": "Periodontni zararlashi",
+    "D": "Barchasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Rezorsin formalin asosli silerlarning ijobiy xususiyati",
+    "A": "Mumifikasiyalash",
+    "B": "Rentgenokontrastlik",
+    "C": "Apexda so`rilishi",
+    "D": "Barchasi",
+    "javob": "A"
+  },
+  {
+    "savol": "36 tishdagi do`mboqlar soni nechta",
+    "A": "5",
+    "B": "4",
+    "C": "3",
+    "D": "2",
+    "javob": "A"
+  },
+  {
+    "savol": "Karravelli do`mbog`I qaysi tishda mavjud",
+    "A": "16,26",
+    "B": "36,46",
+    "C": "14,15",
+    "D": "37,47",
+    "javob": "A"
+  },
+  {
+    "savol": "Tishning anatomic tuzilishiga kiradi?",
+    "A": "Toj qism",
+    "B": "Emal",
+    "C": "Dentin",
+    "D": "Sement",
+    "javob": "A"
+  },
+  {
+    "savol": "Tishning anatomic tuzilishiga kiradi?",
+    "A": "Ildiz qism",
+    "B": "Dentin",
+    "C": "Emal",
+    "D": "Sement",
+    "javob": "A"
+  },
+  {
+    "savol": "Tishning anatomic tuzilishiga kiradi?",
+    "A": "Bo`yin qism",
+    "B": "Dentin",
+    "C": "Sement",
+    "D": "Emal",
+    "javob": "A"
+  },
+  {
+    "savol": "Plombaga pardoz berishda qo`llaniladi?",
+    "A": "Disklar",
+    "B": "Fayllar",
+    "C": "Profayllar",
+    "D": "Pulpaekstraktor",
+    "javob": "A"
+  },
+  {
+    "savol": "Plombaga pardoz berishda qo`llaniladi?",
+    "A": "Freza",
+    "B": "Fayllar",
+    "C": "Profayllar",
+    "D": "Pulpaekstraktor",
+    "javob": "A"
+  },
+  {
+    "savol": "Plombaga pardoz berishda qo`llaniladi?",
+    "A": "Finir",
+    "B": "Fayllar",
+    "C": "Pulpaekstraktor",
+    "D": "Profayllar",
+    "javob": "A"
+  },
+  {
+    "savol": "Plombaga pardoz berishda qo`llaniladi?",
+    "A": "Polir",
+    "B": "Profayllar",
+    "C": "Fayllar",
+    "D": "Pulpaekstraktor",
+    "javob": "A"
+  },
+  {
+    "savol": "Kariesni davolash qaysi bo`limda bajariladi?",
+    "A": "Terapiyada",
+    "B": "Ortopediyada",
+    "C": "Xirurgiyada",
+    "D": "Ortodontiyada",
+    "javob": "A"
+  },
+  {
+    "savol": "Siliko- fosfat sementga kiradi?",
+    "A": "Silidont",
+    "B": "Charisma",
+    "C": "Fuji",
+    "D": "Composite",
+    "javob": "A"
+  },
+  {
+    "savol": "Mexanik burchakli dastak uchun bor uzunligi:",
+    "A": "2,2sm-2,7sm",
+    "B": "1,9sm-2,7sm",
+    "C": "4,4sm",
+    "D": "2,7sm-2,9sm",
+    "javob": "A"
+  },
+  {
+    "savol": "Turbinali dastak uchun bor uzunligi:",
+    "A": "1,9sm-2,7sm",
+    "B": "4,4sm",
+    "C": "2,2sm-2,7sm",
+    "D": "1,2sm-4,7sm",
+    "javob": "A"
+  },
+  {
+    "savol": "Sharsimon bor ishlatiladi:",
+    "A": "Nekroektomiya qilishda",
+    "B": "Ildiz kanallarini kengaytirish,",
+    "C": "Tishni charxlash",
+    "D": "Ildiz kanallarini plombalash",
+    "javob": "A"
+  },
+  {
+    "savol": "Sharsimon bor ishlatiladi:",
+    "A": "Ildiz kanallar og`zini kengaytirish,",
+    "B": "Tishni charxlash",
+    "C": "Ildiz kanallarini plombalash",
+    "D": "Ildiz kanallarini kengaytirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Konussimon fissur bor ishlatiladi:",
+    "A": "Karioz bo`shliq devorlariga ishlov berish",
+    "B": "Ildiz kanallarini kengaytirish",
+    "C": "Karioz bo`shliq tubiga ishlov beriladi",
+    "D": "Ildiz kanallarini plombalash",
+    "javob": "A"
+  },
+  {
+    "savol": "Teskari konussimon bor ishlatiladi:",
+    "A": "Karioz bo`shliq tubiga ishlov beriladi",
+    "B": "Tishni charxlash",
+    "C": "Ildiz kanallarini kengaytirish",
+    "D": "Ildiz kanallarini plombalash",
+    "javob": "A"
+  },
+  {
+    "savol": "Teskari konussimon bor ishlatiladi:",
+    "A": "Tayanch nuqtalari hosil qilinadi",
+    "B": "Ildiz kanallarini plombalash",
+    "C": "Tishni charxlash",
+    "D": "Ildiz kanallarini kengaytirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Plombaga yakuniy ishlov berishda ishlatiladi:",
+    "A": "Disk",
+    "B": "Zond",
+    "C": "Ounacha",
+    "D": "Pinset",
+    "javob": "A"
+  },
+  {
+    "savol": "Plomba ashyolari tasnifi:",
+    "A": "Vaqtinchalik ,ildiz kanai plombalari",
+    "B": "Sun`iy dentin, taglik uchun plombalar",
+    "C": "Vaqtinchalik,Rux oksid evgenolli",
+    "D": "Vaqtinchalik ,ildiz kanai plombalari, dentin pasta",
+    "javob": "A"
+  },
+  {
+    "savol": "Plomba ashyolari tasnifi:",
+    "A": "Doimiy ,taglik uchun plombalar",
+    "B": "Vaqtinchalik ,ildiz kanai plombalari, dentin pasta",
+    "C": "Dentin pasta, taglik uchun plombalar",
+    "D": "Barchasi to`g`ri",
+    "javob": "A"
+  },
+  {
+    "savol": "Vaqtinchalik plomba ashyolari:",
+    "A": "Sun`iy dentin",
+    "B": "Davolovchi taglik",
+    "C": "Ajratuvchi taglik",
+    "D": "Distillangan suv",
+    "javob": "A"
+  },
+  {
+    "savol": "Vaqtinchalik plomba ashyolari:",
+    "A": "Dentin pasta",
+    "B": "Barchasi to`g`ri",
+    "C": "Davolovchi taglik",
+    "D": "Ajratuvchi taglik",
+    "javob": "A"
+  },
+  {
+    "savol": "Sun`iy dentin tarkibi:",
+    "A": "Rux oksid-66%Rux sulfat – 24%Kaolin – 10%",
+    "B": "Rux oksid-24%Rux sulfat – 56%Kaolin – 10%",
+    "C": "Rux sulfat-66%Rux oksid-24%Kaolin – 10%",
+    "D": "Distillangan suv",
+    "javob": "A"
+  },
+  {
+    "savol": "Sun`iy dentinning ijobiy xususiyatlari:",
+    "A": "Og`iz bo`shlig`ida 1-3 daqiqada qotishi",
+    "B": "Og`iz bo`shlig`ida 60 daqiqada qotishi",
+    "C": "Qotmaydi",
+    "D": "Mustahkam",
+    "javob": "A"
+  },
+  {
+    "savol": "Sun`iy dentinning ijobiy xususiyatlari:",
+    "A": "Bo`shliqni yaxshi germetizatsiyasi",
+    "B": "Og`iz bo`shlig`ida 2 soatda qotishi",
+    "C": "Antiseptik xusuziyatga ega",
+    "D": "Mexanik ta`sirga chidamsizligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Dentin pasta tarkibi:",
+    "A": "Sun`iy dentin va chinnigul va shaftoli moyi aralashmasi",
+    "B": "Distillangan suv",
+    "C": "Rux sulfat-66%Rux oksid-24%Kaolin – 10%",
+    "D": "Sun`iy dentin vadistillangan suv",
+    "javob": "A"
+  },
+  {
+    "savol": "Dentin pasta xususiyatlari:",
+    "A": "Antiseptik tasirga ega;",
+    "B": "Og`iz bo`shlig`ida 1-3 daqiqada qotishi",
+    "C": "Tish pulpasi va organizmga indifferentligi",
+    "D": "Mexanik ta`sirga chidamsizligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Dentin pasta xususiyatlari:",
+    "A": "Og`iz bo`shlig`ida tana haroratida 2 soatda qotadi:",
+    "B": "Bo`shliqni yaxshi germetizatsiyasi",
+    "C": "Qotmaydi",
+    "D": "Tish pulpasi va organizmga indifferentligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Dentin pasta xususiyatlari:",
+    "A": "Tayyor holda chiqariladi",
+    "B": "Og`iz bo`shlig`ida 1-3 daqiqada qotishi",
+    "C": "Mexanik ta`sirga chidamsizligi",
+    "D": "Tish pulpasi va organizmga indifferentligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Sun`iy dentinning salbiy xususiyatlari:",
+    "A": "Mexanik ta`sirga chidamsizligi",
+    "B": "Og`iz bo`shlig`ida 1-3 daqiqada qotishi",
+    "C": "Tish pulpasi va organizmga indifferentligi",
+    "D": "Tayyor holda chiqariladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Tagliklar necha xil bo`ladi:",
+    "A": "2xil:davolovchi va ajratuvchi",
+    "B": "2xil:davolovchi va asosli",
+    "C": "3xil:davolovchi va ajratuvchi,odontotrop",
+    "D": "To`g`ri javob yo`q",
+    "javob": "A"
+  },
+  {
+    "savol": "Davolovchi taglik bu-",
+    "A": "Davolovchi ta`sir ko`rsatadigan, kovak tubiga qo`yiluvchi taglik",
+    "B": "Tish pulpasini doimiy plomba nojo`ya ta`siridan himoyalovchi taglik",
+    "C": "Kanal plombadan so`ng qo`yiladi",
+    "D": "Barchasi to`g`ri",
+    "javob": "A"
+  },
+  {
+    "savol": "Ajratuvchi taglik bu-",
+    "A": "Tish pulpasini doimiy plombaning nojo`ya ta`siridan himoyalovchi taglik",
+    "B": "Davolovchi ta`sir ko`rsatadigan, kovak tubiga qo`yiluvchi taglik",
+    "C": "Faqat chuqur kariesda qo`yiladi",
+    "D": "To`g`ri javob yo`q",
+    "javob": "A"
+  },
+  {
+    "savol": "Davolovchi taglik turi:",
+    "A": "Odontotrop",
+    "B": "Asosli",
+    "C": "Laynerli",
+    "D": "Fizik",
+    "javob": "A"
+  },
+  {
+    "savol": "Davolovchi taglik turi:",
+    "A": "Biologik",
+    "B": "Kimyoviy",
+    "C": "Mexanik",
+    "D": "Aralash",
+    "javob": "A"
+  },
+  {
+    "savol": "Davolovchi taglik turi:",
+    "A": "Kambinirlangan",
+    "B": "Mexanik",
+    "C": "Asosli",
+    "D": "Laynerli",
+    "javob": "A"
+  },
+  {
+    "savol": "Odontotrop davolovchi taglik -",
+    "A": "Ikkilamchi dentin hosil bo`lishini tezlashtiruvchi.",
+    "B": "Mexanik mustaxkam emas",
+    "C": "Odontotrop va biologik ta`sir etuvchi",
+    "D": "Qotmaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Biologik davolovchi taglik -",
+    "A": "Antimikrob , yallig`lanishga qarshi ta`sir etuvchi.",
+    "B": "Odontoblastlarni stimullashtirishi",
+    "C": "Ikkilamchi dentin hosil bo`lishini tezlashtiruvchi",
+    "D": "Odontotrop va biologik ta`sir etuvchi",
+    "javob": "A"
+  },
+  {
+    "savol": "Kambinirlangan davolovchi taglik -",
+    "A": "Odontotrop va biologik ta`sir etuvchi",
+    "B": "Tish pulpasi va organizmga indifferentligi",
+    "C": "Og`iz bo`shlig`ida 1-3 daqiqada qotishi",
+    "D": "Bo`shliqni yaxshi germetizatsiyasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Odontotrop davolovchi taglikka xos xususiyat",
+    "A": "Odontoblastlarni stimullashtirishi",
+    "B": "1-2 kunga qoʼyiladi",
+    "C": "Mexanik mustahkam emas",
+    "D": "Oʼzining faolligini tez yoʼqotadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Biologik davolovchi taglikka xos xususiyat",
+    "A": "Oʼzining faolligini tez yoʼqotadi",
+    "B": "Ikkilamchi dentin hosil bo`lishini tezlashtiruvchi",
+    "C": "Bo`shliqni yaxshi germetizatsiyasi",
+    "D": "Odontotrop va biologik ta`sir etuvchi",
+    "javob": "A"
+  },
+  {
+    "savol": "Biologik davolovchi taglikka xos xususiyat",
+    "A": "1-2 kunga qoʼyiladi va Ca(OH)2 tarkibli davolovchi taglikka almashtiriladi",
+    "B": "Ikkilamchi dentin hosil bo`lishini tezlashtiruvchi",
+    "C": "Odontoblastlarni stimullashtirishi",
+    "D": "Tish pulpasi va organizmga indifferentligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Biologik davolovchi taglikka xos xususiyat",
+    "A": "Mexanik mustaxkam emas",
+    "B": "Bo`shliqni yaxshi germetizatsiyasi",
+    "C": "Ikkilamchi dentin hosil bo`lishini tezlashtiruvchi",
+    "D": "Tish pulpasi va organizmga indifferentligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Biologik davolovchi taglikka xos xususiyat",
+    "A": "Qotmaydi",
+    "B": "Odontoblastlarni stimullashtirishi",
+    "C": "Odontotrop va biologik ta`sir etuvchi",
+    "D": "Tish pulpasi va organizmga indifferentligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Odontotrop davolovchi taglikka xos xususiyat",
+    "A": "Pulpa ustidagi dentin qavatini mineralizatsiyasini kuchaytirishi",
+    "B": "Odontotrop va biologik ta`sir etuvchi",
+    "C": "Tish pulpasi va organizmga indifferentligi",
+    "D": "Doimiy plomba fiksatsiyasini oshirishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Аjrаtuvchi tаgliklаrgatаlаblаr:",
+    "A": "Dentinga remineralizatsiyalovchi taʼsir etishi",
+    "B": "Ikkilamchi dentin hosil bo`lishini tezlashtirishi",
+    "C": "Odontotrop va biologik ta`sir etuvchi",
+    "D": "Tish pulpasi va organizmga indifferentligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Аjrаtuvchi tаgliklаrgatаlаblаr:",
+    "A": "Chaynov bosimiga chidamli boʼlishi kerak",
+    "B": "Tish pulpasi va organizmga indifferentligi",
+    "C": "Ikkilamchi dentin hosil bo`lishini tezlashtiruvchi",
+    "D": "Qotmaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Аjrаtuvchi tаgliklаrgatаlаblаr:",
+    "A": "Doimiy plomba fiksatsiyasini oshirishi",
+    "B": "Odontotrop va biologik ta`sir etuvchi",
+    "C": "Tish pulpasi va organizmga indifferentligi",
+    "D": "Mexanik mustaxkam emas",
+    "javob": "A"
+  },
+  {
+    "savol": "Аjrаtuvchi tаgliklаr bo`linadi:",
+    "A": "Asosli va yupqa qavatli taglik",
+    "B": "Asosli va davolovchi taglik",
+    "C": "Ajratuvchi vayupqa qavatli taglik",
+    "D": "Ajratuvchi vadavolovchi taglik",
+    "javob": "A"
+  },
+  {
+    "savol": "Asosli ajrаtuvchi tаgliklаrga xos xususiyat:",
+    "A": "Kavakni optimal geometriyasini, tayanch nuqtalarini saqlagan xolda xosil qilish",
+    "B": "Ikkilamchi dentin hosil bo`lishini tezlashtiruvchi",
+    "C": "Odontotrop va biologik ta`sir etuvchi",
+    "D": "Mexanik mustaxkam emas",
+    "javob": "A"
+  },
+  {
+    "savol": "Asosli ajrаtuvchi tаgliklаrga xos xususiyat:",
+    "A": "Pulpani termik , kimyoviy taʼsurotlardan ximoyalash",
+    "B": "Mexanik mustaxkam emas",
+    "C": "Qotmaydi",
+    "D": "Odontotrop va biologik ta`sir etuvchi",
+    "javob": "A"
+  },
+  {
+    "savol": "Asosli ajrаtuvchi tаglik qalinligi:",
+    "A": "1 mm dan qalin bo`lishi",
+    "B": "1 mm dan qalin bo`lmasligi",
+    "C": "0,5mm dan qalin bo`lmasligi",
+    "D": "0,05mm dan qalin bo`lmasligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Yupqa qavatli (lаyner) taglikka xos xususiyat:",
+    "A": "Kovak devorlari bilan doimiy plomba orasida bogʼlanishni taʼminlash",
+    "B": "1 mm dan qalin bo`lishi",
+    "C": "Pulpani termik , kimyoviy taʼsurotlardan ximoyalash",
+    "D": "Mexanik mustaxkam emas",
+    "javob": "A"
+  },
+  {
+    "savol": "Zamonaviy tasnif bo`yicha kanal plomba ashyolari:",
+    "A": "Silerlar va filerlar",
+    "B": "Asosli va yupqa qavatli (layner)",
+    "C": "Davolovchi va ajratuvchi",
+    "D": "To`g`ri javob yo`q",
+    "javob": "A"
+  },
+  {
+    "savol": "Siler -",
+    "A": "Plastik qotuvchi ashyo",
+    "B": "Birlamchi qattiq ashyo yoki shtiftlar",
+    "C": "Plastik qotmaydigan ashyo",
+    "D": "Moy asosli ashyo",
+    "javob": "A"
+  },
+  {
+    "savol": "Filer-",
+    "A": "Birlamchi qattiq ashyo yoki shtiftlar",
+    "B": "Moy asosli ashyo",
+    "C": "Plastik qotuvchi ashyo",
+    "D": "Plastik qotmaydigan ashyo",
+    "javob": "A"
+  },
+  {
+    "savol": "Kanal plomba ashyolariga qo`yiladigan talablar:",
+    "A": "Rentgenkontrast bo`lishi",
+    "B": "Kanalda so`rilishi",
+    "C": "O`tkazuvchan bo`lishi",
+    "D": "Kanaldan olinmasligi",
+    "javob": "A"
+  }
+]

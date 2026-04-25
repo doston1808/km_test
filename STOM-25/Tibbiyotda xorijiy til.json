@@ -1,0 +1,1938 @@
+[
+  {
+    "savol": "Translate the word (tarjima qiling ) patient",
+    "A": "bemor",
+    "B": "tish doktori",
+    "C": "breket",
+    "D": "jag`",
+    "javob": "A"
+  },
+  {
+    "savol": "Translate the word (tarjima qiling ) dentist",
+    "A": "tish doktori",
+    "B": "breket",
+    "C": "jag`",
+    "D": "bemor",
+    "javob": "A"
+  },
+  {
+    "savol": "Translate the word (tarjima qiling ) brace",
+    "A": "breket",
+    "B": "tish doktori",
+    "C": "bemor",
+    "D": "jag`",
+    "javob": "A"
+  },
+  {
+    "savol": "Translate the word (tarjima qiling ) jaw",
+    "A": "jag`",
+    "B": "breket",
+    "C": "tish doktori",
+    "D": "bemor",
+    "javob": "A"
+  },
+  {
+    "savol": "Translate the word (tarjima qiling ) toothpaste",
+    "A": "tish pastasi",
+    "B": "breket",
+    "C": "jag`",
+    "D": "tish doktori",
+    "javob": "A"
+  },
+  {
+    "savol": "Translate the word (tarjima qiling ) hospital",
+    "A": "kasalxona",
+    "B": "jag`",
+    "C": "milk",
+    "D": "tish doktori",
+    "javob": "A"
+  },
+  {
+    "savol": "Translate the word (tarjima qiling ) gum",
+    "A": "milk",
+    "B": "jag`",
+    "C": "tish",
+    "D": "qon",
+    "javob": "A"
+  },
+  {
+    "savol": "Translate the word (tarjima qiling ) health",
+    "A": "sog`lik",
+    "B": "jag`",
+    "C": "kasalxona",
+    "D": "qon",
+    "javob": "A"
+  },
+  {
+    "savol": "Translate the word (tarjima qiling ) medicine",
+    "A": "dori-darmon",
+    "B": "qon",
+    "C": "breket",
+    "D": "tish doktori",
+    "javob": "A"
+  },
+  {
+    "savol": "Translate the word (tarjima qiling ) disease",
+    "A": "kasallik",
+    "B": "sog`lik",
+    "C": "milk",
+    "D": "kasalxona",
+    "javob": "A"
+  },
+  {
+    "savol": "Translate the word (tarjima qiling ) polish",
+    "A": "polirovka qilmoq",
+    "B": "kasalxona",
+    "C": "mik",
+    "D": "qon",
+    "javob": "A"
+  },
+  {
+    "savol": "Translate the word (tarjima qiling ) dental x-ray",
+    "A": "tish rentgeni",
+    "B": "jag`",
+    "C": "breket",
+    "D": "tish pastasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Translate the word (tarjima qiling ) retainer",
+    "A": "tish saqlagich",
+    "B": "tekislash",
+    "C": "kasalxona",
+    "D": "ortodont",
+    "javob": "A"
+  },
+  {
+    "savol": "Translate the word (tarjima qiling ) alignment",
+    "A": "tekislash",
+    "B": "kasalxona",
+    "C": "ortodont",
+    "D": "breket",
+    "javob": "A"
+  },
+  {
+    "savol": "Translate the word (tarjima qiling ) orthodontist",
+    "A": "ortodont",
+    "B": "tekislash",
+    "C": "qon",
+    "D": "kasalxona",
+    "javob": "A"
+  },
+  {
+    "savol": "Translate the word (tarjima qiling ) ambulance",
+    "A": "tez yordam",
+    "B": "ortodont",
+    "C": "tish saqlagich",
+    "D": "tekislash",
+    "javob": "A"
+  },
+  {
+    "savol": "Translate the word (tarjima qiling ) blood",
+    "A": "qon",
+    "B": "tekislash",
+    "C": "tish saqlagich",
+    "D": "tish rentgeni",
+    "javob": "A"
+  },
+  {
+    "savol": "Translate the word (tarjima qiling ) disease",
+    "A": "kasallik",
+    "B": "tish rentgeni",
+    "C": "tekislash",
+    "D": "tish saqlagich",
+    "javob": "A"
+  },
+  {
+    "savol": "Translate the word (tarjima qiling ) injection",
+    "A": "ukol",
+    "B": "tish rentgeni",
+    "C": "tekislash",
+    "D": "tish saqlagich",
+    "javob": "A"
+  },
+  {
+    "savol": "Translate the word (tarjima qiling ) operation",
+    "A": "operatsiya",
+    "B": "kasalxona",
+    "C": "tekislash",
+    "D": "tish rentgeni",
+    "javob": "A"
+  },
+  {
+    "savol": "……you live in a flat?",
+    "A": "do",
+    "B": "done",
+    "C": "does",
+    "D": "doing",
+    "javob": "A"
+  },
+  {
+    "savol": "……it rain a lot in Africa?",
+    "A": "does",
+    "B": "doing",
+    "C": "do",
+    "D": "done",
+    "javob": "A"
+  },
+  {
+    "savol": "……they know the answers ?",
+    "A": "do",
+    "B": "doing",
+    "C": "does",
+    "D": "done",
+    "javob": "A"
+  },
+  {
+    "savol": ". ...... she take her dog for a walk ?",
+    "A": "does",
+    "B": "doing",
+    "C": "do",
+    "D": "done",
+    "javob": "A"
+  },
+  {
+    "savol": "… you go to the coast in summer?",
+    "A": "do",
+    "B": "done",
+    "C": "does",
+    "D": "doing",
+    "javob": "A"
+  },
+  {
+    "savol": "……. you doing your homework every day?",
+    "A": "are",
+    "B": "had",
+    "C": "does",
+    "D": "done",
+    "javob": "A"
+  },
+  {
+    "savol": "……. she work hard?",
+    "A": "does",
+    "B": "done",
+    "C": "do",
+    "D": "doing",
+    "javob": "A"
+  },
+  {
+    "savol": "Are you …. TV a lot?",
+    "A": "watching",
+    "B": "done",
+    "C": "is",
+    "D": "does",
+    "javob": "A"
+  },
+  {
+    "savol": "……. you going to the cinema?",
+    "A": "are",
+    "B": "done",
+    "C": "have",
+    "D": "had",
+    "javob": "A"
+  },
+  {
+    "savol": "…….your father working?",
+    "A": "is",
+    "B": "being",
+    "C": "done",
+    "D": "do",
+    "javob": "A"
+  },
+  {
+    "savol": "My classmate is … to class right now",
+    "A": "going",
+    "B": "done",
+    "C": "go",
+    "D": "do",
+    "javob": "A"
+  },
+  {
+    "savol": "We … swimming , jogging , and playing sports",
+    "A": "like",
+    "B": "known",
+    "C": "done",
+    "D": "having",
+    "javob": "A"
+  },
+  {
+    "savol": "He …….in Rio de Janeiro",
+    "A": "lives",
+    "B": "living",
+    "C": "live",
+    "D": "doing",
+    "javob": "A"
+  },
+  {
+    "savol": "I …. in a small apartment near my college",
+    "A": "live",
+    "B": "doing",
+    "C": "lives",
+    "D": "living",
+    "javob": "A"
+  },
+  {
+    "savol": "She … three languages",
+    "A": "speaks",
+    "B": "spoken",
+    "C": "speaking",
+    "D": "speaked",
+    "javob": "A"
+  },
+  {
+    "savol": "My friend doesn`t … English",
+    "A": "know",
+    "B": "are",
+    "C": "am",
+    "D": "had",
+    "javob": "A"
+  },
+  {
+    "savol": "My mother …. English at a high school.",
+    "A": "teaches",
+    "B": "teaching",
+    "C": "teach",
+    "D": "teachem",
+    "javob": "A"
+  },
+  {
+    "savol": "I …. my job.",
+    "A": "love",
+    "B": "loving",
+    "C": "loves",
+    "D": "lovely",
+    "javob": "A"
+  },
+  {
+    "savol": "I usually … very early in the morning",
+    "A": "get up",
+    "B": "sleep",
+    "C": "getting up",
+    "D": "sleeping",
+    "javob": "A"
+  },
+  {
+    "savol": "My brother ….. his favorite TV program every evening.",
+    "A": "watches",
+    "B": "didn`t",
+    "C": "done",
+    "D": "did",
+    "javob": "A"
+  },
+  {
+    "savol": "There ….. two bags in the room",
+    "A": "are",
+    "B": "were",
+    "C": "was",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "There …. a mouse in the box",
+    "A": "is",
+    "B": "am",
+    "C": "are",
+    "D": "have",
+    "javob": "A"
+  },
+  {
+    "savol": "There … a flower in the garden",
+    "A": "is",
+    "B": "were",
+    "C": "am",
+    "D": "do",
+    "javob": "A"
+  },
+  {
+    "savol": "There …. some milk in the bottle",
+    "A": "is",
+    "B": "are",
+    "C": "am",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "There ….. pencils in the pencilcase.",
+    "A": "are",
+    "B": "is",
+    "C": "be",
+    "D": "do",
+    "javob": "A"
+  },
+  {
+    "savol": "There ….. a pen in my bag",
+    "A": "is",
+    "B": "am",
+    "C": "be",
+    "D": "do",
+    "javob": "A"
+  },
+  {
+    "savol": "There ….. many tigers in the garden",
+    "A": "are",
+    "B": "is",
+    "C": "am",
+    "D": "do",
+    "javob": "A"
+  },
+  {
+    "savol": "There …… a tiger",
+    "A": "is",
+    "B": "are",
+    "C": "do",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "There ….. books on the shelf",
+    "A": "are",
+    "B": "is",
+    "C": "be",
+    "D": "do",
+    "javob": "A"
+  },
+  {
+    "savol": "There ….. a book on the desk",
+    "A": "is",
+    "B": "am",
+    "C": "are",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "Translate the word (tarjima qiling ) Present simple tense",
+    "A": "hozirgi oddiy zamon",
+    "B": "o`tgan zamon",
+    "C": "davomli zamon",
+    "D": "kelajak zamon",
+    "javob": "A"
+  },
+  {
+    "savol": "Translate the word (tarjima qiling ) Verbs",
+    "A": "fellar",
+    "B": "otlar",
+    "C": "egalar",
+    "D": "birlik",
+    "javob": "A"
+  },
+  {
+    "savol": "Translate the word (tarjima qiling ) Nouns",
+    "A": "otlar",
+    "B": "fellar",
+    "C": "sifatlar",
+    "D": "ko`plik",
+    "javob": "A"
+  },
+  {
+    "savol": "Translate the word (tarjima qiling ) Uncountable",
+    "A": "sanalmaydigan",
+    "B": "sanaladigan",
+    "C": "sanalish",
+    "D": "sanash",
+    "javob": "A"
+  },
+  {
+    "savol": "Translate the word (tarjima qiling ) Countable",
+    "A": "sanaladigan",
+    "B": "sanalmaydigan",
+    "C": "sanash",
+    "D": "sanalish",
+    "javob": "A"
+  },
+  {
+    "savol": "Find plural form of the given word (ko`plik shaklini toping ?) Tomato",
+    "A": "tomatoes",
+    "B": "potatoes",
+    "C": "tomatoing",
+    "D": "tomat",
+    "javob": "A"
+  },
+  {
+    "savol": "Find plural form of the given word (ko`plik shaklini toping ?) Potato",
+    "A": "potatoes",
+    "B": "tomatoes",
+    "C": "potatoed",
+    "D": "potato",
+    "javob": "A"
+  },
+  {
+    "savol": "Find plural form of the given word (ko`plik shaklini toping ?) Foot",
+    "A": "feet",
+    "B": "foots",
+    "C": "fet",
+    "D": "footing",
+    "javob": "A"
+  },
+  {
+    "savol": "Find plural form of the given word (ko`plik shaklini toping ?) Mouse",
+    "A": "mice",
+    "B": "mices",
+    "C": "mouse",
+    "D": "mousing",
+    "javob": "A"
+  },
+  {
+    "savol": "Find plural form of the given word (ko`plik shaklini toping ?) Child",
+    "A": "children",
+    "B": "childrens",
+    "C": "childing",
+    "D": "child",
+    "javob": "A"
+  },
+  {
+    "savol": "These books ….. beautiful.",
+    "A": "are",
+    "B": "is",
+    "C": "am",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "We … friends.",
+    "A": "are",
+    "B": "do",
+    "C": "am",
+    "D": "is",
+    "javob": "A"
+  },
+  {
+    "savol": "Ahmed … a football player",
+    "A": "is",
+    "B": "have",
+    "C": "are",
+    "D": "were",
+    "javob": "A"
+  },
+  {
+    "savol": "My sisters … English teachers.",
+    "A": "are",
+    "B": "is",
+    "C": "am",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "A cat … a dangerous animal.",
+    "A": "is not",
+    "B": "am",
+    "C": "do",
+    "D": "have",
+    "javob": "A"
+  },
+  {
+    "savol": "The chairs … old.",
+    "A": "are",
+    "B": "is",
+    "C": "am",
+    "D": "done",
+    "javob": "A"
+  },
+  {
+    "savol": "Susan … a good singer.",
+    "A": "is",
+    "B": "am",
+    "C": "are",
+    "D": "been",
+    "javob": "A"
+  },
+  {
+    "savol": "Betty .... at home.",
+    "A": "is",
+    "B": "are",
+    "C": "do",
+    "D": "am",
+    "javob": "A"
+  },
+  {
+    "savol": "We .... interested in music.",
+    "A": "are",
+    "B": "is",
+    "C": "be",
+    "D": "do",
+    "javob": "A"
+  },
+  {
+    "savol": "The books .... on the desk.",
+    "A": "are",
+    "B": "am",
+    "C": "do",
+    "D": "has",
+    "javob": "A"
+  },
+  {
+    "savol": "It ……my book.",
+    "A": "is",
+    "B": "am",
+    "C": "do",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "The weather … hot today.",
+    "A": "is",
+    "B": "be",
+    "C": "done",
+    "D": "are",
+    "javob": "A"
+  },
+  {
+    "savol": "We… French",
+    "A": "are",
+    "B": "is",
+    "C": "be",
+    "D": "am",
+    "javob": "A"
+  },
+  {
+    "savol": "She …….a teacher.",
+    "A": "is",
+    "B": "am",
+    "C": "are",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "Our family is not big. We …. four people.",
+    "A": "are",
+    "B": "is",
+    "C": "am",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "Mahmud and I ... friends.",
+    "A": "are",
+    "B": "is",
+    "C": "be",
+    "D": "am",
+    "javob": "A"
+  },
+  {
+    "savol": "An online lesson ... more helpful than offline one.",
+    "A": "is",
+    "B": "are",
+    "C": "am",
+    "D": "do",
+    "javob": "A"
+  },
+  {
+    "savol": "There are ……. apples on the table.",
+    "A": "some",
+    "B": "any",
+    "C": "an",
+    "D": "a",
+    "javob": "A"
+  },
+  {
+    "savol": "There is ……milk in the cup.",
+    "A": "some",
+    "B": "a",
+    "C": "an",
+    "D": "any",
+    "javob": "A"
+  },
+  {
+    "savol": "There are not ……..students in the room",
+    "A": "any",
+    "B": "a",
+    "C": "some",
+    "D": "an",
+    "javob": "A"
+  },
+  {
+    "savol": "There are not ….. cookies left.",
+    "A": "any",
+    "B": "an",
+    "C": "some",
+    "D": "a",
+    "javob": "A"
+  },
+  {
+    "savol": "There aren`t ….. cars in the street.",
+    "A": "any",
+    "B": "some",
+    "C": "much",
+    "D": "an",
+    "javob": "A"
+  },
+  {
+    "savol": "There is ……honey in the cup.",
+    "A": "some",
+    "B": "any",
+    "C": "an",
+    "D": "a",
+    "javob": "A"
+  },
+  {
+    "savol": "There is ……. salt in my soup.",
+    "A": "some",
+    "B": "any",
+    "C": "an",
+    "D": "a",
+    "javob": "A"
+  },
+  {
+    "savol": "There aren`t ……. eggs in the fridge.",
+    "A": "any",
+    "B": "some",
+    "C": "a",
+    "D": "an",
+    "javob": "A"
+  },
+  {
+    "savol": "There are ….. bananas in my cake.",
+    "A": "some",
+    "B": "any",
+    "C": "an",
+    "D": "a",
+    "javob": "A"
+  },
+  {
+    "savol": "There is …. salad on the table.",
+    "A": "some",
+    "B": "an",
+    "C": "a",
+    "D": "any",
+    "javob": "A"
+  },
+  {
+    "savol": "There are ……coconuts in the cookies.",
+    "A": "some",
+    "B": "any",
+    "C": "a",
+    "D": "an",
+    "javob": "A"
+  },
+  {
+    "savol": "There aren`t …..dogs in the zoo.",
+    "A": "any",
+    "B": "some",
+    "C": "an",
+    "D": "a",
+    "javob": "A"
+  },
+  {
+    "savol": "There are ……videos in my phone.",
+    "A": "some",
+    "B": "any",
+    "C": "an",
+    "D": "a",
+    "javob": "A"
+  },
+  {
+    "savol": "There are not ….. teachers in the school.",
+    "A": "any",
+    "B": "some",
+    "C": "an",
+    "D": "this",
+    "javob": "A"
+  },
+  {
+    "savol": "There are …..onions in the fridge.",
+    "A": "some",
+    "B": "any",
+    "C": "a",
+    "D": "an",
+    "javob": "A"
+  },
+  {
+    "savol": "There is …..sugar in the coffee.",
+    "A": "some",
+    "B": "any",
+    "C": "an",
+    "D": "a",
+    "javob": "A"
+  },
+  {
+    "savol": "There aren`t …… computers in the classroom.",
+    "A": "any",
+    "B": "some",
+    "C": "an",
+    "D": "a",
+    "javob": "A"
+  },
+  {
+    "savol": "Ann and I … very good friends.",
+    "A": "are",
+    "B": "be",
+    "C": "am",
+    "D": "is",
+    "javob": "A"
+  },
+  {
+    "savol": "It … 10 o`clock.",
+    "A": "is",
+    "B": "are",
+    "C": "do",
+    "D": "am",
+    "javob": "A"
+  },
+  {
+    "savol": "You … late again.",
+    "A": "are",
+    "B": "is",
+    "C": "be",
+    "D": "am",
+    "javob": "A"
+  },
+  {
+    "savol": "John … afraid of dogs.",
+    "A": "is",
+    "B": "am",
+    "C": "are",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "He … very tall.",
+    "A": "is",
+    "B": "are",
+    "C": "am",
+    "D": "do",
+    "javob": "A"
+  },
+  {
+    "savol": "My sister .… 29 years old.",
+    "A": "is",
+    "B": "am",
+    "C": "be",
+    "D": "are",
+    "javob": "A"
+  },
+  {
+    "savol": "I …. 32 years old.",
+    "A": "am",
+    "B": "is",
+    "C": "are",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "… you speak French?",
+    "A": "can",
+    "B": "are",
+    "C": "is",
+    "D": "am",
+    "javob": "A"
+  },
+  {
+    "savol": "… she play the guitar?",
+    "A": "can",
+    "B": "cans",
+    "C": "are",
+    "D": "is",
+    "javob": "A"
+  },
+  {
+    "savol": "I … dance very well.",
+    "A": "can",
+    "B": "cans",
+    "C": "am",
+    "D": "is",
+    "javob": "A"
+  },
+  {
+    "savol": "… your brother ride a bike?",
+    "A": "can",
+    "B": "cans",
+    "C": "is",
+    "D": "are",
+    "javob": "A"
+  },
+  {
+    "savol": "No, I … play the piano.",
+    "A": "cannot",
+    "B": "cans",
+    "C": "is",
+    "D": "are",
+    "javob": "A"
+  },
+  {
+    "savol": "… they cook Chinese food?",
+    "A": "can",
+    "B": "cans",
+    "C": "are",
+    "D": "are not",
+    "javob": "A"
+  },
+  {
+    "savol": "… we watch TV in the living room?",
+    "A": "can",
+    "B": "cans",
+    "C": "are",
+    "D": "are not",
+    "javob": "A"
+  },
+  {
+    "savol": "-Can they play basketball? -No, they … play basketball.",
+    "A": "cannot",
+    "B": "are",
+    "C": "is",
+    "D": "were not",
+    "javob": "A"
+  },
+  {
+    "savol": "… she ride a horse?",
+    "A": "can",
+    "B": "cans",
+    "C": "do",
+    "D": "is",
+    "javob": "A"
+  },
+  {
+    "savol": "… they swim in the lake?",
+    "A": "can",
+    "B": "cans",
+    "C": "does",
+    "D": "does not",
+    "javob": "A"
+  },
+  {
+    "savol": "-… you draw pictures? -Yes, I can.",
+    "A": "can",
+    "B": "is",
+    "C": "do",
+    "D": "does",
+    "javob": "A"
+  },
+  {
+    "savol": "… I have a glass of water?",
+    "A": "can",
+    "B": "cans",
+    "C": "does",
+    "D": "is",
+    "javob": "A"
+  },
+  {
+    "savol": "-… she ride a bike? -Yes, She can.",
+    "A": "can",
+    "B": "cans",
+    "C": "do",
+    "D": "do not",
+    "javob": "A"
+  },
+  {
+    "savol": "I … cook spaghetti.",
+    "A": "can",
+    "B": "cans",
+    "C": "does not",
+    "D": "does",
+    "javob": "A"
+  },
+  {
+    "savol": "… you sing? – Yes, I can",
+    "A": "can",
+    "B": "does",
+    "C": "is",
+    "D": "are",
+    "javob": "A"
+  },
+  {
+    "savol": "You … cook dinner tonight",
+    "A": "can",
+    "B": "does",
+    "C": "is",
+    "D": "are",
+    "javob": "A"
+  },
+  {
+    "savol": "... you play the guitar?",
+    "A": "can",
+    "B": "does",
+    "C": "is",
+    "D": "are",
+    "javob": "A"
+  },
+  {
+    "savol": "Choose countable noun:",
+    "A": "oranges",
+    "B": "water",
+    "C": "rice",
+    "D": "love",
+    "javob": "A"
+  },
+  {
+    "savol": "Choose countable noun:",
+    "A": "mother",
+    "B": "water",
+    "C": "rice",
+    "D": "love",
+    "javob": "A"
+  },
+  {
+    "savol": "Choose uncountable noun:",
+    "A": "rain",
+    "B": "oranges",
+    "C": "apples",
+    "D": "pens",
+    "javob": "A"
+  },
+  {
+    "savol": "Choose uncountable noun:",
+    "A": "snow",
+    "B": "oranges",
+    "C": "apples",
+    "D": "pens",
+    "javob": "A"
+  },
+  {
+    "savol": "Choose countable noun:",
+    "A": "relatives",
+    "B": "milk",
+    "C": "sugar",
+    "D": "love",
+    "javob": "A"
+  },
+  {
+    "savol": "Choose uncountable noun:",
+    "A": "water",
+    "B": "boys",
+    "C": "toys",
+    "D": "keys",
+    "javob": "A"
+  },
+  {
+    "savol": "Choose uncountable noun:",
+    "A": "beauty",
+    "B": "books",
+    "C": "keys",
+    "D": "house",
+    "javob": "A"
+  },
+  {
+    "savol": "Choose countable noun",
+    "A": "books",
+    "B": "water",
+    "C": "milk",
+    "D": "love",
+    "javob": "A"
+  },
+  {
+    "savol": "Choose countable noun:",
+    "A": "boys",
+    "B": "rice",
+    "C": "water",
+    "D": "air",
+    "javob": "A"
+  },
+  {
+    "savol": "Choose uncountable noun:",
+    "A": "milk",
+    "B": "toys",
+    "C": "park",
+    "D": "an apple",
+    "javob": "A"
+  },
+  {
+    "savol": "Choose uncountable noun",
+    "A": "money",
+    "B": "boys",
+    "C": "girls",
+    "D": "people",
+    "javob": "A"
+  },
+  {
+    "savol": "Choose countable noun:",
+    "A": "rooms",
+    "B": "water",
+    "C": "rice",
+    "D": "love",
+    "javob": "A"
+  },
+  {
+    "savol": "Choose countable noun:",
+    "A": "pencils",
+    "B": "milk",
+    "C": "water",
+    "D": "rice",
+    "javob": "A"
+  },
+  {
+    "savol": "Choose countable noun:",
+    "A": "pens",
+    "B": "courage",
+    "C": "oil",
+    "D": "sugar",
+    "javob": "A"
+  },
+  {
+    "savol": "Choose uncountable noun:",
+    "A": "salt",
+    "B": "oranges",
+    "C": "apples",
+    "D": "pens",
+    "javob": "A"
+  },
+  {
+    "savol": "I don`t have … friends",
+    "A": "many",
+    "B": "so",
+    "C": "a little",
+    "D": "lots",
+    "javob": "A"
+  },
+  {
+    "savol": "She has … things to do",
+    "A": "many",
+    "B": "so",
+    "C": "such",
+    "D": "little",
+    "javob": "A"
+  },
+  {
+    "savol": "Mary has … cats",
+    "A": "many",
+    "B": "so",
+    "C": "a little",
+    "D": "such",
+    "javob": "A"
+  },
+  {
+    "savol": "I don`t have … money",
+    "A": "much",
+    "B": "such",
+    "C": "a",
+    "D": "an",
+    "javob": "A"
+  },
+  {
+    "savol": "Sorry but I don`t have … time",
+    "A": "much",
+    "B": "such",
+    "C": "a",
+    "D": "fall",
+    "javob": "A"
+  },
+  {
+    "savol": "He has … money. He is a millionaire.",
+    "A": "much",
+    "B": "so",
+    "C": "a lot",
+    "D": "an",
+    "javob": "A"
+  },
+  {
+    "savol": "I have … time to have dinner",
+    "A": "much",
+    "B": "so",
+    "C": "not",
+    "D": "a",
+    "javob": "A"
+  },
+  {
+    "savol": "Tom has … friends in his town. He is not a newcomer",
+    "A": "many",
+    "B": "such",
+    "C": "not",
+    "D": "a",
+    "javob": "A"
+  },
+  {
+    "savol": "Choose the right answer.",
+    "A": "many friends",
+    "B": "such friends",
+    "C": "friends",
+    "D": "a friends",
+    "javob": "A"
+  },
+  {
+    "savol": "Choose the right answer.",
+    "A": "much water",
+    "B": "watering",
+    "C": "too water",
+    "D": "a water",
+    "javob": "A"
+  },
+  {
+    "savol": "Choose the correct answer",
+    "A": "many books",
+    "B": "such books",
+    "C": "too books",
+    "D": "a books",
+    "javob": "A"
+  },
+  {
+    "savol": "Choose. the correct answer.",
+    "A": "much milk",
+    "B": "so milk",
+    "C": "such books",
+    "D": "a books",
+    "javob": "A"
+  },
+  {
+    "savol": "Choose the correct answer.",
+    "A": "many people",
+    "B": "a people",
+    "C": "such people",
+    "D": "too people",
+    "javob": "A"
+  },
+  {
+    "savol": "I … working now.",
+    "A": "am",
+    "B": "is",
+    "C": "are",
+    "D": "were",
+    "javob": "A"
+  },
+  {
+    "savol": "She … doing her homework now.",
+    "A": "is",
+    "B": "am",
+    "C": "are",
+    "D": "were",
+    "javob": "A"
+  },
+  {
+    "savol": "They …writing a letter.",
+    "A": "are",
+    "B": "is",
+    "C": "am",
+    "D": "was",
+    "javob": "A"
+  },
+  {
+    "savol": "What are you doing? I am … my homework.",
+    "A": "doing",
+    "B": "does",
+    "C": "am",
+    "D": "did",
+    "javob": "A"
+  },
+  {
+    "savol": "What is she doing? She is …",
+    "A": "cooking",
+    "B": "cook",
+    "C": "cooked",
+    "D": "cooks",
+    "javob": "A"
+  },
+  {
+    "savol": "Children … going to school.",
+    "A": "are",
+    "B": "is",
+    "C": "has",
+    "D": "done",
+    "javob": "A"
+  },
+  {
+    "savol": "The boys … playing in the park.",
+    "A": "are",
+    "B": "is",
+    "C": "is not",
+    "D": "was",
+    "javob": "A"
+  },
+  {
+    "savol": "The baby … crying out loud.",
+    "A": "is",
+    "B": "are",
+    "C": "had",
+    "D": "haves",
+    "javob": "A"
+  },
+  {
+    "savol": "It … raining now.",
+    "A": "is",
+    "B": "had",
+    "C": "am",
+    "D": "are",
+    "javob": "A"
+  },
+  {
+    "savol": "I am … pasta for lunch.",
+    "A": "cooking",
+    "B": "cooked",
+    "C": "cooks",
+    "D": "cook",
+    "javob": "A"
+  },
+  {
+    "savol": "Miss Peters is _____ the class.",
+    "A": "teaching",
+    "B": "teaches",
+    "C": "teach",
+    "D": "are teach",
+    "javob": "A"
+  },
+  {
+    "savol": "Qiyosiy daraja sifatini toping.",
+    "A": "more dangerous",
+    "B": "boring",
+    "C": "the most beautiful",
+    "D": "beautiful",
+    "javob": "A"
+  },
+  {
+    "savol": "Qiyosiy daraja sifatini toping.",
+    "A": "stronger",
+    "B": "smart",
+    "C": "the newest",
+    "D": "must",
+    "javob": "A"
+  },
+  {
+    "savol": "Qiyosiy daraja sifatini toping.",
+    "A": "more helpful",
+    "B": "the most beautiful",
+    "C": "beautiful",
+    "D": "the youngest",
+    "javob": "A"
+  },
+  {
+    "savol": "Qiyosiy daraja sifatini toping.",
+    "A": "more difficult",
+    "B": "the most difficult",
+    "C": "difficult",
+    "D": "difficultest",
+    "javob": "A"
+  },
+  {
+    "savol": "Qiyosiy daraja sifatini toping.",
+    "A": "younger",
+    "B": "young",
+    "C": "the youngest",
+    "D": "old",
+    "javob": "A"
+  },
+  {
+    "savol": "Qiyosiy daraja sifatini toping.",
+    "A": "more exciting",
+    "B": "healthy",
+    "C": "healthiest",
+    "D": "strong",
+    "javob": "A"
+  },
+  {
+    "savol": "Qiyosiy daraja sifatini toping.",
+    "A": "more comfortable",
+    "B": "exciting",
+    "C": "much",
+    "D": "the most comfortable",
+    "javob": "A"
+  },
+  {
+    "savol": "Qiyosiy daraja siftani toping.",
+    "A": "more beautiful",
+    "B": "beautiful",
+    "C": "the most beautiful",
+    "D": "youngest",
+    "javob": "A"
+  },
+  {
+    "savol": "Qiyosiy daraja sifatini toping.",
+    "A": "more wonderful",
+    "B": "wonderful",
+    "C": "the most wonderful",
+    "D": "the wonderfulest",
+    "javob": "A"
+  },
+  {
+    "savol": "Qiyosiy daraja sifatini toping.",
+    "A": "more interesting",
+    "B": "interesting",
+    "C": "the most interesting",
+    "D": "most",
+    "javob": "A"
+  },
+  {
+    "savol": "Qiyosiy daraja sifatini toping.",
+    "A": "more stressful",
+    "B": "stress",
+    "C": "stressful",
+    "D": "the most stressful",
+    "javob": "A"
+  },
+  {
+    "savol": "Qiyosiy daraja sifatini toping.",
+    "A": "safer",
+    "B": "safe",
+    "C": "the safest",
+    "D": "the safe",
+    "javob": "A"
+  },
+  {
+    "savol": "Qiyosiy daraja sifatini toping.",
+    "A": "cleaner",
+    "B": "clean",
+    "C": "the cleanest",
+    "D": "the most clean",
+    "javob": "A"
+  },
+  {
+    "savol": "Qiyosiy daraja sifatini toping.",
+    "A": "slower",
+    "B": "slowest",
+    "C": "slow",
+    "D": "the most",
+    "javob": "A"
+  },
+  {
+    "savol": "Qiyosiy daraja sifatini toping.",
+    "A": "hotter",
+    "B": "hot",
+    "C": "the hottest",
+    "D": "much",
+    "javob": "A"
+  },
+  {
+    "savol": "Qiyosiy daraja sifatini toping.",
+    "A": "bigger",
+    "B": "biggest",
+    "C": "the most",
+    "D": "big",
+    "javob": "A"
+  },
+  {
+    "savol": "Qiyosiy daraja sifatini toping.",
+    "A": "nicer",
+    "B": "nice",
+    "C": "the nicest",
+    "D": "most",
+    "javob": "A"
+  },
+  {
+    "savol": "Qiyosiy daraja sifatini toping.",
+    "A": "smaller",
+    "B": "the smallest",
+    "C": "small",
+    "D": "most",
+    "javob": "A"
+  },
+  {
+    "savol": "Qiyosiy daraja sifatini toping.",
+    "A": "smarter",
+    "B": "smart",
+    "C": "the most interesting",
+    "D": "smartest",
+    "javob": "A"
+  },
+  {
+    "savol": "Qiyosiy daraja sifatini toping.",
+    "A": "more tired",
+    "B": "tired",
+    "C": "the most beautiful",
+    "D": "tiring",
+    "javob": "A"
+  },
+  {
+    "savol": "Qiyosiy daraja sifatini toping.",
+    "A": "larger",
+    "B": "hot",
+    "C": "large",
+    "D": "most large",
+    "javob": "A"
+  },
+  {
+    "savol": "Orttirma daraja sifatini toping.",
+    "A": "the highest",
+    "B": "small",
+    "C": "smart",
+    "D": "easy",
+    "javob": "A"
+  },
+  {
+    "savol": "Orttirma daraja sifatini toping.",
+    "A": "the best",
+    "B": "easy",
+    "C": "hot",
+    "D": "swimming",
+    "javob": "A"
+  },
+  {
+    "savol": "Orttirma daraja sifatini toping.",
+    "A": "the smartest",
+    "B": "kind",
+    "C": "king",
+    "D": "nice",
+    "javob": "A"
+  },
+  {
+    "savol": "Orttirma daraja sifatini toping.",
+    "A": "the largest",
+    "B": "large",
+    "C": "even",
+    "D": "can",
+    "javob": "A"
+  },
+  {
+    "savol": "Orttirma daraja sifatini toping.",
+    "A": "the fastest",
+    "B": "fast",
+    "C": "hotter",
+    "D": "hot",
+    "javob": "A"
+  },
+  {
+    "savol": "Orttirma daraja sifatini toping.",
+    "A": "the smallest",
+    "B": "hot",
+    "C": "kind",
+    "D": "swimming",
+    "javob": "A"
+  },
+  {
+    "savol": "Orttirma daraja sifatini toping.",
+    "A": "the biggest",
+    "B": "big",
+    "C": "clean",
+    "D": "cleaner",
+    "javob": "A"
+  },
+  {
+    "savol": "Orttirma daraja sifatini toping.",
+    "A": "the shortest",
+    "B": "short",
+    "C": "cleaning",
+    "D": "clean",
+    "javob": "A"
+  },
+  {
+    "savol": "Orttirma daraja sifatini toping.",
+    "A": "the cleanest",
+    "B": "hard",
+    "C": "hot",
+    "D": "king",
+    "javob": "A"
+  },
+  {
+    "savol": "Orttirma daraja sifatini toping.",
+    "A": "the hottest",
+    "B": "small",
+    "C": "skin",
+    "D": "sport",
+    "javob": "A"
+  },
+  {
+    "savol": "Orttirma daraja sifatini toping.",
+    "A": "the most exciting",
+    "B": "kind",
+    "C": "nice",
+    "D": "call",
+    "javob": "A"
+  },
+  {
+    "savol": "Orttirma daraja sifatini toping.",
+    "A": "the most important",
+    "B": "important",
+    "C": "must",
+    "D": "much",
+    "javob": "A"
+  },
+  {
+    "savol": "Orttirma daraja sifatini toping.",
+    "A": "the most interesting",
+    "B": "interesting",
+    "C": "more",
+    "D": "hot",
+    "javob": "A"
+  },
+  {
+    "savol": "Orttirma daraja sifatini toping.",
+    "A": "the most fantastic",
+    "B": "fantastic",
+    "C": "kind",
+    "D": "hot",
+    "javob": "A"
+  },
+  {
+    "savol": "Orttirma daraja sifatini toping.",
+    "A": "the most expensive",
+    "B": "swing",
+    "C": "expensive",
+    "D": "hard",
+    "javob": "A"
+  },
+  {
+    "savol": "Orttirma daraja sifatini toping.",
+    "A": "the saddest",
+    "B": "hard",
+    "C": "hate",
+    "D": "high",
+    "javob": "A"
+  },
+  {
+    "savol": "Orttirma daraja sifatini toping.",
+    "A": "the strongest",
+    "B": "strong",
+    "C": "swim",
+    "D": "small",
+    "javob": "A"
+  },
+  {
+    "savol": "Orttirma daraja sifatini toping.",
+    "A": "the most exhausting",
+    "B": "exit",
+    "C": "excite",
+    "D": "more",
+    "javob": "A"
+  },
+  {
+    "savol": "Orttirma daraja sifatini toping.",
+    "A": "the most polite",
+    "B": "politics",
+    "C": "small",
+    "D": "police",
+    "javob": "A"
+  },
+  {
+    "savol": "Orttirma daraja sifatini toping.",
+    "A": "the most pleasant",
+    "B": "white",
+    "C": "hard",
+    "D": "small",
+    "javob": "A"
+  },
+  {
+    "savol": "He _____ the flowers yesterday.",
+    "A": "planted",
+    "B": "is plant",
+    "C": "plant",
+    "D": "have plan",
+    "javob": "A"
+  },
+  {
+    "savol": "I _____ In Portugal last year.",
+    "A": "lived",
+    "B": "lives",
+    "C": "does",
+    "D": "can",
+    "javob": "A"
+  },
+  {
+    "savol": "She ____ as a teacher last month.",
+    "A": "worked",
+    "B": "have work",
+    "C": "work",
+    "D": "cloud",
+    "javob": "A"
+  },
+  {
+    "savol": "We ______to a new music yesterday.",
+    "A": "listened",
+    "B": "has listen",
+    "C": "listens",
+    "D": "does",
+    "javob": "A"
+  },
+  {
+    "savol": "It ______ yesterday.",
+    "A": "rained",
+    "B": "small",
+    "C": "hottest",
+    "D": "many",
+    "javob": "A"
+  },
+  {
+    "savol": "They _____ football with friends last week.",
+    "A": "played",
+    "B": "are",
+    "C": "am playing",
+    "D": "has",
+    "javob": "A"
+  },
+  {
+    "savol": "We _____ tennis every day in August.",
+    "A": "played",
+    "B": "am",
+    "C": "is",
+    "D": "can",
+    "javob": "A"
+  },
+  {
+    "savol": "We _____at my grandparents` house last summer.",
+    "A": "stayed",
+    "B": "can",
+    "C": "has",
+    "D": "is",
+    "javob": "A"
+  },
+  {
+    "savol": "I _______ how to play the guitar five months ago.",
+    "A": "learned",
+    "B": "can",
+    "C": "learns",
+    "D": "is",
+    "javob": "A"
+  },
+  {
+    "savol": "My brother _______ for us yesterday.",
+    "A": "waited",
+    "B": "am",
+    "C": "waiting",
+    "D": "can",
+    "javob": "A"
+  },
+  {
+    "savol": "Ritz ______ to his mom last month.",
+    "A": "talked",
+    "B": "talking",
+    "C": "am",
+    "D": "can",
+    "javob": "A"
+  },
+  {
+    "savol": "I ______ tennis when I was young.",
+    "A": "played",
+    "B": "are",
+    "C": "can",
+    "D": "still",
+    "javob": "A"
+  },
+  {
+    "savol": "They ______ those dishes.",
+    "A": "used",
+    "B": "be use",
+    "C": "cans",
+    "D": "has",
+    "javob": "A"
+  },
+  {
+    "savol": "I ______ abroad for ten years.",
+    "A": "lived",
+    "B": "enjoy",
+    "C": "be",
+    "D": "are live",
+    "javob": "A"
+  },
+  {
+    "savol": "They always ______ visiting their friends.",
+    "A": "enjoyed",
+    "B": "like",
+    "C": "enjoy",
+    "D": "is",
+    "javob": "A"
+  },
+  {
+    "savol": "The rain _______ an hour ago.",
+    "A": "stopped",
+    "B": "am",
+    "C": "stopping",
+    "D": "having",
+    "javob": "A"
+  },
+  {
+    "savol": "He _____ plov yesterday.",
+    "A": "cooked",
+    "B": "and",
+    "C": "are",
+    "D": "an",
+    "javob": "A"
+  },
+  {
+    "savol": "We ______ a museum last month.",
+    "A": "visited",
+    "B": "visit",
+    "C": "be visited",
+    "D": "am",
+    "javob": "A"
+  },
+  {
+    "savol": "I ______ TV very late last night.",
+    "A": "watched",
+    "B": "can",
+    "C": "watches",
+    "D": "still",
+    "javob": "A"
+  },
+  {
+    "savol": "I will _____ to the store.",
+    "A": "go",
+    "B": "went",
+    "C": "gone",
+    "D": "has",
+    "javob": "A"
+  },
+  {
+    "savol": "She ____ help you tomorrow.",
+    "A": "will",
+    "B": "cans",
+    "C": "gone",
+    "D": "went",
+    "javob": "A"
+  },
+  {
+    "savol": "I _____ call you soon",
+    "A": "will",
+    "B": "be",
+    "C": "traffic",
+    "D": "is",
+    "javob": "A"
+  },
+  {
+    "savol": "I will _____ you with your homework.",
+    "A": "help",
+    "B": "you",
+    "C": "me",
+    "D": "our",
+    "javob": "A"
+  },
+  {
+    "savol": "I _____ go to the party tomorrow.",
+    "A": "will",
+    "B": "be",
+    "C": "is",
+    "D": "her",
+    "javob": "A"
+  },
+  {
+    "savol": "I will _____ the test.",
+    "A": "do",
+    "B": "be do",
+    "C": "has",
+    "D": "done",
+    "javob": "A"
+  },
+  {
+    "savol": "We _____ have dinner at 6 pm.",
+    "A": "will",
+    "B": "is",
+    "C": "my",
+    "D": "am",
+    "javob": "A"
+  },
+  {
+    "savol": "He _____ finish the project On Sunday.",
+    "A": "will",
+    "B": "can be",
+    "C": "done",
+    "D": "am",
+    "javob": "A"
+  },
+  {
+    "savol": "We _____ meet at the park.",
+    "A": "will",
+    "B": "win",
+    "C": "want",
+    "D": "be done",
+    "javob": "A"
+  },
+  {
+    "savol": "They _____ arrive at noon.",
+    "A": "will",
+    "B": "warn",
+    "C": "be",
+    "D": "am",
+    "javob": "A"
+  },
+  {
+    "savol": "I ____ go to the cinema.",
+    "A": "will",
+    "B": "be can",
+    "C": "has",
+    "D": "my",
+    "javob": "A"
+  },
+  {
+    "savol": "I will ____ to the school.",
+    "A": "go",
+    "B": "going",
+    "C": "went",
+    "D": "is",
+    "javob": "A"
+  },
+  {
+    "savol": "We will _____ him later.",
+    "A": "meet",
+    "B": "be met",
+    "C": "was",
+    "D": "were",
+    "javob": "A"
+  },
+  {
+    "savol": "They will____ dinner later.",
+    "A": "cook",
+    "B": "cooked",
+    "C": "cooking",
+    "D": "was",
+    "javob": "A"
+  },
+  {
+    "savol": "I ____ write the letter tomorrow.",
+    "A": "will",
+    "B": "was",
+    "C": "won",
+    "D": "were",
+    "javob": "A"
+  },
+  {
+    "savol": "The baby will _____ all night.",
+    "A": "play",
+    "B": "be play",
+    "C": "has played",
+    "D": "playing",
+    "javob": "A"
+  },
+  {
+    "savol": "William will ____ the cake later.",
+    "A": "eat",
+    "B": "be ate",
+    "C": "has eaten",
+    "D": "be can",
+    "javob": "A"
+  },
+  {
+    "savol": "Penny will _____ tomorrow morning.",
+    "A": "run",
+    "B": "be run",
+    "C": "has run",
+    "D": "was run",
+    "javob": "A"
+  },
+  {
+    "savol": "She will ______ her dog for a walk.",
+    "A": "take",
+    "B": "took",
+    "C": "taken",
+    "D": "be taken",
+    "javob": "A"
+  },
+  {
+    "savol": "I will ____ my mom to cook.",
+    "A": "help",
+    "B": "helped",
+    "C": "be helped",
+    "D": "helping",
+    "javob": "A"
+  },
+  {
+    "savol": "Sam will _____ with us tomorrow.",
+    "A": "stay",
+    "B": "stayed",
+    "C": "be staying",
+    "D": "helps",
+    "javob": "A"
+  },
+  {
+    "savol": "You don`t look well. I think, you ____ go to the doctor.",
+    "A": "should",
+    "B": "like",
+    "C": "do",
+    "D": "Is",
+    "javob": "A"
+  },
+  {
+    "savol": "You are constantly sneezing. I think you ______ consult your doctor",
+    "A": "should",
+    "B": "cannot",
+    "C": "do not",
+    "D": "are not",
+    "javob": "A"
+  },
+  {
+    "savol": "You ________ read English books every day.",
+    "A": "should",
+    "B": "should not",
+    "C": "do not",
+    "D": "is",
+    "javob": "A"
+  },
+  {
+    "savol": "We … finished our homework",
+    "A": "have",
+    "B": "has",
+    "C": "did",
+    "D": "do",
+    "javob": "A"
+  }
+]

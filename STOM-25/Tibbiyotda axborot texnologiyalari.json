@@ -1,0 +1,1962 @@
+[
+  {
+    "savol": "“Bit” nimani bildiradi?",
+    "A": "Axborotning eng kichik birligi",
+    "B": "Kompyuterning tezligi",
+    "C": "Grafik format",
+    "D": "Internet tezligi o`lchovi",
+    "javob": "A"
+  },
+  {
+    "savol": "Word`da rasm joylashtirish uchun qaysi buyruq ishlatiladi?",
+    "A": "Вставка → Рисунки",
+    "B": "Главная → Шрифт",
+    "C": "Макет → Поля",
+    "D": "Разметка → Колонки",
+    "javob": "A"
+  },
+  {
+    "savol": "PowerPoint`da yangi slayd qo`shish buyrug`i qayerda?",
+    "A": "Главная → Создать слайд",
+    "B": "Вид → Масштаб",
+    "C": "Рецензирование → Примечания",
+    "D": "Переходы → Эффекты",
+    "javob": "A"
+  },
+  {
+    "savol": "Windows`da o`chirilgan fayllar qayerga tushadi?",
+    "A": "Корзина",
+    "B": "Документы",
+    "C": "Загрузки",
+    "D": "Рабочий стол",
+    "javob": "A"
+  },
+  {
+    "savol": "Excel`da formulalar qaysi belgidan boshlanadi?",
+    "A": "=",
+    "B": "$",
+    "C": "+",
+    "D": "@",
+    "javob": "A"
+  },
+  {
+    "savol": "Word`da jadval qo`shish menyusi qaysi?",
+    "A": "Вставка → Таблица",
+    "B": "Главная → Абзац",
+    "C": "Макет → Размеры",
+    "D": "Разметка → Поля",
+    "javob": "A"
+  },
+  {
+    "savol": "Windows`da fayl nomini o`zgartirish uchun qaysi tugma ishlatiladi?",
+    "A": "Fn + F2",
+    "B": "Fn + F5",
+    "C": "Fn + F7",
+    "D": "Fn + F10",
+    "javob": "A"
+  },
+  {
+    "savol": "Windows`da fayl nusxalash uchun qaysi buyruq ishlatiladi?",
+    "A": "Ctrl + C",
+    "B": "Ctrl + X",
+    "C": "Ctrl + F",
+    "D": "Ctrl + P",
+    "javob": "A"
+  },
+  {
+    "savol": "Fayl nima?",
+    "A": "Ma`lumotlar yig`indisi",
+    "B": "Kompyuter qurilmasi",
+    "C": "Tarmoq protokoli",
+    "D": "Internet sayti",
+    "javob": "A"
+  },
+  {
+    "savol": "Word dasturi qaysi turdagi dasturlarga kiradi?",
+    "A": "Matn protsessori",
+    "B": "Grafik muharrir",
+    "C": "Dasturlash muhiti",
+    "D": "Arxivator",
+    "javob": "A"
+  },
+  {
+    "savol": "Windows`da faylni o`chirish uchun ishlatiladigan tugma qaysi?",
+    "A": "Delete",
+    "B": "Backspace",
+    "C": "Ctrl + D",
+    "D": "Tab",
+    "javob": "A"
+  },
+  {
+    "savol": "Internetda ma`lumotlarni ko`rish uchun ishlatiladigan dastur nima?",
+    "A": "Veb-brauzer",
+    "B": "Messenjer",
+    "C": "Arxivator",
+    "D": "Emulyator",
+    "javob": "A"
+  },
+  {
+    "savol": "Kompyuter viruslaridan himoyalanish uchun nima kerak?",
+    "A": "Antivirus dasturi",
+    "B": "Defragmentatsiya",
+    "C": "Printer drayveri",
+    "D": "Kalkulyator",
+    "javob": "A"
+  },
+  {
+    "savol": "Excelda ma`lumotlarni saqlashning eng qulay ko`rinishi qaysi?",
+    "A": "Jadval",
+    "B": "Diagramma",
+    "C": "Matn fayli",
+    "D": "Rasm",
+    "javob": "A"
+  },
+  {
+    "savol": "Excelda o`rtacha qiymatni hisoblash uchun qaysi funksiya ishlatiladi?",
+    "A": "СРЗНАЧ",
+    "B": "СУММ",
+    "C": "МАКС",
+    "D": "МИН",
+    "javob": "A"
+  },
+  {
+    "savol": "Excelda qiymatlarning yig`indisini hisoblash uchun qaysi funksiya ishlatiladi?",
+    "A": "СУММ",
+    "B": "МАКС",
+    "C": "МИН",
+    "D": "СРЗНАЧ",
+    "javob": "A"
+  },
+  {
+    "savol": "Excelda eng katta qiymatni topish uchun qaysi funksiya ishlatiladi?",
+    "A": "МАКС",
+    "B": "МИН",
+    "C": "СРЗНАЧ",
+    "D": "СУММ",
+    "javob": "A"
+  },
+  {
+    "savol": "Excelda eng kichik qiymatni topish uchun qaysi funksiya ishlatiladi?",
+    "A": "МИН",
+    "B": "СРЗНАЧ",
+    "C": "СУММ",
+    "D": "МАКС",
+    "javob": "A"
+  },
+  {
+    "savol": "MS Excelda ildizdan chiqarish funksiyasi qaysi?",
+    "A": "КОРЕНЬ",
+    "B": "МАКС",
+    "C": "КОРЕЛЬ",
+    "D": "СУММ",
+    "javob": "A"
+  },
+  {
+    "savol": "Axborotni doimiy saqlovchi qurilmani tanlang:",
+    "A": "Qattiq disk",
+    "B": "Klaviatura",
+    "C": "Operativ xotira",
+    "D": "Monitor",
+    "javob": "A"
+  },
+  {
+    "savol": "Axborotni vizual tasvirlash uchun mo`ljallangan qurilma qaysi?",
+    "A": "Monitor",
+    "B": "Planshet",
+    "C": "Klaviatura",
+    "D": "Ko`rgazmali stend",
+    "javob": "A"
+  },
+  {
+    "savol": "Axborotning eng kichik o`lchov birligi qaysi?",
+    "A": "Bit",
+    "B": "Bayt",
+    "C": "KB",
+    "D": "MB",
+    "javob": "A"
+  },
+  {
+    "savol": "1 bayt nechta bitga teng?",
+    "A": "8",
+    "B": "2",
+    "C": "4",
+    "D": "16",
+    "javob": "A"
+  },
+  {
+    "savol": "Microsoft PowerPoint dasturida yangi taqdimot yaratilganda unga odatda qanday nom beriladi?",
+    "A": "Презентация",
+    "B": "Документ",
+    "C": "Книга",
+    "D": "База данных",
+    "javob": "A"
+  },
+  {
+    "savol": "Microsoft Excel dasturida hujjat yaratilganda unga odatda qanday nom beriladi?",
+    "A": "Книга",
+    "B": "База данных",
+    "C": "Презентация",
+    "D": "Документ",
+    "javob": "A"
+  },
+  {
+    "savol": "Microsoft Word dasturida yangi hujjat yaratilganda unga odatda qanday nom beriladi?",
+    "A": "Документ",
+    "B": "Книга",
+    "C": "База данных",
+    "D": "Презентация",
+    "javob": "A"
+  },
+  {
+    "savol": "Microsoft Word dasturida kursordan chapdagi belgilarni o`chirish uchun qaysi tugmadan foydalaniladi?",
+    "A": "Backspace",
+    "B": "Insert",
+    "C": "F8",
+    "D": "Delete",
+    "javob": "A"
+  },
+  {
+    "savol": "Microsoft Word dasturida matnni kesish uchun qaysi tugmalar kombinatsiyasi ishlatiladi?",
+    "A": "Ctrl + X",
+    "B": "Ctrl + C",
+    "C": "Ctrl + V",
+    "D": "Ctrl + Z",
+    "javob": "A"
+  },
+  {
+    "savol": "Microsoft Word dasturida matnni nusxalash uchun qaysi tugmalar kombinatsiyasi ishlatiladi?",
+    "A": "Ctrl + C",
+    "B": "Ctrl + V",
+    "C": "Ctrl + Z",
+    "D": "Ctrl + X",
+    "javob": "A"
+  },
+  {
+    "savol": "Microsoft Word dasturida matnni joylashtirish uchun qaysi tugmalar kombinatsiyasi ishlatiladi?",
+    "A": "Ctrl + V",
+    "B": "Ctrl + Z",
+    "C": "Ctrl + X",
+    "D": "Ctrl + C",
+    "javob": "A"
+  },
+  {
+    "savol": "MS Word dasturida matn hujjati qaysi kengaytma bilan saqlanadi?",
+    "A": ".docx",
+    "B": ".xlsx",
+    "C": ".pptx",
+    "D": ".txt",
+    "javob": "A"
+  },
+  {
+    "savol": "MS Excel dasturida hujjat qaysi kengaytma bilan saqlanadi?",
+    "A": ".xlsx",
+    "B": ".pptx",
+    "C": ".txt",
+    "D": ".docx",
+    "javob": "A"
+  },
+  {
+    "savol": "MS PowerPoint dasturida taqdimot qaysi kengaytma bilan saqlanadi?",
+    "A": ".pptx",
+    "B": ".txt",
+    "C": ".docx",
+    "D": ".xlsx",
+    "javob": "A"
+  },
+  {
+    "savol": "MS Word dasturida Ctrl + O tugmasi qanday vazifani bajaradi?",
+    "A": "Faylni ochadi",
+    "B": "Faylni saqlaydi",
+    "C": "Faylni chop etadi",
+    "D": "Fayldan nusxa ko`chiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "MS Word dasturida Ctrl + P tugmasi qanday vazifani bajaradi?",
+    "A": "Faylni chop etadi",
+    "B": "Fayldan nusxa ko`chiradi",
+    "C": "Faylni ochadi",
+    "D": "Faylni saqlaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "MS Word dasturida Ctrl + Z tugmasi qanday vazifani bajaradi?",
+    "A": "Amalni bekor qiladi",
+    "B": "Matnni qirqib oladi",
+    "C": "Matndan nusxa oladi",
+    "D": "Matnni qog`ozga chiqaradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Yacheyka manzili to`g`ri yozilgan javobni ko`rsating:",
+    "A": "D7",
+    "B": "9K",
+    "C": "Ж5",
+    "D": "Й8+л9",
+    "javob": "A"
+  },
+  {
+    "savol": "Yacheykada ### belgi nimani bildiradi? (MS Excel)",
+    "A": "Raqamning yacheykaga sig`maganligini",
+    "B": "Formulani",
+    "C": "Matnni",
+    "D": "Sonlar ketma-ketligini",
+    "javob": "A"
+  },
+  {
+    "savol": "1 Kbayt bu:",
+    "A": "1024 bayt",
+    "B": "1000 bit",
+    "C": "1000 bayt",
+    "D": "1024 bit",
+    "javob": "A"
+  },
+  {
+    "savol": "2 bayt necha bitga teng?",
+    "A": "16",
+    "B": "8",
+    "C": "12",
+    "D": "24",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri operatsion tizim?",
+    "A": "Windows",
+    "B": "MS Word",
+    "C": "Google Chrome",
+    "D": "Adobe Photoshop",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri operatsion tizim?",
+    "A": "Android",
+    "B": "Microsoft",
+    "C": "MS Word",
+    "D": "Google Chrome",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri dastur?",
+    "A": "MS Word",
+    "B": "Google Chrome",
+    "C": "MacOS",
+    "D": "Microsoft",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri veb-brauzer?",
+    "A": "Google Chrome",
+    "B": "Adobe Photoshop",
+    "C": "Microsoft",
+    "D": "MS Word",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri chiqarish qurilmasi?",
+    "A": "printer",
+    "B": "klaviatura",
+    "C": "sichqoncha",
+    "D": "skaner",
+    "javob": "A"
+  },
+  {
+    "savol": "Chop etish qurilmasining turlari nеcha xil bo`ladi.",
+    "A": "matritsali, purkagichli, lazеrli",
+    "B": "purkagichli, lazеrli",
+    "C": "rangli, oq-qora",
+    "D": "purkagichli, ignali",
+    "javob": "A"
+  },
+  {
+    "savol": "Ekran tasvirini olish uchun klaviaturaning qaysi klavisha ishlatiladi?",
+    "A": "Print Screen klavishasi",
+    "B": "Scroll Lock klavishasi",
+    "C": "F1 klavishasi",
+    "D": "Power klavishasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Elektron hukumat xizmatlarini ko`satuvchi portal qaysi",
+    "A": "my.gov.uz",
+    "B": "Google chrome",
+    "C": "www.uz",
+    "D": "kun.uz",
+    "javob": "A"
+  },
+  {
+    "savol": "Elektron jadvalda A1:B3 yacheykalar diapazoni ajratilgan. Ajratilgan yacheykalar soni nechta?",
+    "A": "6",
+    "B": "7",
+    "C": "8",
+    "D": "9",
+    "javob": "A"
+  },
+  {
+    "savol": "Elektron pochta manzili to`g`ri keltirilgan javobni ko`rsating",
+    "A": "admin@mail.ru",
+    "B": "admin @mail@.uz",
+    "C": "@ admin mail.ru",
+    "D": "mail.ru.@ admin",
+    "javob": "A"
+  },
+  {
+    "savol": "Excel dasturi nima uchun mo`ljallangan?",
+    "A": "jadvalli ma`lumotlarni qayta ishlaydigan dastur",
+    "B": "matnli ma`lumotlarni qayta ishlaydigan dastur",
+    "C": "prezentatsiya bilan ishlaydigan dastur",
+    "D": "multimedia fayllar ustida ishlaydigan dastur",
+    "javob": "A"
+  },
+  {
+    "savol": "Excel ish kitobida kamida nechta varoq (list) bo`lishi mumkin",
+    "A": "1 ta",
+    "B": "2 ta",
+    "C": "3 ta",
+    "D": "5 ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Excel: Yachеyka nomi xosil bo`ladi:",
+    "A": "ustun va qator nomidan",
+    "B": "qator nomidan",
+    "C": "ustun nomidan",
+    "D": "ixtiyoriy",
+    "javob": "A"
+  },
+  {
+    "savol": "Foydalanuvchiga buyruqlar va belgilarni kiritish imkonini beradigan qurilma?",
+    "A": "Klaviatura",
+    "B": "Monitor",
+    "C": "Protsessor",
+    "D": "Ekran",
+    "javob": "A"
+  },
+  {
+    "savol": "Informatika -so`zda nеchta bit mavjud",
+    "A": "88",
+    "B": "87",
+    "C": "89",
+    "D": "90",
+    "javob": "A"
+  },
+  {
+    "savol": "Internet qaysi tarmoq turiga kiradi?",
+    "A": "global",
+    "B": "lokal",
+    "C": "mintaqaviy",
+    "D": "regional",
+    "javob": "A"
+  },
+  {
+    "savol": "Kiritish qurilmasi keltirilgan javobni ko`rsating?",
+    "A": "klaviatura",
+    "B": "monitor",
+    "C": "printer",
+    "D": "proyektor",
+    "javob": "A"
+  },
+  {
+    "savol": "Klaviatura Delete tugmasi vazifasi",
+    "A": "kursor turgan joydan o`ngdagi simvollarni uchirish",
+    "B": "kursor turgan joydan chapdagi simvollarni uchirish",
+    "C": "kursorni turgan joyidan bir pozitsiya chapga o`tkazish",
+    "D": "kursorni turgan joyidan bir pozitsiya o`ngga o`tkazish",
+    "javob": "A"
+  },
+  {
+    "savol": "Kompyuter asosida qaysi sanoq tizimi yotadi?",
+    "A": "ikkilik",
+    "B": "o`nlik",
+    "C": "sakkizlik",
+    "D": "o`n oltilik",
+    "javob": "A"
+  },
+  {
+    "savol": "Kompyuter grafikasi qanday turlarga bo`linadi?",
+    "A": "rastrli, vektorli va fraktal grafika",
+    "B": "vektorli, kriptografik va fraktal grafika",
+    "C": "vektorli va rastrli grafika",
+    "D": "fraktal va rastrli grafika",
+    "javob": "A"
+  },
+  {
+    "savol": "Kompyuter kiritish qurilmasini aniqlang?",
+    "A": "skaner",
+    "B": "strimеr",
+    "C": "faksmodеm",
+    "D": "diskеta",
+    "javob": "A"
+  },
+  {
+    "savol": "Kompyuter klaviaturasi – bu …",
+    "A": "alfavit-raqamli ma`lumotlarni kiritish qurilmasi;",
+    "B": "alfavit-raqamli ma`lumotlarni chiqarish qurilmasi;",
+    "C": "alfavit-raqamli ma`lumotlarni chop etish qurilmasi;",
+    "D": "alfavit-raqamli ma`lumotlarni saralash qurilmasi;",
+    "javob": "A"
+  },
+  {
+    "savol": "Kompyuter monitori – bu …",
+    "A": "alfavit-raqamli va grafik ma`lumotlarni chiqarish qurilmasi;",
+    "B": "alfavit-raqamli ma`lumotlarni kiritish qurilmasi;",
+    "C": "Kiritish qurilmasi",
+    "D": "alfavit-raqamli ma`lumotlarni chop etish qurilmasi;",
+    "javob": "A"
+  },
+  {
+    "savol": "Matn klaviatura qaysi klavishsini bosish orqali doimiy katta harflarda terish rejimiga o`tiladi?",
+    "A": "Caps Lock",
+    "B": "Delete",
+    "C": "Alt",
+    "D": "Ctrl",
+    "javob": "A"
+  },
+  {
+    "savol": "Microsoft Excel dasturi bu -",
+    "A": "elektron jadval muharriri",
+    "B": "matn muxariri",
+    "C": "prezentatsiya yaratish dasturi",
+    "D": "WEB sayt yaratish dasturi",
+    "javob": "A"
+  },
+  {
+    "savol": "Microsoft Excel dasturi jadvalida formulalarni yozish qaysi belgidan boshlanadi?",
+    "A": "=",
+    "B": "_",
+    "C": "*",
+    "D": "-",
+    "javob": "A"
+  },
+  {
+    "savol": "Microsoft Excel dasturi qanday fayl kеngaytmalarini ochish imkoniyatiga ega?",
+    "A": ".xlsx, .xls kеngaytmalarga ega fayllarni",
+    "B": ".bmp, .rar kеngaytmalarga ega fayllarni",
+    "C": ".doc, .docx kеngaytmalarga ega fayllarni",
+    "D": ".ppt, .pptx kеngaytmalarga ega fayllarni",
+    "javob": "A"
+  },
+  {
+    "savol": "Microsoft Excel dasturi qanday ishga tushiriladi?",
+    "A": "\"Пуск\" - \"Программы\" - \"Microsoft Excel\";",
+    "B": "\"Пуск\" - \"Adobe \" - \"Microsoft Excel\";",
+    "C": "\"Пуск\" - \"Finy Reader\" - \"Microsoft Excel\";",
+    "D": "\"Пуск\" -\"Eset Antivirus\" - \"Microsoft Excel\";",
+    "javob": "A"
+  },
+  {
+    "savol": "Microsoft Excel dasturida diagramma qo`yish uchun qanday amallar bajariladi.",
+    "A": "Вставка -Диаграмма",
+    "B": "Вид - Диаграмма",
+    "C": "Меню - Гистограмма",
+    "D": "Меню - Рассылка - Диаграмма",
+    "javob": "A"
+  },
+  {
+    "savol": "Microsoft Excel dasturida hujjatni yopish uchun qanday amal bajariladi?",
+    "A": "«Файл -Закрыть» menyu amalini bajarish",
+    "B": "«Файл -Открыть» menyu amalini bajarish",
+    "C": "«Файл Переименовать» menyu amalini bajarish",
+    "D": "«Файл - Развернуть» menyu amalini bajarish",
+    "javob": "A"
+  },
+  {
+    "savol": "Microsoft Excel dasturida ish kitobini ochish mumkin bo`lgan to`g`ri variantni ko`rsating:",
+    "A": "«Файл -Открыть»",
+    "B": "«Файл -Сохранить»",
+    "C": "\"Файл -Закрыть\"",
+    "D": "\"Файл -Печать\"",
+    "javob": "A"
+  },
+  {
+    "savol": "Microsoft Excel dasturida quyida keltirilgan ma`lumotlar turining qaysi birini yacheyka ichda joylashtirish mumkin emas?",
+    "A": "grafik",
+    "B": "matn",
+    "C": "formula",
+    "D": "sonlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Microsoft Excel dasturida ustunlar qanday nomlangan?",
+    "A": "faqat lotin xarflari bilan",
+    "B": "faqat kirill xarflari bilan",
+    "C": "faqat grek xarflari bilan",
+    "D": "faqat ispan xarflari bilan",
+    "javob": "A"
+  },
+  {
+    "savol": "Microsoft Excel dasturida yaratiladigan hujjatlar qanday nomlanadi?",
+    "A": "“Книга”",
+    "B": "\"Документ1\"",
+    "C": "\"Презентация\"",
+    "D": "\"Лист\"",
+    "javob": "A"
+  },
+  {
+    "savol": "Microsoft Excel dasturida yangi hujjat yaratish tartibi to`g`ri ko`rsatilgan variantni tanlang:",
+    "A": "\"Файл - Создать\"",
+    "B": "\"Файл - Закрыть\"",
+    "C": "\"Файл - Переименовать\"",
+    "D": "\"Файл - Печать\"",
+    "javob": "A"
+  },
+  {
+    "savol": "Microsoft Excel dasturida yaratilgan ish kitobini saqlash mumkin bo`lgan to`g`ri variantni ko`rsating:",
+    "A": "«Файл - Сохранить»",
+    "B": "\"Файл - Создать\"",
+    "C": "\"Файл - Печать\"",
+    "D": "\"Файл - Закрыть\"",
+    "javob": "A"
+  },
+  {
+    "savol": "Microsoft Excel dasturiy muhitida ma`lumotdan nusxa ko`chirish uchun qaysi tugmalarni birgalikda bosish kerak?",
+    "A": "CTRL+C",
+    "B": "CTRL+V",
+    "C": "CTRL+R",
+    "D": "CTRL+P",
+    "javob": "A"
+  },
+  {
+    "savol": "Microsoft Excel dasturiy muhitida nusxa olingan ma`lumotni qo`yish uchun qaysi tugmalarni birgalikda bosish kerak?",
+    "A": "CTRL+V",
+    "B": "CTRL+C",
+    "C": "CTRL+X",
+    "D": "CTRL+R",
+    "javob": "A"
+  },
+  {
+    "savol": "Microsoft Excel dasturiy muhitida yangi fayl yaratish uchun qaysi tugmalarni birgalikda bosish kerak?",
+    "A": "CTRL+N",
+    "B": "CTRL+F12",
+    "C": "SHIFT+N",
+    "D": "SHIFT+F12",
+    "javob": "A"
+  },
+  {
+    "savol": "Microsoft Excel elektron jadvalida A1:D3 yacheykalar guruhi tanlangan. Bu diapazonga nechta yacheyka kiradi?",
+    "A": "12",
+    "B": "5",
+    "C": "4",
+    "D": "3",
+    "javob": "A"
+  },
+  {
+    "savol": "Microsoft Excelda har bir yacheyka nimaga ega",
+    "A": "manzilga",
+    "B": "hajmga",
+    "C": "ovozga",
+    "D": "tasvirga",
+    "javob": "A"
+  },
+  {
+    "savol": "Microsoft Excelda tanlangan yacheykasiga o`tish uchun manzil qanday ko`rsatiladi",
+    "A": "Ustun nomi va satr nomeri orqali",
+    "B": "Satr nom iva formulalar orqali",
+    "C": "Ustun nom iva xarflari",
+    "D": "Buyruq erdamida",
+    "javob": "A"
+  },
+  {
+    "savol": "Microsoft PowerPoint dasturida yangi hujjat yaratilganda, odatda dastur tomonidan unga qanday nom beriladi?",
+    "A": "“Презентация 1”",
+    "B": "\"Документ1\"",
+    "C": "\"Книга 1\"",
+    "D": "\"База данных1\"",
+    "javob": "A"
+  },
+  {
+    "savol": "Microsoft Word dasturi yordamida yaratiladigan hujjatlar qanday nomlanadi?",
+    "A": "“Документ”",
+    "B": "“Презентация”",
+    "C": "“Книга”",
+    "D": "“Лист”",
+    "javob": "A"
+  },
+  {
+    "savol": "Microsoft Word dasturida klaviaturaning strelkali tugmalari yordamida matnlarni belgilash uchun qo`shimcha ravishda qaysi tugmadan foydalaniladi?",
+    "A": "Shift",
+    "B": "Ctrl",
+    "C": "Tab",
+    "D": "Alt",
+    "javob": "A"
+  },
+  {
+    "savol": "Microsoft Word dasturida kursordan chapdagi bеlgilarni o`chirish uchun qaysi tugmadan foydalaniladi ?",
+    "A": "Backspace",
+    "B": "Insert",
+    "C": "F8",
+    "D": "Delete",
+    "javob": "A"
+  },
+  {
+    "savol": "Microsoft Word dasturida kursordan o`ngdagi belgilarni o`chirish uchun qaysi tugmadan foydalaniladi?",
+    "A": "Delete",
+    "B": "Insert",
+    "C": "Backspace",
+    "D": "F8",
+    "javob": "A"
+  },
+  {
+    "savol": "Microsoft Word dasturiga yuklangan joriy hujjatda «Ctrl+Home» tugmalar birikmasi bosilsa nima sodir bo`ladi?",
+    "A": "hujjatning boshiga o`tish",
+    "B": "hujjatning oxiriga o`tish",
+    "C": "hujjatning keyingi saxifasiga o`tish",
+    "D": "hujjatning oldingi saxifasiga o`tish",
+    "javob": "A"
+  },
+  {
+    "savol": "Microsoft Word dasturiga yuklangan joriy xujjatda «Ctrl+End» tugmalar birikmasi bosilsa nima sodir bo`ladi?",
+    "A": "hujjatning oxiriga o`tish",
+    "B": "hujjatning boshiga o`tish",
+    "C": "hujjat saxifasining o`rtasiga o`tish",
+    "D": "hujjat saxifasining boshiga o`tish",
+    "javob": "A"
+  },
+  {
+    "savol": "Modеm nima?",
+    "A": "Analogli signallarni diskrеt signallarga o`tkazib bеruvchi va aksincha amal bajaruvchi tеxnik qurilma",
+    "B": "Elektromagnit to`lqinlarni o`zgartirishga mo`ljallangan tеxnik qurilma",
+    "C": "Tarmoq protokoli",
+    "D": "Intеrnеt sеrvеri",
+    "javob": "A"
+  },
+  {
+    "savol": "MS Excel: Funktsiya СУММ(A1:A11) nimani anglatadi –",
+    "A": "A1 dan A11 yacheykalardagi qiymatlarni qo`shadi(yig`indisi)",
+    "B": "A1 dan A11 yacheykalardagi qiymatlarni ko`paytiradi",
+    "C": "A1 yacheykadagi qiymatni A11 ga bo`ladi",
+    "D": "A1 yacheykadagi qiymatni A11 yacheykadagiga qo`shadi",
+    "javob": "A"
+  },
+  {
+    "savol": "MS Word dasturida yangi hujjat yaratish tartibi to`g`ri keltirilgan javoblarni ko`rsating.",
+    "A": "Файл - Создать (CTRL+N).",
+    "B": "Меню Файл – Сохранить.",
+    "C": "Файл – Сохранить как...",
+    "D": "Меню Файл – Открыть.",
+    "javob": "A"
+  },
+  {
+    "savol": "Noto`g`ri yozilgan formulani ko`rsating:",
+    "A": "=A1+4B",
+    "B": "=A1+B4",
+    "C": "=A1+B4-А2",
+    "D": "=(A1+B4)/5",
+    "javob": "A"
+  },
+  {
+    "savol": "O`chirilgan fayllar vaqtinchalik qaysi papkada saqlanadi",
+    "A": "Корзина",
+    "B": "Мой компьютер",
+    "C": "Мои документы",
+    "D": "Сетевое окружение",
+    "javob": "A"
+  },
+  {
+    "savol": "Power Point da ALT+F4 tugmalari bosilsa nima sodir bo`ladi?",
+    "A": "Dasturdan chiqish",
+    "B": "Oldingi oynaga o`tish",
+    "C": "Kеyingi oynaga o`tish",
+    "D": "Fayldagi o`zgarishni saqlash",
+    "javob": "A"
+  },
+  {
+    "savol": "Microsoft Excel da Ctrl +S tugmalari bosilsa nima sodir bo`ladi?",
+    "A": "faylni saqlash",
+    "B": "faylni chop etish",
+    "C": "faylni ochish",
+    "D": "fayldan nusxa kuchirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Power Point da Ctrl+S tugmalari bosilsa nima sodir bo`ladi?",
+    "A": "Faylni saqlash",
+    "B": "Yangi hujjat yaratish",
+    "C": "Faylni ochish",
+    "D": "Faylni bosmaga chiqarish",
+    "javob": "A"
+  },
+  {
+    "savol": "Power Point da faylni xotiraga yozib qo`yish qanday amalga oshiriladi?",
+    "A": "Файл, Сохранить (Save), [fayl nomi], Oк.",
+    "B": "Файл, Печать (Print), [fayl nomi], Oк.",
+    "C": "Файл, Exit, [fayl nomi], Oк.",
+    "D": "Файл, Open [fayl nomi], Oк.",
+    "javob": "A"
+  },
+  {
+    "savol": "Power Point dasturida Ctrl + M tugmalar juftligi qanday vazifani bajaradi?",
+    "A": "yangi slayd yaratish",
+    "B": "yangi word fayl yaratish",
+    "C": "yangi txt fayl yaratish",
+    "D": "yangi png fayl yaratish",
+    "javob": "A"
+  },
+  {
+    "savol": "Power Point dasturida slaydlarni prezentasiya ko`rinishida ko`rsatish qaysi tugmacha yordamida amalga oshiriladi.",
+    "A": "F5",
+    "B": "F6",
+    "C": "F8",
+    "D": "F7",
+    "javob": "A"
+  },
+  {
+    "savol": "Power Point dasturining asosiy vazifasi nimalardan iborat ?",
+    "A": "Prеzеntatsiya (taqdimot) yaratish",
+    "B": "Rasmlar ustida amallar bajarish",
+    "C": "Ma`lumotlar bazalari ustida amallar bajarish",
+    "D": "Shakllar ustida amallar bajarish",
+    "javob": "A"
+  },
+  {
+    "savol": "Power Point yordamida mavjud faylni ochish qanday amalga oshiriladi?",
+    "A": "Файл (File), Открыть (Open), [fayl nomi], Oк",
+    "B": "Файл (File), Save (Open), [файл номи], Oк.",
+    "C": "Файл, Print, [файл номи], Oк.",
+    "D": "Файл, Exit, [fayl nomi], Oк.",
+    "javob": "A"
+  },
+  {
+    "savol": "PowerPoint da Ctrl+N nima vazifa bajaradi",
+    "A": "Yangi taqdimot faylini yaratadi",
+    "B": "Taqdimot faylini arxivdan ochadi",
+    "C": "Mavjud taqdimot ochadi",
+    "D": "Taqdimotni namoyish etadi",
+    "javob": "A"
+  },
+  {
+    "savol": "PowerPoint da slaydlarga animatsiya qo`shish uchun menyuning qaysi bo`limi ishlatiladi",
+    "A": "Animatsiya",
+    "B": "Dizayn",
+    "C": "Stavka",
+    "D": "Glavnaya",
+    "javob": "A"
+  },
+  {
+    "savol": "PowerPoint dasturida diagramma qo`yish qaysi bo`lim orqali amalga oshiriladi",
+    "A": "Vstavka diagramma",
+    "B": "Fayl diagramma",
+    "C": "Vid diagramma",
+    "D": "Fayl figuri",
+    "javob": "A"
+  },
+  {
+    "savol": "Printerning vazifasi?",
+    "A": "Kompyuterdagi malumotlarni qog`ozga chop etish qurilmasi",
+    "B": "Kompyuterdagi malumotlarni monitorga chiqaruvchi qurilma",
+    "C": "Kompyuterdagi malumotlarni diskka o`tkazuvchi qurilma",
+    "D": "Skanerdan monitorga o`tkazuvchi qurilma",
+    "javob": "A"
+  },
+  {
+    "savol": "Proyektor qurilmasining vazifasi nima?",
+    "A": "Kompyuter ekranidagi malumotlarni katta ekranlarga chiqarish",
+    "B": "Kichik xajmli tasvirlarni yoki rasmga olishga muljallangan",
+    "C": "Kompyuterda tovushlarni, musiqalarni eshitish",
+    "D": "Katta xajmli tasvirlarni yoki rasmga olishga muljallangan",
+    "javob": "A"
+  },
+  {
+    "savol": "Qattiq disk bu?",
+    "A": "kompyuterning bosh xotirasi",
+    "B": "kompyuterning monitori",
+    "C": "kompyuter sichqonchasi",
+    "D": "kog`ozga chiqaradigan qurilma",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi multimediali texnologiya tasvirni harakatlanganligini ketma- ket xosil qiladi.",
+    "A": "animatsiya",
+    "B": "video ilova",
+    "C": "audio ilova",
+    "D": "chat",
+    "javob": "A"
+  },
+  {
+    "savol": "Skaner – bu …",
+    "A": "grafik ma`lumotlarni kiritish qurilmasi;",
+    "B": "malumotlarni kogozga chikarish kurilmasi",
+    "C": "videotasvirlarni kayta ishlash kurilmasi",
+    "D": "ma`lumotlarni o`chiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Skanerning vazifasi nima?",
+    "A": "Qog`ozdagi malumotlarni kompyuter xotirasiga o`tkazish",
+    "B": "Kompyuterdagi malumotlarni kog`ozga chop etish",
+    "C": "Internet tarmog`iga ulanish",
+    "D": "Telefon signallarini kompyuterga etkazish",
+    "javob": "A"
+  },
+  {
+    "savol": "Taqdimotlar yaratishga mo`ljallangan dastur bu?",
+    "A": "Microsoft PowerPoint",
+    "B": "Microsoft Word",
+    "C": "Microsoft Excel",
+    "D": "Paint",
+    "javob": "A"
+  },
+  {
+    "savol": "Windows operatsion tizimining bosh menyusiga qaysi tugma (knopka) orqali murojat qilinadi.",
+    "A": "Пуск",
+    "B": "SHIFT",
+    "C": "CTRL",
+    "D": "TAB",
+    "javob": "A"
+  },
+  {
+    "savol": "Word asosiy obеkti (hujjati) qanday kеngaytmali faylda saqlanadi ?",
+    "A": ".DOC",
+    "B": ".BMP",
+    "C": ".XLS",
+    "D": ".PPT",
+    "javob": "A"
+  },
+  {
+    "savol": "Word da Ctrl+O tugmasi qanday vazifani bajaradi?",
+    "A": "faylni ochadi",
+    "B": "fayl saqlanadi",
+    "C": "faylni chop etish",
+    "D": "fayldan nusxa ko`chirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Word da Ctrl+P tugmasi qanday vazifani bajaradi?",
+    "A": "faylni chop etish uchun bosmaga chiqarish buyrug`ini beradi",
+    "B": "faylni ochadi",
+    "C": "fayl saqlanadi",
+    "D": "fayldan nusxa ko`chirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Word da Ctrl+Z tugmasi qanday vazifani bajaradi?",
+    "A": "bajarilgan oxirgi amalni bekor qiladi",
+    "B": "belgilangan jadval ranglanadi",
+    "C": "belgilangan jadval qo`yiladi",
+    "D": "belgilangan matn qirqib olinadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Word da hujjatning to`la matnini belgilash uchun qaysi tugmalar bosiladi?",
+    "A": "Ctrl+A",
+    "B": "Ctrl+O",
+    "C": "Ctrl+H",
+    "D": "Ctrl+L",
+    "javob": "A"
+  },
+  {
+    "savol": "Word da qaysi tugmalar bosilsa matnning nusxasi olingan bo`lagi zarur joyga qo`yiladi?",
+    "A": "Ctrl + V",
+    "B": "Ctrl + Insert",
+    "C": "Shift + CTRL",
+    "D": "Alt + Insert",
+    "javob": "A"
+  },
+  {
+    "savol": "Word dasturi nima uchun mo`ljallangan?",
+    "A": "matnli ma`lumotlarni qayta ishlaydigan dastur",
+    "B": "sonlar ustida ishlaydigan dastur",
+    "C": "multimedia fayllar ustida ishlaydigan dastur",
+    "D": "prezentatsiya bilan ishlaydigan dastur",
+    "javob": "A"
+  },
+  {
+    "savol": "Word matn muxarriri qaysi firma tomonidan ishlab chiqilgan?",
+    "A": "Microsoft",
+    "B": "Apple",
+    "C": "SkyNet",
+    "D": "WWW",
+    "javob": "A"
+  },
+  {
+    "savol": "Word matn muxarriri yordamida mavjud faylni ochish qanday amalga oshiriladi?",
+    "A": "File, Open, [fayl nomi], Ok.",
+    "B": "Fayl, Save, [fayl nomi], Ok.",
+    "C": "Fayl, Print, [fayl nomi], Ok.",
+    "D": "Fayl, Exit, [fayl nomi], Ok.",
+    "javob": "A"
+  },
+  {
+    "savol": "Word matn muxarririda WordArt ob`ekt dasturi nima vazifani bajaradi?",
+    "A": "matnlarni har xil ko`rinishda ifodalaydi",
+    "B": "matnlarni qog`ozda chop etadi",
+    "C": "jadval bilan ishlaydi",
+    "D": "ustun qo`shadi",
+    "javob": "A"
+  },
+  {
+    "savol": "WWW nima?",
+    "A": "internet xizmatining bir turi",
+    "B": "qo`shimcha qurilma",
+    "C": "asosiy qurilma",
+    "D": "operatsion tizim",
+    "javob": "A"
+  },
+  {
+    "savol": "Yacheyka manzili to`g`ri yozilganini toping",
+    "A": "F12",
+    "B": "12FC",
+    "C": "A2C",
+    "D": "Ж2",
+    "javob": "A"
+  },
+  {
+    "savol": "Yacheyka manzili to`g`ri yozilgan javobni ko`rsating:",
+    "A": "ABC700",
+    "B": "A7C5",
+    "C": "252ABC",
+    "D": "BЫ53",
+    "javob": "A"
+  },
+  {
+    "savol": "\"Kорзина\" yorlig`ining vazifasi nima?",
+    "A": "o`chirilgan fayllarni vaqtincha saqlash",
+    "B": "hujjatlarni taxrirlash",
+    "C": "sonlar bilan ishlash",
+    "D": "video dasturlar bilan ishalsh",
+    "javob": "A"
+  },
+  {
+    "savol": "*.jpg kеngaytmali fayl qanday axborotni saqlaydi?",
+    "A": "grafik",
+    "B": "faqat matnli",
+    "C": "jadvallarni",
+    "D": "sonli axborotlarni",
+    "javob": "A"
+  },
+  {
+    "savol": "= a1 * 25% ma`nosi nima ?",
+    "A": "a1 xonaning 25% hisoblash",
+    "B": "a1 xonaga 25% qo`shish",
+    "C": "a1 xonadan 25% ayirish",
+    "D": "a1 xonaga 25 qo`shib 1% hisoblash",
+    "javob": "A"
+  },
+  {
+    "savol": ".jpg kengaytmali fayl qanday axborotni saqlaydi?",
+    "A": "rasmlarni",
+    "B": "matnni",
+    "C": "videoni",
+    "D": "musiqani",
+    "javob": "A"
+  },
+  {
+    "savol": "“=” tenglik belgisi Excel da nima vazifani bildiradi?",
+    "A": "Hamma vaqt formulaning dastlabki simvoli hisoblanadi",
+    "B": "Arifmetik belgi hisoblanadi.",
+    "C": "Matin kiritish",
+    "D": "Berilgan ifodalarni bir biridan ajratib turadi.",
+    "javob": "A"
+  },
+  {
+    "savol": "«.xlsx» kengaytmaga ega bo`lgan faylni sichqonchaning chap tugmasi bilan ikki marta bosilsa nima sodir bo`ladi?",
+    "A": "Microsoft Excel dasturi ishga tushiriladi va unga tanlangan hujjat yuklanadi",
+    "B": "Microsoft PowerPoint dasturi ishga tushiriladi va unga tanlangan hujjat yuklanadi",
+    "C": "Microsoft Word dasturi ishga tushiriladi va unga tanlangan hujjat yuklanadi",
+    "D": "Microsoft Outlook Express dasturi ishga tushiriladi va unga tanlangan hujjat yuklanadi",
+    "javob": "A"
+  },
+  {
+    "savol": "A1=0, A2=15. A1:A2 yacheyka bo`yicha jami hisob natijasini (yig`indi) ko`rsating.",
+    "A": "15",
+    "B": "16",
+    "C": "17",
+    "D": "18",
+    "javob": "A"
+  },
+  {
+    "savol": "A1=1, A2=2, A3=3. A1:A3 yacheyka bo`yicha jami hisob natijasini (yig`indi) ko`rsating.",
+    "A": "6",
+    "B": "4",
+    "C": "5",
+    "D": "8",
+    "javob": "A"
+  },
+  {
+    "savol": "Animatsiya nima?",
+    "A": "ekranda ob`ektlarning ko`rinishini formasi va o`lchamlari, hamda joylashishini multiplikatsion ko`rinishda o`zgarishi.",
+    "B": "axborotni bir ko`rinishdan ikkinchi,sifat jihatdan mutloq yangi ko`rinishga keltiruvchi, ma`lumotlarni to`plash, qaytaishlash va uzatishning vosita va usullari majmuasidan foydalanish jarayonidir.",
+    "C": "matnli ma`lumotlarni qayta ishlaydigan dastur.",
+    "D": "jadvalli ma`lumotlarni qayta ishlaydigan dastur.",
+    "javob": "A"
+  },
+  {
+    "savol": "Kompyuterning asosiy qurilmalari qaysi javobda keltirilgan?",
+    "A": "Sistemali blok, monitor, sichqoncha, klaviatura",
+    "B": "Monitor, sichqoncha, printer",
+    "C": "Klaviatura, disk, modem",
+    "D": "Protsessor, printer, scanner",
+    "javob": "A"
+  },
+  {
+    "savol": "Qattiq disk vazifasi nima?",
+    "A": "Ma`lumotlarni doimiy saqlash",
+    "B": "Faqat video fayllarni saqlash",
+    "C": "Dasturlarni yuklash",
+    "D": "Axborotni klaviaturadan qabul qilish",
+    "javob": "A"
+  },
+  {
+    "savol": "Klaviatura nima uchun ishlatiladi?",
+    "A": "Ma`lumotlarni va boshqaruv buyruqlarini kiritish",
+    "B": "Ma`lumotlarni printerga yuborish",
+    "C": "Ekrandagi tasvirlarni boshqarish",
+    "D": "Axborotni tarmoqqa uzatish",
+    "javob": "A"
+  },
+  {
+    "savol": "Skaner qanday qurilma?",
+    "A": "Kompyuterga matnli yoki tasvirli ma`lumotni kirituvchi qurilma",
+    "B": "Diskdan ma`lumotni o`qish qurilmasi",
+    "C": "Axborotni printerga yuboruvchi qurilma",
+    "D": "Kompyuter tarmog`iga ulanish uchun qurilma",
+    "javob": "A"
+  },
+  {
+    "savol": "=СЦЕПИТЬ(A1; B1) funksiyasi nima qiladi?",
+    "A": "A1 va B1 ni birlashtiradi",
+    "B": "A1 dan B1 ni ayiradi",
+    "C": "A1 va B1 ni solishtiradi",
+    "D": "A1 va B1 o`rtasidagi farqni topadi",
+    "javob": "A"
+  },
+  {
+    "savol": "A1 = 9, A2 = 3, =СУММ(A1; A2) / 2 natijasi qanday bo`ladi?",
+    "A": "6",
+    "B": "4",
+    "C": "12",
+    "D": "8",
+    "javob": "A"
+  },
+  {
+    "savol": "A1 = 10, A2 = 4, =МИН(A1; A2) natijasi qanday bo`ladi?",
+    "A": "4",
+    "B": "10",
+    "C": "6",
+    "D": "7",
+    "javob": "A"
+  },
+  {
+    "savol": "A1 = 4, A2 = 2, =МАКС(A1; A2) natijasi qanday bo`ladi?",
+    "A": "4",
+    "B": "2",
+    "C": "6",
+    "D": "10",
+    "javob": "A"
+  },
+  {
+    "savol": "A1 = 9, A2 = 2, =СТЕПЕНЬ(A1; A2) natijasi qanday bo`ladi?",
+    "A": "81",
+    "B": "27",
+    "C": "9",
+    "D": "729",
+    "javob": "A"
+  },
+  {
+    "savol": "A1 = 50, A2 = 100, A3 = 150, =СРЗНАЧ(A1:A3) natijasi qanday bo`ladi?",
+    "A": "100",
+    "B": "150",
+    "C": "200",
+    "D": "250",
+    "javob": "A"
+  },
+  {
+    "savol": "A1 = 3, A2 = 7, =МАКС(A1; A2) natijasi qanday bo`ladi?",
+    "A": "7",
+    "B": "3",
+    "C": "10",
+    "D": "5",
+    "javob": "A"
+  },
+  {
+    "savol": "A1 = 18, A2 = 24, =МИН(A1; A2) natijasi qanday bo`ladi?",
+    "A": "18",
+    "B": "24",
+    "C": "30",
+    "D": "22",
+    "javob": "A"
+  },
+  {
+    "savol": "A1 = 2, A2 = 3, =СУММ(A1; A2) + 5 natijasi qanday bo`ladi?",
+    "A": "10",
+    "B": "8",
+    "C": "6",
+    "D": "7",
+    "javob": "A"
+  },
+  {
+    "savol": "A1 = 6, A2 = 2, A3 = 8, =СТЕПЕНЬ(A1; A2) natijasi qanday bo`ladi?",
+    "A": "36",
+    "B": "1296",
+    "C": "16",
+    "D": "64",
+    "javob": "A"
+  },
+  {
+    "savol": "A1 = 7, A2 = 3, =ПРОИЗВЕД(A1; A2) natijasi qanday bo`ladi?",
+    "A": "21",
+    "B": "10",
+    "C": "9",
+    "D": "4",
+    "javob": "A"
+  },
+  {
+    "savol": "A1 = 50, A2 = 25, A3=75 =СУММ(A1:A3) natijasi qanday bo`ladi?",
+    "A": "150",
+    "B": "50",
+    "C": "25",
+    "D": "100",
+    "javob": "A"
+  },
+  {
+    "savol": "10$_{2 }$= ?$_{10}$ ni hisoblang.",
+    "A": "2",
+    "B": "3",
+    "C": "1",
+    "D": "0",
+    "javob": "A"
+  },
+  {
+    "savol": "A1 = 16, =КОРЕНЬ(A1) natijasi qanday bo`ladi?",
+    "A": "4",
+    "B": "8",
+    "C": "16",
+    "D": "2",
+    "javob": "A"
+  },
+  {
+    "savol": "=КОРЕНЬ(9) natijasi qanday bo`ladi?",
+    "A": "3",
+    "B": "4",
+    "C": "8",
+    "D": "16",
+    "javob": "A"
+  },
+  {
+    "savol": "=КОРЕНЬ(4) natijasi qanday bo`ladi?",
+    "A": "2",
+    "B": "4",
+    "C": "8",
+    "D": "16",
+    "javob": "A"
+  },
+  {
+    "savol": "=КОРЕНЬ(1) natijasi qanday bo`ladi?",
+    "A": "1",
+    "B": "4",
+    "C": "8",
+    "D": "16",
+    "javob": "A"
+  },
+  {
+    "savol": "A1 = 3, A2 = 4, =СТЕПЕНЬ(A1; A2) natijasi qanday bo`ladi?",
+    "A": "81",
+    "B": "12",
+    "C": "7",
+    "D": "64",
+    "javob": "A"
+  },
+  {
+    "savol": "A1 = 0.5, A2 = 2, =СТЕПЕНЬ(A1; A2) natijasi qanday bo`ladi?",
+    "A": "0.25",
+    "B": "0.5",
+    "C": "1",
+    "D": "2",
+    "javob": "A"
+  },
+  {
+    "savol": "A1 = \"12345\", =ДЛСТР(A1) natijasi qanday bo`ladi?",
+    "A": "5",
+    "B": "6",
+    "C": "4",
+    "D": "3",
+    "javob": "A"
+  },
+  {
+    "savol": "A1 = \"Dars\", =ПРАВСИМВ(A1;2) natijasi qanday bo`ladi?",
+    "A": "rs",
+    "B": "ar",
+    "C": "da",
+    "D": "as",
+    "javob": "A"
+  },
+  {
+    "savol": "A1 = \"Dars\", A2 = \"Boshlandi\", =СЦЕПИТЬ(A1; \" \"; A2) natijasi qanday bo`ladi?",
+    "A": "Dars Boshlandi",
+    "B": "Boshlandi Dars",
+    "C": "Dars tugadi",
+    "D": "Dars",
+    "javob": "A"
+  },
+  {
+    "savol": "A1 = \"Dunyo\", =ЛЕВСИМВ(A1;2) natijasi qanday bo`ladi?",
+    "A": "Du",
+    "B": "yo",
+    "C": "Dy",
+    "D": "no",
+    "javob": "A"
+  },
+  {
+    "savol": "A1 = \"Excel\", =ЛЕВСИМВ(A1;3) natijasi qanday bo`ladi?",
+    "A": "Exc",
+    "B": "Ex",
+    "C": "Exce",
+    "D": "Excel",
+    "javob": "A"
+  },
+  {
+    "savol": "A1 = \"Excel\", =ПРАВСИМВ(A1;3) funksiyasi nima natija beradi?",
+    "A": "cel",
+    "B": "exe",
+    "C": "exc",
+    "D": "cel",
+    "javob": "A"
+  },
+  {
+    "savol": "A1 = \"Excel\", =ПСТР(A1; 2; 2) natijasi qanday bo`ladi?",
+    "A": "xc",
+    "B": "ce",
+    "C": "xe",
+    "D": "xL",
+    "javob": "A"
+  },
+  {
+    "savol": "A1 = \"Ilm\", A2 = \"Fan\", =СЦЕПИТЬ(A1;A2) natijasi qanday bo`ladi?",
+    "A": "IlmFan",
+    "B": "Ilman",
+    "C": "FanIlm",
+    "D": "imfan",
+    "javob": "A"
+  },
+  {
+    "savol": "A1 = \"Java\", =ПРАВСИМВ(A1;2) natijasi qanday bo`ladi?",
+    "A": "va",
+    "B": "J",
+    "C": "av",
+    "D": "Ja",
+    "javob": "A"
+  },
+  {
+    "savol": "A1 = \"Matematika\", =ЛЕВСИМВ(A1;4) natijasi qanday bo`ladi?",
+    "A": "Mate",
+    "B": "M",
+    "C": "Mat",
+    "D": "Matem",
+    "javob": "A"
+  },
+  {
+    "savol": "A1 = \"TEXT\", =ДЛСТР(A1) natijasi qanday bo`ladi?",
+    "A": "4",
+    "B": "3",
+    "C": "5",
+    "D": "6",
+    "javob": "A"
+  },
+  {
+    "savol": "A1 = \"Vatan\", =ПРАВСИМВ(A1; 1) natijasi qanday bo`ladi?",
+    "A": "n",
+    "B": "ta",
+    "C": "at",
+    "D": "Vat",
+    "javob": "A"
+  },
+  {
+    "savol": "A1 = \"vatan\", A2 = 45 bo`lsa, =ДЛСТР(A1)+ДЛСТР(A2) natijasi qanday bo`ladi?",
+    "A": "7",
+    "B": "6",
+    "C": "8",
+    "D": "5",
+    "javob": "A"
+  },
+  {
+    "savol": "A1 = 10, A2 = 2, =МИН(A1; A2) natijasi qanday bo`ladi?",
+    "A": "2",
+    "B": "10",
+    "C": "5",
+    "D": "12",
+    "javob": "A"
+  },
+  {
+    "savol": "A1 = 10, A2 = 20, =СРЗНАЧ(A1; A2) natijasi qanday bo`ladi?",
+    "A": "15",
+    "B": "30",
+    "C": "10",
+    "D": "25",
+    "javob": "A"
+  },
+  {
+    "savol": "A1 = 10, A2 = 5, A3 = 15, A4 = 20, A5 = 25, =СУММ(МИН(A1; A2); МАКС(A3; A4)) natijasi qanday bo`ladi?",
+    "A": "25",
+    "B": "40",
+    "C": "35",
+    "D": "45",
+    "javob": "A"
+  },
+  {
+    "savol": "A1 = 12, A2 = 5, =СУММ(A1; A2) natijasi qanday bo`ladi?",
+    "A": "17",
+    "B": "7",
+    "C": "60",
+    "D": "2",
+    "javob": "A"
+  },
+  {
+    "savol": "A1 = 123, =ДЛСТР(A1) natijasi qanday bo`ladi?",
+    "A": "3",
+    "B": "4",
+    "C": "2",
+    "D": "5",
+    "javob": "A"
+  },
+  {
+    "savol": "A1 = 14, A2 = 28, =НОД(A1; A2) natijasi qanday bo`ladi?",
+    "A": "14",
+    "B": "28",
+    "C": "7",
+    "D": "21",
+    "javob": "A"
+  },
+  {
+    "savol": "A1 = 2, A2 = 3, =СТЕПЕНЬ(A1; A2) natijasi qanday bo`ladi?",
+    "A": "8",
+    "B": "6",
+    "C": "5",
+    "D": "4",
+    "javob": "A"
+  },
+  {
+    "savol": "A1 = 20, A2 = 15, =МАКС(A1; A2) natijasi qanday bo`ladi?",
+    "A": "20",
+    "B": "15",
+    "C": "30",
+    "D": "18",
+    "javob": "A"
+  },
+  {
+    "savol": "A1 = 25, A2 = 10, =МАКС(A1; A2) natijasi qanday bo`ladi?",
+    "A": "25",
+    "B": "10",
+    "C": "15",
+    "D": "35",
+    "javob": "A"
+  },
+  {
+    "savol": "A1 = 25, A2 = 10, =МИН(A1; A2) natijasi qanday bo`ladi?",
+    "A": "10",
+    "B": "25",
+    "C": "15",
+    "D": "5",
+    "javob": "A"
+  },
+  {
+    "savol": "A1 = 3, A2 = 2, =ПРОИЗВЕД(A1; A2) natijasi qanday bo`ladi?",
+    "A": "6",
+    "B": "1",
+    "C": "5",
+    "D": "1.5",
+    "javob": "A"
+  },
+  {
+    "savol": "A1 = 9, A1 = 16 =КОРЕНЬ(СУММ(A1; A2)) natijasi qanday bo`ladi?",
+    "A": "5",
+    "B": "15",
+    "C": "20",
+    "D": "25",
+    "javob": "A"
+  },
+  {
+    "savol": "A1 = 4567, =ПРАВСИМВ(A1;2) natijasi qanday bo`ladi?",
+    "A": "67",
+    "B": "45",
+    "C": "46",
+    "D": "57",
+    "javob": "A"
+  },
+  {
+    "savol": "A1 = 50, A2=75 =СУММ(A1;A2) natijasi qanday bo`ladi?",
+    "A": "125",
+    "B": "50",
+    "C": "25",
+    "D": "100",
+    "javob": "A"
+  },
+  {
+    "savol": "A1 = 8, A2 = 4, A3 = 9, =СРЗНАЧ(A1; A2; A3) natijasi qanday bo`ladi?",
+    "A": "7",
+    "B": "5",
+    "C": "10",
+    "D": "6",
+    "javob": "A"
+  },
+  {
+    "savol": "A1 = 8, A2 = 16, A3 = 4, A4 = 64, A5 = 36, =КОРЕНЬ(МАКС(A1; A2; A3)) natijasi qanday bo`ladi?",
+    "A": "4",
+    "B": "8",
+    "C": "16",
+    "D": "6",
+    "javob": "A"
+  },
+  {
+    "savol": "A1 = 8, A2 = 2, =СТЕПЕНЬ(A1; A2) natijasi qanday bo`ladi?",
+    "A": "64",
+    "B": "4",
+    "C": "6",
+    "D": "16",
+    "javob": "A"
+  },
+  {
+    "savol": "Apparat ta`minoti to`g`ri berilgan ma`lumotlarni belgilang",
+    "A": "Printer, klaviatura, tizim bloki",
+    "B": "Printer, klaviatura, windows",
+    "C": "klaviatura, windows, word",
+    "D": "windows, word, excel",
+    "javob": "A"
+  },
+  {
+    "savol": "Chiqarish qurilmalari to`g`ri berilgan qatorni toping?",
+    "A": "Monitor, printer, proyektor",
+    "B": "Monitor, printer, skaner",
+    "C": "Monitor, proyektor, klaviatura",
+    "D": "Monitor, printer, proyektor, tizim bloki",
+    "javob": "A"
+  },
+  {
+    "savol": "Dasturiy ta`minot to`g`ri berilgan qatorni toping",
+    "A": "windows, word, excel",
+    "B": "Printer, klaviatura, tizim bloki",
+    "C": "Printer, klaviatura, windows",
+    "D": "klaviatura, windows, word",
+    "javob": "A"
+  },
+  {
+    "savol": "Haqiqiyligiga ko`ra axborot turlari",
+    "A": "Chin Yolg`on",
+    "B": "Matnli Sonli Grafik Tovush Videoaxborot",
+    "C": "Aktual Ishonchli Tushunarli To`liq Foydali",
+    "D": "Ommaviy Maxsus Maxfiy Shaxsiy",
+    "javob": "A"
+  },
+  {
+    "savol": "Hardware nima?",
+    "A": "Kompyuterning aparat ta`minoti",
+    "B": "Kompyuterning dasturiy ta`minoti",
+    "C": "Amaliy dasturlar paketi",
+    "D": "Sun`iy intelekt",
+    "javob": "A"
+  },
+  {
+    "savol": "Kiritish qurilmalari to`g`ri berilgan qatorni toping?",
+    "A": "Skaner, klaviatura",
+    "B": "Monitor, printer",
+    "C": "Printer, skaner",
+    "D": "Proyektor, klaviatura",
+    "javob": "A"
+  },
+  {
+    "savol": "Kompyuter ta`minoti to`g`ri berilgan qatorni toping",
+    "A": "Aparat va dasturiy",
+    "B": "Aparat va Hardware",
+    "C": "Dasturiy va Software",
+    "D": "Tizimli va dasturiy",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi funksiya berilgan sonlarning o`rtacha qiymatini hisoblaydi?",
+    "A": "СРЗНАЧ",
+    "B": "МАКС",
+    "C": "СУММ",
+    "D": "МОДА",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi funksiya eng katta qiymatni topadi?",
+    "A": "МАКС",
+    "B": "НАИБОЛЬШИЙ",
+    "C": "БОЛЬШОЙ",
+    "D": "ВЫСОКИЙ",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi funksiya eng kichik qiymatni qaytaradi?",
+    "A": "МИН",
+    "B": "НИЗКИЙ",
+    "C": "НАИМЕНЬШИЙ",
+    "D": "МАЛЕНЬКИЙ",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi funksiya mantiqiy “va” holatini tekshiradi?",
+    "A": "И",
+    "B": "ИЛИ",
+    "C": "ЕСЛИ",
+    "D": "НЕ",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi funksiya matn uzunligini hisoblaydi?",
+    "A": "ДЛСТР",
+    "B": "ЛЕВСИМВ",
+    "C": "ТЕКСТ",
+    "D": "НАЙТИ",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi funksiya matndan ma`lum bir belgilarni chapdan ajratib oladi?",
+    "A": "ЛЕВСИМВ",
+    "B": "ПСТР",
+    "C": "ПРАВСИМВ",
+    "D": "НАЙТИ",
+    "javob": "A"
+  },
+  {
+    "savol": "Shaxsiy komyuterning aparat ta`minoti qaysilar",
+    "A": "Asosiy va qo`shimcha qurilmalar",
+    "B": "Hardware va Software",
+    "C": "Dasturiy va Software",
+    "D": "Tizimli va dasturiy",
+    "javob": "A"
+  },
+  {
+    "savol": "Shrift bo`limi qaysi menyuda joylashgan?",
+    "A": "Главная",
+    "B": "Вставка",
+    "C": "Дизайн",
+    "D": "Ссилка",
+    "javob": "A"
+  },
+  {
+    "savol": "Software nima?",
+    "A": "Kompyuterning dasturiy ta`minoti",
+    "B": "Amaliy dasturlar paketi",
+    "C": "Sun`iy intelekt",
+    "D": "Kompyuterning aparat ta`minoti",
+    "javob": "A"
+  },
+  {
+    "savol": "Word dasturida turli xil shakllar yaratish qaysi bo`lim yordamida bajariladi?",
+    "A": "Фигури",
+    "B": "Smart art",
+    "C": "Таблитса",
+    "D": "Тeкст",
+    "javob": "A"
+  },
+  {
+    "savol": "Word dasturini ishga tushurish tartibi to`g`ri ko`rsatilgan qatorni toping",
+    "A": "«Пуск»  «Все приложения»  Word",
+    "B": "Yangi list qo`shish",
+    "C": "Dizayn loyihasi qilish",
+    "D": "Indeksli ifodalarni yozishda qo`llaniladi",
+    "javob": "A"
+  },
+  {
+    "savol": "x$^{2}$ tugmasining vazifasi to`g`ri berilgan atorni belgilang",
+    "A": "Darajali ifodalarni yozishda qo`llaniladi",
+    "B": "Yangi list qo`shish",
+    "C": "Dizayn loyihasi qilish",
+    "D": "Indeksli ifodalarni yozishda qo`llaniladi",
+    "javob": "A"
+  },
+  {
+    "savol": "x$_{2}$ tugmasining vazifasi to`g`ri berilgan qatorni belgilang",
+    "A": "Indeksli ifodalarni yozishda qo`llaniladi",
+    "B": "Darajali ifodalarni yozishda qo`llaniladi",
+    "C": "Yangi list qo`shish",
+    "D": "Dizayn loyihasi qilish",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi qaysi funksiya sonlar yig`indisini hisoblaydi?",
+    "A": "СУММ",
+    "B": "СЧЁТ",
+    "C": "СРЗНАЧ",
+    "D": "ПРОИЗВЕД",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi funksiya keltirilgan sonlarning ko`paytmasini hisoblaydi?",
+    "A": "ПРОИЗВЕД",
+    "B": "СУММ",
+    "C": "МАКС",
+    "D": "МОД",
+    "javob": "A"
+  },
+  {
+    "savol": "Sonning ildizini hisoblovchi funksiya:",
+    "A": "КОРЕНЬ",
+    "B": "СУММ",
+    "C": "INT",
+    "D": "MOD",
+    "javob": "A"
+  },
+  {
+    "savol": "Belgilangan argumentlar ichida eng katta qiymatni qaytaradi:",
+    "A": "МАКС",
+    "B": "МИН",
+    "C": "СРЗНАЧ",
+    "D": "МОД",
+    "javob": "A"
+  },
+  {
+    "savol": "Belgilangan qiymatlar orasidan eng kichigini qaytaradi:",
+    "A": "МИН",
+    "B": "МАКС",
+    "C": "СРЗНАЧ",
+    "D": "ROUND",
+    "javob": "A"
+  },
+  {
+    "savol": "O`rtacha qiymatni hisoblaydi:",
+    "A": "СРЗНАЧ",
+    "B": "СУММ",
+    "C": "МАКС",
+    "D": "COUNT",
+    "javob": "A"
+  },
+  {
+    "savol": "Aytaylik, A1 katakda raqam 10 bo`lsa, =ЕСЛИ(A1>5; \"Katta\"; \"Kichik\") natijasi qanday bo`ladi?",
+    "A": "Katta",
+    "B": "Kichik",
+    "C": "FALSE",
+    "D": "TRUE",
+    "javob": "A"
+  },
+  {
+    "savol": "=ЕСЛИ(5>3; \"Ha\"; \"Yo`q\") formulasi natijasi:",
+    "A": "Ha",
+    "B": "Yo`q",
+    "C": "FALSE",
+    "D": "TRUE",
+    "javob": "A"
+  },
+  {
+    "savol": "Sonni 2 ga bo`lish formulasi:",
+    "A": "=A1/2",
+    "B": "=A1:2",
+    "C": "=A1\\2",
+    "D": "=A1^2",
+    "javob": "A"
+  },
+  {
+    "savol": "5, 10 va 15 sonlarining o`rtacha qiymatini topuvchi formula:",
+    "A": "= СРЗНАЧ(5;10;15)",
+    "B": "=SUM(5;10;15)",
+    "C": "=MAX(5;10;15)",
+    "D": "= СЧЁТ(5;10;15)",
+    "javob": "A"
+  },
+  {
+    "savol": "A1 = 8, A2 = 2 =СУММ(A1; A2) natijasi qanday bo`ladi?",
+    "A": "10",
+    "B": "6",
+    "C": "16",
+    "D": "5",
+    "javob": "A"
+  },
+  {
+    "savol": "A1 = 6, A2 = 3 =СУММ(A1; A2)/3 natijasi qanday bo`ladi?",
+    "A": "3",
+    "B": "2",
+    "C": "1",
+    "D": "6",
+    "javob": "A"
+  },
+  {
+    "savol": "A1 = 7, A2 = 10 =МИН(A1; A2) natijasi qanday bo`ladi?",
+    "A": "7",
+    "B": "10",
+    "C": "0",
+    "D": "17",
+    "javob": "A"
+  },
+  {
+    "savol": "A1 = 15, A2 = 25 =МАКС(A1; A2) natijasi qanday bo`ladi?",
+    "A": "25",
+    "B": "15",
+    "C": "40",
+    "D": "0",
+    "javob": "A"
+  },
+  {
+    "savol": "A1 = 4, A2 = 5 =ПРОИЗВЕД(A1; A2) natijasi qanday bo`ladi?",
+    "A": "20",
+    "B": "9",
+    "C": "1",
+    "D": "45",
+    "javob": "A"
+  },
+  {
+    "savol": "A1 = 100, A2 = 4 =A1/A2 natijasi qanday bo`ladi?",
+    "A": "25",
+    "B": "20",
+    "C": "4",
+    "D": "100",
+    "javob": "A"
+  },
+  {
+    "savol": "A1 = \"salom\", A2 = 123 =ДЛСТР(A1) natijasi qanday bo`ladi?",
+    "A": "5",
+    "B": "4",
+    "C": "6",
+    "D": "3",
+    "javob": "A"
+  },
+  {
+    "savol": "A1 = \"kitob\", A2 = \"qalam\" =ДЛСТР(A1)+ДЛСТР(A2) natijasi qanday bo`ladi?",
+    "A": "10",
+    "B": "5",
+    "C": "9",
+    "D": "11",
+    "javob": "A"
+  },
+  {
+    "savol": "A1 = 5, A2 = 0 =ЕСЛИ(A2=0; \"Bo`linmaydi\"; A1/A2) natijasi qanday bo`ladi?",
+    "A": "Bo`linmaydi",
+    "B": "5",
+    "C": "0",
+    "D": "#DIV/0!",
+    "javob": "A"
+  },
+  {
+    "savol": "A1 = 4, A2 = 5 bo`lsa quyidagi formula natijasini hisoblang: =A1 + A2",
+    "A": "9",
+    "B": "20",
+    "C": "45",
+    "D": "1",
+    "javob": "A"
+  },
+  {
+    "savol": "A1 = 12, A2 = 7, bo`lsa quyidagi formula natijasini hisoblang: =A1 - A2",
+    "A": "5",
+    "B": "-5",
+    "C": "19",
+    "D": "84",
+    "javob": "A"
+  },
+  {
+    "savol": "A1 = 3, A2 = 6, bo`lsa quyidagi formula natijasini hisoblang: =A1 * A2",
+    "A": "18",
+    "B": "9",
+    "C": "36",
+    "D": "3",
+    "javob": "A"
+  },
+  {
+    "savol": "A1 = 20, A2 = 4, bo`lsa quyidagi formula natijasini hisoblang: =A1 / A2",
+    "A": "5",
+    "B": "24",
+    "C": "4",
+    "D": "80",
+    "javob": "A"
+  },
+  {
+    "savol": "A1 = 10, A2 = 5, A3 = 2, bo`lsa quyidagi formula natijasini hisoblang: =A1 - A2 + A3",
+    "A": "7",
+    "B": "3",
+    "C": "13",
+    "D": "5",
+    "javob": "A"
+  },
+  {
+    "savol": "A1 = 6, A2 = 3, A3 = 2, bo`lsa quyidagi formula natijasini hisoblang: =A1 * A2 / A3",
+    "A": "9",
+    "B": "1",
+    "C": "3",
+    "D": "6",
+    "javob": "A"
+  },
+  {
+    "savol": "A1 = 8, A2 = 2, bo`lsa quyidagi formula natijasini hisoblang: =A1 / A2 + 2",
+    "A": "6",
+    "B": "4",
+    "C": "10",
+    "D": "2",
+    "javob": "A"
+  },
+  {
+    "savol": "A1 = 5, A2 = 2, bo`lsa quyidagi formula natijasini hisoblang: =A1 ^ A2 + 1",
+    "A": "26",
+    "B": "25",
+    "C": "10",
+    "D": "7",
+    "javob": "A"
+  },
+  {
+    "savol": "A1 = 3, A2 = 4, A3 = 2, bo`lsa quyidagi formula natijasini hisoblang: =A1 + A2 * A3",
+    "A": "11",
+    "B": "14",
+    "C": "10",
+    "D": "7",
+    "javob": "A"
+  },
+  {
+    "savol": "A1 = 15, A2 = 5, bo`lsa quyidagi formula natijasini hisoblang: =A1 / A2 - 1",
+    "A": "2",
+    "B": "3",
+    "C": "4",
+    "D": "1",
+    "javob": "A"
+  },
+  {
+    "savol": "A1 = 2, A2 = 2, A3 = 3, bo`lsa quyidagi formula natijasini hisoblang: =A1 + A2 + A3",
+    "A": "7",
+    "B": "6",
+    "C": "5",
+    "D": "9",
+    "javob": "A"
+  },
+  {
+    "savol": "A1 = 6, A2 = 2, bo`lsa quyidagi formula natijasini hisoblang: =(A1 + A2) * 2",
+    "A": "16",
+    "B": "12",
+    "C": "8",
+    "D": "20",
+    "javob": "A"
+  },
+  {
+    "savol": "A1 = 9, A2 = 3, A3 = 2, bo`lsa quyidagi formula natijasini hisoblang: =A1 - A2 * A3",
+    "A": "3",
+    "B": "12",
+    "C": "-3",
+    "D": "0",
+    "javob": "A"
+  },
+  {
+    "savol": "A1 = 7, A2 = 4, bo`lsa quyidagi formula natijasini hisoblang: =A1 + A2 - 2",
+    "A": "9",
+    "B": "11",
+    "C": "7",
+    "D": "13",
+    "javob": "A"
+  },
+  {
+    "savol": "A1 = 4, A2 = 2, bo`lsa quyidagi formula natijasini hisoblang: =A1 * A1 - A2",
+    "A": "14",
+    "B": "8",
+    "C": "2",
+    "D": "10",
+    "javob": "A"
+  },
+  {
+    "savol": "A1 = 3, A2 = 2, bo`lsa quyidagi formula natijasini hisoblang: =(A1 + A2)^2",
+    "A": "25",
+    "B": "9",
+    "C": "16",
+    "D": "20",
+    "javob": "A"
+  },
+  {
+    "savol": "A1 = 16, A2 = 4 bo`lsa quyidagi formula natijasini hisoblang: =A1 / A2",
+    "A": "4",
+    "B": "8",
+    "C": "1",
+    "D": "2",
+    "javob": "A"
+  },
+  {
+    "savol": "A1 = 2, A2 = 3, A3 = 4, bo`lsa quyidagi formula natijasini hisoblang: =A1 + A2 + A3 * A1",
+    "A": "13",
+    "B": "20",
+    "C": "16",
+    "D": "18",
+    "javob": "A"
+  }
+]
