@@ -513,6 +513,32 @@
             </div>
         </div>
 
+        <!-- Semesters Screen -->
+        <div id="semesters-screen" class="hidden screen">
+            <div class="rounded-3xl p-5 md:p-8 relative overflow-hidden"
+                style="background:var(--card-solid);border:1px solid var(--border);box-shadow:var(--shadow-lg);">
+                <div class="absolute top-0 left-0 w-full h-1" style="background:var(--primary);"></div>
+                <div class="flex items-center gap-3 mb-6">
+                    <div class="w-10 h-10 rounded-xl flex items-center justify-center"
+                        style="background:var(--primary-glow);">
+                        <i class="icon-calendar" style="font-size:20px;color:var(--primary);"></i>
+                    </div>
+                    <div>
+                        <h2 class="text-lg md:text-xl font-extrabold" style="color:var(--text);">Semestr</h2>
+                        <p class="text-xs" style="color:var(--text-muted);">Tegishli semestrni tanlang</p>
+                    </div>
+                </div>
+                <div id="semester-list" class="space-y-3"></div>
+
+                <button onclick="goBackToDirections()"
+                    class="mt-5 w-full py-3.5 rounded-xl text-center transition-all active:scale-95 text-sm font-bold flex items-center justify-center gap-2"
+                    style="background:var(--bg);color:var(--text-sec);border:1px solid var(--border);">
+                    <i class="icon-arrow-left" style="font-size:16px;"></i>
+                    Orqaga qaytish
+                </button>
+            </div>
+        </div>
+
         <!-- Subjects Screen -->
         <div id="subjects-screen" class="hidden screen">
             <div class="rounded-3xl p-5 md:p-8 relative overflow-hidden"
@@ -530,7 +556,7 @@
                 </div>
                 <div id="subject-list" class="space-y-3"></div>
 
-                <button onclick="goBackToDirections()"
+                <button onclick="goBackToSemesters()"
                     class="mt-5 w-full py-3.5 rounded-xl text-center transition-all active:scale-95 text-sm font-bold flex items-center justify-center gap-2"
                     style="background:var(--bg);color:var(--text-sec);border:1px solid var(--border);">
                     <i class="icon-arrow-left" style="font-size:16px;"></i>
@@ -667,26 +693,26 @@
         // ========== MA'LUMOTLAR BAZASI ==========
         const curriculumData = {
             "Bakalavriat": {
-                "KM-TMJ": ["Oliy matematika", "Fizika", "Mutaxasislikga kirish", "Dinshunoslik", "Texnik tizimlarda AKT"],
-                "KM-IQ": ["Iqtisodiy ta'limotlar tarixi", "Ingliz tili", "O'zbekistonning eng yangi tarixi", "Amaliy matematika", "Iqtisodiyotda AKT"],
-                "KM-MP(log)": ["Falsafa", "Mediasavodxonlik va axborot madaniyati", "Umumiy Psixologiya", "Maxsus pedagogikaning klinik asoslari", "Mutaxassislikka kirish", "O'zbekistonning eng yangi tarixi"],
-                "KM-NGT": ["Oliy matematika", "Kimyo", "O'zbekistonning eng yangi tarixi", "Fizika", "Ingliz tili", "Rus tili"],
-                "DAV-25": ["Odam anatomiyasi", "Tibbiy biologiya"],
-                "STOM-25": ["Lotin tili va tibbiy terminologiya", "Odam anatomiyasi", "O'zbek (rus) tili", "Preklinik restovrasion stomatologiya", "Stomatologiyaga kirish", "Tibbbiy va biologik fizika", "Tibbiy biologiya", "Tibbiyotda axborot texnologiyalari", "Tibbiyotda xorijiy til"],
-                "STOM-24": ["Dinshunoslik", "Gigiyena. Tibbiy ekologiya", "Gistologiya, sitologiya va embriologiya", "Klinik restavratsion stomatologiya", "Odam anatomiyasi", "Ortopedik stomatologiya propedeftikasi", "YuJS Fiziologiyasi", "Valeologiya"],
-                "DAV-24": ["Bioetika", "Biokimyo", "Gistologiya, sitologiya va embriologiya", "Mikrobiologiya, immunologiya, virusologiya", "Normal fiziologiya", "Odam anatomiyasi", "Psixologiya"],
-                "OHI-25": ["Odam anatomiyasi", "Tibbiy Biologiya", "O'zbek (rus) tili", "Tibbiy kimyo", "Tibbiyotda axborot texnologiyalari", "Lotin tili va tibbiy terminologiya", "O'zbek tilini sohada qo'llash", "Hamshiralik ishi", "Pedagogika va psixologiya Kasbiy psixologiya", "Tibbiy va biologik fizika"],
-                "KM-BIO": ["Botanika", "O'zbekistonning eng yangi tarixi", "Oliy matematika", "Sitologiya, gistologiya", "Umumiy kimyo va fizika", "Umumiy psixologiya"],
-                "KM-MT": ["Bolalar psixologiyasi va psixodiagnostikasi", "Bolalarni sahnalashtirish va ijodiy faoliyatga o'rgatish", "Rivojlantiruvchi markazlarni tashkil qilish texnologiyasi", "Mediasavodxonlik va axborot madaniyat", "Ilk va maktabgacha yoshdagi bolalar pedagogikasi", "Bolalarning ijtimoiy moslashuvi"],
-                "KM-BT": ["Amaliy rus tili", "Boshlang'ich matematika kursi nazariyasi", "Mediasavodxonlik", "O'zbek tilining sohada qo'llanilishi", "O'zbekistonning eng yangi tarixi", "Ona tili", "Umumiy psixologiya"],
-                "KM-KDS": ["Amaliy rus tili", "Fizika", "Oliy matematika", "O'zbekiston eng yangi tarixi", "Xorijiy til"],
-                "KM-PS": ["Mutaxasislikga kirish", "Oliy matematika", "O'zbekistonning eng yangi tarixi", "Umumiy psixologiya", "Xorijiy til"],
-                "KM-Siyosatshunoslik": ["Konstitutsiyaviy huquq", "Siyosatshunoslikka kirish", "Siyosiy ta`limotlar tarixi", "Xorijiy til"],
-                "KM-Tarix": ["Arxeologiya", "Jahon tarixi", "O'zbekiston tarixi", "Tarixiy geografiya", "Umumiy psixologiya", "Xorijiy til"],
-                "KM-EM": ["Dinshunoslik", "Fizika", "Oliy matematika", "Yo'nalishga kirish", "Тexnik tizimlarda"]
+                "KM-TMJ": { "1-semestr": ["Oliy matematika", "Fizika", "Mutaxasislikga kirish", "Dinshunoslik", "Texnik tizimlarda AKT"], "2-semestr": [] },
+                "KM-IQ": { "1-semestr": ["Iqtisodiy ta'limotlar tarixi", "Ingliz tili", "O'zbekistonning eng yangi tarixi", "Amaliy matematika", "Iqtisodiyotda AKT"], "2-semestr": [] },
+                "KM-MP(log)": { "1-semestr": ["Falsafa", "Mediasavodxonlik va axborot madaniyati", "Umumiy Psixologiya", "Maxsus pedagogikaning klinik asoslari", "Mutaxassislikka kirish", "O'zbekistonning eng yangi tarixi"], "2-semestr": [] },
+                "KM-NGT": { "1-semestr": ["Oliy matematika", "Kimyo", "O'zbekistonning eng yangi tarixi", "Fizika", "Ingliz tili", "Rus tili"], "2-semestr": [] },
+                "DAV-25": { "1-semestr": ["Odam anatomiyasi", "Tibbiy biologiya"], "2-semestr": ["Tibbiyotda xorijiy til"] },
+                "STOM-25": { "1-semestr": ["Lotin tili va tibbiy terminologiya", "Odam anatomiyasi", "O'zbek (rus) tili", "Preklinik restovrasion stomatologiya", "Stomatologiyaga kirish", "Tibbbiy va biologik fizika", "Tibbiy biologiya", "Tibbiyotda axborot texnologiyalari", "Tibbiyotda xorijiy til"], "2-semestr": [] },
+                "STOM-24": { "1-semestr": ["Dinshunoslik", "Gigiyena. Tibbiy ekologiya", "Gistologiya, sitologiya va embriologiya", "Klinik restavratsion stomatologiya", "Odam anatomiyasi", "Ortopedik stomatologiya propedeftikasi", "YuJS Fiziologiyasi", "Valeologiya"], "2-semestr": [] },
+                "DAV-24": { "1-semestr": ["Bioetika", "Biokimyo", "Gistologiya, sitologiya va embriologiya", "Mikrobiologiya, immunologiya, virusologiya", "Normal fiziologiya", "Odam anatomiyasi", "Psixologiya"], "2-semestr": [] },
+                "OHI-25": { "1-semestr": ["Odam anatomiyasi", "Tibbiy Biologiya", "O'zbek (rus) tili", "Tibbiy kimyo", "Tibbiyotda axborot texnologiyalari", "Lotin tili va tibbiy terminologiya", "O'zbek tilini sohada qo'llash", "Hamshiralik ishi", "Pedagogika va psixologiya Kasbiy psixologiya", "Tibbiy va biologik fizika"], "2-semestr": [] },
+                "KM-BIO": { "1-semestr": ["Botanika", "O'zbekistonning eng yangi tarixi", "Oliy matematika", "Sitologiya, gistologiya", "Umumiy kimyo va fizika", "Umumiy psixologiya"], "2-semestr": [] },
+                "KM-MT": { "1-semestr": ["Bolalar psixologiyasi va psixodiagnostikasi", "Bolalarni sahnalashtirish va ijodiy faoliyatga o'rgatish", "Rivojlantiruvchi markazlarni tashkil qilish texnologiyasi", "Mediasavodxonlik va axborot madaniyat", "Ilk va maktabgacha yoshdagi bolalar pedagogikasi", "Bolalarning ijtimoiy moslashuvi"], "2-semestr": [] },
+                "KM-BT": { "1-semestr": ["Amaliy rus tili", "Boshlang'ich matematika kursi nazariyasi", "Mediasavodxonlik", "O'zbek tilining sohada qo'llanilishi", "O'zbekistonning eng yangi tarixi", "Ona tili", "Umumiy psixologiya"], "2-semestr": [] },
+                "KM-KDS": { "1-semestr": ["Amaliy rus tili", "Fizika", "Oliy matematika", "O'zbekiston eng yangi tarixi", "Xorijiy til"], "2-semestr": [] },
+                "KM-PS": { "1-semestr": ["Mutaxasislikga kirish", "Oliy matematika", "O'zbekistonning eng yangi tarixi", "Umumiy psixologiya", "Xorijiy til"], "2-semestr": [] },
+                "KM-Siyosatshunoslik": { "1-semestr": ["Konstitutsiyaviy huquq", "Siyosatshunoslikka kirish", "Siyosiy ta`limotlar tarixi", "Xorijiy til"], "2-semestr": [] },
+                "KM-Tarix": { "1-semestr": ["Arxeologiya", "Jahon tarixi", "O'zbekiston tarixi", "Tarixiy geografiya", "Umumiy psixologiya", "Xorijiy til"], "2-semestr": [] },
+                "KM-EM": { "1-semestr": ["Dinshunoslik", "Fizika", "Oliy matematika", "Yo'nalishga kirish", "Тexnik tizimlarda"], "2-semestr": [] }
             },
             "Magistratura": {
-                "MM-IQ": ["Maxsus fanlar o'qitish metodikasi", "Ekonometrika", "Ilmiy tadqiqot metodologiyasi", "Mikroiqtisodiyot"]
+                "MM-IQ": { "1-semestr": ["Maxsus fanlar o'qitish metodikasi", "Ekonometrika", "Ilmiy tadqiqot metodologiyasi", "Mikroiqtisodiyot"], "2-semestr": [] }
             }
         };
 
@@ -714,6 +740,7 @@
         const totalToPlay = 35;
         let currentDegree = '';
         let currentDirection = '';
+        let currentSemester = '';
         let currentSubject = '';
 
         // Taymër va render vaqtlari
@@ -834,7 +861,7 @@
 
         // ========== NAVIGATSIYA YORDAMCHILARI ==========
         function hideAllScreens() {
-            ['degree-screen', 'directions-screen', 'subjects-screen', 'quiz-screen', 'result-screen'].forEach(id => {
+            ['degree-screen', 'directions-screen', 'semesters-screen', 'subjects-screen', 'quiz-screen', 'result-screen'].forEach(id => {
                 document.getElementById(id).classList.add('hidden');
             });
         }
@@ -916,7 +943,13 @@
             }
 
             directions.forEach((dir, i) => {
-                const subCount = (curriculumData[degree][dir] || []).length;
+                // Har bir yo'nalish ichidagi barcha semestrlardagi jami fanlarni hisoblash
+                let subCount = 0;
+                if (curriculumData[degree][dir]) {
+                    Object.values(curriculumData[degree][dir]).forEach(sem => {
+                        subCount += sem.length;
+                    });
+                }
                 dirList.appendChild(createMenuCard(fixUzbekChars(dir), `Yo'nalishga kirish | ${subCount} ta fandan test mavjud`, 'icon-map-pin', () => selectDirection(dir), i));
             });
         }
@@ -928,19 +961,48 @@
             currentDirection = '';
         }
 
-        // ========== FANLAR EKRANI ==========
+        // ========== SEMESTRLAR EKRANI ==========
         function selectDirection(dir) {
             currentDirection = dir;
-            showScreen('subjects-screen');
+            showScreen('semesters-screen');
             updateHeader(true, goBackToDirections, fixUzbekChars(dir).toUpperCase());
+
+            const semList = document.getElementById('semester-list');
+            semList.innerHTML = '';
+
+            const semesters = curriculumData[currentDegree] && curriculumData[currentDegree][dir] ? Object.keys(curriculumData[currentDegree][dir]) : [];
+
+            if (semesters.length === 0) {
+                semList.innerHTML = `<p class="text-center text-sm py-4" style="color:var(--text-muted);">Semestrlar topilmadi</p>`;
+                return;
+            }
+
+            semesters.forEach((sem, i) => {
+                const subCount = (curriculumData[currentDegree][dir][sem] || []).length;
+                semList.appendChild(createMenuCard(fixUzbekChars(sem).toUpperCase(), `${subCount} ta fandan test mavjud`, 'icon-calendar', () => selectSemester(sem), i));
+            });
+        }
+
+        function goBackToDirections() {
+            showScreen('directions-screen');
+            updateHeader(true, goBackToDegree, fixUzbekChars(currentDegree).toUpperCase());
+            currentDirection = '';
+            currentSemester = '';
+        }
+
+        // ========== FANLAR EKRANI ==========
+        function selectSemester(sem) {
+            currentSemester = sem;
+            showScreen('subjects-screen');
+            updateHeader(true, goBackToSemesters, `${fixUzbekChars(currentDirection)} | ${fixUzbekChars(sem)}`.toUpperCase());
 
             const subjectsList = document.getElementById('subject-list');
             subjectsList.innerHTML = '';
 
-            const subjects = (curriculumData[currentDegree] && curriculumData[currentDegree][dir]) || [];
+            const subjects = (curriculumData[currentDegree] && curriculumData[currentDegree][currentDirection] && curriculumData[currentDegree][currentDirection][sem]) || [];
 
             if (subjects.length === 0) {
-                subjectsList.innerHTML = `<p class="text-center text-sm py-4" style="color:var(--text-muted);">Ushbu yo'nalish uchun fanlar hozircha kiritilmagan.</p>`;
+                subjectsList.innerHTML = `<p class="text-center text-sm py-4" style="color:var(--text-muted);">Ushbu semestr uchun fanlar hozircha kiritilmagan.</p>`;
             } else {
                 subjects.forEach((subj, i) => {
                     const icon = getSubjectIcon(subj);
@@ -950,10 +1012,10 @@
             }
         }
 
-        function goBackToDirections() {
-            showScreen('directions-screen');
-            updateHeader(true, goBackToDegree, fixUzbekChars(currentDegree).toUpperCase());
-            currentDirection = '';
+        function goBackToSemesters() {
+            showScreen('semesters-screen');
+            updateHeader(true, goBackToDirections, fixUzbekChars(currentDirection).toUpperCase());
+            currentSemester = '';
             currentSubject = '';
         }
 
@@ -977,7 +1039,7 @@
             clearTimeout(autoAdvanceTimeout);
             stopTimer();
             showScreen('subjects-screen');
-            updateHeader(true, goBackToDirections, fixUzbekChars(currentDirection).toUpperCase());
+            updateHeader(true, goBackToSemesters, `${fixUzbekChars(currentDirection)} | ${fixUzbekChars(currentSemester)}`.toUpperCase());
             currentSubject = '';
             quizQuestions = [];
             userAnswers = [];
@@ -1030,8 +1092,9 @@
         }
 
         // ========== JSON FAYLNI QIDIRISH (Apostroflardan qat'iy nazar) ==========
-        async function fetchSubjectData(dir, subj) {
+        async function fetchSubjectData(dir, sem, subj) {
             const encodedDir = dir.split(' ').join('%20');
+            const encodedSem = sem.split(' ').join('%20');
             
             // Kompyuteringizda yoki serveringizda qanday apostrof ishlatilgan bo'lsa ham
             // tizim ularni barini bitta-bitta sinab ko'radi
@@ -1049,14 +1112,23 @@
             
             for (let variant of uniqueVars) {
                 const encodedSubj = variant.split(' ').join('%20');
-                const url = `./${encodedDir}/${encodedSubj}.json`;
-                try {
-                    const response = await fetch(url);
-                    if (response.ok) {
-                        return await response.json();
+                
+                // 1-chi papkasi bo'yicha "1-semestr" ichidan izlaydi
+                // Agar topolmasa 2-chi zaxira orqali eski tizimdagi kabi umumiy yo'nalish papkasidan izlaydi.
+                const urlsToTry = [
+                    `./${encodedDir}/${encodedSem}/${encodedSubj}.json`,
+                    `./${encodedDir}/${encodedSubj}.json`
+                ];
+
+                for (let url of urlsToTry) {
+                    try {
+                        const response = await fetch(url);
+                        if (response.ok) {
+                            return await response.json();
+                        }
+                    } catch (e) {
+                        // Xatolikni inobatga olmaymiz, keyingi ehtimolni sinaymiz
                     }
-                } catch (e) {
-                    // Xatolikni inobatga olmaymiz, keyingi ehtimolni sinaymiz
                 }
             }
             throw new Error('Fayl topilmadi');
@@ -1074,7 +1146,7 @@
 
             try {
                 // Yangilangan, xatolikda to'xtamaydigan qidiruv texnologiyasi
-                let data = await fetchSubjectData(currentDirection, subjectName);
+                let data = await fetchSubjectData(currentDirection, currentSemester, subjectName);
                 
                 let rawQuestions = extractQuestions(data);
 
@@ -1470,7 +1542,7 @@
             document.getElementById('stat-time').innerText = formatTime(timeSpent);
 
             // Eng yaxshi natijani tekshirish va saqlash
-            const storageKey = `best_${currentDegree}_${currentDirection}_${currentSubject}`;
+            const storageKey = `best_${currentDegree}_${currentDirection}_${currentSemester}_${currentSubject}`;
             const bestScore = parseInt(localStorage.getItem(storageKey) || '0');
             const bestBox = document.getElementById('best-score-box');
             bestBox.classList.remove('hidden');
@@ -1502,7 +1574,7 @@
 
         // ========== QAYTA BOSHLASH ==========
         function restartQuiz() {
-            if (currentDirection && currentSubject) {
+            if (currentDirection && currentSemester && currentSubject) {
                 startQuiz(currentSubject);
             } else {
                 goHome();
@@ -1517,6 +1589,7 @@
             document.getElementById('subject-list').classList.remove('hidden');
             currentDegree = '';
             currentDirection = '';
+            currentSemester = '';
             currentSubject = '';
             quizQuestions = [];
             userAnswers = [];
