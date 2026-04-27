@@ -1,6 +1,6 @@
 [
   {
-    "savol": "Ta’rifni davom ettiring. Bir to’plam elementlarini boshqa to’plam elementlari bilan ma’lum bir qoida orqali bo’lanishiga  …… deyiladi.",
+    "savol": "Ta'rifni davom ettiring. Bir to'plam elementlarini boshqa to'plam elementlari bilan ma'lum bir qoida orqali bo'lanishiga ...... deyiladi.",
     "A": "Funksiya",
     "B": "Nol",
     "C": "Matritsa",
@@ -8,7 +8,7 @@
     "javob": "A"
   },
   {
-    "savol": "Ta’rifni davom ettiring. y=f(x) funksiyaning qabul qilishi mumkin bo’lgan qiymatlar to’plamiga …. deyiladi.",
+    "savol": "Ta'rifni davom ettiring. y=f(x) funksiyaning qabul qilishi mumkin bo'lgan qiymatlar to'plamiga .... deyiladi.",
     "A": "qiymatlar sohasi",
     "B": "aniqlanish sohasi",
     "C": "funksiya",
@@ -16,7 +16,7 @@
     "javob": "A"
   },
   {
-    "savol": "Ta’rifni davom ettiring. Funksiyaning aniqlanish sohasi …. kabi belgilanadi.",
+    "savol": "Ta'rifni davom ettiring. Funksiyaning aniqlanish sohasi .... kabi belgilanadi.",
     "A": "D(f)",
     "B": "E(f)",
     "C": "t(f)",
@@ -24,7 +24,7 @@
     "javob": "A"
   },
   {
-    "savol": "Ta’rifni davom ettiring. Funksiyaning qiymatlar sohasi …. kabi belgilanadi.",
+    "savol": "Ta'rifni davom ettiring. Funksiyaning qiymatlar sohasi .... kabi belgilanadi.",
     "A": "E(f)",
     "B": "t(f)",
     "C": "f(x)",
@@ -48,7 +48,7 @@
     "javob": "A"
   },
   {
-    "savol": "Funksiyalar nechchi xil usulda beriladi.",
+    "savol": "Funksiyalar nechchi xil usulda beriladi?",
     "A": "3",
     "B": "2",
     "C": "6",
@@ -56,7 +56,7 @@
     "javob": "A"
   },
   {
-    "savol": "O‘sivchi va kamayuvchi funksiyalar umumiy nom bilan qanday funksiyalar deyiladi?",
+    "savol": "O'suvchi va kamayuvchi funksiyalar umumiy nom bilan qanday funksiyalar deyiladi?",
     "A": "Monoton funksiyalar",
     "B": "Davriy funksiya",
     "C": "Toq funksiya",
@@ -64,7 +64,7 @@
     "javob": "A"
   },
   {
-    "savol": "y=2x2+5x-1 funksiyaning  x→2 bo‘lgandagi limiti toping.",
+    "savol": "y=2x^2+5x-1 funksiyaning x→2 bo'lgandagi limiti toping.",
     "A": "17",
     "B": "21",
     "C": "-1",
@@ -72,11 +72,11 @@
     "javob": "A"
   },
   {
-    "savol": "Ta’rifni to‘ldiring: y=f(x) funksiyaning ……. deb x argumentning qabul qilishi mumkin bo‘ladigan qiymatlar to‘plamiga aytiladi.",
+    "savol": "Ta'rifni to'ldiring: y=f(x) funksiyaning ....... deb x argumentning qabul qilishi mumkin bo'ladigan qiymatlar to'plamiga aytiladi.",
     "A": "aniqlanish sohasi",
     "B": "manfiy",
     "C": "cheksiz",
-    "D": "Ma’noga ega",
+    "D": "Ma'noga ega",
     "javob": "A"
   },
   {
@@ -88,7 +88,7 @@
     "javob": "A"
   },
   {
-    "savol": "y=7x+1 funksiyaning  y(1) dagi qiymatini toping.",
+    "savol": "y=7x+1 funksiyaning y(1) dagi qiymatini toping.",
     "A": "8",
     "B": "5",
     "C": "7",
@@ -96,7 +96,7 @@
     "javob": "A"
   },
   {
-    "savol": "y=5x+2 funksiyaning  y(2) dagi qiymatini toping.",
+    "savol": "y=5x+2 funksiyaning y(2) dagi qiymatini toping.",
     "A": "12",
     "B": "15",
     "C": "17",
@@ -104,19 +104,19 @@
     "javob": "A"
   },
   {
-    "savol": "Analitik usulda berilgan funksiyalar qanday ko’rinishda bo’ladi?",
-    "A": "funksiya ma’lum formula , ya’ni erkli o’zgaruvchi( argument)ning erksiz o’zgaruvchi(funksiya) ga bog’lanish ko’rinishida beriladi",
-    "B": "funksiyaning qiymatlarining argument qiymatlariga bog’liqligining grafik tarzda beriladi",
-    "C": "erkli o’zgaruvchi(argument) ning  erksiz o’zgaruvchi(funksiya ) ning mos qiymatlarini jadval shaklda beriladi",
-    "D": "Barcha javoblar to’g’ri",
+    "savol": "Analitik usulda berilgan funksiyalar qanday ko'rinishda bo'ladi?",
+    "A": "funksiya ma'lum formula, ya'ni erkli o'zgaruvchi(argument)ning erksiz o'zgaruvchi(funksiya)ga bog'lanish ko'rinishida beriladi",
+    "B": "funksiyaning qiymatlarining argument qiymatlariga bog'liqligining grafik tarzda beriladi",
+    "C": "erkli o'zgaruvchi(argument)ning erksiz o'zgaruvchi(funksiya)ning mos qiymatlarini jadval shaklda beriladi",
+    "D": "Barcha javoblar to'g'ri",
     "javob": "A"
   },
   {
-    "savol": "Grafik usulda berilgan funksiyalar qanday ko’rinishda bo’ladi?",
-    "A": "funksiyaning qiymatlarining argument qiymatlariga bog’liqligining grafik tarzda beriladi",
-    "B": "funksiya ma’lum formula , ya’ni erkli o’zgaruvchi( argument)ning erksiz o’zgaruvchi(funksiya) ga bog’lanish ko’rinishida beriladi",
-    "C": "erkli o’zgaruvchi(argument) ning  erksiz o’zgaruvchi(funksiya ) ning mos qiymatlarini jadval shaklda beriladi",
-    "D": "Barcha javoblar to’g’ri",
+    "savol": "Grafik usulda berilgan funksiyalar qanday ko'rinishda bo'ladi?",
+    "A": "funksiyaning qiymatlarining argument qiymatlariga bog'liqligining grafik tarzda beriladi",
+    "B": "funksiya ma'lum formula, ya'ni erkli o'zgaruvchi(argument)ning erksiz o'zgaruvchi(funksiya)ga bog'lanish ko'rinishida beriladi",
+    "C": "erkli o'zgaruvchi(argument)ning erksiz o'zgaruvchi(funksiya)ning mos qiymatlarini jadval shaklda beriladi",
+    "D": "Barcha javoblar to'g'ri",
     "javob": "A"
   },
   {
@@ -200,7 +200,7 @@
     "javob": "A"
   },
   {
-    "savol": "Funksiya so’zi qaysi tildan olingan",
+    "savol": "Funksiya so'zi qaysi tildan olingan?",
     "A": "lotincha",
     "B": "yunoncha",
     "C": "ruscha",
@@ -208,87 +208,87 @@
     "javob": "A"
   },
   {
-    "savol": "$y_{1}=2x+5$  $y_{2}=3x+2$ bo’lsa        $y_{1}+y_{2}$ni hisoblang",
-    "A": "$$5x+7$$",
-    "B": "$$4x+14$$",
-    "C": "$$x+11$$",
-    "D": "$$x+14$$",
+    "savol": "y1 = 2x + 5, y2 = 3x + 2 bo'lsa, y1 + y2 ni hisoblang.",
+    "A": "5x + 7",
+    "B": "4x + 14",
+    "C": "x + 11",
+    "D": "x + 14",
     "javob": "A"
   },
   {
-    "savol": "$y_{1}=3x+2$  $y_{2}=x+7$ bo’lsa           $y_{1}+y_{2}$ni hisoblang",
-    "A": "$$4x+9$$",
-    "B": "$$x+14$$",
-    "C": "$$4x+11$$",
-    "D": "$$x+15$$",
+    "savol": "y1 = 3x + 2, y2 = x + 7 bo'lsa, y1 + y2 ni hisoblang.",
+    "A": "4x + 9",
+    "B": "x + 14",
+    "C": "4x + 11",
+    "D": "x + 15",
     "javob": "A"
   },
   {
-    "savol": "$y_{1}=2x+15$ $y_{2}=3x+9$ bo’lsa $         y_{1}+y_{2}$ni hisoblang",
-    "A": "$$5x+24$$",
-    "B": "$$4x+14$$",
-    "C": "$$-x+9$$",
-    "D": "$$4x+1$$",
+    "savol": "y1 = 2x + 15, y2 = 3x + 9 bo'lsa, y1 + y2 ni hisoblang.",
+    "A": "5x + 24",
+    "B": "4x + 14",
+    "C": "-x + 9",
+    "D": "4x + 1",
     "javob": "A"
   },
   {
-    "savol": "$y_{1}=4x+12$  $y_{2}=3x+12$ bo’lsa        $y_{1}-y_{2}$ni hisoblang",
-    "A": "$$x$$",
-    "B": "$$4x$$",
-    "C": "$$4$$",
-    "D": "$$4x+14$$",
+    "savol": "y1 = 4x + 12, y2 = 3x + 12 bo'lsa, y1 - y2 ni hisoblang.",
+    "A": "x",
+    "B": "4x",
+    "C": "4",
+    "D": "4x + 14",
     "javob": "A"
   },
   {
-    "savol": "$y_{1}=2x+5$  $y_{2}=x+2$ bo’lsa            $y_{1}-y_{2}$ni hisoblang",
-    "A": "$$x+3$$",
-    "B": "$$x+14$$",
-    "C": "$$4x$$",
-    "D": "$$4x-14$$",
+    "savol": "y1 = 2x + 5, y2 = x + 2 bo'lsa, y1 - y2 ni hisoblang.",
+    "A": "x + 3",
+    "B": "x + 14",
+    "C": "4x",
+    "D": "4x - 14",
     "javob": "A"
   },
   {
-    "savol": "$y_{1}=x+12$  $y_{2}=x+11$ bo’lsa             $y_{1}-y_{2}$ni hisoblang",
-    "A": "$$1$$",
-    "B": "$$2x+1$$",
-    "C": "$$x+1$$",
-    "D": "$$4x$$",
+    "savol": "y1 = x + 12, y2 = x + 11 bo'lsa, y1 - y2 ni hisoblang.",
+    "A": "1",
+    "B": "2x + 1",
+    "C": "x + 1",
+    "D": "4x",
     "javob": "A"
   },
   {
-    "savol": "$y_{1}=4x+5$  $y_{2}=3x+2$ bo’lsa        $y_{1}+y_{2}$ni hisoblang",
-    "A": "$$7x+7$$",
-    "B": "$$4x+14$$",
-    "C": "$$x+11$$",
-    "D": "$$x+14$$",
+    "savol": "y1 = 4x + 5, y2 = 3x + 2 bo'lsa, y1 + y2 ni hisoblang.",
+    "A": "7x + 7",
+    "B": "4x + 14",
+    "C": "x + 11",
+    "D": "x + 14",
     "javob": "A"
   },
   {
-    "savol": "$y_{1}=3x+1$  $y_{2}=x+7$ bo’lsa           $y_{1}+y_{2}$ni hisoblang",
-    "A": "$$4x+8$$",
-    "B": "$$x+14$$",
-    "C": "$$4x+11$$",
-    "D": "$$x+15$$",
+    "savol": "y1 = 3x + 1, y2 = x + 7 bo'lsa, y1 + y2 ni hisoblang.",
+    "A": "4x + 8",
+    "B": "x + 14",
+    "C": "4x + 11",
+    "D": "x + 15",
     "javob": "A"
   },
   {
-    "savol": "$y_{1}=2x+5$ $y_{2}=x+9$ bo’lsa $         y_{1}+y_{2}$ni hisoblang",
-    "A": "$$3x+14$$",
-    "B": "$$4x+14$$",
-    "C": "$$-x+9$$",
-    "D": "$$4x+1$$",
+    "savol": "y1 = 2x + 5, y2 = x + 9 bo'lsa, y1 + y2 ni hisoblang.",
+    "A": "3x + 14",
+    "B": "4x + 14",
+    "C": "-x + 9",
+    "D": "4x + 1",
     "javob": "A"
   },
   {
-    "savol": "$y_{1}=6x+1$  $y_{2}=3x+12$ bo’lsa        $y_{1}-y_{2}$ni hisoblang",
-    "A": "$$9x+13$$",
-    "B": "$$4x$$",
-    "C": "$$4$$",
-    "D": "$$4x+14$$",
+    "savol": "y1 = 6x + 1, y2 = 3x + 12 bo'lsa, y1 - y2 ni hisoblang.",
+    "A": "9x + 13",
+    "B": "4x",
+    "C": "4",
+    "D": "4x + 14",
     "javob": "A"
   },
   {
-    "savol": "f(x)=12x2+2 funksiyaning $\\lim_{x→0} limf(x)=$  dagi qiymatini toping.",
+    "savol": "f(x)=12x^2+2 funksiyaning x→0 dagi limitini toping.",
     "A": "2",
     "B": "5",
     "C": "4",
@@ -296,7 +296,7 @@
     "javob": "A"
   },
   {
-    "savol": "f(x)=21x2+6 funksiyaning $\\lim_{x→0} limf(x)=$  dagi qiymatini toping.",
+    "savol": "f(x)=21x^2+6 funksiyaning x→0 dagi limitini toping.",
     "A": "6",
     "B": "5",
     "C": "4",
@@ -304,7 +304,7 @@
     "javob": "A"
   },
   {
-    "savol": "f(x)=2x2+1 funksiyaning $\\lim_{x→1} limf(x)=$  dagi qiymatini toping.",
+    "savol": "f(x)=2x^2+1 funksiyaning x→1 dagi limitini toping.",
     "A": "3",
     "B": "5",
     "C": "4",
@@ -312,7 +312,7 @@
     "javob": "A"
   },
   {
-    "savol": "f(x)=x2+6 funksiyaning $\\lim_{x→2} limf(x)=$  dagi qiymatini toping.",
+    "savol": "f(x)=x^2+6 funksiyaning x→2 dagi limitini toping.",
     "A": "10",
     "B": "5",
     "C": "4",
@@ -320,7 +320,7 @@
     "javob": "A"
   },
   {
-    "savol": "f(x)=x2+1 funksiyaning $\\lim_{x→3} limf(x)=$  dagi qiymatini toping.",
+    "savol": "f(x)=x^2+1 funksiyaning x→3 dagi limitini toping.",
     "A": "10",
     "B": "5",
     "C": "4",
@@ -328,7 +328,7 @@
     "javob": "A"
   },
   {
-    "savol": "f(x)=x2+2 funksiyaning $\\lim_{x→3} limf(x)=$  dagi qiymatini toping.",
+    "savol": "f(x)=x^2+2 funksiyaning x→3 dagi limitini toping.",
     "A": "11",
     "B": "5",
     "C": "4",
@@ -336,7 +336,7 @@
     "javob": "A"
   },
   {
-    "savol": "f(x)=5x+6 funksiyaning $\\lim_{x→1} limf(x)=$  dagi qiymatini toping.",
+    "savol": "f(x)=5x+6 funksiyaning x→1 dagi limitini toping.",
     "A": "11",
     "B": "10",
     "C": "4",
@@ -344,7 +344,7 @@
     "javob": "A"
   },
   {
-    "savol": "f(x)= 15x-6 funksiyaning $\\lim_{x→1} limf(x)=$  dagi qiymatini toping.",
+    "savol": "f(x)=15x-6 funksiyaning x→1 dagi limitini toping.",
     "A": "9",
     "B": "6",
     "C": "4",
@@ -352,7 +352,7 @@
     "javob": "A"
   },
   {
-    "savol": "f(x)= 25x-25 funksiyaning $\\lim_{x→0} limf(x)=$  dagi qiymatini toping.",
+    "savol": "f(x)=25x-25 funksiyaning x→0 dagi limitini toping.",
     "A": "-25",
     "B": "24",
     "C": "50",
@@ -360,7 +360,7 @@
     "javob": "A"
   },
   {
-    "savol": "f(x)=13x-3 funksiyaning $\\lim_{x→2} limf(x)=$  dagi qiymatini toping.",
+    "savol": "f(x)=13x-3 funksiyaning x→2 dagi limitini toping.",
     "A": "23",
     "B": "25",
     "C": "26",
@@ -368,7 +368,7 @@
     "javob": "A"
   },
   {
-    "savol": "f(x)=21x-2 funksiyaning $\\lim_{x→2} limf(x)=$  dagi qiymatini toping.",
+    "savol": "f(x)=21x-2 funksiyaning x→2 dagi limitini toping.",
     "A": "40",
     "B": "22",
     "C": "21",
@@ -376,7 +376,7 @@
     "javob": "A"
   },
   {
-    "savol": "f(x)=2x2-2 funksiyaning $\\lim_{x→1} limf(x)=$  dagi qiymatini toping.",
+    "savol": "f(x)=2x^2-2 funksiyaning x→1 dagi limitini toping.",
     "A": "0",
     "B": "1",
     "C": "3",
@@ -384,7 +384,7 @@
     "javob": "A"
   },
   {
-    "savol": "f(x)=2x2+6 funksiyaning $\\lim_{x→1} limf(x)=$  dagi qiymatini toping.",
+    "savol": "f(x)=2x^2+6 funksiyaning x→1 dagi limitini toping.",
     "A": "8",
     "B": "5",
     "C": "4",
@@ -392,7 +392,7 @@
     "javob": "A"
   },
   {
-    "savol": "f(x)=5x+5 funksiyaning $\\lim_{x→3} limf(x)=$  dagi qiymatini toping.",
+    "savol": "f(x)=5x+5 funksiyaning x→3 dagi limitini toping.",
     "A": "20",
     "B": "10",
     "C": "4",
@@ -400,7 +400,7 @@
     "javob": "A"
   },
   {
-    "savol": "f(x)= 15x-6 funksiyaning $\\lim_{x→2} limf(x)=$  dagi qiymatini toping.",
+    "savol": "f(x)=15x-6 funksiyaning x→2 dagi limitini toping.",
     "A": "24",
     "B": "6",
     "C": "4",
@@ -408,7 +408,7 @@
     "javob": "A"
   },
   {
-    "savol": "f(x)= 25x+25 funksiyaning $\\lim_{x→0} limf(x)=$  dagi qiymatini toping.",
+    "savol": "f(x)=25x+25 funksiyaning x→0 dagi limitini toping.",
     "A": "25",
     "B": "24",
     "C": "50",
@@ -416,11 +416,11 @@
     "javob": "A"
   },
   {
-    "savol": "Sonlar ketma-ketligi qanday ta’riflanadi?",
-    "A": "Har bir natural songa biror haqiqiy son mos qo‘yilgan tartiblangan to‘plam",
-    "B": "Ta’riflanmaydi",
-    "C": "Funksiya grafigi orqali har bir natural songa biror haqiqiy son mos qo‘yilgan tartiblangan to‘plam",
-    "D": "Sonlar orqali har bir natural songa biror haqiqiy son mos qo‘yilgan tartiblangan to‘plam",
+    "savol": "Sonlar ketma-ketligi qanday ta'riflanadi?",
+    "A": "Har bir natural songa biror haqiqiy son mos qo'yilgan tartiblangan to'plam",
+    "B": "Ta'riflanmaydi",
+    "C": "Funksiya grafigi orqali sonlar orqali har bir natural songa biror haqiqiy son mos qo'yilgan tartiblangan to'plam",
+    "D": "Sonlar orqali har bir natural songa biror haqiqiy son mos qo'yilgan tartiblangan to'plam",
     "javob": "A"
   },
   {
@@ -432,48 +432,48 @@
     "javob": "A"
   },
   {
-    "savol": "Ketma-ketlik yuqoridan chegaralangan bo‘lishi uchun?",
-    "A": "an ≤ M",
+    "savol": "Ketma-ketlik yuqoridan chegaralangan bo'lishi uchun?",
+    "A": "a_n ≤ M",
     "B": "1",
-    "C": "an → ∞",
-    "D": "an → 0",
+    "C": "a_n → ∞",
+    "D": "a_n → 0",
     "javob": "A"
   },
   {
-    "savol": "Quyidan chegaralangan bo‘lishi uchun?",
-    "A": "an ≥ m",
+    "savol": "Quyidan chegaralangan bo'lishi uchun?",
+    "A": "a_n ≥ m",
     "B": "0",
-    "C": "an = 0",
-    "D": "an → ∞",
+    "C": "a_n = 0",
+    "D": "a_n → ∞",
     "javob": "A"
   },
   {
-    "savol": "y=2x+3 qanday funksiya",
+    "savol": "y=2x+3 qanday funksiya?",
     "A": "Chiziqli funksiya",
     "B": "qiymat",
-    "C": "an ≥ A",
+    "C": "a_n ≥ A",
     "D": "f(x) ≥ A",
     "javob": "A"
   },
   {
-    "savol": "Funksiya limiti mavjud bo‘lishi uchun?",
+    "savol": "Funksiya limiti mavjud bo'lishi uchun?",
     "A": "Turli ketma-ketliklar bir xil limit berishi",
-    "B": "Faqat yuqoridan chegaralangan bo‘lishi",
-    "C": "Sohasi cheksiz bo‘lishi",
-    "D": "Funksiya uzluksiz bo‘lishi",
+    "B": "Faqat yuqoridan chegaralangan bo'lishi",
+    "C": "Sohasi cheksiz bo'lishi",
+    "D": "Funksiya uzluksiz bo'lishi",
     "javob": "A"
   },
   {
-    "savol": "Qaysi qator sonli ketma ketlikka misol bo’la oladi",
-    "A": "1,2,3…",
-    "B": "7,a,b…",
-    "C": "f(x), g(x)…",
-    "D": "m, n, p…",
+    "savol": "Qaysi qator sonli ketma-ketlikka misol bo'la oladi?",
+    "A": "1,2,3...",
+    "B": "7,a,b...",
+    "C": "f(x), g(x)...",
+    "D": "m, n, p...",
     "javob": "A"
   },
   {
     "savol": "Funksiya argumenti deb nimaga aytiladi?",
-    "A": "Erkin o‘zgaruvchi",
+    "A": "Erkin o'zgaruvchi",
     "B": "Limit qiymati",
     "C": "Chegaralangan son",
     "D": "Funksiya qiymati",
@@ -488,31 +488,31 @@
     "javob": "A"
   },
   {
-    "savol": "Funksiya o‘zgarish sohasi nima?",
-    "A": "Hosil bo‘lgan qiymatlar to‘plami",
-    "B": "Argument qiymatlari to‘plami",
+    "savol": "Funksiya o'zgarish sohasi nima?",
+    "A": "Hosil bo'lgan qiymatlar to'plami",
+    "B": "Argument qiymatlari to'plami",
     "C": "Limit nuqtasi",
     "D": "Chegarasi",
     "javob": "A"
   },
   {
     "savol": "Funksiya grafigi nima uchun ishlatiladi?",
-    "A": "Funksiyaning xatti-harakatini ko‘rsatish uchun",
+    "A": "Funksiyaning xatti-harakatini ko'rsatish uchun",
     "B": "funksiya nomini yozish uchun",
     "C": "Nol nuqtalarni aniqlash uchun emas",
     "D": "Faqat chizish uchun",
     "javob": "A"
   },
   {
-    "savol": "Agar funksiya kasr ko‘rinishida bo‘lsa, aniqlanish sohasi qanday aniqlanadi?",
-    "A": "Maxraj nol bo‘lmasligi kerak",
-    "B": "Surat nolga teng bo‘lishi kerak",
-    "C": "Har qanday x bo‘lishi mumkin",
+    "savol": "Agar funksiya kasr ko'rinishida bo'lsa, aniqlanish sohasi qanday aniqlanadi?",
+    "A": "Maxraj nol bo'lmasligi kerak",
+    "B": "Surat nolga teng bo'lishi kerak",
+    "C": "Har qanday x bo'lishi mumkin",
     "D": "Nol qiymat tanlanadi",
     "javob": "A"
   },
   {
-    "savol": "Funksiyaning erkin o‘zgaruvchisi nima deb ataladi?",
+    "savol": "Funksiyaning erkin o'zgaruvchisi nima deb ataladi?",
     "A": "x",
     "B": "y",
     "C": "f",
@@ -520,7 +520,7 @@
     "javob": "A"
   },
   {
-    "savol": "Funksiya qiymati qaysi o‘zgaruvchi orqali belgilanadi?",
+    "savol": "Funksiya qiymati qaysi o'zgaruvchi orqali belgilanadi?",
     "A": "y",
     "B": "x",
     "C": "D",
@@ -528,7 +528,7 @@
     "javob": "A"
   },
   {
-    "savol": "Funksiyaning moslik qoidasi qaysi belgi bilan ko‘rsatiladi?",
+    "savol": "Funksiyaning moslik qoidasi qaysi belgi bilan ko'rsatiladi?",
     "A": "f",
     "B": "y",
     "C": "x",
@@ -536,10 +536,10 @@
     "javob": "A"
   },
   {
-    "savol": "Funksiya qanday sohalarda qo‘llaniladi?",
-    "A": "algebra, analiz, geometriya va boshqa ko‘plab sohalarda",
-    "B": "adabiyot va tarix fanlarida va boshqa ko‘plab sohalarda",
-    "C": "musiqa san’at ritorika diktorlik va boshqa ko’plab sohalarda",
+    "savol": "Funksiya qanday sohalarda qo'llaniladi?",
+    "A": "algebra, analiz, geometriya va boshqa ko'plab sohalarda",
+    "B": "adabiyot va tarix fanlarida va boshqa ko'plab sohalarda",
+    "C": "musiqa san'at ritorika diktorlik va boshqa ko'plab sohalarda",
     "D": "sportda shuningdek sporting ayrim turlari misol uchun voleybol basketbol yugurish va suzish sohalarida",
     "javob": "A"
   },
@@ -547,7 +547,7 @@
     "savol": "Funksiya yordamida nimani ifodalash mumkin?",
     "A": "turli jarayon va munosabatlarni matematik modellashtirish",
     "B": "turli jarayon va munosabatlarni chizmalar tuzish orqali tashkillashtirish",
-    "C": "sonlarni ko‘rsatish",
+    "C": "sonlarni ko'rsatish",
     "D": "Nol qiymatlarni belgilash",
     "javob": "A"
   },
@@ -555,7 +555,7 @@
     "savol": "Funksiyaning asosiy xossalaridan biri qaysi?",
     "A": "Aniqlanish sohasi",
     "B": "Cheksiz limit",
-    "C": "Chegaraviy o‘lchov",
+    "C": "Chegaraviy o'lchov",
     "D": "Yagona qiymat",
     "javob": "A"
   },
@@ -568,9 +568,9 @@
     "javob": "A"
   },
   {
-    "savol": "Aniq tartib bo’yicha birining ketidan ikkinchisi keluvchi sonlar to’plami sonlar … deyiladi",
-    "A": "Ketma- ketligi",
-    "B": "To’plami",
+    "savol": "Aniq tartib bo'yicha birining ketidan ikkinchisi keluvchi sonlar to'plami sonlar ... deyiladi",
+    "A": "Ketma-ketligi",
+    "B": "To'plami",
     "C": "limiti",
     "D": "qatori",
     "javob": "A"
@@ -584,7 +584,7 @@
     "javob": "A"
   },
   {
-    "savol": "Funksiya grafik usulda qanday ko‘rsatiladi?",
+    "savol": "Funksiya grafik usulda qanday ko'rsatiladi?",
     "A": "Koordinata tekisligida chizilgan grafik orqali",
     "B": "Jadval yordamida",
     "C": "Integrallar orqali",
@@ -592,27 +592,27 @@
     "javob": "A"
   },
   {
-    "savol": "Agar funksiyaning hosilasi musbat bo‘lsa, funksiya qanday bo‘ladi?",
-    "A": "O‘suvchi",
+    "savol": "Agar funksiyaning hosilasi musbat bo'lsa, funksiya qanday bo'ladi?",
+    "A": "O'suvchi",
     "B": "Kamayuvchi",
     "C": "Doimiy",
     "D": "Chegaralangan",
     "javob": "A"
   },
   {
-    "savol": "Agar funksiyaning hosilasi manfiy bo‘lsa, funksiya qanday bo‘ladi?",
+    "savol": "Agar funksiyaning hosilasi manfiy bo'lsa, funksiya qanday bo'ladi?",
     "A": "Kamayuvchi",
-    "B": "O‘suvchi",
+    "B": "O'suvchi",
     "C": "Doimiy",
     "D": "Chegaralanmagan",
     "javob": "A"
   },
   {
-    "savol": "Funksiya monoton bo‘lishi nimani anglatadi?",
-    "A": "Funksiya faqat o‘suvchi yoki faqat kamayuvchi bo‘lishi",
-    "B": "Funksiya faqat juft bo‘lishi",
-    "C": "Funksiya nolga teng bo‘lishi",
-    "D": "Funksiya simmetrik bo‘lishi",
+    "savol": "Funksiya monoton bo'lishi nimani anglatadi?",
+    "A": "Funksiya faqat o'suvchi yoki faqat kamayuvchi bo'lishi",
+    "B": "Funksiya faqat juft bo'lishi",
+    "C": "Funksiya nolga teng bo'lishi",
+    "D": "Funksiya simmetrik bo'lishi",
     "javob": "A"
   },
   {
@@ -640,7 +640,7 @@
     "javob": "A"
   },
   {
-    "savol": "Quyidagi qaysi limit trigonometrik funksiyalar bilan bog‘liq?",
+    "savol": "Quyidagi qaysi limit trigonometrik funksiyalar bilan bog'liq?",
     "A": "Ajoyib limitlar 1-turi",
     "B": "Ajoyib limitlar 2-turi",
     "C": "Logarifmik limit",
@@ -656,7 +656,7 @@
     "javob": "A"
   },
   {
-    "savol": "Quyidagilardan qaysi biri limitlar haqidagi to‘g‘ri fikr?",
+    "savol": "Quyidagilardan qaysi biri limitlar haqidagi to'g'ri fikr?",
     "A": "Funksiya limiti mavjud bo'lishi mumkin",
     "B": "Limit har doim cheksiz bo'ladi",
     "C": "Limit har doim 0 ga teng",
@@ -696,7 +696,7 @@
     "javob": "A"
   },
   {
-    "savol": "Quyidagilardan qaysi biri limitning amaliy qo‘llanishiga misol bo‘la oladi?",
+    "savol": "Quyidagilardan qaysi biri limitning amaliy qo'llanishiga misol bo'la oladi?",
     "A": "Fizik kattaliklarning chegaraviy qiymatini hisoblash",
     "B": "Faqat chiziqli tenglamalarni yechish",
     "C": "Matritsa determinanti topish",
@@ -720,7 +720,7 @@
     "javob": "A"
   },
   {
-    "savol": "1-turdagi ajoyib limitlar qaysi turdagi funksiyalar bilan bog‘liq?",
+    "savol": "1-turdagi ajoyib limitlar qaysi turdagi funksiyalar bilan bog'liq?",
     "A": "trigonometrik funksiyalar bilan",
     "B": "eksponenta funksiyalari bilan",
     "C": "logarifmik funksiyalar bilan",
@@ -736,31 +736,31 @@
     "javob": "A"
   },
   {
-    "savol": "Y=2x to’g’ri chiziq tenglamasi qayerdan o’tadi",
+    "savol": "y=2x to'g'ri chiziq tenglamasi qayerdan o'tadi?",
     "A": "Koordinata boshidan",
-    "B": "X o’qidan",
-    "C": "Y o’qidan",
-    "D": "To’g’ri javob berilmagan",
+    "B": "X o'qidan",
+    "C": "Y o'qidan",
+    "D": "To'g'ri javob berilmagan",
     "javob": "A"
   },
   {
-    "savol": "Y=x to’g’ri chiziq tenglamasi qayerdan o’tadi",
+    "savol": "y=x to'g'ri chiziq tenglamasi qayerdan o'tadi?",
     "A": "Koordinata boshidan",
-    "B": "X o’qidan",
-    "C": "Y o’qidan",
-    "D": "To’g’ri javob berilmagan",
+    "B": "X o'qidan",
+    "C": "Y o'qidan",
+    "D": "To'g'ri javob berilmagan",
     "javob": "A"
   },
   {
-    "savol": "Y=-2x to’g’ri chiziq tenglamasi qayerdan o’tadi",
+    "savol": "y=-2x to'g'ri chiziq tenglamasi qayerdan o'tadi?",
     "A": "Koordinata boshidan",
-    "B": "X o’qidan",
-    "C": "Y o’qidan",
-    "D": "To’g’ri javob berilmagan",
+    "B": "X o'qidan",
+    "C": "Y o'qidan",
+    "D": "To'g'ri javob berilmagan",
     "javob": "A"
   },
   {
-    "savol": "(-2;3) nuqtaning OX o’qidagi qiymatini toping?",
+    "savol": "(-2;3) nuqtaning OX o'qidagi qiymatini toping.",
     "A": "-2",
     "B": "-3",
     "C": "2",
@@ -768,7 +768,7 @@
     "javob": "A"
   },
   {
-    "savol": "(5;7) nuqtaning OY o’qidagi qiymatini toping?",
+    "savol": "(5;7) nuqtaning OY o'qidagi qiymatini toping.",
     "A": "7",
     "B": "78",
     "C": "12",
@@ -776,7 +776,7 @@
     "javob": "A"
   },
   {
-    "savol": "(-7;12) nuqtaning OX o’qidagi qiymatini toping?",
+    "savol": "(-7;12) nuqtaning OX o'qidagi qiymatini toping.",
     "A": "-7",
     "B": "-3",
     "C": "34",
@@ -784,7 +784,7 @@
     "javob": "A"
   },
   {
-    "savol": "(24;32) nuqtaning OY o’qidagi qiymatini toping?",
+    "savol": "(24;32) nuqtaning OY o'qidagi qiymatini toping.",
     "A": "32",
     "B": "12",
     "C": "2",
@@ -792,7 +792,7 @@
     "javob": "A"
   },
   {
-    "savol": "(1;-2;5) nuqtaning OX o’qidagi qiymatini toping?",
+    "savol": "(1;-2;5) nuqtaning OX o'qidagi qiymatini toping.",
     "A": "1",
     "B": "-1",
     "C": "-5",
@@ -800,7 +800,7 @@
     "javob": "A"
   },
   {
-    "savol": "(-5;14;21) nuqtaning OY o’qidagi qiymatini toping?",
+    "savol": "(-5;14;21) nuqtaning OY o'qidagi qiymatini toping.",
     "A": "14",
     "B": "5",
     "C": "-21",
@@ -808,7 +808,7 @@
     "javob": "A"
   },
   {
-    "savol": "(12;-5;23) nuqtaning OZ o’qidagi qiymatini toping?",
+    "savol": "(12;-5;23) nuqtaning OZ o'qidagi qiymatini toping.",
     "A": "23",
     "B": "1",
     "C": "2",
@@ -816,31 +816,31 @@
     "javob": "A"
   },
   {
-    "savol": "Y=5x to’g’ri chiziq tenglamasi qayerdan o’tadi",
+    "savol": "y=5x to'g'ri chiziq tenglamasi qayerdan o'tadi?",
     "A": "Koordinata boshidan",
-    "B": "X o’qidan",
-    "C": "Y o’qidan",
-    "D": "To’g’ri javob berilmagan",
+    "B": "X o'qidan",
+    "C": "Y o'qidan",
+    "D": "To'g'ri javob berilmagan",
     "javob": "A"
   },
   {
-    "savol": "Y=10x to’g’ri chiziq tenglamasi qayerdan o’tadi",
+    "savol": "y=10x to'g'ri chiziq tenglamasi qayerdan o'tadi?",
     "A": "Koordinata boshidan",
-    "B": "X o’qidan",
-    "C": "Y o’qidan",
-    "D": "To’g’ri javob berilmagan",
+    "B": "X o'qidan",
+    "C": "Y o'qidan",
+    "D": "To'g'ri javob berilmagan",
     "javob": "A"
   },
   {
-    "savol": "Y=8x to’g’ri chiziq tenglamasi qayerdan o’tadi",
+    "savol": "y=8x to'g'ri chiziq tenglamasi qayerdan o'tadi?",
     "A": "Koordinata boshidan",
-    "B": "X o’qidan",
-    "C": "Y o’qidan",
-    "D": "To’g’ri javob berilmagan",
+    "B": "X o'qidan",
+    "C": "Y o'qidan",
+    "D": "To'g'ri javob berilmagan",
     "javob": "A"
   },
   {
-    "savol": "(7;12) nuqtaning OX o’qidagi qiymatini toping?",
+    "savol": "(7;12) nuqtaning OX o'qidagi qiymatini toping.",
     "A": "7",
     "B": "-3",
     "C": "34",
@@ -848,7 +848,7 @@
     "javob": "A"
   },
   {
-    "savol": "(24;2) nuqtaning OY o’qidagi qiymatini toping?",
+    "savol": "(24;2) nuqtaning OY o'qidagi qiymatini toping.",
     "A": "2",
     "B": "12",
     "C": "-2",
@@ -856,7 +856,7 @@
     "javob": "A"
   },
   {
-    "savol": "(-1;-2;5) nuqtaning OX o’qidagi qiymatini toping?",
+    "savol": "(-1;-2;5) nuqtaning OX o'qidagi qiymatini toping.",
     "A": "-1",
     "B": "1",
     "C": "-5",
@@ -864,7 +864,7 @@
     "javob": "A"
   },
   {
-    "savol": "(-5;15;21) nuqtaning OY o’qidagi qiymatini toping?",
+    "savol": "(-5;15;21) nuqtaning OY o'qidagi qiymatini toping.",
     "A": "15",
     "B": "5",
     "C": "-21",
@@ -872,7 +872,7 @@
     "javob": "A"
   },
   {
-    "savol": "(12;-5;22) nuqtaning OZ o’qidagi qiymatini toping?",
+    "savol": "(12;-5;22) nuqtaning OZ o'qidagi qiymatini toping.",
     "A": "22",
     "B": "1",
     "C": "2",
@@ -880,7 +880,7 @@
     "javob": "A"
   },
   {
-    "savol": "(-4;12) nuqtaning OX o’qidagi qiymatini toping?",
+    "savol": "(-4;12) nuqtaning OX o'qidagi qiymatini toping.",
     "A": "-4",
     "B": "-3",
     "C": "34",
@@ -888,7 +888,7 @@
     "javob": "A"
   },
   {
-    "savol": "(21;32) nuqtaning OY o’qidagi qiymatini toping?",
+    "savol": "(21;32) nuqtaning OY o'qidagi qiymatini toping.",
     "A": "21",
     "B": "12",
     "C": "2",
@@ -896,7 +896,7 @@
     "javob": "A"
   },
   {
-    "savol": "(11;-2;5) nuqtaning OX o’qidagi qiymatini toping?",
+    "savol": "(11;-2;5) nuqtaning OX o'qidagi qiymatini toping.",
     "A": "11",
     "B": "-1",
     "C": "-5",
@@ -904,7 +904,7 @@
     "javob": "A"
   },
   {
-    "savol": "(4;14;21) nuqtaning OY o’qidagi qiymatini toping?",
+    "savol": "(4;14;21) nuqtaning OY o'qidagi qiymatini toping.",
     "A": "4",
     "B": "5",
     "C": "-21",
@@ -912,75 +912,75 @@
     "javob": "A"
   },
   {
-    "savol": "X=2 to’g’ri chiziq tenglamasi qayerdan o’tadi",
-    "A": "X o’qidan",
-    "B": "Y o’qidan",
+    "savol": "x=2 to'g'ri chiziq tenglamasi qayerdan o'tadi?",
+    "A": "X o'qidan",
+    "B": "Y o'qidan",
     "C": "Koordinata boshidan",
-    "D": "To’g’ri javob berilmagan",
+    "D": "To'g'ri javob berilmagan",
     "javob": "A"
   },
   {
-    "savol": "X=-5 to’g’ri chiziq tenglamasi qayerdan o’tadi",
-    "A": "X o’qidan",
-    "B": "Y o’qidan",
+    "savol": "x=-5 to'g'ri chiziq tenglamasi qayerdan o'tadi?",
+    "A": "X o'qidan",
+    "B": "Y o'qidan",
     "C": "Koordinata boshidan",
-    "D": "To’g’ri javob berilmagan",
+    "D": "To'g'ri javob berilmagan",
     "javob": "A"
   },
   {
-    "savol": "Y=5 to’g’ri chiziq tenglamasi qayerdan o’tadi",
-    "A": "X o’qidan",
-    "B": "Y o’qidan",
+    "savol": "y=5 to'g'ri chiziq tenglamasi qayerdan o'tadi?",
+    "A": "X o'qidan",
+    "B": "Y o'qidan",
     "C": "Koordinata boshidan",
-    "D": "To’g’ri javob berilmagan",
+    "D": "To'g'ri javob berilmagan",
     "javob": "A"
   },
   {
-    "savol": "X=6 to’g’ri chiziq tekislikda qanday joylashgan?",
-    "A": "Y o’qiga parallel",
-    "B": "X o’qiga parallel",
-    "C": "Y o’qiga perpendikulyar",
+    "savol": "x=6 to'g'ri chiziq tekislikda qanday joylashgan?",
+    "A": "Y o'qiga parallel",
+    "B": "X o'qiga parallel",
+    "C": "Y o'qiga perpendikulyar",
     "D": "Koordinata boshidan",
     "javob": "A"
   },
   {
-    "savol": "X=2 to’g’ri chiziq tekislikda qanday joylashgan?",
-    "A": "Y o’qiga parallel",
-    "B": "X o’qiga parallel",
-    "C": "Y o’qiga perpendikulyar",
+    "savol": "x=2 to'g'ri chiziq tekislikda qanday joylashgan?",
+    "A": "Y o'qiga parallel",
+    "B": "X o'qiga parallel",
+    "C": "Y o'qiga perpendikulyar",
     "D": "Koordinata boshidan",
     "javob": "A"
   },
   {
-    "savol": "X=-2 to’g’ri chiziq tekislikda qanday joylashgan?",
-    "A": "Y o’qiga parallel",
-    "B": "X o’qiga parallel",
-    "C": "Y o’qiga perpendikulyar",
+    "savol": "x=-2 to'g'ri chiziq tekislikda qanday joylashgan?",
+    "A": "Y o'qiga parallel",
+    "B": "X o'qiga parallel",
+    "C": "Y o'qiga perpendikulyar",
     "D": "Koordinata boshidan",
     "javob": "A"
   },
   {
-    "savol": "X=1 to’g’ri chiziq tekislikda qanday joylashgan?",
-    "A": "Y o’qiga parallel",
-    "B": "X o’qiga parallel",
-    "C": "Y o’qiga perpendikulyar",
+    "savol": "x=1 to'g'ri chiziq tekislikda qanday joylashgan?",
+    "A": "Y o'qiga parallel",
+    "B": "X o'qiga parallel",
+    "C": "Y o'qiga perpendikulyar",
     "D": "Koordinata boshidan",
     "javob": "A"
   },
   {
-    "savol": "X=-4 to’g’ri chiziq tekislikda qanday joylashgan?",
-    "A": "Y o’qiga parallel",
-    "B": "X o’qiga parallel",
-    "C": "Y o’qiga perpendikulyar",
+    "savol": "x=-4 to'g'ri chiziq tekislikda qanday joylashgan?",
+    "A": "Y o'qiga parallel",
+    "B": "X o'qiga parallel",
+    "C": "Y o'qiga perpendikulyar",
     "D": "Koordinata boshidan",
     "javob": "A"
   },
   {
-    "savol": "X=-2 to’g’ri chiziq tenglamasi qayerdan o’tadi",
-    "A": "X o’qidan",
-    "B": "Y o’qidan",
+    "savol": "x=-2 to'g'ri chiziq tenglamasi qayerdan o'tadi?",
+    "A": "X o'qidan",
+    "B": "Y o'qidan",
     "C": "Koordinata boshidan",
-    "D": "To’g’ri javob berilmagan",
+    "D": "To'g'ri javob berilmagan",
     "javob": "A"
   }
 ]
