@@ -1,0 +1,1586 @@
+[
+  {
+    "savol": "Ma’lumotlar bazasi nima?",
+    "A": "Ma’lumotlarni saqlash va boshqarish tizimi",
+    "B": "Dasturlash tili",
+    "C": "Operatsion tizim",
+    "D": "Brauzer",
+    "javob": "A"
+  },
+  {
+    "savol": "SQL nimani anglatadi?",
+    "A": "Structured Query Language",
+    "B": "Simple Query Language",
+    "C": "System Query Logic",
+    "D": "Server Query Language",
+    "javob": "A"
+  },
+  {
+    "savol": "Jadval nima?",
+    "A": "Ma’lumotlarni saqlovchi tuzilma",
+    "B": "Funksiya",
+    "C": "API",
+    "D": "Server",
+    "javob": "A"
+  },
+  {
+    "savol": "Jadval ustuni nima deyiladi?",
+    "A": "Column",
+    "B": "Row",
+    "C": "Index",
+    "D": "Key",
+    "javob": "A"
+  },
+  {
+    "savol": "Jadval qatori nima deyiladi?",
+    "A": "Row",
+    "B": "Column",
+    "C": "Field",
+    "D": "Schema",
+    "javob": "A"
+  },
+  {
+    "savol": "PRIMARY KEY vazifasi nima?",
+    "A": "Yozuvni unikal aniqlash",
+    "B": "Ma’lumotni o‘chirish",
+    "C": "Jadvalni ulash",
+    "D": "Nusxa olish",
+    "javob": "A"
+  },
+  {
+    "savol": "FOREIGN KEY nima?",
+    "A": "Jadvalni boshqa jadval bilan bog‘laydi",
+    "B": "Unikal qiymat beradi",
+    "C": "Jadval yaratadi",
+    "D": "Index qo‘shadi",
+    "javob": "A"
+  },
+  {
+    "savol": "NULL nimani bildiradi?",
+    "A": "Qiymat yo‘qligi",
+    "B": "Nol",
+    "C": "Bo‘sh satr",
+    "D": "Xato",
+    "javob": "A"
+  },
+  {
+    "savol": "SELECT operatori nima qiladi?",
+    "A": "Ma’lumotni chiqaradi",
+    "B": "Ma’lumot qo‘shadi",
+    "C": "Ma’lumot o‘chiradi",
+    "D": "Jadval yaratadi",
+    "javob": "A"
+  },
+  {
+    "savol": "INSERT operatori nima qiladi?",
+    "A": "Yangi ma’lumot qo‘shadi",
+    "B": "Ma’lumot o‘chiradi",
+    "C": "Jadval o‘zgartiradi",
+    "D": "Ma’lumot chiqaradi",
+    "javob": "A"
+  },
+  {
+    "savol": "UPDATE operatori vazifasi",
+    "A": "Ma’lumotni yangilash",
+    "B": "Jadval yaratish",
+    "C": "Ma’lumot tanlash",
+    "D": "Jadval o‘chirish",
+    "javob": "A"
+  },
+  {
+    "savol": "DELETE operatori nima qiladi?",
+    "A": "Ma’lumotni o‘chiradi",
+    "B": "Jadval yaratadi",
+    "C": "Ma’lumot qo‘shadi",
+    "D": "Index yaratadi",
+    "javob": "A"
+  },
+  {
+    "savol": "WHERE qismi nima uchun?",
+    "A": "Shart qo‘yish",
+    "B": "Saralash",
+    "C": "Guruhlash",
+    "D": "Ustun qo‘shish",
+    "javob": "A"
+  },
+  {
+    "savol": "ORDER BY nima qiladi?",
+    "A": "Saralaydi",
+    "B": "Filtrlaydi",
+    "C": "O‘chiradi",
+    "D": "Guruhlaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "GROUP BY vazifasi",
+    "A": "Guruhlash",
+    "B": "Saralash",
+    "C": "Yangilash",
+    "D": "Nusxa olish",
+    "javob": "A"
+  },
+  {
+    "savol": "COUNT funksiyasi nima qiladi?",
+    "A": "Qatorlar sonini hisoblaydi",
+    "B": "O‘rtacha topadi",
+    "C": "Eng kattani topadi",
+    "D": "Eng kichikni topadi",
+    "javob": "A"
+  },
+  {
+    "savol": "AVG funksiyasi",
+    "A": "O‘rtacha qiymat",
+    "B": "Maksimum",
+    "C": "Minimum",
+    "D": "Sonini",
+    "javob": "A"
+  },
+  {
+    "savol": "MAX funksiyasi",
+    "A": "Eng katta qiymat",
+    "B": "O‘rtacha",
+    "C": "Eng kichik",
+    "D": "Sonini",
+    "javob": "A"
+  },
+  {
+    "savol": "MIN funksiyasi",
+    "A": "Eng kichik qiymat",
+    "B": "Eng katta",
+    "C": "O‘rtacha",
+    "D": "Summani",
+    "javob": "A"
+  },
+  {
+    "savol": "SUM funksiyasi",
+    "A": "Yig‘indi",
+    "B": "O‘rtacha",
+    "C": "Sonini",
+    "D": "Eng katta",
+    "javob": "A"
+  },
+  {
+    "savol": "DISTINCT nima qiladi?",
+    "A": "Takrorlarni olib tashlaydi",
+    "B": "Saralaydi",
+    "C": "O‘chiradi",
+    "D": "Yangilaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "JOIN nima uchun kerak?",
+    "A": "Jadvallarni birlashtirish",
+    "B": "Jadval o‘chirish",
+    "C": "Server ulash",
+    "D": "Index yaratish",
+    "javob": "A"
+  },
+  {
+    "savol": "INNER JOIN nima qiladi?",
+    "A": "Mos yozuvlarni oladi",
+    "B": "Hammasini oladi",
+    "C": "Faqat chapni oladi",
+    "D": "Faqat o‘ngni oladi",
+    "javob": "A"
+  },
+  {
+    "savol": "LEFT JOIN natijasi",
+    "A": "Chap jadval hammasi",
+    "B": "O‘ng jadval hammasi",
+    "C": "Faqat moslar",
+    "D": "Hech biri",
+    "javob": "A"
+  },
+  {
+    "savol": "RIGHT JOIN nima qiladi?",
+    "A": "O‘ng jadval hammasi",
+    "B": "Chap jadval hammasi",
+    "C": "Faqat moslar",
+    "D": "Bo‘sh jadval",
+    "javob": "A"
+  },
+  {
+    "savol": "FULL JOIN nima beradi?",
+    "A": "Ikkala jadval ma’lumotlari",
+    "B": "Moslar",
+    "C": "Chap",
+    "D": "Faqat o‘ng",
+    "javob": "A"
+  },
+  {
+    "savol": "INDEX nima?",
+    "A": "Qidirishni tezlashtiradi",
+    "B": "Ma’lumot o‘chiradi",
+    "C": "Jadval yaratadi",
+    "D": "Backup",
+    "javob": "A"
+  },
+  {
+    "savol": "UNIQUE nimani ta’minlaydi?",
+    "A": "Takrorlanmaslik",
+    "B": "Bo‘sh bo‘lmaslik",
+    "C": "Tezlik",
+    "D": "Xavfsizlik",
+    "javob": "A"
+  },
+  {
+    "savol": "NOT NULL nimani bildiradi?",
+    "A": "Bo‘sh bo‘lmasligi",
+    "B": "Takrorlanmasligi",
+    "C": "Avto oshishi",
+    "D": "O‘chirilishi",
+    "javob": "A"
+  },
+  {
+    "savol": "AUTO INCREMENT nima?",
+    "A": "Avtomatik oshuvchi qiymat",
+    "B": "Qo‘lda kiritish",
+    "C": "Tasodifiy son",
+    "D": "Nol qiymat",
+    "javob": "A"
+  },
+  {
+    "savol": "CREATE TABLE nima qiladi?",
+    "A": "Jadval yaratadi",
+    "B": "Jadval o‘chiradi",
+    "C": "Jadval yangilaydi",
+    "D": "Jadval nusxalaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "DROP TABLE nima qiladi?",
+    "A": "Jadvalni o‘chiradi",
+    "B": "Jadval yaratadi",
+    "C": "Jadvalni saqlaydi",
+    "D": "Jadvalni ko‘chiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "ALTER TABLE nima?",
+    "A": "Jadval tuzilmasini o‘zgartiradi",
+    "B": "Jadval o‘chiradi",
+    "C": "Ma’lumot chiqaradi",
+    "D": "Server sozlaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "TRUNCATE TABLE nima qiladi?",
+    "A": "Ma’lumotni tozalaydi",
+    "B": "Jadval o‘chiradi",
+    "C": "Index qo‘shadi",
+    "D": "Nusxa yaratadi",
+    "javob": "A"
+  },
+  {
+    "savol": "VARCHAR nima?",
+    "A": "Matn turi",
+    "B": "Son turi",
+    "C": "Sana turi",
+    "D": "Boolean",
+    "javob": "A"
+  },
+  {
+    "savol": "INT ma’lumot turi",
+    "A": "Butun son",
+    "B": "Matn",
+    "C": "Sana",
+    "D": "Ha/yo‘q",
+    "javob": "A"
+  },
+  {
+    "savol": "DATE nimani saqlaydi?",
+    "A": "Sana",
+    "B": "Matn",
+    "C": "Son",
+    "D": "Rasm",
+    "javob": "A"
+  },
+  {
+    "savol": "BOOLEAN nima?",
+    "A": "Mantiqiy qiymat",
+    "B": "Sana",
+    "C": "Matn",
+    "D": "Son",
+    "javob": "A"
+  },
+  {
+    "savol": "PRIMARY KEY nechta bo‘ladi?",
+    "A": "Bitta",
+    "B": "Ikkita",
+    "C": "Cheksiz",
+    "D": "Nol",
+    "javob": "A"
+  },
+  {
+    "savol": "FOREIGN KEY qayerda bo‘ladi?",
+    "A": "Bog‘langan jadvalda",
+    "B": "Asosiy jadvalda",
+    "C": "Serverda",
+    "D": "API da",
+    "javob": "A"
+  },
+  {
+    "savol": "Schema nima?",
+    "A": "Jadval tuzilmasi",
+    "B": "Ma’lumot",
+    "C": "Server",
+    "D": "Foydalanuvchi",
+    "javob": "A"
+  },
+  {
+    "savol": "Backup nima?",
+    "A": "Zaxira nusxa",
+    "B": "Jadval",
+    "C": "Index",
+    "D": "Query",
+    "javob": "A"
+  },
+  {
+    "savol": "Transaction nima?",
+    "A": "Bir nechta operatsiya to‘plami",
+    "B": "Jadval",
+    "C": "Server",
+    "D": "Ustun",
+    "javob": "A"
+  },
+  {
+    "savol": "COMMIT nima qiladi?",
+    "A": "O‘zgarishni saqlaydi",
+    "B": "Bekor qiladi",
+    "C": "O‘chiradi",
+    "D": "Nusxa oladi",
+    "javob": "A"
+  },
+  {
+    "savol": "ROLLBACK nima qiladi?",
+    "A": "O‘zgarishni bekor qiladi",
+    "B": "Saqlaydi",
+    "C": "Jadval yaratadi",
+    "D": "Jadval o‘chiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "View nima?",
+    "A": "Virtual jadval",
+    "B": "Real jadval",
+    "C": "Index",
+    "D": "Backup",
+    "javob": "A"
+  },
+  {
+    "savol": "Subquery nima?",
+    "A": "Ichki so‘rov",
+    "B": "Jadval",
+    "C": "Index",
+    "D": "Server",
+    "javob": "A"
+  },
+  {
+    "savol": "LIKE operatori",
+    "A": "Andoza bo‘yicha qidirish",
+    "B": "Tenglik",
+    "C": "Kattalik",
+    "D": "Guruhlash",
+    "javob": "A"
+  },
+  {
+    "savol": "BETWEEN nima qiladi?",
+    "A": "Oraliqni tekshiradi",
+    "B": "Tenglik",
+    "C": "Matn qidirish",
+    "D": "Saralash",
+    "javob": "A"
+  },
+  {
+    "savol": "Database normalizatsiyasi",
+    "A": "Ma’lumotni tartiblash",
+    "B": "Ma’lumot o‘chirish",
+    "C": "Tezlik pasaytirish",
+    "D": "Jadval ko‘paytirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi query nima vazifani bajaradi? SELECT * FROM users WHERE age > 18;",
+    "A": "18 yoshdan katta foydalanuvchilarni chiqaradi",
+    "B": "Faqat 18 yoshdagilar",
+    "C": "18 yoshdan kichiklar",
+    "D": "Barcha foydalanuvchilar",
+    "javob": "A"
+  },
+  {
+    "savol": "Ushbu so‘rov nimani qaytaradi? SELECT name FROM users LIMIT 1;",
+    "A": "Bitta foydalanuvchi nomini",
+    "B": "Barcha nomlarni",
+    "C": "Oxirgi nomni",
+    "D": "Tasodifiy nomlarni",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi query natijasi nima bo‘ladi? SELECT DISTINCT city FROM users;",
+    "A": "Takrorlanmagan shaharlar ro‘yxati",
+    "B": "Foydalanuvchilar soni",
+    "C": "Eng katta shahar",
+    "D": "NULL shaharlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Bu query nima qiladi? SELECT COUNT(*) FROM users;",
+    "A": "Jadvaldagi yozuvlar sonini hisoblaydi",
+    "B": "Ustunlar sonini",
+    "C": "NULL larni",
+    "D": "Eng katta id ni",
+    "javob": "A"
+  },
+  {
+    "savol": "Ushbu query nimani topadi? SELECT AVG(age) FROM users;",
+    "A": "O‘rtacha yoshni",
+    "B": "Eng katta yoshni",
+    "C": "Eng kichik yoshni",
+    "D": "Yig‘indini",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi so‘rov nima vazifani bajaradi? SELECT * FROM users ORDER BY age DESC;",
+    "A": "Yosh bo‘yicha kamayish tartibida chiqaradi",
+    "B": "Yosh bo‘yicha oshish",
+    "C": "Alfavit bo‘yicha",
+    "D": "Id bo‘yicha",
+    "javob": "A"
+  },
+  {
+    "savol": "Ushbu query nimani chiqaradi? SELECT * FROM users WHERE city IS NULL;",
+    "A": "Shahar kiritilmagan foydalanuvchilar",
+    "B": "city=0",
+    "C": "Barcha foydalanuvchilar",
+    "D": "To‘ldirilganlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi query qanday foydalanuvchilarni chiqaradi? SELECT * FROM users WHERE age BETWEEN 20 AND 30;",
+    "A": "20–30 oralig‘idagilar",
+    "B": "30 dan katta",
+    "C": "20 dan kichik",
+    "D": "Faqat 20",
+    "javob": "A"
+  },
+  {
+    "savol": "Ushbu query nima qiladi? SELECT * FROM users WHERE name LIKE 'A%';",
+    "A": "Ismi A bilan boshlanuvchilar",
+    "B": "A bilan tugaganlar",
+    "C": "Ichida A borlar",
+    "D": "Hamma",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi query nimani bildiradi? SELECT * FROM users WHERE age IN (18, 25);",
+    "A": "Yoshi 18 yoki 25 bo‘lganlar",
+    "B": "18 dan kattalar",
+    "C": "25 dan kichiklar",
+    "D": "Hammasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ushbu so‘rov nima qiladi? SELECT city, COUNT(*) FROM users GROUP BY city;",
+    "A": "Har bir shahar bo‘yicha sonini",
+    "B": "Hamma userlarni",
+    "C": "Faqat bitta shahar",
+    "D": "Eng katta shahar",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi query nimani topadi? SELECT user_id, SUM(amount) FROM orders GROUP BY user_id;",
+    "A": "Har bir user buyurtmalar summasi",
+    "B": "Buyurtmalar soni",
+    "C": "Eng katta summa",
+    "D": "O‘rtacha summa",
+    "javob": "A"
+  },
+  {
+    "savol": "Ushbu query nima vazifani bajaradi? SELECT * FROM users u INNER JOIN orders o ON u.id = o.user_id;",
+    "A": "Buyurtmasi bor userlarni",
+    "B": "Barcha userlarni",
+    "C": "Faqat orderlar",
+    "D": "Buyurtmasiz userlarni",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi query nimani qaytaradi? SELECT * FROM users u LEFT JOIN orders o ON u.id = o.user_id;",
+    "A": "Hamma userlar",
+    "B": "Orderli userlar",
+    "C": "Faqat orderlar",
+    "D": "Mos kelmaganlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Ushbu query nima qiladi? SELECT * FROM users WHERE EXISTS (SELECT 1 FROM orders WHERE orders.user_id = users.id);",
+    "A": "Buyurtmasi bor userlar",
+    "B": "Buyurtmasizlar",
+    "C": "Hammasi",
+    "D": "Eng oxirgi",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi query nimani anglatadi? DELETE FROM users WHERE age < 18;",
+    "A": "18 yoshdan kichiklarni o‘chiradi",
+    "B": "Jadvalni o‘chiradi",
+    "C": "Hamma userlarni",
+    "D": "Faqat bitta",
+    "javob": "A"
+  },
+  {
+    "savol": "Ushbu query nima qiladi? UPDATE users SET city='Tashkent' WHERE city IS NULL;",
+    "A": "Bo‘sh shaharlarni yangilaydi",
+    "B": "Hamma shaharlarni",
+    "C": "Jadvalni o‘chiradi",
+    "D": "Faqat bittasini",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi query nima vazifani bajaradi? INSERT INTO users(name, age) VALUES ('Ali', 25);",
+    "A": "Yangi user qo‘shadi",
+    "B": "O‘chiradi",
+    "C": "Yangilaydi",
+    "D": "Qidiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ushbu query nimani qaytaradi? SELECT * FROM users ORDER BY age LIMIT 3;",
+    "A": "Eng yosh 3 user",
+    "B": "Eng katta 3 user",
+    "C": "Tasodifiy 3",
+    "D": "Oxirgi 3",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi query nima qiladi? SELECT * FROM orders ORDER BY created_at DESC LIMIT 1;",
+    "A": "Eng oxirgi buyurtma",
+    "B": "Eng birinchi",
+    "C": "Hamma",
+    "D": "Eng katta summa",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi query nima qiladi? SELECT * FROM users;",
+    "A": "Barcha userlarni chiqaradi",
+    "B": "Faqat bittani",
+    "C": "O‘chiradi",
+    "D": "Yangilaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ushbu so‘rov nimani chiqaradi? SELECT name FROM users;",
+    "A": "Faqat ismlar",
+    "B": "Hamma ustunlar",
+    "C": "Yoshlar",
+    "D": "Shaharlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi query nima vazifani bajaradi? SELECT * FROM users WHERE age = 25;",
+    "A": "Yoshi 25 bo‘lganlar",
+    "B": "25 dan kattalar",
+    "C": "25 dan kichiklar",
+    "D": "Hammasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ushbu query nimani bajaradi? SELECT * FROM users WHERE city = 'Tashkent';",
+    "A": "Toshkentdagilar",
+    "B": "Barcha shaharlar",
+    "C": "Bo‘sh city",
+    "D": "User yo‘q",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi query nima qiladi? SELECT * FROM users WHERE age > 18;",
+    "A": "18 dan kattalar",
+    "B": "18 dagilar",
+    "C": "18 dan kichiklar",
+    "D": "Hammasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ushbu so‘rov nimani bildiradi? SELECT * FROM users ORDER BY age;",
+    "A": "Yosh bo‘yicha oshish",
+    "B": "Kamayish",
+    "C": "Alfavit",
+    "D": "Id",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi query nima qiladi? SELECT * FROM users ORDER BY age DESC;",
+    "A": "Yosh bo‘yicha kamayish",
+    "B": "Oshish",
+    "C": "Ism bo‘yicha",
+    "D": "City bo‘yicha",
+    "javob": "A"
+  },
+  {
+    "savol": "Ushbu query nimani qaytaradi? SELECT * FROM users LIMIT 5;",
+    "A": "5 ta yozuv",
+    "B": "Hammasi",
+    "C": "Oxirgi 5",
+    "D": "Tasodifiy",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi query nima qiladi? SELECT DISTINCT city FROM users;",
+    "A": "Takrorlanmagan shaharlar",
+    "B": "Barcha shaharlar",
+    "C": "Userlar",
+    "D": "NULL",
+    "javob": "A"
+  },
+  {
+    "savol": "Ushbu so‘rov nimani hisoblaydi? SELECT COUNT(*) FROM users;",
+    "A": "Userlar soni",
+    "B": "Yoshlar",
+    "C": "Shaharlar",
+    "D": "ID",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi query nimani topadi? SELECT MAX(age) FROM users;",
+    "A": "Eng katta yosh",
+    "B": "Eng kichik yosh",
+    "C": "O‘rtacha",
+    "D": "Yig‘indi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ushbu query nima qiladi? SELECT MIN(age) FROM users;",
+    "A": "Eng kichik yosh",
+    "B": "Eng katta yosh",
+    "C": "O‘rtacha",
+    "D": "COUNT",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi query nimani qaytaradi? SELECT AVG(age) FROM users;",
+    "A": "O‘rtacha yosh",
+    "B": "Eng katta",
+    "C": "Eng kichik",
+    "D": "COUNT",
+    "javob": "A"
+  },
+  {
+    "savol": "Ushbu query nima vazifani bajaradi? SELECT * FROM users WHERE city IS NULL;",
+    "A": "Shahar kiritilmaganlar",
+    "B": "Hamma",
+    "C": "city=0",
+    "D": "city=' '",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi query nima qiladi? SELECT * FROM users WHERE age BETWEEN 20 AND 30;",
+    "A": "20–30 oralig‘i",
+    "B": "30 dan katta",
+    "C": "20 dan kichik",
+    "D": "Faqat 20",
+    "javob": "A"
+  },
+  {
+    "savol": "Ushbu query nimani bildiradi? SELECT * FROM users WHERE name LIKE 'A%';",
+    "A": "A bilan boshlanuvchilar",
+    "B": "A bilan tugovchilar",
+    "C": "Ichida A",
+    "D": "Hammasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi query nima qiladi? SELECT * FROM users WHERE age IN (18, 25);",
+    "A": "18 yoki 25",
+    "B": "18–25 oralig‘i",
+    "C": "25 dan katta",
+    "D": "Hammasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ushbu query nima qiladi? INSERT INTO users(name, age) VALUES ('Ali', 20);",
+    "A": "Yangi user qo‘shadi",
+    "B": "O‘chiradi",
+    "C": "Yangilaydi",
+    "D": "Qidiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi query nima vazifani bajaradi? UPDATE users SET age = 30 WHERE id = 1;",
+    "A": "Yoshni yangilaydi",
+    "B": "Yangi user",
+    "C": "O‘chiradi",
+    "D": "Tanlaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ushbu query nima qiladi? DELETE FROM users WHERE id = 5;",
+    "A": "Userni o‘chiradi",
+    "B": "Jadvalni o‘chiradi",
+    "C": "Yangilaydi",
+    "D": "Qo‘shadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi query nima qiladi? SELECT city FROM users;",
+    "A": "Shaharlarni chiqaradi",
+    "B": "Userlar",
+    "C": "Yoshlar",
+    "D": "ID",
+    "javob": "A"
+  },
+  {
+    "savol": "Ushbu query nimani qaytaradi? SELECT * FROM users WHERE name = 'Ali';",
+    "A": "Ali nomli user",
+    "B": "Barcha",
+    "C": "Ismlar",
+    "D": "NULL",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi query nima qiladi? SELECT * FROM users ORDER BY name;",
+    "A": "Ism bo‘yicha saralaydi",
+    "B": "Yosh",
+    "C": "City",
+    "D": "Id",
+    "javob": "A"
+  },
+  {
+    "savol": "Ushbu query nimani bildiradi? SELECT * FROM users WHERE age <= 18;",
+    "A": "18 va kichik",
+    "B": "18 dan katta",
+    "C": "Faqat 18",
+    "D": "Hammasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi query nima qiladi? SELECT * FROM users WHERE age >= 60;",
+    "A": "60 va kattalar",
+    "B": "60 dan kichik",
+    "C": "Hammasi",
+    "D": "NULL",
+    "javob": "A"
+  },
+  {
+    "savol": "Ushbu query nimani bildiradi? SELECT * FROM users WHERE city <> 'Tashkent';",
+    "A": "Toshkentdan boshqalar",
+    "B": "Faqat Toshkent",
+    "C": "NULL",
+    "D": "Hammasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi query nima qiladi? SELECT * FROM users WHERE name LIKE '%a%';",
+    "A": "Ichida \"a\" borlar",
+    "B": "A bilan boshlanadi",
+    "C": "Tugaydi",
+    "D": "Yo‘q",
+    "javob": "A"
+  },
+  {
+    "savol": "Ushbu query nimani qaytaradi? SELECT * FROM users LIMIT 1;",
+    "A": "1 ta yozuv",
+    "B": "Oxirgi",
+    "C": "Hammasi",
+    "D": "Yo‘q",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi query nima qiladi? SELECT id, name FROM users;",
+    "A": "Id va ism",
+    "B": "Hamma ustun",
+    "C": "Yosh",
+    "D": "City",
+    "javob": "A"
+  },
+  {
+    "savol": "Ushbu query nimani bildiradi? SELECT * FROM users WHERE age != 25;",
+    "A": "25 bo‘lmaganlar",
+    "B": "Faqat 25",
+    "C": "25 dan katta",
+    "D": "Hammasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi query nima qiladi? CREATE TABLE test(id INT);",
+    "A": "Jadval yaratadi",
+    "B": "O‘chiradi",
+    "C": "Yangilaydi",
+    "D": "Tanlaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ushbu query nimani bildiradi? DROP TABLE test;",
+    "A": "Jadvalni o‘chiradi",
+    "B": "Jadval yaratadi",
+    "C": "Yangilaydi",
+    "D": "Tanlaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi query nima qiladi? TRUNCATE TABLE users;",
+    "A": "Ma’lumotni tozalaydi",
+    "B": "Jadval o‘chiradi",
+    "C": "Qisman o‘chiradi",
+    "D": "Yangilaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ushbu query nimani bildiradi? ALTER TABLE users ADD email VARCHAR;",
+    "A": "Ustun qo‘shadi",
+    "B": "O‘chiradi",
+    "C": "Yangilaydi",
+    "D": "Tanlaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi query nima qiladi? SELECT * FROM users WHERE age IS NOT NULL;",
+    "A": "Yoshi borlar",
+    "B": "Yoshi yo‘qlar",
+    "C": "Hammasi",
+    "D": "NULL",
+    "javob": "A"
+  },
+  {
+    "savol": "Ushbu query nimani bildiradi? SELECT COUNT(city) FROM users;",
+    "A": "City to‘ldirilganlar soni",
+    "B": "Hammasi",
+    "C": "NULL lar",
+    "D": "Ustun",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi query nima qiladi? SELECT * FROM users WHERE age < 18;",
+    "A": "18 dan kichiklar",
+    "B": "18 dan katta",
+    "C": "18",
+    "D": "Hammasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ushbu query nimani bildiradi? SELECT * FROM users WHERE name != 'Ali';",
+    "A": "Ali bo‘lmaganlar",
+    "B": "Faqat Ali",
+    "C": "Hammasi",
+    "D": "NULL",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi query nima qiladi? SELECT * FROM users ORDER BY id DESC;",
+    "A": "Id kamayish",
+    "B": "Id oshish",
+    "C": "Ism",
+    "D": "Yosh",
+    "javob": "A"
+  },
+  {
+    "savol": "Ushbu query nimani bildiradi? SELECT * FROM users WHERE city LIKE '%kent';",
+    "A": "kent bilan tugagan",
+    "B": "kent bilan boshlan",
+    "C": "Ichida",
+    "D": "Yo‘q",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi query nima qiladi? SELECT * FROM users WHERE age = 0;",
+    "A": "Yoshi 0",
+    "B": "Hammasi",
+    "C": "NULL",
+    "D": "O‘rtacha",
+    "javob": "A"
+  },
+  {
+    "savol": "Ushbu query nimani bildiradi? SELECT name AS username FROM users;",
+    "A": "Ustun nomini o‘zgartiradi",
+    "B": "Jadval",
+    "C": "Ma’lumot",
+    "D": "O‘chiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi query nima qiladi? SELECT * FROM users WHERE age > 18 AND city='Tashkent';",
+    "A": "Ikkala shart",
+    "B": "Bittasi",
+    "C": "OR",
+    "D": "Hammasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ushbu query nimani bildiradi? SELECT * FROM users WHERE age > 18 OR city='Tashkent';",
+    "A": "Kamida bittasi",
+    "B": "Ikkalasi",
+    "C": "Hech biri",
+    "D": "Hammasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi query nima qiladi? SELECT * FROM users WHERE NOT age = 18;",
+    "A": "18 bo‘lmaganlar",
+    "B": "Faqat 18",
+    "C": "Hammasi",
+    "D": "NULL",
+    "javob": "A"
+  },
+  {
+    "savol": "Ushbu query nimani bildiradi? SELECT * FROM users ORDER BY age, name;",
+    "A": "Avval yosh, keyin ism",
+    "B": "Faqat ism",
+    "C": "Faqat yosh",
+    "D": "Id",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi query nima qiladi? SELECT * FROM users WHERE age BETWEEN 10 AND 20;",
+    "A": "10–20",
+    "B": "20+",
+    "C": "10-",
+    "D": "Faqat 10",
+    "javob": "A"
+  },
+  {
+    "savol": "Ushbu query nimani bildiradi? SELECT * FROM users LIMIT 10 OFFSET 5;",
+    "A": "6–15 yozuv",
+    "B": "1–10",
+    "C": "Oxirgi",
+    "D": "Hammasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi query nima qiladi? SELECT * FROM users WHERE city='Samarkand' AND age<30;",
+    "A": "Ikki shart",
+    "B": "OR",
+    "C": "Hammasi",
+    "D": "Bitta",
+    "javob": "A"
+  },
+  {
+    "savol": "Ushbu query nimani bildiradi? SELECT COUNT(*) FROM users WHERE age > 18;",
+    "A": "18 dan kattalar soni",
+    "B": "Hammasi",
+    "C": "18",
+    "D": "NULL",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi query nima qiladi? SELECT id FROM users;",
+    "A": "Faqat id larni chiqaradi",
+    "B": "Hamma ustun",
+    "C": "Faqat ism",
+    "D": "Jadvalni o‘chiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ushbu so‘rov nimani bildiradi? SELECT name, city FROM users;",
+    "A": "Ism va shaharni chiqaradi",
+    "B": "Hamma ustun",
+    "C": "Faqat yosh",
+    "D": "Faqat id",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi query nima vazifani bajaradi? SELECT * FROM users WHERE city='Bukhara';",
+    "A": "Buxorodagi userlar",
+    "B": "Toshkentdagilar",
+    "C": "Hamma",
+    "D": "NULL lar",
+    "javob": "A"
+  },
+  {
+    "savol": "Ushbu query nimani qaytaradi? SELECT * FROM users WHERE age < 30;",
+    "A": "30 dan kichiklar",
+    "B": "30 dan katta",
+    "C": "30 yosh",
+    "D": "Hammasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi query nima qiladi? SELECT * FROM users WHERE email IS NOT NULL;",
+    "A": "Emaili borlar",
+    "B": "Emaili yo‘qlar",
+    "C": "Hammasi",
+    "D": "NULL",
+    "javob": "A"
+  },
+  {
+    "savol": "Ushbu so‘rov nimani bildiradi? SELECT * FROM users ORDER BY city;",
+    "A": "Shahar bo‘yicha saralaydi",
+    "B": "Yosh",
+    "C": "Id",
+    "D": "Tasodifiy",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi query nima qiladi? SELECT * FROM users ORDER BY name DESC;",
+    "A": "Ismni kamayish tartibida",
+    "B": "Oshish",
+    "C": "Yosh",
+    "D": "City",
+    "javob": "A"
+  },
+  {
+    "savol": "Ushbu query nimani bildiradi? SELECT * FROM users WHERE age = 0;",
+    "A": "Yoshi 0 bo‘lganlar",
+    "B": "Hamma",
+    "C": "NULL",
+    "D": "18",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi query nima qiladi? SELECT COUNT(email) FROM users;",
+    "A": "Emaili borlar soni",
+    "B": "Hamma qator",
+    "C": "NULL lar",
+    "D": "Ustun",
+    "javob": "A"
+  },
+  {
+    "savol": "Ushbu so‘rov nimani topadi? SELECT city, COUNT(*) FROM users GROUP BY city;",
+    "A": "Har shahar bo‘yicha son",
+    "B": "Hamma user",
+    "C": "Eng katta shahar",
+    "D": "NULL",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi query nima qiladi? SELECT * FROM users WHERE name LIKE '%bek';",
+    "A": "bek bilan tugaganlar",
+    "B": "bek bilan boshlan",
+    "C": "Ichida bek",
+    "D": "Hammasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ushbu so‘rov nimani bildiradi? SELECT * FROM users WHERE name LIKE '_a%';",
+    "A": "2-harfi a bo‘lganlar",
+    "B": "a bilan boshlan",
+    "C": "a bilan tugaydi",
+    "D": "Hammasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi query nima qiladi? SELECT * FROM users WHERE age % 2 = 0;",
+    "A": "Juft yoshlar",
+    "B": "Toq yoshlar",
+    "C": "Hammasi",
+    "D": "NULL",
+    "javob": "A"
+  },
+  {
+    "savol": "Ushbu query nimani bildiradi? SELECT * FROM users WHERE age % 2 = 1;",
+    "A": "Toq yoshlar",
+    "B": "Juft yoshlar",
+    "C": "Hammasi",
+    "D": "NULL",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi query nima qiladi? SELECT * FROM users WHERE city IN ('Tashkent','Samarkand');",
+    "A": "2 shahardagi userlar",
+    "B": "Bitta shahar",
+    "C": "Hammasi",
+    "D": "NULL",
+    "javob": "A"
+  },
+  {
+    "savol": "Ushbu so‘rov nimani bildiradi? SELECT * FROM users WHERE city NOT IN ('Tashkent');",
+    "A": "Toshkentdan tashqari",
+    "B": "Faqat Toshkent",
+    "C": "Hammasi",
+    "D": "NULL",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi query nima qiladi? SELECT * FROM users WHERE age >= 18 AND age <= 25;",
+    "A": "18–25 oralig‘i",
+    "B": "25+",
+    "C": "18-",
+    "D": "Faqat 18",
+    "javob": "A"
+  },
+  {
+    "savol": "Ushbu so‘rov nimani bildiradi? SELECT * FROM users WHERE city LIKE 'S%';",
+    "A": "S bilan boshlan",
+    "B": "S bilan tugaydi",
+    "C": "Ichida S",
+    "D": "Hammasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi query nima qiladi? SELECT * FROM users WHERE LENGTH(name) > 5;",
+    "A": "Ismi 5 dan uzunlar",
+    "B": "Qisqalar",
+    "C": "Hammasi",
+    "D": "NULL",
+    "javob": "A"
+  },
+  {
+    "savol": "Ushbu so‘rov nimani bildiradi? SELECT UPPER(name) FROM users;",
+    "A": "Ismlarni katta harfda",
+    "B": "Kichik harf",
+    "C": "O‘chiradi",
+    "D": "Yangilaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi query nima qiladi? SELECT NOW();",
+    "A": "Hozirgi vaqtni chiqaradi",
+    "B": "Sana qo‘shadi",
+    "C": "Jadval",
+    "D": "NULL",
+    "javob": "A"
+  },
+  {
+    "savol": "Ushbu so‘rov nimani bildiradi? SELECT CURRENT_DATE;",
+    "A": "Bugungi sana",
+    "B": "Kecha",
+    "C": "Ertaga",
+    "D": "NULL",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi query nima qiladi? SELECT * FROM users WHERE age > 18 LIMIT 3;",
+    "A": "3 ta user",
+    "B": "Hammasi",
+    "C": "Oxirgi",
+    "D": "Tasodifiy",
+    "javob": "A"
+  },
+  {
+    "savol": "Ushbu so‘rov nimani bildiradi? SELECT * FROM users OFFSET 10;",
+    "A": "11-yozuvdan boshlab",
+    "B": "1–10",
+    "C": "Oxirgi",
+    "D": "Hammasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi query nima qiladi? SELECT DISTINCT age FROM users;",
+    "A": "Takrorlanmagan yoshlar",
+    "B": "Hamma yosh",
+    "C": "Eng katta",
+    "D": "NULL",
+    "javob": "A"
+  },
+  {
+    "savol": "Ushbu so‘rov nimani bildiradi? SELECT COALESCE(city,'Unknown') FROM users;",
+    "A": "NULL ni almashtiradi",
+    "B": "O‘chiradi",
+    "C": "Yangilaydi",
+    "D": "Filtr",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi query nima qiladi? SELECT * FROM users WHERE email LIKE '%@gmail.com';",
+    "A": "Gmail userlar",
+    "B": "Hamma",
+    "C": "Yahoo",
+    "D": "NULL",
+    "javob": "A"
+  },
+  {
+    "savol": "Ushbu so‘rov nimani bildiradi? SELECT * FROM users WHERE email NOT LIKE '%@gmail.com';",
+    "A": "Gmail bo‘lmaganlar",
+    "B": "Faqat Gmail",
+    "C": "Hammasi",
+    "D": "NULL",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi query nima qiladi? SELECT id + 1 FROM users;",
+    "A": "Hisob-kitob qiladi",
+    "B": "O‘chiradi",
+    "C": "Yangilaydi",
+    "D": "Tanlaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ushbu so‘rov nimani bildiradi? SELECT age * 2 FROM users;",
+    "A": "Yoshni ko‘paytiradi",
+    "B": "Bo‘ladi",
+    "C": "Ayiradi",
+    "D": "NULL",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi query nima qiladi? SELECT * FROM users WHERE age BETWEEN 1 AND 100;",
+    "A": "1–100 oralig‘i",
+    "B": "100+",
+    "C": "1-",
+    "D": "Faqat 1",
+    "javob": "A"
+  },
+  {
+    "savol": "Ushbu so‘rov nimani bildiradi? SELECT * FROM users WHERE name IS NOT NULL;",
+    "A": "Ismi borlar",
+    "B": "Ismi yo‘qlar",
+    "C": "Hammasi",
+    "D": "NULL",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi query nima qiladi? SELECT * FROM users WHERE city = '';",
+    "A": "Bo‘sh city",
+    "B": "NULL",
+    "C": "Hammasi",
+    "D": "To‘ldirilgan",
+    "javob": "A"
+  },
+  {
+    "savol": "Ushbu so‘rov nimani bildiradi? SELECT LENGTH(city) FROM users;",
+    "A": "Shahar uzunligi",
+    "B": "City",
+    "C": "Yosh",
+    "D": "NULL",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi query nima qiladi? SELECT REPLACE(name,'a','@') FROM users;",
+    "A": "Harfni almashtiradi",
+    "B": "O‘chiradi",
+    "C": "Yangilaydi",
+    "D": "Filtr",
+    "javob": "A"
+  },
+  {
+    "savol": "Ushbu so‘rov nimani bildiradi? SELECT * FROM users WHERE age <> 18;",
+    "A": "18 bo‘lmaganlar",
+    "B": "Faqat 18",
+    "C": "Hammasi",
+    "D": "NULL",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi query nima qiladi? SELECT * FROM users WHERE age >= 65;",
+    "A": "Katta yoshdagilar",
+    "B": "Yoshlar",
+    "C": "Hammasi",
+    "D": "NULL",
+    "javob": "A"
+  },
+  {
+    "savol": "Ushbu so‘rov nimani bildiradi? SELECT SUBSTRING(name,1,3) FROM users;",
+    "A": "Ismning 3 harfi",
+    "B": "Oxiri",
+    "C": "Butun",
+    "D": "NULL",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi query nima qiladi? SELECT * FROM users WHERE city LIKE '%o%';",
+    "A": "Ichida o bor",
+    "B": "Boshlanadi",
+    "C": "Tugaydi",
+    "D": "Yo‘q",
+    "javob": "A"
+  },
+  {
+    "savol": "Ushbu so‘rov nimani bildiradi? SELECT name FROM users WHERE LENGTH(name)=4;",
+    "A": "4 harfli ismlar",
+    "B": "Katta",
+    "C": "Kichik",
+    "D": "Hammasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi query nima qiladi? SELECT * FROM users WHERE age > 0;",
+    "A": "Yoshi musbat",
+    "B": "Nol",
+    "C": "Manfiy",
+    "D": "NULL",
+    "javob": "A"
+  },
+  {
+    "savol": "Ushbu so‘rov nimani bildiradi? SELECT ABS(age-30) FROM users;",
+    "A": "Farqni hisoblaydi",
+    "B": "Ayiradi",
+    "C": "Qo‘shadi",
+    "D": "NULL",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi query nima qiladi? SELECT ROUND(AVG(age)) FROM users;",
+    "A": "O‘rtachani yaxlitlaydi",
+    "B": "Eng katta",
+    "C": "Eng kichik",
+    "D": "COUNT",
+    "javob": "A"
+  },
+  {
+    "savol": "Ushbu so‘rov nimani bildiradi? SELECT * FROM users WHERE city ILIKE 't%';",
+    "A": "Katta-kichik farqsiz",
+    "B": "Faqat katta",
+    "C": "Faqat kichik",
+    "D": "Hammasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi query nima qiladi? SELECT email FROM users WHERE email IS NULL;",
+    "A": "Emaili yo‘qlar",
+    "B": "Emaili borlar",
+    "C": "Hammasi",
+    "D": "NULL",
+    "javob": "A"
+  },
+  {
+    "savol": "Ushbu so‘rov nimani bildiradi? SELECT * FROM users WHERE age > 18 ORDER BY age;",
+    "A": "Kattalarni saralaydi",
+    "B": "Hammasi",
+    "C": "Kamayish",
+    "D": "Id",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi query nima qiladi? SELECT name FROM users ORDER BY LENGTH(name);",
+    "A": "Ism uzunligi bo‘yicha",
+    "B": "Alfavit",
+    "C": "Yosh",
+    "D": "City",
+    "javob": "A"
+  },
+  {
+    "savol": "Ushbu so‘rov nimani bildiradi? SELECT * FROM users WHERE city IS NOT NULL AND city <> '';",
+    "A": "City to‘ldirilganlar",
+    "B": "Bo‘shlar",
+    "C": "Hammasi",
+    "D": "NULL",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi query nima qiladi? SELECT DISTINCT city, age FROM users;",
+    "A": "City-age kombinatsiyasi",
+    "B": "Faqat city",
+    "C": "Faqat age",
+    "D": "Hammasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ushbu so‘rov nimani bildiradi? SELECT * FROM users WHERE created_at > '2024-01-01';",
+    "A": "2024 dan keyingi",
+    "B": "Oldingi",
+    "C": "Hammasi",
+    "D": "NULL",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi query nima qiladi? SELECT EXTRACT(YEAR FROM created_at) FROM users;",
+    "A": "Yilni chiqaradi",
+    "B": "Oyni",
+    "C": "Kunni",
+    "D": "Soatni",
+    "javob": "A"
+  },
+  {
+    "savol": "Ushbu so‘rov nimani bildiradi? SELECT * FROM users WHERE created_at IS NULL;",
+    "A": "Sana yo‘qlar",
+    "B": "Hamma",
+    "C": "Sana borlar",
+    "D": "NULL",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi query nima qiladi? SELECT * FROM users WHERE age BETWEEN 18 AND 65 AND city='Tashkent';",
+    "A": "Ikkala shart",
+    "B": "OR",
+    "C": "Faqat city",
+    "D": "Hammasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ushbu so‘rov nimani bildiradi? SELECT COUNT(DISTINCT city) FROM users;",
+    "A": "Turli shaharlar soni",
+    "B": "Userlar",
+    "C": "NULL",
+    "D": "Eng katta",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi query nima qiladi? SELECT * FROM users ORDER BY created_at DESC;",
+    "A": "Oxirgi yozuvlar oldin",
+    "B": "Birinchi",
+    "C": "Alfavit",
+    "D": "Yosh",
+    "javob": "A"
+  },
+  {
+    "savol": "Ushbu so‘rov nimani bildiradi? SELECT * FROM users WHERE created_at::date = CURRENT_DATE;",
+    "A": "Bugungi userlar",
+    "B": "Kecha",
+    "C": "Ertaga",
+    "D": "Hammasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi query nima qiladi? SELECT age + 5 FROM users;",
+    "A": "Yoshni oshiradi",
+    "B": "Ayiradi",
+    "C": "Bo‘ladi",
+    "D": "NULL",
+    "javob": "A"
+  },
+  {
+    "savol": "Ushbu so‘rov nimani bildiradi? SELECT * FROM users WHERE age BETWEEN 10 AND 12;",
+    "A": "10–12",
+    "B": "12+",
+    "C": "10-",
+    "D": "NULL",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi query nima qiladi? SELECT name FROM users WHERE city IS NOT NULL ORDER BY name;",
+    "A": "Ismlarni saralaydi",
+    "B": "City",
+    "C": "Yosh",
+    "D": "Hammasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ushbu so‘rov nimani bildiradi? SELECT DISTINCT ON (city) * FROM users;",
+    "A": "Har shahar 1 ta",
+    "B": "Hammasi",
+    "C": "Eng yosh",
+    "D": "NULL",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi query nima qiladi? SELECT * FROM users WHERE created_at < NOW();",
+    "A": "Oldingi sanalar",
+    "B": "Kelajak",
+    "C": "Hamma",
+    "D": "NULL",
+    "javob": "A"
+  },
+  {
+    "savol": "Ushbu so‘rov nimani bildiradi? SELECT DATE(created_at) FROM users;",
+    "A": "Faqat sana",
+    "B": "Soat",
+    "C": "Oy",
+    "D": "Yil",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi query nima qiladi? SELECT * FROM users WHERE age + 5 > 30;",
+    "A": "Shart hisob bilan",
+    "B": "Faqat age",
+    "C": "Hammasi",
+    "D": "NULL",
+    "javob": "A"
+  },
+  {
+    "savol": "Ushbu so‘rov nimani bildiradi? SELECT name FROM users WHERE name ~ '^[A-Z]';",
+    "A": "Katta harf bilan",
+    "B": "Kichik",
+    "C": "Son",
+    "D": "NULL",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi query nima qiladi? SELECT * FROM users WHERE city !~ '^[A-Z]';",
+    "A": "Katta harf bilan emas",
+    "B": "Katta",
+    "C": "Hammasi",
+    "D": "NULL",
+    "javob": "A"
+  },
+  {
+    "savol": "Ushbu so‘rov nimani bildiradi? SELECT * FROM users WHERE age BETWEEN 1 AND 5;",
+    "A": "Kichik yoshlar",
+    "B": "Katta",
+    "C": "Hammasi",
+    "D": "NULL",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi query nima qiladi? `SELECT name FROM users WHERE name SIMILAR TO '(Ali",
+    "A": "Vali)%';`",
+    "B": "Ali yoki Vali",
+    "C": "Faqat Ali",
+    "D": "Hammasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ushbu so‘rov nimani bildiradi? SELECT * FROM users WHERE age > ALL (SELECT age FROM users WHERE city='Tashkent');",
+    "A": "Toshkentdan katta",
+    "B": "Kichik",
+    "C": "Teng",
+    "D": "NULL",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi query nima qiladi? SELECT * FROM users WHERE age < ANY (SELECT age FROM users WHERE city='Samarkand');",
+    "A": "Kamida bittadan kichik",
+    "B": "Eng kichik",
+    "C": "Eng katta",
+    "D": "NULL",
+    "javob": "A"
+  },
+  {
+    "savol": "Ushbu so‘rov nimani bildiradi? SELECT COALESCE(email, name) FROM users;",
+    "A": "Email yo‘q bo‘lsa ism",
+    "B": "Har doim email",
+    "C": "NULL",
+    "D": "O‘chiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi query nima qiladi? SELECT TRIM(name) FROM users;",
+    "A": "Bo‘sh joyni olib tashlaydi",
+    "B": "Katta harf",
+    "C": "O‘chiradi",
+    "D": "NULL",
+    "javob": "A"
+  },
+  {
+    "savol": "Ushbu so‘rov nimani bildiradi? SELECT * FROM users WHERE LENGTH(email) > 10;",
+    "A": "Uzun email",
+    "B": "Qisqa",
+    "C": "NULL",
+    "D": "Hammasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi query nima qiladi? SELECT * FROM users WHERE created_at BETWEEN '2024-01-01' AND '2024-12-31';",
+    "A": "2024 yil",
+    "B": "2023",
+    "C": "2025",
+    "D": "Hammasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ushbu so‘rov nimani bildiradi? SELECT name FROM users WHERE name NOT LIKE '%a%';",
+    "A": "a harfi yo‘qlar",
+    "B": "Borlar",
+    "C": "Hammasi",
+    "D": "NULL",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi query nima qiladi? SELECT * FROM users WHERE age::text LIKE '2%';",
+    "A": "20 yoshlar",
+    "B": "2 yosh",
+    "C": "Hammasi",
+    "D": "NULL",
+    "javob": "A"
+  },
+  {
+    "savol": "Ushbu so‘rov nimani bildiradi? SELECT NULLIF(age, 0) FROM users;",
+    "A": "0 ni NULL qiladi",
+    "B": "NULL ni 0",
+    "C": "O‘chiradi",
+    "D": "Yangilaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi query nima qiladi? SELECT GREATEST(age, 18) FROM users;",
+    "A": "Kamida 18",
+    "B": "Eng kichik",
+    "C": "Eng katta",
+    "D": "NULL",
+    "javob": "A"
+  },
+  {
+    "savol": "Ushbu so‘rov nimani bildiradi? SELECT LEAST(age, 65) FROM users;",
+    "A": "65 dan oshmaydi",
+    "B": "Eng katta",
+    "C": "Eng kichik",
+    "D": "NULL",
+    "javob": "A"
+  }
+]
