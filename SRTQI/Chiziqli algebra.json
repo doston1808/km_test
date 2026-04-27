@@ -1,22 +1,22 @@
 [
   {
-    "savol": "Ustun matritsani ko’rsating",
-    "A": "",
-    "B": "",
+    "savol": "Ustun matritsani ko'rsating.",
+    "A": "\\begin{pmatrix} 1 \\\\ 3 \\\\ 1 \\end{pmatrix}",
+    "B": "\\begin{pmatrix} 1 & 0 & 0 \\\\ 0 & 1 & 0 \\\\ 0 & 0 & 1 \\end{pmatrix}",
     "C": "E",
     "D": "(1,2,3)",
     "javob": "A"
   },
   {
     "savol": "Matritsa deb nimaga aytiladi?",
-    "A": "m ta satr va n ta ustunga ega bo’lgan qavslar ichiga olingan to’rtburchakli sonlar jadvali",
-    "B": "m ta satr va n ta ustunga ega bo’lgan qavslar ichiga olingan uchburchakli harflar jadvali",
-    "C": "Harflar yig’indisidan iborat ifoda",
-    "D": "Sonlarning ko’oaytmasidan iborat ifoda",
+    "A": "m ta satr va n ta ustunga ega bo'lgan qavslar ichiga olingan to'rtburchakli sonlar jadvali",
+    "B": "m ta satr va n ta ustunga ega bo'lgan qavslar ichiga olingan uchburchakli harflar jadvali",
+    "C": "Harflar yig'indisidan iborat ifoda",
+    "D": "Sonlarning ko'paytmasidan iborat ifoda",
     "javob": "A"
   },
   {
-    "savol": "Matritsani tashkil qilgan sonlar nima deyiladi",
+    "savol": "Matritsani tashkil qilgan sonlar nima deyiladi?",
     "A": "Elementlar",
     "B": "Harflar",
     "C": "Belgilar",
@@ -24,7 +24,7 @@
     "javob": "A"
   },
   {
-    "savol": "3 ta satr va 4 ta ustundan iborat matritsa o’lchami toping",
+    "savol": "3 ta satr va 4 ta ustundan iborat matritsa o'lchami toping.",
     "A": "3x4",
     "B": "4x3",
     "C": "3x3",
@@ -32,15 +32,15 @@
     "javob": "A"
   },
   {
-    "savol": "3-satr va 4-ustunda turgan elementni qanday belgilanadi",
-    "A": "$$a_{34}$$",
-    "B": "$$a_{43}$$",
-    "C": "$$a_{33}$$",
-    "D": "$$a_{44}$$",
+    "savol": "3-satr va 4-ustunda turgan elementni qanday belgilanadi?",
+    "A": "a_{34}",
+    "B": "a_{43}",
+    "C": "a_{33}",
+    "D": "a_{44}",
     "javob": "A"
   },
   {
-    "savol": "3x4 o’lchamli matritsada nechta element bo’ladi",
+    "savol": "3x4 o'lchamli matritsada nechta element bo'ladi?",
     "A": "12",
     "B": "16",
     "C": "9",
@@ -48,39 +48,39 @@
     "javob": "A"
   },
   {
-    "savol": "Barcha elementlari noldan iborat bo’lgan matritsa qanaqa matritsa deyiladi",
+    "savol": "Barcha elementlari noldan iborat bo'lgan matritsa qanaqa matritsa deyiladi?",
     "A": "Nol matritsa",
     "B": "Kvadrat matritsa",
     "C": "Diagonal matritsa",
-    "D": "To’rtburchak matritsa",
+    "D": "To'rtburchak matritsa",
     "javob": "A"
   },
   {
-    "savol": "Birlik matritsani ko`rsating.",
-    "A": "",
-    "B": "",
+    "savol": "Birlik matritsani ko'rsating.",
+    "A": "\\begin{pmatrix} 1 & 0 & 0 \\\\ 0 & 1 & 0 \\\\ 0 & 0 & 1 \\end{pmatrix}",
+    "B": "\\begin{pmatrix} 1 \\\\ 3 \\\\ 1 \\end{pmatrix}",
     "C": "(2 1 3)",
-    "D": "",
+    "D": "\\begin{pmatrix} 2 \\\\ 2 \\end{pmatrix}",
     "javob": "A"
   },
   {
     "savol": "Kvadrat matritsa deb qanday matritsaga aytiladi?",
     "A": "Satrlar soni ustunlar soniga teng matritsaga",
-    "B": "Satrlar soni ustunlar soniga teng bo’lmagan matritsaga",
-    "C": "Satrlar soni ustunlar sonidan katta bo’lgan matritsaga",
-    "D": "Satrlar soni ustunlar sonidan kichik bo’lgan matritsaga",
+    "B": "Satrlar soni ustunlar soniga teng bo'lmagan matritsaga",
+    "C": "Satrlar soni ustunlar sonidan katta bo'lgan matritsaga",
+    "D": "Satrlar soni ustunlar sonidan kichik bo'lgan matritsaga",
     "javob": "A"
   },
   {
-    "savol": "Matritsalarni qo’shish mumkin, agar…",
-    "A": "Ikkala matritsa mos satr va ustun elementlari teng bo’lsa.",
-    "B": "Ikkala matritsa elementlari teng bo’lsa.",
-    "C": "Ikkala matritsa elementlari musbat bo’lsa.",
-    "D": "Ikkala matritsa mos satr va ustun elementlari teng bo’lmasa.",
+    "savol": "Matritsalarni qo'shish mumkin, agar...",
+    "A": "Ikkala matritsa mos satr va ustun elementlari teng bo'lsa.",
+    "B": "Ikkala matritsa elementlari teng bo'lsa.",
+    "C": "Ikkala matritsa elementlari musbat bo'lsa.",
+    "D": "Ikkala matritsa mos satr va ustun elementlari teng bo'lmasa.",
     "javob": "A"
   },
   {
-    "savol": "A= matritsaning  elementlari bo’yicha a23+ a32 yig’indini toping.",
+    "savol": "A = \\begin{pmatrix} -2 & 5 & 0 \\\\ 4 & 1 & -3 \\\\ 6 & -1 & 7 \\end{pmatrix} matritsaning elementlari bo'yicha a_{23} + a_{32} yig'indini toping.",
     "A": "-4",
     "B": "4",
     "C": "0",
@@ -88,7 +88,7 @@
     "javob": "A"
   },
   {
-    "savol": "matritsa tartibini aniqlang .",
+    "savol": "A = \\begin{pmatrix} -2 & 5 & 0 \\\\ 4 & 1 & -3 \\\\ 6 & -1 & 7 \\end{pmatrix} matritsa tartibini aniqlang.",
     "A": "3x3",
     "B": "3x2",
     "C": "2x3",
@@ -96,7 +96,7 @@
     "javob": "A"
   },
   {
-    "savol": "matritsaning barcha elementlari yig’indisini toping.",
+    "savol": "A = \\begin{pmatrix} -2 & 5 & 0 \\\\ 4 & 1 & -3 \\\\ 6 & -1 & 7 \\end{pmatrix} matritsaning barcha elementlari yig'indisini toping.",
     "A": "17",
     "B": "7",
     "C": "0",
@@ -104,39 +104,39 @@
     "javob": "A"
   },
   {
-    "savol": "Agar matritsa bitta ustundan iborat bo’lsa bu matritsa….",
+    "savol": "Agar matritsa bitta ustundan iborat bo'lsa, bu matritsa...",
     "A": "ustun",
-    "B": "$$satr$$",
-    "C": "$$yo'l$$",
-    "D": "$$diaganal$$",
+    "B": "satr",
+    "C": "yo'l",
+    "D": "diagonal",
     "javob": "A"
   },
   {
-    "savol": "bu matritsa nechta satr va ustunga ega?",
-    "A": "$$2 ta satr 3 ta ustun$$",
-    "B": "$$3 ta satr 2 ta ustun$$",
-    "C": "$$2 ta satr 2 ta ustun$$",
-    "D": "$$5 ta satr 2 ta ustun$$",
+    "savol": "A = \\begin{pmatrix} 2 & 0 & 1 \\\\ 33 & -22 & 0 \\end{pmatrix} bu matritsa nechta satr va ustunga ega?",
+    "A": "2 ta satr 3 ta ustun",
+    "B": "3 ta satr 2 ta ustun",
+    "C": "2 ta satr 2 ta ustun",
+    "D": "5 ta satr 2 ta ustun",
     "javob": "A"
   },
   {
-    "savol": "bo'lsa   A-B  matritsani hisoblang.",
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": "",
+    "savol": "A = \\begin{pmatrix} 1 & 2 \\\\ 3 & 4 \\end{pmatrix}, B = \\begin{pmatrix} 5 & 6 \\\\ 7 & 8 \\end{pmatrix} bo'lsa, A - B matritsani hisoblang.",
+    "A": "\\begin{pmatrix} -4 & -4 \\\\ -4 & -4 \\end{pmatrix}",
+    "B": "\\begin{pmatrix} 6 & 8 \\\\ 10 & 12 \\end{pmatrix}",
+    "C": "\\begin{pmatrix} 4 & 4 \\\\ 4 & 4 \\end{pmatrix}",
+    "D": "\\begin{pmatrix} 0 & 0 \\\\ 0 & 0 \\end{pmatrix}",
     "javob": "A"
   },
   {
-    "savol": "A+B matritsani hisoblang.",
+    "savol": "A = \\begin{pmatrix} 2 & 3 & 4 \\\\ 2 & 5 & 0 \\end{pmatrix}, B = \\begin{pmatrix} 3 & -2 \\\\ -1 & 4 \\end{pmatrix} matritsalar berilgan. A+B matritsani hisoblang.",
     "A": "Bu matritsalar ustida qo'shish amalini bajarib bo'lmaydi.",
-    "B": "",
-    "C": "",
-    "D": "",
+    "B": "\\begin{pmatrix} 5 & 1 & 4 \\\\ 1 & 9 & 0 \\end{pmatrix}",
+    "C": "\\begin{pmatrix} 5 & 1 \\\\ 1 & 9 \\end{pmatrix}",
+    "D": "\\begin{pmatrix} 6 & 6 \\\\ 6 & 10 \\end{pmatrix}",
     "javob": "A"
   },
   {
-    "savol": "Bosh diaganal elementlaridan boshqa barcha elementlari nollardan iborat kvadrat matritsaga .......  deyiladi.",
+    "savol": "Bosh diagonal elementlaridan boshqa barcha elementlari nollardan iborat kvadrat matritsaga ...... deyiladi.",
     "A": "diagonal matritsa",
     "B": "birlik matritsa",
     "C": "kvadrat matritsa",
@@ -144,15 +144,15 @@
     "javob": "A"
   },
   {
-    "savol": "Quyidagi determinantni hisoblang:",
+    "savol": "Quyidagi determinantni hisoblang: \\begin{vmatrix} a & b \\\\ c & d \\end{vmatrix}",
     "A": "ac-bd",
     "B": "0",
     "C": "ac",
-    "D": "Bd",
+    "D": "bd",
     "javob": "A"
   },
   {
-    "savol": "Quyidagi determinantni hisoblang:",
+    "savol": "Quyidagi determinantni hisoblang: \\begin{vmatrix} 2 & 5 \\\\ 8 & 1 \\end{vmatrix}",
     "A": "26",
     "B": "13",
     "C": "15",
@@ -160,50 +160,50 @@
     "javob": "A"
   },
   {
-    "savol": "chiziqli tenglamalar sistemasida.  Agar  shart bajarilsa ........ bo'ladi.",
+    "savol": "Chiziqli tenglamalar sistemasida, agar \\Delta \\neq 0 shart bajarilsa, ...... bo'ladi.",
     "A": "tenglamalar sistemasi yagona yechimga ega",
-    "B": "tenglamalar sistemasi, yechimga ega emas",
-    "C": "tenglamalar sistemasi cheksiz ko’p yechimga ega",
+    "B": "tenglamalar sistemasi yechimga ega emas",
+    "C": "tenglamalar sistemasi cheksiz ko'p yechimga ega",
     "D": "tenglamalar sistemasi parallel",
     "javob": "A"
   },
   {
-    "savol": "chiziqli tenglamalar sistemasida.  Agar  shart bajarilsa ........ bo'ladi.",
-    "A": "tenglamalar sistemasi, yechimga ega emas",
+    "savol": "Chiziqli tenglamalar sistemasida, agar \\Delta = 0, \\Delta_1 \\neq 0 shart bajarilsa, ...... bo'ladi.",
+    "A": "tenglamalar sistemasi yechimga ega emas",
     "B": "tenglamalar sistemasi yagona yechimga ega",
-    "C": "tenglamalar sistemasi cheksiz ko’p yechimga ega",
+    "C": "tenglamalar sistemasi cheksiz ko'p yechimga ega",
     "D": "tenglamalar sistemasi parallel",
     "javob": "A"
   },
   {
-    "savol": "chiziqli tenglamalar sistemasida.  Agar   shart bajarilsa ........",
-    "A": "tenglamalar sistemasi cheksiz ko’p yechimga ega",
+    "savol": "Chiziqli tenglamalar sistemasida, agar \\Delta = 0, \\Delta_1 = \\Delta_2 = 0 shart bajarilsa, ...... bo'ladi.",
+    "A": "tenglamalar sistemasi cheksiz ko'p yechimga ega",
     "B": "tenglamalar sistemasi yagona yechimga ega",
-    "C": "tenglamalar sistemasi, yechimga ega emas",
+    "C": "tenglamalar sistemasi yechimga ega emas",
     "D": "tenglamalar sistemasi parallel",
     "javob": "A"
   },
   {
-    "savol": "Birgalikdagi tenglamalar sistemasi yagona yechimga ega bo'lsa ..........  deyiladi.",
+    "savol": "Birgalikdagi tenglamalar sistemasi yagona yechimga ega bo'lsa, ...... deb ataladi.",
     "A": "aniq",
-    "B": "trival",
-    "C": "Yechim yo’q",
-    "D": "Cheksiz ko’p yechim",
+    "B": "trivial",
+    "C": "yechim yo'q",
+    "D": "cheksiz ko'p yechim",
     "javob": "A"
   },
   {
-    "savol": "Birgalikdagi tenglamalar sistemasi bittadan ortiq yechimga ega bo'lsa ....... deyiladi.",
-    "A": "aniqmas.",
-    "B": "trival",
-    "C": "Yechim yo’q",
-    "D": "Cheksiz ko’p yechim",
+    "savol": "Birgalikdagi tenglamalar sistemasi bittadan ortiq yechimga ega bo'lsa, ...... deb ataladi.",
+    "A": "aniqmas",
+    "B": "trivial",
+    "C": "yechim yo'q",
+    "D": "cheksiz ko'p yechim",
     "javob": "A"
   },
   {
-    "savol": "Tenglamalar sistemasini yeching.",
-    "A": "",
+    "savol": "x + y = 6, x - y = 2 Tenglamalar sistemasini yeching.",
+    "A": "x=4; y=2",
     "B": "Yechimga ega emas",
-    "C": "Cheksiz ko’p yechim",
+    "C": "Cheksiz ko'p yechim",
     "D": "Yechimlari nolga teng",
     "javob": "A"
   },
@@ -216,111 +216,111 @@
     "javob": "A"
   },
   {
-    "savol": "Agar chiziqli tenglamalar sistemasi  tenglamalari barcha ozod hadlari nolga teng bo’lsa, chiziqli tenglamalar sistemasi ........... deyiladi.",
+    "savol": "Agar chiziqli tenglamalar sistemasi tenglamalari barcha ozod hadlari nolga teng bo'lsa, chiziqli tenglamalar sistemasi ...... deyiladi.",
     "A": "Bir jinsli",
-    "B": "trival",
-    "C": "Yechim yo’q",
-    "D": "Cheksiz ko’p yechim",
+    "B": "trivial",
+    "C": "Yechim yo'q",
+    "D": "Cheksiz ko'p yechim",
     "javob": "A"
   },
   {
-    "savol": "Agarda, tenglamalar ozod hadlaridan hech bo’lmaganda bittasi noldan farqli bo’lsa, sistema ...... deb ataladi.",
-    "A": "bir jinsli bo’lmagan sistema",
-    "B": "trival",
-    "C": "Yechim yo’q",
-    "D": "Cheksiz ko’p yechim",
+    "savol": "Agarda, tenglamalar ozod hadlaridan hech bo'lmaganda bittasi noldan farqli bo'lsa, sistema ...... deb ataladi.",
+    "A": "bir jinsli bo'lmagan sistema",
+    "B": "trivial",
+    "C": "Yechim yo'q",
+    "D": "Cheksiz ko'p yechim",
     "javob": "A"
   },
   {
-    "savol": "Bir jinsli chiziqli tenglamalar sistemaning yechimi faqat nollardan iborat bo'lsa, u ..... yechim.",
+    "savol": "Bir jinsli chiziqli tenglamalar sistemasining yechimi faqat nollardan iborat bo'lsa, u ...... yechim.",
     "A": "trivial yechim",
     "B": "notrivial yechim",
-    "C": "Yechim yo’q",
-    "D": "Cheksiz ko’p yechim",
+    "C": "Yechim yo'q",
+    "D": "Cheksiz ko'p yechim",
     "javob": "A"
   },
   {
-    "savol": "Bir jinsli chiziqli tenglamalar sistemasining yechimi ichida kamida bitta noldan farqli son mavjud bo'lsa, u ..... deb ataladi.",
+    "savol": "Bir jinsli chiziqli tenglamalar sistemasining yechimi ichida kamida bitta noldan farqli son mavjud bo'lsa, u ...... deb ataladi.",
     "A": "notrivial yechim",
-    "B": "trival",
-    "C": "Yechim yo’q",
-    "D": "Cheksiz ko’p yechim",
+    "B": "trivial",
+    "C": "Yechim yo'q",
+    "D": "Cheksiz ko'p yechim",
     "javob": "A"
   },
   {
-    "savol": "Tenglamalar sistemasini yeching X+y=6 x-y=2",
-    "A": "X=4 Y=2",
-    "B": "X=2 y=0",
-    "C": "X=10 y=10",
-    "D": "X=5 y=-5",
+    "savol": "x + y = 6, x - y = 2 Tenglamalar sistemasini yeching.",
+    "A": "X=4; Y=2",
+    "B": "X=2; y=0",
+    "C": "X=10; y=10",
+    "D": "X=5; y=-5",
     "javob": "A"
   },
   {
-    "savol": "Tenglamalar sistemasini yeching x+2y=4 x-y=1",
-    "A": "X=2 Y=1",
-    "B": "X=2 y=0",
-    "C": "X=10 y=10",
-    "D": "X=5 y=-5",
+    "savol": "x + 2y = 4, x - y = 1 Tenglamalar sistemasini yeching.",
+    "A": "X=2; Y=1",
+    "B": "X=2; y=0",
+    "C": "X=10; y=10",
+    "D": "X=5; y=-5",
     "javob": "A"
   },
   {
-    "savol": "Tenglamalar sistemasini yeching 2X+y=10 x-y=2",
-    "A": "X=4 Y=2",
-    "B": "X=2 y=0",
-    "C": "X=10 y=10",
-    "D": "X=5 y=-5",
+    "savol": "2x + y = 10, x - y = 2 Tenglamalar sistemasini yeching.",
+    "A": "X=4; Y=2",
+    "B": "X=2; y=0",
+    "C": "X=10; y=10",
+    "D": "X=5; y=-5",
     "javob": "A"
   },
   {
-    "savol": "Tenglamalar sistemasini o'rniga qo'yish usuli bilan yeching.",
+    "savol": "x = -y, x + 2y = 6 Tenglamalar sistemasini o'rniga qo'yish usuli bilan yeching.",
     "A": "x=-6; y=6",
-    "B": "X=2 y=0",
-    "C": "X=10 y=10",
-    "D": "X=5 y=-5",
+    "B": "X=2; y=0",
+    "C": "X=10; y=10",
+    "D": "X=5; y=-5",
     "javob": "A"
   },
   {
-    "savol": "Tenglamalar sistemasini o'rniga qo'yish usuli bilan yeching.",
+    "savol": "x + y = 7, 3x - y = 13 Tenglamalar sistemasini o'rniga qo'yish usuli bilan yeching.",
     "A": "x=5; y=2",
-    "B": "X=2 y=0",
-    "C": "X=10 y=10",
-    "D": "X=5 y=-5",
+    "B": "X=2; y=0",
+    "C": "X=10; y=10",
+    "D": "X=5; y=-5",
     "javob": "A"
   },
   {
-    "savol": "Tenglamalar sistemasini qo'shish usuli bilan yeching.",
+    "savol": "x + y = 7, 3x - y = 13 Tenglamalar sistemasini qo'shish usuli bilan yeching.",
     "A": "x=5; y=2",
-    "B": "X=2 y=0",
-    "C": "X=10 y=10",
-    "D": "X=5 y=-5",
+    "B": "X=2; y=0",
+    "C": "X=10; y=10",
+    "D": "X=5; y=-5",
     "javob": "A"
   },
   {
-    "savol": "Tenglamalar sistemasini qo'shish usuli bilan yeching.",
+    "savol": "2x + 3y = 10, 2x - 3y = -2 Tenglamalar sistemasini qo'shish usuli bilan yeching.",
     "A": "x=2; y=-2",
-    "B": "X=2 y=0",
-    "C": "X=10 y=10",
-    "D": "X=5 y=-5",
+    "B": "X=2; y=0",
+    "C": "X=10; y=10",
+    "D": "X=5; y=-5",
     "javob": "A"
   },
   {
-    "savol": "Tenglamalar sistemasini qo'shish usuli bilan yeching.",
+    "savol": "2x + 4y = 14, 3x - 4y = 1 Tenglamalar sistemasini qo'shish usuli bilan yeching.",
     "A": "x=3; y=2",
-    "B": "X=2 y=0",
-    "C": "X=10 y=10",
-    "D": "X=5 y=-5",
+    "B": "X=2; y=0",
+    "C": "X=10; y=10",
+    "D": "X=5; y=-5",
     "javob": "A"
   },
   {
-    "savol": "Cheksiz ko’p yechim nima?",
+    "savol": "Cheksiz ko'p yechim nima?",
     "A": "Javobi istalgan son",
-    "B": "Javobi yo’q",
-    "C": "Javobi nolga teng bo’lgan son",
-    "D": "Javobi ikkita bo’lgan son",
+    "B": "Javobi yo'q",
+    "C": "Javobi nolga teng bo'lgan son",
+    "D": "Javobi ikkita bo'lgan son",
     "javob": "A"
   },
   {
-    "savol": "Natural sonlar to’plami qaysi harf bilan belgilanadi.",
+    "savol": "Natural sonlar to'plami qaysi harf bilan belgilanadi?",
     "A": "N",
     "B": "Q",
     "C": "R",
@@ -328,7 +328,7 @@
     "javob": "A"
   },
   {
-    "savol": "Haqiqiy sonlar to’plami qaysi harf bilan belgilanadi.",
+    "savol": "Haqiqiy sonlar to'plami qaysi harf bilan belgilanadi?",
     "A": "R",
     "B": "N",
     "C": "Q",
@@ -336,7 +336,7 @@
     "javob": "A"
   },
   {
-    "savol": "Ratsional  sonlar to’plami qaysi harf bilan belgilanadi.",
+    "savol": "Ratsional sonlar to'plami qaysi harf bilan belgilanadi?",
     "A": "Q",
     "B": "N",
     "C": "Z",
@@ -344,7 +344,7 @@
     "javob": "A"
   },
   {
-    "savol": "Kompleks sonlar to’plami qaysi harf bilan belgilanadi.",
+    "savol": "Kompleks sonlar to'plami qaysi harf bilan belgilanadi?",
     "A": "C",
     "B": "N",
     "C": "Q",
@@ -352,7 +352,7 @@
     "javob": "A"
   },
   {
-    "savol": "Butunl sonlar to’plami qaysi harf bilan belgilanadi.",
+    "savol": "Butun sonlar to'plami qaysi harf bilan belgilanadi?",
     "A": "Z",
     "B": "N",
     "C": "Q",
@@ -361,14 +361,14 @@
   },
   {
     "savol": "Kompleks son deb nimaga aytiladi?",
-    "A": "a+ib  ko’rinishidagi songa",
+    "A": "a+ib ko'rinishidagi songa",
     "B": "0 soniga",
     "C": "1 soniga",
     "D": "Hamma javoblar xato",
     "javob": "A"
   },
   {
-    "savol": "a+ib ko’rinishidagi soning haqiqiy qismi qaysi",
+    "savol": "a+ib ko'rinishidagi sonning haqiqiy qismi qaysi?",
     "A": "a",
     "B": "b",
     "C": "i",
@@ -376,7 +376,7 @@
     "javob": "A"
   },
   {
-    "savol": "a+ib ko’rinishidagi soning mavhum qismi qaysi",
+    "savol": "a+ib ko'rinishidagi sonning mavhum qismi qaysi?",
     "A": "b",
     "B": "a",
     "C": "i",
@@ -384,7 +384,7 @@
     "javob": "A"
   },
   {
-    "savol": "a+ib ko’rinishidagi sonda i nimani anglatadi",
+    "savol": "a+ib ko'rinishidagi sonda i nimani anglatadi?",
     "A": "Mavhum birlik",
     "B": "sonni",
     "C": "harfni",
@@ -392,7 +392,7 @@
     "javob": "A"
   },
   {
-    "savol": "a+ib ko’rinishidagi sonda a,b qanday sonlar?",
+    "savol": "a+ib ko'rinishidagi sonda a, b qanday sonlar?",
     "A": "haqiqiy",
     "B": "natural",
     "C": "Son emas",
@@ -400,39 +400,39 @@
     "javob": "A"
   },
   {
-    "savol": "Gorizontal to’g’ri chiziq qaysi o’q?",
+    "savol": "Gorizontal to'g'ri chiziq qaysi o'q?",
     "A": "haqiqiy",
     "B": "Mavhum",
     "C": "T.J.Y",
-    "D": "Barcha javoblar to’g’ri",
+    "D": "Barcha javoblar to'g'ri",
     "javob": "A"
   },
   {
-    "savol": "Haqiqiy o’qni qaysi chiziq tashkil qiladi",
+    "savol": "Haqiqiy o'qni qaysi chiziq tashkil qiladi?",
     "A": "Gorizontal chiziq",
-    "B": "Vertical chiziq",
+    "B": "Vertikal chiziq",
     "C": "T.J.Y",
-    "D": "Barcha javoblar to’g’ri",
+    "D": "Barcha javoblar to'g'ri",
     "javob": "A"
   },
   {
-    "savol": "vertikal to’g’ri chiziq qaysi o’q?",
+    "savol": "Vertikal to'g'ri chiziq qaysi o'q?",
     "A": "Mavhum",
     "B": "Haqiqiy",
     "C": "T.J.Y",
-    "D": "Barcha javoblar to’g’ri",
+    "D": "Barcha javoblar to'g'ri",
     "javob": "A"
   },
   {
-    "savol": "Mavhum o’qni qaysi chiziq tashkil qiladi",
-    "A": "Vertical chiziq",
-    "B": "Gorizontal chiziq chiziq",
+    "savol": "Mavhum o'qni qaysi chiziq tashkil qiladi?",
+    "A": "Vertikal chiziq",
+    "B": "Gorizontal chiziq",
     "C": "T.J.Y",
-    "D": "Barcha javoblar to’g’ri",
+    "D": "Barcha javoblar to'g'ri",
     "javob": "A"
   },
   {
-    "savol": "3-5i ko’rinishidagi kompleks sonda qaysi qismi haqiqiy son",
+    "savol": "3-5i ko'rinishidagi kompleks sonda qaysi qismi haqiqiy son?",
     "A": "3",
     "B": "5",
     "C": "1",
@@ -440,7 +440,7 @@
     "javob": "A"
   },
   {
-    "savol": "3-5i ko’rinishidagi kompleks sonda qaysi qismi mavhum son",
+    "savol": "3-5i ko'rinishidagi kompleks sonda qaysi qismi mavhum son?",
     "A": "-5",
     "B": "3",
     "C": "1",
@@ -448,7 +448,7 @@
     "javob": "A"
   },
   {
-    "savol": "3-5i ko’rinishidagi kompleks sonda qaysi qismi haqiqiy o’qda joylashgan",
+    "savol": "3-5i ko'rinishidagi kompleks sonda qaysi qismi haqiqiy o'qda joylashgan?",
     "A": "3",
     "B": "5",
     "C": "1",
@@ -456,7 +456,7 @@
     "javob": "A"
   },
   {
-    "savol": "3-5i ko’rinishidagi kompleks sonda qaysi qismi mavhum o’qda joylashgan",
+    "savol": "3-5i ko'rinishidagi kompleks sonda qaysi qismi mavhum o'qda joylashgan?",
     "A": "-5",
     "B": "5",
     "C": "1",
@@ -464,7 +464,7 @@
     "javob": "A"
   },
   {
-    "savol": "a+ib kompleks son kompleks sonlar tekisligidagi qaysi nuqtasiga to’g’ri keladi?",
+    "savol": "a+ib kompleks son kompleks sonlar tekisligidagi qaysi nuqtasiga to'g'ri keladi?",
     "A": "(a,b)",
     "B": "(b,a)",
     "C": "(0,0)",
@@ -472,7 +472,7 @@
     "javob": "A"
   },
   {
-    "savol": "4+5i kompleks son kompleks sonlar tekisligidagi qaysi nuqtasiga to’g’ri keladi?",
+    "savol": "4+5i kompleks son kompleks sonlar tekisligidagi qaysi nuqtasiga to'g'ri keladi?",
     "A": "(4,5)",
     "B": "(9,0)",
     "C": "(8,9)",
@@ -480,7 +480,7 @@
     "javob": "A"
   },
   {
-    "savol": "Ta’rifni davom ettiring. Bir to’plam elementlarini boshqa to’plam elementlari bilan ma’lum bir qoida orqali bo’lanishiga  …… deyiladi.",
+    "savol": "Ta'rifni davom ettiring. Bir to'plam elementlarini boshqa to'plam elementlari bilan ma'lum bir qoida orqali bo'lanishiga ...... deyiladi.",
     "A": "Funksiya",
     "B": "Nol",
     "C": "Matritsa",
@@ -488,7 +488,7 @@
     "javob": "A"
   },
   {
-    "savol": "Ta’rifni davom ettiring. y=f(x) funksiyaning qabul qilishi mumkin bo’lgan qiymatlar to’plamiga …. deyiladi.",
+    "savol": "Ta'rifni davom ettiring. y=f(x) funksiyaning qabul qilishi mumkin bo'lgan qiymatlar to'plamiga .... deyiladi.",
     "A": "qiymatlar sohasi",
     "B": "aniqlanish sohasi",
     "C": "funksiya",
@@ -496,7 +496,7 @@
     "javob": "A"
   },
   {
-    "savol": "Ta’rifni davom ettiring. Funksiyaning aniqlanish sohasi …. kabi belgilanadi.",
+    "savol": "Ta'rifni davom ettiring. Funksiyaning aniqlanish sohasi .... kabi belgilanadi.",
     "A": "D(f)",
     "B": "E(f)",
     "C": "t(f)",
@@ -504,7 +504,7 @@
     "javob": "A"
   },
   {
-    "savol": "Ta’rifni davom ettiring. Funksiyaning qiymatlar sohasi …. kabi belgilanadi.",
+    "savol": "Ta'rifni davom ettiring. Funksiyaning qiymatlar sohasi .... kabi belgilanadi.",
     "A": "E(f)",
     "B": "t(f)",
     "C": "f(x)",
@@ -528,7 +528,7 @@
     "javob": "A"
   },
   {
-    "savol": "Funksiyalar nechchi xil usulda beriladi.",
+    "savol": "Funksiyalar nechchi xil usulda beriladi?",
     "A": "3",
     "B": "2",
     "C": "6",
@@ -536,7 +536,7 @@
     "javob": "A"
   },
   {
-    "savol": "O‘sivchi va kamayuvchi funksiyalar umumiy nom bilan qanday funksiyalar deyiladi?",
+    "savol": "O'suvchi va kamayuvchi funksiyalar umumiy nom bilan qanday funksiyalar deyiladi?",
     "A": "Monoton funksiyalar",
     "B": "Davriy funksiya",
     "C": "Toq funksiya",
@@ -544,7 +544,7 @@
     "javob": "A"
   },
   {
-    "savol": "y=2x$^{2}$+5x-1 funksiyaning x=2 bo‘lgandagi qiymatini toping.",
+    "savol": "y=2x^2+5x-1 funksiyaning x=2 bo'lgandagi qiymatini toping.",
     "A": "17",
     "B": "21",
     "C": "-1",
@@ -552,11 +552,11 @@
     "javob": "A"
   },
   {
-    "savol": "Ta’rifni to‘ldiring: y=f(x) funksiyaning ……. deb x argumentning qabul qilishi mumkin bo‘ladigan qiymatlar to‘plamiga aytiladi.",
+    "savol": "Ta'rifni to'ldiring: y=f(x) funksiyaning ....... deb x argumentning qabul qilishi mumkin bo'ladigan qiymatlar to'plamiga aytiladi.",
     "A": "aniqlanish sohasi",
     "B": "manfiy",
     "C": "cheksiz",
-    "D": "Ma’noga ega",
+    "D": "Ma'noga ega",
     "javob": "A"
   },
   {
@@ -568,7 +568,7 @@
     "javob": "A"
   },
   {
-    "savol": "y=6x$^{2}$-7x+1 funksiyaning y(-1) dagi qiymatini toping.",
+    "savol": "y=6x^2-7x+1 funksiyaning y(-1) dagi qiymatini toping.",
     "A": "14",
     "B": "5",
     "C": "7",
@@ -576,7 +576,7 @@
     "javob": "A"
   },
   {
-    "savol": "y=x$^{2}$-5x+2 funksiyaning y(-2) dagi qiymatini toping.",
+    "savol": "y=x^2-5x+2 funksiyaning y(-2) dagi qiymatini toping.",
     "A": "16",
     "B": "15",
     "C": "17",
@@ -584,31 +584,31 @@
     "javob": "A"
   },
   {
-    "savol": "Analitik usulda berilgan funksiyalar qanday ko’rinishda bo’ladi?",
-    "A": "funksiya ma’lum formula , ya’ni erkli o’zgaruvchi( argument)ning erksiz o’zgaruvchi(funksiya) ga bog’lanish ko’rinishida beriladi",
-    "B": "funksiyaning qiymatlarining argument qiymatlariga bog’liqligining grafik tarzda beriladi",
-    "C": "erkli o’zgaruvchi(argument) ning  erksiz o’zgaruvchi(funksiya ) ning mos qiymatlarini jadval shaklda beriladi",
-    "D": "Barcha javoblar to’g’ri",
+    "savol": "Analitik usulda berilgan funksiyalar qanday ko'rinishda bo'ladi?",
+    "A": "funksiya ma'lum formula, ya'ni erkli o'zgaruvchi(argument)ning erksiz o'zgaruvchi(funksiya)ga bog'lanish ko'rinishida beriladi",
+    "B": "funksiyaning qiymatlarining argument qiymatlariga bog'liqligining grafik tarzda beriladi",
+    "C": "erkli o'zgaruvchi(argument)ning erksiz o'zgaruvchi(funksiya)ning mos qiymatlarini jadval shaklda beriladi",
+    "D": "Barcha javoblar to'g'ri",
     "javob": "A"
   },
   {
-    "savol": "Grafik usulda berilgan funksiyalar qanday ko’rinishda bo’ladi?",
-    "A": "funksiyaning qiymatlarining argument qiymatlariga bog’liqligining grafik tarzda beriladi",
-    "B": "funksiya ma’lum formula , ya’ni erkli o’zgaruvchi( argument)ning erksiz o’zgaruvchi(funksiya) ga bog’lanish ko’rinishida beriladi",
-    "C": "erkli o’zgaruvchi(argument) ning  erksiz o’zgaruvchi(funksiya ) ning mos qiymatlarini jadval shaklda beriladi",
-    "D": "Barcha javoblar to’g’ri",
+    "savol": "Grafik usulda berilgan funksiyalar qanday ko'rinishda bo'ladi?",
+    "A": "funksiyaning qiymatlarining argument qiymatlariga bog'liqligining grafik tarzda beriladi",
+    "B": "funksiya ma'lum formula, ya'ni erkli o'zgaruvchi(argument)ning erksiz o'zgaruvchi(funksiya)ga bog'lanish ko'rinishida beriladi",
+    "C": "erkli o'zgaruvchi(argument)ning erksiz o'zgaruvchi(funksiya)ning mos qiymatlarini jadval shaklda beriladi",
+    "D": "Barcha javoblar to'g'ri",
     "javob": "A"
   },
   {
-    "savol": "Jadval usulda berilgan funksiyalar qanday ko’rinishda bo’ladi?",
-    "A": "erkli o’zgaruvchi(argument) ning  erksiz o’zgaruvchi(funksiya ) ning mos qiymatlarini jadval shaklda beriladi",
-    "B": "funksiya ma’lum formula , ya’ni erkli o’zgaruvchi( argument)ning erksiz o’zgaruvchi(funksiya) ga bog’lanish ko’rinishida beriladi",
-    "C": "funksiyaning qiymatlarining argument qiymatlariga bog’liqligining grafik tarzda beriladi",
-    "D": "Barcha javoblar to’g’ri",
+    "savol": "Jadval usulda berilgan funksiyalar qanday ko'rinishda bo'ladi?",
+    "A": "erkli o'zgaruvchi(argument)ning erksiz o'zgaruvchi(funksiya)ning mos qiymatlarini jadval shaklda beriladi",
+    "B": "funksiya ma'lum formula, ya'ni erkli o'zgaruvchi(argument)ning erksiz o'zgaruvchi(funksiya)ga bog'lanish ko'rinishida beriladi",
+    "C": "funksiyaning qiymatlarining argument qiymatlariga bog'liqligining grafik tarzda beriladi",
+    "D": "Barcha javoblar to'g'ri",
     "javob": "A"
   },
   {
-    "savol": "y=x$^{2}$+5x-1 funksiyaning x=3 bo‘lgandagi qiymatini  toping.",
+    "savol": "y=x^2+5x-1 funksiyaning x=3 bo'lgandagi qiymatini toping.",
     "A": "23",
     "B": "21",
     "C": "-1",
@@ -616,7 +616,7 @@
     "javob": "A"
   },
   {
-    "savol": "Agar  funksiyaning aniqlanish sohasida olingan hamma qiymatlarida  bo’lsa, bu funksiya … deyiladi.",
+    "savol": "Agar funksiyaning aniqlanish sohasida olingan hamma qiymatlarida f(-x) = f(x) bo'lsa, bu funksiya ... deyiladi.",
     "A": "Juft funksiya",
     "B": "Toq funksiya",
     "C": "Manfiy funksiya",
@@ -624,7 +624,7 @@
     "javob": "A"
   },
   {
-    "savol": "Agar  funksiyaning aniqlanish sohasida olingan hamma qiymatlarida  bo’lsa, bu funksiya … deyiladi.",
+    "savol": "Agar funksiyaning aniqlanish sohasida olingan hamma qiymatlarida f(-x) = -f(x) bo'lsa, bu funksiya ... deyiladi.",
     "A": "Toq funksiya",
     "B": "Juft funksiya",
     "C": "Manfiy funksiya",
@@ -632,7 +632,7 @@
     "javob": "A"
   },
   {
-    "savol": "y=2+x  funksiyada x=2 bo’lgan nuqtani toping",
+    "savol": "y=2+x funksiyada x=2 bo'lgan nuqtani toping.",
     "A": "4",
     "B": "3",
     "C": "5",
@@ -640,161 +640,161 @@
     "javob": "A"
   },
   {
-    "savol": "Kompleks son qanday belgilanadi",
-    "A": "$z=x+ iy $",
+    "savol": "Kompleks son qanday belgilanadi?",
+    "A": "z = x + iy",
     "B": "x",
     "C": "y",
     "D": "i",
     "javob": "A"
   },
   {
-    "savol": "$z=x+ iy $ komplek sonning haqiqiy qismini qaysi",
-    "A": "$$x$$",
-    "B": "$$y$$",
-    "C": "$$i$$",
-    "D": "To’g’ri javob berilmagan",
+    "savol": "z = x + iy kompleks sonning haqiqiy qismini qaysi?",
+    "A": "x",
+    "B": "y",
+    "C": "i",
+    "D": "To'g'ri javob berilmagan",
     "javob": "A"
   },
   {
-    "savol": "$z=x+ iy $ komplek sonning mavhum qismini qaysi",
-    "A": "$$y$$",
-    "B": "$$x$$",
-    "C": "$$i$$",
-    "D": "To’g’ri javob berilmagan",
+    "savol": "z = x + iy kompleks sonning mavhum qismini qaysi?",
+    "A": "y",
+    "B": "x",
+    "C": "i",
+    "D": "To'g'ri javob berilmagan",
     "javob": "A"
   },
   {
-    "savol": "$z=x+ iy $ komplek sonning mavhum birligi qismini qaysi",
-    "A": "$$i$$",
-    "B": "$$x$$",
-    "C": "$$y$$",
-    "D": "To’g’ri javob berilmagan",
+    "savol": "z = x + iy kompleks sonning mavhum birligi qismini qaysi?",
+    "A": "i",
+    "B": "x",
+    "C": "y",
+    "D": "To'g'ri javob berilmagan",
     "javob": "A"
   },
   {
-    "savol": "$z=x+ iy $ komplek sonning haqiqiy qismini qaysi belgilanadi",
-    "A": "$$x=Rez$$",
-    "B": "$$y=Imz$$",
+    "savol": "z = x + iy kompleks sonning haqiqiy qismini qaysi belgilanadi?",
+    "A": "x = Rez",
+    "B": "y = Imz",
     "C": "0",
-    "D": "To’g’ri javob berilmagan",
+    "D": "To'g'ri javob berilmagan",
     "javob": "A"
   },
   {
-    "savol": "$z=x+ iy $ komplek sonning mavhum qismini qaysi belgilanadi",
-    "A": "$$y=Imz$$",
-    "B": "$$x=Rez$$",
+    "savol": "z = x + iy kompleks sonning mavhum qismini qaysi belgilanadi?",
+    "A": "y = Imz",
+    "B": "x = Rez",
     "C": "0",
-    "D": "To’g’ri javob berilmagan",
+    "D": "To'g'ri javob berilmagan",
     "javob": "A"
   },
   {
-    "savol": "Kompleks son qaysi harfi bilan belgilanadi",
-    "A": "$$C$$",
-    "B": "$$R$$",
-    "C": "$$N$$",
-    "D": "To’g’ri javob berilmagan",
+    "savol": "Kompleks son qaysi harfi bilan belgilanadi?",
+    "A": "C",
+    "B": "R",
+    "C": "N",
+    "D": "To'g'ri javob berilmagan",
     "javob": "A"
   },
   {
-    "savol": "Natural son qaysi harfi bilan belgilanadi",
-    "A": "$$N$$",
-    "B": "$$R$$",
-    "C": "$$C$$",
-    "D": "To’g’ri javob berilmagan",
+    "savol": "Natural son qaysi harfi bilan belgilanadi?",
+    "A": "N",
+    "B": "R",
+    "C": "C",
+    "D": "To'g'ri javob berilmagan",
     "javob": "A"
   },
   {
-    "savol": "Bir-biridan faqat mavhum qismining ishorasi bilan farq qiladigan ikkita kompleks son nima deb ataladi",
-    "A": "O’zaro qo’shma kompleks sonlar deyiladi",
-    "B": "To’g’ri javob berilmagan",
+    "savol": "Bir-biridan faqat mavhum qismining ishorasi bilan farq qiladigan ikkita kompleks son nima deb ataladi?",
+    "A": "O'zaro qo'shma kompleks sonlar deyiladi",
+    "B": "To'g'ri javob berilmagan",
     "C": "Kompleks",
     "D": "Son emas",
     "javob": "A"
   },
   {
-    "savol": "$z=1+ 2i $ sonning haqiqiy qismini toping",
+    "savol": "z = 1 + 2i sonning haqiqiy qismini toping.",
     "A": "1",
     "B": "2",
     "C": "0",
-    "D": "To’g’ri javob berilmagan",
+    "D": "To'g'ri javob berilmagan",
     "javob": "A"
   },
   {
-    "savol": "$z=1+ 2i $ sonning mavhum  qismini toping",
+    "savol": "z = 1 + 2i sonning mavhum qismini toping.",
     "A": "2",
     "B": "1",
     "C": "0",
-    "D": "To’g’ri javob berilmagan",
+    "D": "To'g'ri javob berilmagan",
     "javob": "A"
   },
   {
-    "savol": "$z=-1+ 2i $ sonning haqiqiy qismini toping",
+    "savol": "z = -1 + 2i sonning haqiqiy qismini toping.",
     "A": "-1",
     "B": "0",
     "C": "2",
-    "D": "To’g’ri javob berilmagan",
+    "D": "To'g'ri javob berilmagan",
     "javob": "A"
   },
   {
-    "savol": "$z=1-2i $ sonning mavhum qismini toping",
+    "savol": "z = 1 - 2i sonning mavhum qismini toping.",
     "A": "-2",
     "B": "0",
     "C": "1",
-    "D": "To’g’ri javob berilmagan",
+    "D": "To'g'ri javob berilmagan",
     "javob": "A"
   },
   {
-    "savol": "$z=-2+ i $ sonning haqiqiy qismini toping",
+    "savol": "z = -2 + i sonning haqiqiy qismini toping.",
     "A": "-2",
     "B": "0",
     "C": "1",
-    "D": "To’g’ri javob berilmagan",
+    "D": "To'g'ri javob berilmagan",
     "javob": "A"
   },
   {
-    "savol": "$z=1-6i $ sonning mavhum qismini toping",
+    "savol": "z = 1 - 6i sonning mavhum qismini toping.",
     "A": "-6",
     "B": "0",
     "C": "1",
-    "D": "To’g’ri javob berilmagan",
+    "D": "To'g'ri javob berilmagan",
     "javob": "A"
   },
   {
-    "savol": "3 soniga qarama-qarshi sonni toping",
+    "savol": "3 soniga qarama-qarshi sonni toping.",
     "A": "-3",
     "B": "3",
     "C": "0",
-    "D": "To’g’ri javob berilmagan",
+    "D": "To'g'ri javob berilmagan",
     "javob": "A"
   },
   {
-    "savol": "-3 soniga qarama-qarshi sonni toping",
+    "savol": "-3 soniga qarama-qarshi sonni toping.",
     "A": "3",
     "B": "-3",
     "C": "0",
-    "D": "To’g’ri javob berilmagan",
+    "D": "To'g'ri javob berilmagan",
     "javob": "A"
   },
   {
-    "savol": "Juft sonlar qatorini toping",
-    "A": "2,4,6…",
-    "B": "1,2,3…",
-    "C": "1,3,5…",
-    "D": "To’g’ri javob berilmagan",
+    "savol": "Juft sonlar qatorini toping.",
+    "A": "2,4,6...",
+    "B": "1,2,3...",
+    "C": "1,3,5...",
+    "D": "To'g'ri javob berilmagan",
     "javob": "A"
   },
   {
-    "savol": "Toq sonlar qatorini toping",
-    "A": "1,3,5…",
-    "B": "2,4,6…",
+    "savol": "Toq sonlar qatorini toping.",
+    "A": "1,3,5...",
+    "B": "2,4,6...",
     "C": "0",
-    "D": "To’g’ri javob berilmagan",
+    "D": "To'g'ri javob berilmagan",
     "javob": "A"
   },
   {
     "savol": "Kompleks son qanday ifoda orqali aniqlanadi?",
     "A": "z = a + bi",
-    "B": "z = a – b",
+    "B": "z = a - b",
     "C": "z = ab",
     "D": "z = a : b",
     "javob": "A"
@@ -824,7 +824,7 @@
     "javob": "A"
   },
   {
-    "savol": "Agar b = 0 bo‘lsa, qanday son hosil bo‘ladi?",
+    "savol": "Agar b = 0 bo'lsa, qanday son hosil bo'ladi?",
     "A": "Haqiqiy son",
     "B": "Mavhum son",
     "C": "Nol son",
@@ -832,7 +832,7 @@
     "javob": "A"
   },
   {
-    "savol": "Agar a = 0 bo‘lsa, qanday son hosil bo‘ladi?",
+    "savol": "Agar a = 0 bo'lsa, qanday son hosil bo'ladi?",
     "A": "Sof mavhum son",
     "B": "Haqiqiy son",
     "C": "Nol son",
@@ -840,31 +840,31 @@
     "javob": "A"
   },
   {
-    "savol": "Kompleks sonlarning algebraik shakli qaysi ko‘rinishda yoziladi?",
+    "savol": "Kompleks sonlarning algebraik shakli qaysi ko'rinishda yoziladi?",
     "A": "z = a + bi",
-    "B": "z = a – b",
+    "B": "z = a - b",
     "C": "z = ab",
     "D": "z = b : a",
     "javob": "A"
   },
   {
-    "savol": "Ikkita kompleks son teng bo‘lishi uchun qanday shart bajariladi?",
+    "savol": "Ikkita kompleks son teng bo'lishi uchun qanday shart bajariladi?",
     "A": "Haqiqiy qismlari va mavhum qismlari teng",
-    "B": "Yig‘indisi nol bo‘lsa",
-    "C": "Ko‘paytmalari teng bo‘lsa",
-    "D": "Modullari teng bo‘lsa",
+    "B": "Yig'indisi nol bo'lsa",
+    "C": "Ko'paytmalari teng bo'lsa",
+    "D": "Modullari teng bo'lsa",
     "javob": "A"
   },
   {
-    "savol": "Faqar mavhum qismining ishorasi bilan farq qiluvchi sonlar nima deyiladi?",
-    "A": "Qo‘shma kompleks sonlar",
+    "savol": "Faqat mavhum qismining ishorasi bilan farq qiluvchi sonlar nima deyiladi?",
+    "A": "Qo'shma kompleks sonlar",
     "B": "Qarama-qarshi sonlar",
     "C": "Teskari sonlar",
     "D": "Juft sonlar",
     "javob": "A"
   },
   {
-    "savol": "Qo‘shma kompleks sonlarning yig‘indisi qanday son bo‘ladi?",
+    "savol": "Qo'shma kompleks sonlarning yig'indisi qanday son bo'ladi?",
     "A": "Haqiqiy son",
     "B": "Mavhum son",
     "C": "Nol son",
@@ -872,7 +872,7 @@
     "javob": "A"
   },
   {
-    "savol": "Qo‘shma kompleks sonlarning ko‘paytmasi qanday son bo‘ladi?",
+    "savol": "Qo'shma kompleks sonlarning ko'paytmasi qanday son bo'ladi?",
     "A": "Haqiqiy son",
     "B": "Mavhum son",
     "C": "Nol son",
@@ -881,18 +881,18 @@
   },
   {
     "savol": "Kompleks sonlarga qarama-qarshi son nima deb ataladi?",
-    "A": "Yig‘indisi nolga teng bo‘lgan sonlar",
-    "B": "Ko‘paytmasi 1 ga teng bo‘lgan sonlar",
-    "C": "Faqat mavhum qismlari teng bo‘lgan sonlar",
-    "D": "Faqat haqiqiy qismlari teng bo‘lgan sonlar",
+    "A": "Yig'indisi nolga teng bo'lgan sonlar",
+    "B": "Ko'paytmasi 1 ga teng bo'lgan sonlar",
+    "C": "Faqat mavhum qismlari teng bo'lgan sonlar",
+    "D": "Faqat haqiqiy qismlari teng bo'lgan sonlar",
     "javob": "A"
   },
   {
     "savol": "Kompleks sonlarga teskari son nima deb ataladi?",
-    "A": "Ko‘paytmasi 1 ga teng bo‘lgan sonlar",
-    "B": "Yig‘indisi nolga teng bo‘lgan sonlar",
-    "C": "Haqiqiy qismlari teng bo‘lgan sonlar",
-    "D": "Nolga teng bo‘lgan sonlar",
+    "A": "Ko'paytmasi 1 ga teng bo'lgan sonlar",
+    "B": "Yig'indisi nolga teng bo'lgan sonlar",
+    "C": "Haqiqiy qismlari teng bo'lgan sonlar",
+    "D": "Nolga teng bo'lgan sonlar",
     "javob": "A"
   },
   {
@@ -905,14 +905,14 @@
   },
   {
     "savol": "Nol songa teskari son mavjudmi?",
-    "A": "Yo‘q",
+    "A": "Yo'q",
     "B": "Ha",
     "C": "Har doim mavjud",
-    "D": "Cheksiz ko‘p",
+    "D": "Cheksiz ko'p",
     "javob": "A"
   },
   {
-    "savol": "Kompleks sonlarning qo‘shma qismini belgilash qanday yoziladi?",
+    "savol": "Kompleks sonlarning qo'shma qismini belgilash qanday yoziladi?",
     "A": "Z ustiga chiziq",
     "B": "Z ning kvadrati",
     "C": "Z ildizi",
@@ -921,9 +921,9 @@
   },
   {
     "savol": "Matritsa nima?",
-    "A": "Sonlardan tashkil topgan to‘rtburchak jadval",
-    "B": "Sonlarning ko‘paytmasi",
-    "C": "Chiziqlar yig‘indisi",
+    "A": "Sonlardan tashkil topgan to'rtburchak jadval",
+    "B": "Sonlarning ko'paytmasi",
+    "C": "Chiziqlar yig'indisi",
     "D": "Vektorlar sistemasidir",
     "javob": "A"
   },
@@ -938,29 +938,29 @@
   {
     "savol": "Birlik matritsa qanday aniqlanadi?",
     "A": "Diagonal elementlar 1 ga teng, qolganlari nol",
-    "B": "Barcha elementlar bir xil bo‘lishi kerak",
-    "C": "Satrlar soni ustunlar sonidan katta bo‘lishi kerak",
+    "B": "Barcha elementlar bir xil bo'lishi kerak",
+    "C": "Satrlar soni ustunlar sonidan katta bo'lishi kerak",
     "D": "Faqat bitta satr va ustundan tashkil topishi kerak",
     "javob": "A"
   },
   {
     "savol": "Nol matritsa deganda nima tushuniladi?",
-    "A": "Barcha elementlari nol bo‘lgan matritsa",
-    "B": "Barcha elementlari bir bo‘lgan matritsa",
-    "C": "Diagonal elementlari nol bo‘lgan matritsa",
-    "D": "Faqat bitta nol qiymatga ega bo‘lgan matritsa",
+    "A": "Barcha elementlari nol bo'lgan matritsa",
+    "B": "Barcha elementlari bir bo'lgan matritsa",
+    "C": "Diagonal elementlari nol bo'lgan matritsa",
+    "D": "Faqat bitta nol qiymatga ega bo'lgan matritsa",
     "javob": "A"
   },
   {
-    "savol": "Diagonal matritsa qanday bo‘ladi?",
+    "savol": "Diagonal matritsa qanday bo'ladi?",
     "A": "Faqat bosh diagonaldagi elementlar noldan farq qiladi",
-    "B": "Barcha elementlari teng bo‘ladi",
+    "B": "Barcha elementlari teng bo'ladi",
     "C": "Faqat ustun elementlari bor",
-    "D": "Nol elementlari umuman yo‘q",
+    "D": "Nol elementlari umuman yo'q",
     "javob": "A"
   },
   {
-    "savol": "Satrlar soni ustunlar soniga teng bo‘lsa, matritsa qanday bo‘ladi?",
+    "savol": "Satrlar soni ustunlar soniga teng bo'lsa, matritsa qanday bo'ladi?",
     "A": "Kvadrat matritsa",
     "B": "Nol matritsa",
     "C": "Diagonal matritsa",
@@ -970,37 +970,37 @@
   {
     "savol": "Matritsani tashkil etuvchi sonlar nima deb ataladi?",
     "A": "Elementlar",
-    "B": "Ko‘rsatkichlar",
+    "B": "Ko'rsatkichlar",
     "C": "Koordinatalar",
     "D": "Determinantlar",
     "javob": "A"
   },
   {
-    "savol": "Matritsalarni qo‘shish qachon mumkin?",
-    "A": "Ularning o‘lchamlari aynan teng bo‘lsa",
-    "B": "Ustunlar soni teng bo‘lsa",
-    "C": "Faqat satrlar soni teng bo‘lsa",
-    "D": "Bir matritsa kvadrat bo‘lsa",
+    "savol": "Matritsalarni qo'shish qachon mumkin?",
+    "A": "Ularning o'lchamlari aynan teng bo'lsa",
+    "B": "Ustunlar soni teng bo'lsa",
+    "C": "Faqat satrlar soni teng bo'lsa",
+    "D": "Bir matritsa kvadrat bo'lsa",
     "javob": "A"
   },
   {
-    "savol": "Matritsani songa ko‘paytirishdan hosil bo‘lgan matritsa?",
-    "A": "Matritsaning son bilan ko‘paytmasi",
-    "B": "Matritsaning yig‘indisi",
+    "savol": "Matritsani songa ko'paytirishdan hosil bo'lgan matritsa?",
+    "A": "Matritsaning son bilan ko'paytmasi",
+    "B": "Matritsaning yig'indisi",
     "C": "Matritsaning determinanti",
     "D": "Birlik matritsa",
     "javob": "A"
   },
   {
     "savol": "Matritsaning bosh diagonali qanday tanlanadi?",
-    "A": "Chap yuqori burchakdan o‘ng pastki burchakka bo‘lgan elementlar",
+    "A": "Chap yuqori burchakdan o'ng pastki burchakka bo'lgan elementlar",
     "B": "Faqat yuqori satrdagi elementlar",
     "C": "Faqat pastki satrdagi elementlar",
-    "D": "O‘ng yuqori burchakdan chap pastki burchakka bo‘lgan elementlar",
+    "D": "O'ng yuqori burchakdan chap pastki burchakka bo'lgan elementlar",
     "javob": "A"
   },
   {
-    "savol": "Ikki matritsaning mos elementlari teng bo‘lsa, ular qanday deyiladi?",
+    "savol": "Ikki matritsaning mos elementlari teng bo'lsa, ular qanday deyiladi?",
     "A": "Teng matritsalar",
     "B": "Parallel matritsalar",
     "C": "Aralash matritsalar",
@@ -1011,28 +1011,28 @@
     "savol": "Qaysi biri diagonal matritsaga misol?",
     "A": "Bosh diagonaldan tashqari barcha elementlari nol",
     "B": "Barcha elementlari bir xil",
-    "C": "Barcha elementlari teng bo‘lmagan",
+    "C": "Barcha elementlari teng bo'lmagan",
     "D": "Bitta ustundan iborat",
     "javob": "A"
   },
   {
     "savol": "Matritsalar ustida bajariladigan asosiy amallar?",
-    "A": "Qo‘shish, ayirish, songa ko‘paytirish",
+    "A": "Qo'shish, ayirish, songa ko'paytirish",
     "B": "Faqat ayirish",
-    "C": "Faqat qo‘shish",
-    "D": "Songa ko‘paytirish",
+    "C": "Faqat qo'shish",
+    "D": "Songa ko'paytirish",
     "javob": "A"
   },
   {
-    "savol": "Matritsada element nimani bildiradi?",
+    "savol": "Matritsada a_{23} element nimani bildiradi?",
     "A": "2-satr, 3-ustundagi element",
     "B": "3-satr, 2-ustundagi element",
-    "C": "2-ustun, 3-satr yig‘indisi",
+    "C": "2-ustun, 3-satr yig'indisi",
     "D": "23-elementning tartib raqami",
     "javob": "A"
   },
   {
-    "savol": "Bosh diagonalning barcha elementlari 1 bo‘lsa, matritsa?",
+    "savol": "Bosh diagonalning barcha elementlari 1 bo'lsa, matritsa?",
     "A": "Birlik matritsa",
     "B": "Nol matritsa",
     "C": "Kvadrat matritsa",
@@ -1040,11 +1040,11 @@
     "javob": "A"
   },
   {
-    "savol": "Determinant nol bo‘lishi uchun shart?",
-    "A": "Ixtiyoriy ikkita qatori proportsional bo‘lishi",
+    "savol": "Determinant nol bo'lishi uchun shart?",
+    "A": "Ixtiyoriy ikkita qatori proportsional bo'lishi",
     "B": "Diagonal elementlar bir xil",
-    "C": "Barcha elementlari nol bo‘lishi",
-    "D": "Ustunlari teng bo‘lishi",
+    "C": "Barcha elementlari nol bo'lishi",
+    "D": "Ustunlari teng bo'lishi",
     "javob": "A"
   },
   {
@@ -1056,9 +1056,9 @@
     "javob": "A"
   },
   {
-    "savol": "Matritsaning o‘lchami qanday aniqlanadi?",
+    "savol": "Matritsaning o'lchami qanday aniqlanadi?",
     "A": "Satrlar soni va ustunlar soni orqali",
-    "B": "Elementlar yig‘indisi orqali",
+    "B": "Elementlar yig'indisi orqali",
     "C": "Diagonal uzunligi orqali",
     "D": "Determinant orqali",
     "javob": "A"
@@ -1076,7 +1076,7 @@
     "A": "Satr raqami",
     "B": "Ustun raqami",
     "C": "Diagonal element",
-    "D": "O‘lcham",
+    "D": "O'lcham",
     "javob": "A"
   }
 ]
