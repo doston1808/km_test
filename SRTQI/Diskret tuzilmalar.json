@@ -1,6 +1,6 @@
 [
   {
-    "savol": "To‘plam tushunchasini matematika faniga kim kiritgan?",
+    "savol": "To'plam tushunchasini matematika faniga kim kiritgan?",
     "A": "Georg Kantor",
     "B": "Yevklid",
     "C": "Nyuton",
@@ -8,15 +8,15 @@
     "javob": "A"
   },
   {
-    "savol": "To‘plam tushunchasiga odatda nima sifatida qaraladi?",
-    "A": "Ob’ektlar yig‘indisi",
-    "B": "Sonlar ko‘paytmasi",
+    "savol": "To'plam tushunchasiga odatda nima sifatida qaraladi?",
+    "A": "Ob'ektlar yig'indisi",
+    "B": "Sonlar ko'paytmasi",
     "C": "Formulalar jamlanmasi",
-    "D": "Tenglamalar to‘plami",
+    "D": "Tenglamalar to'plami",
     "javob": "A"
   },
   {
-    "savol": "To‘plamning elementlarini qanday harflar bilan belgilash qabul qilingan?",
+    "savol": "To'plamning elementlarini qanday harflar bilan belgilash qabul qilingan?",
     "A": "Kichik lotin harflari",
     "B": "Katta lotin harflari",
     "C": "Grek harflari",
@@ -24,7 +24,7 @@
     "javob": "A"
   },
   {
-    "savol": "To‘plamning o‘zini belgilashda qanday harflar ishlatiladi?",
+    "savol": "To'plamning o'zini belgilashda qanday harflar ishlatiladi?",
     "A": "Katta lotin harflari",
     "B": "Kichik lotin harflari",
     "C": "Arab raqamlari",
@@ -32,15 +32,15 @@
     "javob": "A"
   },
   {
-    "savol": "To‘plamdagi elementlar soni cheklangan bo‘lsa, u qanday to‘plam deb ataladi?",
-    "A": "chekli to‘plam",
-    "B": "cheksiz to‘plam",
-    "C": "bo‘sh to‘plam",
-    "D": "universal to‘plam",
+    "savol": "To'plamdagi elementlar soni cheklangan bo'lsa, u qanday to'plam deb ataladi?",
+    "A": "chekli to'plam",
+    "B": "cheksiz to'plam",
+    "C": "bo'sh to'plam",
+    "D": "universal to'plam",
     "javob": "A"
   },
   {
-    "savol": "Natural sonlar to‘plami qanday belgilanadi?",
+    "savol": "Natural sonlar to'plami qanday belgilanadi?",
     "A": "N",
     "B": "Z",
     "C": "Q",
@@ -48,7 +48,7 @@
     "javob": "A"
   },
   {
-    "savol": "Butun sonlar to‘plami qanday belgilanadi?",
+    "savol": "Butun sonlar to'plami qanday belgilanadi?",
     "A": "Z",
     "B": "N",
     "C": "Q",
@@ -56,115 +56,115 @@
     "javob": "A"
   },
   {
-    "savol": "Agar A to‘plamning har bir elementi B to‘plamga tegishli bo‘lsa, qanday munosabat o‘rnatiladi?",
-    "A": "a b ning qism to‘plami",
-    "B": "a b ga teng",
-    "C": "a b ning ayirmasi",
-    "D": "a b bilan kesishadi",
+    "savol": "Agar A to'plamning har bir elementi B to'plamga tegishli bo'lsa, qanday munosabat o'rnatiladi?",
+    "A": "A B ning qism to'plami",
+    "B": "A B ga teng",
+    "C": "A B ning ayirmasi",
+    "D": "A B bilan kesishadi",
     "javob": "A"
   },
   {
-    "savol": "Agar A va B to‘plamlarning barcha elementlari bir xil bo‘lsa, ular qanday ataladi?",
-    "A": "o‘zaro teng to‘plamlar",
-    "B": "dizyunkt to‘plamlar",
-    "C": "universal to‘plamlar",
-    "D": "bo‘sh to‘plamlar",
+    "savol": "Agar A va B to'plamlarning barcha elementlari bir xil bo'lsa, ular qanday ataladi?",
+    "A": "o'zaro teng to'plamlar",
+    "B": "dizyunkt to'plamlar",
+    "C": "universal to'plamlar",
+    "D": "bo'sh to'plamlar",
     "javob": "A"
   },
   {
-    "savol": "Qism to‘plam munosabatining refleksivlik xossasi nimani bildiradi?",
-    "A": "har bir to‘plam o‘zining qism to‘plami",
-    "B": "barcha to‘plamlar bir xil",
-    "C": "har doim bo‘sh to‘plam mavjud",
-    "D": "barcha elementlar bir xil bo‘ladi",
+    "savol": "Qism to'plam munosabatining refleksivlik xossasi nimani bildiradi?",
+    "A": "har bir to'plam o'zining qism to'plami",
+    "B": "barcha to'plamlar bir xil",
+    "C": "har doim bo'sh to'plam mavjud",
+    "D": "barcha elementlar bir xil bo'ladi",
     "javob": "A"
   },
   {
-    "savol": "Qism to‘plam munosabatining tranzitivlik xossasi qanday ifodalanadi?",
-    "A": "agar a b ga tegishli, b c ga tegishli bo‘lsa, a c ga tegishli",
-    "B": "agar a b ga tegishli bo‘lsa, b a ga teng",
-    "C": "barcha to‘plamlar teng",
+    "savol": "Qism to'plam munosabatining tranzitivlik xossasi qanday ifodalanadi?",
+    "A": "agar A B ga tegishli, B C ga tegishli bo'lsa, A C ga tegishli",
+    "B": "agar A B ga tegishli bo'lsa, B A ga teng",
+    "C": "barcha to'plamlar teng",
     "D": "barcha elementlar kesishadi",
     "javob": "A"
   },
   {
-    "savol": "Ikki to‘plamning barcha elementlarini birlashtirish orqali hosil bo‘lgan yangi to‘plam qanday ataladi?",
+    "savol": "Ikki to'plamning barcha elementlarini birlashtirish orqali hosil bo'lgan yangi to'plam qanday ataladi?",
     "A": "birlashma",
     "B": "kesishma",
     "C": "ayirma",
-    "D": "dekart ko‘paytma",
+    "D": "dekart ko'paytma",
     "javob": "A"
   },
   {
-    "savol": "Ikki to‘plamning umumiy elementlaridan tashkil topgan to‘plam qanday ataladi?",
+    "savol": "Ikki to'plamning umumiy elementlaridan tashkil topgan to'plam qanday ataladi?",
     "A": "kesishma",
     "B": "birlashma",
     "C": "ayirma",
-    "D": "bo‘sh to‘plam",
+    "D": "bo'sh to'plam",
     "javob": "A"
   },
   {
     "savol": "A \\ B ifodasi nimani bildiradi?",
-    "A": "a ning b ga kirmagan elementlaridan tashkil topgan to‘plam",
-    "B": "b ning a ga kirmagan elementlari",
+    "A": "A ning B ga kirmagan elementlaridan tashkil topgan to'plam",
+    "B": "B ning A ga kirmagan elementlari",
     "C": "barcha elementlarning birlashmasi",
     "D": "barcha umumiy elementlar",
     "javob": "A"
   },
   {
-    "savol": "Dekart ko‘paytma nima?",
-    "A": "ikki to‘plamning barcha mumkin bo‘lgan tartiblangan juftliklari",
-    "B": "ikki to‘plamning umumiy elementlari",
-    "C": "ikki to‘plamning birlashmasi",
-    "D": "barcha to‘plamlarning yig‘indisi",
+    "savol": "Dekart ko'paytma nima?",
+    "A": "ikki to'plamning barcha mumkin bo'lgan tartiblangan juftliklari",
+    "B": "ikki to'plamning umumiy elementlari",
+    "C": "ikki to'plamning birlashmasi",
+    "D": "barcha to'plamlarning yig'indisi",
     "javob": "A"
   },
   {
-    "savol": "Bo‘sh to‘plam qanday ta’riflanadi?",
-    "A": "birorta ham elementga ega bo‘lmagan to‘plam",
-    "B": "barcha elementlarni o‘z ichiga olgan to‘plam",
-    "C": "cheksiz ko‘p elementli to‘plam",
-    "D": "ikki to‘plamning kesishmasi",
+    "savol": "Bo'sh to'plam qanday ta'riflanadi?",
+    "A": "birorta ham elementga ega bo'lmagan to'plam",
+    "B": "barcha elementlarni o'z ichiga olgan to'plam",
+    "C": "cheksiz ko'p elementli to'plam",
+    "D": "ikki to'plamning kesishmasi",
     "javob": "A"
   },
   {
-    "savol": "Auditoriyadagi daraxtlar to‘plami qanday to‘plamga misol bo‘ladi?",
-    "A": "bo‘sh to‘plam",
-    "B": "chekli to‘plam",
-    "C": "cheksiz to‘plam",
-    "D": "universal to‘plam",
+    "savol": "Auditoriyadagi daraxtlar to'plami qanday to'plamga misol bo'ladi?",
+    "A": "bo'sh to'plam",
+    "B": "chekli to'plam",
+    "C": "cheksiz to'plam",
+    "D": "universal to'plam",
     "javob": "A"
   },
   {
-    "savol": "Universal to‘plam nima?",
-    "A": "barcha qaralayotgan elementlarni o‘z ichiga olgan to‘plam",
-    "B": "birorta elementga ega bo‘lmagan to‘plam",
-    "C": "kesishmagan to‘plamlar yig‘indisi",
-    "D": "faqat natural sonlarni o‘z ichiga olgan to‘plam",
+    "savol": "Universal to'plam nima?",
+    "A": "barcha qaralayotgan elementlarni o'z ichiga olgan to'plam",
+    "B": "birorta elementga ega bo'lmagan to'plam",
+    "C": "kesishmagan to'plamlar yig'indisi",
+    "D": "faqat natural sonlarni o'z ichiga olgan to'plam",
     "javob": "A"
   },
   {
     "savol": "A′ ifodasi nimani bildiradi?",
-    "A": "a ning to‘ldiruvchi to‘plami",
-    "B": "a ning kesishmasi",
-    "C": "a ning birlashmasi",
-    "D": "a ning ayirmasi",
+    "A": "A ning to'ldiruvchi to'plami",
+    "B": "A ning kesishmasi",
+    "C": "A ning birlashmasi",
+    "D": "A ning ayirmasi",
     "javob": "A"
   },
   {
     "savol": "De Morgan qonunlari qaysi mavzuga tegishli?",
-    "A": "to‘plamlarning birlashma va kesishma amallari",
-    "B": "natural sonlar yig‘indisi",
+    "A": "to'plamlarning birlashma va kesishma amallari",
+    "B": "natural sonlar yig'indisi",
     "C": "funksiyalar kompozitsiyasi",
     "D": "geometrik shakllar",
     "javob": "A"
   },
   {
-    "savol": "Ikki to‘plamning barcha elementlaridan tashkil topgan yangi to‘plam nima deyiladi?",
+    "savol": "Ikki to'plamning barcha elementlaridan tashkil topgan yangi to'plam nima deyiladi?",
     "A": "birlashma",
     "B": "kesishma",
     "C": "ayirma",
-    "D": "dekart ko‘paytma",
+    "D": "dekart ko'paytma",
     "javob": "A"
   },
   {
@@ -177,22 +177,22 @@
   },
   {
     "savol": "A ∩ B kesishmasi nimani anglatadi?",
-    "A": "a va b to‘plamlarning umumiy elementlari",
-    "B": "barcha elementlar yig‘indisi",
-    "C": "a va b to‘plamlarning farqi",
-    "D": "a va b ga kirmagan elementlar",
+    "A": "A va B to'plamlarning umumiy elementlari",
+    "B": "barcha elementlar yig'indisi",
+    "C": "A va B to'plamlarning farqi",
+    "D": "A va B ga kirmagan elementlar",
     "javob": "A"
   },
   {
-    "savol": "Agar A = { 1, 2, 3} va B = { 2, 3, 4} bo‘lsa, A ∪ B nimaga teng?",
+    "savol": "Agar A = { 1, 2, 3} va B = { 2, 3, 4} bo'lsa, A ∪ B nimaga teng?",
     "A": "{ 1, 2, 3, 4}",
     "B": "{ 2, 3}",
     "C": "{ 1, 4}",
-    "D": "{  }",
+    "D": "{ }",
     "javob": "A"
   },
   {
-    "savol": "Agar A = { 1, 2, 3} va B = { 2, 3, 4} bo‘lsa, A ∩ B nimaga teng?",
+    "savol": "Agar A = { 1, 2, 3} va B = { 2, 3, 4} bo'lsa, A ∩ B nimaga teng?",
     "A": "{ 2, 3}",
     "B": "{ 1, 2, 3, 4}",
     "C": "{ 1, 4}",
@@ -201,14 +201,14 @@
   },
   {
     "savol": "A \\ B ayirmasi qanday aniqlanadi?",
-    "A": "a ning b ga kirmagan elementlari",
-    "B": "b ning a ga kirmagan elementlari",
+    "A": "A ning B ga kirmagan elementlari",
+    "B": "B ning A ga kirmagan elementlari",
     "C": "umumiy elementlar",
     "D": "barcha elementlar",
     "javob": "A"
   },
   {
-    "savol": "Agar A = { 1, 2, 3} va B = { 2, 3, 4} bo‘lsa, A \\ B natijasi qanday?",
+    "savol": "Agar A = { 1, 2, 3} va B = { 2, 3, 4} bo'lsa, A \\ B natijasi qanday?",
     "A": "{ 1}",
     "B": "{ 4}",
     "C": "{ 2, 3}",
@@ -216,7 +216,7 @@
     "javob": "A"
   },
   {
-    "savol": "Agar A = { 1, 2, 3} va B = { 2, 3, 4} bo‘lsa, B \\ A natijasi qanday?",
+    "savol": "Agar A = { 1, 2, 3} va B = { 2, 3, 4} bo'lsa, B \\ A natijasi qanday?",
     "A": "{ 4}",
     "B": "{ 1}",
     "C": "{ 2, 3}",
@@ -224,31 +224,31 @@
     "javob": "A"
   },
   {
-    "savol": "Simmеtrik ayirma qanday aniqlanadi?",
-    "A": "faqat a yoki b ga tegishli, lekin ikkalasiga ham emas",
+    "savol": "Simmetrik ayirma qanday aniqlanadi?",
+    "A": "faqat A yoki B ga tegishli, lekin ikkalasiga ham emas",
     "B": "barcha umumiy elementlar",
-    "C": "faqat a ga tegishli elementlar",
-    "D": "faqat b ga tegishli elementlar",
+    "C": "faqat A ga tegishli elementlar",
+    "D": "faqat B ga tegishli elementlar",
     "javob": "A"
   },
   {
-    "savol": "Agar A = { 1, 2, 3} va B = { 2, 3, 4} bo‘lsa, A △ B nimaga teng?",
+    "savol": "Agar A = { 1, 2, 3} va B = { 2, 3, 4} bo'lsa, A △ B nimaga teng?",
     "A": "{ 1, 4}",
     "B": "{ 2, 3}",
     "C": "{ 1, 2, 3, 4}",
-    "D": "{  }",
+    "D": "{ }",
     "javob": "A"
   },
   {
-    "savol": "Dekart ko‘paytma qanday aniqlanadi?",
-    "A": "ikki to‘plamning barcha tartiblangan juftliklari to‘plami",
-    "B": "ikki to‘plamning kesishmasi",
-    "C": "ikki to‘plamning birlashmasi",
-    "D": "bo‘sh to‘plam",
+    "savol": "Dekart ko'paytma qanday aniqlanadi?",
+    "A": "ikki to'plamning barcha tartiblangan juftliklari to'plami",
+    "B": "ikki to'plamning kesishmasi",
+    "C": "ikki to'plamning birlashmasi",
+    "D": "bo'sh to'plam",
     "javob": "A"
   },
   {
-    "savol": "A = { 1, 2} va B = { a, b} bo‘lsa, A × B natijasi nima bo‘ladi?",
+    "savol": "A = { 1, 2} va B = { a, b} bo'lsa, A × B natijasi nima bo'ladi?",
     "A": "{ (1, a), (1, b), (2, a), (2, b)}",
     "B": "{ (1, 2), (a, b)}",
     "C": "{ (1, 2, a, b)}",
@@ -256,11 +256,11 @@
     "javob": "A"
   },
   {
-    "savol": "Dekart ko‘paytmaning elementlari qanday juftliklardan tashkil topadi?",
+    "savol": "Dekart ko'paytmaning elementlari qanday juftliklardan tashkil topadi?",
     "A": "tartiblangan juftliklar",
     "B": "umumiy elementlar",
     "C": "kesishgan sonlar",
-    "D": "bo‘sh to‘plamlar",
+    "D": "bo'sh to'plamlar",
     "javob": "A"
   },
   {
@@ -268,11 +268,11 @@
     "A": "birlashma barcha elementlarni oladi, kesishma esa faqat umumiylarini",
     "B": "kesishma barcha elementlarni oladi, birlashma faqat umumiylarini",
     "C": "ikkalasi ham bir xil",
-    "D": "farq yo‘q",
+    "D": "farq yo'q",
     "javob": "A"
   },
   {
-    "savol": "A ∪ B ifodasida A va B to‘plamlaridagi elementlar soni qanday hisoblanadi?",
+    "savol": "A ∪ B ifodasida A va B to'plamlaridagi elementlar soni qanday hisoblanadi?",
     "A": "barcha elementlar bir marta olinadi",
     "B": "barcha elementlar ikki marta olinadi",
     "C": "faqat umumiy elementlar olinadi",
@@ -280,31 +280,31 @@
     "javob": "A"
   },
   {
-    "savol": "Agar A ∩ B = {  } bo‘lsa, qanday holat yuz beradi?",
-    "A": "a va b to‘plamlar kesishmaydi",
+    "savol": "Agar A ∩ B = { } bo'lsa, qanday holat yuz beradi?",
+    "A": "A va B to'plamlar kesishmaydi",
     "B": "barcha elementlar umumiy",
-    "C": "a b ning qism to‘plami",
-    "D": "b a ning to‘ldiruvchisi",
+    "C": "A B ning qism to'plami",
+    "D": "B A ning to'ldiruvchisi",
     "javob": "A"
   },
   {
-    "savol": "Simmеtrik ayirma bilan oddiy ayirma orasidagi farq nimada?",
-    "A": "simmetrik ayirmada faqat a yoki b ga tegishli, oddiyda faqat bitta tomonga tegishli",
+    "savol": "Simmetrik ayirma bilan oddiy ayirma orasidagi farq nimada?",
+    "A": "simmetrik ayirmada faqat A yoki B ga tegishli, oddiyda faqat bitta tomonga tegishli",
     "B": "simmetrik ayirma barcha umumiy elementlarni oladi",
     "C": "oddiy ayirma barcha elementlarni oladi",
-    "D": "farq yo‘q",
+    "D": "farq yo'q",
     "javob": "A"
   },
   {
-    "savol": "Dekart ko‘paytmaning tartiblangan juftliklar soni qanday topiladi?",
-    "A": "|a| × |b| ko‘paytmasi orqali",
-    "B": "|a| + |b| yig‘indisi orqali",
-    "C": "|a| − |b| ayirmasi orqali",
-    "D": "|a| ÷ |b| bo‘linmasi orqali",
+    "savol": "Dekart ko'paytmaning tartiblangan juftliklar soni qanday topiladi?",
+    "A": "|A| × |B| ko'paytmasi orqali",
+    "B": "|A| + |B| yig'indisi orqali",
+    "C": "|A| − |B| ayirmasi orqali",
+    "D": "|A| ÷ |B| bo'linmasi orqali",
     "javob": "A"
   },
   {
-    "savol": "A = { 1, 2, 3} va B = { a, b} bo‘lsa, A × B nechta elementdan iborat?",
+    "savol": "A = { 1, 2, 3} va B = { a, b} bo'lsa, A × B nechta elementdan iborat?",
     "A": "6",
     "B": "4",
     "C": "3",
@@ -312,7 +312,7 @@
     "javob": "A"
   },
   {
-    "savol": "Tenglikning o’ng tomoni qanday amallar bilan ifodalangan?",
+    "savol": "Tenglikning o'ng tomoni qanday amallar bilan ifodalangan?",
     "A": "Konyuksiya va inkor amali bilan",
     "B": "Dizyunksiya va konyuksiya",
     "C": "Sheffer amali",
@@ -320,7 +320,7 @@
     "javob": "A"
   },
   {
-    "savol": "“Makro” supermarketining “Hammasi uy uchun” bo‟limida 5 xil piyola, 5 xil taqsimcha, 4 xil choy qoshiq bor. Nargiza xola turli nomdagi ikkita buyum sotib olmoqchi. U bu ishni necha xil usulda amalga oshirishi mumkin?",
+    "savol": "\"Makro\" supermarketining \"Hammasi uy uchun\" bo'limida 5 xil piyola, 5 xil taqsimcha, 4 xil choy qoshiq bor. Nargiza xola turli nomdagi ikkita buyum sotib olmoqchi. U bu ishni necha xil usulda amalga oshirishi mumkin?",
     "A": "65",
     "B": "25",
     "C": "20",
@@ -328,7 +328,7 @@
     "javob": "A"
   },
   {
-    "savol": "3 ta tovuq, 4 ta o‟rdak va 5 ta g‟oz bor. Uchta parrandani shunday tanlab olingki, ular ichida tovuq, o‟rdak va g‟oz bo‟lsin. Shunday tanlashlar soni nechta bo‟ladi?",
+    "savol": "3 ta tovuq, 4 ta o'rdak va 5 ta g'oz bor. Uchta parrandani shunday tanlab olingki, ular ichida tovuq, o'rdak va g'oz bo'lsin. Shunday tanlashlar soni nechta bo'ladi?",
     "A": "47",
     "B": "12",
     "C": "20",
@@ -336,7 +336,7 @@
     "javob": "A"
   },
   {
-    "savol": "Onasi Nargizaga “Korzinka.Uz” supermarketidan 3 xil meva xarid qilishini aytdi. Supermarketda 6 xil olma, 5 xil nok, 3 xil uzum bor. Nargiza mevalarning har bir xilidan 1 kg dan olib, nechta turli to’plam tuza oladi?",
+    "savol": "Onasi Nargizaga \"Korzinka.Uz\" supermarketidan 3 xil meva xarid qilishini aytdi. Supermarketda 6 xil olma, 5 xil nok, 3 xil uzum bor. Nargiza mevalarning har bir xilidan 1 kg dan olib, nechta turli to'plam tuza oladi?",
     "A": "63",
     "B": "30",
     "C": "16",
@@ -360,7 +360,7 @@
     "javob": "A"
   },
   {
-    "savol": "Dokonda 5 ta turli piyola, 4 ta turli likopcha va 4 ta turli choy qoshigʻi bor. Piyola va likopcha juftligi necha usulda xarid qilinishi mumkin?",
+    "savol": "Dokonda 5 ta turli piyola, 4 ta turli likopcha va 4 ta turli choy qoshig'i bor. Piyola va likopcha juftligi necha usulda xarid qilinishi mumkin?",
     "A": "20",
     "B": "16",
     "C": "5",
@@ -368,7 +368,7 @@
     "javob": "A"
   },
   {
-    "savol": "Dokonda 5 ta turli piyola, 4 ta turli likopcha va 6 ta turli choy qoshigʻi borPiyola, likopcha va choy qoshigʻi uchligi necha usulda xarid qilinishi mumkin?",
+    "savol": "Dokonda 5 ta turli piyola, 4 ta turli likopcha va 6 ta turli choy qoshig'i bor. Piyola, likopcha va choy qoshig'i uchligi necha usulda xarid qilinishi mumkin?",
     "A": "74",
     "B": "20",
     "C": "24",
@@ -376,7 +376,7 @@
     "javob": "A"
   },
   {
-    "savol": "Dokonda 5 ta turli piyola, 2 ta turli likopcha va 4 ta turli choy qoshigʻi bor Turli nomdagi ikkita idishning juftligi necha usulda xarid qilinishi mumkin?",
+    "savol": "Dokonda 5 ta turli piyola, 2 ta turli likopcha va 4 ta turli choy qoshig'i bor. Turli nomdagi ikkita idishning juftligi necha usulda xarid qilinishi mumkin?",
     "A": "38",
     "B": "10",
     "C": "20",
@@ -384,7 +384,7 @@
     "javob": "A"
   },
   {
-    "savol": "Mantiq algebrasida bir necha amal ketma ket kelgan bo’lsa birinchi qaysi amal bajariladi",
+    "savol": "Mantiq algebrasida bir necha amal ketma ket kelgan bo'lsa birinchi qaysi amal bajariladi?",
     "A": "Konyunksiya",
     "B": "Dizyunksiya",
     "C": "Implikatsiya",
@@ -392,23 +392,23 @@
     "javob": "A"
   },
   {
-    "savol": "Dizyunksiya va implikatsiya amali ketma ket kelsa birinchi qaysi amal bajariladi",
+    "savol": "Dizyunksiya va implikatsiya amali ketma ket kelsa birinchi qaysi amal bajariladi?",
     "A": "Dizyunksiya",
     "B": "Implikatsiya",
-    "C": "Birinchi qaysi amal kelgan bo’lsa shunisi",
+    "C": "Birinchi qaysi amal kelgan bo'lsa shunisi",
     "D": "Implikatsiyaning inkori",
     "javob": "A"
   },
   {
-    "savol": "formulada x qanday argument",
+    "savol": "Formulada x qanday argument?",
     "A": "Muhim argument",
     "B": "Soxta argument",
-    "C": "Erkli o’zgaruvchi",
-    "D": "Erksiz o’zgaruvchi",
+    "C": "Erkli o'zgaruvchi",
+    "D": "Erksiz o'zgaruvchi",
     "javob": "A"
   },
   {
-    "savol": "<1,3>,<4,1>,<2,4> munosabatlarda aniqlanish sohasini ko’rsating.",
+    "savol": "<1,3>, <4,1>, <2,4> munosabatlarda aniqlanish sohasini ko'rsating.",
     "A": "{ 1,2,4}",
     "B": "{ 2,3}",
     "C": "{ 2,4}",
@@ -416,7 +416,7 @@
     "javob": "A"
   },
   {
-    "savol": "<2,2>,<2,3>,<3,4> munosabatlarda aniqlanish sohasini ko’rsating.",
+    "savol": "<2,2>, <2,3>, <3,4> munosabatlarda aniqlanish sohasini ko'rsating.",
     "A": "{ 2,3}",
     "B": "{ 2,1}",
     "C": "{ 1,5}",
@@ -424,7 +424,7 @@
     "javob": "A"
   },
   {
-    "savol": "<2,2>,<2,3>,<3,4> munosabatlarda qiymatlar sohasini ko’rsating.",
+    "savol": "<2,2>, <2,3>, <3,4> munosabatlarda qiymatlar sohasini ko'rsating.",
     "A": "{ 2,3,4}",
     "B": "{ 2,1}",
     "C": "{ 1,3}",
@@ -432,7 +432,7 @@
     "javob": "A"
   },
   {
-    "savol": "<1,3>,<4,1>,<2,4> munosabatlarda qiymatlar sohasini ko’rsating.",
+    "savol": "<1,3>, <4,1>, <2,4> munosabatlarda qiymatlar sohasini ko'rsating.",
     "A": "{ 1,3,4}",
     "B": "{ 1,3}",
     "C": "{ 2,4}",
@@ -440,7 +440,7 @@
     "javob": "A"
   },
   {
-    "savol": "<1,2>,<2,1>,<3,4> munosabatlarda aniqlanish sohasini ko’rsating.",
+    "savol": "<1,2>, <2,1>, <3,4> munosabatlarda aniqlanish sohasini ko'rsating.",
     "A": "{ 1,2,3}",
     "B": "{ 2,3}",
     "C": "{ 2,4}",
@@ -448,7 +448,7 @@
     "javob": "A"
   },
   {
-    "savol": "<1,2>,<2,1>,<3,4> munosabatlarda qiymatlar sohasini ko’rsating.",
+    "savol": "<1,2>, <2,1>, <3,4> munosabatlarda qiymatlar sohasini ko'rsating.",
     "A": "{ 1,2,4}",
     "B": "{ 1,3}",
     "C": "{ 1,4}",
@@ -456,7 +456,7 @@
     "javob": "A"
   },
   {
-    "savol": "Dizyunksiya mantiqiy amali qaysi bog’lovchi yordamida bog’lanadi",
+    "savol": "Dizyunksiya mantiqiy amali qaysi bog'lovchi yordamida bog'lanadi?",
     "A": "yoki",
     "B": "va",
     "C": "emas",
@@ -464,7 +464,7 @@
     "javob": "A"
   },
   {
-    "savol": "Emas bog’lovchisi qaysi mantiqiy amalda qo’llaniladi",
+    "savol": "Emas bog'lovchisi qaysi mantiqiy amalda qo'llaniladi?",
     "A": "inkor",
     "B": "dizyunksiya",
     "C": "konyunksiya",
@@ -472,7 +472,7 @@
     "javob": "A"
   },
   {
-    "savol": "Diskret matematikaning fundamental tushunchalaridan biri bu - …..",
+    "savol": "Diskret matematikaning fundamental tushunchalaridan biri bu - .....",
     "A": "munosabatlar",
     "B": "qiymatlar",
     "C": "soha",
@@ -480,23 +480,23 @@
     "javob": "A"
   },
   {
-    "savol": "Ma’lum tartibda joylashgan ikki predmetdan tuzilgan elementga…. deyiladi.",
+    "savol": "Ma'lum tartibda joylashgan ikki predmetdan tuzilgan elementga.... deyiladi.",
     "A": "Tartiblangan juftlik",
     "B": "son",
-    "C": "so’z",
+    "C": "so'z",
     "D": "belgi",
     "javob": "A"
   },
   {
     "savol": "Tartibsiz juftlik nima?",
-    "A": "to’plamning ikkinchi elementi",
+    "A": "{x, y}",
     "B": "F(x)",
     "C": "C",
     "D": "F(x)+C",
     "javob": "A"
   },
   {
-    "savol": "tartiblangan juftlikda birinchi elementni ko’rsating.",
+    "savol": "<x, y> tartiblangan juftlikda birinchi elementni ko'rsating.",
     "A": "x",
     "B": "y",
     "C": "c",
@@ -504,7 +504,7 @@
     "javob": "A"
   },
   {
-    "savol": "tartiblangan juftlikda ikkinchi elementni ko’rsating.",
+    "savol": "<x, y> tartiblangan juftlikda ikkinchi elementni ko'rsating.",
     "A": "y",
     "B": "x",
     "C": "x+y",
@@ -515,13 +515,13 @@
     "savol": "Agar x mulohaza rost qiymat qabul qilsa, uning inkori qanday qiymatga teng?",
     "A": "0",
     "B": "1",
-    "C": "0 ham bo’lishi mumkin, 1 ham bo’lishi mumkin",
+    "C": "0 ham bo'lishi mumkin, 1 ham bo'lishi mumkin",
     "D": "2",
     "javob": "A"
   },
   {
     "savol": "Inkor amalining belgisi qanday?",
-    "A": "$$\\tilde{x}$$",
+    "A": "\\overline{x}",
     "B": "-y",
     "C": "-x+y",
     "D": "0",
@@ -529,94 +529,94 @@
   },
   {
     "savol": "Inkor amali qanday ishlaydi?",
-    "A": "Mulohaza qiymati 1 bo’lsa 0 ga, 0 bo’lsa 1 ga aylanadi",
-    "B": "0 va 0 ning ko’paytmasi olinadi.",
-    "C": "0 va 1 ning yig’indisi olinadi",
-    "D": "to’g’ri javob yo’q",
+    "A": "Mulohaza qiymati 1 bo'lsa 0 ga, 0 bo'lsa 1 ga aylanadi",
+    "B": "0 va 0 ning ko'paytmasi olinadi.",
+    "C": "0 va 1 ning yig'indisi olinadi",
+    "D": "to'g'ri javob yo'q",
     "javob": "A"
   },
   {
     "savol": "Dizyunksiya qanday amal? (v)",
-    "A": "Mantiqiy qo’shish",
-    "B": "Ko’paytirish",
+    "A": "Mantiqiy qo'shish",
+    "B": "Ko'paytirish",
     "C": "Ayirish",
     "D": "0",
     "javob": "A"
   },
   {
     "savol": "Dizyunksiyada rostlik qachon bajariladi? (v)",
-    "A": "Bitta mulohaza 1 bo’lsa ham bajariladi",
-    "B": "Faqat 0 bo’lganda",
-    "C": "0 va 0 bo’lganda",
+    "A": "Bitta mulohaza 1 bo'lsa ham bajariladi",
+    "B": "Faqat 0 bo'lganda",
+    "C": "0 va 0 bo'lganda",
     "D": "0",
     "javob": "A"
   },
   {
     "savol": "Konyuksiya qanday amal? (ʌ)",
-    "A": "Mantiqiy ko’paytirish amali",
-    "B": "qo’shish amali",
+    "A": "Mantiqiy ko'paytirish amali",
+    "B": "qo'shish amali",
     "C": "ayirish amali",
-    "D": "bo’lish amali",
+    "D": "bo'lish amali",
     "javob": "A"
   },
   {
     "savol": "Konyuksiyada rostlik qachon bajariladi? (ʌ)",
-    "A": "Faqat ikkala mulohaza rost bo’lganda (1 va 1 da)",
-    "B": "Ikkisi ham 0 bo’lsa",
+    "A": "Faqat ikkala mulohaza rost bo'lganda (1 va 1 da)",
+    "B": "Ikkisi ham 0 bo'lsa",
     "C": "1 va 0 da",
     "D": "0 da",
     "javob": "A"
   },
   {
     "savol": "Implikatsiya amalining belgisi qanday?",
-    "A": "$$→$$",
+    "A": "\\rightarrow",
     "B": "v",
     "C": "ʌ",
-    "D": "$$¬$$",
+    "D": "\\neg",
     "javob": "A"
   },
   {
     "savol": "Inkor amalining belgisi qanday?",
-    "A": "$$¬$$",
+    "A": "\\neg",
     "B": "v",
-    "C": "$$→$$",
+    "C": "\\rightarrow",
     "D": "ʌ",
     "javob": "A"
   },
   {
-    "savol": "Dizyunksiya amalining belgisi qanday? (Qo’shish)",
+    "savol": "Dizyunksiya amalining belgisi qanday? (Qo'shish)",
     "A": "v",
     "B": "ʌ",
-    "C": "$$→$$",
-    "D": "$$¬$$",
+    "C": "\\rightarrow",
+    "D": "\\neg",
     "javob": "A"
   },
   {
-    "savol": "Konyuksiya amalining belgisi qanday? (Ko’paytirish)",
+    "savol": "Konyuksiya amalining belgisi qanday? (Ko'paytirish)",
     "A": "ʌ",
-    "B": "$$→$$",
+    "B": "\\rightarrow",
     "C": "v",
-    "D": "$$¬$$",
+    "D": "\\neg",
     "javob": "A"
   },
   {
     "savol": "Ekvivalentlik amalining belgisi qanday? (Tengkuchlilik)",
-    "A": "$$↔$$",
+    "A": "\\leftrightarrow",
     "B": "v",
     "C": "ʌ",
-    "D": "$$¬$$",
+    "D": "\\neg",
     "javob": "A"
   },
   {
     "savol": "Mulohazalar nechta qiymat qabul qiladi? (x)",
     "A": "2 ta",
     "B": "8 ta",
-    "C": "3ta",
+    "C": "3 ta",
     "D": "hech qanday",
     "javob": "A"
   },
   {
-    "savol": "Mulohazalar Rost bo’lganda qanday qiymat qabul qiladi?",
+    "savol": "Mulohazalar Rost bo'lganda qanday qiymat qabul qiladi?",
     "A": "1",
     "B": "0",
     "C": "20",
@@ -624,7 +624,7 @@
     "javob": "A"
   },
   {
-    "savol": "Mulohazalar yolg’on bo’lganda qanday qiymat qabul qiladi?",
+    "savol": "Mulohazalar yolg'on bo'lganda qanday qiymat qabul qiladi?",
     "A": "0",
     "B": "1",
     "C": "20",
@@ -632,7 +632,7 @@
     "javob": "A"
   },
   {
-    "savol": "Faqat chin yoki yolg‘on qiymat qabul qila oladigan darak gaplarga …… deb aytamiz.",
+    "savol": "Faqat chin yoki yolg'on qiymat qabul qila oladigan darak gaplarga ...... deb aytamiz.",
     "A": "mulohazalar",
     "B": "qiymatlar",
     "C": "soha",
@@ -641,32 +641,32 @@
   },
   {
     "savol": "Matematik mantiqda har bir gap qanday xossaga ega?",
-    "A": "Chin yoki yolg’on bo’lish",
-    "B": "Teskari yoki to’g’ri bo’lish",
-    "C": "so’z",
+    "A": "Chin yoki yolg'on bo'lish",
+    "B": "Teskari yoki to'g'ri bo'lish",
+    "C": "so'z",
     "D": "belgi",
     "javob": "A"
   },
   {
     "savol": "Mulohazalar asosan qanday belgilanadi?",
     "A": "Kichik harflar bilan",
-    "B": "1,2,3…",
+    "B": "1,2,3...",
     "C": "Katta harflar bilan",
-    "D": "A,B,C…",
+    "D": "A,B,C...",
     "javob": "A"
   },
   {
-    "savol": "Agar mulohaza rost qiymat qabul qilsa … kabi belgilanadi.",
-    "A": "“ch”",
-    "B": "“yo”",
+    "savol": "Agar mulohaza rost qiymat qabul qilsa ... kabi belgilanadi.",
+    "A": "\"ch\"",
+    "B": "\"yo\"",
     "C": "C",
     "D": "F(x)",
     "javob": "A"
   },
   {
-    "savol": "Agar mulohaza yolg’on qiymat qabul qilsa … kabi belgilanadi.",
-    "A": "“yo”",
-    "B": "“ch”",
+    "savol": "Agar mulohaza yolg'on qiymat qabul qilsa ... kabi belgilanadi.",
+    "A": "\"yo\"",
+    "B": "\"ch\"",
     "C": "C",
     "D": "F(x)",
     "javob": "A"
@@ -729,7 +729,7 @@
   },
   {
     "savol": "11,12,13,14,15 sonlarining modasini toping.",
-    "A": "Modasi yo’q",
+    "A": "Modasi yo'q",
     "B": "11",
     "C": "13",
     "D": "14",
@@ -737,7 +737,7 @@
   },
   {
     "savol": "8,8,10,10,11 sonlarining modasini toping.",
-    "A": "Modasi yo’q",
+    "A": "Modasi yo'q",
     "B": "8",
     "C": "10",
     "D": "11",
@@ -768,7 +768,7 @@
     "javob": "A"
   },
   {
-    "savol": "1,2,2,3,4 sonlarining o’rta qiymatini toping.",
+    "savol": "1,2,2,3,4 sonlarining o'rta qiymatini toping.",
     "A": "2.4",
     "B": "1.2",
     "C": "1.3",
@@ -776,7 +776,7 @@
     "javob": "A"
   },
   {
-    "savol": "1,1,3,3,5 sonlarining o’rta qiymatini toping.",
+    "savol": "1,1,3,3,5 sonlarining o'rta qiymatini toping.",
     "A": "2.6",
     "B": "2.2",
     "C": "1.3",
@@ -784,7 +784,7 @@
     "javob": "A"
   },
   {
-    "savol": "1,2,2,3,3 sonlarining o’rta qiymatini toping.",
+    "savol": "1,2,2,3,3 sonlarining o'rta qiymatini toping.",
     "A": "2.2",
     "B": "1.2",
     "C": "1.3",
@@ -792,7 +792,7 @@
     "javob": "A"
   },
   {
-    "savol": "1,2,2,4,5 sonlarining o’rta qiymatini toping.",
+    "savol": "1,2,2,4,5 sonlarining o'rta qiymatini toping.",
     "A": "2.8",
     "B": "1.2",
     "C": "1.3",
@@ -864,7 +864,7 @@
     "javob": "A"
   },
   {
-    "savol": "Quyidagi mantiqiy mulohazalarning implikatsiya amalining qiymatini toping: 1$→$ 0 = ?",
+    "savol": "Quyidagi mantiqiy mulohazalarning implikatsiya amalining qiymatini toping: 1 → 0 = ?",
     "A": "0",
     "B": "1",
     "C": "10",
@@ -872,7 +872,7 @@
     "javob": "A"
   },
   {
-    "savol": "Quyidagi mantiqiy mulohazalarning implikatsiya amalining qiymatini toping: 0$ →$ 1 = ?",
+    "savol": "Quyidagi mantiqiy mulohazalarning implikatsiya amalining qiymatini toping: 0 → 1 = ?",
     "A": "1",
     "B": "0",
     "C": "11",
@@ -880,7 +880,7 @@
     "javob": "A"
   },
   {
-    "savol": "Quyidagi mantiqiy mulohazalarning implikatsiya amalining qiymatini toping: 1 $→$ 1 = ?",
+    "savol": "Quyidagi mantiqiy mulohazalarning implikatsiya amalining qiymatini toping: 1 → 1 = ?",
     "A": "1",
     "B": "0",
     "C": "10",
@@ -888,7 +888,7 @@
     "javob": "A"
   },
   {
-    "savol": "Quyidagi mantiqiy mulohazalarning implikatsiya amalining qiymatini toping: 0 $→$ 0 = ?",
+    "savol": "Quyidagi mantiqiy mulohazalarning implikatsiya amalining qiymatini toping: 0 → 0 = ?",
     "A": "1",
     "B": "0",
     "C": "3",
@@ -896,7 +896,7 @@
     "javob": "A"
   },
   {
-    "savol": "Quyidagi mantiqiy mulohazalarning ekvivalentlik amalining qiymatini toping: 1 $↔$ 0 = ?",
+    "savol": "Quyidagi mantiqiy mulohazalarning ekvivalentlik amalining qiymatini toping: 1 ↔ 0 = ?",
     "A": "0",
     "B": "1",
     "C": "10",
@@ -904,7 +904,7 @@
     "javob": "A"
   },
   {
-    "savol": "Quyidagi mantiqiy mulohazalarning ekvivalentlik amalining qiymatini toping: 1$↔$ 1 = ?",
+    "savol": "Quyidagi mantiqiy mulohazalarning ekvivalentlik amalining qiymatini toping: 1 ↔ 1 = ?",
     "A": "1",
     "B": "0",
     "C": "4",
@@ -912,7 +912,7 @@
     "javob": "A"
   },
   {
-    "savol": "Quyidagi mantiqiy mulohazalarning ekvivalentlik amalining qiymatini toping: 0 $↔$ 0 = ?",
+    "savol": "Quyidagi mantiqiy mulohazalarning ekvivalentlik amalining qiymatini toping: 0 ↔ 0 = ?",
     "A": "1",
     "B": "0",
     "C": "12",
@@ -920,39 +920,39 @@
     "javob": "A"
   },
   {
-    "savol": "Rostlik jadvalida rost qiymatlar soni nimaga bog’liq?",
+    "savol": "Rostlik jadvalida rost qiymatlar soni nimaga bog'liq?",
     "A": "Rost qiymatlar soniga",
-    "B": "Yolg’on qiymatlar soniga",
+    "B": "Yolg'on qiymatlar soniga",
     "C": "mulohazalarga",
     "D": "0 larga",
     "javob": "A"
   },
   {
-    "savol": "Ma’lumotlar qatorining modasi qanday topiladi?",
-    "A": "Ma’lumotlar qatorida joylashgan elementlardan eng ko’p takrorlanganining soni bilan aniqlanadi.",
-    "B": "Ma’lumotlar qatorida joylashgan elementlarning hammasi qo’shilib, jami elementlar soniga bo’lish orqali topiladi.",
-    "C": "Ma’lumotlar qatorida joylashgan elementlarning o’rtasida joylashgan ikki elementining o’rta arifmetigiga teng.",
-    "D": "Ma’lumotlar qatorida joylashgan elementlardan eng kattasidan eng kichigining ayirmasiga teng.",
+    "savol": "Ma'lumotlar qatorining modasi qanday topiladi?",
+    "A": "Ma'lumotlar qatorida joylashgan elementlardan eng ko'p takrorlanganining soni bilan aniqlanadi.",
+    "B": "Ma'lumotlar qatorida joylashgan elementlarning hammasi qo'shilib, jami elementlar soniga bo'lish orqali topiladi.",
+    "C": "Ma'lumotlar qatorida joylashgan elementlarning o'rtasida joylashgan ikki elementining o'rta arifmetigiga teng.",
+    "D": "Ma'lumotlar qatorida joylashgan elementlardan eng kattasidan eng kichigining ayirmasiga teng.",
     "javob": "A"
   },
   {
-    "savol": "Ma’lumotlar qatorining o’rta arifmetigi qanday topiladi?",
-    "A": "Ma’lumotlar qatorida joylashgan elementlarning hammasi qo’shilib, jami elementlar soniga bo’lish orqali topiladi.",
-    "B": "Ma’lumotlar qatorida joylashgan elementlardan eng ko’p takrorlanganining soni bilan aniqlanadi.",
-    "C": "Ma’lumotlar qatorida joylashgan elementlarning o’rtasida joylashgan ikki elementining o’rta arifmetigiga teng.",
-    "D": "Ma’lumotlar qatorida joylashgan elementlardan eng kattasidan eng kichigining ayirmasiga teng.",
+    "savol": "Ma'lumotlar qatorining o'rta arifmetigi qanday topiladi?",
+    "A": "Ma'lumotlar qatorida joylashgan elementlarning hammasi qo'shilib, jami elementlar soniga bo'lish orqali topiladi.",
+    "B": "Ma'lumotlar qatorida joylashgan elementlardan eng ko'p takrorlanganining soni bilan aniqlanadi.",
+    "C": "Ma'lumotlar qatorida joylashgan elementlarning o'rtasida joylashgan ikki elementining o'rta arifmetigiga teng.",
+    "D": "Ma'lumotlar qatorida joylashgan elementlardan eng kattasidan eng kichigining ayirmasiga teng.",
     "javob": "A"
   },
   {
-    "savol": "Ma’lumotlar qatorining medianasi qanday topiladi?",
-    "A": "Ma’lumotlar qatorida joylashgan elementlar soni juft bo’lsa, o’rtasida joylashgan ikki elementining o’rta arifmetigiga teng.",
-    "B": "Ma’lumotlar qatorida joylashgan elementlardan eng ko’p takrorlanganining soni bilan aniqlanadi.",
-    "C": "Ma’lumotlar qatorida joylashgan elementlarning hammasi qo’shilib, jami elementlar soniga bo’lish orqali topiladi.",
-    "D": "Ma’lumotlar qatorida joylashgan elementlardan eng kattasidan eng kichigining ayirmasiga teng.",
+    "savol": "Ma'lumotlar qatorining medianasi qanday topiladi?",
+    "A": "Ma'lumotlar qatorida joylashgan elementlar soni juft bo'lsa, o'rtasida joylashgan ikki elementining o'rta arifmetigiga teng.",
+    "B": "Ma'lumotlar qatorida joylashgan elementlardan eng ko'p takrorlanganining soni bilan aniqlanadi.",
+    "C": "Ma'lumotlar qatorida joylashgan elementlarning hammasi qo'shilib, jami elementlar soniga bo'lish orqali topiladi.",
+    "D": "Ma'lumotlar qatorida joylashgan elementlardan eng kattasidan eng kichigining ayirmasiga teng.",
     "javob": "A"
   },
   {
-    "savol": "“Agar… bo’lsa, u holda… bo’ladi” bog’lovchisi qaysi mantiqiy amalda qo’llaniladi?",
+    "savol": "\"Agar... bo'lsa, u holda... bo'ladi\" bog'lovchisi qaysi mantiqiy amalda qo'llaniladi?",
     "A": "implikatsiya",
     "B": "konyunksiya",
     "C": "dizyunksiya",
@@ -960,7 +960,7 @@
     "javob": "A"
   },
   {
-    "savol": "<2,3>, <2,4>,<3,4> binar munosabatning aniqlanish sohasini toping",
+    "savol": "<2,3>, <2,4>, <3,4> binar munosabatning aniqlanish sohasini toping.",
     "A": "{ 2,3}",
     "B": "{ 2,3,4}",
     "C": "{ 2,4}",
@@ -968,7 +968,7 @@
     "javob": "A"
   },
   {
-    "savol": "<1,2>,<2,3>,<3,4> binar munosabatning aniqlanish sohasini aniqlang",
+    "savol": "<1,2>, <2,3>, <3,4> binar munosabatning aniqlanish sohasini aniqlang.",
     "A": "{ 1,2,3}",
     "B": "{ 1,2,3,4}",
     "C": "{ 2,3,4}",
@@ -976,23 +976,23 @@
     "javob": "A"
   },
   {
-    "savol": "<1,2>,<1,3>,<1,4> munosabat funksiya bo’la oladimi",
-    "A": "Yo’q",
+    "savol": "<1,2>, <1,3>, <1,4> munosabat funksiya bo'la oladimi?",
+    "A": "Yo'q",
     "B": "Ha",
     "C": "Doim ham emas",
-    "D": "To’g’ri javob yo’q",
+    "D": "To'g'ri javob yo'q",
     "javob": "A"
   },
   {
-    "savol": "<1,2>,<7,8>,<5,6> munisabat funksiya bo’la oladimi",
+    "savol": "<1,2>, <7,8>, <5,6> munosabat funksiya bo'la oladimi?",
     "A": "Ha",
-    "B": "Yo’q",
+    "B": "Yo'q",
     "C": "Doim ham emas",
-    "D": "To’g’ri javob yo’q",
+    "D": "To'g'ri javob yo'q",
     "javob": "A"
   },
   {
-    "savol": "10=?",
+    "savol": "1 ∧ 0 = ?",
     "A": "0",
     "B": "1",
     "C": "11",
@@ -1000,7 +1000,7 @@
     "javob": "A"
   },
   {
-    "savol": "00=?",
+    "savol": "0 ∨ 0 = ?",
     "A": "1",
     "B": "0",
     "C": "11",
@@ -1008,7 +1008,7 @@
     "javob": "A"
   },
   {
-    "savol": "Mulohaza chin bo’lganda yolg’on, yolg’on bo’lganda chin qiymat qabul qiladigan mantiqiy amal qaysi",
+    "savol": "Mulohaza chin bo'lganda yolg'on, yolg'on bo'lganda chin qiymat qabul qiladigan mantiqiy amal qaysi?",
     "A": "inkor",
     "B": "dizyunksiya",
     "C": "konyunksiya",
@@ -1016,15 +1016,15 @@
     "javob": "A"
   },
   {
-    "savol": "Тanlanma qaysi to‘plamdan olingan bo‘lsa, bu to‘plam …….deyiladi.",
-    "A": "bosh to‘plam",
-    "B": "tanlanma to‘plam",
+    "savol": "Tanlanma qaysi to'plamdan olingan bo'lsa, bu to'plam ....... deyiladi.",
+    "A": "bosh to'plam",
+    "B": "tanlanma to'plam",
     "C": "holat,vaziyat",
     "D": "statistik gipotezalar nazariyasi",
     "javob": "A"
   },
   {
-    "savol": "5,6,-3,-4 sonlarining o’rta qiymatini toping.",
+    "savol": "5,6,-3,-4 sonlarining o'rta qiymatini toping.",
     "A": "1",
     "B": "2",
     "C": "3",
@@ -1032,7 +1032,7 @@
     "javob": "A"
   },
   {
-    "savol": "Ikki o’zgaruvchili funksiyaning chinlik jadvalining qiymatlar satri nechta bo’ladi",
+    "savol": "Ikki o'zgaruvchili funksiyaning chinlik jadvalining qiymatlar satri nechta bo'ladi?",
     "A": "4",
     "B": "8",
     "C": "6",
@@ -1040,7 +1040,7 @@
     "javob": "A"
   },
   {
-    "savol": "Uch o’zgaruvchili funksiyaning chinlik jadvali necta satrdan iborat",
+    "savol": "Uch o'zgaruvchili funksiyaning chinlik jadvali nechta satrdan iborat?",
     "A": "8",
     "B": "4",
     "C": "6",
@@ -1048,31 +1048,31 @@
     "javob": "A"
   },
   {
-    "savol": "Mulohazaning uning inkoriga konyunksiyasi nimaga teng",
+    "savol": "Mulohazaning uning inkoriga konyunksiyasi nimaga teng?",
     "A": "Doim nolga",
     "B": "Doim 1ga",
     "C": "0 yoki1",
-    "D": "Aytib bo’lmaydi",
+    "D": "Aytib bo'lmaydi",
     "javob": "A"
   },
   {
-    "savol": "Mulohaza va uning inkorining dizyunksiyasi nimaga teng",
+    "savol": "Mulohaza va uning inkorining dizyunksiyasi nimaga teng?",
     "A": "Doim birga",
     "B": "Doim 0 ga",
     "C": "0 yoki 1",
-    "D": "Aytib bo’lmaydi",
+    "D": "Aytib bo'lmaydi",
     "javob": "A"
   },
   {
-    "savol": "Mulohaza va uning inkorining ekvivalensiyasi nimaga teng",
+    "savol": "Mulohaza va uning inkorining ekvivalensiyasi nimaga teng?",
     "A": "Doim nolga",
     "B": "Doim 1ga",
     "C": "0 yoki1",
-    "D": "Aytib bo’lmaydi",
+    "D": "Aytib bo'lmaydi",
     "javob": "A"
   },
   {
-    "savol": "<4,2>,<5,3>,<6,4> binar munosabatning aniqlanish sohasini aniqlang",
+    "savol": "<4,2>, <5,3>, <6,4> binar munosabatning aniqlanish sohasini aniqlang.",
     "A": "{ 4,5,6}",
     "B": "{ 1,2,3,4}",
     "C": "{ 2,3,4}",
@@ -1080,7 +1080,7 @@
     "javob": "A"
   },
   {
-    "savol": "<7,2>,<8,3>,<9,4> binar munosabatning aniqlanish sohasini aniqlang",
+    "savol": "<7,2>, <8,3>, <9,4> binar munosabatning aniqlanish sohasini aniqlang.",
     "A": "{ 1,2,3}",
     "B": "{ 1,2,3,4}",
     "C": "{ 2,3,4}",
@@ -1088,7 +1088,7 @@
     "javob": "A"
   },
   {
-    "savol": "<11,2>,<12,3>,<13,4> binar munosabatning aniqlanish sohasini aniqlang",
+    "savol": "<11,2>, <12,3>, <13,4> binar munosabatning aniqlanish sohasini aniqlang.",
     "A": "{ 11,12,13}",
     "B": "{ 1,2,3,4}",
     "C": "{ 2,3,4}",
@@ -1096,7 +1096,7 @@
     "javob": "A"
   },
   {
-    "savol": "<21,2>,<22,3>,<23,4> binar munosabatning aniqlanish sohasini aniqlang",
+    "savol": "<21,2>, <22,3>, <23,4> binar munosabatning aniqlanish sohasini aniqlang.",
     "A": "{ 21,22,23}",
     "B": "{ 1,2,3,4}",
     "C": "{ 2,3,4}",
