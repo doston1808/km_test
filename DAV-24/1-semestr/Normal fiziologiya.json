@@ -1,0 +1,1986 @@
+[
+  {
+    "savol": "Qo‘zg‘aluvchan to‘qimalarga qaysilar kiradi?",
+    "A": "Mushak va nerv",
+    "B": "Epiteliy va suyak",
+    "C": "Biriktiruvchi to‘qima",
+    "D": "Qon",
+    "javob": "A"
+  },
+  {
+    "savol": "Tinch holatdagi membrana potensiali asosan qaysi ionlar taqsimoti bilan bog‘liq?",
+    "A": "Na⁺ va K⁺",
+    "B": "Ca²⁺",
+    "C": "Cl⁻",
+    "D": "Mg²⁺",
+    "javob": "A"
+  },
+  {
+    "savol": "Tinch membrana potensiali qiymati nerv tolalarida o‘rtacha nechaga teng?",
+    "A": "–70 mV",
+    "B": "–30 mV",
+    "C": "–50 mV",
+    "D": "+30 mV",
+    "javob": "A"
+  },
+  {
+    "savol": "Harakat potensialining boshlang‘ich bosqichi nima deb ataladi?",
+    "A": "Depolyarizatsiya",
+    "B": "Repolyarizatsiya",
+    "C": "Giperpolyarizatsiya",
+    "D": "Plato faza",
+    "javob": "A"
+  },
+  {
+    "savol": "“Bor  yoki yo'q” qonuni nimani bildiradi?",
+    "A": "Chegaradan oshsa — to‘liq javob, oshmasa — javob yo‘q",
+    "B": "Qo‘zg‘alish kuchi ta’sir kuchiga bog‘liq",
+    "C": "Har qanday ta’sir qo‘zg‘alish chaqiradi",
+    "D": "Qo‘zg‘alish asta-sekin rivojlanadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qo‘zg‘atuvchining eng kam kuchi qanday ataladi?",
+    "A": "Bo'sag'a kuchi",
+    "B": "Optimal",
+    "C": "Maksimal",
+    "D": "Subchegaraviy",
+    "javob": "A"
+  },
+  {
+    "savol": "Refrakterlik davrida qo‘zg‘aluvchanlik qanday o‘zgaradi?",
+    "A": "Vaqtincha yo‘qoladi yoki kamayadi",
+    "B": "Ortadi",
+    "C": "O‘zgarmaydi",
+    "D": "Doimiy kuchayadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Absolyut refrakterlik davriga xos xususiyatni tanlang.",
+    "A": "Hech qanday ta’sir qo‘zg‘alish chaqira olmaydi",
+    "B": "Kuchli ta’sir bilan qo‘zg‘alish chaqiriladi",
+    "C": "Faqat optimal ta’sir ta’sir qiladi",
+    "D": "Mexanik ta’sir javob beradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Bioelektrik hodisalarning asosiy sababi nima?",
+    "A": "Membrananing selektiv o‘tkazuvchanligi",
+    "B": "Mushak qisqarishi",
+    "C": "Ion nasoslarining to‘xtashi",
+    "D": "Kimyoviy moddalar ta’siri",
+    "javob": "A"
+  },
+  {
+    "savol": "Ta’sirlashning optimal qonuni nimani bildiradi?",
+    "A": "Ma’lum kuch va davomiylikdagi ta’sir eng samarali",
+    "B": "Nerv impulsini o‘tkazish",
+    "C": "Eng kuchli ta’sir eng yaxshi javob beradi",
+    "D": "Eng uzoq ta’sir eng yaxshi javob beradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Nerv tolalarining asosiy vazifasi nima?",
+    "A": "Nerv impulsini o‘tkazish",
+    "B": "Gormon ajratish",
+    "C": "Energiya ishlab chiqarish",
+    "D": "Moddalar almashinuvini boshqarish",
+    "javob": "A"
+  },
+  {
+    "savol": "Miyelin qavati nerv tolalarida nima vazifa bajaradi?",
+    "A": "Impuls o‘tishini tezlashtiradi",
+    "B": "Impuls hosil qiladi",
+    "C": "Sinaps hosil qiladi",
+    "D": "Mediator ajratadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ranve tugunlari qayerda joylashgan?",
+    "A": "Miyelin qavati orasida",
+    "B": "Sinapsda",
+    "C": "Akson uchida",
+    "D": "Dentritda",
+    "javob": "A"
+  },
+  {
+    "savol": "Miyelinsiz nerv tolalarida impuls qanday o‘tadi?",
+    "A": "Sekin va uzluksiz",
+    "B": "Sakrab",
+    "C": "Kimyoviy",
+    "D": "Reflektor",
+    "javob": "A"
+  },
+  {
+    "savol": "Sinaps nima?",
+    "A": "Ikki neyron orasidagi aloqa joyi",
+    "B": "Ikki mushak orasidagi aloqa",
+    "C": "Nerv tolasi ichidagi bo‘shliq",
+    "D": "Nerv bilan qon tomir orasidagi bog‘lanish",
+    "javob": "A"
+  },
+  {
+    "savol": "Kimyoviy sinapsda impuls qanday uzatiladi?",
+    "A": "Mediator moddalar orqali",
+    "B": "Issiqlik orqali",
+    "C": "Elektr toki orqali",
+    "D": "Mexanik to‘lqin orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Sakrab o‘tuvchi (saltator) impuls o‘tish qaysi tolalarda kuzatiladi?",
+    "A": "Miyelinli tolalarda",
+    "B": "Mielinsiz tolalarda",
+    "C": "Vegetativ nervlarda",
+    "D": "Sezgir tolalarda",
+    "javob": "A"
+  },
+  {
+    "savol": "Sinapsda kechikish (sinaptik kechikish) asosan nimaga bog‘liq?",
+    "A": "Mediator ajralib chiqishiga",
+    "B": "Akson uzunligiga",
+    "C": "Ranve tuguniga",
+    "D": "Miyelin qalinligiga",
+    "javob": "A"
+  },
+  {
+    "savol": "Tormozlovchi sinapslarda qaysi ionlar o‘tkazuvchanligi ortadi?",
+    "A": "K⁺ yoki Cl⁻",
+    "B": "Na⁺",
+    "C": "Ca²⁺",
+    "D": "Mg²⁺",
+    "javob": "A"
+  },
+  {
+    "savol": "Sinapslarning fiziologik ahamiyati nimada?",
+    "A": "Impulsni bir yo‘nalishda o‘tkazishni ta’minlaydi",
+    "B": "Impulsni faqat sekinlashtiradi",
+    "C": "Impulsni faqat tezlashtiradi",
+    "D": "Nerv tolalarini himoyalaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Mushak qisqarishi qaysi filamentlarning siljishi bilan sodir bo‘ladi?",
+    "A": "Aktin va miozin",
+    "B": "Aktin va keratin",
+    "C": "Tropomin va troponin",
+    "D": "Miozin va keratin",
+    "javob": "A"
+  },
+  {
+    "savol": "Nerv tolasi mushakka signal yuborganda ajraladigan neyrotransmitter nima?",
+    "A": "Acetilxolin",
+    "B": "Dopamin",
+    "C": "Adrenalin",
+    "D": "Serotonin",
+    "javob": "A"
+  },
+  {
+    "savol": "Silliq tetanus xususiyati nima?",
+    "A": "Mushak uzluksiz va barqaror qisqaradi",
+    "B": "Mushak qisqarishlari tishli bo‘ladi",
+    "C": "Mushak bo‘shashadi",
+    "D": "Mushak qisqarishi faqat bir marta sodir bo‘ladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Mushak qisqarishining boshlanishida Ca²⁺ ionlarining vazifasi nima?",
+    "A": "Troponin va tropomiozinni siljitadi, aktin bilan miozin bog‘lanadi",
+    "B": "Nerv impulsini yo‘q qiladi",
+    "C": "Mushak uzunligini oshiradi",
+    "D": "Mushakni bo‘shashtiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Muskullarni maximal silliq tetanus holatiga olib keladigan stimulyatsiya tezligi nima bilan izohlanadi?",
+    "A": "Impulslar juda tez kelib, mushak bo‘shalmaydi",
+    "B": "Impulslar orasida mushak to‘liq bo‘shashadi",
+    "C": "Mushak impulsni qabul qilmaydi",
+    "D": "Mushak qisqarishi kamayadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Tishli tetanus kuchi silliq tetanusga nisbatan:",
+    "A": "Kamroq va tebranishli",
+    "B": "Ko‘proq va barqaror",
+    "C": "Bir xil",
+    "D": "Kamroq va barqaror",
+    "javob": "A"
+  },
+  {
+    "savol": "Mushak qisqarishida Ca²⁺ ionlari qayta sarkoplazmatik retikulumga olinmasa, nima sodir bo‘ladi?",
+    "A": "Mushak doimiy qisqarishda qoladi (tetanik holat)",
+    "B": "Mushak bo‘shashadi",
+    "C": "Mushak uzunligi oshadi",
+    "D": "Nerv impulsi yo‘qoladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Organizmda asosiy biologik suyuqlik qaysi?",
+    "A": "Qon",
+    "B": "Limfa",
+    "C": "Sitoplazma",
+    "D": "Ovqat hazm suyuqligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qonning asosiy vazifasi nima?",
+    "A": "Hujayralarga moddalarni va kislorodni yetkazish",
+    "B": "Energiya ishlab chiqarish",
+    "C": "Nerv impulslarini uzatish",
+    "D": "Mushak qisqarishini boshqarish",
+    "javob": "A"
+  },
+  {
+    "savol": "Qonning qizil qon tanachalari (eritrotsitlar) vazifasi nima?",
+    "A": "Kislorod tashish",
+    "B": "Antitelalar ishlab chiqarish",
+    "C": "Qon bosimini oshirish",
+    "D": "Qonning suyuqligini ta’minlash",
+    "javob": "A"
+  },
+  {
+    "savol": "Qonning suyuqlik qismi nima deb ataladi?",
+    "A": "Plazma",
+    "B": "Limfa",
+    "C": "Sitoplazma",
+    "D": "Serum",
+    "javob": "A"
+  },
+  {
+    "savol": "Qon plazmasida eng ko‘p qaysi komponent mavjud?",
+    "A": "Suv",
+    "B": "Proteinlar",
+    "C": "Qon hujayralari",
+    "D": "Tuzlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Qonning pH qiymati odatda qanday?",
+    "A": "7,4",
+    "B": "6,8",
+    "C": "7,0",
+    "D": "8,0",
+    "javob": "A"
+  },
+  {
+    "savol": "Qonning qalinligi va viskozligi nimaga bog‘liq?",
+    "A": "Suv miqdori va qizil qon tanachalari soniga",
+    "B": "Faqat suv miqdoriga",
+    "C": "Faqat oqsil miqdoriga",
+    "D": "Limfa hajmiga",
+    "javob": "A"
+  },
+  {
+    "savol": "Qonning asosiy oqsillari qaysilar?",
+    "A": "Albumin, globulin, fibrinogen",
+    "B": "Gemoglobin va miozin",
+    "C": "Aktin va troponin",
+    "D": "Troponin va keratin",
+    "javob": "A"
+  },
+  {
+    "savol": "Qonning zichligi odatda qanday bo‘ladi?",
+    "A": "1,050–1,060 g/ml",
+    "B": "0,950–0,960 g/ml",
+    "C": "1,100–1,120 g/ml",
+    "D": "1,000–1,010 g/ml",
+    "javob": "A"
+  },
+  {
+    "savol": "Qonning rangini nima belgilaydi?",
+    "A": "Gemoglobin va kislorod bilan bog‘lanish darajasi",
+    "B": "Plazma oqsillari",
+    "C": "Limfa hajmi",
+    "D": "Tuzlar miqdori",
+    "javob": "A"
+  },
+  {
+    "savol": "Qon plazmasida elektrolitlar vazifasi nima?",
+    "A": "Osmotik bosimni saqlash va kislorod tashish",
+    "B": "Mushak qisqarishini boshqarish",
+    "C": "Qonning viskozitesini kamaytirish",
+    "D": "Hujayralarni ko‘paytirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Qonning osmolaritasi odatda qanday diapazonda bo‘ladi?",
+    "A": "280–300 mOsm/l",
+    "B": "150–200 mOsm/l",
+    "C": "310–350 mOsm/l",
+    "D": "200–250 mOsm/l",
+    "javob": "A"
+  },
+  {
+    "savol": "Albumin qonda asosiy vazifasi nima?",
+    "A": "Osmotik bosimni saqlash va moddalarni tashish",
+    "B": "Qon bosimini oshirish",
+    "C": "Qonni oksidlanishdan himoya qilish",
+    "D": "Antitelalar ishlab chiqarish",
+    "javob": "A"
+  },
+  {
+    "savol": "Qonning viskoziteti qaysi omillarga bog‘liq?",
+    "A": "Eritrotsitlar soni va plazma oqsillari",
+    "B": "Limfa hajmi",
+    "C": "Qon bosimi",
+    "D": "Plazma suvining harorati",
+    "javob": "A"
+  },
+  {
+    "savol": "Qonning reologik xossalari nima?",
+    "A": "Qonning suyuqligi va oqimga qarshilik ko‘rsatishi",
+    "B": "Qonning pH qiymati",
+    "C": "Qonning oqsil tarkibi",
+    "D": "Qonning eritrotsit miqdori",
+    "javob": "A"
+  },
+  {
+    "savol": "Eritrotsitlarning asosiy vazifasi nima?",
+    "A": "Kislorod tashish",
+    "B": "Antitelalar ishlab chiqarish",
+    "C": "Qonni ivlashtirish",
+    "D": "Immun javobni ta’minlash",
+    "javob": "A"
+  },
+  {
+    "savol": "Eritrotsitlar shakli qanday?",
+    "A": "ikki tomoni botiq disk",
+    "B": "To‘g‘ri va uzun",
+    "C": "Kvadrat",
+    "D": "Uzoq silindr",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘rtacha inson qonida eritrotsitlar soni qancha?",
+    "A": "4–6 million/µl",
+    "B": "1–2 million/µl",
+    "C": "10–12 million/µl",
+    "D": "100 ming/µl",
+    "javob": "A"
+  },
+  {
+    "savol": "Gemoglobinning asosiy tarkibiy qismi nima?",
+    "A": "Gem va globin",
+    "B": "Albumin va globulin",
+    "C": "Actin va miozin",
+    "D": "Troponin va tropomiozin",
+    "javob": "A"
+  },
+  {
+    "savol": "Eritrotsitlarning umr davomiyligi odatda qancha?",
+    "A": "120 kun",
+    "B": "10–20 kun",
+    "C": "1yil",
+    "D": "6oy",
+    "javob": "A"
+  },
+  {
+    "savol": "Eritrotsitlar deformatsiyalanish qobiliyati nimaga xizmat qiladi?",
+    "A": "Kichik qon tomirlardan o‘tib, kislorod tashishni osonlashtirish",
+    "B": "Qonni qalinlashtirish",
+    "C": "Plazma tarkibini saqlash",
+    "D": "Gemoglobinning ishlashini kamaytirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Gemoglobinning oksigen bilan bog‘lanish qobiliyati nimaga bog‘liq?",
+    "A": "pH, CO₂ darajasi va harorat",
+    "B": "Qon bosimi va plazma miqdori",
+    "C": "Eritrotsitlar soni",
+    "D": "Limfa hajmi",
+    "javob": "A"
+  },
+  {
+    "savol": "Eritrotsitlar qaysi organ tomonidan yo‘q qilinadi?",
+    "A": "Jigar va taloq",
+    "B": "Buyrak",
+    "C": "Yurak",
+    "D": "Yurak",
+    "javob": "A"
+  },
+  {
+    "savol": "Eritrotsitlar parchalanishiga nima olib keladi?",
+    "A": "Oldindan belgilangan hayotiy sikl va mexanik shikastlanish",
+    "B": "Qon bosimi oshishi",
+    "C": "Limfa oqimi kamayishi",
+    "D": "Proteinlar ko‘payishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Gemoglobinning parchalanishidan nima hosil bo'ladi?",
+    "A": "Gem va globin",
+    "B": "Albumin va globulin",
+    "C": "Troponin va tropomiozin",
+    "D": "Keratin va miozin",
+    "javob": "A"
+  },
+  {
+    "savol": "Gem parchalanishi natijasida nimaga aylanadi?",
+    "A": "Bilirubin",
+    "B": "Glukozaga",
+    "C": "Qon plazmasiga",
+    "D": "Oksigen",
+    "javob": "A"
+  },
+  {
+    "savol": "Gem parchalanishi natijasida hosil bo‘lgan bilirubinning qaysi shakli suvda eriydi va jigarda ishlanadi?",
+    "A": "Konyugirlangan",
+    "B": "Konyugirlanmagan",
+    "C": "Oksigen bilan bog‘langan",
+    "D": "Gemoglobin bilan bog‘langan",
+    "javob": "A"
+  },
+  {
+    "savol": "Leykositlar qaysi asosiy vazifani bajaradi?",
+    "A": "Immun javobni ta’minlash",
+    "B": "Kislorod tashish",
+    "C": "Qon bosimini oshirish",
+    "D": "Qonni ivishini taminlash",
+    "javob": "A"
+  },
+  {
+    "savol": "Qon guruhlari qaysi sistemaga asoslanadi?",
+    "A": "ABO sistemasi",
+    "B": "Rh sistemasi",
+    "C": "Kell sistemasi",
+    "D": "HLA",
+    "javob": "A"
+  },
+  {
+    "savol": "Rezus (Rh) faktor nima?",
+    "A": "Eritrotsit yuzasidagi antigen",
+    "B": "Qon plazmasidagi oqsil",
+    "C": "Leykositlar turi",
+    "D": "Trombotsit miqdori",
+    "javob": "A"
+  },
+  {
+    "savol": "Qon quyishda ABO mosligi nima uchun muhim?",
+    "A": "Qon guruhidagi antitelalar reaksiyasini oldini olish",
+    "B": "Qonni tezroq kiritish",
+    "C": "Qon bosimini oshirish",
+    "D": "Gemoglobinni ko‘paytirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Leykotsitlar soni odatda qancha?",
+    "A": "4–9 ming/µl",
+    "B": "1–2 million/µl",
+    "C": "100–200 ming/µl",
+    "D": "10–20 ming/µl",
+    "javob": "A"
+  },
+  {
+    "savol": "Qon quyish qaysi holatda amalga oshiriladi?",
+    "A": "Anemiya, qon yo‘qotish, gemostaz buzilishi",
+    "B": "Plazma oqsili oshganda",
+    "C": "Yurak tezligi oshganda",
+    "D": "Limfa oqimi kamayganda",
+    "javob": "A"
+  },
+  {
+    "savol": "ABO tizimida 0 guruhi odam qaysi antitelaga ega?",
+    "A": "Anti-A va Anti-B",
+    "B": "Hech qaysi",
+    "C": "Faqat Anti-A",
+    "D": "Faqat Anti-B",
+    "javob": "A"
+  },
+  {
+    "savol": "Rh tizimi bo‘yicha Rh- inson birinchi marta Rh+ qon olsa nima sodir bo‘ladi?",
+    "A": "Hech qanday javob bo‘lmaydi, lekin immunizatsiya boshlanadi",
+    "B": "Darhol og‘ir reaksiyalar yuz beradi",
+    "C": "Qon quyilmaydi",
+    "D": "Gemoglobin ko‘payadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Leykositlar qanday mexanizm bilan bakteriyalarni yo‘q qiladi?",
+    "A": "Fagotsitoz orqali",
+    "B": "Oksidlovchi fosforillanish orqali",
+    "C": "Limfa orqali",
+    "D": "Eritrotsit bilan birlashib",
+    "javob": "A"
+  },
+  {
+    "savol": "Qon quyishda AB guruhi qaysi guruhlardan qon olishi mumkin?",
+    "A": "A, B, AB, 0",
+    "B": "AB,0",
+    "C": "0",
+    "D": "A va B",
+    "javob": "A"
+  },
+  {
+    "savol": "Gemoliz reaktsiyasi qon quyishda nimani bildiradi?",
+    "A": "Donor va retsepiyent qonining mos kelmasligi",
+    "B": "Qon bosimi oshishi",
+    "C": "Gemoglobin ko‘payishi",
+    "D": "Limfa oqimi kamayishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Gemostaz nima?",
+    "A": "Qon ivish jarayoni",
+    "B": "Qon bosimini oshirish",
+    "C": "Eritrotsit sonini oshirish",
+    "D": "Limfa oqimini nazorat qilish",
+    "javob": "A"
+  },
+  {
+    "savol": "Qon ivishida asosiy oqsil qaysi?",
+    "A": "Fibrinogen",
+    "B": "Albumin",
+    "C": "Gemoglobin",
+    "D": "Globulin",
+    "javob": "A"
+  },
+  {
+    "savol": "Trombotsitlar gemostazda nima vazzifa bajaradi?",
+    "A": "Qon tomir devoriga yopishib, tromb hosil qiladi",
+    "B": "Qon bosimini oshiradi",
+    "C": "Kislorod tashiydi",
+    "D": "Limfa oqimini nazorat qiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Fibrinoliz nima?",
+    "A": "Hosil bo‘lgan trombni eritish",
+    "B": "Qon tomir devorini mustahkamlash",
+    "C": "Qon ivishini boshlash",
+    "D": "Trombotsitlar ko‘payishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Gemostazning birinchi javobi nima?",
+    "A": "Vazokonstriksiya",
+    "B": "Trombotsit agregatsiyasi",
+    "C": "Fibrin hosil bo‘lishi",
+    "D": "Fibrinoliz",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi ferment fibrinogenni fibringa aylantiradi?",
+    "A": "Trombin",
+    "B": "Tromboksan",
+    "C": "Plazmin",
+    "D": "Gemoglobin",
+    "javob": "A"
+  },
+  {
+    "savol": "Fibrinolizning asosiy fermenti qaysi?",
+    "A": "Plazmin",
+    "B": "Trombin",
+    "C": "Fibrinogen",
+    "D": "Albumin",
+    "javob": "A"
+  },
+  {
+    "savol": "Fibrinoliz jarayonida plazminogen nima qiladi?",
+    "A": "Fibrin tarmog‘ini eritadi",
+    "B": "Trombin hosil qiladi",
+    "C": "Trombotsitlarni faollashtiradi",
+    "D": "Eritrotsitlarni ishlab chiqaradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Gemostazda antikoagulyantlar vazifasi nima?",
+    "A": "Qon ivishini nazorat qilish va ortiqcha tromb hosil bo‘lishini oldini olish",
+    "B": "Qonni tezroq ivishini ta’minlash",
+    "C": "Fibrin hosil bo‘lishini kuchaytirish",
+    "D": "Trombotsit ko‘payishini oshirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Gemostaz va fibrinolizning muvozanati nimaga olib keladi?",
+    "A": "Normal qon aylanishini saqlaydi, ortiqcha qon ivishini oldini oladi",
+    "B": "Qon bosimini oshiradi",
+    "C": "Eritrotsitlar sonini oshiradi",
+    "D": "Limfa oqimini tezlashtiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Yurakning asosiy vazifasi nima?",
+    "A": "Qonni tomirlarga haydash va aylanishini ta’minlash",
+    "B": "Qon plazmasini ishlab chiqarish",
+    "C": "Kislorod ishlab chiqarish",
+    "D": "Limfa oqimini oshirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Yurak mushak to‘qimasi qanday xususiyatga ega?",
+    "A": "Qisqarish va uzluksiz ritmik faoliyatga ega",
+    "B": "Silliq va sekin qisqaradi",
+    "C": "Skelet mushagi kabi tez qisqaradi va uzoq cho‘ziladi",
+    "D": "Hech qachon qisqarmaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Yurakda impuls qayerdan boshlanadi?",
+    "A": "SA (sinoatrial) tugunda",
+    "B": "AV tugunda",
+    "C": "Purkinye tolalarida",
+    "D": "Qorincha mushaklarida",
+    "javob": "A"
+  },
+  {
+    "savol": "Qon aylanishining kichik aylanishi qaysi organlarda sodir bo‘ladi?",
+    "A": "Yurakdan o‘pka orqali",
+    "B": "Yurakdan tanaga",
+    "C": "Buyrak orqali",
+    "D": "Limfa orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Qon aylanishining katta aylanishi qayerdan boshlanadi?",
+    "A": "Chap qorincha orqali tanaga",
+    "B": "O‘pka venasidan tanaga",
+    "C": "O‘pka arteriyasidan tanaga",
+    "D": "Limfa tugunlaridan tanaga",
+    "javob": "A"
+  },
+  {
+    "savol": "Yurak mushaklarining automatizm xususiyati nimaga xizmat qiladi?",
+    "A": "Yurak ritmini mustaqil boshqarish",
+    "B": "Qon bosimini oshirish",
+    "C": "Qonni ivishini ta’minlash",
+    "D": "Limfa oqimini tezlashtirish",
+    "javob": "A"
+  },
+  {
+    "savol": "AV tugunning vazifasi nima?",
+    "A": "Impulsni biroz kechiktirib, bo'lmachadan qorinchalarga o‘tishini ta’minlash",
+    "B": "Yurak ritmini boshlash",
+    "C": "Qon bosimini oshirish",
+    "D": "Trombotsitlar agregatsiyasini kuchaytirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Purkinye tolalari vazifasi nima?",
+    "A": "Qorinchalarda impulsni tez va bir vaqtda tarqatish",
+    "B": "Qon bosimini nazorat qilish",
+    "C": "Qonni ivishini ta’minlash",
+    "D": "Bo'lmacharda impuls hosil qilish",
+    "javob": "A"
+  },
+  {
+    "savol": "Qon aylanishida kapillyarlar vazifasi nima?",
+    "A": "Moddalarni hujayralar bilan almashish",
+    "B": "Qon bosimini oshirish",
+    "C": "Qonni to‘plash",
+    "D": "Limfa hosil qilish",
+    "javob": "A"
+  },
+  {
+    "savol": "Yurakning sinxron qisqarishi nimaga bog‘liq?",
+    "A": "Impulsning bir vaqtning o‘zida tarqalishi",
+    "B": "Qon bosimiga",
+    "C": "Limfa oqimi tezligiga",
+    "D": "Qon pH qiymatiga",
+    "javob": "A"
+  },
+  {
+    "savol": "Yurak mushaklari kontraksiya kuchi qaysi qon ionlariga bog‘liq?",
+    "A": "Kaltsiy",
+    "B": "Kaliy va natriy",
+    "C": "Magniy va xlor",
+    "D": "Fosfat va sulfat",
+    "javob": "A"
+  },
+  {
+    "savol": "Starling qonuni nima haqida?",
+    "A": "Yurak mushagi cho‘zilishi qanchalik ko‘p bo‘lsa, qisqarish kuchi shunchalik ortadi",
+    "B": "Qon bosimi oshsa, yurak ritmi oshadi",
+    "C": "Kapillyarlar orqali moddalar almashinuvi",
+    "D": "Qonning qalinligi oshadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Yurak mushaklarining refrakter davri nima uchun muhim?",
+    "A": "Qorinchalar to‘liq bo‘shashishiga imkon beradi va yurak ritmini saqlaydi",
+    "B": "Mushakning qisqarishini kuchaytiradi",
+    "C": "Qonni ko‘proq to‘plash",
+    "D": "Kapillyar almashinuvini oshirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Qon aylanishining yuqori bosimi odatda qaysi tomirlarda o‘lchanadi?",
+    "A": "Arteriyalarda, ayniqsa aortada",
+    "B": "Kapillyarlarda",
+    "C": "Vena cava",
+    "D": "Limfa tomirlarida",
+    "javob": "A"
+  },
+  {
+    "savol": "Yurak faoliyatini baholashda eng keng qo‘llaniladigan usul qaysi?",
+    "A": "Elektrokardiogramma (EKG)",
+    "B": "Rentgen",
+    "C": "Ultratovush faqat",
+    "D": "Limfa oqimi o‘lchash",
+    "javob": "A"
+  },
+  {
+    "savol": "EKG da P toshi nima uchun javob beradi?",
+    "A": "Bo'lmachalar depolarizatsiyasi",
+    "B": "Qorinchalarning depolarizatsiyasi",
+    "C": "Qorinchalarning repolarizatsiyasi",
+    "D": "AV tugunning faoliyati",
+    "javob": "A"
+  },
+  {
+    "savol": "EKG da QRS kompleksi nimani ko‘rsatadi?",
+    "A": "Qorinchalarning depolarizatsiyasi",
+    "B": "Bo'lmachalar depolarizatsiyasi",
+    "C": "Qorinchalarning repolarizatsiyasi",
+    "D": "AV tugunning faoliyati",
+    "javob": "A"
+  },
+  {
+    "savol": "EKG da T tishi nimani bildiradi?",
+    "A": "Qorinchalarning repolarizatsiyasi",
+    "B": "Bo'lmachalar depolarizatsiyasi",
+    "C": "Qorinchalarning depolarizatsiyasi",
+    "D": "AV tugunning faolligi",
+    "javob": "A"
+  },
+  {
+    "savol": "RR intervallari nimani ko‘rsatadi?",
+    "A": "Yurak urishlar oralig‘i",
+    "B": "Qorinchalarning kuchi",
+    "C": "Qon bosimi",
+    "D": "Limfa oqimi",
+    "javob": "A"
+  },
+  {
+    "savol": "Sistolik qon hajmi nima?",
+    "A": "Qorinchalardan chiqarilgan qon miqdor",
+    "B": "Qorinchalar maksimal to‘lgan qon miqdori",
+    "C": "Yurakning har bir urishi soni",
+    "D": "Limfa oqimi hajmi",
+    "javob": "A"
+  },
+  {
+    "savol": "Minutlik qon hajmi nima?",
+    "A": "Bir minut ichida yurakdan chiqarilgan qon miqdori",
+    "B": "Qorinchalarning to‘liq hajmi",
+    "C": "Qon bosimi",
+    "D": "Limfa hajmi",
+    "javob": "A"
+  },
+  {
+    "savol": "Yurakning tonik va ritmik faoliyatini tekshirishda qaysi usul ishlatiladi?",
+    "A": "EKG",
+    "B": "Rentgen",
+    "C": "Limfa o‘lchash",
+    "D": "Ultratovush faqat",
+    "javob": "A"
+  },
+  {
+    "savol": "Sistolik va diastolik qon bosimi orasidagi farq nima deb ataladi?",
+    "A": "Puls bosimi",
+    "B": "Minutlik hajm",
+    "C": "Qorinchalar to‘lishi",
+    "D": "Atriyal to‘lish",
+    "javob": "A"
+  },
+  {
+    "savol": "EKG da PR intervalli nimani ko‘rsatadi?",
+    "A": "Bo'lmachalar depolarizatsiya va AV tugunning kechikishi",
+    "B": "Qorinchalarning depolarizatsiyasi",
+    "C": "Qorinchalarning repolarizatsiyasi",
+    "D": "Purkinye tolalarining faolligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Minutlik qon hajmini (CO) qanday hisoblashadi?",
+    "A": "Sistolik qon hajmi × yurak urishlar soni",
+    "B": "Qon bosimi × yurak urishlar soni",
+    "C": "Qorinchalar hajmi × limfa oqimi",
+    "D": "Qon zichligi × yurak tezligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar RR intervalli qisqarsa, yurak tezligi qanday o‘zgaradi?",
+    "A": "Tezlashadi",
+    "B": "Sekinlashadi",
+    "C": "O‘zgarmaydi",
+    "D": "To‘xtaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "EKG da QT intervalli nimani bildiradi?",
+    "A": "Qorinchalarning depolarizatsiya va repolarizatsiyasi davri",
+    "B": "Atriyal repolarizatsiya",
+    "C": "AV tugunning faolligi",
+    "D": "Purkinye tolalari kechikishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Yurak faoliyatini boshqarishda asosiy markaz qaysi nerv tizimida joylashgan?",
+    "A": "Markaziy nerv tizimi (medulla oblongata)",
+    "B": "Miyachada",
+    "C": "O'rta miyada",
+    "D": "Orqa miyada",
+    "javob": "A"
+  },
+  {
+    "savol": "Yurak tezligi va kuchi qaysi nerv tizimlari orqali boshqariladi?",
+    "A": "Avtonom nerv tizimi – simpatik va parasimpatik",
+    "B": "Faqat markaziy nerv tizimi",
+    "C": "Limfa nervlari",
+    "D": "Skelet nervlari",
+    "javob": "A"
+  },
+  {
+    "savol": "Simpatik nervlar yurak faoliyatiga qanday ta’sir qiladi?",
+    "A": "Yurak tezligini oshiradi va kontraksiya kuchini kuchaytiradi",
+    "B": "Yurak tezligini kamaytiradi",
+    "C": "Qon bosimini pasaytiradi",
+    "D": "Qorinchalarni bo‘shatadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Parasimpatik (vagus) nerv yurakka qanday ta’sir qiladi?",
+    "A": "Yurak tezligini oshiradi va kontraksiya kuchini kuchaytiradi",
+    "B": "Yurak tezligini oshiradi",
+    "C": "Qon hajmini oshiradi",
+    "D": "Qon ivishini kuchaytiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Yurak faoliyatining kimyoviy regulyatsiyasida qaysi moddalar ishtirok etadi?",
+    "A": "Adrenalin, noradrenalin, kalsiy",
+    "B": "Kislorod",
+    "C": "Natriy va xlor faqat",
+    "D": "Glukozalar faqat",
+    "javob": "A"
+  },
+  {
+    "savol": "Yurak ritmi qanday mexanizmlar orqali regulyatsiya qilinadi?",
+    "A": "Nerv impulslari va kimyoviy moddalar orqali",
+    "B": "Faqat qonni bosish orqali",
+    "C": "Faqat limfa oqimi bilan",
+    "D": "Qorinchalarning hajmi bilan",
+    "javob": "A"
+  },
+  {
+    "savol": "Baroretseptorlar yurak faoliyatini qanday boshqaradi?",
+    "A": "Qon bosimini sezib, yurak tezligi va tomir tonusini moslashtiradi",
+    "B": "Limfa hajmini oshiradi",
+    "C": "Qon ivishini boshlaydi",
+    "D": "Qorinchalarni bo‘shatadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Yurak faoliyatining reflektor boshqaruvi qaysi mexanizm bilan amalga oshadi?",
+    "A": "Baroretseptor va xemoreseptor reflekslari orqali",
+    "B": "Skelet mushaklari orqali",
+    "C": "Limfa oqimi orqali",
+    "D": "Oshqozon sekretsiyasi orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Simpatik stimulyatsiya natijasida yurakning sistolik hajmi qanday o‘zgaradi?",
+    "A": "Oshadi",
+    "B": "Kamayadi",
+    "C": "O'zgarishsiz qoladi",
+    "D": "Yurak to‘xtaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Yurak faoliyatini boshqarishda xemoretseptorlar qaysi parametrlarni sezadi?",
+    "A": "Qonning CO₂, O₂ va pH darajasini",
+    "B": "Qon bosimini faqat",
+    "C": "Limfa hajmini",
+    "D": "Gemoglobinning rangini",
+    "javob": "A"
+  },
+  {
+    "savol": "Adrenalin yurak faoliyatiga qanday ta’sir qiladi?",
+    "A": "Yurak tezligini oshiradi, kontraksiya kuchini oshiradi",
+    "B": "Yurak tezligini kamaytiradi",
+    "C": "Yurak tezligini kamaytiradi",
+    "D": "Limfa oqimini sekinlashtiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Yurak faoliyatining boshqarilishi va qon hajmi o‘rtasidagi asosiy muvozanat nima orqali amalga oshadi?",
+    "A": "Nerv impulslari, hormonlar va reflektor mexanizmlar orqali",
+    "B": "Qonni ko‘paytirish orqali",
+    "C": "Faqat limfa hajmi bilan",
+    "D": "Qorinchalarning hajmi bilan",
+    "javob": "A"
+  },
+  {
+    "savol": "Mikrosirkulyator tizimi qaysi tuzilmalardan iborat?",
+    "A": "Arteriolalar, kapillyarlar va venulalar",
+    "B": "Aorta va vena cava",
+    "C": "Limfa tomirlari",
+    "D": "Skelet mushaklari",
+    "javob": "A"
+  },
+  {
+    "savol": "Yurak qisqarish sonining 90dan oshishi",
+    "A": "Taxikardiya",
+    "B": "Bradikardiya",
+    "C": "Taxipnoe",
+    "D": "Bradipnoe",
+    "javob": "A"
+  },
+  {
+    "savol": "Yurak qisqarish sonining 60dan kamayishi",
+    "A": "Bradikardiya",
+    "B": "Taxikardiya",
+    "C": "Taxipnoe",
+    "D": "Bradipnoe",
+    "javob": "A"
+  },
+  {
+    "savol": "Nafas olish sonining 20tadan oshishi",
+    "A": "Taxipnoe",
+    "B": "Bradipnoe",
+    "C": "Taxikardiya",
+    "D": "Bradikardiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Nafas olish sonining 12tadan kamayishi",
+    "A": "Bradipnoe",
+    "B": "Taxipnoe",
+    "C": "Taxikardiya",
+    "D": "Bradikardiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Arteriolalar vazokonstriksiya qilsa, nima sodir bo‘ladi?",
+    "A": "Qon bosimi oshadi",
+    "B": "Qon bosimi pasayadi",
+    "C": "Kapillyarlar hajmi oshadi",
+    "D": "Limfa oqimi tezlashadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qon tomir tonusini kimyoviy moddalar qanday boshqaradi?",
+    "A": "Adrenalin, noradrenalin, angiotensin II, NO",
+    "B": "Faqat kislorod",
+    "C": "Natriy va xlor faqat",
+    "D": "Glukozalar faqat",
+    "javob": "A"
+  },
+  {
+    "savol": "Endotelial hujayralar tonusni qanday boshqaradi?",
+    "A": "Vazodilatator (NO, prostasiklin) va vazokonstriktor moddalar (endotelin) ishlab chiqaradi",
+    "B": "Qon hajmini oshiradi",
+    "C": "Qon bosimini kamaytiradi",
+    "D": "Limfa oqimini oshiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Kapillyarlar vazifasi nima?",
+    "A": "Moddalar almashinuvi va gazlar tashilishi",
+    "B": "Qonni tezlashtirish",
+    "C": "Qon ivishini kuchaytirish",
+    "D": "Limfa hosil qilish",
+    "javob": "A"
+  },
+  {
+    "savol": "Simpatik nervlar tomir tonusiga qanday ta’sir qiladi?",
+    "A": "Vazokonstriksiya orqali qon bosimini oshiradi",
+    "B": "Qonni kamaytiradi",
+    "C": "Limfa oqimini tezlashtiradi",
+    "D": "Kapillyarlar hajmini oshiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Parasimpatik ta’sir tomir tonusini qanday o‘zgartiradi?",
+    "A": "Vazodilatatsiya qiladi",
+    "B": "Qonni qalinlashtiradi",
+    "C": "Qon bosimini oshiradi",
+    "D": "Limfa oqimini kamaytiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qon tomirlar tonusi va mikrosirkulyatsiya muvozanati nima uchun muhim?",
+    "A": "Tio'qima perfuziyasini va arterial bosimni saqlash",
+    "B": "Limfa oqimini kamaytirish",
+    "C": "Qonni qalinlashtirish",
+    "D": "Gemoglobinning ko‘payishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Kapillyarlar orqali hujayralarga qanday moddalar yetkaziladi?",
+    "A": "Kislorod, oziq modda va gormonlar",
+    "B": "Suv oziq-ovqat",
+    "C": "Qon oqsil",
+    "D": "Limfa faqat",
+    "javob": "A"
+  },
+  {
+    "savol": "Mikrosirkulyatsiyada prekapillyar sfinkterlar vazifasi nima?",
+    "A": "Kapillyar oqimini tartibga soladi",
+    "B": "Qonni aortaga yuboradi",
+    "C": "Qon ivishini boshlaydi",
+    "D": "Limfa oqimini oshiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Endoteliy tomonidan ishlab chiqariladigan NO tomirlarga qanday ta’sir qiladi?",
+    "A": "Vazodilatatsiya qiladi",
+    "B": "Vazokonstriksiya qiladi",
+    "C": "Qonni qalinlashtiradi",
+    "D": "Limfa hajmini oshiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Angiotensin II qon tomirlariga qanday ta’sir qiladi?",
+    "A": "Kuchli vazokonstriksiya qiluvchi modda",
+    "B": "Vazodilatator",
+    "C": "Qon bosimini kamaytiruvchi modda",
+    "D": "Limfa hosil qiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Simpatik ta’sir kamayganda arteriolalar qanday o‘zgaradi?",
+    "A": "Vazodilatatsiya qiladi",
+    "B": "Vazokonstriksiya qilinadi",
+    "C": "Qon bosimi oshadi",
+    "D": "Limfa oqimi kamayadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Endokrin bezlar nima vazifa bajaradi?",
+    "A": "Gormon ishlab chiqarish va uni qon orqali organlarga yetkazish",
+    "B": "Qon bosimini oshirish",
+    "C": "Limfa oqimini tartibga solish",
+    "D": "Qonni ivishini ta’minlash",
+    "javob": "A"
+  },
+  {
+    "savol": "Gipotalamus qaysi vazifani bajaradi?",
+    "A": "Gipofiz faoliyatini regulyatsiya qilish va homeostazni saqlash",
+    "B": "Limfa hosil qilish",
+    "C": "Qon ivishini kuchaytirish",
+    "D": "Skelet mushaklarini boshqarish",
+    "javob": "A"
+  },
+  {
+    "savol": "Gipofiz bezining old qismini nima hosil qiladi?",
+    "A": "Adenogipofiz",
+    "B": "Neyrogipofiz",
+    "C": "Talamus",
+    "D": "Limfa tugunlari",
+    "javob": "A"
+  },
+  {
+    "savol": "Gipofiz bezining orqa qismi nima hosil qiladi? bu",
+    "A": "Neyrogipofiz",
+    "B": "Adenogipofiz",
+    "C": "Talamus",
+    "D": "Limfa tugunlari",
+    "javob": "A"
+  },
+  {
+    "savol": "Adenogipofiz qaysi gormonlarni chiqaradi?",
+    "A": "STG, TTG, AKTG, FSG, LG, prolaktin",
+    "B": "Adrenalin",
+    "C": "Insulin",
+    "D": "NO",
+    "javob": "A"
+  },
+  {
+    "savol": "Gipotalamus qaysi gormonlarni ishlab chiqaradi?",
+    "A": "Releasing va ingibitsiyalovchi gormonlar",
+    "B": "Adrenalin va noradrenalin",
+    "C": "Insulin va glukagon",
+    "D": "Tromboksan va plazmin",
+    "javob": "A"
+  },
+  {
+    "savol": "Neyrogipofiz qaysi gormonlarni saqlaydi va chiqaradi?",
+    "A": "ADH (Vasopressin) va oksitotsin",
+    "B": "STG va prolaktin",
+    "C": "Adrenalin va noradrenalin",
+    "D": "TTG va AKTG",
+    "javob": "A"
+  },
+  {
+    "savol": "Gipotalamo-gipofizar tizim qanday boshqaruvni amalga oshiradi?",
+    "A": "Qaytar aloqa mexanizmi orqali gormonlarni regulyatsiya qiladi",
+    "B": "Limfa hajmini oshiradi",
+    "C": "Qon bosimini pasaytiradi",
+    "D": "Qorinchalarni to‘ldiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Gipotalamus va gipofiz o‘rtasidagi axborot qanday uzatiladi?",
+    "A": "Gormonlar va qon tomirlari orqali",
+    "B": "Faqat nerv tolalari orqali",
+    "C": "Limfa oqimi orqali",
+    "D": "Qon ivishi orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "TTG gormoni qaysi bez faoliyatini stimulyatsiya qiladi?",
+    "A": "Thyroid (qalqonsimon) bez",
+    "B": "Paratiroid",
+    "C": "Adrenal",
+    "D": "Pankreas",
+    "javob": "A"
+  },
+  {
+    "savol": "Somatotropin asosiy vazifasi nima?",
+    "A": "O‘sish va metabolizmni stimulyatsiya qilish",
+    "B": "Qon bosimini oshirish",
+    "C": "Limfa hosil qilish",
+    "D": "Qon ivishini kuchaytirish",
+    "javob": "A"
+  },
+  {
+    "savol": "AKTH gormoni qaysi bezni stimulyatsiya qiladi va qanday gormon chiqaradi?",
+    "A": "Adrenal bez, kortizol chiqaradi",
+    "B": "Thyroid, T3/T4 chiqaradi",
+    "C": "Paratiroid, PTH chiqaradi",
+    "D": "Pankreas, insulin chiqaradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Gipotalamus-pituitariya tizimi patologiyasida nima sodir bo‘lishi mumkin?",
+    "A": "O‘sish buzilishi, metabolik kasalliklar, reproduktiv disfunktsiyalar",
+    "B": "Limfa oqimi oshadi",
+    "C": "Qon bosimi faqat pasayadi",
+    "D": "Qorinchalar to‘liq to‘lmaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Gormon gipo-sekretsiyasi nima?",
+    "A": "Gormon ishlab chiqarilishi kamayishi",
+    "B": "Gormon ishlab chiqarilishi oshishi",
+    "C": "Limfa hosil bo‘lishi",
+    "D": "Qon bosimi oshishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Gormon gipersekretsiyasi nima?",
+    "A": "Gormon ishlab chiqarilishi ortishi",
+    "B": "Gormon ishlab chiqarilishi kamayishi",
+    "C": "Limfa oqimi pasayishi",
+    "D": "Qorinchalar bo‘shashishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Giposekretsiya misoliga qaysi kasallik kiradi?",
+    "A": "Qalqonsimon bez yetishmovchiligi (kretinizm)",
+    "B": "Gigantizm",
+    "C": "Arterial gipertenziya",
+    "D": "Stress",
+    "javob": "A"
+  },
+  {
+    "savol": "Epifiz (pineal bez) qaysi gormon ishlab chiqaradi?",
+    "A": "Melatonin",
+    "B": "TTG",
+    "C": "ADG",
+    "D": "T3",
+    "javob": "A"
+  },
+  {
+    "savol": "Melatonin vazifasi nima?",
+    "A": "Uyqu-uyonish ritmini boshqarish",
+    "B": "Qon bosimini oshirish",
+    "C": "Limfa hosil qilish",
+    "D": "Qorinchalarni to‘ldirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Ayrisimon bez (thymus) qaysi gormonni ishlab chiqaradi?",
+    "A": "Timulin",
+    "B": "Insulin",
+    "C": "Adrenalin",
+    "D": "STG",
+    "javob": "A"
+  },
+  {
+    "savol": "Timulin vazifasi nima?",
+    "A": "T-limfotsitlar rivojlanishini stimulyatsiya qilish",
+    "B": "Qon bosimini oshirish",
+    "C": "Limfa hajmini kamaytirish",
+    "D": "Qorinchalarni qisqartirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Gormon gipersekretsiyasi organizmga qanday ta’sir qiladi?",
+    "A": "Ba’zi tizimlarda ortiqcha faollik va patologiya yuzaga kelad",
+    "B": "Limfa tezligi oshadi",
+    "C": "Qorinchalar bo‘shashadi",
+    "D": "Qon bosimi pasayadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Gormon giposekretsiyasi qanday oqibatlarga olib keladi?",
+    "A": "Tizimlarning yetishmovchiligi va metabolik buzilishlar",
+    "B": "Limfa tezligi oshadi",
+    "C": "Qon bosimi oshadi",
+    "D": "Qorinchalar to‘liq to‘lishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Gigantizm qaysi gormonning gipersekretsiyasi bilan bog‘liq?",
+    "A": "Somatotropin",
+    "B": "Insulin",
+    "C": "Kortizol",
+    "D": "Tiroksin",
+    "javob": "A"
+  },
+  {
+    "savol": "Akromegaliya qaysi yoshda yuzaga keladi va nima sabab bo‘ladi?",
+    "A": "Kattalarda o'sish gormoni gipersekretsiyasi",
+    "B": "Bolalarda o'sish gormoni gipersekretsiyasi",
+    "C": "Paratiroid gipersekretsiyasi",
+    "D": "Epifiz giposekretsiyasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qalqonsimon bez giposekretsiyasi nima natijaga olib keladi?",
+    "A": "Kretinizm va rivojlanish buzilishi",
+    "B": "Gigantizm",
+    "C": "Nanizm",
+    "D": "Qandli diabet",
+    "javob": "A"
+  },
+  {
+    "savol": "Melatoninning organizmdagi asosiy regulyatsiyasi qaysi mexanizm orqali amalga oshadi?",
+    "A": "Yorug‘lik-qorong‘ulik sikli va suprachiasmatic nukleus",
+    "B": "Qon bosimi",
+    "C": "Limfa hajmi",
+    "D": "Qorinchalar faolligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Timulin yetishmovchiligi qaysi tizimga ta’sir qiladi?",
+    "A": "Immun tizim, ayniqsa T-limfotsitlar rivojlanishi",
+    "B": "Qon bosimi",
+    "C": "Limfa hajmi",
+    "D": "Qorinchalar kontraksiyasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qalqonsimon bezasosiy gormonlari qaysilar?",
+    "A": "T3 , T4 va kalsitonin",
+    "B": "STG va prolaktin",
+    "C": "ADG va oksitotsin",
+    "D": "Adrenalin va noradrenalin",
+    "javob": "A"
+  },
+  {
+    "savol": "T3 va T4 gormonlarining asosiy vazifasi nima?",
+    "A": "Metabolizmni va o‘sishni stimulyatsiya qilish",
+    "B": "Qon bosimini kamaytirish",
+    "C": "Limfa hosil qilish",
+    "D": "Qon ivishini kuchaytirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Kalsitonin vazifasi nima?",
+    "A": "Qon kaltsiy darajasini pasaytirish",
+    "B": "Qon bosimini oshirish",
+    "C": "Limfa hajmini oshirish",
+    "D": "Qorinchalarni to‘ldirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Qalqonoldi bez asosiy gormoni qaysi?",
+    "A": "Parathormon",
+    "B": "TTG",
+    "C": "STG",
+    "D": "Melatonin",
+    "javob": "A"
+  },
+  {
+    "savol": "Paratgormon asosiy vazifasi nima?",
+    "A": "Qon kaltsiy darajasini oshirish",
+    "B": "Qon bosimini kamaytirish",
+    "C": "Limfa hosil qilish",
+    "D": "Qorinchalarni bo‘shatish",
+    "javob": "A"
+  },
+  {
+    "savol": "Buyrak usti bezining qobig‘i qaysi gormonlarni ishlab chiqaradi?",
+    "A": "Mineralokortikoidlar (aldosteron), glukokortikoidlar (kortizol), androgenlar",
+    "B": "Adrenalin va noradrenalin",
+    "C": "Insulin va glukagon",
+    "D": "TTG va AKTG",
+    "javob": "A"
+  },
+  {
+    "savol": "Buyrak usti bezining mag'iz qismi qaysi gormonlarni ishlab chiqaradi?",
+    "A": "Adrenalin va noradrenalin",
+    "B": "Mineralokortikoidlar (aldosteron), glukokortikoidlar (kortizol), androgenlar",
+    "C": "Insulin va glukagon",
+    "D": "TTG va AKTG",
+    "javob": "A"
+  },
+  {
+    "savol": "Jinsiy gormonlar qaysi bezlar tomonidan ishlab chiqariladi?",
+    "A": "Gonadlar (ovar va testis) va qisman adrenal cortex",
+    "B": "Thyroid va parathyroid",
+    "C": "Pankreas va epifiz",
+    "D": "Limfa tugunlari",
+    "javob": "A"
+  },
+  {
+    "savol": "Testosteron vazifasi nima?",
+    "A": "Erkak reproduktiv tizimi rivojlanishi va ikkilamchi jinsiy belgilar",
+    "B": "Qon bosimini oshirish",
+    "C": "Limfa oqimini tezlashtirish",
+    "D": "Qon ivishini kuchaytirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Estrogen va progesteron vazifasi nima?",
+    "A": "Ayol reproduktiv tizimi rivojlanishi, hayz sikli va homiladorlik",
+    "B": "Qon bosimi kamaytirish",
+    "C": "Limfa hosil qilish",
+    "D": "Qorinchalarni bo‘shatish",
+    "javob": "A"
+  },
+  {
+    "savol": "Kortizolning asosiy fiziologik vazifasi nima?",
+    "A": "Stressga javob, glikozaning oshishi, yallig‘lanishga qarshi ta’sir",
+    "B": "Qon bosimini oshirish",
+    "C": "Limfa hajmini oshirish",
+    "D": "Qon ivishini kuchaytirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Aldosteron vazifasi nima?",
+    "A": "Natriy va suvni ushlab qolish orqali qon bosimini tartibga solish",
+    "B": "Glikozani oshirish",
+    "C": "Limfa hosil qilish",
+    "D": "Qorinchalarni bo‘shatish",
+    "javob": "A"
+  },
+  {
+    "savol": "Androgenlar va estrogenlar ortiqcha chiqarilganda nima sodir bo‘ladi?",
+    "A": "Ikki jinsiy belgilar rivojlanishi, pubertat buzilishlar",
+    "B": "Qon bosimi pasayadi",
+    "C": "Limfa hajmi kamayadi",
+    "D": "Qon ivishi oshadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Nafas olish tizimining asosiy vazifasi nima?",
+    "A": "Kislorod olish va karbonat angidrid chiqarish",
+    "B": "Qonni ivishini ta’minlash",
+    "C": "Limfa hosil qilish",
+    "D": "Qon bosimini oshirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Qon orqali kislorod qaysi shaklda tashiladi?",
+    "A": "Gemoglobin bilan bog‘langan va plazmada erigan holda",
+    "B": "Qon plazmasida faqat",
+    "C": "Limfa orqali",
+    "D": "Qorinchalar ichida",
+    "javob": "A"
+  },
+  {
+    "savol": "Karbonat angidrid qaysi shaklda qonda ko‘proq tashiladi?",
+    "A": "Bikarbonat (HCO₃⁻)",
+    "B": "Plazmada erigan CO₂",
+    "C": "Gemoglobinda bog‘langan",
+    "D": "Limfa orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Nafas olish tiplari to'liq ko'rsatilgan javob",
+    "A": "Ko'krak, qorin, aralash",
+    "B": "Ko'krak",
+    "C": "Qorin",
+    "D": "Aralash",
+    "javob": "A"
+  },
+  {
+    "savol": "Meteorizm bu",
+    "A": "Hazm yo'lida gaz to'planishi",
+    "B": "Ich qotishi",
+    "C": "Ich ketishi",
+    "D": "To'xtovsiz qusish",
+    "javob": "A"
+  },
+  {
+    "savol": "Diareya bu",
+    "A": "Ich ketishi",
+    "B": "Hazm yo'lida gaz to'planishi",
+    "C": "Ich qotishi",
+    "D": "To'xtovsiz qusish",
+    "javob": "A"
+  },
+  {
+    "savol": "Qabziyat bu",
+    "A": "Ich qotishi",
+    "B": "Ich ketishi",
+    "C": "Hazm yo'lida gaz to'planishi",
+    "D": "To'xtovsiz qusish",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘pka kapillyarlarida gaz almashinuvi qaysi yo‘l bilan sodir bo‘ladi?",
+    "A": "Diffuzion orqali",
+    "B": "Aktiv transport bilan",
+    "C": "Osmotik bosim bilan",
+    "D": "Limfa orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘pka alveolalaridagi kislorod bosimi qancha atrofida bo‘ladi?",
+    "A": "100 mmHg",
+    "B": "40 mmHg",
+    "C": "46 mmHg",
+    "D": "80 mmHg",
+    "javob": "A"
+  },
+  {
+    "savol": "Qonning O₂ tashilishi qanchalik bog‘liq?",
+    "A": "Gemoglobin kontsentratsiyasiga va kislorod bosimiga qarab",
+    "B": "Limfa oqimiga",
+    "C": "Qorinchalarning hajmiga",
+    "D": "Qon ivishiga",
+    "javob": "A"
+  },
+  {
+    "savol": "Qonning CO₂ tashilishi qanchalik bog‘liq?",
+    "A": "Karbonat tizimi va gemoglobin bilan bog‘liqlik",
+    "B": "Limfa tezligi",
+    "C": "Qorinchalarning hajmi",
+    "D": "Qon bosimi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qonning pH barqarorligi nafas tizimi bilan qanday bog‘liq?",
+    "A": "CO₂ darajasini regulyatsiya qilish orqali",
+    "B": "Limfa oqimi orqali",
+    "C": "Qorinchalar kontraksiyasi orqali",
+    "D": "Qon bosimi orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Alveola va qonning gaz almashinuvi qancha vaqt davomida sodir bo‘ladi?",
+    "A": "0,25 sekund",
+    "B": "1 sekund",
+    "C": "2 sekund",
+    "D": "5 sekund",
+    "javob": "A"
+  },
+  {
+    "savol": "Nafas markazlari qaysi joyda joylashgan?",
+    "A": "Medulla oblongata va ponsda",
+    "B": "Limfa tugunlarida",
+    "C": "Qorinchalarda",
+    "D": "Aorta ichida",
+    "javob": "A"
+  },
+  {
+    "savol": "Nafas xemoreseptorlarining vazifasi?",
+    "A": "Qon pH, PaO₂ va PaCO₂ darajasini sezadi va nafas tezligini boshqaradi",
+    "B": "Limfa hajmini oshiradi",
+    "C": "Qorinchalarni qisqartiradi",
+    "D": "Qon bosimini oshiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Medulla va ponsdagi asosiy nafas markazlari qaysilar?",
+    "A": "Dorsal va ventral respirator markazlar, apneustik va pnevmotaksik markazlar",
+    "B": "Dorsal va ventral respirator markazlar",
+    "C": "Faqat apneustik markaz",
+    "D": "Pnevmatoksik markaz",
+    "javob": "A"
+  },
+  {
+    "savol": "Hazm tizimi faoliyatini o‘rganishning asosiy usullariga nima kiradi?",
+    "A": "Klinik kuzatuv, laborator tadqiqotlar, rentgen va endoskopiya",
+    "B": "Limfa tomirlarini kesish",
+    "C": "Qon bosimini oshirish",
+    "D": "Skelet mushaklarini o‘rganish",
+    "javob": "A"
+  },
+  {
+    "savol": "Ovqat og‘iz bo‘shlig‘ida qaysi jarayon orqali hazm bo‘ladi?",
+    "A": "Mexanik  va kimyoviy (shira fermentlari) hazm",
+    "B": "Limfa orqali",
+    "C": "Faqat mexanik",
+    "D": "Faqat so'lak ta'sirida",
+    "javob": "A"
+  },
+  {
+    "savol": "Og‘iz bo‘shlig‘idagi asosiy ferment qaysi?",
+    "A": "Amilaza",
+    "B": "Pepsin",
+    "C": "Lipaza",
+    "D": "Lizotsim",
+    "javob": "A"
+  },
+  {
+    "savol": "Me’da ovqatni qanday hazm qiladi?",
+    "A": "Mexanik harakatlar va kimyoviy (pepsin va HCl) ta’sir",
+    "B": "Limfa orqali",
+    "C": "Qon bosimi oshishi bilan",
+    "D": "Qorinchalarning bo‘shashishi bilan",
+    "javob": "A"
+  },
+  {
+    "savol": "Me’da shirasidagi asosiy ferment qaysi?",
+    "A": "Pepsin",
+    "B": "Amilaza",
+    "C": "Lipaza",
+    "D": "Maltaza",
+    "javob": "A"
+  },
+  {
+    "savol": "Ovqatning me’dada mexanik hazmi nima deb ataladi?",
+    "A": "Peristaltik harakatlar orqali ovqatni aralashtirish",
+    "B": "Limfa hosil qilish",
+    "C": "Shira tasirida parchalanishi",
+    "D": "Fermentlar tasirida parchalanishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Og‘iz bo‘shlig‘ida shira sekretsiyasi nima bilan stimulyatsiya qilinadi?",
+    "A": "Ovqatning rangi, hidi va ta’mi",
+    "B": "Limfa oqimi",
+    "C": "Qorinchalar hajmi",
+    "D": "Qon bosimi",
+    "javob": "A"
+  },
+  {
+    "savol": "Me’da shirasining sekretsiyasi nima bilan boshqariladi?",
+    "A": "Nervlar (vagus) va gormonlar (gastrin)",
+    "B": "Limfa oqimi",
+    "C": "Natriy bikarbonat",
+    "D": "Qorinchalar kontraksiyasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Amilaza faoliyati qanday sharoitda eng optimal bo‘ladi?",
+    "A": "Neytral pH (6,8–7,0) va issiqlik (37°C)",
+    "B": "Kislota muhitida",
+    "C": "Qon bosimi oshganda",
+    "D": "Ishqoriy muhitda",
+    "javob": "A"
+  },
+  {
+    "savol": "Pepsin faolligi qaysi pH darajasida maksimal?",
+    "A": "1,5–2,0",
+    "B": "7,0",
+    "C": "8,0",
+    "D": "5,0",
+    "javob": "A"
+  },
+  {
+    "savol": "Ovqat og‘iz bo‘shlig‘ida kimyoviy hazmi qanday regulyatsiya qilinadi?",
+    "A": "Nerv impulslari va shira sekretsiyasini boshqaruvchi reflekslar orqali",
+    "B": "Mastikatsiya orqali",
+    "C": "Ishqoriy fermentlar oerqali",
+    "D": "Simpatik nerv orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "So’lak qaysi bezlar tomonidan ishlab chiqariladi?",
+    "A": "Major (parotid, submandibular, sublingual) va minor bezlar",
+    "B": "Qalqonsimon bez",
+    "C": "Adrenal bez",
+    "D": "Pankreas",
+    "javob": "A"
+  },
+  {
+    "savol": "So’lakning asosiy tarkibiy qismi nima?",
+    "A": "Suv, elektrolitlar, enzimlar va mutsin",
+    "B": "Limfa",
+    "C": "Amilaza va lipaza",
+    "D": "Pepsin va tripsin",
+    "javob": "A"
+  },
+  {
+    "savol": "So’lakdagi mutsinning vazifasi nima?",
+    "A": "Ovqatni namlantirish, yutishni osonlashtirish",
+    "B": "Qon bosimini oshirish",
+    "C": "Limfa hosil qilish",
+    "D": "Peristaltikani yaxshilash",
+    "javob": "A"
+  },
+  {
+    "savol": "So’lakdagi elektrolitlar qanday vazifa bajaradi?",
+    "A": "pH va osmolaritetni saqlash, ferment faolligini qo‘llab-quvvatlash",
+    "B": "Qon bosimini oshirish",
+    "C": "Limfa tezligini oshirish",
+    "D": "So'rilishni kamaytirish",
+    "javob": "A"
+  },
+  {
+    "savol": "So’lakning antibakterial xossasi nimaga bog‘liq?",
+    "A": "Lizotsim va laktoferrin mavjudligiga",
+    "B": "So'lak miqdoriga",
+    "C": "Ovqat turiga",
+    "D": "Yoshga",
+    "javob": "A"
+  },
+  {
+    "savol": "So’lak sekretsiyasi qanday boshqariladi?",
+    "A": "Nerv tizimi va reflekslar orqali",
+    "B": "Dori vositalari orqali",
+    "C": "Ovqat turiga qarab",
+    "D": "Retseptorlar soniga qarab",
+    "javob": "A"
+  },
+  {
+    "savol": "Parasympatik nerv tizimi so’lak sekretsiyasiga qanday ta’sir qiladi?",
+    "A": "Ko‘p, suyuq so’lak ishlab chiqarishni oshiradi",
+    "B": "Kam, suyuq so’lak ishlab chiqarishni oshiradi",
+    "C": "Ko‘p, quyuq so’lak ishlab chiqarishni oshiradi",
+    "D": "Nerv tizimi va reflekslar orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Parotid bez so’lagi qaysi turga kiradi?",
+    "A": "Seroz",
+    "B": "Mukozal",
+    "C": "Aralash",
+    "D": "Nordon",
+    "javob": "A"
+  },
+  {
+    "savol": "Submandibular va sublingual bezlar so’lagi qaysi xossaga ega?",
+    "A": "Aralash seroz + mukoz",
+    "B": "Faqat seroz",
+    "C": "Faqat mukoz",
+    "D": "Limfoid",
+    "javob": "A"
+  },
+  {
+    "savol": "Jigar hazm jarayonida asosiy vazifasi nima?",
+    "A": "Safro ishlab chiqarish, metabolizm va detoksikatsiya",
+    "B": "Ovqatni yutish",
+    "C": "Limfa hosil qilish",
+    "D": "Plazma oqsillari ishlab chiqarish",
+    "javob": "A"
+  },
+  {
+    "savol": "Safro (o‘t) qaysi organ tomonidan ishlab chiqariladi?",
+    "A": "Jigar",
+    "B": "Jigar  va taloq",
+    "C": "O't pufagi",
+    "D": "Medaosti bezi",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘tning asosiy tarkibiy qismi nima?",
+    "A": "Safro kislotalari, xolesterin, bilirubin, elektrolitlar, suv",
+    "B": "Protein va amilaza",
+    "C": "Limfa va gemoglobin",
+    "D": "Glukagon va insulin",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘tning asosiy vazifasi nima?",
+    "A": "Yog‘larni emulsiya qilish va so‘rilishini osonlashtirish",
+    "B": "Oqsillarni parchalash",
+    "C": "Karbongidratni glukozaga aylantirish",
+    "D": "Qon ivishini ta’minlash",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘t qayerda saqlanadi?",
+    "A": "O‘t pufagida",
+    "B": "Jigar loblarida",
+    "C": "Pankreasda",
+    "D": "Oshqozonda",
+    "javob": "A"
+  },
+  {
+    "savol": "Safro ajralishi qanday boshqariladi?",
+    "A": "Nerv (vagus) va gormonlar (xolecistokinin) orqali",
+    "B": "Limfa oqimi bilan",
+    "C": "Qorinchalar kontraksiyasi bilan",
+    "D": "Qon bosimi bilan",
+    "javob": "A"
+  },
+  {
+    "savol": "Xolesistokinin  vazifasi nima?",
+    "A": "O‘t pufagini qisqartirib, o‘tni ichakka chiqarish",
+    "B": "O‘t pufagini bo'shashtirish",
+    "C": "Jigarni qisqartirish",
+    "D": "Medaosti bezini ta'sirlantirish",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘tning pH darajasi qanday?",
+    "A": "7,6–8,6",
+    "B": "1–2",
+    "C": "3–4",
+    "D": "6–7",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘tning rangini nimaga bog‘liq?",
+    "A": "Bilirubin tarkibiga",
+    "B": "Limfa oqimiga",
+    "C": "Me'daosti bezi faoliyatiga",
+    "D": "O't toshlariga",
+    "javob": "A"
+  },
+  {
+    "savol": "Pankreatik shiraning bikarbonat qismi nima uchun muhim?",
+    "A": "Me’da shirasining kislotaliligini neytrallashtirish va ichak fermentlari faoliyatini ta’minlash",
+    "B": "Oqsillarni parchalash",
+    "C": "Karbongidratni glukozaga aylantirish",
+    "D": "Limfa hosil bo‘lishi",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘t ajralishini stimulyatsiya qiluvchi asosiy omillar qaysilar?",
+    "A": "Ovqatning yog‘li bo‘lishi va duodenumdagi xolesistokinin darajasi",
+    "B": "Qon bosimi oshishi",
+    "C": "Simpatik nerv",
+    "D": "Jigar faoliyati",
+    "javob": "A"
+  },
+  {
+    "savol": "Ingichka ichakda yog‘lar qanday hazm bo‘ladi?",
+    "A": "O‘t kislotalari yordamida emulsiya qilinib, lipaza orqali triglitseridlarga parchalanadi",
+    "B": "Pepsin orqali",
+    "C": "Amilaza orqali",
+    "D": "Limfa orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Ingichka ichakda ovqatning so‘rilishi qaysi tuzilmalarda sodir bo‘ladi?",
+    "A": "Villuslar va mikrovilluslar orqali",
+    "B": "Kappilyarlarda",
+    "C": "Venulalarda",
+    "D": "Alveolalarda",
+    "javob": "A"
+  },
+  {
+    "savol": "Yo‘g‘on ichakda hazm jarayoni qanday xususiyatga ega?",
+    "A": "Asosan suv va elektrolitlarni so‘rish, ba’zi vitaminlarni sintez qilish",
+    "B": "Karbongidrat va yog‘larni asosiy parchalanishi",
+    "C": "Aminokislotalarni hosil qilish",
+    "D": "Limfa hosil qilish",
+    "javob": "A"
+  },
+  {
+    "savol": "Metabolizm nima?",
+    "A": "Organizmda moddalar va energiya almashinuvi jarayoni",
+    "B": "Qon bosimini oshirish jarayoni",
+    "C": "Limfa hosil qilish jarayoni",
+    "D": "Yurak tezligini oshirish jarayoni",
+    "javob": "A"
+  },
+  {
+    "savol": "Bazal metabolizm nima?",
+    "A": "Tana dam holatida energiya sarfi",
+    "B": "Faol ish vaqtida energiya sarfi",
+    "C": "Limfa hosil qilish",
+    "D": "Qon bosimi oshishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Energiya manbalari qaysilar?",
+    "A": "Karbongidratlar, yog‘lar, oqsillar",
+    "B": "Limfa va suv",
+    "C": "Minerallar",
+    "D": "Vitaminlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Katabolizm nima?",
+    "A": "Katta molekulalarning kichik molekulalarga parchalanishi va energiya ajralishi",
+    "B": "Energiya sarfi kamayishi",
+    "C": "Limfa hosil bo‘lishi",
+    "D": "Qon bosimini oshirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Anabolizm nima?",
+    "A": "Kichik molekulalardan katta molekulalar hosil bo‘lishi va energiya sarfi",
+    "B": "Energiya ajralishi",
+    "C": "Limfa hosil qilish",
+    "D": "Qon bosimini pasaytirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Termogenez nima?",
+    "A": "Organizmda issiqlik ishlab chiqarish jarayoni",
+    "B": "Sovuqni saqlash",
+    "C": "Limfa hosil qilish",
+    "D": "Qon bosimi oshishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Tana haroratining normal darajasi nima?",
+    "A": "36,6–37,0°C",
+    "B": "35–36°C",
+    "C": "38–39°C",
+    "D": "34–35°C",
+    "javob": "A"
+  },
+  {
+    "savol": "Termoregulatsiya markazi qayerda joylashgan?",
+    "A": "Gipotalamus",
+    "B": "Gipofiz",
+    "C": "Uzunchoq miya",
+    "D": "Ko'prik",
+    "javob": "A"
+  },
+  {
+    "savol": "Gipotalamus qaysi mexanizmlar orqali tana haroratini boshqaradi?",
+    "A": "Terlash, qon tomirlarini toraytirish yoki kengaytirish, metabolizmni o‘zgartirish",
+    "B": "Qon bosimi o‘zgarishi",
+    "C": "Uyqu va uyg'oqlik ritmi orqali",
+    "D": "Jismoniy faoliyatga qarab",
+    "javob": "A"
+  },
+  {
+    "savol": "Energiya sarfi qaysi omillarga bog‘liq?",
+    "A": "Yosh, jins, tana vazni, faoliyat darajasi, iqlim",
+    "B": "Bo'y uzunligi va tana vazniga",
+    "C": "Tana rangiga",
+    "D": "Uyqu va uyg'oqlik ritmiga",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi gormonlar termoregulatsiyani kuchaytiradi?",
+    "A": "Tiroid gormonlari (T3, T4), adrenalin, noradrenalin",
+    "B": "Insulin",
+    "C": "Pankreatin",
+    "D": "Paratgormon",
+    "javob": "A"
+  },
+  {
+    "savol": "Qon tomirlarining torayishi yoki kengayishi tana haroratini qanday boshqaradi?",
+    "A": "Isitish yoki sovutish uchun issiqlik almashuvini tartibga soladi",
+    "B": "Isitish uchun xizmat qiladi",
+    "C": "Faqat sovutish uchun xizmat qiladi",
+    "D": "Tanada ortiqcha issiqlikni ushlab qoladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Mushaklarning titrashi tana haroratiga qanday ta’sir qiladi?",
+    "A": "Issiqlik hosil bo‘lishini oshiradi",
+    "B": "Issiqlik hosil bo‘lishini kamaytiradi",
+    "C": "Issiqlikni ushlab qoladi",
+    "D": "Tanani sovutadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Gipotalamusdan tashqari tana haroratini boshqarishda qanday reflekslar ishtirok etadi?",
+    "A": "Ter refleksi, qon tomir refleksi, metabolizm refleksi",
+    "B": "Gemoglobin refleksi",
+    "C": "Mexanoretseptorlar",
+    "D": "Gering Breyer refleksi",
+    "javob": "A"
+  },
+  {
+    "savol": "Nefronning asosiy qismlari qaysilar?",
+    "A": "Bouman kapsulasi, proksimal va distal tomirlar, Genle naychasi",
+    "B": "Ureter, uretra, buyrak Jomi",
+    "C": "Buyrak venasi, buyrak arteriyasi, kapsula",
+    "D": "Afferent va efferent qon tomirlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Boumanning kapsulasi vazifasi nima?",
+    "A": "Qon plazmasini filtratsiya qilish",
+    "B": "Qonning shaklli elementlarini ushlab qolish",
+    "C": "Qon oqsillarini filtratsiya qilish",
+    "D": "Glyukozani ushlab qolish",
+    "javob": "A"
+  },
+  {
+    "savol": "Proksimal naychada nima sodir bo‘ladi?",
+    "A": "Suv, elektrolitlar va moddalar qayta so‘riladi",
+    "B": "Limfa hosil bo‘ladi",
+    "C": "Glyukoza chiqariladi",
+    "D": "Aminokislotalar hosil bo'ladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Glomerular filtratsiya tezligi nima?",
+    "A": "Bouman kapsulasidan qon plazmasi filtrlanish tezligi",
+    "B": "Bouman kapsulasidan distal kanalchaga peshobning filtrlanish tezligi",
+    "C": "Bouman kapsulasidan Genle qovuzlog'iga filtrlanish tezligi",
+    "D": "Bouman kapsulasiga qayta so'rilish tezligi",
+    "javob": "A"
+  },
+  {
+    "savol": "ADG (antidiuretik gormon) buyraklarda qanday ta’sir qiladi?",
+    "A": "Distal naycha va to‘plovchi naychalarda suvni qayta so‘rilishini oshiradi",
+    "B": "Distal naycha va to‘plovchi naychalarda suvni qayta so‘rilishini kamaytiradi",
+    "C": "Genle qovuzlog'ida suvni qayta so‘rilishini kamaytiradi",
+    "D": "Genle qovuzlog'ida suvni qayta so‘rilishini oshiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Sensor sistemaning asosiy qismlari qaysilar?",
+    "A": "Retseptor, afferent nerv tolasi, markaziy apparat",
+    "B": "Mushak, tendon, ligament",
+    "C": "Limfa tugunlari, tomirlar",
+    "D": "Qorinchalar va yurak",
+    "javob": "A"
+  },
+  {
+    "savol": "Retseptor nima vazifani bajaradi?",
+    "A": "Tashqi yoki ichki muhitdan ma’lumot qabul qiladi",
+    "B": "Axborotni bosh miyaga uzatadi",
+    "C": "Bosh miyadan periferiyaga axborot uzatadi",
+    "D": "Bosh miyadan orqa miyaga axborot uzatadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Retseptorlar adaptatsiyasi qaysi omillarga bog‘liq?",
+    "A": "Barcha javoblar  to'g'ri",
+    "B": "Stimulyatsiya davomiyligi",
+    "C": "Stimulyatsiya intensivligi",
+    "D": "Retseptor turi",
+    "javob": "A"
+  },
+  {
+    "savol": "Natriy ionlari hujayralararo suyuqlik hajmiga qanday ta’sir qiladi?",
+    "A": "Suvni tortib, hajmni oshiradi",
+    "B": "Suvni tortib, hajmni kamaytiradi",
+    "C": "Suvni chiqaradi",
+    "D": "Kaliy orqali suvni ushlab qoladi",
+    "javob": "A"
+  },
+  {
+    "savol": "ADG yetishmovchiligi qanday kasallikka olib keladi?",
+    "A": "Qandsiz diabet",
+    "B": "Qandli diabet",
+    "C": "Gipoterioz",
+    "D": "Giperterioz",
+    "javob": "A"
+  },
+  {
+    "savol": "Osmoreseptorlar nima vazifasini bajaradi?",
+    "A": "Qon plazmasi osmolaritetini sezadi va ADG sekretsiyasini boshqaradi",
+    "B": "Qon plazmasi osmolaritetini sezadi va AKTG sekretsiyasini boshqaradi",
+    "C": "Onkotik bosimni saqlaydi",
+    "D": "Osmotik bosimni pasaytiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "ADG qaysi organ tomonidan ishlab chiqariladi?",
+    "A": "Gipotalamus",
+    "B": "Gipofiz",
+    "C": "Qalqonsimon bez",
+    "D": "Buyrak",
+    "javob": "A"
+  },
+  {
+    "savol": "Hujayralararo suyuqlik hajmi qaysi omillarga bog‘liq?",
+    "A": "Osmolaritet, natriy va suv balansiga",
+    "B": "Hujayra shakliga",
+    "C": "Osmolaritet, natriy va kaliy balansiga",
+    "D": "Osmolaritet, natriy, kaliy  va suv balansiga",
+    "javob": "A"
+  }
+]
