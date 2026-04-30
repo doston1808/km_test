@@ -1,0 +1,1898 @@
+[
+  {
+    "savol": "Aminokislotalar qanday moddalarga kiradi?",
+    "A": "Amfoter moddalar",
+    "B": "Kislotalar",
+    "C": "Asoslar",
+    "D": "Tuzlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Oqsillar nimadan tashkil topgan?",
+    "A": "Aminokislotalardan",
+    "B": "Yog‘lardan",
+    "C": "Uglevodlardan",
+    "D": "Vitaminlardan",
+    "javob": "A"
+  },
+  {
+    "savol": "Peptid bog‘ qaysi guruhlar o‘rtasida hosil bo‘ladi?",
+    "A": "–NH₂ va –COOH",
+    "B": "–OH va –COOH",
+    "C": "–NH₂ va –OH",
+    "D": "–CH₃ va –COOH",
+    "javob": "A"
+  },
+  {
+    "savol": "Aminokislotalarning optik xossasi:",
+    "A": "Optik faol",
+    "B": "Faol emas",
+    "C": "Radioaktiv",
+    "D": "Magnit",
+    "javob": "A"
+  },
+  {
+    "savol": "Glitsin qanday aminokislota?",
+    "A": "Eng oddiy",
+    "B": "Eng murakkab",
+    "C": "Aromatik",
+    "D": "Yog‘ kislota",
+    "javob": "A"
+  },
+  {
+    "savol": "Aminokislotalar organizmda nima vazifani bajaradi?",
+    "A": "Oqsil sintezi",
+    "B": "Yog‘ sintezi",
+    "C": "Vitamin ishlab chiqarish",
+    "D": "Gormon parchalanishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Izoyon holat nima?",
+    "A": "Zaryadsiz holat",
+    "B": "Musbat zaryad",
+    "C": "Manfiy zaryad",
+    "D": "Ionlashmagan holat",
+    "javob": "A"
+  },
+  {
+    "savol": "Aminokislotalar suvda qanday eriydi?",
+    "A": "Yaxshi eriydi",
+    "B": "Erimaydi",
+    "C": "Qisman eriydi",
+    "D": "sovuqda eriydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Essensial aminokislotalar nima?",
+    "A": "Organizmda sintezlanmaydigan",
+    "B": "Ko‘p sintezlanadigan",
+    "C": "jigarda hosil bo‘ladigan",
+    "D": "o‘simlikda uchraydigan",
+    "javob": "A"
+  },
+  {
+    "savol": "Aminokislotalar qaysi biologik jarayonda ishtirok etadi?",
+    "A": "Metabolizm",
+    "B": "Fotosintez",
+    "C": "Yonish",
+    "D": "Bug‘lanish",
+    "javob": "A"
+  },
+  {
+    "savol": "Denaturatsiya nima?",
+    "A": "Oqsil tuzilishining buzilishi",
+    "B": "Sintezlanishi",
+    "C": "Ko‘payishi",
+    "D": "Eritilishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Eritma nima?",
+    "A": "Ikki yoki undan ortiq moddalardan tashkil topgan, zarrachalari molekula yoki ion darajasida teng taqsimlangan bir jinsli (gomogen) sistema.",
+    "B": "Qattiq moddalarning aralashmasi",
+    "C": "Tarkibi ko‘zga ko‘rinib ajralib turadigan geterogen aralashma.",
+    "D": "Suv va shakar aralashmasi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Peptid nima?",
+    "A": "Aminokislotalar zanjiri",
+    "B": "Yog‘ molekulasi",
+    "C": "Uglevod",
+    "D": "Nuklein kislota",
+    "javob": "A"
+  },
+  {
+    "savol": "gipertonik eritma bu",
+    "A": "Suvga nisbatan eritma tarkibidagi modda konsentratsiyasi yuqori bo‘lgan eritma.",
+    "B": "Suvga nisbatan modda konsentratsiyasi past bo‘lgan eritma.",
+    "C": "Suv va eritma tarkibi bir xil bo‘lgan eritma.",
+    "D": "Tuzli eritma.",
+    "javob": "A"
+  },
+  {
+    "savol": "gipotonik eritma bu",
+    "A": "Suvga nisbatan eritma tarkibidagi modda konsentratsiyasi past bo‘lgan eritma.",
+    "B": "Suvga nisbatan modda konsentratsiyasi yuqori bo‘lgan eritma.",
+    "C": "Suv va eritma tarkibi bir xil bo‘lgan eritma.",
+    "D": "Shakar eritmasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Osmatik bosim nima?",
+    "A": "Yarim o‘tkazuvchan parda orqali osmoz jarayonini yuzaga keltiradigan bosim.",
+    "B": "Eritmaning qaynash harorati bilan bog‘liq bosim",
+    "C": "Gazlarning suyuqlikdagi bosimi.",
+    "D": "Eritmaning eruvchanligi bilan bog‘liq bosim.",
+    "javob": "A"
+  },
+  {
+    "savol": "Eritma konsentratsiyasiga tarif bering",
+    "A": "Eritmada ma’lum hajm yoki massa suvda yoki boshqa erituvchida erigan modda miqdori bilan ifodalangan kattalik.",
+    "B": "Eritmaning rangi va hidi.",
+    "C": "Erituvchining qaynash harorati.",
+    "D": "Eritmaning hajmi bilan bog‘liq fizik kattalik.",
+    "javob": "A"
+  },
+  {
+    "savol": "Termodinamika bu..",
+    "A": "Issiqlik, ish va energiya o‘zgarishlarini o‘rganadigan fizika bo‘limi.",
+    "B": "Haroratni o‘lchash fanidir.",
+    "C": "Moddalarning kimyoviy tarkibini o‘rganadigan fan.",
+    "D": "Gazlarning harakatini o‘rganadigan bo‘lim.",
+    "javob": "A"
+  },
+  {
+    "savol": "sistema deb nima aytiladi va ular nechta turga bo'linadi",
+    "A": "Sistema — o‘zaro bog‘liq elementlardan tashkil topgan va tashqi muhit bilan farqlanadigan obyekt; 3 turga bo‘linadi: ochiq, yopiq, izolyatsiyalangan.",
+    "B": "Sistema — faqat suyuqlik aralashmasi; 2 turga bo‘linadi.",
+    "C": "Sistema — moddalar aralashmasi; 4 turga bo‘linadi.",
+    "D": "Sistema — faqat qattiq jismlar; 2 turga bo‘linadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Lavuaze-Laplas qonuni",
+    "A": "Issiqlik motorida bajarilgan ish, olgan issiqlikka proportsional bo‘ladi; ishlatilgan issiqlik energiyasining bir qismi ishga aylanadi.",
+    "B": "Harorat va bosim o‘rtasidagi bog‘lanishni ifodalaydi.",
+    "C": "Moddaning massasini saqlanish qonuni.",
+    "D": "Gazlarning hajmini oshirish qonuni.",
+    "javob": "A"
+  },
+  {
+    "savol": "G.I. Gess qonuni",
+    "A": "Kimyoviy reaksiyaning issiqlik o‘zgarishi reaktsiya yo‘lidan qat’i nazar, faqat boshlang‘ich va oxirgi holatga bog‘liq bo‘ladi",
+    "B": "Reaksiya tezligi haroratga bog‘liq",
+    "C": "Moddaning massasini saqlash qonuni.",
+    "D": "Eritmaning konsentratsiyasi bilan bog‘liq qonun",
+    "javob": "A"
+  },
+  {
+    "savol": "ichki energiya bu",
+    "A": "Sistema tarkibidagi barcha molekulalar, atomlar va zarralarning kinetik va potensial energiyalarining yig‘indisi.",
+    "B": "Issiqlik energiyasi.",
+    "C": "Ish bajarish orqali hosil bo‘lgan energiya.",
+    "D": "Bir-birida erimaydigan yoki molekula darajasida teng taqsimlanmagan, ikki yoki undan ortiq komponentdan tashkil topgan aralashma.",
+    "javob": "A"
+  },
+  {
+    "savol": "dispers sistema bu…",
+    "A": "Bir-birida erimaydigan yoki molekula darajasida teng taqsimlanmagan, ikki yoki undan ortiq komponentdan tashkil topgan aralashma.",
+    "B": "Suv va tuz eritmasi.",
+    "C": "Bir xil moddalardan tashkil topgan gomogen sistema.",
+    "D": "Sistema tarkibidagi barcha molekulalar, atomlar va zarralarning kinetik va potensial energiyalarining yig‘indisi.",
+    "javob": "A"
+  },
+  {
+    "savol": "adsorbsiya bu…",
+    "A": "Moddalarning boshqa modda sirtida to‘planish jarayoni",
+    "B": "Moddaning butun hajm bo‘ylab tarqalishi",
+    "C": "Moddaning bug‘lanishi",
+    "D": "Moddaning erishi",
+    "javob": "A"
+  },
+  {
+    "savol": "sirt faol moddalar deb nimaga aytiladi",
+    "A": "Suyuqlik sirt tarangligini kamaytirib, fazalar chegarasida to‘planadigan moddalar",
+    "B": "Qattiq moddalar",
+    "C": "Gazlar",
+    "D": "Sistema tarkibidagi barcha molekulalar, atomlar va zarralarning kinetik va potensial energiyalarining yig‘indisi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Polifunksional birikma nima",
+    "A": "Tarkibida ikki yoki undan ortiq funksional guruh saqlagan organik birikma",
+    "B": "Bitta funksional guruhli birikma",
+    "C": "Uglevodorodlardan iborat modda",
+    "D": "Sistema tarkibidagi barcha molekulalar, atomlar va zarralarning kinetik va potensial energiyalarining yig‘indisi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Geterofumksional birikma nima",
+    "A": "Ikki xil yoki undan ortiq funksional guruhli birikma",
+    "B": "Bir xil funksional guruhli birikma",
+    "C": "Uglerod va vodoroddan tashkil topgan modda",
+    "D": "Bitta funksional guruhli modda",
+    "javob": "A"
+  },
+  {
+    "savol": "geterohalqali birikma nima",
+    "A": "Halqa tarkibida uglerod va boshqa element atomi mavjud bo‘lgan birikma",
+    "B": "Uglerod atomlaridan tashkil topgan halqali birikma",
+    "C": "Ochiq zanjirli organik birikma",
+    "D": "Sistema tarkibidagi barcha molekulalar, atomlar va zarralarning kinetik va potensial energiyalarining yig‘indisi.",
+    "javob": "A"
+  },
+  {
+    "savol": "nikotin kislota kimyoviy xossalari va ahamiyati",
+    "A": "Kislota xossali modda",
+    "B": "Ishqor",
+    "C": "Asos xossali modda",
+    "D": "Neytral modda",
+    "javob": "A"
+  },
+  {
+    "savol": "Teobrominning organizmga ta’siri qanday?",
+    "A": "Yurak faoliyatini rag‘batlantiradi",
+    "B": "Markaziy asab tizimini susaytiradi",
+    "C": "Qonni ivitadi",
+    "D": "Suyakni mustahkamlaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Atom nima?",
+    "A": "Kimyoviy elementning xossalarini saqlovchi eng kichik zarracha",
+    "B": "Molekulaning bir turi",
+    "C": "Musbat zaryadli zarracha",
+    "D": "Sistema tarkibidagi barcha molekulalar, atomlar va zarralarning kinetik va potensial energiyalarining yig‘indisi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Molekula deb nimaga aytiladi?",
+    "A": "Moddaning kimyoviy xossalarini saqlovchi eng kichik zarracha",
+    "B": "Atom yadrosi",
+    "C": "Elektronlar to‘plami",
+    "D": "Sistema tarkibidagi barcha molekulalar, atomlar va zarralarning kinetik va potensial energiyalarining yig‘indisi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Kimyoviy element nima?",
+    "A": "Yadro zaryadi protonlar soni bir xil bo‘lgan atomlar turi",
+    "B": "Turli atomlar aralashmasi",
+    "C": "Metall modda",
+    "D": "Murakkab modda",
+    "javob": "A"
+  },
+  {
+    "savol": "Oddiy modda deb nimaga aytiladi?",
+    "A": "Bitta element atomlaridan tashkil topgan modda",
+    "B": "Ikki xil elementdan tashkil topgan modda",
+    "C": "Aralashma",
+    "D": "Eritma",
+    "javob": "A"
+  },
+  {
+    "savol": "Aralashma nima?",
+    "A": "Ikki yoki undan ortiq moddalarning fizik aralashuvi",
+    "B": "Kimyoviy birikma",
+    "C": "Toza modda",
+    "D": "Element",
+    "javob": "A"
+  },
+  {
+    "savol": "Valentlik nima?",
+    "A": "Atomning boshqa atomlar bilan bog‘ hosil qilish qobiliyati",
+    "B": "Atom massasi",
+    "C": "Protonlar soni",
+    "D": "Neytronlar soni",
+    "javob": "A"
+  },
+  {
+    "savol": "Bromning ortiqcha miqdori organizmda nimaga olib kelishi mumkin?",
+    "A": "Tinchlanish va uyquchanlik",
+    "B": "Qo‘zg‘aluvchanlikning ortishi",
+    "C": "Bo‘y o‘sishining tezlashishi",
+    "D": "Ishtahaning kuchayishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Brom ko‘proq qaysi shaklda organizmda uchraydi?",
+    "A": "Sof metall holida",
+    "B": "Gaz holida",
+    "C": "Bromid tuzlari shaklida",
+    "D": "Oqartiruvchi modda shaklida",
+    "javob": "A"
+  },
+  {
+    "savol": "Mis organizmda asosan qayerda to‘planadi?",
+    "A": "Teri ostida",
+    "B": "Jigar va mushaklarda",
+    "C": "O‘pka bo‘shlig‘ida",
+    "D": "Tish emalida",
+    "javob": "A"
+  },
+  {
+    "savol": "Mis qaysi oqsil tarkibiga kirib, temir almashinuviga yordam beradi?",
+    "A": "Gemoglobin",
+    "B": "Insulin",
+    "C": "Seruloplazmin",
+    "D": "Pepsin",
+    "javob": "A"
+  },
+  {
+    "savol": "Sirt tarangligi qaysi kuchlar ta’sirida yuzaga keladi?",
+    "A": "Molekulalararo tortishish kuchlari",
+    "B": "Magnit kuchlari",
+    "C": "Elektr kuchlari",
+    "D": "Gravitatsiya kuchi",
+    "javob": "A"
+  },
+  {
+    "savol": "Sirt tarangligi qaysi birlikda o‘lchanadi (SI)?",
+    "A": "Nyuton/metr (N/m)",
+    "B": "Paskal (Pa",
+    "C": "Nyuton (N)",
+    "D": "Joule (J",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi hodisa sirt tarangligiga misol bo‘la oladi?",
+    "A": "Suv tomchisining shar shaklini olishi",
+    "B": "Muzning erishi",
+    "C": "Metallning zanglashi",
+    "D": "Gazning siqilishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Kapillyar hodisa nimaga bog‘liq?",
+    "A": "Sirt tarangligiga",
+    "B": "Bosimga",
+    "C": "Haroratga",
+    "D": "Elektr zaryadiga",
+    "javob": "A"
+  },
+  {
+    "savol": "Dyuko–Traube qoidasi qaysi moddalarga taalluqlidir?",
+    "A": "Gomologik qatordagi organik sirt-faol moddalar",
+    "B": "Metall qotishmalari",
+    "C": "Inert gazlar",
+    "D": "Kristall tuzlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Dyuko–Traube qoidasiga ko‘ra, gomologik qator a’zolarida sirt faollik qanday o‘zgaradi?",
+    "A": "Har bir –CH₂– guruhi qo‘shilganda sirt faollik taxminan 3–3,5 marta ortadi",
+    "B": "Har bir –CH₂– guruhi qo‘shilganda sirt faollik kamayadi",
+    "C": "Sirt faollik o‘zgarmaydi",
+    "D": "Haroratga bog‘liq bo‘ladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Adsorbsiya qaysi fazalar chegarasida sodir bo‘ladi?",
+    "A": "Ikki faza chegarasida masalan, qattiq–gaz, qattiq–suyuqlik",
+    "B": "Suyuqlik ichida",
+    "C": "Gaz ichida",
+    "D": "Qattiq modda ichida",
+    "javob": "A"
+  },
+  {
+    "savol": "Adsorbsiya jarayonida modda to‘planadigan qattiq modda nima deyiladi?",
+    "A": "Adsorbent",
+    "B": "Adsorbat",
+    "C": "Erituvchi",
+    "D": "Katalizator",
+    "javob": "A"
+  },
+  {
+    "savol": "Adsorbsiya qilinayotgan modda nima deyiladi?",
+    "A": "Adsorbat",
+    "B": "Adsorben",
+    "C": "Solvat",
+    "D": "Reagent",
+    "javob": "A"
+  },
+  {
+    "savol": "Fizik adsorbsiyaning xususiyati qaysi?",
+    "A": "Molekulalararo kuchlar Van-der-Vaals hisobiga sodir bo‘ladi",
+    "B": "Kuchli kimyoviy bog’hosil bo‘ladi",
+    "C": "Qaytmas jarayon",
+    "D": "Juda yuqori harorat talab qiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Kimyoviy adsorbsiyaning (xemosorbsiya) xususiyati qaysi?",
+    "A": "Kimyoviy bog‘ hosil bo‘lishi bilan kechadi",
+    "B": "Sovuqda sodir bo‘ladi",
+    "C": "Juda tez qaytariladi",
+    "D": "Sirtga bog‘liq emas",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi omil adsorbsiya miqdoriga ta’sir qiladi?",
+    "A": "Sirt maydoni",
+    "B": "Rang",
+    "C": "Hajm",
+    "D": "Shakl",
+    "javob": "A"
+  },
+  {
+    "savol": "Sirt faol moddalarning asosiy xususiyati nimada?",
+    "A": "Amfifil tuzilishga ega gidrofil va gidrofob qismlari bor",
+    "B": "Gidrofil qismdan iborat",
+    "C": "Gidrofob qismdan iborat",
+    "D": "Molekulalararo kuchlar Van-der-Vaals hisobiga sodir bo‘ladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Sirt faol moddalar qayerda to‘planadi?",
+    "A": "Ikki faza chegarasida masalan, suyuqlik–gaz yoki suyuqlik–suyuqlik",
+    "B": "Eritma ichida",
+    "C": "Gaz ichida",
+    "D": "Qattiq modda ichida",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri sirt faol moddalarga misol bo‘la oladi?",
+    "A": "Sovun va yuvish vositalari",
+    "B": "Temir",
+    "C": "Osh tuzi kristali",
+    "D": "Kislorod gazi",
+    "javob": "A"
+  },
+  {
+    "savol": "Sirt faol moddalarning amaliy ahamiyati nimada?",
+    "A": "Yuvish, emulsiya hosil qilish va ko‘pik hosil qilishda",
+    "B": "Radioaktivlikni oshirishda",
+    "C": "Elektr tokini ishlab chiqarishda",
+    "D": "Ikki faza chegarasida masalan, suyuqlik–gaz yoki suyuqlik–suyuqlik",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri polifunksional birikmaga misol bo‘la oladi?",
+    "A": "Aminokislotalar (–NH₂ va –COOH guruhli)",
+    "B": "Metan (CH₄)",
+    "C": "Etan (C₂H₆)",
+    "D": "Glyukoza (–OH va –CHO guruhlari mavjud)",
+    "javob": "A"
+  },
+  {
+    "savol": "Polifunksional birikmalarning asosiy xususiyati nimada?",
+    "A": "Bir nechta funksional guruhlar tufayli turli xil kimyoviy reaksiyalarga kirishadi",
+    "B": "Reaksiyaga kirishmaydi",
+    "C": "Yonish reaksiyasida qatnashadi",
+    "D": "Gaz holatda bo‘ladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi birikmalardan qaysi biri polifunksional hisoblanadi?",
+    "A": "Glyukoza (–OH va –CHO guruhlari mavjud)",
+    "B": "Metanol (faqat –OH)",
+    "C": "Propan (C₃H₈",
+    "D": "Aminokislotalar (–NH₂ va –COOH guruhli)",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi modda geterofunksional birikma hisoblanadi?",
+    "A": "H₂N–CH₂–COOH",
+    "B": "CH₃–OH",
+    "C": "CH₄",
+    "D": "CH₃–COOH",
+    "javob": "A"
+  },
+  {
+    "savol": "Aminokislotalar tarkibida qanday funksional guruhlar mavjud?",
+    "A": "–NH₂ va –COOH",
+    "B": "–OH va –CHO",
+    "C": "–COOH va –CHO",
+    "D": "–NH₂ va –OH",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri gidroksikislota?",
+    "A": "HO–CH₂–COOH",
+    "B": "CH₃–CH₂–OH",
+    "C": "CH₃–CHO",
+    "D": "CH₃–CO–CH₃",
+    "javob": "A"
+  },
+  {
+    "savol": "Sut kislotasi (CH₃–CH(OH)–COOH) nechta funksional guruhga ega?",
+    "A": "2 ta",
+    "B": "1 ta",
+    "C": "3 ta",
+    "D": "4 ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi guruhlardan qaysi biri aminoguruh?",
+    "A": "–NH₂",
+    "B": "–COOH",
+    "C": "–OH",
+    "D": "CHO",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi birikma tarkibida aldehid va gidroksil guruh mavjud?",
+    "A": "HO–CH₂–CHO",
+    "B": "CH₃–COOH",
+    "C": "CH₃–NH₂",
+    "D": "CH₃–CH₃",
+    "javob": "A"
+  },
+  {
+    "savol": "Geterofunksional birikmalar ko‘proq qaysi sohada uchraydi?",
+    "A": "Biokimyoda",
+    "B": "Metallurgiyada",
+    "C": "Geologiyada",
+    "D": "Astronomiyada",
+    "javob": "A"
+  },
+  {
+    "savol": "–COOH guruhi qanday nomlanadi?",
+    "A": "Karboksil",
+    "B": "Karbonil",
+    "C": "Amin",
+    "D": "Gidroksil",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri geterofunksional birikma EMAS?",
+    "A": "CH₃–CH₃",
+    "B": "NH₂–CH₂–CH₂–OH",
+    "C": "HO–CH₂–COOH",
+    "D": "CH₃–CH(OH)–COOH",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi birikma geterohalqali hisoblanadi?",
+    "A": "Piridin",
+    "B": "Benzol",
+    "C": "Propan",
+    "D": "Butan",
+    "javob": "A"
+  },
+  {
+    "savol": "Geterohalqali birikma tarkibida qanday atom bo‘ladi?",
+    "A": "Uglerod va kamida bitta boshqa element (O, N, S)",
+    "B": "Uglerod",
+    "C": "Vodorod",
+    "D": "Aminokislotalar (–NH₂ va –COOH guruhli)",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi moddada kislorod atomi halqa tarkibida joylashgan?",
+    "A": "Furan",
+    "B": "Siklogeksan",
+    "C": "Etan",
+    "D": "Benzol",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri geterohalqali birikma emas?",
+    "A": "Siklogeksan",
+    "B": "Tiofen",
+    "C": "Piridin",
+    "D": "Furan",
+    "javob": "A"
+  },
+  {
+    "savol": "Nikotin kislota yana qanday nom bilan ataladi?",
+    "A": "Vitamin PP (B₃)",
+    "B": "Vitamin C",
+    "C": "Vitamin D",
+    "D": "Vitamin B₁",
+    "javob": "A"
+  },
+  {
+    "savol": "Nikotin kislota yetishmovchiligi qaysi kasallikka olib keladi?",
+    "A": "Pellagra",
+    "B": "Raxit",
+    "C": "Skorbut",
+    "D": "Kamqonlik",
+    "javob": "A"
+  },
+  {
+    "savol": "Nikotin kislota organizmda qanday ahamiyatga ega?",
+    "A": "Fermentlar tarkibiga kiradi (NAD, NADP)",
+    "B": "Oqsil parchalaydi",
+    "C": "Suyakni mustahkamlaydi",
+    "D": "Qonni ivitadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Teobromin asosan qaysi mahsulot tarkibida uchraydi?",
+    "A": "Kakao va shokolad",
+    "B": "Qahva",
+    "C": "Choy",
+    "D": "Sut",
+    "javob": "A"
+  },
+  {
+    "savol": "Kimyoviy reaksiya nima?",
+    "A": "Moddalarning tarkibi va tuzilishi o‘zgarishi bilan boradigan jarayon",
+    "B": "Fizik o‘zgarish",
+    "C": "Eritish jarayoni",
+    "D": "Ikki yoki undan ortiq element atomlarining kimyoviy bog‘ orqali birikishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Protonning zaryadi qanday?",
+    "A": "Musbat (+)",
+    "B": "Manfiy (−)",
+    "C": "Neytral",
+    "D": "Zaryadsiz",
+    "javob": "A"
+  },
+  {
+    "savol": "Kimyoviy formula nimani bildiradi?",
+    "A": "Moddaning sifat va miqdoriy tarkibini",
+    "B": "rangini",
+    "C": "agregat holatini",
+    "D": "zichligini",
+    "javob": "A"
+  },
+  {
+    "savol": "Kimyoviy birikma nima?",
+    "A": "Ikki yoki undan ortiq element atomlarining kimyoviy bog‘ orqali birikishi",
+    "B": "Oddiy modda",
+    "C": "Aralashma",
+    "D": "Moddalarning tarkibi va tuzilishi o‘zgarishi bilan boradigan jarayon",
+    "javob": "A"
+  },
+  {
+    "savol": "Fizik hodisa qaysi javobda berilgan?",
+    "A": "Muzning erishi",
+    "B": "Temirning zanglashi",
+    "C": "Yonish jarayoni",
+    "D": "Sutning achishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Oddiy modda va kimyoviy birikma farqi nimada",
+    "A": "Oddiy modda bitta elementdan, birikma esa bir nechta elementdan iborat",
+    "B": "Oddiy modda aralashma, birikma esa eritma",
+    "C": "Oddiy modda gaz, birikma esa suyuq",
+    "D": "Moddalarning tarkibi va tuzilishi o‘zgarishi bilan boradigan jarayon",
+    "javob": "A"
+  },
+  {
+    "savol": "Kimyoviy element nima?",
+    "A": "Protonlar soni bir xil bo‘lgan atomlar turi",
+    "B": "Aralashma",
+    "C": "Eritma",
+    "D": "metall",
+    "javob": "A"
+  },
+  {
+    "savol": "Kimyoviy reaksiya qanday jarayon?",
+    "A": "Moddalar tarkibi va tuzilishi o‘zgaradi",
+    "B": "fizik holat o‘zgaradi",
+    "C": "rang o‘zgaradi",
+    "D": "hajm o‘zgaradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Elektron buluti nima",
+    "A": "Atom yadrosi atrofida elektronlarning joylashuvi",
+    "B": "Atomning markazi",
+    "C": "Neytronlar yig‘indisi",
+    "D": "protonlar joylashuvi",
+    "javob": "A"
+  },
+  {
+    "savol": "Massa saqlanish qonuni nimani bildiradi",
+    "A": "Kimyoviy reaksiya davomida moddalarning umumiy massasi o‘zgarishsiz qoladi",
+    "B": "Massalar doimo kamayadi",
+    "C": "Massalar doimo ko‘payadi",
+    "D": "Moddalarning tarkibi va tuzilishi o‘zgarishi bilan boradigan jarayon",
+    "javob": "A"
+  },
+  {
+    "savol": "Elektron zaryadi qanday?",
+    "A": "Manfiy (−)",
+    "B": "Musbat (+)",
+    "C": "Neytral",
+    "D": "Ijobiy va manfiy aralash",
+    "javob": "A"
+  },
+  {
+    "savol": "Neytronning zaryadi qanday?",
+    "A": "Neytral",
+    "B": "Musba",
+    "C": "Manfiy",
+    "D": "Aralash",
+    "javob": "A"
+  },
+  {
+    "savol": "Atom yadrosi nimadan iborat?",
+    "A": "Protonlar va neytronlar",
+    "B": "Elektronlar",
+    "C": "Protonlar",
+    "D": "Neytronlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Uglevodlar qaysi atomlardan iborat?",
+    "A": "Uglerod va vodorod",
+    "B": "Vodorod",
+    "C": "Kislorod",
+    "D": "Uglerod va kislorod",
+    "javob": "A"
+  },
+  {
+    "savol": "Kimyoviy reaksiyada energiya nima bo‘lishi mumkin?",
+    "A": "Ajralishi yoki so‘rilishi",
+    "B": "Doim ajralishi",
+    "C": "Doim so‘rilishi",
+    "D": "O‘zgarishsiz qolishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Kimyoviy elementlarning atom raqami nimani bildiradi?",
+    "A": "Atom yadrosidagi protonlar soni",
+    "B": "Atomdagi elektronlar soni",
+    "C": "Atom massasi",
+    "D": "Neytronlar soni",
+    "javob": "A"
+  },
+  {
+    "savol": "Aralashmani ajratish usullaridan biri nima?",
+    "A": "Filtrlash",
+    "B": "Yonish",
+    "C": "Kimyoviy reaktsiya",
+    "D": "Zanglash",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi hodisa fizik emas, balki kimyoviy?",
+    "A": "Temirning zanglashi",
+    "B": "Muzning erishi",
+    "C": "Suv bug‘lanishi",
+    "D": "Shakar eritilishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Eritma nima?",
+    "A": "Bir jinsli aralashma",
+    "B": "Geterogen aralashma",
+    "C": "Suyuqlik",
+    "D": "Gaz",
+    "javob": "A"
+  },
+  {
+    "savol": "Erituvchi nima",
+    "A": "Eritmada ko‘p miqdorda bo‘lgan modda",
+    "B": "Kam miqdordagi modda",
+    "C": "Gaz modda",
+    "D": "Qattiq modda",
+    "javob": "A"
+  },
+  {
+    "savol": "Eritiluvchi nima?modda",
+    "A": "Eritmada kam miqdorda bo‘lgan modda",
+    "B": "Ko‘p miqdordagi modda",
+    "C": "Erituvchi",
+    "D": "Suv",
+    "javob": "A"
+  },
+  {
+    "savol": "Molyar konsentratsiya nimani bildiradi?",
+    "A": "1 litr eritmadagi mol soni",
+    "B": "1 kg dagi massa",
+    "C": "Hajm",
+    "D": "Harorat",
+    "javob": "A"
+  },
+  {
+    "savol": "Normal konsentratsiya nimaga asoslanadi",
+    "A": "Ekvivalentlar soniga",
+    "B": "Hajmga",
+    "C": "Massaga",
+    "D": "Bosimga",
+    "javob": "A"
+  },
+  {
+    "savol": "Massaviy ulush formulasi:",
+    "A": "m(modda)/m(eritma",
+    "B": "V/V",
+    "C": "n/V",
+    "D": "m/V",
+    "javob": "A"
+  },
+  {
+    "savol": "1M eritma:",
+    "A": "1 mol modda 1 litrda",
+    "B": "1 g modda 1 litrda",
+    "C": "1 mol modda 1 kg da",
+    "D": "1 g modda 1 ml da",
+    "javob": "A"
+  },
+  {
+    "savol": "Eritma suyultirilsa:",
+    "A": "Konsentratsiya kamayadi",
+    "B": "Konsentratsiya oshadi",
+    "C": "Massa kamayadi",
+    "D": "Harorat oshadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Foiz konsentratsiya nimani bildiradi?",
+    "A": "100 g eritmadagi modda massasi",
+    "B": "1 litr eritmadagi modda",
+    "C": "1 mol modda",
+    "D": "Gaz miqdori",
+    "javob": "A"
+  },
+  {
+    "savol": "Hajmiy ulush:",
+    "A": "V(modda)/V(eritma)",
+    "B": "m/m",
+    "C": "n/V",
+    "D": "m/V",
+    "javob": "A"
+  },
+  {
+    "savol": "Arrenius bo‘yicha kislota:",
+    "A": "H⁺ ajratadi",
+    "B": "OH⁻ ajratadi",
+    "C": "Elektron oladi",
+    "D": "Tuz hosil qiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Arrenius asos:",
+    "A": "OH⁻ ajratadi",
+    "B": "H⁺ ajratadi",
+    "C": "Elektron beradi",
+    "D": "Gaz chiqaradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Brønsted-Lowry kislota:",
+    "A": "Proton donor",
+    "B": "Proton akseptor",
+    "C": "Elektron donor",
+    "D": "Tuz",
+    "javob": "A"
+  },
+  {
+    "savol": "pH = 7:",
+    "A": "Neytral muhit",
+    "B": "Kislotali",
+    "C": "Ishqoriy",
+    "D": "Kuchli asos",
+    "javob": "A"
+  },
+  {
+    "savol": "Bufer eritma:",
+    "A": "pH ni o‘zgarmas ushlab turadi",
+    "B": "pH ni oshiradi",
+    "C": "Tuz hosil qiladi",
+    "D": "Eritadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Bufer tarkibi:",
+    "A": "Kuchsiz kislota va uning tuzi",
+    "B": "Kuchli kislota",
+    "C": "Kuchli asos",
+    "D": "Suv",
+    "javob": "A"
+  },
+  {
+    "savol": "Qon pH qiymati:",
+    "A": "7.4",
+    "B": "5",
+    "C": "9",
+    "D": "2",
+    "javob": "A"
+  },
+  {
+    "savol": "Kuchli kislota:",
+    "A": "To‘liq dissotsiyalanadi",
+    "B": "Dissotsiyalanmaydi",
+    "C": "Gaz",
+    "D": "Tuz",
+    "javob": "A"
+  },
+  {
+    "savol": "Titrimetrik tahlil:",
+    "A": "Konsentratsiyani aniqlash usuli",
+    "B": "Bug‘latish",
+    "C": "Qizdirish",
+    "D": "Filtrlash",
+    "javob": "A"
+  },
+  {
+    "savol": "Titrant:",
+    "A": "Konsentratsiyasi ma’lum eritma",
+    "B": "Noma’lum eritma",
+    "C": "Suv",
+    "D": "Gaz",
+    "javob": "A"
+  },
+  {
+    "savol": "Analit:",
+    "A": "Konsentratsiyasi aniqlanadigan modda",
+    "B": "Suv",
+    "C": "Gaz",
+    "D": "Tuz",
+    "javob": "A"
+  },
+  {
+    "savol": "Ekvivalent nuqta:",
+    "A": "Reaksiya tugagan nuqta",
+    "B": "Qaynash",
+    "C": "Muzlash",
+    "D": "Rang yo‘qolishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Indikator:",
+    "A": "Rang o‘zgaradi",
+    "B": "Bug‘lanadi",
+    "C": "Muzlaydi",
+    "D": "Yonadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Neytrallanish:",
+    "A": "Kislota + asos",
+    "B": "tuz + suv",
+    "C": "Gaz chiqishi",
+    "D": "Oksidlanish",
+    "javob": "A"
+  },
+  {
+    "savol": "Titratsiya egri chizig‘i:",
+    "A": "pH o‘zgarishini ko‘rsatadi",
+    "B": "Harorat",
+    "C": "Bosim",
+    "D": "Massa",
+    "javob": "A"
+  },
+  {
+    "savol": "Standart eritma:",
+    "A": "Aniq konsentratsiyali eritma",
+    "B": "Noma’lum eritma",
+    "C": "Suv",
+    "D": "Tuz",
+    "javob": "A"
+  },
+  {
+    "savol": "Byuretka:",
+    "A": "Eritma tomchilab qo‘shiladi",
+    "B": "Qizdiradi",
+    "C": "Sovitadi",
+    "D": "Filtrlaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Pipetka:",
+    "A": "Aniq hajm o‘lchaydi",
+    "B": "Qizdiradi",
+    "C": "Sovitadi",
+    "D": "Bug‘latadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Biologik suyuqliklarning elektr o‘tkazuvchanligi nimaga bog‘liq?",
+    "A": "Ionlar konsentratsiyasiga",
+    "B": "Rangiga",
+    "C": "Haroratga emas",
+    "D": "Hajmiga",
+    "javob": "A"
+  },
+  {
+    "savol": "Elektrolit eritmalarda tok tashuvchilar kimlar?",
+    "A": "Ionlar",
+    "B": "Elektronlar",
+    "C": "Protonlar",
+    "D": "Molekulalar",
+    "javob": "A"
+  },
+  {
+    "savol": "Redoks reaksiyada oksidlanish nima?",
+    "A": "Elektron yo‘qotish",
+    "B": "Elektron qabul qilish",
+    "C": "Proton qabul qilish",
+    "D": "Neytrallanish",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaytarilish (reduksiya) nima?",
+    "A": "Elektron qabul qilish",
+    "B": "Elektron yo‘qotish",
+    "C": "ionlanish",
+    "D": "Dissotsiatsiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Redoks potensial nimani bildiradi?",
+    "A": "Moddaning elektron berish yoki olish qobiliyatini",
+    "B": "Haroratni",
+    "C": "Bosimni",
+    "D": "Hajmni",
+    "javob": "A"
+  },
+  {
+    "savol": "Organizmda redoks jarayonlar qayerda muhim?",
+    "A": "Metabolizmda",
+    "B": "nafas olishda",
+    "C": "hazmda",
+    "D": "qon aylanishda",
+    "javob": "A"
+  },
+  {
+    "savol": "Sirt hodisalarga qaysi kiradi?",
+    "A": "Adsorbsiya",
+    "B": "Dissotsiatsiya",
+    "C": "Ionlanish",
+    "D": "Eritish",
+    "javob": "A"
+  },
+  {
+    "savol": "Sirt tarangligi nima bilan belgilanadi?",
+    "A": "Molekulalararo kuchlar bilan",
+    "B": "Bosim bilan",
+    "C": "Hajm bilan",
+    "D": "Rang bilan",
+    "javob": "A"
+  },
+  {
+    "savol": "Xromatografiya nima?",
+    "A": "Aralashmalarni ajratish usuli",
+    "B": "Eritish usuli",
+    "C": "Bug‘latish usuli",
+    "D": "Muzlatish usuli",
+    "javob": "A"
+  },
+  {
+    "savol": "Xromatografiyada asosiy fazalar?",
+    "A": "Harakatchan va statsionar faza",
+    "B": "Qattiq va gaz",
+    "C": "suyuq",
+    "D": "qattiq",
+    "javob": "A"
+  },
+  {
+    "savol": "Tibbiyotda xromatografiya nimaga ishlatiladi?",
+    "A": "Dori moddalari tahlilida",
+    "B": "Operatsiyada",
+    "C": "Rentgen olishda",
+    "D": "Diagnostika emas",
+    "javob": "A"
+  },
+  {
+    "savol": "Qonplazmasining o‘tkazuvchanligi nimaga bog‘liq?",
+    "A": "Elektrolitlarga",
+    "B": "Rangiga",
+    "C": "Hajmiga",
+    "D": "Haroratga emas",
+    "javob": "A"
+  },
+  {
+    "savol": "Redoks reaksiyalarda katalizator nima qiladi?",
+    "A": "Reaksiyani tezlashtiradi",
+    "B": "To‘xtatadi",
+    "C": "Rangni o‘zgartiradi",
+    "D": "Hajmni oshiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Sirt hodisalari biologiyada qayerda muhim?",
+    "A": "Hujayra membranasida",
+    "B": "Suyakda",
+    "C": "Qon tomirda",
+    "D": "Mushakda",
+    "javob": "A"
+  },
+  {
+    "savol": "Dispers sistema nima?",
+    "A": "Bir moddaning boshqasida tarqalishi",
+    "B": "Sof modda",
+    "C": "Gaz holat",
+    "D": "Kolloid zarracha tuzilishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Kolloid zarracha o‘lchami?",
+    "A": "1–100 nm",
+    "B": "1 mm",
+    "C": "1 sm",
+    "D": "1 m",
+    "javob": "A"
+  },
+  {
+    "savol": "Kolloid eritmalar misoli?",
+    "A": "Qon",
+    "B": "Tuz eritmasi",
+    "C": "Spirt",
+    "D": "Suv",
+    "javob": "A"
+  },
+  {
+    "savol": "Mitsella nima?",
+    "A": "Kolloid zarracha tuzilishi",
+    "B": "Ion",
+    "C": "Atom",
+    "D": "Bir moddaning boshqasida tarqalishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Kolloid sistemalarning kinetik xossasi?",
+    "A": "Braun harakati",
+    "B": "Eritish",
+    "C": "Bug‘lanish",
+    "D": "Muzlash",
+    "javob": "A"
+  },
+  {
+    "savol": "Braun harakati nima?",
+    "A": "Zarrachalarning tartibsiz harakati",
+    "B": "To‘g‘ri harakat",
+    "C": "Sekin harakat",
+    "D": "Bir moddaning boshqasida tarqalishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Turg‘unlik nima?",
+    "A": "Zarrachalarning cho‘kmay turishi",
+    "B": "Eritilishi",
+    "C": "Bug‘lanishi",
+    "D": "Bir moddaning boshqasida tarqalishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Koagulyatsiya nima?",
+    "A": "Kolloid zarrachalarning yiriklashuvi",
+    "B": "Eritilishi",
+    "C": "Bug‘lanishi",
+    "D": "Yonishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Himoya kolloidlari nima qiladi?",
+    "A": "Turg‘unlikni oshiradi",
+    "B": "Turg‘unlikni kamaytiradi",
+    "C": "Eritadi",
+    "D": "Bug‘latadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Dag‘al dispers sistema nima?",
+    "A": "Katta zarrachali sistema",
+    "B": "Kichik zarracha",
+    "C": "Gaz",
+    "D": "Ion",
+    "javob": "A"
+  },
+  {
+    "savol": "Emulsiya nima?",
+    "A": "Suyuqlik-suyuqlik sistema",
+    "B": "Gaz-suyuqlik",
+    "C": "Qattiq-gaz",
+    "D": "Ion",
+    "javob": "A"
+  },
+  {
+    "savol": "Suspenziya nima?",
+    "A": "Qattiq-suyuqlik sistema",
+    "B": "Gaz",
+    "C": "Eritma",
+    "D": "Ion",
+    "javob": "A"
+  },
+  {
+    "savol": "Kolloidlarning optik xossasi?",
+    "A": "Tyndall effekti",
+    "B": "Yonish",
+    "C": "Eritish",
+    "D": "Bug‘lanish",
+    "javob": "A"
+  },
+  {
+    "savol": "Dializ nima?",
+    "A": "Kolloidni tozalash",
+    "B": "Eritish",
+    "C": "Bug‘latish",
+    "D": "Qon o‘rnini bosuvchi eritmalar",
+    "javob": "A"
+  },
+  {
+    "savol": "Tibbiyotda kolloidlar ahamiyati?",
+    "A": "Qon o‘rnini bosuvchi eritmalar",
+    "B": "Rang berish",
+    "C": "Isitish",
+    "D": "Kolloidni tozalash",
+    "javob": "A"
+  },
+  {
+    "savol": "Organik birikmalarning fazoviy tuzilishi nimani bildiradi?",
+    "A": "Molekulaning uch o‘lchamli tuzilishini",
+    "B": "Rangini",
+    "C": "Massasini",
+    "D": "Bir moddaning boshqasida tarqalishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Izomeriya nima?",
+    "A": "Bir xil formula, turli tuzilish",
+    "B": "Turli formula",
+    "C": "Bir xil rang",
+    "D": "Bir xil massa",
+    "javob": "A"
+  },
+  {
+    "savol": "Aromatiklik nima?",
+    "A": "Barqaror halqali tizim",
+    "B": "To‘g‘ri zanjir",
+    "C": "Gaz holat",
+    "D": "Ion",
+    "javob": "A"
+  },
+  {
+    "savol": "Benzol halqasi nechta atomdan iborat?",
+    "A": "6",
+    "B": "5",
+    "C": "4",
+    "D": "7",
+    "javob": "A"
+  },
+  {
+    "savol": "Ta’sirlanish reaksiyasi nima?",
+    "A": "Substitutsiya",
+    "B": "Yonish",
+    "C": "Eritish",
+    "D": "Muzlash",
+    "javob": "A"
+  },
+  {
+    "savol": "Kislotali xossa nimaga bog‘liq?",
+    "A": "Proton berish qobiliyatiga",
+    "B": "Elektron olishga",
+    "C": "Hajmga",
+    "D": "Rangga",
+    "javob": "A"
+  },
+  {
+    "savol": "Asosli xossa nimaga bog‘liq?",
+    "A": "Proton qabul qilishga",
+    "B": "Proton berishga",
+    "C": "Rangga",
+    "D": "Hajmga",
+    "javob": "A"
+  },
+  {
+    "savol": "Spirtlar qaysi guruhga ega?",
+    "A": "–OH",
+    "B": "–COOH",
+    "C": "–NH₂",
+    "D": "–CHO",
+    "javob": "A"
+  },
+  {
+    "savol": "Monofunksional birikmalar nima?",
+    "A": "Bitta funksional guruhli birikmalar",
+    "B": "Ikki guruhli",
+    "C": "Halqali",
+    "D": "Bir nechta funksional guruhli birikmalar",
+    "javob": "A"
+  },
+  {
+    "savol": "Aminlar qanday xossa ko‘rsatadi?",
+    "A": "Asosli",
+    "B": "Kislotali",
+    "C": "Neytral",
+    "D": "Inert",
+    "javob": "A"
+  },
+  {
+    "savol": "Polifunksional birikmalar nima?",
+    "A": "Bir nechta funksional guruhli birikmalar",
+    "B": "Bitta guruhli",
+    "C": "Uglevodorod",
+    "D": "Bitta funksional guruhli birikmalar",
+    "javob": "A"
+  },
+  {
+    "savol": "Konformatsiya nima?",
+    "A": "Molekula aylanish shakli",
+    "B": "Rang",
+    "C": "Massasi",
+    "D": "Hajmi",
+    "javob": "A"
+  },
+  {
+    "savol": "Optik izomeriya nima?",
+    "A": "Nur aylantirish xossasi",
+    "B": "Yonish",
+    "C": "Eritish",
+    "D": "Muzlash",
+    "javob": "A"
+  },
+  {
+    "savol": "π-bog‘ nima?",
+    "A": "Yonma-yon qoplanish",
+    "B": "To‘g‘ri bog‘",
+    "C": "Ion",
+    "D": "Metall",
+    "javob": "A"
+  },
+  {
+    "savol": "Geterofunksional birikmalar nimani anglatadi?",
+    "A": "Turli funksional guruhlar mavjudligi",
+    "B": "Bir xil guruh",
+    "C": "Halqasiz",
+    "D": "Ionli",
+    "javob": "A"
+  },
+  {
+    "savol": "σ-bog‘ nima?",
+    "A": "To‘g‘ri qoplanish",
+    "B": "Yonma-yon",
+    "C": "Ion",
+    "D": "Metall",
+    "javob": "A"
+  },
+  {
+    "savol": "Aromatik birikmalar xossasi?",
+    "A": "Yuqori barqarorlik",
+    "B": "Past barqarorlik",
+    "C": "Gaz holat",
+    "D": "Rangsiz",
+    "javob": "A"
+  },
+  {
+    "savol": "Spirt va kislota guruhini birga saqlagan modda?",
+    "A": "Gidroksikislota",
+    "B": "Alkane",
+    "C": "Alkin",
+    "D": "Alkin",
+    "javob": "A"
+  },
+  {
+    "savol": "Geteroxalqali birikma nima?",
+    "A": "Halqasida turli atomlar bo‘lgan birikma",
+    "B": "Uglerod halqasi",
+    "C": "Gaz",
+    "D": "Gaz",
+    "javob": "A"
+  },
+  {
+    "savol": "Piridin qaysi turga kiradi?",
+    "A": "Geteroxalqali",
+    "B": "Alkan",
+    "C": "Spirt",
+    "D": "Kislota",
+    "javob": "A"
+  },
+  {
+    "savol": "Tibbiyotda geteroxalqali birikmalar nima sifatida ishlatiladi?",
+    "A": "Dorilar",
+    "B": "Rang beruvchi modda",
+    "C": "Metall",
+    "D": "Tuz",
+    "javob": "A"
+  },
+  {
+    "savol": "Neyromediator nima?",
+    "A": "Nerv signallarini uzatuvchi modda",
+    "B": "Energiya manbai",
+    "C": "Tuz",
+    "D": "Suv",
+    "javob": "A"
+  },
+  {
+    "savol": "Serotonin qaysi turga kiradi?",
+    "A": "Neyromediator",
+    "B": "Vitamin",
+    "C": "Lipid",
+    "D": "Tuz",
+    "javob": "A"
+  },
+  {
+    "savol": "Dopamin vazifasi?",
+    "A": "Nerv impulsini uzatish",
+    "B": "Hazm qilish",
+    "C": "Oqartirish",
+    "D": "Eritish",
+    "javob": "A"
+  },
+  {
+    "savol": "Polifunksional birikmalarda reaktivlik?",
+    "A": "Yuqori",
+    "B": "Past",
+    "C": "Yo‘q",
+    "D": "Nol",
+    "javob": "A"
+  },
+  {
+    "savol": "Aminokislota qaysi turga kiradi?",
+    "A": "Polifunksional",
+    "B": "Monofunksional",
+    "C": "Gaz",
+    "D": "Ion",
+    "javob": "A"
+  },
+  {
+    "savol": "Organizmda geterofunksional birikmalar roli?",
+    "A": "Metabolizmda muhim",
+    "B": "Energiya",
+    "C": "Rang",
+    "D": "Tuz",
+    "javob": "A"
+  },
+  {
+    "savol": "Halqali aromatik tizimga misol?",
+    "A": "Benzol",
+    "B": "Metan",
+    "C": "Etan",
+    "D": "Propan",
+    "javob": "A"
+  },
+  {
+    "savol": "Karbon suvlar umumiy nomi?",
+    "A": "Uglevodlar",
+    "B": "Lipidlar",
+    "C": "Oqsillar",
+    "D": "Tuzlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Monosaxarid nima?",
+    "A": "Eng oddiy uglevod",
+    "B": "Murakkab oqsil",
+    "C": "Tuz",
+    "D": "Lipid",
+    "javob": "A"
+  },
+  {
+    "savol": "Glyukoza qaysi guruhga kiradi?",
+    "A": "Monosaxarid",
+    "B": "Polisaxarid",
+    "C": "Lipid",
+    "D": "Protein",
+    "javob": "A"
+  },
+  {
+    "savol": "Fruktoza nima?",
+    "A": "Monosaxarid",
+    "B": "Lipid",
+    "C": "Tuz",
+    "D": "Amin",
+    "javob": "A"
+  },
+  {
+    "savol": "Karbon suvlar asosiy vazifasi?",
+    "A": "Energiya manbai",
+    "B": "Tuz hosil qilish",
+    "C": "Rang berish",
+    "D": "Gaz hosil qilish",
+    "javob": "A"
+  },
+  {
+    "savol": "Polisaxaridga misol?",
+    "A": "Kraxmal",
+    "B": "Glyukoza",
+    "C": "Fruktoza",
+    "D": "Galaktoza",
+    "javob": "A"
+  },
+  {
+    "savol": "Aminokislotalarda asosiy guruh?",
+    "A": "–NH₂ va –COOH",
+    "B": "–OH",
+    "C": "–CH₃",
+    "D": "–Cl",
+    "javob": "A"
+  },
+  {
+    "savol": "Oqsillar nimadan tuzilgan?",
+    "A": "Aminokislotalardan",
+    "B": "Tuzdan",
+    "C": "Lipiddan",
+    "D": "Suvdan",
+    "javob": "A"
+  },
+  {
+    "savol": "Glyukoza qaysi jarayonda muhim?",
+    "A": "Energiya almashinuvi",
+    "B": "Rang berish",
+    "C": "Oqartirish",
+    "D": "Muzlatish",
+    "javob": "A"
+  },
+  {
+    "savol": "Disaxaridga misol?",
+    "A": "Saxaroza",
+    "B": "Glyukoza",
+    "C": "Fruktoza",
+    "D": "Riboza",
+    "javob": "A"
+  },
+  {
+    "savol": "Karbon suvlar formulasi?",
+    "A": "Cn(H2O)n",
+    "B": "CO2",
+    "C": "NH3",
+    "D": "HCl",
+    "javob": "A"
+  },
+  {
+    "savol": "Aminokislotalarning optik xossasi?",
+    "A": "Faol",
+    "B": "Yo‘q",
+    "C": "Nol",
+    "D": "Gaz",
+    "javob": "A"
+  },
+  {
+    "savol": "Oqsillar parchalanishi natijasi?",
+    "A": "Aminokislotalar",
+    "B": "Tuz",
+    "C": "Gaz",
+    "D": "Suv",
+    "javob": "A"
+  },
+  {
+    "savol": "DNK nima?",
+    "A": "Dezoksiribonuklein kislota",
+    "B": "Lipid",
+    "C": "Oqsil",
+    "D": "Tuz",
+    "javob": "A"
+  },
+  {
+    "savol": "RNK nima?",
+    "A": "Ribonuklein kislota",
+    "B": "Lipid",
+    "C": "Tuz",
+    "D": "Gaz",
+    "javob": "A"
+  },
+  {
+    "savol": "Nukleotid tarkibi?",
+    "A": "Azotli asos, shakar, fosfat",
+    "B": "Tuz",
+    "C": "Lipid",
+    "D": "Gaz",
+    "javob": "A"
+  },
+  {
+    "savol": "Nukleozid nima?",
+    "A": "Shakar + asos",
+    "B": "tuz",
+    "C": "lipid",
+    "D": "gaz",
+    "javob": "A"
+  },
+  {
+    "savol": "DNK vazifasi?",
+    "A": "Genetik axborot saqlash",
+    "B": "Energiya",
+    "C": "Tuz hosil qilish",
+    "D": "Rang",
+    "javob": "A"
+  },
+  {
+    "savol": "Lipidlar nima?",
+    "A": "Yog‘simon moddalar",
+    "B": "Tuz",
+    "C": "Gaz",
+    "D": "Suv",
+    "javob": "A"
+  },
+  {
+    "savol": "Sovunlanuvchi lipidlar?",
+    "A": "Yog‘lar va moylar",
+    "B": "Gazlar",
+    "C": "Tuzlar",
+    "D": "Suv",
+    "javob": "A"
+  },
+  {
+    "savol": "Sovunlanmaydigan lipidlar?",
+    "A": "Steroidlar",
+    "B": "Tuz",
+    "C": "Oqsil",
+    "D": "Karbon suv",
+    "javob": "A"
+  },
+  {
+    "savol": "Fosfolipid vazifasi?",
+    "A": "Membrana tuzilishi",
+    "B": "Energiya",
+    "C": "Rang",
+    "D": "Gaz",
+    "javob": "A"
+  },
+  {
+    "savol": "DNK joylashuvi?",
+    "A": "Yadroda",
+    "B": "Sitoplazmada faqat",
+    "C": "Membranada",
+    "D": "Ribosomada",
+    "javob": "A"
+  },
+  {
+    "savol": "RNK turlari?",
+    "A": "mRNK, tRNK, rRNK",
+    "B": "DNK",
+    "C": "lipid",
+    "D": "tuz",
+    "javob": "A"
+  },
+  {
+    "savol": "Lipidlarning asosiy xossasi?",
+    "A": "Suvda erimaslik",
+    "B": "Erish",
+    "C": "Gaz",
+    "D": "Tuz",
+    "javob": "A"
+  },
+  {
+    "savol": "Nuklein kislotalar monomeri?",
+    "A": "Nukleotid",
+    "B": "Aminokislota",
+    "C": "Glukoza",
+    "D": "Tuz",
+    "javob": "A"
+  },
+  {
+    "savol": "ATP nima?",
+    "A": "Energiya tashuvchi nukleotid",
+    "B": "Lipid",
+    "C": "Tuz",
+    "D": "Gaz",
+    "javob": "A"
+  },
+  {
+    "savol": "Ferment nima?",
+    "A": "Biologik katalizator",
+    "B": "Tuz",
+    "C": "Lipid",
+    "D": "Gaz",
+    "javob": "A"
+  },
+  {
+    "savol": "Fermentlar tarkibi?",
+    "A": "Oqsil",
+    "B": "Tuz",
+    "C": "Gaz",
+    "D": "Suv",
+    "javob": "A"
+  },
+  {
+    "savol": "Ferment xususiyati",
+    "A": "Yuqori spetsifiklik",
+    "B": "Tasodifiy",
+    "C": "Rangli",
+    "D": "Gaz",
+    "javob": "A"
+  },
+  {
+    "savol": "Ferment ta’sir mexanizmi?",
+    "A": "Aktivatsiya energiyasini kamaytiradi",
+    "B": "Oshiradi",
+    "C": "O‘zgartirmaydi",
+    "D": "Yo‘q qiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Enzim va ferment munosabati?",
+    "A": "Bir xil",
+    "B": "Turli",
+    "C": "Qarama-qarshi",
+    "D": "Aloqasiz",
+    "javob": "A"
+  },
+  {
+    "savol": "Vitamin nima?",
+    "A": "Biologik faol modda",
+    "B": "Tuz",
+    "C": "Gaz",
+    "D": "Suv",
+    "javob": "A"
+  },
+  {
+    "savol": "Vitaminlar vazifasi?",
+    "A": "Metabolizmni boshqarish",
+    "B": "Tuz hosil qilish",
+    "C": "Rang berish",
+    "D": "Gaz",
+    "javob": "A"
+  },
+  {
+    "savol": "Vitamin A yetishmasa?",
+    "A": "Ko‘rish buziladi",
+    "B": "Qon ko‘payadi",
+    "C": "Tuz oshadi",
+    "D": "Gaz",
+    "javob": "A"
+  },
+  {
+    "savol": "Vitamin C vazifasi?",
+    "A": "Immunitetni oshirish",
+    "B": "Rang berish",
+    "C": "Tuz",
+    "D": "Gaz",
+    "javob": "A"
+  },
+  {
+    "savol": "Vitamin D nima uchun kerak?",
+    "A": "Kalsiy almashinuvi",
+    "B": "Rang",
+    "C": "Tuz",
+    "D": "Gaz",
+    "javob": "A"
+  },
+  {
+    "savol": "Ferment faol markazi?",
+    "A": "Substrat bog‘lanadigan joy",
+    "B": "Rang",
+    "C": "Tuz",
+    "D": "Gaz",
+    "javob": "A"
+  },
+  {
+    "savol": "Fermentlar qaysi sharoitda faol?",
+    "A": "Optimal haroratda",
+    "B": "Har qanday",
+    "C": "Nol",
+    "D": "Juda past",
+    "javob": "A"
+  },
+  {
+    "savol": "Vitaminlar nechaga bo‘linadi?",
+    "A": "Suyuqlikda eruvchi va erimaydigan",
+    "B": "Tuz",
+    "C": "Gaz",
+    "D": "Lipid",
+    "javob": "A"
+  },
+  {
+    "savol": "Koferment nima?",
+    "A": "Ferment yordamchi qismi",
+    "B": "Tuz",
+    "C": "gaz",
+    "D": "suv",
+    "javob": "A"
+  },
+  {
+    "savol": "Fermentlar ahamiyati?",
+    "A": "Biokimyoviy reaksiyalarni tezlashtiradi",
+    "B": "To‘xtatadi",
+    "C": "Rang beradi",
+    "D": "Gaz hosil qiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Monosaxaridlar qanday moddalarga kiradi?",
+    "A": "Oddiy uglevodlar",
+    "B": "Murakkab oqsillar",
+    "C": "Yog‘lar",
+    "D": "Nuklein kislotalar",
+    "javob": "A"
+  },
+  {
+    "savol": "Eng muhim monosaxarid qaysi?",
+    "A": "Glyukoza",
+    "B": "Laktoza",
+    "C": "Saxaroza",
+    "D": "Kraxmal",
+    "javob": "A"
+  },
+  {
+    "savol": "Glyukoza organizmda nima vazifani bajaradi?",
+    "A": "Energiya manbai",
+    "B": "Ferment",
+    "C": "Gormon",
+    "D": "Vitamin",
+    "javob": "A"
+  },
+  {
+    "savol": "Fruktoza qaysi guruhga kiradi?",
+    "A": "Ketozalar",
+    "B": "Aldozalar",
+    "C": "Aminokislotalar",
+    "D": "Lipidlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Glyukoza qaysi organda zaxira holatda to‘planadi?",
+    "A": "Jigar",
+    "B": "Yurak",
+    "C": "O‘pka",
+    "D": "Buyrak",
+    "javob": "A"
+  },
+  {
+    "savol": "Monosaxaridlar suvda qanday eriydi",
+    "A": "Yaxshi eriydi",
+    "B": "Erimaydi",
+    "C": "Qisman eriydi",
+    "D": "qizdirilganda eriydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Glyukoza qanday reaksiya beradi?",
+    "A": "“Kumush ko‘zgusi” reaksiyasi",
+    "B": "Neytrallanish",
+    "C": "Polimerlanish",
+    "D": "Esterifikatsiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Monosaxaridlarning optik xossasi:",
+    "A": "Optik faol",
+    "B": "Faol emas",
+    "C": "Radioaktiv",
+    "D": "Paramagnit",
+    "javob": "A"
+  },
+  {
+    "savol": "Glyukoza qonda qanday shaklda mavjud?",
+    "A": "Eritilgan holda",
+    "B": "Kristall holatda",
+    "C": "Gaz holatda",
+    "D": "Qattiq modda",
+    "javob": "A"
+  },
+  {
+    "savol": "Monosaxaridlar parchalanganda nima hosil bo‘ladi?",
+    "A": "Energiya",
+    "B": "Ferment",
+    "C": "Gormon",
+    "D": "Mineral",
+    "javob": "A"
+  },
+  {
+    "savol": "Glyukoza qaysi tizim uchun muhim?",
+    "A": "Asab tizimi",
+    "B": "Skelet tizimi",
+    "C": "Mushak tizimi",
+    "D": "Nafas tizimi",
+    "javob": "A"
+  },
+  {
+    "savol": "Monosaxaridlar qanday ta’mga ega?",
+    "A": "Shirin",
+    "B": "Achchiq",
+    "C": "Nordon",
+    "D": "Tuzli",
+    "javob": "A"
+  },
+  {
+    "savol": "Glyukoza tibbiyotda nima sifatida ishlatiladi?",
+    "A": "Infuzion eritma",
+    "B": "Antibiotik",
+    "C": "Gormon",
+    "D": "Antiseptik",
+    "javob": "A"
+  },
+  {
+    "savol": "Aminokislotalar tarkibida qanday guruhlar mavjud?",
+    "A": "–NH₂ va –COOH",
+    "B": "OH va –CH₃",
+    "C": "–COOH va –CHO",
+    "D": "–NH₂ va –OH",
+    "javob": "A"
+  },
+  {
+    "savol": "α-aminokislotalarda aminoguruh qayerda joylashadi?",
+    "A": "α-uglerodda",
+    "B": "β-uglerodda",
+    "C": "γ-uglerodda",
+    "D": "Oxirgi uglerodda",
+    "javob": "A"
+  },
+  {
+    "savol": "Aminokislotalarning umumiy formulasi:",
+    "A": "NH₂–CH(R)–COOH",
+    "B": "CH₃–COOH",
+    "C": "C₂H₅OH",
+    "D": "C₆H₁₂O₆",
+    "javob": "A"
+  }
+]
