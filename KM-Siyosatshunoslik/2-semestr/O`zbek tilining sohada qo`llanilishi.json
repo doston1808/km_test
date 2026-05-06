@@ -1,0 +1,1914 @@
+[
+  {
+    "savol": "O‘zbek tilini o‘qitishning asosiy maqsadi nima?",
+    "A": "Talabaning nutqiy savodxonligini oshirish",
+    "B": "To’g’ri yozishni o‘rgatish",
+    "C": "To’g’ri gap tuzishni o‘rgatish",
+    "D": "Tarjima qilish",
+    "javob": "A"
+  },
+  {
+    "savol": "Til qanday hodisa hisoblanadi?",
+    "A": "Ijtimoiy hodisa",
+    "B": "Shaxsiy hodisa",
+    "C": "Tabiiy hodisa",
+    "D": "Tasodifiy hodisa",
+    "javob": "A"
+  },
+  {
+    "savol": "Tilning kommunikativ vazifasi nima?",
+    "A": "Axborot almashish",
+    "B": "His-tuyg‘u bildirish",
+    "C": "So‘z yodlash",
+    "D": "Matn yozish",
+    "javob": "A"
+  },
+  {
+    "savol": "Ekspressiv vazifa nimani bildiradi?",
+    "A": "Hissiy ta’sir ifodasi",
+    "B": "gap tuzish",
+    "C": "So‘z yodlash",
+    "D": "Tinglash",
+    "javob": "A"
+  },
+  {
+    "savol": "Akkumulyativ vazifa nimaga xizmat qiladi?",
+    "A": "Bilimlarni to‘plash va uzatish",
+    "B": "So‘zlarni ifodali aytish",
+    "C": "Talaffuz qilish",
+    "D": "Savol berish",
+    "javob": "A"
+  },
+  {
+    "savol": "Til me’yori nima?",
+    "A": "To‘g‘ri qo‘llanish shakli",
+    "B": "Oddiy nutq",
+    "C": "Sheva nutqi",
+    "D": "Erkin nutq",
+    "javob": "A"
+  },
+  {
+    "savol": "Leksik me’yor nimani o‘rganadi?",
+    "A": "So‘z ma’nosini",
+    "B": "Tovushni",
+    "C": "Harfni",
+    "D": "Urg‘uni",
+    "javob": "A"
+  },
+  {
+    "savol": "Orfoepik me’yor nimani belgilaydi?",
+    "A": "To‘g‘ri talaffuzni",
+    "B": "To‘g‘ri yozuvni",
+    "C": "So‘z ma’nosini",
+    "D": "Gap tuzilishini",
+    "javob": "A"
+  },
+  {
+    "savol": "Orfografik me’yor nima?",
+    "A": "To‘g‘ri yozish qoidasi",
+    "B": "To‘g‘ri gap tuzish",
+    "C": "Talaffuz",
+    "D": "Urg‘u",
+    "javob": "A"
+  },
+  {
+    "savol": "Aksentologik me’yor nimani o‘rganadi?",
+    "A": "Urg‘uni",
+    "B": "Harfni",
+    "C": "Gapni",
+    "D": "Matnni",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘zbek tilida urg‘u qayerga tushadi?",
+    "A": "So‘z oxiriga",
+    "B": "So‘z boshiga",
+    "C": "O‘rtasiga",
+    "D": "Har doim bir xil",
+    "javob": "A"
+  },
+  {
+    "savol": "Grammatik me’yor nimani belgilaydi?",
+    "A": "Gap tuzilishini",
+    "B": "So‘z talaffuzini",
+    "C": "Harf yozilishini",
+    "D": "Urg‘uni",
+    "javob": "A"
+  },
+  {
+    "savol": "Uslubiy me’yor nimaga bog‘liq?",
+    "A": "Vaziyat va maqsadga",
+    "B": "So‘zga",
+    "C": "Harfga",
+    "D": "Talaffuzga",
+    "javob": "A"
+  },
+  {
+    "savol": "Punktuatsion me’yor nimani o‘rganadi?",
+    "A": "Tinish belgilarini",
+    "B": "So‘z ma’nosini",
+    "C": "Harfni",
+    "D": "Urg‘uni",
+    "javob": "A"
+  },
+  {
+    "savol": "So‘z yasalish me’yori nima?",
+    "A": "Yangi so‘z yasash",
+    "B": "Gap tuzish",
+    "C": "So‘z o‘qish",
+    "D": "Matn yozish",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutqning sofligi nima?",
+    "A": "Begona unsurlardan xoli nutq",
+    "B": "Shevali nutq",
+    "C": "Aralash nutq",
+    "D": "Oddiy nutq",
+    "javob": "A"
+  },
+  {
+    "savol": "Varvarizm nima?",
+    "A": "O‘rinsiz chet so‘z",
+    "B": "Sheva so‘z",
+    "C": "Adabiy so‘z",
+    "D": "Sinonim",
+    "javob": "A"
+  },
+  {
+    "savol": "Vulgarizm nima?",
+    "A": "Qo‘pol so‘z",
+    "B": "Ilmiy so‘z",
+    "C": "Sheva so‘z",
+    "D": "Sinonim",
+    "javob": "A"
+  },
+  {
+    "savol": "Jargon nima?",
+    "A": "Guruhga xos so‘zlar",
+    "B": "Adabiy til",
+    "C": "Ilmiy so‘z",
+    "D": "Termin",
+    "javob": "A"
+  },
+  {
+    "savol": "Orfoepiya nimani o‘rganadi?",
+    "A": "Talaffuzni",
+    "B": "Yozuvni",
+    "C": "So‘z ma’nosini",
+    "D": "Gap tuzilishini",
+    "javob": "A"
+  },
+  {
+    "savol": "Imlo qoidalari qachon tasdiqlangan?",
+    "A": "1995-yil avgust",
+    "B": "1995-yil sentabr",
+    "C": "1990-yil",
+    "D": "1985-yil",
+    "javob": "A"
+  },
+  {
+    "savol": "Imlo qoidalari nechta bo‘limdan iborat?",
+    "A": "7 ta",
+    "B": "5 ta",
+    "C": "82 ta",
+    "D": "8 ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Imlo qoidalari nechta qoidani o‘z ichiga oladi?",
+    "A": "82 ta",
+    "B": "52 ta",
+    "C": "72 ta",
+    "D": "60 ta",
+    "javob": "A"
+  },
+  {
+    "savol": "“kitob” so‘zining talaffuzi qanday?",
+    "A": "kitop",
+    "B": "kitob",
+    "C": "kitobh",
+    "D": "kitav",
+    "javob": "A"
+  },
+  {
+    "savol": "“ta’lim” qaysi me’yorga misol?",
+    "A": "Orfografik",
+    "B": "Fonetik",
+    "C": "Uslubiy",
+    "D": "Punktuatsion",
+    "javob": "A"
+  },
+  {
+    "savol": "“Men kitob o‘qidim” qaysi me’yor?",
+    "A": "Grammatik",
+    "B": "Leksik",
+    "C": "Fonetik",
+    "D": "Uslubiy",
+    "javob": "A"
+  },
+  {
+    "savol": "“Bilim bo‘lsa, imkon bo‘ladi” qaysi me’yor?",
+    "A": "Punktuatsion",
+    "B": "Leksik",
+    "C": "Fonetik",
+    "D": "Grammatik",
+    "javob": "A"
+  },
+  {
+    "savol": "“tadqiq etildi” qaysi uslub?",
+    "A": "Ilmiy",
+    "B": "So‘zlashuv",
+    "C": "Oddiy",
+    "D": "Sheva",
+    "javob": "A"
+  },
+  {
+    "savol": "“o‘rganildi” qaysi uslub?",
+    "A": "So‘zlashuv",
+    "B": "Ilmiy",
+    "C": "Rasmiy",
+    "D": "Badiiy",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq madaniyati nimani oshiradi?",
+    "A": "To‘g‘ri nutqni",
+    "B": "Xato nutqni",
+    "C": "Oddiy nutqni",
+    "D": "Sheva nutqini",
+    "javob": "A"
+  },
+  {
+    "savol": "Sheva nutqi nimaga zarar?",
+    "A": "Sof nutqqa",
+    "B": "To‘g‘ri nutqqa emas",
+    "C": "Ilmiy nutqqa emas",
+    "D": "Hech qaysiga",
+    "javob": "A"
+  },
+  {
+    "savol": "“znachit” qaysi turga kiradi?",
+    "A": "Varvarizm",
+    "B": "Jargon",
+    "C": "Vulgarizm",
+    "D": "Termin",
+    "javob": "A"
+  },
+  {
+    "savol": "“yer yutkur” qaysi turga kiradi?",
+    "A": "Vulgarizm",
+    "B": "Jargon",
+    "C": "Varvarizm",
+    "D": "Sinonim",
+    "javob": "A"
+  },
+  {
+    "savol": "“ok” qaysi turga kiradi?",
+    "A": "Jargon",
+    "B": "Termin",
+    "C": "Varvarizm",
+    "D": "Sinonim",
+    "javob": "A"
+  },
+  {
+    "savol": "“bilim→bilimli” nimaga misol?",
+    "A": "So‘z yasalish",
+    "B": "Leksik",
+    "C": "Fonetik",
+    "D": "Uslubiy",
+    "javob": "A"
+  },
+  {
+    "savol": "“ish→ishchi” nimaga misol?",
+    "A": "So‘z yasalish",
+    "B": "Fonetik",
+    "C": "Uslubiy",
+    "D": "Punktuatsion",
+    "javob": "A"
+  },
+  {
+    "savol": "Tutuq belgisi nima vazifa bajaradi?",
+    "A": "Ajratish",
+    "B": "Qo‘shish",
+    "C": "O‘zgartirish",
+    "D": "Yo‘qotish",
+    "javob": "A"
+  },
+  {
+    "savol": "“san’at” qanday yoziladi?",
+    "A": "Tutuq bilan",
+    "B": "Tutuqsiz",
+    "C": "Defis bilan",
+    "D": "Vergul bilan",
+    "javob": "A"
+  },
+  {
+    "savol": "“5-sinf” qanday yoziladi?",
+    "A": "Chiziqcha bilan",
+    "B": "Ajratib",
+    "C": "Qo‘shib",
+    "D": "Vergul bilan",
+    "javob": "A"
+  },
+  {
+    "savol": "“qabulxona” qanday yoziladi?",
+    "A": "Qo‘shib",
+    "B": "Ajratib",
+    "C": "Chiziqcha bilan",
+    "D": "Vergul bilan",
+    "javob": "A"
+  },
+  {
+    "savol": "“olaqarg‘a” qanday yoziladi?",
+    "A": "Qo‘shib",
+    "B": "Ajratib",
+    "C": "Defis bilan",
+    "D": "Vergul bilan",
+    "javob": "A"
+  },
+  {
+    "savol": "“uy-ro‘zg‘or” qanday yoziladi?",
+    "A": "Defis bilan",
+    "B": "Qo‘shib",
+    "C": "Ajratib",
+    "D": "Vergul bilan",
+    "javob": "A"
+  },
+  {
+    "savol": "“Navro‘z” qanday yoziladi?",
+    "A": "Bosh harf bilan",
+    "B": "Kichik harf",
+    "C": "Defis bilan",
+    "D": "Vergul bilan",
+    "javob": "A"
+  },
+  {
+    "savol": "“Fan va texnika davlat qo‘mitasi” qanday yoziladi?",
+    "A": "Birinchi so‘z bosh harf",
+    "B": "Hammasi katta",
+    "C": "Hammasi kichik",
+    "D": "Defis bilan",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutqning asosiy vazifasi nima?",
+    "A": "Aloqa qilish",
+    "B": "yozish",
+    "C": "o‘qish",
+    "D": "tinglash",
+    "javob": "A"
+  },
+  {
+    "savol": "Talaba nimaga ega bo‘lishi kerak?",
+    "A": "Nutqiy savodxonlik",
+    "B": "yozuv",
+    "C": "talaffuz",
+    "D": "o‘qish",
+    "javob": "A"
+  },
+  {
+    "savol": "Kasbiy nutq nima?",
+    "A": "Sohaga oid nutq",
+    "B": "Oddiy nutq",
+    "C": "Sheva nutq",
+    "D": "Aralash nutq",
+    "javob": "A"
+  },
+  {
+    "savol": "Matn tuzish nimaga kiradi?",
+    "A": "Nutqiy ko‘nikma",
+    "B": "Fonetik ko‘nikma",
+    "C": "Talaffuz",
+    "D": "Urg‘u",
+    "javob": "A"
+  },
+  {
+    "savol": "Axborotni tushunish nimani rivojlantiradi?",
+    "A": "Tafakkurni",
+    "B": "Talaffuzni",
+    "C": "Yozuvni",
+    "D": "Urg‘uni",
+    "javob": "A"
+  },
+  {
+    "savol": "Tanqidiy fikrlash nima?",
+    "A": "Tahliliy yondashuv",
+    "B": "Oddiy fikr",
+    "C": "Sheva fikr",
+    "D": "Qisqa fikr",
+    "javob": "A"
+  },
+  {
+    "savol": "Og‘zaki nutq nima?",
+    "A": "Gapirish",
+    "B": "Yozish",
+    "C": "O‘qish",
+    "D": "Tinglash",
+    "javob": "A"
+  },
+  {
+    "savol": "Yozma nutq nima?",
+    "A": "Yozish",
+    "B": "Gapirish",
+    "C": "Tinglash",
+    "D": "Ko‘rish",
+    "javob": "A"
+  },
+  {
+    "savol": "Adabiy til nima?",
+    "A": "Me’yoriy til",
+    "B": "Sheva til",
+    "C": "Oddiy til",
+    "D": "Aralash til",
+    "javob": "A"
+  },
+  {
+    "savol": "Til nima uchun kerak?",
+    "A": "Muloqot uchun",
+    "B": "O‘yin uchun",
+    "C": "Dam olish uchun",
+    "D": "yozish",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq nima?",
+    "A": "Tilning amaliy ko‘rinishi",
+    "B": "Tilning qoidasi",
+    "C": "Harf",
+    "D": "So‘z",
+    "javob": "A"
+  },
+  {
+    "savol": "So‘z nima?",
+    "A": "Ma’no bildiruvchi birlik",
+    "B": "Harf",
+    "C": "Gap",
+    "D": "Matn",
+    "javob": "A"
+  },
+  {
+    "savol": "Gap nima?",
+    "A": "Tugallangan fikr",
+    "B": "So‘z",
+    "C": "Harf",
+    "D": "Matn",
+    "javob": "A"
+  },
+  {
+    "savol": "Matn nima?",
+    "A": "Bir nechta gaplar yig‘indisi",
+    "B": "So‘z",
+    "C": "Harf",
+    "D": "Gap",
+    "javob": "A"
+  },
+  {
+    "savol": "Talaffuz nima?",
+    "A": "Og‘zaki aytish",
+    "B": "Yozish",
+    "C": "O‘qish",
+    "D": "Tinglash",
+    "javob": "A"
+  },
+  {
+    "savol": "Harf nima?",
+    "A": "Yozuv belgisi",
+    "B": "So‘z",
+    "C": "Gap",
+    "D": "Matn",
+    "javob": "A"
+  },
+  {
+    "savol": "Tovush nima?",
+    "A": "Nutq elementi",
+    "B": "Harf",
+    "C": "Gap",
+    "D": "Matn",
+    "javob": "A"
+  },
+  {
+    "savol": "Urg‘u nima?",
+    "A": "Ajratib aytish",
+    "B": "Qo‘shib aytish",
+    "C": "Yozish",
+    "D": "O‘qish",
+    "javob": "A"
+  },
+  {
+    "savol": "Savodxonlik nima?",
+    "A": "To‘g‘ri yozish va gapirish",
+    "B": "Yozish",
+    "C": "Gapirish",
+    "D": "O‘qish",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi hujjatda sodir bo‘lgan holatning sababi subyektiv tarzda bayon qilinadi",
+    "A": "Tushuntirish xati",
+    "B": "Dalolatnoma",
+    "C": "Bayonnoma",
+    "D": "Buyruq",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi hujjatda shaxsning ijobiy va salbiy jihatlari birgalikda yoritiladi",
+    "A": "Tavsifnoma",
+    "B": "Tavsiyanoma",
+    "C": "Ma’lumotnoma",
+    "D": "Ariza",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi hujjatda bahodan ko‘ra yo‘naltirish maqsadi ustun turadi",
+    "A": "Tavsiyanoma",
+    "B": "Tavsifnoma",
+    "C": "Dalolatnoma",
+    "D": "Bayonnoma",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi hujjatda huquqiy vakolat boshqa shaxsga o‘tkaziladi",
+    "A": "Ishonchnoma",
+    "B": "Buyruq",
+    "C": "Ariza",
+    "D": "Bayonnoma",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi hujjatda umumiy axborot beriladi, lekin baholash mavjud emas",
+    "A": "Ma’lumotnoma",
+    "B": "Tavsifnoma",
+    "C": "Tavsiyanoma",
+    "D": "Dalolatnoma",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi hujjatda yig‘ilishdagi nutqlar va qarorlar ketma-ket yoziladi",
+    "A": "Bayonnoma",
+    "B": "Dalolatnoma",
+    "C": "Buyruq",
+    "D": "Ma’lumotnoma",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi hujjatda rahbarning irodasi majburiy kuchga ega bo‘ladi",
+    "A": "Buyruq",
+    "B": "Farmoyish",
+    "C": "Bayonnoma",
+    "D": "Tavsiyanoma",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi hujjatda tezkor topshiriq beriladi va doimiy emas",
+    "A": "Farmoyish",
+    "B": "Buyruq",
+    "C": "Bayonnoma",
+    "D": "Dalolatnoma",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi hujjatda guvohlar ishtiroki majburiy bo‘lishi mumkin",
+    "A": "Dalolatnoma",
+    "B": "Bayonnoma",
+    "C": "Ariza",
+    "D": "Tavsifnoma",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi hujjatda muallif o‘zini oqlashi yoki izoh berishi mumkin",
+    "A": "Tushuntirish xati",
+    "B": "Dalolatnoma",
+    "C": "Bayonnoma",
+    "D": "Buyruq",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi hujjatda shaxs haqida tashqi tashkilot uchun ma’lumot beriladi",
+    "A": "Tavsifnoma",
+    "B": "Ariza",
+    "C": "Bayonnoma",
+    "D": "Buyruq",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi hujjatda voqea natijasi qayd etiladi, lekin sabab izohlanmaydi",
+    "A": "Dalolatnoma",
+    "B": "Tushuntirish xati",
+    "C": "Bayonnoma",
+    "D": "Tavsiyanoma",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi hujjatda shaxsning kelajak faoliyati uchun tavsiya beriladi",
+    "A": "Tavsiyanoma",
+    "B": "Tavsifnoma",
+    "C": "Ariza",
+    "D": "Dalolatnoma",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi hujjatda qaror qabul qilish jarayoni aks etadi",
+    "A": "Bayonnoma",
+    "B": "Dalolatnoma",
+    "C": "Buyruq",
+    "D": "Ma’lumotnoma",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi hujjatda rasmiy topshiriq beriladi, lekin muhokama bo‘lmaydi",
+    "A": "Buyruq",
+    "B": "Framoyish",
+    "C": "Korsatma",
+    "D": "Yoriqnoma",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi hujjatda aniq faktlar asosida rasmiy xulosa chiqariladi",
+    "A": "Dalolatnoma",
+    "B": "Tavsifnoma",
+    "C": "Ariza",
+    "D": "Tavsiyanoma",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi hujjatda shaxsning ichki fikri va izohi ustun turadi",
+    "A": "Tushuntirish xati",
+    "B": "Dalolatnoma",
+    "C": "Bayonnoma",
+    "D": "Buyruq",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi hujjatda rasmiy yig‘ilish tartibi va ishtirokchilar qayd etiladi",
+    "A": "Bayonnoma",
+    "B": "Dalolatnoma",
+    "C": "Ariza",
+    "D": "Tavsifnoma",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi hujjatda muayyan tashkilot nomidan baho beriladi",
+    "A": "Tavsifnoma",
+    "B": "Ishonchnoma",
+    "C": "Ariza",
+    "D": "Ma’lumotnoma",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi hujjatda vakolat vaqtinchalik berilishi mumkin",
+    "A": "Ishonchnoma",
+    "B": "Buyruq",
+    "C": "Bayonnoma",
+    "D": "Tavsifnoma",
+    "javob": "A"
+  },
+  {
+    "savol": "Ilmiy uslubda ko’incha qaysi uslub qo’llaniladi",
+    "A": "Aniq va majhul",
+    "B": "Birgalik va aniq",
+    "C": "Aniq va orttirma",
+    "D": "Majhul va birgalik",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi uslubda terminlar va formulalar ustun hisoblanadi",
+    "A": "Ilmiy uslub",
+    "B": "Badiiy uslub",
+    "C": "So‘zlashuv uslubi",
+    "D": "Publitsistik uslub",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi uslubda obrazli vositalar deyarli qo‘llanmaydi",
+    "A": "Ilmiy uslub",
+    "B": "Badiiy uslub",
+    "C": "Publitsistik uslub",
+    "D": "So‘zlashuv uslubi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi uslubda mantiqiylik va aniqlik asosiy belgi hisoblanadi",
+    "A": "Ilmiy uslub",
+    "B": "Badiiy uslub",
+    "C": "So‘zlashuv uslubi",
+    "D": "Publitsistik uslub",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi uslubda hissiy-ta’sirchanlik ustun bo‘ladi",
+    "A": "Badiiy uslub",
+    "B": "Ilmiy uslub",
+    "C": "Rasmiy uslub",
+    "D": "Ilmiy-ommabop uslub",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi uslubda huquqiy hujjatlar yoziladi",
+    "A": "Rasmiy uslub",
+    "B": "Badiiy uslub",
+    "C": "So‘zlashuv uslubi",
+    "D": "Publitsistik uslub",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi uslubda kundalik muloqot amalga oshiriladi",
+    "A": "So‘zlashuv uslubi",
+    "B": "Ilmiy uslub",
+    "C": "Rasmiy uslub",
+    "D": "Publitsistik uslub",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi uslubda ijtimoiy fikrga ta’sir qilish maqsadi ustun",
+    "A": "Publitsistik uslub",
+    "B": "Ilmiy uslub",
+    "C": "Rasmiy uslub",
+    "D": "So‘zlashuv uslubi",
+    "javob": "A"
+  },
+  {
+    "savol": "Termin qanday birlik hisoblanadi",
+    "A": "Maxsus tushunchani birlik",
+    "B": "Obrazli ifodani bildiruvchi birlik",
+    "C": "Ko‘chma ma’noni bildiruvchi birlik",
+    "D": "Hissiy ifodani bildiruvchi birlik",
+    "javob": "A"
+  },
+  {
+    "savol": "Termin qaysi xususiyatga ega",
+    "A": "Bir ma’nolilik xususiyatiga ega",
+    "B": "Ko‘p ma’nolilik xususiyatiga ega",
+    "C": "Emotsionallik xususiyatiga ega",
+    "D": "Obrazlilik xususiyatiga ega",
+    "javob": "A"
+  },
+  {
+    "savol": "Terminologik leksika nima",
+    "A": "Terminlar yig‘indisi",
+    "B": "Sinonimlar yig‘indisi",
+    "C": "Frazeologizmlar yig‘indisi",
+    "D": "Dialekt so‘zlar yig‘indisi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ilmiy uslubda fe’llar ko‘proq qaysi zamonda keladi",
+    "A": "Hozirgi zamon",
+    "B": "O‘tgan zamon",
+    "C": "Kelasi zamon",
+    "D": "Shart mayli",
+    "javob": "A"
+  },
+  {
+    "savol": "Ilmiy uslubda qaysi nisbat faol ishlatiladi",
+    "A": "Majhul nisbat",
+    "B": "Faol nisbat",
+    "C": "Buyruq nisbat",
+    "D": "Istak nisbat",
+    "javob": "A"
+  },
+  {
+    "savol": "Ilmiy uslubda gaplar qanday bo‘ladi",
+    "A": "Murakkab va izohli",
+    "B": "Qisqa va hissiy",
+    "C": "Oddiy va emotsional",
+    "D": "Erkin va dialogik",
+    "javob": "A"
+  },
+  {
+    "savol": "Ilmiy uslubda asosiy e’tibor nimaga qaratiladi",
+    "A": "Natija va jarayonga",
+    "B": "Shaxs va hissiyotga",
+    "C": "Obraz va tasvirga",
+    "D": "Dialog va nutqqa",
+    "javob": "A"
+  },
+  {
+    "savol": "Ilmiy uslubda qaysi birlik yetakchi",
+    "A": "Ot va otlashgan birliklar",
+    "B": "Fe’l va ravishlar",
+    "C": "Sifat va olmoshlar",
+    "D": "Undov va yuklamalar",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi gap ilmiy uslubga mos",
+    "A": "Fotosintez jarayoni natijasida organik modda hosil bo‘ladi",
+    "B": "Quyosh o‘simliklarga jon bag‘ishlaydi",
+    "C": "O‘simliklar juda chiroyli o‘sadi",
+    "D": "Quyosh dalani uyg‘otadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi gap rasmiy uslubga mos",
+    "A": "Hujjat ertaga taqdim etiladi",
+    "B": "Men hujjatni ertaga beraman",
+    "C": "Hujjatni topolmayapman",
+    "D": "Keyin olib kelaman",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi gap so‘zlashuv uslubiga mos",
+    "A": "Uchrashuv uchda boshlanadi",
+    "B": "Uchrashuv 15:00 da boshlanishi rejalashtirilgan",
+    "C": "Uchrashuv boshlanishi belgilangan",
+    "D": "Uchrashuv vaqti tasdiqlangan",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi uslubda dialog shakli ustun",
+    "A": "So‘zlashuv uslubi",
+    "B": "Ilmiy uslub",
+    "C": "Rasmiy uslub",
+    "D": "Publitsistik uslub",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi uslubda ta’rif va qoida ko‘p uchraydi",
+    "A": "Ilmiy uslub",
+    "B": "Badiiy uslub",
+    "C": "So‘zlashuv uslubi",
+    "D": "Publitsistik uslub",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi uslubda hissiy bo‘yoq kam bo‘ladi",
+    "A": "Ilmiy uslub",
+    "B": "Badiiy uslub",
+    "C": "Publitsistik uslub",
+    "D": "So‘zlashuv uslubi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi uslubda murakkab gaplar ko‘p qo‘llanadi",
+    "A": "Ilmiy uslub",
+    "B": "So‘zlashuv uslubi",
+    "C": "Badiiy uslub",
+    "D": "Publitsistik uslub",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi uslubda sabab-natija munosabati keng qo‘llanadi",
+    "A": "Ilmiy uslub",
+    "B": "Badiiy uslub",
+    "C": "So‘zlashuv uslubi",
+    "D": "Publitsistik uslub",
+    "javob": "A"
+  },
+  {
+    "savol": "Termin ko‘pincha qaysi turkumga mansub",
+    "A": "Ot turkumi",
+    "B": "Fe’l turkumi",
+    "C": "Ravish turkumi",
+    "D": "Olmosh turkumi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi termin bir nechta sohada qo‘llanishi mumkin",
+    "A": "Valentlik",
+    "B": "Morfema",
+    "C": "Sintaksis",
+    "D": "Fe’l",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi uslubda monolog ustun",
+    "A": "Ilmiy uslub",
+    "B": "So‘zlashuv uslubi",
+    "C": "Dialog uslubi",
+    "D": "Badiiy uslub",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi uslubda ko‘chma ma’nolar kam qo‘llanadi",
+    "A": "Ilmiy uslub",
+    "B": "Badiiy uslub",
+    "C": "Publitsistik uslub",
+    "D": "So‘zlashuv uslubi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi uslubda abstrakt tushunchalar ko‘p",
+    "A": "Ilmiy uslub",
+    "B": "So‘zlashuv uslubi",
+    "C": "Badiiy uslub",
+    "D": "Publitsistik uslub",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi uslubda mantiqiy izchillik muhim",
+    "A": "Ilmiy uslub",
+    "B": "Badiiy uslub",
+    "C": "So‘zlashuv uslubi",
+    "D": "Publitsistik uslub",
+    "javob": "A"
+  },
+  {
+    "savol": "Rasmiy uslub ma’nosiga ko’ra nechiga bo’linadi?",
+    "A": "Sof qonunchilik va idoraviy",
+    "B": "Ichki va tashqi",
+    "C": "Sodda va Murakkab turlarga",
+    "D": "Shaxsi aniq va shaxsi umumlashgan",
+    "javob": "A"
+  },
+  {
+    "savol": "Buyruq istak mayli qoshimchasi qaysi",
+    "A": "-sin",
+    "B": "-n/in",
+    "C": "-l/il",
+    "D": "-tir/dir",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi uslubda terminlar tizimli va qat’iy qo‘llanadi",
+    "A": "ilmiy uslubda terminlar tizimli va qat’iy qo‘llanadi",
+    "B": "rasmiy uslubda terminlar tizimli va qat’iy qo‘llanadi",
+    "C": "badiiy uslubda terminlar tizimli va qat’iy qo‘llanadi",
+    "D": "so‘zlashuv uslubida terminlar tizimli va qat’iy qo‘llanadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi uslubda huquqiy aniqlik va normativlik ustun bo‘ladi",
+    "A": "rasmiy uslubda huquqiy aniqlik va normativlik ustun bo‘ladi",
+    "B": "ilmiy uslubda huquqiy aniqlik va normativlik ustun bo‘ladi",
+    "C": "badiiy uslubda huquqiy aniqlik va normativlik ustun bo‘ladi",
+    "D": "publitsistik uslubda huquqiy aniqlik va normativlik ustun bo‘ladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi uslubda abstraksiya va umumlashtirish kuchli bo‘ladi",
+    "A": "ilmiy uslubda abstraksiya va umumlashtirish kuchli bo‘ladi",
+    "B": "rasmiy uslubda abstraksiya va umumlashtirish kuchli bo‘ladi",
+    "C": "badiiy uslubda abstraksiya va umumlashtirish kuchli bo‘ladi",
+    "D": "so‘zlashuv uslubida abstraksiya va umumlashtirish kuchli bo‘ladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi uslubda qoliplilik hujjatning kuchini belgilaydi",
+    "A": "rasmiy uslubda qoliplilik hujjatning kuchini belgilaydi",
+    "B": "ilmiy uslubda qoliplilik hujjatning kuchini belgilaydi",
+    "C": "badiiy uslubda qoliplilik hujjatning kuchini belgilaydi",
+    "D": "so‘zlashuv uslubida qoliplilik hujjatning kuchini belgilaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi uslubda ko‘chma ma’noli birliklar deyarli ishlatilmaydi",
+    "A": "ilmiy uslubda ko‘chma ma’noli birliklar deyarli ishlatilmaydi",
+    "B": "badiiy uslubda ko‘chma ma’noli birliklar deyarli ishlatilmaydi",
+    "C": "so‘zlashuv uslubida ko‘chma ma’noli birliklar deyarli ishlatilmaydi",
+    "D": "publitsistik uslubda ko‘chma ma’noli birliklar deyarli ishlatilmaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi uslubda majhul nisbat normativlikni kuchaytiradi",
+    "A": "rasmiy uslubda majhul nisbat normativlikni kuchaytiradi",
+    "B": "ilmiy uslubda majhul nisbat normativlikni kuchaytiradi",
+    "C": "badiiy uslubda majhul nisbat normativlikni kuchaytiradi",
+    "D": "so‘zlashuv uslubida majhul nisbat normativlikni kuchaytiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi uslubda monologik nutq ustun va dialog kam uchraydi",
+    "A": "ilmiy uslubda monologik nutq ustun va dialog kam uchraydi",
+    "B": "so‘zlashuv uslubida monologik nutq ustun va dialog kam uchraydi",
+    "C": "badiiy uslubda monologik nutq ustun va dialog kam uchraydi",
+    "D": "publitsistik uslubda monologik nutq ustun va dialog kam uchraydi",
+    "javob": "A"
+  },
+  {
+    "savol": "-n/-l qaysi nisbatga tegishli",
+    "A": "majhul",
+    "B": "aniq",
+    "C": "birgalik",
+    "D": "orttirma",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi uslubda tushunchalar qat’iy va aniq ifodalanadi",
+    "A": "ilmiy uslubda tushunchalar qat’iy va aniq ifodalanadi",
+    "B": "rasmiy uslubda tushunchalar qat’iy va aniq ifodalanadi",
+    "C": "badiiy uslubda tushunchalar qat’iy va aniq ifodalanadi",
+    "D": "so‘zlashuv uslubida tushunchalar qat’iy va aniq ifodalanadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi uslubda hissiylik minimal darajada saqlanadi",
+    "A": "ilmiy uslubda hissiylik minimal darajada saqlanadi",
+    "B": "badiiy uslubda hissiylik minimal darajada saqlanadi",
+    "C": "so‘zlashuv uslubida hissiylik minimal darajada saqlanadi",
+    "D": "publitsistik uslubda hissiylik minimal darajada saqlanadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi uslubda standart birikmalar qat’iy saqlanadi",
+    "A": "rasmiy uslubda standart birikmalar qat’iy saqlanadi",
+    "B": "ilmiy uslubda standart birikmalar qat’iy saqlanadi",
+    "C": "badiiy uslubda standart birikmalar qat’iy saqlanadi",
+    "D": "so‘zlashuv uslubida standart birikmalar qat’iy saqlanadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi uslubda terminlar bir ma’nolilikka intiladi",
+    "A": "ilmiy uslubda terminlar bir ma’nolilikka intiladi",
+    "B": "rasmiy uslubda terminlar bir ma’nolilikka intiladi",
+    "C": "badiiy uslubda terminlar bir ma’nolilikka intiladi",
+    "D": "so‘zlashuv uslubida terminlar bir ma’nolilikka intiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi uslubda hujjatlar yozma shaklda ustun hisoblanadi",
+    "A": "rasmiy uslubda hujjatlar yozma shaklda ustun hisoblanadi",
+    "B": "ilmiy uslubda hujjatlar yozma shaklda ustun hisoblanadi",
+    "C": "badiiy uslubda hujjatlar yozma shaklda ustun hisoblanadi",
+    "D": "so‘zlashuv uslubida hujjatlar yozma shaklda ustun hisoblanadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi uslubda dalillash va isbotlash asosiy omil hisoblanadi",
+    "A": "ilmiy uslubda dalillash va isbotlash asosiy omil hisoblanadi",
+    "B": "rasmiy uslubda dalillash va isbotlash asosiy omil hisoblanadi",
+    "C": "badiiy uslubda dalillash va isbotlash asosiy omil hisoblanadi",
+    "D": "so‘zlashuv uslubida dalillash va isbotlash asosiy omil hisoblanadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi uslubda so‘zlar faqat to‘g‘ridan to‘g‘ri ma’noda ishlatiladi",
+    "A": "rasmiy uslubda so‘zlar faqat to‘g‘ridan to‘g‘ri ma’noda ishlatiladi",
+    "B": "ilmiy uslubda so‘zlar faqat to‘g‘ridan to‘g‘ri ma’noda ishlatiladi",
+    "C": "badiiy uslubda so‘zlar faqat to‘g‘ridan to‘g‘ri ma’noda ishlatiladi",
+    "D": "so‘zlashuv uslubida so‘zlar faqat to‘g‘ridan to‘g‘ri ma’noda ishlatiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi uslubda analiz va sintez tushunchalari faol qo‘llanadi",
+    "A": "ilmiy uslubda analiz va sintez tushunchalari faol qo‘llanadi",
+    "B": "rasmiy uslubda analiz va sintez tushunchalari faol qo‘llanadi",
+    "C": "badiiy uslubda analiz va sintez tushunchalari faol qo‘llanadi",
+    "D": "so‘zlashuv uslubida analiz va sintez tushunchalari faol qo‘llanadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi uslubda gaplar umumlashtirilgan shaklda beriladi",
+    "A": "rasmiy uslubda gaplar umumlashtirilgan shaklda beriladi",
+    "B": "ilmiy uslubda gaplar umumlashtirilgan shaklda beriladi",
+    "C": "badiiy uslubda gaplar umumlashtirilgan shaklda beriladi",
+    "D": "so‘zlashuv uslubida gaplar umumlashtirilgan shaklda beriladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi uslubda nazariy fikrlash ustun hisoblanadi",
+    "A": "ilmiy uslubda nazariy fikrlash ustun hisoblanadi",
+    "B": "rasmiy uslubda nazariy fikrlash ustun hisoblanadi",
+    "C": "badiiy uslubda nazariy fikrlash ustun hisoblanadi",
+    "D": "so‘zlashuv uslubida nazariy fikrlash ustun hisoblanadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi uslubda huquqiy terminlar ustun hisoblanadi",
+    "A": "rasmiy uslubda huquqiy terminlar ustun hisoblanadi",
+    "B": "ilmiy uslubda huquqiy terminlar ustun hisoblanadi",
+    "C": "badiiy uslubda huquqiy terminlar ustun hisoblanadi",
+    "D": "so‘zlashuv uslubida huquqiy terminlar ustun hisoblanadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Sinonim nima?",
+    "A": "Ma’nosi bir xil, shakli har xil",
+    "B": "Shakli bir xil, ma’nosi har xil",
+    "C": "Bir harf bilan farq qiladigan so’zlar",
+    "D": "Ma’nosi bir biriga qarama qarshi so’zlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi uslubda hujjatlar qolip asosida tuziladi",
+    "A": "rasmiy uslubda hujjatlar qolip asosida tuziladi",
+    "B": "ilmiy uslubda hujjatlar qolip asosida tuziladi",
+    "C": "badiiy uslubda hujjatlar qolip asosida tuziladi",
+    "D": "so‘zlashuv uslubida hujjatlar qolip asosida tuziladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi uslubda terminlar tizimli ravishda shakllanadi",
+    "A": "ilmiy uslubda terminlar tizimli ravishda shakllanadi",
+    "B": "rasmiy uslubda terminlar tizimli ravishda shakllanadi",
+    "C": "badiiy uslubda terminlar tizimli ravishda shakllanadi",
+    "D": "so‘zlashuv uslubida terminlar tizimli ravishda shakllanadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi uslubda shaxssiz gaplar obyektivlikni ta’minlaydi",
+    "A": "rasmiy uslubda shaxssiz gaplar obyektivlikni ta’minlaydi",
+    "B": "ilmiy uslubda shaxssiz gaplar obyektivlikni ta’minlaydi",
+    "C": "badiiy uslubda shaxssiz gaplar obyektivlikni ta’minlaydi",
+    "D": "so‘zlashuv uslubida shaxssiz gaplar obyektivlikni ta’minlaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi uslubda murakkab gaplar keng qo‘llanadi",
+    "A": "ilmiy uslubda murakkab gaplar keng qo‘llanadi",
+    "B": "rasmiy uslubda murakkab gaplar keng qo‘llanadi",
+    "C": "badiiy uslubda murakkab gaplar keng qo‘llanadi",
+    "D": "so‘zlashuv uslubida murakkab gaplar keng qo‘llanadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi uslubda aniqlik va xolislik birgalikda namoyon bo‘ladi",
+    "A": "rasmiy uslubda aniqlik va xolislik birgalikda namoyon bo‘ladi",
+    "B": "ilmiy uslubda aniqlik va xolislik birgalikda namoyon bo‘ladi",
+    "C": "badiiy uslubda aniqlik va xolislik birgalikda namoyon bo‘ladi",
+    "D": "so‘zlashuv uslubida aniqlik va xolislik birgalikda namoyon bo‘ladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Umumturkiy so‘zlar nima?",
+    "A": "Barcha turkiy tillarga xos so‘zlar",
+    "B": "O‘zbek tiliga xos so‘zlar",
+    "C": "Sheva so‘zlar",
+    "D": "Ilmiy so‘zlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Uyadosh so‘zlar nima?",
+    "A": "Bir tushuncha doirasidagi so‘zlar",
+    "B": "Har xil ma’nodagi so‘zlar",
+    "C": "Sinonimlar",
+    "D": "Omonimlar",
+    "javob": "A"
+  },
+  {
+    "savol": "“Ota, ona, aka” qaysi guruhga kiradi?",
+    "A": "Qarindoshlik",
+    "B": "Hayvon",
+    "C": "Tana a’zosi",
+    "D": "Harakat",
+    "javob": "A"
+  },
+  {
+    "savol": "“Barmoq, miya” qaysi guruh?",
+    "A": "Tana a’zolari",
+    "B": "Qarindoshlik",
+    "C": "Harakat",
+    "D": "Raqam",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘zbekcha o‘zak va qo‘shimchadan yasalgan so‘z qaysi?",
+    "A": "qatnashchi",
+    "B": "sportchi",
+    "C": "ilmiy",
+    "D": "madadkor",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘zlashma o‘zak va o‘zbekcha qo‘shimchali so‘z qaysi?",
+    "A": "sportchi",
+    "B": "qo‘llanma",
+    "C": "bilimli",
+    "D": "o‘qituvchi",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘zbekcha o‘zak + o‘zlashma qo‘shimcha qaysi?",
+    "A": "tug‘ruqxona",
+    "B": "sportchi",
+    "C": "ilmiy",
+    "D": "betonchi",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘zlashma qatlam nima?",
+    "A": "Boshqa tillardan kirgan so‘zlar",
+    "B": "O‘zbekcha so‘zlar",
+    "C": "Sheva so‘zlar",
+    "D": "Terminlar",
+    "javob": "A"
+  },
+  {
+    "savol": "“Osmon, bahor” qaysi tilga oid?",
+    "A": "Fors-tojik",
+    "B": "Arab",
+    "C": "Rus",
+    "D": "Ingliz",
+    "javob": "A"
+  },
+  {
+    "savol": "Faol so‘zlar nima?",
+    "A": "Kundalik ishlatiladigan so‘zlar",
+    "B": "Eskirgan so‘zlar",
+    "C": "Terminlar",
+    "D": "Sheva so‘zlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Nofaol so‘zlar nechaga bo‘linadi?",
+    "A": "3 ta",
+    "B": "2 ta",
+    "C": "4 ta",
+    "D": "5 ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Istorizm nima?",
+    "A": "Tarixiy tushunchani bildiruvchi so‘z",
+    "B": "Yangi so‘z",
+    "C": "Sinonim",
+    "D": "Jargon",
+    "javob": "A"
+  },
+  {
+    "savol": "Arxaizm nima?",
+    "A": "Eskirgan nom",
+    "B": "Yangi so‘z",
+    "C": "Termin",
+    "D": "Sheva",
+    "javob": "A"
+  },
+  {
+    "savol": "Neologizm nima?",
+    "A": "Yangi so‘z",
+    "B": "Eskirgan so‘z",
+    "C": "Tarixiy so‘z",
+    "D": "Jargon",
+    "javob": "A"
+  },
+  {
+    "savol": "“Qozi” so‘zi qaysi turga kiradi?",
+    "A": "Istorizm",
+    "B": "Neologizm",
+    "C": "Arxaizm",
+    "D": "Termin",
+    "javob": "A"
+  },
+  {
+    "savol": "“Handasa” so‘zi qaysi tur?",
+    "A": "Arxaizm",
+    "B": "Neologizm",
+    "C": "Istorizm",
+    "D": "Jargon",
+    "javob": "A"
+  },
+  {
+    "savol": "“Deputat” qaysi tur?",
+    "A": "Neologizm",
+    "B": "Arxaizm",
+    "C": "Istorizm",
+    "D": "Dialekt",
+    "javob": "A"
+  },
+  {
+    "savol": "Uslubiy betaraf so‘zlar nima?",
+    "A": "Barcha uslublarda qo‘llanadi",
+    "B": "ilmiy",
+    "C": "badiiy",
+    "D": "rasmiy",
+    "javob": "A"
+  },
+  {
+    "savol": "“Suv, havo” qanday so‘zlar?",
+    "A": "Betaraf",
+    "B": "Ilmiy",
+    "C": "Rasmiy",
+    "D": "Badiiy",
+    "javob": "A"
+  },
+  {
+    "savol": "Leksikografiya nimani o‘rganadi?",
+    "A": "Lug‘at tuzishni",
+    "B": "Talaffuzni",
+    "C": "Grammatikani",
+    "D": "Fonetikani",
+    "javob": "A"
+  },
+  {
+    "savol": "Termin nima?",
+    "A": "Sohaga oid atama",
+    "B": "Oddiy so‘z",
+    "C": "Sheva so‘z",
+    "D": "Sinonim",
+    "javob": "A"
+  },
+  {
+    "savol": "Terminologik leksika nima?",
+    "A": "Terminlar yig‘indisi",
+    "B": "Oddiy so‘zlar",
+    "C": "Sheva",
+    "D": "Jargon",
+    "javob": "A"
+  },
+  {
+    "savol": "Ilmiy uslub nimaga asoslanadi?",
+    "A": "Aniq ma’lumotlarga",
+    "B": "Hissiyotga",
+    "C": "Fantaziyaga",
+    "D": "Dialogga",
+    "javob": "A"
+  },
+  {
+    "savol": "Ilmiy uslubda qanday gap ustun?",
+    "A": "Monologik",
+    "B": "Dialogik",
+    "C": "Shevali",
+    "D": "Badiiy",
+    "javob": "A"
+  },
+  {
+    "savol": "Ilmiy uslubda qanday so‘z ishlatiladi?",
+    "A": "Terminlar",
+    "B": "Sheva",
+    "C": "Jargon",
+    "D": "Vulgar",
+    "javob": "A"
+  },
+  {
+    "savol": "“Tenglama” qaysi soha termini?",
+    "A": "Matematika",
+    "B": "Tibbiyot",
+    "C": "Tilshunoslik",
+    "D": "Adabiyot",
+    "javob": "A"
+  },
+  {
+    "savol": "Ilmiy uslubda qanday fe’l ishlatiladi?",
+    "A": "Hozirgi zamon",
+    "B": "O‘tgan zamon",
+    "C": "Buyruq",
+    "D": "Istak",
+    "javob": "A"
+  },
+  {
+    "savol": "Rasmiy uslub qayerda qo‘llanadi?",
+    "A": "Davlat boshqaruvida",
+    "B": "Shevada",
+    "C": "Oddiy suhbatda",
+    "D": "Badiiy asarda",
+    "javob": "A"
+  },
+  {
+    "savol": "Rasmiy uslubning asosiy vazifasi nima?",
+    "A": "Hujjatlarni tartibga solish",
+    "B": "Hissiyot bildirish",
+    "C": "Hikoya qilish",
+    "D": "Bahslashish",
+    "javob": "A"
+  },
+  {
+    "savol": "Rasmiy uslub qanday nutqqa xos?",
+    "A": "Yozma",
+    "B": "Og‘zaki",
+    "C": "Sheva",
+    "D": "Badiiy",
+    "javob": "A"
+  },
+  {
+    "savol": "Rasmiy uslubda qaysi so‘zlar ko‘p ishlatiladi?",
+    "A": "Terminlar",
+    "B": "Jargon",
+    "C": "Vulgarizm",
+    "D": "Dialekt",
+    "javob": "A"
+  },
+  {
+    "savol": "Rasmiy uslubda qanday gap ishlatiladi?",
+    "A": "Shaxssiz",
+    "B": "Dialogik",
+    "C": "Shevali",
+    "D": "Badiiy",
+    "javob": "A"
+  },
+  {
+    "savol": "“Mazkur qaror tasdiqlanadi” qaysi uslub?",
+    "A": "Rasmiy",
+    "B": "Ilmiy",
+    "C": "So‘zlashuv",
+    "D": "Badiiy",
+    "javob": "A"
+  },
+  {
+    "savol": "Hujjat nima?",
+    "A": "Axborot yozilgan obyekt",
+    "B": "Oddiy gap",
+    "C": "So‘z",
+    "D": "Matn",
+    "javob": "A"
+  },
+  {
+    "savol": "Sodda hujjat nima?",
+    "A": "Bir masalali",
+    "B": "Ko‘p masalali",
+    "C": "Aralash",
+    "D": "Shevali",
+    "javob": "A"
+  },
+  {
+    "savol": "Murakkab hujjat nima?",
+    "A": "Ko‘p masalali",
+    "B": "Bir masalali",
+    "C": "Oddiy",
+    "D": "Shevali",
+    "javob": "A"
+  },
+  {
+    "savol": "Farmoyish nima?",
+    "A": "Rahbar topshirig‘i",
+    "B": "Oddiy xat",
+    "C": "buyruq",
+    "D": "iltimosnoma",
+    "javob": "A"
+  },
+  {
+    "savol": "Buyruq nima?",
+    "A": "Yuridik kuchga ega hujjat",
+    "B": "Oddiy nutq",
+    "C": "So‘zlashuv",
+    "D": "farmoyish",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko‘rsatma nima?",
+    "A": "Ijro tartibini belgilaydi",
+    "B": "tushuntiradi",
+    "C": "Topshiriq beradi",
+    "D": "Bahslashadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Yo‘riqnoma nima?",
+    "A": "Ish tartibini belgilaydi",
+    "B": "Buyruq",
+    "C": "Nutq",
+    "D": "Sheva",
+    "javob": "A"
+  },
+  {
+    "savol": "Ichki hujjat nima?",
+    "A": "Korxona ichida",
+    "B": "Tashqaridan",
+    "C": "Shevada",
+    "D": "Og‘zaki",
+    "javob": "A"
+  },
+  {
+    "savol": "Tashqi hujjat nima?",
+    "A": "Tashqaridan keladi",
+    "B": "Ichki",
+    "C": "Og‘zaki",
+    "D": "Sheva",
+    "javob": "A"
+  },
+  {
+    "savol": "Xizmat hujjati nima?",
+    "A": "Rasmiy hujjat",
+    "B": "Shaxsiy",
+    "C": "Subyektiv hujjat",
+    "D": "Voqea hodisani tushuntirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Ariza nima?",
+    "A": "Iltimos hujjati",
+    "B": "Buyruq",
+    "C": "Voqea hodisani tushuntirish",
+    "D": "Topshiriqlarni aks ettirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Tilxat nima?",
+    "A": "Qabul qilinganini tasdiqlaydi",
+    "B": "Hikoya",
+    "C": "Gap",
+    "D": "So‘z",
+    "javob": "A"
+  },
+  {
+    "savol": "Tushuntirish xati nima?",
+    "A": "Izoh hujjati",
+    "B": "Buyruq",
+    "C": "Topshiriqlarni aks ettirish",
+    "D": "So‘z",
+    "javob": "A"
+  },
+  {
+    "savol": "Tilxat nechta qismdan iborat?",
+    "A": "4 ta",
+    "B": "2ta",
+    "C": "6ta",
+    "D": "3ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Tilxatda nima ko‘rsatiladi?",
+    "A": "Miqdor, summa",
+    "B": "ism",
+    "C": "sana",
+    "D": "Joy nomi alohida",
+    "javob": "A"
+  },
+  {
+    "savol": "Farmoyish tuzilishida nechta qism bor?",
+    "A": "7ta",
+    "B": "5ta",
+    "C": "3ta",
+    "D": "4ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Sarlavha nima?",
+    "A": "Hujjat nomi",
+    "B": "Sana",
+    "C": "Imzo",
+    "D": "Matn",
+    "javob": "A"
+  },
+  {
+    "savol": "Imzo nima?",
+    "A": "Tasdiqlash belgisi",
+    "B": "Sana",
+    "C": "Matn",
+    "D": "So‘z",
+    "javob": "A"
+  },
+  {
+    "savol": "Ilmiy uslubda qanday gap ko‘p?",
+    "A": "Murakkab",
+    "B": "Oddiy",
+    "C": "Shevali",
+    "D": "Dialog",
+    "javob": "A"
+  },
+  {
+    "savol": "Rasmiy uslubda qanday gap ko‘p?",
+    "A": "Yoyiq",
+    "B": "Shevali",
+    "C": "Dialog",
+    "D": "Badiiy",
+    "javob": "A"
+  },
+  {
+    "savol": "Ilmiy uslubda nima ustun?",
+    "A": "Mantiq",
+    "B": "Hissiyot",
+    "C": "Fantaziya",
+    "D": "Sheva",
+    "javob": "A"
+  },
+  {
+    "savol": "Termin qanday bo‘ladi?",
+    "A": "Bir ma’noli",
+    "B": "Ko‘p ma’noli",
+    "C": "Sinonim",
+    "D": "Omonim",
+    "javob": "A"
+  },
+  {
+    "savol": "Termin qaysi turkumga kiradi?",
+    "A": "Ot",
+    "B": "Fe’l",
+    "C": "Sifat",
+    "D": "Ravish",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq uslublari nechta?",
+    "A": "Bir necha",
+    "B": "1 ta",
+    "C": "2 ta",
+    "D": "3 ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Ilmiy uslub nimaga xizmat qiladi?",
+    "A": "Ilmiy fikrga",
+    "B": "Hissiyotga",
+    "C": "Hikoyaga",
+    "D": "Bahsga",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘zbek tili qaysi tillar guruhiga kiradi?",
+    "A": "Turkiy tillar",
+    "B": "Roman tillar",
+    "C": "German tillar",
+    "D": "Slavyan tillar",
+    "javob": "A"
+  },
+  {
+    "savol": "“Oyoq, qo‘l, men” kabi so‘zlar qaysi qatlamga kiradi?",
+    "A": "Umumturkiy",
+    "B": "O‘zlashma",
+    "C": "Terminologik",
+    "D": "Jargon",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘z qatlam nimadan iborat?",
+    "A": "Tilning o‘z ichki imkoniyatidan yaralgan so‘zlar",
+    "B": "Chet so‘zlar",
+    "C": "Terminlar",
+    "D": "Tarixiy so‘zlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Ilmiy uslubda shaxsiy munosabatning cheklanishi nimaga xizmat qiladi?",
+    "A": "Bayonning obyektiv va xolis bo‘lishiga",
+    "B": "Nutqning ko‘proq so‘zlashuv uslubiga yaqinlashishiga",
+    "C": "Matnning dramatik ta’sirini oshirishga",
+    "D": "Muallif obrazini syujet markaziga chiqarishga",
+    "javob": "A"
+  },
+  {
+    "savol": "Ilmiy matnda jadval, sxema va diagrammalardan foydalanishning afzalligi nima?",
+    "A": "Ma’lumotni tizimli va ko‘rgazmali ifodalash",
+    "B": "Matnga she’riy ohang bag‘ishlash",
+    "C": "Rasmiy-huquqiy kuchni oshirish",
+    "D": "bezak maqsadida sahifani to‘ldirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi belgi ilmiy uslubni badiiy uslubdan farqlaydi?",
+    "A": "Dalillilik va tushunchaviy aniqlikning ustuvorligi",
+    "B": "Obrazlilik va individual tasvirning yetakchiligi",
+    "C": "Qahramon nutqi va dialoglarning ko‘pligi",
+    "D": "Voqeabandlikning asosiy o‘rin tutishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ilmiy uslubda izohli ta’riflarning qo‘llanishi nimaga xizmat qiladi?",
+    "A": "Murakkab tushunchaning mazmunini ochishga",
+    "B": "Matnni keraksiz darajada hissiylashtirishga",
+    "C": "Ko‘proq og‘zaki nutq ko‘rinishini yaratishga",
+    "D": "Asarda komik vaziyatlarni kuchaytirishga",
+    "javob": "A"
+  },
+  {
+    "savol": "Ilmiy uslubning rasmiy uslub bilan umumiy jihati nimada?",
+    "A": "Adabiy til me’yorlariga qat’iy rioya qilinishida",
+    "B": "Har ikki uslubda obrazli tasvir ustunligida",
+    "C": "Ikkalasida ham jargon va sheva birikmalarining ko‘pligida",
+    "D": "Ikkalasi faqat og‘zaki nutqda qo‘llanishida",
+    "javob": "A"
+  },
+  {
+    "savol": "Ilmiy uslubda matnning sarlavhasi qanday bo‘lishi maqsadga muvofiq?",
+    "A": "Mavzuni aniq va mazmunan ifodalovchi",
+    "B": "Majoziy ma’nosi kuchli, sirli va mavhum",
+    "C": "Hissiy undovlardan iborat",
+    "D": "Kundalik suhbat ohangida erkin tuzilgan",
+    "javob": "A"
+  },
+  {
+    "savol": "Rasmiy uslubning bosh maqsadi nima?",
+    "A": "Huquqiy, ma’muriy va ish yuritishga oid axborotni aniq rasmiy shaklda ifodalash",
+    "B": "Obrazlar vositasida estetik zavq uyg‘otish",
+    "C": "Erkin suhbat va norasmiy muloqotni tashkil etish",
+    "D": "Shaxsiy kechinmalarni badiiy tasvirlash",
+    "javob": "A"
+  },
+  {
+    "savol": "Rasmiy uslubga xos asosiy belgi qaysi?",
+    "A": "Qoliplangan ifodalar va standart shakllarning ustuvorligi",
+    "B": "Ko‘chma ma’nodagi ifodalarning ko‘pligi",
+    "C": "Shevaga oid birliklarning faol qo‘llanishi",
+    "D": "Hazil-mutoyibaning kuchliligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Rasmiy hujjat tilida aniqlik qanday ta’minlanadi?",
+    "A": "Lo‘nda, bir ma’noli va me’yoriy birliklardan foydalanish orqali",
+    "B": "Ko‘p ma’noli va kinoyali so‘zlarni ko‘paytirish orqali",
+    "C": "Gaplarni ataylab noaniq qoldirish orqali",
+    "D": "Fikrni asosan og‘zaki ohangga tayanib berish orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri rasmiy uslub janriga mansub?",
+    "A": "Dalolatnoma",
+    "B": "Hikoya",
+    "C": "Esse",
+    "D": "Doston",
+    "javob": "A"
+  },
+  {
+    "savol": "Rasmiy uslubda hissiy-ekspressiv bo‘yoqdorlik nega cheklanadi?",
+    "A": "Hujjat mazmunining xolis va aniq bo‘lishi uchun",
+    "B": "Matnning she’riy ohangini pasaytirmaslik uchun",
+    "C": "Qahramon xarakterini ochish uchun",
+    "D": "Dialogni jonlantirish uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "Rasmiy hujjatlarda rekvizitlar nimani anglatadi?",
+    "A": "Hujjatning zaruriy tarkibiy qismlarini",
+    "B": "Matndagi badiiy tasvir vositalarini",
+    "C": "imlo xatolarini ko‘rsatuvchi belgilarni",
+    "D": "Talaffuzdagi uslubiy o‘zgarishlarni",
+    "javob": "A"
+  },
+  {
+    "savol": "Rasmiy uslubda fe’llarning qaysi shakllari ko‘proq uchraydi?",
+    "A": "Buyurish, ma’lum qilish va belgilash mazmunidagi shakllar",
+    "B": "So‘zlashuvga xos qisqargan shakllar",
+    "C": "Ko‘proq she’riy tusdagi istak mayllari",
+    "D": "Asosan undov va taqlid birliklari",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi talab rasmiy uslub uchun eng muhim hisoblanadi?",
+    "A": "Hujjatning qonuniy kuchga ega bo‘lishi uchun shakl va mazmun uyg‘unligi",
+    "B": "Matnning qiziqarli syujetga ega bo‘lishi",
+    "C": "Har bir gapda obrazli taqqoslash bo‘lishi",
+    "D": "Muallif individual uslubining keskin namoyoni",
+    "javob": "A"
+  },
+  {
+    "savol": "Rasmiy uslubda sanalar va raqamlar qanday berilishi lozim?",
+    "A": "Aniq, me’yoriy va chalkashlik tug‘dirmaydigan ko‘rinishda",
+    "B": "Majoziy ma’noda taxminiy tarzda",
+    "C": "Og‘zaki shaklda eslatib o‘tilgan holda",
+    "D": "Adabiy tasvir vositasi sifatida",
+    "javob": "A"
+  },
+  {
+    "savol": "Rasmiy matnda ‘mazkur’, ‘ushbu’, ‘muvofiq’, ‘asosan’ kabi birliklar nimaga xizmat qiladi?",
+    "A": "Rasmiy bayonning me’yoriy va bog‘lovchi xususiyatini kuchaytirishga",
+    "B": "Matnni so‘zlashuv uslubiga yaqinlashtirishga",
+    "C": "Hissiy ta’sirchanlikni oshirishga",
+    "D": "Hazilomuz ohang yaratishga",
+    "javob": "A"
+  },
+  {
+    "savol": "Rasmiy uslubda arxaik yoki shevaga xos so‘zlardan qochilishining sababi nima?",
+    "A": "Hamma uchun tushunarli va yagona me’yorni saqlash",
+    "B": "Matnni ko‘proq mahalliylashtirish",
+    "C": "Qadimiy badiiy ruh yaratish",
+    "D": "Muallifning individual uslubini ko‘rsatish",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi gap rasmiy uslubga xos tuzilgan?",
+    "A": "Buyruq 2026-yil 15-apreldan boshlab ijroga qaratilsin.",
+    "B": "Bugundan boshlab ishlar ancha jonlanib ketadi, deb o‘ylaymiz.",
+    "C": "Shu ishni bir amallab tezroq bitirib yuborsak yaxshi bo‘lardi.",
+    "D": "Bu qaror hammamizni juda quvontirdi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Rasmiy uslubda muhr va imzo qanday vazifa bajaradi?",
+    "A": "Hujjatning tasdiqlanganligini va huquqiy maqomini ko‘rsatadi",
+    "B": "Matnga badiiy bezak bag‘ishlaydi",
+    "C": "Og‘zaki nutq ohangini ifodalaydi",
+    "D": "Muallifning kayfiyatini bildiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi xususiyat rasmiy uslubning qoliplashganligini ko‘rsatadi?",
+    "A": "Tayyor nutqiy formulalarning muntazam qo‘llanishi",
+    "B": "Har gal yangi badiiy ifodalar izlanishi",
+    "C": "Qahramonlar tilining individuallashtirilishi",
+    "D": "Tasviriy vositalarning haddan tashqari ko‘pligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Rasmiy hujjatda mavhumlikka yo‘l qo‘yilmasligining asosiy sababi nima?",
+    "A": "Ijro va talqinda turlicha tushunishning oldini olish",
+    "B": "Matnga san’atkorona sirli ma’no berish",
+    "C": "O‘quvchining tasavvurini kengaytirish",
+    "D": "Dialogik nutq imkoniyatini oshirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Rasmiy uslubda qisqartmalarni qo‘llashda nima muhim?",
+    "A": "Ularning me’yoriy, umumqabul qilingan va tushunarli bo‘lishi",
+    "B": "Qisqartmalarni imkon qadar ixtiyoriy tuzish",
+    "C": "Muallif biladigan shartli belgilarni ishlatish",
+    "D": "Qisqartmalarni badiiy ramz sifatida talqin qilish",
+    "javob": "A"
+  },
+  {
+    "savol": "Rasmiy hujjat tili qaysi holatda uslubiy xatoga yo‘l qo‘yadi?",
+    "A": "Norasmiy, so‘zlashuvga xos iboralar kiritilganda",
+    "B": "Aniq rekvizitlar to‘liq berilganda",
+    "C": "Matn lo‘nda va me’yoriy shaklda yozilganda",
+    "D": "Sana va imzo tartibli joylashtirilganda",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi birlik rasmiy uslubda ko‘proq uchraydi?",
+    "A": "Qaror qilindi",
+    "B": "Yuragim hapriqdi",
+    "C": "Ko‘nglim to‘lqinlandi",
+    "D": "Shunaqangi yaxshi bo‘ldi",
+    "javob": "A"
+  },
+  {
+    "savol": "Rasmiy uslubda matnning kompozitsion tartibi nimaga xizmat qiladi?",
+    "A": "Hujjatni tez anglash va to‘g‘ri rasmiylashtirishga",
+    "B": "Syujetni keskinlashtirishga",
+    "C": "Obrazlar orasidagi ziddiyatni kuchaytirishga",
+    "D": "Muallif kayfiyatini bosqichma-bosqich ochishga",
+    "javob": "A"
+  },
+  {
+    "savol": "Rasmiy uslubning qo‘llanish doirasi qayerlarda keng?",
+    "A": "Idora, tashkilot va huquqiy munosabatlar tizimida",
+    "B": "Asosan sahna asarlari va romanlarda",
+    "C": "Ko‘proq oilaviy suhbat va kundalik muloqotda",
+    "D": "Folklor namunalari tarkibida",
+    "javob": "A"
+  },
+  {
+    "savol": "Sohada davlat tilida ish yuritishning asosiy maqsadi nima?",
+    "A": "Kasbiy faoliyatda hujjatlar va yozishmalarni davlat tili me’yorlari asosida yuritish",
+    "B": "Barcha hujjatlarni faqat chet tillarida rasmiylashtirish",
+    "C": "Ish yuritishni og‘zaki ko‘rsatmalar bilan cheklash",
+    "D": "Kasbiy nutqda faqat so‘zlashuv uslubidan foydalanish",
+    "javob": "A"
+  },
+  {
+    "savol": "Davlat tilida ish yuritishda adabiy til me’yorlariga rioya qilish nimani ta’minlaydi?",
+    "A": "Hujjatning tushunarli, yagona va me’yoriy bo‘lishini",
+    "B": "Matnning ko‘proq erkin va norasmiy ko‘rinishini",
+    "C": "Kasbiy yozishmada individual shevaga ustunlik berilishini",
+    "D": "Nutqda badiiylikning kuchayishini",
+    "javob": "A"
+  },
+  {
+    "savol": "Kasbiy sohada terminlardan o‘rinli foydalanishning ahamiyati nimada?",
+    "A": "Soha tushunchalarini aniq va ixtisoslashgan tarzda ifodalashda",
+    "B": "Matnga ko‘proq hissiy tus berishda",
+    "C": "Hujjatni ommabop suhbatga aylantirishda",
+    "D": "Har bir gapni qisqartib yuborishda",
+    "javob": "A"
+  },
+  {
+    "savol": "Sohaviy hujjat yozishda qaysi omil eng muhim?",
+    "A": "Mazmun, shakl va til me’yorlarining uyg‘unligi",
+    "B": "Matnning uzun bo‘lishi",
+    "C": "Ko‘plab badiiy tasvir vositalarining ishlatilishi",
+    "D": "Og‘zaki nutq elementlarining ko‘pligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ilmiy uslubda aniqlik talabi qanday ta’minlanadi?",
+    "A": "So‘z va terminlarning mazmuniga mos, o‘rinli qo‘llanishi orqali",
+    "B": "Ko‘p ma’noli so‘zlarni izohsiz ishlatish orqali",
+    "C": "Majoziy tasvirlarni haddan ziyod ko‘paytirish orqali",
+    "D": "Noaniq olmoshlarni ketma-ket ishlatish orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi holat ilmiy uslub talabiga mos keladi?",
+    "A": "Ta’rif, dalil va misollar asosida fikr yuritish",
+    "B": "Asarni qahramonlar dialogi orqali qurish",
+    "C": "Voqeani hissiy kechinmalar asosida tasvirlash",
+    "D": "Fikrni maqol va matallar bilangina bayon qilish",
+    "javob": "A"
+  },
+  {
+    "savol": "Ilmiy maqolaning kirish qismida odatda nima yoritiladi?",
+    "A": "Mavzuning dolzarbligi, maqsadi va vazifalari",
+    "B": "Muallifning shaxsiy tarjimai holi",
+    "C": "Asarning badiiy qahramonlari tavsifi",
+    "D": "Voqealar rivojining kulminatsion nuqtasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ilmiy uslubda mantiqiylik nimani anglatadi?",
+    "A": "Fikrlarning izchil, sabab-oqibat asosida bog‘lanishini",
+    "B": "Gaplarning tartibsiz va parokanda joylashishini",
+    "C": "Matnda faqat hissiy bo‘yoqli so‘zlar ustunligini",
+    "D": "Bir mavzudan ikkinchisiga asossiz o‘tishni",
+    "javob": "A"
+  },
+  {
+    "savol": "Ilmiy uslubda abstrakt tushunchalar nega ko‘p qo‘llanadi?",
+    "A": "Nazariy masalalarni umumlashtirib ifodalash uchun",
+    "B": "Matnni ko‘proq kundalik suhbatga yaqinlashtirish uchun",
+    "C": "Badiiy peyzaj tasvirini kuchaytirish uchun",
+    "D": "Tinglovchini emotsional ta’sirlantirish uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "Ilmiy uslubda ‘tadqiq etildi’, ‘aniqlandi’, ‘asoslandi’ kabi shakllar nimani bildiradi?",
+    "A": "Jarayon va natijaning obyektiv bayonini",
+    "B": "Muallifning hazilomuz kayfiyatini",
+    "C": "Dialogik nutqning ustuvorligini",
+    "D": "Badiiy konfliktning kuchayishini",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri ilmiy uslub janriga kiradi?",
+    "A": "Monografiya",
+    "B": "Farmoyish",
+    "C": "Tabriknoma",
+    "D": "Sahna ko‘rinishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ilmiy matnda takrorlarning me’yoriy qo‘llanishi qachon maqsadga muvofiq bo‘ladi?",
+    "A": "Muhim termin va asosiy tushunchani aniq saqlash zarur bo‘lganda",
+    "B": "Har bir gapni bir xil so‘z bilan boshlash uchun",
+    "C": "Matnga sun’iy ravishda tantanavor ohang berish uchun",
+    "D": "Badiiy ritm hosil qilish maqsadida",
+    "javob": "A"
+  }
+]

@@ -1,0 +1,2010 @@
+[
+  {
+    "savol": "Gistologiya fani bo’limlari?",
+    "A": "Umumiy va xususiy",
+    "B": "Gistologiya va sitologiya",
+    "C": "Autopsiya va biopsiya",
+    "D": "To’qima va hujayra",
+    "javob": "A"
+  },
+  {
+    "savol": "Sitodiagnostikada qanday tekshiruv usullaridan foydalaniladi?",
+    "A": "Autopsiya va biopsiya",
+    "B": "Umumiy va bikomyoviy tahlih",
+    "C": "Faqat diagnostic tekshiruvlar",
+    "D": "Sitokimyoviy va biokimyoviy usullar",
+    "javob": "A"
+  },
+  {
+    "savol": "Biriktiruvchi to’qima turlari?",
+    "A": "Asl biriktiruvchi to’qima, tog’ay to’qimasi, suyak to’qimasi",
+    "B": "Zich tolali biriktiruvchi to’qima, siyrak tolali biriktiruvchi to’qima",
+    "C": "Qon, limfa, biriktiruvchi to’qima",
+    "D": "Shakllangan va shakllanmagan biriktiruvchi to’qima",
+    "javob": "A"
+  },
+  {
+    "savol": "Epiteliy to’qimasi hujayralarining qavat va qatorga bo’linishi qaysi tansifiga xos?",
+    "A": "Morfofunksional tasnif",
+    "B": "Filogenetik tasnif",
+    "C": "Sitodiagnostik tasnif",
+    "D": "Taraqqiyoti bo’yicha tasnif",
+    "javob": "A"
+  },
+  {
+    "savol": "Bazofil leykotsitlarning qondagi foiz miqdori?",
+    "A": "0,5-1%",
+    "B": "20-30%",
+    "C": "6-8%",
+    "D": "2-6%",
+    "javob": "A"
+  },
+  {
+    "savol": "Qon tarkibiy qismlari?",
+    "A": "Qon plazma, shaklli elementlar",
+    "B": "Eritrosit, leykosit, trombosit",
+    "C": "Albumin, globulin, fibrinogen",
+    "D": "Neytrofil, bazofil, eozinofil",
+    "javob": "A"
+  },
+  {
+    "savol": "Leykositlarning garnulosit turlarini belgilang?",
+    "A": "Neytrofil,bazofil, eozinofil",
+    "B": "Limfosit, monotsit",
+    "C": "B-limfosit, T-limfosit",
+    "D": "Limfosit, neytrofil, bazofil",
+    "javob": "A"
+  },
+  {
+    "savol": "Gematokrit ko’rsatkich qonning qanday ko’rsatkichi hisoblanadi?",
+    "A": "Qon plazma va shaklli elementlarning nisbati",
+    "B": "Leykositar qondagi foiz nisbati",
+    "C": "Eritrotsitlarning shaklining o’zgarishi",
+    "D": "Leykositar formulaning o’zgarishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Gematokrit ko’rsatkich sog’lom inson qonida nechiga teng?",
+    "A": "55:45",
+    "B": "35:65",
+    "C": "40:60",
+    "D": "50:50",
+    "javob": "A"
+  },
+  {
+    "savol": "Qonning trofik vazifasini belgilang?",
+    "A": "Ozuqa moddalarni tashish",
+    "B": "Garmon va mediatorlar tashish",
+    "C": "Ichki muhit doimiyligini saqlash",
+    "D": "Metabolizmdan hosil bo’lgan moddalarni ajratish",
+    "javob": "A"
+  },
+  {
+    "savol": "Qonning ichki muhit doimiyligini saqlash qaysi vazifasiga kiradi?",
+    "A": "Gomeostatik",
+    "B": "Trofik",
+    "C": "Ekskretor",
+    "D": "Regulyator",
+    "javob": "A"
+  },
+  {
+    "savol": "Epiteliy bilan biriktiruvchi to’qima orasida joylashgan tuzilma?",
+    "A": "Bazal membrana",
+    "B": "Fibroblast",
+    "C": "Tola",
+    "D": "Hujayralararo modda",
+    "javob": "A"
+  },
+  {
+    "savol": "Normositar eritrositlar diametri necha mkm?",
+    "A": "7-8mkm",
+    "B": "4-6mkm",
+    "C": "8-10mkm",
+    "D": "12-14mkm",
+    "javob": "A"
+  },
+  {
+    "savol": "Biriktiruvchi to’qima komponentlariga nimalar kiradi?",
+    "A": "Hujayra va hujayralararo modda",
+    "B": "Makrofag, neytrofil, leykosit",
+    "C": "Amorf modda",
+    "D": "Elastic va kollagen tolalar",
+    "javob": "A"
+  },
+  {
+    "savol": "Embrional davrda qon yaratilishi nechta davrga bo’linadi?",
+    "A": "3davrga",
+    "B": "4davrga",
+    "C": "5davrga",
+    "D": "2davrga",
+    "javob": "A"
+  },
+  {
+    "savol": "Embrional davrda qon yaratilishing ikkinchi davrini belgilang?",
+    "A": "Jigar fazasi",
+    "B": "Mezoblastik davr",
+    "C": "Medullar davr",
+    "D": "Qizil suyak ko’migi fazasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Makrofaglarning asosiy vazifasini belgilang?",
+    "A": "Fagotsitoz va immun reaksiyalarda ishtirok etish",
+    "B": "Antitanalar ishlab chiqarish",
+    "C": "Kislorod tashish",
+    "D": "Garmon va mediatorlarni tashish",
+    "javob": "A"
+  },
+  {
+    "savol": "Biriktiruvchi to’qima hujayralararo modda nimadan iborat?",
+    "A": "Amorf modda, tolalar",
+    "B": "Neytrofil, bazofil",
+    "C": "Fibroblast, makrofag",
+    "D": "Retikulyar va shilliq to’qima",
+    "javob": "A"
+  },
+  {
+    "savol": "Biriktiruvchi to’qima asosiy hujayralardan biri?",
+    "A": "Fibroblast",
+    "B": "Neyrtrofil",
+    "C": "Monotsit",
+    "D": "Antitana",
+    "javob": "A"
+  },
+  {
+    "savol": "Qadahsimon hujayralar qayerda uchraydi?",
+    "A": "Nafas yo’llarida, ichaklarda",
+    "B": "Teri qavatlarida",
+    "C": "Buyrak kanalchalarida",
+    "D": "Qon tomir endoteliysida",
+    "javob": "A"
+  },
+  {
+    "savol": "Tolali biriktiruvchi to’qima turlari?",
+    "A": "Zich va siyrak",
+    "B": "Maxsus hujayralar",
+    "C": "Elastik va amorf modda",
+    "D": "Retikulyar va shilliq",
+    "javob": "A"
+  },
+  {
+    "savol": "Zich tolali biriktiruvchi to’qima nechta turga bo’linadi?",
+    "A": "2turga",
+    "B": "5urga",
+    "C": "3turga",
+    "D": "7turga",
+    "javob": "A"
+  },
+  {
+    "savol": "Shakllangan va shakllanmagan biriktiruvchi to’qima qaysi biriktiruvchi to’qima turiga mansub?",
+    "A": "Zich tolali",
+    "B": "Siyrak tolali",
+    "C": "Maxsus tur",
+    "D": "Retikulyar tur",
+    "javob": "A"
+  },
+  {
+    "savol": "Maxsus xususiyatga ega biriktiruvchi to’qima turlarini belgilang?",
+    "A": "Retikulyar, shilliq, pigment, yog’",
+    "B": "Elastik va kollagen tolalar",
+    "C": "Shakllangan va shakllanmagan biriktiruvchi to’qima",
+    "D": "Amorf modda, retikulyar to’qima",
+    "javob": "A"
+  },
+  {
+    "savol": "Zich tolali biriktiruvchi to’qima qanday turlari farqlanadi?",
+    "A": "Shakllangan va shakllanmagan biriktiruvchi to’qima",
+    "B": "Shilliq, yog’, pigment",
+    "C": "Semiz hujayra, retikulyar hujayra",
+    "D": "Fibroblast, fibrotsit",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi to’qimada bazal membrane ustida joylashishi hisobiga apical va bazal qutb farqlanadi?",
+    "A": "epiteliy",
+    "B": "biriktiruvchi",
+    "C": "retikulyar",
+    "D": "nerv",
+    "javob": "A"
+  },
+  {
+    "savol": "Qon va limfada hujayralararo moddalar suyuq holda bo’ladi?",
+    "A": "suyuq",
+    "B": "zich",
+    "C": "elastik",
+    "D": "shakllangan",
+    "javob": "A"
+  },
+  {
+    "savol": "Adiposit hujayra qaysi to’qima turiga kiradi?",
+    "A": "biriktiruvchi",
+    "B": "qon",
+    "C": "nerv",
+    "D": "epiteliy",
+    "javob": "A"
+  },
+  {
+    "savol": "Gumoral immunintetda qaysi hujayralar asosiy vazifa bajaradi?",
+    "A": "B-lomfotsit",
+    "B": "T-limfotsit",
+    "C": "O-limfotsit",
+    "D": "D-limfotsit",
+    "javob": "A"
+  },
+  {
+    "savol": "Zich tolali biriktiruvchi to’qima qaysi tuzsilishiga ko’ra 2turga bo’linadi?",
+    "A": "Tolalarning tartibli joylashishiga ko’ra",
+    "B": "Hujayralar tuzilishiga ko’ra",
+    "C": "Elastiklik tuzilishiga ko’ra",
+    "D": "O’zida maxsus hujayralar saqlashiga ko’ra",
+    "javob": "A"
+  },
+  {
+    "savol": "Postembrional davrda markaziy qon yaratuvchi a’zolar?",
+    "A": "Qizil suyak ko’migi, timus",
+    "B": "Limfa tugun, taloq, timus",
+    "C": "Jigar, ayrisimon bez",
+    "D": "Sariq tana, jigar, suyak ko’migi",
+    "javob": "A"
+  },
+  {
+    "savol": "Embrional davrda qaysi a’zoda o’zak hujayralar shakllanadi?",
+    "A": "Sariqlik qopida",
+    "B": "Timusda",
+    "C": "Taloqda",
+    "D": "Limfa tugunda",
+    "javob": "A"
+  },
+  {
+    "savol": "Qon yaratilishida o’zak hujayralar 2ga bo’linishi tufayli qanday hujayralar hosil bo’ladi?",
+    "A": "Yarim o’zak hujayralar",
+    "B": "Blast hujayralar",
+    "C": "Oraliq hujayralar",
+    "D": "Yetuk hujayralar",
+    "javob": "A"
+  },
+  {
+    "savol": "Qari eritrositlar qanday shakllarda bo’ladi?",
+    "A": "Exinotsit, sferosit, stomototsit",
+    "B": "Diskotsit, sferosit",
+    "C": "Sharsimon",
+    "D": "Yumaloq, yadrolari ko’p",
+    "javob": "A"
+  },
+  {
+    "savol": "Qonning asosiy funktsiyalari?",
+    "A": "transport, himoya, trofik va gomeostaz",
+    "B": "himoya",
+    "C": "gomeostatik",
+    "D": "transport va trofik",
+    "javob": "A"
+  },
+  {
+    "savol": "Qon plazmasining tarkibi?",
+    "A": "suv va quruq modda",
+    "B": "oqsil",
+    "C": "organik va mineral birikmalar",
+    "D": "suv",
+    "javob": "A"
+  },
+  {
+    "savol": "Аksariyat eritrotsitlarning formasi?",
+    "A": "Ikki tomonlama botiq",
+    "B": "Sferosit",
+    "C": "Akantosit",
+    "D": "Planosit",
+    "javob": "A"
+  },
+  {
+    "savol": "Qizil qon hujayralarining vazifalari?",
+    "A": "transport",
+    "B": "yemirish",
+    "C": "trofik",
+    "D": "sekretor",
+    "javob": "A"
+  },
+  {
+    "savol": "Eritrotsitlarning yashash muddati?",
+    "A": "90-120 kungacha",
+    "B": "60-70 kungacha",
+    "C": "90 kungacha",
+    "D": "150 kun atrofida",
+    "javob": "A"
+  },
+  {
+    "savol": "Eritrotsitlarning 1mm3 qondagi miqdori?",
+    "A": "4,0 – 5,5 x 10 12/l",
+    "B": "3,5 – 4,5 x 10 12/l",
+    "C": "3,8 – 9 x 10 12/l",
+    "D": "2,7 – 7 x 10 12/l",
+    "javob": "A"
+  },
+  {
+    "savol": "Eritrotsitlarning tarkibi?",
+    "A": "60% li suv, 40% li quruq modda",
+    "B": "70% li suv, 30% li quruq modda",
+    "C": "80% li suv, 20% li quruq modda",
+    "D": "65% li suv, 35% li quruq modda",
+    "javob": "A"
+  },
+  {
+    "savol": "Аgronulotsitlarga quyidagilar kiradi?",
+    "A": "neytrofil, bazofil, eozinofillar",
+    "B": "bazofillar",
+    "C": "limfotsit",
+    "D": "neytrofillar",
+    "javob": "A"
+  },
+  {
+    "savol": "Leykotsitlarning 1 mm3 qondagi miqdori?",
+    "A": "4 – 9 x 109 /l",
+    "B": "4,0 – 5,5 x 109 /l",
+    "C": "2,5 – 4,0 x 109 /l",
+    "D": "3-5 x 109 /l",
+    "javob": "A"
+  },
+  {
+    "savol": "Leykotsitlarning vazifalari?",
+    "A": "himoya",
+    "B": "qon guruhini belgilash",
+    "C": "tayanch",
+    "D": "transport",
+    "javob": "A"
+  },
+  {
+    "savol": "Neytrofil leykotsitlar, leykotsitlarning necha foizini tashkil qiladi?",
+    "A": "65-70%",
+    "B": "40-80%",
+    "C": "50-60%",
+    "D": "60-95%",
+    "javob": "A"
+  },
+  {
+    "savol": "Eozinofillarning yashash muddati?",
+    "A": "10-12 kun",
+    "B": "15-20 kun",
+    "C": "1 – oygacha",
+    "D": "2-4 kungacha",
+    "javob": "A"
+  },
+  {
+    "savol": "Leykotsitar formula nima?",
+    "A": "leykotsitlarning periferik qondagi foiz miqdori",
+    "B": "turli leykotsitlar oʼlchamlarining nisbati",
+    "C": "trombotsit, eritrotsitlar protsent miqdori",
+    "D": "granulotsitlarning agranulotsitlarga nisbati",
+    "javob": "A"
+  },
+  {
+    "savol": "Qon plastinkalarining 1 mm3 qondagi miqdori?",
+    "A": "250-400 x 109/ l.",
+    "B": "100-200 x 109/ l",
+    "C": "50-100 x 109/ l",
+    "D": "3,8 – 90 x 109/ l",
+    "javob": "A"
+  },
+  {
+    "savol": "Qon plastinkalarining shakli?",
+    "A": "yassi",
+    "B": "loviyasimon",
+    "C": "urchuqsimon",
+    "D": "donachasimon",
+    "javob": "A"
+  },
+  {
+    "savol": "Eritrotsitopoez sxematik tarzda quyidagicha ifodalanadi?",
+    "A": "oʼzak hujayra – mielopoezning boshlangʼich hujayrasi – eritroblast pronormotsit – bazofil normotsit – polixromatofil normotsit – oksifil normotsit – retikulotsit – eritrotsit",
+    "B": "gemotsitoblast – mielotsit – eritroblast – pronormotsit – eritrotsit",
+    "C": "oʼzak hujayra – mieloblast – promielotsit – metomielotsit – eritrotsit",
+    "D": "oʼzak hujayra – mielopoezning boshlangʼich hujayrasi – eritroblast – bazofil normotsit – oksifil normotsit – retikulotsit – eritrotsit",
+    "javob": "A"
+  },
+  {
+    "savol": "Limfa nimadan iborat?",
+    "A": "limfoplazma va shaklli elementlardan iborat",
+    "B": "eritrositlardan",
+    "C": "shaklli elementlardan",
+    "D": "limfotsitlardan",
+    "javob": "A"
+  },
+  {
+    "savol": "Eritrotsitlar voyaga yetgan organizmda quyidagi aʼzolarda hosil boʼladi?",
+    "A": "qizil suyak koʼmigida",
+    "B": "timus va suyak koʼmigida",
+    "C": "limfa tugunlarida",
+    "D": "taloqda",
+    "javob": "A"
+  },
+  {
+    "savol": "Odam homilasida qon yaratilishi boshlanadi?",
+    "A": "3 – haftada sariqlik xaltasida",
+    "B": "2 – haftaning oxirida jigarda",
+    "C": "5 – haftada mezenxima hujayralari orasida",
+    "D": "3 – haftada suyak koʼmigida",
+    "javob": "A"
+  },
+  {
+    "savol": "Homila jigarida embriogenezning birinchi yarmida ?",
+    "A": "qonning barcha birlamchi hujayralari takomillashadi",
+    "B": "granulotsitlar takomillashadi",
+    "C": "eritrotsitlar hosil boʼladi",
+    "D": "trombotsitlar hosil boʼladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Embriogenezning 2 – yarmida qon yaratilishi?",
+    "A": "Jigarda kechadi",
+    "B": "suyak koʼmigida, timusda, taloqda va limfa tugunlarida kechadi",
+    "C": "faqat suyak koʼmigida kechadi",
+    "D": "limfa tugunida kechadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Voyaga yetgan organizmda gemotsitopoez aʼzolari?",
+    "A": "suyak koʼmigi, timus, taloq, limfa tugunlari va limfoid toʼqimalar",
+    "B": "limfa tugunlari",
+    "C": "suyak koʼmigi, buyrak, ichaklar",
+    "D": "suyak koʼmigi, limfa tugunlari",
+    "javob": "A"
+  },
+  {
+    "savol": "Oʼzak hujayralari quyidagi xususiyatlari bilan xarakterlanadi?",
+    "A": "diametri 8 – 10 mkm, polipotent va oʼz – oʼzini tiklab oladi",
+    "B": "polipotent boʼlmaydi",
+    "C": "koloniyalar hosil qiladi",
+    "D": "yirik lizosomalar tutadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Asosiy vazifasi hujayra shaklini saqlash bo’lgan hujayra organoidi?",
+    "A": "Sitoskelet",
+    "B": "Mitoxodriya",
+    "C": "Lizosoma",
+    "D": "Ribosoma",
+    "javob": "A"
+  },
+  {
+    "savol": "Eritrositlar shaklining o’zgarishiga nima deyiladi?",
+    "A": "poykilositoz",
+    "B": "anizositoz",
+    "C": "fagositoz",
+    "D": "gemositopoez",
+    "javob": "A"
+  },
+  {
+    "savol": "Trombositopoezda trombositlar qaysi hujayra sitoplazma plastinkalari hisoblanadi?",
+    "A": "megakariosit",
+    "B": "retikulosit",
+    "C": "monotsit",
+    "D": "limfosit",
+    "javob": "A"
+  },
+  {
+    "savol": "Qon yaratilshida mezoblastik faza qaysi davrga mansub?",
+    "A": "embrional",
+    "B": "postembrional",
+    "C": "yetuklik",
+    "D": "neonatal",
+    "javob": "A"
+  },
+  {
+    "savol": "Mezoblastik davrda embrion qaysi sohasida o’zak hujayra shakllanadi?",
+    "A": "Sariqlik qopida",
+    "B": "Buyrakda",
+    "C": "Qizil suyak ko’migida",
+    "D": "Taloqda",
+    "javob": "A"
+  },
+  {
+    "savol": "Tikanaksimon eritrositlarni yana qanday nomlanadi?",
+    "A": "Exinotsitlar",
+    "B": "Diskotsitlar",
+    "C": "Sferositlar",
+    "D": "Stomototsitlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Eritrositlarning necha xil formasi bor?",
+    "A": "3 xil",
+    "B": "4 xil",
+    "C": "5 xil",
+    "D": "8 xil",
+    "javob": "A"
+  },
+  {
+    "savol": "Eritrositlar formalarini belgilang?",
+    "A": "Yosh, yetuk, qari",
+    "B": "Normosit, makrosit, mikrosit",
+    "C": "Donador, donasiz",
+    "D": "Limfosit, monotsit",
+    "javob": "A"
+  },
+  {
+    "savol": "Biriktiruvchi to’qimaning tolalari soni ko’p, tartibsiz joylashgan bo’lsa qanday turga mansub bo’ladi?",
+    "A": "Zich shakllanmagan",
+    "B": "Zich shakllangan",
+    "C": "Maxsus hujayralar",
+    "D": "Shilliq, yog’, pigment",
+    "javob": "A"
+  },
+  {
+    "savol": "Makrofag nimadan hosil bo’ladi?",
+    "A": "Monotsitdan",
+    "B": "Limfositdan",
+    "C": "Eritrositdan",
+    "D": "Neytrofildan",
+    "javob": "A"
+  },
+  {
+    "savol": "Leykositar formulada neytrofillar necha foizni tashkil qiladi?",
+    "A": "65-70%",
+    "B": "45%",
+    "C": "2-4%",
+    "D": "30%",
+    "javob": "A"
+  },
+  {
+    "savol": "Qon plazmasida qanaqa oqsillar uchraydi?",
+    "A": "Albumin, globulin, fibrinogen",
+    "B": "Spektrin,3tasmali, glikoforin",
+    "C": "Gemoglobin",
+    "D": "Monotsit, limfotsit",
+    "javob": "A"
+  },
+  {
+    "savol": "Poykilositoz qanday shaklli elementlarning o’zgarishi?",
+    "A": "Eritrositlar shaklining o’zgarishi",
+    "B": "Leykositlarning o’zgarishi",
+    "C": "Trombositlarning o’zgarishi",
+    "D": "Eritrositlar sonining ko’payishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Eritrositlarda uchrovchi oqsillar?",
+    "A": "Spektrin,3tasmali, glikoforin, gemoglobin",
+    "B": "Albumin, globulin",
+    "C": "Immunoglobulin",
+    "D": "Fibrinogen",
+    "javob": "A"
+  },
+  {
+    "savol": "Qon tarkibida eritrositlarning kamayishi nima deyiladi?",
+    "A": "Eritropeniya",
+    "B": "Eritrositoz",
+    "C": "Poykilositoz",
+    "D": "Anizositoz",
+    "javob": "A"
+  },
+  {
+    "savol": "Organizm o’ziga yot bo’lgan zarracha va moddalardan yani antigenlardan himoya qilishiga nima deyiladi?",
+    "A": "immunitet",
+    "B": "antigen",
+    "C": "immunoglobulin",
+    "D": "fagositoz",
+    "javob": "A"
+  },
+  {
+    "savol": "T-limfositlar qaysi immunitetda faol ishtirok etadi?",
+    "A": "Hujayraviy",
+    "B": "Gumoral",
+    "C": "To’qima",
+    "D": "Leykosit",
+    "javob": "A"
+  },
+  {
+    "savol": "Gumoral immunitetda qaysi hujayralar asosiy qatnashuvchilar hisoblanadi?",
+    "A": "B-limfosit",
+    "B": "T-limfosit",
+    "C": "Neytrofil",
+    "D": "Bazofil",
+    "javob": "A"
+  },
+  {
+    "savol": "Qon ivishida qaysi shaklli element qatnashadi?",
+    "A": "Trombosit",
+    "B": "Leykosit",
+    "C": "Eritrosit",
+    "D": "Neytrofil",
+    "javob": "A"
+  },
+  {
+    "savol": "Sog’lom organizmda 1mm*3 qonda qancha trombositlar bo’ladi?",
+    "A": "250-300 10*9/l",
+    "B": "5-9 10*9/l",
+    "C": "3,7-4 10*12/l",
+    "D": "4-5 10*12/l",
+    "javob": "A"
+  },
+  {
+    "savol": "Yog’ to’qimasi nechta turlari farqlanadi?",
+    "A": "2 tur",
+    "B": "3 tur",
+    "C": "4 tur",
+    "D": "5 tur",
+    "javob": "A"
+  },
+  {
+    "savol": "Voyaga yetgan odam organizmidagi qaysi a’zo faqat embrional davrda qon shaklli elementlarini hosil qiladi?",
+    "A": "Jigar",
+    "B": "Taloq",
+    "C": "Qizil suyak ko’migi",
+    "D": "Timus",
+    "javob": "A"
+  },
+  {
+    "savol": "B va T-limfositlar qayerga borib yetuk shaklli elementga aylanadi?",
+    "A": "Timus",
+    "B": "Qizil suyak ko’migi",
+    "C": "Taloq",
+    "D": "Limfa tuguni",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko’ndalang targ’il yurak va ko’nadalang targ’il skelet qaysi to’qima turiga kiradi?",
+    "A": "Mushak",
+    "B": "Suyak",
+    "C": "Epiteliy",
+    "D": "Biriktiruvchi",
+    "javob": "A"
+  },
+  {
+    "savol": "Yog’ hujayrasi, semiz hujayralar, retikulyar hujayralar qaysi to’qima hujayralari sanaladi?",
+    "A": "Biriktiruvchi",
+    "B": "Nerv",
+    "C": "Epiteliy",
+    "D": "Mushak",
+    "javob": "A"
+  },
+  {
+    "savol": "Siyrak shakllanmagan biriktiruvchi to’qimaning necha foizi hujayralar aro modadan iborat?",
+    "A": "70%",
+    "B": "30%",
+    "C": "10%",
+    "D": "90%",
+    "javob": "A"
+  },
+  {
+    "savol": "Amorf modda biriktiruvchi to’qimaning qaysi komponenti hisoblanadi?",
+    "A": "Hujayralararo modda",
+    "B": "Hujayra",
+    "C": "Tola",
+    "D": "Fibroblast",
+    "javob": "A"
+  },
+  {
+    "savol": "To’qimaga to’liq tarif berilgan javobni toping?",
+    "A": "Umumiy tuzilishga ega boʼlib, maʼlum funktsiyani bajarishga ixtisoslashgan hujayralar va hujayra boʼlmagan tuzilmalar majmuasi",
+    "B": "toʼqimalarning taraqqiyoti, tuzilishi va faoliyati",
+    "C": "Turli turdagi vazifalarni bajaruvchi",
+    "D": "organlarning morfo-funktsional birliklarining tuzilishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Antigenlar berilgan javobni toping?",
+    "A": "Mikrob, virus, bakteriya",
+    "B": "Limfositlar",
+    "C": "Monotsit, limfosit",
+    "D": "Antitanalar",
+    "javob": "A"
+  },
+  {
+    "savol": "Embrional davrda qon yaratilishining 3-davri qanday nomlanadi?",
+    "A": "Medullar davr",
+    "B": "Mezoblastik davr",
+    "C": "Jigar davri",
+    "D": "Postembrional davr",
+    "javob": "A"
+  },
+  {
+    "savol": "Postembrional davrda periferik qon yaratuvchi a’zolar qaysilar?",
+    "A": "Taloq, limfa tuguni, shilliq qavat limfoid tugunlari",
+    "B": "Qizil suyak ko’migi, timus",
+    "C": "Taloq, timus, jigar",
+    "D": "Limfa tuguni, taloq, timus",
+    "javob": "A"
+  },
+  {
+    "savol": "Umumiy qon hajmiga nisbatan plazma qonning % tashkil etadi?",
+    "A": "55-60%",
+    "B": "45-50%",
+    "C": "15-20%",
+    "D": "10-15%",
+    "javob": "A"
+  },
+  {
+    "savol": "Qon yaratilishida embrional davrda mezoblastik davr qancha davom etadi?",
+    "A": "5-6haftagacha",
+    "B": "5-9oylikkacha",
+    "C": "Tug’ilguncha",
+    "D": "36-40haftagacha",
+    "javob": "A"
+  },
+  {
+    "savol": "Yog’ to’qimasi qaysi to’qima turiga kiradi?",
+    "A": "Asl biriktiruvchi to’qima",
+    "B": "Retikulya to’qima",
+    "C": "Mushak to’qimasi",
+    "D": "Tog’ay to’qimasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Mikrositar eritrositlar diametri nechiga teng?",
+    "A": "6-mkmdan kichik",
+    "B": "10-12mkm",
+    "C": "2-3mkm",
+    "D": "7-8mkm",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi shaklli element leykositlar foizida 20-35% tashkil etadi",
+    "A": "Limfosit",
+    "B": "Eritrosit",
+    "C": "Monotsit",
+    "D": "Bazofil",
+    "javob": "A"
+  },
+  {
+    "savol": "Eritrosit shaklini belgilaydigan oqsil turi?",
+    "A": "Spektrin",
+    "B": "Glikoforin",
+    "C": "Gemoglobin",
+    "D": "Fibrinogen",
+    "javob": "A"
+  },
+  {
+    "savol": "Tikanaksimon o’siqli eritrosit shaklli elementi yana qanday nomlanadi?",
+    "A": "Exinotsit",
+    "B": "Sferosit",
+    "C": "Leykosit",
+    "D": "Eritrosit",
+    "javob": "A"
+  },
+  {
+    "savol": "Granulosit leykositlarga nimalar kiradi?",
+    "A": "Neytrofil, eozinofil, bazofil",
+    "B": "Limfosit, monosit",
+    "C": "Limfosit, leykosit",
+    "D": "Exinosit, sferosit",
+    "javob": "A"
+  },
+  {
+    "savol": "Neytrofillarda qanaqa granulalar sitoplazmasida bo’ladi?",
+    "A": "Neytrofil granulalar",
+    "B": "Spetsifik bazofil granulalar",
+    "C": "Eozinofil granulalar",
+    "D": "Oksifil granulalar",
+    "javob": "A"
+  },
+  {
+    "savol": "Agranulosit leykosit turlarini belgilang?",
+    "A": "Limfosit, monosit",
+    "B": "Limfosit, leykosit",
+    "C": "Neytrofil, eozinofil, bazofil",
+    "D": "T-limfosit,b-limfosit",
+    "javob": "A"
+  },
+  {
+    "savol": "Eritrositlarning yashash muddati?",
+    "A": "90-120kun",
+    "B": "3-5kun",
+    "C": "10-12kun",
+    "D": "1-3kun",
+    "javob": "A"
+  },
+  {
+    "savol": "Leykositlarning vazifasi?",
+    "A": "Himoya",
+    "B": "Trofik",
+    "C": "Sekretsiya",
+    "D": "Ajratish",
+    "javob": "A"
+  },
+  {
+    "savol": "Trombositlarning vazifasi nimadan iborat?",
+    "A": "Qon ivishida ishtirok etadi",
+    "B": "Organizmni himoya qiladi",
+    "C": "Secret ajratadi",
+    "D": "Oqsil hosil bo’lishida ishtirok etadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Eritrositlar qonda qancha miqdorda?",
+    "A": "4-5 x 10 12/l",
+    "B": "6-9 x 10 12/l",
+    "C": "1-2 x 10 12/l",
+    "D": "2-3 x 10 12/l",
+    "javob": "A"
+  },
+  {
+    "savol": "Granulositlar tarkibidagi granulalar nechi turga bo’linadi?",
+    "A": "2turga",
+    "B": "4turga",
+    "C": "5turga",
+    "D": "3turga",
+    "javob": "A"
+  },
+  {
+    "savol": "Qon plazmasi tarkibi nimalardan iborat?",
+    "A": "Suv, oqsil, lipid, noorganik moddalar",
+    "B": "Leykosit,trombosit",
+    "C": "Limfosit, monosit",
+    "D": "Eritrosit, trombosit,leykosit",
+    "javob": "A"
+  },
+  {
+    "savol": "Retikulyar to’qima qanday komponentlardan iborat?",
+    "A": "Retikulyar hujayra, retikulyar tola",
+    "B": "Retikulyar tola, elastik tola",
+    "C": "Oq va qo’ng’ir hujayralar",
+    "D": "Amorf va tolalar",
+    "javob": "A"
+  },
+  {
+    "savol": "Tromsitopoezda qaysi hujayra o’zining plastinkalarini qonga chiqaradi?",
+    "A": "Megakariosit",
+    "B": "Metamiyelosit",
+    "C": "Eritroblast",
+    "D": "Promonotsit",
+    "javob": "A"
+  },
+  {
+    "savol": "Eritrositlar diametrinig o’zgarishi deb nimaga aytiladi?",
+    "A": "Anizositoz",
+    "B": "Poykilositoz",
+    "C": "Erotrositoz",
+    "D": "Leykositoz",
+    "javob": "A"
+  },
+  {
+    "savol": "Voyaga yetgan organizmda qon yaratuvchi a’zolardan timus qaysi guruhga mansub?",
+    "A": "Markaziy qon yaratuvchi",
+    "B": "Periferik qon yaratuvchi",
+    "C": "Mezoblastik davr",
+    "D": "Medullar davr",
+    "javob": "A"
+  },
+  {
+    "savol": "Asl biriktiruvchi to’qimaga xos hujayra?",
+    "A": "Fibroblast",
+    "B": "Monotsit",
+    "C": "Xondroblat",
+    "D": "Megakariosit",
+    "javob": "A"
+  },
+  {
+    "savol": "Embrionda qon yaratilishi dastlab qaysi a'zoda boshlanadi?",
+    "A": "Sariqlik qopchasida",
+    "B": "Timusda",
+    "C": "Taloqda",
+    "D": "Jigarda",
+    "javob": "A"
+  },
+  {
+    "savol": "Biriktiruvchi to’qima qayerdan rivojlanadi?",
+    "A": "mezenximadan",
+    "B": "endodermadan",
+    "C": "ektoplazmadan",
+    "D": "sariqlikdan",
+    "javob": "A"
+  },
+  {
+    "savol": "Yog’ hujayrasi yana qanday nomlanadi?",
+    "A": "Adiposit",
+    "B": "Labrosit",
+    "C": "Plazmatik",
+    "D": "Retikulosit",
+    "javob": "A"
+  },
+  {
+    "savol": "Elastik tolalar qanday oqsildan iborat?",
+    "A": "Elastin, fibrillin",
+    "B": "Retikulyar tola",
+    "C": "Elastic mikrofibrilla",
+    "D": "Fibrinogen, spektrin",
+    "javob": "A"
+  },
+  {
+    "savol": "Kollagen tolalar qayerlarda uchraydi?",
+    "A": "Boylam, pay, fassiya, kapsula",
+    "B": "Faqat boylam",
+    "C": "Retikulyar tola, retikulyar hujayrada",
+    "D": "Periferik qon yaratuvchi a’zoda",
+    "javob": "A"
+  },
+  {
+    "savol": "Eritrositda membranasida spektrin oqsili qanday vazifaga ega?",
+    "A": "Eritrositga shakl berish",
+    "B": "Kislorodni biriktirish",
+    "C": "Granulositda himoya qilish",
+    "D": "Trombositda uchraydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Biriktiruvchi to’qimaning shilliq to’qimasini qayerda uchratish mumkin?",
+    "A": "Embrional davrda kindik tizimchasida",
+    "B": "Qizil suyak va sariq suyak ko’migida",
+    "C": "Taloqda",
+    "D": "Barcha qon yaratuvchi a’zolarda",
+    "javob": "A"
+  },
+  {
+    "savol": "Biriktiruvchi to’qimasidagi Yog’ to’qimasining vazifalari?",
+    "A": "Issiqlik saqlab qolish, yog’ deposi",
+    "B": "Ichki a’zolarni qoplash",
+    "C": "Qon hosil qilish",
+    "D": "Impuls hosil qilish",
+    "javob": "A"
+  },
+  {
+    "savol": "Xondrosit va xondroblast hujayralari qaysi to’qima hujayralari?",
+    "A": "Tog’ay to’qimasi",
+    "B": "Suyak to’qimasi",
+    "C": "Asl biriktiruvchi to’qima",
+    "D": "Nerv to’qimasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Tog’ay to’qimasi turlarini belgilang?",
+    "A": "Gialin, elastik, tolali",
+    "B": "G’ovak va naysimon",
+    "C": "Faqat gialin",
+    "D": "Elastin, fibrilin",
+    "javob": "A"
+  },
+  {
+    "savol": "Suyak to’qimasi hujayralarini belgilang?",
+    "A": "Osteoblast, osteoklast, osteosit",
+    "B": "Xondroblast, xondrosit",
+    "C": "Labrosit, adiposit",
+    "D": "Retikulyar, elastik",
+    "javob": "A"
+  },
+  {
+    "savol": "Suyak to’qimasidagi o’simtalarga ega hujayralar?",
+    "A": "Osteosit",
+    "B": "Xondrosit",
+    "C": "Xondroblast",
+    "D": "Osteklast",
+    "javob": "A"
+  },
+  {
+    "savol": "Osteoklast hujayralari nimadan hosil bo’ladi?",
+    "A": "Monotsitdan",
+    "B": "Eritrositdan",
+    "C": "Osteositdan",
+    "D": "Xondrositdan",
+    "javob": "A"
+  },
+  {
+    "savol": "Osteosit hujayralarining asosiy vazifasi?",
+    "A": "Suyak to’qimasini oziqlantirish",
+    "B": "Yangi suyak hosil bo’lishida",
+    "C": "Qon hosil qilishda",
+    "D": "Yangi tog’ay hosil qilishda",
+    "javob": "A"
+  },
+  {
+    "savol": "Yosh eritrositlar qanday nomlanadi?",
+    "A": "retikulosit",
+    "B": "exinotsit",
+    "C": "diskosit",
+    "D": "stomototsit",
+    "javob": "A"
+  },
+  {
+    "savol": "Tog’ay usti pardasi qanday nomlanadi?",
+    "A": "Perixondrium",
+    "B": "Xondrium",
+    "C": "Appozitsion",
+    "D": "Tolali",
+    "javob": "A"
+  },
+  {
+    "savol": "Tog’ay to’qimasida appozitsion o’sish qaysi hujayra hisobiga amalga oshadi?",
+    "A": "Xondroblast",
+    "B": "Xondroklast",
+    "C": "Osteosit",
+    "D": "Osteoklast",
+    "javob": "A"
+  },
+  {
+    "savol": "Necha xil tip xondrositlar farqlanadi?",
+    "A": "2 xil tip",
+    "B": "1 xil tip",
+    "C": "4 xil tip",
+    "D": "5 xil tip",
+    "javob": "A"
+  },
+  {
+    "savol": "Umurtqalararo disk fibroz halqasida qanday tog’ay uchraydi?",
+    "A": "Tolali",
+    "B": "Gialin",
+    "C": "G’ovak",
+    "D": "Elastik",
+    "javob": "A"
+  },
+  {
+    "savol": "Quloq chig’anogi’da va burunda qaysi tog’ay uchraydi?",
+    "A": "Elastik",
+    "B": "Tolali",
+    "C": "Naysimon",
+    "D": "Gialin",
+    "javob": "A"
+  },
+  {
+    "savol": "Haqiqiy suyak hujayrlarini belgilang?",
+    "A": "Osteosit",
+    "B": "Osteoklast",
+    "C": "Xondroblast",
+    "D": "Xondroklast",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi hujayra 3-10 monotsit yig’ilishidan hosil bo’lgan simplast hujayra hisoblanadi?",
+    "A": "Osteoklast",
+    "B": "Osteosit",
+    "C": "Fibrosit",
+    "D": "Osteoblast",
+    "javob": "A"
+  },
+  {
+    "savol": "payning suyakka birikish joylarida (suyak do'ngliklarida) qaysi suyak to’qimasi uchraydi?",
+    "A": "Dag’al tolali suyak to’qimasi",
+    "B": "Naysimon suyak",
+    "C": "Perixondriumda",
+    "D": "Plastinkasimon suyak to’qimasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Suyak to’qimasida qaysi tolalar ko’p uchraydi?",
+    "A": "Kollagen",
+    "B": "Elastik",
+    "C": "Amorf modda",
+    "D": "Osteosit",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi hujayra suyak yemirib, uning yangilanishini taminlaydi?",
+    "A": "Osteoklast",
+    "B": "Fibrosit",
+    "C": "Osteosit",
+    "D": "Xondroklast",
+    "javob": "A"
+  },
+  {
+    "savol": "Osteoklast hujayralar qayerlarda joylashgan?",
+    "A": "Periost va endost ostida",
+    "B": "Gialin tog’ayda",
+    "C": "Kollagen tolalarda",
+    "D": "Tolali tog’ayda",
+    "javob": "A"
+  },
+  {
+    "savol": "Osteogenez qanday jarayon?",
+    "A": "Suyakning tarraqiyoti",
+    "B": "Tog’ayning taraqqiyoti",
+    "C": "Tish taraqqiyoti",
+    "D": "Hazm sistemasi taraqqiyoti",
+    "javob": "A"
+  },
+  {
+    "savol": "Suyak to’qimasi taraqqiyoti necha xilda hosil bo’ladi?",
+    "A": "Bevosita va bilvosita",
+    "B": "Appozitsion va intersitsial",
+    "C": "Osteoblast va osteoklast",
+    "D": "Gialin va fibroz",
+    "javob": "A"
+  },
+  {
+    "savol": "Yurak mushak hujayralari qanday nomlanadi?",
+    "A": "kardiomiosit",
+    "B": "sarkomer",
+    "C": "miotsit",
+    "D": "Silliq miotsit",
+    "javob": "A"
+  },
+  {
+    "savol": "Nerv to’qimasi hujayralarini belgilang?",
+    "A": "Neyron va neyrogliya",
+    "B": "Akson va dendrit",
+    "C": "Astrosit va oligodendrotsit",
+    "D": "Mikrogliya",
+    "javob": "A"
+  },
+  {
+    "savol": "Neyroglial hujayra qaysi to’qima hujayralari?",
+    "A": "Nerv",
+    "B": "Shilliq",
+    "C": "Asl Biriktiruvchi",
+    "D": "Epiteliy",
+    "javob": "A"
+  },
+  {
+    "savol": "Hozirgi vaqtda necha xil kardiomiosit hujayralar turlari bor?",
+    "A": "3 xil",
+    "B": "4 xil",
+    "C": "1 xil",
+    "D": "5 xil",
+    "javob": "A"
+  },
+  {
+    "savol": "Skelet mushaklari qaysi mushak turiga mansub?",
+    "A": "Ko’ndalang targ’il",
+    "B": "Silliq miotsit",
+    "C": "Kardiomiotsit",
+    "D": "Suyak to’qimasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ovqat hazm qilish sistemasida qaysi mushak guruhlari uchraydi?",
+    "A": "Silliq miotsit",
+    "B": "Ko’ndalang",
+    "C": "Aylana mushak",
+    "D": "Bo’ylamasiga yo’nalgan",
+    "javob": "A"
+  },
+  {
+    "savol": "Neyronlarning uzun o’simtasi nima deyiladi?",
+    "A": "Akson",
+    "B": "Dendrit",
+    "C": "Mikrogliya",
+    "D": "Oligodendrit",
+    "javob": "A"
+  },
+  {
+    "savol": "Neyron uzum o’simtasi qanday parda bilan qoplangan?",
+    "A": "Miyelin parda",
+    "B": "Silliq parda",
+    "C": "Suyak usti parda",
+    "D": "Shilliq qavat parda",
+    "javob": "A"
+  },
+  {
+    "savol": "Neyrogliya hujayra turlarini belgilang?",
+    "A": "Makrogliya va mikrogliya",
+    "B": "Akson va dendrit",
+    "C": "Astrosit va oligodendrosit",
+    "D": "Unipolyar va bipolyar",
+    "javob": "A"
+  },
+  {
+    "savol": "Tuzilishi va funksiyasiga ko'ra mushak to'qimasining quyidagi turlari bor?",
+    "A": "silliq, ko'ndalang targ'il",
+    "B": "silliq, ko'ndalang targ'il, yurak mushagi",
+    "C": "silliq, yurak mushagi, maxsus mushak to'qimasi",
+    "D": "silliq, ko'ndalang targ'il, maxsus mushak to'qimasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Skelet mushagi tuzilgan:",
+    "A": "miotsitlardan",
+    "B": "kardiomiotsitlardan",
+    "C": "ko‘p yadroli mushak tolalaridan",
+    "D": "Mioepitelial Hujayralardan.",
+    "javob": "A"
+  },
+  {
+    "savol": "Nerv tolalari pardalarining tuzilishiga koʻra ikki guruhga bo’linadi bular?",
+    "A": "Miyelensiz va miyelenli",
+    "B": "Neyroelementlar",
+    "C": "Shvan hujayralar",
+    "D": "Mikrogliya",
+    "javob": "A"
+  },
+  {
+    "savol": "Yurak qavatlari",
+    "A": "3ta",
+    "B": "2ta",
+    "C": "5ta",
+    "D": "4ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Yurak qavatlari ketma ketligi",
+    "A": "endokard miokard epikard",
+    "B": "endokard epikard miokard",
+    "C": "epikard miokard perikard",
+    "D": "shilliq shilliq osti adventitsiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Yunonchada daraxt ma`nosini bildiradigan erv hujayrasi?",
+    "A": "Dendrit",
+    "B": "Astrogliya",
+    "C": "Desmasoma",
+    "D": "Mikrogliya",
+    "javob": "A"
+  },
+  {
+    "savol": "Ikki o`simtali nerv hujayrasi nima deyiladi?",
+    "A": "bipolyar",
+    "B": "unipolyar",
+    "C": "multipolyar",
+    "D": "psevdounipolyar",
+    "javob": "A"
+  },
+  {
+    "savol": "Bir o`simtali nerv hujayrasi nima deyiladi?",
+    "A": "unipolyar",
+    "B": "bipolyar",
+    "C": "multipolyar",
+    "D": "neyron",
+    "javob": "A"
+  },
+  {
+    "savol": "ko`p o`simtali nerv hujayrasi nima deyiladi.",
+    "A": "multipolyar",
+    "B": "bipolyar",
+    "C": "unipolyar",
+    "D": "neyron",
+    "javob": "A"
+  },
+  {
+    "savol": "Miyelenli nerv tolasi necha qismdan iborat",
+    "A": "ichki va tashqi",
+    "B": "tipik va atipik",
+    "C": "katta va kichik",
+    "D": "tolali va tolasiz",
+    "javob": "A"
+  },
+  {
+    "savol": "Uzun o’simtaga ega nerv hujayrasi",
+    "A": "akson",
+    "B": "dendrit",
+    "C": "yulduzsimon",
+    "D": "o`simtali",
+    "javob": "A"
+  },
+  {
+    "savol": "Aksonning manosi",
+    "A": "o`q",
+    "B": "daraxt",
+    "C": "yulduz",
+    "D": "o`simta",
+    "javob": "A"
+  },
+  {
+    "savol": "Neyrogliya ma`nosi",
+    "A": "nerv yelimi",
+    "B": "tayanch",
+    "C": "daraxt",
+    "D": "nerv nayi",
+    "javob": "A"
+  },
+  {
+    "savol": "Neyronlar tanasida kalta o’simta hosil qiluvchi qism?",
+    "A": "Dendrit",
+    "B": "Akson",
+    "C": "Desmasoma",
+    "D": "Mikrogliya",
+    "javob": "A"
+  },
+  {
+    "savol": "Ikkita Z-chiziqchasi oralig’idagi miofibrilla bo‘lakchasi bu:",
+    "A": "sarkomer",
+    "B": "T-naychalar sistemasi",
+    "C": "I-disk",
+    "D": "N-zona",
+    "javob": "A"
+  },
+  {
+    "savol": "Suyak to’qimasining hujayralararo moddasi tuzilgan:",
+    "A": "kollagen tolalar va amorf moddadan",
+    "B": "elastik tolalar va amorf moddadan",
+    "C": "kollagen va retikulyar tolalardan",
+    "D": "osteoblastlar va retikulyar tolalardan",
+    "javob": "A"
+  },
+  {
+    "savol": "Suyak to’qimasining parchalanishini amalga oshiradigan hujayra?",
+    "A": "osteoklast",
+    "B": "osteotsit",
+    "C": "osteoblast",
+    "D": "xondroblast",
+    "javob": "A"
+  },
+  {
+    "savol": "Suyak to’qimasining hujayralararo moddasini sintezlaydi?",
+    "A": "osteoblastlar",
+    "B": "fibroblastlar",
+    "C": "xondroblastlar",
+    "D": "osteotsitlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Gialin tog’ay to’qimasi uchraydi:",
+    "A": "xavo o‘tkazuvchi yo‘llar",
+    "B": "quloq suprasi",
+    "C": "umurtqalararo disk",
+    "D": "fassiyada",
+    "javob": "A"
+  },
+  {
+    "savol": "Eritrotsitopoez jarayonida?",
+    "A": "hujayralarda gemoglobin sintezlanib, yadro yoʼqotiladi",
+    "B": "eritron hujayralarining organoidlari soni ortadi",
+    "C": "hujayralar mitoz va amitoz yoʼli bilan koʼpayadi",
+    "D": "hujayralar yadrosi kattalashadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Granulotsitopoez voyaga yetgan odam organizmida quyidagi aʼzolarda kechadi?",
+    "A": "qizil suyak koʼmigida",
+    "B": "timus va taloqda",
+    "C": "qizil suyak koʼmigi va taloqda",
+    "D": "timusda",
+    "javob": "A"
+  },
+  {
+    "savol": "Suyak koʼmigi quyidagi vazifalarni bajaradi?",
+    "A": "qonning barcha shaklli elementlarini hosil qiladi",
+    "B": "eritrotsitlar hosil qiladi",
+    "C": "leykotsitlar hosil qiladi",
+    "D": "limfotsitopoez aʼzosi",
+    "javob": "A"
+  },
+  {
+    "savol": "Suyak ko’migi “gigant” larining roli ?",
+    "A": "trombotsitlar hosil qiladi",
+    "B": "eritrotsitlar hosil qiladi",
+    "C": "tayanch vazifasini oʼtaydi",
+    "D": "limfotsitlar hosil qiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Gistaminni kamaytirishda qatnashadigan leykotsitlar?",
+    "A": "eozinofillar",
+    "B": "neytrofillar",
+    "C": "bazofillar",
+    "D": "limfotsitlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi a'zolardan qaysi birida faqat homila davrida qon yaratiladi?",
+    "A": "jigarda",
+    "B": "suyak kumigida",
+    "C": "taloqda",
+    "D": "limfa tugunida",
+    "javob": "A"
+  },
+  {
+    "savol": "Odamda qon plastinkalari?",
+    "A": "megakariotsitlar sitoplazmasining parchalari",
+    "B": "simplastlar",
+    "C": "sinsitiylar",
+    "D": "megakariotsitlaryadrosining parchalari",
+    "javob": "A"
+  },
+  {
+    "savol": "Sog’lom voyaga yetgan odamda neytrofil leykotsitlarning foiz mikdori?",
+    "A": "65-75%",
+    "B": "0-0. 5%",
+    "C": "4-8%",
+    "D": "30-35%",
+    "javob": "A"
+  },
+  {
+    "savol": "Bazofil leykotsitlar donachalari tarkibiga xos?",
+    "A": "geparin va gistamin",
+    "B": "lizotsim va amilaza",
+    "C": "laktoferrin",
+    "D": "arilsulfataza va lipaza",
+    "javob": "A"
+  },
+  {
+    "savol": "Odamda B-limfotsitlar xosil bo‘ladi?",
+    "A": "qizil suyak ko‘migida",
+    "B": "jigarda",
+    "C": "limfa tugunida",
+    "D": "timusda",
+    "javob": "A"
+  },
+  {
+    "savol": "Tarkibi kollagen tola bo’lgan Gialin tog’ay to’qimasi uchraydi?",
+    "A": "havo o‘tkazuvchi yo‘llar",
+    "B": "quloq suprasi",
+    "C": "umurtqalararo disk",
+    "D": "paylarda",
+    "javob": "A"
+  },
+  {
+    "savol": "Elastik tog’aydan tuzilgan?",
+    "A": "quloq suprasi tog’ayi",
+    "B": "bo‘g’im yuzasi tog’ayi",
+    "C": "traxeyaning fibroz-tog’ayqavati",
+    "D": "umurtqalararo disklar",
+    "javob": "A"
+  },
+  {
+    "savol": "Tolali tog’ay to’qimasi uchraydi?",
+    "A": "umurtqalararo diskda",
+    "B": "bo‘g’im yuzasi tog’ayida",
+    "C": "havo o‘tkazuvchi yo‘llarda",
+    "D": "traxeyada",
+    "javob": "A"
+  },
+  {
+    "savol": "Melanin sintezlovchi hujayra?",
+    "A": "melanotsitlar",
+    "B": "melanoforlar",
+    "C": "melanotropotsitlar",
+    "D": "adipotsitlar",
+    "javob": "A"
+  },
+  {
+    "savol": "To’qima bazofili hujayrasi qaysi to’qima hujayrasi?",
+    "A": "Asl biriktiruvchi to’qima",
+    "B": "Tog’ay to’qimasi",
+    "C": "Suyak to’qimasi",
+    "D": "Epiteliy to’qimasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Аgronulotsitlarga quyidagilar kiradi?",
+    "A": "limfotsitlar va monotsitlar",
+    "B": "bazofillar",
+    "C": "eozinofillar",
+    "D": "neytrofillar",
+    "javob": "A"
+  },
+  {
+    "savol": "Qon yaratuvchi aʼzolarni asosini tashkil qiluvchi biriktiruvchi toʼqimani xili?",
+    "A": "retikulyar toʼqima",
+    "B": "siyrak tolali shakllanmagan",
+    "C": "yogʼ toʼqimasi",
+    "D": "shilliq toʼqima",
+    "javob": "A"
+  },
+  {
+    "savol": "Biriktiruvchi toʼqimaning taraqqiyot manbai ?",
+    "A": "mezenxima",
+    "B": "ektoderma",
+    "C": "entoderma",
+    "D": "splanxnotom",
+    "javob": "A"
+  },
+  {
+    "savol": "Makrofaglar qanday hujayralarning o’zgarishidan hosil boʼladi?",
+    "A": "Agronulasitlardan monotsitlardan",
+    "B": "Limfoblastlardan",
+    "C": "Retikulyar hujayralardan",
+    "D": "nterdigitirlovchi hujayralardan",
+    "javob": "A"
+  },
+  {
+    "savol": "Makrofaglarning asosiy vazifasi?",
+    "A": "fagotsitoz va immun reaktsiyalarda ishtirok etish",
+    "B": "antitelolar ishlab chiqarish",
+    "C": "ujayralararo modda sintezlash",
+    "D": "tayanch va trofik",
+    "javob": "A"
+  },
+  {
+    "savol": "Togʼay toʼqimasining kimyoviy tarkibi?",
+    "A": "70-80 % suv, 10-15 % organik moddalar, 4-7 % mineral tuzlar",
+    "B": "10-20 % suv, 80-90 % organik birikmalar",
+    "C": "10-15 % suv, 70-80 % mineral tuzlar va 4-7 % organik birikmalar",
+    "D": "4-7 % suv, 10-15 % organik moddalar, 70-80 % mineral tuzlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Togʼay toʼqimasining hujayra elementlari?",
+    "A": "xondrotsitlar, xondroblastlar",
+    "B": "xondrotsitlar",
+    "C": "xondroblastlar",
+    "D": "osteotsitlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Izogen gruppa hujayralari deb aytiladi?",
+    "A": "bitta hujayradan hosil boʼlgan hujayralar majmuasi",
+    "B": "osteoblastlardan hosil boʼlgan hujayralar",
+    "C": "ikki xil hujayralardan hosil boʼlgan hujayralar toʼplami",
+    "D": "koʼp hujayralardan hosil boʼlgan hujayralar majmuasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Granulositlar boshqa leykositlardan nimasi bilan farqlanadi?",
+    "A": "Granulalarining bo’lishi bilan",
+    "B": "Hajmi bilan",
+    "C": "Diametri bilan",
+    "D": "Farqlanmaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Neytrofillarda qanaqa granulalar bo’ladi?",
+    "A": "Neytrofil granulalar",
+    "B": "Bazofil granulalar",
+    "C": "Eozinofil granulalar",
+    "D": "Oksifil granulalar",
+    "javob": "A"
+  },
+  {
+    "savol": "Eritrositdagi 3tasmali oqsili qanday vazifaga ega?",
+    "A": "Anionlarni tashishda ishtirok etish",
+    "B": "Kislorodni biriktirish",
+    "C": "Leykositda uchraydi",
+    "D": "Qon ivishida ishtirok etish",
+    "javob": "A"
+  },
+  {
+    "savol": "Biriktiruvchi to’qimaningretikulyar to’qimasini qayerda uchratish mumkin?",
+    "A": "Qizil suyak ko’migida, limfada",
+    "B": "Sariqlik qopida",
+    "C": "Taloqda",
+    "D": "Ko’z qon tomirli pardasida",
+    "javob": "A"
+  },
+  {
+    "savol": "Yog’ to’qimasining vazifalari?",
+    "A": "Issiqlik saqlab qolish, yog’ deposi",
+    "B": "Ichki a’zolarni o’rash",
+    "C": "Qon hosil qilish",
+    "D": "Transport",
+    "javob": "A"
+  },
+  {
+    "savol": "Qo’ng’ir yog’ to’qimasida qaysi organoidi ko’p joylashgan?",
+    "A": "Mitoxondriya",
+    "B": "Golji majmuasi",
+    "C": "Yadro",
+    "D": "membrana",
+    "javob": "A"
+  },
+  {
+    "savol": "Gistologik jihatdan nerv oxirlari nechta turi farqalanadi?",
+    "A": "Erkin va erkin bo’lmagan nerv oxiri",
+    "B": "Bipolyar va unipolyar",
+    "C": "Neyron va neyrogliya",
+    "D": "Makrogliya va mikrogliya",
+    "javob": "A"
+  },
+  {
+    "savol": "Mikrogliya neyroglialarning vazifasi nima?",
+    "A": "Neyronni himoya qilish",
+    "B": "Neyronni oziqlantirish",
+    "C": "Sinaps hosil qilish",
+    "D": "Impuls hosil qilish",
+    "javob": "A"
+  },
+  {
+    "savol": "Xondroblastlar joylashadi?",
+    "A": "togʼay usti pardasida",
+    "B": "togʼay toʼqimasida",
+    "C": "nerv toʼqimasida",
+    "D": "suyakda",
+    "javob": "A"
+  },
+  {
+    "savol": "Togʼay toʼqimasining klassifikatsiyasi?",
+    "A": "gialin, elastik, tolali",
+    "B": "tolali",
+    "C": "gialin",
+    "D": "gialin, tolali",
+    "javob": "A"
+  },
+  {
+    "savol": "Voyaga yetgan organizmda gialin togʼay uchraydi?",
+    "A": "qovurgʼani tush bilan birikkan joyida, boʼgʼimlar yuzasida, havo yoʼllarida",
+    "B": "boʼgʼimlar yuzasida",
+    "C": "havo oʼtkazuvchi yoʼllar devorida",
+    "D": "qovurgʼaning tush bilan birikkan joyida",
+    "javob": "A"
+  },
+  {
+    "savol": "Yurak miokard qavatida necha xil kardiomiositlar farqlanadi?",
+    "A": "3 xil",
+    "B": "5 xil",
+    "C": "4 xil",
+    "D": "Faqat 1xil",
+    "javob": "A"
+  },
+  {
+    "savol": "Suyak toʼqimasining kimyoviy tarkibi quyidagicha?",
+    "A": "70 % anorganik, 30 % organik moddalar",
+    "B": "60 % anorganik, 40 % organik moddalar",
+    "C": "50 % anorganik, 50 % organik moddalar",
+    "D": "65 % anorganik, 35 % organik moddalar",
+    "javob": "A"
+  },
+  {
+    "savol": "Аnorganik birikmalarning suyakka beradigan xususiyati?",
+    "A": "mo’rtlik",
+    "B": "elastiklik",
+    "C": "mo’rtlik va elastiklik",
+    "D": "modda almashinuvida ishtirok etishida imkon yaratadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Suyak toʼqimasi hujayralari?",
+    "A": "osteoblastlar, osteotsitlar va osteoklastlar",
+    "B": "osteklastlar",
+    "C": "osteoblastlar",
+    "D": "osteotsitlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Tolali biriktiruvchi to’qimalar tarkibida bo’ladi?",
+    "A": "fibroblast",
+    "B": "eritrosit",
+    "C": "trombosit",
+    "D": "osteoklast",
+    "javob": "A"
+  },
+  {
+    "savol": "Retikulosit bu?",
+    "A": "yosh eritrosit",
+    "B": "blast hujayra",
+    "C": "o’zak hujayra",
+    "D": "yosh trombosit",
+    "javob": "A"
+  },
+  {
+    "savol": "Maxsus xususiyatga ega biriktiruvchi to’qimaga kiradi?",
+    "A": "yog’ to’qimasi",
+    "B": "epiteliy to’qimasi",
+    "C": "tolali biriktiruvchi to’qima",
+    "D": "suyak to’qimasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Plazmosit – qaysi qon hujayrasining aktiv formasi?",
+    "A": "B-limfosit",
+    "B": "T-limfosit",
+    "C": "neytrofil",
+    "D": "trombosit",
+    "javob": "A"
+  },
+  {
+    "savol": "Qondagi fibrinogensiz suyuqlik bu?",
+    "A": "qon zardobi",
+    "B": "qon plazmasi",
+    "C": "to’qima suyuqligi",
+    "D": "limfa",
+    "javob": "A"
+  },
+  {
+    "savol": "Tolali biriktiruvchi to’qimadagi kollagen sintezida qatnashuvchi hujayra nomi",
+    "A": "fibroblast",
+    "B": "osteosit",
+    "C": "plazmosit",
+    "D": "melanosit",
+    "javob": "A"
+  },
+  {
+    "savol": "Suyak to’qimasida 3-10 monotsit qo’shilidan hosil buladigan simplast tuzilma?",
+    "A": "osteoklast",
+    "B": "xondroblast",
+    "C": "osteosit",
+    "D": "osteoblast",
+    "javob": "A"
+  },
+  {
+    "savol": "Erkin bo‘lmagan sеzuvchi nеrv oxirlari esa, o‘z navbatida, Qanday turdagi nеrv oxirlariga ajratiladi?",
+    "A": "Kapsulasiz va kapsulali nеrv oxirlari",
+    "B": "Neyron va neyrogliyalar",
+    "C": "Sinaps va retseptor",
+    "D": "Ekstra va intraretseptor",
+    "javob": "A"
+  },
+  {
+    "savol": "Mеdiator turiga ko‘ra quyidagi kimyoviy sinapslar tafovut Qilinadi qaysilar?",
+    "A": "Xolinergik,pеptidergik, adrеnergik,purinergik",
+    "B": "Kapsulasiz va kapsulali nеrv oxirlari",
+    "C": "Ekstraretseptor va intraretseptor",
+    "D": "Glyutamat, glitsin, γ-amin-moy kislota",
+    "javob": "A"
+  },
+  {
+    "savol": "Xolinergik kimyoviy sinaplarda nima ajraladi?",
+    "A": "atsеtilxolin",
+    "B": "sеrotonin",
+    "C": "norepinеftin",
+    "D": "glutamin kislotasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Mediator turiga ko‘ra kimyoviy sinapslarning qaysi birida ATF va uning mahsulotlari mediator sifatida xizmat qiladi?",
+    "A": "Purinergik sinapslar",
+    "B": "Xolinergik sinapslar",
+    "C": "Adrenergik sinapslar",
+    "D": "Peptidergik sinapslar",
+    "javob": "A"
+  },
+  {
+    "savol": "Dofamin, noradrenalin, va serotonin qaysi turdagi sinapslarga xos mediatorlardi",
+    "A": "Adrenergik yoki monoaminergik sinapslar",
+    "B": "Peptidergik sinapslar",
+    "C": "Xolinergik sinapslar",
+    "D": "Purinergik sinapslar",
+    "javob": "A"
+  },
+  {
+    "savol": "Turli peptidlar mediator sifatida xizmat qiladigan sinapslar qanday nomlanadi?",
+    "A": "Peptidergik sinapslar",
+    "B": "Xolinergik sinapslar",
+    "C": "Purinergik sinapslar",
+    "D": "Neuyrogliyalar",
+    "javob": "A"
+  },
+  {
+    "savol": "Nerv oxirlarining qaysi biri neyronlar orasidagi o‘zaro birikishlar hisoblanadi?",
+    "A": "Sinapslar",
+    "B": "Reseptorlar (affektorlar)",
+    "C": "Effektorlar (harakatlantiruvchi nerv oxirlari)",
+    "D": "Muskul tolalari",
+    "javob": "A"
+  },
+  {
+    "savol": "Impulsni ishchi a’zolar to‘qimalariga uzatuvchi nerv oxirlari qanday nomlanadi?",
+    "A": "Effektorlar",
+    "B": "Sinapslar",
+    "C": "Affektorlar",
+    "D": "Reseptorlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilarning qaysi biri sezuvchi (afferent) nerv oxirlari hisoblanadi?",
+    "A": "Reseptorlar",
+    "B": "Neyroglia hujayralari",
+    "C": "Effektorlar",
+    "D": "Sinapslar",
+    "javob": "A"
+  },
+  {
+    "savol": "Mielinli nerv tolalari markaziy va periferik nerv tizimining qaysi qismlarida uchraydi?",
+    "A": "Ham markaziy, ham periferik qismida",
+    "B": "Faqat markaziy qismida",
+    "C": "Faqat periferik qismida",
+    "D": "Faqat orqa miya segmentlarida",
+    "javob": "A"
+  },
+  {
+    "savol": "Mielinli nerv tolasi qanday hujayra orqali hosil bo‘ladi?",
+    "A": "Shvann hujayrasi",
+    "B": "Mikroglia",
+    "C": "Gliotsit",
+    "D": "Astrosit",
+    "javob": "A"
+  },
+  {
+    "savol": "Mielin pardasi quyidagilarning qaysi biridan tashkil topgan?",
+    "A": "Bir nechta zich o‘ralgan plazmolemmaning qatlamlaridan",
+    "B": "Gliotsitlarning lizosomasidan",
+    "C": "Shvann hujayrasi yadrosidan",
+    "D": "O‘q silindrning mitoxondriyasidan",
+    "javob": "A"
+  },
+  {
+    "savol": "Akson qayerdan boshlanadi?",
+    "A": "Akson tepaligidan",
+    "B": "Dendrit shipigidan",
+    "C": "Yadroning ichidan",
+    "D": "Mitoxondriyadan",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri hujayra tanasining haqiqiy bo‘rtmasi hisoblanadi?",
+    "A": "Dendrit",
+    "B": "Akson tepaligi",
+    "C": "Sinaps",
+    "D": "Aksoplazma",
+    "javob": "A"
+  },
+  {
+    "savol": "Bilvosita osteognez qanday jarayon?",
+    "A": "Suyak to’qimasining taraqqiyotida dastlab tog’ay keyin suyak rivojlanishi",
+    "B": "Tog’ay to’qimasining xondroblastlarning ko’payishidan hosil bo’lishi",
+    "C": "To’gridan to’gri mezenximadan rivojlanishi",
+    "D": "Appozitsion o’sishdan hosil bo’lishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Fater pachini tanasi, Krauze kolbachasi qaysi to’qima tuzilmalari hisoblanadi?",
+    "A": "Nerv to’qima",
+    "B": "Suyak to’qima",
+    "C": "Tog’ay to’qima",
+    "D": "Epiteliy to’qima",
+    "javob": "A"
+  },
+  {
+    "savol": "Kardiomiositlarning necha xil turi farqlanadi?",
+    "A": "Qisqaruvchi-tipik, impuls o‘tkazuvchi -atipik va sеkrеtor.",
+    "B": "Miosimplast va duksimon",
+    "C": "Sarcolemma va sarkomer",
+    "D": "Sarkolpazmatik reticulum va sarkomer",
+    "javob": "A"
+  },
+  {
+    "savol": "Epitel hujayralari qaysi qatlamga suyanadi?",
+    "A": "Bazal membranaga",
+    "B": "Qon tomirlariga",
+    "C": "Muskul to‘qimaga",
+    "D": "Suyak plastinkasiga",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri epitel to‘qimaning himoya funksiyasiga misol bo‘la oladi?",
+    "A": "Teri yuzasini himoya qilishi",
+    "B": "Ter ajratilishi",
+    "C": "Ichakda ovqatni so‘rishi",
+    "D": "Bezlar faoliyati",
+    "javob": "A"
+  },
+  {
+    "savol": "Bezlar faoliyatida epitel to‘qimaning qaysi funksiyasi ishtirok etadi?",
+    "A": "Sekretsiya",
+    "B": "Regeneratsiya",
+    "C": "Transport",
+    "D": "Himoya",
+    "javob": "A"
+  },
+  {
+    "savol": "Bir qavatli epiteliyaga xos xususiyat qaysi qatorda to‘g‘ri berilgan?",
+    "A": "Faqat bitta hujayra qatlamidan iborat bo‘ladi",
+    "B": "Faqat ichki organlar yuzasini qoplaydi",
+    "C": "Mexanik ta’sirga chidamli",
+    "D": "Har doim kubik shaklda bo‘ladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko‘p qavatli epiteliyaning asosiy vazifasi nima?",
+    "A": "Himoya",
+    "B": "Ajratish",
+    "C": "So‘rish",
+    "D": "Sekretsiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri epiteliy to‘qimaning regeneratsiya funksiyasiga xos hisoblanadi?",
+    "A": "Shikastlangan hujayralarni tezda yangilash",
+    "B": "Gaz almashinuvini ta’minlash",
+    "C": "Suv va tuz muvozanatini saqlash",
+    "D": "Qon aylanishini boshqarish",
+    "javob": "A"
+  },
+  {
+    "savol": "Doimiy bazal membranada ustida joylashish qaysi to’qima uchun xos belgi?",
+    "A": "Epiteliy to’qimasi",
+    "B": "Asl biritiruvchi to’qimasi",
+    "C": "Suyak to’qimasi",
+    "D": "Mushak to’qimasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko‘p hujayrali bеzlarning epitеliy hujayralarida to‘plangan sеkrеt mahsulotlari qaysi usullar bilan tashqariga chiqariladi?",
+    "A": "Merokrin, apokrin, galokrin",
+    "B": "Bir hujayrali va ko’p hujayrali",
+    "C": "Tarmoqlangan, tarmoqlanmagan",
+    "D": "Oqsil, shilliq, yog’",
+    "javob": "A"
+  },
+  {
+    "savol": "Mikrotexnikaning qaysi asosiy bosqichi elektron mikroskopiyada qoʼllanilmaydi?",
+    "A": "kesmalarni balzam yoki boshqa tiniq muhitlarga solish, yakunlash",
+    "B": "materialni olish va fiksatsiya qilish",
+    "C": "materialni zichlashtirish",
+    "D": "kesma tayyorlash",
+    "javob": "A"
+  },
+  {
+    "savol": "Hujayra membranasi nechta zonadan iborat?",
+    "A": "External, medial, internal zonalar",
+    "B": "Ekto va endoderma zonalar",
+    "C": "Gialoplazma, organoid, kiritma",
+    "D": "2 qavat glikolipiddan",
+    "javob": "A"
+  },
+  {
+    "savol": "Hujayralar qoʼshni hujayralardan yoki tashqi muhitdan nima bilan chegaralangan?",
+    "A": "plazmatik membrana",
+    "B": "gialoplazma",
+    "C": "hujayralararo modda",
+    "D": "sitoplazma",
+    "javob": "A"
+  },
+  {
+    "savol": "Sitoplazmasida bir necha yadro tutuvchi tuzilma?",
+    "A": "simplast",
+    "B": "leykotsitlar",
+    "C": "sintsitiylar",
+    "D": "eritrotsitlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Gialoplazma tarkibiga nimalar kiradi?",
+    "A": "kiritma va organoidlar",
+    "B": "sitoplazma",
+    "C": "plazmolemma",
+    "D": "yadro",
+    "javob": "A"
+  },
+  {
+    "savol": "Oshqozon devori, ichaklat, o’t qopining ichki yuzasi, jigar va mе’da osti bеzining chiqaruv naylarida qaysi epiteliy turi uchraydi?",
+    "A": "Bir qavatli bir qator silindrsimon",
+    "B": "Ko’p qavatli yassi",
+    "C": "O’zgravchan",
+    "D": "Bir qavat bir qator yassi",
+    "javob": "A"
+  },
+  {
+    "savol": "Organellalarga taʼrif bering?",
+    "A": "hujayralarning doimiy tarkibiy qismi boʼlib maʼlum tuzilishga ega va maxsus vazifani bajaradi",
+    "B": "hujayra hayot jarayonining maʼlum bosqichida boʼlib, maʼlum vazifani bajaruvchi tuzilma",
+    "C": "hujayrada va hujayralararo boʼshliqqa muhim vazifalarni bajaruvchi spetsifik tuzilma",
+    "D": "maʼlum hujayralar uchun spetsifik boʼlgan vazifalarni bajaruvchi tuzilma",
+    "javob": "A"
+  },
+  {
+    "savol": "Donador endoplazmatik toʼrning vazifasi?",
+    "A": "eksport uchun oqsillar sintezi",
+    "B": "uglevodlar sintezi",
+    "C": "endogen va ekzogen moddalarni parchalash",
+    "D": "retseptor",
+    "javob": "A"
+  },
+  {
+    "savol": "АTf qayerda sintezlanadi?",
+    "A": "mitoxondriyalarda",
+    "B": "ribosomalarda",
+    "C": "yadroda",
+    "D": "endoplazmatik toʼrda",
+    "javob": "A"
+  },
+  {
+    "savol": "Umumiy gistologiya fani nimani oʼrganadi?",
+    "A": "toʼqimalarning taraqqiyoti, tuzilishi va faoliyati",
+    "B": "organlarning tuzilishi va faoliyati",
+    "C": "hujayralarning tuzilishi va faoliyati",
+    "D": "organlarning morfo-funktsional birliklarining tuzilishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Epiteliy toʼqimasining vazifalari",
+    "A": "himoya, sekretor, ekskretor va so’rish",
+    "B": "himoya, sekretor, so’rish va nafas olish",
+    "C": "himoya, sekretor, ekskretor va nafas olish",
+    "D": "himoya va sekretsiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Epiteliy toʼqimasining xususiyatlari?",
+    "A": "zich joylashadi, bazal membranada yotadi, qutbli differentsiallanish xususiyatiga ega, qon tomirlar tutmaydi, qayta tiklanadi",
+    "B": "zich joylashgan, bazal membranada yotadi, qutbli differentsiallanish xususiyatiga ega, qon tomirlar tutmaydi, qayta tiklanmaydi",
+    "C": "zich joylashgan, bazal membranada yotadi, qutbli differentsiallanish xususiyatiga ega, qon tomir tutadi, qayta tiklanadi",
+    "D": "qon tomiriga boy",
+    "javob": "A"
+  },
+  {
+    "savol": "Epiteliy toʼqimasining filogenetik klassifikatsiyasi?",
+    "A": "teri, ichak, buyrak, selomik va ependimioglial epiteliylar",
+    "B": "teri, ichak, buyrak va ependimioglial epiteliylar",
+    "C": "teri, ichak, selomik va ependimioglial epiteliylar",
+    "D": "selomik va buyrak epiteliysi",
+    "javob": "A"
+  },
+  {
+    "savol": "Teri epiteliysi qaysi epiteliy turiga kiradi?",
+    "A": "koʼp qavatli yassi muguzlanuvchi",
+    "B": "bir qavatli silindrsimon",
+    "C": "koʼp qavatli yassi muguzlanmaydigan",
+    "D": "bir qavatli yassi",
+    "javob": "A"
+  },
+  {
+    "savol": "Epiteliy toʼqimasining morfo-funktsional klassifikatsiyasi?",
+    "A": "bir qavatli va koʼp qavatli",
+    "B": "bir qavatli",
+    "C": "koʼp qavatli",
+    "D": "yassi",
+    "javob": "A"
+  },
+  {
+    "savol": "Epiteliy toʼqimasining maxsus tuzilmalari?",
+    "A": "hilpillovchi tuzilmalar, mikrovorsinkalar, tonofibrillalar",
+    "B": "xilpillovchi tuzilmalar, mikrovorsinkalar, xivchinlar",
+    "C": "xilpillovchi tuzilmalar, xivchinlar",
+    "D": "sekretor kiritmalar",
+    "javob": "A"
+  }
+]
