@@ -1,0 +1,2002 @@
+[
+  {
+    "savol": "Gigiyena so`zining ma`nosi?",
+    "A": "“Sog`lom”,“Sog`lomlashtirish” ma`nolarini bildiradi",
+    "B": "“Tinch va xotirjam” ma`nolarini bildiradi",
+    "C": "“Tinchlik va salomatlik” ma`nolarini anglatadi",
+    "D": "“Tinchlik va barqarorlik” ma`nolarini anglatadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Gigiyena bo`limlariga qaysilar kiradi?",
+    "A": "Kommunal gigiyena Mehnat gigiyenasi Ovqatlanish gigiyenasi Bolalar va o`smirlar gigiyenasi Radiatsion gigiyena",
+    "B": "Salomatlik gigiyenasi",
+    "C": "Og`iz gigiyenasi",
+    "D": "Havo gigiyenasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ovqatlanish gigiyenasi bo`limining tekshiruv obyektlari nechta?",
+    "A": "9",
+    "B": "5",
+    "C": "8",
+    "D": "6",
+    "javob": "A"
+  },
+  {
+    "savol": "Rezinali qo`lqoplar, antifonlar quloqchinlar nimaning salbiy ta`siridan organizmni himoya qiladi?",
+    "A": "Shovqindan",
+    "B": "Changdan",
+    "C": "Kimyoviy birikmalardan",
+    "D": "Zaharli dorilardan",
+    "javob": "A"
+  },
+  {
+    "savol": "Insonga tabiiy va antropogen omillar ta`sirini o`rganadigan va shular asosida gigiyenik me`yorlarni, hamda sanitariya qoidalarini ishlab chiqadigan salomatlikni ta`minlaydigan va aholi turmush sharoitlarini yaxshilaydigan gigiyena bo`limi qaysi?",
+    "A": "Kommunal gigiyena",
+    "B": "Mehnat gigiyenasi",
+    "C": "Ovqatlanish gigiyenasi",
+    "D": "Bolalar va o`smirlar gigiyenasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Kommunal gigiyena - fan sifatida o`zining oldiga nechta asosiy masalani qo`ygan?",
+    "A": "3",
+    "B": "2",
+    "C": "4",
+    "D": "5",
+    "javob": "A"
+  },
+  {
+    "savol": "Gigiyena bo`limlari nechta?",
+    "A": "5ta",
+    "B": "4ta",
+    "C": "3ta",
+    "D": "2ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Umumiy va kasb kasalliklarini kamaytirish va oldini olishga qaratilgan chora tadbirlarni ishlab chiqadigan gigiyena bo`limi qaysi?",
+    "A": "Mehnat gigiyenasi",
+    "B": "Kommunal gigiyena",
+    "C": "Ovqatlanish gigiyenasi",
+    "D": "Bolalar va o`smirlar gigiyenasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Texnologik jarayonlarni o`rganish va ishchilar organizmiga zararli ta`sir ko`rsatuvchi omillarni aniqlash gigiyenaning qaysi bo`limiga xos?",
+    "A": "Mehnat gigiyenasi",
+    "B": "Kommunal gigiyena",
+    "C": "Ovqatlanish gigiyenasi",
+    "D": "Bolalar va o`smirlar gigiyenasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Mehnat gigiyenasi shifokori o`z faoliyati davomida nechta guruh mehnat faoliyat ishlari bilan shug`ullanadi?",
+    "A": "3",
+    "B": "5",
+    "C": "4",
+    "D": "2",
+    "javob": "A"
+  },
+  {
+    "savol": "Korxonadagi zararli omillarni odam va hayvon organizmiga ta`sir etish xususiyatlarini o`rganish va bu omillarning eng optimal bo`lgan parametrlarini aniqlash gigiyenaning qaysi bo`limiga xos?",
+    "A": "Mehnat gigiyenasi",
+    "B": "Kommunal gigiyena",
+    "C": "Ovqatlanish gigiyenasi",
+    "D": "Bolalar va o`smirlar gigiyenasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Oziq-ovqat mahsulotlarining sifati va ularning inson organizmiga ta`sirini aniqlash bilan birgalikda, aholining salomatlik holatini yaxshilashga qaratilgan gigiyena bo`limi qaysi?",
+    "A": "Ovqatlanish gigiyenasi",
+    "B": "Mehnat gigiyenasi",
+    "C": "Bolalar va o`smirlar gigiyenasi",
+    "D": "Kommunal gigiyena",
+    "javob": "A"
+  },
+  {
+    "savol": "Ionlantiruvchi nur manbalarini inson organizmiga ta`sir qilishining shart-sharoitlari va oqibatlarini o`rganuvchi va ularning organizmga salbiy ta`sirini oldini olishga qaratilgan chora-tadbirlarni ishlab chiquvchi gigiyena bo`limi qaysi?",
+    "A": "Radiatsion gigiyena",
+    "B": "Ovqatlanish gigiyenasi",
+    "C": "Mehnat gigiyenasi",
+    "D": "Kommunal gigiyena",
+    "javob": "A"
+  },
+  {
+    "savol": "Atrof-muhit omillarini tekshirish usullari nechta?",
+    "A": "4",
+    "B": "5",
+    "C": "6",
+    "D": "7",
+    "javob": "A"
+  },
+  {
+    "savol": "Atrof-muhit omillarini tekshirish usullari qaysilar kiradi?",
+    "A": "Sanitar tavsifiy usul fizikaviy usullar, kimyoviy usullar va biologik usullar",
+    "B": "Statistik usul",
+    "C": "Matematik usul",
+    "D": "Fizik usul",
+    "javob": "A"
+  },
+  {
+    "savol": "Atrof-muhit omillarini organizmga ta`sirini o`rganish usullari nechta?",
+    "A": "2",
+    "B": "3",
+    "C": "4",
+    "D": "5",
+    "javob": "A"
+  },
+  {
+    "savol": "Atrof-muhit omillarini organizmga ta`sirini o`rganish usullariga qaysilar kiradi?",
+    "A": "fiziologik holatlarni tekshirish usullari;- ayrim organlaming funksional holatlarini tekshirish usullari",
+    "B": "sanitar tavsifiy usullar",
+    "C": "fizikaviy va- kimyoviy usullar",
+    "D": "biologik usullar",
+    "javob": "A"
+  },
+  {
+    "savol": "Gigiyenik me`yorlar va reglamentlarni o`rnatish va ularning haqqoniyliginiro`yobga chiqarish usullari nechta?",
+    "A": "2ta",
+    "B": "3ta",
+    "C": "4ta",
+    "D": "5ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Gigiyenik me`yorlar va reglamentlarni o`matish va ularning haqqoniyliginiro`yobga chiqarish usullariga qaysilar kiradi?",
+    "A": "statistik va- hisoblash usullari",
+    "B": "fizikaviy va- kimyoviy usullar",
+    "C": "biologik usullar",
+    "D": "sanitar tavsifiy usullar",
+    "javob": "A"
+  },
+  {
+    "savol": "Tibbiy ekologiya - bu?",
+    "A": "ITT(Insonning texnik taraqqiyoti) ta`sirida o`zgarishga uchragan tashqi muhit omillarining yig`indisini odam organizmiga ta`siri haqidagi ta`limotdir",
+    "B": "ionlantiruvchi nur manbalarini inson organizmiga ta`sir qilishining shart-sharoitlari va oqibatlarini o`rganuvchi va ularning organizmga salbiy ta`sirini oldini olishga qaratilgan chora-tadbirlarni ishlab chiquvchi fan",
+    "C": "oziq-ovqat mahsulotlarining sifati va ularning inson organizmiga ta`sirini aniqlash bilan birgalikda, aholining salomatlik holatini yaxshilashga qaratilgan oziq-ovqat mahsulotlariga qo`yilgan talablar, ularni tayyorlash, saqlash va qo`llashga qaratilgan sanitar-gigiyenik me`yoriy ko`rsatkichlarni o`rgatuvchi fan",
+    "D": "Aholi yashash joylarni sog`lomlashtirish, ozodalashtirish va optimal sharoitga keltirish uchun zaruriy sanitariya me`yorlari va profilaktika tadbirlarini ishlab chiqish",
+    "javob": "A"
+  },
+  {
+    "savol": "Ratsional so`zining ma`nosi?",
+    "A": "“oqilona”, “mazmunli”",
+    "B": "“bir maromda”",
+    "C": "“tizimli”",
+    "D": "“tartibli”",
+    "javob": "A"
+  },
+  {
+    "savol": "Normal (to`g`ri) ovqatlanish ratsionida turli xil ovqatlar (ovqat maxsulotlari) bo`lishi lozim bo`lib, bu ovqatlar tarkibi kundalik ratsionida nechta mahsulot guruhi bo`lishi zarur?",
+    "A": "6ta",
+    "B": "5ta",
+    "C": "4ta",
+    "D": "3ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi biri maktab shifokorining davolash – profilaktika ishlariga kirmaydi?",
+    "A": "Rejali va shoshilinch vaksinatsiya",
+    "B": "Gelmentozlarni aniqlash va degelmintizatsiyalash",
+    "C": "Sog`lomlashtiruvchi tadbirlarni rejalashtirish va o`tkazish",
+    "D": "Jismoniy tarbiya guruhlarini aniqlash",
+    "javob": "A"
+  },
+  {
+    "savol": "Ovqatlanishning asosiy funksiyalari qaysilar?",
+    "A": "Energiya, Qurilish materiallari funksiyasi bioregulyatsiyaimmunitet",
+    "B": "Faqat energiya",
+    "C": "Regulyatsiya",
+    "D": "Termoregulyatsiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Oqsillar organizmda qanday vazifani bajaradi?",
+    "A": "irsiy belgilarni saqlaydi, metabolizmda ishtirok etadi",
+    "B": "faqat energiya manbai hisoblanadi",
+    "C": "zaxira oziq modda toplash vazifasini bajaradi",
+    "D": "qon tarkibini asosiy qismi",
+    "javob": "A"
+  },
+  {
+    "savol": "Oqsil,yog`, uglevod asosiy vazifasi nima?",
+    "A": "energiya",
+    "B": "himoya",
+    "C": "ayiruv",
+    "D": "hazm qilish",
+    "javob": "A"
+  },
+  {
+    "savol": "Ovqatdan zaharlanish kasalligi qanday kasallik hisoblanadi?",
+    "A": "Botulizm",
+    "B": "Surunkali qabziyat",
+    "C": "Surunkali xolesistit",
+    "D": "Gastrit",
+    "javob": "A"
+  },
+  {
+    "savol": "Nafas a`zolari qayerda to`g`ri berilgan?",
+    "A": "Hiqildoq,traxeya, bronx, o`pka",
+    "B": "Halqum, bronx, o`pka, o`t pufagi",
+    "C": "Bronx, alveola, nefron, o`pka",
+    "D": "O`pka, halqum, qizilo`ngach,traxeya",
+    "javob": "A"
+  },
+  {
+    "savol": "Insоn оvqаtlаnishi rаtsiоni bo`lib, оzuqа mоddаlаri vа mаhsulоtlаrining miqdоriy vа sifаtiy nisbаtiga nima deyiladi?",
+    "A": "Parhez",
+    "B": "Harakat",
+    "C": "Sust ovqatlanish",
+    "D": "Suniy ovqatlanish",
+    "javob": "A"
+  },
+  {
+    "savol": "Qоn аylаnishi buzilishi bilаn kеchаdigаn yurak qоn-tоmir kаsаlliklаrida qaysi parhez stoli tavsiya etiladi?",
+    "A": "10-parhez stol",
+    "B": "11-parhez stol",
+    "C": "5-parhez stol",
+    "D": "3-parhez stol",
+    "javob": "A"
+  },
+  {
+    "savol": "Bemor o`zi mustaqil ovqatlanishi nima deyiladi?",
+    "A": "faol ovqatlanish",
+    "B": "sust ovqatlanish",
+    "C": "sun`iy ovqatlanish",
+    "D": "stoma yordamida",
+    "javob": "A"
+  },
+  {
+    "savol": "Hozirgi vaqtda vitaminlarni nechta turi aniqlangan?",
+    "A": "50dan ortiq",
+    "B": "30dan ortiq",
+    "C": "20dan ortiq",
+    "D": "10dan ortiq",
+    "javob": "A"
+  },
+  {
+    "savol": "Odam kam harakatlik va noto`g`ri ovqatlanish oqibatida qanday kasallik kelib chiqadi?",
+    "A": "semizlik",
+    "B": "gipodinamiya",
+    "C": "diareya",
+    "D": "gipotoniya",
+    "javob": "A"
+  },
+  {
+    "savol": "Nafas a`zolari kasalliklarini belgilang?",
+    "A": "bronxit,plevrit, pnevmoniya",
+    "B": "assit,bronxit, xolisistit",
+    "C": "plevrit,pankreatit",
+    "D": "zotiljam, kardit",
+    "javob": "A"
+  },
+  {
+    "savol": "Xlorli ohak dezinfeksiya eritmasidan foydalanish qaysi dezinfeksiya turiga kiradi?",
+    "A": "kimyoviy",
+    "B": "mexanik",
+    "C": "fizik",
+    "D": "kombinirlangan",
+    "javob": "A"
+  },
+  {
+    "savol": "D vitamin qayerdan sintezlanadi?",
+    "A": "quyoshdan",
+    "B": "oziq -ovqatdan",
+    "C": "suvdan",
+    "D": "Havodan",
+    "javob": "A"
+  },
+  {
+    "savol": "D vitamin yetishmovchiligida qaysi kasallik kelib chiqadi?",
+    "A": "raxit kasalligi",
+    "B": "diareya kasalligi",
+    "C": "qabziyat",
+    "D": "gipovitaminoz",
+    "javob": "A"
+  },
+  {
+    "savol": "Organizmda vitamin yetishmovchiligi nima deyiladi?",
+    "A": "avitaminoz",
+    "B": "gipervitaminoz",
+    "C": "shapko`rlik",
+    "D": "Raxit",
+    "javob": "A"
+  },
+  {
+    "savol": "Raxit kasalligi nimadan kelib chiqadi?",
+    "A": "d vitamin yetishmovchiligidan",
+    "B": "a vitamin yetishmovchiligidan",
+    "C": "b vitaminlari ko`payishidan",
+    "D": "b vitamin yetishmasligidan",
+    "javob": "A"
+  },
+  {
+    "savol": "Botulizm qanday kasallik?",
+    "A": "ovqatdan zaharlanish",
+    "B": "doridan zaharlanish",
+    "C": "dorining nojo`ya ta`siri",
+    "D": "vitamin yetishmasligi",
+    "javob": "A"
+  },
+  {
+    "savol": "O`rik,sabzi,shivit,olxo`rida qaysi vitamin ko`p?",
+    "A": "A",
+    "B": "D",
+    "C": "B",
+    "D": "E",
+    "javob": "A"
+  },
+  {
+    "savol": "Botulizm bilan kasallanganda qanday birinchi yordam ko`rsatiladi?",
+    "A": "Oshqozonni yuvish",
+    "B": "Qayd qildirmaslik",
+    "C": "Aktivlangan ko`mir berish",
+    "D": "Og`riq qoldiruvchi dori ichirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Davlat standartida suv tarkibidagi mikroblar soni nechta bo`lishi kerak",
+    "A": "100 ta",
+    "B": "200 ta",
+    "C": "500 ta",
+    "D": "150 ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Davlat standartida suv tarkibidagi nitratlar qanchani tashkil etadi?",
+    "A": "45 mg/l",
+    "B": "15 mg/l",
+    "C": "35 mg/l",
+    "D": "5 mg/l",
+    "javob": "A"
+  },
+  {
+    "savol": "Suvni chuchuklashtirish nima?",
+    "A": "Xlorid va sulfatlardan holi qilish",
+    "B": "Radioaktiv moddalarni yo`qotish",
+    "C": "Qo`shimcha hidlarni yo`qotish",
+    "D": "Mikroblarni yo`qotish",
+    "javob": "A"
+  },
+  {
+    "savol": "Suvni tindirish uchun koagulyantlar qaysilar?",
+    "A": "Alyuminiy sulfat poliakrilamid",
+    "B": "Ftor nitritlar",
+    "C": "Tuz minerallar",
+    "D": "Mikroblar",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi infeksiyalar suv orqali yuqadi ?",
+    "A": "Dizenteriya, ichterlama",
+    "B": "Gripp shamollash",
+    "C": "Nafas kasalliklari",
+    "D": "Botulizm",
+    "javob": "A"
+  },
+  {
+    "savol": "Sayyoramizning necha % suv bilan qoplangan?",
+    "A": "70 %",
+    "B": "60%",
+    "C": "90%",
+    "D": "80%",
+    "javob": "A"
+  },
+  {
+    "savol": "Ultrabinafsha nurlanish ta`sirida qaysi o`tkir kasb kasalligi yuzaga keladi?",
+    "A": "Fotoaftalmiya",
+    "B": "sanchiqlar",
+    "C": "katarakta",
+    "D": "Blefarosnozsi",
+    "javob": "A"
+  },
+  {
+    "savol": "Havo namligining turlarini ko`rsating?",
+    "A": "absolyut, maksimal, nisbiy",
+    "B": "ho`l",
+    "C": "quruq",
+    "D": "sovuq, issiq",
+    "javob": "A"
+  },
+  {
+    "savol": "Kasb bilan bog`liq bo`lgan zaharlanishning oldini olishda qaysi chora tadbirlar eng samarador hisoblanadi?",
+    "A": "zaharli kimyoviy moddani zaharlimasmoddaga almashtirish",
+    "B": "havo tortib oluvchi moslama o`rnatish",
+    "C": "200 buyruqga asosan tibbiy ko`rik o`tkazish",
+    "D": ", qurilmalarni germetizatsiyalash",
+    "javob": "A"
+  },
+  {
+    "savol": "Umumiy havo almashtiruvchi ventilatsiyaning nazorat muddati",
+    "A": "3 yilda 1 marta",
+    "B": "1 yilda 1 marta",
+    "C": "yilda 2 marta",
+    "D": "har kvartalda",
+    "javob": "A"
+  },
+  {
+    "savol": "Kasb bilan bog`liq bo`lgan o`tkir zaharlanish holatlari qancha muddat ichida ko`rib chiqiladi?",
+    "A": "24 soat oralig`ida",
+    "B": "48 soat oralig`ida",
+    "C": "sutka mobaynida",
+    "D": "12 soat oralig`ida",
+    "javob": "A"
+  },
+  {
+    "savol": "Kasbdan zaharlanish tashxisini qo`yish uchun nimani hisobga olish kerak?",
+    "A": "ish sharoitining gigiyenik tavsifini",
+    "B": "dastlabki tibbiy ko`rik natijalarini",
+    "C": "davriy tibbiy ko`rik natijalarini",
+    "D": "oldindan va qayta instruktaj o`tkazilganligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi eng og`ir kasbiy kasallikni chang keltirib chiqaradi?",
+    "A": "Pnevmokonioz",
+    "B": "laringotraxeit",
+    "C": "glossit",
+    "D": "Rinit",
+    "javob": "A"
+  },
+  {
+    "savol": "Mehnat gigiyenasi fanida aeratsiya tushunchasi deb:",
+    "A": "deraza va oyna orqali tashkillashtirilmagan tabiiy ventilyasiya",
+    "B": "defektorlarning qo`llash natijasida tabiiy ventilyasiyani tashkillashtirish",
+    "C": "olib keluvchi boshqariladigan mexanik ventilyasiya",
+    "D": "tabiiy tashkillashtiriladigan boshqariladigan ventilyasiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Mehnat gigiyenasi vrachi har xil fizikaviy omillarga baho berishda quyidagilarga asoslanadi:",
+    "A": "metodik qo`llanmalar, tavsiyanomalar, yo`riqnomalar",
+    "B": "mehnat havfsizligi standartlar sistemasining DaB standarti",
+    "C": "QMQlar",
+    "D": "ergonometrik me`yorlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Mehnat gigiyenasida mehnat bo`linadi:",
+    "A": "aqliy, jismoniy",
+    "B": "avtomatlashtirilganoddiy",
+    "C": "monoton, zerikarli",
+    "D": "konveyerli, oqimli",
+    "javob": "A"
+  },
+  {
+    "savol": "Havoning past harorati qanday kasalliklarni keltirib chiqaradi?",
+    "A": "bronxit",
+    "B": "keratit",
+    "C": "nevrasteniya",
+    "D": "katarakta",
+    "javob": "A"
+  },
+  {
+    "savol": "Sog`liqqa ta`sir etuvchi asosiy omillar deb qaysilar aniqlangan?",
+    "A": "tabiiy, ijtimoiy-iqtisodiy",
+    "B": "tibbiy yordam holati, budjet",
+    "C": "geografik joyning xususiyatlari, yil mavsumi",
+    "D": "aholi zichligi va jinsi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qanday sanitar tekshiruvlarni bilasiz?",
+    "A": "kontrol",
+    "B": "erkin",
+    "C": "jamoa",
+    "D": "rejasiz",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko`rishimizni taminlovchi nur qaysi?",
+    "A": "ko`rinuvchi",
+    "B": "ultrabinafsha",
+    "C": "infraqizil",
+    "D": "Karotin",
+    "javob": "A"
+  },
+  {
+    "savol": "Atmosferani energetika sohasi necha % zaharlaydi?",
+    "A": "20%",
+    "B": "14%",
+    "C": "4 0%",
+    "D": "2 5%",
+    "javob": "A"
+  },
+  {
+    "savol": "CO2 gazi 4% ortiq bo`lsa qanday holat kuzatiladi?",
+    "A": "organizm zaharlanadi",
+    "B": "nafas yetmaydi",
+    "C": "inson o`ladi",
+    "D": "normal holat",
+    "javob": "A"
+  },
+  {
+    "savol": "Yer osti suvlari necha foizni tashkil qiladi?",
+    "A": "1,47%",
+    "B": "95,4%",
+    "C": "5 3%",
+    "D": "2 ,52%",
+    "javob": "A"
+  },
+  {
+    "savol": "Latent davr yana qanday nomlanadi?",
+    "A": "yashirin davr",
+    "B": "avj olish",
+    "C": "O`lim holati",
+    "D": "yuqish",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyoshning qaysi nuri bakteritsid ta`siriga ega?",
+    "A": "ultrabinafsha",
+    "B": "ko`zga ko`rinuvchi",
+    "C": "infraqizil",
+    "D": "umumiy nurlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi modda miqdori oshsa flyuoroz kasalligi kelib chiqadi?",
+    "A": "ftor",
+    "B": "xlor",
+    "C": "azot",
+    "D": "kislorod",
+    "javob": "A"
+  },
+  {
+    "savol": "RKox qayerdagi suv saqlanadigan idishlaridan vabo vibrionini topgan?",
+    "A": "Hindiston",
+    "B": "Turkiya",
+    "C": "Italiya",
+    "D": "Qozog`iston",
+    "javob": "A"
+  },
+  {
+    "savol": "1 litr suvdagi ichak tayoqchalari soni nima deyiladi?",
+    "A": "Koli indeksi",
+    "B": "Koli Titr",
+    "C": "Koli milli",
+    "D": "Koli dedsi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ichimlik suvining xavfsizligini ta`minlovchi standart nechta qismdan iborat?",
+    "A": "4 ta",
+    "B": "3 ta",
+    "C": "5 ta",
+    "D": "6 ta",
+    "javob": "A"
+  },
+  {
+    "savol": "O`pka alveolalari 1 daqiqada 150 ml qaysi moddani o`zlashtiradi?",
+    "A": "azot",
+    "B": "kislorod",
+    "C": "karbonat angidrid",
+    "D": "oltingugurt",
+    "javob": "A"
+  },
+  {
+    "savol": "Dekomprission kasallik alomati paydo bo`lishi bilanoq bemorni qayerga yotqizish kerak?",
+    "A": "berk kameraga",
+    "B": "issiq joyga",
+    "C": "sovuq joyga",
+    "D": "tik saqlash kerak",
+    "javob": "A"
+  },
+  {
+    "savol": "Yorug`lik birligi nima?",
+    "A": "lyuks",
+    "B": "amper",
+    "C": "chastota",
+    "D": "volt",
+    "javob": "A"
+  },
+  {
+    "savol": "Yorug`lik tushish burchagi necha gradus dan kam bo`lmasligi kerak?",
+    "A": "27 gradus",
+    "B": "30 gradus",
+    "C": "60 gradus",
+    "D": "70 gradus",
+    "javob": "A"
+  },
+  {
+    "savol": "O`smirlik davri qiz bolalarda necha yosh?",
+    "A": "12- 15 yosh",
+    "B": "13- 10 yosh",
+    "C": "11 - 12 yosh",
+    "D": "15- 18 yosh",
+    "javob": "A"
+  },
+  {
+    "savol": "Bo`y, vazn, ko`krak qafasi aylanasi qaysi ko`rsatkichlarga misol bo`ladi?",
+    "A": "Somatometrik",
+    "B": "Fiziometrik",
+    "C": "Somatoskopik",
+    "D": "Fiziotermik",
+    "javob": "A"
+  },
+  {
+    "savol": "Arterial bosim , puls tezligi qaysi ko`rsatkichlarga misol bo`ladi?",
+    "A": "Fiziometrik",
+    "B": "Somatometrik",
+    "C": "Somatoskopik",
+    "D": "Fiziotermik",
+    "javob": "A"
+  },
+  {
+    "savol": "Skelet holati,badan terisining rangi qaysi ko`rsatkichlarga misol bo`ladi?",
+    "A": "Somatoskopik",
+    "B": "Fiziometrik",
+    "C": "Fiziotermik",
+    "D": "Somatometrik",
+    "javob": "A"
+  },
+  {
+    "savol": "Tuproq qaysi qatlamning ustki qatlami?",
+    "A": "Litosfera",
+    "B": "Atmosfera",
+    "C": "Gidrosfera",
+    "D": "Biosfera",
+    "javob": "A"
+  },
+  {
+    "savol": "Strukturasi bo`yicha tuproqlar necha turga bo`linadi?",
+    "A": "2 turga",
+    "B": "3 turga",
+    "C": "4 turga",
+    "D": "5 turga",
+    "javob": "A"
+  },
+  {
+    "savol": "Har xil mikroorganizmlar,gijjalar tuxumi, hasharotlar qurti saqlanadigan va rivojlanadigan eng yaxshi muhit- bu?",
+    "A": "Ifloslangan tuproq",
+    "B": "Ifloslangan suv",
+    "C": "Ochiq havo",
+    "D": "Aynigan taom",
+    "javob": "A"
+  },
+  {
+    "savol": "Tuproqning qaysi qavatida mikroblar eng ko`p bo`ladi?",
+    "A": "1-2 sm chuqurlikda",
+    "B": "4-5 sm chuqurlikda",
+    "C": "10-15 sm chuqurlikda",
+    "D": "4-6 sm chuqurlikda",
+    "javob": "A"
+  },
+  {
+    "savol": "Qishloq xo`jaligi ekinlarining hosildorligini ta`minlovchi asosiy manba?",
+    "A": "Tuproq unumdorligi",
+    "B": "Tuproq namligi",
+    "C": "Tuproqning yoshi",
+    "D": "Inson faoliyati",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi javob antropometrik ko`rsatgichga kirmaydi?",
+    "A": "O`pkaning tiriklik sig`imi",
+    "B": "Bo`y uzunligi",
+    "C": "Tana vazni",
+    "D": "Ko`krak qafasi aylanasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi javob fiziotermik ko`rsatgichga kirmaydi?",
+    "A": "Bo`y uzunligi",
+    "B": "O`pkaning tiriklik sig`imi",
+    "C": "Qo`l muskullarining kuchi",
+    "D": "Bel muskullarining kuchi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi javob Somatometrik ko`rsatgichga kirmaydi?",
+    "A": "Puls tezligi",
+    "B": "Bo`y",
+    "C": "Vazn",
+    "D": "Ko`krak qafasi aylanasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi javob fiziometrik ko`rsatgichga kirmaydi?",
+    "A": "Ko`krak qafasi aylanasi",
+    "B": "Mushaklar kuchi",
+    "C": "Arterial bosim",
+    "D": "Teri osti yog` qavatining qalinligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Somatoskopik ko`rsatgichga qaysilar kiradi?",
+    "A": "Skeletning holati Tishlar soni Jinsiy rivojlanish",
+    "B": "Skeletning holati Ko`krak qafasi aylanasi",
+    "C": "Tishlar soni Arterial bosim",
+    "D": "Jinsiy rivojlanish Arterial bosim",
+    "javob": "A"
+  },
+  {
+    "savol": "Tashqi muhit bilan miya po`stlog`idagi nerv hujayralari o`rtasidagi aloqaning vaqtincha uzilishi-bu?",
+    "A": "Charchash",
+    "B": "Uyqu",
+    "C": "Bezovtalik",
+    "D": "Arterial bosim",
+    "javob": "A"
+  },
+  {
+    "savol": "Sog`lom turmush tarzi qanday amalga oshiriladi?",
+    "A": "Sport Sog`lom ovqatlanish Kun tartibiga rioya qilish",
+    "B": "Sport Charchash Kun tartibiga rioya qilish",
+    "C": "Sog`lom ovqatlanish Arterial bosim",
+    "D": "Kun tartibiga rioya qilish Arterial bosim",
+    "javob": "A"
+  },
+  {
+    "savol": "Yosh bolani necha soat ochiq havoda sayr qildirish, o`ynatish zarur?",
+    "A": "2 soat",
+    "B": "1 soat",
+    "C": "3 soat",
+    "D": "4 soat",
+    "javob": "A"
+  },
+  {
+    "savol": "1 sinf o`quvchilar uchun uyda dars tayyorlashga qancha vaqt ajratish lozim?",
+    "A": "1-1,5 soat",
+    "B": "1,5- 2 soat",
+    "C": "2 soat",
+    "D": "25-3 soat",
+    "javob": "A"
+  },
+  {
+    "savol": "3-4 sinf o`quvchilar uchun uyda dars tayyorlashga qancha vaqt ajratish lozim?",
+    "A": "1,5- 2 soat",
+    "B": "2 soat",
+    "C": "25-3 soat",
+    "D": "3-4 soat",
+    "javob": "A"
+  },
+  {
+    "savol": "5-6 sinf o`quvchilar uchun uyda dars tayyorlashga qancha vaqt ajratish lozim?",
+    "A": "2 soat",
+    "B": "1,5- 2 soat",
+    "C": "25-3 soat",
+    "D": "3-4 soat",
+    "javob": "A"
+  },
+  {
+    "savol": "Atmosfera havosi tarkibida kislorod necha foizni tashkil etadi?",
+    "A": "20,95 %",
+    "B": "78,07 %",
+    "C": "0,04 %",
+    "D": "74 %",
+    "javob": "A"
+  },
+  {
+    "savol": "Atmosfera havosi tarkibida azot necha foizni tashkil etadi?",
+    "A": "78,07 %",
+    "B": "20,95 %",
+    "C": "0,04 %",
+    "D": "74 %",
+    "javob": "A"
+  },
+  {
+    "savol": "Atmosfera havosi tarkibida karbonat angidirid necha foizni tashkil etadi?",
+    "A": "0,04 %",
+    "B": "78,07 %",
+    "C": "20,95 %",
+    "D": "74 %",
+    "javob": "A"
+  },
+  {
+    "savol": "7-8-sinf o`quvchilar uchun uyda dars tayyorlashga qancha vaqt ajratish lozim?",
+    "A": "25-3 soat",
+    "B": "3-4 soat",
+    "C": "1,5- 2 soat",
+    "D": "2 soat",
+    "javob": "A"
+  },
+  {
+    "savol": "9-10-sinf o`quvchilar uchun uyda dars tayyorlashga qancha vaqt ajratish lozim?",
+    "A": "3-4 soat",
+    "B": "25-3 soat",
+    "C": "2 soat",
+    "D": "1,5- 2 soat",
+    "javob": "A"
+  },
+  {
+    "savol": "Aholi salomatligining asosiy ko`rsatgichlariga kirmaydi qaysi?",
+    "A": "Akseleratsiya",
+    "B": "Kasallanish darajasi",
+    "C": "O`rtacha umr ko`rish muddati",
+    "D": "Jismoniy rivojlanish",
+    "javob": "A"
+  },
+  {
+    "savol": "O`smirlik davri qaysi? (KXK-10)",
+    "A": "12-15 yosh qizlar, 13-16 yosh o`g`il bolalar",
+    "B": "16-20 yosh qizlar, 17-21 yosh o`g`il bolalar",
+    "C": "8-11 yosh qizlar, 7-12 yosh o`g`il bolalar",
+    "D": "4-7 yosh",
+    "javob": "A"
+  },
+  {
+    "savol": "O`spirinlik davri qaysi? (KXK-10)",
+    "A": "15-20 yosh qizlar, 16-20 yosh o`g`il bolalar",
+    "B": "12-15 yosh qizlar, 13-16 yosh o`g`il bolalar",
+    "C": "8-11 yosh qizlar, 7-12 yosh o`g`il bolalar",
+    "D": "4-7 yosh",
+    "javob": "A"
+  },
+  {
+    "savol": "Jismoniy rivojlanish ko`rsatgichlarining oldingi avlod bolalaridagi rivojlanish ko`rsatgichlariga qaraganda tezlashishi-bu?",
+    "A": "Akseleratsiya",
+    "B": "Salomatlik ko`rsatgichlari",
+    "C": "To`g`ri javob yo`q",
+    "D": "Jismoniy faollik",
+    "javob": "A"
+  },
+  {
+    "savol": "1-3 yoshlilarni tibbiy ko`rigi qancha vaqtda amalga oshiriladi?",
+    "A": "3 oyda 1 marta",
+    "B": "6 oyda 1 marta",
+    "C": "oyida 1 marta",
+    "D": "yilida 1 marta",
+    "javob": "A"
+  },
+  {
+    "savol": "3-7 yoshlilarni tibbiy ko`rigi qancha vaqtda amalga oshiriladi?",
+    "A": "6 oyda 1 marta",
+    "B": "3 oyda 1 marta",
+    "C": "oyida 1 marta",
+    "D": "yilida 1 marta",
+    "javob": "A"
+  },
+  {
+    "savol": "Maktab yoshidagi bolalarni tibbiy ko`rigi qancha vaqtda amalga oshiriladi?",
+    "A": "yilida 1 marta",
+    "B": "yilida 2 marta",
+    "C": "yilida 3 marta",
+    "D": "Ixtiyoriy",
+    "javob": "A"
+  },
+  {
+    "savol": "Sog`lomlik guruhlari nechta?",
+    "A": "5 ta",
+    "B": "4 ta",
+    "C": "6ta",
+    "D": "7 ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Ship balandligi-3,5 m, derazalar chap tomonga; ko`chish burchagi 300-350 bo`lishi-bu qanday binolarga qo`yiladigan talablar?",
+    "A": "Sinf xonalari",
+    "B": "Yozgi oromgohlar",
+    "C": "Muzeylar",
+    "D": "Oshxonalar",
+    "javob": "A"
+  },
+  {
+    "savol": "O`rta maktab binolarining balandligi necha qavatdan oshmasligi kerak?",
+    "A": "3-4 qavatdan",
+    "B": "2 qavatdan",
+    "C": "5 qavatdan",
+    "D": "6 qavatdan",
+    "javob": "A"
+  },
+  {
+    "savol": "Kasalxonalardagi suv iste`moli me`yorlari bir kecha kunduzga bir bemor uchun necha litr?",
+    "A": "115 l",
+    "B": "125 l",
+    "C": "135 l",
+    "D": "145 l",
+    "javob": "A"
+  },
+  {
+    "savol": "Yuqumli kasalxonalarda bir bemor uchun bir kecha kunduzga qanchga suv ajratilgan?",
+    "A": "500 l",
+    "B": "115 l",
+    "C": "13 l",
+    "D": "90 l",
+    "javob": "A"
+  },
+  {
+    "savol": "Poliklinikalarda 1 qabul 1 bemorga necha litr suv ajratilgan?",
+    "A": "13 l",
+    "B": "250 l",
+    "C": "115 l",
+    "D": "90 l",
+    "javob": "A"
+  },
+  {
+    "savol": "Kasalxonalarni yetarli miqdorda suv bilan ta`minlash uchun qaysi suvdan foydalanilmaydi?",
+    "A": "Okean va daryo suvlari",
+    "B": "Hududiy markazlashtirilgan suv tarmog`iga ulash",
+    "C": "Avtonom suv tarmog`idan foydalanish",
+    "D": "Zaxira artezion suvlaridan foydalanish",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi modda suv tarkibida kamayishi natijasida karies kasalligi kelib chiqadi?",
+    "A": "ftor",
+    "B": "xlor",
+    "C": "yod",
+    "D": "brom",
+    "javob": "A"
+  },
+  {
+    "savol": "Tindirish bu-?",
+    "A": "Muallaq zarrachalarni yo`qotish",
+    "B": "Zararsizlantirish",
+    "C": "Yumshatish",
+    "D": "Chuchuklashtirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Suvni zararsizlantirish bu-?",
+    "A": "Mikroblar, gelmintlar, oddiy jonivorlardan holi qilish",
+    "B": "Dezodoratsiyalash",
+    "C": "Yumshatish",
+    "D": "Chuchuklashtirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Suvni yumshatish bu-?",
+    "A": "Suvning qattiqligini pasaytirish",
+    "B": "Zararsizlantirish",
+    "C": "Dezodoratsiyalash",
+    "D": "Chuchuklashtirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Normada tomir bir daqiqada necha marotaba uradi?",
+    "A": "70-80 marotaba",
+    "B": "50-60 marotaba",
+    "C": "80-90 marotaba",
+    "D": "10-20 marotaba",
+    "javob": "A"
+  },
+  {
+    "savol": "Suvni chuchuklashtirish bu-?",
+    "A": "Xloridlar va sulfatlardan holi qilish",
+    "B": "Yumshatish",
+    "C": "Dezodoratsiyalash",
+    "D": "Zararsizlantirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Koagulyant dozasini aniqlash necha bosqichda olib boriladi?",
+    "A": "3 bosqichda",
+    "B": "2 bosqichda",
+    "C": "5 bosqichda",
+    "D": "4 bosqichda",
+    "javob": "A"
+  },
+  {
+    "savol": "Suvni qaynatish ultrabinafsha nurlar bilan ishlov berish qanday usul?",
+    "A": "Fizikaviy",
+    "B": "Kimyoviy",
+    "C": "Mexanik",
+    "D": "Biologik",
+    "javob": "A"
+  },
+  {
+    "savol": "Suvni xlorlash va ozonlash qanday usul?",
+    "A": "Kimyoviy",
+    "B": "Fizikaviy",
+    "C": "Mexanik",
+    "D": "Biologik",
+    "javob": "A"
+  },
+  {
+    "savol": "Suvni zararsizlantirishning qanday usuli yetarlicha samarali va arzonroq?",
+    "A": "Xlorlash",
+    "B": "Tindirish",
+    "C": "ozonlash",
+    "D": "Ftorlash",
+    "javob": "A"
+  },
+  {
+    "savol": "Past chastotali shovqin necha gs?",
+    "A": "16-350 gs",
+    "B": "350-800 gs",
+    "C": "850 gs yuqori",
+    "D": "20000 gs",
+    "javob": "A"
+  },
+  {
+    "savol": "O`rtacha chastotali shovqin necha gs?",
+    "A": "350-800 gs",
+    "B": "16-350 gs",
+    "C": "850 gs yuqori",
+    "D": "20000 gs",
+    "javob": "A"
+  },
+  {
+    "savol": "Yuqori chastotali shovqin necha gs?",
+    "A": "850 gs yuqori",
+    "B": "350-800 gs",
+    "C": "16-350 gs",
+    "D": "20000 gs",
+    "javob": "A"
+  },
+  {
+    "savol": "20000 gsdan katta chastotali tebranish nima deyiladi",
+    "A": "ultratovushlar",
+    "B": "infratovushlar",
+    "C": "tovushlar",
+    "D": "tebranishlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Fizik omillar tasirida necha %kasb kasalliklari kelib chiqadi?",
+    "A": "50,7%",
+    "B": "22,5%",
+    "C": "16,3%",
+    "D": "9,1%",
+    "javob": "A"
+  },
+  {
+    "savol": "O`tkir nurlanish kasalligida qancha qiymatda radatsiya nurlanishi bo`ladi?",
+    "A": "1 Gr (100 Rad)dan yuqori",
+    "B": "1 Gr (100 Rad)dan kam",
+    "C": "0,5 Gr (50 Rad) dan kam",
+    "D": "10 (100 Rad) Gr dan yuqori",
+    "javob": "A"
+  },
+  {
+    "savol": "O`tkir nur xastaligining yengil darajasi?",
+    "A": "1-2,5 JG/kg",
+    "B": "2,5-4 JG/kg",
+    "C": "4-10 JG/kg",
+    "D": "15 JG/kg",
+    "javob": "A"
+  },
+  {
+    "savol": "O`tkir nur xastaligining o`rtacha darajasi?",
+    "A": "2,5-4 JG/kg",
+    "B": "1-2,5 JG/kg",
+    "C": "4-10 JG/kg",
+    "D": "15 JG/kg",
+    "javob": "A"
+  },
+  {
+    "savol": "O`tkir nur xastaligining 1-davri?",
+    "A": "Xastalikning namoyon bo`lishi",
+    "B": "Sog`ayishi",
+    "C": "Asorat-oqibat",
+    "D": "Latent",
+    "javob": "A"
+  },
+  {
+    "savol": "O`tkir nur xastaligining 2-davri?",
+    "A": "Sog`ayishi",
+    "B": "Xastalikning namoyon bo`lishi",
+    "C": "Asorat-oqibat",
+    "D": "Latent",
+    "javob": "A"
+  },
+  {
+    "savol": "O`tkir nur xastaligining 3-davri?",
+    "A": "Asorat-oqibat",
+    "B": "Sog`ayishi",
+    "C": "Xastalikning namoyon bo`lishi",
+    "D": "Latent",
+    "javob": "A"
+  },
+  {
+    "savol": "Palatalar uchun umumiy yoritish darajasi qancha?",
+    "A": "500 lyuks",
+    "B": "200 lyuks",
+    "C": "150 lyuks",
+    "D": "10-1500 lyuks",
+    "javob": "A"
+  },
+  {
+    "savol": "Operatsiya xonalari uchun yoritish darajasi qancha?",
+    "A": "200-300 lyuks",
+    "B": "300 lyuks",
+    "C": "150 lyuks",
+    "D": "10-1500 lyuks",
+    "javob": "A"
+  },
+  {
+    "savol": "Operatsiya maydonidagi yoritilganlik darajasi qancha?",
+    "A": "1000-2000 lyuks",
+    "B": "600 lyuks",
+    "C": "200 lyuks",
+    "D": "400 lyuks",
+    "javob": "A"
+  },
+  {
+    "savol": "Lyuksmetr qanday asbob?",
+    "A": "Yoritilganlikni o`lchovchi",
+    "B": "Namlikni o`lchovchi",
+    "C": "Havo tezligini o`lchovchi",
+    "D": "Xonadagi bosimni o`lchovchi",
+    "javob": "A"
+  },
+  {
+    "savol": "Aralash yoritilish bu?",
+    "A": "Ham tabiiy, ham sun`iy",
+    "B": "Tabiiy",
+    "C": "Sun`iy",
+    "D": "Fizik",
+    "javob": "A"
+  },
+  {
+    "savol": "Antropogen ifloslanish turlari?",
+    "A": "Fizik Biologik Kimyoviy",
+    "B": "Fizik Mexanik Texnik",
+    "C": "Biologik Fizik Texnik",
+    "D": "Kimyoviy Mexanik Texnik",
+    "javob": "A"
+  },
+  {
+    "savol": "Zaharli kimyoviy omillar tasirida necha %kasb kasalliklari kelib chiqadi?",
+    "A": "22,5%",
+    "B": "50,7%",
+    "C": "16,3%",
+    "D": "9,1%",
+    "javob": "A"
+  },
+  {
+    "savol": "Chang tasirida necha %kasb kasalliklari kelib chiqadi?",
+    "A": "16,3%",
+    "B": "22,5%",
+    "C": "50,7%",
+    "D": "9,1%",
+    "javob": "A"
+  },
+  {
+    "savol": "Jismoniy zo`riqish tasirida necha %kasb kasalliklari kelib chiqadi?",
+    "A": "9,1%",
+    "B": "16,3%",
+    "C": "22,5%",
+    "D": "50,7%",
+    "javob": "A"
+  },
+  {
+    "savol": "Biologik omil ta`sirida necha %kasb kasalliklari kelib chiqadi?",
+    "A": "1,5 %",
+    "B": "9,1%",
+    "C": "16,3%",
+    "D": "50,7%",
+    "javob": "A"
+  },
+  {
+    "savol": "Silikoz bu?",
+    "A": "Erkin SiO2",
+    "B": "Asbestoz",
+    "C": "Ko`mir changi",
+    "D": "Sement changi",
+    "javob": "A"
+  },
+  {
+    "savol": "Silikatoz bu?",
+    "A": "Asbestoz",
+    "B": "Erkin SiO2",
+    "C": "Ko`mir changi",
+    "D": "Sement changi",
+    "javob": "A"
+  },
+  {
+    "savol": "Antrakoz bu?",
+    "A": "Ko`mir changi",
+    "B": "Asbestoz",
+    "C": "Erkin SiO2",
+    "D": "Sement changi",
+    "javob": "A"
+  },
+  {
+    "savol": "Sementoz bu ?",
+    "A": "Sement changi",
+    "B": "Ko`mir changi",
+    "C": "Asbestoz",
+    "D": "Erkin SiO2",
+    "javob": "A"
+  },
+  {
+    "savol": "Bissinoz bu ?",
+    "A": "Paxta changi",
+    "B": "Ko`mir changi",
+    "C": "Asbestoz",
+    "D": "Erkin SiO2",
+    "javob": "A"
+  },
+  {
+    "savol": "Yirik dispers chang o`lchami?",
+    "A": "10 mkm",
+    "B": "5-10 mkm",
+    "C": "2,5-5 mkm",
+    "D": "1-3 mkm",
+    "javob": "A"
+  },
+  {
+    "savol": "O`rta dispers chang o`lchami?",
+    "A": "5-10 mkm",
+    "B": "10 mkm",
+    "C": "2,5-5 mkm",
+    "D": "1-3 mkm",
+    "javob": "A"
+  },
+  {
+    "savol": "Kichik dispers chang o`lchami?",
+    "A": "2,5-5 mkm",
+    "B": "5-10 mkm",
+    "C": "10 mkm",
+    "D": "1-3 mkm",
+    "javob": "A"
+  },
+  {
+    "savol": "Akseleratsiya turlari?",
+    "A": "Morfologik va funksional",
+    "B": "Kritik va Epoxial",
+    "C": "Serebral va Epoxial",
+    "D": "Ichki population va Molekulyar",
+    "javob": "A"
+  },
+  {
+    "savol": "5-7 yoshli bolalar faol diqqatini qancha vaqt saqlaydi?",
+    "A": "15 min",
+    "B": "25 min",
+    "C": "10 min",
+    "D": "20 min",
+    "javob": "A"
+  },
+  {
+    "savol": "8-10 yoshli bolalar faol diqqatini qancha vaqt saqlaydi?",
+    "A": "20 min",
+    "B": "15 min",
+    "C": "25 min",
+    "D": "10 min",
+    "javob": "A"
+  },
+  {
+    "savol": "11-12 yoshli bolalar faol diqqatini qancha vaqt saqlaydi?",
+    "A": "25 min",
+    "B": "20 min",
+    "C": "15 min",
+    "D": "10 min",
+    "javob": "A"
+  },
+  {
+    "savol": "12-15 yoshli bolalar faol diqqatini qancha vaqt saqlaydi?",
+    "A": "30 min",
+    "B": "25 min",
+    "C": "20 min",
+    "D": "15 min",
+    "javob": "A"
+  },
+  {
+    "savol": "Vazn o`lchashda kiyim uchun yozda qancha kg ayiriladi?",
+    "A": "0,5 kg",
+    "B": "1 kg",
+    "C": "1,5 kg",
+    "D": "2 kg",
+    "javob": "A"
+  },
+  {
+    "savol": "Vazn o`lchashda kiyim uchun qishda qancha kg ayiriladi?",
+    "A": "1 kg",
+    "B": "1,5 kg",
+    "C": "05 kg",
+    "D": "2 kg",
+    "javob": "A"
+  },
+  {
+    "savol": "Puls tezligi nimada aniqlanadi?",
+    "A": "Palpator",
+    "B": "Tanometr",
+    "C": "Dinamometr",
+    "D": "Shtangentsirkul",
+    "javob": "A"
+  },
+  {
+    "savol": "Inson bir daqiqada necha marta nafas oladi ?",
+    "A": "16-20 marta",
+    "B": "70-72 marta",
+    "C": "20-30 marta",
+    "D": "30-32 tmarta",
+    "javob": "A"
+  },
+  {
+    "savol": "Mushaklar kuchi nimada aniqlanadi?",
+    "A": "Dinamometr",
+    "B": "Palpator",
+    "C": "Tanometr",
+    "D": "Shtangentsirkul",
+    "javob": "A"
+  },
+  {
+    "savol": "Arterial bosim nimada aniqlanadi?",
+    "A": "Tanometr",
+    "B": "Dinamometr",
+    "C": "Palpator",
+    "D": "Shtangentsirkul",
+    "javob": "A"
+  },
+  {
+    "savol": "Teri osti yog`-klechatkasi nimada aniqlanadi?",
+    "A": "Shtangensirkul",
+    "B": "Tanometr",
+    "C": "Dinamometr",
+    "D": "Palpator",
+    "javob": "A"
+  },
+  {
+    "savol": "Hozirgi kunda nechta parhez stoli mavjud?",
+    "A": "15 ta",
+    "B": "14ta",
+    "C": "13ta",
+    "D": "12ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Nechinchi parhez stoli jigar kasalliklariga mo`ljallangan?",
+    "A": "5-stol",
+    "B": "6-stol",
+    "C": "12-stol",
+    "D": "13-stol",
+    "javob": "A"
+  },
+  {
+    "savol": "Nechinchi parhez stoli ichak kasalliklariga mo`ljallangan?",
+    "A": "4-stol",
+    "B": "5-stol",
+    "C": "6-stol",
+    "D": "12-stol",
+    "javob": "A"
+  },
+  {
+    "savol": "Nechinchi parhez stoli buyrak kasalliklariga mo`ljallangan?",
+    "A": "7-stol",
+    "B": "4-stol",
+    "C": "5-stol",
+    "D": "8-stol",
+    "javob": "A"
+  },
+  {
+    "savol": "Nechinchi parhez stoli semirish kasalliklariga mo`ljallangan?",
+    "A": "8-stol",
+    "B": "7-stol",
+    "C": "1-stol",
+    "D": "2-stol",
+    "javob": "A"
+  },
+  {
+    "savol": "Nechinchi parhez stoli sil kasalliklariga mo`ljallangan?",
+    "A": "11-stol",
+    "B": "8-stol",
+    "C": "9-stol",
+    "D": "10-stol",
+    "javob": "A"
+  },
+  {
+    "savol": "Nechinchi parhez stoli yurak-tomir kasalliklariga mo`ljallangan?",
+    "A": "10-stol",
+    "B": "11-stol",
+    "C": "12-stol",
+    "D": "13-stol",
+    "javob": "A"
+  },
+  {
+    "savol": "Nechinchi parhez stoli qandli diabet kasalliklariga mo`ljallangan?",
+    "A": "9-stol",
+    "B": "10-stol",
+    "C": "11-stol",
+    "D": "12-stol",
+    "javob": "A"
+  },
+  {
+    "savol": "Nechinchi parhez stoli o`tkir yuqumli kasalliklariga mo`ljallangan?",
+    "A": "13-stol",
+    "B": "10-stol",
+    "C": "12-stol",
+    "D": "16-stol",
+    "javob": "A"
+  },
+  {
+    "savol": "Nechinchi parhez stoli oshqozon-ichak yo`li operatsiyasidan so`ng buyuriladi?",
+    "A": "1-stol",
+    "B": "12-stol",
+    "C": "4-stol",
+    "D": "5-stol",
+    "javob": "A"
+  },
+  {
+    "savol": "Tiamin qaysi vitaminning 2-nomi?",
+    "A": "B1",
+    "B": "B2",
+    "C": "B6",
+    "D": "B9",
+    "javob": "A"
+  },
+  {
+    "savol": "Riboflavin qaysi vitaminning 2-nomi?",
+    "A": "B2",
+    "B": "B1",
+    "C": "B6",
+    "D": "B12",
+    "javob": "A"
+  },
+  {
+    "savol": "B12 - vitaminning 2-nomi?",
+    "A": "Sianokobalamin",
+    "B": "Riboflavin",
+    "C": "Tiamin",
+    "D": "nikotin",
+    "javob": "A"
+  },
+  {
+    "savol": "B9- vitaminning 2-nomi?",
+    "A": "Foliy kislota",
+    "B": "Sianokobalamin",
+    "C": "Riboflavin",
+    "D": "Tiamin",
+    "javob": "A"
+  },
+  {
+    "savol": "B6- vitaminning 2-nomi?",
+    "A": "Piridoksin",
+    "B": "Sianokobalamin",
+    "C": "Foliy kislota",
+    "D": "Tiamin",
+    "javob": "A"
+  },
+  {
+    "savol": "Yog`da eriydigan vitaminlarga qaysilar kiradi?",
+    "A": "A D E K",
+    "B": "A D C H",
+    "C": "A D E C",
+    "D": "A E C D",
+    "javob": "A"
+  },
+  {
+    "savol": "B5 vitaminning 2-nomi?",
+    "A": "Pantotenat kislotasi",
+    "B": "Piridoksin",
+    "C": "Sianokobalamin",
+    "D": "Riboflavin",
+    "javob": "A"
+  },
+  {
+    "savol": "Gipertoniya nima?",
+    "A": "Qon bosimining ko`tarilishi",
+    "B": "Tana haroratining ko`tarilishi",
+    "C": "Tana haroratining pasayib ketishi",
+    "D": "Qon bosimining tushishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Xamirturush, jigar,no`xot, bulg`orqalampiri, baliq mahsulotlar tarkibida qaysi vitamin uchraydi?",
+    "A": "B6",
+    "B": "B9",
+    "C": "B3",
+    "D": "B2",
+    "javob": "A"
+  },
+  {
+    "savol": "Xamirturush, jigar,poliz mahsulotlari,go`sht mahsulotlar tarkibida qaysi vitamin uchraydi?",
+    "A": "B9",
+    "B": "B6",
+    "C": "B12",
+    "D": "B1",
+    "javob": "A"
+  },
+  {
+    "savol": "Sut, no`xat, non,Xamirturish mahsulotlar tarkibida qaysi vitamin uchraydi?",
+    "A": "B2",
+    "B": "B1",
+    "C": "C",
+    "D": "E",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi vitamin yetishmasligidan “Skorbut” kasalligi kelib chiqadi?",
+    "A": "C",
+    "B": "A",
+    "C": "D",
+    "D": "E",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi vitamin yetishmasligidan “Shapko`rlik” kasalligi kelib chiqadi?",
+    "A": "A",
+    "B": "C",
+    "C": "D",
+    "D": "K",
+    "javob": "A"
+  },
+  {
+    "savol": "Amiloz bu?",
+    "A": "Kraxmal changi",
+    "B": "Sement changi",
+    "C": "Paxta changi",
+    "D": "Ko`mir changi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi vitamin yetishmasligidan “Raxit ” kasalligi kelib chiqadi",
+    "A": "D",
+    "B": "C",
+    "C": "K",
+    "D": "A",
+    "javob": "A"
+  },
+  {
+    "savol": "Organizm tanasidan necha % suv yo`qotganda chanqash hissi paydo bo`ladi?",
+    "A": "5%",
+    "B": "10%",
+    "C": "15%",
+    "D": "20%",
+    "javob": "A"
+  },
+  {
+    "savol": "Organizm tanasidan necha % suv yo`qotganda o`lim holati kuzatiladi?",
+    "A": "20%",
+    "B": "10%",
+    "C": "15%",
+    "D": "5%",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi vitamin yetishmasligidan “kamqonlik” kasalligi kelib chiqadi?",
+    "A": "B12",
+    "B": "B2",
+    "C": "K",
+    "D": "C",
+    "javob": "A"
+  },
+  {
+    "savol": "Shovqinni o`lchovchi asbob?",
+    "A": "Shumomer",
+    "B": "tanomer",
+    "C": "dinamometr",
+    "D": "palpator",
+    "javob": "A"
+  },
+  {
+    "savol": "Ovqatdan zaharlanganda me`da necha xil usulda yuviladi?",
+    "A": "2xil",
+    "B": "3xil",
+    "C": "4xil",
+    "D": "5xil",
+    "javob": "A"
+  },
+  {
+    "savol": "Barcha kanserogenlik xususiyatiga ega bo`lgan moddalar necha guruhga bo`linadi?",
+    "A": "2guruhga",
+    "B": "3guruhga",
+    "C": "4guruhga",
+    "D": "5guruhga",
+    "javob": "A"
+  },
+  {
+    "savol": "Davolovchi-profilaktik ovqatlar nechta turga bo`linadi",
+    "A": "3 turga",
+    "B": "2 turga",
+    "C": "4 turga",
+    "D": "5 turga",
+    "javob": "A"
+  },
+  {
+    "savol": "Tana harorati qaysi asbob orqali aniqlanadi?",
+    "A": "termometr",
+    "B": "fonendoskop",
+    "C": "tanometr",
+    "D": "plessimetr",
+    "javob": "A"
+  },
+  {
+    "savol": "Sog`lom odamda tana harorati necha gradusni tashkil etadi?",
+    "A": "36,6-37 gradus",
+    "B": "35-36 gradus",
+    "C": "39-40 gradus",
+    "D": "36,6-39 gradus",
+    "javob": "A"
+  },
+  {
+    "savol": "Spektri bo`yicha shovqin nechta sinfga bo`linadi?",
+    "A": "3 ta",
+    "B": "2ta",
+    "C": "4ta",
+    "D": "5ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Silant bu?",
+    "A": "bu plastmassa asosidagi, suyuq, oq yoki shaffof modda bo`lib, u tishning chuqurchalariga quyiladi va maxsus nur bilan qotiriladi",
+    "B": "bu plastmassa asosidagi, quyuq, oq yoki shaffof modda bo`lib, u tishning chuqurchalariga quyiladi va maxsus nur bilan qotiriladi",
+    "C": "bu tishlarni kariesdan himoya qilish maqsadida tish emaliga ftor (fluorid) moddalarini qo`llash",
+    "D": "Tish emalini mustahkamlashKaries rivojlanishini oldini olish jarayoniga aytiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Tish cho`tkasi turlari qaysilar?",
+    "A": "1yumshoq 2qattiq 3o`rtacha",
+    "B": "1ftorli 2ftorsiz",
+    "C": "1yumshoq 2qattiq",
+    "D": "1ftorli 2ftorsiz 3tabiiy",
+    "javob": "A"
+  },
+  {
+    "savol": "Tish cho`tkasi turlari nechta?",
+    "A": "3",
+    "B": "2",
+    "C": "4",
+    "D": "5",
+    "javob": "A"
+  },
+  {
+    "savol": "Kasalxonada asosiy ifloslanish manbalari nechta guruhga bo`linadi",
+    "A": "3",
+    "B": "2",
+    "C": "4",
+    "D": "5",
+    "javob": "A"
+  },
+  {
+    "savol": "Antropogen ifloslanish bu?",
+    "A": "Inson omili",
+    "B": "Tabiiy omil",
+    "C": "Sun`iy omil",
+    "D": "Aralash omil",
+    "javob": "A"
+  },
+  {
+    "savol": "Tish toshlarini tozalashda qaysi asbobdan foydalaniladi?",
+    "A": "Skaler",
+    "B": "Tish burg`ulari",
+    "C": "Kompressor",
+    "D": "Bor mashina",
+    "javob": "A"
+  },
+  {
+    "savol": "Skalerlar bu?",
+    "A": "bu stomatologiyada tish toshlarini, blyashkalarni va bakterial qatlamlarni olib tashlash uchun ishlatiladigan maxsus asbob yoki qurilmalardir",
+    "B": "bu tish shifokori tomonidan tish to`qimalarini burg`ulash, kesish, parlatish yoki tozalash uchun ishlatiladigan maxsus asboblardir",
+    "C": "Shovqindan himoyalovchi vosita",
+    "D": "changdan himoyalovchi vosita",
+    "javob": "A"
+  },
+  {
+    "savol": "Blyashka nima?",
+    "A": "bu tish sirtida to`planadigan yumshoq, yopishqoq va ko`rinmas bakterial qatlam",
+    "B": "bu tish sirtida to`planadigan qattiq, yopishqoq va ko`rinmas bakterial qatlam",
+    "C": "bu tish sirtida to`planadigan qattiq, qovushqoq va ko`rinmas bakterial qatlam",
+    "D": "bu tish sirtida to`planadigan ko`rinmas bakterial qatlam",
+    "javob": "A"
+  },
+  {
+    "savol": "Blyashka tarkibida qanaqa bakteriya asosan bo`ladi?",
+    "A": "Streptokokk",
+    "B": "Stafilakokk",
+    "C": "Tayoqchasimon",
+    "D": "Kolbachasimon",
+    "javob": "A"
+  },
+  {
+    "savol": "Formaldegid, xlorli birikmalar, spirtlar qanaqa moddalar guruhiga kiradi?",
+    "A": "Dezenfektsiyalovchi vositalar",
+    "B": "Tish plombasi materiallari",
+    "C": "Anaestezik vositalar",
+    "D": "Sintetik materiallar",
+    "javob": "A"
+  },
+  {
+    "savol": "Tish eroziyasi bu?",
+    "A": "emalning kimyoviy va mexanik zarar ko`rishi",
+    "B": "shilliq qavatning yallig`lanishi",
+    "C": "og`iz shilliq qavatining yallig`lanishi va shishishi",
+    "D": "tish atrofi va to`qimalarining yallig`lanishi, surunkali kasallik",
+    "javob": "A"
+  },
+  {
+    "savol": "Stomatit bu?",
+    "A": "shilliq qavatning yallig`lanishi",
+    "B": "emalning kimyoviy va mexanik zarar ko`rishi",
+    "C": "tish atrofi va to`qimalarining yallig`lanishi, surunkali kasallik",
+    "D": "tishning o`zini tiklash qobiliyati pasayadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Kariyes bu?",
+    "A": "tishning o`zini tiklash qobiliyati pasayadi",
+    "B": "shilliq qavatning yallig`lanishi",
+    "C": "emalning kimyoviy va mexanik zarar ko`rishi",
+    "D": "tish atrofi va to`qimalarining yallig`lanishi, surunkali kasallik",
+    "javob": "A"
+  },
+  {
+    "savol": "Periodontit bu?",
+    "A": "tish atrofi va to`qimalarining yallig`lanishi, surunkali kasallik",
+    "B": "tishning o`zini tiklash qobiliyati pasayadi",
+    "C": "shilliq qavatning yallig`lanishi",
+    "D": "emalning kimyoviy va mexanik zarar ko`rishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Kserostomiya bu?",
+    "A": "tish va shilliq qavatni himoya qiluvchi shilimshiq ishlab chiqarish kamayadi",
+    "B": "tishning o`zini tiklash qobiliyati pasayadi",
+    "C": "shilliq qavatning yallig`lanishi",
+    "D": "emalning kimyoviy va mexanik zarar ko`rishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Gingivit bu?",
+    "A": "Milkning yallig`lanishi",
+    "B": "Tishning o`zini tiklash qobiliyati pasayadi",
+    "C": "Tish va shilliq qavatni himoya qiluvchi shilimshiq ishlab chiqarish kamayadi",
+    "D": "Emalning kimyoviy va mexanik zarar ko`rishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Mikroiqlim ko`rsatkichlari necha guruhga bo`linadi?",
+    "A": "5",
+    "B": "6",
+    "C": "4",
+    "D": "3",
+    "javob": "A"
+  },
+  {
+    "savol": "havoning nisbiy namligini optimal qiymati qancha?",
+    "A": "40-60%",
+    "B": "20-60%",
+    "C": "30-60%",
+    "D": "40-80%",
+    "javob": "A"
+  },
+  {
+    "savol": "Havoning harakat tezligi stomatologiya xonalari uchun qancha?",
+    "A": "0,1-0,2 m/s",
+    "B": "0,01-0,2 m/s",
+    "C": "0,1-0,7 m/s",
+    "D": "0,1-0,4 m/s",
+    "javob": "A"
+  },
+  {
+    "savol": "Shovqin darajasi stomatologiya xonalari uchun maksimal miqdori qancha?",
+    "A": "60 dB",
+    "B": "70 dB",
+    "C": "80 dB",
+    "D": "90 dB",
+    "javob": "A"
+  },
+  {
+    "savol": "Tanadan terining bug`lanishi necha xil usulda amalga oshadi?",
+    "A": "2",
+    "B": "3",
+    "C": "4",
+    "D": "5",
+    "javob": "A"
+  },
+  {
+    "savol": "Havo namligi nimada o`lchanadi?",
+    "A": "psixrometrlar, gigrometr",
+    "B": "barograf",
+    "C": "barometr",
+    "D": "termometr",
+    "javob": "A"
+  },
+  {
+    "savol": "Havo bosimi nimada o`lchanadi?",
+    "A": "barometr",
+    "B": "psixrometr",
+    "C": "termometr",
+    "D": "tanometr",
+    "javob": "A"
+  },
+  {
+    "savol": "Termometrning necha xil turi bor?",
+    "A": "2",
+    "B": "3",
+    "C": "4",
+    "D": "5",
+    "javob": "A"
+  },
+  {
+    "savol": "Anemometrning necha turi mavjud?",
+    "A": "2",
+    "B": "3",
+    "C": "4",
+    "D": "5",
+    "javob": "A"
+  },
+  {
+    "savol": "Rentgen xonasini yoritilish darajasi qancha?",
+    "A": "50-75-100 lyuks",
+    "B": "400 lyuks",
+    "C": "500 lyuks",
+    "D": "600 lyuks",
+    "javob": "A"
+  },
+  {
+    "savol": "Insolyatsiya miqdori nimada o`lchanadi?",
+    "A": "aktinometr",
+    "B": "barometr",
+    "C": "psixrometr",
+    "D": "tanometr",
+    "javob": "A"
+  },
+  {
+    "savol": "Ovqat ratsioni nechta omilga bog`liq?",
+    "A": "2",
+    "B": "3",
+    "C": "4",
+    "D": "5",
+    "javob": "A"
+  },
+  {
+    "savol": "Kasalxonalar uchun LED yoritgich turlari necha turga bo`linadi?",
+    "A": "6",
+    "B": "5",
+    "C": "4",
+    "D": "3",
+    "javob": "A"
+  },
+  {
+    "savol": "Ich terlama qaysi bakteriya ta`sirida kelib chiqadi?",
+    "A": "Salmonella",
+    "B": "Vibrio cholerae",
+    "C": "streptokokk",
+    "D": "stafilakokk",
+    "javob": "A"
+  },
+  {
+    "savol": "Fluorozning necha xil shakllari bor?",
+    "A": "5",
+    "B": "4",
+    "C": "7",
+    "D": "6",
+    "javob": "A"
+  },
+  {
+    "savol": "Fluorozning mozaik shaklli bu?",
+    "A": "notekis rang o`zgarishlari kuzatiladi",
+    "B": "emal yemirilishi, chuqurchalar paydo bo`lishi",
+    "C": "tishlarda oq chiziqlar",
+    "D": "oq yoki sarg`ish dog`lar",
+    "javob": "A"
+  },
+  {
+    "savol": "Fluorozning eroziv shaklli bu?",
+    "A": "emal yemirilishi, chuqurchalar paydo bo`lishi",
+    "B": "notekis rang o`zgarishlari kuzatiladi",
+    "C": "tishlarda oq chiziqlar",
+    "D": "oq yoki sarg`ish dog`lar",
+    "javob": "A"
+  },
+  {
+    "savol": "Ovqatlanish adekvatligini o`rganishning nechta guruhi mavjud?",
+    "A": "2",
+    "B": "3",
+    "C": "4",
+    "D": "5",
+    "javob": "A"
+  },
+  {
+    "savol": "Antinevrit vitamin qaysi?",
+    "A": "B1",
+    "B": "B5",
+    "C": "B9",
+    "D": "B12",
+    "javob": "A"
+  },
+  {
+    "savol": "Gemoglobin hosil qiluvchi vitminlar qaysilar?",
+    "A": "B6, B9, B12",
+    "B": "A, D",
+    "C": "E, K",
+    "D": "B6, A, K",
+    "javob": "A"
+  },
+  {
+    "savol": "Gomeostazni ta`minlovchi vitamin qaysi?",
+    "A": "B12",
+    "B": "B1",
+    "C": "B2",
+    "D": "A",
+    "javob": "A"
+  },
+  {
+    "savol": "hujayra membranalarida ion kanallarini faollashtiradigan vitamin qaysi?",
+    "A": "B1",
+    "B": "B2",
+    "C": "B5",
+    "D": "B6",
+    "javob": "A"
+  },
+  {
+    "savol": "havodagi yorug`lik va kislorod ta`sirida parchalanmaydigan chidamli vitamin qaysi?",
+    "A": "B1",
+    "B": "PP",
+    "C": "H",
+    "D": "B2",
+    "javob": "A"
+  },
+  {
+    "savol": "98% hayvon mahsulotlarida uchrovchi vitamin qaysi?",
+    "A": "B2",
+    "B": "B1",
+    "C": "PP",
+    "D": "A",
+    "javob": "A"
+  },
+  {
+    "savol": "Buyrakusti bezi va qalqonsimon bez faoliyatini normallashtiruvchi vitamin qaysi?",
+    "A": "B5",
+    "B": "B1",
+    "C": "PP",
+    "D": "B6",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi vitamin yetishmovchiligida tutqanoq kasalligi kelib chiqadi?",
+    "A": "B6",
+    "B": "B5",
+    "C": "B12",
+    "D": "PP",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi vitamin yetishmovchiligida gingivit kasalligi kelib chiqadi?",
+    "A": "B9",
+    "B": "A",
+    "C": "B2",
+    "D": "D",
+    "javob": "A"
+  },
+  {
+    "savol": "Oqsillarni, DNK va RNKni erkin radikallarning zararli ta`sirlardan himoya qiluvchi kuchli antioksidant vitamin qaysi?",
+    "A": "C",
+    "B": "PP",
+    "C": "B1",
+    "D": "B2",
+    "javob": "A"
+  },
+  {
+    "savol": "Me`daning sekret ishlab chiqarishini yaxshilovchi vitamin qaysi?",
+    "A": "PP",
+    "B": "A",
+    "C": "B9",
+    "D": "B12",
+    "javob": "A"
+  },
+  {
+    "savol": "Mufel pech necha gradusda ishlaydi?",
+    "A": "800–1200 C",
+    "B": "600–1200 C",
+    "C": "800–1500 C",
+    "D": "800–1400 C",
+    "javob": "A"
+  },
+  {
+    "savol": "Dezinfeksiya bu?",
+    "A": "Viruslar, bakteriyalar, zamburug`lar va ularning sporalarini yo`q qilish",
+    "B": "Hasharotlar orqali yuquvchi infeksiyalarni bartaraf etish",
+    "C": "Kalamush va sichqonlarni yo`q qilish",
+    "D": "Faqatgina viruslarni yo`q qilish",
+    "javob": "A"
+  },
+  {
+    "savol": "Dezinseksiya bu?",
+    "A": "Hasharotlar orqali yuquvchi infeksiyalarni bartaraf etish",
+    "B": "Viruslar, bakteriyalar, zamburug`lar va ularning sporalarini yo`q qilish",
+    "C": "Kalamush va sichqonlarni yo`q qilish",
+    "D": "Faqatgina viruslarni yo`q qilish",
+    "javob": "A"
+  },
+  {
+    "savol": "Deratizatsiya bu?",
+    "A": "Kalamush va sichqonlarni yo`q qilish",
+    "B": "Hasharotlar orqali yuquvchi infeksiyalarni bartaraf etish",
+    "C": "Viruslar, bakteriyalar, zamburug`lar va ularning sporalarini yo`q qilish",
+    "D": "Faqatgina viruslarni yo`q qilish",
+    "javob": "A"
+  },
+  {
+    "savol": "Xlorofos va Dixlofosdan nima maqsadda foydalaniladi?",
+    "A": "Hasharotlarni yo`q qilishda",
+    "B": "Kalamush va sichqonlarni yo`q qilishda",
+    "C": "Faqatgina viruslarni yo`q qilishda",
+    "D": "Viruslar, bakteriyalar, zamburug`lar va ularning sporalarini yo`q qilishda",
+    "javob": "A"
+  }
+]
