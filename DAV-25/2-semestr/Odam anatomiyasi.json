@@ -1,0 +1,1922 @@
+[
+  {
+    "savol": "Og’iz bo’shlig’i lotincha qanday nomlanadi?",
+    "A": "Cavitas oris",
+    "B": "Cavitas nasi",
+    "C": "Cavum palatinum",
+    "D": "Cavum linguage",
+    "javob": "A"
+  },
+  {
+    "savol": "Og’iz dahlizining oldingi devorini nima hosil qiladi?",
+    "A": "Labium",
+    "B": "Palatinum",
+    "C": "Dentes",
+    "D": "Fauces",
+    "javob": "A"
+  },
+  {
+    "savol": "Og’iz dahlizining orqa devorini nima hosil qiladi?",
+    "A": "Dentes",
+    "B": "Labium",
+    "C": "Palatinum",
+    "D": "Fauces",
+    "javob": "A"
+  },
+  {
+    "savol": "M. tensor veli palatini qanday mushak hisoblanadi?",
+    "A": "Yumshoq tanglay chodirini taranglaydigan mushak",
+    "B": "Yumshoq tanglay chodirini ko’taruvchi mushak",
+    "C": "Yumshoq tanglay chodirini tushiruvchi mushak",
+    "D": "Tilcha mushagi",
+    "javob": "A"
+  },
+  {
+    "savol": "Xususiy og’iz bo’shlig’idan chiqish sohasi nima deyiladi?",
+    "A": "fauces",
+    "B": "palatoglossus",
+    "C": "radix",
+    "D": "Bucca",
+    "javob": "A"
+  },
+  {
+    "savol": "Dentes permanentes nechta bo’ladi?",
+    "A": "32",
+    "B": "30",
+    "C": "20",
+    "D": "16",
+    "javob": "A"
+  },
+  {
+    "savol": "Dentes decidui nechta bo’ladi?",
+    "A": "20",
+    "B": "32",
+    "C": "30",
+    "D": "16",
+    "javob": "A"
+  },
+  {
+    "savol": "Dentes molaris har bir jag’da nechtadan bo’ladi?",
+    "A": "6ta",
+    "B": "4ta",
+    "C": "2ta",
+    "D": "8ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Tilning skelet mushaklarini belgilang",
+    "A": "m. genioglossus",
+    "B": "m. transversus",
+    "C": "m. verticalis",
+    "D": "m. longitudinalis",
+    "javob": "A"
+  },
+  {
+    "savol": "Tilosti so’lak bezi lotincha qanday nomlanadi?",
+    "A": "Glandula sublingualis",
+    "B": "Glandula parotidea",
+    "C": "Glandula submandibularis",
+    "D": "Ductus sublingualis",
+    "javob": "A"
+  },
+  {
+    "savol": "Halqum qanday qismlarga bo’linadi?",
+    "A": "Pars nasalisPars oralisPars laryngea",
+    "B": "Pars oralisPars nasalisPars esophagus",
+    "C": "Pars nasalis Pars glandulaPars ventriculus",
+    "D": "Pars tonsillaePars pharynx Pars laryngea",
+    "javob": "A"
+  },
+  {
+    "savol": "Me’daning 12 barmoq ichakka o’tish sohasi nima deyiladi?",
+    "A": "Pars pylorica",
+    "B": "Pars cardiaca",
+    "C": "Pars angularis",
+    "D": "Fornix",
+    "javob": "A"
+  },
+  {
+    "savol": "Me’daning katta egriligi lotincha qanday  nomlanadi?",
+    "A": "Curvatura ventriculi major",
+    "B": "Curvatura ventriculi minor",
+    "C": "Curvatura ventriculi inferior",
+    "D": "Curvature ventriculi posterior",
+    "javob": "A"
+  },
+  {
+    "savol": "Intestinum tenue nima?",
+    "A": "Ingichka ichak",
+    "B": "Me’da",
+    "C": "Yog’on ichak",
+    "D": "To’g’ri ichak",
+    "javob": "A"
+  },
+  {
+    "savol": "Ingichka ichak nechta qismdan tashkil topgan?",
+    "A": "3ta",
+    "B": "4ta",
+    "C": "5ta",
+    "D": "6ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Yog’on ichakning ko’tariluvchi qismi qanday nomlanadi?",
+    "A": "Colon ascendens",
+    "B": "Colon descendens",
+    "C": "Colon rectum",
+    "D": "Colon caecum",
+    "javob": "A"
+  },
+  {
+    "savol": "Hepar qayerda joylashgan?",
+    "A": "O’ng qovurg’a osti sohasida",
+    "B": "Chap qovurg’a osti sohasida",
+    "C": "Qizilo’ngach sohasida",
+    "D": "Me’da sohasida",
+    "javob": "A"
+  },
+  {
+    "savol": "Lobus hepatis dexter qanday qismlarga bo’linadi?",
+    "A": "Lobus quadratus, lobus caudatus",
+    "B": "Lobus dexter, lobus sinister",
+    "C": "Lobus anterior, lobus media",
+    "D": "Lobus posterior, lobus inferior",
+    "javob": "A"
+  },
+  {
+    "savol": "Porta hepatis nima?",
+    "A": "Jigar darvozasi",
+    "B": "Jigar arteriyasi",
+    "C": "Jigar venasi",
+    "D": "O’t pufagi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qorin bo’shlig’idagi a’zolarni o’rab turadigan seroz parda nima?",
+    "A": "Peritoneum",
+    "B": "gaster",
+    "C": "pancreas",
+    "D": "Epicard",
+    "javob": "A"
+  },
+  {
+    "savol": "Hamma tarafdan qorin parda bilan o’ralgan a’zolar nima deyiladi?",
+    "A": "intraperitoneal",
+    "B": "mezoperitoneal",
+    "C": "ekstraperitoneal",
+    "D": "Infraperitoneal",
+    "javob": "A"
+  },
+  {
+    "savol": "Faqat bir tarafdan qorin parda bilan o’ralgan a’zolar nima deyiladi?",
+    "A": "ekstraperitoneal",
+    "B": "intraperitoneal",
+    "C": "mezoperitoneal",
+    "D": "Infraperitoneal",
+    "javob": "A"
+  },
+  {
+    "savol": "3tarafdan qorin parda bilan o’ralgan a’zolar nima deyiladi?",
+    "A": "mezoperitoneal",
+    "B": "ekstraperitoneal",
+    "C": "intraperitoneal",
+    "D": "Infraperitoneal",
+    "javob": "A"
+  },
+  {
+    "savol": "Jigar qorin parda qanday o’ralgan?",
+    "A": "mezoperitoneal",
+    "B": "ekstraperitoneal",
+    "C": "intraperitoneal",
+    "D": "Infraperitoneal",
+    "javob": "A"
+  },
+  {
+    "savol": "Intraperitoneal a’zolarni belgilang.",
+    "A": "Och ichak,Yonbosh ichak",
+    "B": "Ko’richak,jigar",
+    "C": "Buyrak aorta",
+    "D": "Siydik nayi , jigar",
+    "javob": "A"
+  },
+  {
+    "savol": "Ingichka ichak tutqichi lotincha qanday nomlanadi?",
+    "A": "Mesenterium",
+    "B": "mesocolon",
+    "C": "peritoneum",
+    "D": "Mesometrium",
+    "javob": "A"
+  },
+  {
+    "savol": "Yog’on ichak tutqichi lotincha qanday nomlanadi?",
+    "A": "Mesocolon",
+    "B": "mesenterium",
+    "C": "peritoneum",
+    "D": "Mesometrium",
+    "javob": "A"
+  },
+  {
+    "savol": "Meatus nasi medius nima?",
+    "A": "O’rta burun yo’li",
+    "B": "Burunchig’anog’i",
+    "C": "Pastki burun yo’li",
+    "D": "Orqa burun yo’li",
+    "javob": "A"
+  },
+  {
+    "savol": "Gaymor bo’shlig’I qaysi suyakda joylashgan?",
+    "A": "Maxilla",
+    "B": "Os frontale",
+    "C": "Os ethmoidale",
+    "D": "Mandibula",
+    "javob": "A"
+  },
+  {
+    "savol": "Larynx qayerda joylashgan?",
+    "A": "IV – VI bo’yin umurtqalari sohasida",
+    "B": "III – V bo’yin umurtqalari sohasida",
+    "C": "I – II ko’krak umurtqalari sohasida",
+    "D": "V – VII ko’krak umurtqalari sohasida",
+    "javob": "A"
+  },
+  {
+    "savol": "Hiqildoqning davomi bu …",
+    "A": "Traxeya",
+    "B": "Qizilo’ngach",
+    "C": "bronx",
+    "D": "Halqum",
+    "javob": "A"
+  },
+  {
+    "savol": "O’pkani tashqi tarafdan o’rab turadigan parda bu..",
+    "A": "Plevra",
+    "B": "peritoneum",
+    "C": "fassiya",
+    "D": "Periost",
+    "javob": "A"
+  },
+  {
+    "savol": "Mediastinum nima?",
+    "A": "Ko’ks oralig’i",
+    "B": "Qorin parda",
+    "C": "halqum",
+    "D": "Qizilo’ngach",
+    "javob": "A"
+  },
+  {
+    "savol": "O’ng o’pka tarkibida nechta bo’lak bor?",
+    "A": "3ta",
+    "B": "2ta",
+    "C": "4ta",
+    "D": "1ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Chap o’pka bo’laklarini belgilang.",
+    "A": "Lobus superiorLobus inferior",
+    "B": "Lobus anteriorLobus posterior",
+    "C": "Lobus superiorLobus media",
+    "D": "Lobus dexterLobus sinister",
+    "javob": "A"
+  },
+  {
+    "savol": "Glandula thyroidea nima?",
+    "A": "Qalqonsimon bez",
+    "B": "Ayrisimon bez",
+    "C": "Buyrakusti bezi",
+    "D": "Me’daosti bezi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qalqonorqa bezlari nechta bo’ladi?",
+    "A": "4-8",
+    "B": "10-20",
+    "C": "2-10",
+    "D": "6-12",
+    "javob": "A"
+  },
+  {
+    "savol": "Qalqonsimon bez gormonini belgilang.",
+    "A": "Tiroksin",
+    "B": "Adrenalin",
+    "C": "Prolaktin",
+    "D": "AKTG",
+    "javob": "A"
+  },
+  {
+    "savol": "Thymus qanday bez?",
+    "A": "Ayrisimon bez",
+    "B": "Qalqonsimon bez",
+    "C": "Buyrakusti bezi",
+    "D": "Me’daosti bezi",
+    "javob": "A"
+  },
+  {
+    "savol": "Vesica urinaria hajmi qancha?",
+    "A": "500-700 ml",
+    "B": "900-1000 ml",
+    "C": "100-200 ml",
+    "D": "500-600 ml",
+    "javob": "A"
+  },
+  {
+    "savol": "Ingichka ichak uzunligi qancha?",
+    "A": "5-6 metr",
+    "B": "10-12 metr",
+    "C": "3-6 metr",
+    "D": "9-10 metr",
+    "javob": "A"
+  },
+  {
+    "savol": "Duodenum uzunligi qancha?",
+    "A": "25-30 sm",
+    "B": "30-40 sm",
+    "C": "50 sm",
+    "D": "100 sm",
+    "javob": "A"
+  },
+  {
+    "savol": "Jejunum nima?",
+    "A": "Och ichak",
+    "B": "Ko’richak",
+    "C": "Yonbosh ichak",
+    "D": "12barmoq ichak",
+    "javob": "A"
+  },
+  {
+    "savol": "Halqum gumbazi qanday nomlanadi?",
+    "A": "Fornix pharyngis",
+    "B": "Pars pharyngis",
+    "C": "Tonsilla pharyngea",
+    "D": "Caruncula pharyngea",
+    "javob": "A"
+  },
+  {
+    "savol": "Pirogov – Valdeyer limfoepitelial halqasini hosil qilishda nechta murtak ishtirok etadi?",
+    "A": "6ta",
+    "B": "4ta",
+    "C": "8ta",
+    "D": "10ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Jag’osti so’lak  bezi lotincha qanday nomlanadi?",
+    "A": "Glandula submandibularis",
+    "B": "Glandula sublingualis",
+    "C": "Glandula mandibularis",
+    "D": "Glandula lingualis",
+    "javob": "A"
+  },
+  {
+    "savol": "Tilda joylashgan ipsimon so’rg’ichlar lotincha qanday nomlanadi?",
+    "A": "Papillae filiforme",
+    "B": "Papillae fungiforme",
+    "C": "Papillae conica",
+    "D": "Papillae vallatae",
+    "javob": "A"
+  },
+  {
+    "savol": "Tilda joylashgan zamburug’simon so’rg’ichlar qanday nomlanadi?",
+    "A": "Papillae fungiformes",
+    "B": "Papillae conica",
+    "C": "Papillae filiforme",
+    "D": "Papillae vallatae",
+    "javob": "A"
+  },
+  {
+    "savol": "Lingua qanday qismlardan tuzilgan?",
+    "A": "CorpusApexRadix",
+    "B": "CaputCorpusapex",
+    "C": "CorpusCollumapex",
+    "D": "CorpusCollumRadix",
+    "javob": "A"
+  },
+  {
+    "savol": "Doimiy tishlarda uchinchi katta oziq tishlarning chiqish muddatini belgilang.",
+    "A": "18-30 yoshda",
+    "B": "8-10 yoshda",
+    "C": "11-15 yoshda",
+    "D": "11-13 yoshda",
+    "javob": "A"
+  },
+  {
+    "savol": "Kichik oziq tishlar lotincha qanday nomlanadi?",
+    "A": "Dentes premolares",
+    "B": "Dentes molaris",
+    "C": "Dentes incisivus",
+    "D": "Dentes caninus",
+    "javob": "A"
+  },
+  {
+    "savol": "Dentes molares har bir jag’da nechtadan bo’ladi?",
+    "A": "6ta",
+    "B": "12ta",
+    "C": "8ta",
+    "D": "4ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Diaphragma orisni hosil qilishda qaysi mushak ishtirok etadi?",
+    "A": "m. mylohyoideus",
+    "B": "m. verticalis",
+    "C": "m. transversus",
+    "D": "m. uvulae",
+    "javob": "A"
+  },
+  {
+    "savol": "Cavitas oris propria nima?",
+    "A": "Xususiy og’iz bo’shlig’i",
+    "B": "Og’iz dahlizi",
+    "C": "Og’iz tirqishi",
+    "D": "Hazm a’zolari",
+    "javob": "A"
+  },
+  {
+    "savol": "Dens serotinus nima?",
+    "A": "Aql tishi",
+    "B": "Kurak tish",
+    "C": "Qoziq tish",
+    "D": "Sut tishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qoziq tishi nima?",
+    "A": "d.canina",
+    "B": "d.incisiva",
+    "C": "d.premolaris",
+    "D": "d.molaris",
+    "javob": "A"
+  },
+  {
+    "savol": "Kichik oziq tishi nima?",
+    "A": "d.premolaris",
+    "B": "d.canina",
+    "C": "d.incisiva",
+    "D": "d.molaris",
+    "javob": "A"
+  },
+  {
+    "savol": "Doimiy kichik oziq tishlar soni?",
+    "A": "8",
+    "B": "10",
+    "C": "12",
+    "D": "14",
+    "javob": "A"
+  },
+  {
+    "savol": "veli palatini nima?",
+    "A": "tanglay chodiri",
+    "B": "til osti bezi",
+    "C": "dimog'",
+    "D": "aql tishi",
+    "javob": "A"
+  },
+  {
+    "savol": "oshqozon (me’da) qorin parda bilan qanday o'ralgan",
+    "A": "intraperitoneal",
+    "B": "ekstraperitoneal",
+    "C": "o'ralmagan",
+    "D": "mezoperitoneal",
+    "javob": "A"
+  },
+  {
+    "savol": "Lien (taloq) qorin parda bilan qanday o'ralgan",
+    "A": "intraperitoneal",
+    "B": "ekstraperitoneal",
+    "C": "o'ralmagan",
+    "D": "mezoperitoneal",
+    "javob": "A"
+  },
+  {
+    "savol": "buyrak  qorin parda bilan qanday o'ralgan",
+    "A": "ekstraperitoneal",
+    "B": "o'ralmagan",
+    "C": "mezoperitoneal",
+    "D": "intraperitoneal",
+    "javob": "A"
+  },
+  {
+    "savol": "ko'ndalang chambar ichak  qorin parda bilan qanday o'ralgan",
+    "A": "intraperitoneal",
+    "B": "ekstraperitoneal",
+    "C": "o'ralmagan",
+    "D": "mezoperitoneal",
+    "javob": "A"
+  },
+  {
+    "savol": "ko'r ichak  qorin parda bilan qanday o'ralgan",
+    "A": "intraperitoneal",
+    "B": "ekstraperitoneal",
+    "C": "o'ralmagan",
+    "D": "mezoperitoneal",
+    "javob": "A"
+  },
+  {
+    "savol": "ko'tariluvchi chambar ichak qorin parda bilan qanday o'ralgan",
+    "A": "mezoperitoneal",
+    "B": "intraperitoneal",
+    "C": "ekstraperitoneal",
+    "D": "o'ralmagan",
+    "javob": "A"
+  },
+  {
+    "savol": "tushuvchi chambar ichak qorin parda bilan qanday o'ralgan",
+    "A": "mezoperitoneal",
+    "B": "intraperitoneal",
+    "C": "ekstraperitoneal",
+    "D": "o'ralmagan",
+    "javob": "A"
+  },
+  {
+    "savol": "och ichak  qorin parda bilan qanday o'ralgan",
+    "A": "intraperitoneal",
+    "B": "ekstraperitoneal",
+    "C": "o'ralmagan",
+    "D": "mezoperitoneal",
+    "javob": "A"
+  },
+  {
+    "savol": "yonbosh ichak  qorin parda bilan qanday o'ralgan",
+    "A": "intraperitoneal",
+    "B": "ekstraperitoneal",
+    "C": "o'ralmagan",
+    "D": "mezoperitoneal",
+    "javob": "A"
+  },
+  {
+    "savol": "sigmasimon ichak  qorin parda bilan qanday o'ralgan",
+    "A": "intraperitoneal",
+    "B": "ekstraperitoneal",
+    "C": "o'ralmagan",
+    "D": "mezoperitoneal",
+    "javob": "A"
+  },
+  {
+    "savol": "tuxumdon   qorin parda bilan qanday o'ralgan",
+    "A": "intraperitoneal",
+    "B": "ekstraperitoneal",
+    "C": "o'ralmagan",
+    "D": "mezoperitoneal",
+    "javob": "A"
+  },
+  {
+    "savol": "bursa epigastrica nimani o'raydi",
+    "A": "chap jigar bo’lagini",
+    "B": "o'ng jigar b’olagini",
+    "C": "oshqozonni",
+    "D": "chambar ichak",
+    "javob": "A"
+  },
+  {
+    "savol": "intraperitoneal o'ralish nima?",
+    "A": "har tomondan",
+    "B": "3 tomondan",
+    "C": "1 tomondan",
+    "D": "2 tomondan",
+    "javob": "A"
+  },
+  {
+    "savol": "ekstraperitoneal o'ralish nima?",
+    "A": "1 tomondan",
+    "B": "har tomondan",
+    "C": "3 tomondan",
+    "D": "2 tomondan",
+    "javob": "A"
+  },
+  {
+    "savol": "Mesoperitoneal o'ralish nima ?",
+    "A": "3 tomondan",
+    "B": "1 tomondan",
+    "C": "2 tomondan",
+    "D": "har tomondan",
+    "javob": "A"
+  },
+  {
+    "savol": "pars cardiaca qaysi azoga oid?",
+    "A": "Gaster",
+    "B": "Duodenum",
+    "C": "Oris",
+    "D": "Palatinum",
+    "javob": "A"
+  },
+  {
+    "savol": "curvature minor qaysi azoga tegishli ?",
+    "A": "Gaster",
+    "B": "Oris",
+    "C": "Rectum",
+    "D": "Palatinum",
+    "javob": "A"
+  },
+  {
+    "savol": "oshqozon osti bezi qanday ataladi?",
+    "A": "Pancreas",
+    "B": "Duodenum",
+    "C": "Vesica biliaris",
+    "D": "Pharanx",
+    "javob": "A"
+  },
+  {
+    "savol": "jigar segmenti soni?",
+    "A": "8",
+    "B": "10",
+    "C": "5",
+    "D": "2",
+    "javob": "A"
+  },
+  {
+    "savol": "jigar o'ng yo'li nima deyiladi?",
+    "A": "ductus hepaticus dextra",
+    "B": "ductus hepaticus sinistra",
+    "C": "ductus hepaticus communis",
+    "D": "ductus cycticus",
+    "javob": "A"
+  },
+  {
+    "savol": "jigar chap yo'li nima deyiladi?",
+    "A": "ductus hepaticus sinistra",
+    "B": "ductus hepaticus communis",
+    "C": "ductus hepaticus dextra",
+    "D": "ductus cycticus",
+    "javob": "A"
+  },
+  {
+    "savol": "pancreas qismi?",
+    "A": "Cauda",
+    "B": "carpe",
+    "C": "tarse",
+    "D": "pollix",
+    "javob": "A"
+  },
+  {
+    "savol": "omentum minus nima?",
+    "A": "kichik charvi",
+    "B": "katta charvi",
+    "C": "cho'ntak",
+    "D": "xalta",
+    "javob": "A"
+  },
+  {
+    "savol": "omentum majus nima?",
+    "A": "katta charvi",
+    "B": "cho'ntak",
+    "C": "xalta",
+    "D": "kichik charvi",
+    "javob": "A"
+  },
+  {
+    "savol": "bursa hepatica qaysi a'zoni o'raydi",
+    "A": "jigar o'ng bo'lagi",
+    "B": "taloq",
+    "C": "ilium",
+    "D": "rectum",
+    "javob": "A"
+  },
+  {
+    "savol": "Yonbosh ichak nima deyiladi?",
+    "A": "Ilium",
+    "B": "Rectum",
+    "C": "Jejenum",
+    "D": "Taloq",
+    "javob": "A"
+  },
+  {
+    "savol": "bartolin yo'li nima?",
+    "A": "d. sublingualis major",
+    "B": "d. sublingualis minor",
+    "C": "d. pancreaticus",
+    "D": "d. choledochus",
+    "javob": "A"
+  },
+  {
+    "savol": "quloq oldi so'lak bezi qayoqqa quyiladi?",
+    "A": "2 molar tish asosiga",
+    "B": "til ostiga",
+    "C": "papilla duodeni majorga",
+    "D": "papilla filiformisga",
+    "javob": "A"
+  },
+  {
+    "savol": "duodenum so'rg'ichlari",
+    "A": "papilla duodenum major et minor",
+    "B": "papilla filiformes",
+    "C": "papilla fungiformes",
+    "D": "papilla foliate",
+    "javob": "A"
+  },
+  {
+    "savol": "Sino-atrial tugun yurakning qaysi qismida joylashgan?",
+    "A": "O’ng bo’lmachada",
+    "B": "O’ng qorinchada",
+    "C": "Chap bo’lmachada",
+    "D": "Chap qorinchada",
+    "javob": "A"
+  },
+  {
+    "savol": "Aorta qanday qismlardan tuzilgan?",
+    "A": "aorta ascendens,arcus aortae,aorta descendens",
+    "B": "Arcus aortae, aortae posterior",
+    "C": "Aorta ascendens, aorta descendens",
+    "D": "Aorta superior, arcus aortae",
+    "javob": "A"
+  },
+  {
+    "savol": "Tojsimon arteriyalar qayerdan chiqadi?",
+    "A": "Aorta ascendens",
+    "B": "Arcus aortae",
+    "C": "Aorta descendens",
+    "D": "Cor",
+    "javob": "A"
+  },
+  {
+    "savol": "a. carotis communis bu…",
+    "A": "Umumiy uyqu arteriyasi",
+    "B": "Yuz arteriyasi",
+    "C": "Jag’ arteriyasi",
+    "D": "Til arteriyasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Truncus brachiocephalicus bu…",
+    "A": "Yelka-bosh poyasi",
+    "B": "Umumiy uyqu arteriyasi",
+    "C": "Jag’ arteriyasi",
+    "D": "Til arteriyasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Capsula adiposa nimaga oid?",
+    "A": "Ren",
+    "B": "Gaster",
+    "C": "Cor",
+    "D": "Pulmo",
+    "javob": "A"
+  },
+  {
+    "savol": "Uch tabaqali klapan nima deyiladi?",
+    "A": "Valve tricuspidalis",
+    "B": "Valve mitralis",
+    "C": "Valve aorta",
+    "D": "Valve semilunatum",
+    "javob": "A"
+  },
+  {
+    "savol": "Ikki tabaqali klapan nima deyiladi?",
+    "A": "Valve bicuspidalis",
+    "B": "Valve tricuspidalis",
+    "C": "Valve semilunatum",
+    "D": "Valve aorta",
+    "javob": "A"
+  },
+  {
+    "savol": "Yurak devori o’rta qavati qaysi?",
+    "A": "Miokard",
+    "B": "perikard",
+    "C": "endokard",
+    "D": "Cortex",
+    "javob": "A"
+  },
+  {
+    "savol": "Foramen ovale qaysi a’zoga oid ?",
+    "A": "Yurak",
+    "B": "buyrak",
+    "C": "O’pka",
+    "D": "Qorin parda",
+    "javob": "A"
+  },
+  {
+    "savol": "Buyrak qirralar qaysilar ?",
+    "A": "Margo medialis et lateralis",
+    "B": "Facies anterior et posterior",
+    "C": "Extremitas superior et inferior",
+    "D": "Sulcus coronalis",
+    "javob": "A"
+  },
+  {
+    "savol": "Buyrak yuzalar qaysilar?",
+    "A": "Facies anterior et posterior",
+    "B": "Extremitas superior et inferior",
+    "C": "Sulcus coronalis",
+    "D": "Margo medialis et lateralis",
+    "javob": "A"
+  },
+  {
+    "savol": "Buyrak uchlari qaysilar?",
+    "A": "Extremitas superior et inferior",
+    "B": "Sulcus coronalis",
+    "C": "Margo medialis et lateralis",
+    "D": "Facies anterior et posterior",
+    "javob": "A"
+  },
+  {
+    "savol": "Buyraklardan qaysi biri topografik nisbatan pastroqda joylashgan?",
+    "A": "Dextra",
+    "B": "Sinistra",
+    "C": "anterior",
+    "D": "superior",
+    "javob": "A"
+  },
+  {
+    "savol": "Lyeto uchburchagi qaysi a’zoda joylashgan ?",
+    "A": "Siydik pufagi",
+    "B": "buyrak",
+    "C": "Siydik yo’li",
+    "D": "jigar",
+    "javob": "A"
+  },
+  {
+    "savol": "Yurak egati qaysilar ?",
+    "A": "Sulcus coronalis",
+    "B": "Sulcus longitudinalis dextra",
+    "C": "Sulcus longitudinalis sinistra",
+    "D": "Sulcus transversus",
+    "javob": "A"
+  },
+  {
+    "savol": "Yurak egati qaysi ?",
+    "A": "Sulcus interventricularis anterior",
+    "B": "Sulcus longitudinalis dextra",
+    "C": "Sulcus longitudinalis anterior",
+    "D": "Sulcus transversus",
+    "javob": "A"
+  },
+  {
+    "savol": "Yurak egatga nima kiradi ?",
+    "A": "Sulcus interventricularis posterior",
+    "B": "Sulcus longitudinalis dextra",
+    "C": "Sulcus longitudinalis sinistra",
+    "D": "Sulcus horizantalis",
+    "javob": "A"
+  },
+  {
+    "savol": "A.umblicalis nimadan chiqadi?",
+    "A": "Ichki yonbosh arteriya",
+    "B": "Uyqu arteriya",
+    "C": "Yelka arteriasi",
+    "D": "Bo’yinturuq venasi",
+    "javob": "A"
+  },
+  {
+    "savol": "A.mesenterica superior nimadan chiqadi?",
+    "A": "Aorta abdominalis",
+    "B": "cor",
+    "C": "Aosta thoracica",
+    "D": "A.caroticus internus",
+    "javob": "A"
+  },
+  {
+    "savol": "A.thyroidea superior nimadan chiqadi?",
+    "A": "Tashqi uyqu arteriyasidan",
+    "B": "Yelka arteriyasidan",
+    "C": "Son arteriyasidan",
+    "D": "Ichki uyqu arteriyasidan",
+    "javob": "A"
+  },
+  {
+    "savol": "v.lienalis qayerga quyiladi?",
+    "A": "Darvoza venasiga",
+    "B": "Yuqori kovak venaga",
+    "C": "yurakka",
+    "D": "O’pkaga",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi qon tomir yurakni mushaklarini qon bilan taminlaydi?",
+    "A": "A.coronalis",
+    "B": "A.umblicalis",
+    "C": "A.intercostalis",
+    "D": "A.subclavia",
+    "javob": "A"
+  },
+  {
+    "savol": "Oshqozonni qon bilan ta’minlaydigan tomir?",
+    "A": "A.gastrica sinistra",
+    "B": "A.umblicalis",
+    "C": "A.intercostalis",
+    "D": "A.subclavia",
+    "javob": "A"
+  },
+  {
+    "savol": "Me’dani qon bilan ta’minlaydigan tomir?",
+    "A": "A.gastrica dextra",
+    "B": "A.umblicalis",
+    "C": "A.subclavia",
+    "D": "A.intercostalis",
+    "javob": "A"
+  },
+  {
+    "savol": "Truncus coeliacus nima?",
+    "A": "Qorin poyasi",
+    "B": "Darvoza ve’nasi",
+    "C": "O’pka ildizi",
+    "D": "Yurak o’ymasi",
+    "javob": "A"
+  },
+  {
+    "savol": "O’t pufagini qaysi qon tomir qon bilan ta’minlaydi?",
+    "A": "A.cysticus",
+    "B": "A.vesicalis superior",
+    "C": "A.vesicalis inferior",
+    "D": "a.pacreatica",
+    "javob": "A"
+  },
+  {
+    "savol": "Taloqni qon bilan ta’minlanishi ?",
+    "A": "A.lienalis",
+    "B": "A.vesicalis superior",
+    "C": "A.vesicalis inferior",
+    "D": "a.pacreatica",
+    "javob": "A"
+  },
+  {
+    "savol": "Yuzni qon bilan taminlanishi qaysi qon tomir orqali ?",
+    "A": "A.facialis",
+    "B": "A.occipitalis",
+    "C": "A.maxillaris",
+    "D": "A.lingualis",
+    "javob": "A"
+  },
+  {
+    "savol": "Ductus arteriosus qayerda joylashadi?",
+    "A": "Aorta va o’pka arteriyasi orasida",
+    "B": "Bo’lmachalar orasida",
+    "C": "Qorinchalar orasida",
+    "D": "jigarda",
+    "javob": "A"
+  },
+  {
+    "savol": "Aortaning ko’tariluvchi qismi tarmoqlari?",
+    "A": "a.coronariа dextra, a. coronariа sinistra",
+    "B": "a.subclavia, a. carotis communis dextra",
+    "C": "tr. brachiochephalicus, a. subclaviа",
+    "D": "a.thyroideа superior et a timicа.",
+    "javob": "A"
+  },
+  {
+    "savol": "Aorta ravog’I tarmoqlari ?",
+    "A": "tr. brachiocephalicus, a. carotis communis sinistra, a. subclaviа sinistra",
+    "B": "tr. brachiocephalicus dexter et sinister",
+    "C": "a. subclaviа dextra, sinistrа et a. coronariа.dextrа.",
+    "D": "a. carotis communis sinistrа et dextra, a. subclaviа.sinistra",
+    "javob": "A"
+  },
+  {
+    "savol": "Qorin aortasining parietal tarmoqlari ?",
+    "A": "aа.phrenicae inferiores, lumbales, a. sacralis mediana",
+    "B": "aа.phrenicae, suprarenales, renales, lumbales",
+    "C": "aа.lumbales, a. sacralis medianа et lateralis",
+    "D": "aа.lumbales et intercostales inferiores, a. sacralis",
+    "javob": "A"
+  },
+  {
+    "savol": "Tashqi uyqu arteriyasi oldingi tarmoqlari?",
+    "A": "a.thyroideа superior, a. lingualis, et a. facialis",
+    "B": "a.thyroideа superior et inferior, a. lingualis",
+    "C": "a.thyroideа superior, a. facialis",
+    "D": "a.facialis, a. lingualis, a. occipitalis",
+    "javob": "A"
+  },
+  {
+    "savol": "Tashqi uyqu arteriyasi orqa tarmoqlari?",
+    "A": "a.occipitalis, a. auricularis posterior, a. sternocleidomastoidea",
+    "B": "a.occipitalis, a. facialis, a. pharyngea",
+    "C": "a.occipitalis, a. auricularis posterior, a. thyroideа.",
+    "D": "a.auricularis posterior, a. maxilaris, a. temporalis",
+    "javob": "A"
+  },
+  {
+    "savol": "Yelkaning magistral arteriyasi ?",
+    "A": "A.brachialis",
+    "B": "A.ulnaris",
+    "C": "A.femoralis",
+    "D": "A.tibialis anterior",
+    "javob": "A"
+  },
+  {
+    "savol": "Oyoqning yuza venalari qaysilar?",
+    "A": "v. saphenа magnа et parva",
+    "B": "v. saphenа lateralis et medialis",
+    "C": "v. saphenа anterior et posterior",
+    "D": "v. saphenа superior et inferior",
+    "javob": "A"
+  },
+  {
+    "savol": "Darvoza venasi qaysi tomirlar birlashuvidan hosil bo’ladi?",
+    "A": "v. lienalis, v. mesentericа superior, v. mesentericа inferior",
+    "B": "v. gastrica, v. hepatica, v. lienalis",
+    "C": "v. gastrica, v. lienalis, v. pancreatica",
+    "D": "v. hepatica, v. mesentericа superior et inferior",
+    "javob": "A"
+  },
+  {
+    "savol": "Yumshoq tanglay tarkibiga kiruvchi mushaklar qaysilar?",
+    "A": "mm.palatopharyngeus,palatoglossus, levator veli palatini,tensor veli palatini,uvulae",
+    "B": "m.palatoglossus, tensor veli palatini",
+    "C": "m.palatopharyngeus,m.uvulae",
+    "D": "m.levator veli palatini,m.depressor veli palatini",
+    "javob": "A"
+  },
+  {
+    "savol": "Tilni xususiy mushaklarini ko'rsating?",
+    "A": "mm.longitudinales superior et inferior,m.transversus linguae, m.verticalis",
+    "B": "mm.longitudinales superior et inferior,m.transversus linguae, m.styloglossus",
+    "C": "m.transversus linguae, m.verticalis,m.genioglossus",
+    "D": "mm.longitudinales inferior, m.transversus linguae,m.hyoglossus, mm.longitudinales superior, m.verticalis,m.uvulae",
+    "javob": "A"
+  },
+  {
+    "savol": "Tilni skelet mushaklarini ko'rsating?",
+    "A": "m.genioglosus,m.styloglossus, m.hyoglossus",
+    "B": "m.genioglosus,m.styloglossus, m.verticalis",
+    "C": "m.styloglossus,m.hyoglossus, m.transversus",
+    "D": "m.longitudinalis,m.styloglossus, m.hyoglossus",
+    "javob": "A"
+  },
+  {
+    "savol": "Qorin bo'shlig'ini yuqori qavatida qanaqa xaltalar mavjud?",
+    "A": "bursа hepatica,bursа omentalis,bursа.pregastrica",
+    "B": "bursа omentalis,bursа hepaticа",
+    "C": "bursа omentalis,bursа duodenoejunalis",
+    "D": "bursа hepatica,bursа iliocecale",
+    "javob": "A"
+  },
+  {
+    "savol": "Yo'g'on ichakni ingichka ichakdan farqi?",
+    "A": "haustrа coli",
+    "B": "villi coli",
+    "C": "folliculi lymphatici aggregati",
+    "D": "tunicа mucosa",
+    "javob": "A"
+  },
+  {
+    "savol": "Jigar boylamlarini ko'rsating?",
+    "A": "lig.falciforme,lig.teres",
+    "B": "lig.teres,lig.portae hepatis",
+    "C": "lig.falciforme,lig.vesicae felleae",
+    "D": "lig.quadratum,lig.coronarium",
+    "javob": "A"
+  },
+  {
+    "savol": "Ductus choledochus qaysi oqimlarni birikishidan hosil bo'lgan?",
+    "A": "ductus hepaticus communis,ductus cysticus",
+    "B": "ductus hepaticus propria,ductus cysticus",
+    "C": "ductuli biliferi,ductus hepaticus proprius",
+    "D": "ductus lobaris,ductus cysticus",
+    "javob": "A"
+  },
+  {
+    "savol": "Ductus pancreaticus accessorius qayerga quyiladi?",
+    "A": "papillа duodeni minor",
+    "B": "papillа duodeni major",
+    "C": "intestinum tenue",
+    "D": "jejunum",
+    "javob": "A"
+  },
+  {
+    "savol": "Omentum minus ni qaysi boylamlar hosil qiladi?",
+    "A": "lig.hepatoduodenale, lig.hepatogastricum",
+    "B": "lig.hepatolienale,lig.hepatorenale",
+    "C": "lig.hepatoduodenale, lig.hepatorenale",
+    "D": "lig.hepatogastricum, lig.gastrocolicum",
+    "javob": "A"
+  },
+  {
+    "savol": "Bursа hepaticа dan bursа pregastricа nima  bilan chegaralanadi?",
+    "A": "lig.falciforme hepatis",
+    "B": "lig.gastrolienale",
+    "C": "lig.phrenicolienale",
+    "D": "lig.hepatoduodenale",
+    "javob": "A"
+  },
+  {
+    "savol": "Jigar boylamlarini ko'rsating ?",
+    "A": "lig.falciforme, lig.hepatogastricum",
+    "B": "lig.teres,lig.portae hepatis",
+    "C": "lig.falciforme,lig.vesicae felleae",
+    "D": "lig.quadratum,lig.coronarium",
+    "javob": "A"
+  },
+  {
+    "savol": "Oshqozon devorida qaysi qavat bo'lmaydi?",
+    "A": "tunicа adventitia",
+    "B": "tunicа mucosa",
+    "C": "tunicа muscularis",
+    "D": "tunicа submucosa",
+    "javob": "A"
+  },
+  {
+    "savol": "Oshqozonni qizilo'ngach bilan tutashgan qismi?",
+    "A": "pars cardiaca",
+    "B": "canalis pyloricus",
+    "C": "pars pylorica",
+    "D": "fundus",
+    "javob": "A"
+  },
+  {
+    "savol": "Ductus choledochus qayerga ochiladi?",
+    "A": "papillа duodeni major",
+    "B": "papillа duodeni minor",
+    "C": "villi intestinales",
+    "D": "plicа longitudinalis duodeni",
+    "javob": "A"
+  },
+  {
+    "savol": "Emal va tish pulpasi o'rtasida nima bor?",
+    "A": "dentinum",
+    "B": "gingivа",
+    "C": "alveola",
+    "D": "fossа alveolaris",
+    "javob": "A"
+  },
+  {
+    "savol": "Alveola va tish ildizi o'rtasida nima bor?",
+    "A": "Periodontium",
+    "B": "gingivа",
+    "C": "alveola",
+    "D": "fossа alveolaris",
+    "javob": "A"
+  },
+  {
+    "savol": "Esophagus qismini toping?",
+    "A": "pars cervicalis",
+    "B": "pars lumbalis",
+    "C": "pars tubaria",
+    "D": "pars esophagea",
+    "javob": "A"
+  },
+  {
+    "savol": "Esophagus qismini toping?",
+    "A": "pars abdominalis",
+    "B": "pars lumbalis",
+    "C": "pars tubaria",
+    "D": "pars esophagea",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyida ko’rsatilgan qaysi javobda xususiy og’iz bo’shlig’i chegarasi keltirilmagan?",
+    "A": "Lunj",
+    "B": "Tishlar",
+    "C": "Milk",
+    "D": "Tanglay",
+    "javob": "A"
+  },
+  {
+    "savol": "Homiladagi ductus venosus bola tug’ilganidan so’ng nimaga aylanadi?",
+    "A": "Lig.venosum",
+    "B": "Lig.arteriosum",
+    "C": "Lig.teres hepatis",
+    "D": "Lig.umblicalis medialis",
+    "javob": "A"
+  },
+  {
+    "savol": "Homiladagi ductus arteriosus bola tug’ilganidan so’ng nimaga aylanadi?",
+    "A": "Lig.arteriosum",
+    "B": "Lig.venosum",
+    "C": "Lig.teres hepatis",
+    "D": "Lig.umblicalis medialis",
+    "javob": "A"
+  },
+  {
+    "savol": "Homiladagi kindik venasi keyinchalik qanaqa tuzilmaga aylanadi?",
+    "A": "Lig.teres hepatis",
+    "B": "Lig.umblicalis medialis",
+    "C": "Lig.venosum",
+    "D": "Lig.arteriosum",
+    "javob": "A"
+  },
+  {
+    "savol": "Homiladagi kindik arteriyasi keyinchalik qanday tuzilmaga aylanadi?",
+    "A": "Lig.umblicalis medialis",
+    "B": "Lig.teres hepatis",
+    "C": "Lig.venosum",
+    "D": "Lig.arteriosum",
+    "javob": "A"
+  },
+  {
+    "savol": "V.saphena magna qaysi venaga quyiladi?",
+    "A": "V.femoralis",
+    "B": "V.poplitea",
+    "C": "V.tibialis anterior",
+    "D": "V.tibialis posterior",
+    "javob": "A"
+  },
+  {
+    "savol": "V.saphena parva qaysi venaga quyiladi?",
+    "A": "V.poplitea",
+    "B": "V.femoralis",
+    "C": "V.tibialis anterior",
+    "D": "V.tibialis posterior",
+    "javob": "A"
+  },
+  {
+    "savol": "V.cephalica qaysi venaga quyiladi?",
+    "A": "V.axillaris",
+    "B": "V.brachialis",
+    "C": "V.subclavia",
+    "D": "V.basilica",
+    "javob": "A"
+  },
+  {
+    "savol": "Ichki bo’yinturuq venasi qaysi sinusning bevosita davomi hisoblanadi?",
+    "A": "Sinus sigmoideus",
+    "B": "Sinus sagittalis superior",
+    "C": "Sinus sagittalis inferior",
+    "D": "Sin transversus",
+    "javob": "A"
+  },
+  {
+    "savol": "Ichki bo’yinturuq venasining intracranial tarmoqlari bo’lgan sinuslar qanday hosil bo’ladi?",
+    "A": "Miya qattiq pardasining tashqi va ichki varaqlari orasida",
+    "B": "Miya qattiq pardasi va kalla suyagi orasida",
+    "C": "Miya qattiq pardasi va yumshoq pardasi orasida",
+    "D": "Miya yumshoq pardasining tashqi va ichki varaqlari orasida",
+    "javob": "A"
+  },
+  {
+    "savol": "V.jugularis internaning extracranial tarmoqlarini belgilang?",
+    "A": "V.retromandibularis",
+    "B": "Sinus sagittalis superior",
+    "C": "Sinus sigmoideus",
+    "D": "V.jugularis externa",
+    "javob": "A"
+  },
+  {
+    "savol": "Venae pulmonales qayerga quyiladi?",
+    "A": "atrium sinister",
+    "B": "atrium dexter",
+    "C": "venа cavа superior",
+    "D": "v. azygos",
+    "javob": "A"
+  },
+  {
+    "savol": "Umumiy yonbosh venalar qaysi venalarning qo’shilishidan hosil bo’ladi?",
+    "A": "v. iliacа.externа et v. iliacа.interna",
+    "B": "v. mesentericа inferior et vv. gluteae",
+    "C": "v. iliacа anterior et v. iliacа posterior",
+    "D": "rr. parietales et viscerales",
+    "javob": "A"
+  },
+  {
+    "savol": "Pastki kovak venaning parietal tarmoqlarini ko’rsating?",
+    "A": "vv. phrenicae inferiores et vv. lumbales",
+    "B": "vv. intercostales et vv. phrenicae superiores",
+    "C": "v. azygos et v. hemiazygos",
+    "D": "vv. lumbales, iliolumbales, sacrales",
+    "javob": "A"
+  },
+  {
+    "savol": "Pastki kovak venaning visceral tarmoqlarini ko’rsating?",
+    "A": "vv. hepaticae, renales, suprarenales, v. ovaricа(testicularis) dextra",
+    "B": "vv. hepaticae, gastricae, lienales",
+    "C": "vv. hepaticae, gastricae, intestinales",
+    "D": "vv. renales, suprarenales, gastricae, pancreaticae",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi venalarning qo’shilishidan pastki kovak vena hosil bo’ladi?",
+    "A": "v. iliacа communis dextrа et v. iliacа communis sinistra",
+    "B": "v. iliacа internа et v. iliacа externa",
+    "C": "v. iliacа externа et v. sacralis mediana",
+    "D": "vv. gluteae, vv. sacrales laterales, vv. iliolumbales",
+    "javob": "A"
+  },
+  {
+    "savol": "Qo’lning yuza venalarini ko’rsating?",
+    "A": "v. basilica, v. cephalica, v. medianа antebrachii",
+    "B": "v. axillaris, v. brachialis, v. profundа brachii",
+    "C": "v. ulnaris, v. radialis, vv. interdigitales superficiales",
+    "D": "v. brachialis, v. ulnaris, v. radialis, v. medianа antebrachii",
+    "javob": "A"
+  },
+  {
+    "savol": "Miya arterial doirasi(Williziy halqasi) qaysi arteriyalardan hosil bo’ladi?",
+    "A": "a.cerebri anterior, a. communicans anterior, a. carotis internа, a. communicans posterior, a. cerebri posterior",
+    "B": "a.cerebri anterior, a. cerebri posterior, a. cerebri mediа.",
+    "C": "a.cerebri anterior, a. carotis communis, a. cerebri mediа.",
+    "D": "a.cerebri anterior, a.cerebri posterior, a.cerebri.media, a. communicans anterior et posterior",
+    "javob": "A"
+  },
+  {
+    "savol": "O’mrov osti arteriyasining tarmoqlari:",
+    "A": "a.vertebralis, tr. thyrocervicalis, a.dorsalis scapulae, a. thoracicа interna, tr. costocervicalis",
+    "B": "a.vertebralis, tr. thyrocervicalis, a. axillaris",
+    "C": "a.thoracicа interna, a. suprascapularis, a. subscapularis, a. dorsalis scapulae",
+    "D": "a.vertebralis, tr. thyrocervicalis, a. transversа colli, a. thoracicа interna, a. profundа brachii",
+    "javob": "A"
+  },
+  {
+    "savol": "Ichki uyqu arteriyasi qayerdan o’tadi?",
+    "A": "canalis caroticus, sulcus caroticus",
+    "B": "canalis caroticotympanicus",
+    "C": "foramen rotundum",
+    "D": "Foramen ovale",
+    "javob": "A"
+  },
+  {
+    "savol": "Ichki uyqu arteriyasining tarmoqlari?",
+    "A": "a.ophthalmica, a. cerebri anterior et media, a. communicans posterior, a. сhoroidea",
+    "B": "a.cerebri anterior, mediа.et posterior",
+    "C": "a.ophthalmica, a. cerebri anterior, mediа.et posterior",
+    "D": "a.cerebri anterior et media, a.maxillaris, a.ophtalmica",
+    "javob": "A"
+  },
+  {
+    "savol": "Qorin aortasining toq tarmoqlari?",
+    "A": "truncus coeliacus, a. mesentericа superior, a. mesentericа inferior",
+    "B": "truncus coeliacus, a. mesentericа superior, a. gastricа sinistrа",
+    "C": "a.gastricа sinistra, a. hepaticа propria, a. lienalis",
+    "D": "truncus coeliacus, a. lienalis, a. hepaticа communis",
+    "javob": "A"
+  },
+  {
+    "savol": "Qorin aortasining juft tarmoqlari?",
+    "A": "a.renalis, a.suprarenalis media, a.ovarica(testicularis), a.phrenica inferior",
+    "B": "a.renalis, suprarenalis superior, a.ovarica(testicularis)",
+    "C": "a.lienalis, a.mesenterica superior, a.renalis",
+    "D": "a.lumbalis, a.phrenica inferior, a.suprarenalis superior",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko’krak aortasining visceral tarmoqlari?",
+    "A": "aa. bronchiales, esophagealis, aa. pericardiaci, mediastinales",
+    "B": "aa.mediastinales, aa.bronchialis, a.subcostalis",
+    "C": "aa.bronchialis, aa.pericardiaci, a.phrenica superior",
+    "D": "a.phrenica superior, a.intercostalis posterior, a.subcostalis",
+    "javob": "A"
+  },
+  {
+    "savol": "Aorta ravog’i tarmoqlarini belgilang?",
+    "A": "tr.brachiocephalicus, a.carotis communis sinistra, a.subclavia sinistra",
+    "B": "tr.brachiocephalicus, a.carotis communis dextra, a.subclavia dextra",
+    "C": "a.carotis communis dextra, a.carotis communis sinistra, a.subclavia dextra et sinistra",
+    "D": "a.carotis communis dextra, tr.brachiocephalicus, a.subclavia sinistra",
+    "javob": "A"
+  },
+  {
+    "savol": "Aortaning ko’tariluvchi qismidan qanday tarmoqlar chiqadi?",
+    "A": "a.coronarius dexter et sinister",
+    "B": "a.interventricularis posterior",
+    "C": "a.interventricularis anterior",
+    "D": "a.marginalis",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi qaysi javobda tashqi uyqu arteriya tarmog’i keltirilmagan?",
+    "A": "a.ophtalmica",
+    "B": "a.thyroidea superior",
+    "C": "a.occipitalis",
+    "D": "a.auricularis posterior",
+    "javob": "A"
+  },
+  {
+    "savol": "a.vertebralis kalla suyagi ichiga qaysi teshik orqali kiradi?",
+    "A": "Foramen magnum",
+    "B": "Foramen jugularis",
+    "C": "Foramen lacerum",
+    "D": "Foramen ovale",
+    "javob": "A"
+  },
+  {
+    "savol": "a.ophtalmica ko’z kosasiga qanday kiradi?",
+    "A": "Canalis opticus",
+    "B": "Fissura orbitalis superior",
+    "C": "Fissura orbitalis inferior",
+    "D": "Foramen rotundum",
+    "javob": "A"
+  },
+  {
+    "savol": "Tashqi uyqu arteriyasining qaysi tarmog’i qalqonsimon bezni qon bilan ta’minlashda qatnashadi?",
+    "A": "a.thyroidea superior",
+    "B": "a.thyroidea inferior",
+    "C": "a.transversa colli",
+    "D": "a.pharyngea ascendens",
+    "javob": "A"
+  },
+  {
+    "savol": "Ichki uyqu arteriyasi nechta qismga bo’lib o’rganiladi?",
+    "A": "4",
+    "B": "7",
+    "C": "3",
+    "D": "2",
+    "javob": "A"
+  },
+  {
+    "savol": "Bosh miyani qon bilan ta’minlaydigan asosiy arteriyalarni belgilang?",
+    "A": "a.carotis interna, a.vertebralis",
+    "B": "a.carotis interna et externa",
+    "C": "a.carotis interna et externa, a.vertebralis",
+    "D": "a.carotis interna, a.subclavia",
+    "javob": "A"
+  },
+  {
+    "savol": "O’mrov osti arteriyasi qayergacha davom etadi?",
+    "A": "1-qovurg’aning lateral chetigacha",
+    "B": "1-qovurg’aning medial chetigacha",
+    "C": "2-qovurg’aning lateral chetigacha",
+    "D": "2-qovurg’aning medial chetigacha",
+    "javob": "A"
+  },
+  {
+    "savol": "O’mrov osti arteriyasi qaysi mushakka nisbatan 3 qismga bo’lib o’rganiladi?",
+    "A": "m.scalenius anterior",
+    "B": "m.scalenius medius",
+    "C": "m.scalenius posterior",
+    "D": "m.serratus anterior",
+    "javob": "A"
+  },
+  {
+    "savol": "Qo’ltiq osti arteriyasi qaysi mushakka nisbatan 3 qismga bo’lib o’rganiladi?",
+    "A": "m.pectoralis minor",
+    "B": "m.pectoralis major",
+    "C": "m.serratus anterior",
+    "D": "m.scalenius anterior",
+    "javob": "A"
+  },
+  {
+    "savol": "Kurak sohasidagi anastamosni hosil qilishda qatnashadigan arteriyalarni belgilang?",
+    "A": "a.suprascapularis, a.dorsalis scapula, a.subscapularis",
+    "B": "a.circumflexia humeri anterior et posterior, a.subscapularis",
+    "C": "a.suprascapularis, a.subscapularis",
+    "D": "a.transversa colli, a.dorsalis scapula",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi qaysi tarmoq a.axillaris tarmog’i emas?",
+    "A": "a.thoracica interna",
+    "B": "a.thoracica lateralis",
+    "C": "a.thoracica superior",
+    "D": "a.subscapularis",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi qaysi tarmoq a.subclavia uchun tegishli emas?",
+    "A": "a.thoracica lateralis",
+    "B": "a.thoracica interna",
+    "C": "a.vertebralis",
+    "D": "a.dorsalis scapula",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi qaysi tarmoq a.brachialis uchun tegishli?",
+    "A": "a.profunda brachii",
+    "B": "a.circumflexia humeri anterior",
+    "C": "a.circumflexia humeri posterior",
+    "D": "a.axillaris",
+    "javob": "A"
+  },
+  {
+    "savol": "Tr.celiacus tarmoqlarini belgilang?",
+    "A": "a.lienalis, a.hepatica communis, a.gastrica sinistra",
+    "B": "a.lienalis, a.hepatica communis, a.gastrica dextra",
+    "C": "a.splenica, a.hepatica propria, a.gastrica sinistra",
+    "D": "a.splenica, a.hepatica propria, a.gastrica dextra",
+    "javob": "A"
+  },
+  {
+    "savol": "Oshqozonning kichik egriligini qon bilan ta’minlovchi arteriyalarni belgilang?",
+    "A": "a.gastrica sinistra et dextra",
+    "B": "a.gastroomentalis sinistra et dextra",
+    "C": "a.gastrica brevis, a.gastrica sinistra",
+    "D": "a.gastrica brevis, a.gastrica posterior",
+    "javob": "A"
+  },
+  {
+    "savol": "Oshqozonning katta egriligini qon bilan ta’minlovchi arteriyalarni belgilang?",
+    "A": "a.gastroomentalis sinistra et dextra",
+    "B": "a.gastrica sinistra et dextra",
+    "C": "a.gastrica brevis, a.gastrica sinistra",
+    "D": "a.gastrica brevis, a.gastrica posterior",
+    "javob": "A"
+  },
+  {
+    "savol": "Oshqozonning fundus qismini qon bilan ta’minlovchi arteriya?",
+    "A": "a.gastrica brevis",
+    "B": "a.gastroomentalis sinistra et dextra",
+    "C": "a.gastrica sinistra et dextra",
+    "D": "a.gastrica posterior",
+    "javob": "A"
+  },
+  {
+    "savol": "a.gastroduodenalis qaysi arteriya tarmog’i hisoblanadi?",
+    "A": "a.hepatica communis",
+    "B": "a.hepatica propria",
+    "C": "a.lienalis",
+    "D": "a.gastrica sinistra",
+    "javob": "A"
+  },
+  {
+    "savol": "a.gastrica dextra qaysi arteriya tarmog’i hisoblanadi",
+    "A": "a.hepatica propria",
+    "B": "a.hepatica communis",
+    "C": "a.lienalis",
+    "D": "tr.celiacus",
+    "javob": "A"
+  },
+  {
+    "savol": "a.gastroomentalis dextra qaysi arteriya tarmog’i hisoblanadi?",
+    "A": "a.gastroduodenalis",
+    "B": "a.lienalis",
+    "C": "a.hepatica communis",
+    "D": "a.hepatica propria",
+    "javob": "A"
+  },
+  {
+    "savol": "a.gastroomentalis sinistra qaysi arteriya tarmog’i hisoblanadi?",
+    "A": "a.lienalis",
+    "B": "a.gastroduodenalis",
+    "C": "a.hepatica communis",
+    "D": "a.hepatica propria",
+    "javob": "A"
+  },
+  {
+    "savol": "a.gastrica brevis qaysi arteriya tarmog’i hisoblanadi?",
+    "A": "a.lienalis",
+    "B": "a.gastroduodenalis",
+    "C": "a.hepatica communis",
+    "D": "a.hepatica propria",
+    "javob": "A"
+  },
+  {
+    "savol": "a.mesenterica inferior tarmoqlarini ko’rsating?",
+    "A": "a.colica sinistra, a.sigmoideus, a.rectalis superior",
+    "B": "a.colica dextra, a.sigmoideus, a.rectalis superior",
+    "C": "a.colica media, a.sigmoideus, a.rectalis superior",
+    "D": "a.colica sinistra, a.sigmoideus, a.rectalis media",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi qaysi javobda a.mesenterica superior tarmoqlari ko’rsatilmagan?",
+    "A": "a.colica sinistra",
+    "B": "a.colica dextra",
+    "C": "a.colica media",
+    "D": "a.ileocolica",
+    "javob": "A"
+  },
+  {
+    "savol": "a.pudenda interna qaysi arteriya tarmog’i hisoblanadi?",
+    "A": "a.iliaca interna",
+    "B": "a.femoralis",
+    "C": "a.iliaca externa",
+    "D": "a.mesenterica superior",
+    "javob": "A"
+  },
+  {
+    "savol": "a.pudenda externa qaysi arteriya tarmog’i hisoblanadi?",
+    "A": "a.femoralis",
+    "B": "a.iliaca interna",
+    "C": "a.iliaca externa",
+    "D": "a.mesenterica superior",
+    "javob": "A"
+  },
+  {
+    "savol": "Ichki yonbosh arteriyaning orqa qismidan chiquvchi tarmoqlarni belgilang?",
+    "A": "a.iliolumbalis, a.glutea superior, a.sacrales laterales",
+    "B": "a.iliolumbalis, a.glutea inferior, a.sacrales laterales",
+    "C": "a.iliolumbalis, a.glutea superior, a.sacrales mediana",
+    "D": "a.iliolumbalis, a.glutea inferior, a.sacrales mediana",
+    "javob": "A"
+  },
+  {
+    "savol": "Ichki yonbosh arteriyaning oldingi qismidan chiqmaydigan tarmoqni belgilang?",
+    "A": "a.rectalis superior",
+    "B": "a.glutea inferior",
+    "C": "a.pudenda interna",
+    "D": "a.rectalis media",
+    "javob": "A"
+  },
+  {
+    "savol": "a.tibialis posterior tarmog’ini belgilang?",
+    "A": "a.plantaris medialis et lateralis",
+    "B": "a.dorsalis pedis",
+    "C": "a.palmaris medialis et lateralis",
+    "D": "a.plantaris posterior",
+    "javob": "A"
+  },
+  {
+    "savol": "Yurakning chap qorinchasidan qaysi arteriya chiqadi?",
+    "A": "Aorta",
+    "B": "O’pka arteriyasi",
+    "C": "Yuqori kovak vena",
+    "D": "Pastki kovak vena",
+    "javob": "A"
+  },
+  {
+    "savol": "Yurakning o’ng qorinchasidan qanday qon tomir chiqadi?",
+    "A": "O’pka poyasi",
+    "B": "O’pka arteriyasi",
+    "C": "Aorta",
+    "D": "O’pka venasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Yurakning o’ng bo’lmachasiga kelib quyilmaydigan qon tomirni belgilang?",
+    "A": "O’pka venasi",
+    "B": "Yuqori kovak vena",
+    "C": "Pastki kovak vena",
+    "D": "Sinus coronarius",
+    "javob": "A"
+  },
+  {
+    "savol": "O’ng bo’lmacha va o’ng qorincha orasida qanday klapan joylashgan?",
+    "A": "Uch tavaqali",
+    "B": "Ikki tavaqali",
+    "C": "Yarimoysimon",
+    "D": "Mitral klapan",
+    "javob": "A"
+  },
+  {
+    "savol": "Xalqaro formula bo’yicha 22-tish uchun to’g’ri keladigan tish yuzalarini belgilang?",
+    "A": "Facies labialis, facies palatinus, facies mesialis, facies distalis",
+    "B": "Facies buccalis, facies palatinus, facies mesialis",
+    "C": "Facies labialis, facies lingualis, facies distalis",
+    "D": "Facies vestibularis, facies approximalis, facies lingualis",
+    "javob": "A"
+  },
+  {
+    "savol": "Tishning qattiq moddasini belgilang?",
+    "A": "Emal, dentin, sement",
+    "B": "Emal, pulpa",
+    "C": "Pulpa, periodont",
+    "D": "Pulpa, dentin, sement",
+    "javob": "A"
+  },
+  {
+    "savol": "Tishning yumshoq moddasini belgilang?",
+    "A": "Pulpa",
+    "B": "Emal",
+    "C": "Dentin",
+    "D": "Sement",
+    "javob": "A"
+  },
+  {
+    "savol": "Yumshoq tanglay mushaklarini belgilang?",
+    "A": "m.palatopharyngeus, m.palatoglossus, m.levator veli palatini, m.tensor veli palatini,m.uvulae",
+    "B": "m.genioglossus, m.styloglossus",
+    "C": "m.hyoglossus, m.transversus",
+    "D": "m.palatoglossus, m.styloglossus",
+    "javob": "A"
+  },
+  {
+    "savol": "Cor tashqi anatomiyasi:",
+    "A": "basis cordis, apex cordis, facies sternocostalis, facies diaphragmatica, facies pulmonalis dextra et sinistra",
+    "B": "basis cordis, apex cordis, facies vertebralis, facies diaphragmatica, facies pulmonalis dextra et sinistra",
+    "C": "basis cordis, apex ventriculus, facies sternocostalis, facies diaphragmatica,facies pulmonalis",
+    "D": "basis cordis, apex cordis, facies sternocostalis, facies pericardiaca, facies pulmonalis dextra et sinistra",
+    "javob": "A"
+  },
+  {
+    "savol": "Cor tashqi anatomiyasi:",
+    "A": "sulcus coronarius, sulcus interventricularis anterior, sulcus interventricularis posterior, incisura apicis cordis",
+    "B": "sulcus ventriculus, sulcus interventricularis anterior, sulcus interventricularis posterior, incisura apicis cordis",
+    "C": "sulcus coronarius, sulcus interventricularis anterior, sulcus interventricularis posterior, incisura ventriculus",
+    "D": "sulcus coronarius, sulcus interventricularis dextra et sinistra, incisura apicis cordis",
+    "javob": "A"
+  },
+  {
+    "savol": "Cor kameralari:",
+    "A": "atrium dextrum, atrium sinistrum, ventriculus dexter, ventriculus sinister",
+    "B": "atrium anterior, atrium posterior, ventriculus dexter, ventriculus sinister",
+    "C": "atrium dextrum, atrium sinistrum, ventriculus anterior, ventriculus posterior",
+    "D": "atrium medialis, atrium sinistrum, ventriculus medialis, ventriculus sinister",
+    "javob": "A"
+  },
+  {
+    "savol": "Atrium dextrum tuzilishi:",
+    "A": "septum interatriale, fossa ovalis, ostium venae cavae superioris et inferioris, tuberculum intervenosum, valvula venae cavae inferioris",
+    "B": "septum interventricularae, fossa ovalis, ostium venae cavae superioris et inferioris, tuberculum intervenosum, valvula venae cavae inferioris",
+    "C": "septum interatriale, foramen ovale, ostium venae cavae superioris et inferioris, tuberculum intervenosum, valvula venae cavae inferioris",
+    "D": "septum interventricularae, fossa ovalis, ostium trunsi pulmonalis, tuberculum intervenosum, valvula venae cavae inferioris",
+    "javob": "A"
+  },
+  {
+    "savol": "Ichki uyqu arteriyasining qismlarini belgilang?",
+    "A": "Pars cervicalisPars petrosaPars cavernosaPars cerebralis",
+    "B": "Pars cervicalis Pars squamosaPars cavernosaPars cerebralis",
+    "C": "Pars orbitalisPars petrosaPars cavernosaPars cerebralis",
+    "D": "Pars petrosaPars squamosaPars cerebralisPars cavernosa",
+    "javob": "A"
+  },
+  {
+    "savol": "Zaxarchenko halqasini hosil qiluvchi qon tomirlar?",
+    "A": "a.vertebralis, a.spinalis anterior, a.basilaris",
+    "B": "a.vertebralis, a.spinalis posterior",
+    "C": "a.vertebralis, a.basilaris, a.cerebri posterior",
+    "D": "a.spinalis anterior, a.cerebellaris superior",
+    "javob": "A"
+  },
+  {
+    "savol": "Ayollarning ichki jinsiy a’zolariga nima kiradi?",
+    "A": "Uterus",
+    "B": "Clitoris",
+    "C": "Vestibulum vagina",
+    "D": "Labia pudendi majora",
+    "javob": "A"
+  },
+  {
+    "savol": "Duglas bo’shlig’ining lotincha nomi?",
+    "A": "Excavatio rectouterina",
+    "B": "Excavatio vesicouterina",
+    "C": "Excavatio rectovesicalis",
+    "D": "Excavatio sigmoidea",
+    "javob": "A"
+  },
+  {
+    "savol": "Bachadonning ichki qavati nomi?",
+    "A": "Endometrium",
+    "B": "Endokard",
+    "C": "Perimetrium",
+    "D": "Epikard",
+    "javob": "A"
+  },
+  {
+    "savol": "Pars inguinalis qaysi tuzilmaga tegishli?",
+    "A": "Ductus deferens",
+    "B": "Urethra",
+    "C": "Ureter",
+    "D": "Uterus",
+    "javob": "A"
+  },
+  {
+    "savol": "Erkaklarda chov kanalidan nima o’tadi?",
+    "A": "Funiculus spermaticus",
+    "B": "Prostata",
+    "C": "Urethra",
+    "D": "Penis",
+    "javob": "A"
+  },
+  {
+    "savol": "Ayollarda chov kanalidan nima o’tadi?",
+    "A": "Lig.teres uteri",
+    "B": "Lig.latum uteri",
+    "C": "Vagina",
+    "D": "Salpinx",
+    "javob": "A"
+  },
+  {
+    "savol": "Trigonum urogenitale va trigonum anale qaysi sohada joylashgan",
+    "A": "Perineum",
+    "B": "Pudena feminina",
+    "C": "Urethra",
+    "D": "Rectum",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi a’zoning pars abdominalis, pars pelvica, pars intramuralis qismlari mavjud",
+    "A": "Ureter",
+    "B": "Urethra",
+    "C": "Uterus",
+    "D": "Vesica urinaria",
+    "javob": "A"
+  },
+  {
+    "savol": "Yurak ko’ks oralig’ining qaysi qismida joylashgan",
+    "A": "Pastki ko’ks oralig’ining o’rta qismida",
+    "B": "Pastki ko’ks oralig’ining orqa qismida",
+    "C": "Pastki ko’ks oralig’ining old qismida",
+    "D": "yuqori ko’ks oralig’ida",
+    "javob": "A"
+  },
+  {
+    "savol": "Pastki ko’ks oralig’ining orqa qismida joylashgan a’zoni toping",
+    "A": "Qizilo’ngach",
+    "B": "Ayrisimon bez",
+    "C": "Yurak",
+    "D": "Perikard",
+    "javob": "A"
+  },
+  {
+    "savol": "O’ng o’pka darvoza formulasi qanday",
+    "A": "BAV",
+    "B": "ABV",
+    "C": "AVB",
+    "D": "VAB",
+    "javob": "A"
+  },
+  {
+    "savol": "Pirogov halqasidagi juft murtaklarni belgilang",
+    "A": "Tonsilla palatina, tonsilla tubaria",
+    "B": "Tonsilla lingualis, tonsilla tubaria",
+    "C": "Tonsilla lingualis, tonsilla palatina",
+    "D": "Tonsilla lingualis, tonsilla pharyngea",
+    "javob": "A"
+  },
+  {
+    "savol": "Bo’yin umurtqalarining ko’ndalang o’siqlaridan o’tuvchi arteriya qaysi",
+    "A": "a.vertebralis",
+    "B": "a.subclavia",
+    "C": "a.basilaris",
+    "D": "a.spinalis anterior",
+    "javob": "A"
+  },
+  {
+    "savol": "a.colica media, a.colica dextra qaysi arteriya tarmog’i hisoblanadi",
+    "A": "a.mesenterica superior",
+    "B": "a.lienalis",
+    "C": "a.mesenterica inferior",
+    "D": "a.hepatica communis",
+    "javob": "A"
+  },
+  {
+    "savol": "a.suprarenalis inferior qaysi arteriya tarmog’i hisoblanadi",
+    "A": "a.renalis",
+    "B": "aorta abdominalis",
+    "C": "a.phrenica inferior",
+    "D": "a.lienalis",
+    "javob": "A"
+  },
+  {
+    "savol": "a.epigastrica superficialis qaysi arteriya tarmog’i hisoblanadi",
+    "A": "a.femoralis",
+    "B": "a.iliaca externa",
+    "C": "a.iliaca interna",
+    "D": "a.umblicalis",
+    "javob": "A"
+  },
+  {
+    "savol": "a.rectalis inferior qaysi arteriya tarmog’i hisoblanadi",
+    "A": "a.pudenda interna",
+    "B": "a.femoralis",
+    "C": "a.iliaca externa",
+    "D": "a.pudenda externa",
+    "javob": "A"
+  },
+  {
+    "savol": "a.genus descendens qaysi arteriya tarmog’i hisoblanadi",
+    "A": "a.femoralis",
+    "B": "a.poplitea",
+    "C": "a.tibialis",
+    "D": "a.peroneale",
+    "javob": "A"
+  },
+  {
+    "savol": "Darvoza venasi lotincha nomlanishi",
+    "A": "v.portae",
+    "B": "porta hepatis",
+    "C": "v.cystica",
+    "D": "v.hepatica",
+    "javob": "A"
+  },
+  {
+    "savol": "a.thyroidea inferior qaysi arteriya tarmog’i hisoblanadi.",
+    "A": "a.subclavia",
+    "B": "a.axillaris",
+    "C": "a.carotica externa",
+    "D": "a.throidea superior",
+    "javob": "A"
+  },
+  {
+    "savol": "Uzuksimon tog’ayni belgilang?",
+    "A": "Cartilago cricoidea",
+    "B": "Cartilago thyroidea",
+    "C": "Cartilago epiglottica",
+    "D": "Cartilago corniculata",
+    "javob": "A"
+  },
+  {
+    "savol": "Hiqildoqning juft tog’ayini belgilang?",
+    "A": "Cartilago corniculata",
+    "B": "Cartilago cricoidea",
+    "C": "Cartilago thyroidea",
+    "D": "Cartilago epiglottica",
+    "javob": "A"
+  },
+  {
+    "savol": "v.azygos qayerga quyiladi?",
+    "A": "v.cava superior",
+    "B": "v.cava inferior",
+    "C": "v.jugularis interna",
+    "D": "v.portae",
+    "javob": "A"
+  },
+  {
+    "savol": "Meatus nasi superiorga nima ochiladi?",
+    "A": "Cellula ethmoidalis posterior",
+    "B": "Cellula ethmoidalis anterior",
+    "C": "Sinus maxillaris",
+    "D": "Sinus frontalis",
+    "javob": "A"
+  },
+  {
+    "savol": "Meatus nasi inferiorga nima ochiladi?",
+    "A": "ductus nasolacrimalis",
+    "B": "sinus maxillaris",
+    "C": "sinus sphenoidalis",
+    "D": "cellula ethmoidalis media",
+    "javob": "A"
+  },
+  {
+    "savol": "Meatus nasi mediaga nima ochiladi?",
+    "A": "Cellula ethmoidalis anterior",
+    "B": "Sinus sphenoidalis",
+    "C": "Ductus nasolacrimalis",
+    "D": "Cellula ethmoidalis posterior",
+    "javob": "A"
+  },
+  {
+    "savol": "Tuba auditiva qayerda joylashgan?",
+    "A": "Burun halqumda",
+    "B": "Og’iz halqumda",
+    "C": "Ichki quloqda",
+    "D": "Qizilo’ngachda",
+    "javob": "A"
+  }
+]
