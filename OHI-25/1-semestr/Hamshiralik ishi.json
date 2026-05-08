@@ -1,0 +1,2234 @@
+[
+  {
+    "savol": "Hamshiralik ishi asoschisi kim hisoblanadi?",
+    "A": "Florens Naytingeyl",
+    "B": "Mari Kyuri",
+    "C": "Virjiniya Xenderson",
+    "D": "Klara Barton",
+    "javob": "A"
+  },
+  {
+    "savol": "Florens Naytingeyl qaysi davrda yashagan?",
+    "A": "XIX asr",
+    "B": "XVIII asr",
+    "C": "XX asr",
+    "D": "XVII asr",
+    "javob": "A"
+  },
+  {
+    "savol": "Florens Naytingeyl qaysi urushda faoliyat olib borgan?",
+    "A": "Qrim urushi",
+    "B": "Ikkinchi jahon urushi",
+    "C": "Koreya urushi",
+    "D": "Vetnam urushi",
+    "javob": "A"
+  },
+  {
+    "savol": "Florens Naytingeyl tomonidan ochilgan birinchi hamshiralik maktabi qayerda tashkil etilgan?",
+    "A": "Londonda",
+    "B": "Parijda",
+    "C": "Rimda",
+    "D": "Berlin`da",
+    "javob": "A"
+  },
+  {
+    "savol": "Naytingeyl maktabi qaysi yilda tashkil etilgan?",
+    "A": "1860-yil",
+    "B": "1848-yil",
+    "C": "1859-yil",
+    "D": "1875-yil",
+    "javob": "A"
+  },
+  {
+    "savol": "Florens Naytingeyl qaysi sohada tibbiyotga yangilik kiritgan?",
+    "A": "Statistik tahlil",
+    "B": "Farmakologiya",
+    "C": "Jarrohlik",
+    "D": "Laboratoriya tibbiyoti",
+    "javob": "A"
+  },
+  {
+    "savol": "Virjiniya Xenderson kim bo`lgan?",
+    "A": "Hamshira va olim",
+    "B": "Shifokor",
+    "C": "Farmatsevt",
+    "D": "Ijtimoiy xodim",
+    "javob": "A"
+  },
+  {
+    "savol": "Virjiniya Xendersonning asosiy g`oyasi nima edi?",
+    "A": "Hamshira bemorga mustaqil yordam ko`rsatadi",
+    "B": "Hamshira shifokorga bo`ysunadi",
+    "C": "Hamshira  buyruq bajaruvchi",
+    "D": "Hamshira laboratoriyada ishlashi lozim",
+    "javob": "A"
+  },
+  {
+    "savol": "V  Xenderson necha asosiy ehtiyojni belgilagan?",
+    "A": "14",
+    "B": "10",
+    "C": "12",
+    "D": "16",
+    "javob": "A"
+  },
+  {
+    "savol": "Xenderson modeli nimalarga asoslanadi?",
+    "A": "Bemorning asosiy ehtiyojlariga",
+    "B": "Biologik jarayonlarga",
+    "C": "Hamshira buyruqlariga",
+    "D": "Tibbiy statistika",
+    "javob": "A"
+  },
+  {
+    "savol": "“Hamshira – insonni sog`lomlashtiruvchi kuch” degan fikr kimga tegishli?",
+    "A": "F  Naytingeyl",
+    "B": "V  Xenderson",
+    "C": "M  Kyuri",
+    "D": "E  Uotson",
+    "javob": "A"
+  },
+  {
+    "savol": "Hamshiralik ishi tarixan qaysi faoliyatdan boshlangan?",
+    "A": "Diniy va xayriya faoliyatidan",
+    "B": "Laboratoriya ishlaridan",
+    "C": "Tibbiyot universitetlaridan",
+    "D": "Jarrohlik amaliyotidan",
+    "javob": "A"
+  },
+  {
+    "savol": "O`zbekiston sog`liqni saqlash tizimida hamshiralik ishi qanday ahamiyatga ega?",
+    "A": "Mustaqil va zarur soha",
+    "B": "yordamchi soha",
+    "C": "Ixtiyoriy faoliyat",
+    "D": "kasalxonada amal qiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Oliy ma`lumotli hamshiralik ishi dastlab qachon ochilgan?",
+    "A": "2000-yil",
+    "B": "1997-yil",
+    "C": "2010-yil",
+    "D": "1991-yil",
+    "javob": "A"
+  },
+  {
+    "savol": "Oliy hamshiralik ishi yo`nalishining asosiy maqsadi nima?",
+    "A": "Mustaqil qaror qabul qila oladigan mutaxassis tayyorlash",
+    "B": "Hamshiralarni yordamchi sifatida tayyorlash",
+    "C": "Tibbiy asboblarni boshqarish",
+    "D": "Farmatsevtlarni o`qitish",
+    "javob": "A"
+  },
+  {
+    "savol": "Hamshiralik ishi qaysi tizim tarkibiga kiradi?",
+    "A": "Sog`liqni saqlash tizimi",
+    "B": "Ta`lim tizimi",
+    "C": "Iqtisodiy tizim",
+    "D": "Ijtimoiy himoya tizimi",
+    "javob": "A"
+  },
+  {
+    "savol": "Hamshiralik ishining asosiy maqsadi nima?",
+    "A": "Bemorni parvarishlash va sog`lomlashtirish",
+    "B": "Bemorni davolash",
+    "C": "Dori tayyorlash",
+    "D": "Jarrohlik amaliyoti",
+    "javob": "A"
+  },
+  {
+    "savol": "O`zbekiston Respublikasida hamshiralik ishi istiqbollari nimaga yo`naltirilgan?",
+    "A": "Sog`liqni saqlash tizimini raqamlashtirishga",
+    "B": "shahar shifoxonalariga",
+    "C": "Qonunchilikni qisqartirishga",
+    "D": "Faoliyatni kamaytirishga",
+    "javob": "A"
+  },
+  {
+    "savol": "“Hamshiralik falsafasi” tushunchasini kim ishlab chiqqan?",
+    "A": "Virjiniya Xenderson",
+    "B": "F  Naytingeyl",
+    "C": "Doroti Orem",
+    "D": "Mari Kyuri",
+    "javob": "A"
+  },
+  {
+    "savol": "Hamshira faoliyatida “gumanizm” tushunchasi nimani bildiradi?",
+    "A": "Insonni oliy qadriyat deb bilish",
+    "B": "Bemorni tajriba ob`ekti sifatida ko`rish",
+    "C": "texnik yondashuv",
+    "D": "Buyruq asosida ishlash",
+    "javob": "A"
+  },
+  {
+    "savol": "F  Naytingeyl qanday laqab bilan tanilgan?",
+    "A": "Chiroq tutgan ayol",
+    "B": "Oltin hamshira",
+    "C": "Tibbiyot onasi",
+    "D": "Oq xalatli malika",
+    "javob": "A"
+  },
+  {
+    "savol": "Hamshiralik ishida “profilaktika” deganda nima tushuniladi?",
+    "A": "Kasallikni erta aniqlash va oldini olish",
+    "B": "dori bilan davolash",
+    "C": "Tibbiy statistikani yuritish",
+    "D": "Operatsiya o`tkazish",
+    "javob": "A"
+  },
+  {
+    "savol": "O`zbekiston hamshiralik tizimida asosiy e`tibor qaysi jihatga qaratilgan?",
+    "A": "Innovatsion yondashuv va ta`lim sifatiga",
+    "B": "Bemor sonini kamaytirish",
+    "C": "Asosiy kasalliklarni yashirish",
+    "D": "Shifokorlarni qisqartirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Hamshiralik ishida asosiy faoliyat yo`nalishlari nimalardan iborat?",
+    "A": "Parvarish, profilaktika, reabilitatsiya",
+    "B": "Diagnostika, davolash, nazorat",
+    "C": "Buxgalteriya, menejment",
+    "D": "yordamchi vazifalar",
+    "javob": "A"
+  },
+  {
+    "savol": "O`zbekiston Respublikasida hamshiralik ishining kelajakdagi asosiy yo`nalishi nima?",
+    "A": "Tibbiyotda raqamli texnologiyalarni keng qo`llash",
+    "B": "Hamshiralar sonini kamaytirish",
+    "C": "dori vositalarini ishlab chiqish",
+    "D": "Klinikalarni yopish",
+    "javob": "A"
+  },
+  {
+    "savol": "Bioetika so`zi qanday ma`noni anglatadi?",
+    "A": "Biologik va axloqiy qadriyatlar haqidagi fan",
+    "B": "Tibbiy qonunlar majmuasi",
+    "C": "Hamshiralik nazariyasi",
+    "D": "Psixologik yordam turi",
+    "javob": "A"
+  },
+  {
+    "savol": "Tibbiy deontologiya nimalarni o`rganadi?",
+    "A": "Tibbiyot xodimlarining kasbiy axloq qoidalarini",
+    "B": "Tibbiyot tarixini",
+    "C": "Bemor kasalliklarini",
+    "D": "Farmatsevtik vositalarni",
+    "javob": "A"
+  },
+  {
+    "savol": "Bioetika fanining asosiy vazifasi nima?",
+    "A": "Inson hayotini hurmat qilish va axloqiy me`yorlarni targ`ib etish",
+    "B": "Fiziologik jarayonlarni tahlil qilish",
+    "C": "Tibbiyotda iqtisodiy yondashuvni o`rganish",
+    "D": "Sog`lom turmush tarzini reklama qilish",
+    "javob": "A"
+  },
+  {
+    "savol": "Deontologiya termini qaysi so`zdan olingan?",
+    "A": "Yunoncha `deon` – burch so`zidan",
+    "B": "Lotincha `medicus` so`zidan",
+    "C": "Arabcha `ilm` so`zidan",
+    "D": "Fransuzcha `ethique` so`zidan",
+    "javob": "A"
+  },
+  {
+    "savol": "Tibbiy deontologiyaning asosiy maqsadi nima?",
+    "A": "Bemor va tibbiyot xodimi o`rtasida ishonchli munosabatni ta`minlash",
+    "B": "Kasallik sabablarini aniqlash",
+    "C": "Yangi dori yaratish",
+    "D": "Tibbiy statistika tuzish",
+    "javob": "A"
+  },
+  {
+    "savol": "Eftonaziya nima?",
+    "A": "Odamning azoblanmasligi uchun o`limini sun`iy tezlashtirish",
+    "B": "Tibbiy reabilitatsiya usuli",
+    "C": "Bioetika bo`limi",
+    "D": "Tibbiy yordamning yangi turi",
+    "javob": "A"
+  },
+  {
+    "savol": "Tibbiy sirga nimalar kiradi?",
+    "A": "Bemorning sog`ligi va shaxsiga oid maxfiy ma`lumotlar",
+    "B": "Tibbiy asboblar haqida ma`lumotlar",
+    "C": "Dorixona narxlari",
+    "D": "Hamshiralarning ish jadvali",
+    "javob": "A"
+  },
+  {
+    "savol": "Bioetik tamoyillar asosida tibbiyotning maqsadi nima?",
+    "A": "Inson hayotini saqlash va qadrlash",
+    "B": "Tibbiy foyda ko`rish",
+    "C": "Tibbiy texnika ishlab chiqish",
+    "D": "Farmatsevtika sohasini rivojlantirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Bioetika va deontologiya o`rtasidagi farq?",
+    "A": "Bioetika umumiy axloqiy me`yorlarni, deontologiya kasbiy burchni o`rganadi",
+    "B": "Bioetika  shifokorlarga taalluqli",
+    "C": "Deontologiya ilmiy tadqiqot yo`nalishi",
+    "D": "Farq yo`q",
+    "javob": "A"
+  },
+  {
+    "savol": "Eftonaziya turlari nechta?",
+    "A": "4ta",
+    "B": "3 ta",
+    "C": "2 ta",
+    "D": "1 ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Bioetikaga zid harakat misoli?",
+    "A": "Bemor ruxsatisiz tibbiy sirni tarqatish",
+    "B": "Bemorni hurmat bilan tinglash",
+    "C": "Kasbiy kiyimda yurish",
+    "D": "Bemorni kuzatish",
+    "javob": "A"
+  },
+  {
+    "savol": "“LEMON” loyihasi qanday maqsadda yaratilgan?",
+    "A": "Hamshiralik ta`limini xalqaro standartlarga moslashtirish uchun",
+    "B": "Tibbiy asboblar ishlab chiqish uchun",
+    "C": "Bemorlarni ro`yxatga olish uchun",
+    "D": "Tibbiy sug`urta tizimini yaratish uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "“LEMON” so`zi qanday so`zlarning qisqartmasidir?",
+    "A": "Learning Model on Nursing",
+    "B": "Legal Ethics for Medical Organization Network",
+    "C": "Local Education of Medicine",
+    "D": "Laboratory Education and Monitoring",
+    "javob": "A"
+  },
+  {
+    "savol": "“LEMON” loyihasining asosiy vazifasi nima?",
+    "A": "Oliy hamshiralik ta`limida nazariya va amaliyotni uyg`unlashtirish",
+    "B": "Shifokorlarni qayta tayyorlash",
+    "C": "Farmatsevtika sohasini rivojlantirish",
+    "D": "Klinik tadqiqotlarni moliyalashtirish",
+    "javob": "A"
+  },
+  {
+    "savol": "“LEMON” loyihasi qachon tashkil etilgan?",
+    "A": "1980-yillarda",
+    "B": "1900-yillarda",
+    "C": "2005-yilda",
+    "D": "2010-yilda",
+    "javob": "A"
+  },
+  {
+    "savol": "“LEMON” loyihasi qaysi mamlakatlar tashabbusi bilan yaratilgan?",
+    "A": "Yevropa davlatlari",
+    "B": "Osiyo davlatlari",
+    "C": "Amerika Qo`shma Shtatlari",
+    "D": "Afrika mamlakatlari",
+    "javob": "A"
+  },
+  {
+    "savol": "“LEMON” loyihasida nechta asosiy bob mavjud?",
+    "A": "12 ta",
+    "B": "3 ta",
+    "C": "7 ta",
+    "D": "10 ta",
+    "javob": "A"
+  },
+  {
+    "savol": "“LEMON” dasturining birinchi bobi nimaga bag`ishlangan?",
+    "A": "Hayot sog`lik va atrof muhit",
+    "B": "Hamshiralik ta`limining nazariy asoslariga",
+    "C": "Farmatsevtika texnologiyalariga",
+    "D": "Bemor huquqlariga",
+    "javob": "A"
+  },
+  {
+    "savol": "“LEMON” loyihasining ikkinchi bobida nima yoritilgan?",
+    "A": "Hamshiralik amaliyotidagi kommunikativ ko`nikmalar",
+    "B": "Diagnostika usullari",
+    "C": "Farmakologiya",
+    "D": "Statistika",
+    "javob": "A"
+  },
+  {
+    "savol": "“LEMON” loyihasi asosida ta`lim berishning asosiy tamoyili nima?",
+    "A": "Kompetensiyaga asoslangan yondashuv",
+    "B": "An`anaviy yodlash usuli",
+    "C": "Nazariy darslarga urg`u berish",
+    "D": "Laboratoriya ishlariga cheklanish",
+    "javob": "A"
+  },
+  {
+    "savol": "Salomatlik tushunchasi nimani anglatadi?",
+    "A": "Insonning jismoniy, ruhiy va ijtimoiy farovonlik holatini",
+    "B": "kasallikning yo`qligini",
+    "C": "Jismoniy kuchni",
+    "D": "ruhiy barqarorlikni",
+    "javob": "A"
+  },
+  {
+    "savol": "Salomatlikka ta`sir etuvchi omillar nechta asosiy guruhga bo`linadi?",
+    "A": "To`rtta: irsiy, ijtimoiy, ekologik va tibbiy",
+    "B": "Zararli odatlar",
+    "C": "Ruhiy ijtimoiy holatlar",
+    "D": "Genetic omillar",
+    "javob": "A"
+  },
+  {
+    "savol": "Salomatlikni o`rganishning birinchi davri qaysi asrlarga to`g`ri keladi?",
+    "A": "Qadimgi davrlarga",
+    "B": "XVIII asrga",
+    "C": "XX asrga",
+    "D": "O`rta asrlarga",
+    "javob": "A"
+  },
+  {
+    "savol": "Sanitariya-oqartiruv ishlarining mazmuni nimadan iborat?",
+    "A": "Aholiga gigiyena va sog`lom turmush tarzi haqida ma`lumot berish",
+    "B": "kasallarni davolash",
+    "C": "Dorilarni tayyorlash",
+    "D": "Tibbiy ko`rik ishlarini tashkil qilish",
+    "javob": "A"
+  },
+  {
+    "savol": "Tibbiy profilaktika nima?",
+    "A": "Kasalliklarning oldini olishga qaratilgan faoliyat",
+    "B": "Davolash jarayoni",
+    "C": "Hisobot yuritish",
+    "D": "Gigiyena nazorati",
+    "javob": "A"
+  },
+  {
+    "savol": "Sog`lom turmush tarzining asosiy shartlari qaysilar?",
+    "A": "To`g`ri ovqatlanish, jismoniy faollik, zararli odatlardan voz kechish",
+    "B": "Ko`p dori ichmaslik ruhiy stressga tushmaslik",
+    "C": "Ko`p dam olish",
+    "D": "gigiyenaga rioya qilish",
+    "javob": "A"
+  },
+  {
+    "savol": "Sanitariya-oqartiruv ishlarining asosiy shakllari qaysi?",
+    "A": "Ma`ruza, suhbat, plakat, risola",
+    "B": "Tibbiy ko`rik",
+    "C": "Fizioterapiya",
+    "D": "Operatsiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Birlamchi profilaktika nima bilan shug`ullanadi?",
+    "A": "Kasallikning oldini olish",
+    "B": "Kasallikni davolash",
+    "C": "Kasallikni tashxislash",
+    "D": "Reabilitatsiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Ikkilamchi profilaktikaning asosiy maqsadi nima?",
+    "A": "Kasallikni erta aniqlash va davolash",
+    "B": "Sog`lom turmushni targ`ib qilish",
+    "C": "Aholini emlash",
+    "D": "Bemorlarni kuzatish",
+    "javob": "A"
+  },
+  {
+    "savol": "Tibbiy himoyalanish deganda nima tushuniladi?",
+    "A": "Kasbiy zararlarning oldini olish choralari",
+    "B": "Ish joyini dezinfeksiya qilish",
+    "C": "Tibbiy hujjat yuritish",
+    "D": "Ovqatlanishni nazorat qilish",
+    "javob": "A"
+  },
+  {
+    "savol": "Birlamchi profilaktikaga misol keltiring",
+    "A": "Aholini emlash",
+    "B": "Surunkali kasallikni nazorat qilish",
+    "C": "Reabilitatsiya",
+    "D": "Bemorlarni kuzatish",
+    "javob": "A"
+  },
+  {
+    "savol": "Ikkilamchi profilaktikaga misol",
+    "A": "Tibbiy ko`riklar",
+    "B": "Sport targ`iboti",
+    "C": "Sog`lom ovqatlanish",
+    "D": "Dam olishni rejalash",
+    "javob": "A"
+  },
+  {
+    "savol": "Tibbiy himoya vositalariga nimalar kiradi?",
+    "A": "Niqob, qo`lqop, xalat",
+    "B": "antiseptik va dezinfeksiyalovchi vositalar",
+    "C": "Planshet, telefon",
+    "D": "Ruxsatnoma, guvohnoma",
+    "javob": "A"
+  },
+  {
+    "savol": "Hamshiraning profilaktik ishdagi roli qanday?",
+    "A": "Aholi salomatligini saqlash va sog`lomlashtirish",
+    "B": "dori yozish",
+    "C": "shifokorga yordam berish",
+    "D": "Hisobot yozish",
+    "javob": "A"
+  },
+  {
+    "savol": "Hamshiraning mehnat muhofazasi deganda nimani tushunamiz?",
+    "A": "Ish joyida xavfsizlikni ta`minlash",
+    "B": "Dam olish tartibi",
+    "C": "Maoshni belgilash",
+    "D": "Navbatchilik jadvali",
+    "javob": "A"
+  },
+  {
+    "savol": "Texnika xavfsizligi nima?",
+    "A": "Ishda jarohatlanish va shikastlanishning oldini olish tizimi",
+    "B": "Ish joyini tozalash",
+    "C": "Jihozlardan foydalanishda ehtiyotkorlik",
+    "D": "elektr xavfsizligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ichki kasalxona infeksiyasi qanday infeksiya?",
+    "A": "Kasalxonada bemorlar va xodimlar orasida tarqaluvchi infeksiya",
+    "B": "tashqaridan kiruvchi infeksiya",
+    "C": "bolalarda uchraydigan infeksiya",
+    "D": "Oziq-ovqatdan keladigan infeksiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Palpatsiya qoidalariga nimalar kiradi?",
+    "A": "Qo`llar iliq bo`lishi va bosim asta-sekin oshirilishi kerak",
+    "B": "Qo`llar sovuq bo`lishi kerak",
+    "C": "Bosim tez oshiriladi",
+    "D": "bitta qo`l ishlatiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Davolash-profilaktik muassasasi deganda nima tushuniladi?",
+    "A": "Bemorlarni tashxislash, davolash va profilaktika ishlari olib boriladigan muassasa",
+    "B": "laboratoriya tekshiruvlari o`tkaziladigan joy",
+    "C": "Tibbiy o`qitish muassasasi",
+    "D": "Sanatoriya va dam olish maskani",
+    "javob": "A"
+  },
+  {
+    "savol": "Davolash jarayonining asosiy bosqichlari qaysilar?",
+    "A": "Tashxislash, davolash, reabilitatsiya",
+    "B": "Qabul, tozalash, yotqizish",
+    "C": "Emlash, nazorat, kuzatuv",
+    "D": "Hisobot, yig`ilish, baholash",
+    "javob": "A"
+  },
+  {
+    "savol": "Shifoxonada hamshiralik postining vazifasi nima?",
+    "A": "Bemorlarni ro`yxatga olish parvarish qilish va dori berishni tashkil etish",
+    "B": "bemorlarni ro`yxatga olish",
+    "C": "shifokorni kutish",
+    "D": "xonalarni tayyorlash",
+    "javob": "A"
+  },
+  {
+    "savol": "Muolaja xonasi hamshirasi nima bilan shug`ullanadi?",
+    "A": "Muolajalarni bajarish va aseptika talablariga rioya etish",
+    "B": "asboblarni yig`ish",
+    "C": "bemorlarni chaqirish",
+    "D": "Asseptika, bemorlarni qabul qilish dori tarqatish",
+    "javob": "A"
+  },
+  {
+    "savol": "Davolash jarayonida aseptika nima?",
+    "A": "Infeksiya tushishining oldini olishga qaratilgan qoidalar majmui",
+    "B": "Bemorni ovqatlantirish usuli",
+    "C": "Jarohatga tushgan mikroblarni yo`qotish",
+    "D": "Operatsiya turi",
+    "javob": "A"
+  },
+  {
+    "savol": "Hamshira shaxsiy gigiyenasi nimalarni o`z ichiga oladi?",
+    "A": "Tozalikka rioya qilish, kiyimni toza saqlash, sog`lom turmush tarzi",
+    "B": "qo`lni yuvish",
+    "C": "Toza holda dori tayyorlash",
+    "D": "Kiyimlar tozaligi qo`l yuvish texnikasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Post hamshirasining asosiy vazifasi nima?",
+    "A": "Bemorlarni kuzatish, dori berish va hujjatlarni yuritish",
+    "B": "dori tarqatish",
+    "C": "hujjat to`ldirish",
+    "D": "xona tozalash dezinfeksiya deratizatsiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Hamshiralik postida qanday hujjatlar yuritiladi?",
+    "A": "Bemorlar ro`yxati, dori tarqatish jurnali, harorat varaqasi",
+    "B": "Hisobot daftari",
+    "C": "Sanitar ro`yxat",
+    "D": "Reklama varaqasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Tibbiyot hujjatlarini yuritishdan maqsad nima?",
+    "A": "Bemor haqidagi ma`lumotlarni to`liq va aniq qayd etish",
+    "B": "Hisobotni chiroyli yozish",
+    "C": "Bemorni kuzatmasdan natija yozish",
+    "D": "muolajalar sonini ko`rsatish",
+    "javob": "A"
+  },
+  {
+    "savol": "Bemorning tibbiy kartasi qanday hujjat hisoblanadi?",
+    "A": "Asosiy tibbiyot hujjati",
+    "B": "Qo`shimcha hujjat",
+    "C": "Hisobot varaqasi",
+    "D": "Statistik jadval",
+    "javob": "A"
+  },
+  {
+    "savol": "Tibbiy hujjatlarni to`ldirishda asosiy talab nima?",
+    "A": "Aniqlik va to`liqlik",
+    "B": "Chiroyli yozuv",
+    "C": "Boshqa tildan tarjima qilish",
+    "D": "qisqacha yozish",
+    "javob": "A"
+  },
+  {
+    "savol": "Tibbiyot hujjatlarida tuzatish kiritish qoidasi qanday?",
+    "A": "Chizib o`chiriladi va to`g`rilanadi, imzo bilan tasdiqlanadi",
+    "B": "Uchiriladi va yo`qotiladi",
+    "C": "O`chirish kerak emas",
+    "D": "Yangi varaq ochiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Tibbiyot hujjatlarida qaysi ma`lumotlar maxfiy saqlanadi?",
+    "A": "Bemor shaxsiga oid ma`lumotlar",
+    "B": "Tibbiyot xodimining maoshi",
+    "C": "Dorixona narxlari",
+    "D": "Statistik hisobot",
+    "javob": "A"
+  },
+  {
+    "savol": "Tibbiyot hujjatlarida vaqt qanday yoziladi?",
+    "A": "Soat va sana bilan aniq ko`rsatiladi",
+    "B": "soat bilan",
+    "C": "sana bilan",
+    "D": "Yozilmaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Tibbiy hujjatlarni noto`g`ri yuritish nimaga olib keladi?",
+    "A": "Tibbiy xatoliklarga",
+    "B": "Mukofot olishga",
+    "C": "Hech narsaga olib kelmaydi",
+    "D": "Ish haqqi kamayishiga",
+    "javob": "A"
+  },
+  {
+    "savol": "Bemorning roziligi talab qilinadigan holat?",
+    "A": "Jarrohlik aralashuvida",
+    "B": "Oddiy qon bosimini o`lchashda",
+    "C": "Harorat o`lchashda",
+    "D": "Tibbiy kuzatuvda",
+    "javob": "A"
+  },
+  {
+    "savol": "“Tibbiyot sirini saqlash” deganda nima tushuniladi?",
+    "A": "Bemor haqidagi ma`lumotni begonalarga oshkor etmaslik",
+    "B": "Hisobotni yashirish",
+    "C": "Fikrni sir saqlash",
+    "D": "Xatolarni yashirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Tibbiy hujjatlar tili qanday bo`lishi kerak?",
+    "A": "Davlat tili",
+    "B": "Ingliz tili",
+    "C": "Rus tili",
+    "D": "Har qanday tilda",
+    "javob": "A"
+  },
+  {
+    "savol": "Emlash xonasi hamshirasining asosiy vazifasi nima?",
+    "A": "Bolalarni emlash va emlash xavfsizligini ta`minlash",
+    "B": "Dori tayyorlash",
+    "C": "kartalar to`ldirish",
+    "D": "Tibbiy asboblarni sterilizatsiya qilish",
+    "javob": "A"
+  },
+  {
+    "savol": "Emlash kalendari nima?",
+    "A": "Aholini emlash muddatlari belgilangan hujjat",
+    "B": "Bemorlar ro`yxati",
+    "C": "Dori ro`yxati",
+    "D": "Tibbiyot hisobot jadvali",
+    "javob": "A"
+  },
+  {
+    "savol": "Emlash xonasida ishlaydigan hamshira qanday malakaga ega bo`lishi kerak?",
+    "A": "Immunizatsiya bo`yicha tayyorlangan",
+    "B": "Hisobot yurituvchi",
+    "C": "Statistik",
+    "D": "Farmatsevt",
+    "javob": "A"
+  },
+  {
+    "savol": "Emlashdan oldin bolaga qanday tibbiy tekshiruv o`tkaziladi?",
+    "A": "Shifokor ko`rigi",
+    "B": "harorat o`lchash",
+    "C": "Hech narsa",
+    "D": "Og`irlik o`lchash",
+    "javob": "A"
+  },
+  {
+    "savol": "Emlash xonasida harorat rejimi qanday bo`lishi kerak?",
+    "A": "+2°C dan +8°C gacha",
+    "B": "0°C dan +2°C gacha",
+    "C": "+10°C dan +15°C gacha",
+    "D": "+8°C dan +12°C gacha",
+    "javob": "A"
+  },
+  {
+    "savol": "Emlash o`tkazilgach, bola necha daqiqa tibbiyot muassasasida kuzatuvda qoladi?",
+    "A": "30 daqiqa",
+    "B": "5 daqiqa",
+    "C": "1 soat",
+    "D": "Kuzatish shart emas",
+    "javob": "A"
+  },
+  {
+    "savol": "BSG emlashining maqsadi?",
+    "A": "Sil kasalligiga qarshi immunitet hosil qilish",
+    "B": "Qizamiqqa qarshi",
+    "C": "Poliomielitga qarshi",
+    "D": "Tetanusga qarshi",
+    "javob": "A"
+  },
+  {
+    "savol": "Poliomielitga qarshi emlash qachon qilinadi?",
+    "A": "2, 3, 4 oylikda",
+    "B": "1 yoshda",
+    "C": "Yiliga bir marta",
+    "D": "Har oyda",
+    "javob": "A"
+  },
+  {
+    "savol": "Emlashni bekor qilish mumkin bo`lgan holat?",
+    "A": "Bemor isitmalaganda",
+    "B": "Bola sog`lom bo`lganda",
+    "C": "Ota-ona xohlaganda",
+    "D": "Hech qachon",
+    "javob": "A"
+  },
+  {
+    "savol": "AKDS vaksina turi qaysi kasalliklarga qarshi",
+    "A": "Qoqshol ko`kyo`tal difteriya",
+    "B": "Qoqshol qizamiq qizilcha",
+    "C": "Diareyaga",
+    "D": "Qizamiq qizilcha parotit",
+    "javob": "A"
+  },
+  {
+    "savol": "Rota vaksina turi qaysi kasalliklarga qarshi",
+    "A": "Diareyaga",
+    "B": "Qoqshol ko`kyo`tal difteriya",
+    "C": "Qoqshol qizamiq qizilcha",
+    "D": "Qizamiq qizilcha parotit",
+    "javob": "A"
+  },
+  {
+    "savol": "KPK vaksina turi qaysi kasalliklarga qarshi",
+    "A": "Qizamiq qizilcha parotit",
+    "B": "Qoqshol ko`kyo`tal difteriya",
+    "C": "Qoqshol qizamiq qizilcha",
+    "D": "Diareyaga",
+    "javob": "A"
+  },
+  {
+    "savol": "VGV qachon o`tkaziladi",
+    "A": "Dastlabki 24soat ichida",
+    "B": "2-5 kunligida",
+    "C": "2-5oyligida",
+    "D": "3-oyligida",
+    "javob": "A"
+  },
+  {
+    "savol": "BSG qachon o`tkaziladi",
+    "A": "2-5 kunligida",
+    "B": "Dastlabki 24soat ichida",
+    "C": "2-5oyligida",
+    "D": "3-oyligida",
+    "javob": "A"
+  },
+  {
+    "savol": "Emlash kalendarida nechta asosiy vaksina turi mavjud?",
+    "A": "11 ta",
+    "B": "5 ta",
+    "C": "7 ta",
+    "D": "3 ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Emlashdan keyin paydo bo`ladigan yengil reaksiyalar?",
+    "A": "Harorat, qizarish, og`riq",
+    "B": "Anjioedema",
+    "C": "Koma",
+    "D": "Shok",
+    "javob": "A"
+  },
+  {
+    "savol": "Emlash paytida qo`llaniladigan igna qanday bo`lishi kerak?",
+    "A": "Bir martalik steril",
+    "B": "Qayta ishlatiladigan",
+    "C": "metall",
+    "D": "Plastik",
+    "javob": "A"
+  },
+  {
+    "savol": "Emlashdan keyingi jiddiy asorat qanday ataladi?",
+    "A": "Anafilaktik shok",
+    "B": "Isitma",
+    "C": "Qizarish",
+    "D": "Qo`rquv",
+    "javob": "A"
+  },
+  {
+    "savol": "Vaksinalarni tashishda qanday sharoit kerak?",
+    "A": "Sovuq zanjir rejimi",
+    "B": "Issiq muhit",
+    "C": "Ochiq havoda",
+    "D": "Hech shart yo`q",
+    "javob": "A"
+  },
+  {
+    "savol": "Emlash xonasi jurnalida nimalar qayd etiladi?",
+    "A": "Emlanganlar soni, sana, vaksina turi",
+    "B": "Bemor familiyasi",
+    "C": "Xona harorati",
+    "D": "Shifokor raqami",
+    "javob": "A"
+  },
+  {
+    "savol": "Patronaj hamshirasining asosiy vazifasi nima?",
+    "A": "Aholining sog`lom turmush tarzini shakllantirish",
+    "B": "Emizikli ayllar bilan ishlash",
+    "C": "bemorlarni davolash",
+    "D": "Fikr almashish",
+    "javob": "A"
+  },
+  {
+    "savol": "Hamshira patronaj davomida kimlar bilan ishlaydi?",
+    "A": "Oilalar, homilador ayollar, chaqaloqlar bilan",
+    "B": "bolalar bilan nogironlar bilan",
+    "C": "keksalar bilan",
+    "D": "erkaklar bilan",
+    "javob": "A"
+  },
+  {
+    "savol": "Yangi tug`ilgan chaqaloqqa patronaj necha kun ichida amalga oshiriladi?",
+    "A": "1–3 kun ichida",
+    "B": "1 hafta ichida",
+    "C": "1 oyda",
+    "D": "10 kunda",
+    "javob": "A"
+  },
+  {
+    "savol": "Salomatlikka zarar yetkazuvchi odatlar?",
+    "A": "Chekish, spirtli ichimlik, harakatsizlik",
+    "B": "noto`g`ri ovqatlanish",
+    "C": "Suv ichish",
+    "D": "Sayr qilish",
+    "javob": "A"
+  },
+  {
+    "savol": "Irsiy omillar salomatlikka qancha foiz ta`sir qiladi?",
+    "A": "15–20%",
+    "B": "5%",
+    "C": "50%",
+    "D": "70%",
+    "javob": "A"
+  },
+  {
+    "savol": "Irsiy omillar deganda nima tushuniladi?",
+    "A": "Ota-onadan o`tuvchi biologik xususiyatlar",
+    "B": "Muhit ta`siri",
+    "C": "Oziq-ovqat sifati",
+    "D": "Sport faoliyati",
+    "javob": "A"
+  },
+  {
+    "savol": "Ekologik omillar nimalardan iborat?",
+    "A": "Havo, suv, tuproq, iqlim holati",
+    "B": "iqlim",
+    "C": "Suv sifati",
+    "D": "Oziq-ovqat,havo",
+    "javob": "A"
+  },
+  {
+    "savol": "Ekologik omillar bilan bog`liq kasalliklarga misol?",
+    "A": "Allergiya va nafas yo`li kasalliklari",
+    "B": "Yurak ishemiyasi",
+    "C": "Miya jarohati",
+    "D": "Qon kasalliklari",
+    "javob": "A"
+  },
+  {
+    "savol": "Antiseptika nima degani",
+    "A": "Jarohatga tushgan mikroblarni yo`qotish",
+    "B": "dorilarni nazorat qiladi",
+    "C": "Mikrob tushishidan oldin uni oldini olish",
+    "D": "Sterilizatsiya qoidalari",
+    "javob": "A"
+  },
+  {
+    "savol": "Antiseptikani turalari qaysilar",
+    "A": "Biologik kimyoviy mexanik fizik",
+    "B": "Bug` kimyoviy ultrabinafsha nurlari quruq issiqlik",
+    "C": "Kimyoviy bug` fizik biologik",
+    "D": "Qaynatish qo`llarni yuvish",
+    "javob": "A"
+  },
+  {
+    "savol": "Sterilizatsiya turlari qaysilar",
+    "A": "Bug` kimyoviy ultrabinafsha nurlari quruq issiqlik",
+    "B": "Kimyoviy bug` fizik biologik",
+    "C": "Qaynatish qo`llarni yuvish",
+    "D": "Biologik kimyoviy mexanik fizik",
+    "javob": "A"
+  },
+  {
+    "savol": "Dezinfeksiya deganda nima tushuniladi?",
+    "A": "Mikroblarni yo`qotish jarayoni",
+    "B": "Hasharotlarni yo`qotish",
+    "C": "Kemiruvchilarni yo`qotish",
+    "D": "Havoni shamollatish",
+    "javob": "A"
+  },
+  {
+    "savol": "Dezinseksiya nima?",
+    "A": "Hasharotlarni yo`qotish choralari",
+    "B": "Mikroblarni yo`qotish",
+    "C": "Kemiruvchilarni yo`qotish",
+    "D": "Gigiena qoidalari",
+    "javob": "A"
+  },
+  {
+    "savol": "Dezinseksiya turlari",
+    "A": "Kimyoviy, biologik, fizik, mexanik",
+    "B": "Yakuniy joriy profilaktik",
+    "C": "Kimyoviy biologik",
+    "D": "fizik, mexanik",
+    "javob": "A"
+  },
+  {
+    "savol": "Deratizatsiya qanday jarayon?",
+    "A": "Kemiruvchilarga qarshi kurash",
+    "B": "Viruslarga qarshi kurash",
+    "C": "Hasharotlarga qarshi kurash",
+    "D": "Changni tozalash",
+    "javob": "A"
+  },
+  {
+    "savol": "Qizil rangli chiqindilar qanday nomlanadi?",
+    "A": "Yuqumli",
+    "B": "Sanchiluvchi",
+    "C": "Qayta ishlanadigan",
+    "D": "Umumiy",
+    "javob": "A"
+  },
+  {
+    "savol": "Sariq rangli chiqindilar qanday nomlanadi?",
+    "A": "Sanchiluvchi",
+    "B": "Yuqumli",
+    "C": "Qayta ishlanadigan",
+    "D": "Umumiy",
+    "javob": "A"
+  },
+  {
+    "savol": "Ichki infeksiya manbalari nimalar?",
+    "A": "Bemor, tibbiy asbob, xodim qo`li",
+    "B": "bemorning oziq-ovqati",
+    "C": "tashqaridan kiruvchi odam",
+    "D": "Tibbiy texnika",
+    "javob": "A"
+  },
+  {
+    "savol": "Chiqindilarning guruhlarini ayting",
+    "A": "A B V G D",
+    "B": "A B C D E",
+    "C": "A B G D",
+    "D": "A B S G D",
+    "javob": "A"
+  },
+  {
+    "savol": "B guruh chiqindilariga nimalar kiradi",
+    "A": "Shpris paxta Sistema perchatki",
+    "B": "Salafan paketlar paxta perchatki",
+    "C": "Dez eritmalar",
+    "D": "Radiaktiv simob",
+    "javob": "A"
+  },
+  {
+    "savol": "D guruh chiqindilariga nimalar kiradi",
+    "A": "Radiaktiv simob termometr",
+    "B": "Shpris paxta Sistema perchatki",
+    "C": "Salafan paketlar paxta perchatki",
+    "D": "Dez eritmalar",
+    "javob": "A"
+  },
+  {
+    "savol": "Dezinfeksiya qanday turlarga bo`linadi?",
+    "A": "Joriy, yakuniy va profilaktik",
+    "B": "Biologik, mexanik, fiziologik",
+    "C": "Tabiiy, sun`iy, aralash",
+    "D": "Qattiq, suyuq, gazli",
+    "javob": "A"
+  },
+  {
+    "savol": "Hamshira texnika xavfsizligi bo`yicha qanday hujjatga amal qiladi?",
+    "A": "Mehnat muhofazasi yo`riqnomasi",
+    "B": "Ichki nizom",
+    "C": "Buyruq",
+    "D": "Ish jadvali",
+    "javob": "A"
+  },
+  {
+    "savol": "Kasalxona ichki infeksiyasi oldini olishda muhim vosita",
+    "A": "Qo`l gigienasiga rioya qilish",
+    "B": "niqob taqish",
+    "C": "Ovqatlanish tartibi",
+    "D": "Yotoq joyini o`zgartirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Sterilizatsiya va dezinfeksiya o`rtasidagi farq",
+    "A": "Sterilizatsiyada barcha mikroblar yo`q qilinadi",
+    "B": "Dezinfeksiyada barcha mikroblar nobud bo`ladi",
+    "C": "Ikkalasi bir xil",
+    "D": "Sterilizatsiya asboblarni tozalash",
+    "javob": "A"
+  },
+  {
+    "savol": "Dezinfeksion eritmalar tayyorlashda nimalarga e`tibor beriladi?",
+    "A": "Konsentratsiya va ta`sir muddati",
+    "B": "Rangi va hidi",
+    "C": "Eritilgan suyuqlik turi",
+    "D": "Eritmani hajmi",
+    "javob": "A"
+  },
+  {
+    "savol": "SSB farmoyishlari qaysi maqsadga qaratilgan?",
+    "A": "Ichki infeksiyalarni kamaytirish va nazoratni kuchaytirish",
+    "B": "Bemorlarni hisobga olish",
+    "C": "Maoshni oshirish",
+    "D": "Ish vaqtini qisqartirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Hamshira dezinfeksiya ishlarini kimning nazoratida bajaradi?",
+    "A": "Bo`lim hamshirasi va sanitariya vrachi",
+    "B": "Bosh hamshira",
+    "C": "Xonadosh xodim",
+    "D": "Laborant",
+    "javob": "A"
+  },
+  {
+    "savol": "Ichki infeksiya bilan bog`liq asosiy kasalliklar",
+    "A": "Virusli gepatit, OIV, sil",
+    "B": "Yurak xastaligi",
+    "C": "Diabet, peretanit",
+    "D": "Allergiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Kimyoviy dezinfeksiya vositalariga misol",
+    "A": "Xlorli eritma",
+    "B": "Issiq suv",
+    "C": "Ultrabinafsha nurlar",
+    "D": "Quruq issiqlik",
+    "javob": "A"
+  },
+  {
+    "savol": "Fizik dezinfeksiya qanday amalga oshiriladi?",
+    "A": "Issiqlik, nurlanish, bug` yordamida",
+    "B": "Xlor bilan",
+    "C": "Yuvish vositalari bilan",
+    "D": "Nam tozalash orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Mehnat muhofazasi kim tomonidan tashkil etiladi?",
+    "A": "Tibbiyot muassasasi rahbari",
+    "B": "Hamshira",
+    "C": "Sanitariya vrachi",
+    "D": "O`qituvchi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ichki infeksiya tarqalishining asosiy sababi",
+    "A": "Gigiena qoidalariga amal qilinmasligi",
+    "B": "Dorilarni noto`g`ri saqlash",
+    "C": "Bemorlarning ko`pligi",
+    "D": "Ventilyatsiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Dezinfeksiya qachon o`tkaziladi?",
+    "A": "Har kuni va zarur hollarda",
+    "B": "bemor o`lganda",
+    "C": "Haftada bir marta",
+    "D": "Oylik tekshiruvda",
+    "javob": "A"
+  },
+  {
+    "savol": "Dezinfeksiya eritmasini tayyorlashda asosiy xatolik",
+    "A": "Konsentratsiyani noto`g`ri tanlash",
+    "B": "Eritmani ko`p tayyorlash",
+    "C": "Eritmani ko`p ishlatish",
+    "D": "Idish hajmi",
+    "javob": "A"
+  },
+  {
+    "savol": "Hamshira dezinfeksiya vaqtida qanday himoya vositalaridan foydalanadi?",
+    "A": "Qo`lqop, niqob, ko`zoynak",
+    "B": "Papka, ruchka",
+    "C": "Xalat va belbog`",
+    "D": "Ruxsatnoma",
+    "javob": "A"
+  },
+  {
+    "savol": "Dezinseksiya qanday holatda o`tkaziladi?",
+    "A": "Hasharotlar ko`payganda",
+    "B": "yil oxirida",
+    "C": "rahbar aytganda",
+    "D": "Har oyda",
+    "javob": "A"
+  },
+  {
+    "savol": "Ichki infeksiya bilan kasallangan xodim bilan nima qilinadi?",
+    "A": "Izolyatsiya qilinadi va davolanadi",
+    "B": "Ishdan bo`shatiladi",
+    "C": "Boshqa bo`limga o`tkaziladi",
+    "D": "E`tibor berilmaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Texnika xavfsizligiga amal qilishning asosiy foydasi",
+    "A": "Jarohatlar va kasbiy kasalliklarning oldini olish",
+    "B": "Ish vaqtini qisqartirish",
+    "C": "Maosh oshirish",
+    "D": "Xonani tozalash",
+    "javob": "A"
+  },
+  {
+    "savol": "Bemorni so`rab surishtirish qanday maqsadda o`tkaziladi?",
+    "A": "Bemorning anamnezini aniqlash uchun",
+    "B": "Kasallikni davolash uchun",
+    "C": "Fizioterapiya tayinlash uchun",
+    "D": "Laboratoriya tahlillarini bajarish uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko`zdan kechirish qanday tekshiruv turiga kiradi?",
+    "A": "Vizual (ko`rish orqali) tekshiruv",
+    "B": "Laborator tekshiruv",
+    "C": "Instrumental tekshiruv",
+    "D": "Radiologik tekshiruv",
+    "javob": "A"
+  },
+  {
+    "savol": "Umumiy ko`zdan kechirishda nimalar baholanadi?",
+    "A": "Bemorning umumiy holati, teri rangi, nafas olish holati",
+    "B": "Yurak urishi",
+    "C": "qon bosimi",
+    "D": "Tana harorati",
+    "javob": "A"
+  },
+  {
+    "savol": "Mahalliy ko`zdan kechirishda nimalar aniqlanadi?",
+    "A": "Kasallangan soha holati",
+    "B": "Butun tananing harorati",
+    "C": "Nafas olish soni",
+    "D": "Puls tezligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Palpatsiya qanday maqsadda o`tkaziladi?",
+    "A": "Ichki organlarning holatini paypaslab baholash uchun",
+    "B": "Yurak urishini eshitish uchun",
+    "C": "Ko`zdan kechirish uchun",
+    "D": "Qon bosimini o`lchash uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "Perkussiya deganda nima tushuniladi?",
+    "A": "Tana yuzasiga urib ichki organ tovushini eshitish usuli",
+    "B": "Organlarni paypaslab ko`rish",
+    "C": "Tashqi ko`rinishni baholash",
+    "D": "Yurakni eshitish",
+    "javob": "A"
+  },
+  {
+    "savol": "Perkussiya paytida qanday tovush eshitiladi?",
+    "A": "Turg`un yoki o`tkir tovush",
+    "B": "shovqin",
+    "C": "Yurak urishi",
+    "D": "havo harakati",
+    "javob": "A"
+  },
+  {
+    "savol": "Auskultatsiya deganda nima tushuniladi?",
+    "A": "Organlar faoliyatini eshitish orqali tekshirish",
+    "B": "Organlarni urib ko`rish",
+    "C": "Organlarni palpatsiya qilish",
+    "D": "Ko`z bilan baholash",
+    "javob": "A"
+  },
+  {
+    "savol": "Auskultatsiya usuli kim tomonidan ishlab chiqilgan?",
+    "A": "Rene Laennec",
+    "B": "Robert Koch",
+    "C": "Ivan Pavlov",
+    "D": "Louis Pasteur",
+    "javob": "A"
+  },
+  {
+    "savol": "Auskultatsiyada nimalar eshitiladi?",
+    "A": "Yurak, o`pka, ichak tovushlari",
+    "B": "Ko`z harakati",
+    "C": "Teri quruqligi",
+    "D": "Bosh aylanishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Auskultatsiya texnikasida nimalarga e`tibor beriladi?",
+    "A": "Sokin joy, stetoskop va fanendaskop to`g`ri joylashtiriladi",
+    "B": "Shovqinli joyda bajariladi",
+    "C": "Bemor harakatda bo`ladi",
+    "D": "quloq bilan eshitiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Perkussiyaning qanday turlari bor",
+    "A": "Bevosita va Bilvosita",
+    "B": "Chuqur yuzaki va taqqoslama",
+    "C": "Mahaliy va umumiy",
+    "D": "Dukkilatib urib ko`rish",
+    "javob": "A"
+  },
+  {
+    "savol": "Palpatsiyada qo`llaniladigan bosim qanday bo`lishi kerak?",
+    "A": "Asta-sekin oshiriladigan",
+    "B": "Keskin kuchli",
+    "C": "yuzaki",
+    "D": "chuqur",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko`zdan kechirishning maqsadi nima?",
+    "A": "Tashqi belgilar asosida kasallik to`g`risida fikr yuritish",
+    "B": "Organlarni ichkaridan ko`rish",
+    "C": "Bemorni davolash",
+    "D": "Dori tayinlash",
+    "javob": "A"
+  },
+  {
+    "savol": "Mahalliy ko`zdan kechirishda asosiy e`tibor qaysi sohada?",
+    "A": "Kasallangan yoki shikastlangan sohaga",
+    "B": "Butun tanaga",
+    "C": "oyoqlarga",
+    "D": "qo`llarga",
+    "javob": "A"
+  },
+  {
+    "savol": "Auskultatsiya qachon bajariladi?",
+    "A": "Yurak, o`pka va ichak faoliyatini baholashda",
+    "B": "Ko`zdan kechirishda",
+    "C": "laborator tahlilda",
+    "D": "palpatsiyada",
+    "javob": "A"
+  },
+  {
+    "savol": "Palpatsiyada qanday sezgilar muhim?",
+    "A": "Og`riq, harorat, zichlik",
+    "B": "tovush",
+    "C": "rang",
+    "D": "bosim",
+    "javob": "A"
+  },
+  {
+    "savol": "Bemor tarixi (stasionar varaqa) kim tomonidan yuritiladi?",
+    "A": "Hamshira va shifokor",
+    "B": "hamshira",
+    "C": "direktor",
+    "D": "Sanitar",
+    "javob": "A"
+  },
+  {
+    "savol": "Bemorning kundalik kuzatuv varaqasiga nimalar yoziladi?",
+    "A": "Harorat, puls, nafas, qon bosimi",
+    "B": "Tana-harorat",
+    "C": "puls",
+    "D": "dori nomi",
+    "javob": "A"
+  },
+  {
+    "savol": "Hamshiralik jarayoni nima?",
+    "A": "Bemor parvarishi tizimli yoʻli",
+    "B": "Dori berish",
+    "C": "Bemorni yuvish",
+    "D": "hujjat yozish",
+    "javob": "A"
+  },
+  {
+    "savol": "Jarayonning birinchi bosqichi?",
+    "A": "Bemorni tekshirish",
+    "B": "Muammolarni aniqlash",
+    "C": "Parvarish rejasini tuzish",
+    "D": "Natijani baholash",
+    "javob": "A"
+  },
+  {
+    "savol": "Bemorni baholash qaysi maqsadda?",
+    "A": "Muammo va ehtiyojlarni aniqlash",
+    "B": "Rang va chiroqni tekshirish",
+    "C": "Stollar joylashuvini o`rganish",
+    "D": "Jihozlarni tozalash",
+    "javob": "A"
+  },
+  {
+    "savol": "Hamshira bajaradigan amaliyot qaysi bosqichda?",
+    "A": "Rejani amalga oshirish",
+    "B": "Hujjatni ko`rish",
+    "C": "Rang bilan ishlash",
+    "D": "Telefonni ishlatish",
+    "javob": "A"
+  },
+  {
+    "savol": "Baholash bosqichi maqsadi?",
+    "A": "Natijani aniqlash va tuzatish",
+    "B": "Bemorni chaqirish",
+    "C": "Xonani yopish",
+    "D": "Rang berish",
+    "javob": "A"
+  },
+  {
+    "savol": "Hamshiralik Jarayoni bosqichlari nechta?",
+    "A": "5 ta asosiy",
+    "B": "2 ta",
+    "C": "3 ta",
+    "D": "7 ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Jarayonning yakuniy bosqichi?",
+    "A": "Baholash va tuzatish",
+    "B": "Dori berish",
+    "C": "Muammolarni aniqlash",
+    "D": "Rang qo`yish",
+    "javob": "A"
+  },
+  {
+    "savol": "Hamshiralik tashxisining kelib chiqishi qayerdan?",
+    "A": "20-asr boshidagi hamshiralik amaliyotidan",
+    "B": "Farmatsevtik sanoatdan",
+    "C": "Rang va dizayndan",
+    "D": "Telefon tizimidan",
+    "javob": "A"
+  },
+  {
+    "savol": "Biologik antiseptikaga misollar keltiring",
+    "A": "Antibiotiklar va sulfanalamidlardan foydalanish",
+    "B": "Biologik moddalardan foydalanish",
+    "C": "Kimyoviy moddalardan foydalanish",
+    "D": "Spirt, yod betadin,pereks vodorod",
+    "javob": "A"
+  },
+  {
+    "savol": "Kimyoviy antiseptikada nimalardan foydalaniladi",
+    "A": "Spirt, yod betadin,pereks vodorod",
+    "B": "Biologik moddalardan foydalanish",
+    "C": "Antibiotiklar va sulfanalamidlardan foydalanish",
+    "D": "Dez eritmalardan",
+    "javob": "A"
+  },
+  {
+    "savol": "Biologic deratizatsiyaga misol keltiring",
+    "A": "Kemiruvchilar bilan oziqlanuvchi hayvonlar",
+    "B": "Qopqonlar va panjaralardan foydalanish",
+    "C": "Kimyoviy moddalardan foydalanish",
+    "D": "Yopishqoq qog`ozlardan foydalanish",
+    "javob": "A"
+  },
+  {
+    "savol": "Qon orqali yuqadigan kasalliklar",
+    "A": "Gemmoragik isitma OITV OITS , gepatit B",
+    "B": "Suvchechak , papatachi isitmasi afg`on yara",
+    "C": "Quturish kuydurgi qoqshol",
+    "D": "Suvchechak , papatachi isitmasi afg`on yara OITV OITS , gepatit B",
+    "javob": "A"
+  },
+  {
+    "savol": "Kasalxona ichki infeksiyalarining eng ko`p tarqalish yo`llari qaysilar?",
+    "A": "Kontakt, aerosol va jihozlar orqali",
+    "B": "Havo va suv orqali",
+    "C": "Kontakt va ovqat orqali",
+    "D": "suv orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Dezinfeksiya vositalarining samarasi nimaga bog`liq?",
+    "A": "To`g`ri konsentratsiya, qo`llash va kontakt vaqti",
+    "B": "Bemorlarning ko`rpa to`shaklari va idish materiali",
+    "C": "narx va konsentratsiyaga",
+    "D": "Hidi va rangi",
+    "javob": "A"
+  },
+  {
+    "savol": "Hamshira tibbiy himoya vositalarini qachon almashtiradi?",
+    "A": "Har bir bemor bilan ishlashdan oldin va keyin",
+    "B": "ish boshlaganda va tugaganda",
+    "C": "ish tugagach",
+    "D": "haftada bir marta",
+    "javob": "A"
+  },
+  {
+    "savol": "Hamshira kasalxona ichki infektsiyasini nazorat qilishda qanday ish olib boradi?",
+    "A": "Gigienik sharoitlar, bemor va xodimlarning holatini kuzatish, dezinfeksiya",
+    "B": "Dorilar bilan davolash",
+    "C": "Statistic malumotlarni yig`ish orqali",
+    "D": "jihozlar bilan",
+    "javob": "A"
+  },
+  {
+    "savol": "12  Kasalxona ichki infeksiyalarining eng ko`p tarqalish yo`llari qaysilar?",
+    "A": "Kontakt, aerosol va jihozlar orqali Suv va ovqat orqali",
+    "B": "Havo orqali va buyumlar",
+    "C": "Suv va ovqat orqali",
+    "D": "suv orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Bemorni palpatsiya qilish maqsadi nima?",
+    "A": "O`zgarishlar va patologiyalarni aniqlash",
+    "B": "Rangni tekshirish",
+    "C": "So`rab surishtirish",
+    "D": "Dukillatib urub ko`rish",
+    "javob": "A"
+  },
+  {
+    "savol": "Sanitary oqartiruv ishlarida hamshira qanday vazifani bajaradi?",
+    "A": "Dezinfeksiya va gigienik sharoitni ta`minlash",
+    "B": "dorilarni berish",
+    "C": "Statistik hisobot tayyorlash",
+    "D": "Jihozlarni tekshirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Salomatlik tushunchasida “jismoniy farovonlik” nimani bildiradi?",
+    "A": "Organizmning normal funktsiyalari va kasallik yo`qligi",
+    "B": "ruhiy holat",
+    "C": "ijtimoiy qo`llab-quvvatlash",
+    "D": "ish qobiliyati",
+    "javob": "A"
+  },
+  {
+    "savol": "Salomatlikka yangicha qarash nima asosida shakllangan?",
+    "A": "Integrativ va kompleks yondashuv asosida",
+    "B": "biologik asosda",
+    "C": "texnik nazorat",
+    "D": "statistik tahlil",
+    "javob": "A"
+  },
+  {
+    "savol": "Salomatlikni saqlashda profilaktika qaysi bosqichlarda amalga oshiriladi?",
+    "A": "Birlamchi, ikkilamchi va uchlamchi",
+    "B": "birlamchi",
+    "C": "Joriy yakuniy",
+    "D": "uchlamchi",
+    "javob": "A"
+  },
+  {
+    "savol": "Dori vositalarini tarqatishda eng ko`p uchraydigan xatolik?",
+    "A": "Bemor ism-sharifi tekshirilmasdan dori berish",
+    "B": "Dorini ortiqcha miqdorda yetkazib berish",
+    "C": "Dorilarni kun davomida almashtirish",
+    "D": "Dorini kechasi bermaslik",
+    "javob": "A"
+  },
+  {
+    "savol": "Post hamshirasining asosiy hujjati?",
+    "A": "Post jurnali (dori berish, muolaja, kuzatuv qaydlari)",
+    "B": "Shifokorlar ichki yig`ilish daftari",
+    "C": "Laboratoriya daftari",
+    "D": "Ovqatlanish ro`yxati",
+    "javob": "A"
+  },
+  {
+    "savol": "Muolaja xonasi hamshirasi infeksiya nazoratida nimalarni bajaradi?",
+    "A": "Steril materiallarni to`g`ri saqlash va ishlatilgan asboblarni protokollarga muvofiq qayta ishlash",
+    "B": "Palatadagi bemorlarni nazorat qiladi",
+    "C": "Bo`limni har kuni dezinfeksiya qiladi",
+    "D": "Dori buyruqlarini yozib qo`yadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Postning joylashuvi qanday bo`lishi kerak?",
+    "A": "Bemorlar harakati va bo`lim nazorati uchun markaziy va ko`rinadigan hududda",
+    "B": "Palatalardan eng uzoqda",
+    "C": "chiqish eshigi yonida",
+    "D": "Omborxona yaqinida",
+    "javob": "A"
+  },
+  {
+    "savol": "Post hamshirasining asbob-uskunalarni tekshirish majburiyati?",
+    "A": "Har kuni smena boshida ishlashga tayyorligini tekshirish",
+    "B": "buzilganda ko`rish",
+    "C": "Oyiga bir marta tekshirish",
+    "D": "Shifokor so`raganda tekshirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Muolaja xonasi hamshirasi in`eksiya oldidan bajarishi shart bo`lgan ish?",
+    "A": "Bemorga protsedura haqida maʼlumot berish va roziligini olish",
+    "B": "shprits tayyorlash",
+    "C": "Fdori nomini aytish",
+    "D": "In`yeksiyadan keyin bemorni chaqirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Post hamshirasining kundalik vazifasi?",
+    "A": "Har smenada bemorlarning hayotiy ko`rsatkichlarini qayd qilish",
+    "B": "Dorilarni sanash",
+    "C": "palata oynalarini tekshirish",
+    "D": "shifokor yozuvlarini ko`rish",
+    "javob": "A"
+  },
+  {
+    "savol": "Post hamshirasining dori qabul qilishdagi majburiyati?",
+    "A": "Dorilarni qabul qilishda sanab, yaroqlilik muddatini tekshirish",
+    "B": "Dorilarni soniga qaramasdan qabul qilish",
+    "C": "Dori nomlariga ahamiyat bermaslik",
+    "D": "Dorilarni  smena oxirida qabul qilish",
+    "javob": "A"
+  },
+  {
+    "savol": "Muolaja xonasi hamshirasining bog`lamlarni tayyorlash vazifasi?",
+    "A": "Steril bog`lam materiallarini aseptik talab bo`yicha tayyorlash",
+    "B": "Bog`lamlarni bemorlar soniga qarab tanlash",
+    "C": "Bog`lamlarni  shifokor tayyorlashi",
+    "D": "Bog`lamlarni oddiy sumkada saqlash",
+    "javob": "A"
+  },
+  {
+    "savol": "Post hamshirasining bemorlarni kuzatishdagi roli?",
+    "A": "Hayotiy ko`rsatkichlar, shikoyatlar va o`zgarishlarni o`z vaqtida aniqlab, qayd qilish",
+    "B": "uyqu holatini kuzatish",
+    "C": "ovqatlanishini nazorat qilish",
+    "D": "bemorlar sonini hisoblash",
+    "javob": "A"
+  },
+  {
+    "savol": "Muolaja xonasi hamshirasining dezinfeksiya bo`yicha vazifasi?",
+    "A": "Har bir muolajadan keyin ishlatilgan asbob-uskunalarni darhol qayta ishlash",
+    "B": "Asboblarni kun oxirida bir marta yuvish",
+    "C": "Steril materiallarni suv bilan chayish",
+    "D": "Dezinfeksiyani  katta protseduralardan keyin qilish",
+    "javob": "A"
+  },
+  {
+    "savol": "Post hamshirasida bo`lishi shart bo`lgan jihoz?",
+    "A": "Dori shkafi, reanimatsiya to`plami, shaxsiy himoya vositalari",
+    "B": "termometr",
+    "C": "qon bosimi apparati",
+    "D": "qaychi",
+    "javob": "A"
+  },
+  {
+    "savol": "Muolaja xonasi hamshirasining xatosi deb topiladi?",
+    "A": "In`ektsiya oldidan dori ampulasining yorlig`ini tekshirmaslik",
+    "B": "Shpritsni steril paketdan olish",
+    "C": "Spirtli tampon ishlatish",
+    "D": "Steril qo`lqop kiyish",
+    "javob": "A"
+  },
+  {
+    "savol": "Post hamshirasi smenani topshirayotganda nima qiladi?",
+    "A": "Barcha dorilar, hujjatlar va bemorlar holati haqida to`liq hisobot beradi",
+    "B": "dorilarni topshiradi",
+    "C": "shifokorga xabar beradi",
+    "D": "bemorlar sonini aytadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Muolaja xonasi hamshirasining xavfsizlik bo`yicha vazifasi?",
+    "A": "O`tkir asboblarni maxsus konteynerga yig`ish",
+    "B": "Ularni oddiy axlatga tashlash",
+    "C": "Ularni stol ustida qoldirish",
+    "D": "Bemorga berib yuborish",
+    "javob": "A"
+  },
+  {
+    "savol": "Post hamshirasining rejali vazifalaridan biri?",
+    "A": "Bemorlarni dori qabul qilish jadvaliga rioya qildirish",
+    "B": "Bemorlarni ovqat tayyorlash",
+    "C": "Xonalarni ta`mirlash",
+    "D": "Bemorlarni joylashtirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Muolaja xonasi hamshirasining dori hisobini yuritish tartibi?",
+    "A": "Har bir ochilgan flakon yoki ampulaning sarfini maxsus qaydnomaga kiritish",
+    "B": "umumiy miqdorni yozish",
+    "C": "Dori sarfini eslab yurish",
+    "D": "Hujjatga  smena oxirida yozish",
+    "javob": "A"
+  },
+  {
+    "savol": "Post hamshirasining bemor xavfsizligini ta`minlashdagi roli?",
+    "A": "Bemor holati yomonlashuvini erta aniqlash va zudlik bilan chora ko`rish",
+    "B": "bemorlarni tartibga chaqirish",
+    "C": "uxlash rejimini kuzatish",
+    "D": "Bemorlarni palataga kiritib-chiqarishni nazorat qilish",
+    "javob": "A"
+  },
+  {
+    "savol": "Tibbiy hujjatlarni to`ldirishning asosiy tamoyili?",
+    "A": "Hujjatni to`liq, aniq va o`z vaqtida to`ldirish",
+    "B": "kun oxirida to`ldirish",
+    "C": "Vaqt bo`lganda yozib qo`yish",
+    "D": "shifokor yozuviga qarab yozish",
+    "javob": "A"
+  },
+  {
+    "savol": "Tibbiy hujjatlarda qisqartmalardan foydalanish talabi?",
+    "A": "tasdiqlangan, rasmiy qisqartmalar qo`llaniladi",
+    "B": "Istalgan qisqartmalar yoziladi",
+    "C": "Umuman qisqartma ishlatilmaydi",
+    "D": "inglizcha qisqartmalar yoziladi",
+    "javob": "A"
+  },
+  {
+    "savol": "\"Hamshiralik jurnali\" qanday to`ldiriladi?",
+    "A": "Har bir muolaja va dori berish aniq sana-vaqt bilan kiritiladi",
+    "B": "smena oxirida umumiy yozuv qilinadi",
+    "C": "og`ir bemorlar yoziladi",
+    "D": "vrach ko`rsatmasi yoziladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Tibbiy hujjatda xatolik aniqlansa nima qilinadi?",
+    "A": "Xatolik bir chiziq bilan chizilib, to`g`ri variant ustiga yoziladi va imzo qo`yiladi",
+    "B": "O`chirib tashlanadi",
+    "C": "Qoralama daftariga ko`chiriladi",
+    "D": "Hujjat qayta yozib chiqiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Hujjatni yuritishda muhrlash qoidasi?",
+    "A": "Kerak bo`lgan bo`limlarda rasmiy muhr bilan tasdiqlanadi",
+    "B": "Har bir sahifa muhrlanadi",
+    "C": "hamshira muhr bosadi",
+    "D": "Muhr umuman qo`yilmaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Tibbiyot hujjatlarida sana qanday qo`yiladi?",
+    "A": "Kun–oy–yil tartibida, aniq ko`rinishda",
+    "B": "yil yoziladi",
+    "C": "Oy nomi qisqartiriladi",
+    "D": "Sana shart emas",
+    "javob": "A"
+  },
+  {
+    "savol": "\"Bemor kuzatuv varaqasi\" nimani aks ettiradi?",
+    "A": "Bemorning holati, hayotiy ko`rsatkichlari va kuzatuv natijalari",
+    "B": "dorilar ro`yxati",
+    "C": "shifokor topshiriqlari",
+    "D": "bemorning shikoyati",
+    "javob": "A"
+  },
+  {
+    "savol": "Hujjatni to`ldirayotgan shaxs nimalarni ko`rsatishi shart?",
+    "A": "Imzo, familiya, sanani",
+    "B": "familiya",
+    "C": "imzo",
+    "D": "bo`lim nomi",
+    "javob": "A"
+  },
+  {
+    "savol": "Hujjatning rasmiyligini ta`minlovchi shart?",
+    "A": "Aniqlik, tushunarli yozuv va huquqiy normalarga rioya qilish",
+    "B": "chiroyli yozuv",
+    "C": "muhr borligi",
+    "D": "vrach imzosi",
+    "javob": "A"
+  },
+  {
+    "savol": "Tibbiy hujjatlarda tuzatishlar qanday bajariladi?",
+    "A": "Bir chiziq bilan belgilab, ustiga to`g`rilangan ma`lumot yoziladi",
+    "B": "O`chirib tashlanadi",
+    "C": "Qalam bilan qora qilib yopiladi",
+    "D": "Yangi varaq tikib beriladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Dezinfeksiya qilishning maqsadi nima?",
+    "A": "Patogen mikroblarni yo`qotish yoki kamaytirish",
+    "B": "Havo almashinuvini yaxshilash",
+    "C": "Xonani tozalash",
+    "D": "Ranglarini to`g`rilash",
+    "javob": "A"
+  },
+  {
+    "savol": "Qo`l yuvishda asosiy qadam qaysi?",
+    "A": "Sovun bilan 20–30 soniya ishqalab yuvish",
+    "B": "Qo`lni quritish",
+    "C": "Antiseptik surtish",
+    "D": "Qo`lqop kiyish",
+    "javob": "A"
+  },
+  {
+    "savol": "Infeksiya nazorat tizimida kim bosh rolni bajaradi?",
+    "A": "Hamshira va infeksiya nazorati bo`yicha hamshira",
+    "B": "Sanitariya xodimi",
+    "C": "Transport xodimi",
+    "D": "Navbatchi qorovul",
+    "javob": "A"
+  },
+  {
+    "savol": "Asboblarni sterilizatsiya qilishdan oldingi muhim bosqich qaysi?",
+    "A": "Dastlabki mexanik tozalash (kirlarni ketkazish)",
+    "B": "Havo bilan tozalash",
+    "C": "Issiqda ushlab turish",
+    "D": "Quruq latta bilan artish",
+    "javob": "A"
+  },
+  {
+    "savol": "Og`ir ahvoldagi bemorlarni zambilga olib o`tish uchun birinchi xodim bemorning qaysi sohalarini ko`tarib turadi?",
+    "A": "Boshi, bo`yni va ko`kragining yuqori qismini",
+    "B": "Beli va sonlarini",
+    "C": "Boshi va sonlarini",
+    "D": "Boshi va boldirlarini",
+    "javob": "A"
+  },
+  {
+    "savol": "Og`ir ahvoldagi bemorlarni zambilga olib o`tish uchun ikkinchi xodim bemorning qaysi sohalarini ko`tarib turadi?",
+    "A": "Beli va sonlarining yuqori qismini",
+    "B": "Sonlarini",
+    "C": "Boshi va belini",
+    "D": "Belini",
+    "javob": "A"
+  },
+  {
+    "savol": "Og`ir ahvoldagi bemorlarni zambilga olib o`tish uchun uchinchi xodim bemorning qaysi sohalarini ko`tarib turadi?",
+    "A": "Son va boldirlarini",
+    "B": "Bosh va bel qismini",
+    "C": "Boldirlarini",
+    "D": "Bel va sonlarini",
+    "javob": "A"
+  },
+  {
+    "savol": "Zina poyadan zambilda ko`tarilganda bemorning boshi qaysi tomonga yo`naltiriladi?",
+    "A": "Oldinga",
+    "B": "Orqaga",
+    "C": "Yon tomonga",
+    "D": "Tepaga",
+    "javob": "A"
+  },
+  {
+    "savol": "O`zi yura olmaydigan bemorlar bo`limga nima yordamida olib kelinadi?",
+    "A": "Aravachada",
+    "B": "Zambilda",
+    "C": "Qo`lda ko`tarib",
+    "D": "Qo`lidan ushlab",
+    "javob": "A"
+  },
+  {
+    "savol": "Faol harakatdagi bemorlar qanday bemorlardir?",
+    "A": "Mustaqil ravishda o`tib-turib, ovqatlanib, yuvinib oladigan bemorlar",
+    "B": "Mustaqil ravishda o`tiradilar, lekin hamshira ovqatlantiradi",
+    "C": "Mustaqil turib-o`tiradilar, lekin hamshira yuvintiradi",
+    "D": "Hamshira yordamida harakatlanadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Bemorni zambilda xonaga olib kelganda zambilning bosh tomoni krovatning qaysi tomoniga yo`naltiriladi?",
+    "A": "Oyoq tomoni",
+    "B": "Bosh tomoni",
+    "C": "Yon tomoni",
+    "D": "Krovat o`rtasiga qarab",
+    "javob": "A"
+  },
+  {
+    "savol": "Bemorning 90° burchak ostida o`tirishi qanday nomlanadi?",
+    "A": "Fauler",
+    "B": "Sims",
+    "C": "Trendelenburg",
+    "D": "Majburiy holat",
+    "javob": "A"
+  },
+  {
+    "savol": "Maxsus krovat qanday nomlanadi?",
+    "A": "Funksional krovat",
+    "B": "Temir krovat",
+    "C": "Taxta krovat",
+    "D": "Polda yotish",
+    "javob": "A"
+  },
+  {
+    "savol": "Bemorning uyqusi qancha muddatni tashkil qiladi?",
+    "A": "8–10 soat",
+    "B": "5–6 soat",
+    "C": "6–7 soat",
+    "D": "3–4 soat",
+    "javob": "A"
+  },
+  {
+    "savol": "Sust harakatdagi bemorlarni transportirovka qilish uchun vositalar qanday?",
+    "A": "Zambil, kreslo-aravacha",
+    "B": "Avtobus",
+    "C": "Taksi",
+    "D": "Qo`ltiq tayoq",
+    "javob": "A"
+  },
+  {
+    "savol": "Transportirovka nima?",
+    "A": "Bemorni bir joydan ikkinchi joyga o`tkazish",
+    "B": "Bemorni taksida olib ketish",
+    "C": "Bemorni avtobusda olib ketish",
+    "D": "Bemorni qo`lidan ushlab olib ketish",
+    "javob": "A"
+  },
+  {
+    "savol": "Transportirovka turi bemorning nimasiga qarab aniqlanadi?",
+    "A": "Holatiga",
+    "B": "Ovqatlanishiga",
+    "C": "Kiyinishiga",
+    "D": "Ota-onasiga",
+    "javob": "A"
+  },
+  {
+    "savol": "Bemorni zambil yordamida transportirovka qilishda nimalardan foydalaniladi?",
+    "A": "Choyshab, yostiq, adyol",
+    "B": "Ko`rpa, yostiq, matras",
+    "C": "Ko`rpa va yostiq",
+    "D": "Choyshab",
+    "javob": "A"
+  },
+  {
+    "savol": "Qanday holatlarda bemor majburiy holatni egallaydi?",
+    "A": "Yo`tal, nafas qisishi, og`riq",
+    "B": "Yurak xuruji",
+    "C": "Jarohatdan qon ketishi",
+    "D": "Istagan vaqtda",
+    "javob": "A"
+  },
+  {
+    "savol": "Nafas qisganda bemor qanday holatni egallaydi?",
+    "A": "O`tirgan holatni",
+    "B": "Yotgan holatni",
+    "C": "Yonboshlagan holatni",
+    "D": "Majburiy holatni",
+    "javob": "A"
+  },
+  {
+    "savol": "Og`ir yotgan bemorlarga qanday krovatlardan foydalaniladi?",
+    "A": "Funksional krovat",
+    "B": "Oddiy krovat",
+    "C": "Taxta krovat",
+    "D": "Temir krovat",
+    "javob": "A"
+  },
+  {
+    "savol": "Bemorni yarim o`tirgan holatdan o`tirgan holatga o`tkazish uchun nechta xodim kerak bo`ladi?",
+    "A": "2 ta",
+    "B": "1 ta",
+    "C": "3 ta",
+    "D": "4 ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Bemorni krovatdan stulga o`tkazishda nechta xodim ishtirok etadi?",
+    "A": "1 ta",
+    "B": "4 ta",
+    "C": "3 ta",
+    "D": "2 ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Tayanch asosini kengaytirish va tana turg`unligini oshirish uchun qanday turish lozim?",
+    "A": "Oyoqlarni kerib, turg`un holatni ta`minlab turish",
+    "B": "Oyoqlarni kengaytirmay oldinga egilish",
+    "C": "Oyoqlarni bir-biriga yaqin qo`yish",
+    "D": "Oyoqlarni bir joyga qo`yish",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi bemorlar faol bemorlar deb ataladi?",
+    "A": "Hamshira maslahat beradi, bemor ehtiyojlarini mustaqil bajaradi",
+    "B": "Hamshira qisman yordam beradi",
+    "C": "Hamshira fiziologik ehtiyojlarda yordam beradi",
+    "D": "Qarindoshlari yordam beradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Bo`limga bemorni transportirovka qilishni kim hal qiladi?",
+    "A": "Qabul bo`limi shifokori",
+    "B": "Bo`lim katta hamshirasi",
+    "C": "Bemorning o`zi",
+    "D": "Bosh shifokor",
+    "javob": "A"
+  },
+  {
+    "savol": "Bemorni yarim o`tirgan va yarim yotgan vaziyati qanday ataladi?",
+    "A": "Fauler vaziyati",
+    "B": "Sims vaziyati",
+    "C": "Trendelenburg",
+    "D": "Majburiy vaziyat",
+    "javob": "A"
+  },
+  {
+    "savol": "Bemorni qorin bilan yarim yotgan vaziyati qanday ataladi?",
+    "A": "Sims vaziyati",
+    "B": "Fauler",
+    "C": "Trendelenburg",
+    "D": "Majburiy vaziyat",
+    "javob": "A"
+  },
+  {
+    "savol": "Bemorning chalqancha va oyoqlarini kerib bukib yotgan vaziyati qanday ataladi?",
+    "A": "Trendelenburg",
+    "B": "Sims",
+    "C": "Fauler",
+    "D": "Majburiy vaziyat",
+    "javob": "A"
+  },
+  {
+    "savol": "Trendelenburg vaziyati bu…",
+    "A": "Chalqancha yotib, oyoqlarni kerib bukish",
+    "B": "Qorin bilan yotish",
+    "C": "Tik turish",
+    "D": "Yarim o`tirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Toshkentda birinchi tibbiyot bilim yurti qachon ochildi?",
+    "A": "1918 y",
+    "B": "1920 y",
+    "C": "1922 y",
+    "D": "1890 y",
+    "javob": "A"
+  },
+  {
+    "savol": "Sog`liqni saqlash tizimini isloh qilish dasturi qachon qabul qilindi?",
+    "A": "10-noyabr 1998 y",
+    "B": "10-noyabr 1999 y",
+    "C": "1-noyabr 1998 y",
+    "D": "5-noyabr 2000 y",
+    "javob": "A"
+  },
+  {
+    "savol": "Tibbiyot institutlarida OMX fakultetlari qaysi yilda tashkil etildi?",
+    "A": "1999 y",
+    "B": "1996 y",
+    "C": "1890 y",
+    "D": "2000 y",
+    "javob": "A"
+  },
+  {
+    "savol": "O`rta ta`lim muddati nechta yil?",
+    "A": "9 yil",
+    "B": "8 yil",
+    "C": "10 yil",
+    "D": "11 yil",
+    "javob": "A"
+  },
+  {
+    "savol": "Islohot dasturi buyrug`i qachon qabul qilingan?",
+    "A": "1998 yil 10 noyabr",
+    "B": "1998 yil 10 mart",
+    "C": "2000 yil 2 iyul",
+    "D": "2004 yil 1 sentyabr",
+    "javob": "A"
+  },
+  {
+    "savol": "Hamshiralik islohotlari qaysi yilda boshlandi?",
+    "A": "1998 y",
+    "B": "1989 y",
+    "C": "2000 y",
+    "D": "1980 y",
+    "javob": "A"
+  },
+  {
+    "savol": "OMH bo`limlari qachon ochilgan?",
+    "A": "1999 yil",
+    "B": "1997 yil",
+    "C": "1998 yil",
+    "D": "2000 yil",
+    "javob": "A"
+  },
+  {
+    "savol": "Loyiha maqsadi",
+    "A": "Texnik baza, OMHni takomillashtirish",
+    "B": "Tajriba almashish",
+    "C": "Hamshiralikni rivojlantirish",
+    "D": "Shifokor topshiriqlarini kuchaytirish",
+    "javob": "A"
+  },
+  {
+    "savol": "AQSH–Isroil–O`zbekiston hamkorligi qachon boshlangan?",
+    "A": "2000 yil",
+    "B": "2005 yil",
+    "C": "2001 yil",
+    "D": "1999 yil",
+    "javob": "A"
+  },
+  {
+    "savol": "Uzluksiz o`qitishning maqsadi",
+    "A": "Parvarish sifatini oshirish",
+    "B": "Samimiy bo`lish",
+    "C": "Bemor bilimini baholash",
+    "D": "Bemorga yaxshi munosabat",
+    "javob": "A"
+  },
+  {
+    "savol": "Noverbalga kirmaydi",
+    "A": "Savollar berish",
+    "B": "Yuz ifodasi",
+    "C": "Ko`z aloqasi",
+    "D": "Qo`l harakati",
+    "javob": "A"
+  },
+  {
+    "savol": "Muloqot elementlari soni",
+    "A": "5 ta",
+    "B": "3 ta",
+    "C": "2 ta",
+    "D": "8 ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Muloqot vositalari",
+    "A": "Verbal va noverbal",
+    "B": "Jamoatchilik muloqoti",
+    "C": "Texnik vositalar",
+    "D": "O`zaro muloqot",
+    "javob": "A"
+  },
+  {
+    "savol": "Muomala yengillashtiruvchi omil",
+    "A": "Nutq aniq, qisqa bo`lishi",
+    "B": "Toza yozuv",
+    "C": "Nutq ohangi",
+    "D": "Imo-ishora",
+    "javob": "A"
+  },
+  {
+    "savol": "Muloqot darajalari",
+    "A": "3 ta",
+    "B": "4 ta",
+    "C": "5 ta",
+    "D": "2 ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Savol",
+    "A": "To`g`ri javob",
+    "B": "Noto`g`ri javob 1",
+    "C": "Noto`g`ri javob 2",
+    "D": "Noto`g`ri javob 3",
+    "javob": "A"
+  },
+  {
+    "savol": "Eshitish samarali bo`lishi uchun nima qilish kerak?",
+    "A": "Gapirishdan to`xtab, bemorga e`tiborni jamlash, uning gapini bo`lmaslik, chalg`ituvchi omillarni bartaraf etish",
+    "B": "Suhbat detallarini ilg`ab olish",
+    "C": "Ko`proq ochiq savollar berish",
+    "D": "Sukut saqlash",
+    "javob": "A"
+  },
+  {
+    "savol": "“Aytolmaysizmi?”, “Qayerda?” kabi savollar qaysi turga kiradi?",
+    "A": "“Ochiq” savol",
+    "B": "Bemorga qaratilgan savol",
+    "C": "“Yopiq” savol",
+    "D": "Noto`g`ri savol",
+    "javob": "A"
+  },
+  {
+    "savol": "Muloqot samarali bo`lishi uchun nechta element muhim?",
+    "A": "5 ta",
+    "B": "3 ta",
+    "C": "2 ta",
+    "D": "8 ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi hujjat hamshiraning tibbiy hujjatlariga kirmaydi?",
+    "A": "Kasallik tarixnomasi",
+    "B": "Statistik jurnal",
+    "C": "Shoshilinch xabarnoma",
+    "D": "Gospitalizatsiyadan bosh tortish jurnali",
+    "javob": "A"
+  },
+  {
+    "savol": "Hamshiralar o`z faoliyati davomida qanday shartga amal qilmasligi kerak?",
+    "A": "Ketma-ket navbatchilikda turishi",
+    "B": "Ruhiy turg`unlikni saqlash",
+    "C": "Kasbiy nuqsonlarning oldini olish",
+    "D": "Bemorlarning sog`ayish qarashini faollashtirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Shifoxona asosiy tarkibiy qismiga nimalar kiradi?",
+    "A": "Qabul bo`limi, davolash bo`limi, dorixona, oshxona, xo`jalik bo`limi",
+    "B": "Bosh shifokor xonasi",
+    "C": "Qabul bo`limi, hojatxona",
+    "D": "Qabul bo`limi, oshxona",
+    "javob": "A"
+  },
+  {
+    "savol": "Oilaviy poliklinikada qanday mutaxassislar faoliyat yuritadi?",
+    "A": "Umumiy amaliyot shifokorlari, tor mutaxassislar, umumiy amaliyot hamshiralari",
+    "B": "Oliy ma`lumotli hamshiralar",
+    "C": "Farmatsevtlar, laborantlar",
+    "D": "Tor mutaxassislar va ilmiy xodimlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Sog`liqni saqlash faoliyati nimalardan iborat?",
+    "A": "Sog`liqni yaxshilashga yo`naltirilgan ta`limiy faoliyat",
+    "B": "Tez yordam faoliyati",
+    "C": "Profilaktik emlash",
+    "D": "Yuqumli kasalliklarning oldini olish",
+    "javob": "A"
+  },
+  {
+    "savol": "Bepul tibbiy yordam tizimidan kimlar foydalanadi?",
+    "A": "Ijtimoiy ahamiyatga ega yoki xavfli kasallik bilan og`rigan bemorlar",
+    "B": "Yuridik va jismoniy shaxslar",
+    "C": "Bepul tizimga kirmagan DPM bemorlari",
+    "D": "mahalla bemorlari",
+    "javob": "A"
+  },
+  {
+    "savol": "O`tirish holatida yotoq yaralar ko`proq qaysi sohalarda paydo bo`ladi?",
+    "A": "Tirsak bo`g`imi, dumg`aza sohalarida",
+    "B": "Quloq chanog`i, dumg`aza",
+    "C": "Tirsak bo`g`imi sohasi",
+    "D": "Dumg`aza sohasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Yotoq yara hosil bo`lmaydigan sohalarini aniqlang",
+    "A": "Qorin, son, yelka",
+    "B": "Tos sohasi, tovon, dumg`aza",
+    "C": "Ensa, tovon, kurak",
+    "D": "Dumg`aza, kurak, tirsak",
+    "javob": "A"
+  },
+  {
+    "savol": "Yotoq yaralarning I-bosqichida qanday parvarish amalga oshiriladi?",
+    "A": "Har 2 soatda bemor vaziyatini o`zgartirish, kamfora spirti bilan artish",
+    "B": "To`g`ri ovqatlantirish, toza kiyim",
+    "C": "Parvarish talab qilinmaydi",
+    "D": "Peroksid bilan ishlov berish",
+    "javob": "A"
+  },
+  {
+    "savol": "Yotoq yara hosil bo`lishi qaysi shkala bo`yicha aniqlanadi?",
+    "A": "Breyden, Vaterlou",
+    "B": "Apgar shkalasi",
+    "C": "Solo shkalasi",
+    "D": "Glazgo shkalasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Yotoq yara hosil bo`lishining tashqi sabablariga kiradi?",
+    "A": "Kiyim va oqliklarda burmalar hosil bo`lishi",
+    "B": "Darmonsizlik",
+    "C": "Qarilik davri",
+    "D": "Kam ovqat yeyish",
+    "javob": "A"
+  },
+  {
+    "savol": "Qabulxona hamshirasi sanitarya tozalovidan oldin tananing qaysi qismini tekshiradi?",
+    "A": "Badan terisini",
+    "B": "Boshini",
+    "C": "Kiyimni",
+    "D": "Qulog`ini",
+    "javob": "A"
+  },
+  {
+    "savol": "Pedikulyoz nima?",
+    "A": "Bitliqilik",
+    "B": "Yotoq yarasi II-daraja",
+    "C": "Isqirtlik",
+    "D": "Yuqumli kasallik",
+    "javob": "A"
+  },
+  {
+    "savol": "Pedikulyoz asosan qayerda kuzatiladi?",
+    "A": "Bosh, kiyim, chov sohasida",
+    "B": "Quloqda",
+    "C": "Burunda",
+    "D": "Qoshda",
+    "javob": "A"
+  },
+  {
+    "savol": "Bemorning oqliklarini almashtirishning necha usuli mavjud?",
+    "A": "2 usuli",
+    "B": "3 usuli",
+    "C": "1 usuli",
+    "D": "4 usuli",
+    "javob": "A"
+  },
+  {
+    "savol": "Bemor terisini artish uchun qanday eritmalardan foydalaniladi?",
+    "A": "Sirka kislotasining 0 1% li eritmasi va 10% kamfora spirt",
+    "B": "70° spirt",
+    "C": "Vodorod peroksidi",
+    "D": "5% yod eritmasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Bemor terisini uzoq vaqt bosilib qolishi natijasida nima yuzaga keladi?",
+    "A": "Yotoq yara",
+    "B": "Bemor holsizlanishi",
+    "C": "Piodermiya",
+    "D": "Furunkulyoz",
+    "javob": "A"
+  },
+  {
+    "savol": "Bemor terisida yotoq yaralarning paydo bo`lishiga necha omil sabab bo`ladi?",
+    "A": "3 omil",
+    "B": "2 omil",
+    "C": "4 omil",
+    "D": "5 omil",
+    "javob": "A"
+  },
+  {
+    "savol": "Bemorning terisidagi to`qimalarning buzilishi, mexanik zararlanishi bilvosita nima orqali sodir bo`ladi?",
+    "A": "Bosim",
+    "B": "Kuch",
+    "C": "Quvvat",
+    "D": "Zarba",
+    "javob": "A"
+  },
+  {
+    "savol": "Bemorning terisidagi chuqur yotoq yaralar ko`proq qaysi to`qimalarni zararlaydi?",
+    "A": "Limfatik tomirlar va muskul tolalar",
+    "B": "Epiderma",
+    "C": "Derma",
+    "D": "Gipoderma",
+    "javob": "A"
+  },
+  {
+    "savol": "Yotoq yaralar asosan tananing qaysi qismlarida paydo bo`ladi?",
+    "A": "Ensa, tovon, kurak, dumg`aza",
+    "B": "Quloq, burun, ko`z",
+    "C": "Bosh, son, tovоn",
+    "D": "Son, kurak, ko`z",
+    "javob": "A"
+  }
+]

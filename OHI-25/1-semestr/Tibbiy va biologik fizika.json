@@ -1,0 +1,1602 @@
+[
+  {
+    "savol": "Jismlarning o`zaro tortishish kuchlari orqali aniqlanadigan massaga … massa deyiladi.",
+    "A": "gravitatsion",
+    "B": "inert",
+    "C": "molekulyar",
+    "D": "katta",
+    "javob": "A"
+  },
+  {
+    "savol": "Tovush to`lqinining balandligi nimaga bog`liq?",
+    "A": "tebranish amplitudasiga",
+    "B": "to`lqin intensivligiga",
+    "C": "tovush chastotasiga",
+    "D": "tebranish fazasiga",
+    "javob": "A"
+  },
+  {
+    "savol": "Ochiq idishdagi suvni qaynashiga sabab nima?",
+    "A": "havo bosimi normal atmosfera bosimidan kichik bo`lishi",
+    "B": "havo bosimi normal atmosfera bosimidan katta bo`lishi",
+    "C": "havo bosimi atmosfera bosimiga teng bo`lishi",
+    "D": "kritik bosimda bo`lishi",
+    "javob": "A"
+  },
+  {
+    "savol": "SI sistemadagi molekulyar fizikaga tegishli asosiy fizik kattaliklarni ko`rsating.",
+    "A": "modda miqdori, harorat, massa",
+    "B": "tezlanish, harorat",
+    "C": "tezlik",
+    "D": "uzunlik",
+    "javob": "A"
+  },
+  {
+    "savol": "Vaqt o`tishi bilan muvozanat vaziyati atrofida davriy ravishda takrorlanib turadigan harakatlarga … deyiladi.",
+    "A": "tebranishlar",
+    "B": "to`lqinlar",
+    "C": "aylanma harakat",
+    "D": "tekis harakat",
+    "javob": "A"
+  },
+  {
+    "savol": "To`lqin deb nimaga aytiladi?",
+    "A": "tebranishlarning fazoda tarqalishiga to`lqin deyiladi",
+    "B": "energiyani ko`chiruvchi jarayonga aytiladi",
+    "C": "vaqt o`tishi bilan muvozanat vaziyati atrofida davriy ravishda takrorlanib turadigan harakatlarga",
+    "D": "jism vaziyatining boshqa jismlarga nisbatan o`zgarishiga",
+    "javob": "A"
+  },
+  {
+    "savol": "Jismlarning chiziqli o`lchamlarini o`lchash uchun odatda biz qanday chiziqli o`lchov asboblaridan foydalanamiz?",
+    "A": "shtangentsirkul, mikrometrdan, o`lchov lentasi",
+    "B": "faqatgina shtangentsirkuldan foydalanamiz",
+    "C": "faqatgina mikrometrdan foydalanamiz",
+    "D": "shtangentsirkul va induktivlik g`altakdan foydalanamiz",
+    "javob": "A"
+  },
+  {
+    "savol": "Zichlikning SI sistemasidagi birligi",
+    "A": "kg/m3",
+    "B": "kg/m5",
+    "C": "kg/m2",
+    "D": "kg/m",
+    "javob": "A"
+  },
+  {
+    "savol": "Jismlarning zichligi qaysi vaqtda ortadi?",
+    "A": "jismlarning zichligi odatda bosim ortishi bilan ortadi",
+    "B": "jismlarning zichligi odatda bosim kamayishi bilan ortadi",
+    "C": "jismlarning zichligi odatda bosim ortishi bilan ortmaydi",
+    "D": "jismlarning zichligi odatda bosim ortishi bilan kamayadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Jismlarning zichligi qaysi vaqtda kamayadi?",
+    "A": "jismlarning zichligi odatda temperaturasi ko`tarilganda kamayadi",
+    "B": "jismlarning zichligi odatda temperaturasi ko`tarilganda oshadi",
+    "C": "jismlarning zichligi odatda temperaturasi ko`tarilganda nolga teng bo`ladi",
+    "D": "jismlarning zichligi odatda temperaturasi ko`tarilganda o`zgarmaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Suvning zichligi qanday o`zgaradi?",
+    "A": "suvning zichligi 4oC dan boshlab temperaturaning kamayishi bilan kamayadi",
+    "B": "suvning zichligi 4oC dan boshlab temperaturaning kamayishi bilan ortadi",
+    "C": "suv uchun aksincha ya'ni 24 gradusdan boshlab temperaturaning kamayishi bilan kamayadi",
+    "D": "suv uchun aksincha ya'ni 44 gradusdan boshlab temperaturaning kamayishi bilan kamayadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Organizmdagi qon aylanish jarayonini fizikaning qaysi bo`limi o`rganadi?",
+    "A": "gidrodinamika",
+    "B": "mexanika",
+    "C": "aerodinamika",
+    "D": "termodinamika",
+    "javob": "A"
+  },
+  {
+    "savol": "Fizikaning qaysi bo`limi yurakning mexanik ishini o`rganadi?",
+    "A": "mexanika",
+    "B": "aerodinamika",
+    "C": "atom fizikasi",
+    "D": "issiqlik",
+    "javob": "A"
+  },
+  {
+    "savol": "Gaz harakati bilan bog`liq bo`lgan nafas olish jarayonini fizikaning qaysi bo`limi o`rganadi?",
+    "A": "aerodinamika",
+    "B": "fazoviy o`tishlar",
+    "C": "gidrodinamika",
+    "D": "mexanika",
+    "javob": "A"
+  },
+  {
+    "savol": "Inson tanasidagi issiqlik uzatish jarayonini fizikaning qaysi bo`limi o`rganadi?",
+    "A": "termodinamika",
+    "B": "aerodinamika",
+    "C": "gidrodinamika",
+    "D": "gidrodinamika",
+    "javob": "A"
+  },
+  {
+    "savol": "Qovushqoqlikning SI sistemasidagi o`lchov birligini toping.",
+    "A": "1 Pa∙ s",
+    "B": "1 P s kg",
+    "C": "1 P sG",
+    "D": "1 N",
+    "javob": "A"
+  },
+  {
+    "savol": "Ba'zan Nyuton suyuqliklari qovushokligini nima deb ataladi?",
+    "A": "normal",
+    "B": "anomal",
+    "C": "qovushok",
+    "D": "real suyukliklar",
+    "javob": "A"
+  },
+  {
+    "savol": "Odam qonining qovushqoqligi normada",
+    "A": "4-5 mPa s",
+    "B": "4-15 mPa s",
+    "C": "4-9 mPa s",
+    "D": "5-7 mPa/s",
+    "javob": "A"
+  },
+  {
+    "savol": "Odam qonining qovushqoqligi patologiyada",
+    "A": "1.7-2,29 Pa s",
+    "B": "2.7-22,9 Pa s",
+    "C": "1.7-25,9 Pa s",
+    "D": "0.7-32,9 Pa s",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi holatda qonning qovushqoqligi ortadi?",
+    "A": "og`ir jismoniy mehnat natijasida",
+    "B": "temperatura ko`tarilganda",
+    "C": "temperatura tushganda",
+    "D": "yengil jismoniy mehnat natijasida",
+    "javob": "A"
+  },
+  {
+    "savol": "Qanday yuqumli kasalliklar qon qovushqoqligini oshiradi?",
+    "A": "ishemik kasalliklar, infarkt, qand diabeti",
+    "B": "ateroskleroz, sil kasali,infarkt",
+    "C": "ateroskleroz, sil kasali, qand diabeti",
+    "D": "ateroskleroz, ichterlama, sil kasali",
+    "javob": "A"
+  },
+  {
+    "savol": "Re>Rekr kattalikning fizik ma`nosi nimadan iborat?",
+    "A": "agar Reynolds soni biror kritik qiymatdan katta bo`lsa, unda suyuqlik harakati turbulent bo`ladi",
+    "B": "agar Reynolds soni biror kritik qiymatdan katta bo`lsa, unda suyuqlik harakati laminar bo`ladi",
+    "C": "agar Reynolds soni biror kritik qiymatdan katta bo`lsa, unda suyuqlik harakati turbulent va laminar bo`ladi",
+    "D": "agar Reynolds soni biror kritik qiymatdan katta bo`lsa, unda suyuqlik harakati to`xtaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "SI sistemasida kinematik kovushoqlik birligi:",
+    "A": "1 m2/s",
+    "B": "1 m2/s2",
+    "C": "1 m3/s",
+    "D": "1 m/s",
+    "javob": "A"
+  },
+  {
+    "savol": "Burun bo`shlig`ida havoning normadagi oqimi qanday oqim bo`ladi?",
+    "A": "laminar",
+    "B": "turbulent",
+    "C": "laminar va turbulent",
+    "D": "nostatsionar",
+    "javob": "A"
+  },
+  {
+    "savol": "Tomirlarda ……… yurak qo`shimcha ish bajaradi?",
+    "A": "qonning turbulent turdagi oqimida,",
+    "B": "qonning laminar turdagi, oqimida",
+    "C": "qonning statsionar turdagi oqimida,",
+    "D": "laminar va  turbulent oqimida",
+    "javob": "A"
+  },
+  {
+    "savol": "Tomirlarda ………. hosil bo`ladigan shovqindan diagnostika uchun foydalaniladi?",
+    "A": "qonning, turbulent turdagi oqimida",
+    "B": "qonning laminar turdagi oqimida,",
+    "C": "qonning statsionar turdagi oqimida",
+    "D": "laminar va  turbulent oqimida",
+    "javob": "A"
+  },
+  {
+    "savol": "Jismga tashqi deformatsiyalovchi kuch ta'sir etganda unga qaysi kattalik o`zgaradi?",
+    "A": "atomlar orasidagi masofa",
+    "B": "sterjen qalinligi",
+    "C": "sterjen yon yuzasi",
+    "D": "sterjen kesim yuzasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Turli materiallardagi mustahkamlik chegaarasining sifat jihatdan farq qilishlari nimaga bog`liq?",
+    "A": "molekulyar bog`lanishlar mexanizmiga",
+    "B": "molekulyar bog`lanishlar plastikligiga",
+    "C": "molekulyar bog`lanishlar uzilishiga",
+    "D": "molekulyar bog`lanishlar siljishiga",
+    "javob": "A"
+  },
+  {
+    "savol": "Suyak uchun Yung moduli.",
+    "A": "10 GPa",
+    "B": "101 GPa",
+    "C": "200 GPa",
+    "D": "1000 GPa",
+    "javob": "A"
+  },
+  {
+    "savol": "10 GPa qaysi moddaning Yung moduli",
+    "A": "suyakning",
+    "B": "mushakning",
+    "C": "terining",
+    "D": "rezinaning",
+    "javob": "A"
+  },
+  {
+    "savol": "Suyak to`qimasi massasining qancha qismi noorganik materialdan tashkil topgan?",
+    "A": "2/3 qismi",
+    "B": "2/5 qismi",
+    "C": "2/8 qismi",
+    "D": "2/9 qismi",
+    "javob": "A"
+  },
+  {
+    "savol": "Suyak to`qimasining zichligi ………… kg/m3.",
+    "A": "2400",
+    "B": "3400",
+    "C": "4400",
+    "D": "5400",
+    "javob": "A"
+  },
+  {
+    "savol": "Teri qanday xossaga ega material bo`lib, u yaxshi cho`ziladi?",
+    "A": "yuqori elastiklik xossasiga ega",
+    "B": "yuqori plastiklik xossasiga ega",
+    "C": "yuqori mustahkamlik xossasiga ega",
+    "D": "egiluvchanlik xossasiga ega",
+    "javob": "A"
+  },
+  {
+    "savol": "Qon tomirining cho`zilishida nega uning hajmi o`zgarmaydi?",
+    "A": "devorlari yuzasi ortadi, qalinligi esa kamayadi",
+    "B": "devorlari yuzi ortadi, qalinligi esa ortadi",
+    "C": "devorlari yuzi kamayadi, qalinligi esa kamayadi",
+    "D": "devorlari yuzi kamayadi, qalinligi esa ortadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Kosmik tibbiyotda odam qaysi yangi yashash sharoitida bo`ladi?",
+    "A": "ekstremal",
+    "B": "normal",
+    "C": "yuqori bosimli",
+    "D": "yuqori temperatura",
+    "javob": "A"
+  },
+  {
+    "savol": "Ovqatni ezish paytida yuzaga kelgan qarama – qarshi ta'sir etuvchi qanday kuch– tishlarga ta'sir ko`rsatadi?",
+    "A": "qarshilik kuchi",
+    "B": "parallellik kuchi",
+    "C": "teskari kuchlar",
+    "D": "dinamik kuchlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Qandaydir qattiq jismni tish yordamida chaqish lozim bo`lganda nima uchun odam buni jag` tishlari yordamida amalga oshirishga harakat qiladi?",
+    "A": "chunki bunda qarshilik kuchining yelkasi kamayadi",
+    "B": "chunki bunda plastiklik kuchining yelkasi kamayadi",
+    "C": "chunki bunda dinamik kuchining yelkasi kamayadi",
+    "D": "chunki bunda mexanik kuchining yelkasi kamayadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Tananing massalar markazi qayerda joylashgan?",
+    "A": "tayanch nuqtasidan yuqoriroqda",
+    "B": "tayanch nuqtasidan pastroqda",
+    "C": "tayanch nuqtasidan chetroqda",
+    "D": "tayanch nuqtasiga paralel",
+    "javob": "A"
+  },
+  {
+    "savol": "Organizmning katta qismini nima tashkil etadi?",
+    "A": "suyuqliklar muhiti",
+    "B": "muskullar muhiti",
+    "C": "suyaklar muhiti",
+    "D": "qattiq jismlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Real suyuqliklar oqqanda uning ayrim qatlamlari bir – biriga shu qatlamlarga urinma ko`rinishida yo`nalgan kuchlar bilan ta'sirlashish hodisasi.",
+    "A": "ichki ishqalanish yoki qovushqoqlik",
+    "B": "ichki ishqalanish yoki plastiklik",
+    "C": "ichki elastiklik yoki qovushqoqlik",
+    "D": "ichki ishqalanish yoki elastiklik",
+    "javob": "A"
+  },
+  {
+    "savol": "Suyuqlik oqqanda nimalar o`zaro bir – biriga ta'sir ko`rsatadi?",
+    "A": "molekulalar",
+    "B": "protonlar",
+    "C": "atomlar",
+    "D": "elektronlar",
+    "javob": "A"
+  },
+  {
+    "savol": "……… suyuqlikning holatiga va molekulyar xossalariga bog`liq",
+    "A": "qovushqoqlik",
+    "B": "tezlik gradiyenti",
+    "C": "elastiklik",
+    "D": "elektronlar gradiyenti",
+    "javob": "A"
+  },
+  {
+    "savol": "Nyuton tenglamasiga bo`ysunmaydigan suyuqliklarga ……… deyiladi.",
+    "A": "nonyuton suyuqliklari",
+    "B": "paskal suyuqliklari",
+    "C": "qovushqoq suyuqliklari",
+    "D": "murakkab suyuqliklar",
+    "javob": "A"
+  },
+  {
+    "savol": "Qon qanday suyuqlik hisoblanadi?",
+    "A": "nonyuton suyuqlik",
+    "B": "nyuton suyuqlik",
+    "C": "qovushqoq suyuqlik",
+    "D": "murakkab suyuqlik",
+    "javob": "A"
+  },
+  {
+    "savol": "Suyuqlik ichida harakatlanadigan sharchaga ta'sir qiladigan qarshilik kuchi qaysi qonunga asosan aniqlanadi?",
+    "A": "Stoks qonuni",
+    "B": "Faradey qonuni",
+    "C": "Nyuton qonuni",
+    "D": "Maksvell qonuni",
+    "javob": "A"
+  },
+  {
+    "savol": "Qovushqoqlikni o`lchash usullarining to`plamiga ……………. deyiladi.",
+    "A": "viskozimetriya",
+    "B": "kolorimetriya",
+    "C": "polyarimetriya",
+    "D": "saxarometriya",
+    "javob": "A"
+  },
+  {
+    "savol": "Qovushqoqlikni o`lchash priborlariga ……………. deb aytiladi.",
+    "A": "viskozimetrlar",
+    "B": "kolorimetrlar",
+    "C": "polyarimetrlar",
+    "D": "saxarometrlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Puls to`lqinining tarqalish tezligi",
+    "A": "5 – 10 m/s",
+    "B": "15 – 10 m/s",
+    "C": "0,5 – 10 m/s",
+    "D": "5,8 – 15 m/s",
+    "javob": "A"
+  },
+  {
+    "savol": "Bir sistola davrida puls to`lqini qancha masofaga tarqaladi",
+    "A": "1,5 - 3 m",
+    "B": "1,5 - 13 m",
+    "C": "15 - 13 m",
+    "D": "1,5 - 23 m",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi holatda yurak bir sutka davomida AYu= 86400 J ish bajaradi?",
+    "A": "1s da o`rtacha bir marta qisqaradi deb hisoblasak",
+    "B": "0,1s da o`rtacha bir marta qisqaradi deb hisoblasak",
+    "C": "2s da o`rtacha bir marta qisqaradi deb hisoblasak",
+    "D": "5s da o`rtacha bir marta qisqaradi deb hisoblasak",
+    "javob": "A"
+  },
+  {
+    "savol": "Fizik parametr –…………….. – juda ko`p kasalliklar diagnostikasida katta rol o`ynaydi",
+    "A": "qon bosimi",
+    "B": "qon qovushqoqligi",
+    "C": "qon oqimi",
+    "D": "laminar oqim",
+    "javob": "A"
+  },
+  {
+    "savol": "Elektr toki deganda nimani tushunamiz?",
+    "A": "zaryadlarning yo`naltirilgan harakati",
+    "B": "zaryadlarning harakati",
+    "C": "zaryadlarning xaotik harakati",
+    "D": "zaryadlarning diffuziya harakati",
+    "javob": "A"
+  },
+  {
+    "savol": "Elektr toki necha sinfga bo`linadi?",
+    "A": "o`tkazuvchanlik va konvektsion",
+    "B": "o`tkazuvchanlik toki",
+    "C": "o`tkazuvchanlik va o`zgaruvchan",
+    "D": "o`zgaruvchan va konvektsion",
+    "javob": "A"
+  },
+  {
+    "savol": "……… –bu o`tkazuvchi jismlarda zaryadlarning yo`naltirgan harakatidir",
+    "A": "o`tkazuvchanlik toki",
+    "B": "o`zgaruvchan tok",
+    "C": "o`zgarmas tok",
+    "D": "uyurmali tok",
+    "javob": "A"
+  },
+  {
+    "savol": "O`tkazuvchanlik tokiga qanday zarrachalarning harakati hisobga olinadi",
+    "A": "elektronlar va ionlar",
+    "B": "elektronlar va neytronlar",
+    "C": "atomlar va ionlar",
+    "D": "elektronlar va zarrachalar",
+    "javob": "A"
+  },
+  {
+    "savol": "Odatda tok kuch chiziqlari nimaga bog`liq bo`ladi?",
+    "A": "tok zichlig`iga",
+    "B": "tok kuchiga",
+    "C": "tok trayektoriya siga",
+    "D": "kuchlanishga",
+    "javob": "A"
+  },
+  {
+    "savol": "Tok zichligi – elektr tokining qanday xarakteristikasi",
+    "A": "vektor",
+    "B": "o`tkazuvchan",
+    "C": "doimiy",
+    "D": "vektor",
+    "javob": "A"
+  },
+  {
+    "savol": "Tok kuchi ifodasi",
+    "A": "J = dq/dt",
+    "B": "J = dq/dt2",
+    "C": "J = dq+dt",
+    "D": "J = dq.dt",
+    "javob": "A"
+  },
+  {
+    "savol": "Organizm ichida tok asosan qanday organlar orqali tarqaladi?",
+    "A": "qon va limfatik tomirlar, muskullar v h.k.",
+    "B": "faqat teri orqali",
+    "C": "faqat soch tolalari va tomirlar",
+    "D": "faqat qon limfatik tomirlari",
+    "javob": "A"
+  },
+  {
+    "savol": "To`qima va organlarning elektr o`tkazuvchanligi ularning funktsional holatiga bog`liq bo`lib u qanday maqsadlarga foydalaniladi?",
+    "A": "diagnostik ko`rsatgich sifatida",
+    "B": "davolash ko`rsatgich sifatida",
+    "C": "elektroforez ko`rsatgich sifatida",
+    "D": "diagnostik usul sifatida",
+    "javob": "A"
+  },
+  {
+    "savol": "Yallig`lanish vaqtida hujayralar shishganda qaysi parametr o`zgaradi?",
+    "A": "elektr qarshilik ortadi",
+    "B": "elektr qarshilik kamayadi",
+    "C": "elektr qarshilik o`zgarmaydi",
+    "D": "elektr qarshilik nol bo`ladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Orqa miya suyuqligi solishtirma qarshiligi",
+    "A": "0,55 Om∙sm",
+    "B": "1,55 Om∙sm",
+    "C": "3,55 Om∙sm",
+    "D": "8,55 Om∙sm",
+    "javob": "A"
+  },
+  {
+    "savol": "Qonning solishtirma qarshiligi",
+    "A": "1,66 Om∙sm",
+    "B": "3,66 Om∙sm",
+    "C": "6,66 Om∙sm",
+    "D": "4,66 Om∙sm",
+    "javob": "A"
+  },
+  {
+    "savol": "Miya va nerv to`qimasining solishtirma qarshiligi",
+    "A": "14,3 Om∙sm",
+    "B": "44,3 Om∙sm",
+    "C": "34,3 Om∙sm",
+    "D": "54,3 Om∙sm",
+    "javob": "A"
+  },
+  {
+    "savol": "Gaz qaysi vaqtda izolyator bo`ladi?",
+    "A": "neytral zarrachalardan iborat bo`lsa",
+    "B": "elektrondan iborat bo`lsa",
+    "C": "zarrachalardan iborat bo`lsa",
+    "D": "ionlardan iborat bo`lsa",
+    "javob": "A"
+  },
+  {
+    "savol": "Nima uchun biologik jismlarning elektr xossalari jonsiz ob'yektlarga qaraganda ancha murakkab?",
+    "A": "organizm fazoda o`zgaruvchan kontsentratsiyali ionlar to`plamidir",
+    "B": "organizm fazoda manfiy kontsentratsiyali ionlar to`plamidir",
+    "C": "organizm fazoda musbat ionlar to`plamidir",
+    "D": "organizm fazoda o`zgarmas kontsentratsiyali ionlar to`plamidir",
+    "javob": "A"
+  },
+  {
+    "savol": "Odam organizmining asosiy qismi nimadan iborat?",
+    "A": "suyuqliklardan",
+    "B": "ionlardan",
+    "C": "skletlardan",
+    "D": "qattiq jismdan",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi vaqtda organizmdagi ionlar turli tezlik bilan harakat qiladi?",
+    "A": "elektr maydoni ta'sirida",
+    "B": "gravitatsiya maydoni ta'sirida",
+    "C": "tok ta'sirida",
+    "D": "mexanik ta'sirlarda",
+    "javob": "A"
+  },
+  {
+    "savol": "Domiy tokning birlamchi ta'siri nimaga bog`liq?",
+    "A": "tok kuchiga",
+    "B": "ionlar harakatiga",
+    "C": "elektr maydoniga",
+    "D": "magnit maydoniga",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi holda kichik kuchlanishlarda ham organizm orqali ancha kata tok o`tishi mumkin",
+    "A": "teri nam bo`lganda",
+    "B": "teri quruqligida",
+    "C": "past temperaturada",
+    "D": "yuqori haroratda",
+    "javob": "A"
+  },
+  {
+    "savol": "60-80 V kuchlanishdagi uzluksiz doimiy tokdan davolashning qaysi usulida foydalaniladi?",
+    "A": "galvanizatsiya",
+    "B": "induktotermiya",
+    "C": "elektroforezda",
+    "D": "darsonvalizatsiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Galvanizatsiya usulida necha volt kuchlanish qo`llaniladi?",
+    "A": "60-80V",
+    "B": "60-180V",
+    "C": "160-180V",
+    "D": "40-60V",
+    "javob": "A"
+  },
+  {
+    "savol": "Dori moddalar elektroforezi usuli bilan anionlar qaysi elektrod orqali kiritiladi?",
+    "A": "katod",
+    "B": "anod",
+    "C": "triod",
+    "D": "diod",
+    "javob": "A"
+  },
+  {
+    "savol": "Yuqori chastotali toklar xirurgiyaning qaysi usulida ishlatiladi?",
+    "A": "elektroxirurgiyada",
+    "B": "terapiyada",
+    "C": "darsonvalizatsiyada",
+    "D": "diatermiyada",
+    "javob": "A"
+  },
+  {
+    "savol": "Ultrayuqori chastotali elektr maydonlari qo`llaniladigan fizioterapevtik usul",
+    "A": "UYuCh-terapiya",
+    "B": "UVCH-terapiya",
+    "C": "elektroxirurgiya",
+    "D": "diatermiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Bir- biridan biror masofada joylashgan ikkita teng, lekin qarama-qarshi ishorali nuqtaviy zaryadlar sistemasi",
+    "A": "elektr dipoli",
+    "B": "elektr zaryadlar",
+    "C": "ionlar to`plami",
+    "D": "elektr momenti",
+    "javob": "A"
+  },
+  {
+    "savol": "Tirik to`qimalar qanday elektr kattaliklar manbaidir?",
+    "A": "biopotentsiallar",
+    "B": "elektr maydonlar",
+    "C": "mexinik energiya",
+    "D": "dipollar",
+    "javob": "A"
+  },
+  {
+    "savol": "Yorug`lik tabiati ………… – dualistikdir.",
+    "A": "ikki yoqlama",
+    "B": "har tomonlama",
+    "C": "to`g`ri yoqlama",
+    "D": "uch yoqlama",
+    "javob": "A"
+  },
+  {
+    "savol": "Yorug`lik ham elektromagnit to`lqin, ham zarrachalar - ……… oqimi kabi namoyon bo`ladi.",
+    "A": "fotonlar",
+    "B": "protonlar",
+    "C": "pozitronlar",
+    "D": "elektronlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Yorug`lik elektromagnit tabiatga ega bo`lgani uchun optikani ……… keyin o`rganiladi.",
+    "A": "elektrodinamikadan",
+    "B": "mexanikadan",
+    "C": "yadro fizikasidan",
+    "D": "molekulyar fizikasidan",
+    "javob": "A"
+  },
+  {
+    "savol": "Yorug`lik nurlanishi masalasi ………………. bilan tutashgan va u bilan uzviy bog`liq.",
+    "A": "atom fizikasi",
+    "B": "membranalar fizikasi",
+    "C": "ionlar fizikasi",
+    "D": "kvant fizikasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Yorug`lik to`lqinlarining qo`shilishi natijasida ularning kuchayishi va zaiflanishining turg`un manzarasiga … deyiladi.",
+    "A": "yorug`lik interferentsiyasi",
+    "B": "yorug`lik difraktsiyasi",
+    "C": "yorug`lik golografiyasi",
+    "D": "yorug`lik turg`un nuqtalari",
+    "javob": "A"
+  },
+  {
+    "savol": "Keskin bir jinsli bo`lmagan muhitda, yorug`likning to`g`ri chiziq bo`yicha tarqalishidan chetlashish hodisasiga ………… deyiladi.",
+    "A": "yorug`lik difraktsiyasi",
+    "B": "yorug`lik interferentsiyasi",
+    "C": "yorug`lik golografiyasi",
+    "D": "yorug`lik turg`un nuqtalari",
+    "javob": "A"
+  },
+  {
+    "savol": "Bir – biridan bir xil uzoqlikda joylashgan juda ko`p parallel tirqishlar to`plamidan iborat optik asbobga ………… deyiladi.",
+    "A": "difraktsion panjara",
+    "B": "interferometr",
+    "C": "optik mikroskop",
+    "D": "Goryayeva kamerasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Yassi qutblangan to`lqinni ………… nurlaydi.",
+    "A": "yakka atom",
+    "B": "yakka molekula",
+    "C": "atomlar to`plami",
+    "D": "molekulalar to`plami",
+    "javob": "A"
+  },
+  {
+    "savol": "Tabiiy yorug`likdan qutblangan yorug`likni olishga imkon beruvchi qurilma …………. deyiladi.",
+    "A": "polyarizator",
+    "B": "analizator",
+    "C": "mikroskop",
+    "D": "interferometr",
+    "javob": "A"
+  },
+  {
+    "savol": "Qutblagich orqali tushayotgan yorug`lik intensivligining qanchasi qutblagichdan o`tudi?",
+    "A": "yarmi",
+    "B": "to`liq",
+    "C": "o`tmaydi",
+    "D": "30 foizi",
+    "javob": "A"
+  },
+  {
+    "savol": "Tor ma'noda akustika bu tovush hakidagi, ………. (16 Hz dan 20 000 Hz gacha) gazlar, suyuqlik va qattiq jismlardagi ………… va to`lqinlar haqidagi ta'limotdir.",
+    "A": "ya'ni odam qulog`i qabul qila oladigan, elastik tebranishlar",
+    "B": "plastik tebranishlar, ya'ni odam qulog`i qabul qila oladigan",
+    "C": "ya'ni odam qulog`i qabul qila oladigan, garmonik tebranishlar",
+    "D": "sinusoidal tebranishlar, ya'ni odam qulog`i qabul qila oladigan",
+    "javob": "A"
+  },
+  {
+    "savol": "……… va to`lqinlari –……… xususiy holidir.",
+    "A": "tovush tebranishlari, mexanik tebranish va to`lqinlarning",
+    "B": "mexanik tebranish va to`lqinlarning, elastik tebranishlar",
+    "C": "plastik tebranishlar, mexanik tebranish va to`lqinlarning",
+    "D": "garmonik tebranishlar, mexanik tebranish va to`lqinlarning",
+    "javob": "A"
+  },
+  {
+    "savol": "Davriy jarayondan iborat bo`lgan tovush ……… deb aytiladi",
+    "A": "ton",
+    "B": "shovkin",
+    "C": "zarba",
+    "D": "musika",
+    "javob": "A"
+  },
+  {
+    "savol": "Ton deb nimaga aytiladi?",
+    "A": "davriy jarayondan iborat bo`lgan tovush",
+    "B": "tonlar yoki musiqiy tovushlar",
+    "C": "tovush zarbalari",
+    "D": "shovqinlar, tovush zarbalari",
+    "javob": "A"
+  },
+  {
+    "savol": "………… tebranishlarga murakkab ton mos keladi",
+    "A": "angarmonik",
+    "B": "garmonik",
+    "C": "oddiy yoki sof",
+    "D": "elastik yoki sof",
+    "javob": "A"
+  },
+  {
+    "savol": "Angarmonik tebranishlarga qanday ton mos keladi?",
+    "A": "murakkab ton mos keladi",
+    "B": "garmonikton mos keladi",
+    "C": "oddiy yoki sof ton mos keladi",
+    "D": "elastik yoki sof ton mos keladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Sodda tonli tovushni qanday asbob chiqaradi?",
+    "A": "kamerton",
+    "B": "klarnet",
+    "C": "pionina",
+    "D": "musiqa asbobi",
+    "javob": "A"
+  },
+  {
+    "savol": "Murakkab tonli tovushni qanday asbob chiqaradi?",
+    "A": "Musiqa asboblari",
+    "B": "Gaz gorelkasi",
+    "C": "Barcha tovushlar",
+    "D": "Oddiy yoki garmonik",
+    "javob": "A"
+  },
+  {
+    "savol": "Murakkab tonning muhim fizik xarakteristikasi.",
+    "A": "akustik spektr",
+    "B": "qizil spektr",
+    "C": "infra qizil spektr",
+    "D": "binafsha spektr",
+    "javob": "A"
+  },
+  {
+    "savol": "Vaqt o`tishi bilan takrorlanmaydigan, o`zining murakkabligi bilan farq qiluvchi tovushga ……… deb aytiladi",
+    "A": "shovqin",
+    "B": "ton",
+    "C": "nutq",
+    "D": "spektr",
+    "javob": "A"
+  },
+  {
+    "savol": "Tovush zarbasi nima?",
+    "A": "tovushning qisqa muddatli ta'siridir",
+    "B": "tovushning uzoq muddatli ta'siridir",
+    "C": "elastik yoki sof ton mos keladi",
+    "D": "oddiy yoki sof",
+    "javob": "A"
+  },
+  {
+    "savol": "Tovushning energetik xarakteristikasi.",
+    "A": "intensivlik",
+    "B": "tovush zarba",
+    "C": "shovqinlar",
+    "D": "angarmonik",
+    "javob": "A"
+  },
+  {
+    "savol": "Tovushning subektiv xarakteristikalari",
+    "A": "balandlik va qattiqlik",
+    "B": "tezlik va kattiklik",
+    "C": "balandlik va tarqalish",
+    "D": "chastotasi va qattiqlik",
+    "javob": "A"
+  },
+  {
+    "savol": "Odamning o`rtacha qulog`i normal holda qaysi chastotalarda yetarlicha sezgirlikka ega?",
+    "A": "2500 – 3000 Hz",
+    "B": "25000 – 3000 Hz",
+    "C": "2500 – 30000 Hz",
+    "D": "250 – 3000 Hz",
+    "javob": "A"
+  },
+  {
+    "savol": "Eshitish o`tkirligini aniqlash usuliga ……… deyiladi",
+    "A": "audiometriya",
+    "B": "termometriya",
+    "C": "kolorimetriya",
+    "D": "kardiografiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Shovqin qatiqlik darajasini ob'yektiv o`lchash uchun foydalaniladigan pribor.",
+    "A": "shumomer",
+    "B": "audiometr",
+    "C": "termometr",
+    "D": "kolorimetr",
+    "javob": "A"
+  },
+  {
+    "savol": "Auskultatsiya uchun qo`llaniladigan priborlar",
+    "A": "fonendoskop yoki stetoskop",
+    "B": "kolorimetr yoki stetoskop",
+    "C": "fonendoskop yoki kolorimetr",
+    "D": "termometr yoki stetoskop",
+    "javob": "A"
+  },
+  {
+    "savol": "Fonendoskopning asosiy qismi nimadan iborat?",
+    "A": "kapsula va membrana",
+    "B": "shumomer va membrana",
+    "C": "kapsula va shumomer",
+    "D": "termometr va membrana",
+    "javob": "A"
+  },
+  {
+    "savol": "Ona qornidagi bolaning yurak urishlarini qaysi usul bilan aniqlash mumkin?",
+    "A": "auskultatsiya",
+    "B": "ventilatsiya",
+    "C": "temperatura",
+    "D": "kolorimetriya",
+    "javob": "A"
+  },
+  {
+    "savol": "Yurak ishi faoliyatining holatini diagnostika qilishda auskultatsiya metodiga o`xshash bo`lgan metod",
+    "A": "fonokardiografiya",
+    "B": "ventilatsiya",
+    "C": "temperatura",
+    "D": "kolorimetriya",
+    "javob": "A"
+  },
+  {
+    "savol": "Chastotalari ………… ortiq bo`lgan tebranishlar va to`lqinlarga ultratovush (UT) deyiladi",
+    "A": "20 kHz dan",
+    "B": "20 Hz dan",
+    "C": "50 kHz dan",
+    "D": "60 kHz dan",
+    "javob": "A"
+  },
+  {
+    "savol": "Ultratovush chastotalarining yuqori chegarasi UT tarqalayotgan moddaning qaysi holatiga bog`liq",
+    "A": "agregat holatiga",
+    "B": "gaz holatiga",
+    "C": "suyuklik holatiga",
+    "D": "elektr o`tkazuvchanligiga",
+    "javob": "A"
+  },
+  {
+    "savol": "UT ni generatsiyalashda ……… deb ataladigan qurilmalardan foydalaniladi",
+    "A": "nurlantirgichlar",
+    "B": "nur yutgichlar",
+    "C": "voltimetrlar",
+    "D": "ampermetrlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Qanday effektga asoslangan elektromexanik nurlantirgichlar UT ni hosil qilishda qo`llaniladi?",
+    "A": "teskari p'yezoelektrik",
+    "B": "parallel p'yezoelektrik",
+    "C": "elektr p'yezoelektrik",
+    "D": "shaffof p'yezoelektrik",
+    "javob": "A"
+  },
+  {
+    "savol": "UT hosil qiladigan nurlantirgichlar qaysi materiallardan tayyorlanadi?",
+    "A": "keramik materiallar",
+    "B": "plastmass materiallar",
+    "C": "chugun materiallar",
+    "D": "qo`rg`oshin materiallar",
+    "javob": "A"
+  },
+  {
+    "savol": "UT hosil qiladigan nurlantirgichning sirtiga o`tkazgich qatlam ko`rinishida nima yuritilgan?",
+    "A": "elektrodlar",
+    "B": "datchiklar",
+    "C": "termoelement",
+    "D": "termoparalar",
+    "javob": "A"
+  },
+  {
+    "savol": "UT hosil qilish uchun mexanik to`lqinlarni eng kata nurlantirish effekti qaysi holatda yuz beradi?",
+    "A": "rezonans",
+    "B": "akssado",
+    "C": "statsionar",
+    "D": "turbulent",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi effekt asosida UT priyomnigi yasash mumkin?",
+    "A": "to`g`ri p'yezoeffekt",
+    "B": "teskari p'yezoeffekt",
+    "C": "parallel p'yezoeffekt",
+    "D": "tugri rezonans",
+    "javob": "A"
+  },
+  {
+    "savol": "Nima uchun infratovush yaxshi difraktsiyalanadi va to`siqlarni aylanib o`tib binolar ichiga kira oladi?",
+    "A": "to`lqin uzunligi eshitiladigan tovushnikidan katta",
+    "B": "to`lqin uzunligi eshitiladigan tovushnikidan kichik",
+    "C": "to`lqin uzunligi eshitiladigan tovushnikiga teng",
+    "D": "tebranish chastotasi eshitiladigan tovushnikidan katta",
+    "javob": "A"
+  },
+  {
+    "savol": "Infratovush organizmning bir qator sistemalari funktsional holatlariga yomon ta'siri natijasida qanday salbiy ko`rsatgichlar paydo bo`ladi?",
+    "A": "charchash, bosh og`rig`i, uyquchilik, jahl chiqishi",
+    "B": "charchash, bosh og`rig`i, uykuchilik, xush kayfiyat",
+    "C": "charchamaslik, bosh og`rig`i, uykuchilik, jahl chiqishi",
+    "D": "dam olish, bosh og`rig`i, uykuchilik, jahl chiqishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Odam gavdasining xususiy tebranishlar chastotasi, gavdaning yotgan holida qancha?",
+    "A": "3 - 4 Hz",
+    "B": "1 - 6 Hz",
+    "C": "13 - 14 Hz",
+    "D": "23 - 24 Hz",
+    "javob": "A"
+  },
+  {
+    "savol": "Odam gavdasining xususiy tebranishlar chastotasi, turgan holida qancha?",
+    "A": "5 - 12 Hz",
+    "B": "3 - 14 Hz",
+    "C": "13 - 14 Hz",
+    "D": "23 - 24 Hz",
+    "javob": "A"
+  },
+  {
+    "savol": "Vibratsiyaning davolash maqsadida fodalanilishi nima deb aytiladi?",
+    "A": "vibromassaj",
+    "B": "vibratsiya kasalligini",
+    "C": "yuqumli kasalligini",
+    "D": "qand kasalligini",
+    "javob": "A"
+  },
+  {
+    "savol": "Tibbiyotda yopishqoqlikni aniqlash uchun ishlatiladigan asbob",
+    "A": "viskozimetr",
+    "B": "ampermetr",
+    "C": "galvanometr",
+    "D": "kalorimetr",
+    "javob": "A"
+  },
+  {
+    "savol": "Qonning qaysi shakliy elementlari uning yopishqoqligini ta'minlaydi?",
+    "A": "eritrotsitlar",
+    "B": "leykotsitlar",
+    "C": "trombotsitlar",
+    "D": "eritrotsitlar va leykotsitlar",
+    "javob": "A"
+  },
+  {
+    "savol": "1 Pa·s necha puazga teng:",
+    "A": "10",
+    "B": "1",
+    "C": "0, 1",
+    "D": "100",
+    "javob": "A"
+  },
+  {
+    "savol": "Laminar oqimda suyuqlik qatlam-qatlam bo`lib oqadi va qatlamlar",
+    "A": "aralashmaydi",
+    "B": "aralashib ketadi",
+    "C": "harakati tezlashadi",
+    "D": "harakati sekinlashadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Suyuqlikning turbulent oqimi uyurmali bo`lib, bunda",
+    "A": "shovqin hosil bo`ladi",
+    "B": "suyuqlik tezligi ortadi",
+    "C": "suyuqlik oqimi statsionar bo`ladi",
+    "D": "Reynolds soni nolga teng",
+    "javob": "A"
+  },
+  {
+    "savol": "Reynolds soni uning kritik qiymatidan kichik bo`lsa, suyuqlik oqimi",
+    "A": "laminar bo`ladi",
+    "B": "turbulent bo`ladi",
+    "C": "nostatsionar bo`ladi",
+    "D": "uyurmali bo`ladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Reynolds soni uning kritik qiymatidan katta bo`lsa, suyuqlik oqimi",
+    "A": "turbulent bo`ladi",
+    "B": "laminar bo`ladi",
+    "C": "statsionar bo`ladi",
+    "D": "o`zgarmas bo`ladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qonning arteriya bo`ylab normal holdagi oqimi",
+    "A": "laminar",
+    "B": "turbulent",
+    "C": "sekinlanuvchan",
+    "D": "uyurmali",
+    "javob": "A"
+  },
+  {
+    "savol": "Suyuqlikning temperaturasi ortishi bilan uning yopishqoqligini o‘zgarishiga sabab:",
+    "A": "molekulalararo kuchlarni o‘zgarishi",
+    "B": "bosim gradiyentini o‘zgarishi",
+    "C": "suyuqlik tarkibini o‘zgarishi",
+    "D": "tezlik gradiyentining o‘zgarishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Suyuqlik yopishqoqligi mavjudligiga sabab",
+    "A": "molekulyar qatlamlar orasidagi ishqalanish kuchi",
+    "B": "gidrodinamik bosim mavjudligi",
+    "C": "gidrostatik bosim mavjudligi",
+    "D": "undagi tezlik gradiyenti",
+    "javob": "A"
+  },
+  {
+    "savol": "Viskozimetrning ishlash prinsipi qaysi qonunga asoslangan?",
+    "A": "Puazeyl",
+    "B": "Stoks",
+    "C": "Reynolds",
+    "D": "Nyuton",
+    "javob": "A"
+  },
+  {
+    "savol": "Sirt taranglik koeffitsiyentining SI sistemadagi o‘lchov birligi:",
+    "A": "N/m",
+    "B": "dn/sm",
+    "C": "Pa·s",
+    "D": "Puaz",
+    "javob": "A"
+  },
+  {
+    "savol": "Ingichka naylarda suyuqlik sathini qo‘shimcha bosim ta`sirida ko‘tarilishi yoki pasayishi ... deyiladi.",
+    "A": "kapillyarlik",
+    "B": "ho‘llash",
+    "C": "ho‘llamaslik",
+    "D": "diffuziya",
+    "javob": "A"
+  },
+  {
+    "savol": "Ho‘llaydigan suyuqlikka kapillyar nay tushirilsa, undagi suyuqlik sathi",
+    "A": "ko‘tariladi",
+    "B": "pastga tushadi",
+    "C": "o‘zgarmaydi",
+    "D": "ko‘tarilishi ham, pastga tushishi ham mumkin",
+    "javob": "A"
+  },
+  {
+    "savol": "Ho‘llamaydigan suyuqlikka kapillyar nay tushirilsa, undagi suyuqlik sathi",
+    "A": "pastga tushadi",
+    "B": "ko‘tariladi",
+    "C": "o‘zgarmaydi",
+    "D": "ko‘tarilishi ham, pastga tushishi ham mumkin",
+    "javob": "A"
+  },
+  {
+    "savol": "Kapillyarlarda botiq menisk qachon hosil bo‘ladi:",
+    "A": "ho‘llashda",
+    "B": "ho‘llamaslikda",
+    "C": "to‘la xo‘llashda",
+    "D": "chegaaraviy burchak birga teng bo‘lganda",
+    "javob": "A"
+  },
+  {
+    "savol": "Kapillyarda kavarik menisk qachon hosil bo‘ladi:",
+    "A": "ho‘llamaslikda",
+    "B": "ho‘llashda",
+    "C": "to‘la ho‘llashda",
+    "D": "chegaaraviy burchak kosinusi birga teng bo‘lsa",
+    "javob": "A"
+  },
+  {
+    "savol": "Sirt taranglik koeffitsiyenti qanday ifodalanadi?",
+    "A": "F/l",
+    "B": "F·l",
+    "C": "F/S",
+    "D": "q/l",
+    "javob": "A"
+  },
+  {
+    "savol": "Sirtni ho‘llaydigan suyuqliklar uchun chegaaraviy burchak",
+    "A": "o‘tkir",
+    "B": "o‘tmas",
+    "C": "nolga teng",
+    "D": "90 gradus",
+    "javob": "A"
+  },
+  {
+    "savol": "Zichlik nima?",
+    "A": "hajm birligidagi massa",
+    "B": "ichki ishqalanish",
+    "C": "yuza birligiga ta`sir etuvchi kuch",
+    "D": "inertlik o‘lchovi",
+    "javob": "A"
+  },
+  {
+    "savol": "Zichlik temperaturaga qanday bog‘liq (metallar uchun)?",
+    "A": "teskari proporsional",
+    "B": "to‘g‘ri proporsional",
+    "C": "temperatura kvadratiga proporsional",
+    "D": "temperatura kvadratiga teskari proporsional",
+    "javob": "A"
+  },
+  {
+    "savol": "Sistola davrida yuzaga keladigan yuqori bosimli to‘lqinga … deyiladi.",
+    "A": "puls to‘lqini",
+    "B": "puls tezligi",
+    "C": "tomir zo‘riqishi",
+    "D": "puls kuchi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qon aylanishining ekvivalent elektrik sxemasida to‘g‘rilagich nima vazifasini bajaradi:",
+    "A": "yurak klapani",
+    "B": "yurak",
+    "C": "aorta",
+    "D": "arteriya",
+    "javob": "A"
+  },
+  {
+    "savol": "Qon aylanishining ekvivalent elektrik sxemasida kondensator nimaga o‘xshash bo‘ladi:",
+    "A": "aorta va arteriyaga",
+    "B": "kapillyarlarga",
+    "C": "yurakka",
+    "D": "o‘pkaga",
+    "javob": "A"
+  },
+  {
+    "savol": "Qon aylanishining ekvivalent elektrik sxemasida rezistor nimani o‘rnini egaallaydi:",
+    "A": "qon tomir sistemasi",
+    "B": "arteriya",
+    "C": "vena",
+    "D": "aorta",
+    "javob": "A"
+  },
+  {
+    "savol": "Tinch holatda yurakning bir marta qisqarishida bajargan ishi son jihatdan necha Joul:",
+    "A": "1",
+    "B": "0,5",
+    "C": "1,5",
+    "D": "2",
+    "javob": "A"
+  },
+  {
+    "savol": "Yurakning bir marta qisqarishidagi quvvati necha vattga teng:",
+    "A": "3,3",
+    "B": "1,1",
+    "C": "1,3",
+    "D": "5",
+    "javob": "A"
+  },
+  {
+    "savol": "Qonning sistolik bosimi qachon yuzaga keladi:",
+    "A": "yurak muskullarining qisqarishida",
+    "B": "yurak muskullarining tebranishida",
+    "C": "yurak muskullarining cho‘zilishida",
+    "D": "barcha javoblar to‘g‘ri",
+    "javob": "A"
+  },
+  {
+    "savol": "Deformatsiya bu, jism o‘lchamlari va hajmining o‘zgarishi bo‘lib, u quyidagi ta`sir natijasida hosil bo‘ladi",
+    "A": "kuch",
+    "B": "bosim",
+    "C": "temperatura",
+    "D": "og‘irlik kuchi",
+    "javob": "A"
+  },
+  {
+    "savol": "Mexanik kuchlanish deb, perpendikulyar ravishda jismning ko‘ndalang kesimi birlik yuzasiga ta`sir qiluvchi ... aytiladi.",
+    "A": "kuchga",
+    "B": "bosimga",
+    "C": "elastiklik moduliga",
+    "D": "ishqalanish kuchi",
+    "javob": "A"
+  },
+  {
+    "savol": "Elastiklik chegarasi nima?",
+    "A": "elastik xususiyatni saqlab qolishdagi eng katta kuchlanish",
+    "B": "eng katta deformatsiyalovchi kuch",
+    "C": "eng katta deformatsiyalovchi kuchlanish",
+    "D": "buzilish holatidagi ta`sir etuvchi kuch",
+    "javob": "A"
+  },
+  {
+    "savol": "Mustahkamlik chegaarasi bu:",
+    "A": "buzilish nuqtasiga to‘g‘ri keladigan kuchlanish",
+    "B": "buzilish nuqtasiga to‘g‘ri keladigan kuch",
+    "C": "jismni buzilishga olib keladigan kuch",
+    "D": "jismni buzilishiga sabab bo‘ladigan kuchlanish",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar kuch ta`siri to‘xtagandan so‘ng qattiq jismda qoldiq deformatsiya bo‘lmasa, u ... deyiladi.",
+    "A": "elastik deformatsiya",
+    "B": "plastik deformatsiya",
+    "C": "yopishqoqlik",
+    "D": "oquvchanlik",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar kuch ta`siri to‘xtagandan so‘ng qattiq jismda qoldiq deformatsiya bo‘lsa, u ... deyiladi.",
+    "A": "plastik deformatsiya",
+    "B": "elastik deformatsiya",
+    "C": "yopishqoqlik",
+    "D": "oquvchanlik",
+    "javob": "A"
+  },
+  {
+    "savol": "Qattiq jismlar quyidagi mexanik xossalarga ega:",
+    "A": "elastiklik, plastiklik, mo`rtlik",
+    "B": "faqat elastiklik",
+    "C": "elastiklik va mo`rtlik",
+    "D": "elastiklik va plastiklik",
+    "javob": "A"
+  },
+  {
+    "savol": "Jism uzunligini ikki marta uzaytirish uchun zarur kuchlanishga son jihatdan teng kattalik:",
+    "A": "Yung moduli",
+    "B": "kuch",
+    "C": "nisbiy deformatsiya",
+    "D": "mustahkamlik chegaarasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Nisbiy deformatsiyaning o‘lchov birligi:",
+    "A": "o‘lchovsiz kattalik",
+    "B": "metr",
+    "C": "Pa",
+    "D": "N/m",
+    "javob": "A"
+  },
+  {
+    "savol": "Muskullarning izotonik qisqarishi ularning",
+    "A": "uzunligini kamayishi",
+    "B": "uzunligining o‘zgarmay qolishi",
+    "C": "uzunligining ortishi",
+    "D": "uzilishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Muskullarning izometrik qisqarishi ularning…….",
+    "A": "uzunligini o‘zgarmay qolishi",
+    "B": "uzunligini kamayishi",
+    "C": "uzunligini ortishi",
+    "D": "uzilishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Bir marta to‘liq tebranish uchun ketgan vaqtga miqdor jihatdan teng kattalik:",
+    "A": "tebranish davri",
+    "B": "tebranish chastotasi",
+    "C": "to‘lqin uzunligi",
+    "D": "amplituda",
+    "javob": "A"
+  },
+  {
+    "savol": "Vaqt birligidagi tebranishlar soniga teng bo‘lgan kattalik:",
+    "A": "tebranish chastotasi",
+    "B": "tebranish davri",
+    "C": "to‘lqin uzunligi",
+    "D": "fazalar farqi",
+    "javob": "A"
+  },
+  {
+    "savol": "Tovush qanday to‘lqin:",
+    "A": "bo‘ylama",
+    "B": "ko‘ndalang",
+    "C": "garmonik",
+    "D": "yuguruvchi",
+    "javob": "A"
+  },
+  {
+    "savol": "Garmonik tebranma harakatda siljish quyidagicha o‘zgaradi:",
+    "A": "sin va cos qonuni bo‘yicha",
+    "B": "eksponensial",
+    "C": "har-xil",
+    "D": "bir xil davrda",
+    "javob": "A"
+  },
+  {
+    "savol": "Temperatura oshishi bilan tovush tezligi:",
+    "A": "ortadi",
+    "B": "kamayadi",
+    "C": "o‘zgarmaydi",
+    "D": "eksponensial ko‘rinishda ortadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ikki tomoni sferik sirt bilan chegaralangan shaffof jismga …. deyiladi",
+    "A": "linza",
+    "B": "ko'zgu",
+    "C": "shisha",
+    "D": "diafragma",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko`zda tasvirning to`r pardadan oldinda hosil bo`lishi … deyiladi.",
+    "A": "miyopiya",
+    "B": "gipermetropiya",
+    "C": "katarakta",
+    "D": "astigmatizm",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko`zda tasvirning to`r pardadan o`tib hosil bo`lishi … deyiladi",
+    "A": "gipermetropiya",
+    "B": "miyopiya",
+    "C": "katarakta",
+    "D": "astigmatizm",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko`z shox pardasining turli qismlarining turlicha nur sindirishi  … deyiladi.",
+    "A": "astigmatizm",
+    "B": "gipermetropiya",
+    "C": "miyopiya",
+    "D": "katarakta",
+    "javob": "A"
+  },
+  {
+    "savol": "Adiabatik jarayon deb, (...) jarayonga aytiladi.",
+    "A": "tashqi muhit bilan issiqlik almashmaydigan",
+    "B": "doimiy temperaturada o‘tuvchi",
+    "C": "doimiy bosimda o‘tuvchi",
+    "D": "tashqi muhit bilan issiqlik almashinuvchi",
+    "javob": "A"
+  },
+  {
+    "savol": "Sistemaga berilgan isssiqlik miqdori uning ichki energiasining o`zgarishiga va tashqi kuchlarga qarshi bajarilgan ishiga sarflanadi. Bu ta`rif…",
+    "A": "Termodinamikaning I qonuni",
+    "B": "Termodinamikaning II qonuni",
+    "C": "Issiqlik balansi",
+    "D": "Adiabatik jarayon",
+    "javob": "A"
+  },
+  {
+    "savol": "Inson yashaydigan muhitning nisbiy namligi normada necha % bo`lishi kerak",
+    "A": "40-60",
+    "B": "60-80",
+    "C": "20-30",
+    "D": "70-80",
+    "javob": "A"
+  },
+  {
+    "savol": "UT ning qanday xossasi davolash uchun birinchi omil hisoblanadi",
+    "A": "issiqlik effekti",
+    "B": "chastotaning qiymati",
+    "C": "inersiya xossasi",
+    "D": "to'lqin uzunligi kichikligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko`zda qanday tasvir hosil bo`ladi",
+    "A": "kichiklashgan, teskari va haqiqiy",
+    "B": "kichiklashgan, teskari va mavhum",
+    "C": "kichiklashgan, to`g`ri va mavhum",
+    "D": "kichiklashgan, to`g`ri va haqiqiy",
+    "javob": "A"
+  },
+  {
+    "savol": "Ob`yektlarni ko`rish vaqtida ko`z gavhari o`lchamining o`zgarishi … deyiladi",
+    "A": "akkomodatsiya",
+    "B": "moslashish",
+    "C": "miyopiya",
+    "D": "astiigmatizm",
+    "javob": "A"
+  },
+  {
+    "savol": "Rentgen nurlanishi qanday zarrachalarning keskin tozmozlanishi hisobiga hosil bo`ladi",
+    "A": "tezlatilgan elektronlar",
+    "B": "tezlatilgan pozitron",
+    "C": "tezlatilgan proton",
+    "D": "tezlatilgan neytron",
+    "javob": "A"
+  },
+  {
+    "savol": "Tabiatda nechta o`zaro ta`sir maydonlari mavjud",
+    "A": "4 ta",
+    "B": "2 ta",
+    "C": "5 ta",
+    "D": "3 ta",
+    "javob": "A"
+  },
+  {
+    "savol": "O`zaro ta`sir maydonlaridan qaysi biri eng kuchli ta`sirga ega",
+    "A": "yadroviy maydon",
+    "B": "elektr maydon",
+    "C": "magnit maydon",
+    "D": "gravitatsion maydon",
+    "javob": "A"
+  },
+  {
+    "savol": "Insonni tok urishi nechta darajada bo`ladi",
+    "A": "4 ta",
+    "B": "3 ta",
+    "C": "2 ta",
+    "D": "5 ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Muskullar qisqaradi, inson hushini yo`qotadi, ammo yurak va nafas olish faoliyati ishlab turadi. Bu tok urishining qaysi darajasi",
+    "A": "II",
+    "B": "I",
+    "C": "III",
+    "D": "IV",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi apparat yurak aritmiyasini davolashda qo`llaniladi",
+    "A": "defibrilator",
+    "B": "elektrokardiograf",
+    "C": "elektroforez",
+    "D": "avantron",
+    "javob": "A"
+  },
+  {
+    "savol": "Yorug`likning korpuskulyar nazariyasi asoschisi",
+    "A": "I.Nyuton",
+    "B": "X.Gyugens",
+    "C": "M.Faradey",
+    "D": "J.Maksvell",
+    "javob": "A"
+  },
+  {
+    "savol": "Gyuygensning to`lqin nazariyasi asosiy kamchiligi nimada",
+    "A": "olam efiri",
+    "B": "yorug`likni to`lqin deb qarash",
+    "C": "yorug'likning qanday to`lqin ekanligi",
+    "D": "kamchiliksiz edi",
+    "javob": "A"
+  },
+  {
+    "savol": "Yorug`lik tezligini birinchi bo`lib kim qanday usulda aniqlagan",
+    "A": "Ryomer, astronomik usulda",
+    "B": "Fizo,  tishli g`ildirak usulida",
+    "C": "Maksvell, sakkiz qirrali ko`zgu usulida",
+    "D": "Ryomer, tishli g`ildirak usulida",
+    "javob": "A"
+  },
+  {
+    "savol": "Atom musbat zaryadlangan shar shaklida bo‘lib, zaryadi shar hajmi bo‘yicha bir xil taqsimlangan. Bu sharning ichida elektronlar joylashgan. Bu kimning modeli",
+    "A": "J.Tomson",
+    "B": "E.Rezerford",
+    "C": "M.Faradey",
+    "D": "Demokrit",
+    "javob": "A"
+  },
+  {
+    "savol": "Atom markazida musbat zaryadli yadro joylashgan bo‘lib, yengil elektronlar uning atrofida aylanadi. Atomning deyarli hamma massasi yadroda to‘plangan. Bu kimning modeli",
+    "A": "E.Rezerford",
+    "B": "J.Tomson",
+    "C": "M.Plank",
+    "D": "A. Eynshteyn",
+    "javob": "A"
+  },
+  {
+    "savol": "Protonning massasi elektronning massasidan necha marta katta",
+    "A": "1836,3",
+    "B": "1836,6",
+    "C": "1838",
+    "D": "1836,8",
+    "javob": "A"
+  },
+  {
+    "savol": "Nuklonlar soni bilan farqlanuvchi bir xil kimyoviy elementning turlari … deyiladi",
+    "A": "izotoplar",
+    "B": "izotonlar",
+    "C": "izobarlar",
+    "D": "o'xshash elmentlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Turg`un bo`lmagan yadrolarning boshqa yadrolar yoki еlementar zarrachalar chiqarish bilan kechadigan o`z-o`zidan parchalanishiga … deyiladi",
+    "A": "radioaktivlik",
+    "B": "elementning o`zgarishi",
+    "C": "nurlanish",
+    "D": "yadroviy parchalanish",
+    "javob": "A"
+  },
+  {
+    "savol": "Nurlangan moddaga berilgan еnergiyaning shu modda massasiga nisbati",
+    "A": "nurlanish dozasi",
+    "B": "radioaktivlik",
+    "C": "solishtirma massa",
+    "D": "yadroviy kuch",
+    "javob": "A"
+  },
+  {
+    "savol": "Ionlovchi nurlarning jonli va jonsiz tabiat obʼyektlariga taʼsirini ifodalaydigan fizik miqdorlarni oʻrganadigan soha",
+    "A": "dozimetriya",
+    "B": "termometriya",
+    "C": "kalorimetriya",
+    "D": "elektronika",
+    "javob": "A"
+  },
+  {
+    "savol": "Anigilatsiya nima",
+    "A": "zarra va antizarra to`qnashishidan 2 gamma kvant hosil bo`lishi",
+    "B": "zarra va antizarra to`qnashishidan betta nurlanish hosil bo`lishi",
+    "C": "elektron va proton to`qnashishi",
+    "D": "radioaktiv nurlanish",
+    "javob": "A"
+  },
+  {
+    "savol": "Disk churrasini aniqlash uchun qanday turdagi tamografiyani qo`llash afzal",
+    "A": "MRT",
+    "B": "MSKT",
+    "C": "KT",
+    "D": "PET",
+    "javob": "A"
+  },
+  {
+    "savol": "Magnit bo`roni inson qon-tomir sistemasiga qanday ta`sir qiladi",
+    "A": "qonni oqimini sekinlashtiradi",
+    "B": "qonni oqimini tezlashtiradi",
+    "C": "qon oqimiga ta`sir etmaydi",
+    "D": "yurak faoliyatiga ta`sir qiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Atmosfera bosimi qanday hosil bo`ladi",
+    "A": "atmosferadagi zarralarning Yerga tortilishidan",
+    "B": "atmosferadagi zarralarning o`zaro ta`siridan",
+    "C": "atmosferadagi kislorod hisobiga",
+    "D": "azon qatlami hosil qiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qo`zg`atilgan atomlardan chiqadigan va bir necha marta kuchaytiriladigan nurlanish",
+    "A": "lazer nurlanishi",
+    "B": "radioaktiv nurlanish",
+    "C": "infraqizil nurlanish",
+    "D": "rentgen nurlanishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Tanometr qanday birlikda qon bosimi o`lchaydi",
+    "A": "mm.sim.ust",
+    "B": "kPa",
+    "C": "sm.sim.ust",
+    "D": "bar",
+    "javob": "A"
+  },
+  {
+    "savol": "Issiqlik o'z-o'zidan harorati past bo‘lgan jismdan harorati yuqori bo'lgan jismga o'ta olmaydi. Bu qanday qonuniyat va kim ta`riflagan",
+    "A": "Termodinamikaning II qonuni, Klauzius ta`rifi",
+    "B": "Termodinamikaning II qonuni, Tomson ta`rifi",
+    "C": "Termodinamikaning I qonuni, Klauzius ta`rifi",
+    "D": "Termodinamikaning II qonuni, Bolsman ta`rifi",
+    "javob": "A"
+  },
+  {
+    "savol": "Elektr kuchlanishi necha voltdan oshganda inson uchun xavfli ta`sir kuzatili boshlanadi",
+    "A": "42",
+    "B": "220",
+    "C": "120",
+    "D": "60",
+    "javob": "A"
+  },
+  {
+    "savol": "Inson tanasidagi biotok qanday turdagi tokka misol bo`ladi",
+    "A": "konveksion tok",
+    "B": "o'tkazuvchalik toki",
+    "C": "o'zgarmas tok",
+    "D": "Inson tanasida tok mavjud emas",
+    "javob": "A"
+  },
+  {
+    "savol": "MRT nimaning hisobiga tamografiyani olib beradi",
+    "A": "inson tanasidagi suv molekulalarining magnit maydon bilan ta`sirlashuvi hisobiga",
+    "B": "inson tanasidagi temir  elementining magnit maydon bilan ta`sirlashuvi hisobiga",
+    "C": "inson tanasidagi tuzlarning magnit maydon bilan ta`sirlashuvi hisobiga",
+    "D": "inson tanasidagi  oqsillarning magnit maydon bilan ta`sirlashuvi hisobiga",
+    "javob": "A"
+  }
+]
