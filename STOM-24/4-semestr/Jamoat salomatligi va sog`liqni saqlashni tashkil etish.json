@@ -1,0 +1,2242 @@
+[
+  {
+    "savol": "Jamoat salomatligi va sog`liqni saqlashni boshqarish fani nimani o`rganadi?",
+    "A": "Jamoat salomatligini, unga ta`sir etuvchi omillarni, sog`liqni saqlashni tashkil etish va boshqarish masalalarini",
+    "B": "Inson xayotiga tasir etuvchi xavfli omillarni va inson organizmidagi kasalliklarni yo`q qilish usullarini",
+    "C": "Jamiyat fanlaridan biri bo`lib, u jamiyat orasida uchraydigan hodisalarning miqdor o`zgarishlarini o`rganadi",
+    "D": "Jamiyat fanlaridan biri bo`lib, kasalliklarning uchrash chastotasini aniqlaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "JSSSBning boshqa klinik fanlardan farqi nimada",
+    "A": "Bir shaxs emas butun jamoa bilan ishlaydi",
+    "B": "Har bir hududdagi yakka individlarni solishtiradi",
+    "C": "Tibbiyot fani emas iqtisodiy fan sifatida tushuniladi",
+    "D": "Yuqorida ko`rsatilganlarning barchasi to`g`ri",
+    "javob": "A"
+  },
+  {
+    "savol": "Jamoat salomatligi va sog`liqni saqlashni boshqarish fanining ikkinchi vazifasini ko`rsating:",
+    "A": "O`zbekiston Respublikasi hukumatining sog`liqni saqlash borasidagi siyosatini nazariy asoslash",
+    "B": "Jamoat salomatligini o`rganish usullari va unga ta`sir etuvchi ijtimoiy shart sharoitlarini o`rganish",
+    "C": "Jamoat salomatligini o`rganish va baholash usullari, sog`liqni saqlashni tashkil etish va boshqarish",
+    "D": "Sog`liqni saqlashni boshqaruv tizimini ishlab chiqish va takomillashtirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Jamoat salomatligi va sog`liqni saqlashni boshqarish fanining to`rtinchi vazifasini ko`rsating:",
+    "A": "Tibbiyot xodimlarini zamon talablariga mos holda tayorlash va qayta tayorlash",
+    "B": "Saog`liqni saqlash tizimining yangicha qonunchilik tizimini ishlab chiqish",
+    "C": "Tibbiy sug`urtalash bo`yicha amaliyotni yo`lga qo`yish",
+    "D": "Jamoat salomatligini o`rganish usullari va unga ta`sir etuvchi ijtimoiy shart sharoitlarini o`rganish",
+    "javob": "A"
+  },
+  {
+    "savol": "JSSSBning bo`limlari berilgan qatorni toping",
+    "A": "Biostatistika, menejmentlik, tibbiy sug`urtalash",
+    "B": "Biostatistika, eksperimental, xronografiya",
+    "C": "Menejmentlik, eksperimental, xronografiya",
+    "D": "Tibbiy sug`urtalash, eksperimental, xronografiya",
+    "javob": "A"
+  },
+  {
+    "savol": "JSSSBning tadqiqot usullarini belgilang",
+    "A": "Statistik, tarixiy, ekspert baholash, iqtisodiy, eksperiment, sostiologik usullar",
+    "B": "Maxsus kuzatuv, anketa so`rov, instrumental usul, statistik usul",
+    "C": "Salomatlik va kasallik (xastalik) ni baholash, eksperiment, jamlash",
+    "D": "Individual, guruhlash, mintaqaviy solishtirish, tarixiy usul",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi tadqiqot usuli so`rovnoma o`tkazishga asoslangan?",
+    "A": "Sotsiologik",
+    "B": "Eksperimental",
+    "C": "Ekspert baholash",
+    "D": "Iqtisodiy",
+    "javob": "A"
+  },
+  {
+    "savol": "Tibbiy-ijtimoiy tadqiqotlarda aholi salomatligi nechta darajadan iborat",
+    "A": "4 ta",
+    "B": "3 ta",
+    "C": "2 ta",
+    "D": "5 ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Tibbiy-ijtimoiy tadqiqotlardagi aholi salomatligi guruhlari qaysilar",
+    "A": "Individ, guruh, hududiy, jamoat salomatliklari",
+    "B": "Shaxs, oila, mahalla, davlat salomatliklari",
+    "C": "Individ, oila, davlat salomatliklari",
+    "D": "Shaxs, guruh, mahalla salomatliklari",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi aholi salomatligi guruhi ma’lum bir mintaqa aholisi salomatligini ko`rsatadi?",
+    "A": "hududiy salomatlik",
+    "B": "individ salomatligi",
+    "C": "guruh salomatligi",
+    "D": "jamoat salomatligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Aholi salomatligini baholash me`zonlari necha xil",
+    "A": "4 xil",
+    "B": "5 xil",
+    "C": "3 xil",
+    "D": "6 xil",
+    "javob": "A"
+  },
+  {
+    "savol": "Aholi salomatligini baholash me`zonlari qaysilar?",
+    "A": "demografiya, kasallanish, nogironlik, jismoniy rivojlanish",
+    "B": "klinika, tibbiy byudjet, demografiya, kasallanish",
+    "C": "tibbiy madaniyat, dispanserlar, nogironlik, jismoniy rivojlanish",
+    "D": "tibbiy qonunlar, aholi soni, kasallanish, nogironlik",
+    "javob": "A"
+  },
+  {
+    "savol": "Epidemiologiya nima",
+    "A": "Ma`lum bir kasalliklarni aholi orasida ommaviy tarqalishi",
+    "B": "Bir individni bir nechta kasalliklar bilan yoppasiga kasallanishi",
+    "C": "Bitta bemorga bitta infeksiyani qayta-qayta yuqishi",
+    "D": "Faqat yuqumsiz kasalliklarni aholi orasida ommaviy tarqalishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Epidemiologik tahlil deganda nimani tushunasiz",
+    "A": "Bir hududda epidemiologik jarayon tarqalish qonuniyatlari va sabablarini o`rganish",
+    "B": "Ma`lum bir yuqumli kasallikning patogenezini o`rganish",
+    "C": "Ma`lum bir yuqumli kasallikning etiologik jihatlarini o`rganish",
+    "D": "Ma`lum bir yuqumli kasallikning tarqalish va yuqish mexanizmlarini o`rganish",
+    "javob": "A"
+  },
+  {
+    "savol": "Epidemiologiya turlarini ko`rsating",
+    "A": "Infeksion, noinfeksion, klinik epidemiologiya",
+    "B": "Farmakoepidemiologiya, ekoepidemiologiya, patalogoepidemiologiya",
+    "C": "Farmakoepidemiologiya, patalogoepidemiologiya, infeksion epidemiologiya",
+    "D": "Ekoepidemiologiya, patalogoepidemiologiya, klinik epidemiologiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Tibbiy-demografik ko`rsatkichlarga nimalar kiradi",
+    "A": "Tug`ilish, o`lim, tabiiy o`sish",
+    "B": "Bolalar o`limi, onalar o`limi, statistika",
+    "C": "Fertillik, o`rtacha umr yoshi, statistika",
+    "D": "Tug`ilish, o`lim, nogironlik",
+    "javob": "A"
+  },
+  {
+    "savol": "Kasallanish ko`rsatkichlari necha tur bo`ladi",
+    "A": "3 tur",
+    "B": "4 tur",
+    "C": "2 tur",
+    "D": "5 tur",
+    "javob": "A"
+  },
+  {
+    "savol": "Kasallanish ko`rsatkichlari qaysilar",
+    "A": "Birlamchi, umumiy, patologik zararlanish",
+    "B": "O`tkir, surunkali, rekonvallessent",
+    "C": "Birlamchi, umumiy, nogironlik",
+    "D": "O`tkir, umumiy, nogironlik",
+    "javob": "A"
+  },
+  {
+    "savol": "Biostatistika necha qismga bo`linadi?",
+    "A": "2 qism",
+    "B": "4 qism",
+    "C": "6 qism",
+    "D": "8 qism",
+    "javob": "A"
+  },
+  {
+    "savol": "Biostatistika qismlari qaysilar?",
+    "A": "aholi salomatligi statistikasi, sog`liqni saqlash statistikasi",
+    "B": "kasalliklar statistikasi, nogironlik statistikasi",
+    "C": "aholi salomatligi statistikasi, kasalliklar statistikasi",
+    "D": "sog`liqni saqlash statistikasi, nogironlik statistikasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Tibbiy-statistik tadqiqotlar necha bosqichli bo`ladi?",
+    "A": "4 bosqichli",
+    "B": "5 bosqichli",
+    "C": "6 bosqichli",
+    "D": "7 bosqichli",
+    "javob": "A"
+  },
+  {
+    "savol": "Tibbiy-statistik tadqiqotlarning birinchi bosqichi",
+    "A": "Tadqiqot rejasi va dasturini tuzish",
+    "B": "Tadqiqot budjetini rejalash",
+    "C": "Tadqiqot materialini tayyorlash",
+    "D": "Tadqiqot mavzusini ro`yxatdan o`tkazish",
+    "javob": "A"
+  },
+  {
+    "savol": "Tibbiy-statistik tadqiqotlarning ikkinchi bosqichi",
+    "A": "Statistik ma`lumot yig`ish va kuzatish",
+    "B": "Bemorlarni tajribadan o`tkazish",
+    "C": "Hayvonlarda tajriba o`tkazish",
+    "D": "Tadqiqot budjetini rejalash",
+    "javob": "A"
+  },
+  {
+    "savol": "Tibbiy-statistik tadqiqotlarning uchinchi bosqichi",
+    "A": "Olingan ma`lumotlarni jamlash, guruhlash, hisoblash",
+    "B": "Tadqiqot materialini tayyorlash",
+    "C": "Bemorlarni tajribadan o`tkazish",
+    "D": "Tadqiqot bo`yicha dissertatsiya yozish",
+    "javob": "A"
+  },
+  {
+    "savol": "Tibbiy-statistik tadqiqotlarning to`rtinchi bosqichi",
+    "A": "Statistik tahlil, xulosalash va amaliyotga tadbiq etish",
+    "B": "Tadqiqot bo`yicha dissertatsiya yozish",
+    "C": "Tadqiqotni OAVda e’lon qilish",
+    "D": "To`g`ri javob berilmagan",
+    "javob": "A"
+  },
+  {
+    "savol": "Statistik majmua turlarini ko`rsating",
+    "A": "General, tanlangan",
+    "B": "Umumiy, general",
+    "C": "Tanlangan, hosil qilingan",
+    "D": "Hosil qilingan, general",
+    "javob": "A"
+  },
+  {
+    "savol": "Nisbiy miqdorlarningturlarini ko`rsating",
+    "A": "Intensiv, Ekstensiv, Aloqadorlik, Yaqqollik,",
+    "B": "Korrellyatsiya,Standart,Intensiv,",
+    "C": "Ekstensiv,Korellyatsiya,Yaqqollik,",
+    "D": "Yaqollik,Aloqadorlik,Korellyatsiya,Standartlash,",
+    "javob": "A"
+  },
+  {
+    "savol": "Intensiv ko`rsatkichga to`g`ri ta`rif berilgan qatorni toping",
+    "A": "Hodisani uni keltirib chiqarayotgan muhitda tarqalish darajasini ko`rsatadi",
+    "B": "Aholining 1km kvadrat maydonga to`g`ri kelgan miqdori",
+    "C": "Yil davomida ishchilar guruhidan umuman kasallanmaganlar soni",
+    "D": "Turli territoriyadagi yoki muddatdagi bir jinsli ko`rsatkichlarni bir-biriga nisbati",
+    "javob": "A"
+  },
+  {
+    "savol": "Ekstensiv ko`rsatkichga to`g`ri ta`rif berilgan qatorni toping",
+    "A": "Qismni butunga yoki qismni butun ichidagi ulushini ko`rsatadi",
+    "B": "Hodisani uni keltirib chiqarayotgan muhitda tarqalish darajasini ko`rsatadi",
+    "C": "Yil boshidagi va yil oxiridagi aholi soni yig`indisining yarmi",
+    "D": "Ma`lum hududdagi aholidagi tug`ilishdan o`limlarning ayirmasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Aloqadorlik ko`rsatkichga to`g`ri ta`rif berilgan qatorni toping",
+    "A": "O`zaro bir-biriga bog`liq bo`lmagan majmualarning miqdoriy nisbati",
+    "B": "Tibbiyotdagi ikki va undan ortiq bir-biriga bog`liq bo`lgan ayrim hodisalar",
+    "C": "Qismni butunga yoki qismni butun ichidagi ulushini ko`rsatadi",
+    "D": "Yil davomida 1 yoshgacha bo`lgan bolalar o`limlariga sabab bo`lgan kasalliklar miqdori",
+    "javob": "A"
+  },
+  {
+    "savol": "Yaqqollik ko`rsatkichga to`g`ri ta`rif berilgan qatorni toping",
+    "A": "Turli territoriyadagi yoki muddatdagi bir jinsli ko`rsatkichlarni bir-biriga nisbati",
+    "B": "O`zaro bir-biriga bog`liq bo`lmagan majmualarning miqdoriy nisbati",
+    "C": "Miqdorlarning kamdan ko`pga yoki ko`pdan kamga tuzilgan qatori",
+    "D": "O`limga sabab bo`layotgan hodisalarning miqdorlarda aniq namoyan bo`lishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Intensiv ko`rsatkichlarni hisoblashda zarur bo`ladigan kattaliklarni ko`rsating",
+    "A": "Muhit kattaligi, hodisa kattaligi",
+    "B": "Muhit kattaligi, jarayon kattaligi",
+    "C": "Hodisa kattaligi, jarayon kattaligi",
+    "D": "Jarayon kattaligi, belgilarning aniqligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ekstensiv ko`rsatkichlarni hisoblashda zarur bo`ladigan kattaliklar qaysi",
+    "A": "Jami hodisa, qism kattaligi",
+    "B": "Jami hodisa, butun kattaligi",
+    "C": "Qism kattaligi, birlamchi hodisa",
+    "D": "Butun kattaligi, birlamchi hodisa",
+    "javob": "A"
+  },
+  {
+    "savol": "Aloqadorlik ko`rsatkichlarini hisoblashda muhim ko`rsatkichlar qaysi",
+    "A": "Bir muhit kattaligi, boshqa muhit kattaligi",
+    "B": "Bir muhit aholi soni, umumiy kasallanish soni",
+    "C": "Bir muhit kattaligi, umumiy kasallanish soni",
+    "D": "Aholi o`rtacha soni, nogironlik ko`rsatkichi",
+    "javob": "A"
+  },
+  {
+    "savol": "Aholi salomatliginibelgilovchi qaysi asosiyko`rsatkichlar intensivko`rsatkich bo`yichahisoblanadi",
+    "A": "Tug`ilish, o`lim ko`rstakichi, kasallanish ko`rsatkichi",
+    "B": "Tug`ilish, o`lim, fertil yoshi",
+    "C": "O`lim, kasallanish ko`rsatkichi, fertil yosh",
+    "D": "Tug`ilish, kasallanish ko`rsatkichi, fertil yosh",
+    "javob": "A"
+  },
+  {
+    "savol": "Variatsion qator tushunchasini belgilovchi elementlar",
+    "A": "Miqdoriy bir turdagi belgilar, ketma-ket joylashgan miqdorlar",
+    "B": "Miqdoriy bir turdagi belgilar, ko`payish kattaliklari",
+    "C": "Ketma-ket joylashgan miqdorlar, ko`payish kattaliklari",
+    "D": "Ko`payish kattaliklari, belgilarni uchrash chastotasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Variatsion qator elementlari",
+    "A": "Varianta, chastota, kuzatuv birligi umumiy soni",
+    "B": "Varianta, chastota, kamayish soni",
+    "C": "Chastota, kuzatuv birligi umumiy soni, kamayish soni",
+    "D": "Kamayish soni, varianta, alfa ko`rsatkichlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Variatsion qator turlari",
+    "A": "Oddiy, guruhli, intervalli",
+    "B": "Oddiy, guruhli, takrorlanuvchi",
+    "C": "Guruhli, intervalli, takrorlanuvchi",
+    "D": "Oddiy, intervalli, takrorlanuvchi",
+    "javob": "A"
+  },
+  {
+    "savol": "O`rtacha qiymatni toppish usullari",
+    "A": "Oddiy, vazn, lahza",
+    "B": "Oddiy, vazn, intervalli",
+    "C": "Vazn, lahza, intervalli",
+    "D": "Oddiy, lahza, intervalli",
+    "javob": "A"
+  },
+  {
+    "savol": "O`rtacha qiymatni oddiy usulda topish qatori",
+    "A": "Hodisa bir martadan ko`p takrorlanmaydi",
+    "B": "Varianta har xil sonda ifodalanadi",
+    "C": "Hodisalar ko`p marta takrorlanadi",
+    "D": "Barcha javoblar tog`ri",
+    "javob": "A"
+  },
+  {
+    "savol": "O`rtacha qiymatni vazn usulda topish qatori",
+    "A": "Hodisalar ko`p marta takrorlanadi",
+    "B": "Varianta qiymatini tadqiqotchi hisoblaydi",
+    "C": "Hodisa bir martadan ko`p takrorlanmaydi",
+    "D": "Barcha javoblar tog`ri",
+    "javob": "A"
+  },
+  {
+    "savol": "O`rtacha qiymatni lahza usulda topish qatori",
+    "A": "Hodisalar takror va kuzatuvlar 30 dan ko`p",
+    "B": "Hodisalar takrorlamaydi va kuzatuvlar 30 dan ko`p",
+    "C": "Hodisa va muhit miqdorlari mavhum",
+    "D": "Tog`ri javob berilmagan",
+    "javob": "A"
+  },
+  {
+    "savol": "O`rtacha qiymat tuzishda qanday shartlarga e`tibor berish kerak",
+    "A": "Variatsion qatordagi materialmazmunan bir xil bo`lishi, kuzatuvlar soni yetarli bo`lishi, variatsion qator tarqoq bo`lmasligi",
+    "B": "Variatsion qatordagi materialmavhum, kuzatuvlar soni yetarli bo`lishi, variatsion qator tarqoq bo`lishi",
+    "C": "Variatsion qatordagi material har xil bo`lishi, kuzatuvlar soni yetarli bo`lishi, variatsion qator guruhlashgan",
+    "D": "Variatsion qatordagi materialmazmunan juftlashgan, kuzatuvlar soni birga-bir nisbatda, variatsion qator tarqoq bo`lishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Lahza ususlida qabul qilinishi kerak bo`lgan miqdor",
+    "A": "M1",
+    "B": "T1",
+    "C": "C1",
+    "D": "K1",
+    "javob": "A"
+  },
+  {
+    "savol": "O`rtacha qiymat formulada qaysi kattalik bilan belgilanadi",
+    "A": "M",
+    "B": "T",
+    "C": "C",
+    "D": "K",
+    "javob": "A"
+  },
+  {
+    "savol": "Xatolik qaysi kattalik orqali topiladi",
+    "A": "m",
+    "B": "a",
+    "C": "p",
+    "D": "d",
+    "javob": "A"
+  },
+  {
+    "savol": "Kvadratik og`ishni belgilovchi kattalik qaysi",
+    "A": "α",
+    "B": "d",
+    "C": "m",
+    "D": "p",
+    "javob": "A"
+  },
+  {
+    "savol": "Nisbiy miqdorlarni ko`rsatuvchi kattalikni belgilang",
+    "A": "P",
+    "B": "M",
+    "C": "D",
+    "D": "t",
+    "javob": "A"
+  },
+  {
+    "savol": "Varianta va o`rtacha son orasidagi farq qaysi kattalik bilan belgilanadi",
+    "A": "d",
+    "B": "t",
+    "C": "m",
+    "D": "V",
+    "javob": "A"
+  },
+  {
+    "savol": "Variatsion qatordagi variantani ko`rsating",
+    "A": "V",
+    "B": "P",
+    "C": "n",
+    "D": "m",
+    "javob": "A"
+  },
+  {
+    "savol": "Variatsion qatordagi kuzatuv birligi yoki chastota nima",
+    "A": "P",
+    "B": "V",
+    "C": "t",
+    "D": "M",
+    "javob": "A"
+  },
+  {
+    "savol": "Korrelyatsiya qaysi kattalik bilan belgilanadi",
+    "A": "r",
+    "B": "T",
+    "C": "P",
+    "D": "M",
+    "javob": "A"
+  },
+  {
+    "savol": "Aloqadorlik necha xil bo`ladi",
+    "A": "ikki xil: funksional va korrelyatsion",
+    "B": "uch xil: obyektiv, subyektiv, psixologik",
+    "C": "ikki xil: to`g`ri, teskari",
+    "D": "ikki xil: aloqadorlik, bog`liqlik",
+    "javob": "A"
+  },
+  {
+    "savol": "Aloqadorlik o`z shakliga ko`ra turlari",
+    "A": "To`g`ri chiziqli va egri chiziqli",
+    "B": "Obyektiv, subyektiv",
+    "C": "Bevosita va bilvosita",
+    "D": "Intensiv va ekstensiv",
+    "javob": "A"
+  },
+  {
+    "savol": "Aloqadorlikning yo`nalishiga ko`ra turlari",
+    "A": "To`g`ri va teskari",
+    "B": "Statistik va nisbiylik",
+    "C": "Bir tomonli va ko`p tomonli",
+    "D": "Dinamik va funksional",
+    "javob": "A"
+  },
+  {
+    "savol": "Korrelyatsion aloqadorlik kuchiga ko`ra turlari qaysilar",
+    "A": "Kuchli, o`rtacha, kuchsiz",
+    "B": "Tarang bog`lanish, kuchsiz bog`lanish",
+    "C": "Fragmatik, diversiv",
+    "D": "Bir zanjirli, ikki zanjirli, ko`p zanjirli",
+    "javob": "A"
+  },
+  {
+    "savol": "Korrelyatsiyaning eng katta koeffitsiyenti qaysi",
+    "A": "1",
+    "B": "2",
+    "C": "3",
+    "D": "4",
+    "javob": "A"
+  },
+  {
+    "savol": "Aloqasizlikni bildiruvchi koeffitsiyent nechaga teng",
+    "A": "0",
+    "B": "-1",
+    "C": "-2",
+    "D": "-3",
+    "javob": "A"
+  },
+  {
+    "savol": "OIVni OITS holatiga o`tishidan faqat ARVt dorilari saqlab qoladi. Bu qanday bog`lanish",
+    "A": "Kuchli",
+    "B": "O`rtacha",
+    "C": "Kuchsiz",
+    "D": "Bir zanjirli",
+    "javob": "A"
+  },
+  {
+    "savol": "Kuchli bog`lanish koeffitsiyenti",
+    "A": "0,7-1",
+    "B": "0,6-1",
+    "C": "0,5-1",
+    "D": "0,4-1",
+    "javob": "A"
+  },
+  {
+    "savol": "O`rtacha kuchli bog`lanish koeffitsiyenti",
+    "A": "0,3-0,7",
+    "B": "0,2-0,7",
+    "C": "0,3-0,6",
+    "D": "0,3-0,5",
+    "javob": "A"
+  },
+  {
+    "savol": "Kuchsiz bog`lanish koeffitsiyenti",
+    "A": "0-0,3",
+    "B": "0-0,2",
+    "C": "0,1-0,3",
+    "D": "0-0,4",
+    "javob": "A"
+  },
+  {
+    "savol": "Korrelyatsiyani o`rgangan olimlar kimlar?",
+    "A": "Spirman, Pirson, Kendall",
+    "B": "Spirman, Levenguk, Rozenbax",
+    "C": "Pirson, Nyupert, Robertguk",
+    "D": "Kendall, Rozenbax, Nyupert",
+    "javob": "A"
+  },
+  {
+    "savol": "Spirman korrelyatsiyani qanday o`rgandi?",
+    "A": "chiziqli bog`lanish bilan",
+    "B": "matematik bog`lanish bilan",
+    "C": "kasalliklar turi bilan",
+    "D": "ranglar shkalasi bilan",
+    "javob": "A"
+  },
+  {
+    "savol": "Pirson korrelyatsiyani qanday o`rgandi?",
+    "A": "ranglar shkalasi bilan",
+    "B": "progressiya bilan",
+    "C": "diagnozlar farqi bilan",
+    "D": "tabiiy bog`lanish bilan",
+    "javob": "A"
+  },
+  {
+    "savol": "Kendall korrelyatsiyani qanday o`rgandi?",
+    "A": "juftlash bilan",
+    "B": "chiziqli bog`lanish bilan",
+    "C": "statistik yo`l bilan",
+    "D": "to`g`ri javob berilmagan",
+    "javob": "A"
+  },
+  {
+    "savol": "Dinamik qatorlar turlarini ko`rsating",
+    "A": "Oddiy, murakkab",
+    "B": "Katta, kichik",
+    "C": "Kuchli, kuchsiz",
+    "D": "Bevosita, bilvosita",
+    "javob": "A"
+  },
+  {
+    "savol": "Dinamik qatorlar qanday sonlardan tuziladi?",
+    "A": "absolyut, nisbiy, o`rtacha",
+    "B": "toq, standart, murakkab",
+    "C": "mutloq, juft, ketma-ket",
+    "D": "o`rtacha, standart, korrelyativ",
+    "javob": "A"
+  },
+  {
+    "savol": "Oddiy dinamik qatorlar qaysi qiymatdan tuzilgan",
+    "A": "mutloq",
+    "B": "nisbiy",
+    "C": "o`rtacha",
+    "D": "standart",
+    "javob": "A"
+  },
+  {
+    "savol": "Murakkab dinamik qatorlar qaysi qiymatlardan tuzilgan",
+    "A": "Nisbiy, o`racha qiymatlar",
+    "B": "Nisbiy, absolyut qiymatlar",
+    "C": "O`rtacha, absolyut qiymatlar",
+    "D": "Absolyut, taxminiy qiymatlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Oddiy dinamik qatorlarning vaqtiga ko`ra turlari",
+    "A": "Lahzalik, oraliq",
+    "B": "Lahzalik, boshlang`ich",
+    "C": "Oraliq, boshlang`ich",
+    "D": "Boshlang`ich, uzaytirilgan",
+    "javob": "A"
+  },
+  {
+    "savol": "O`sish sur’ati bu",
+    "A": "Mutloq o`sishning o`tgan yil ko`rsatkichiga foizlardagi nisbati",
+    "B": "Keyingi yil ko`rsatkichining o`tgan yil ko`rsatkichiga foizlardagi nisbati",
+    "C": "Mutloq o`sishning yil davomidagi o`limlar soniga nisbati",
+    "D": "Bir belgi kattaligining ma`lum o`zgarishi bilan ikkinchi belgining shunga mos o`zgarishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Grafik tasvirlar necha xil bo`ladi?",
+    "A": "3 xil",
+    "B": "5 xil",
+    "C": "7 xil",
+    "D": "9 xil",
+    "javob": "A"
+  },
+  {
+    "savol": "Grafik tasvirlar qanday turlari bor?",
+    "A": "diagramma, kartogramma, kartodiagramma",
+    "B": "burchakli, sektorli, yassi",
+    "C": "diagramma, diagonal, halqali",
+    "D": "kartogramma, nuqtali, halqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Diagramma necha xil boaladi?",
+    "A": "3 xil",
+    "B": "2 xil",
+    "C": "4 xil",
+    "D": "6 xil",
+    "javob": "A"
+  },
+  {
+    "savol": "Diagramma turlari berilgan qatorni toping",
+    "A": "ustunli, chiziqli, sektorli",
+    "B": "rangli, jadvalli, ustunli",
+    "C": "chiziqli, balli, matnli",
+    "D": "sektorli, halqali, rasmli",
+    "javob": "A"
+  },
+  {
+    "savol": "Sektorli diagramma nima?",
+    "A": "Ekstensiv ko`rsatkichlarda ifodalangan hodisalarni tasviri",
+    "B": "Hodisaning ma`lum vaqt oralig`idagi yoki teritoriyadagi kattaliklarini solishtirish",
+    "C": "Ma’lum hodisa ko`rsatkichlarini vaqt oralig`idagi o`zgarishlari, dinamikasi tasviri",
+    "D": "Intensiv ko`rsatkichlarda ifodalangan hodisalarning tasviri",
+    "javob": "A"
+  },
+  {
+    "savol": "Kartogramma nima?",
+    "A": "O`zgarishlarni territoriyalar bo`yicha yoki xaritalarda ifodalanishi",
+    "B": "Kasallanish va o`lim ko`rsatkichlarining yil mavsumiga qarab o`zgarishi tasviri",
+    "C": "Hodisaning ma`lum vaqt oralig`idagi yoki territoriyadagi kattaliklarini solishtirish",
+    "D": "Yonma-yon davrlarning kattaliklarini bir biriga qo`shib, interval oralig`ini kattalashtirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Standart ko`rsatkichlarni hisoblash usullarini ko`rsating",
+    "A": "To`g`ri, bilvosita, teskari",
+    "B": "Aralash, bilvosita, diagramma",
+    "C": "Diagonal, teskari, kartodiagramma",
+    "D": "Kartogramma, guruhli, intervalli",
+    "javob": "A"
+  },
+  {
+    "savol": "To`g`ri usulda standart qachon qo`llaniladi",
+    "A": "Muhit va hodisaning tarkibi ma`lum",
+    "B": "Muhit ma`lum, hodisa noma`lum",
+    "C": "Muhit noma`lum, hodisa ma`lum",
+    "D": "Muhit va hodisa noma`lum",
+    "javob": "A"
+  },
+  {
+    "savol": "Bilvosita usulda standart qachon qo`llaniladi",
+    "A": "Muhit ma`lum, hodisa noma`lum",
+    "B": "Muhit va hodisaning tarkibi aralash bo`lganda",
+    "C": "Muhit noma`lum, hodisa miqdori haddan ortiq ko`p",
+    "D": "Muhit va hodisaning tarkibi guruhlashib kelganda",
+    "javob": "A"
+  },
+  {
+    "savol": "Teskari usulda standart qachon qo`llaniladi",
+    "A": "Muhit noma`lum, hodisa ma`lum",
+    "B": "Muhit bir necha kasallikdan iborat, hodisa noma`lum",
+    "C": "Muhit va hodisaning tarkibi har xil territoriyada",
+    "D": "Muhit va hodisa nisbiy sonlarda bo`lganda",
+    "javob": "A"
+  },
+  {
+    "savol": "Standart ko`rsatkichning to`g`ri usuli necha bosqichda topiladi",
+    "A": "4 bosqich",
+    "B": "5 bosqich",
+    "C": "6 bosqich",
+    "D": "7 bosqich",
+    "javob": "A"
+  },
+  {
+    "savol": "Standart ko`rsatkichning to`g`ri usulining 1-bosqichida nima topiladi",
+    "A": "Xususiy va umumiy intensiv topiladi",
+    "B": "Xususiy va umumiy ekstensiv topiladi",
+    "C": "Alfa qiymat topiladi",
+    "D": "M o`rtacha topiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Demografiya necha qismdan iborat",
+    "A": "2 qism",
+    "B": "3 qism",
+    "C": "4 qism",
+    "D": "5 qism",
+    "javob": "A"
+  },
+  {
+    "savol": "Demografiya qismlari to`g`ri ko`rsatilgan qatorni toping",
+    "A": "Statika va dinamika",
+    "B": "Statistika va dinamika",
+    "C": "Tug`ilish va o`lim",
+    "D": "Tabiiy o`sish va aholi yillik soni",
+    "javob": "A"
+  },
+  {
+    "savol": "Aholi statikasi nimani o`rganadi",
+    "A": "Aholidagi o`zgarmas demografik ma`lumotlarni",
+    "B": "Tug`ilish va o`lim darajasini",
+    "C": "Tabiiy o`sish, aholi zichligini",
+    "D": "Aholining geografik joylashuvi va tug`ilishni",
+    "javob": "A"
+  },
+  {
+    "savol": "Aholi zichligi nima",
+    "A": "1 km kvadrat maydonga to`g`ri keladigan aholining soni",
+    "B": "Ma`lum maydondagi zich joylashgan etnik guruh",
+    "C": "10 m kvadrat maydonga to`g`ri keladigan aholining soni",
+    "D": "Ikkita hududdagi aholining bir-biriga nisbati",
+    "javob": "A"
+  },
+  {
+    "savol": "Aholi dinamikasi nechaga bo`linadi",
+    "A": "2 guruhga",
+    "B": "3 guruhga",
+    "C": "4 guruhga",
+    "D": "5 guruhga",
+    "javob": "A"
+  },
+  {
+    "savol": "Aholi dinamikasi guruhlari qaysilar",
+    "A": "Tabiiy va mexanik harakat",
+    "B": "Tabiiy va sun`iy harakat",
+    "C": "Mexanik harakat va migratsiya",
+    "D": "Ko`chish va tug`ilish",
+    "javob": "A"
+  },
+  {
+    "savol": "Aholi dinamikasi o`zi nima",
+    "A": "Aholi sonining o`zgarishi bilan boradigan jarayon",
+    "B": "Aholi tarkibining o`zgarishi bilan boradigan jarayon",
+    "C": "Aholi zichligining o`zgarishi bilan boradigan jarayon",
+    "D": "Aholi salomatligining o`zgarishi bilan boradigan jarayon",
+    "javob": "A"
+  },
+  {
+    "savol": "Aholining mexanik harakati nimani o`rganadi",
+    "A": "Migratsiyalarni",
+    "B": "Tug`ilishni",
+    "C": "O`limni",
+    "D": "Ko`payishni",
+    "javob": "A"
+  },
+  {
+    "savol": "Aholining tabiiy harakati komponenti nechta",
+    "A": "3 ta",
+    "B": "8 ta",
+    "C": "12 ta",
+    "D": "15 ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Aholining tabiiy harakati komponentlari qaysilar",
+    "A": "Tug`ilish, o`lim, tabiiy o`sish",
+    "B": "Migratsiya, tabiiy o`sish",
+    "C": "Emmigratsiya, migratsiya, nogironlik",
+    "D": "Ko`chish, o`lim, kasallanish",
+    "javob": "A"
+  },
+  {
+    "savol": "Aholining statik ma`lumotlarini beruvchi manba qaysi",
+    "A": "Aholini ro`yxatga olish",
+    "B": "So`rovnoma o`tkazish",
+    "C": "Klinikaga murojaatlar",
+    "D": "O`lim xatlari jamlanmasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Aholini ro`yxatga olish bugungi kunda har necha yilda bir o`tkaziladi",
+    "A": "10 yilda bir",
+    "B": "6 yilda bir",
+    "C": "7 yilda bir",
+    "D": "8 yilda bir",
+    "javob": "A"
+  },
+  {
+    "savol": "Aholini ro`yxatga olish qaysi prinsip asosida o`tkaziladi",
+    "A": "Lahzalik",
+    "B": "Sinchkovlik",
+    "C": "Umumiylik",
+    "D": "Davomiylik",
+    "javob": "A"
+  },
+  {
+    "savol": "Aholini ro`yxatga olish uchun qaysi vaqt tanlab olinadi",
+    "A": "Aholining eng kam harakatlanadigan vaqti",
+    "B": "Eng ko`p migratsiya bo`ladigan vaqti",
+    "C": "Eng ko`p emmigratsiya bo`ladigan vaqti",
+    "D": "Eng ko`p tug`ilish vaqti bo`ladigan vaqti",
+    "javob": "A"
+  },
+  {
+    "savol": "Aholining eng kam harakatlanadigan davri qachon",
+    "A": "Yanvar-fevral",
+    "B": "Noyabr-fevral",
+    "C": "Noyabr-dekabr",
+    "D": "Dekabr-mart",
+    "javob": "A"
+  },
+  {
+    "savol": "Aholini ro`yxatga olish necha bosqichda o`tkaziladi?",
+    "A": "3 bosqich",
+    "B": "6 bosqich",
+    "C": "9 bosqich",
+    "D": "12 bosqich",
+    "javob": "A"
+  },
+  {
+    "savol": "Aholini ro`yxatga olishning birinchi bosqich qaysi?",
+    "A": "tayorgarlik",
+    "B": "ishlab chiqish",
+    "C": "xabar berish",
+    "D": "qayta tayorlash",
+    "javob": "A"
+  },
+  {
+    "savol": "Aholini ro`yxatga olishning ikkinchi bosqich qaysi?",
+    "A": "ma’lumot yig`ish",
+    "B": "statistika",
+    "C": "tahlil qilish",
+    "D": "reja tuzish",
+    "javob": "A"
+  },
+  {
+    "savol": "Aholini ro`yxatga olishning uchinchi bosqich qaysi?",
+    "A": "tahlil qilish",
+    "B": "ajratish",
+    "C": "tahrirlash",
+    "D": "o`lchash",
+    "javob": "A"
+  },
+  {
+    "savol": "Aholini ro`yxatga olishning birinchi bosqichiga qancha vaqt beriladi?",
+    "A": "3 yil",
+    "B": "2 yil",
+    "C": "1 yil",
+    "D": "4 yil",
+    "javob": "A"
+  },
+  {
+    "savol": "Aholini ro`yxatga olishning ikkinchi bosqichiga qancha vaqt beriladi?",
+    "A": "2 oy",
+    "B": "1 oy",
+    "C": "3 oy",
+    "D": "4 oy",
+    "javob": "A"
+  },
+  {
+    "savol": "Aholini ro`yxatga olishning uchinchi bosqichiga qancha vaqt beriladi?",
+    "A": "2 yil",
+    "B": "5 yil",
+    "C": "6 yil",
+    "D": "7 yil",
+    "javob": "A"
+  },
+  {
+    "savol": "Migratsiya vaqtiga ko`ra nechaga bo`linadi",
+    "A": "Mavsumiy va doimiy",
+    "B": "Turg`un va vaqtinchalik",
+    "C": "Choraklik va yillik",
+    "D": "To`g`ri javob berilmagan",
+    "javob": "A"
+  },
+  {
+    "savol": "Migratsiya o`rniga ko`ra nechaga bo`linadi",
+    "A": "Davlat ichida va davlatlararo",
+    "B": "Viloyatlararo va tumanlararo",
+    "C": "Qit`alararo va tuman ichida",
+    "D": "Barchasi to`g`ri",
+    "javob": "A"
+  },
+  {
+    "savol": "Migratsiyaning tibbiyotdagi ahamiyati qanday",
+    "A": "Yuqumli kasalliklar epidemiyasi uchun",
+    "B": "Iqtisodiyot o`zgarishi uchun",
+    "C": "Aholi sonining oshishi uchun",
+    "D": "Yer maydoni tanqisligi uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "Yil boshidagi va yil oxiridagi aholi sonining yig`indisining yarmi nimani anglatadi",
+    "A": "Aholining yillik o`rtacha sonini",
+    "B": "Aholining yillik absolyut sonini sonini",
+    "C": "Aholining yillik nisbiy sonini",
+    "D": "Aholining yillik o`rtacha va nisbiy sonini",
+    "javob": "A"
+  },
+  {
+    "savol": "Tug`ilishdan o`limning ayirmasi nimani anglatadi",
+    "A": "Tabiiy o`sishni",
+    "B": "O`limlar nisbatini",
+    "C": "Aholining yillik o`rtacha sonini",
+    "D": "Tug`ilish nisbatini",
+    "javob": "A"
+  },
+  {
+    "savol": "Tug`ilish ko`rsatkichlari tarkibini ko`rsating",
+    "A": "Umumiy tug`ilish, umumiy serpushtlik",
+    "B": "Umumiy o`lim, umumiy serpushtlik",
+    "C": "Tabiiy ko`payish, ayrim yoshdagilarning ko`payishi",
+    "D": "To`g`ri javob berilmagan",
+    "javob": "A"
+  },
+  {
+    "savol": "O`lim ko`rsatkichlari tarkibini ko`rsating",
+    "A": "Umumiy o`lim, ayrim yoshdagi o`lim",
+    "B": "Umumiy o`lim, klinik o`limlar nisbati",
+    "C": "Klinik o`limlar nisbati, biologik o`limlar",
+    "D": "Barcha javoblar to`g`ri",
+    "javob": "A"
+  },
+  {
+    "savol": "Bir yoshgacha bolalar o`limi nechta davrga bo`lib o`rganiladi",
+    "A": "3 ta",
+    "B": "5 ta",
+    "C": "7 ta",
+    "D": "9 ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Bir yoshgacha bolalar o`limi davrlari qaysilar",
+    "A": "Postneonatal, neonatal, perinatal",
+    "B": "Postnatal, tabiiy abort",
+    "C": "Postnatal, postneonatal, sun`iy abort",
+    "D": "Neonatal, perinatal, barcha abortlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Neonatal o`limlar nechta davrga bo`linadi",
+    "A": "2 ta",
+    "B": "4 ta",
+    "C": "6 ta",
+    "D": "8 ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Neonatal o`lim chaqaloqning qaysi muddatini qamraydi",
+    "A": "0-28 kun",
+    "B": "0-29 kun",
+    "C": "0-30kun",
+    "D": "0-31 kun",
+    "javob": "A"
+  },
+  {
+    "savol": "Erta neonatal chaqaloqning qaysi muddatlarini qamraydi",
+    "A": "0-6 kun",
+    "B": "0-5 kun",
+    "C": "0-7 kun",
+    "D": "0-8 kun",
+    "javob": "A"
+  },
+  {
+    "savol": "Kech neonatal davr chaqaloqning qaysi muddatlarini qamraydi",
+    "A": "2-4 hafta",
+    "B": "1-4 hafta",
+    "C": "2-3 hafta",
+    "D": "2-5 hafta",
+    "javob": "A"
+  },
+  {
+    "savol": "Postneonatal o`lim chaqaloqning qaysi davriga to`g`ri keladi",
+    "A": "1-12 oy",
+    "B": "2-12 oy",
+    "C": "1-11 oy",
+    "D": "1-10 oy",
+    "javob": "A"
+  },
+  {
+    "savol": "Perinatal o`lim qaysi davrlarni o`z ichiga oladi",
+    "A": "28 haftalik homiladan to 7 kunlikkacha",
+    "B": "26 haftalik homiladan to 8 kunlikkacha",
+    "C": "30 haftalik homiladan to 7 kunlikkacha",
+    "D": "28 haftalik homiladan to 10 kunlikkacha",
+    "javob": "A"
+  },
+  {
+    "savol": "Homiladorlik muddati va kindik kesilganmi yo`qmi qatiy nazar, chaqaloqda yurak urishi, kindik pulsi, nafas olish, muskulatura harakati bo`lishi bu -",
+    "A": "tirik tug`ilish",
+    "B": "o`lik tug`ilish",
+    "C": "erkin tug`ilish",
+    "D": "muddatida tug`ilish",
+    "javob": "A"
+  },
+  {
+    "savol": "Homilaning xavfli salomatlik hollaridagi vaznlari qanday bo`ladi?",
+    "A": "kichik, juda kichik, o`ta kichik gavda og`irligi",
+    "B": "kichik, o`rta, yuqori gavda og`irligi",
+    "C": "normal, kichik, katta gavda og`irligi",
+    "D": "normal va anormal gavda og`irligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Kichik gavda og`irligi massasi qancha?",
+    "A": "2499-1500 gr",
+    "B": "2000-1500 gr",
+    "C": "2499-1000 gr",
+    "D": "2499-1100 gr",
+    "javob": "A"
+  },
+  {
+    "savol": "Juda kichik gavda og`irligi massasi qancha?",
+    "A": "1499-1000 gr",
+    "B": "1499-500 gr",
+    "C": "2000-1000 gr",
+    "D": "2000-700 gr",
+    "javob": "A"
+  },
+  {
+    "savol": "O`ta kichik gavda og`irligi massasi qancha?",
+    "A": "1000 gr dan kam",
+    "B": "500 grdan kam",
+    "C": "1500 grdan kam",
+    "D": "2000 grdan kam",
+    "javob": "A"
+  },
+  {
+    "savol": "Homiladorlik muddati qanday aniqlanadi?",
+    "A": "oxirgi hayzning birinchi kunidan",
+    "B": "oxirgi hayz ko`rishning oxirgi kunidan",
+    "C": "oxirgi hayzdan keyin",
+    "D": "to`g`ri javob berilmagan",
+    "javob": "A"
+  },
+  {
+    "savol": "Chaqaloqlarning chala tug`ilish muddati qachongacha bo`ladi?",
+    "A": "to`liq 37 haftaga yetmay",
+    "B": "37 haftaga yetmay",
+    "C": "to`liq 36 haftaga yetmay",
+    "D": "36 haftaga yetmay",
+    "javob": "A"
+  },
+  {
+    "savol": "Chaqaloqning vaqt-soatida tug`ilishi qaysi haftalarni o`z ichiga oladi?",
+    "A": "to`liq 37 – 42 haftalar orasi",
+    "B": "to`liq 36 – 41 haftalar orasi",
+    "C": "to`liq 37 – 40 haftalar orasi",
+    "D": "to`liq 36 – 42 haftalar orasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Onalar o`limi davriga ko`ra nechta davrga bo`linadi?",
+    "A": "2 ta davr",
+    "B": "3 ta davr",
+    "C": "4 ta davr",
+    "D": "5 ta davr",
+    "javob": "A"
+  },
+  {
+    "savol": "Onalar o`limi davrlari to`g`ri berilgan qator",
+    "A": "erta va kech",
+    "B": "birinchi va ikkinchi",
+    "C": "dastlabki va kechki",
+    "D": "tug`ruqdan oldin va keyingi",
+    "javob": "A"
+  },
+  {
+    "savol": "Erta onalar o`limi qaysi muddatlarda sodir bo`ladi?",
+    "A": "tug`ruqdan keyingi 42 kungacha",
+    "B": "tug`ruqdan keyingi 40 kungacha",
+    "C": "tug`ruqdan keyingi 45 kungacha",
+    "D": "tug`ruqdan keyingi 48 kungacha",
+    "javob": "A"
+  },
+  {
+    "savol": "Kech onalar o`limi qaysi muddatlarda sodir bo`ladi?",
+    "A": "tug`ruqdan keyingi 42 kundan 1 yilgacha",
+    "B": "tug`ruqdan keyingi 40 kundan 1 yilgacha",
+    "C": "tug`ruqdan keyingi 42 kundan 2 yilgacha",
+    "D": "tug`ruqdan keyingi 45 kundan 1,5 yilgacha",
+    "javob": "A"
+  },
+  {
+    "savol": "Onalar o`limi sababiga ko`ra necha guruhga bo`linadi?",
+    "A": "2 guruh",
+    "B": "5 guruh",
+    "C": "10 guruh",
+    "D": "12 guruh",
+    "javob": "A"
+  },
+  {
+    "savol": "Onalar o`limi sababiga ko`ra guruhlari qaysilar?",
+    "A": "akusherlikka bevosita va bilvosita bog`liq",
+    "B": "akusherlikka birlamchi va ikkilamchi bog`liq",
+    "C": "akusherlikka aloqador va aloqasiz",
+    "D": "to`gri javob berilmagan",
+    "javob": "A"
+  },
+  {
+    "savol": "Birlamchi kasallanishga kiradi:",
+    "A": "Joriy yilda birinchi bor murojatlar davrida aniqlangan kasalliklar",
+    "B": "Organizmning normal fiziologik holatidan har qanday obyektiv yoki subyektiv siljishi, farqlanishi",
+    "C": "Kasallikka gumon qilingan yoki kasallikning boshlang`ich belgilari mavjud bo`lgan shaxslar",
+    "D": "Joriy yilda birinchi bor qayd etilgani surunkali kasalliklar (o`tgan yillardan ma`lum bo`lgan)",
+    "javob": "A"
+  },
+  {
+    "savol": "Tibbiy ko`rikning turlari:",
+    "A": "Dastlabki va davriy tibbiy ko`rik",
+    "B": "Bir sohali va ko`p sohali",
+    "C": "Oldindan o`tkaziladigan, davriy, maqsadli tibbiy ko`riklar",
+    "D": "Joriy yildagi, davriy, dispanserizatsiya maqsadida o`tkaziladigan maqsadli tibbiy ko`riklar",
+    "javob": "A"
+  },
+  {
+    "savol": "Aholining kasallanishi haqidagi ma`lumotlarni olish manbalarini ko`rsating",
+    "A": "Tibbiy muassasaga murojati, tibbiy ko`rik ma`lumotlari, o`lim sabablari",
+    "B": "Kasallik tarixi, anamnez vite, anamnez morbi.",
+    "C": "Kasallik tarixi, dispanser nazorati jurnali, tibbiy ko`rik ma`lumotlari",
+    "D": "Tibbiy muassasaga murojati, dispanser nazorati jurnali, kasallik tarixi",
+    "javob": "A"
+  },
+  {
+    "savol": "Mazkur ishxonada yil bo`yi kasal bo`lmagan ishchilarning ulushi. Bu nimaning ta`rifi",
+    "A": "Salomatlik indeksi",
+    "B": "Nogironlik ko`rsatkichi",
+    "C": "Kasb kasalligi foizi",
+    "D": "Umumiy kasallanish ulushi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qancha vaqtgacha kasallik belgilari kuzatilsa, o`tkir kasallanish deyiladi?",
+    "A": "6 oy",
+    "B": "8 oy",
+    "C": "10 oy",
+    "D": "12 oy",
+    "javob": "A"
+  },
+  {
+    "savol": "Xabar berilishiga ko`ra yuqumli kasalliklar necha turga bo`linadi?",
+    "A": "4 tur",
+    "B": "8 tur",
+    "C": "12 tur",
+    "D": "15 tur",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi turdagi yuqumli kasalliklar aniqlanganda 12 soat ichida shoshilinch xabarnoma yuboriladi?",
+    "A": "Karantinli kasalliklar",
+    "B": "Umumiy kasalliklar",
+    "C": "Ixtisoslashgan kasalliklar",
+    "D": "Maxsus kasalliklar",
+    "javob": "A"
+  },
+  {
+    "savol": "Shoshilinch xabarnoma hujjat shakli berilgan qator",
+    "A": "058-h/sh",
+    "B": "055-h/sh",
+    "C": "060-h/sh",
+    "D": "063-h/sh",
+    "javob": "A"
+  },
+  {
+    "savol": "Yuqumli kasalliklar qaysi jurnalga qayd etiladi?",
+    "A": "063-h/sh",
+    "B": "086-h/sh",
+    "C": "083-h/sh",
+    "D": "050-h/sh",
+    "javob": "A"
+  },
+  {
+    "savol": "Ilk xalqaro kasalliklar tasnifi qachon imzolangan?",
+    "A": "1900-yil",
+    "B": "1905-yil",
+    "C": "1910-yil",
+    "D": "1915-yil",
+    "javob": "A"
+  },
+  {
+    "savol": "XKT har necha yilda bir marta ko`rib chiqiladi?",
+    "A": "10 yilda",
+    "B": "5 yilda",
+    "C": "15 yilda",
+    "D": "20 yilda",
+    "javob": "A"
+  },
+  {
+    "savol": "XKT-10 necha jilddan iborat?",
+    "A": "3 jild",
+    "B": "5 jild",
+    "C": "6 jild",
+    "D": "7 jild",
+    "javob": "A"
+  },
+  {
+    "savol": "XKT-10 nechta sinfdan iborat?",
+    "A": "21 sinf",
+    "B": "23 sinf",
+    "C": "25 sinf",
+    "D": "27 sinf",
+    "javob": "A"
+  },
+  {
+    "savol": "XKT-10 nechta blokdan iborat?",
+    "A": "258 blok",
+    "B": "260 blok",
+    "C": "255 blok",
+    "D": "250 blok",
+    "javob": "A"
+  },
+  {
+    "savol": "XKT-10 qanday kodlanadi?",
+    "A": "3 va 4 belgili",
+    "B": "4 va 5 belgili",
+    "C": "5 va 6 belgili",
+    "D": "6 va 7 belgili",
+    "javob": "A"
+  },
+  {
+    "savol": "Kodlanishda qaysi harf zaxirada saqlanadi?",
+    "A": "U harfi",
+    "B": "W harfi",
+    "C": "X harfi",
+    "D": "Z harfi",
+    "javob": "A"
+  },
+  {
+    "savol": "Jismoniy rivojlanishni o`rganadigan soha qaysi",
+    "A": "Antropometriya",
+    "B": "Rabiologiya",
+    "C": "Kombustologiya",
+    "D": "Genetika",
+    "javob": "A"
+  },
+  {
+    "savol": "Antropometriya nechta qismdan iborat",
+    "A": "3 ta",
+    "B": "2 ta",
+    "C": "4 ta",
+    "D": "5 ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Antropometriya qismlari to`g`ri berilgan qatorni tanlang",
+    "A": "Somatometriya, somatoskopiya, fiziometriya",
+    "B": "Somatometriya, dermografiya, fiziometriya",
+    "C": "Dermografiya, plankometriya, somatoskopiya",
+    "D": "Dinamometriya, fiziometriya, somatoskopiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Somatometriya nimani o`rganadi",
+    "A": "Bo`y, vazn, ko`krak aylanasi o`lchamlari",
+    "B": "Qorin o`lchami, puls, o`pkaning tiriklik sig`imi",
+    "C": "Chanoq o`lchamlari, ikkilamchi jinsiy belgilar",
+    "D": "Kalla o`lchamlari, qad-qomat tuzilishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Somatoskopiya nimani o`rganadi",
+    "A": "Qad-qomat shakllanishi, ikkilamchi jinsiy belgilar",
+    "B": "Bo`y, vazn o`lchamlari, dermografiya",
+    "C": "Yassi oyoqlik, kifoz, temperatura",
+    "D": "Lardoz, AQB, chanoq o`lchamlari",
+    "javob": "A"
+  },
+  {
+    "savol": "Fiziometriya nimani o`rganadi",
+    "A": "Puls, AQB, nafas olish soni",
+    "B": "O simon oyoqlar, vazn, qorin o`lchamlari",
+    "C": "X simon oyoqlar, dermografiya",
+    "D": "Egilgan qad-qomat, nafas olish soni",
+    "javob": "A"
+  },
+  {
+    "savol": "Profilaktika aholiga nisbatan necha xil o`tkaziladi?",
+    "A": "3 xil",
+    "B": "4 xil",
+    "C": "2 xil",
+    "D": "1 xil",
+    "javob": "A"
+  },
+  {
+    "savol": "Profilaktika aholiga nisbatan qanday turlarda o`tkaziladi?",
+    "A": "Individual, guruhli, umumiy",
+    "B": "Birlamchi, guruhli, ikkilamchi",
+    "C": "Dastlabki, davriy, umumiy",
+    "D": "Oldingi, rejasiz, rejali",
+    "javob": "A"
+  },
+  {
+    "savol": "Profilaktika darajasiga ko`ra necha xil bo`ladi?",
+    "A": "3 darajali",
+    "B": "5 darajali",
+    "C": "7 darajali",
+    "D": "9 darajali",
+    "javob": "A"
+  },
+  {
+    "savol": "Birlamchi profilaktikada nimaning oldi olinadi?",
+    "A": "Kasallikni",
+    "B": "Nogironlikni",
+    "C": "Asoratni",
+    "D": "O`limni",
+    "javob": "A"
+  },
+  {
+    "savol": "Ikkilamchi profilaktikada nimaning oldi olinadi?",
+    "A": "Asoratni",
+    "B": "Shikastlanishni",
+    "C": "O`limni",
+    "D": "Barchasi to`g`ri",
+    "javob": "A"
+  },
+  {
+    "savol": "Sog`lom turmush tarzini aniqlash uchun qanday so`rovnomalar o`tkaziladi?",
+    "A": "Umumiy va maxsus",
+    "B": "Ommaviy va anonim",
+    "C": "Blankali va raqamli",
+    "D": "So`rovli va variantali",
+    "javob": "A"
+  },
+  {
+    "savol": "Eng keng tarqalgan umumiy so`rovnoma qaysi?",
+    "A": "SF-36",
+    "B": "AQLQ",
+    "C": "AQ-20",
+    "D": "SF-35",
+    "javob": "A"
+  },
+  {
+    "savol": "Mehnat qobiliyatini doimiy (uzoq muddat) yo`qotganlik yoki ko`p jihatdan qisqarganligi nima",
+    "A": "Nogironlik",
+    "B": "Surunkali kasallanish",
+    "C": "Umumiy kasallanish",
+    "D": "O`tkir kasallanish",
+    "javob": "A"
+  },
+  {
+    "savol": "Nogironlikka olib keluvchi a’zolar buzilishiga qarab necha darajaga bo`linadi?",
+    "A": "3 darajaga",
+    "B": "4 darajaga",
+    "C": "2 darajaga",
+    "D": "5 darajaga",
+    "javob": "A"
+  },
+  {
+    "savol": "1-guruh nogironligi beriladi:",
+    "A": "Oddiy sharoitlarda kasbiy faoliyatini to`liq yo`qotgan va o`zgalar xizmatiga yordamiga doimiy muhtoj bo`lgan",
+    "B": "Mehnat qobiliyatini doimiy, uzoq muddatga yo`qotgan, o`zgalar hizmatiga muhtoj bo`lmagan",
+    "C": "Joriy yilda 1-marta nogironlik berilgan shaxslar, mehnat qobiliyatini doimiy, uzoq muddatga yo`qotgan",
+    "D": "Kasbiy faoliyatni bajara oladigan, kundalik ishlarni amalga oshira oladigan",
+    "javob": "A"
+  },
+  {
+    "savol": "2-guruh nogironligi beriladi:",
+    "A": "Mehnat qobiliyatini doimiy, uzoq muddatga yo`qotgan, o`zgalar hizmatiga muhtoj bo`lmagan",
+    "B": "Tayanch-harakat tizimi to`liq ishlamaydigan va o`zgalar xizmatiga (yordamiga) doimiy muhtoj bo`lgan",
+    "C": "Mehnat qobiliyatini yo`qotmagan, o`zgalar yordamisiz kundalik ishlarni bajaradigan",
+    "D": "Oddiy sharoitlarda kasbiy faoliyatini to`liq yo`qotgan va neyropsixologik buzulishga ega bo`lgan",
+    "javob": "A"
+  },
+  {
+    "savol": "Bolalar nogironligini belgilovchi tibbiy ko`rsatkichlar necha qismga bo`linadi:",
+    "A": "3 qismga",
+    "B": "2 qismga",
+    "C": "5 qismga",
+    "D": "4 qismga",
+    "javob": "A"
+  },
+  {
+    "savol": "Bolalar nogironligini belgilovchi tibbiy ko`rsatkichlarga nimalar kiradi?",
+    "A": "Boladagi kasalliklar, ijtimoiy dezadaptatsiya, hayot cheklanishi",
+    "B": "Boladagi kasallik, ijtimoiy sharoitning og`irligi, qarovchisiz qolish",
+    "C": "Chala tug`ilish, irsiy kasallilar, moliyaviy holatning yomonligi",
+    "D": "To`g`ri javob berilmagan",
+    "javob": "A"
+  },
+  {
+    "savol": "1-qism bolalar nogironligiga qancha muddat beriladi?",
+    "A": "6 oy – 2 yil",
+    "B": "1 – 2 yil",
+    "C": "1,5 – 2 yil",
+    "D": "6 oy – 1 yil",
+    "javob": "A"
+  },
+  {
+    "savol": "2-qism bolalar nogironligi qaysi guruhlaga bo`linadi?",
+    "A": "2A va 2B",
+    "B": "Og`ir va yengil",
+    "C": "Birlamchi va ikkilamchi",
+    "D": "Tug`ma va orttirilgan",
+    "javob": "A"
+  },
+  {
+    "savol": "2A bolalar nogironligi uchun qancha muddat beriladi?",
+    "A": "2-5 yil",
+    "B": "1-5 yil",
+    "C": "2-4 yil",
+    "D": "1-4 yil",
+    "javob": "A"
+  },
+  {
+    "savol": "2B bolalar nogironligi uchun qancha muddat beriladi?",
+    "A": "5 yildan ko`p",
+    "B": "4 yildan ko`p",
+    "C": "6 yildan ko`p",
+    "D": "3 yildan ko`p",
+    "javob": "A"
+  },
+  {
+    "savol": "3-qism bolalar nogironligiga qancha muddat beriladi?",
+    "A": "Birato`la 16 yil",
+    "B": "Birato`la 15 yil",
+    "C": "Birato`la 17 yil",
+    "D": "Birato`la 14 yil",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi guruh kattalar nogironlariga nafaqa to`lanadi?",
+    "A": "1 va 2-guruh",
+    "B": "1 va 3-guruh",
+    "C": "2 va 3-guruh",
+    "D": "Faqat 1-guruh",
+    "javob": "A"
+  },
+  {
+    "savol": "Nogironlik muddatiga ko`ra qanday turlarga bo`linadi?",
+    "A": "Vaqtinchalik va doimiy",
+    "B": "Birlamchi ikkilamchi nogironlik",
+    "C": "Tug`ma va orttirilgan nogironlik",
+    "D": "Erta va kechki nogironlik",
+    "javob": "A"
+  },
+  {
+    "savol": "Birlamchi nogironlikka kiradi",
+    "A": "Joriy yilda 1-marta nogironlik berilgan shaxslar",
+    "B": "O`tgan yillardagi nogironlik berilgan shaxslar",
+    "C": "Joriy yilda 2-marta nogironlik berilgan shaxslar",
+    "D": "Uzoq yillardan nogironlik berilgan shaxslar",
+    "javob": "A"
+  },
+  {
+    "savol": "O`zbekistonda nogironlik bo`yicha qaysi tashkilot ish olib boradi?",
+    "A": "IHMA",
+    "B": "BMT",
+    "C": "JSST",
+    "D": "SSV",
+    "javob": "A"
+  },
+  {
+    "savol": "Bolalar nogironligi qoidalarini qaysi tashkilot ishlab chiqadi?",
+    "A": "JSST",
+    "B": "UNICEF",
+    "C": "BMT",
+    "D": "UNESCO",
+    "javob": "A"
+  },
+  {
+    "savol": "O`zbekistonda kattalar nogironligiga sabab bo`luvchi birinchi o`rindagi holat qaysi?",
+    "A": "Umumiy kasallanish",
+    "B": "Shikastlanish",
+    "C": "Tug`ma anomaliya",
+    "D": "Kasb kasalligi",
+    "javob": "A"
+  },
+  {
+    "savol": "O`zbekistonda bolalar nogironligiga sabab bo`luvchi birinchi o`rindagi holat qaysi?",
+    "A": "Asab-sezgi a’zolar kasalligi",
+    "B": "Ruhiy kasallik",
+    "C": "Tug`ma anomaliya",
+    "D": "Jarohatlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Mehnatga layoqatlilik",
+    "A": "Inson organizmi jismoniy va ruhiy jihatdan ishni ma`lum hajmda va sifatda bajara olish imkoniyati tushuniladi",
+    "B": "Shifokorlar tomonidan fuqarolarning mehnatga layoqatsizlik darajasi va uning davrini aniqlash uchun insonlarning ishga layoqatlilik imkoniyati tushuniladi",
+    "C": "Noqulay omillarni bartaraf etish, ularni mehnatga qay darajada layoqatlilik imkoniyati tushuniladi",
+    "D": "Inson organizmi jismoniy jihatdan ishni ma`lum hajmda bajara olishi, qanday ishlar ularni toliqtirishi, mexnat faoliyatini passivlashish sabablari",
+    "javob": "A"
+  },
+  {
+    "savol": "Mehnat qobiliyati turlari qaysilar?",
+    "A": "Umumiy, kasbiy mehnat, mehnatga layoqatsizlik",
+    "B": "Yengil mehnat, og`ir mehnat",
+    "C": "Kasbiy mehnat, muntazam mehnat",
+    "D": "Xavfli mehnat, xavfsiz mehnat, mehnatga layoqatsizlik",
+    "javob": "A"
+  },
+  {
+    "savol": "Mehnatga layoqatsizlik muddati bo`yicha necha xil bo`ladi",
+    "A": "2",
+    "B": "4",
+    "C": "8",
+    "D": "3",
+    "javob": "A"
+  },
+  {
+    "savol": "Mehnatga layoqatsizlik muddat bo`yicha turlari",
+    "A": "Vaqtinchalik va doimiy",
+    "B": "Uzaytirilgan va turg`un",
+    "C": "Kechiktirilgan va qisqa muddatli",
+    "D": "Kechiktirilgan va turg`un",
+    "javob": "A"
+  },
+  {
+    "savol": "Mehnatga layoqatsizlik darajasiga ko`ra necha guruhga bo`linadi",
+    "A": "2 guruh",
+    "B": "3 guruh",
+    "C": "6 guruh",
+    "D": "5 guruh",
+    "javob": "A"
+  },
+  {
+    "savol": "To`liq mehnatga layoqatsizlik",
+    "A": "Insonning hech qanday ishni bajara olmasligi va maxsus davolash tartibiga muhtojligidir",
+    "B": "Vazifasi yoki kasbi bo`yicha ishni bajara olmaslik yoki ish hajmi chegaralanishidir maxsus davolash tartibiga muhtojligidir",
+    "C": "Faqat ish hajmi chegaralangan, maxsus davolash tartibiga muhtoj emas",
+    "D": "Mehnat qobiliyatini yo`qotish hayot faoliyatining cheklanishiga olib kelgan, nogironlikka sabab bo`lgan",
+    "javob": "A"
+  },
+  {
+    "savol": "Qisman mehnatga layoqatsizlik",
+    "A": "Vazifasi yoki kasbi bo`yicha ishni bajara olmaslik yoki ish hajmi chegaralanishidir",
+    "B": "Insonning hech qanday ishni bajara olmasligi va maxsus davolash tartibiga muhtojligidir",
+    "C": "Mehnat qobiliyatini yo`qotish hayot faoliyatining cheklanishiga olib kelgan, ish hajmi chegaralanmagan",
+    "D": "Ish hajmi chegaralanishi, maxsus davolash tartibiga muhtojligi, doimiy yoki uzoq muddatli mehnat qobiliyatini yo`qotish",
+    "javob": "A"
+  },
+  {
+    "savol": "Shifokorlik ekspertizasining tamoyillari nechta?",
+    "A": "3 tamoyil",
+    "B": "4 tamoyil",
+    "C": "2 tamoyil",
+    "D": "5 tamoyil",
+    "javob": "A"
+  },
+  {
+    "savol": "Mehnatga layoqatsizlik varaqasi berilmaydi",
+    "A": "Ishlamaydigan shaxsga",
+    "B": "Nogironga",
+    "C": "Homilador ayolga",
+    "D": "MCHJ ishchisiga",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi holatlarda kasallik varaqasi berilmaydi",
+    "A": "Spirtli ichimlik ichib, mast bo`lishi oqibatida olingan jarohatlar",
+    "B": "Ishlovchi Ikkinchi Jahon urushi nogironlari",
+    "C": "Chernobil AESdagi avariya oqibatini bartaraf etishda nogiron bo`lganlarga",
+    "D": "Ishlovchi nogironlarga",
+    "javob": "A"
+  },
+  {
+    "savol": "Mehnatga layoqatsizlik varaqasi:",
+    "A": "Ishdan ozod qiluvchi, nafaqa olish huquqini beruvchi kasallanishning hisobi yuritiladigan hujjat",
+    "B": "Rasmiy xujjat bo`lib, ishdan ozod qiluvchi ammo nafaqa olish huquqini bermaydigan hujjat",
+    "C": "Yuridik xujjat bo`lib, nafaqa olish huquqini beruvchi ammo kasallanishning hisobi yuritilmaydigan hujjat",
+    "D": "Faqat ishdan ozod qiluvchi hujjat",
+    "javob": "A"
+  },
+  {
+    "savol": "Mehnatga layoqatsizlik ma’lumotnomasi qaysi funksiyani bajarmaydi?",
+    "A": "Moliyaviy hujjat",
+    "B": "Yuridik hujjat",
+    "C": "Tibbiy hujjat",
+    "D": "Rasmiy hujjat",
+    "javob": "A"
+  },
+  {
+    "savol": "Qanday shifokorlar layoqatsizlik varaqasini berish huquqiga ega emaslar",
+    "A": "Sanatoriy, fizioterapevtik kasalxonalar shifokorlari hamda shaxsiy mehnat faoliyati bilan shug`ullanuvchi shifokorlar",
+    "B": "Oilaviy poliklinika, Oilaviy shifokorlik punkti shifokorlari, terapevt, UASh",
+    "C": "Stomatologlar, shaxsiy mehnat faoliyati bilan shug`ullanuvchi shifokorlar",
+    "D": "Barcha sohadagi shifokorlar layoqatsizlik hujjatini berish huquqiga ega",
+    "javob": "A"
+  },
+  {
+    "savol": "Mehnatga layoqatsizlik varaqasi beriladi:",
+    "A": "Karantin uchun",
+    "B": "Alkogol ta’siridagi shikastlanish",
+    "C": "Davriy tibbiy ko`rik uchun",
+    "D": "Kasb kasalligiga shubha qilinsa",
+    "javob": "A"
+  },
+  {
+    "savol": "Mehnatga layoqatsizlik ma’lumotnomasi beriladi:",
+    "A": "Harbiy xizmat uchun tibbiy ko`rikda",
+    "B": "Homiladorlik uchun",
+    "C": "Oilaning betob a’zosini parvarishlashda",
+    "D": "Protezlashda",
+    "javob": "A"
+  },
+  {
+    "savol": "Kasallik varaqasi yoki ma`lumotnoma qachondan beriladi",
+    "A": "Mehnatga layoqatsizlik aniqlangan kundan",
+    "B": "O`tgan muddatga beriladi, lekin 3 kalendar kunidan ortmagan holda",
+    "C": "Mehnatga layoqatsizlik aniqlangan kundan 3 kun o`tgach",
+    "D": "Mehnatga layoqatsizlik aniqlangan kundan to 3 kalendar kunidan ortmagan holda",
+    "javob": "A"
+  },
+  {
+    "savol": "Kasallikning avj olishi tufayli tibbiy yordamga o`z vaqtida murojaat eta olmaganda kasallik varaqasi qachon beriladi",
+    "A": "O`tgan muddatga beriladi, lekin 3 kalendar kunidan ortmagan holda",
+    "B": "Mehnatga layoqatsizlik aniqlanishidan 1 kun oldin",
+    "C": "O`tgan muddatga beriladi, lekin 4 kalendar kunidan ortmagan holda",
+    "D": "Bemor murojat etgan kundan",
+    "javob": "A"
+  },
+  {
+    "savol": "Bemor ambulator-poliklinika sharoitida davolanganda davolovchi shifokor kasallik varaqasini necha kunga bera oldi",
+    "A": "5 kalendar kunigacha berish huquqiga ega",
+    "B": "3 kalendar kunigacha berish huquqiga ega",
+    "C": "6 kalendar kunigacha berish huquqiga ega",
+    "D": "4 kalendar kunigacha berish huquqiga ega",
+    "javob": "A"
+  },
+  {
+    "savol": "Davolovchi shifokor va bo`lim mudiri yoki SHKK bilan qancha muddatga uzaytiradi",
+    "A": "10 kundan oshiq bo`lmagan muddatga",
+    "B": "1 oy muddatga",
+    "C": "15 kun muddatga",
+    "D": "6 oy muddatga",
+    "javob": "A"
+  },
+  {
+    "savol": "Ixtisoslashgan dispanserlarga (kardiologik va onkologik dispanserlardan tashqari) xos kasalliklarga chalingan bemorlarga kasallik varaqasi qaysi shifokorlar tomonidan beriladi",
+    "A": "Ushbu dispanser shifokorlari",
+    "B": "Ambulatoriya shifokorlari",
+    "C": "Oilaviy poliklinika shifokorlari",
+    "D": "Shaxsiy mehnat faoliyati bilan shug`ullanuvchi shifokorlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar dispanser bemorlari umumiy DPMga murojaat etsalar, ularga mehnatga layoqatsizlik varaqalari yoki ma`lumotnoma nechi kunga beriladi",
+    "A": "3 kungacha beriladi",
+    "B": "1 oy muddatga",
+    "C": "15 kun muddatga",
+    "D": "6 oy muddatga",
+    "javob": "A"
+  },
+  {
+    "savol": "Shoshilinch tibbiy yordam punktlari yoki travmatologik punktlarda mehnatga layoqatsiz deb topilganlarga kasallik varaqasi kim tomonidan va qancha muddatga beriladi",
+    "A": "Navbatchi shifokor tomonidan 3 kungacha berilib, so`ngra turar joyi yoki ish joyidagi DPMga yuboriladi",
+    "B": "Davolovchi shifokor va bo`lim mudiri (Bosh shifokor, Bosh shifokor o`rinbosari) bilan birgalikda bir vaqtning o`zida davolashning barcha muddatiga beriladi",
+    "C": "Navbatchi shifokor tomonidan 7 kungacha berilib, so`ngra turar joyi yoki ish joyidagi DPMga yuboriladi",
+    "D": "Statsionar shifokor hamda mudir bilan birgalikda 3 kalendar kunidan ortiq bo`lmagan holda DPMga kelish uchun zarur bo`lgan muddatga beriladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Eng kam mehnatga layoqatsizlik varaqasi muddati necha kun",
+    "A": "1 kun",
+    "B": "3 kun",
+    "C": "5 kun",
+    "D": "7 kun",
+    "javob": "A"
+  },
+  {
+    "savol": "Mehnatga layoqatsizlik varaqasi xodimni ishdan maksimal necha kunga ozod qila oladi",
+    "A": "6 oy",
+    "B": "1 oy",
+    "C": "3 oy",
+    "D": "12 oy",
+    "javob": "A"
+  },
+  {
+    "savol": "Boshqa hududda bo`lgan davrda vaqtincha mehnatga layoqatsizlik varaqasi yoki ma`lumotnoma kimning ruxsati bilan beriladi",
+    "A": "Bosh shifokorning ruxsati",
+    "B": "Sog`liqni saqlash vazirining ruxsati",
+    "C": "Oilaviy poliklinika shifokorining ruxsati",
+    "D": "Sog`liqni saqlash boshqarmasi boshlig`ining ruxsati",
+    "javob": "A"
+  },
+  {
+    "savol": "Mehnatga layoqatsizlik varaqasi qayerda beriladi va uzaytiriladi",
+    "A": "DPMda, davolash ishlarini olib borayotgan vaqtda beriladi va uzaytiriladi",
+    "B": "Ambulatoriyada, bosh shifokor uzaytirib beradi",
+    "C": "Poliklinikada beriladi, oila shifokori va bosh shifokor nazorati ostida uzaytirib beriladi",
+    "D": "DPMda ro`yxatga olingan zahoti beriladi, DPM bosh shifokori uzaytirib beradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Kasallik varaqasi SHKK tomonidan beriladi, agar SHKK bo`lmasa, kim tomonidan kasallik varaqasi beriladi",
+    "A": "Davolovchi shifokor va Bosh shifokor bilan hamkorlikda",
+    "B": "SSV hamkorligida yoki davolovchi shifokor tomonidan",
+    "C": "Bo`lim mudiri va Bosh shifokor bilan hamkorlikda",
+    "D": "Bosh shifokor va uning o`rinbosari hamkorlikda",
+    "javob": "A"
+  },
+  {
+    "savol": "Homiladorlikda va tug`ruqda kasallik varaqalarining berilishi DPM akusher-ginekologi tomonidan jami qancha kunga beriladi",
+    "A": "Jami 126 kalendar kuniga beriladi",
+    "B": "Jami 200 kalendar kuniga beriladi",
+    "C": "Jami 150 kalendar kuniga beriladi",
+    "D": "Jami 176 kalendar kuniga beriladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Homiladorlik va tug`ruqda kasallik varaqalari nechanchi haftadan beriladi?",
+    "A": "30-haftadan",
+    "B": "31-haftadan",
+    "C": "32-haftadan",
+    "D": "33-haftadan",
+    "javob": "A"
+  },
+  {
+    "savol": "Homiladorlik va tug`ruq ta’tili tug`ruqqacha necha kun beriladi?",
+    "A": "70 kun",
+    "B": "56 kun",
+    "C": "80 kun",
+    "D": "76 kun",
+    "javob": "A"
+  },
+  {
+    "savol": "Homiladorlik va tug`ruq ta’tili tug`ruqdan so`ng necha kun beriladi?",
+    "A": "56 kun",
+    "B": "70 kun",
+    "C": "90 kun",
+    "D": "60 kun",
+    "javob": "A"
+  },
+  {
+    "savol": "Tug`ruqlar og`ir hechsa yoki ikki va undan ortiq bola tug`ilganda kasallik varaqasi yana qancha kunga uzaytiriladi",
+    "A": "14 kalendar kunga",
+    "B": "20 kalendar kunga",
+    "C": "15 kalendar kunga",
+    "D": "18 kalendar kunga",
+    "javob": "A"
+  },
+  {
+    "savol": "DPMda kasallik tufayli homilani sun`iy to`xtatilsa hamda bola tashlashda kasallik varaqasi qancha mudatga beriladi",
+    "A": "Barcha muddatlarda",
+    "B": "30 kalendar",
+    "C": "35 kalendar",
+    "D": "25 kalendar",
+    "javob": "A"
+  },
+  {
+    "savol": "Chaqaloq tug`ilgandan so`ng nobud bo`lsa, ta’til necha kun beriladi?",
+    "A": "56 kun",
+    "B": "14 kun",
+    "C": "20 kun",
+    "D": "40 kun",
+    "javob": "A"
+  },
+  {
+    "savol": "Chaqaloq tug`ilganda ona vafot etganda vasiyga qancha ta’til beriladi?",
+    "A": "56 kun",
+    "B": "25 kun",
+    "C": "16 kun",
+    "D": "30 kun",
+    "javob": "A"
+  },
+  {
+    "savol": "Bola parvarish ta’tili necha kunga beriladi?",
+    "A": "3 yilgacha",
+    "B": "2 yilgacha",
+    "C": "1 yilgacha",
+    "D": "4 yilgacha",
+    "javob": "A"
+  },
+  {
+    "savol": "Ambulator kasallangan 14 yoshgacha bola parvarishi uchun necha kunga varaqa beriladi?",
+    "A": "14 kungacha",
+    "B": "15 kungacha",
+    "C": "16 kungacha",
+    "D": "17 kungacha",
+    "javob": "A"
+  },
+  {
+    "savol": "Ambulator kasallangan 14 yoshdan katta bola parvarishi uchun necha kunga varaqa beriladi?",
+    "A": "7 kungacha",
+    "B": "10 kungacha",
+    "C": "12 kungacha",
+    "D": "13 kungacha",
+    "javob": "A"
+  },
+  {
+    "savol": "Ishlovchi nogironlarga kasallik varaqasi qatorasiga qancha muddatga beriladi",
+    "A": "2 oydan ortiq bo`lmagan davrga yoki kalendar yilida 3 oydan ko`p bo`lmagan davrga beriladi",
+    "B": "2 oydan ortiq bo`lmagan davrga yoki kalendar yilida 4 oydan ortiq bo`lmagan holda",
+    "C": "5 oydan ortiq bo`lmagan davrga yoki kalendar yilida 2 oydan ko`p bo`lmagan davrga beriladi",
+    "D": "3 oydan ortiq bo`lmagan davrga yoki kalendar yilida 3 oydan ko`p bo`lmagan davrga beriladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ishlovchi Ikkinchi Jahon urushi nogironlari, Chernobil AESdagi avariya oqibatini bartaraf etishda nogiron bo`lganlarga kasallik qancha muddatga beriladi",
+    "A": "4 oygacha yoki kalendar yilida 5 oygacha beriladi",
+    "B": "3 kalendar kunidan ortiq bo`lmagan holda",
+    "C": "2 oygacha yoki kalendar yilida 5 oygacha beriladi",
+    "D": "5 oygacha yoki kalendar yilida 5 oygacha beriladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Karantin uchun mehnatga layoqatsizlik varaqasi necha kunga beriladi?",
+    "A": "Karantin kuniga teng",
+    "B": "7 kun",
+    "C": "14 kun",
+    "D": "21 kun",
+    "javob": "A"
+  },
+  {
+    "savol": "Karantin uchun mehnatga layoqatsizlik varaqasi hujjatlari qanday almashinadi?",
+    "A": "Elektron",
+    "B": "Yozma",
+    "C": "Og`zaki",
+    "D": "Sud orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Karantin uchun mehnatga layoqatsizlik varaqasi kim tomonidan beriladi?",
+    "A": "Epidemiolog",
+    "B": "Infeksionist",
+    "C": "Bosh shifokor",
+    "D": "Terapevt",
+    "javob": "A"
+  },
+  {
+    "savol": "Kasallik varaqasi muhr joylashuvi qoidasi varaqa ochilganda qanday?",
+    "A": "Yuqori o`ng burchagiga DPMning muhri qo`yiladi",
+    "B": "Yuqori chap burchagiga DPMning muhri qo`yiladi",
+    "C": "Yuqori o`rtasiga DPMning muhri qo`yiladi",
+    "D": "Bemor ismi ustida DPMning muhri qo`yiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Kasallik varaqasi muhr joylashuvi qoidasi varaqa yopilganda qanday?",
+    "A": "Pastki o`ng burchagiga DPMning muhri qo`yiladi",
+    "B": "Pastki o`rtasiga DPMning muhri qo`yiladi",
+    "C": "Pastki chap burchagiga DPMning muhri qo`yiladi",
+    "D": "Sana ustida DPMning muhri qo`yiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Kasallik varaqasida diagnoz yozishda qoida qanday?",
+    "A": "Simptomlarsiz yoziladi",
+    "B": "XKT-10dan foydalanilmaydi",
+    "C": "Kasallik kodlari qo`yilmaydi",
+    "D": "Umumiy tashxis yoziladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Kasallik varaqasida barcha ma’lumotlarni yozishda qoida qanday?",
+    "A": "Qisqartirishsiz yoziladi",
+    "B": "Bosh harflar ishlatiladi",
+    "C": "Faqat krill alifbosida yoziladi",
+    "D": "Barcha javob to`g`ri",
+    "javob": "A"
+  },
+  {
+    "savol": "Nogironlik va vaqtinchalik mehnatga layoqatsizlik bilan ishlovchi, nazorat qiluvchi tibbiy xodimlar",
+    "A": "TIEK va SHKK",
+    "B": "TIEK va mudir",
+    "C": "SHKK va mudir",
+    "D": "TMEK va SHKK",
+    "javob": "A"
+  },
+  {
+    "savol": "Viloyat TIEKda mavjud lavozimlar:",
+    "A": "Rais, ekspert shifokor, metodist",
+    "B": "Rais, yurist, hamshira",
+    "C": "Rais, ekspert shifokor, moliyachi",
+    "D": "Rais, AKT xodim, rentgenolog",
+    "javob": "A"
+  },
+  {
+    "savol": "Bosh tibbiy-ijtimoiy ekspert komissiyasi raisi lavozimiga tayinlanadi",
+    "A": "Tibbiy-ijtimoiy ekspertiza bo`yicha kamida 5 yil ish stajiga ega bo`lgan shifokor",
+    "B": "Tibbiy-ijtimoiy ekspertiza bo`yicha kamida 4 yil ish stajiga ega bo`lgan shifokor",
+    "C": "Tibbiy-ijtimoiy ekspertiza bo`yicha kamida 6 yil ish stajiga ega bo`lgan shifokor",
+    "D": "Tibbiy-ijtimoiy ekspertiza bo`yicha kamida 3 yil ish stajiga ega bo`lgan shifokor",
+    "javob": "A"
+  },
+  {
+    "savol": "Barcha darajalardagi TIEKda ishlash uchun mutaxassisligi bo`yicha qanday shifokorlar jalb qilinadi",
+    "A": "Ish staji 3 yildan kam bo`lmagan",
+    "B": "Ish staji 7 yildan kam bo`lmagan",
+    "C": "Ish staji 9 yildan kam bo`lmagan",
+    "D": "Ish staji 5 yildan kam bo`lmagan",
+    "javob": "A"
+  },
+  {
+    "savol": "TIEK shifokorlari har necha yilda mutaxassisligi bo`yicha malaka oshiradi?",
+    "A": "Har 5 yilda",
+    "B": "Har 3 yilda",
+    "C": "Har 2 yilda",
+    "D": "Har 6 yilda",
+    "javob": "A"
+  },
+  {
+    "savol": "Tuman tibbiy-ijtimoiy ekspert komissiyasi qaysi shifokordan iborat",
+    "A": "Terapevt, xirurg, nevropatolog, pediatr",
+    "B": "Ginekolog, endokrinolog, xirurg",
+    "C": "Lor, terapevt, xirurg",
+    "D": "Xirurg, neyroxirurg, terapevt",
+    "javob": "A"
+  },
+  {
+    "savol": "Viloyat TIEKda mavjud ammo, tuman TIEKda mavjud bo`lmagan ekspert shifokorlar:",
+    "A": "Psixiatr, ftiziatr, oftalmolog",
+    "B": "Psixiatr, ftiziatr, LOR",
+    "C": "Ftiziatr, oftalmolog, psixolog",
+    "D": "Oftalmolog, psixiatr, gepatolog",
+    "javob": "A"
+  },
+  {
+    "savol": "SHKK mehnatga layoqatsizlikning qaysi oyidan boshlab bemorni TIEKga yuboradi",
+    "A": "3 kalendar oydan kechikmay",
+    "B": "4 kalendar oygacha",
+    "C": "8 kalendar oygacha",
+    "D": "1 kalendar oygacha",
+    "javob": "A"
+  },
+  {
+    "savol": "Toshkent shifokorlar malakasini oshirish instituti ShME kafedrasidagi SHKK nima hisoblanadi",
+    "A": "Respublika Markaziy SHKKsi hisoblanadi",
+    "B": "Viloyat SHKKsi hisoblanadi",
+    "C": "Shaxar SHKKsi hisoblanadi",
+    "D": "Markaziy shaxar SHKKsi hisoblanadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi modda fuqarolarning sog`ligini saqlashga qaratilgan",
+    "A": "34-modda",
+    "B": "103-modda",
+    "C": "56-modda",
+    "D": "30-modda",
+    "javob": "A"
+  },
+  {
+    "savol": "Shifokor siri o`z ichiga nimalarni oladi",
+    "A": "Sog`ligining xolati, tashxis, davolash paytidagi ma`lumotlar",
+    "B": "Bemor yoshi, antopometrik o`lchov",
+    "C": "Bemorning oilaviy ahvoli, kasallik xaqidagi ma`lumot",
+    "D": "Davolash protsessi, qo`llanilayotgan dori vositalar",
+    "javob": "A"
+  },
+  {
+    "savol": "DPMga kiradi",
+    "A": "Shifoxona, tez va shoshilinch tibbiy yordam, qon quyish muasasalari, onalik va bolalikni muhofazalash, dispanserlar",
+    "B": "Sanitariya-profilaktika muassasasi, sud tibbiyoti ekspertizasi va patologoanatomiya muassasasi",
+    "C": "Ilmiy tekshirish institutlari, patologoanatomiya muassasasi",
+    "D": "Tug`ruq komplekslari, sanitariya-profilaktika muassasasi, sud tibbiyoti ekspertizasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Nechta umumiy amaliyot shifokoriga 1ta bo`lim mudiri lavozimi ajratiladi",
+    "A": "9 ta",
+    "B": "5 ta",
+    "C": "4 ta",
+    "D": "6 ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Umumiy amaliyot shifokorining soni 6.5 dan 9 gacha bo`lsa, qancha bo`lim mudiri lavozimi ajratiladi",
+    "A": "0.5 bo`lim mudiri",
+    "B": "1 bo`lim mudiri",
+    "C": "0.75 bo`lim mudiri",
+    "D": "2 bo`lim mudiri",
+    "javob": "A"
+  },
+  {
+    "savol": "Poliklinika shifokorining asosiy ish usuli",
+    "A": "Dispanser usuli",
+    "B": "Ambulatoriya usuli",
+    "C": "Poliklinika usuli",
+    "D": "Individual usul",
+    "javob": "A"
+  },
+  {
+    "savol": "O`zbekiston sog`liqni saqlash tizimida birlamchi bo`g`in qaysi",
+    "A": "OP, OSHP",
+    "B": "QVP, QOP",
+    "C": "KTMP",
+    "D": "TTB",
+    "javob": "A"
+  },
+  {
+    "savol": "OP va OSHPda asosiy tibbiy xodim bo`g`ini qaysi",
+    "A": "UASH",
+    "B": "Patronaj",
+    "C": "Doya",
+    "D": "Xirurg",
+    "javob": "A"
+  },
+  {
+    "savol": "Dispanserizatsiyaning asosiy vazifasi",
+    "A": "Kasallikni barvaqt aniqlash, faol aniqlash, faol davolash, faol kuzatish, patronaj kabi ishlar",
+    "B": "Axoliga statsionargacha bo`lgan birlamchi tibbiy yordam ko`rsatish",
+    "C": "Kasallikni barvaqt aniqlash, axoliga statsionargacha bo`lgan birlamchi tibbiy yordam ko`rsatish",
+    "D": "Nogironligi bor bo`lgan shaxslarni nazoratga olish, ularga ijtimoiy yordam ko`rsatish",
+    "javob": "A"
+  },
+  {
+    "savol": "O`rta tibbiyot xodimining ish rejimi",
+    "A": "2 va 3 smenali",
+    "B": "1 smenali",
+    "C": "Navbatchilik",
+    "D": "1 va 2 smenali",
+    "javob": "A"
+  },
+  {
+    "savol": "Xizmat ko`rsatiladigan aholi soniga qarab OP bo`linadi: birinchi tipda",
+    "A": "1500 kishigacha xizmat ko`rsatadigan",
+    "B": "1500 kishidan 3500 kishigacha xizmat ko`rsatadigan",
+    "C": "3500 kishidan 6000 kishigacha xizmat ko`rsatadigan",
+    "D": "6000 kishidan 10000 kishigacha xizmat ko`rsatadigan",
+    "javob": "A"
+  },
+  {
+    "savol": "Xizmat ko`rsatiladigan aholi soniga qarab OP bo`linadi: ikkinchi tipda",
+    "A": "1500 kishidan 3500 kishigacha xizmat ko`rsatadigan",
+    "B": "4000 kishidan 8000 kishigacha xizmat ko`rsatadigan",
+    "C": "2500 kishigacha xizmat ko`rsatadigan",
+    "D": "5000 kishidan 10000 kishigacha xizmat ko`rsatadigan",
+    "javob": "A"
+  },
+  {
+    "savol": "Xizmat ko`rsatiladigan aholi soniga qarab OP bo`linadi uchinchi tipda",
+    "A": "3500 kishidan 6000 kishigacha xizmat ko`rsatadigan",
+    "B": "500 kishigacha xizmat ko`rsatadigan",
+    "C": "2000 kishidan 4000 kishigacha xizmat ko`rsatadigan",
+    "D": "6000 kishidan 10000 kishigacha xizmat ko`rsatadigan",
+    "javob": "A"
+  },
+  {
+    "savol": "Xizmat ko`rsatiladigan aholi soniga qarab OP bo`linadi: to`rtinchi tipda",
+    "A": "6000 kishidan 10000 kishigacha xizmat ko`rsatadigan",
+    "B": "3000 kishigacha xizmat ko`rsatadigan",
+    "C": "500 kishidan 3500 kishigacha xizmat ko`rsatadigan",
+    "D": "3000 kishidan 5000 kishigacha xizmat ko`rsatadigan",
+    "javob": "A"
+  },
+  {
+    "savol": "Har bitta UASH o`ziga biriktirilgan aholini qancha muddatda ko`rikdan o`tkazishi kerak",
+    "A": "1 oyda bir marotaba",
+    "B": "15 kunda bir marotaba",
+    "C": "40 kunda bir marotaba",
+    "D": "2 oyda bir marotaba",
+    "javob": "A"
+  },
+  {
+    "savol": "Har bitta patronaj hamshirasi o`ziga biriktirilgan aholini qancha muddatda ko`rikdan o`tkazishi kerak",
+    "A": "10-15 kunda bir marotaba",
+    "B": "1 oyda bir marotaba",
+    "C": "25-35 kunda bir marotaba",
+    "D": "20-40 kunda bir marotaba",
+    "javob": "A"
+  },
+  {
+    "savol": "Har bir dispanser nazoratiga olingan shaxsga dispanser kuzatuvining nazorat kartasi",
+    "A": "sh-030/h",
+    "B": "sh- 032/h",
+    "C": "sh- 045/h",
+    "D": "sh - 067/h",
+    "javob": "A"
+  },
+  {
+    "savol": "Tuman markaziy shifoxonasi bosh shifokori",
+    "A": "Tibbiyot birlashmasining boshlig`i hisoblanadi",
+    "B": "Davolash-profilaktika ishlari bo`yicha muovin",
+    "C": "TTB va SEO va JSB boshlig`i",
+    "D": "To`g`ri javob berilmagan",
+    "javob": "A"
+  },
+  {
+    "savol": "Onalik va bolalikni muhofaza qilish nimalarni tashkil etishdan iborat",
+    "A": "Akusher-ginekologik va bolalarga davolash-profilaktika yordamini tashkil etishdan iborat",
+    "B": "Ayollarga homiladorlikkacha bo`lgan davrda tibbiy yordam ko`rsatishdan iborat",
+    "C": "Homilaning tug`ruq davridagi muhofazasi yordamini tashkil etishdan iborat",
+    "D": "Homilaning antenatal davrdagi sog`lig`ini muhofaza qilish yordamini tashkil etishdan iborat",
+    "javob": "A"
+  },
+  {
+    "savol": "Ayollarga akusher-ginekologik yordam ko`rsatadigan ambulatoriya tipidagi asosiy muassasalar",
+    "A": "OP, tug`uruq kompleksi, tibbiy-sanitariya qismlari, konsultativ-diagnostika poliklinikasi, ko`p tarmoqli tuman markaziy poliklinikasi",
+    "B": "Qabul bo`limi, Tug`ruq kompleksi, tibbiy-sanitariya qismlari, konsultativ-diagnostika poliklinikasi, patalogoanatomiya",
+    "C": "Konsultativ-diagnostika poliklinikasi, ko`p tarmoqli tuman markaziy poliklinikasi, Statsionar bo`limi",
+    "D": "Yordamchi xizmat bo`limi, patologik anatomiya bo`limi, tibbiy-sanitariya qismlari, konsultativ-diagnostika poliklinikasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Homilador ayollarni barvaqt ro`yxatga olish",
+    "A": "Homiladorlikning 3-oyigacha",
+    "B": "Homiladorlikning 5-oyigacha",
+    "C": "Homiladorlikning 4-oyigacha",
+    "D": "Homiladorlikning 6-oyigacha",
+    "javob": "A"
+  },
+  {
+    "savol": "Homilador ayollar salomatlik holatiga qarab 3 guruhga bo`linadi",
+    "A": "Sog`lom ayollar, amaliy sog`lom, bemor-homilador ayol",
+    "B": "Homiladorlik asoratsiz hechayotgan ayol, kasalliklarga chalingan ayol, amaliy sog`lom",
+    "C": "Sog`lom ayollar, tug`ma nogiron, orttirilgan kasalliklar natijasidagi kasalliklar",
+    "D": "Sog`lom ayollar, amaliy sog`lom, ortirilgan kasalliklar natijasidagi kasalliklar",
+    "javob": "A"
+  },
+  {
+    "savol": "Homilador ayollarni kuzatish va tekshirish kartasi",
+    "A": "sh-111/h",
+    "B": "sh-112/h",
+    "C": "sh-12/h",
+    "D": "sh-11/h",
+    "javob": "A"
+  },
+  {
+    "savol": "Tug`ruqdan keyin ayollarni kuzatish",
+    "A": "Tug`ruqxonadan chiqqan kunning 3-sutkasiga va bir haftadan so`ng",
+    "B": "3 oygacha",
+    "C": "Tekshirilmaydi",
+    "D": "Tug`ruqxonadan chiqqan kunning 5-sutkasiga va bir haftadan so`ng",
+    "javob": "A"
+  },
+  {
+    "savol": "Bolalar ginekologi",
+    "A": "Qizlarni qabul qiladi",
+    "B": "Bolalar va o`smir qizlarni umumiy dispanserizastiya qiladi",
+    "C": "Tug`ilgandan to 15 yoshgacha bo`lgan sog`lom qizlarni qabul qiladi",
+    "D": "Ruhiy shikastlanishlarning oldini olish maqsadida qiz bolani tekshiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Turmush qurayotgan yoshlarni nikohdan oldin tibbiy ko`rikdan o`tkazish",
+    "A": "Poliklinikada tibbiy ko`rik, tegishli tekshirishlar bepul o`tkaziladi",
+    "B": "Nikohlanuvchilarning xohishlariga ko`ra poliklinikada ayrim tekshiruvlar o`tkaziladi",
+    "C": "Ilmiy-amaliy tekshiruv markazlarida maxsus to`lovlar asosida o`tkaziladi",
+    "D": "To`g`ri javob berilmagan",
+    "javob": "A"
+  },
+  {
+    "savol": "Tug`ruqdan keyingi davr asoratsiz hechgan holda tug`ruqdan keyin ayolning chiqarilishi",
+    "A": "3-5 kundan ko`p emas",
+    "B": "6-7 kundan ko`p emas",
+    "C": "3-6 kundan ko`p emas",
+    "D": "3-4 kundan ko`p emas",
+    "javob": "A"
+  },
+  {
+    "savol": "Demedikalizastiya deb nimaga aytiladi?",
+    "A": "Dardsiz tug`ruq",
+    "B": "Dardli tug`ruq",
+    "C": "Kesarcha kesish",
+    "D": "Patologik xomiladorlik",
+    "javob": "A"
+  },
+  {
+    "savol": "Tug`ruqdan keyingi davr ichida ona va bola parvarishining quyidagi asosiy prinsipi",
+    "A": "Ona va bolaning jismoniy va emotsional holatini yaxshilashga, bolani ko`krak bilan maqsadli emishiga ko`maklashish",
+    "B": "Tug`ruq jarayonida erkin holat, tabiiy holatda tug`ishning afzalligini tushuntirish",
+    "C": "Tug`uvchi ayolni tug`ruqni rejalashtirishga faol jalb qilish",
+    "D": "Homilador ayolga kerakli bo`lgan ma`lumotni berish",
+    "javob": "A"
+  },
+  {
+    "savol": "Chaqaloqning tug`ilgan paytidagi kategoriyalari farq qilinadi",
+    "A": "Muddati bo`yicha, vazni bo`yicha",
+    "B": "Muddatiga etmagan chaqaloq (28—37 hafta)",
+    "C": "Muddatidagi chaqaloq (37— 42 hafta)",
+    "D": "Muddatidan o`tgan chaqaloq (42 hafta va ortiq)",
+    "javob": "A"
+  },
+  {
+    "savol": "Kasalxona ichi infeksiyasini oldini olish, epidemiyaga qarshi kurash qanday tartibda o`tkaziladi",
+    "A": "Bir yilda bir marta dezinfeksiya qilish, yuvish, ta`mirlash ishlarini olib borish uchun bo`limlar yopiladi",
+    "B": "Palatalardagi havo harorati 22-24°C, havo namligi 60% dan kam bo`lmasligi kerak",
+    "C": "Har bir boksda bolalar yoshiga mos holdagi karavotlar, individual foydalanish uchun tumbochka, kuvezlar tashkil qilinadi",
+    "D": "Palatalar har kuni framugalar yordamida kamida 6 marta shamollatib turiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Dunyoda yagona bo`lgan sog`liqni saqlash tizimi bu",
+    "A": "Tez va shoshilinch tibbiy yordam tizimi",
+    "B": "Ambulatoriya tibbiy yordam tizimi",
+    "C": "Shifoxonalar tibbiy yordam tizimi",
+    "D": "Barcha turdagi DPM tibbiy yordam tizimi",
+    "javob": "A"
+  },
+  {
+    "savol": "O`zbekiston Respublikasi Prezidentining 2003-yil 23-fevraldagi PF 3214-sonli farmoni nomi",
+    "A": "Sog`liqni saqlash tizimini yanada isloh qilish chora-tadbirlari to`g`risida",
+    "B": "Fuqarolarning hayoti xavf ostida bolganda DPM ga qanday transport turidan foydalanishi haqida",
+    "C": "Fuqarolarga bepul tibbiy yordam ko`rsatish",
+    "D": "Fuqarolarni sog`lig`ini saqlashga qaratilgan",
+    "javob": "A"
+  },
+  {
+    "savol": "O`zbekiston Respublikasi Prezidentining 2003-yil 23-fevraldagi PF 3214-sonli farmoniga muvofiq qanday markazlar tashkil etildi",
+    "A": "Urologiya, kardiologiya, xirurgiya va ko`z mikroxirurgiyasi",
+    "B": "Ko`krak jarrohligi, kardiologiya, xirurgiya va ko`z mikroxirurgiyasi",
+    "C": "Ginekologiya, urologiya, xirurgiya, ko`krak jarrohligi",
+    "D": "Ko`krak jarrohligi, ginekologiya, kardiologiya, xirurgiya va ko`z mikroxirurgiyasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Viloyatlar va Toshkent shahar sog`liqni saqlash boshqarmalari qaysi ikki tashkilotga bo`ysunadi",
+    "A": "Tegishli hokimlik va Sog`liqni saqlash vazirligiga",
+    "B": "Ichki ishlar bosh boshkarmasi va Sog`liqni saqlash vazirligiga",
+    "C": "Davlat xavfsizlik xizmati va Sog`liqni saqlash vazirligiga",
+    "D": "Sog`liqni saqlash vazirligiga va SEO va JSQ",
+    "javob": "A"
+  },
+  {
+    "savol": "Sog`liqni saqlashdagi statistika nimaga asoslangan",
+    "A": "Birlamchi tibbiyot muassasalaridan axborotlarni hisobot usulida qabul qilish va ularni yuqori sog`liqni saqlash muassasalarida jamlashga",
+    "B": "Voqealarga to`g`ri baho berish, tegishli xulosalar chiqarish, ishni yaxshi tashkil etish, aniq rejalash va istiqbol reja tuzishga",
+    "C": "Muayyan turdagi ixtisos yo`nalishi bo`yicha amalga oshirishga va ularni yuqori sog`liqni saqlash muassasalarida jamlashga",
+    "D": "Sog`liqni saqlash vazirligi bilan kelishilgan holda markaz oldiga qo`yilgan vazifalarni amalga oshirish uchun o`z faoliyatini tashkil etishga",
+    "javob": "A"
+  },
+  {
+    "savol": "Birlamchi tibbiy hisobotlar shakllari nechta guruhga bo`lingan",
+    "A": "10 ta guruhga bo`lingan",
+    "B": "20 ta guruhga bo`lingan",
+    "C": "12 ta guruhga bo`lingan",
+    "D": "3 ta guruhga bo`lingan",
+    "javob": "A"
+  },
+  {
+    "savol": "Yuqumli kasalliklarning oldini olish vositasi",
+    "A": "Sanitariya va epidemiologik tadbirlar, profilaktik emlash tadbirlari kiradi",
+    "B": "Xalq xo`jaligi ob`ektlarida sanitariya nazoratini olib borish orqali umumjamiyat profilaktikasi bilan shug`ullanadi",
+    "C": "Bajarilgan ishlardan keyin olingan faktik natijalarni o`lchashga asoslanadi",
+    "D": "Bevosita ishlarni bajarish mobaynida amalga oshiriladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Byudjetni tuzish bosqichlari quyidagilardan iborat",
+    "A": "O`tgan yil bo`yicha moliyaviy hisobot ma`lumotlarining tahlili",
+    "B": "Joriy yilda moliyaviy xarajatlarning bajarilishini baholash",
+    "C": "Rejalashtirilayotgan moliyaviy yil uchun byudjet loyihasini tuzish",
+    "D": "Barcha javoblar to`g`ri",
+    "javob": "A"
+  },
+  {
+    "savol": "Davlat statistikasi to`g`risidagi qonunning nechinchi moddasi statistikaning vazifalari haqida",
+    "A": "3-modda",
+    "B": "4-modda",
+    "C": "5-modda",
+    "D": "2-modda",
+    "javob": "A"
+  },
+  {
+    "savol": "Davlat statistikasi to`g`risidagi qonunning nechinchi moddasi statistikaning tamoyillari haqida",
+    "A": "4-moddasi",
+    "B": "6-moddasi",
+    "C": "1-moddasi",
+    "D": "7-moddasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Davlat statistikasi to`g`risidagi qonunning nechinchi moddasi statistikani soxtalashtirish haqida",
+    "A": "16-moddasi",
+    "B": "17-moddasi",
+    "C": "15-moddasi",
+    "D": "14-moddasi",
+    "javob": "A"
+  }
+]
