@@ -1,0 +1,1978 @@
+[
+  {
+    "savol": "Umumiy Nozologiyaning asosiy tushunchasi berilgan qatorni toping?",
+    "A": "Kasallik oldi holat",
+    "B": "Kasallik sababi",
+    "C": "Kasallik keltirib chiqaruvchi sharoit",
+    "D": "Hujayra shikastlanishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Tipik patologik jarayon keltirilgan qatorni belgilang?",
+    "A": "gipoksiya",
+    "B": "aksirish",
+    "C": "gipertrofiya",
+    "D": "giperplaziya",
+    "javob": "A"
+  },
+  {
+    "savol": "Etiologiya o’rganadi?",
+    "A": "Sabab va sharoit",
+    "B": "Sabab va mexanizm",
+    "C": "Sharoit va mexanizm",
+    "D": "Kasallik va norma",
+    "javob": "A"
+  },
+  {
+    "savol": "Kasallik bosqichlari to’g’ri berilgan qatorni toping?",
+    "A": "Prodormal davr",
+    "B": "Surunkali",
+    "C": "Agoniya",
+    "D": "Preagoniya",
+    "javob": "A"
+  },
+  {
+    "savol": "Ichki omillar berilgan javobni toping?",
+    "A": "Immun reaktivlik",
+    "B": "Gigiyena qoidalari",
+    "C": "Ovqatlanish buzulishi",
+    "D": "Ijtimoiy hayotdagi tuyg’ular",
+    "javob": "A"
+  },
+  {
+    "savol": "Etiologik omillar nazariyasi keltirilgan javob?",
+    "A": "Dialektik kauzalizm",
+    "B": "Mutatsion kauzalizm",
+    "C": "Epigenom kauzalizm",
+    "D": "Kanserogen kauzalizm",
+    "javob": "A"
+  },
+  {
+    "savol": "Patogenez halqalari nimalardan iborat?",
+    "A": "Boshlang’ich halqa,xavfli halqa",
+    "B": "Asosiy halqa,terminal halqa",
+    "C": "Asosiy halqa,mutatsion halqa",
+    "D": "Boshlang’ich halqa,terminal halqa",
+    "javob": "A"
+  },
+  {
+    "savol": "Sog’ayish jarayonini o’rganadi?",
+    "A": "Sanogenez",
+    "B": "Patogenez",
+    "C": "Nozologiya",
+    "D": "Etiologiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Tezkor turg’un bo’lmagan kompensator jarayonga kiradi?",
+    "A": "Yo’tal,Qusish",
+    "B": "Vikar kompensatsiya",
+    "C": "Gipertrofiya",
+    "D": "Regeneratsiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Fenokopiya bu?",
+    "A": "Nasldan naslga o’tmaydigan tug’ma kasalliklar",
+    "B": "Nasldan naslga o’tuvchi xromosoma kasalligi",
+    "C": "Nasldan naslga o’tuvchi gen kasalligi",
+    "D": "Nasldan naslga o’tmaydigan autoimmune kasalliklar",
+    "javob": "A"
+  },
+  {
+    "savol": "Nasliy moyillikka ega kasallik berilgan qatorni toping?",
+    "A": "Qandli diabet,epilepsiya",
+    "B": "Tonzillit,shizofreniya",
+    "C": "Yurak ishemik kasalligi,glomerulonefrit",
+    "D": "Piyelonefrit,otit",
+    "javob": "A"
+  },
+  {
+    "savol": "Hujayra shikastlanishida yadroning bujmayishi?",
+    "A": "Kariopiknoz",
+    "B": "Karioreksis",
+    "C": "Kariolizis",
+    "D": "Karioplazmolis",
+    "javob": "A"
+  },
+  {
+    "savol": "Hujayrani shikastlovchi endogen biologic factor?",
+    "A": "Gormonlar miqdorining ortishi",
+    "B": "Ionlar miqdorining ortishi",
+    "C": "Erkin radikallarning ko’p to’planishi",
+    "D": "Gelmentlarning miqdori ortishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Hujayra membranasi zararlanishi bilan hujayra shikastlanish mexanizmini toping?",
+    "A": "Makromolekulalar komformatsiyasining buzulishi",
+    "B": "Derepression buzulish",
+    "C": "Repression buzulish",
+    "D": "Yadroning bo’linishi,sitoplazmaning bo’linmasligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Antioksidant tizim vazifasi?",
+    "A": "Erkin radikallarni neytrallash",
+    "B": "Patogen omillarni parchalash",
+    "C": "Fagotsitoz",
+    "D": "Endositoz",
+    "javob": "A"
+  },
+  {
+    "savol": "Metaplaziya bu",
+    "A": "Yetilgan bir hujayra turning boshqa yetilgan hujayra tipiga aylanishi",
+    "B": "Hujayra hajmining oshishi",
+    "C": "Hujayra sonining ortishi",
+    "D": "Hujayra hajmining kamayishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Fiziologik atrofiya berilgan javobni toping?",
+    "A": "Menopauzadan keyin tuxumdon atrofiyasi",
+    "B": "Ochlik atrofiyasi",
+    "C": "Neyropatik atrofiya",
+    "D": "Idiopatik atrofiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Nekroz davri keltirilgan javobni toping?",
+    "A": "NekrobiozAutoliz",
+    "B": "NekrobiozInitsiatsiya",
+    "C": "ParanekrozFagotsitoz",
+    "D": "ParanekrozEndositoz",
+    "javob": "A"
+  },
+  {
+    "savol": "Apoptoz bosqichi?",
+    "A": "Initsiatsi ya",
+    "B": "Promotsiya",
+    "C": "Progressiya",
+    "D": "Glikoliz",
+    "javob": "A"
+  },
+  {
+    "savol": "Apoptoz mexanizmi turlari?",
+    "A": "P 53 vositali",
+    "B": "MAK vositali",
+    "C": "Reagenli",
+    "D": "Sitotoksik",
+    "javob": "A"
+  },
+  {
+    "savol": "Apotozga xos xususiyat?",
+    "A": "Tabiiy adaptatsion jarayon",
+    "B": "Distrofiyaning oxirgi bosqichi",
+    "C": "Yallig’lanish bilan kechadi",
+    "D": "Yuqori pathogen omillar ta’sirida yuzaga keladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Hujayrani shikastlovchi etiologic omil kelib chiqishiga ko’ra tasnifi?",
+    "A": "ekzogen",
+    "B": "biologik",
+    "C": "birlamchi ta’sir",
+    "D": "qaytar ta’sir",
+    "javob": "A"
+  },
+  {
+    "savol": "Arterial giperemiyaning belgisi?",
+    "A": "Qizarish",
+    "B": "Ko’karish",
+    "C": "Oqimtir",
+    "D": "Qoramtir",
+    "javob": "A"
+  },
+  {
+    "savol": "Patologik arterial giperemiyaning patogeneziga ko’ra turi to’g’ri berilgan qatorni aniqlang?",
+    "A": "Mioparalitik",
+    "B": "Kompression",
+    "C": "Obturatsion",
+    "D": "Gravitatsion",
+    "javob": "A"
+  },
+  {
+    "savol": "Venoz giperemiya belgisi?",
+    "A": "Dezoksigemoglobinning ko’payishi",
+    "B": "Oksigemoglobinning ko’payishi",
+    "C": "Qon oqimining ortishi",
+    "D": "A’zo faoliyatining kuchayishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Venoz giperemiyaning kelib chiqishiga ko’ra turlari berilgan qatorni belgilang?",
+    "A": "Obturatsion",
+    "B": "Neyrotonik",
+    "C": "Neyroparalitik",
+    "D": "Mioparalitik",
+    "javob": "A"
+  },
+  {
+    "savol": "Birlamchi staz guruhiga kiradi?",
+    "A": "Chin staz",
+    "B": "Venoz staz",
+    "C": "Ishemik staz",
+    "D": "Soxta staz",
+    "javob": "A"
+  },
+  {
+    "savol": "Tromb tarkibiga ko’ra turlari?",
+    "A": "Oq,aralash",
+    "B": "Qizilyumshoq",
+    "C": "Oqyumshoq",
+    "D": "AralashYumshoq",
+    "javob": "A"
+  },
+  {
+    "savol": "Virxov triadasi qaysi jarayon mexanizmida ahamiyatli?",
+    "A": "Tromb hosil bo’lishida",
+    "B": "Staz kelib shiqishida",
+    "C": "Emboliya jarayonida",
+    "D": "O’sma jarayonida",
+    "javob": "A"
+  },
+  {
+    "savol": "Oq tromb tarkibi",
+    "A": "Leykosittrombosit",
+    "B": "Eritrositleykosit",
+    "C": "LeykositGialin tola",
+    "D": "EritrositGialin tola",
+    "javob": "A"
+  },
+  {
+    "savol": "Virxov triadasi keltirilgan javobni belgilang?",
+    "A": "Qon oqimining pasayishi, giperkoagulyatsiya",
+    "B": "Endoteliyning shikastlanishi,gipoksiya",
+    "C": "Endoteliyning shikastlanishi,gipokoagulyatsiya",
+    "D": "Qon oqimining kuchayishi,giperkoagulyatsiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Trombositlar adgeziyasida ishtirok etuvchi trombosit retseptori berilgan qatorni toping?",
+    "A": "Glikoprotein 1B",
+    "B": "Glikoprotein 1A",
+    "C": "Fc epsilon R1",
+    "D": "Fc epsilon B1",
+    "javob": "A"
+  },
+  {
+    "savol": "Trombosit agregatsiyasida ishtirok etuvchi trombosit retseptori?",
+    "A": "Glikoprotein 2B/3A",
+    "B": "Glikoprotein 1B",
+    "C": "Koretseptorlar",
+    "D": "PAR-1 retseptori",
+    "javob": "A"
+  },
+  {
+    "savol": "Embol harakatiga ko’ra turlari?",
+    "A": "Ortogradparadoksal",
+    "B": "Retrogradeendogen",
+    "C": "Retrogradeekzogen",
+    "D": "EndogenEkzogen",
+    "javob": "A"
+  },
+  {
+    "savol": "Endogen emboliyaga kiradi?",
+    "A": "O’sma hujayrasi",
+    "B": "Gaz emboliyasi",
+    "C": "Havo emboliyasi",
+    "D": "Yot jism emboliyasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Surunkali ishemiyaning oqibati",
+    "A": "Hujayra atrofiyasi",
+    "B": "To’qima nekrozi",
+    "C": "Gipertenziya",
+    "D": "Giperemmiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Yallig’lanish yunoncha qanday so’zdan olingan?",
+    "A": "phlogosis",
+    "B": "inflammation",
+    "C": "phrexia",
+    "D": "Tumor",
+    "javob": "A"
+  },
+  {
+    "savol": "Yallig’lanish mexanizmlari to’g’ri berilgan qatorni toping?",
+    "A": "Alteratsiya,Ekssudatsiya,Proliferatsiya",
+    "B": "Alteratsiya ,Emigratsiya ,Proliferatsiya",
+    "C": "Alteratsiya ,Emigratsiya ,Fagotsitoz",
+    "D": "Alteratsiya ,Ekssudatsiya, Fagotsitoz",
+    "javob": "A"
+  },
+  {
+    "savol": "Yallig’lanishni keltirib chiqaruvchi endogen omil bu?",
+    "A": "Nekroz o’choqlari",
+    "B": "Bakteriya",
+    "C": "Zamburug’",
+    "D": "Yuqori harorat",
+    "javob": "A"
+  },
+  {
+    "savol": "Yallig’lanishning umumiy belgisi?",
+    "A": "Intoksikatsiya,ishtaha pasayishi",
+    "B": "Isitma , og’riq",
+    "C": "Isitma ,Shish",
+    "D": "Leykositoz ,og’riq",
+    "javob": "A"
+  },
+  {
+    "savol": "Yallig’lanishning mahalliy belgilari?",
+    "A": "Funksiya buzulishi ,og’riq",
+    "B": "Qizarish ,isitma",
+    "C": "Funksiya buzulishi ,Isitma",
+    "D": "Qizarish ,holsizlik",
+    "javob": "A"
+  },
+  {
+    "savol": "Yallig’lanish mediatori bu?",
+    "A": "Yallig’langan to’qima hujayralari faoliyatiga ta’sir etuvchi kimyoviy birikmalar",
+    "B": "Yallig’langan to’qima hujayralar faoliyatiga ta’sir etuvchi biologic birikmalar",
+    "C": "Qon tomirlarga ta’sir etuvchi kimyoviy birikmalar",
+    "D": "Qon tomirga ta’sir etuvchi biologic birikmalar",
+    "javob": "A"
+  },
+  {
+    "savol": "Gumoral plazma mediatorlariga kiradi?",
+    "A": "Kompliment sistema",
+    "B": "Gistamin",
+    "C": "Prostoglandin",
+    "D": "Kation oqsillar",
+    "javob": "A"
+  },
+  {
+    "savol": "Mononuklear hujayralarga kiradi?",
+    "A": "Monotsitlimfosit",
+    "B": "Monotsitneytrofil",
+    "C": "Neytrofillimfosit",
+    "D": "LimfositBazofil",
+    "javob": "A"
+  },
+  {
+    "savol": "Polimorf yadroli leykositlar?",
+    "A": "Neytrofilbazofil",
+    "B": "Neytrofillimfosit",
+    "C": "Bazofillimfosit",
+    "D": "NeytrofilMonotsit",
+    "javob": "A"
+  },
+  {
+    "savol": "Semiz hujayralardan ajraluvchi mediatorlar?",
+    "A": "neytrofil xemotaksis omili",
+    "B": "esteraza",
+    "C": "interleykin",
+    "D": "Villibrand factor",
+    "javob": "A"
+  },
+  {
+    "savol": "Prostaglandin mediatori vazifasi?",
+    "A": "Gistamin ta’sirini kuchaytirish",
+    "B": "Gistamin ajralishini oshirish",
+    "C": "Musbat xemotaksisni amalga oshirish",
+    "D": "Immune reaksiyani boshlash",
+    "javob": "A"
+  },
+  {
+    "savol": "Tomir fenomeni keltirilgan javobni belgilang?",
+    "A": "Arterial giperemiya Venoz giperemiya",
+    "B": "StazIshemiya",
+    "C": "TrombEmboliya",
+    "D": "StazTromboz",
+    "javob": "A"
+  },
+  {
+    "savol": "Yallig’lanish bosqichlarini qaysi olim tasniflab bergan?",
+    "A": "Strukov",
+    "B": "Shaden",
+    "C": "Mechnikov",
+    "D": "K.Bernard",
+    "javob": "A"
+  },
+  {
+    "savol": "O’tkir yallig’lanishda organizmda pH miqdori?",
+    "A": "6,5 – 5,4",
+    "B": "7,1 – 6,6",
+    "C": "7,32 – 7,46",
+    "D": "7,6- 8,0",
+    "javob": "A"
+  },
+  {
+    "savol": "Ekssudat tarkibiga ko’ra turi berilgan javobni toping?",
+    "A": "Fibrinoz,kataral",
+    "B": "Seroz,infeksion",
+    "C": "Gemorragik,plazmali",
+    "D": "Yiringli,Plazmali",
+    "javob": "A"
+  },
+  {
+    "savol": "Chirikli ekssudatga xos xususiyat?",
+    "A": "Anaerob infeksiyaning bo’lishi",
+    "B": "Aerob infeksiyaning bo’lishi",
+    "C": "Fibrin tolalarining bo’lishi",
+    "D": "Oqsillar distrofiyasining bo’lishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Leykositlarni yallig’lanish o’chog’I tomon olib keluvchilar nima deb ataladi?",
+    "A": "Xemoatraktantlar",
+    "B": "Opsoninlar",
+    "C": "Diapedezlar",
+    "D": "Mediatorlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Neytrofilni xarakatlantiruvchi xemoatraktant bu?",
+    "A": "Interleykin-8",
+    "B": "Interleykin-1",
+    "C": "Interleykin-6",
+    "D": "Interleykin-4",
+    "javob": "A"
+  },
+  {
+    "savol": "Leykositlar adgeziyasini ta’minlovchi vositalar?",
+    "A": "Selektinlar",
+    "B": "TNF alfa",
+    "C": "Interferon gamma",
+    "D": "Gistamin",
+    "javob": "A"
+  },
+  {
+    "savol": "Qon tomir devori butunligi buzulmasdan leykositlarning to’qima orasiga o’tishi bu?",
+    "A": "diapedez",
+    "B": "emigratsiya",
+    "C": "xemotaksis",
+    "D": "ekssudatsiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Leykositlarning psevdoponiy hosil qilib o’tishida aktivlanuvchi tizim qaysi?",
+    "A": "Mikrotubulyar tizim",
+    "B": "Lizomal fermentlar aktivlashuvi",
+    "C": "Endoplazmatik reticulum faollashuvi",
+    "D": "Golji apparatining faollashuvi",
+    "javob": "A"
+  },
+  {
+    "savol": "Yallig’lanish o’tkir kechayotgan bo’lsa,qaysi leykositlar birinchi yetib keladi?",
+    "A": "neytrofil",
+    "B": "monotsit",
+    "C": "limfosit",
+    "D": "Trombosit",
+    "javob": "A"
+  },
+  {
+    "savol": "Fagotsitoz qiluvchi mikrofag hujayralarga kiradi?",
+    "A": "eozinofil",
+    "B": "monotsit",
+    "C": "gistiotsit",
+    "D": "Limfosit",
+    "javob": "A"
+  },
+  {
+    "savol": "Fagotsitoz qiluvchimakrofag hujayralarga kiradi?",
+    "A": "gistiotsit",
+    "B": "eozinofil",
+    "C": "neytrofil",
+    "D": "eritrosit",
+    "javob": "A"
+  },
+  {
+    "savol": "Fagotsitoz turlari?",
+    "A": "Tugallangan va tugallanmagan",
+    "B": "Birlamchi va ikkilamchi",
+    "C": "Qaytar va qaytmas",
+    "D": "O’tkir va surunkali",
+    "javob": "A"
+  },
+  {
+    "savol": "Tugallanmagan fagotsitoz sababi?",
+    "A": "Opsonin yetishmovchiligi",
+    "B": "Erkin radikallar aktivlashuvi",
+    "C": "Gormonlar disbalansi",
+    "D": "Nekroz o’choqlari",
+    "javob": "A"
+  },
+  {
+    "savol": "Opsonin vazifasini bajaradi?",
+    "A": "S reaktiv oqsil",
+    "B": "C3a",
+    "C": "Ig A",
+    "D": "Serotonin",
+    "javob": "A"
+  },
+  {
+    "savol": "Kislorodga bog’liq bo’lgan fagotsitozda ishtirok etadi?",
+    "A": "Erkin radikallar",
+    "B": "Lizosomal fermentlar",
+    "C": "Enzimlar",
+    "D": "Erkin kislorod",
+    "javob": "A"
+  },
+  {
+    "savol": "Kilorodga bog’liq bo’lgan fagotsitozni amalga oshiruvchi hujayra?",
+    "A": "Neytrofil",
+    "B": "Eozinofil",
+    "C": "Makrofag",
+    "D": "Monotsit",
+    "javob": "A"
+  },
+  {
+    "savol": "Proliferatsiyada IL- 4 ning vazifasi?",
+    "A": "Mediatorlar ajralishini to’xtatish",
+    "B": "Ekssudatsiyani tormozlash",
+    "C": "Demorkatsion chiziqni hosil qilish",
+    "D": "Regeneratsiyani kuchaytirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Ekssudatsiya mexanizmini tormozlash vazifasini bajaradi?",
+    "A": "Xondroitin sulfat",
+    "B": "Geparin",
+    "C": "Gistamin",
+    "D": "Biogen amin",
+    "javob": "A"
+  },
+  {
+    "savol": "Demorkatsion chiziq bu?",
+    "A": "Yallig’lanish o’chog’I bilan sog’lom to’qimani ajratib turuvchi chiziq",
+    "B": "Yallig’lanish o’chog’ida nekroz o’chog’ini ajratuvchi chiziq",
+    "C": "Suyak siniqlaari alohidalangan chiziq",
+    "D": "Tromb hosil bo’lishi bilsn namoyon bo’luvchi chiziq",
+    "javob": "A"
+  },
+  {
+    "savol": "Demorkatsion chiziqni hosil qiladi?",
+    "A": "Biriktiruvchi to’qimaning kambial hujayralari",
+    "B": "Fibroblast hujayralar",
+    "C": "Makrofag hujayralar",
+    "D": "Trombosit hujayralar",
+    "javob": "A"
+  },
+  {
+    "savol": "Antioksidant tizimga kiruvchi ferment?",
+    "A": "Superoksidismutaza",
+    "B": "Perforin",
+    "C": "Esteraza",
+    "D": "Proteaza",
+    "javob": "A"
+  },
+  {
+    "savol": "Ekzopirogen guruhiga kiradi?",
+    "A": "Lipopolisaxarid",
+    "B": "Interleykin-1",
+    "C": "TNF alfa",
+    "D": "Prostoglandin E2",
+    "javob": "A"
+  },
+  {
+    "savol": "Yallig’lanishni keltirib chiqaruvchi etiologic omil nima deb aytiladi?",
+    "A": "Filologen omil",
+    "B": "Pirogen omil",
+    "C": "Antigen omil",
+    "D": "Allergen omil",
+    "javob": "A"
+  },
+  {
+    "savol": "Apoptosoma qanday hosil bo’lasdi?",
+    "A": "Apaf-1 + sitoxrom S",
+    "B": "SMACS + Apoptozni ingibirlovchi factor",
+    "C": "Apaf-1 + SMACS",
+    "D": "Sitoxrom S + Apoptozni ingibirlovchi factor",
+    "javob": "A"
+  },
+  {
+    "savol": "DISC ni faollashtiradi Apoptozda?",
+    "A": "FADD va TRADD oqsillarining o’lim dominant bilan birikishi",
+    "B": "O’lim retseptorlari bilan TNF alfani birikishi",
+    "C": "Caspas reaksiyalarning faollashuvi",
+    "D": "Bim/Bif ning birikishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Isitmani keltirib chiqarunchi etiologic omillar nima deb ataladi?",
+    "A": "Pirogen omillar",
+    "B": "Filologen omillar",
+    "C": "Antigen omillar",
+    "D": "Allergen omillar",
+    "javob": "A"
+  },
+  {
+    "savol": "Set poitga ta’sir etadi?",
+    "A": "Prostoglandin E2",
+    "B": "Interleykin-4",
+    "C": "Interleykin-5",
+    "D": "TNF alfa",
+    "javob": "A"
+  },
+  {
+    "savol": "Febril harorat",
+    "A": "38,6 C",
+    "B": "37,5 C",
+    "C": "39,2 C",
+    "D": "41 Cdan yuqori",
+    "javob": "A"
+  },
+  {
+    "savol": "Isitma kelib chiqishiga ko’ra turlari?",
+    "A": "Infeksion,Noinfeksion",
+    "B": "O’tkirSurunkali",
+    "C": "Endogen,Ekzogen",
+    "D": "Gektik,Subfebril",
+    "javob": "A"
+  },
+  {
+    "savol": "Holdan toydiruvchi isitma bu?",
+    "A": "Ertalabki va kechki isitma farqi 3-5 gradusga teng",
+    "B": "Ertalabki va kechki isitma farqi 1gradusga teng",
+    "C": "Ertalabki va kechki isitma farqi 2-3 gradusga teng",
+    "D": "Ertalabki va kechki isitma 40 gradusga teng",
+    "javob": "A"
+  },
+  {
+    "savol": "Isitma bosqichlari?",
+    "A": "St.incrementi",
+    "B": "Fb.continua",
+    "C": "St.remittens",
+    "D": "Fb.intermittens",
+    "javob": "A"
+  },
+  {
+    "savol": "Kimyoviy termoregulyatsiya markaz vazifasi?",
+    "A": "Issilikni hosil qilish",
+    "B": "Set pointni amalga oshirish",
+    "C": "Issiqlikni tashqariga ajratish",
+    "D": "Ma’lumitlarni integratsiya qilish",
+    "javob": "A"
+  },
+  {
+    "savol": "Isitmaning Gipetermik sindromda farqi?",
+    "A": "Tashqi muhit haroratiga aloqasi yo’q",
+    "B": "Gipotalamus o’sma kasalligida yuzaga keladi",
+    "C": "Termoregulyatsiya markaz buzulishi kuzatiladi",
+    "D": "Og’ir va qisqa muddatli kichadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Nospetsifik patologik reaktivlik?",
+    "A": "Tugallanmagan fagotsitoz",
+    "B": "Allergiya",
+    "C": "Nezelof sindromi",
+    "D": "Lui Bar sindromi",
+    "javob": "A"
+  },
+  {
+    "savol": "Spetsifik patologik reaktivlik namoyon bo’ladi?",
+    "A": "Allergiya",
+    "B": "Shok",
+    "C": "Koma",
+    "D": "Kollaps",
+    "javob": "A"
+  },
+  {
+    "savol": "Ikkilamchi faol rezistentlik?",
+    "A": "Vaksinatsiya",
+    "B": "Immunoglobulin yuborilganda",
+    "C": "Shilliq qavatlar tuzulishi",
+    "D": "Jigarning antitoksik faoliyati",
+    "javob": "A"
+  },
+  {
+    "savol": "Spetsifik rezistentlik bu?",
+    "A": "Organizmning 1ta pathogen omilga chidamliligi",
+    "B": "Organizmning bir nechta pathogen omilga chidamliligi",
+    "C": "Immunitet ishtirokida chidamlilikning namoyon bo’lishi",
+    "D": "Immunitet ishtirok etmasdan chidamlilikning namoyon bo’lishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Tolerantlik turlari?",
+    "A": "Immunologik, farmokologik",
+    "B": "Immunologik,patokimyoviy",
+    "C": "Immunologik, patofiziologik",
+    "D": "Patokimyoviy, patofiziologik",
+    "javob": "A"
+  },
+  {
+    "savol": "Birlamchi immune tanqislik sindromlarga kiradi?",
+    "A": "Nezelof,bruton",
+    "B": "Nezelof,Daun",
+    "C": "Daun,Morgan",
+    "D": "Morgan,Bruton",
+    "javob": "A"
+  },
+  {
+    "savol": "T limfositlar yetishmovchiligi bilan namoyon bo’luvchi birlamchi immune tanqislik sindromi?",
+    "A": "Nezelof sindromi",
+    "B": "Bruton sindromi",
+    "C": "Lui Bar sindromi",
+    "D": "Viskot Oldrich sindromi",
+    "javob": "A"
+  },
+  {
+    "savol": "OITS klib chiqishi uchun T limfositlar soni qancha bo’lishi kerak?",
+    "A": "200 tadan kam",
+    "B": "200- 500 tagacha",
+    "C": "500dan ko’p",
+    "D": "700ta gacha",
+    "javob": "A"
+  },
+  {
+    "savol": "OIV infeksiyasining hujayra ichiga kirish yo’llari",
+    "A": "Endositoz,CD 4 retseptori orqali",
+    "B": "CD 4 retseptori,Ekzositoz",
+    "C": "Sitoplazmatik ko’prikchalar,CD 8 retseptorlari orqali",
+    "D": "Ekzositoz,CD 8 retseptorlar orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Endositoz usulida OIV infeksiyasini makrofag hujayrasiga olib keluvchilar nima deb ataladi?",
+    "A": "Klatrin",
+    "B": "Selektin",
+    "C": "Konvertin",
+    "D": "Integrin",
+    "javob": "A"
+  },
+  {
+    "savol": "OIV infeksiyasi tarkibiga kiradi?",
+    "A": "Integrin,Proteaza,Qaytar transkriptaza",
+    "B": "Proteaza,Lipaza A2,Qaytar transktiptaza",
+    "C": "Esteraza,Lipaza A2,Integrin",
+    "D": "Gidrolaza,Esteraza,Proteaza",
+    "javob": "A"
+  },
+  {
+    "savol": "CD 4 retseptori bor hujayralar?",
+    "A": "T limfositlar",
+    "B": "B limfositlar",
+    "C": "Gistiotsitlar",
+    "D": "Miotsitlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Yurak poroglari va epilepsiya qaysi birlamchi immune tanqislik sindromlarda uchraydi?",
+    "A": "Di-Djordji",
+    "B": "Nezelof",
+    "C": "Bruton",
+    "D": "Lui-Bar",
+    "javob": "A"
+  },
+  {
+    "savol": "OITS simptomlari to’g’ri berilgan qatorni toping?",
+    "A": "Diareya,limfoadenopatiya",
+    "B": "Limfoadenopatiya,teleangioektaziya",
+    "C": "Kaxeksiya,muvozanatning buzulishi",
+    "D": "Stomatit,epilepsiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Bruton sindromida piodermiya kuchayishi sababi?",
+    "A": "Ig G yetishmovchiligi",
+    "B": "Ig A yetishmovchiligi",
+    "C": "Ig M yetishmovchiligi",
+    "D": "Ig E yetishmovchiligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Organizmning terminal holatiga kiradi?",
+    "A": "klinik o’lim",
+    "B": "shok",
+    "C": "koma",
+    "D": "kollaps",
+    "javob": "A"
+  },
+  {
+    "savol": "Allergik reaksiya tipi keltirilgan javobni toping?",
+    "A": "Reagenli",
+    "B": "B limositli",
+    "C": "T limfositli",
+    "D": "Ig D sintezli",
+    "javob": "A"
+  },
+  {
+    "savol": "1 tip allergic reaksiyada ishtirok etadi?",
+    "A": "Ig E",
+    "B": "Ig G",
+    "C": "Ig M",
+    "D": "Ig A",
+    "javob": "A"
+  },
+  {
+    "savol": "Sitotoksik tipda ishtirok etadi?",
+    "A": "Ig G",
+    "B": "Ig E",
+    "C": "Ig A",
+    "D": "Ig D",
+    "javob": "A"
+  },
+  {
+    "savol": "Anafilaktik tipda ishtirok etuvchi mediatorlar?",
+    "A": "Gistamin, serotonin",
+    "B": "Serotonin,interleykin",
+    "C": "Gistamin,interleykin",
+    "D": "Interleykin,ADG",
+    "javob": "A"
+  },
+  {
+    "savol": "1tip allergic reaksiyaga mansub?",
+    "A": "Kvinki shishi,Bronxospazm",
+    "B": "Anafilaktik shok, gemolitik anemiya",
+    "C": "Qandli diabet 1tip,krapivnitsa",
+    "D": "Autoimmune gastrit, gemolitik anemiya",
+    "javob": "A"
+  },
+  {
+    "savol": "2tip allergic reaksiyaga mansub?",
+    "A": "Qandli diabet 1tip, gemolitik anemiya",
+    "B": "Anafilaktik shok,tireotoksikoz",
+    "C": "Krapivnitsa,autoimmun otit",
+    "D": "BSJ sinamasi",
+    "javob": "A"
+  },
+  {
+    "savol": "2 tip allergic reaksiyada sitotoksik ta’sir turi to’g’ri berilgan javobni toping?",
+    "A": "Kompliment Sistema, opsonizatsiya usuli",
+    "B": "Lizosomal fermentlar orqali, T killerlar orqali",
+    "C": "T va Tabiiy killer hujayralar orqali",
+    "D": "Lizosomal fermentlar orqali,kompliment Sistema orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "3-tip allergic reaksiyaga kiradi?",
+    "A": "Autoimmun glomerulonefrit",
+    "B": "Gemolitik anemiya",
+    "C": "Sil kasalligi",
+    "D": "Qandli diabet",
+    "javob": "A"
+  },
+  {
+    "savol": "3-tip allergic reaksiyalar nomlanadi?",
+    "A": "Immun kompleksli",
+    "B": "Anafilaktik",
+    "C": "Sitotoksik",
+    "D": "Hujayraviy tip",
+    "javob": "A"
+  },
+  {
+    "savol": "1tip allergic reaksiya uchun birinchi tartib nishon hujayralar?",
+    "A": "Semiz hujayralar",
+    "B": "Bazofil",
+    "C": "Eozinofil",
+    "D": "Monotsit",
+    "javob": "A"
+  },
+  {
+    "savol": "Allergic reaksiya bosqichlari?",
+    "A": "Immunologik,patokimyoviy,patofiziologik",
+    "B": "Immunologik,distrofik,patokimyoviy",
+    "C": "Patokimyoviy,distrofik,patofiziologik",
+    "D": "Patofiziologik, progressionPatokimyoviy",
+    "javob": "A"
+  },
+  {
+    "savol": "Allergen uchun shartlar?",
+    "A": "Oqsil tabiatli bo’lishi, molekulyar massasi og’ir bo’lishi",
+    "B": "Oqsil tabiatli bo’lishi, organizmning o’z molekulasi bo’lishi",
+    "C": "Lipid tabiatli bo’lishi,og’irligi 1-2 daltondan yuqori bo’lishi",
+    "D": "Lipid tabiatli bo’lishi, organizmning o’z molekulasi bo’lishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Gapten deb nimaga aytiladi?",
+    "A": "O’zi mustaqil allergic reaksiya keltirib chiqara olmaydigan allergen.",
+    "B": "1-tip allergic reaksiya keltirib chiqaruvchi allergen",
+    "C": "Faqat 4-tip allergic reaksiya keltirib chiqaruvchi allergen.",
+    "D": "4ta tip allergic reaksiyani o’zi mustaqil keltirib chiqaruvchi allergen.",
+    "javob": "A"
+  },
+  {
+    "savol": "Sensibilizatsiyalovchi doza",
+    "A": "Allergenning organizmga birinchi bor tushgan dozasi",
+    "B": "Sensibilizatsiyalangan organizmga tushgan allergen dozasi",
+    "C": "Tayyor antitelalarni zardob tarkibida tushadi",
+    "D": "Antitela organizmning o’zida ishlab chiqariladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Insekt allergen turiga kiradi?",
+    "A": "Ilon zahari",
+    "B": "Gul changi",
+    "C": "Sitrus mevalar",
+    "D": "Antibiotiklar",
+    "javob": "A"
+  },
+  {
+    "savol": "Kontrinsulyar gormonlar ta’sir mexanizmi?",
+    "A": "Qonda glyukoza miqdorini oshirish",
+    "B": "Qonda glyukoza miqdorini kamaytirish",
+    "C": "Jigarda glikogen sintezini faollashtirish",
+    "D": "Krebs siklini faollashtirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Kontrinsulyar gormon tarkibiga kiradi?",
+    "A": "Katexolamin",
+    "B": "Insulin",
+    "C": "Esterogen",
+    "D": "Androgen",
+    "javob": "A"
+  },
+  {
+    "savol": "Glikogenoliz bu?",
+    "A": "Glikogenning parchalanib,glyukoza hosil bo’lishi",
+    "B": "Glyukozadan glikogen hosil bo’lishining kuchayishi",
+    "C": "Glyukozadan piruvat uoki laktat hosil bo’lishi",
+    "D": "Uglevod bo’lmagan moddalardan glyukozaning sintezlanishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Glyukozaning parchalanib,piruvat kislotaning hosil bo’lishi nima deb aytiladi?",
+    "A": "glikoliz",
+    "B": "glikogenez",
+    "C": "glikogenoliz",
+    "D": "glukoneogenez",
+    "javob": "A"
+  },
+  {
+    "savol": "Forbsa kasalligida glikogen to’planadi?",
+    "A": "eritrositlarda",
+    "B": "yurakda",
+    "C": "o’pkada",
+    "D": "taloqda",
+    "javob": "A"
+  },
+  {
+    "savol": "Fosforilaza ferment aktivligining pasayishi qaysi kasallik uchun xos?",
+    "A": "Gersa kasalligi",
+    "B": "Girke kasalligi",
+    "C": "Forbsa kasalligi",
+    "D": "Morgan kasalligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Girke kasalligida qaysi ferment defitsit?",
+    "A": "Glyukoza-6-fosfataza",
+    "B": "Fosforilaza",
+    "C": "Amilo-1-glyukozidaza",
+    "D": "Amilo-6-glyukozidaza",
+    "javob": "A"
+  },
+  {
+    "savol": "Giperglikemiya bu?",
+    "A": "Qonda glyukoza miqdorining 6.66mmol/ldan ko’p bo’lishi",
+    "B": "Qonda glyukoza miqdori 3.33 mmol/ldan kam bo’liishi",
+    "C": "Qoda glyukoza miqdori 5 mmol/l bo’lishi",
+    "D": "Qonda glyukoza miqdori 10mmol/ldan ortishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Patologik giperglikemiya berilgan qatorni belgilang?",
+    "A": "Akromegaliya,Feoxromasitoma",
+    "B": "Qandli diabet,Stressor holat",
+    "C": "Alimentar,Itsenko-Kushing sindromi",
+    "D": "Qandsiz diabet, Stressor holat",
+    "javob": "A"
+  },
+  {
+    "savol": "Siydikda glyukozaning paydo bo’lishi bu?",
+    "A": "Glyukozuriya",
+    "B": "Giperglikemiya",
+    "C": "Gipoglikemiya",
+    "D": "Glikemiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Patologik glyukozuriya keltirilgan qatorni belgilang?",
+    "A": "Buyrak kanalchalarning reabsorbsiyasining buzulish sindromida",
+    "B": "Stressor holatlarda",
+    "C": "Homiladorlikda",
+    "D": "Alimentar",
+    "javob": "A"
+  },
+  {
+    "savol": "Jigar sirroz kasalligida qonda glyukozaning ko’rinishi?",
+    "A": "gipoglikemiya",
+    "B": "giperglikemiya",
+    "C": "glyukozuriya",
+    "D": "Glukoza izlari",
+    "javob": "A"
+  },
+  {
+    "savol": "Qandli diabet 1 tip stadyasi?",
+    "A": "Genetic moyillik,Latent diabet",
+    "B": "Surunkali davr,Aniq diabet davri",
+    "C": "O’tkir stadiya,Qo’zg’atuvchi ta’sir davri",
+    "D": "O’tkir va surunkali davr",
+    "javob": "A"
+  },
+  {
+    "savol": "Qandli diabet 1 tip asorati?",
+    "A": "Retinopatiya",
+    "B": "Ateroskleroz",
+    "C": "Yurak ishemik kasalligi",
+    "D": "Arterial gipertenziya",
+    "javob": "A"
+  },
+  {
+    "savol": "Qakdli diabetning har ikkala tipida birdek uchramaydigan symptom?",
+    "A": "Kaxeksiya",
+    "B": "Polidipsiya",
+    "C": "Poliuriya",
+    "D": "Glyukozuriya",
+    "javob": "A"
+  },
+  {
+    "savol": "Stroma-tomir yog’li distrofiyasining ko’rinishi bo’lib,yog’ depolarda yog’ moddasining ortib borishi bu?",
+    "A": "Semizlik deb ataladi",
+    "B": "Ateroskleroz deb ataladi",
+    "C": "Steatoz deb ataladi",
+    "D": "Gepatoz deb ataladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Semizlik patogenezi to’g’ri berilgan qatorni toping?",
+    "A": "Hammasi to’g’ri",
+    "B": "Ko’p miqdorda ovqat tanavvul qilish",
+    "C": "Depodan yog’ning yetarli mobilizatsiya bo’lmasligi",
+    "D": "Yog’ning karbonsuvlardan ortiqcha hosil bo’lishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Rivojlanish mexanizmiga ko’ra semizlik turlari?",
+    "A": "Birlamchi va ikkilamchi",
+    "B": "Simmetrik va Assimmetrik",
+    "C": "Gipertrofik va Giperplastik",
+    "D": "Birlamchi va Qaytalanuvchi",
+    "javob": "A"
+  },
+  {
+    "savol": "Birlamchi semizlikka kiradi?",
+    "A": "Leptinning yetishmovchiligi",
+    "B": "Alimentar semizlik",
+    "C": "Serebral semizlik",
+    "D": "Endokrin semizlik",
+    "javob": "A"
+  },
+  {
+    "savol": "Kaxeksiya sababi ekzogen guruhga kiradi?",
+    "A": "Avitaminozda",
+    "B": "Anoreksiyada",
+    "C": "Yurak kasalliklarda",
+    "D": "Addison kasalligida",
+    "javob": "A"
+  },
+  {
+    "savol": "GMG-KoA reduktazani aktivlovchilar guruhiga kiradi?",
+    "A": "Somatotrop gormonlar",
+    "B": "Esterogen",
+    "C": "Tiroksin",
+    "D": "Insulin",
+    "javob": "A"
+  },
+  {
+    "savol": "GMG -KoA reduktazani tormozlovchilar?",
+    "A": "Tiroksin",
+    "B": "Adrenalin",
+    "C": "Prednizolon",
+    "D": "Androgen",
+    "javob": "A"
+  },
+  {
+    "savol": "Lipoproteid turlari?",
+    "A": "Hammasi to’gri",
+    "B": "O’ta past zichlikka ega lipoproteidlar",
+    "C": "Xilomikronlar",
+    "D": "Yuqori zichlikka ega lipoproteidlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Aterogen lipoproteidlar?",
+    "A": "7-20% oqsil,79-93% lipid",
+    "B": "33-60%oqsil,40-67% lipid",
+    "C": "xilomikronlar",
+    "D": "50% oqsil,50% lipid",
+    "javob": "A"
+  },
+  {
+    "savol": "Antiaterogenga mansub?",
+    "A": "Yuqori zichlikka ega lipoproteidlar",
+    "B": "O’ta past zichlikka ega lipoproteidlar",
+    "C": "Past zichlikka ega lipoproteidlar",
+    "D": "Xilomikronlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Ateroskleroz nazariyasi berilgan javobni toping?",
+    "A": "Gerontologik nazariya",
+    "B": "Epigenom nazariya",
+    "C": "Kauzalizm nazariyasi",
+    "D": "Kanserogenez nazariyasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ateroskleroz davrlari?",
+    "A": "DolipidozAsoratlar davri",
+    "B": "Lipoidoz Avj olish davri",
+    "C": "Lipidgacha Latent davr",
+    "D": "Hammasi to’g’ri",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko’piksimon hujayra hosil bo’lishida ishtirok etadi?",
+    "A": "Makrofag va silliq mushak hujayralar",
+    "B": "Makrofag va trombositlar",
+    "C": "Trombosit va endoteliy hujayralari",
+    "D": "Endoteliy va eritrosit hujayralari",
+    "javob": "A"
+  },
+  {
+    "savol": "Aterosklerozda silliq mushak hujayralarni stimullaydi?",
+    "A": "Shikastlangan endoteliydan sintezlanuvchi o’sish factori",
+    "B": "Shikastlangan endoteliydan sintezlanadigan endotelin omili",
+    "C": "Trombositlardan ajraladigan fibrinogen ta’sirida",
+    "D": "Trombositlardan ajraladigan trombolasstin ta’sirida",
+    "javob": "A"
+  },
+  {
+    "savol": "Aterosklerotik pilakcha tarkibiga kiradi?",
+    "A": "Ko’piksimon hujayra",
+    "B": "Shikastlangan endoteliy hujayrasi",
+    "C": "Silliq mushak hujayrasi va trombositlar",
+    "D": "Endoteliy va makrofag hujayrasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ateroskleroz oqibati?",
+    "A": "Hammasi to’g’ri",
+    "B": "Insult",
+    "C": "Anevrizma",
+    "D": "Emboliya",
+    "javob": "A"
+  },
+  {
+    "savol": "Atsidoz bu?",
+    "A": "Kislotalarning nisbiy ko’payishi bilan pH kamayishi",
+    "B": "Kislotalarning mutloq ko’payishi bilan pH oshishi",
+    "C": "Asoslarning mutloq ko’payishi bilan pH oshishi",
+    "D": "Asoslarning mutloq ko’payishi bilan pH kamayishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Arterial qonda pH normasi?",
+    "A": "7,35-7,45",
+    "B": "7,26- 7,36",
+    "C": "7,0-7,3",
+    "D": "7,0-6,75",
+    "javob": "A"
+  },
+  {
+    "savol": "O’pka kasalliklarda gazli atsidoz sababi?",
+    "A": "O’pka gipoventilyatsiyasi",
+    "B": "O’pka giperventilyatsiyasi",
+    "C": "To’g’ri javob yo’q",
+    "D": "Hammasi to’g’ri",
+    "javob": "A"
+  },
+  {
+    "savol": "Organizmda CO2 gaz miqdorining ortishi tufayli yuzaga keladi?",
+    "A": "Atsidoz",
+    "B": "Alkaloz",
+    "C": "Emboliya",
+    "D": "Staz",
+    "javob": "A"
+  },
+  {
+    "savol": "Keton tanachalari ortishi bilan yuzaga keladi?",
+    "A": "Metabolik atsidoz",
+    "B": "Metabolik alkaloz",
+    "C": "Gazli atsidoz",
+    "D": "Gazli alkaloz",
+    "javob": "A"
+  },
+  {
+    "savol": "Ajratuv gazsiz atsidoz turiga kiradi?",
+    "A": "Nefroskleroz kasalligi",
+    "B": "Gipoksiya",
+    "C": "Pnevmotoraks",
+    "D": "Qandli diabet",
+    "javob": "A"
+  },
+  {
+    "savol": "Jigar sirrozida kislota asos muvozanati buzulish turi?",
+    "A": "atsidoz",
+    "B": "alkaloz",
+    "C": "gazli atsidoz",
+    "D": "gazli alkaloz",
+    "javob": "A"
+  },
+  {
+    "savol": "Gazli atsidoz kompensatsiya turlari?",
+    "A": "Hammasi to’g’ri",
+    "B": "Gemoglobinli",
+    "C": "Buyrak orqali",
+    "D": "Oqsil buferi",
+    "javob": "A"
+  },
+  {
+    "savol": "Buyrak orqali kompensatsiya mexanizmi?",
+    "A": "ammoniegenez",
+    "B": "Amfoter xossaga ega oqsillarga birikish orqali",
+    "C": "Qayta tiklangan gemoglobin orqali",
+    "D": "Hamma javob to’g’ri",
+    "javob": "A"
+  },
+  {
+    "savol": "Kislotalarning hujayralararo suyuqlik bilan aralashib,ularning gidrokarbonat buffer komponenti bilan birikishi hisobiga yuzaga keladi?",
+    "A": "Gazsiz atsidoz kompensatsiyasi",
+    "B": "Gazli alkaloz kompensatsiyasi",
+    "C": "Gazsiz alkaloz kompensatsiyasi",
+    "D": "Gazli atsidoz kompensatsiyasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Atsidoz klinikasi?",
+    "A": "Qayt qilish,Ich ketish",
+    "B": "Arterial gipotenziya",
+    "C": "Ko’ngil aynish,qabziyat",
+    "D": "Tetaniya,Isitma",
+    "javob": "A"
+  },
+  {
+    "savol": "Gazsiz metabolic alkaloz uchraydi?",
+    "A": "gemolizda",
+    "B": "Uzluksiz qusishda",
+    "C": "Ko’p terlash",
+    "D": "Bosh miya o’smalarda",
+    "javob": "A"
+  },
+  {
+    "savol": "Gazsiz alkaloz turlari?",
+    "A": "Metabolicekzogen",
+    "B": "Chiqaruvgiperventilatsion",
+    "C": "Gemorragikgipoventilatsion",
+    "D": "AralashGiperventilatsion",
+    "javob": "A"
+  },
+  {
+    "savol": "Gipokapniyada kislota asos muvozanati qanday o’zgaradi?",
+    "A": "Aralash alkaloz",
+    "B": "Metabolik atsidoz",
+    "C": "Chiqaruv alkaloz",
+    "D": "Ekzogen atsidoz",
+    "javob": "A"
+  },
+  {
+    "savol": "Alkaloz belgisi?",
+    "A": "Tetaniya",
+    "B": "Chuqur va tez nafas",
+    "C": "Diareya",
+    "D": "Isitma",
+    "javob": "A"
+  },
+  {
+    "savol": "Bufer asos normasi nechchiga teng?",
+    "A": "44mmol/l",
+    "B": "32mmol/l",
+    "C": "28mmol/l",
+    "D": "60mmol/l",
+    "javob": "A"
+  },
+  {
+    "savol": "Patologik oclik turlari?",
+    "A": "Mutloq ochlik",
+    "B": "Kechiktirilgan ochlik",
+    "C": "Erta ochlik",
+    "D": "Bo’linuvchi ochlik",
+    "javob": "A"
+  },
+  {
+    "savol": "Modda almashinuvi buzulishi bilan ochlik davrlari?",
+    "A": "Terminal davr oqsillar parchalanishi bilan",
+    "B": "Terminal davr yog’lar parchalanishi",
+    "C": "Terminal davr uglevod parchalanishi",
+    "D": "Terminal davr minerallar parchalanishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Izoosmolyar degidrotatsiya kuzatiladi?",
+    "A": "ichak toksikozi",
+    "B": "qusishda",
+    "C": "giperventilatsiyada",
+    "D": "so’lak yo’qotilishida",
+    "javob": "A"
+  },
+  {
+    "savol": "Gipoosmolyar degidratatsiya kuzatiladi?",
+    "A": "Ich ketishda",
+    "B": "Qon yo’qotishda",
+    "C": "Poliuriya",
+    "D": "Ichak toksikozi",
+    "javob": "A"
+  },
+  {
+    "savol": "Gipoosmolyar gipergidratatsiya kuzatiladi?",
+    "A": "Reflector anuriyada",
+    "B": "Uzluksiz qusishda",
+    "C": "To’xtovsiz terlashda",
+    "D": "Poliuriyada",
+    "javob": "A"
+  },
+  {
+    "savol": "Kapilyarda arterial gidrostatik bosim normada nechchiga teng?",
+    "A": "32-35 mm.sim.ust",
+    "B": "22-25 mm.sim.ust",
+    "C": "6-7 mm.sim.ust",
+    "D": "10-15 mm.sim.ust",
+    "javob": "A"
+  },
+  {
+    "savol": "Qon plazmasida onkotik bosim normada?",
+    "A": "22mm.sim.ust",
+    "B": "35mm.sim.ust",
+    "C": "12 mm.sim.ust",
+    "D": "6 mm.sim.ust",
+    "javob": "A"
+  },
+  {
+    "savol": "To’qima qarshiligi normada?",
+    "A": "6mm.sim.ust",
+    "B": "12mm.sim.ust",
+    "C": "25 mm.sim.ust",
+    "D": "35 mm.sim.ust",
+    "javob": "A"
+  },
+  {
+    "savol": "Effektiv filtrlovchi bosim bu?",
+    "A": "Kapillarning arterial qismida qonning gidrostatik bosimi bilan to’qima qarshiligi orasidagi farq",
+    "B": "Kapillarning venoz qismida qonning onkotik bosimi bilan toqima qarshiligi orasidagi farq",
+    "C": "Kapillarning arterial qismida qonning osmotic bosimi bilan to’qima qarshiligi orasidagi farq",
+    "D": "Kapillarning arterial qismida onkotik bosimi bilan to’qima qarshiligi orasidagi farq",
+    "javob": "A"
+  },
+  {
+    "savol": "Natriyning normadagi 1 kunlik miqdori teng?",
+    "A": "3-6 gr",
+    "B": "0,5grdan kam",
+    "C": "6grdan ko’p",
+    "D": "8-9 gr",
+    "javob": "A"
+  },
+  {
+    "savol": "Qancha miqdordagi natriy yo’qotilsa ishtaha pasayishi yuzaga keladi?",
+    "A": "250mmol/l",
+    "B": "500mmol/l",
+    "C": "1000mmol/l",
+    "D": "1500mmol/l",
+    "javob": "A"
+  },
+  {
+    "savol": "Giponatriyemiya kuzatiladi?",
+    "A": "Addison kasalligida",
+    "B": "Itsenko- Kushingda",
+    "C": "Gipertoniyada",
+    "D": "Oligouriyada",
+    "javob": "A"
+  },
+  {
+    "savol": "Giperkaliyemiyaga xos?",
+    "A": "Yurak avtomatizmning pasayishi",
+    "B": "Yurak avtomatizmning kuchayishi",
+    "C": "Umumiy depressiya",
+    "D": "Yurak aritmiyasining paydo bo’lishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Kalsiy ionlari yetishmovchiligi kuzatiladi?",
+    "A": "Hammasi to’gri",
+    "B": "Spazmofiliya",
+    "C": "Raxit",
+    "D": "Allergik kasalliklarda",
+    "javob": "A"
+  },
+  {
+    "savol": "Oqma,rezeksiyalarda qaysi mineral defitsiti yuzaga keladi?",
+    "A": "Magniy",
+    "B": "Natriy",
+    "C": "Kaliy",
+    "D": "Kalsiy",
+    "javob": "A"
+  },
+  {
+    "savol": "Gipoksiya yuzaga kelish davomiyligiga ko’ra turlari?",
+    "A": "O’tkirSurunkaliYashin tezligida",
+    "B": "O’tkirO’tkir ostisurunkali",
+    "C": "O’ta o’tkirO’tkirsurunkali",
+    "D": "O’tkirSurunkali",
+    "javob": "A"
+  },
+  {
+    "savol": "O’tkir gipoksiya kuzatiladi?",
+    "A": "Miokard infarktda",
+    "B": "kardioskleroz",
+    "C": "Qon kasalliklarda",
+    "D": "Sianidlar bilan zaharlanganda",
+    "javob": "A"
+  },
+  {
+    "savol": "Surunkali gipoksiya kuzatiladi?",
+    "A": "Yurak poroklarida",
+    "B": "Miokard infarkti",
+    "C": "Uglerod oksidi bilan zaharlanganda",
+    "D": "Hammasi to’g’ri",
+    "javob": "A"
+  },
+  {
+    "savol": "Yashin tezligidagi gipoksiya kuzatiladi?",
+    "A": "Sianidlar bilan zaharlanganda",
+    "B": "Qon kasalliklarda",
+    "C": "Ko’p qon yo’qotishda",
+    "D": "Hammasi to’g’ri",
+    "javob": "A"
+  },
+  {
+    "savol": "3-4 km balandlikka ko’tarilganda organizmndagi jarayonlar?",
+    "A": "Eyforiyahansirash",
+    "B": "Bosh aylanish qusish",
+    "C": "DepressiyaKo’ngil aynish",
+    "D": "To’g’ri javob yo’q",
+    "javob": "A"
+  },
+  {
+    "savol": "Qonda karbonat angidrid miqdorining ortishi nima deb ataladi?",
+    "A": "Giperkapniya",
+    "B": "Gipokapniya",
+    "C": "Giposemiya",
+    "D": "Giperventilyatsiya",
+    "javob": "A"
+  },
+  {
+    "savol": "O’sma chaqiruvchi omillar nima deb ataladi?",
+    "A": "blastomogen",
+    "B": "pirogen",
+    "C": "filologen",
+    "D": "to’g’ri javob yo’q",
+    "javob": "A"
+  },
+  {
+    "savol": "Biologik kanserogenlarga kiradi?",
+    "A": "Onkoviruslar",
+    "B": "Bakteriyalar",
+    "C": "Quyosh nuri",
+    "D": "Benzol unumlar",
+    "javob": "A"
+  },
+  {
+    "savol": "O’sma hujayrasini bir organizmda boshqa organizmga ko’chirib o’tkazish bu?",
+    "A": "transplantatsiya",
+    "B": "metastazlanish",
+    "C": "malignizatsiyalanish",
+    "D": "atipizm",
+    "javob": "A"
+  },
+  {
+    "savol": "O’sma hujayrasini sun’iy muhitda o’stirish?",
+    "A": "Eksplantatsiya",
+    "B": "Implantatsiya",
+    "C": "Transplantatsiya",
+    "D": "Immartalizatsiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Transplantatsiya va eksplantatsiya usuli bilan uzoq vaqt saqlangan o’sma qanday nomlanadi?",
+    "A": "O’sma shtammlari",
+    "B": "Yangi o’smalar",
+    "C": "O’sma nusxalari",
+    "D": "Mutagenlar",
+    "javob": "A"
+  },
+  {
+    "savol": "O’sma kelib chiqish nazariyalari?",
+    "A": "Epigenome nazariya",
+    "B": "Trombogen nazariya",
+    "C": "Gerontologic nazariya",
+    "D": "Konstitutsionalizm",
+    "javob": "A"
+  },
+  {
+    "savol": "Kimyoviy kanserogenlarni 1-marta tajriba orqali isbotlab bergan olimlar?",
+    "A": "Yamagiva",
+    "B": "Lang",
+    "C": "Kongeym",
+    "D": "Mechnikov",
+    "javob": "A"
+  },
+  {
+    "savol": "O’sma hujayrasining cheksiz o’sishi?",
+    "A": "Xeyflik limitining bo’lmasligi",
+    "B": "Metastaz",
+    "C": "Malignizatsiya",
+    "D": "Kontakt tormozlanish",
+    "javob": "A"
+  },
+  {
+    "savol": "Transplantatsiya turlari?",
+    "A": "Hammasi to’g’ri",
+    "B": "Autotransplantatsiya,izotransplantatsiya",
+    "C": "geterotransplantatsiya",
+    "D": "Gomotransplantatsiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Kanserogen omillar guruhi keltirilgan qatorni toping?",
+    "A": "Biologickimyoviy",
+    "B": "Fizikmexanik",
+    "C": "Kimyoviyruhiy",
+    "D": "FizikRuhiy",
+    "javob": "A"
+  },
+  {
+    "savol": "So’rilgandan keyingina o’sma keltirib chiqaruvchi kimyoviy omillarga kiradi?",
+    "A": "aminoazobirikmalar",
+    "B": "Dietilnitrozoamin",
+    "C": "benzipren",
+    "D": "hammasi to’g’ri",
+    "javob": "A"
+  },
+  {
+    "savol": "Endogen kimyoviy kanserogenlarga kiradi?",
+    "A": "indol",
+    "B": "aromatic aminlar",
+    "C": "benzipren",
+    "D": "dietilamin",
+    "javob": "A"
+  },
+  {
+    "savol": "DNK tutuvchi onkoviruslarga kiradi?",
+    "A": "Epshteyn Bar virusi",
+    "B": "Leykoz",
+    "C": "Sarkoma",
+    "D": "OIV virusi",
+    "javob": "A"
+  },
+  {
+    "savol": "Onkogenlar faollashuvi haqidagi nazariya bu?",
+    "A": "Endogen viruslar nazariyasi",
+    "B": "Epigenom nazariya",
+    "C": "Immunodepressiv nazariya",
+    "D": "Virus genetic nazariya",
+    "javob": "A"
+  },
+  {
+    "savol": "Xavfsiz o’sma turi keltirilgan javobni toping?",
+    "A": "Teratoma",
+    "B": "Melanoma",
+    "C": "Astroblastoma",
+    "D": "adenokarsinoma",
+    "javob": "A"
+  },
+  {
+    "savol": "Funksiya kuchayishi atipizmi kuzatiladi?",
+    "A": "Feoxromasitomada",
+    "B": "Oshqozon rakida",
+    "C": "Su bezi rakida",
+    "D": "Hamma Javob to’g’ri",
+    "javob": "A"
+  },
+  {
+    "savol": "Sut bezi o’smasida funksional atipizm turi?",
+    "A": "Funksiyaning o’zgarishi",
+    "B": "Funksiyaning pasayishi",
+    "C": "Funksiyaning kuchayishi",
+    "D": "Funksiyaning o’zgarmasligi",
+    "javob": "A"
+  },
+  {
+    "savol": "O’smaning o’sishiga ko’ra turlari?",
+    "A": "Ekspanziv,appozitsion",
+    "B": "InvazivYotib o’sish",
+    "C": "EkspanzivZichlashib o’sish",
+    "D": "Hammasi to’g’ri",
+    "javob": "A"
+  },
+  {
+    "savol": "Infiltrativ o’sish necha bosqichda amalga oshadi?",
+    "A": "4",
+    "B": "5",
+    "C": "3",
+    "D": "2",
+    "javob": "A"
+  },
+  {
+    "savol": "Metastaz usullari?",
+    "A": "Hammasi to’g’ri",
+    "B": "gematogeb",
+    "C": "limfogen",
+    "D": "Implantatsion",
+    "javob": "A"
+  },
+  {
+    "savol": "O’sma patogenezi?",
+    "A": "Initsiatsiya,promotsiya,progressiya",
+    "B": "Initsiatsiya,transformatsiya,promotsiya",
+    "C": "Promotsiya va progressiya",
+    "D": "To’g’ri javob yo’q",
+    "javob": "A"
+  },
+  {
+    "savol": "Promotr omillarga kiradi?",
+    "A": "hammasi",
+    "B": "esterogen",
+    "C": "androgen",
+    "D": "zararli odatlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Oblikat o’sma oldi holat bu?",
+    "A": "Tezda xavfli o’smaga aylanuvchi kasallilar",
+    "B": "O’smaga aylanish xossasi kam",
+    "C": "Bachadon bo’yni eroziyasi",
+    "D": "Me’da yar kasalligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Fakultativ o’sma oldi holatlarga kiradi?",
+    "A": "Me’da yara kasalligi",
+    "B": "Yo’g’on ichak polipozi",
+    "C": "Me’da polipozi",
+    "D": "Hammasi to’g’ri",
+    "javob": "A"
+  },
+  {
+    "savol": "Shabad bo’yicha xavfli o’sma rivojlanish bosqichlari?",
+    "A": "4",
+    "B": "5",
+    "C": "3",
+    "D": "2",
+    "javob": "A"
+  },
+  {
+    "savol": "Xavfsiz o’smaga xos bo’lmagan xususiyat?",
+    "A": "Metastaz",
+    "B": "Malignizatsiya",
+    "C": "Ekspanziv o’sish",
+    "D": "To’qima atipizmi",
+    "javob": "A"
+  },
+  {
+    "savol": "Umumiy nozologiyaning asosiy tushunchalari to’g’ri berilgan qatorni belgilang?",
+    "A": "Kasallik,kakas all oldi holat",
+    "B": "Kasallik,kasallik sababi",
+    "C": "Kasallik,kasallik mexanizmi",
+    "D": "Regenratsiya,kasallik davrlari.",
+    "javob": "A"
+  },
+  {
+    "savol": "Xlorid kislotaning miqdori ortishi qaysi etiologic omil turiga mansub?",
+    "A": "Endogen kimyoviy",
+    "B": "Endogen biologik",
+    "C": "Endogen fizik",
+    "D": "Ekzogen biologic",
+    "javob": "A"
+  },
+  {
+    "savol": "Yuqori atmosfera bosimida organizmda kelib chiqadigan jarayon?",
+    "A": "Gaz emboliyasi",
+    "B": "To’qima emboliyasi",
+    "C": "Ateroskleroz",
+    "D": "Tromboz",
+    "javob": "A"
+  },
+  {
+    "savol": "Fermentli antioksidant berilgan qatorni toping?",
+    "A": "SOD",
+    "B": "perforin",
+    "C": "granzim",
+    "D": "Ko-A",
+    "javob": "A"
+  },
+  {
+    "savol": "MAK ni hosil qiladi?",
+    "A": "C 5 – C6 – C7-C8 -C9",
+    "B": "C3a-C4-C5-C5a",
+    "C": "C3b-C4a-C2b",
+    "D": "C4b-C5-C6-C8",
+    "javob": "A"
+  },
+  {
+    "savol": "Yallig’lanish bosqichlarini yoritib bergab olim?",
+    "A": "Strukov",
+    "B": "Bexterov",
+    "C": "Klod Bernard",
+    "D": "Mechnikov",
+    "javob": "A"
+  },
+  {
+    "savol": "Kalsiy ionning to’planishi qaysi ferment faoliyatini oshirib hujayrani shikastlaydi?",
+    "A": "endonukleaza",
+    "B": "superoksidismutaza",
+    "C": "katalaza",
+    "D": "Tokoferol",
+    "javob": "A"
+  },
+  {
+    "savol": "Hujayra bo’linishning qaysi fazasida shikastlanishga moyil bo’ladi?",
+    "A": "interfaza",
+    "B": "mitoz",
+    "C": "meyoz",
+    "D": "to’g’ri javob yo’q",
+    "javob": "A"
+  },
+  {
+    "savol": "Genetic buzulishga misol bo’ladi?",
+    "A": "hammasi to’g’ri",
+    "B": "mutatsiya",
+    "C": "repressiya",
+    "D": "derepressiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Anabolizm nima?",
+    "A": "Hujayra struktura sining sintezlanishi",
+    "B": "Ion kanallarning bloklanishi",
+    "C": "Membrananing gidrolizlanishi",
+    "D": "Hujayraning immune zararlanishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Katabolizm nima?",
+    "A": "Hujayra strukturasining parchalanishi",
+    "B": "Ion kanallarning bloklanishi",
+    "C": "Membrananing gidrolizlanishi",
+    "D": "Hujayraning immune zararlanishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Arterial giperemiyaga xos?",
+    "A": "Kollaterallarning ishga tushishi",
+    "B": "Og’riqning pulsatsiyasimon kuchayishi",
+    "C": "Tomirlar shaklining o’zgarishi",
+    "D": "Mahalliy haroratning pasayishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Venoz giperemiyaga xos?",
+    "A": "Qonning mayatniksimon harakati",
+    "B": "Tomirlarning anevrizmasi",
+    "C": "Oksigemoglobin miqdorining ortishi",
+    "D": "Mahalliy haroratning ko’tarilishi",
+    "javob": "A"
+  },
+  {
+    "savol": "O’kir ishemiya asorati?",
+    "A": "To’qima nekrozi",
+    "B": "Hujayra atrofiyasi",
+    "C": "Hujayra giperplaziyasi",
+    "D": "Giperemiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Emboliya tarkibiga ko’ra turi?",
+    "A": "Hammasi to’g’ri",
+    "B": "Yot jism",
+    "C": "Bacterial emboliya",
+    "D": "To’g’ri javob yo’q",
+    "javob": "A"
+  },
+  {
+    "savol": "Paradoksal emboliya uchraydi?",
+    "A": "Bo’lmachalararo teshik yopilmay qolganda",
+    "B": "Mitral klapan yetishmovchiligida",
+    "C": "3 tabaqali klapan yetishmovchiligida",
+    "D": "O’tkir koronar sindromda",
+    "javob": "A"
+  },
+  {
+    "savol": "Trombositlar aggregatsiyasida ishtirok etuvchi retseptor?",
+    "A": "Glikoprotein 2b/3a",
+    "B": "Glikoprotein 2a/3b",
+    "C": "Glikoprotein1a/3b",
+    "D": "Glikoprotein 1b/3a",
+    "javob": "A"
+  },
+  {
+    "savol": "OIV infeksiyasi yuzasidagi birikuvchi retseptorlar?",
+    "A": "GP 120,41",
+    "B": "GP 120,40",
+    "C": "GP 100,41",
+    "D": "GP 100,40",
+    "javob": "A"
+  },
+  {
+    "savol": "CD 4 retseptorlar bilan birikuvchi OIV infeksiyasi retseptori?",
+    "A": "GP120",
+    "B": "GP 41",
+    "C": "GP 5",
+    "D": "GP 100",
+    "javob": "A"
+  },
+  {
+    "savol": "Qandli diabet 1tip uchun xos xususiyat?",
+    "A": "anoreksiya",
+    "B": "poliuriya",
+    "C": "autofagiya",
+    "D": "Giperglikemiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Ateroskleroz yurak qon tomirlarida yuzaga kelsa,qanday asorat beradi?",
+    "A": "Miokard infarkti",
+    "B": "Ishemik insult",
+    "C": "Gemorragik insult",
+    "D": "Aterosklerotik anevrizma",
+    "javob": "A"
+  },
+  {
+    "savol": "Ikkilamchi pirogenga kirmaydi?",
+    "A": "Lipoid A fraksiya",
+    "B": "Interleykin 1",
+    "C": "TNF alfa",
+    "D": "Interleykin 6",
+    "javob": "A"
+  },
+  {
+    "savol": "Opsonin vazifasini bajarmaydi?",
+    "A": "Ig E",
+    "B": "Ig G",
+    "C": "C reaktiv oqsil",
+    "D": "C 3b",
+    "javob": "A"
+  },
+  {
+    "savol": "Qandli diabet ikkala tipida xam namoyon bo’ladi?",
+    "A": "Polidipsiya",
+    "B": "Kaxeksiya",
+    "C": "Alkaloz",
+    "D": "Ishemiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Semiz hujayra hosil qilishda ishtirok etadi?",
+    "A": "Silliq mushak hujayralar",
+    "B": "Trombosit hujayralar",
+    "C": "Eritrosit hujayralar",
+    "D": "Gistiotsit hujayralar",
+    "javob": "A"
+  },
+  {
+    "savol": "Regeneratsiya turlari?",
+    "A": "Fiziologik,reparative,patologik",
+    "B": "Fiziologik,immunologik,patologik",
+    "C": "Reparative,immunologik,patofiziologik",
+    "D": "Immunologik,patokimyoviy,patofiziologik",
+    "javob": "A"
+  },
+  {
+    "savol": "Anoreksiya bu?",
+    "A": "Ishtahaning to’liq yo’qolishi",
+    "B": "Tana massasining keskin kamayishi",
+    "C": "Hujayraning keskin kichrayishi",
+    "D": "Qon bosimning keskin tushishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Organizmda fosfat kilotaning ko’payishi qaysi atsidoz turiga mansub?",
+    "A": "Chiqaruv gazsiz atsidozi",
+    "B": "Ajratuv gazli atsidozi",
+    "C": "Metabolic gazsiz atsidoz",
+    "D": "Metabolic gazli atsidoz",
+    "javob": "A"
+  },
+  {
+    "savol": "Gazli atsidoz kompensatori mexanizmi?",
+    "A": "Hammasi to’gri",
+    "B": "Gemoglobin orqali",
+    "C": "Buyrak orqali",
+    "D": "Amfoter oqsillar orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Gipernatriyemiyada kuzatiladi?",
+    "A": "Taxikardiya",
+    "B": "Reflekslarning pasayishi",
+    "C": "Arterial bosimning pasayishi",
+    "D": "Gipovolemiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Giponatriyemiyada kuzatiladi?",
+    "A": "Bradikardiya",
+    "B": "Diurez kamayishi",
+    "C": "Sudorogi",
+    "D": "Bezovtalik",
+    "javob": "A"
+  },
+  {
+    "savol": "Qandli diabet 1tip sababi?",
+    "A": "Betta hujayralarning autoimmun zararlanishi",
+    "B": "Ortiqcha ovqatlanish",
+    "C": "Insulin rezistentlik",
+    "D": "Tug’ma gen kasalligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ketoatsidozda asosiy metabolic o’zgarish?",
+    "A": "Metabolik atsidoz",
+    "B": "Respirator alkaloz",
+    "C": "Respirator atsidoz",
+    "D": "Metabolic alkaloz",
+    "javob": "A"
+  },
+  {
+    "savol": "Diabetik angiopatiya nimani anglatadi?",
+    "A": "Qon tomirlar zararlanishi",
+    "B": "Nerv zararlanishi",
+    "C": "Mushak atrofiyasi",
+    "D": "Suyak yemirilishi",
+    "javob": "A"
+  },
+  {
+    "savol": "O’smaning bachadon devoriga qarab o’sishi bu?",
+    "A": "Endofit",
+    "B": "Ekzofit",
+    "C": "Invaziv",
+    "D": "Infiltrativ",
+    "javob": "A"
+  },
+  {
+    "savol": "Xilomikronlar vazifasi?",
+    "A": "Ichakdagi mahsulotlarni tashish vazifasini bajaradi",
+    "B": "PZL parchalash vazifasini bajaradi",
+    "C": "YuZL parchalash vazifasini bajaradi",
+    "D": "Ateroskleroz rivojlanishda ahamiyatga ega",
+    "javob": "A"
+  },
+  {
+    "savol": "YuZL ahamiyati?",
+    "A": "Antioksidant ta’sir etadi",
+    "B": "Yallig’lanishni kuchaytiradi",
+    "C": "Ateroskleroz xavfini oshiradi",
+    "D": "Anevrizmaga sababchi bo’ladi",
+    "javob": "A"
+  },
+  {
+    "savol": "O’sma oldi holat berilgan variantni toping?",
+    "A": "Leykoplakiya",
+    "B": "Leykositoz",
+    "C": "Limfositoz",
+    "D": "Eritrositoz",
+    "javob": "A"
+  },
+  {
+    "savol": "O’sma oldi holatlar turlari?",
+    "A": "Hammasi to’g’ri",
+    "B": "To’gri javob yo’q",
+    "C": "Obligat",
+    "D": "Fakultativ",
+    "javob": "A"
+  },
+  {
+    "savol": "Manfiy suv balansi bu?",
+    "A": "Eksikoz",
+    "B": "Alkaloz",
+    "C": "Gipergidratatsiya",
+    "D": "Anemiya",
+    "javob": "A"
+  }
+]
