@@ -1,1149 +1,5 @@
 [
   {
-    "savol": "Xolesterol sintezi hosil bo'lishi bilan tugaydi",
-    "A": "mevalonat",
-    "B": "gidroksimetilglutaril-KoA",
-    "C": "5-pirofosfatmevalonat",
-    "D": "5-pirofosfatmevalonat",
-    "javob": "A"
-  },
-  {
-    "savol": "NAD molekulasldagi vitaminn ko'rsating:",
-    "A": "P",
-    "B": "C",
-    "C": "D",
-    "D": "A",
-    "javob": "A"
-  },
-  {
-    "savol": "Uglevodlarning eng asosiy funktsiyasini ko’rsating",
-    "A": "energetik",
-    "B": "qisqarish",
-    "C": "qurilish",
-    "D": "himoya",
-    "javob": "A"
-  },
-  {
-    "savol": "Makroelementlarga kiradi:",
-    "A": "Kalsiy",
-    "B": "Xlor",
-    "C": "Selen",
-    "D": "Yod",
-    "javob": "A"
-  },
-  {
-    "savol": "Mikro elementlarga kiradi",
-    "A": "Rux",
-    "B": "Xlor",
-    "C": "Fosfor",
-    "D": "Qalay",
-    "javob": "A"
-  },
-  {
-    "savol": "Glukozaning to’qimada parchalanishi yo’llaridan biri.",
-    "A": "Аerоb yo’l",
-    "B": "Fosfat yo’li",
-    "C": "Sintezlanish yo’l",
-    "D": "A-окsidlanish",
-    "javob": "A"
-  },
-  {
-    "savol": "Glukoneogenez -bu:",
-    "A": "Uglevod bo’lmagan o’tmishdoshda glyukoza sintezi",
-    "B": "Glyukozadan glikogen sintezi",
-    "C": "Glyukozadan glyukoza sintezi",
-    "D": "Glyukozaning laktatga aylanishi",
-    "javob": "A"
-  },
-  {
-    "savol": "Lipidlаr аsоsiy аhаmiyatini ko’rsаting",
-    "A": "energiya",
-    "B": "vitamin",
-    "C": "gormon",
-    "D": "oqsil",
-    "javob": "A"
-  },
-  {
-    "savol": "Glikogenozlar -bu :",
-    "A": "Glikogen parchalanishini buzilishi",
-    "B": "Glyukoza sintezi buzilishi",
-    "C": "Insulin sintezi buzilishi",
-    "D": "Glyukoza so’rilishini buzilishi",
-    "javob": "A"
-  },
-  {
-    "savol": "Qonda keton tanalarning to'planishi bu:",
-    "A": "atsidoz",
-    "B": "ureimiya",
-    "C": "alkaloz",
-    "D": "giperurikemiya",
-    "javob": "A"
-  },
-  {
-    "savol": "Anabolizm nomlanadi:",
-    "A": "O’tmishdosh moddalardan birikmalar biosintezi",
-    "B": "Biopolimerlar gidrolizi",
-    "C": "Organik moddalar parchalanishi",
-    "D": "Membranalar orqali birikmalar o’tkazilishi",
-    "javob": "A"
-  },
-  {
-    "savol": "Lipidlarning qaysi vakili biologik membrana tarkibiga kiradi?",
-    "A": "Fosfolipidlar",
-    "B": "Mumlar",
-    "C": "Terpenoidlar",
-    "D": "Triglitseridlar",
-    "javob": "A"
-  },
-  {
-    "savol": "Qonda keton tanalar miqdori ortishi nima deyiladi?",
-    "A": "Giperketonemiya",
-    "B": "Ketogenez",
-    "C": "Lipidemiya",
-    "D": "Lipogenez",
-    "javob": "A"
-  },
-  {
-    "savol": "Steroid tabiatli garmon:",
-    "A": "Estradiol",
-    "B": "Tiroksin",
-    "C": "Oksitotsin",
-    "D": "Insulin",
-    "javob": "A"
-  },
-  {
-    "savol": "Tiroksin garmoni qayerda sintezlanadi:",
-    "A": "Qalqonsimon bezda",
-    "B": "Qalqon oldi bezi",
-    "C": "Oshqozonosti bezida",
-    "D": "Buyrak usti bezi po’stloq qismida",
-    "javob": "A"
-  },
-  {
-    "savol": "Qaysi gruppalar o'rtasida peptid bog'i xosil bo'ladi?",
-    "A": "NH2 va COOH",
-    "B": "SH va NH2",
-    "C": "CH3 va SH",
-    "D": "COOHva SH",
-    "javob": "A"
-  },
-  {
-    "savol": "Hujayrada ATFning asosiy miqdori qayerda sintezlanadi:",
-    "A": "Mitoxondriya",
-    "B": "Endoplazmatik",
-    "C": "Lizosoma",
-    "D": "Yadro",
-    "javob": "A"
-  },
-  {
-    "savol": "Vitamin P P inson to'qimalarida nimadan sintezlanishi mumkin:",
-    "A": "Triptofan",
-    "B": "Glukuron kislota",
-    "C": "Araxidon kislota",
-    "D": "Tirozin",
-    "javob": "A"
-  },
-  {
-    "savol": "Glyukozaning hujayra membranasi orqali o’tkazuvchanligini ta'minlab beruvchi garmon:",
-    "A": "Insulin",
-    "B": "Tiroksin",
-    "C": "Glyukagon",
-    "D": "Glyukokortikoidlar",
-    "javob": "A"
-  },
-  {
-    "savol": "Оvqаt tаrкibidаgi аsоsiy guruh uglеvоdlаrni ko’rsаting",
-    "A": "gоmоpоlisахаridlаr",
-    "B": "gеtеrоsахаridlаr",
-    "C": "glikоprоtеidlаr",
-    "D": "supеrsахаridlаr",
-    "javob": "A"
-  },
-  {
-    "savol": "Оdаm vа hаyvоn оrgаnizmidа uchrаdigаn vа o’zlаshtirilаdigаn mоnоsахаridni ko’rsаting",
-    "A": "glyukoza",
-    "B": "mаnnоzа",
-    "C": "ksilulоzа",
-    "D": "krахmаl",
-    "javob": "A"
-  },
-  {
-    "savol": "Odam organizmida uglevodlar vazifalari",
-    "A": "Energiya",
-    "B": "Transport",
-    "C": "Ekskretor",
-    "D": "Qisqarish",
-    "javob": "A"
-  },
-  {
-    "savol": "Oqsillarning birlamchi strukturasi -bu aminokislotalarni ketma-ket quyidagi bog’ bilan bog’lanishi:",
-    "A": "peptid bog’i",
-    "B": "disulfid bog’i",
-    "C": "murakkab efir bog’i",
-    "D": "vodorod bog’i",
-    "javob": "A"
-  },
-  {
-    "savol": "Membrana lipidlari uchun xarakterli fazoviy holat qaysi?",
-    "A": "Suyuq kristalli",
-    "B": "Amorf",
-    "C": "Suyuq",
-    "D": "Qattiq kristalli",
-    "javob": "A"
-  },
-  {
-    "savol": "NAD kofermenti tarkibiga qaysi vitamin kiradi:",
-    "A": "PP",
-    "B": "B1",
-    "C": "B2",
-    "D": "B6",
-    "javob": "A"
-  },
-  {
-    "savol": "Хоlеstеrin mоlекulаsidаgi guruhni кo’rsаting",
-    "A": "Gidrоksil guruх",
-    "B": "Karboksil guruх",
-    "C": "fоsfаt kislоtа qоldig’i",
-    "D": "Pеntоzаlаr",
-    "javob": "A"
-  },
-  {
-    "savol": "Proteid bu:",
-    "A": "murakkab oqsil",
-    "B": "murakkab uglevod",
-    "C": "murakkab yog'",
-    "D": "murakkab lipid",
-    "javob": "A"
-  },
-  {
-    "savol": "Ca va P almashinuvini tartibga soluvchi gormon:",
-    "A": "Paratgarmon",
-    "B": "Aldosteron",
-    "C": "Mineralokortikoidlar",
-    "D": "Vasopressin",
-    "javob": "A"
-  },
-  {
-    "savol": "Glyukozuriya kuzatiladi:",
-    "A": "Qandli diabet",
-    "B": "Glikogenoza",
-    "C": "Fenilketonuriya",
-    "D": "Ochlik",
-    "javob": "A"
-  },
-  {
-    "savol": "Fosfolipidlarga kiradi:",
-    "A": "Fosfatidilserin",
-    "B": "Fosfatid kislota",
-    "C": "Fosfoxolin",
-    "D": "Fosfoserin",
-    "javob": "A"
-  },
-  {
-    "savol": "Qon zardobida mavjud bo’lgan lipidlar:",
-    "A": "Xolesterol",
-    "B": "Mum",
-    "C": "Polmitino-olein",
-    "D": "Terpen",
-    "javob": "A"
-  },
-  {
-    "savol": "Membrana orqali transportlarning turi",
-    "A": "oddiy diffuziya",
-    "B": "murakkab trаnspоrt",
-    "C": "murakkab diffuziya",
-    "D": "noaktiv trаnspоrt",
-    "javob": "A"
-  },
-  {
-    "savol": "Insulinning muxim biologik funksiyasi:",
-    "A": "Qondagi glyukoza kontsentratsiyasini pasaytiradi",
-    "B": "Qonda glyukoza miqdorini oshiradi",
-    "C": "Katabolik ta’sir ko’rsatadi",
-    "D": "Glikogen, yog’, oqsil sintezini ingibirlaydi",
-    "javob": "A"
-  },
-  {
-    "savol": "Ayollar jinsiy garmoniga kiradi:",
-    "A": "Estradiol",
-    "B": "Prostaglandinlar",
-    "C": "Aldosteron",
-    "D": "Kortikosteron",
-    "javob": "A"
-  },
-  {
-    "savol": "Paratgarmon ning biologik ta’siri:",
-    "A": "Qondagi kalsiy miqdorini oshiradi",
-    "B": "Qonda glyukoza kontsentratsiyasini pasaytiradi",
-    "C": "Qonda fosfor kontsentratsiyasini oshiradi",
-    "D": "Qonda kaltsiy va fosfor kontsentratsiyasini pasaytiradi",
-    "javob": "A"
-  },
-  {
-    "savol": "Katexolaminlar va tiroksin organizmda qaysi aminokislotadan sintezlanadi:",
-    "A": "tirozin",
-    "B": "triptofan",
-    "C": "lizin",
-    "D": "serin",
-    "javob": "A"
-  },
-  {
-    "savol": "Vitamin B6 qanday nomlanadi:",
-    "A": "Piridoksin",
-    "B": "Pirimidin",
-    "C": "Nikotin kislotasi",
-    "D": "Riboflavin",
-    "javob": "A"
-  },
-  {
-    "savol": "Temir tarkibiga kiruvchi oqsilni ko’rsating",
-    "A": "fibrinоgеn",
-    "B": "giston",
-    "C": "trоmbin",
-    "D": "gеmоglоbin",
-    "javob": "A"
-  },
-  {
-    "savol": "AsAT faolligini aniqlash qaysi tashxisda ishlatiladi?:",
-    "A": "Miyokard infarkti",
-    "B": "O'tkir pankreatit",
-    "C": "Prostata bezi saratoni",
-    "D": "Qandli diabet",
-    "javob": "A"
-  },
-  {
-    "savol": "Yog’ deposi",
-    "A": "Teri osti yog’ qavati",
-    "B": "Oshqozon",
-    "C": "Taloq",
-    "D": "Buyraklar yoq tоqimasi",
-    "javob": "A"
-  },
-  {
-    "savol": "Uglevod ,oqsil va lipidlar almashinuvi jarayonlarida xosil bo’ladigan oraliq moddani ko’rsating.",
-    "A": "Piruvat",
-    "B": "Fumarat",
-    "C": "Atsetoatsetat",
-    "D": "Glitserin",
-    "javob": "A"
-  },
-  {
-    "savol": "Kattalarda uglevodlar uchun kundalik ehtiyoj:",
-    "A": "400 -500 g",
-    "B": "100 -200 g",
-    "C": "200 -300 g",
-    "D": "700 -800 g",
-    "javob": "A"
-  },
-  {
-    "savol": "Vitamin PPning koferment shakli:",
-    "A": "NAD, NADF",
-    "B": "FAD, FMN",
-    "C": "TDF",
-    "D": "HSKoA",
-    "javob": "A"
-  },
-  {
-    "savol": "Jigarda glikogen zaxirasi qanchaga yetadi:",
-    "A": "6%",
-    "B": "10%",
-    "C": "1% C",
-    "D": "3%",
-    "javob": "A"
-  },
-  {
-    "savol": "Qaysi uglevodlar struktura vazifasini bajaradi ?",
-    "A": "Glikozaminoglikanlar",
-    "B": "Glikogen",
-    "C": "Fruktoza",
-    "D": "Maltoza",
-    "javob": "A"
-  },
-  {
-    "savol": "Jigarda galaktozaning fosforillanishida hosil bo’lad",
-    "A": "Galaktoza -1-fosfat",
-    "B": "Glyukoza -6-fosfat",
-    "C": "UDF-galaktoza",
-    "D": "Glyukoza -1-fosfat",
-    "javob": "A"
-  },
-  {
-    "savol": "Qayerda uglevod hazmlanishi boshlanadi?",
-    "A": "Og’iz bo’shlig’ida",
-    "B": "Oshqozonda",
-    "C": "O'n ikki barmoqli ichakda",
-    "D": "Ingichka ichakda",
-    "javob": "A"
-  },
-  {
-    "savol": "Kraxmal monomeri?",
-    "A": "Glyukoza",
-    "B": "Galaktoza",
-    "C": "Maltoza",
-    "D": "Sellobioza",
-    "javob": "A"
-  },
-  {
-    "savol": "Odam organizmi da xolesteroldan hosil bo’luvchi modda:",
-    "A": "Vitamin D3",
-    "B": "Purinlar",
-    "C": "Keton tanachalari",
-    "D": "Yog' kislotalari",
-    "javob": "A"
-  },
-  {
-    "savol": "Organizmdagi qaysi sistema moddalar almashinuvini boshqarilishini taminlaydi?",
-    "A": "endokrin",
-    "B": "limfatik",
-    "C": "ayiruv",
-    "D": "nafas olish",
-    "javob": "A"
-  },
-  {
-    "savol": "Xolesterin mahsulotlari qatoriga kiruvchi gormonlarni korsating",
-    "A": "kortizol",
-    "B": "adrenalin",
-    "C": "insulin",
-    "D": "kalsitonin",
-    "javob": "A"
-  },
-  {
-    "savol": "Qaysi gomopolisaxarid inson to’qimalarida tuplanadi?",
-    "A": "Glikogen",
-    "B": "Sellyuloza",
-    "C": "Dekistrin",
-    "D": "Glyukoza",
-    "javob": "A"
-  },
-  {
-    "savol": "Anaerob glikoliz hujayra ning qaysi qismida ketadi:",
-    "A": "Sitoplazmada",
-    "B": "Yadroda",
-    "C": "Mitoxondriyada",
-    "D": "Ribosomada",
-    "javob": "A"
-  },
-  {
-    "savol": "Qaysi to’qima da glyukokinaza faolligi aniqlangan",
-    "A": "Jigar",
-    "B": "Miya",
-    "C": "Buyrak",
-    "D": "Miokard",
-    "javob": "A"
-  },
-  {
-    "savol": "Pentozfosfat yo'lining biologik roli:",
-    "A": "NADF-H2 ishlab chiqarish",
-    "B": "Energiya",
-    "C": "NADH2 ishlab chiqarish",
-    "D": "FADH2 ishlab chiqarish",
-    "javob": "A"
-  },
-  {
-    "savol": "Ovqatning almashinmaydigan komponenti hisoblanadi:",
-    "A": "Linol kislota",
-    "B": "Xolesterin",
-    "C": "Fruktoza",
-    "D": "Alanin aminokislotasi",
-    "javob": "A"
-  },
-  {
-    "savol": "Kattalarda balansli ovqatlanishda oqsil-yog’-uglevod nisbati:",
-    "A": "1: 1: 4",
-    "B": "1: 2: 4",
-    "C": "1: 2: 3",
-    "D": "4: 1: 1",
-    "javob": "A"
-  },
-  {
-    "savol": "Vitamin B2 qanday reaksiyalarni katalizlovchi fermentlar tarkibiga kiradi:",
-    "A": "Oksidlanish-qaytarilish",
-    "B": "Guruhlar tashilishi",
-    "C": "Yangi molekulalarning sintezi",
-    "D": "Gidroliz",
-    "javob": "A"
-  },
-  {
-    "savol": "Tirok sin etishmovchiligida kattalarda rivojlanadigan kasallik",
-    "A": "Miksidema",
-    "B": "Greyvs kasalligi",
-    "C": "Kretinizm",
-    "D": "Feoxromositoma",
-    "javob": "A"
-  },
-  {
-    "savol": "Vitamin C yetishmovchiligi da qaysi oqsil shakllanishi buziladi?",
-    "A": "Kollagen",
-    "B": "Mioglobin",
-    "C": "Insulin",
-    "D": "Gemoglobin",
-    "javob": "A"
-  },
-  {
-    "savol": "Hayvon to'qimasi lipidlariga kiradi:",
-    "A": "Triglitseridlar",
-    "B": "Mum",
-    "C": "Karotenoidlar",
-    "D": "Terpenoidlar",
-    "javob": "A"
-  },
-  {
-    "savol": "Zaxira lipidlar ga kiradi:",
-    "A": "Triglitseridlar",
-    "B": "Glitserofosfolipidlar",
-    "C": "Xolesterin",
-    "D": "Sfingofosfolipidlar",
-    "javob": "A"
-  },
-  {
-    "savol": "Organizmda glyukoza qaysi jarayonda sintezlanadi:",
-    "A": "Glyukoneogenez",
-    "B": "Pentoz fosfat yo'l",
-    "C": "Glikoliz",
-    "D": "Glikogen sintez",
-    "javob": "A"
-  },
-  {
-    "savol": "Laktozani xazmlanishida glukozadan tashqari xosil bo’ladi:",
-    "A": "Galaktoza",
-    "B": "Riboza",
-    "C": "Arabinoza",
-    "D": "Mannoza",
-    "javob": "A"
-  },
-  {
-    "savol": "Yog’li ovqat ist’mol qilgandan necha soatdan so’ng alimentar giperlipidemiya kuzatiladi:",
-    "A": "4-5 soatdan so’ng",
-    "B": "1-2 soatdan so’ng",
-    "C": "2-3 soatdan so’ng",
-    "D": "6-8 soatdan so’ng",
-    "javob": "A"
-  },
-  {
-    "savol": "So’lak a-amilazasi ta’sirida polisaxaridlar gidrolizining maxsuloti bo’libxisoblanadi:",
-    "A": "Dekstrin",
-    "B": "Laktoza",
-    "C": "Saxaroza",
-    "D": "Maltaza",
-    "javob": "A"
-  },
-  {
-    "savol": "Glukozani aerob oksidlanishi natijasida sintezlanadigan ATF miqdori:",
-    "A": "38",
-    "B": "10",
-    "C": "34",
-    "D": "42",
-    "javob": "A"
-  },
-  {
-    "savol": "Anaerob glikoliz xos:",
-    "A": "skelet mushaklariga",
-    "B": "miya to’qimasiga",
-    "C": "jigarga",
-    "D": "yog’ to’qimasiga",
-    "javob": "A"
-  },
-  {
-    "savol": "Kori sikli quyidagi jarayonlardan iborat:",
-    "A": "glikoliz, glyukoneogenez",
-    "B": "lipoliz, glikoliz",
-    "C": "liponeogenez, glikoliz",
-    "D": "glikoliz, glikogenoliz",
-    "javob": "A"
-  },
-  {
-    "savol": "Kattalar uchun vitamin C iste'mol darajasi:",
-    "A": "60 -100 mg / kun",
-    "B": "110 -150 mg / kun",
-    "C": "10 -20 g / kun",
-    "D": "30 -40 mg / kun",
-    "javob": "A"
-  },
-  {
-    "savol": "Fоsfоglitsеridlаrning аsоsiy guruхini ko’rsаting",
-    "A": "fоsfаtidilхоlin",
-    "B": "mumlаr",
-    "C": "stеrinlаr",
-    "D": "pirоfоsfаt",
-    "javob": "A"
-  },
-  {
-    "savol": "Qaysi sitoxrom qatori temir va mis atomi saqlaydi?",
-    "A": "a3",
-    "B": "c",
-    "C": "b",
-    "D": "c1",
-    "javob": "A"
-  },
-  {
-    "savol": "a-ketoglutaratdegidrogenaza kompleksi nechta fermentdan tuzilgan?",
-    "A": "3",
-    "B": "5",
-    "C": "4",
-    "D": "7",
-    "javob": "A"
-  },
-  {
-    "savol": "Uglevodlarning yonish energiyasi miqdori:",
-    "A": "4.2 kkal / g",
-    "B": "7,5 kkal / g",
-    "C": "9,3 kkal / g",
-    "D": "2.1 kkal / g",
-    "javob": "A"
-  },
-  {
-    "savol": "Ovqatning almashinmaydigan komponenti hioblanadi:",
-    "A": "Vitaminlar",
-    "B": "Glyukoza",
-    "C": "Alanin aminokislatalari",
-    "D": "Glisin,",
-    "javob": "A"
-  },
-  {
-    "savol": "Lipidlar bu:",
-    "A": "yog’ va yog’simon moddalar",
-    "B": "gidrofobik xususiyatli moddalar",
-    "C": "polimer",
-    "D": "sovun",
-    "javob": "A"
-  },
-  {
-    "savol": "Piridinli fermentlar tuzilishiga ko’ra:",
-    "A": "NAD va NADF kofermentlari bilan ikki komponentli",
-    "B": "FMN va FAD kofermentlari bilan ikki komponentli",
-    "C": "Koferment A bilan ikki komponentli",
-    "D": "Gem kofermenti bilan ikki komponentli",
-    "javob": "A"
-  },
-  {
-    "savol": "Suvda eruvchi vitaminlarning vakilini ko’rsating:",
-    "A": "B6",
-    "B": "D",
-    "C": "K",
-    "D": "A",
-    "javob": "A"
-  },
-  {
-    "savol": "NAD molekulasining aktiv qismi hisoblanadi:",
-    "A": "Nikotin amid",
-    "B": "Pentoza",
-    "C": "Adenin",
-    "D": "Fosfor kislota",
-    "javob": "A"
-  },
-  {
-    "savol": "Ovqatning almashinib bo’lmaydigan tarkibiy qismini ko’rsating:",
-    "A": "araxidon kislota",
-    "B": "limon kislotasi",
-    "C": "palmitioksilat",
-    "D": "begin kislota",
-    "javob": "A"
-  },
-  {
-    "savol": "Sfingo miyelin va glikolipidlar sintezi uchun umumiy metabolitni ko’rsating.",
-    "A": "Seramid",
-    "B": "Xolesterin",
-    "C": "Fosfotidilxolin",
-    "D": "8Fosfotidin kislota",
-    "javob": "A"
-  },
-  {
-    "savol": "Oqsilning uchlamchi strukturasini aniqlashning asosiy usuli:",
-    "A": "Rentgenostruktur tahlil",
-    "B": "Affin xromatografiya usuli",
-    "C": "Disk elektroforez",
-    "D": "Gel-filtrlash",
-    "javob": "A"
-  },
-  {
-    "savol": "Fibrillyar oqsillar ga kiradi:",
-    "A": "Kollagen",
-    "B": "Insulin",
-    "C": "Gemoglobin",
-    "D": "Albumin",
-    "javob": "A"
-  },
-  {
-    "savol": "Globulyar oqsillariga kiradi :",
-    "A": "Mioglobin",
-    "B": "Elastin",
-    "C": "Fibroinn",
-    "D": "Miozin",
-    "javob": "A"
-  },
-  {
-    "savol": "Jigarda galaktozaning glukozaga aylantiruvchi fermentni ko’rsating.",
-    "A": "Gаlакtакinаzа",
-    "B": "Lаktаtdеgidrоgеnаzа",
-    "C": "1-transferаzа",
-    "D": "Piruvаtкinаzа",
-    "javob": "A"
-  },
-  {
-    "savol": "Lipidlarning asosiy biologik funksiyalaridan biri.",
-    "A": "enеrgеtik",
-    "B": "gormonal",
-    "C": "vitаminа B6 manbai",
-    "D": "suvda eruvchi vitaminlar tashuvchisi",
-    "javob": "A"
-  },
-  {
-    "savol": "Glisеrо fоsfоlipidlarning turini ko’rsating.",
-    "A": "Lеsitin",
-    "B": "Хоlеstеrin",
-    "C": "Sеrеbrоzid",
-    "D": "Gаngliоzid",
-    "javob": "A"
-  },
-  {
-    "savol": "Glukoza oksidlanishining birinchi bosqichida xosil bo’luvchi maxsulot:",
-    "A": "glukoza > glukoza-6-fosfat",
-    "B": "galaktoza > galaktoza-1-fosfat",
-    "C": "glukoza-6-fosfat > UDF-glukoza",
-    "D": "glukoza > fruktoza-1-fosfat",
-    "javob": "A"
-  },
-  {
-    "savol": "Anaerob glikolizda glitseraldegid-3-fosfatdan hosil bo’ladigan mahsulot.",
-    "A": "1,3-bisfоsfоglisеrаt",
-    "B": "glyuкоzа-6-fоsfаt",
-    "C": "digidroksiаsеtоnfоsfаt",
-    "D": "fruкtоzа-1,6-bisfоsfаt",
-    "javob": "A"
-  },
-  {
-    "savol": "ATF energiyasi to’qimalarda ko’pincha qaysi ko’rinishga o’tadi",
-    "A": "Kimyoviy bog’ energiyasiga",
-    "B": "Issiqlik energiyasiga",
-    "C": "Kamen ergiyali fosfat bog’lar",
-    "D": "Erkinenergiya",
-    "javob": "A"
-  },
-  {
-    "savol": "Butun organizmda moddalar almashinuvini o’rganish usuli.",
-    "A": "balanslovchi tajribalar",
-    "B": "noizotopusullar",
-    "C": "ferment yoki kofermentlarnio’rganish usullari",
-    "D": "hujayralarning suniy ko’paytirish",
-    "javob": "A"
-  },
-  {
-    "savol": "Odam uchun ovqatning asosiy tarkibiy qismlaridan biri",
-    "A": "oqsillar",
-    "B": "хоlеstеrin",
-    "C": "fоsfоlipidlar",
-    "D": "glikоlipidlar",
-    "javob": "A"
-  },
-  {
-    "savol": "Organizmdagi moddalar almashinuvi boshqarilish darajalaridan biri",
-    "A": "gоrmоnlar bilan",
-    "B": "аntivitаminlar bilan",
-    "C": "vitаminlar bilan",
-    "D": "kоfеrmеntlar bilan",
-    "javob": "A"
-  },
-  {
-    "savol": "Qaysi oqsilning uchlamchi strukturasi birinchi bo’lib o’rganilgan ?",
-    "A": "Mioglobin",
-    "B": "Insulin",
-    "C": "Kollagen",
-    "D": "Globulin",
-    "javob": "A"
-  },
-  {
-    "savol": "Androgenlarga kiradi:",
-    "A": "Testosteron",
-    "B": "Prolaktinlar",
-    "C": "Antidiuretik garmon",
-    "D": "Aldosteron",
-    "javob": "A"
-  },
-  {
-    "savol": "Katabolizm bu:",
-    "A": "murakkab moddalarni energiya xosil qilib parchalanishi",
-    "B": "polimerlar sintezi",
-    "C": "metabolism ketma ketligi",
-    "D": "murakkab moddalar resintezlanishi",
-    "javob": "A"
-  },
-  {
-    "savol": "Organizmda adrenalinning hosil bo’lish joyi:",
-    "A": "Buyrak usti bezining miya moddasi",
-    "B": "Qalqon oldi bezi",
-    "C": "Langergans orolchalarining a hujayralarida",
-    "D": "Buyrak usti bezining po’stloq moddasida",
-    "javob": "A"
-  },
-  {
-    "savol": "Keratinlar eng ko’p miqdorda mavjud:",
-    "A": "sochlarda",
-    "B": "suyaklarda",
-    "C": "tog’aylarda",
-    "D": "paylarda",
-    "javob": "A"
-  },
-  {
-    "savol": "Oqsillar shakli bo'yicha qanday guruhlarga bo'linadi:",
-    "A": "Globulyar va fibrillyar",
-    "B": "Albumin va globulin",
-    "C": "Sulfatli va fosfatli",
-    "D": "Asiklik va geterosiklik",
-    "javob": "A"
-  },
-  {
-    "savol": "Oqsillarning monomer mahsuloti bu:",
-    "A": "Aminokislota",
-    "B": "Glitserin",
-    "C": "Yog' kislota",
-    "D": "Spirt",
-    "javob": "A"
-  },
-  {
-    "savol": "Yog’da eruvchi vitaminlardan biri",
-    "A": "K",
-    "B": "С",
-    "C": "B1",
-    "D": "B2",
-    "javob": "A"
-  },
-  {
-    "savol": "Qay si hujayralarda GLUT-1 glyukozaning hujayralarga o’tkazilishida muhimhisoblanadi:",
-    "A": "Miya",
-    "B": "Yog’ to’qimqsida",
-    "C": "Yurak",
-    "D": "Muskul",
-    "javob": "A"
-  },
-  {
-    "savol": "xolesterin almashinuvi buzilganda rivojlanishi mumkin.",
-    "A": "ateroskleroz",
-    "B": "-qandli diabet",
-    "C": "urolitiyoz",
-    "D": "yog'li jigar infiltratsiyasi",
-    "javob": "A"
-  },
-  {
-    "savol": "yog ' kislotalarini tashishda ishtirok eting.",
-    "A": "Karnitin",
-    "B": "Biotin",
-    "C": "FAD",
-    "D": "ATP",
-    "javob": "A"
-  },
-  {
-    "savol": "ZJPL katabolizmida ishtirok etadi.",
-    "A": "Lipoprotein lipaza",
-    "B": "Triglitserid lipaza",
-    "C": "Pankreatik lipaza",
-    "D": "Fosfolipaza",
-    "javob": "A"
-  },
-  {
-    "savol": "Vitaminlar almashinuviga bog’liq kasallik",
-    "A": "Аvitаminоz",
-    "B": "Yоdizm",
-    "C": "Gigаntizm",
-    "D": "Tirеоtокsiкоz",
-    "javob": "A"
-  },
-  {
-    "savol": "me'da shirasining bir qismi sifatida topilgan.",
-    "A": "Pepsin, gastriksin",
-    "B": "Tripsin",
-    "C": "Ximotripsin",
-    "D": "Karboksipeptidaza",
-    "javob": "A"
-  },
-  {
-    "savol": "oqsillar parchalanganda lizindan hosil bo'ladi.",
-    "A": "Kadaverin",
-    "B": "Fenol",
-    "C": "Vodorod sulfidi",
-    "D": "Kresol",
-    "javob": "A"
-  },
-  {
-    "savol": "oqsillar parchalanganda tirozindan hosil bo'ladi.",
-    "A": "Indol va skatol",
-    "B": "Indol",
-    "C": "Kadaverin",
-    "D": "Putresin",
-    "javob": "A"
-  },
-  {
-    "savol": "oqsillar chiriganida sisteindan hosil bo'ladi.",
-    "A": "Metil merkaptan va vodorod sulfidi",
-    "B": "Fenol",
-    "C": "Indol",
-    "D": "Kresol",
-    "javob": "A"
-  },
-  {
-    "savol": "Fosforillanish orqali qaysi ferment o'ziga xos fosforilaza kinazini faollashtiradi.",
-    "A": "Protein kinaza",
-    "B": "Adenilat siklaza",
-    "C": "Guanilat siklaza",
-    "D": "Fosfodiesteraza",
-    "javob": "A"
-  },
-  {
-    "savol": "ornitin siklidagi siydikchil o”tmishdoshi.",
-    "A": "Arginin",
-    "B": "Aspartat",
-    "C": "Glutamat",
-    "D": "Ornitin",
-    "javob": "A"
-  },
-  {
-    "savol": "triptofanning hosilasi.",
-    "A": "Triptamin",
-    "B": "Dopamin",
-    "C": "FAD, FMN",
-    "D": "G-aminobutirik kislota",
-    "javob": "A"
-  },
-  {
-    "savol": "Antiaterogen ... .",
-    "A": "ZYUL",
-    "B": "ZJPL",
-    "C": "xilomikronlar",
-    "D": "ZPL",
-    "javob": "A"
-  },
-  {
-    "savol": "Odamlarda purin asoslari almashinuvining yakuniy mahsuloti…",
-    "A": "siydik kislotasi",
-    "B": "b-alanin",
-    "C": "karbamid",
-    "D": "ammiak",
-    "javob": "A"
-  },
-  {
-    "savol": "Ornitin siklining metabolitlariga tegishli emas.",
-    "A": "metionin glutamat",
-    "B": "karbamoyl fosfat",
-    "C": "argininosuksinat",
-    "D": "sitrulin",
-    "javob": "A"
-  },
-  {
-    "savol": "alkaptonuriyaning o'ziga xos bo'lmagan belgilari",
-    "A": "terida, retinada, sochlarda melanin yo'qligi",
-    "B": "gomogentizinuriya",
-    "C": "qorong'i siydik",
-    "D": "ochronoz, burun, quloq va skleraning qorayishi",
-    "javob": "A"
-  },
-  {
-    "savol": "Na+-, K+ - ATF-aza evaziga hujayradan uchta Na+ ionini chiqaradi",
-    "A": "ikkita ion K + hujayra ichida",
-    "B": "hujayra ichidagi uchta K+ ioni",
-    "C": "hujayra ichidagi to'rtta K+ ioni",
-    "D": "hujayra ichidagi bitta K + ioni",
-    "javob": "A"
-  },
-  {
-    "savol": "Azot muvozanati kuzatiladi",
-    "A": "Sog'lom odamda",
-    "B": "Homiladorlik paytida",
-    "C": "Keksa odamlarda",
-    "D": "Bolalikda",
-    "javob": "A"
-  },
-  {
-    "savol": "Fermentlarga boy oshqozon kislotasi sekretsiyasining faollashishi ta'sir qiladi",
-    "A": "Gastrin",
-    "B": "Insulin",
-    "C": "STG",
-    "D": "Enterogastron",
-    "javob": "A"
-  },
-  {
-    "savol": "Tanadagi aminokislotalar asosan quyidagilar uchun ishlatiladi",
-    "A": "Turli organlarning yangi oqsillarini sintez qilish",
-    "B": "Siydik kislotasi sintezi",
-    "C": "Yog sintezi",
-    "D": "Keton tanalarining sintezi",
-    "javob": "A"
-  },
-  {
-    "savol": "Axiliya-yo'qligi bilan bog'liq musobaqa",
-    "A": "Xlorid kislota va pepsin",
-    "B": "Xlorid kislota va tripsin",
-    "C": "Pepsin va ximotripsin",
-    "D": "Pepsin va gastriksin",
-    "javob": "A"
-  },
-  {
-    "savol": "Ichaklarda so'riladi",
-    "A": "Aminokislotalar",
-    "B": "Oligopeptidlar",
-    "C": "Polipeptidlar",
-    "D": "Oqsillar",
-    "javob": "A"
-  },
-  {
-    "savol": "Xolesterinning eruvchan holatga o'tishini ta'minlaydigan safro kislotasini tanlang:",
-    "A": "Henodeoksixolat",
-    "B": "Tauroxol",
-    "C": "Xolat",
-    "D": "Deoksikol",
-    "javob": "A"
-  },
-  {
-    "savol": "Aminokislotalarning dekarboksillanish reaktsiyasi uchun quyidagilar zarur",
-    "A": "Dekarboksilaza",
-    "B": "Izomeraza",
-    "C": "B1 Vitamini",
-    "D": "Glutamat dehidrogenaza",
-    "javob": "A"
-  },
-  {
-    "savol": "Ornitindan tashqari sitrulin hosil bo'lishi uchun quyidagilar zarur",
-    "A": "Karbamoyl fosfat",
-    "B": "Arginin",
-    "C": "Fumarat",
-    "D": "Argininosuksinat",
-    "javob": "A"
-  },
-  {
-    "savol": "Qoldiq azotdagi karbamidning ulushi",
-    "A": "50%",
-    "B": "10%",
-    "C": "70%",
-    "D": "90%",
-    "javob": "A"
-  },
-  {
-    "savol": "Fenilalanin va tirozin almashinuvining buzilishlariga quyidagilar kiradi",
-    "A": "Albinizm",
-    "B": "Gistidinemiya",
-    "C": "Homosistinuriya",
-    "D": "Pellagra",
-    "javob": "A"
-  },
-  {
-    "savol": "Lipidlarning transport shakllariga quyidagilar kiradi:",
-    "A": "HM, ZJPL, ZPL, ZYUL",
-    "B": "Misellar, ZJPL, , ZPL , ZYUL",
-    "C": "LDL, ZYUL, HMM",
-    "D": "ZJPL ZPL, ZYUL",
-    "javob": "A"
-  },
-  {
-    "savol": "Me'da shirasining umumiy kislotaliligining oshishi nima deyiladi:",
-    "A": "giperxlorgidriya",
-    "B": "gipoxlorgidriya",
-    "C": "gipoatsidoz",
-    "D": "Axlorgidriya",
-    "javob": "A"
-  },
-  {
-    "savol": "Qon plazmasidagi machevina kontsentratsiyasining oshishi va uning kunlik siydikda pasayi shishikastlanishga xosdir",
-    "A": "Buyraklar",
-    "B": "Ingichka ichak",
-    "C": "Jigar",
-    "D": "Yo'g'on ichak",
-    "javob": "A"
-  },
-  {
-    "savol": "Proteoglikan biriktiruvchi to'qima komplekslarining yangilanish tezligi ... bilan kamayadi .",
-    "A": "qandli diabet va Rovmatoid artrit",
-    "B": "qon",
-    "C": "miyokard infarkti",
-    "D": "javob yo'q",
-    "javob": "A"
-  },
-  {
-    "savol": "Tuprik amilazasini faollashtiradigan ion:",
-    "A": "Xlor",
-    "B": "Kaliy",
-    "C": "Magniy",
-    "D": "Vodorod",
-    "javob": "A"
-  },
-  {
-    "savol": "Qon lipoproteinlariga taalluqli emas",
-    "A": "fosfolipidlar",
-    "B": "xilomikronlar",
-    "C": "beta-lipoproteinlardan oldingi",
-    "D": "beta-lipoproteinlar",
-    "javob": "A"
-  },
-  {
-    "savol": "Prostaglandinlar nimadan sintezlanadi:",
-    "A": "araxidon kislotasi",
-    "B": "linolenik kislota",
-    "C": "stearin kislotasi",
-    "D": "oleyk kislotasi",
-    "javob": "A"
-  },
-  {
-    "savol": "Tirozindan hosil bo'ladi",
-    "A": "Katekolaminlar",
-    "B": "Melatonin",
-    "C": "Lipoik kislota",
-    "D": "Gidroksitriptamin",
-    "javob": "A"
-  },
-  {
-    "savol": "Aminokislotani karbonat angidrid va suvga oksidlash uchun avval kerak",
-    "A": "Dezaminlash",
-    "B": "Dekarboksillanish",
-    "C": "Radikalni o'zgartiring",
-    "D": "Aminoatsiladenilatga aylantiring",
-    "javob": "A"
-  },
-  {
-    "savol": "Transaminatsiya jarayonida NH2 guruhining donori:",
-    "A": "Har qanday aminokislota",
-    "B": "Faqat dikarboksilik kislota;",
-    "C": "Faqat glutamik kislota",
-    "D": "Faqat arginin",
-    "javob": "A"
-  },
-  {
-    "savol": "Katabolizmning ikkinchi bosqichida yog ' kislotalari quyidagilarga aylanadi",
-    "A": "asetil-KoA",
-    "B": "sitrat",
-    "C": "piruvat",
-    "D": "Laktat",
-    "javob": "A"
-  },
-  {
-    "savol": "B6 vitamini reaktsiyalar uchun zarurdir",
-    "A": "Transaminatsiyalar",
-    "B": "Krebs Tsikli",
-    "C": "Polimerizatsiya",
-    "D": "Gidroliz",
-    "javob": "A"
-  },
-  {
-    "savol": "Miya hujayralarida ammiakni zararsizlantirishda aminokislotalar ishtirok etadi",
-    "A": "asparagin",
-    "B": "sistein",
-    "C": "leytsin",
-    "D": "glitsin",
-    "javob": "A"
-  },
-  {
-    "savol": "Biogen aminlar aminokislotalardan reaktsiya natijasida hosil bo'ladi …",
-    "A": "alfa dekarboksillanish",
-    "B": "dekarboksillanish",
-    "C": "transaminatsiya reaktsiyasi bilan birlashtirilgan dekarboksillanish",
-    "D": "kondensatsiya reaktsiyasi bilan birlashtirilgan dekarboksillanish",
-    "javob": "A"
-  },
-  {
-    "savol": "Asetil-KoA sintez uchun ishlatiladi....1.glyukoza 2.yog ' kislotalari3.Aminokislotalar 4.keton jismlari 5.steroid gormonlar",
-    "A": "2,4,5",
-    "B": "1,2,3",
-    "C": "1,3,4",
-    "D": "1,3",
-    "javob": "A"
-  },
-  {
     "savol": "Adrenalin aminokislotadan hosil bo'ladi",
     "A": "Tirozin",
     "B": "Gistidin",
@@ -1160,15 +16,399 @@
     "javob": "A"
   },
   {
-    "savol": "1 mol glitserinning to'liq oksidlanishining energiya ta'siri ... mol ATP.",
-    "A": "20",
-    "B": "36",
-    "C": "2",
-    "D": "12",
+    "savol": "Eritrosit tarkibida mavjud bo’lmagan organoidni aniqlang",
+    "A": "Yadro",
+    "B": "Sitoplazma",
+    "C": "Biomembrana",
+    "D": "Gemoglabin",
     "javob": "A"
   },
   {
-    "savol": "jigarda oqsillarni parchalanish mahsulotlarini zararsizlantirish uchun zarur.",
+    "savol": "Biriktiruvchi to’qima tana organizmning qaysi qismida ko’p?",
+    "A": "Terida",
+    "B": "Yurakda",
+    "C": "Oshqazonda",
+    "D": "Yog’ bezlarida",
+    "javob": "A"
+  },
+  {
+    "savol": "Biriktiruvchi to’qima tana massasining necha foizini tashkil etadi?",
+    "A": "50%",
+    "B": "20%",
+    "C": "12%",
+    "D": "15%",
+    "javob": "A"
+  },
+  {
+    "savol": "Biriktiruvchi to’qimaning mustahkamlagini belgilaydigan oqsil nima?",
+    "A": "Kollagen",
+    "B": "Elastin",
+    "C": "Retuklin",
+    "D": "Tola",
+    "javob": "A"
+  },
+  {
+    "savol": "Proteoletik ferment berilgan qatorni toping",
+    "A": "Pepsin",
+    "B": "Lipaza",
+    "C": "Amilaza",
+    "D": "Fosfolipaza",
+    "javob": "A"
+  },
+  {
+    "savol": "Lipoletik ferment berilgan qatorni toping",
+    "A": "Lipaza",
+    "B": "Pepsin",
+    "C": "Ximotripsin",
+    "D": "Kollegenaza",
+    "javob": "A"
+  },
+  {
+    "savol": "Fosfolipaza fermenti qanday fermant",
+    "A": "Lipolitik",
+    "B": "Amilolitik",
+    "C": "Proteolitik",
+    "D": "Karbolitik",
+    "javob": "A"
+  },
+  {
+    "savol": "Oshqazonda fermentlarni aktiv holatga keltiradigan modda nima?",
+    "A": "Hcl",
+    "B": "HNO_{3}",
+    "C": "H_{2}CO_{3}",
+    "D": "HCO_{3}",
+    "javob": "A"
+  },
+  {
+    "savol": "Oqsil oshqazonda polimer holatdan fermentlar ta’sirida qanday holatga o’tadi?",
+    "A": "Oligomer holatga",
+    "B": "Oqsil holatiga",
+    "C": "Monomer holatiga",
+    "D": "Aminokislotagacha",
+    "javob": "A"
+  },
+  {
+    "savol": "So’lakning ph ko’rsatkichi nechchi bo’ladi?",
+    "A": "6,5-7,4",
+    "B": "4-5",
+    "C": "4,5-4,8",
+    "D": "8",
+    "javob": "A"
+  },
+  {
+    "savol": "So’lak tarkibida necha foiz organik komponentlar bor?",
+    "A": "1,5-2",
+    "B": "6,4-7",
+    "C": "5,5",
+    "D": "8.7-9",
+    "javob": "A"
+  },
+  {
+    "savol": "Oshqazonning bo’sh hajmi qancha ?",
+    "A": "500 ml",
+    "B": "1,5 litr",
+    "C": "2,5 litr",
+    "D": "900 ml",
+    "javob": "A"
+  },
+  {
+    "savol": "Oshqazon necha qismdan iborat?",
+    "A": "4",
+    "B": "6",
+    "C": "9",
+    "D": "10",
+    "javob": "A"
+  },
+  {
+    "savol": "Pepsin qanday oqsillarni parchalab beradi?",
+    "A": "Hayvon",
+    "B": "O’simlik",
+    "C": "Sut kazeinini",
+    "D": "Disaxaridni",
+    "javob": "A"
+  },
+  {
+    "savol": "Gastriksin qanday oqsillarni parchalab beradi?",
+    "A": "O’simlik",
+    "B": "Hayvon",
+    "C": "Sut kazeinini",
+    "D": "Polisaxaridni",
+    "javob": "A"
+  },
+  {
+    "savol": "Hazm jarayoni qayerda boshlanadi?",
+    "A": "Og‘iz bo‘shlig‘ida",
+    "B": "Oshqazonda",
+    "C": "Ingichka ichakda",
+    "D": "Yo’g’on ichakda",
+    "javob": "A"
+  },
+  {
+    "savol": "So‘lak tarkibidagi uglevodlarni parchalaydigan ferment",
+    "A": "Amilaza",
+    "B": "Tripsin",
+    "C": "Karboksipeptidaza",
+    "D": "Polipeptidaza",
+    "javob": "A"
+  },
+  {
+    "savol": "Yog‘lar asosan qayerda hazm bo‘ladi?",
+    "A": "Ingichka ichakda",
+    "B": "Oshqazonda",
+    "C": "Og’izda",
+    "D": "Meda osti bezida",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘t suyuqligining asosiy vazifasi",
+    "A": "Yog‘larni emulgatsiya qilish",
+    "B": "Oqsilni hazmlash",
+    "C": "Pepsinni faollash",
+    "D": "Amilazani aktivatori",
+    "javob": "A"
+  },
+  {
+    "savol": "Me’da osti bezidan ajraladigan ferment",
+    "A": "Tripsin",
+    "B": "Pepsin",
+    "C": "Amilaza (so’lak)",
+    "D": "Renin",
+    "javob": "A"
+  },
+  {
+    "savol": "Hazm bo‘lgan moddalar asosan qayerda so‘riladi?",
+    "A": "Ingichka ichakda",
+    "B": "Oshqozonda",
+    "C": "Og‘izda",
+    "D": "To‘g‘ri ichakda",
+    "javob": "A"
+  },
+  {
+    "savol": "Yo‘g‘on ichakning asosiy vazifasi",
+    "A": "Suni so’rilishi",
+    "B": "Oqsillarni hazm qilish",
+    "C": "Yog‘larni parchalash",
+    "D": "Ferment ajratish",
+    "javob": "A"
+  },
+  {
+    "savol": "Laktaza fermenti qaysi moddani parchalaydi?",
+    "A": "Laktoza",
+    "B": "Saxoraza",
+    "C": "Maltoza",
+    "D": "Polisaxarid",
+    "javob": "A"
+  },
+  {
+    "savol": "Safro qaysi organda hosil bo‘ladi?",
+    "A": "Jigarda",
+    "B": "Oshqozon",
+    "C": "Ichakda",
+    "D": "Meda osti bezida",
+    "javob": "A"
+  },
+  {
+    "savol": "Mexanik hazm jarayoni nima?",
+    "A": "Ovqatni chaynash va maydalash",
+    "B": "Ferment bilan parchalanish",
+    "C": "So‘rilish",
+    "D": "Kimyoviy sintez",
+    "javob": "A"
+  },
+  {
+    "savol": "Kimyoviy hazm jarayoni nimaga bog‘liq?",
+    "A": "Fermentlarga",
+    "B": "Mushak qisqarishiga",
+    "C": "Qon aylanishiga",
+    "D": "Nafas olishga",
+    "javob": "A"
+  },
+  {
+    "savol": "Glukoza qaysi moddaning parchalanishidan hosil bo‘ladi?",
+    "A": "Kraxmal",
+    "B": "Oqsil",
+    "C": "Yog’",
+    "D": "Glitserin",
+    "javob": "A"
+  },
+  {
+    "savol": "Oshqozon shirasining ph muhiti qanday?",
+    "A": "Kislotali",
+    "B": "Ishqoriy",
+    "C": "Neytral",
+    "D": "O’zgaruvchan emas",
+    "javob": "A"
+  },
+  {
+    "savol": "Oqsillar qaysi organda birinchi hazm bo‘lishni boshlaydi?",
+    "A": "Oshqozonda",
+    "B": "Og‘iz bo‘shlig‘ida",
+    "C": "Ingichka ichakda",
+    "D": "Jigarda",
+    "javob": "A"
+  },
+  {
+    "savol": "Pepsin qanday sharoitda faollashadi?",
+    "A": "Kislota muhitda (ph 1.5-2.0)",
+    "B": "Ishqoriy muhitda",
+    "C": "Neytral muhitda",
+    "D": "Faqat fermentlar bilan",
+    "javob": "A"
+  },
+  {
+    "savol": "Pankreatik ferment tripsin qayerda faollashadi?",
+    "A": "Ingichka ichakda",
+    "B": "Oshqozonda",
+    "C": "Qalin ichakda",
+    "D": "Og‘izda",
+    "javob": "A"
+  },
+  {
+    "savol": "Oqsillar hazmi oxirida qanday moddalar hosil bo‘ladi?",
+    "A": "Aminokislotalar",
+    "B": "Monosaxaridlar",
+    "C": "Yog‘ kislotalari",
+    "D": "Glitserin",
+    "javob": "A"
+  },
+  {
+    "savol": "Tripsinogen qanday fermentga aylantiriladi?",
+    "A": "Tripsin",
+    "B": "Pepsin",
+    "C": "Amilaza",
+    "D": "Katalaza",
+    "javob": "A"
+  },
+  {
+    "savol": "Enteropeptidaza qayerda ishlab chiqariladi?",
+    "A": "Ingichka ichak shilliq qavatida",
+    "B": "Oshqozon",
+    "C": "Jigarda",
+    "D": "Qon plazmasida",
+    "javob": "A"
+  },
+  {
+    "savol": "Oqsillar almashinuvida transaminatsiya reaksiyasi nima uchun muhim?",
+    "A": "Aminokislotalar orasida NH2 guruhini o‘tkazish",
+    "B": "Energiya olish uchun",
+    "C": "Detoxifikatsiya uchun",
+    "D": "Gormon sintezi uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "Dekarboksillanish reaksiyasi natijasida nima hosil bo‘ladi?",
+    "A": "Biogen aminlar",
+    "B": "Keto kislotalar",
+    "C": "Peptidlar",
+    "D": "Organik asidlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Organizmda ortiqcha aminoguruh qanday chiqariladi?",
+    "A": "Karbamid shaklida",
+    "B": "Siydik orqali",
+    "C": "Najas bilan",
+    "D": "Ter bilan",
+    "javob": "A"
+  },
+  {
+    "savol": "Transaminatsiya reaksiyalarini katalizlaydigan fermentlar:",
+    "A": "Transaminazalar (aminotransferazalar)",
+    "B": "Dekarboksilazalar",
+    "C": "Laktatdehidrogenaza",
+    "D": "Lipaza",
+    "javob": "A"
+  },
+  {
+    "savol": "Protein sintezi uchun zarur asosiy substratlar:",
+    "A": "Aminokislotalar",
+    "B": "Monosaxaridlar",
+    "C": "Nukleotidlar",
+    "D": "Yog‘ kislotalar",
+    "javob": "A"
+  },
+  {
+    "savol": "Kollagen tana massasining necha foizini tashkil etadi?",
+    "A": "6%",
+    "B": "10%",
+    "C": "7%",
+    "D": "50%",
+    "javob": "A"
+  },
+  {
+    "savol": "Kollagen tarkibida pirolin va gidrooksiprolin necha foiz?",
+    "A": "21%",
+    "B": "50%",
+    "C": "45%",
+    "D": "78%",
+    "javob": "A"
+  },
+  {
+    "savol": "Elastin tarkibida qanday aminokislotadan tuzilgan?",
+    "A": "Lizin",
+    "B": "Glitsin",
+    "C": "Sistein",
+    "D": "Metianin",
+    "javob": "A"
+  },
+  {
+    "savol": "Proteoglikanlar to’qima quruq massasining necha foizini tashkil etadi?",
+    "A": "30%",
+    "B": "15%",
+    "C": "2%",
+    "D": "4%",
+    "javob": "A"
+  },
+  {
+    "savol": "Proteoglikanlarning tarkibining eng asosiy moddasi nima?",
+    "A": "Uglevod",
+    "B": "Yog’",
+    "C": "Oqsil",
+    "D": "Polipeptid",
+    "javob": "A"
+  },
+  {
+    "savol": "Oqsil almashinuvining yakuniy mahsuloti:",
+    "A": "Karbamid",
+    "B": "Glukoza",
+    "C": "Laktat",
+    "D": "Gormonlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Xondoroitin sulfat sintezida nechta ferment ishtirok etadi?",
+    "A": "7",
+    "B": "8",
+    "C": "11",
+    "D": "13",
+    "javob": "A"
+  },
+  {
+    "savol": "Glyukoza ichakdan qonga o‘tgach, birinchi bo‘lib qaysi organga boradi?",
+    "A": "Jigar (darvoza venasi orqali)",
+    "B": "Yurak",
+    "C": "Buyrak",
+    "D": "O‘pka",
+    "javob": "A"
+  },
+  {
+    "savol": "Sutning kazeinini parchalab beradigan ferment qaysi?",
+    "A": "Renin",
+    "B": "Lipaza",
+    "C": "Pepsin",
+    "D": "Elastaza",
+    "javob": "A"
+  },
+  {
+    "savol": "Muskulni qisqarishida ishtirok etadigan eng asosiy oqsil nima?",
+    "A": "Aktin, Miozin",
+    "B": "Albumin",
+    "C": "Glubulin, fibronegen",
+    "D": "Mioglubulin, mialbumin",
+    "javob": "A"
+  },
+  {
+    "savol": "Jigarda oqsillarni parchalanish mahsulotlarini zararsizlantirish uchun zarur.",
     "A": "Fosfoadenozin fosfosulfat",
     "B": "NADF",
     "C": "FAD",
@@ -1176,11 +416,11 @@
     "javob": "A"
   },
   {
-    "savol": "lipogenetik (anti-lipolitik) ta'sirga ega.",
-    "A": "insulin",
-    "B": "testosteron",
-    "C": "lipotropin",
-    "D": "glyukagon",
+    "savol": "Lipogenetik (anti-lipolitik) ta'sirga ega.",
+    "A": "Insulin",
+    "B": "Testosteron",
+    "C": "Lipotropin",
+    "D": "Glyukagon",
     "javob": "A"
   },
   {
@@ -1204,7 +444,7 @@
     "A": "Giperxolisterinemiya",
     "B": "Qonda keton tanachalarining oshishi",
     "C": "Steatoreya",
-    "D": "Oshqozonda HCl sekretsiyasini oshishi",
+    "D": "Oshqozonda hcl sekretsiyasini oshishi",
     "javob": "A"
   },
   {
@@ -1232,42 +472,42 @@
     "javob": "A"
   },
   {
-    "savol": "Lipidlаrning аsоsiY sinfini кo’rsаting",
-    "A": "nеytrаl yog’lаr",
-    "B": "fоsfаtidilхоlin",
-    "C": "fоsfоtidiletаnоlаminlаr",
-    "D": "каrdiоlipin",
+    "savol": "Lipidlаrning аsоsiy sinfini кo’rsаting",
+    "A": "Nеytrаl yog’lаr",
+    "B": "Fоsfаtidilхоlin",
+    "C": "Fоsfоtidiletаnоlаminlаr",
+    "D": "Каrdiоlipin",
     "javob": "A"
   },
   {
     "savol": "Avitaminoz A da rivojlanadigan ko’z kasalliklaridan biri",
-    "A": "shab ko’rlik",
-    "B": "аngiоpаtiya",
-    "C": "yaqindan ko’rish",
-    "D": "dеrmаtit",
+    "A": "Shab ko’rlik",
+    "B": "Аngiоpаtiya",
+    "C": "Yaqindan ko’rish",
+    "D": "Dеrmаtit",
     "javob": "A"
   },
   {
     "savol": "Sfingоlipidlаrning turini кo’rsаting",
-    "A": "sfingоmiеlinlаr",
-    "B": "fоsfоlipidlаr",
-    "C": "stеridlаr",
-    "D": "plаzmаlоgеnlаr",
+    "A": "Sfingоmiеlinlаr",
+    "B": "Fоsfоlipidlаr",
+    "C": "Stеridlаr",
+    "D": "Plаzmаlоgеnlаr",
     "javob": "A"
   },
   {
     "savol": "Tаrкibidа tаurin tutuvchi o’t кislоtаsining vакilini кo’rsаting",
-    "A": "tаurохоlаt",
-    "B": "gliкохоlаt",
-    "C": "хоlаt",
-    "D": "окsiхоlаt",
+    "A": "Tаurохоlаt",
+    "B": "Gliкохоlаt",
+    "C": "Хоlаt",
+    "D": "Окsiхоlаt",
     "javob": "A"
   },
   {
     "savol": "Yog' to'qimada qanday moddalar depolanadi?",
-    "A": "triatsilglitserinlar",
-    "B": "lipoproteinlar",
-    "C": "monoglitserid",
+    "A": "Triatsilglitserinlar",
+    "B": "Lipoproteinlar",
+    "C": "Monoglitserid",
     "D": "163fosfoliipdlar",
     "javob": "A"
   },
@@ -1289,10 +529,10 @@
   },
   {
     "savol": "Qaysi oqsil mushakning spetsifik oqsili?",
-    "A": "myoglobin",
-    "B": "neyrostenin laminin",
-    "C": "laminin",
-    "D": "gemoglobin",
+    "A": "Myoglobin",
+    "B": "Neyrostenin laminin",
+    "C": "Laminin",
+    "D": "Gemoglobin",
     "javob": "A"
   },
   {
@@ -1316,15 +556,15 @@
     "A": "Hujayra ichida yog’ni oxirgi mahsulotga parchalanishi",
     "B": "Hujayra ichida yog’ni sintezi",
     "C": "Oraliq lipid almashinuvi",
-    "D": "yog’ kislotalar sintezi",
+    "D": "Yog’ kislotalar sintezi",
     "javob": "A"
   },
   {
     "savol": "To’yinuvchanligiga ko’ra yog’ kislota turlari to’yingan",
-    "A": "to’yingan",
-    "B": "monopolito’yingan",
-    "C": "sfingоlipidlar",
-    "D": "plаzmоgеnlar",
+    "A": "To’yingan",
+    "B": "Monopolito’yingan",
+    "C": "Sfingоlipidlar",
+    "D": "Plаzmоgеnlar",
     "javob": "A"
   },
   {
@@ -1336,8 +576,8 @@
     "javob": "A"
   },
   {
-    "savol": "DNKning birlam chi strukturasi quyidagi bog’lar hisobiga mustaxkamlanadi",
-    "A": "fosfodiefir",
+    "savol": "Dnkning birlam chi strukturasi quyidagi bog’lar hisobiga mustaxkamlanadi",
+    "A": "Fosfodiefir",
     "B": "Peptid ion",
     "C": "Vodorod, ion, Van-der-Vaals kuchlari",
     "D": "Vodorod va ion",
@@ -1353,10 +593,10 @@
   },
   {
     "savol": "Bemorda xolsizlik, milk qonashi va kapilyarlardan qon ketish kuzatilmoqda. Qaysi avitaminoz.",
-    "A": "vitamin C",
-    "B": "vitamin A",
-    "C": "vitamin K",
-    "D": "vitamin D3",
+    "A": "Vitamin C",
+    "B": "Vitamin A",
+    "C": "Vitamin K",
+    "D": "Vitamin D3",
     "javob": "A"
   },
   {
@@ -1393,10 +633,10 @@
   },
   {
     "savol": "Glikoproteidlar - murakkab oqsillar bo’lib, oqsil qismidan va prostetik guruxdan tuzilgan, prostetik gurux qaysi modda:",
-    "A": "uglevodlar",
-    "B": "fosfat kislota qoldiklari",
-    "C": "gem",
-    "D": "lipidlar",
+    "A": "Uglevodlar",
+    "B": "Fosfat kislota qoldiklari",
+    "C": "Gem",
+    "D": "Lipidlar",
     "javob": "A"
   },
   {
@@ -1417,10 +657,10 @@
   },
   {
     "savol": "Osh qozon shirasida , umumiy kislotalilik va erkin HCL aniqlanmadi.Pepsin va gastriksin mavjud emas. Bu qanday nomlanadi?",
-    "A": "axiliya",
-    "B": "axlorgidriya B",
-    "C": "gipoxlorgidriya",
-    "D": "gipexlorgidriya",
+    "A": "Axiliya",
+    "B": "Axlorgidriya B",
+    "C": "Gipoxlorgidriya",
+    "D": "Gipexlorgidriya",
     "javob": "A"
   },
   {
@@ -1428,23 +668,23 @@
     "A": "Biologik faolligining yo’qolishi",
     "B": "Birlamchi strukturaning o’zgarishi",
     "C": "Eruvchanligining ortishi",
-    "D": "molekulalasining zaryadlanishi",
+    "D": "Molekulalasining zaryadlanishi",
     "javob": "A"
   },
   {
     "savol": "Podagra da qanday moddalar bog’im,pay va terida yig’ilib qoladi?",
-    "A": "urat",
-    "B": "mochevina",
-    "C": "oksalat",
-    "D": "kreatin",
+    "A": "Urat",
+    "B": "Mochevina",
+    "C": "Oksalat",
+    "D": "Kreatin",
     "javob": "A"
   },
   {
     "savol": "Oqsil molekulasi uchun xarakterli belgini ko’rsating",
-    "A": "аzоt saqlovchi modda",
-    "B": "аnоrgаnк birikma",
-    "C": "erituvchi",
-    "D": "pastmolekulyar birikma",
+    "A": "Аzоt saqlovchi modda",
+    "B": "Аnоrgаnк birikma",
+    "C": "Erituvchi",
+    "D": "Pastmolekulyar birikma",
     "javob": "A"
   },
   {
@@ -1457,10 +697,10 @@
   },
   {
     "savol": "Shakliga ko’ra Beda bargi tuzulishiga o’xshash:",
-    "A": "tRNK",
+    "A": "Trnk",
     "B": "DNK ning uchlamchi tuzilishi",
     "C": "40 S ribosomaning kichik birligi",
-    "D": "mRNK",
+    "D": "Mrnk",
     "javob": "A"
   },
   {
@@ -1473,18 +713,18 @@
   },
   {
     "savol": "Ichakka o't kislotaning yetarli kelmasligidan qaysi jarayon buziladi?",
-    "A": "ichaklarda yog'larning xazmlanishi va so'rilishi",
-    "B": "yog'da eruvchi vitaminlar",
-    "C": "almashinmaydigan aminokislotalar yetishmasligi",
-    "D": "linol va linolen kislotalar",
+    "A": "Ichaklarda yog'larning xazmlanishi va so'rilishi",
+    "B": "Yog'da eruvchi vitaminlar",
+    "C": "Almashinmaydigan aminokislotalar yetishmasligi",
+    "D": "Linol va linolen kislotalar",
     "javob": "A"
   },
   {
     "savol": "Oqsillar chirishi nima?",
-    "A": "yo'g'on ichak mikroflorasi ta'sirida aminokislotalarning parchalanishi",
-    "B": "to'qima oksid azasi ta'sirida oksidlanish",
-    "C": "ichak fermentlari ta'sirida amino kislotalar dekarb oksillanishi",
-    "D": "to'qima reduktazasi ta'sirida qaytarilish",
+    "A": "Yo'g'on ichak mikroflorasi ta'sirida aminokislotalarning parchalanishi",
+    "B": "To'qima oksid azasi ta'sirida oksidlanish",
+    "C": "Ichak fermentlari ta'sirida amino kislotalar dekarb oksillanishi",
+    "D": "To'qima reduktazasi ta'sirida qaytarilish",
     "javob": "A"
   },
   {
@@ -1497,9 +737,9 @@
   },
   {
     "savol": "Biologik antivvitaminlardan birini ko’rsating.",
-    "A": "аsкаrbаt окsidаzа",
-    "B": "lеsitin",
-    "C": "gistаmin",
+    "A": "Аsкаrbаt окsidаzа",
+    "B": "Lеsitin",
+    "C": "Gistаmin",
     "D": "Sitrin",
     "javob": "A"
   },
@@ -1529,18 +769,18 @@
   },
   {
     "savol": "K vitamin turlaridan biri",
-    "A": "vitаmin К2",
-    "B": "rеtinоl",
-    "C": "diкumаrоl",
-    "D": "vitаmin К4",
+    "A": "Vitаmin К2",
+    "B": "Rеtinоl",
+    "C": "Diкumаrоl",
+    "D": "Vitаmin К4",
     "javob": "A"
   },
   {
     "savol": "Kaltsitonin stimullaydi:",
-    "A": "siydik bilan fosfatlar va Ca ekskretsiyasini",
+    "A": "Siydik bilan fosfatlar va Ca ekskretsiyasini",
     "B": "Na va K ekskretsiyasini",
-    "C": "ingichka ichakda Sa so’rilishini",
-    "D": "gepatotsitlarda yog’larni jamg’arilishini",
+    "C": "Ingichka ichakda Sa so’rilishini",
+    "D": "Gepatotsitlarda yog’larni jamg’arilishini",
     "javob": "A"
   },
   {
@@ -1553,10 +793,10 @@
   },
   {
     "savol": "Bemor qorong'ida ko'rishi pasayganidan shikoyat qilgan. Qaysi vitaminning yetishmovchiligi",
-    "A": "vitamin A",
-    "B": "vitamin S",
-    "C": "vitamin B1",
-    "D": "vitamin K",
+    "A": "Vitamin A",
+    "B": "Vitamin S",
+    "C": "Vitamin B1",
+    "D": "Vitamin K",
     "javob": "A"
   },
   {
@@ -1577,22 +817,22 @@
   },
   {
     "savol": "C vitamin nomlaridan biri",
-    "A": "askorbin kislota",
-    "B": "lеsitin",
-    "C": "biоtin",
-    "D": "rutin",
+    "A": "Askorbin kislota",
+    "B": "Lеsitin",
+    "C": "Biоtin",
+    "D": "Rutin",
     "javob": "A"
   },
   {
     "savol": "Emulgirlanish ingichka ichakda yog'larni xazmlanishga tayyorgarligidir. Emulga torlar qanday moddalar?",
-    "A": "o'tkislota",
-    "B": "monoatsilglitserid",
-    "C": "triatsilglitserid",
-    "D": "aminokislota",
+    "A": "O'tkislota",
+    "B": "Monoatsilglitserid",
+    "C": "Triatsilglitserid",
+    "D": "Aminokislota",
     "javob": "A"
   },
   {
-    "savol": "Ichакdа fоsfоlipidlаr hаzmlаnishini tаъminlоvchi fоsfоli pаzаni кo’rsаting",
+    "savol": "Ichаkdа fоsfоlipidlаr hаzmlаnishini tаъminlоvchi fоsfоli pаzаni ko’rsаting",
     "A": "Fоsfоli pаzа А",
     "B": "Fоsfоli pаzа Е",
     "C": "Fоsfоli pаzа D D",
@@ -1609,34 +849,34 @@
   },
   {
     "savol": "Ferritinga xos xususiyatni ko’rsating",
-    "A": "to’qimada temir zahirasi hisoblanadi",
-    "B": "bitta polipeptid zanjirdan iborat",
-    "C": "gliкоprоtеid",
-    "D": "lipоprоtеid",
+    "A": "To’qimada temir zahirasi hisoblanadi",
+    "B": "Bitta polipeptid zanjirdan iborat",
+    "C": "Gliкоprоtеid",
+    "D": "Lipоprоtеid",
     "javob": "A"
   },
   {
     "savol": "Ferritinga boy organni aniqlang.",
     "A": "Jigar",
     "B": "O’pka",
-    "C": "yurak",
+    "C": "Yurak",
     "D": "Qon",
     "javob": "A"
   },
   {
     "savol": "Gemoglobin molekulasi tuzilgan:",
-    "A": "to’rtta gem va to’rtta polipeptid zanjirdan",
-    "B": "bitta gem va to’rtta polipeptnd zanjirdan",
-    "C": "ikkita gem va ikkita polipeptid zanjirdan",
-    "D": "to’rtta gem va bitta polipeptid zanjirdan",
+    "A": "To’rtta gem va to’rtta polipeptid zanjirdan",
+    "B": "Bitta gem va to’rtta polipeptnd zanjirdan",
+    "C": "Ikkita gem va ikkita polipeptid zanjirdan",
+    "D": "To’rtta gem va bitta polipeptid zanjirdan",
     "javob": "A"
   },
   {
     "savol": "Gemoglobin quyidagi jarayonlar da qatnashadi:",
-    "A": "kislota-ishqor muvozanatini saqlashda",
-    "B": "minerallar almashinuvida",
-    "C": "gidrolitik jarayonlar tezligini boshqarishda",
-    "D": "vitaminlar transportida",
+    "A": "Kislota-ishqor muvozanatini saqlashda",
+    "B": "Minerallar almashinuvida",
+    "C": "Gidrolitik jarayonlar tezligini boshqarishda",
+    "D": "Vitaminlar transportida",
     "javob": "A"
   },
   {
@@ -1648,19 +888,19 @@
     "javob": "A"
   },
   {
-    "savol": "Kodonlarning ahamiyati ularning ... ketma-ketlikni shifrlashdan iborat:",
-    "A": "aminokislotalar",
-    "B": "purin asoslari",
-    "C": "nukleozidtrifosfatlar",
-    "D": "nukleozidmonofosfatlar",
+    "savol": "Kodonlarning ahamiyati ularning ... Ketma-ketlikni shifrlashdan iborat:",
+    "A": "Aminokislotalar",
+    "B": "Purin asoslari",
+    "C": "Nukleozidtrifosfatlar",
+    "D": "Nukleozidmonofosfatlar",
     "javob": "A"
   },
   {
-    "savol": "t-RNK yetilishi quyidagi reaktsiyani o’z ichiga oladi:",
-    "A": "axborot saqlamaydigan qismlarning olib tashlanishi va minor asoslarning paydo bo’lishi",
-    "B": "zanjir boshiga 7-metilguanozinni biriktirish",
-    "C": "minor nukleotidlarning paydo bo’lishi",
-    "D": "zanjir oxiriga poliadenilatning birikishi",
+    "savol": "T-RNK yetilishi quyidagi reaktsiyani o’z ichiga oladi:",
+    "A": "Axborot saqlamaydigan qismlarning olib tashlanishi va minor asoslarning paydo bo’lishi",
+    "B": "Zanjir boshiga 7-metilguanozinni biriktirish",
+    "C": "Minor nukleotidlarning paydo bo’lishi",
+    "D": "Zanjir oxiriga poliadenilatning birikishi",
     "javob": "A"
   },
   {
@@ -1676,11 +916,11 @@
     "A": "DNK-giraza",
     "B": "RNK-mutaza",
     "C": "RNK-transferaza",
-    "D": "nukleaza",
+    "D": "Nukleaza",
     "javob": "A"
   },
   {
-    "savol": "IMFdan AMF va GMF sintezida qatnashuvchi fermentni ko’rsating",
+    "savol": "Imfdan AMF va GMF sintezida qatnashuvchi fermentni ko’rsating",
     "A": "IMF degidrogenaza",
     "B": "AMF degidrogenaza",
     "C": "Karbogidraza",
@@ -1705,18 +945,18 @@
   },
   {
     "savol": "Oqsil sintezini initsirlovchi kompleksiga kiruvchi qismini ko’rsating:",
-    "A": "ribosomaning kichik sub birligi",
-    "B": "informatsion RNK 3'uchi",
-    "C": "barcha transport RNKlar",
-    "D": "elongatsiyaning oqsil omillari",
+    "A": "Ribosomaning kichik sub birligi",
+    "B": "Informatsion RNK 3'uchi",
+    "C": "Barcha transport rnklar",
+    "D": "Elongatsiyaning oqsil omillari",
     "javob": "A"
   },
   {
     "savol": "DNK replikatsiyasi uchun asosiy sharti:",
-    "A": "replikatsiya fermentlari mavjudligi",
-    "B": "dezoksiribonukleotid monofosfatlari",
-    "C": "ribosomalar",
-    "D": "informatsion RNK",
+    "A": "Replikatsiya fermentlari mavjudligi",
+    "B": "Dezoksiribonukleotid monofosfatlari",
+    "C": "Ribosomalar",
+    "D": "Informatsion RNK",
     "javob": "A"
   },
   {
@@ -1729,7 +969,7 @@
   },
   {
     "savol": "Nuklein kislota qanday moddalardan iborat:",
-    "A": "Azotasosi, pentoza va fosfat kislota qoldig'I",
+    "A": "Azotasosi, pentoza va fosfat kislota qoldig'i",
     "B": "Azot asosi, aminokislota va riboza",
     "C": "Protein, azot asosi va pentoza",
     "D": "Giston, pentoza va fosfat kislota qoldig'i",
@@ -1737,18 +977,18 @@
   },
   {
     "savol": "Organizmda qonbosimi, xarorat, nafas olish va buyrak koptokchalarida filtratsiyani boshqaruvchi biogenaminni ko’rsating:",
-    "A": "serotonin",
-    "B": "tiramin",
-    "C": "triptamin",
-    "D": "etilamin",
+    "A": "Serotonin",
+    "B": "Tiramin",
+    "C": "Triptamin",
+    "D": "Etilamin",
     "javob": "A"
   },
   {
     "savol": "Allergik reaktsiyalar rivojlanishida qatnashuvchi biogenaminni ko’rsating:",
-    "A": "gistamin",
-    "B": "tiramin",
-    "C": "triptamin",
-    "D": "dofamin",
+    "A": "Gistamin",
+    "B": "Tiramin",
+    "C": "Triptamin",
+    "D": "Dofamin",
     "javob": "A"
   },
   {
@@ -1857,10 +1097,10 @@
   },
   {
     "savol": "Interferonlar bu…",
-    "A": "glokoprotein",
-    "B": "gangliozid",
-    "C": "serebrozid",
-    "D": "globozid",
+    "A": "Glokoprotein",
+    "B": "Gangliozid",
+    "C": "Serebrozid",
+    "D": "Globozid",
     "javob": "A"
   },
   {
@@ -1881,10 +1121,10 @@
   },
   {
     "savol": "Padagrani davolashda bemorga beriladi….",
-    "A": "allapurinol",
-    "B": "retinol",
-    "C": "paratstamol",
-    "D": "orotat",
+    "A": "Allapurinol",
+    "B": "Retinol",
+    "C": "Paratstamol",
+    "D": "Orotat",
     "javob": "A"
   },
   {
@@ -1944,7 +1184,7 @@
     "javob": "A"
   },
   {
-    "savol": "sAMF ning hujayradagi roli:",
+    "savol": "Samf ning hujayradagi roli:",
     "A": "Proteinkinaza A ni aktivlashtiradi",
     "B": "ATF ga aylanadi",
     "C": "Adenilatsiklazani aktivlaydi",
@@ -1989,6 +1229,454 @@
     "B": "Sitoxrom",
     "C": "Peroksidaza",
     "D": "Sitoxrom P-650",
+    "javob": "A"
+  },
+  {
+    "savol": "Sfingo miyelin va glikolipidlar sintezi uchun umumiy metabolitni ko’rsating.",
+    "A": "Seramid",
+    "B": "Xolesterin",
+    "C": "Fosfotidilxolin",
+    "D": "Fosfotidin kislota",
+    "javob": "A"
+  },
+  {
+    "savol": "Glukoza oksidlanishining birinchi bosqichida xosil bo’luvchi maxsulot:",
+    "A": "Glukoza > glukoza-6-fosfat",
+    "B": "Galaktoza > galaktoza-1-fosfat",
+    "C": "Glukoza-6-fosfat > UDF-glukoza",
+    "D": "Glukoza > fruktoza-1-fosfat",
+    "javob": "A"
+  },
+  {
+    "savol": "Anaerob glikolizda glitseraldegid-3-fosfatdan hosil bo’ladigan mahsulot.",
+    "A": "1,3-bisfоsfоglisеrаt",
+    "B": "Glyuкоzа-6-fоsfаt",
+    "C": "Digidroksiаsеtоnfоsfаt",
+    "D": "Fruкtоzа-1,6-bisfоsfаt",
+    "javob": "A"
+  },
+  {
+    "savol": "ATF energiyasi to’qimalarda ko’pincha qaysi ko’rinishga o’tadi",
+    "A": "Kimyoviy bog’ energiyasiga",
+    "B": "Issiqlik energiyasiga",
+    "C": "Kamen ergiyali fosfat bog’lar",
+    "D": "Erkinenergiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Butun organizmda moddalar almashinuvini o’rganish usuli.",
+    "A": "Balanslovchi tajribalar",
+    "B": "Noizotopusullar",
+    "C": "Ferment yoki kofermentlarnio’rganish usullari",
+    "D": "Hujayralarning suniy ko’paytirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Odam uchun ovqatning asosiy tarkibiy qismlaridan biri",
+    "A": "Oqsillar",
+    "B": "Хоlеstеrin",
+    "C": "Fоsfоlipidlar",
+    "D": "Glikоlipidlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Organizmdagi moddalar almashinuvi boshqarilish darajalaridan biri",
+    "A": "Gоrmоnlar bilan",
+    "B": "Аntivitаminlar bilan",
+    "C": "Vitаminlar bilan",
+    "D": "Kоfеrmеntlar bilan",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi oqsilning uchlamchi strukturasi birinchi bo’lib o’rganilgan ?",
+    "A": "Mioglobin",
+    "B": "Insulin",
+    "C": "Kollagen",
+    "D": "Globulin",
+    "javob": "A"
+  },
+  {
+    "savol": "Androgenlarga kiradi:",
+    "A": "Testosteron",
+    "B": "Prolaktinlar",
+    "C": "Antidiuretik garmon",
+    "D": "Aldosteron",
+    "javob": "A"
+  },
+  {
+    "savol": "Katabolizm bu:",
+    "A": "Murakkab moddalarni energiya xosil qilib parchalanishi",
+    "B": "Polimerlar sintezi",
+    "C": "Metabolism ketma ketligi",
+    "D": "Murakkab moddalar resintezlanishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Organizmda adrenalinning hosil bo’lish joyi:",
+    "A": "Buyrak usti bezining miya moddasi",
+    "B": "Qalqon oldi bezi",
+    "C": "Langergans orolchalarining a hujayralarida",
+    "D": "Buyrak usti bezining po’stloq moddasida",
+    "javob": "A"
+  },
+  {
+    "savol": "Keratinlar eng ko’p miqdorda mavjud:",
+    "A": "Sochlarda",
+    "B": "Suyaklarda",
+    "C": "Tog’aylarda",
+    "D": "Paylarda",
+    "javob": "A"
+  },
+  {
+    "savol": "Oqsillar shakli bo'yicha qanday guruhlarga bo'linadi:",
+    "A": "Globulyar va fibrillyar",
+    "B": "Albumin va globulin",
+    "C": "Sulfatli va fosfatli",
+    "D": "Asiklik va geterosiklik",
+    "javob": "A"
+  },
+  {
+    "savol": "Oqsillarning monomer mahsuloti bu:",
+    "A": "Aminokislota",
+    "B": "Glitserin",
+    "C": "Yog' kislota",
+    "D": "Spirt",
+    "javob": "A"
+  },
+  {
+    "savol": "Yog’da eruvchi vitaminlardan biri",
+    "A": "K",
+    "B": "С",
+    "C": "B1",
+    "D": "B2",
+    "javob": "A"
+  },
+  {
+    "savol": "Qay si hujayralarda GLUT-1 glyukozaning hujayralarga o’tkazilishida muhim hisoblanadi:",
+    "A": "Miya",
+    "B": "Yog’ to’qimqsida",
+    "C": "Yurak",
+    "D": "Muskul",
+    "javob": "A"
+  },
+  {
+    "savol": "Xolesterin almashinuvi buzilganda rivojlanishi mumkin.",
+    "A": "Ateroskleroz",
+    "B": "-qandli diabet",
+    "C": "Urolitiyoz",
+    "D": "Yog'li jigar infiltratsiyasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Yog ' kislotalarini tashishda ishtirok eting.",
+    "A": "Karnitin",
+    "B": "Biotin",
+    "C": "FAD",
+    "D": "ATP",
+    "javob": "A"
+  },
+  {
+    "savol": "ZJPL katabolizmida ishtirok etadi.",
+    "A": "Lipoprotein lipaza",
+    "B": "Triglitserid lipaza",
+    "C": "Pankreatik lipaza",
+    "D": "Fosfolipaza",
+    "javob": "A"
+  },
+  {
+    "savol": "Vitaminlar almashinuviga bog’liq kasallik",
+    "A": "Аvitаminоz",
+    "B": "Yоdizm",
+    "C": "Gigаntizm",
+    "D": "Tirеоtокsiкоz",
+    "javob": "A"
+  },
+  {
+    "savol": "Me'da shirasining bir qismi sifatida topilgan.",
+    "A": "Pepsin, gastriksin",
+    "B": "Tripsin",
+    "C": "Ximotripsin",
+    "D": "Karboksipeptidaza",
+    "javob": "A"
+  },
+  {
+    "savol": "Oqsillar parchalanganda lizindan hosil bo'ladi.",
+    "A": "Kadaverin",
+    "B": "Fenol",
+    "C": "Vodorod sulfidi",
+    "D": "Kresol",
+    "javob": "A"
+  },
+  {
+    "savol": "Oqsillar parchalanganda tirozindan hosil bo'ladi.",
+    "A": "Indol va skatol",
+    "B": "Indol",
+    "C": "Kadaverin",
+    "D": "Putresin",
+    "javob": "A"
+  },
+  {
+    "savol": "Oqsillar chiriganida sisteindan hosil bo'ladi.",
+    "A": "Metil merkaptan va vodorod sulfidi",
+    "B": "Fenol",
+    "C": "Indol",
+    "D": "Kresol",
+    "javob": "A"
+  },
+  {
+    "savol": "Fosforillanish orqali qaysi ferment o'ziga xos fosforilaza kinazini faollashtiradi.",
+    "A": "Protein kinaza",
+    "B": "Adenilat siklaza",
+    "C": "Guanilat siklaza",
+    "D": "Fosfodiesteraza",
+    "javob": "A"
+  },
+  {
+    "savol": "Ornitin siklidagi siydikchil o”tmishdoshi.",
+    "A": "Arginin",
+    "B": "Aspartat",
+    "C": "Glutamat",
+    "D": "Ornitin",
+    "javob": "A"
+  },
+  {
+    "savol": "Triptofanning hosilasi.",
+    "A": "Triptamin",
+    "B": "Dopamin",
+    "C": "FAD, FMN",
+    "D": "G-aminobutirik kislota",
+    "javob": "A"
+  },
+  {
+    "savol": "Antiaterogen ... .",
+    "A": "ZYUL",
+    "B": "ZJPL",
+    "C": "Xilomikronlar",
+    "D": "ZPL",
+    "javob": "A"
+  },
+  {
+    "savol": "Odamlarda purin asoslari almashinuvining yakuniy mahsuloti…",
+    "A": "Siydik kislotasi",
+    "B": "B-alanin",
+    "C": "Karbamid",
+    "D": "Ammiak",
+    "javob": "A"
+  },
+  {
+    "savol": "Ornitin siklining metabolitlariga tegishli emas.",
+    "A": "Metionin glutamat",
+    "B": "Karbamoyl fosfat",
+    "C": "Argininosuksinat",
+    "D": "Sitrulin",
+    "javob": "A"
+  },
+  {
+    "savol": "Alkaptonuriyaning o'ziga xos bo'lmagan belgilari",
+    "A": "Terida, retinada, sochlarda melanin yo'qligi",
+    "B": "Gomogentizinuriya",
+    "C": "Qorong'i siydik",
+    "D": "Ochronoz, burun, quloq va skleraning qorayishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Na+-, K+ - ATF-aza evaziga hujayradan uchta Na+ ionini chiqaradi",
+    "A": "Ikkita ion K + hujayra ichida",
+    "B": "Hujayra ichidagi uchta K+ ioni",
+    "C": "Hujayra ichidagi to'rtta K+ ioni",
+    "D": "Hujayra ichidagi bitta K + ioni",
+    "javob": "A"
+  },
+  {
+    "savol": "Azot muvozanati kuzatiladi",
+    "A": "Sog'lom odamda",
+    "B": "Homiladorlik paytida",
+    "C": "Keksa odamlarda",
+    "D": "Bolalikda",
+    "javob": "A"
+  },
+  {
+    "savol": "Fermentlarga boy oshqozon kislotasi sekretsiyasining faollashishi ta'sir qiladi",
+    "A": "Gastrin",
+    "B": "Insulin",
+    "C": "STG",
+    "D": "Enterogastron",
+    "javob": "A"
+  },
+  {
+    "savol": "Tanadagi aminokislotalar asosan quyidagilar uchun ishlatiladi",
+    "A": "Turli organlarning yangi oqsillarini sintez qilish",
+    "B": "Siydik kislotasi sintezi",
+    "C": "Yog sintezi",
+    "D": "Keton tanalarining sintezi",
+    "javob": "A"
+  },
+  {
+    "savol": "Axiliya-yo'qligi bilan bog'liq musobaqa",
+    "A": "Xlorid kislota va pepsin",
+    "B": "Xlorid kislota va tripsin",
+    "C": "Pepsin va ximotripsin",
+    "D": "Pepsin va gastriksin",
+    "javob": "A"
+  },
+  {
+    "savol": "Biogen aminlar aminokislotalardan reaktsiya natijasida hosil bo'ladi …",
+    "A": "Alfa dekarboksillanish",
+    "B": "Dekarboksillanish",
+    "C": "Transaminatsiya reaktsiyasi bilan birlashtirilgan dekarboksillanish",
+    "D": "Kondensatsiya reaktsiyasi bilan birlashtirilgan dekarboksillanish",
+    "javob": "A"
+  },
+  {
+    "savol": "Ichaklarda so'riladi",
+    "A": "Aminokislotalar",
+    "B": "Oligopeptidlar",
+    "C": "Polipeptidlar",
+    "D": "Oqsillar",
+    "javob": "A"
+  },
+  {
+    "savol": "Xolesterinning eruvchan holatga o'tishini ta'minlaydigan safro kislotasini tanlang:",
+    "A": "Henodeoksixolat",
+    "B": "Tauroxol",
+    "C": "Xolat",
+    "D": "Deoksikol",
+    "javob": "A"
+  },
+  {
+    "savol": "Aminokislotalarning dekarboksillanish reaktsiyasi uchun quyidagilar zarur",
+    "A": "Dekarboksilaza",
+    "B": "Izomeraza",
+    "C": "B1 Vitamini",
+    "D": "Glutamat dehidrogenaza",
+    "javob": "A"
+  },
+  {
+    "savol": "Ornitindan tashqari sitrulin hosil bo'lishi uchun quyidagilar zarur",
+    "A": "Karbamoyl fosfat",
+    "B": "Arginin",
+    "C": "Fumarat",
+    "D": "Argininosuksinat",
+    "javob": "A"
+  },
+  {
+    "savol": "Qoldiq azotdagi karbamidning ulushi",
+    "A": "50%",
+    "B": "10%",
+    "C": "70%",
+    "D": "90%",
+    "javob": "A"
+  },
+  {
+    "savol": "Fenilalanin va tirozin almashinuvining buzilishlariga quyidagilar kiradi",
+    "A": "Albinizm",
+    "B": "Gistidinemiya",
+    "C": "Homosistinuriya",
+    "D": "Pellagra",
+    "javob": "A"
+  },
+  {
+    "savol": "Lipidlarning transport shakllariga quyidagilar kiradi:",
+    "A": "HM, ZJPL, ZPL, ZYUL",
+    "B": "Misellar, ZJPL, , ZPL , ZYUL",
+    "C": "LDL, ZYUL, HMM",
+    "D": "ZJPL ZPL, ZYUL",
+    "javob": "A"
+  },
+  {
+    "savol": "Me'da shirasining umumiy kislotaliligining oshishi nima deyiladi:",
+    "A": "Giperxlorgidriya",
+    "B": "Gipoxlorgidriya",
+    "C": "Gipoatsidoz",
+    "D": "Axlorgidriya",
+    "javob": "A"
+  },
+  {
+    "savol": "Qon plazmasidagi machevina kontsentratsiyasining oshishi va uning kunlik siydikda pasayi shishikastlanishga xosdir",
+    "A": "Buyraklar",
+    "B": "Ingichka ichak",
+    "C": "Jigar",
+    "D": "Yo'g'on ichak",
+    "javob": "A"
+  },
+  {
+    "savol": "Proteoglikan biriktiruvchi to'qima komplekslarining yangilanish tezligi ... Bilan kamayadi .",
+    "A": "Qandli diabet va Rovmatoid artrit",
+    "B": "Qon",
+    "C": "Miyokard infarkti",
+    "D": "Javob yo'q",
+    "javob": "A"
+  },
+  {
+    "savol": "Tuprik amilazasini faollashtiradigan ion:",
+    "A": "Xlor",
+    "B": "Kaliy",
+    "C": "Magniy",
+    "D": "Vodorod",
+    "javob": "A"
+  },
+  {
+    "savol": "Qon lipoproteinlariga taalluqli emas",
+    "A": "Fosfolipidlar",
+    "B": "Xilomikronlar",
+    "C": "Beta-lipoproteinlardan oldingi",
+    "D": "Beta-lipoproteinlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Prostaglandinlar nimadan sintezlanadi:",
+    "A": "Araxidon kislotasi",
+    "B": "Linolenik kislota",
+    "C": "Stearin kislotasi",
+    "D": "Oleyk kislotasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Tirozindan hosil bo'ladi",
+    "A": "Katekolaminlar",
+    "B": "Melatonin",
+    "C": "Lipoik kislota",
+    "D": "Gidroksitriptamin",
+    "javob": "A"
+  },
+  {
+    "savol": "Aminokislotani karbonat angidrid va suvga oksidlash uchun avval kerak",
+    "A": "Dezaminlash",
+    "B": "Dekarboksillanish",
+    "C": "Radikalni o'zgartiring",
+    "D": "Aminoatsiladenilatga aylantiring",
+    "javob": "A"
+  },
+  {
+    "savol": "Transaminatsiya jarayonida NH2 guruhining donori:",
+    "A": "Har qanday aminokislota",
+    "B": "Faqat dikarboksilik kislota;",
+    "C": "Faqat glutamik kislota",
+    "D": "Faqat arginin",
+    "javob": "A"
+  },
+  {
+    "savol": "Katabolizmning ikkinchi bosqichida yog ' kislotalari quyidagilarga aylanadi",
+    "A": "Asetil-koa",
+    "B": "Sitrat",
+    "C": "Piruvat",
+    "D": "Laktat",
+    "javob": "A"
+  },
+  {
+    "savol": "B6 vitamini reaktsiyalar uchun zarurdir",
+    "A": "Transaminatsiyalar",
+    "B": "Krebs Tsikli",
+    "C": "Polimerizatsiya",
+    "D": "Gidroliz",
+    "javob": "A"
+  },
+  {
+    "savol": "Miya hujayralarida ammiakni zararsizlantirishda aminokislotalar ishtirok etadi",
+    "A": "Asparagin",
+    "B": "Sistein",
+    "C": "Leytsin",
+    "D": "Glitsin",
     "javob": "A"
   }
 ]
