@@ -1,0 +1,1970 @@
+[
+  {
+    "savol": "Asab markazi nima?",
+    "A": "Neyronlar to‘plami bo‘lib, refleksni amalga oshiradi",
+    "B": "Bitta neyron",
+    "C": "Mushak tolasi",
+    "D": "Retseptor hujayra",
+    "javob": "A"
+  },
+  {
+    "savol": "Asab markazlarining asosiy vazifasi nima?",
+    "A": "Axborotni qayta ishlash va javob hosil qilish",
+    "B": "Qon aylantirish",
+    "C": "Nafas olish",
+    "D": "Ovqat hazm qilish",
+    "javob": "A"
+  },
+  {
+    "savol": "Irradiatsiya nima?",
+    "A": "Qo‘zg‘alishning tarqalishi",
+    "B": "Qo‘zg‘alishning yo‘qolishi",
+    "C": "Tormozlanish kuchayishi",
+    "D": "Refleks pasayishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Dominanta nima?",
+    "A": "Kuchli qo‘zg‘alish o‘chog‘i",
+    "B": "Tormozlanish markazi",
+    "C": "Qon tomir",
+    "D": "Refleks yo‘li",
+    "javob": "A"
+  },
+  {
+    "savol": "Konvergentsiya nima?",
+    "A": "Bir necha neyron impulslari bir neyronlarda yig‘ilishi",
+    "B": "Impuls tarqalishi",
+    "C": "Tormozlanish kuchayishi",
+    "D": "Mushak qisqarishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Divergentsiya nima?",
+    "A": "Bitta neyron impulsi ko‘p neyronlarga tarqalishi",
+    "B": "Impuls yo‘qolishi",
+    "C": "Refleks kamayishi",
+    "D": "Tormozlanish",
+    "javob": "A"
+  },
+  {
+    "savol": "Summatsiya nima?",
+    "A": "Qo‘zg‘alishlarning qo‘shilishi",
+    "B": "Impuls yo‘qolishi",
+    "C": "Tormozlanish",
+    "D": "Qon aylanishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Markaziy charchash nima?",
+    "A": "Asab markazining faoliyati pasayishi",
+    "B": "Mushak kuchayishi",
+    "C": "Refleks ortishi",
+    "D": "Qon bosimi oshishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Refleks yoyining markaziy qismi qayerda?",
+    "A": "Orqa miya yoki bosh miya",
+    "B": "Mushakda",
+    "C": "Qonda",
+    "D": "Teri yuzasida",
+    "javob": "A"
+  },
+  {
+    "savol": "Tormozlanish turlari qaysi?",
+    "A": "Markaziy va periferik",
+    "B": "Retseptor va periferik",
+    "C": "Mushak va periferik",
+    "D": "Mushak va retseptor",
+    "javob": "A"
+  },
+  {
+    "savol": "Qo‘zg‘alish nima?",
+    "A": "Neyronning faol holatga o‘tishi",
+    "B": "Neyron o‘limi",
+    "C": "Mushak bo‘shashishi",
+    "D": "Qon kamayishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Refleks nima?",
+    "A": "Tashqi ta’sirga javob reaksiyasi",
+    "B": "Qon aylanishi",
+    "C": "Ovqat hazm qilish",
+    "D": "Nafas olish",
+    "javob": "A"
+  },
+  {
+    "savol": "Asab markazlarida bir tomonlama o‘tkazuvchanlik sababi nima?",
+    "A": "Sinapslarning kimyoviy tuzilishi",
+    "B": "Neyron uzunligi",
+    "C": "Qon aylanishi",
+    "D": "Mushak faoliyati",
+    "javob": "A"
+  },
+  {
+    "savol": "Markaziy tormozlanishning asosiy mexanizmi nima?",
+    "A": "Tormozlovchi mediatorlar ajralishi",
+    "B": "Qon bosimi oshishi",
+    "C": "Mushak qisqarishi",
+    "D": "Retseptor qo‘zg‘alishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Dominanta hodisasining fiziologik ahamiyati nimada?",
+    "A": "Asosiy qo‘zg‘alishni ustunlashtiradi",
+    "B": "Barcha reflekslarni to‘xtatadi",
+    "C": "Qon aylanishni kuchaytiradi",
+    "D": "Mushakni bo‘shashtiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Irradiatsiya va konsentratsiya o‘rtasidagi farq nima?",
+    "A": "Qo‘zg‘alish tarqalishi va jamlanishi",
+    "B": "Qon va limfa farqi",
+    "C": "Mushak va nerv farqi",
+    "D": "Refleks va impuls farqi",
+    "javob": "A"
+  },
+  {
+    "savol": "Asab markazining asosiy tarkibiy birligi nima?",
+    "A": "Neyron",
+    "B": "Akson",
+    "C": "Dendrit",
+    "D": "Sinaps pufakchasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Asab markazining bir tomonlama o‘tkazuvchanlik xossasi nimaga bog‘liq?",
+    "A": "Sinapslarning kimyoviy tabiatiga",
+    "B": "Miyelin qavatiga",
+    "C": "Akson uzunligiga",
+    "D": "Nerv impulsining tezligiga",
+    "javob": "A"
+  },
+  {
+    "savol": "Markaziy tormozlanish jarayonini kim aniqlagan?",
+    "A": "I.M. Sechenov",
+    "B": "I.P. Pavlov",
+    "C": "Sherrington",
+    "D": "Galvani",
+    "javob": "A"
+  },
+  {
+    "savol": "Asab markazlarining summatsiya xossasi nimani anglatadi?",
+    "A": "Bir nechta kuchsiz qo‘zg‘alishlarning qo‘shilib kuchli javob hosil qilishi",
+    "B": "Kuchli qo‘zg‘alishning susayishi",
+    "C": "Impulsning tezlashishi",
+    "D": "Refleksning yo‘qolishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Asab markazining kechikish (markaziy kechikish) sababi nima?",
+    "A": "Impulsning sinaps orqali o‘tish vaqtiga",
+    "B": "Aksonning uzunligiga",
+    "C": "Mushakning qisqarishiga",
+    "D": "Qon aylanish tezligiga",
+    "javob": "A"
+  },
+  {
+    "savol": "Reverberatsiya xossasi nimani anglatadi?",
+    "A": "Impulslarning asab markazida aylanma tarzda uzoq saqlanishi",
+    "B": "Impulsning to‘liq yo‘qolishi",
+    "C": "Refleksning tez tugashi",
+    "D": "Tormozlanishning kuchayishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Orqa miyaning oldingi ildizchasi qanday tolalarni olib chiqadi?",
+    "A": "Harakat tolalar",
+    "B": "Sezuvchi tolalar",
+    "C": "Vegetativ tolalar",
+    "D": "Aralash tolalar",
+    "javob": "A"
+  },
+  {
+    "savol": "Orqa miyaning orqa ildizchasi qanday tolalarni olib chiqadi?",
+    "A": "Sezuvchi tolalar",
+    "B": "Harakat (motor) tolalar",
+    "C": "Vegetativ tolalar",
+    "D": "Aralash tolalar",
+    "javob": "A"
+  },
+  {
+    "savol": "Orqa miya qanday moddalardan tashkil topgan?",
+    "A": "Oq va kulrang modda",
+    "B": "Faqat kulrang",
+    "C": "Faqat oq",
+    "D": "Mushak tolasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Orqa ustun yo‘llari qaysi sezuvchanlikni o‘tkazadi?",
+    "A": "Nozik teginish, vibratsiya va propriosepsiya",
+    "B": "Og‘riq va harorat",
+    "C": "Vegetativ impulslar",
+    "D": "Motor impulslar",
+    "javob": "A"
+  },
+  {
+    "savol": "Orqa ustun yo‘llari tarkibiga qaysi tutamlar kiradi?",
+    "A": "Fasciculus gracilis va fasciculus cuneatus",
+    "B": "Spinotalamik trakt",
+    "C": "Kortikospinal trakt",
+    "D": "Rubrospinal trakt",
+    "javob": "A"
+  },
+  {
+    "savol": "Fasciculus gracilis qaysi qismdan axborot olib keladi?",
+    "A": "Pastki tana qismlaridan",
+    "B": "Yuqori tana qismlaridan",
+    "C": "Faqat yuzdan",
+    "D": "Ichki organlardan",
+    "javob": "A"
+  },
+  {
+    "savol": "Fasciculus cuneatus qaysi qismdan axborot olib keladi?",
+    "A": "Yuqori tana qismlaridan",
+    "B": "Pastki tana qismlaridan",
+    "C": "Faqat yuzdan",
+    "D": "Ichki organlardan",
+    "javob": "A"
+  },
+  {
+    "savol": "Orqa ustun yo‘llarida kesishish (decussatio) qayerda sodir bo‘ladi?",
+    "A": "Uzunchoq miyada",
+    "B": "Orqa miyada",
+    "C": "Talamusda",
+    "D": "Po‘stloqda",
+    "javob": "A"
+  },
+  {
+    "savol": "Orqa ustun zararlanganda qaysi simptom kuzatiladi?",
+    "A": "Vibratsiya va propriosepsiya yo‘qoladi",
+    "B": "Faqat og‘riq yo‘qoladi",
+    "C": "Harakat yo‘qoladi",
+    "D": "Ko‘rish buziladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Proprioseptiv axborot nimani bildiradi?",
+    "A": "Tana qismlarining holati va harakatini",
+    "B": "Og‘riqni",
+    "C": "Haroratni",
+    "D": "Bosimni",
+    "javob": "A"
+  },
+  {
+    "savol": "Orqa ustun yo‘llari qaysi sezuvchanlikni yuqori aniqlikda uzatadi?",
+    "A": "Diskriminativ sezuvchanlik",
+    "B": "Qo‘pol sezuvchanlik",
+    "C": "Og‘riq sezuvchanligi",
+    "D": "Vegetativ sezuvchanlik",
+    "javob": "A"
+  },
+  {
+    "savol": "Spinotalamik yo‘l qanday sezuvchanlikni o‘tkazadi?",
+    "A": "Og‘riq va harorat",
+    "B": "Propriosepsiya",
+    "C": "Nozik teginish",
+    "D": "Motor impulslar",
+    "javob": "A"
+  },
+  {
+    "savol": "Spinotalamik yo‘lning birinchi neyroni qayerda joylashgan?",
+    "A": "Orqa ildiz gangliyasida",
+    "B": "Orqa miyaning oldingi shoxida",
+    "C": "Talamusda",
+    "D": "Po‘stloqda",
+    "javob": "A"
+  },
+  {
+    "savol": "Spinotalamik yo‘lda kesishish qayerda sodir bo‘ladi?",
+    "A": "Orqa miyada",
+    "B": "Uzunchoq miyada",
+    "C": "Talamusda",
+    "D": "Po‘stloqda",
+    "javob": "A"
+  },
+  {
+    "savol": "Lateral spinotalamik trakt nima o‘tkazadi?",
+    "A": "Og‘riq va harorat",
+    "B": "Nozik teginish",
+    "C": "Propriosepsiya",
+    "D": "Vibratsiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Oldingi (anterior) spinotalamik trakt nima o‘tkazadi?",
+    "A": "Qo‘pol teginish va bosim",
+    "B": "Og‘riq",
+    "C": "Propriosepsiya",
+    "D": "Motor impulslar",
+    "javob": "A"
+  },
+  {
+    "savol": "Spinotalamik yo‘l zararlansa nima kuzatiladi?",
+    "A": "Qarama-qarshi tomonda og‘riq va harorat sezuvchanligi yo‘qoladi",
+    "B": "Shu tomonda propriosepsiya yo‘qoladi",
+    "C": "Harakat yo‘qoladi",
+    "D": "Ko‘rish buziladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Spinotalamik yo‘l impulsni qayerga yetkazadi?",
+    "A": "Bosh miya po‘stlog‘iga",
+    "B": "Miyachaga",
+    "C": "Vegetativ markazlarga",
+    "D": "Gipotalamusga",
+    "javob": "A"
+  },
+  {
+    "savol": "Spinotalamik yo‘lning asosiy funksiyasi nima?",
+    "A": "Himoya signallarini tez yetkazish",
+    "B": "Nozik harakatlarni boshqarish",
+    "C": "Gormon ajratish",
+    "D": "Yurak ritmini boshqarish",
+    "javob": "A"
+  },
+  {
+    "savol": "Piramidal yo‘lning asosiy vazifasi nima?",
+    "A": "Ixtiyoriy harakatlarni boshqarish",
+    "B": "Og‘riqni uzatish",
+    "C": "Vegetativ funksiyalarni boshqarish",
+    "D": "Gormon ajratish",
+    "javob": "A"
+  },
+  {
+    "savol": "Piramidal yo‘l qayerdan boshlanadi?",
+    "A": "Bosh miya po‘stlog‘ining motor zonasidan",
+    "B": "Talamusdan",
+    "C": "Miyachadan",
+    "D": "Uzunchoq miyadan",
+    "javob": "A"
+  },
+  {
+    "savol": "Piramidal yo‘lning asosiy tolalari qaysi traktni hosil qiladi?",
+    "A": "Kortikospinal trakt",
+    "B": "Spinotalamik trakt",
+    "C": "Vestibulospinal trakt",
+    "D": "Rubrospinal trakt",
+    "javob": "A"
+  },
+  {
+    "savol": "Piramidal yo‘l qayerda kesishadi (decussatio pyramidum)?",
+    "A": "Uzunchoq miyada",
+    "B": "Orqa miyada",
+    "C": "Talamusda",
+    "D": "Miyachada",
+    "javob": "A"
+  },
+  {
+    "savol": "Piramidal yo‘l tolalarining ko‘pchiligi qanday yo‘nalishda o‘tadi?",
+    "A": "Qarama-qarshi tomonga",
+    "B": "Shu tomonda (ipsilateral)",
+    "C": "Ikkala tomonga teng",
+    "D": "Pastga o‘tmaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Piramidal yo‘l qaysi harakatlarni boshqaradi?",
+    "A": "Nozik va aniq ixtiyoriy harakatlar",
+    "B": "Reflektor harakatlar",
+    "C": "Vegetativ harakatlar",
+    "D": "Avtomatik yurak urishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Bazal yadrolarning asosiy vazifasi nima?",
+    "A": "Harakatlarni boshqarish va muvofiqlashtirish",
+    "B": "Og‘riqni o‘tkazish",
+    "C": "Nafasni boshqarish",
+    "D": "Gormon ishlab chiqarish",
+    "javob": "A"
+  },
+  {
+    "savol": "Bazal yadrolarga qaysilar kiradi?",
+    "A": "Striatum, globus pallidus, substantia nigra, nucleus subthalamicus",
+    "B": "Talamus va gipotalamus",
+    "C": "Miyacha va ko‘prik",
+    "D": "Orqa miya segmentlari",
+    "javob": "A"
+  },
+  {
+    "savol": "Orqa miyaning o‘tkazuvchi yo‘llari nimani ta’minlaydi?",
+    "A": "Impulslarni bosh miya va periferiyaga yetkazishni",
+    "B": "Gormon ishlab chiqarishni",
+    "C": "Qon filtrlashni",
+    "D": "Nafasni boshqarishni",
+    "javob": "A"
+  },
+  {
+    "savol": "Orqa miyaning segmentar tuzilishi nimani bildiradi?",
+    "A": "Har bir segment ma’lum tana qismiga mos kelishini",
+    "B": "Harakatni boshqarishini",
+    "C": "Sezgini boshqarishini",
+    "D": "Vegetativ funksiyani bajarishini",
+    "javob": "A"
+  },
+  {
+    "savol": "Striatum tarkibiga nimalar kiradi?",
+    "A": "Nucleus caudatus va putamen",
+    "B": "Talamus va pallidus",
+    "C": "Miyacha va ko‘prik",
+    "D": "Medulla oblongata va pons",
+    "javob": "A"
+  },
+  {
+    "savol": "Bazal yadrolar asosan qaysi funksiyani bajaradi?",
+    "A": "Ixtiyoriy harakatlarni boshlash va nazorat qilish",
+    "B": "Og‘riq sezish",
+    "C": "Ko‘rish funksiyasi",
+    "D": "Nafasni boshqarish",
+    "javob": "A"
+  },
+  {
+    "savol": "Bazal yadrolar zararlansa nima kuzatiladi?",
+    "A": "Harakat buzilishlari",
+    "B": "Ko‘rish yo‘qolishi",
+    "C": "Eshitish buzilishi",
+    "D": "Reflekslar yo‘qolishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Dofamin bazal yadrolarda qanday rol o‘ynaydi?",
+    "A": "Harakatni modulyatsiya qiladi",
+    "B": "Og‘riqni uzatadi",
+    "C": "Nafasni boshqaradi",
+    "D": "Qon bosimini oshiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Substantia nigra qayerda joylashgan?",
+    "A": "O‘rta miyada",
+    "B": "Orqa miyada",
+    "C": "Talamusda",
+    "D": "Miyachada",
+    "javob": "A"
+  },
+  {
+    "savol": "Bazal yadrolar qaysi markaz orqali po‘stloqqa ta’sir qiladi?",
+    "A": "Talamus orqali",
+    "B": "Orqa miya orqal",
+    "C": "Miyacha orqali",
+    "D": "Gipotalamus orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Uzunchoq miya qayerda joylashgan?",
+    "A": "Orqa miya bilan ko‘prik o‘rtasida",
+    "B": "O‘rta miya ichida",
+    "C": "Katta yarim sharlar ostida",
+    "D": "Miyacha ichida",
+    "javob": "A"
+  },
+  {
+    "savol": "Uzunchoq miya qaysi hayotiy markazlarni o‘z ichiga oladi?",
+    "A": "Nafas va yurak-qon tomir markazlarini",
+    "B": "Ko‘rish markazini",
+    "C": "Eshitish markazini",
+    "D": "Harakat markazini",
+    "javob": "A"
+  },
+  {
+    "savol": "Nafas markazi qaysi tuzilmada joylashgan?",
+    "A": "Uzunchoq miyada",
+    "B": "Miyachada",
+    "C": "O‘rta miyada",
+    "D": "Katta yarim sharlarda",
+    "javob": "A"
+  },
+  {
+    "savol": "Uzunchoq miya reflekslariga qaysi biri kiradi?",
+    "A": "Yutish refleksi",
+    "B": "Ko‘rish refleksi",
+    "C": "Yozish refleksi",
+    "D": "Eshitish refleksi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qon bosimini boshqaruvchi markaz qayerda joylashgan?",
+    "A": "Uzunchoq miyada",
+    "B": "Orqa miyada",
+    "C": "Miyachada",
+    "D": "Gipotalamusda",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi refleks markazi uzunchoq miyada joylashgan?",
+    "A": "Yo‘tal refleksi",
+    "B": "Shartli refleks",
+    "C": "O‘rganilgan refleks",
+    "D": "Murakkab harakat refleksi",
+    "javob": "A"
+  },
+  {
+    "savol": "Uzunchoq miya qanday nervlarni o‘z ichiga oladi?",
+    "A": "Bosh miya nervlarining yadrolarini",
+    "B": "Faqat orqa miya nervlarini",
+    "C": "Faqat vegetativ nervlarni",
+    "D": "Hech qanday nervni emas",
+    "javob": "A"
+  },
+  {
+    "savol": "Uzunchoq miya qaysi funksiyani bajaradi?",
+    "A": "Vegetativ funksiyalarni boshqaradi",
+    "B": "Ongni shakllantiradi",
+    "C": "Tafakkurni boshqaradi",
+    "D": "Xotirani saqlaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Uzunchoq miya orqali qanday yo‘llar o‘tadi?",
+    "A": "Ko‘tariluvchi va tushuvchi yo‘llar",
+    "B": "Faqat ko‘tariluvchi",
+    "C": "Faqat tushuvchi",
+    "D": "Hech qanday yo‘l o‘tmaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Uzunchoq miya qaysi nervlar yadrolarini o‘z ichiga oladi?",
+    "A": "IX–XII bosh miya nervlari",
+    "B": "I–II bosh miya nervlari",
+    "C": "Faqat III nerv",
+    "D": "V-X bosh miya nervlari",
+    "javob": "A"
+  },
+  {
+    "savol": "Uzunchoq miyaning zararlanishi nima uchun xavfli?",
+    "A": "Hayotiy markazlar joylashganligi sababli",
+    "B": "Ko‘rish markazi sababli",
+    "C": "Nutq markazi sababli",
+    "D": "Xotira markazi sababli",
+    "javob": "A"
+  },
+  {
+    "savol": "Uzunchoq miyada joylashgan nafas markazi qaysi jarayonni boshqaradi?",
+    "A": "Nafas olish va chiqarish ritmini",
+    "B": "Ovqat hazm qilishni",
+    "C": "Ko‘rish refleksini",
+    "D": "Eshitish sezgisini",
+    "javob": "A"
+  },
+  {
+    "savol": "Gamma-motor neyronlar qanday vazifani bajaradi?",
+    "A": "Mushak hushtakchalarining sezgirligini boshqaradi",
+    "B": "Og‘riqni o‘tkazadi",
+    "C": "Vegetativ impuls uzatadi",
+    "D": "Miyelin hosil qiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Orqa miya reflekslarining asosiy xususiyati nima?",
+    "A": "Tez va avtomatik javob berishi",
+    "B": "Ongli ravishda boshqarilishi",
+    "C": "Faqat ixtiyoriy harakat bo‘lishi",
+    "D": "Faqat korteks orqali amalga oshishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Uzunchoq miya qaysi tizimning bir qismi hisoblanadi?",
+    "A": "Bosh miya ustuni",
+    "B": "Orqa miya segmenti",
+    "C": "Katta yarimsharlar po‘stlog‘i",
+    "D": "Miyacha po‘stlog‘i",
+    "javob": "A"
+  },
+  {
+    "savol": "Uzunchoq miya reflekslari qanday xarakterga ega?",
+    "A": "Shartsiz, hayotiy muhim reflekslar",
+    "B": "Faqat shartli reflekslar",
+    "C": "Ongli reflekslar",
+    "D": "Faqat vegetativ bo‘lmagan reflekslar",
+    "javob": "A"
+  },
+  {
+    "savol": "Uzunchoq miyada joylashgan yurak markazi qanday ta’sir ko‘rsatadi?",
+    "A": "Yurak qisqarish tezligini boshqaradi",
+    "B": "Oshqozon sekretsiyasini oshiradi",
+    "C": "Ko‘z qorachig‘ini kengaytiradi",
+    "D": "Mushak tonusini oshiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Vagus nervi yadrosi qayerda joylashgan?",
+    "A": "Uzunchoq miyada",
+    "B": "Miyachada",
+    "C": "Talamusda",
+    "D": "Katta yarimsharlarda",
+    "javob": "A"
+  },
+  {
+    "savol": "Parasimpatik ta’sir yurakka qanday ta’sir ko‘rsatadi?",
+    "A": "Yurak urishini sekinlashtiradi",
+    "B": "Yurak urishini tezlashtiradi",
+    "C": "Qon bosimini oshiradi",
+    "D": "Nafasni tezlashtiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Uzunchoq miyada joylashgan markazlardan biri qusish refleksini boshqaradi. Bu refleks qanday turga kiradi?",
+    "A": "Himoya refleks",
+    "B": "Shartli refleks",
+    "C": "Kortikal refleks",
+    "D": "Ixtiyoriy refleks",
+    "javob": "A"
+  },
+  {
+    "savol": "Uzunchoq miya va orqa miya orasidagi chegara qayerda joylashgan?",
+    "A": "Katta ensa teshigi darajasida",
+    "B": "Ko‘ruv nervi kesishmasida",
+    "C": "Miyacha po‘stlog‘ida",
+    "D": "Talamus ostida",
+    "javob": "A"
+  },
+  {
+    "savol": "Qon tarkibidagi CO₂ miqdori oshsa, uzunchoq miya qanday javob beradi?",
+    "A": "Nafas tezligini oshiradi",
+    "B": "Nafasni to‘xtatadi",
+    "C": "Yurakni sekinlashtiradi",
+    "D": "Qon bosimini tushiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Uzunchoq miyada joylashgan qon tomir markazi qaysi nerv tizimi bilan bog‘liq?",
+    "A": "Vegetativ nerv tizimi",
+    "B": "Somatik nerv tizimi",
+    "C": "Sensor tizim",
+    "D": "Ekstrapiramidal tizim",
+    "javob": "A"
+  },
+  {
+    "savol": "Uzunchoq miyaning lateral qismining shikastlanishi nimaga olib kelishi mumkin?",
+    "A": "Yutish buzilishiga",
+    "B": "Ko‘rishning yo‘qolishiga",
+    "C": "Xotiraning pasayishiga",
+    "D": "Nutqning to‘liq yo‘qolishiga",
+    "javob": "A"
+  },
+  {
+    "savol": "Uzunchoq miyada retikulyar formatsiya qanday rol o‘ynaydi?",
+    "A": "Hayotiy markazlar faoliyatini modulyatsiya qiladi",
+    "B": "Gormon ishlab chiqaradi",
+    "C": "Qon hosil qiladi",
+    "D": "Ko‘rish impulslarini uzatadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Uzunchoq miya reflekslari organizm uchun qanday ahamiyatga ega?",
+    "A": "Hayotni saqlab qolishga xizmat qiladi",
+    "B": "Faqat ixtiyoriy harakatni boshqaradi",
+    "C": "Faqat ongli jarayonlarni bajaradi",
+    "D": "Faqat sezgi analizatorlari bilan bog‘liq",
+    "javob": "A"
+  },
+  {
+    "savol": "Miya ko‘prigi qaysi tuzilma tarkibiga kiradi?",
+    "A": "Miya poyasi",
+    "B": "Orqa miya",
+    "C": "Katta yarimsharlar",
+    "D": "Gipotalamus",
+    "javob": "A"
+  },
+  {
+    "savol": "Miya ko‘prigining asosiy funksiyalaridan biri nima?",
+    "A": "Nafas jarayonini modulyatsiya qilish",
+    "B": "Ko‘rish analizini bajarish",
+    "C": "Xotirani shakllantirish",
+    "D": "Gormon ishlab chiqarish",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko‘prikda joylashgan pnevmotaksik markaz qanday ta’sir ko‘rsatadi?",
+    "A": "Nafas olish fazasini cheklaydi",
+    "B": "Nafasni to‘xtatadi",
+    "C": "Yurakni tezlashtiradi",
+    "D": "Mushakni qisqartiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Miya ko‘prigi qaysi bosh miya nervlari yadrolarini o‘z ichiga oladi?",
+    "A": "V–VIII nervlar",
+    "B": "I–II nervlar",
+    "C": "IX–XII nervlar",
+    "D": "Faqat III nerv",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko‘prikning uzunchoq miya bilan aloqasi nimani ta’minlaydi?",
+    "A": "Nafas markazlari o‘rtasida uyg‘unlikni",
+    "B": "Ko‘rish refleksini",
+    "C": "Xotira jarayonini",
+    "D": "Endokrin nazoratni",
+    "javob": "A"
+  },
+  {
+    "savol": "Miya ko‘prigi orqali qanday o‘tkazuvchi yo‘llar o‘tadi?",
+    "A": "Ko‘tariluvchi va tushuvchi o‘tkazuvchi yo‘llar",
+    "B": "Ko‘tariluvchi va sezuvchi yo‘llar",
+    "C": "Ko‘tariluvchi va harakat yo‘llari",
+    "D": "Ko‘tariluvchi va vegetativ yo‘llar",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko‘prik zararlansa qanday holat kuzatilishi mumkin?",
+    "A": "Nafas ritmining buzilishi",
+    "B": "Qon hosil bo‘lishi buzilishi",
+    "C": "Ko‘rish markazi ishdan chiqishi",
+    "D": "Buyrak faoliyati buzilishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Miya ko‘prigining miyacha bilan aloqasi nimani ta’minlaydi?",
+    "A": "Harakatlar koordinatsiyasini",
+    "B": "Qon bosimini oshirishni",
+    "C": "Eshitishni kuchaytirishni",
+    "D": "Gormon ajralishini",
+    "javob": "A"
+  },
+  {
+    "savol": "Apneustik markaz qayerda joylashgan?",
+    "A": "Miya ko‘prigida",
+    "B": "Miyachada",
+    "C": "Talamusda",
+    "D": "Epifizda",
+    "javob": "A"
+  },
+  {
+    "savol": "Miya ko‘prigi retikulyar formatsiyasi qanday rol o‘ynaydi?",
+    "A": "Uyg‘oqlik va tonusni boshqaradi",
+    "B": "Qon ishlab chiqaradi",
+    "C": "Ovqat hazm qiladi",
+    "D": "Ko‘rish tasvirini hosil qiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Miya ko‘prigidagi pontin yadrolarning asosiy vazifasi nima?",
+    "A": "Harakat impulslarini miyachaga uzatish",
+    "B": "Ko‘rish tasvirini shakllantirish",
+    "C": "Gormon ishlab chiqarish",
+    "D": "Qon bosimini pasaytirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Miya ko‘prigi qaysi tuzilma bilan o‘rta miyani bog‘laydi?",
+    "A": "Uzunchoq miya va o‘rta miya o‘rtasida ko‘prik vazifasini bajaradi",
+    "B": "Faqat orqa miyani bog‘laydi",
+    "C": "Faqat katta yarimsharni bog‘laydi",
+    "D": "Gipotalamusni bog‘laydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Miya ko‘prigi zararlanishida qaysi bosh miya nervi funksiyasi buzilishi mumkin?",
+    "A": "Uch shoxli nerv (V nerv)",
+    "B": "Hid bilish nervi (I nerv)",
+    "C": "Ko‘ruv nervi (II nerv)",
+    "D": "Til osti nervi (XII nerv)",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko‘prikdagi nafas markazlari uzunchoq miya markazlariga qanday ta’sir qiladi?",
+    "A": "Nafas ritmini tartibga soladi",
+    "B": "Nafasni butunlay to‘xtatadi",
+    "C": "Qon bosimini oshiradi",
+    "D": "Mushakni bo‘shashtiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Miya ko‘prigi oq moddasining asosiy vazifasi nima?",
+    "A": "Impulslarni yuqoriga va pastga o‘tkazish",
+    "B": "Neyron tanalarini saqlash",
+    "C": "Mediator ishlab chiqarish",
+    "D": "Qon ishlab chiqarish",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko‘prikning miyacha bilan aloqasi qaysi tuzilma orqali amalga oshadi?",
+    "A": "O‘rta miyacha oyoqchasi",
+    "B": "Ko‘ruv traktlari",
+    "C": "Piramidal yo‘l",
+    "D": "Spino-talamik yo‘l",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko‘prikning retikulyar formatsiyasi qanday fiziologik ahamiyatga ega?",
+    "A": "Uyg‘oqlik va reflektor faoliyatni qo‘llab-quvvatlaydi",
+    "B": "Faqat eshitishni boshqaradi",
+    "C": "Gormon ajratadi",
+    "D": "Qon ivishini boshqaradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Apneustik markazning qo‘zg‘alishi nimaga olib keladi?",
+    "A": "Nafas olish fazasining uzayishiga",
+    "B": "Nafas chiqarishning kuchayishiga",
+    "C": "Yurak urishining to‘xtashiga",
+    "D": "Qon bosimining pasayishiga",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko‘prikning segmentar reflekslarda roli nimada?",
+    "A": "Reflekslarni yuqori markazlar bilan integratsiya qiladi",
+    "B": "Faqat shartli refleks hosil qiladi",
+    "C": "Faqat vegetativ refleks bajaradi",
+    "D": "Reflekslarni yo‘q qiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Miya ko‘prigi shikastlanganda kuzatilishi mumkin bo‘lgan klinik belgi:",
+    "A": "Nafas va yuz mushaklari funksiyasining buzilishi",
+    "B": "Buyrak yetishmovchiligi",
+    "C": "Qon ketishi",
+    "D": "Ichki sekretsiya bezlari atrofiyasi",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘rta miya qaysi tuzilma tarkibiga kiradi?",
+    "A": "Miya poyasi",
+    "B": "Orqa miya",
+    "C": "Katta yarimsharlar",
+    "D": "Miyacha po‘stlog‘i",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘rta miyada joylashgan to‘rt tepalik (quadrigemina) qanday reflekslarni boshqaradi?",
+    "A": "Ko‘rish va eshitish reflekslarini",
+    "B": "Nafas refleksini",
+    "C": "Yutish refleksini",
+    "D": "Qon bosimini",
+    "javob": "A"
+  },
+  {
+    "savol": "Yuqori tepaliklar (colliculi superiores) qaysi analizator bilan bog‘liq?",
+    "A": "Ko‘rish analizatori",
+    "B": "Eshitish analizatori",
+    "C": "Hid bilish analizatori",
+    "D": "Ta’m bilish analizatori",
+    "javob": "A"
+  },
+  {
+    "savol": "Pastki tepaliklar (colliculi inferiores) qaysi funksiyani bajaradi?",
+    "A": "Eshitish reflekslarini boshqaradi",
+    "B": "Nafasni boshqaradi",
+    "C": "Yurakni boshqaradi",
+    "D": "Gormon ajratadi",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘rta miyada joylashgan qora modda (substantia nigra) nimada ishtirok etadi?",
+    "A": "Harakatlarni boshqarishda",
+    "B": "Ko‘rishda",
+    "C": "Nafasda",
+    "D": "Ovqat hazm qilishda",
+    "javob": "A"
+  },
+  {
+    "savol": "Qora modda qaysi mediatorni ishlab chiqaradi?",
+    "A": "Dopamin",
+    "B": "Serotonin",
+    "C": "Adrenalin",
+    "D": "Asetilxolin",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘rta miya qaysi bosh miya nervlari yadrolarini o‘z ichiga oladi?",
+    "A": "III va IV nervlar",
+    "B": "I va II nervlar",
+    "C": "V va VI nervlar",
+    "D": "IX va X nervlar",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘rta miyaning qizil yadrosi (nucleus ruber) qanday vazifani bajaradi?",
+    "A": "Mushak tonusini va fleksor harakatlarni boshqaradi",
+    "B": "Qon bosimini oshiradi",
+    "C": "Ko‘rish impulsini uzatadi",
+    "D": "Eshitish markazi hisoblanad",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘rta miyaning retikulyar formatsiyasi qanday rol o‘ynaydi?",
+    "A": "Uyg‘oqlik va mushak tonusini saqlashda",
+    "B": "Gormon ishlab chiqarishda",
+    "C": "Qon ishlab chiqarishda",
+    "D": "Ovqat hazm qilishda",
+    "javob": "A"
+  },
+  {
+    "savol": "Miya stvolidagi o‘tkazuvchi yo‘llar qanday funksiyani bajaradi?",
+    "A": "Impulslarni bosh miya va orqa miya o‘rtasida o‘tkazadi",
+    "B": "Gormon ishlab chiqaradi",
+    "C": "Qon ishlab chiqaradi",
+    "D": "Faqat refleks hosil qiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko‘tariluvchi (afferent) yo‘llar nimani o‘tkazadi?",
+    "A": "Sezuvchi impulslarni yuqoriga",
+    "B": "Harakat impulslarini pastga",
+    "C": "Vegetativ impulslarni pastga",
+    "D": "Gormonal signallarni",
+    "javob": "A"
+  },
+  {
+    "savol": "Tushuvchi (efferent) yo‘llar qanday vazifani bajaradi?",
+    "A": "Harakat impulslarini pastga uzatadi",
+    "B": "Og‘riqni yuqoriga olib chiqadi",
+    "C": "Ko‘rish signalini uzatadi",
+    "D": "Qon bosimini oshiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘rta miya zararlansa qanday belgi kuzatilishi mumkin?",
+    "A": "Harakat koordinatsiyasining buzilishi",
+    "B": "Buyrak yetishmovchiligi",
+    "C": "Nafas to‘xtashi",
+    "D": "Oshqozon yarasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Orqa ustun yo‘llari (fasciculus gracilis va cuneatus) qanday sezgini olib boradi?",
+    "A": "Nozik teginish va proprioseptiv sezgini",
+    "B": "Og‘riqni",
+    "C": "Nafas impulsini",
+    "D": "Yurak impulsini",
+    "javob": "A"
+  },
+  {
+    "savol": "Piramidal yo‘lning kesishishi (decussatio pyramidum) qayerda sodir bo‘ladi?",
+    "A": "Uzunchoq miyada",
+    "B": "Ko‘prikda",
+    "C": "O‘rta miyada",
+    "D": "Miyachada",
+    "javob": "A"
+  },
+  {
+    "savol": "Miya stvolidagi o‘tkazuvchi yo‘llar shikastlansa qanday holat kuzatiladi?",
+    "A": "Harakat yoki sezgi buzilishi",
+    "B": "Gormon yetishmovchiligi",
+    "C": "Buyrak faoliyati buzilishi",
+    "D": "Oshqozon sekretsiyasi oshishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Retikulospinal yo‘l qanday rol o‘ynaydi?",
+    "A": "Mushak tonusi va reflektor faoliyatni tartibga soladi",
+    "B": "Ko‘rish refleksini boshqaradi",
+    "C": "Eshitish signalini uzatadi",
+    "D": "Qon ishlab chiqaradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Kortikobulbar yo‘lning asosiy vazifasi nima?",
+    "A": "Bosh miya nervlari yadrolariga harakat impulslarini uzatish",
+    "B": "Og‘riq impulslarini o‘tkazish",
+    "C": "Qon bosimini boshqarish",
+    "D": "Nafasni boshqarish",
+    "javob": "A"
+  },
+  {
+    "savol": "Medial lemnisk yo‘li qaysi sezgini olib boradi?",
+    "A": "Nozik teginish va chuqur sezgi",
+    "B": "Og‘riq va harorat",
+    "C": "Ko‘rish impulsi",
+    "D": "Eshitish impulsi",
+    "javob": "A"
+  },
+  {
+    "savol": "Vestibulospinal yo‘l qanday funksiyani bajaradi?",
+    "A": "Muvozanat va mushak tonusini saqlash",
+    "B": "Ixtiyoriy nozik harakatni boshqarish",
+    "C": "Og‘riqni o‘tkazish",
+    "D": "Ko‘rishni boshqarish",
+    "javob": "A"
+  },
+  {
+    "savol": "Rubrospinal yo‘l qaysi tuzilma bilan bog‘liq?",
+    "A": "O‘rta miyadagi qizil yadro",
+    "B": "Ko‘prikdagi pnevmotaksik markaz",
+    "C": "Uzunchoq miyadagi nafas markazi",
+    "D": "Miyacha po‘stlog‘i",
+    "javob": "A"
+  },
+  {
+    "savol": "Miya stvolidagi ko‘tariluvchi yo‘llarning umumiy vazifasi nima?",
+    "A": "Periferiyadan sezgi impulslarini bosh miyaga yetkazish",
+    "B": "Harakat impulslarini mushakka uzatish",
+    "C": "Gormon ishlab chiqarish",
+    "D": "Qon aylanishni boshqarish",
+    "javob": "A"
+  },
+  {
+    "savol": "Piramidal yo‘l zararlansa qanday klinik belgi kuzatiladi?",
+    "A": "Markaziy falaj",
+    "B": "Sezgi yo‘qolishi",
+    "C": "Nafas to‘xtashi",
+    "D": "Eshitish buzilishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ekstrapiramidal yo‘llarning asosiy roli nimada?",
+    "A": "Avtomatik va stereotip harakatlarni boshqarish",
+    "B": "Ixtiyoriy nozik harakatni boshqarish",
+    "C": "Og‘riqni o‘tkazish",
+    "D": "Ko‘rishni boshqarish",
+    "javob": "A"
+  },
+  {
+    "savol": "Spinotserebellar yo‘llar qanday ma’lumot olib boradi",
+    "A": "Mushak va bo‘g‘imlardan proprioseptiv impulslar",
+    "B": "Og‘riq impulsi",
+    "C": "Ko‘rish impulsi",
+    "D": "Eshitish impulsi",
+    "javob": "A"
+  },
+  {
+    "savol": "Miya stvolida o‘tkazuvchi yo‘llarning kesishishi nimaga olib keladi?",
+    "A": "Qarama-qarshi tomonda klinik belgilar paydo bo‘lishiga",
+    "B": "Bir tomonda belgilar paydo bo‘lishiga",
+    "C": "Belgilarsiz o‘tishiga",
+    "D": "Gormonal o‘zgarishga",
+    "javob": "A"
+  },
+  {
+    "savol": "Talamusning asosiy vazifasi nima?",
+    "A": "Sezgi impulslarini qayta ishlash va uzatish",
+    "B": "Harakatni muvofiqlashtirish",
+    "C": "Nafasni boshqarish",
+    "D": "Xotirani shakllantirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Gipotalamus qanday funksiyani bajaradi?",
+    "A": "Vegetativ va endokrin tizimni boshqaradi",
+    "B": "Ko‘rish analizatorini boshqaradi",
+    "C": "Eshitishni boshqaradi",
+    "D": "Harakatni boshqaradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Tana haroratini boshqarish markazi qayerda joylashgan?",
+    "A": "Gipotalamusda",
+    "B": "Talamusda",
+    "C": "Miyachada",
+    "D": "O‘rta miyada",
+    "javob": "A"
+  },
+  {
+    "savol": "Ochlik va to‘qlik markazlari qayerda joylashgan?",
+    "A": "Gipotalamusda",
+    "B": "Talamusda",
+    "C": "Uzunchoq miyada",
+    "D": "Miyachada",
+    "javob": "A"
+  },
+  {
+    "savol": "Gipotalamus qaysi bez faoliyatini bevosita boshqaradi?",
+    "A": "Gipofiz bezini",
+    "B": "Qalqonsimon bezni",
+    "C": "Buyrak usti bezini",
+    "D": "Oshqozon bezlarini",
+    "javob": "A"
+  },
+  {
+    "savol": "Gipotalamusning shikastlanishi nimaga olib keladi?",
+    "A": "Gomeostaz buzilishiga",
+    "B": "Faqat ko‘rish buzilishiga",
+    "C": "Faqat eshitish buzilishiga",
+    "D": "Faqat harakat buzilishiga",
+    "javob": "A"
+  },
+  {
+    "savol": "Oraliq miya qaysi funksiyada ishtirok etadi?",
+    "A": "Ichki muhit barqarorligini saqlash",
+    "B": "Faqat ixtiyoriy harakatlar",
+    "C": "Faqat nutq",
+    "D": "Faqat fikrlash",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi holatda gipotalamus faoliyati ortadi?",
+    "A": "Stress holatida",
+    "B": "Uyquda chuqur bosqichda",
+    "C": "Harakat yo‘qligida",
+    "D": "Faqat ovqatdan keyin",
+    "javob": "A"
+  },
+  {
+    "savol": "Gipotalamus qaysi tizimlar o‘rtasida “bog‘lovchi ko‘prik” hisoblanadi?",
+    "A": "Nerv va endokrin tizimlar",
+    "B": "Nafas va hazm tizimi",
+    "C": "Mushak va skelet tizimi",
+    "D": "Limfa va qon tizimi",
+    "javob": "A"
+  },
+  {
+    "savol": "Talamusning asosiy vazifasi qaysi?",
+    "A": "Sezgi impulslarini integratsiya qilish",
+    "B": "Endokrin bezlarni boshqarish",
+    "C": "Nafas markazi bo‘lish",
+    "D": "Harakatni boshlash",
+    "javob": "A"
+  },
+  {
+    "savol": "Gipotalamusning zararlanishi qaysi belgilar bilan namoyon bo‘ladi?",
+    "A": "Termoregulyatsiya buzilishi",
+    "B": "Faqat mushak kuchsizligi",
+    "C": "Faqat ko‘rish yo‘qolishi",
+    "D": "Faqat refleks yo‘qolishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Supraxiazmatik yadro qanday funksiyani bajaradi?",
+    "A": "Biologik ritmlarni boshqaradi",
+    "B": "Nafasni boshqaradi",
+    "C": "Harakatni boshqaradi",
+    "D": "Eshitishni boshqaradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Gipotalamusning qaysi qismi issiqlik chiqarishni kuchaytiradi?",
+    "A": "Oldingi qismi",
+    "B": "Orqa (posterior) qismi",
+    "C": "Yon qismi",
+    "D": "Talamus",
+    "javob": "A"
+  },
+  {
+    "savol": "Talamus qaysi sezgi impulslarini o‘tkazmaydi?",
+    "A": "Hid sezgisi",
+    "B": "Og‘riq sezgisi",
+    "C": "Harorat sezgisi",
+    "D": "Tegish sezgisi",
+    "javob": "A"
+  },
+  {
+    "savol": "Gipotalamusning ventromedial yadrosi zararlansa nima kuzatiladi?",
+    "A": "Haddan tashqari ovqatlanish",
+    "B": "Ishtahaning yo‘qolishi",
+    "C": "Faqat chanqoq kamayishi",
+    "D": "Harorat pasayishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Miyachaning asosiy vazifasi nima?",
+    "A": "Harakatlarni muvofiqlashtirish",
+    "B": "Xotirani saqlash",
+    "C": "Nafasni boshqarish",
+    "D": "Nutqni boshqarish",
+    "javob": "A"
+  },
+  {
+    "savol": "Miyacha qaysi turdagi harakatlarni nazorat qiladi?",
+    "A": "Aniq va muvofiqlashtirilgan harakatlarni",
+    "B": "Faqat reflektor harakatlarni",
+    "C": "Faqat ixtiyorsiz harakatlarni",
+    "D": "Faqat vegetativ harakatlarni",
+    "javob": "A"
+  },
+  {
+    "savol": "Miyacha qaysi tizim bilan eng yaqin bog‘langan?",
+    "A": "Vestibulyar tizim bilan",
+    "B": "Hazm tizimi bilan",
+    "C": "Endokrin tizim bilan",
+    "D": "Limfa tizimi bilan",
+    "javob": "A"
+  },
+  {
+    "savol": "Miyachaning shikastlanishi nimaga olib keladi?",
+    "A": "Ataksiya",
+    "B": "Ko‘rish yo‘qolishi",
+    "C": "Eshitish buzilishi",
+    "D": "Nafas to‘xtashi",
+    "javob": "A"
+  },
+  {
+    "savol": "Miyacha mushak tonusiga qanday ta’sir qiladi?",
+    "A": "Tartibga soladi",
+    "B": "Pasaytirmaydi",
+    "C": "O‘zgartirmaydi",
+    "D": "Faqat oshiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi belgi miyacha shikastlanishiga xos?",
+    "A": "Disdiadokokineziya",
+    "B": "Afaziya",
+    "C": "Anosmiya",
+    "D": "Diplopiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Miyacha qanday axborotni qabul qiladi?",
+    "A": "Proprioseptiv axborotni",
+    "B": "Vizual axborotni",
+    "C": "Eshitish axborotini",
+    "D": "Hid sezgisini",
+    "javob": "A"
+  },
+  {
+    "savol": "Miyacha qaysi harakatni ta’minlaydi?",
+    "A": "Muvozanatni saqlash",
+    "B": "Nafas olish",
+    "C": "Yurak urishi",
+    "D": "Hazm qilish",
+    "javob": "A"
+  },
+  {
+    "savol": "Miyachaning qaysi qismi muvozanat uchun muhim?",
+    "A": "Flokkulonodulyar qism",
+    "B": "Peshona qismi",
+    "C": "Ensa qismi",
+    "D": "Talamus",
+    "javob": "A"
+  },
+  {
+    "savol": "Miyacha shikastlanganda harakatlar qanday o‘zgaradi?",
+    "A": "Ataktik va muvofiqlashtirilmagan bo‘ladi",
+    "B": "Juda tezlashadi",
+    "C": "To‘liq yo‘qoladi",
+    "D": "Faqat reflekslar kuchayadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Miyacha zararlanganda yozuv qanday o‘zgaradi?",
+    "A": "Katta va notekis",
+    "B": "Juda kichik",
+    "C": "O‘zgarmaydi",
+    "D": "Yo‘qoladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Disdiadokokineziya nimani anglatadi?",
+    "A": "Qarama-qarshi harakatlarni tez bajarishning buzilishi",
+    "B": "Mushak kuchining ortishi",
+    "C": "Sezgi yo‘qolishi",
+    "D": "Ko‘rish buzilishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Miyacha qaysi yo‘llar orqali axborot qabul qiladi?",
+    "A": "Spinotserebellar yo‘llar orqali",
+    "B": "Spinotalamik yo‘llar orqali",
+    "C": "Piramidal yo‘llar orqali",
+    "D": "Kortikospinal yo‘llar orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Siydik yo’llaridagi yallig’lanishni aniqlashda qo’llanuvchi 1martalik peshob sinamasi",
+    "A": "Nechiporenko",
+    "B": "Zimnitskiy",
+    "C": "Addis - Kokovskiy",
+    "D": "Gregerson-Veber",
+    "javob": "A"
+  },
+  {
+    "savol": "Siydik yo’llaridagi yallig’lanishni aniqlashda qo’llanuvchi sutkalik peshob sinamasi",
+    "A": "Addis - Kokovskiy",
+    "B": "Nechiporenko",
+    "C": "Zimnitskiy",
+    "D": "Gregerson-Veber",
+    "javob": "A"
+  },
+  {
+    "savol": "Miyacha qaysi yo‘llar orqali ta’sir ko‘rsatadi?",
+    "A": "Talamus orqali po‘stloqqa",
+    "B": "Faqat orqa miyaga",
+    "C": "Faqat gipotalamusga",
+    "D": "Faqat miyachaning o‘ziga",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi simptom miyacha shikastlanishiga xos?",
+    "A": "Nistagm",
+    "B": "Afaziya",
+    "C": "Anosmiya",
+    "D": "Gemianopsiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Miyacha zararlanganda qanday nutq buzilishi kuzatiladi?",
+    "A": "Skandirlangan nutq",
+    "B": "Sensor afaziya",
+    "C": "Motor afaziya",
+    "D": "Mutizm",
+    "javob": "A"
+  },
+  {
+    "savol": "Romberg sinamasida miyacha zararlanganda nima kuzatiladi?",
+    "A": "Muvozanatning buzilishi",
+    "B": "Ko‘rish yo‘qolishi",
+    "C": "Eshitish pasayishi",
+    "D": "Reflekslar yo‘qolishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Miyacha faoliyatini tekshirishda qaysi sinama qo‘llaniladi?",
+    "A": "Barmoq-burun sinamasi",
+    "B": "Babinski refleksi",
+    "C": "Kernig belgisi",
+    "D": "Brudzinski belgisi",
+    "javob": "A"
+  },
+  {
+    "savol": "Barmoq-burun sinamasida nima aniqlanadi?",
+    "A": "Harakat aniqligi va koordinatsiyasi",
+    "B": "Mushak kuchi",
+    "C": "Reflekslar",
+    "D": "Sezgi",
+    "javob": "A"
+  },
+  {
+    "savol": "Romberg sinamasi nimani baholaydi?",
+    "A": "Muvozanatni saqlash",
+    "B": "Ko‘rish",
+    "C": "Eshitish",
+    "D": "Xotira",
+    "javob": "A"
+  },
+  {
+    "savol": "Yurak qisqarish sonining 90dan oshishi",
+    "A": "Taxikardiya",
+    "B": "Bradikardiya",
+    "C": "Taxipnoe",
+    "D": "Bradipnoe",
+    "javob": "A"
+  },
+  {
+    "savol": "Yurak qisqarish sonining 60dan kamayishi",
+    "A": "Bradikardiya",
+    "B": "Taxikardiya",
+    "C": "Taxipnoe",
+    "D": "Bradipnoe",
+    "javob": "A"
+  },
+  {
+    "savol": "Nafas olish sonining 20tadan oshishi",
+    "A": "Taxipnoe",
+    "B": "Bradipnoe",
+    "C": "Taxikardiya",
+    "D": "Bradikardiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Nafas olish sonining 12tadan kamayishi",
+    "A": "Bradipnoe",
+    "B": "Taxipnoe",
+    "C": "Taxikardiya",
+    "D": "Bradikardiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Anuriya bu",
+    "A": "Peshob ajralmasligi",
+    "B": "Peshobning 2000ml dan ko’p ajralishi",
+    "C": "Qon aralash peshob",
+    "D": "Peshob ranging xiralashuvi",
+    "javob": "A"
+  },
+  {
+    "savol": "Oligouriya bu",
+    "A": "Peshobning 500ml dan kam ajralishi",
+    "B": "Peshob ajralmasligi",
+    "C": "Peshobning 2000ml dan ko’p ajralishi",
+    "D": "Qon aralash peshob",
+    "javob": "A"
+  },
+  {
+    "savol": "Dizuriya bu",
+    "A": "Og’riqli peshob ajralishi",
+    "B": "Peshob ajralmasligi",
+    "C": "Qon aralash peshob",
+    "D": "Peshobning 500ml dan kam ajralishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Polidipsiya bu",
+    "A": "Ko’p chanqash",
+    "B": "Ko’p terlash",
+    "C": "Qon aralash peshob",
+    "D": "Ko’p qusish",
+    "javob": "A"
+  },
+  {
+    "savol": "Disfagiya bu",
+    "A": "Yutinishning qiyinlashuvi",
+    "B": "Og’riqli peshob ajralishi",
+    "C": "Og’riqli defekatsiya",
+    "D": "Qusish",
+    "javob": "A"
+  },
+  {
+    "savol": "Polifagiya bu",
+    "A": "Haddan tashqari ko’p ovqatlanish",
+    "B": "Ko’p chanqash",
+    "C": "Ko’p qusish",
+    "D": "Ko’p terlash",
+    "javob": "A"
+  },
+  {
+    "savol": "Zimnistkiy sinamasida nechta probirkadan foydalaniladi?",
+    "A": "8ta",
+    "B": "6ta",
+    "C": "4ta",
+    "D": "2ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Zimnistkiy sinamasida har necha soatda peshob yig’iladi?",
+    "A": "3",
+    "B": "4",
+    "C": "6",
+    "D": "2",
+    "javob": "A"
+  },
+  {
+    "savol": "Diadokokinez sinamasi nimani aniqlaydi?",
+    "A": "Qarama-qarshi harakatlar tezligini",
+    "B": "Mushak kuchini",
+    "C": "Sezgi darajasini",
+    "D": "Reflekslarni",
+    "javob": "A"
+  },
+  {
+    "savol": "Tizza-tovon sinamasi nimani tekshiradi?",
+    "A": "Pastki ekstremitalar koordinatsiyasini",
+    "B": "Yuqori ekstremitalar kuchini",
+    "C": "Nafasni",
+    "D": "Yurak faoliyatini",
+    "javob": "A"
+  },
+  {
+    "savol": "Bosh miya po‘stlog‘ining asosiy vazifasi nima?",
+    "A": "Oliy nerv faoliyatini ta’minlash",
+    "B": "Reflekslarni faqat boshqarish",
+    "C": "Vegetativ funksiyalarni boshqarish",
+    "D": "Faqat sezgi qabul qilish",
+    "javob": "A"
+  },
+  {
+    "savol": "Po‘stloq qaysi modda hisobiga tashkil topgan?",
+    "A": "Kulrang modda",
+    "B": "Oq modda",
+    "C": "Neyroglia",
+    "D": "Likvor",
+    "javob": "A"
+  },
+  {
+    "savol": "Bosh miya po‘stlog‘ida nechta qatlam mavjud?",
+    "A": "6 ta",
+    "B": "5 ta",
+    "C": "3 ta",
+    "D": "4 ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Po‘stloqning motor zonasi qayerda joylashgan?",
+    "A": "Oldingi markaziy girusda",
+    "B": "Orqa markaziy girusda",
+    "C": "Ensada",
+    "D": "Chakka qismda",
+    "javob": "A"
+  },
+  {
+    "savol": "Sensor zona qayerda joylashgan?",
+    "A": "Orqa markaziy girusda",
+    "B": "Oldingi markaziy girusda",
+    "C": "Frontal qismda",
+    "D": "Miyacha",
+    "javob": "A"
+  },
+  {
+    "savol": "Bosh miya po‘stlog‘ida analizatorlar nima vazifani bajaradi?",
+    "A": "Tashqi va ichki ta’sirlarni qabul qilib tahlil qiladi",
+    "B": "Impuls uzatadi",
+    "C": "Refleks hosil qiladi",
+    "D": "Qon aylanishini boshqaradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Shartli reflekslar qayerda hosil bo‘ladi?",
+    "A": "Bosh miya po‘stlog‘ida",
+    "B": "Orqa miyada",
+    "C": "Uzunchoq miyada",
+    "D": "Miyachada",
+    "javob": "A"
+  },
+  {
+    "savol": "Assotsiativ zonalar qanday vazifani bajaradi?",
+    "A": "Murakkab tafakkur va integratsiyani ta’minlaydi",
+    "B": "Harakatni boshqaradi",
+    "C": "Sezgi qabul qiladi",
+    "D": "Qon aylanishini boshqaradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Pavlov bo‘yicha oliy nerv faoliyati nimaga asoslangan?",
+    "A": "Shartli va shartsiz reflekslarga",
+    "B": "Faqat shartsiz reflekslarga",
+    "C": "Faqat vegetativ reaksiyalarga",
+    "D": "Gormonal boshqaruvga",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq markazi odatda qaysi yarim sharda joylashadi?",
+    "A": "Chap yarim sharda",
+    "B": "O‘ng yarim sharda",
+    "C": "Miyachada",
+    "D": "Orqa miyada",
+    "javob": "A"
+  },
+  {
+    "savol": "Uyqu po‘stloq faoliyatiga qanday ta’sir qiladi?",
+    "A": "Tormozlanish jarayonlari ustun bo‘ladi",
+    "B": "Qo‘zg‘alish ortadi",
+    "C": "Reflekslar yo‘qoladi",
+    "D": "Sezgi kuchayadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Shartli refleks qanday hosil bo‘ladi?",
+    "A": "O‘rganish va tajriba natijasida",
+    "B": "Tug‘ma holda",
+    "C": "Faqat genetik yo‘l bilan",
+    "D": "Faqat uyquda",
+    "javob": "A"
+  },
+  {
+    "savol": "Shartsiz refleksga misol qaysi?",
+    "A": "Issiqdan qo‘lni tortib olish",
+    "B": "Mashina haydash",
+    "C": "Kitob o‘qish",
+    "D": "Til o‘rganish",
+    "javob": "A"
+  },
+  {
+    "savol": "Instinkt nima?",
+    "A": "Murakkab tug‘ma xatti-harakatlar majmuasi",
+    "B": "Oddiy refleks",
+    "C": "Faqat o‘rganilgan harakat",
+    "D": "Faqat vaqtinchalik javob",
+    "javob": "A"
+  },
+  {
+    "savol": "Instinktga misol qaysi?",
+    "A": "Ona tomonidan bolani parvarish qilish",
+    "B": "Velosiped haydash",
+    "C": "Yozishni o‘rganish",
+    "D": "Telefon ishlatish",
+    "javob": "A"
+  },
+  {
+    "savol": "Shartli refleksning biologik ahamiyati nima?",
+    "A": "Moslashuvni ta’minlaydi",
+    "B": "Faqat harakatni boshqaradi",
+    "C": "Faqat qon aylanishini oshiradi",
+    "D": "Sezgi yo‘qoladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Vegetativ nerv tizimi qanday funksiyani bajaradi?",
+    "A": "Ichki a’zolar faoliyatini boshqaradi",
+    "B": "Faqat skelet mushaklarini boshqaradi",
+    "C": "Faqat sezgi impulslarini qabul qiladi",
+    "D": "Ongli harakatlarni nazorat qiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Simpatik nerv tizimi organizmga qanday ta’sir ko‘rsatadi?",
+    "A": "Faollashtiradi",
+    "B": "Tormozlaydi",
+    "C": "Faqat hazmni kuchaytiradi",
+    "D": "Uyquni chuqurlashtiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Parasimpatik nerv tizimi vazifasi:",
+    "A": "Tinch holatda ichki a’zolar faoliyatini tiklaydi",
+    "B": "Yurak urishini tezlashtiradi",
+    "C": "Qon bosimini oshiradi",
+    "D": "Stressni kuchaytiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Simpatik markazlar asosan qayerda joylashgan?",
+    "A": "Orqa miyaning ko‘krak va bel qismida",
+    "B": "Bosh miyaning ensa qismida",
+    "C": "Miyachada",
+    "D": "Uzunchoq miyada",
+    "javob": "A"
+  },
+  {
+    "savol": "Parasimpatik nerv tolalari qayerdan chiqadi?",
+    "A": "Bosh miya va orqa miyaning dumg‘aza qismidan",
+    "B": "Bosh miya va ko‘krak qismidan",
+    "C": "Bel va orqa miyaning dumg‘aza qismidan",
+    "D": "Faqat miyachadan",
+    "javob": "A"
+  },
+  {
+    "savol": "Vegetativ nerv tizimi reflekslari qanday bo‘ladi?",
+    "A": "Shartsiz",
+    "B": "Shartli",
+    "C": "Ongli",
+    "D": "Ixtiyoriy",
+    "javob": "A"
+  },
+  {
+    "savol": "Metasimpatik nerv tizimi qayerda joylashgan?",
+    "A": "Ichki organlar devorida",
+    "B": "Orqa miyada",
+    "C": "Bosh miya po‘stlog‘ida",
+    "D": "Vegetativ tugunlardan tashqarida",
+    "javob": "A"
+  },
+  {
+    "savol": "Metasimpatik nerv tizimining asosiy vazifasi nima?",
+    "A": "Ichki organlarning mustaqil faoliyatini boshqarish",
+    "B": "Skelet mushaklarini boshqarish",
+    "C": "Ongli harakatlarni nazorat qilish",
+    "D": "Sensor axborotni qabul qilish",
+    "javob": "A"
+  },
+  {
+    "savol": "Metasimpatik tizim qaysi tizimga kiradi?",
+    "A": "Vegetativ nerv tizimi",
+    "B": "Markaziy nerv tizimi",
+    "C": "Somatik nerv tizimi",
+    "D": "Periferik motor tizim",
+    "javob": "A"
+  },
+  {
+    "savol": "Metasimpatik tizimning eng muhim xususiyati nima?",
+    "A": "Avtonom ishlashi",
+    "B": "Bosh miya orqali boshqarilishi",
+    "C": "Reflektor faoliyat yuritishi",
+    "D": "Sezuvchi funksiyaga ega bo‘lishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Metasimpatik tizim qaysi organ faoliyatida muhim rol o‘ynaydi?",
+    "A": "Ichak peristaltikasida",
+    "B": "Ko‘z harakatida",
+    "C": "Skelet mushak qisqarishida",
+    "D": "Nutq faoliyatida",
+    "javob": "A"
+  },
+  {
+    "savol": "Metasimpatik nerv tizimi qanday reflekslarni amalga oshiradi?",
+    "A": "Lokal reflekslarni",
+    "B": "Shartli reflekslarni",
+    "C": "Shartsiz reflekslarni",
+    "D": "Markaziy reflekslarni",
+    "javob": "A"
+  },
+  {
+    "savol": "Qo'rquv vaqtida bemorda quyidagi kuzatilmaydi?",
+    "A": "Qon bosimi pasayishi",
+    "B": "Harorat oshishi",
+    "C": "Nafas sonining tezlashishi",
+    "D": "Puls tezlashishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Metasimpatik tizimning asosiy strukturasi nima?",
+    "A": "Ichki gangliyalar",
+    "B": "Bosh miya yadrolari",
+    "C": "Orqa miya segmentlari",
+    "D": "Periferik retseptorlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Metasimpatik tizim ko‘proq qaysi tizimda rivojlangan?",
+    "A": "Hazm tizimida",
+    "B": "Nafas tizimida",
+    "C": "Harakat tizimida",
+    "D": "Endokrin tizimda",
+    "javob": "A"
+  },
+  {
+    "savol": "Bemorni sog'ayishga ishontirish va ko'nglini ko'tarish bu",
+    "A": "Motivatsiya",
+    "B": "Yatrogeniya",
+    "C": "Evtanaziya",
+    "D": "Profilaktika",
+    "javob": "A"
+  },
+  {
+    "savol": "Metasimpatik nerv tizimining yana bir nomi qanday?",
+    "A": "Enterik nerv tizimi",
+    "B": "Somatik nerv tizimi",
+    "C": "Markaziy nerv tizimi",
+    "D": "Sensor nerv tizimi",
+    "javob": "A"
+  },
+  {
+    "savol": "Moddalar almashinuvi nima?",
+    "A": "Organizmda modda va energiya almashinuvi jarayoni",
+    "B": "Faqat ovqat hazm qilish jarayoni",
+    "C": "Qon aylanish jarayoni",
+    "D": "Nafas olish jarayoni",
+    "javob": "A"
+  },
+  {
+    "savol": "Metabolizm nechta asosiy bosqichdan iborat?",
+    "A": "2",
+    "B": "3",
+    "C": "4",
+    "D": "5",
+    "javob": "A"
+  },
+  {
+    "savol": "Anabolizm nima?",
+    "A": "Oddiy moddalardan murakkab modda sintezi",
+    "B": "Murakkab moddalarning parchalanishi",
+    "C": "Energiya sarfi kamayishi",
+    "D": "Kislorod yetishmovchiligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Katabolizm nima?",
+    "A": "Murakkab moddalarning oddiy moddalarga parchalanishi",
+    "B": "Oqsil sintezi",
+    "C": "Yog‘ hosil bo‘lishi",
+    "D": "Vitaminlar sintezi",
+    "javob": "A"
+  },
+  {
+    "savol": "Metabolizmda asosiy energiya manbai nima?",
+    "A": "ATF",
+    "B": "DNK",
+    "C": "RNK",
+    "D": "Vitaminlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Oqsillar parchalanganda nima hosil bo‘ladi?",
+    "A": "Aminokislotalar",
+    "B": "Yog‘ kislotalari",
+    "C": "Glyukoza",
+    "D": "Vitaminlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Uglevodlar parchalanishining asosiy mahsuloti nima?",
+    "A": "Glyukoza",
+    "B": "Aminokislota",
+    "C": "Glitserin",
+    "D": "Sut kislotasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Yog‘lar parchalanganda qanday moddalarga ajraladi?",
+    "A": "Yog‘ kislotalari va glitserin",
+    "B": "Aminokislotalar",
+    "C": "Glyukoza",
+    "D": "Nukleotidlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Asosiy almashinuv (bazal metabolizm) nimani bildiradi?",
+    "A": "Tinch holatda energiya sarfi",
+    "B": "Faol harakatdagi energiya sarfi",
+    "C": "Ovqat hazm qilish energiyasi",
+    "D": "Mushak ishiga ketadigan energiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Moddalar almashinuvini boshqarishda qaysi bez muhim rol o‘ynaydi?",
+    "A": "Qalqonsimon bez",
+    "B": "Jigar",
+    "C": "Buyrak",
+    "D": "O‘pka",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi jarayonda energiya ajraladi?",
+    "A": "Katabolizm",
+    "B": "Anabolizm",
+    "C": "Sintez",
+    "D": "Assimilyatsiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi jarayonda energiya sarflanadi?",
+    "A": "Anabolizm",
+    "B": "Katabolizm",
+    "C": "Parchalanish",
+    "D": "Oksidlanish",
+    "javob": "A"
+  },
+  {
+    "savol": "Organizmda energiya o‘lchov birligi nima?",
+    "A": "Kilokaloriya",
+    "B": "Volt",
+    "C": "Paskal",
+    "D": "Amper",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi organ metabolizmda markaziy rol o‘ynaydi?",
+    "A": "Jigar",
+    "B": "Yurak",
+    "C": "O‘pka",
+    "D": "Taloq",
+    "javob": "A"
+  },
+  {
+    "savol": "Glyukoza qaysi shaklda zaxiralanadi?",
+    "A": "Glikogen",
+    "B": "Kletchatka",
+    "C": "Kraxmal",
+    "D": "Laktoza",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi gormon moddalar almashinuvini tezlashtiradi?",
+    "A": "Tiroksin",
+    "B": "Insulin",
+    "C": "Adrenalin",
+    "D": "Melatonin",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi gormonlar termoregulatsiyani kuchaytiradi?",
+    "A": "Tiroid gormonlari (T3, T4), adrenalin, noradrenalin",
+    "B": "Insulin",
+    "C": "Pankreatin",
+    "D": "Paratgormon",
+    "javob": "A"
+  },
+  {
+    "savol": "Qon tomirlarining torayishi yoki kengayishi tana haroratini qanday boshqaradi?",
+    "A": "Isitish yoki sovutish uchun issiqlik almashuvini tartibga soladi",
+    "B": "Isitish uchun xizmat qiladi",
+    "C": "Sovutish uchun xizmat qiladi",
+    "D": "Tanada ortiqcha issiqlikni ushlab qoladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Mushaklarning titrashi tana haroratiga qanday ta’sir qiladi?",
+    "A": "Issiqlik hosil bo‘lishini oshiradi",
+    "B": "Issiqlik hosil bo‘lishini kamaytiradi",
+    "C": "Issiqlikni ushlab qoladi",
+    "D": "Tanani sovutadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Termogenez nima?",
+    "A": "Organizmda issiqlik ishlab chiqarish jarayoni",
+    "B": "Sovuqni saqlash",
+    "C": "Limfa hosil qilish",
+    "D": "Qon bosimi oshishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Tana haroratining normal darajasi nima?",
+    "A": "36,6–37,0°C",
+    "B": "35–36°C",
+    "C": "38–39°C",
+    "D": "34–35°C",
+    "javob": "A"
+  },
+  {
+    "savol": "Termoregulatsiya markazi qayerda joylashgan?",
+    "A": "Gipotalamus",
+    "B": "Gipofiz",
+    "C": "Uzunchoq miya",
+    "D": "Ko'prik",
+    "javob": "A"
+  },
+  {
+    "savol": "Gipotalamus qaysi mexanizmlar orqali tana haroratini boshqaradi?",
+    "A": "Terlash, qon tomirlarini toraytirish yoki kengaytirish, metabolizmni o‘zgartirish",
+    "B": "Qon bosimi o‘zgarishi",
+    "C": "Uyqu va uyg'oqlik ritmi orqali",
+    "D": "Jismoniy faoliyatga qarab",
+    "javob": "A"
+  },
+  {
+    "savol": "Gipotalamusdan tashqari tana haroratini boshqarishda qanday reflekslar ishtirok etadi?",
+    "A": "Ter refleksi, qon tomir refleksi, metabolizm refleksi",
+    "B": "Gemoglobin refleksi",
+    "C": "Mexanoretseptorlar",
+    "D": "Gering Breyer refleksi",
+    "javob": "A"
+  },
+  {
+    "savol": "Sensor sistemaning asosiy qismlari qaysilar?",
+    "A": "Retseptor, afferent nerv tolasi, markaziy apparat",
+    "B": "Mushak, tendon, ligament",
+    "C": "Limfa tugunlari, tomirlar",
+    "D": "Qorinchalar va yurak",
+    "javob": "A"
+  },
+  {
+    "savol": "Retseptor nima vazifani bajaradi?",
+    "A": "Tashqi yoki ichki muhitdan ma’lumot qabul qiladi",
+    "B": "Axborotni bosh miyaga uzatadi",
+    "C": "Bosh miyadan periferiyaga axborot uzatadi",
+    "D": "Bosh miyadan orqa miyaga axborot uzatadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Retseptorlar adaptatsiyasi qaysi omillarga bog‘liq?",
+    "A": "Barcha javoblar to'g'ri",
+    "B": "Stimulyatsiya davomiyligi",
+    "C": "Stimulyatsiya intensivligi",
+    "D": "Retseptor turi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi jarayon sut kislotasi hosil bo‘lishi bilan kechadi?",
+    "A": "Anaerob glykoliz",
+    "B": "Aerob nafas olish",
+    "C": "Krebs sikli",
+    "D": "Oksidlovchi fosforlanish",
+    "javob": "A"
+  },
+  {
+    "savol": "Moddalar almashinuvini qaysi tizimlar birgalikda boshqaradi?",
+    "A": "Nerv va endokrin tiziman",
+    "B": "Nafas va ajratish tizimi",
+    "C": "Mushak va suyak tizimi",
+    "D": "Hazm tizimi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi jarayon energiya talab qiladi?",
+    "A": "Biosintez",
+    "B": "Parchalanish",
+    "C": "Oksidlanish",
+    "D": "Nafas olish",
+    "javob": "A"
+  },
+  {
+    "savol": "Oqsillar asosan qayerda sintezlanadi?",
+    "A": "Ribosomalarda",
+    "B": "Mitoxondriyada",
+    "C": "Lizosomada",
+    "D": "Yadroda",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi modda energiya zaxirasi sifatida eng ko‘p saqlanadi?",
+    "A": "Yog‘lar",
+    "B": "Oqsillar",
+    "C": "Vitaminlar",
+    "D": "Minerallar",
+    "javob": "A"
+  },
+  {
+    "savol": "Moddalar almashinuvida fermentlarning roli nima?",
+    "A": "Kimyoviy reaksiyalarni tezlashtiradi",
+    "B": "Energiya hosil qiladi",
+    "C": "Gormon ishlab chiqaradi",
+    "D": "Qon aylanishni boshqaradi",
+    "javob": "A"
+  }
+]
