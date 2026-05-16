@@ -1,0 +1,1890 @@
+[
+  {
+    "savol": "He has ___ car.",
+    "A": "a",
+    "B": "some",
+    "C": "much",
+    "D": "many",
+    "javob": "A"
+  },
+  {
+    "savol": "She bought some ___.",
+    "A": "apples",
+    "B": "milk",
+    "C": "bread",
+    "D": "sugar",
+    "javob": "A"
+  },
+  {
+    "savol": "I have three ___.",
+    "A": "books",
+    "B": "book",
+    "C": "milk",
+    "D": "water",
+    "javob": "A"
+  },
+  {
+    "savol": "There are ___ students in the room.",
+    "A": "many",
+    "B": "much",
+    "C": "a",
+    "D": "an",
+    "javob": "A"
+  },
+  {
+    "savol": "There are ___ chairs in the hall.",
+    "A": "many",
+    "B": "much",
+    "C": "a",
+    "D": "An",
+    "javob": "A"
+  },
+  {
+    "savol": "We saw ___ animals in the zoo.",
+    "A": "many",
+    "B": "much",
+    "C": "a",
+    "D": "An",
+    "javob": "A"
+  },
+  {
+    "savol": "I don’t have ___ money.",
+    "A": "much",
+    "B": "many",
+    "C": "a",
+    "D": "An",
+    "javob": "A"
+  },
+  {
+    "savol": "There isn’t ___ sugar left.",
+    "A": "much",
+    "B": "many",
+    "C": "a",
+    "D": "An",
+    "javob": "A"
+  },
+  {
+    "savol": "There is ___ milk in the fridge.",
+    "A": "some",
+    "B": "many",
+    "C": "a",
+    "D": "An",
+    "javob": "A"
+  },
+  {
+    "savol": "We need ___ information.",
+    "A": "some",
+    "B": "many",
+    "C": "a",
+    "D": "An",
+    "javob": "A"
+  },
+  {
+    "savol": "I ate ___ bananas.",
+    "A": "some",
+    "B": "much",
+    "C": "a",
+    "D": "An",
+    "javob": "A"
+  },
+  {
+    "savol": "She gave me ___ advice.",
+    "A": "some",
+    "B": "many",
+    "C": "a",
+    "D": "An",
+    "javob": "A"
+  },
+  {
+    "savol": "He bought ___ furniture.",
+    "A": "some",
+    "B": "many",
+    "C": "a",
+    "D": "An",
+    "javob": "A"
+  },
+  {
+    "savol": "She drank ___ water.",
+    "A": "some",
+    "B": "many",
+    "C": "a",
+    "D": "An",
+    "javob": "A"
+  },
+  {
+    "savol": "I need ___ bread.",
+    "A": "some",
+    "B": "many",
+    "C": "a",
+    "D": "An",
+    "javob": "A"
+  },
+  {
+    "savol": "He gave me ___ useful information.",
+    "A": "some",
+    "B": "many",
+    "C": "a",
+    "D": "An",
+    "javob": "A"
+  },
+  {
+    "savol": "One apple → plural form is ___.",
+    "A": "apples",
+    "B": "apple",
+    "C": "appless",
+    "D": "applees",
+    "javob": "A"
+  },
+  {
+    "savol": "One baby → plural form is ___.",
+    "A": "babies",
+    "B": "babys",
+    "C": "baby",
+    "D": "babyes",
+    "javob": "A"
+  },
+  {
+    "savol": "One book → plural form is ___.",
+    "A": "books",
+    "B": "book",
+    "C": "bookses",
+    "D": "bookes",
+    "javob": "A"
+  },
+  {
+    "savol": "One box → plural form is ___.",
+    "A": "boxes",
+    "B": "box",
+    "C": "boxs",
+    "D": "boxies",
+    "javob": "A"
+  },
+  {
+    "savol": "One car → plural form is ___.",
+    "A": "Cars",
+    "B": "car",
+    "C": "carrs",
+    "D": "carss",
+    "javob": "A"
+  },
+  {
+    "savol": "One child → plural form is ___.",
+    "A": "children",
+    "B": "childs",
+    "C": "childes",
+    "D": "child",
+    "javob": "A"
+  },
+  {
+    "savol": "One city → plural form is ___.",
+    "A": "cities",
+    "B": "citys",
+    "C": "city",
+    "D": "citieses",
+    "javob": "A"
+  },
+  {
+    "savol": "I have two ___.",
+    "A": "dogs",
+    "B": "dog",
+    "C": "doges",
+    "D": "dogss",
+    "javob": "A"
+  },
+  {
+    "savol": "One leaf → plural form is ___.",
+    "A": "leaves",
+    "B": "leafs",
+    "C": "leaf",
+    "D": "leafes",
+    "javob": "A"
+  },
+  {
+    "savol": "One man → plural form is ___.",
+    "A": "Men",
+    "B": "mans",
+    "C": "man",
+    "D": "mens",
+    "javob": "A"
+  },
+  {
+    "savol": "One mouse → plural form is ___.",
+    "A": "mice",
+    "B": "mouses",
+    "C": "mouse",
+    "D": "mices",
+    "javob": "A"
+  },
+  {
+    "savol": "There are three ___.",
+    "A": "pens",
+    "B": "pen",
+    "C": "penses",
+    "D": "penes",
+    "javob": "A"
+  },
+  {
+    "savol": "One sheep → plural form is ___.",
+    "A": "sheep",
+    "B": "sheeps",
+    "C": "sheepes",
+    "D": "ship",
+    "javob": "A"
+  },
+  {
+    "savol": "There are many ___.",
+    "A": "students",
+    "B": "student",
+    "C": "studentes",
+    "D": "studentes",
+    "javob": "A"
+  },
+  {
+    "savol": "One tooth → plural form is ___.",
+    "A": "teeth",
+    "B": "tooths",
+    "C": "tooth",
+    "D": "teeths",
+    "javob": "A"
+  },
+  {
+    "savol": "One woman → plural form is ___.",
+    "A": "women",
+    "B": "womans",
+    "C": "woman",
+    "D": "womens",
+    "javob": "A"
+  },
+  {
+    "savol": "There is ___ orange on the table.",
+    "A": "An",
+    "B": "a",
+    "C": "some",
+    "D": "any",
+    "javob": "A"
+  },
+  {
+    "savol": "Do you have ___ water?",
+    "A": "Any",
+    "B": "some",
+    "C": "a",
+    "D": "an",
+    "javob": "A"
+  },
+  {
+    "savol": "Is there ___ sugar in the cup?",
+    "A": "Any",
+    "B": "some",
+    "C": "many",
+    "D": "a",
+    "javob": "A"
+  },
+  {
+    "savol": "Do they have ___ homework?",
+    "A": "Any",
+    "B": "some",
+    "C": "many",
+    "D": "a",
+    "javob": "A"
+  },
+  {
+    "savol": "I don’t have ___ money.",
+    "A": "Any",
+    "B": "some",
+    "C": "many",
+    "D": "a",
+    "javob": "A"
+  },
+  {
+    "savol": "There ___ two apples in the bag.",
+    "A": "Are",
+    "B": "is",
+    "C": "am",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "There ___ many cars on the road.",
+    "A": "Are",
+    "B": "is",
+    "C": "am",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "There ___ a book on the table.",
+    "A": "Is",
+    "B": "are",
+    "C": "am",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "There ___ a cat under the chair.",
+    "A": "Is",
+    "B": "are",
+    "C": "am",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "There ___ a dog in the garden.",
+    "A": "Is",
+    "B": "are",
+    "C": "am",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "I have ___ friends.",
+    "A": "some",
+    "B": "any",
+    "C": "much",
+    "D": "many",
+    "javob": "A"
+  },
+  {
+    "savol": "There are ___ students in the class.",
+    "A": "some",
+    "B": "any",
+    "C": "much",
+    "D": "a",
+    "javob": "A"
+  },
+  {
+    "savol": "We have ___ books at home.",
+    "A": "some",
+    "B": "any",
+    "C": "much",
+    "D": "a",
+    "javob": "A"
+  },
+  {
+    "savol": "She has ___ pencils.",
+    "A": "some",
+    "B": "any",
+    "C": "much",
+    "D": "a",
+    "javob": "A"
+  },
+  {
+    "savol": "There are ___ apples in the basket.",
+    "A": "some",
+    "B": "any",
+    "C": "much",
+    "D": "a",
+    "javob": "A"
+  },
+  {
+    "savol": "They are ___ doctors.",
+    "A": "-",
+    "B": "a",
+    "C": "an",
+    "D": "the",
+    "javob": "A"
+  },
+  {
+    "savol": "He is ___ teacher.",
+    "A": "A",
+    "B": "an",
+    "C": "the",
+    "D": "-",
+    "javob": "A"
+  },
+  {
+    "savol": "It is ___ big house.",
+    "A": "A",
+    "B": "an",
+    "C": "the",
+    "D": "-",
+    "javob": "A"
+  },
+  {
+    "savol": "It is ___ university.",
+    "A": "A",
+    "B": "an",
+    "C": "the",
+    "D": "-",
+    "javob": "A"
+  },
+  {
+    "savol": "He is ___ European student.",
+    "A": "A",
+    "B": "an",
+    "C": "the",
+    "D": "-",
+    "javob": "A"
+  },
+  {
+    "savol": "I ___ a student.",
+    "A": "Am",
+    "B": "is",
+    "C": "are",
+    "D": "Be",
+    "javob": "A"
+  },
+  {
+    "savol": "I ___ not ready.",
+    "A": "Am",
+    "B": "is",
+    "C": "are",
+    "D": "Be",
+    "javob": "A"
+  },
+  {
+    "savol": "This is ___ apple.",
+    "A": "An",
+    "B": "a",
+    "C": "the",
+    "D": "-",
+    "javob": "A"
+  },
+  {
+    "savol": "I have ___ umbrella.",
+    "A": "An",
+    "B": "a",
+    "C": "the",
+    "D": "-",
+    "javob": "A"
+  },
+  {
+    "savol": "He is ___ engineer.",
+    "A": "An",
+    "B": "a",
+    "C": "the",
+    "D": "-",
+    "javob": "A"
+  },
+  {
+    "savol": "She is ___ honest woman.",
+    "A": "An",
+    "B": "a",
+    "C": "the",
+    "D": "-",
+    "javob": "A"
+  },
+  {
+    "savol": "They ___ in the classroom.",
+    "A": "Are",
+    "B": "is",
+    "C": "am",
+    "D": "Be",
+    "javob": "A"
+  },
+  {
+    "savol": "We ___ very happy today.",
+    "A": "Are",
+    "B": "is",
+    "C": "am",
+    "D": "Be",
+    "javob": "A"
+  },
+  {
+    "savol": "She ___ my sister.",
+    "A": "Is",
+    "B": "am",
+    "C": "are",
+    "D": "Be",
+    "javob": "A"
+  },
+  {
+    "savol": "She ___ at home now.",
+    "A": "Is",
+    "B": "am",
+    "C": "are",
+    "D": "Be",
+    "javob": "A"
+  },
+  {
+    "savol": "This ___ my bag.",
+    "A": "Is",
+    "B": "am",
+    "C": "are",
+    "D": "Be",
+    "javob": "A"
+  },
+  {
+    "savol": "I ___ reading a book now.",
+    "A": "Am",
+    "B": "is",
+    "C": "are",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "I ___ drinking tea now.",
+    "A": "Am",
+    "B": "is",
+    "C": "are",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "I ___ not watching TV now.",
+    "A": "Am",
+    "B": "is",
+    "C": "are",
+    "D": "Be",
+    "javob": "A"
+  },
+  {
+    "savol": "They ___ playing outside.",
+    "A": "Are",
+    "B": "is",
+    "C": "am",
+    "D": "Be",
+    "javob": "A"
+  },
+  {
+    "savol": "They ___ running in the park.",
+    "A": "Are",
+    "B": "is",
+    "C": "am",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "We ___ not sleeping now.",
+    "A": "Are",
+    "B": "is",
+    "C": "am",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "What ___ you doing now?",
+    "A": "Are",
+    "B": "is",
+    "C": "am",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "She ___ watching TV.",
+    "A": "Is",
+    "B": "am",
+    "C": "are",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "It ___ raining now.",
+    "A": "Is",
+    "B": "are",
+    "C": "am",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "She ___ doing her homework.",
+    "A": "Is",
+    "B": "are",
+    "C": "am",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "He ___ listening to music.",
+    "A": "Is",
+    "B": "are",
+    "C": "am",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "She ___ not working today.",
+    "A": "Is",
+    "B": "are",
+    "C": "am",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "Are they ___ football now?",
+    "A": "playing",
+    "B": "play",
+    "C": "plays",
+    "D": "played",
+    "javob": "A"
+  },
+  {
+    "savol": "We ___ studying English at the moment.",
+    "A": "Are",
+    "B": "is",
+    "C": "am",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "He ___ eating breakfast now.",
+    "A": "Is",
+    "B": "Are",
+    "C": "am",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "Is she ___ a letter?",
+    "A": "writing",
+    "B": "write",
+    "C": "writes",
+    "D": "wrote",
+    "javob": "A"
+  },
+  {
+    "savol": "We meet ___ 5 o’clock.",
+    "A": "At",
+    "B": "in",
+    "C": "on",
+    "D": "by",
+    "javob": "A"
+  },
+  {
+    "savol": "They are ___ school now.",
+    "A": "At",
+    "B": "in",
+    "C": "on",
+    "D": "to",
+    "javob": "A"
+  },
+  {
+    "savol": "He is sitting ___ the desk.",
+    "A": "At",
+    "B": "in",
+    "C": "on",
+    "D": "under",
+    "javob": "A"
+  },
+  {
+    "savol": "We will meet ___ night.",
+    "A": "At",
+    "B": "in",
+    "C": "on",
+    "D": "by",
+    "javob": "A"
+  },
+  {
+    "savol": "She is ___ the room.",
+    "A": "In",
+    "B": "on",
+    "C": "at",
+    "D": "to",
+    "javob": "A"
+  },
+  {
+    "savol": "He lives ___ London.",
+    "A": "In",
+    "B": "on",
+    "C": "at",
+    "D": "to",
+    "javob": "A"
+  },
+  {
+    "savol": "I was born ___ 2010.",
+    "A": "In",
+    "B": "on",
+    "C": "at",
+    "D": "by",
+    "javob": "A"
+  },
+  {
+    "savol": "My birthday is ___ May.",
+    "A": "In",
+    "B": "on",
+    "C": "at",
+    "D": "by",
+    "javob": "A"
+  },
+  {
+    "savol": "The pen is ___ the box.",
+    "A": "In",
+    "B": "on",
+    "C": "at",
+    "D": "under",
+    "javob": "A"
+  },
+  {
+    "savol": "The keys are ___ the bag.",
+    "A": "In",
+    "B": "on",
+    "C": "at",
+    "D": "under",
+    "javob": "A"
+  },
+  {
+    "savol": "The dog is ___ the garden.",
+    "A": "In",
+    "B": "on",
+    "C": "at",
+    "D": "under",
+    "javob": "A"
+  },
+  {
+    "savol": "The book is ___ the table.",
+    "A": "On",
+    "B": "in",
+    "C": "at",
+    "D": "under",
+    "javob": "A"
+  },
+  {
+    "savol": "The picture is ___ the wall.",
+    "A": "On",
+    "B": "in",
+    "C": "at",
+    "D": "under",
+    "javob": "A"
+  },
+  {
+    "savol": "She arrived ___ Monday.",
+    "A": "On",
+    "B": "in",
+    "C": "at",
+    "D": "by",
+    "javob": "A"
+  },
+  {
+    "savol": "I will see you ___ Friday.",
+    "A": "On",
+    "B": "in",
+    "C": "at",
+    "D": "by",
+    "javob": "A"
+  },
+  {
+    "savol": "The cat is ___ the chair.",
+    "A": "under",
+    "B": "on",
+    "C": "in",
+    "D": "at",
+    "javob": "A"
+  },
+  {
+    "savol": "She ___ just arrived home.",
+    "A": "Has",
+    "B": "have",
+    "C": "is",
+    "D": "was",
+    "javob": "A"
+  },
+  {
+    "savol": "He ___ never been to London.",
+    "A": "Has",
+    "B": "have",
+    "C": "is",
+    "D": "was",
+    "javob": "A"
+  },
+  {
+    "savol": "It ___ rained a lot today.",
+    "A": "Has",
+    "B": "have",
+    "C": "is",
+    "D": "was",
+    "javob": "A"
+  },
+  {
+    "savol": "She ___ finished her work yet.",
+    "A": "Has",
+    "B": "have",
+    "C": "had",
+    "D": "is",
+    "javob": "A"
+  },
+  {
+    "savol": "He ___ not finished his lunch.",
+    "A": "Has",
+    "B": "have",
+    "C": "is",
+    "D": "was",
+    "javob": "A"
+  },
+  {
+    "savol": "She ___ just called me.",
+    "A": "Has",
+    "B": "have",
+    "C": "is",
+    "D": "was",
+    "javob": "A"
+  },
+  {
+    "savol": "He ___ finished his project yet.",
+    "A": "Has",
+    "B": "have",
+    "C": "is",
+    "D": "was",
+    "javob": "A"
+  },
+  {
+    "savol": "I ___ finished my homework.",
+    "A": "have",
+    "B": "has",
+    "C": "had",
+    "D": "am",
+    "javob": "A"
+  },
+  {
+    "savol": "They ___ already eaten dinner.",
+    "A": "have",
+    "B": "has",
+    "C": "had",
+    "D": "do",
+    "javob": "A"
+  },
+  {
+    "savol": "We ___ seen this movie before.",
+    "A": "have",
+    "B": "has",
+    "C": "had",
+    "D": "do",
+    "javob": "A"
+  },
+  {
+    "savol": "I ___ lost my keys.",
+    "A": "have",
+    "B": "has",
+    "C": "had",
+    "D": "am",
+    "javob": "A"
+  },
+  {
+    "savol": "They ___ gone to school.",
+    "A": "have",
+    "B": "has",
+    "C": "had",
+    "D": "do",
+    "javob": "A"
+  },
+  {
+    "savol": "___ you ever been to Paris?",
+    "A": "Have",
+    "B": "Has",
+    "C": "Had",
+    "D": "Do",
+    "javob": "A"
+  },
+  {
+    "savol": "We ___ lived here for 5 years.",
+    "A": "have",
+    "B": "has",
+    "C": "had",
+    "D": "are",
+    "javob": "A"
+  },
+  {
+    "savol": "I ___ never seen such a beautiful place.",
+    "A": "have",
+    "B": "has",
+    "C": "had",
+    "D": "am",
+    "javob": "A"
+  },
+  {
+    "savol": "They ___ already left the house.",
+    "A": "have",
+    "B": "has",
+    "C": "had",
+    "D": "do",
+    "javob": "A"
+  },
+  {
+    "savol": "She ___ speak three languages.",
+    "A": "Can",
+    "B": "must",
+    "C": "may",
+    "D": "have to",
+    "javob": "A"
+  },
+  {
+    "savol": "He ___ go to the doctor.",
+    "A": "has to",
+    "B": "may",
+    "C": "can",
+    "D": "is",
+    "javob": "A"
+  },
+  {
+    "savol": "We ___ leave now or we will be late.",
+    "A": "have to",
+    "B": "may",
+    "C": "can",
+    "D": "do",
+    "javob": "A"
+  },
+  {
+    "savol": "I ___ go to school every day.",
+    "A": "have to",
+    "B": "may",
+    "C": "can",
+    "D": "must",
+    "javob": "A"
+  },
+  {
+    "savol": "We ___ wear uniforms at school.",
+    "A": "have to",
+    "B": "may",
+    "C": "can",
+    "D": "is",
+    "javob": "A"
+  },
+  {
+    "savol": "She ___ be at home now.",
+    "A": "May",
+    "B": "must",
+    "C": "have to",
+    "D": "do",
+    "javob": "A"
+  },
+  {
+    "savol": "It ___ rain today.",
+    "A": "May",
+    "B": "must",
+    "C": "have to",
+    "D": "do",
+    "javob": "A"
+  },
+  {
+    "savol": "___ I come in?",
+    "A": "May",
+    "B": "Must",
+    "C": "Have to",
+    "D": "Do",
+    "javob": "A"
+  },
+  {
+    "savol": "He ___ be tired after work.",
+    "A": "May",
+    "B": "must",
+    "C": "can",
+    "D": "have to",
+    "javob": "A"
+  },
+  {
+    "savol": "They ___ be at the cinema.",
+    "A": "May",
+    "B": "must",
+    "C": "have to",
+    "D": "do",
+    "javob": "A"
+  },
+  {
+    "savol": "You ___ wear a seatbelt in a car.",
+    "A": "must",
+    "B": "may",
+    "C": "can",
+    "D": "will",
+    "javob": "A"
+  },
+  {
+    "savol": "I ___ finish my homework today.",
+    "A": "must",
+    "B": "may",
+    "C": "can",
+    "D": "is",
+    "javob": "A"
+  },
+  {
+    "savol": "Students ___ not use phones in class.",
+    "A": "must",
+    "B": "may",
+    "C": "can",
+    "D": "do",
+    "javob": "A"
+  },
+  {
+    "savol": "You ___ study hard to pass the exam.",
+    "A": "must",
+    "B": "may",
+    "C": "can",
+    "D": "will",
+    "javob": "A"
+  },
+  {
+    "savol": "You ___ not smoke here.",
+    "A": "must",
+    "B": "may",
+    "C": "can",
+    "D": "do",
+    "javob": "A"
+  },
+  {
+    "savol": "You ___ respect your parents.",
+    "A": "must",
+    "B": "may",
+    "C": "can",
+    "D": "do",
+    "javob": "A"
+  },
+  {
+    "savol": "___ is your name?",
+    "A": "What",
+    "B": "Where",
+    "C": "Who",
+    "D": "How",
+    "javob": "A"
+  },
+  {
+    "savol": "___ are you doing?",
+    "A": "What",
+    "B": "Where",
+    "C": "When",
+    "D": "Why",
+    "javob": "A"
+  },
+  {
+    "savol": "___ time is it?",
+    "A": "What",
+    "B": "Where",
+    "C": "Who",
+    "D": "How",
+    "javob": "A"
+  },
+  {
+    "savol": "___ is the capital of Uzbekistan?",
+    "A": "What",
+    "B": "Where",
+    "C": "Who",
+    "D": "When",
+    "javob": "A"
+  },
+  {
+    "savol": "___ do you go to school?",
+    "A": "When",
+    "B": "Where",
+    "C": "Who",
+    "D": "What",
+    "javob": "A"
+  },
+  {
+    "savol": "___ is your birthday?",
+    "A": "When",
+    "B": "What",
+    "C": "Who",
+    "D": "Where",
+    "javob": "A"
+  },
+  {
+    "savol": "___ do you usually eat breakfast?",
+    "A": "When",
+    "B": "Where",
+    "C": "Why",
+    "D": "Who",
+    "javob": "A"
+  },
+  {
+    "savol": "___ do you live?",
+    "A": "Where",
+    "B": "What",
+    "C": "Who",
+    "D": "When",
+    "javob": "A"
+  },
+  {
+    "savol": "___ are you from?",
+    "A": "Where",
+    "B": "What",
+    "C": "Who",
+    "D": "When",
+    "javob": "A"
+  },
+  {
+    "savol": "___ is your teacher?",
+    "A": "Who",
+    "B": "What",
+    "C": "Where",
+    "D": "When",
+    "javob": "A"
+  },
+  {
+    "savol": "___ is your best friend?",
+    "A": "Who",
+    "B": "What",
+    "C": "Where",
+    "D": "When",
+    "javob": "A"
+  },
+  {
+    "savol": "___ are you talking to?",
+    "A": "Who",
+    "B": "What",
+    "C": "Where",
+    "D": "When",
+    "javob": "A"
+  },
+  {
+    "savol": "___ is this book?",
+    "A": "Whose",
+    "B": "Who",
+    "C": "What",
+    "D": "Where",
+    "javob": "A"
+  },
+  {
+    "savol": "___ did you come late?",
+    "A": "Why",
+    "B": "Where",
+    "C": "Who",
+    "D": "What",
+    "javob": "A"
+  },
+  {
+    "savol": "___ do you study English?",
+    "A": "Why",
+    "B": "Where",
+    "C": "Who",
+    "D": "When",
+    "javob": "A"
+  },
+  {
+    "savol": "___ do you like English?",
+    "A": "Why",
+    "B": "Where",
+    "C": "Who",
+    "D": "When",
+    "javob": "A"
+  },
+  {
+    "savol": "She is the ___ student.",
+    "A": "Best",
+    "B": "better",
+    "C": "good",
+    "D": "Well",
+    "javob": "A"
+  },
+  {
+    "savol": "My bag is ___ than yours.",
+    "A": "bigger",
+    "B": "big",
+    "C": "biggest",
+    "D": "more big",
+    "javob": "A"
+  },
+  {
+    "savol": "The sky is ___.",
+    "A": "Blue",
+    "B": "bluer",
+    "C": "bluest",
+    "D": "most blue",
+    "javob": "A"
+  },
+  {
+    "savol": "This exercise is ___ than the last one.",
+    "A": "easier",
+    "B": "easy",
+    "C": "easiest",
+    "D": "more easy",
+    "javob": "A"
+  },
+  {
+    "savol": "This car is ___ than that one.",
+    "A": "faster",
+    "B": "fast",
+    "C": "fastest",
+    "D": "more fast",
+    "javob": "A"
+  },
+  {
+    "savol": "He runs ___ than me.",
+    "A": "faster",
+    "B": "fast",
+    "C": "fastest",
+    "D": "more fast",
+    "javob": "A"
+  },
+  {
+    "savol": "This test is ___ than yesterday’s.",
+    "A": "harder",
+    "B": "hard",
+    "C": "hardest",
+    "D": "more hard",
+    "javob": "A"
+  },
+  {
+    "savol": "It is the ___ day of the year.",
+    "A": "hottest",
+    "B": "hot",
+    "C": "hotter",
+    "D": "more hot",
+    "javob": "A"
+  },
+  {
+    "savol": "This book is ___ interesting than that one.",
+    "A": "more",
+    "B": "most",
+    "C": "many",
+    "D": "Much",
+    "javob": "A"
+  },
+  {
+    "savol": "My house is ___ than yours.",
+    "A": "more expensive",
+    "B": "expensive",
+    "C": "most expensive",
+    "D": "Expensiver",
+    "javob": "A"
+  },
+  {
+    "savol": "He is ___ than his brother.",
+    "A": "more intelligent",
+    "B": "intelligent",
+    "C": "most intelligent",
+    "D": "Intelligenter",
+    "javob": "A"
+  },
+  {
+    "savol": "This is the ___ solution among all.",
+    "A": "most efficient",
+    "B": "more efficient",
+    "C": "efficient",
+    "D": "Efficiently",
+    "javob": "A"
+  },
+  {
+    "savol": "He is by far the ___ in the team.",
+    "A": "strongest",
+    "B": "stronger",
+    "C": "strong",
+    "D": "most strong",
+    "javob": "A"
+  },
+  {
+    "savol": "He is the ___ boy in class.",
+    "A": "tallest",
+    "B": "tall",
+    "C": "taller",
+    "D": "most tall",
+    "javob": "A"
+  },
+  {
+    "savol": "She is ___ girl in the class.",
+    "A": "the most beautiful",
+    "B": "more beautiful",
+    "C": "beautiful",
+    "D": "Beautifuller",
+    "javob": "A"
+  },
+  {
+    "savol": "Of the three, she is ___ qualified.",
+    "A": "the most qualified",
+    "B": "more qualified",
+    "C": "most qualified",
+    "D": "much qualified",
+    "javob": "A"
+  },
+  {
+    "savol": "I ___ call you tomorrow.",
+    "A": "Will",
+    "B": "wills",
+    "C": "go",
+    "D": "Going",
+    "javob": "A"
+  },
+  {
+    "savol": "She ___ visit us next week.",
+    "A": "Will",
+    "B": "will be",
+    "C": "is",
+    "D": "Are",
+    "javob": "A"
+  },
+  {
+    "savol": "They ___ travel to London next month.",
+    "A": "Will",
+    "B": "goes",
+    "C": "went",
+    "D": "Going",
+    "javob": "A"
+  },
+  {
+    "savol": "He ___ help you later.",
+    "A": "Will",
+    "B": "does",
+    "C": "did",
+    "D": "Is",
+    "javob": "A"
+  },
+  {
+    "savol": "We ___ start the lesson soon.",
+    "A": "Will",
+    "B": "are",
+    "C": "is",
+    "D": "Do",
+    "javob": "A"
+  },
+  {
+    "savol": "It ___ rain tomorrow.",
+    "A": "Will",
+    "B": "is",
+    "C": "are",
+    "D": "Be",
+    "javob": "A"
+  },
+  {
+    "savol": "She ___ finish her homework tomorrow.",
+    "A": "Will",
+    "B": "is",
+    "C": "are",
+    "D": "Do",
+    "javob": "A"
+  },
+  {
+    "savol": "They ___ play football next Sunday.",
+    "A": "Will",
+    "B": "play",
+    "C": "played",
+    "D": "Playing",
+    "javob": "A"
+  },
+  {
+    "savol": "He ___ be a doctor in the future.",
+    "A": "Will",
+    "B": "is",
+    "C": "are",
+    "D": "Do",
+    "javob": "A"
+  },
+  {
+    "savol": "What ___ you do tomorrow?",
+    "A": "Will",
+    "B": "do",
+    "C": "does",
+    "D": "Did",
+    "javob": "A"
+  },
+  {
+    "savol": "We ___ meet at 5 pm.",
+    "A": "Will",
+    "B": "are",
+    "C": "is",
+    "D": "Do",
+    "javob": "A"
+  },
+  {
+    "savol": "I think it ___ be sunny.",
+    "A": "Will",
+    "B": "is",
+    "C": "are",
+    "D": "Do",
+    "javob": "A"
+  },
+  {
+    "savol": "They ___ buy a new car next year.",
+    "A": "Will",
+    "B": "buy",
+    "C": "bought",
+    "D": "Buying",
+    "javob": "A"
+  },
+  {
+    "savol": "I ___ not forget your birthday.",
+    "A": "won’t",
+    "B": "will",
+    "C": "do",
+    "D": "Does",
+    "javob": "A"
+  },
+  {
+    "savol": "She ___ not come to school tomorrow.",
+    "A": "won’t",
+    "B": "will",
+    "C": "don’t",
+    "D": "doesn’t",
+    "javob": "A"
+  },
+  {
+    "savol": "The ___ pumps blood in the body.",
+    "A": "heart",
+    "B": "lungs",
+    "C": "liver",
+    "D": "Brain",
+    "javob": "A"
+  },
+  {
+    "savol": "We breathe with our ___.",
+    "A": "lungs",
+    "B": "heart",
+    "C": "kidneys",
+    "D": "Stomach",
+    "javob": "A"
+  },
+  {
+    "savol": "The ___ helps to think.",
+    "A": "brain",
+    "B": "heart",
+    "C": "lungs",
+    "D": "Liver",
+    "javob": "A"
+  },
+  {
+    "savol": "The ___ filters blood.",
+    "A": "kidneys",
+    "B": "heart",
+    "C": "lungs",
+    "D": "Brain",
+    "javob": "A"
+  },
+  {
+    "savol": "Food goes to the ___.",
+    "A": "stomach",
+    "B": "heart",
+    "C": "brain",
+    "D": "Lungs",
+    "javob": "A"
+  },
+  {
+    "savol": "We see with our ___.",
+    "A": "eyes",
+    "B": "ears",
+    "C": "nose",
+    "D": "Hands",
+    "javob": "A"
+  },
+  {
+    "savol": "We hear with our ___.",
+    "A": "ears",
+    "B": "eyes",
+    "C": "skin",
+    "D": "Mouth",
+    "javob": "A"
+  },
+  {
+    "savol": "The ___ helps us smell.",
+    "A": "nose",
+    "B": "eyes",
+    "C": "ears",
+    "D": "Tongue",
+    "javob": "A"
+  },
+  {
+    "savol": "The liver helps to ___.",
+    "A": "clean blood",
+    "B": "see",
+    "C": "hear",
+    "D": "Run",
+    "javob": "A"
+  },
+  {
+    "savol": "The heart is in the ___.",
+    "A": "chest",
+    "B": "leg",
+    "C": "arm",
+    "D": "Head",
+    "javob": "A"
+  },
+  {
+    "savol": "___ is the largest organ.",
+    "A": "skin",
+    "B": "heart",
+    "C": "liver",
+    "D": "Brain",
+    "javob": "A"
+  },
+  {
+    "savol": "We taste with our ___.",
+    "A": "tongue",
+    "B": "nose",
+    "C": "ear",
+    "D": "Eye",
+    "javob": "A"
+  },
+  {
+    "savol": "The brain controls the ___.",
+    "A": "body",
+    "B": "heart",
+    "C": "lungs",
+    "D": "blood only",
+    "javob": "A"
+  },
+  {
+    "savol": "We use bones to ___.",
+    "A": "support body",
+    "B": "breathe",
+    "C": "see",
+    "D": "Hear",
+    "javob": "A"
+  },
+  {
+    "savol": "The lungs take in ___.",
+    "A": "oxygen",
+    "B": "water",
+    "C": "food",
+    "D": "Blood",
+    "javob": "A"
+  },
+  {
+    "savol": "The stomach helps to ___ food.",
+    "A": "digest",
+    "B": "see",
+    "C": "hear",
+    "D": "Run",
+    "javob": "A"
+  },
+  {
+    "savol": "A person who treats patients is a ___.",
+    "A": "doctor",
+    "B": "teacher",
+    "C": "driver",
+    "D": "Farmer",
+    "javob": "A"
+  },
+  {
+    "savol": "A place where sick people are treated is a ___.",
+    "A": "hospital",
+    "B": "school",
+    "C": "bank",
+    "D": "Shop",
+    "javob": "A"
+  },
+  {
+    "savol": "Medicine is used to ___.",
+    "A": "treat illness",
+    "B": "cook food",
+    "C": "drive cars",
+    "D": "build houses",
+    "javob": "A"
+  },
+  {
+    "savol": "A ___ checks your teeth.",
+    "A": "dentist",
+    "B": "surgeon",
+    "C": "nurse",
+    "D": "Driver",
+    "javob": "A"
+  },
+  {
+    "savol": "A person who helps doctors is a ___.",
+    "A": "nurse",
+    "B": "teacher",
+    "C": "pilot",
+    "D": "Farmer",
+    "javob": "A"
+  },
+  {
+    "savol": "You go to a ___ when you are ill.",
+    "A": "doctor",
+    "B": "driver",
+    "C": "cook",
+    "D": "Artist",
+    "javob": "A"
+  },
+  {
+    "savol": "A ___ performs operations.",
+    "A": "surgeon",
+    "B": "nurse",
+    "C": "teacher",
+    "D": "Farmer",
+    "javob": "A"
+  },
+  {
+    "savol": "A ___ is used to listen to heart sounds.",
+    "A": "stethoscope",
+    "B": "thermometer",
+    "C": "syringe",
+    "D": "Bandage",
+    "javob": "A"
+  },
+  {
+    "savol": "A ___ measures body temperature.",
+    "A": "thermometer",
+    "B": "stethoscope",
+    "C": "syringe",
+    "D": "Mask",
+    "javob": "A"
+  },
+  {
+    "savol": "A ___ is used to give injections.",
+    "A": "syringe",
+    "B": "bandage",
+    "C": "tablet",
+    "D": "Mask",
+    "javob": "A"
+  },
+  {
+    "savol": "A ___ covers a wound.",
+    "A": "bandage",
+    "B": "stethoscope",
+    "C": "thermometer",
+    "D": "Syringe",
+    "javob": "A"
+  },
+  {
+    "savol": "A ___ is a place to buy medicine.",
+    "A": "pharmacy",
+    "B": "hospital",
+    "C": "school",
+    "D": "Bank",
+    "javob": "A"
+  },
+  {
+    "savol": "A person who studies diseases is a ___.",
+    "A": "pathologist",
+    "B": "teacher",
+    "C": "driver",
+    "D": "Painter",
+    "javob": "A"
+  },
+  {
+    "savol": "A ___ is used to check blood pressure.",
+    "A": "sphygmomanometer",
+    "B": "stethoscope",
+    "C": "syringe",
+    "D": "Thermometer",
+    "javob": "A"
+  },
+  {
+    "savol": "A ___ studies bones.",
+    "A": "orthopedist",
+    "B": "dentist",
+    "C": "nurse",
+    "D": "Driver",
+    "javob": "A"
+  },
+  {
+    "savol": "A ___ is a serious disease that spreads quickly.",
+    "A": "epidemic",
+    "B": "headache",
+    "C": "fever",
+    "D": "Cold",
+    "javob": "A"
+  },
+  {
+    "savol": "We ___ dinner at 8 pm (eat).",
+    "A": "ate",
+    "B": "eated",
+    "C": "eats",
+    "D": "eating",
+    "javob": "A"
+  },
+  {
+    "savol": "She ___ a new dress yesterday (buy).",
+    "A": "bought",
+    "B": "buyed",
+    "C": "buys",
+    "D": "buying",
+    "javob": "A"
+  },
+  {
+    "savol": "He ___ a car last month (buy).",
+    "A": "bought",
+    "B": "buyed",
+    "C": "buys",
+    "D": "buying",
+    "javob": "A"
+  },
+  {
+    "savol": "He ___ the window (break).",
+    "A": "broke",
+    "B": "breaked",
+    "C": "breaks",
+    "D": "breaking",
+    "javob": "A"
+  },
+  {
+    "savol": "They ___ a new house (build).",
+    "A": "built",
+    "B": "builded",
+    "C": "builds",
+    "D": "building",
+    "javob": "A"
+  },
+  {
+    "savol": "She ___ home late (come).",
+    "A": "came",
+    "B": "comed",
+    "C": "comes",
+    "D": "coming",
+    "javob": "A"
+  },
+  {
+    "savol": "He ___ his homework yesterday (do).",
+    "A": "did",
+    "B": "doed",
+    "C": "does",
+    "D": "doing",
+    "javob": "A"
+  },
+  {
+    "savol": "I ___ not go to school yesterday.",
+    "A": "did",
+    "B": "do",
+    "C": "does",
+    "D": "doing",
+    "javob": "A"
+  },
+  {
+    "savol": "He ___ not finish his work.",
+    "A": "did",
+    "B": "do",
+    "C": "does",
+    "D": "doing",
+    "javob": "A"
+  },
+  {
+    "savol": "She ___ very tired (feel).",
+    "A": "felt",
+    "B": "feeled",
+    "C": "feels",
+    "D": "feeling",
+    "javob": "A"
+  },
+  {
+    "savol": "We ___ English last year (learn).",
+    "A": "learned",
+    "B": "learnted",
+    "C": "learns",
+    "D": "learning",
+    "javob": "A"
+  },
+  {
+    "savol": "He ___ music last night (listen).",
+    "A": "listened",
+    "B": "listen",
+    "C": "listens",
+    "D": "listening",
+    "javob": "A"
+  },
+  {
+    "savol": "They ___ in Tashkent last year (live).",
+    "A": "lived",
+    "B": "live",
+    "C": "lives",
+    "D": "living",
+    "javob": "A"
+  },
+  {
+    "savol": "I ___ my keys (lose).",
+    "A": "lost",
+    "B": "losed",
+    "C": "loses",
+    "D": "losing",
+    "javob": "A"
+  },
+  {
+    "savol": "I ___ a cake yesterday (make).",
+    "A": "made",
+    "B": "maked",
+    "C": "makes",
+    "D": "making",
+    "javob": "A"
+  },
+  {
+    "savol": "I ___ my friend yesterday (meet).",
+    "A": "met",
+    "B": "meet",
+    "C": "meeted",
+    "D": "meeting",
+    "javob": "A"
+  },
+  {
+    "savol": "They ___ football last week (play).",
+    "A": "played",
+    "B": "play",
+    "C": "plays",
+    "D": "playing",
+    "javob": "A"
+  },
+  {
+    "savol": "It ___ yesterday (rain).",
+    "A": "rained",
+    "B": "rainned",
+    "C": "rains",
+    "D": "raining",
+    "javob": "A"
+  },
+  {
+    "savol": "I ___ very fast yesterday (run).",
+    "A": "ran",
+    "B": "runned",
+    "C": "runs",
+    "D": "running",
+    "javob": "A"
+  },
+  {
+    "savol": "She ___ a book (read).",
+    "A": "read",
+    "B": "readed",
+    "C": "reads",
+    "D": "reading",
+    "javob": "A"
+  },
+  {
+    "savol": "They ___ a song (sing).",
+    "A": "sang",
+    "B": "singed",
+    "C": "sings",
+    "D": "singing",
+    "javob": "A"
+  },
+  {
+    "savol": "We ___ a movie yesterday (see).",
+    "A": "saw",
+    "B": "seed",
+    "C": "sees",
+    "D": "seeing",
+    "javob": "A"
+  },
+  {
+    "savol": "He ___ a letter (send).",
+    "A": "sent",
+    "B": "sended",
+    "C": "sends",
+    "D": "sending",
+    "javob": "A"
+  },
+  {
+    "savol": "Did she ___ English yesterday?",
+    "A": "speak",
+    "B": "speaks",
+    "C": "speaking",
+    "D": "spoke",
+    "javob": "A"
+  },
+  {
+    "savol": "I ___ him yesterday (tell).",
+    "A": "told",
+    "B": "telled",
+    "C": "tells",
+    "D": "telling",
+    "javob": "A"
+  },
+  {
+    "savol": "We ___ our grandparents last weekend (visit).",
+    "A": "visited",
+    "B": "visit",
+    "C": "visits",
+    "D": "visiting",
+    "javob": "A"
+  },
+  {
+    "savol": "They ___ TV last night (watch).",
+    "A": "watched",
+    "B": "watch",
+    "C": "watches",
+    "D": "watching",
+    "javob": "A"
+  },
+  {
+    "savol": "I ___ to school yesterday (go).",
+    "A": "went",
+    "B": "goed",
+    "C": "goes",
+    "D": "going",
+    "javob": "A"
+  },
+  {
+    "savol": "She ___ to school yesterday (go).",
+    "A": "went",
+    "B": "goes",
+    "C": "going",
+    "D": "go",
+    "javob": "A"
+  },
+  {
+    "savol": "She ___ a letter last night (write).",
+    "A": "wrote",
+    "B": "writed",
+    "C": "writes",
+    "D": "writing",
+    "javob": "A"
+  }
+]
