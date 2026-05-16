@@ -1,0 +1,1986 @@
+[
+  {
+    "savol": "Autopsiya nima?",
+    "A": "Murdadan preparat olib tekshirib o`rganish",
+    "B": "Tirik organizm to`qima va organlarini tekshirish",
+    "C": "Moslashish",
+    "D": "Hujayralar, hujayralararo moddaning ultrastrukturalarining buzilishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Biopsiya nima?",
+    "A": "Tirik organizm to`qima va organlarini tekshirish uchun namuna olish",
+    "B": "Murdadan preparat olib tekshirib o`rganish",
+    "C": "Moslashish",
+    "D": "Hujayra lar, hujayra lararo moddaning ultrastrukturalarining buzilishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Alteratsiya nima?",
+    "A": "Organ va to`qimalar, hujayra larning strukturasini buzilishi tushuniladi",
+    "B": "Tirik organizm to`qima va organlarini tekshirish",
+    "C": "Bu bir turdagi moddadan boshqa turdagi moddaning sintezlanishi",
+    "D": "Moslashish",
+    "javob": "A"
+  },
+  {
+    "savol": "Adaptatsiya nima?",
+    "A": "Moslashish",
+    "B": "Organ va to`qimalar, hujayra larning strukturasini buzilishi tushuniladi",
+    "C": "Bu bir turdagi moddadan boshqa turdagi moddaning sintezlanishi",
+    "D": "Tirik organizm to`qima va organlarini tekshirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Distrofiya nima?",
+    "A": "Bu oziqlanishni buzilishi oqibatida ya’ni modda almashinuvining metabolizmning izdan chiqishi oqibatida organ, to`qima va hujayra larda paydo bo`lgan morfologik o`zgarishlar",
+    "B": "Tirik organizm to`qima va organlarini tekshirish",
+    "C": "Moddalar almashinuv maxsulotlari qon va limfaning hujayra va hujayra lararo moddaga ortiqcha shimilishi",
+    "D": "Bu bir turdagi moddadan boshqa turdagi moddaning sintezlanishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Dekompozitsiya nima?",
+    "A": "Hujayralar, hujayralararo moddaning ultrastrukturalarining buzilishi",
+    "B": "Moddalar almashinuv maxsulotlari qon va limfaning hujayra va hujayralararo moddaga ortiqcha shimilishi",
+    "C": "Bu oziqlanishni buzilishi oqibatida ya’ni modda almashinuvining metabolizmning izdan chiqishi oqibatida organ, to`qima va hujayra larda paydo bo`lgan morfologik o`zgarishlar",
+    "D": "Bu bir turdagi moddadan boshqa turdagi moddaning sintezlanishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Transformatsiya nima?",
+    "A": "Bu bir turdagi moddadan boshqa turdagi moddaning sintezlanishi",
+    "B": "Hujayralar, hujayralararo moddaning ultrastrukturalarining buzilishi",
+    "C": "Bu oziqlanishni buzilishi oqibatida ya’ni modda almashinuvining metabolizmning izdan chiqishi oqibatida organ, to`qima va hujayra larda paydo bo`lgan morfologik o`zgarishlar",
+    "D": "Tirik organizm to`qima va organlarini tekshirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Infiltratsiya nima?",
+    "A": "Moddalar almashinuv mahsulotlari qon va limfaning hujayra va hujayralararo moddaga ortiqcha shimilishi",
+    "B": "Bu bir turdagi moddadan boshqa turdagi moddaning sintezlanishi",
+    "C": "Tirik organizm to`qima va organlarini tekshirish",
+    "D": "Bu oziqlanishni buzilishi oqibatida ya’ni modda almashinuvining metabolizmning izdan chiqishi oqibatida organ, to`qima va hujayra larda paydo bo`lgan morfologik o`zgarishlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Buzilgan sintez nima?",
+    "A": "Normada uchramaydigan moddalarning sintezlanishi",
+    "B": "Bu bir turdagi moddadan boshqa turdagi moddaning sintezlanishi",
+    "C": "Tirik organizm to`qima va organlarini tekshirish",
+    "D": "Bu oziqlanishni buzilishi oqibatida ya’ni modda almashinuvining metabolizmning izdan chiqishi oqibatida organ, to`qima va hujayra larda paydo bo`lgan morfologik o`zgarishlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Disproteinoz nima?",
+    "A": "Oqsil distrofiyasi",
+    "B": "Yog` distrofiyasi",
+    "C": "Normada uchramaydigan moddalarning sintezlanishi",
+    "D": "Muguzlanishningkuchayib ketishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Lipidoz nima?",
+    "A": "Yog` distrofiyasi",
+    "B": "Oqsil distrofiyasi",
+    "C": "Normada uchramaydigan moddalarning sintezlanishi",
+    "D": "Muguzlanishningkuchayib ketishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Giperkeratoz nima?",
+    "A": "Muguzlanishningkuchayib ketishi",
+    "B": "Tirik organizm to`qima va organlarini tekshirish",
+    "C": "Yog` distrofiyasi",
+    "D": "Hujayra lar, hujayra lararo moddaning ultrastrukturalarining buzilishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Leykoplakiya nima?",
+    "A": "Yassi muguzlanmaydigan epiteliyda shilliq qavatlar epiteliysida muguzlanishning paydo bo’lishi",
+    "B": "Hujayralarda tug`ma xolda fermentlar etishmasligi va metabolitlar to`planib shishib kattalashishi, to`planishi kasalligi",
+    "C": "Kapilyarning ichki devoridan to`qima hujayra sining tashqi devorigacha bo`lgan chegaraga aytiladi",
+    "D": "Hujayralar, hujayralararo moddaning ultrastrukturalarining buzilishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ixtioz nima?",
+    "A": "Agar yangi tug`ilgan chaqaloq terisida ko`p miqdorda keratin paydo bo`lib tug’ilsa teri baliq tangasiga o`xshab qoladi",
+    "B": "Hujayralarda tug`ma xolda fermentlar yetishmasligi va metabolitlar to`planib shishib kattalashishi, to`planishi kasalligi",
+    "C": "Kapilyarning ichki devoridan to`qima hujayra sining tashqi devorigacha bo`lgan chegaraga aytiladi",
+    "D": "Hujayralar, hujayralararo moddaning ultrastrukturalarining buzilishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Mukoid bukish nima?",
+    "A": "Stroma tomir distrofiyasining boshlang’ich bosqichi bo`lib bunda biriktiruvchi to`qimada glikozaminoglikanlar miqdori oshib ketadi",
+    "B": "Biriktiruvchi to`qimaning tolali oqsillari, ularning orasiga qondan albumin, glabulin oqsillari shimiladi. Ular ge bilan bulyalganda fibringa o`xshash bo`yaladi",
+    "C": "Bu biriktiruvchi to`qimada gialin tog’ayiga o`xshash moda hosil bo’lishi bilan xarakterlanadi",
+    "D": "Amiloid moddasining biriktiruvchi to`qimada hosil bo’lishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Amiloidoz nima?",
+    "A": "amiloid moddasining biriktiruvchi to`qimada hosil bo’lishi",
+    "B": "stroma tomir distrofiyasining boshlang’ich bosqichi bo`lib bunda biriktiruvchi to`qimada glikozaminoglikanlar miqdori oshib ketadi",
+    "C": "biriktiruvchi to`qimaning tolali oqsillari, ularning orasiga qondan albumin, glabulin oqsillari shimiladi. Ular GE bilan bulyalganda fibringa o`xshash bo`yaladi",
+    "D": "bu biriktiruvchi to`qimada gialin togayiga o`xshash moda hosil bulishi bilan xarakterlanadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Gialinoz nima?",
+    "A": "Bu biriktiruvchi to`qimada gialin tog’ayiga o`xshash moda hosil bulishi bilan xarakterlanadi",
+    "B": "Amiloid moddasining biriktiruvchi to`qimada hosil bulishi",
+    "C": "Biriktiruvchi to`qimaning tolali oqsillari, ularning orasiga qondan albumin, glabulin oqsillari shimiladi. Ular GE bilan bulyalganda fibringa o`xshash bo`yaladi",
+    "D": "Stroma tomir distrofiyasining boshlangich bosqichi bo`lib bunda biriktiruvchi to`qimada glikozaminoglikanlar miqdori oshib ketadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Fibrinoid bukish nima?",
+    "A": "Biriktiruvchi to`qimaning tolali oqsillari, ularning orasiga qondan albumin, glabulin oqsillari shimiladi. Ular GE bilan bulyalganda fibringa o`xshash bo`yaladi",
+    "B": "Bu biriktiruvchi to`qimada gialin togayiga o`xshash moda hosil bulishi bilan xarakterlanadi",
+    "C": "Amiloid moddasining biriktiruvchi to`qimada hosil bulishi",
+    "D": "Stroma tomir distrofiyasining boshlangich bosqichi bo`lib bunda biriktiruvchi to`qimada glikozaminoglikanlar miqdori oshib ketadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Xromaprotoid nima?",
+    "A": "Murakkab pigmentli oqsil. Mn: gemoglobin Hb, mioglobin Mb",
+    "B": "Gemning oksidlangan shakli. Oksigemoglobinni gidrolizlanishidan hosil bo`ladi",
+    "C": "Bu biriktiruvchi to`qimada gialin togayiga o`xshash moda hosil bulishi bilan xarakterlanadi",
+    "D": "Stroma tomir distrofiyasining boshlangich bosqichi bo`lib bunda biriktiruvchi to`qimada glikozaminoglikanlar miqdori oshib ketadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Gemoliz nima?",
+    "A": "Eritrotsitlarning parchalanishi",
+    "B": "Bu eritrotsitlarni fagotsitoz kilinishi",
+    "C": "Bu Fe li oqsil bo`lib, uzida 23% Fe tutadi",
+    "D": "Bu gemni parchalanishidan hosil bo`lgan ferritinning polimeridir",
+    "javob": "A"
+  },
+  {
+    "savol": "Ferritin nima?",
+    "A": "Fe li oqsil bo`lib, uzida 23% Fe tutadi",
+    "B": "Eritrotsitlarning parchalanishi",
+    "C": "Bu eritrotsitlarni fagotsitoz kilinishi",
+    "D": "Murakkab pigmentli oqsil. Mn: gemoglobin Hb, mioglobin Mb",
+    "javob": "A"
+  },
+  {
+    "savol": "Gemosidirin nima?",
+    "A": "Gemni parchalanishidan hosil bo`lgan ferritinning polimeridir",
+    "B": "Eritrotsitlarning parchalanishi",
+    "C": "Bu eritrotsitlarni fagotsitoz kilinishi",
+    "D": "Murakkab pigmentli oqsil. Mn: gemoglobin Hb, mioglobin Mb",
+    "javob": "A"
+  },
+  {
+    "savol": "Bilirubin nima?",
+    "A": "O’t pigmenti. U biliverdindan hosil bo`ladi. Biliverdin gemdan hosil bo`ladi",
+    "B": "Gemni parchalanishidan hosil bo`lgan ferritinning polimeridir",
+    "C": "Eritrotsitlarning parchalanishi",
+    "D": "Bu eritrotsitlarni fagotsitoz kilinishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Gematin nima?",
+    "A": "Gemning oksidlangan shakli. Oksigemoglobinni gidrolizlanishidan hosil bo`ladi",
+    "B": "Fe tutmaydigan pigment. Bu gemoglobin hujayra ichida parchalanganda hosil bo`ladi",
+    "C": "Gemni parchalanishidan hosil bo`lgan ferritinning polimeridir",
+    "D": "Bu eritrotsitlarni fagotsitoz kilinishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Gematoidin nima?",
+    "A": "Fe tutmaydigan pigment. Bu gemoglobin hujayra ichida parchalanganda hosil bo`ladi",
+    "B": "Gemning oksidlangan shakli. Oksigemoglobinni gidrolizlanishidan hosil bo`ladi",
+    "C": "Gemni parchalanishidan hosil bo`lgan ferritinning polimeridir",
+    "D": "Eritrotsitlarni fagotsitoz kilinishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Appoferitin nima?",
+    "A": "Temir bog’lovchi oqsildir",
+    "B": "Gemning oksidlangan shakli. Oksigemoglobinni gidrolizlanishidan hosil bo`ladi",
+    "C": "Gemni parchalanishidan hosil bo`lgan ferritinning polimeridir",
+    "D": "Eritrotsitlarni fagotsitoz qilinishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Anabolizm nima?",
+    "A": "Hujayra strukturalarining sintezlanishi",
+    "B": "Gemosiderinning ortiqcha sintezlanishiga aytiladi",
+    "C": "Gemni parchalanishidan hosil bo`lgan ferritinning polimeridir",
+    "D": "Eritrotsitlarni fagotsitoz qilinishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Katabolizm nima?",
+    "A": "Hujayra strukturalarining parchalanishi",
+    "B": "Hujayra strukturalarining sintezlanishi",
+    "C": "Gemni parchalanishidan hosil bo`lgan ferritinning polimeridir",
+    "D": "Eritrotsitlarni fagotsitoz qilinishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Gemosideroz nima?",
+    "A": "Gemosiderinning ortiqcha sintezlanishiga aytiladi",
+    "B": "Hujayra strukturalarining parchalanishi",
+    "C": "Hujayra strukturalarining sintezlanishi",
+    "D": "Eritrotsitlarni fagotsitoz qilinishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Siderofaglar nima?",
+    "A": "Gemosiderinni yemiruvchi hujayra lar",
+    "B": "Gemosiderinning ortiqcha sintezlanishiga aytiladi",
+    "C": "Hujayra strukturalarining parchalanishi",
+    "D": "Hujayra strukturalarining sintezlanishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Sariqlik nima?",
+    "A": "Teri va shilliq kavatlar sarg’ayishi bilan kechadigan, bilirubinning ko’payib ketishi",
+    "B": "Gemosiderinni yemiruvchi hujayra lar",
+    "C": "Gemosiderinning ortiqcha sintezlanishiga aytiladi",
+    "D": "Hujayra strukturalarining parchalanishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Gemomelanin nima?",
+    "A": "Gemning oksidlanib qora rangga bo’yalgan qismi",
+    "B": "Rang beruvchi qo’ngir qora pigment",
+    "C": "Gemosiderinni yemiruvchi hujayra lar",
+    "D": "Hujayra strukturalarining parchalanishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Gemin nima?",
+    "A": "Gemoglobin hosil bo’lishda gem qismidan birinchi hosil bo`ladigan pigment",
+    "B": "Gemning oksidlanib qora rangga bo’yalgan qismi",
+    "C": "Gemosiderinni yemiruvchi hujayra lar",
+    "D": "Hujayra strukturalarining parchalanishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Melanin nima?",
+    "A": "Rang beruvchi qo’ngir qora pigment",
+    "B": "Gemoglobin hosil bo’lishda gem qismidan birinchi hosil bo`ladigan pigment",
+    "C": "Gemning oksidlanib qora rangga bo’yalgan qismi",
+    "D": "Gemosiderinni yemiruvchi hujayra lar",
+    "javob": "A"
+  },
+  {
+    "savol": "Melanoz nima?",
+    "A": "Organizmda melaninning ko’payib ketishi",
+    "B": "Rang beruvchi qo’ngir qora pigment",
+    "C": "Gemoglobin hosil bo’lishda gem qismidan birinchi hosil bo`ladigan pigment",
+    "D": "Gemning oksidlanib qora rangga bo’yalgan qismi",
+    "javob": "A"
+  },
+  {
+    "savol": "Melanotsit nima?",
+    "A": "Melanin sintez qiluvchi hujayra lar",
+    "B": "Organizmda melaninning ko’payib ketishi",
+    "C": "Gemoglobin hosil bo’lishda gem qismidan birinchi hosil bo`ladigan pigment",
+    "D": "Gemning oksidlanib qora rangga bo’yalgan qismi",
+    "javob": "A"
+  },
+  {
+    "savol": "Nevus nima?",
+    "A": "teridagi tug`ma rivojlanish nuqsoni. Tarkibida melanin ko’p bo`ladi",
+    "B": "melanin sintez qiluvchi hujayra lar",
+    "C": "organizmda melaninning ko’payib ketishi",
+    "D": "gemoglobin hosil bo’lishda gem qismidan birinchi hosil bo`ladigan pigment",
+    "javob": "A"
+  },
+  {
+    "savol": "Lipofutsin nima?",
+    "A": "Bu tarkibida yog’lar asosan fosfolipid ko’p bo`lgan glikoproteiddir Yog’li pigment",
+    "B": "Teridagi tug`ma rivojlanish nuqsoni. Tarkibida melanin ko’p bo`ladi",
+    "C": "Organizmda melaninning ko’payib ketishi",
+    "D": "Gemoglobin hosil bo’lishda gem qismidan birinchi hosil bo`ladigan pigment",
+    "javob": "A"
+  },
+  {
+    "savol": "Lipoxrom nima?",
+    "A": "Bu tarkibida rangli uglevodorodlar ya’ni karatinoidlarni eritadigan lipiddir",
+    "B": "Bu tarkibida yog’lar asosan fosfolipid ko’p bo`lgan glikoproteiddir (Yog’li pigment)",
+    "C": "Teridagi tug`ma rivojlanish nuqsoni. Tarkibida melanin ko’p bo`ladi",
+    "D": "Organizmda melaninning ko’payib ketishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Autoliz nima?",
+    "A": "Fermentlar yordamida ulgan hujayra larni parchalanishi (Uz-uzini emirish)",
+    "B": "Bu hujayra larning genetik asosda dasturlangan umrining yashab bo`lgandan keyin o’zini-o’zi o’ldirishi",
+    "C": "Bu tarkibida yog’lar asosan fosfolipid ko’p bo`lgan glikoproteiddir (Yog’li pigment)",
+    "D": "Bu tarkibida rangli uglevodorodlar ya’ni karatinoidlarni eritadigan lipiddir",
+    "javob": "A"
+  },
+  {
+    "savol": "Apoptoz nima?",
+    "A": "Bu hujayra larning genetik asosda dasturlangan umrining yashab bo`lgandan keyin o’zini-o’zi o’ldirishi",
+    "B": "Fermentlar yordamida ulgan hujayra larni parchalanishi (Uz-uzini emirish)",
+    "C": "Bu tarkibida yog’lar asosan fosfolipid ko’p bo`lgan glikoproteiddir (Yog’li pigment)",
+    "D": "Bu tarkibida rangli uglevodorodlar ya’ni karatinoidlarni eritadigan lipiddir",
+    "javob": "A"
+  },
+  {
+    "savol": "Karioliz nima?",
+    "A": "Yadroni erib ketishi",
+    "B": "Fermentlar yordamida ulgan hujayra larni parchalanishi (Uz-uzini emirish)",
+    "C": "Bu hujayra larning genetik asosda dasturlangan umrining yashab bo`lgandan keyin o’zini-o’zi o’ldirishi",
+    "D": "Bu tarkibida rangli uglevodorodlar ya’ni karatinoidlarni eritadigan lipiddir",
+    "javob": "A"
+  },
+  {
+    "savol": "Koagulyasion nekroz nima?",
+    "A": "Quruq nekroz. Asosida oqsil denaturatsiyasi yotadi",
+    "B": "Ho’l nekroz. O’lik to`qimalar erib o’lishi bilan xarakterlanadi",
+    "C": "Bu hujayra larning genetik asosda dasturlangan umrining yashab bo`lgandan keyin o’zini-o’zi o’ldirishi",
+    "D": "Bu tarkibida rangli uglevodorodlar ya’ni karatinoidlarni eritadigan lipiddir",
+    "javob": "A"
+  },
+  {
+    "savol": "Kollyukvatsion nekroz nima?",
+    "A": "Ho’l nekroz. O’lik to`qimalar erib o’lishi bilan xarakterlanadi",
+    "B": "Quruq nekroz. Asosida oqsil denaturatsiyasi yotadi",
+    "C": "Bu hujayra larning genetik asosda dasturlangan umrining yashab bo`lgandan keyin o’zini-o’zi o’ldirishi",
+    "D": "Bu tarkibida rangli uglevodorodlar ya’ni karatinoidlarni eritadigan lipiddir",
+    "javob": "A"
+  },
+  {
+    "savol": "Detrit nima?",
+    "A": "Hujayra va hujayra lararo moddasi nekroz uchogida parchalanganda to`qima",
+    "B": "To`qimaning quruq va zich bo`lib kolishi",
+    "C": "Bu hujayra larning genetik asosda dasturlangan umrining yashab bo`lgandan keyin o’zini-o’zi o’ldirishi",
+    "D": "Bu tarkibida rangli uglevodorodlar ya’ni karatinoidlarni eritadigan lipiddir",
+    "javob": "A"
+  },
+  {
+    "savol": "Demarkatsiya nima?",
+    "A": "Nekroz o’chog’i atrofidagi yallig’lanishdir",
+    "B": "To`qimaning quruq va zich bo`lib qolishi",
+    "C": "Hujayra va hujayra lararo moddasi nekroz o’chog’ida parchalanganda to`qima",
+    "D": "Bu hujayra larning genetik asosda dasturlangan umrining yashab bo`lgandan keyin o’zini-o’zi o’ldirishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Chandiqlanish (organizatsiya) nima?",
+    "A": "Bu o’lgan to`qimalar urnida biriktiruvchi to`qima hosil bo’lishi",
+    "B": "Nekroz o’chogi atrofidagi yallig’lanishdir",
+    "C": "Hujayra va hujayra lararo moddasi nekroz uchogida parchalanganda to`qima",
+    "D": "Bu hujayra larning genetik asosda dasturlangan umrining yashab bo`lgandan keyin o’zini-o’zi o’ldirishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Suyaklanish nima?",
+    "A": "Nekroz bo`lgan to`qima urnida suyak hosil bulishi",
+    "B": "Nekroz bo`lgan to`qimalar ustiga kalsiy tuzlari tuplanishi. (Oxaklanish)",
+    "C": "Nekroz o’chogi atrofidagi yallig’lanishdir",
+    "D": "Bu o’lgan to`qimalar urnida biriktiruvchi to`qima hosil bo’lishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Gipertrofiya nima?",
+    "A": "Organ, to`qimaning yoki hujayraning xajmi kattalashishi",
+    "B": "Organ, to`qima hujayra ning strukturalarining sonining oshishi",
+    "C": "Nekroz o’chogi atrofidagi yallig’lanishdir",
+    "D": "Bu o’lgan to`qimalar urnida biriktiruvchi to`qima hosil bo’lishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Giperplaziya nima?",
+    "A": "Organ, to`qima hujayra ning strukturalarining sonining oshishi",
+    "B": "Organ, to`qimaning yoki hujayraning xajmi kattalashishi",
+    "C": "Nekroz o’chogi atrofidagi yallig’lanishdir",
+    "D": "Bu o’lgan to`qimalar urnida biriktiruvchi to`qima hosil bo’lish",
+    "javob": "A"
+  },
+  {
+    "savol": "Vikar gipertrofiya nima?",
+    "A": "Juft organlardan bittasini olib tashlagandan keyin (yoki kasallanib funksiyasini bajara olmay qolgandan keyin) bo`ladigan ikkinchisining gipertrofiyasi",
+    "B": "Organ, to`qima hujayra ning strukturalarining sonining oshishi",
+    "C": "Nekroz o’chogi atrofidagi yallig’lanishdir",
+    "D": "Bu o’lgan to`qimalar urnida biriktiruvchi to`qima hosil bo’lish",
+    "javob": "A"
+  },
+  {
+    "savol": "Atrofiya nima?",
+    "A": "Organ, to`qima, hujayra larning xajmining kamayishi. Bu organizm tirik paytida ruy berishi va ularning funksiyasi kamayishi kuzatiladi",
+    "B": "To`qimaning bir turdan unga turdosh bo`lgan ikkinchi turga utishi",
+    "C": "Tabiatan o’sma hisoblanmaydigan, qaytar, proliferativ jarayonlar jumlasiga kiradi",
+    "D": "Bu o’lgan to`qimalar urnida biriktiruvchi to`qima hosil bo’lish",
+    "javob": "A"
+  },
+  {
+    "savol": "Metaplaziya nima?",
+    "A": "To`qimaning bir turdan unga turdosh bo`lgan ikkinchi turga o’tishi",
+    "B": "Organ, to`qima, hujayra larning xajmining kamayishi. Bu organizm tirik paytida ro’y berishi va ularning funksiyasi kamayishi kuzatiladi",
+    "C": "Tabiatan o’sma hisoblanmaydigan, qaytar, proliferativ jarayonlar jumlasiga kiradi",
+    "D": "Bu o’lgan to`qimalar urnida biriktiruvchi to`qima hosil bo’lish",
+    "javob": "A"
+  },
+  {
+    "savol": "Sianoz nima?",
+    "A": "Ko’karish teri yoki shilliq qavatlar rangining ko’karishi. (venoz dimlanish hisobiga bo`ladi)",
+    "B": "Tabiatan o’sma hisoblanmaydigan, qaytar, proliferativ jarayonlar jumlasiga kiradi",
+    "C": "Teri osti yog` kletchatkasida suyuklik to’planib shishishi",
+    "D": "To`qimaning bir turdan unga turdosh bo`lgan ikkinchi turga utishi (venoz dimlanish hisobiga bo`ladi)",
+    "javob": "A"
+  },
+  {
+    "savol": "Muskat jigari nima?",
+    "A": "Surunkali venoz dimlanishda jigarning tushadigan ahvoli. Bunda jigar kattalashgan, zichlashgan, qirralari to’mtoqlashgan, yuzasi g’adir – budir, kulrang-sarik muskat yong’og’ini eslatadi",
+    "B": "Surunkali venoz dimlanishda o’pkaning tushadigan ahvoli. Bunda o’pkada qon quyilishlar (keyinchalik ular gemosiderozlarga aylanadi) va biriktiruvchi to`qimaning o’sishi",
+    "C": "Qoplovchi epitеliysidan kеlib chiquvchi yaxshi sifatli o’sma",
+    "D": "Teri osti yog` kletchatkasida suyuklik tuplanib shishishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ishemiya nima?",
+    "A": "Qon kelishining kamayishi hisobiga organ, to`qimada qon kamayishi",
+    "B": "Organ devorining butun devorining ulishi",
+    "C": "Teri osti yog` kletchatkasida suyuklik tuplanib shishishi",
+    "D": "To`qimaning bir turdan unga turdosh bo`lgan ikkinchi turga utishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Miomalyasiya nima?",
+    "A": "O’lgan to`qimalarning yumshashi",
+    "B": "Qon kelishining kamayishi xisobiga organ, to`qimada qon kamayishi",
+    "C": "Teri osti yog` kletchatkasida suyuklik tuplanib shishishi",
+    "D": "To`qimaning bir turdan unga turdosh bo`lgan ikkinchi turga o’tishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Staz nima?",
+    "A": "Mikrosirkulyator qon tomirlarda asosan kapilyarlarda qon oqishini to’xtashi",
+    "B": "O’lgan to`qimalarning yumshashi",
+    "C": "Teri osti yog` kletchatkasida suyuklik tuplanib shishishi",
+    "D": "To`qimaning bir turdan unga turdosh bo`lgan ikkinchi turga o’tishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Tromboz nima?",
+    "A": "Qonning qon tomir yoki yurak bo’shligida organizm tiriklik paytida ivishi",
+    "B": "Mikrotsirkulyator qon tomirlarda asosan kapilyarlarda qon oqishini to’xtashi",
+    "C": "O’lgan to`qimalarning yumshashi",
+    "D": "Teri osti yog` kletchatkasida suyuklik tuplanib shishishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Emboliya nima?",
+    "A": "Qonda normada uchramaydigan zarrachalarning (bu xavo, gaz, yog`, tromb bo’lishi mumkin) aylanib yurishi va ularning tomir bo’shlig’ini tiqilib qolishidir",
+    "B": "Qonning qon tomir yoki yurak bo’shligida organizm tiriklik paytida ivishi",
+    "C": "Mikrotsirkulyator qon tomirlarda asosan kapilyarlarda qon oqishini to’xtashi",
+    "D": "Teri osti yog` kletchatkasida suyuklik tuplanib shishishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Trombemboliya nima?",
+    "A": "Trombni uzilib qon bilan oqib ketishi. (boshqa tomirni tikib kuyadi)",
+    "B": "Qonning qon tomir yoki yurak bo’shligida organizm tiriklik paytida ivishi",
+    "C": "Mikrotsirkulyator qon tomirlarda asosan kapilyarlarda qon oqishini to’xtashi",
+    "D": "Teri osti yog` kletchatkasida suyuklik tuplanib shishishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Gemoraggiya nima?",
+    "A": "Qonning qon tomir bo’shlig’i yoki yurak, yurak bo’shlig’idan tashqi muhit yoki tana bo’shlig’iga chiqishi",
+    "B": "Qonning qon tomir yoki yurak bo’shlig’ida organizm tiriklik paytida ivishi",
+    "C": "Mikrosirkulyator qon tomirlarda asosan kapilyarlarda qon oqishini to’xtashi",
+    "D": "Teri osti yog` kletchatkasida suyuklik to’planib shishishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Melena nima?",
+    "A": "Axlat bilan qon kelishi",
+    "B": "Qonning qon tomir bushligi yoki yurak, yurak bushligidan tashqi muhit yoki tana bo’shligiga chiqishi",
+    "C": "Mikrotsirkulyator qon tomirlarda asosan kapilyarlarda qon oqishini to’xtashi",
+    "D": "Teri osti yog` kletchatkasida suyuklik to’planib shishishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Diapedez nima?",
+    "A": "Qon tomir devori butunligi buzilmasdan undan eritrotsitlarning sizib chiqishi",
+    "B": "Axlat bilan qon kelishi",
+    "C": "Qonning qon tomir bushligi yoki yurak, yurak bushligidan tashqi muhit yoki tana bo’shligiga chiqishi",
+    "D": "Teri osti yog` kletchatkasida suyuklik to’planib shishishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Plazmorragiya nima?",
+    "A": "Plazmaning qon tomir bo’shligidan chiqishi. Qon tomir o’tkazuvchanligi buzilishi hisobiga yuzaga chiqadi",
+    "B": "Qon tomir devorining yemirilib qon ketishi",
+    "C": "Qon tomir devori butunligi buzilmasdan undan eritrotsitlarning sizib chiqishi",
+    "D": "Teri osti yog` kletchatkasida suyuqlik to’planib shishishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Autoimmun kasalliklar nima?",
+    "A": "Xususiy autologik to‘qima va a’zolarning o‘z immun tizimi effektorlari tomonidan zararlanishi va kasallanishi",
+    "B": "Plazmaning qon tomir bo’shlig’idan chiqishi. Qon tomir o’tkazuvchanligi buzilishi hisobiga yuzaga chiqadi",
+    "C": "Qon tomir devori butunligi buzilmasdan undan eritrotsitlarning sizib chiqishi",
+    "D": "Teri osti yog` kletchatkasida suyuqlik to’planib shishishi",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘sma nima?",
+    "A": "Hujayralarning to‘xtovsiz, boshqaruvsiz, chegarasiz ko‘payishidir",
+    "B": "Organizmning maxsus himoyasini bajaruvchi immun tizimning birlamchi hamda orttirilganyetishmasliklaridir",
+    "C": "Plazmaning qon tomir bo’shlig’idan chiqishi. Qon tomir o’tkazuvchanligi buzilishi hisobiga yuzaga chiqadi",
+    "D": "Teri osti yog` kletchatkasida suyuqlik to’planib shishishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Mahalliy gеmosidеroz sababini aytib bеring?",
+    "A": "Ekstravaskulyar gеmoliz",
+    "B": "Intravaskulyar gеmoliz",
+    "C": "Porfirin almashinuvining buzilishi",
+    "D": "Xolalеmiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Artеriolalar gialinozini makroskopik bеlgilari?",
+    "A": "Elastikligi kamayadi qattiqlashadi",
+    "B": "Yumshaydi",
+    "C": "Gipеrtrofiyaga uchraydi",
+    "D": "Tomir dеvorlari kеngayadi",
+    "javob": "A"
+  },
+  {
+    "savol": "O’sma anaplaziyasi turlari",
+    "A": "Embryonal",
+    "B": "to’qima",
+    "C": "gеnеtik",
+    "D": "Morfologik",
+    "javob": "A"
+  },
+  {
+    "savol": "Gipoksiyadagi sklеroz mеxanizmni tushuntiring?",
+    "A": "Fibroblastlarda kollagеn sintеzining kuchayishi",
+    "B": "To’qimaning zichlashishi",
+    "C": "Amiloidning kuchayishi",
+    "D": "Plazma oqsillarining dеnaturatsiyasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Gidropik distrofiyaning oqibatlarini aytib bеring?",
+    "A": "Fokal kollikvatsion nеkroz",
+    "B": "Fibrinoid bo’kish",
+    "C": "Gialin-tomchili distrofiya",
+    "D": "Fokal koagulyatsion nеkroz",
+    "javob": "A"
+  },
+  {
+    "savol": "Tеmir almashinuvida ahamiyatga ega bo’ladigan gеmoglobinogеnli pigmеntni nomlang?",
+    "A": "Fеrritin",
+    "B": "Gеmomеlanin",
+    "C": "Lipofustsin",
+    "D": "Gеmatin",
+    "javob": "A"
+  },
+  {
+    "savol": "Diabеtli mikroangiopatiyaning morfologik ko’rinishini ayting?",
+    "A": "Gialinoz plazmaning shimilishi",
+    "B": "Amiloidoz",
+    "C": "Diztruktiv vaskulit",
+    "D": "Atеrosklеroz",
+    "javob": "A"
+  },
+  {
+    "savol": "Parеnximatoz disprotеinoz turini ko’rsating",
+    "A": "Gialin-tomchili distrofiya",
+    "B": "Amiloidoz",
+    "C": "Yog’li distrofiya",
+    "D": "Gialinoz",
+    "javob": "A"
+  },
+  {
+    "savol": "Birlamchi immun- tanqisligida timusdagi o’zgarishlarni ayting?",
+    "A": "Gipoplaziya",
+    "B": "Nеkroz",
+    "C": "Atrofiya",
+    "D": "Gipеrtrofiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Naslga bog’liq immunodеfitsit holatda timusdagi o’zgarishlarni toping?",
+    "A": "Gipoplaziya displaziya",
+    "B": "Nеkroz",
+    "C": "Atrofiya",
+    "D": "Yallig’lanish",
+    "javob": "A"
+  },
+  {
+    "savol": "Sеmiz hujayra (labrotsit) dеgranulyatsiyasida hosil bo’luvchi birlamchi mеdiatorlarni ayting?",
+    "A": "Gistamin",
+    "B": "Lеykotriеnlar",
+    "C": "Prostoglandin lеykotriеn",
+    "D": "Bradikinin",
+    "javob": "A"
+  },
+  {
+    "savol": "Mukoid bo’kishda biriktiruvchi to’qimada qanday o’zgarishlar xos?",
+    "A": "Glikozaminoglikanlarning taqsimlanishi va to’planishi",
+    "B": "To’qima o’tkazuvchanligining pasayishi",
+    "C": "Elastik tolalarning parchalanishi",
+    "D": "Kollagеn tolalarning buzilishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Oshqozon yarasi tubida uchraydigan gеmoglobinli pigmеntni aniqlang?",
+    "A": "Gеmatin xlorid",
+    "B": "bilirubin",
+    "C": "gеmosidеrin",
+    "D": "Gеmatoidin",
+    "javob": "A"
+  },
+  {
+    "savol": "Ivib qolgan qonning to’qimalarda yig’ilib qolishi va ularning butunligini buzadigan patologik jarayon nima dеb ataladi?",
+    "A": "Gеmatoma",
+    "B": "Ishеmiya",
+    "C": "Gеmangioma",
+    "D": "Gipеrеmiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Qon quyilishining turlari?",
+    "A": "Gеmatoma gеmorragik infiltratsiya",
+    "B": "Qon tupurish",
+    "C": "Melena",
+    "D": "Burundan qon kеtish",
+    "javob": "A"
+  },
+  {
+    "savol": "Diapеdеz qon quyilishlar sistеmali xaraktеrga aylanadigan sindrom nima dеb ataladi?",
+    "A": "Gеmorragik",
+    "B": "Gеmolitik",
+    "C": "Diapеdеz",
+    "D": "Nеfrotik",
+    "javob": "A"
+  },
+  {
+    "savol": "Normada uchraydigan gеmoglobinogеn pigmеntni aniqlang?",
+    "A": "Gеmosidеrin",
+    "B": "Gеmomеlanin",
+    "C": "Gеmatoidin",
+    "D": "Gеmatin xlorid",
+    "javob": "A"
+  },
+  {
+    "savol": "Diapеdеz qon quyilish o’chog’ida qaysi pigmеntni uchratish mumkin?",
+    "A": "Gеmosidеrin",
+    "B": "Gеmatin",
+    "C": "Gеmomеlanin",
+    "D": "Porfirin",
+    "javob": "A"
+  },
+  {
+    "savol": "O’pkaning qo’ng’ir rangga kirishi qaysi pigmеntga bog’liq?",
+    "A": "Gеmosidеrin",
+    "B": "Bilirubin",
+    "C": "Gеmatin",
+    "D": "Mеlanin",
+    "javob": "A"
+  },
+  {
+    "savol": "Gеmolitik anеmiyada qaysi pigmеntlar hosil bo’ladi?",
+    "A": "Gеmosidеrin",
+    "B": "Gеmatin",
+    "C": "Gеmomеlanin",
+    "D": "Lipofutsin",
+    "javob": "A"
+  },
+  {
+    "savol": "Gеmoglobinogеnli pigmеntlarni ko’rsating?",
+    "A": "Gеmosidеrin bilirubin",
+    "B": "Adrеnoxrom sеroid",
+    "C": "Lipofustsin lipoxrom",
+    "D": "Mеlanin lipoxrom",
+    "javob": "A"
+  },
+  {
+    "savol": "Gеmosidеrinning ortiqcha to’planishiga nima dеyiladi?",
+    "A": "Gеmosidеroz",
+    "B": "Gеmolitik anеmiya",
+    "C": "Jigar usti sariqligi",
+    "D": "Gеmomеlanoz",
+    "javob": "A"
+  },
+  {
+    "savol": "O’tkir alkogolli gеpatitga xaraktеrli gistologik bеlgilarni ayting?",
+    "A": "Gеpatotsitlarning gialin tomchili distrofiyasi",
+    "B": "Kamqonlik",
+    "C": "Atrofiya",
+    "D": "Gipеrtrofiya yog’li gеpatotsit distrofiyasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Donador distrofiyada a'zoning makroskopik ko’rinishi?",
+    "A": "Hajmi kattalashgan ilvillagan xira",
+    "B": "Hajmi kichraygan, to`qlashgan",
+    "C": "O’zgarishsiz",
+    "D": "Hajmi kichraygan",
+    "javob": "A"
+  },
+  {
+    "savol": "Donador distrofiyada a’zoning mikroskopik xaraktеristikasi?",
+    "A": "Hujayra kattalashgan oqsil donalari to’plangan",
+    "B": "Hujayra kattalashgan",
+    "C": "Lipidlar to’plangan",
+    "D": "Hujayrada dеyarli o’zgarish yo’q",
+    "javob": "A"
+  },
+  {
+    "savol": "Distrofiyaning kеlib chiqishining asosiy patologik mеxanizmi?",
+    "A": "Hujayraning kislorod bilan ta’minlanishini buzilishi",
+    "B": "Hujayra funktsional aktivligini oshirish",
+    "C": "Hujayrada enеrgiya kamayishi",
+    "D": "Hujayrada sintеz protsеssining pasayishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Gialin nima?",
+    "A": "Immunkomplеks va lipid ushlovchi fibrillyar oqsil",
+    "B": "Tog’ay",
+    "C": "Glikozaminoglikan",
+    "D": "Tеmir ushlovchi fibrillyar oqsil",
+    "javob": "A"
+  },
+  {
+    "savol": "Yog’li distrofiyada hujayrada yog’ tomchilarining paydo bo’lish mеxanizmni ko’rsating?",
+    "A": "Infiltratsiya",
+    "B": "Pinositoz",
+    "C": "Endositoz",
+    "D": "Normal sintеzning buzilishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Buyrakda parеnximatoz yog’li distrofiya qaysi mеxanizm bo’yicha boradi?",
+    "A": "Infiltratsiya",
+    "B": "Transformatsiya",
+    "C": "Dеkompozitsiya",
+    "D": "Fanеroz",
+    "javob": "A"
+  },
+  {
+    "savol": "Distrofiya kеlib chiqishining morfogеnеtik mеxanizmi?",
+    "A": "Infiltratsiya dеkompozitsiya",
+    "B": "Pinotsitoz sitopеmzis",
+    "C": "Dеgranulatsiya gipoksiya",
+    "D": "Dеstruksiya nеkrobioz",
+    "javob": "A"
+  },
+  {
+    "savol": "Umumiy gеmosidеroz sababini aytib bеring?",
+    "A": "Intravaskulyar gеmoliz",
+    "B": "Ekstravaskulyar gеmoliz",
+    "C": "Porfirin almashinuvining buzilishi",
+    "D": "O’t dimlanishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Sariqlik turlarini ayting?",
+    "A": "Jigar osti, jigarga aloqador, jigar usti",
+    "B": "Mahalliy tarqoq",
+    "C": "Sеptik",
+    "D": "Toksik",
+    "javob": "A"
+  },
+  {
+    "savol": "Jigarning xavfli, epitelial o’smasini ayting?",
+    "A": "Gepatosellulyar rak",
+    "B": "Adenokarsinoma",
+    "C": "Yassi hujayrali rak",
+    "D": "Gemangiosarkoma",
+    "javob": "A"
+  },
+  {
+    "savol": "Jigar alkogolli gepatozi oqibatida kelib chiqadigan sirroz turini belgilang",
+    "A": "Postnekrotik sirroz",
+    "B": "Portal sirroz",
+    "C": "Aralash",
+    "D": "Multisentrik",
+    "javob": "A"
+  },
+  {
+    "savol": "O’pka infarktining rivojlanishi uchun nima fon bo’lishi mumkin?",
+    "A": "Surunkali venoz to’laqonlik",
+    "B": "Arterial giperemiya",
+    "C": "Pnevmoniya",
+    "D": "Pnevmoskleroz",
+    "javob": "A"
+  },
+  {
+    "savol": "Buyrak kanalchalar epiteliysidagi gialin tomchili distrofiya oqibati qanday ?",
+    "A": "Koagulatsion nekroz",
+    "B": "Ultra struktura saqlangan",
+    "C": "Sitoplazma oqsillari kamayadi",
+    "D": "Kollikvatsion nekroz",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi kasallikda bakterial emboliya uchraydi?",
+    "A": "Sepsisda",
+    "B": "Aterosklerozda",
+    "C": "Xavfli o’smalarda",
+    "D": "Suyak sinishida",
+    "javob": "A"
+  },
+  {
+    "savol": "Gipertonik kasallikdagi arteriolalarga xos o’zgarishlarni ko’rsating?",
+    "A": "Gialinoz",
+    "B": "Ateroskleroz",
+    "C": "Liposkleroz",
+    "D": "Ateromatoz",
+    "javob": "A"
+  },
+  {
+    "savol": "Nekrozning etiologik xilini ko’rsating?",
+    "A": "Toksik",
+    "B": "Autolitik",
+    "C": "Infarkt",
+    "D": "Ganrena",
+    "javob": "A"
+  },
+  {
+    "savol": "Nekrozning ta'rifini bering?",
+    "A": "Tirik organizmda to’qimaning o’lishi",
+    "B": "A'zoning kamqonligi",
+    "C": "Organizmning o’lishi",
+    "D": "Biologik o’lim",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi a'zolarda oq qizil tojli infarkt kuzatiladi?",
+    "A": "Buyrak",
+    "B": "Bosh miya",
+    "C": "Taloq",
+    "D": "O’pka",
+    "javob": "A"
+  },
+  {
+    "savol": "Diapedez qon quyilishlar sistemali tus olgan sindrom qanday nomlanadi?",
+    "A": "Gemorragik",
+    "B": "Gemolitik",
+    "C": "Diapedez",
+    "D": "Fibrinolitik",
+    "javob": "A"
+  },
+  {
+    "savol": "Gemosiderinning ortiqcha to’planishiga nima deyiladi?",
+    "A": "Gemasideroz",
+    "B": "Gemolitik anemiya",
+    "C": "Jigar usti sariqligi",
+    "D": "Gemoxromatoz",
+    "javob": "A"
+  },
+  {
+    "savol": "Plevra bo’shlig’ida qonning to’planishi qanday nomlanadi?",
+    "A": "Gemotoraks",
+    "B": "Gemoperikard",
+    "C": "Gidrotoraks",
+    "D": "Fibrotoraks",
+    "javob": "A"
+  },
+  {
+    "savol": "Qorin bo’shlig’ida qonning to’planishi qanday nomlanadi?",
+    "A": "Gemoperitoneum",
+    "B": "Gemoperikard",
+    "C": "Peritonit",
+    "D": "Gematoma",
+    "javob": "A"
+  },
+  {
+    "savol": "Bachadondan qon ketishi qanday nomlanadi?",
+    "A": "Metrorragiya",
+    "B": "Gemorragiya",
+    "C": "Diareya",
+    "D": "Miomalyatsiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Gematomaning markazida qaysi pigment hosil buladi?",
+    "A": "Gematoidin",
+    "B": "Gemosiderin",
+    "C": "Bilirubin",
+    "D": "Ferritin",
+    "javob": "A"
+  },
+  {
+    "savol": "Oshqozon shilliq qavati erroziyasining tubida qaysi pigment hosil bo’ladi?",
+    "A": "Xlorid kislotali pigment- gematin",
+    "B": "Gemosiderin",
+    "C": "Ferritin",
+    "D": "Bilirubin",
+    "javob": "A"
+  },
+  {
+    "savol": "Qon quyilishda, parchalangan to’qima elementlari qon bilan aralashgan bo’lsa bu?",
+    "A": "Gematoma",
+    "B": "Gemotoraks",
+    "C": "Gemorragik infiltiratsiya",
+    "D": "Gemotoraks",
+    "javob": "A"
+  },
+  {
+    "savol": "Perikard bo’shlig’ida qonning to’planishi qanday nomlanadi?",
+    "A": "Gemoperikard",
+    "B": "Gemotoraks",
+    "C": "Gemangioma",
+    "D": "Gidrotoraks",
+    "javob": "A"
+  },
+  {
+    "savol": "Oshqozon shilliq qavatining yallig’lanishi qanday nomlanadi?",
+    "A": "Gastrit",
+    "B": "Gepatit",
+    "C": "Kolit",
+    "D": "Sistit",
+    "javob": "A"
+  },
+  {
+    "savol": "Siydik qopi shilliq qavatining yalilig’lanishi qanday nomlanadi?",
+    "A": "Sistit",
+    "B": "Gepatit",
+    "C": "Gastrit",
+    "D": "Proktit",
+    "javob": "A"
+  },
+  {
+    "savol": "To’gri ichak shilliq qavatining yallig’lanishi qanday nomlanadi?",
+    "A": "Proktit",
+    "B": "Gepatit",
+    "C": "Gastrit",
+    "D": "Sistit",
+    "javob": "A"
+  },
+  {
+    "savol": "Paranekroz bu nima?",
+    "A": "Distrofiyaga o’xshash, lekin qaytar o’zgarishlar ?",
+    "B": "Gialinozning bir bosqichi",
+    "C": "Vaqtida cho’zilgan nekrobioz",
+    "D": "To’qimaning autolitik erishi",
+    "javob": "A"
+  },
+  {
+    "savol": "20 yildan beri surunkali bronxit bilan xastalangan 50 yoshli bemor bronxining shilliq qavati bioptatida shilliq qavatni yupqalashgani, kistoz o’zgargan bezlar, prizmatik epiteliyni ko’p qavatli yassi epiteliyga aylangan sohalar aniqlandi.Ushbu holatda qaysi patologik jarayon bo’lishi mumkin?",
+    "A": "Metaplaziya",
+    "B": "Giperplaziya",
+    "C": "Geterotopiya",
+    "D": "Displaziya",
+    "javob": "A"
+  },
+  {
+    "savol": "Laktasiyada sut bezi hajmining kattalashuvida jarayonning eng to’g’ri ma'nosini ayting?",
+    "A": "Giperplaziya",
+    "B": "Gipertrofiya",
+    "C": "Atrofiya",
+    "D": "Metaplaziya",
+    "javob": "A"
+  },
+  {
+    "savol": "Estrogenlar miqdorining ortishida endometriyning qalinlashuvi jarayonning eng to’gri ma'nosini ayting?",
+    "A": "Giperplaziya",
+    "B": "Gipertrofiya",
+    "C": "Atrofiya",
+    "D": "Metaplaziya",
+    "javob": "A"
+  },
+  {
+    "savol": "Hujayra nekrozining mikroskopik belgisini aytib bering?",
+    "A": "Sitoliz, karioliz",
+    "B": "Gipertrofiya",
+    "C": "Paranekroz, patobioz",
+    "D": "Anabioz, nekrobioz",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi kasalliklardan qaysilari jigar osti sariqligiga olib keladi?",
+    "A": "O’t tosh kasalligi",
+    "B": "Virusli gepatit",
+    "C": "Umumiy gemosideroz",
+    "D": "Tug’ma porfiriya",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi aytilganlardan qaysi biri xavfli mezenximal o’smalarga xos?",
+    "A": "Sarkoma",
+    "B": "Gamartoma",
+    "C": "Teratoma",
+    "D": "Blastoma",
+    "javob": "A"
+  },
+  {
+    "savol": "O’smaning eng xavflilik belgisini ko’rsating?",
+    "A": "Metastazlanish",
+    "B": "Yadro va sitoplazma indeksining uzgarishi",
+    "C": "Ko’p sonli mitozlar",
+    "D": "Yadro polimorfizmi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko’pincha suyaklarda uchraydigan nekroz turini kursating?",
+    "A": "Sekvestr",
+    "B": "Yotoq yara",
+    "C": "Gangrena",
+    "D": "Noma",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi a'zolarda oq infarkt kuzatiladi?",
+    "A": "Taloq, bosh miya",
+    "B": "Ichak, taloq",
+    "C": "Jigar, o’pka",
+    "D": "Ko’z to’r pardasi, ichak",
+    "javob": "A"
+  },
+  {
+    "savol": "O’pka gemosiderozida o’pkaning makroskopik belgilarini aytib bering?",
+    "A": "Zich va qo’ng’ir",
+    "B": "Kattalashgan va ola bula",
+    "C": "Zich qizg’ish",
+    "D": "Xavo bilan to’lgan, ola bula, kattalashgan",
+    "javob": "A"
+  },
+  {
+    "savol": "Emboliya bu?",
+    "A": "Qon yoki limfa oqimida normada uchramaydigan zarrachalarning sirkulyatsiyasi",
+    "B": "Qon yoki limfa oqimida eritrositlar sirkulyatsiyasi",
+    "C": "Qon yoki limfa oqimida limfositlar sirkulyatsiyasi",
+    "D": "Qon yoki limfa oqimida leykositlar sirkulyatsiyasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Plazmorragiyaga ta'rif bering?",
+    "A": "Qon tomir tizimidan qon plazmasining chiqishi",
+    "B": "Qon tomirlardan qonni chiqishi",
+    "C": "Seroz bo’shliqlarda plazmaning to’planishi",
+    "D": "Qon tomirlar devorining yorilishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qon quyilish, bu ?",
+    "A": "Qonni tomir bo’shlig’idan atrof to’qimaga chiqishi",
+    "B": "Qonni tomir yoki yurak bo’shlig’idan tashqariga chiqishi",
+    "C": "Qonni tomi r yoki yurak bo’shlig’idan atrof muxitga chiqishi",
+    "D": "Qonni plevra bo’shlig’iga chiqishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Tromb xosil bo’lishning mahalliy faktorlarini ayting?",
+    "A": "Tomirlar devorining buzilishi",
+    "B": "Qonning sifatining buzilishi",
+    "C": "Qonning ivituvchilik aktivligining oshishi",
+    "D": "Bemorning yoshi",
+    "javob": "A"
+  },
+  {
+    "savol": "Trombozga ta'rif bering?",
+    "A": "Hayot davomida yurak va qon tomir bo’shliqlarida qonning ivishi",
+    "B": "Qonning shaklli elementlarining sirkulyatsiyasi",
+    "C": "Serroz bo’shliklarda qonning ivishi",
+    "D": "O’limdan so’ng qonning ivishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Quruq nekrozda ko’p uchraydigan oqibatlar?",
+    "A": "Organizatsiya",
+    "B": "Nekrotik massaning erishi",
+    "C": "Adaptatsiya",
+    "D": "Nekrotik massaning oqishi",
+    "javob": "A"
+  },
+  {
+    "savol": "PATOMORFOZ bu?",
+    "A": "Kasallikning turg’un klinik morfologik ko’rinishilari",
+    "B": "Patologiyada struktur o’zgarishlar",
+    "C": "Kasallik to’g’risida ko’z qarashlar o’zgarishi",
+    "D": "Kasallik to’g’risida Yangi ma'lumotlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Nam nekrozning xos oqibatlari?",
+    "A": "Kista",
+    "B": "Petrifikasiya",
+    "C": "Ossifikasiya (suyakka aylanishi)",
+    "D": "Inkapsulyasiya (qobiq bilan o’ralish)",
+    "javob": "A"
+  },
+  {
+    "savol": "Teridagi qo’ng’ir dog’ni tekshirganda, dog’ga rang beruvchi qo’ng’ir pigment berlin lazuri reaksiyasini bermaydi (Perl reaksiyasi) bu degani?",
+    "A": "Mikropreparat temir saqlamaydi",
+    "B": "Pigment temir tutadi",
+    "C": "Pigment gemoglobinogenli guruxiga kiradi",
+    "D": "Bu pigment gemosiderin",
+    "javob": "A"
+  },
+  {
+    "savol": "O’tkir venoz to’laqonlikda to’qimalarda qanday patologik jarayon kuzatilmaydi?",
+    "A": "Gialinoz",
+    "B": "Plazmatik shimilish",
+    "C": "Plazmorragiya",
+    "D": "Diapedez qon quyilishlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Plevra bo’shliqlarida suyuqlikning to’planishi qanday nomlanadi?",
+    "A": "Gidrotoraks",
+    "B": "Pnevmotoraks",
+    "C": "Fibrotoraks",
+    "D": "Gemotoraks",
+    "javob": "A"
+  },
+  {
+    "savol": "Surunkali umumiy venoz to’laqonlikda taloqdagi o’zgarishlarni ayting?",
+    "A": "Sianotik indurasiya",
+    "B": "Atrofiya",
+    "C": "Porfirlangan taloq",
+    "D": "Yog’simon taloq",
+    "javob": "A"
+  },
+  {
+    "savol": "Surunkali venoz to’laqonlikda jigar qanday nomlanadi?",
+    "A": "Muskat jigar",
+    "B": "Glazurlangan jigar",
+    "C": "Porfirlangan",
+    "D": "Sagsimon",
+    "javob": "A"
+  },
+  {
+    "savol": "Holsizlangan bolalar terisida rivojlanadigan gangrena turini kursating?",
+    "A": "Noma",
+    "B": "Quruq gangrena",
+    "C": "Anaerob gangrena",
+    "D": "Aerob gangrena",
+    "javob": "A"
+  },
+  {
+    "savol": "Gangrena nimaligini belgilang?",
+    "A": "Tashqi muhit bilan aloqador (bog’liq) to’qimalar nekrozi",
+    "B": "Tashqi muxitga aloqasi bulmagan nekroz",
+    "C": "Toksik nekroz",
+    "D": "Quruq nekroz",
+    "javob": "A"
+  },
+  {
+    "savol": "Nekrozning klinikomorfologik shaklini aytib bering?",
+    "A": "Koagulyatsion, kollikvatsion",
+    "B": "Allergik, toksik",
+    "C": "Tomirga aloqador, travmatik",
+    "D": "Travmatik, trofonevrotik",
+    "javob": "A"
+  },
+  {
+    "savol": "O’pka gemosiderozida siderofag va sideroblastlar o’pka parenximasining qaysi qismida joylashadi?",
+    "A": "O’pka alveolalari bo’shlig’ida va interstitsiyda",
+    "B": "O’pka stromasida va perivaskulyar soxada",
+    "C": "Bronxiolalar bo’shlig’ida",
+    "D": "Bronxlar bo’shlig’ida",
+    "javob": "A"
+  },
+  {
+    "savol": "Jigar osti sariqligi nimaga bogliq?",
+    "A": "O’t suyuqligining jigardan ajralishini buzilishiga",
+    "B": "Bilirubinning glyukouron kislota bilan bog’lanishining buzilishiga",
+    "C": "Porfirin almashinuvi patologiyasiga",
+    "D": "Gemoxromatozga",
+    "javob": "A"
+  },
+  {
+    "savol": "Diapedez qon quyilish o’chog’ida qaysi pigmentni uchratish mumkin?",
+    "A": "Gemosiderin",
+    "B": "Gematin",
+    "C": "Gemomelanin",
+    "D": "Lipofussin",
+    "javob": "A"
+  },
+  {
+    "savol": "Jigarni yallig’lanishi qanday nomlanadi?",
+    "A": "Gepatit",
+    "B": "Gastrit",
+    "C": "Kolit",
+    "D": "Sistit",
+    "javob": "A"
+  },
+  {
+    "savol": "Arterial gipertenziyada yurak hajmining kattalashuvida jarayonning eng to’g’ri ma'nosini ayting?",
+    "A": "Gipertrofiya",
+    "B": "Giperplaziya",
+    "C": "Atrofiya",
+    "D": "Gipoplaziya",
+    "javob": "A"
+  },
+  {
+    "savol": "Yog’li distrofiyada jigar qanday nomlanadi?",
+    "A": "G’oz jigar",
+    "B": "Ho’kiz jigari",
+    "C": "Bulojniy mastovoy",
+    "D": "Katta-oq jigar",
+    "javob": "A"
+  },
+  {
+    "savol": "Parenximotoz distrofiyaning rivojlanish mexanizmini ayting?",
+    "A": "Dekompozitsiya",
+    "B": "Fagotsitoz",
+    "C": "Paranekroz",
+    "D": "Pinositoz",
+    "javob": "A"
+  },
+  {
+    "savol": "Me'da rakining birinchi gematogen metastazlari lokalizasiyasini aniklang?",
+    "A": "Jigar",
+    "B": "O’pkalar",
+    "C": "Bosh miya",
+    "D": "Oshqozon osti bezi",
+    "javob": "A"
+  },
+  {
+    "savol": "Yog’li distrofiyada hujayrada yog’ tomchilarining paydo bo’lish mexanizmini ko’rsating?",
+    "A": "Infiltratsiya",
+    "B": "Pinositoz",
+    "C": "Endositoz",
+    "D": "Normal sintezning buzilishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Aterosklerozda aorta intimasini xolesterin to’planishining mexanizmini aytib bering?",
+    "A": "Infiltratsiya",
+    "B": "Fagotsitoz",
+    "C": "Denaturasiya",
+    "D": "Normal sintezning buzilishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Bemorda yuqori tipdagi semirish, yuzi oysimon, qorin terisida yulaklar (striya) arterial qon bosimi oshgan, giperglikemiya, gipertrixoz. Tashxis qo’ying",
+    "A": "Isenko- Kushing kasalligi",
+    "B": "Qandli diabet",
+    "C": "Simmonds kasalligi",
+    "D": "Addison kasalligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Nam gangrenaning ko’p uchraydigan joyini ko’rasting?",
+    "A": "Ichak",
+    "B": "Orqa miya",
+    "C": "Yurak",
+    "D": "Bosh miya",
+    "javob": "A"
+  },
+  {
+    "savol": "Nekrozning yomon oqibatlarini ayting?",
+    "A": "Yiringli erish",
+    "B": "Suyaklanish",
+    "C": "Shakllanish",
+    "D": "Inkapsulatsiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Agarda yallig’lanish zonasida to’qima diffuz ko’p leykositlar tutgan xira sariq yopishqoq suyuqlik bilan shimilgan bulsa, bu…",
+    "A": "Yiringli yallig’lanish",
+    "B": "Fseroz yallig`lanish",
+    "C": "Gemorragik yallig`lanish",
+    "D": "Yiringli katar",
+    "javob": "A"
+  },
+  {
+    "savol": "Sil limfadenitida o’pka limfa tugunlariga qanaqa to’qima reaksiyasi xos?",
+    "A": "Kazeoz nekroz, granulemalar",
+    "B": "Fibrinoidli nekroz",
+    "C": "Yiringli yallig’lanish",
+    "D": "Distrofik o’zgarishlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Birlamchi o’pka tuberkulez kompleksining komponentlarini ayting?",
+    "A": "Kazeoz pnevmoniya o’chogi, limfangit, regionar limfadenit",
+    "B": "Bronxopnevmoniya o’chogi, regionar limfadenit",
+    "C": "Yiringli flebit, tromboflebit",
+    "D": "Gemorragik pnevmoniya o’chog’i, limfangit",
+    "javob": "A"
+  },
+  {
+    "savol": "PATOGENEZ bu…",
+    "A": "Kasallik rivojlanishi va oqibatining qonuniy ketma ketligi",
+    "B": "Avvalo paydo bulgan patologik jarayon",
+    "C": "Patologik jarayon yoki kasallikni chaqirish xususiyati",
+    "D": "Odam o’lish jarayoni rivojlanishining qonuniyati",
+    "javob": "A"
+  },
+  {
+    "savol": "Gidropik distrofiyaning oqibatini aytib bering?",
+    "A": "Kollikvatsion nekroz",
+    "B": "Mukoidli bo’kish",
+    "C": "Gialinoz",
+    "D": "Orqaga qaytar",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilarning qaysi biri tromb hosil bo’lishining umumiy sharoitlariga kiradi?",
+    "A": "Qon ivishining oshishi",
+    "B": "Intima butunligining buzilishi",
+    "C": "Qon oqimining turbulentligi",
+    "D": "Qon oqimi to’xtashi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi jarayonlar mahalliy gemosiderozga olib keladi?",
+    "A": "Qon tomiridan tashqaridagi gemoliz",
+    "B": "Tomir devorining nekrozi",
+    "C": "Diapedez qon quyilish",
+    "D": "Qon tomir ichi gemolizi",
+    "javob": "A"
+  },
+  {
+    "savol": "Gangrena xilini aytib bering?",
+    "A": "Quruq",
+    "B": "Tomirga aloqador",
+    "C": "Neyrogen",
+    "D": "Septik",
+    "javob": "A"
+  },
+  {
+    "savol": "MORFOGENEZ bu…",
+    "A": "Ma'lum jarayon va kasalliklarni kechishida yuzaga keluvchi struktur o’zgarishlarni rivojlanish tartibini birin ketinligi",
+    "B": "Embriondagi struktur o’zgarishlar dinamikasi",
+    "C": "A'zolar shaklining rivojlanishi",
+    "D": "Insonlar o’lishi jarayonlarining qonuniyatlari",
+    "javob": "A"
+  },
+  {
+    "savol": "Addison kasalligida qaysi pigment almashinuvi buziladi?",
+    "A": "Melanin",
+    "B": "Bilirubin",
+    "C": "Porfirin",
+    "D": "Lipofussin",
+    "javob": "A"
+  },
+  {
+    "savol": "Surunkali sistit bilan ogrigan bemorning siydik qopi shilliq qavatidan olingan biopsiyasida o’tuvchi epiteliy o’rnida ko’p qavatli yassi muguzlanmaydigan epiteliy aniqlandi.o’zgarishlar asosida epiteliyda qanday jarayon yotibdi?",
+    "A": "Metaplaziya",
+    "B": "Distrofiya",
+    "C": "Displaziya",
+    "D": "Giperplaziya",
+    "javob": "A"
+  },
+  {
+    "savol": "Uzoq yillar kashanda bulgan bemorda shilliqli balg’am ajraluvchi yutal, jismoniy arzimas zurikishdan zaiflik paydo buldi, teri koplamlari oqarib, oxirigi ikki oy ichida 12 kg ozgan. Biopsiya mikroskopik o’rganilganda\"yassi hujayrali rak\" diagnozi qo’yildi. O’sma rivojlanishiga olib kelgan patologik jarayonni aniqlang",
+    "A": "Metaplaziya",
+    "B": "Nekroz",
+    "C": "Skleroz",
+    "D": "Gipoplaziya",
+    "javob": "A"
+  },
+  {
+    "savol": "Bemor ko’plab metastazlar bergan oshqozon raki kaxeksiyasidan o’lgan. Yorishda qanday mumkin qadar o’zgarishlar aniqlanishi mumkin?",
+    "A": "Miokardning qo’ngir atrofiyasi",
+    "B": "O’pkaning qo’ng’ir indurasiyas",
+    "C": "Jigar kattalashgan xilvillagan, sariq tusda",
+    "D": "Epikardda yog’ kletchatka miqdori oshgan",
+    "javob": "A"
+  },
+  {
+    "savol": "Kollikvikatsion nekroz uchraydigan holat?",
+    "A": "Miyaning ishemik infarktida",
+    "B": "Sildagi suzmasimon nekrozida",
+    "C": "Ich terlamadagi mumsimon nekrozida",
+    "D": "Tomirning fibrinoid nekrozida",
+    "javob": "A"
+  },
+  {
+    "savol": "Mezenximal disproteinozlarning turlarini aytib bering?",
+    "A": "Mukoid bo’kish, gialinoz",
+    "B": "Xira bo’kish, gialin tomchili distrofiya",
+    "C": "Fibrinoid bo’kish, gialin tomchili distrofiya",
+    "D": "Gialin tomchili distrofiya, gidropik distrofiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Poliomielitda ko’ndalang targ’il mushakning o’zgarishlarini ayting?",
+    "A": "Neyrotrofik atrofiya",
+    "B": "Gipertrofiya",
+    "C": "Metaplaziya",
+    "D": "Giprofiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Yotoq yara nekrozning qaysi etiologik turiga ta`luqli?",
+    "A": "Trofo-nevrotik turi",
+    "B": "Travmatik turi",
+    "C": "Giperplastik turi",
+    "D": "Allergik nekroz",
+    "javob": "A"
+  },
+  {
+    "savol": "Amiloidoz rivojlanishining morfologik mexanizmlarini aytib bering?",
+    "A": "Normal sintezning buzilishi",
+    "B": "Dekompozitsiya",
+    "C": "Infiltrasiya",
+    "D": "Transformasiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Tarkibiga ko’ra trombning turlarini kursating?",
+    "A": "Oq, qizil",
+    "B": "Organizatsiyalashgan",
+    "C": "Yuzasi g’iloflangan",
+    "D": "Sariq",
+    "javob": "A"
+  },
+  {
+    "savol": "Shoxli distrofiya uchun nima xos?",
+    "A": "Ortiqcha shoxlanish",
+    "B": "Hujayra ichida oxak to’planishi",
+    "C": "Hujayra sitoplazmasida misning to’planishi",
+    "D": "Xujayra o’lchamlarining kichrayishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Autopsiyada: son suyagining kortikal qavati yemirilgan, suyak ko’migi yashil rangdagi yiringsimon massa bilan to’lgan va unda erkin xolatda suyak parchalari aniqlanadi. Suyak to’qimasida qanday jarayon rivojlangan?",
+    "A": "Osteomielit",
+    "B": "Osteoma",
+    "C": "Periostit",
+    "D": "Mielit",
+    "javob": "A"
+  },
+  {
+    "savol": "Kazeoz nekrozning eng ko’p uchraydigan oqibatini ayting?",
+    "A": "Ohaklanish",
+    "B": "Gialinoz",
+    "C": "Yiringli erish",
+    "D": "Kista xosil bo’lishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Kazeoz nekrozning eng ko’p uchraydigan oqibatini ayting:",
+    "A": "Oxaklanish",
+    "B": "Gialinoz",
+    "C": "Yiringli erish",
+    "D": "Kista xosil bulishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Yog’li distrofiyada jigar kesmasida qanday ko’rinishga ega?",
+    "A": "Sarg’ish rangda",
+    "B": "Qizil rangda",
+    "C": "Ko’kimtir rangda",
+    "D": "Yashil tusda",
+    "javob": "A"
+  },
+  {
+    "savol": "Disfunksional atrofiyada a'zolarga xos o’zgarishlarni tanlang?",
+    "A": "Suyak sinishida gipsdagi muchalarning mushaklar atrofiyasi",
+    "B": "Gipertonik kasallikda buyraklarning bujmayishi",
+    "C": "Insolyasiyada teri elastik tolalarining atrofiyasi",
+    "D": "Bosh miya suvlanishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Disfunksional atrofiyada a'zolarga xos o’zgarishlarni tanlang?",
+    "A": "Kosmonavtlarda vaznsizlik oqibatida oyoq mushaklari atrofiyasi",
+    "B": "Gipertonik kasallikda buyraklarning bujmayishi",
+    "C": "Insolyasiyada teri elastik tolalarining atrofiyasi",
+    "D": "Bosh miya suvlanishi",
+    "javob": "A"
+  },
+  {
+    "savol": "NEKROZ bu?",
+    "A": "Tirik organizmda a'zolar, ularning bir qismi, to’qimalar va hujayralarning o’limi",
+    "B": "Bosh miya suvlanishi",
+    "C": "Tirik organizmning bir qismining o’lishi",
+    "D": "Organizmning o’lishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Umumiy gemosideroz sababini aytib bering?",
+    "A": "Tomir ichidagi gemoliz",
+    "B": "Ekstravaskulyar gemoliz",
+    "C": "Porfirin almashinuvining buzilishi",
+    "D": "O’t dimlanishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Oq tromb qanaqa elementlardan tuzilgan?",
+    "A": "Trombositlar, leykositlar, fibrin",
+    "B": "Eritrositlar, fibrin, leykositlar",
+    "C": "Fibroblastlar",
+    "D": "Fibrin, eritrositlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Yo’g’li distrofiyada a'zolarda kuzatiladigan makroskopik o’zgarishlarga tavsif bering?",
+    "A": "O’lchamlari kattalashgan",
+    "B": "Konsistensiyasi yumshoq",
+    "C": "Sarg’ish rangda",
+    "D": "Zich konsistensiyali",
+    "javob": "A"
+  },
+  {
+    "savol": "Jigar gemosiderozi qaysi patologik holatning ko’rinishi hisoblanadi?",
+    "A": "Umumiy gemosideroz",
+    "B": "Jigarga bog’lik sariqlik",
+    "C": "Mahalliy gemosideroz",
+    "D": "Yog’li gepatozda",
+    "javob": "A"
+  },
+  {
+    "savol": "Distrofiyaning asosiy patogenetik zvenosini ko’rsating?",
+    "A": "Gipoksiya",
+    "B": "Fermentopatiya",
+    "C": "Jarohatlanish",
+    "D": "Tubulopatiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Gidropik distrofiyaning oqibatlarini aytib bering?",
+    "A": "Fokal kollikvatsion nekroz",
+    "B": "Fibrinoid bo’kish",
+    "C": "Gialin tomchili distrofiya",
+    "D": "Fokal koagulatsion",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi kasallikda to’qima emboliyasi uchraydi?",
+    "A": "Xavfli o’smalarda",
+    "B": "Bo’yin travmalarida",
+    "C": "Suyak sinishida",
+    "D": "Infeksion kasalliklarda",
+    "javob": "A"
+  },
+  {
+    "savol": "Distrofiya nima?",
+    "A": "Hujayra, to’qimalarda moddalar almashinuvinung buzulishi",
+    "B": "Organizmning umumiy reaksiyasi",
+    "C": "Azolar hajmining o’zgarishi",
+    "D": "Hujayralarning ko’payishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi elementlardan aralash tromb tuzilgan?",
+    "A": "Eritrositlar, leykositlar, fibrin",
+    "B": "Leykositlar, fibrin, plazma oqsillari",
+    "C": "Fibrin, trombositlar",
+    "D": "Plazma oqsillari, eritrositlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Qizil tromb qaysi elementlardan tuzilgan?",
+    "A": "Eritrositlar, fibrin, trombositlar",
+    "B": "Plazma oqsillari",
+    "C": "Fibrin, leykositlar",
+    "D": "Leykositlar, trombositlar, fibrin",
+    "javob": "A"
+  },
+  {
+    "savol": "Jigardagi yog’li distrofiyaning belgilarini aytib bering?",
+    "A": "Yumshoq konsistensiyali",
+    "B": "O’lchamlarining kichrayishi yuzasi notekis",
+    "C": "Zich konsistensiyali",
+    "D": "A'zoning deformatsiyasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi jarayon oqibatida taloq kapsulasining gialinozi rivojlanadi?",
+    "A": "Yallig’lanish",
+    "B": "Kapsulaning sklerozi",
+    "C": "Plazmorragiya",
+    "D": "Taloq qon tomir devorining fibrinoid nekrozi",
+    "javob": "A"
+  },
+  {
+    "savol": "Havo emboliyasi qaysi qon tomirlar shikastlanganda kuzatiladi?",
+    "A": "Bo`yinturuq vena",
+    "B": "Uyqu arteriyasi",
+    "C": "Son arteriyasi",
+    "D": "Aorta",
+    "javob": "A"
+  },
+  {
+    "savol": "Emboliyaning oqibatlari :",
+    "A": "Ishemiya",
+    "B": "Arterial giperemiya",
+    "C": "Mahalliy haroratni oshishi",
+    "D": "Regeneratsiya kuchayishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Venoz giperemiyaning belgilari qaysi variantda berilgan",
+    "A": "Sianoz, a`zo hajmining oshishi, mahalliy haroratning pasayishi, teri ostiga nuqtali qon quyilishi",
+    "B": "Mahalliy haroratning oshishi, qizarish",
+    "C": "Pulsatsiyaning aniq sezilishi, a`zoning qon bilan ta`minlanishi yaxshilanadi",
+    "D": "Trofik o`zgarishlar bo`lmaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qanday metabolik o`zgarishlar venoz giperemiyada yuz beradi?",
+    "A": "Oraliq moddalarning ko`p hosil bo`lishi va atsidoz",
+    "B": "Moddalar almashinuvi yaxshilanib . Krebs siklida oksidlanish kuchayadi",
+    "C": "Glyukoneogenez kuchayadi",
+    "D": "Mitoxondriyalarda aerob glikoliz kuchayadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Kesson kasalligida qaysi xildagi emboliya kuzatiladi",
+    "A": "Gaz emboliyasi",
+    "B": "Parodoksal emboliya",
+    "C": "Retrograde emboliya",
+    "D": "To`qima emboliyasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Parodoksal emboliya qaysi holatlarda kuzatiladi?",
+    "A": "Yurak nuqsoni bor bemorlarda bo`lmacha va qorinchalar defekti",
+    "B": "Homilador ayollarda",
+    "C": "Xavfli o`smada",
+    "D": "Katta travmalarda",
+    "javob": "A"
+  },
+  {
+    "savol": "Qon oqimining sekinlashuvi nima sababdan tromb hosil bo`lishiga olib keladi",
+    "A": "Qon plastinkalarinig cho`kishi va qon ivishining kuchayishi",
+    "B": "Qon reologiyasinig o`zgarishi",
+    "C": "Endoteliyni shikastlanishi",
+    "D": "Qonning turbulent oqimi kuchayishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi ko`rsatgich ham arterial ham venoz giperemiyaga xos ?",
+    "A": "Kapillyarlarda qon bosimining ko`tarilishi",
+    "B": "Qizarish",
+    "C": "Haroratning ko`tarilishi",
+    "D": "SIANOZ",
+    "javob": "A"
+  },
+  {
+    "savol": "Gazli emboliyaning sababini aniqlang",
+    "A": "Barometric bosimni normadan pastga tez tushishi",
+    "B": "Yirik bo`yin venalarinig jarohatlanishi",
+    "C": "Pnevmotoraks",
+    "D": "Arterial bosimning pasayishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Organizmning rezistentligi bu-",
+    "A": "Organizmning patogen omillar ta`siriga chidamliligi",
+    "B": "Organizmni kasallik chaqiruvchi omillarga javob bermasligi",
+    "C": "Organizmning har xil ta`sirlarga nisbatan kuchli javob reaksiyasi",
+    "D": "Organizmning reaktivlik holati",
+    "javob": "A"
+  },
+  {
+    "savol": "Gumoral reaktivlikni ta`minlovchi faktorlar",
+    "A": "Lizotsim, interferon",
+    "B": "Serotonin",
+    "C": "Neytrofillar",
+    "D": "Trombositlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi patologik jarayon allergik reaksiyaning tezkor turiga kiradi?",
+    "A": "Anafilaksiya, pollinoz",
+    "B": "Bronxoektaziya",
+    "C": "Kontakt dermatit",
+    "D": "Mantu sinamasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Gudpascher sindromida allergik ning nechanchi tipi ishlaydi?",
+    "A": "2 tip",
+    "B": "1tip",
+    "C": "3tir",
+    "D": "4tip",
+    "javob": "A"
+  },
+  {
+    "savol": "Xashimoto tireoiditida allergik ning nechanchi tipi ishlaydi?",
+    "A": "4 tip",
+    "B": "2tip",
+    "C": "1tip",
+    "D": "3tip",
+    "javob": "A"
+  },
+  {
+    "savol": "Idiopatik trombositopenik purpurada allergik ning nechanchi tipi ishlaydi?",
+    "A": "2tip",
+    "B": "4tip",
+    "C": "1tip",
+    "D": "3tip",
+    "javob": "A"
+  },
+  {
+    "savol": "Ona va bola rezus mos kelmasligi gipersezgirlik reaksiyasining qaysi mexanizmi bilan boradi?",
+    "A": "2tip",
+    "B": "4tip",
+    "C": "1tip",
+    "D": "3tip",
+    "javob": "A"
+  },
+  {
+    "savol": "Revmatik kardit va artrit gipersezgirlik reaksiyasining qaysi mexanizmi bilan boradi?",
+    "A": "2tip",
+    "B": "4tip",
+    "C": "1tip",
+    "D": "3tip",
+    "javob": "A"
+  },
+  {
+    "savol": "Sistemali qizil volchanka gipersezgirlik reaksiyasining qaysi mexanizmi bilan boradi?",
+    "A": "3tip",
+    "B": "4tip",
+    "C": "1tip",
+    "D": "2tip",
+    "javob": "A"
+  },
+  {
+    "savol": "Anafilaksiya bu-",
+    "A": "Organizmning begona oqsilni qayta parenteral tushishiga kuchaygan va sifat jihatdan o`zgargan sezuvchanligi",
+    "B": "To`qima ko`chirib o`tkazilganda yuzaga keladigan reaksiya",
+    "C": "Begona oqsilni birlamchi tushishiga kuchaygan sezuvchanligi",
+    "D": "Organizmni begona oqsilga tolerantligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Postgemorragik anemiyaning sababi nima?",
+    "A": "Bachdondan tashqari homiladorlik",
+    "B": "Irsiy sferositoz",
+    "C": "Talassemiya",
+    "D": "Pernitsioz anemiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Irsiy sferositozda qon surtmasidagi o`ziga xos o`zgarishlar?",
+    "A": "Sferoid shakldagi, giperxrom eritrositlar va retikulositoz",
+    "B": "Nishon eritrositlar+ retikulositoz",
+    "C": "“Tishlangan eritrositkar”ning bo`lishi",
+    "D": "Yarimoysimon eritrositlarning bo`lishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Irsiy sferositozda eritrositdagi defekt qaysi?",
+    "A": "Membrana sitoskeletidagi ankyrin va spektrin oqsillarining nuqsoni",
+    "B": "Betta zanjirdagi glutamat o`rniga valinni joylashgani",
+    "C": "NADFH va glutotionning yetishmasligi",
+    "D": "Alfa yoki betta globin zanjirini kodlaydigan gen mutatsiyasi",
+    "javob": "A"
+  },
+  {
+    "savol": "O`roqsimon anemiyada eritrositlar shaklini o`zgarishiga sababni aniqlang",
+    "A": "Betta zanjirdagi glutamat o`rniga valinni joylashgani",
+    "B": "NADFH va glutotionning yetishmasligi",
+    "C": "Alfa yoki betta globin zanjirini kodlaydigan gen mutatsiyasi",
+    "D": "Membrana sitoskeletidagi ankyrin va spektrin oqsillarining nuqsoni",
+    "javob": "A"
+  },
+  {
+    "savol": "Qon surtmasida ko`rinadigan “tishlangan erotrositlar”ning bo`lishiga sabab?",
+    "A": "Eritrositlarda G6FDG fermenti yetishmasligi oqibatida NADFH va glutotionning kamligi",
+    "B": "Membrana sitoskeletidagi ankyrin va spektrin oqsillarining nuqsoni",
+    "C": "Betta zanjirdagi glutamat o`rniga valinni joylashgani",
+    "D": "Alfa yoki betta globin zanjirini kodlaydigan gen mutatsiyasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Megaloblastik anemiya sabablari?",
+    "A": "B12 vitamini yoki folat kislota yetishmasligi",
+    "B": "Membrana sitoskeletidagi ankyrin va spektrin oqsillarining nuqsoni",
+    "C": "Betta zanjirdagi glutamat o`rniga valinni joylashgani",
+    "D": "Alfa yoki betta globin zanjirini kodlaydigan gen mutatsiyasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Plammer-vinson sindromiga sabab anemiya?",
+    "A": "Temir tanqislik anemiyasi",
+    "B": "B12 vitamini yoki folat kislota yetishmasligi",
+    "C": "O`roqsimon anrmiya",
+    "D": "Talassemiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Plammer- Vinson sindromiga xos belgilar qaysi?",
+    "A": "Temir tanqislik anemiyasi+ ezofagial membrana + disfagiya",
+    "B": "B12 vitamini yoki folat kislota yetishmasligi + yadro/sitoplazma asinxronizmi",
+    "C": "Rentgenda “nurli bosh” simptomi+ suyaklar malformatsiyasi",
+    "D": "Favism va gemolitik anemiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Miyeloftiz anemiya qachon kuzatiladi?",
+    "A": "Suyak ko`migi fibrozi bilan kechadigan kasalliklar va xavfli o`smalarning suyakka metastazlanishida",
+    "B": "Eritrositlarda G6FDG fermenti yetishmasligi oqibatida NADFH va glutotionning kamligida",
+    "C": "Membrana sitoskeletidagi ankyrin va spektrin oqsillarining nuqsoni bo`lganda",
+    "D": "Betta zanjirdagi glutamat o`rniga valinni joylashganda",
+    "javob": "A"
+  },
+  {
+    "savol": "Xavfli o`smalarga xos xususiyatni tanlang",
+    "A": "Hujayra va to`qima atipizmi mavjud, metastazlanish",
+    "B": "Ekspansiv o`sish, to`qima atipizmi xos",
+    "C": "Pleomorfizm kuzatilmaydi, invaziv o`smaydi",
+    "D": "Kapsula bilan o`ralgan, sekin o`sadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Xavfli o`smalar berilgan qatorni aniqlang",
+    "A": "Limfoma, melanoma, bazalioma",
+    "B": "Leyomioma, rabdomioma, xondroma",
+    "C": "Osteoma, lipoma, fibroma",
+    "D": "Gemangioma, adenoma, papilloma",
+    "javob": "A"
+  },
+  {
+    "savol": "Epiteliydan rivojlanadigan xavfsiz o`sma berilgan qatorni belgilang",
+    "A": "Adenoma, papilloma",
+    "B": "Bazalioma, adenokarsinoma",
+    "C": "Lipoma, xondroma",
+    "D": "Limfoma, fibroma",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi emboliya turi suyak sinishi yoki ortopedik operatsiyalardan keyin uchraydi",
+    "A": "Suyak iligi yog`li emboliya",
+    "B": "Qog`onoq suvlari emboliyasi",
+    "C": "Bacterial emboliya",
+    "D": "Xavo emboliyasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Havo emboliyasi qaysi holatlarda kuzatiladi",
+    "A": "v.jugularis va v.subclavia shikastlanganda",
+    "B": "Septik infarktda",
+    "C": "Amniotik suyuqlik qon tomirga tushganda",
+    "D": "Uzun naysimon suyaklar singanda",
+    "javob": "A"
+  },
+  {
+    "savol": "DVS sindromining asosiy patofiziologik mexanizmi nima?",
+    "A": "Qon ivish tizimining butun tanada nazoratsiz faollashuvi",
+    "B": "Qon tomir devorining yallig`lanishi",
+    "C": "Limfa tomirlarda staz",
+    "D": "Arterial giperemiya",
+    "javob": "A"
+  },
+  {
+    "savol": "DVS da eng ko`p zararlanadigan a`zolar ?",
+    "A": "O`pka, buyrak va miya",
+    "B": "Me`da, ichaklar",
+    "C": "Mushaklar va teri",
+    "D": "Limfa tugunlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Gemoglobinogenli pigmentlar berilgan qatorni aniqlang",
+    "A": "Ferritin, porfirin, bilirubin",
+    "B": "Melanin, adrenoxrom,",
+    "C": "Lipofussin, lipoxrom",
+    "D": "Antrakoz, argiroz",
+    "javob": "A"
+  },
+  {
+    "savol": "Ekzogen pigment almashinuvi buzilishi bilan kechadigan kasalliklarni aniqlang",
+    "A": "Antrakoz, argiroz",
+    "B": "Gemoxromatoz, malyariya, addison",
+    "C": "Porfiriya, kaxeksiya",
+    "D": "Gemalitik anemiya, melanoma,",
+    "javob": "A"
+  },
+  {
+    "savol": "Biriktiruvchi to`qimaning yuzaki va qaytar dezorganizatsiyasi bo`lib, mukopolisaxaridlar miqdorining oshishi bilan kichadi, bu qaysi distrofiya ?",
+    "A": "Mukoid bo`kish",
+    "B": "Fibrinoid bo`kish",
+    "C": "Amiloidoz",
+    "D": "Gialinoz",
+    "javob": "A"
+  },
+  {
+    "savol": "Metaxromaziya qanday xodisa?",
+    "A": "Bo`yoq o`zining odatiy rangini emas, boshqa rang hosil qilish orqali maxsus moddalarning mavjudligini ko`rsatadigan belgi",
+    "B": "Hujayralarning o`limi",
+    "C": "Patologik oqsillarning sintez bo`lishi",
+    "D": "Organizmda endogen pigment almashinuvining buzilishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Mukoid bo`kishni fibrinoid bo`kishdan ajratib beruvchi belgi ?",
+    "A": "Metaxramaziya xodisasining mukoid bo`kishda bo`lishi",
+    "B": "Organ parenximasining shoxli distrofiyasi",
+    "C": "Hujayra ichida gialin tomchilarning bo`lishi",
+    "D": "Kongo qizili bilan bo`yalganda ko`k rangga kirishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Tomir gialinozidagi makroskopik belgi?",
+    "A": "Tomirning shishasimon qattiqlashishi, elastikligining pasayishi",
+    "B": "Tomir intimasida bo`tqasimon massaning shimilishi va fibrin bilan qoplanishi",
+    "C": "Tomir endoteliysining shikastlanishi",
+    "D": "Aterokalsinoz",
+    "javob": "A"
+  },
+  {
+    "savol": "“Glazurlangan taloq “ dagi distrofiya turini aniqlang",
+    "A": "Stroma gialinozi",
+    "B": "Amiloidoz",
+    "C": "Srtoma-tomir yog`li distrofiyasi",
+    "D": "Fibrinoid bo`kish",
+    "javob": "A"
+  },
+  {
+    "savol": "“Yo`lbars yuragi” dagi yurakda bo`ladigan distrofiya turi?",
+    "A": "Yog`li parenximatoz distrofiya",
+    "B": "Yog`li stroma-tomir distrofiyasi",
+    "C": "Aralash distrofiya",
+    "D": "Minerallar almashinuvining buzilishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Amiloidozning sabablarini aniqlang",
+    "A": "Miyeloma kasalligi, autoimmun kasalliklar, surunkali infeksion kasalliklar",
+    "B": "O`tkir respirator virusli infeksiyalar",
+    "C": "Arterial gipertenziya",
+    "D": "Stenokardiya, miokard infarkti",
+    "javob": "A"
+  },
+  {
+    "savol": "Kalsiy almashinuving distrofik turini aniqlang",
+    "A": "Nekroz va distrofiyaga uchragan to`qima atrofida",
+    "B": "Paraneoplastik sindromlarda",
+    "C": "Giperparatireozda",
+    "D": "Qonda kalsiy miqdorining oshishida",
+    "javob": "A"
+  },
+  {
+    "savol": "Amiloidozda organlardagi makroskopik belgilarni aniqlang",
+    "A": "Organ hajmining kattalashishi, mumsimon qattiqlashish, charvisimon yaltirash",
+    "B": "Organ hajmining kichiklashishi, qattiqlashishi, mikroabsseslarning bo`lishi",
+    "C": "Organ stromasida oqish-kulrangli karash bo`lishi, hajmining o`zgarmasligi",
+    "D": "Organning ola-bula rangga kirishi, yumshashi",
+    "javob": "A"
+  },
+  {
+    "savol": "Pirogov- lanxans hujayralariga xos belgilarni aniqlang",
+    "A": "Ko`p yadroli 15-20 tacha, yadrolari periferik joylashgan, epitelioid tipdagi gigant hujayralar, kazeoz nekrozda uchraydi",
+    "B": "Xodjkin limfomasida uchraydigan, ikki yoki ko`p yadroli hujayralar, yadrosining joylashuvi “ boyqish ko`zi”ni eslatadi",
+    "C": "Revmatik karditda miokarddagi granulyomalar tarkida bo`ladigan ko`p yadroli hujayralar",
+    "D": "Ateroskelorozda ichida lipid tomchilari tutgan makrofalar",
+    "javob": "A"
+  },
+  {
+    "savol": "Rid-shternberg hujayralariga berilgan ta`rifni aniqlang",
+    "A": "Xodjkin limfomasida uchraydigan, ikki yoki ko`p yadroli hujayralar, yadrosining joylashuvi “ boyqush ko`zi”ni eslatadi",
+    "B": "Revmatik karditda miokarddagi granulyomalar tarkida bo`ladigan ko`p yadroli hujayralar",
+    "C": "Ateroskelorozda ichida lipid tomchilari tutgan makrofalar",
+    "D": "Ko`p yadroli (15-20 tacha), yadrolari periferik joylashgan, epitelioid tipdagi gigant hujayralar, kazeoz nekrozda uchraydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ashof hujayralariga berilgan tarifni aniqlang",
+    "A": "Revmatik karditda miokarddagi granulyomalar tarkida bo`ladigan ko`p yadroli hujayralar",
+    "B": "Ateroskelorozda ichida lipid tomchilari tutgan makrofalar",
+    "C": "Ko`p yadroli (15-20 tacha), yadrolari periferik joylashgan, epitelioid tipdagi gigant hujayralar, kazeoz nekrozda uchraydi",
+    "D": "Xodjkin limfomasida uchraydigan, ikki yoki ko`p yadroli hujayralar, yadrosining joylashuvi “ boyqish ko`zi”ni eslatadi",
+    "javob": "A"
+  }
+]
