@@ -1,0 +1,746 @@
+[
+  {
+    "savol": "URM sozining ochiqlanmasini yozing.",
+    "A": "Umumiy rivojlantiruvchi mashq",
+    "B": "Umum maxsus mashq",
+    "C": "Uzun ritmik mashq",
+    "D": "Umumiy ritmik maxsus",
+    "javob": "A"
+  },
+  {
+    "savol": "Jismoniy tarbiya darslari necha qismdan iborat.",
+    "A": "3",
+    "B": "4",
+    "C": "5",
+    "D": "6",
+    "javob": "A"
+  },
+  {
+    "savol": "Jismoniy tarbiya darslarida URMning vazifasi nima",
+    "A": "Tanani qizdirish, darsni asosiy qismiga tayorlash",
+    "B": "Dam olish maqsadidagi mashqlar",
+    "C": "Umumiy rivojlantiruvchi mashqlar to’plami bilan darsni to’liq o’tish",
+    "D": "Umum maxsus mashq",
+    "javob": "A"
+  },
+  {
+    "savol": "Umumrivojlantiruvchi mashqlar (UM) qanday maqsadga xizmat qiladi?",
+    "A": "Jismoniy tayyorgarlikni oshirish",
+    "B": "Kuchni o’stiradi",
+    "C": "Chaqonlikni rivojlantiradi",
+    "D": "Psixologik tayorlaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Dastlabki olempiadda qachan o’tkazilgan",
+    "A": "Mil av 776",
+    "B": "Mil av 779",
+    "C": "Mil av 685",
+    "D": "Mil av 986",
+    "javob": "A"
+  },
+  {
+    "savol": "Umumiy jismoniy tayyorgarlik nima?",
+    "A": "Har qanday jismoniy mashqda tanani qizdirib tayorlash",
+    "B": "Kuchli jismoniy harakatlar",
+    "C": "Faqat musobaqalar uchun mashqlar",
+    "D": "Jamoaviy o'yin qobiliyatlari",
+    "javob": "A"
+  },
+  {
+    "savol": "Tezlikni oshirish uchun qaysi mashq samaralidir?",
+    "A": "Qisqa masofaga yugurish mashqlari",
+    "B": "Og'irlik ko'tarish",
+    "C": "Statik mashqlar",
+    "D": "Kuchli sakrashlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Chidamlilikni rivojlantirish uchun qaysi mashqlar muhim?",
+    "A": "Uzoq masofa yugurish",
+    "B": "Tezlikka asoslangan mashqlar",
+    "C": "Kuchli harakatlar",
+    "D": "Faqat og'ir yuk mashqlari",
+    "javob": "A"
+  },
+  {
+    "savol": "Teskorlikni nechta turi bor",
+    "A": "2",
+    "B": "4",
+    "C": "5",
+    "D": "6",
+    "javob": "A"
+  },
+  {
+    "savol": "Reaksiya va refleks ……..bu",
+    "A": "Teskorlikni bir ko’rinish",
+    "B": "Chidamlilik",
+    "C": "Kuch",
+    "D": "Sport",
+    "javob": "A"
+  },
+  {
+    "savol": "Sportchining pulsi o’rtacha qancha bo’ladi",
+    "A": "58-60",
+    "B": "90",
+    "C": "40",
+    "D": "80",
+    "javob": "A"
+  },
+  {
+    "savol": "Zamonaviy olempiyada birinchi marotaba qachon o’tkazilgan",
+    "A": "1896",
+    "B": "1888",
+    "C": "1936",
+    "D": "1922",
+    "javob": "A"
+  },
+  {
+    "savol": "Zamonaviy olempiyadaga birinchi marotaba asos solingan qachon",
+    "A": "1894",
+    "B": "1888",
+    "C": "1936",
+    "D": "1922",
+    "javob": "A"
+  },
+  {
+    "savol": "Olempiyada o’yinlari dastlab kimnining sharafiga atab o’tkazilgan",
+    "A": "Zevs xudosi",
+    "B": "Inperatorlar",
+    "C": "Askarlar",
+    "D": "Sarkardalar",
+    "javob": "A"
+  },
+  {
+    "savol": "Tezlikni oshrish uchun qaysi mashqlar eng qulay hisoblanadi",
+    "A": "Qisqa masofaga yugurish",
+    "B": "Uzoq masofaga yugurish",
+    "C": "O’rta masofaga yugurish",
+    "D": "Suzish",
+    "javob": "A"
+  },
+  {
+    "savol": "Jismoniy sifatlar nechta",
+    "A": "5",
+    "B": "4",
+    "C": "6",
+    "D": "7",
+    "javob": "A"
+  },
+  {
+    "savol": "Charchoqqa qarshi tura olish qobilyati bu?",
+    "A": "Chidamlilik",
+    "B": "Kuch",
+    "C": "Egiluvchanlik",
+    "D": "Teskorlik",
+    "javob": "A"
+  },
+  {
+    "savol": "Muskullar yordamida tashqi qarshilikni yengish qobilyati bu?",
+    "A": "Kuch",
+    "B": "Egiluvchanlik",
+    "C": "Teskorlik",
+    "D": "Chidamlilik",
+    "javob": "A"
+  },
+  {
+    "savol": "Qisqa vaqt ichida malum masofani bosib olish qobilyati",
+    "A": "Teskorlik",
+    "B": "Kuch",
+    "C": "Egiluvchanlik",
+    "D": "Chidamlilik",
+    "javob": "A"
+  },
+  {
+    "savol": "Bir harakatdan ikkinchi harakatga tez o’ta olish qobiyati bu?",
+    "A": "Chaqonlik",
+    "B": "Teskorlik",
+    "C": "Kuch",
+    "D": "Egiluvchanlik",
+    "javob": "A"
+  },
+  {
+    "savol": "Oldindan ma’lum harakatga javob qaytarish…….bu?",
+    "A": "Oddiy reaksiya",
+    "B": "Refleks",
+    "C": "Odiylik",
+    "D": "Murakablik",
+    "javob": "A"
+  },
+  {
+    "savol": "Oldindan nomalum harakatga javob qaytarish……bu?",
+    "A": "Murakab",
+    "B": "Oddiy reaksiya",
+    "C": "Refleks",
+    "D": "Odiylik",
+    "javob": "A"
+  },
+  {
+    "savol": "Chidamlilikni oshirish uchun qaysi mashqlar samaralidir?",
+    "A": "Uzoq masofa yugurish",
+    "B": "Sprint mashqlari",
+    "C": "Kuch mashqlari",
+    "D": "Sakrash mashqlari",
+    "javob": "A"
+  },
+  {
+    "savol": "Qo‘l to‘pida hujum uslubi nima?",
+    "A": "To‘pni raqib maydoniga tashlab gol urish",
+    "B": "Himoyaviy usullar",
+    "C": "To‘pni uzoqdan uzatish",
+    "D": "Yerdan past to‘p uzatish",
+    "javob": "A"
+  },
+  {
+    "savol": "Chaqqonlik nima?",
+    "A": "Bir harakatdan ikkinchi harakatga tez o’ta olish qobiyati",
+    "B": "Oyoq mushaklarini rivojlantirish",
+    "C": "Tezlikni oshirish",
+    "D": "Chidamlilikni oshirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Chaqqonlikni oshirishga qaratilgan mashqlar qanday bo'ladi?",
+    "A": "Tez yugurish va sakrash mashqlari",
+    "B": "Og'ir yuk ko'tarish",
+    "C": "O'tiro'tkaz mashqlari",
+    "D": "Suzish",
+    "javob": "A"
+  },
+  {
+    "savol": "Gandbol qachon paydo bo'lgan?",
+    "A": "19-asr oxirida",
+    "B": "20-asr boshida",
+    "C": "18-asr oxirida",
+    "D": "21-asr boshida",
+    "javob": "A"
+  },
+  {
+    "savol": "Gandbol o'yinini kim ixtiro qilgan?",
+    "A": "Xalger Nilson",
+    "B": "Mixail Vasilyev",
+    "C": "F.Abdurahmonov",
+    "D": "S. Zemlyanova",
+    "javob": "A"
+  },
+  {
+    "savol": "Gandbol maydonining o'lchami qanday?",
+    "A": "40x20 m",
+    "B": "30x15 m",
+    "C": "50x25 m",
+    "D": "35x18 m",
+    "javob": "A"
+  },
+  {
+    "savol": "Xalqaro gandbol federatsiyasi (IHF) qachon tashkil etilgan?",
+    "A": "1946 yil",
+    "B": "1956 yil",
+    "C": "1938 yil",
+    "D": "1972 yil",
+    "javob": "A"
+  },
+  {
+    "savol": "Gandbol Olimpiya o'yinlari dasturiga qachon kiritilgan?",
+    "A": "1972 yildan erkaklar, 1976 yildan ayollar",
+    "B": "1936 yildan",
+    "C": "1980 yildan",
+    "D": "1992 yildan",
+    "javob": "A"
+  },
+  {
+    "savol": "O'zbekiston Respublikasi gandbol federatsiyasi qachon tuzilgan?",
+    "A": "1991 yil",
+    "B": "1997 yil",
+    "C": "1985 yil",
+    "D": "2000 yil",
+    "javob": "A"
+  },
+  {
+    "savol": "O'zbekistonda birinchi gandbol chempionati qachon o'tkazilgan?",
+    "A": "1938 yil",
+    "B": "1960 yil",
+    "C": "1972 yil",
+    "D": "1926 yil",
+    "javob": "A"
+  },
+  {
+    "savol": "Gandbol o’yinida o’yinchi to’p bilan necha qadam yurishi mumkin?",
+    "A": "3 qadam",
+    "B": "4 qadam",
+    "C": "5 qadam",
+    "D": "Cheklanmagan",
+    "javob": "A"
+  },
+  {
+    "savol": "Gandbol o’yinida o’yinchi to’pni necha sekund qo’lida ushlab turishi mumkin?",
+    "A": "3 sekund",
+    "B": "4 sekund",
+    "C": "5 sekund",
+    "D": "Cheklanmagan",
+    "javob": "A"
+  },
+  {
+    "savol": "Hujum texnikasini o’rgatishda eng avval nima o’rgatiladi?",
+    "A": "Maydonda harakat qilish texnikasi",
+    "B": "To’pni uzatish texnikasi",
+    "C": "To’pni otish texnikasi",
+    "D": "Himoya texnikasi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Gandbol o’yinida qaysi harakatlar o’rgatiladi?",
+    "A": "Yugurish, sakrash, to’xtashlar",
+    "B": "Faqat yugurish",
+    "C": "Faqat sakrash",
+    "D": "Faqat to’xtashlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Gandbol darvozasining o’lchami qanday?",
+    "A": "Eni 3 m, balandligi 2 m",
+    "B": "Eni 2 m, balandligi 1.5 m",
+    "C": "Eni 4 m, balandligi 2.5 m",
+    "D": "Eni 2.5 m, balandligi 1.8 m.",
+    "javob": "A"
+  },
+  {
+    "savol": "Erkaklar musobaqalarida to’pning og’irligi qancha bo’ladi?",
+    "A": "475 g gacha",
+    "B": "600 g gacha",
+    "C": "550 g gacha",
+    "D": "350 g gacha.",
+    "javob": "A"
+  },
+  {
+    "savol": "Ayollar musobaqalarida to’pning aylanashi qancha bo’ladi?",
+    "A": "54-56 sm",
+    "B": "58-60 sm",
+    "C": "63-58 sm",
+    "D": "60-62 sm",
+    "javob": "A"
+  },
+  {
+    "savol": "Tezlikni oshirish uchun qanday mashqlar samarali hisoblanadi?",
+    "A": "Sprintlar, plyometrik mashqlar",
+    "B": "Faqatgina og‘irlik ko‘tarish mashqlari",
+    "C": "Uzoq masofaga sekin yugurish",
+    "D": "Faqatgina cho‘zilish mashqlari",
+    "javob": "A"
+  },
+  {
+    "savol": "Sprint qanday mashq turi hisoblanadi?",
+    "A": "Yuqori tezlikda, qisqa masofalarda yugurish",
+    "B": "Og‘ir atletika mashqlari",
+    "C": "Nafas olish mashqlari",
+    "D": "Kuchni oshirishga qaratilgan statik mashqlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Plyometrik mashqlar qanday harakatlarni o‘z ichiga oladi?",
+    "A": "Barcha javoblar to’g’ri",
+    "B": "Sakrash, tezkor harakatlar",
+    "C": "Sport o’yinlari",
+    "D": "Suvda harakat qilish",
+    "javob": "A"
+  },
+  {
+    "savol": "Reaksiya mashqlari qaysi tizimni rivojlantirishga yordam beradi?",
+    "A": "Nerv tizimi",
+    "B": "Ovqat hazm qilish tizimi",
+    "C": "Ichki sekretsiya tizimi",
+    "D": "Immunitet tizimi",
+    "javob": "A"
+  },
+  {
+    "savol": "Plyometrik mashqlar qanday foyda beradi?",
+    "A": "Tezlik va kuchni oshiradi",
+    "B": "Ovqat hazm qilish tizimini rivojlantiradi",
+    "C": "Ichki sekretsiya tizimi tizimini rivojlantiradi",
+    "D": "Immunitet tizimi tizimini rivojlantiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Tezkorlik mashqlarini bajarishda nimaga e'tibor berish kerak?",
+    "A": "To‘g‘ri texnika va muntazam mashqlarga",
+    "B": "Faqatgina uzoq davom etishiga",
+    "C": "Mashqdan keyin faqat ko‘p ovqat iste'mol qilishga",
+    "D": "Mashqlarning murakkab bo‘lishiga",
+    "javob": "A"
+  },
+  {
+    "savol": "Tezlikni oshirishda aerobik va anaerobik quvvat qanday ahamiyatga ega?",
+    "A": "Tana uzoq vaqt yuqori intensivlikda harakat qilishi mumkin bo‘ladi",
+    "B": "Mushaklar bo‘shashib qoladi",
+    "C": "Yurak qisqarishlari kamayadi",
+    "D": "Nafas olish sekinlashadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi qaysi mashq anaerobik quvvatni rivojlantiradi?",
+    "A": "Sprintlar va interval mashqlari",
+    "B": "Ovqatlanish Uzoq masofaga yurish",
+    "C": "Faqatgina cho‘zilish mashqlari",
+    "D": "Nafas olish mashqlari",
+    "javob": "A"
+  },
+  {
+    "savol": "Tezkorlikni oshirish uchun qanday mashqlarni kombinatsiya qilish kerak?",
+    "A": "Sprintlar, plyometrik mashqlar, agility va reaksiya mashqlari",
+    "B": "Faqatgina cho‘zilish mashqlari",
+    "C": "Faqatgina og‘irlik ko‘tarish",
+    "D": "Faqatgina uzoq yugurish",
+    "javob": "A"
+  },
+  {
+    "savol": "Mushaklarning reaktsiya vaqtini qisqartirishga nima yordam beradi?",
+    "A": "Tezkor reaksiya mashqlari",
+    "B": "Faqatgina uzoq yugurish",
+    "C": "Mushaklarni haddan tashqari cho‘zish",
+    "D": "Orqa mushaklarni bo‘shashtirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Tanani yuqori intensivlikda uzoq vaqt davomida harakat qilishga nima tayyorlaydi?",
+    "A": "Aerobik va anaerobik quvvat",
+    "B": "Faqatgina cho‘zilish mashqlari",
+    "C": "Orqa mushaklarni bo‘shashtirish",
+    "D": "Oyoq mushaklarini massaj qilish",
+    "javob": "A"
+  },
+  {
+    "savol": "Mushaklarning tezkor qisqarishi va uzayishini nima rivojlantiradi?",
+    "A": "Plyometrik mashqlar",
+    "B": "Nafas olish mashqlari",
+    "C": "Faqatgina cho‘zilish mashqlari",
+    "D": "Orqa mushaklarni bo‘shashtirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Sprintlarni qanday masofada bajarish samarali?",
+    "A": "10-30 metr",
+    "B": "200-400 metr",
+    "C": "500-1000 metr",
+    "D": "1500-3000 metr",
+    "javob": "A"
+  },
+  {
+    "savol": "To‘g‘ri texnikani o‘rganish nimaga yordam beradi?",
+    "A": "Tezlikni oshirishga va jarohatlarning oldini olishga",
+    "B": "Faqatgina mushaklarning haddan tashqari cho‘zilishiga",
+    "C": "Kuchni kamaytirishga",
+    "D": "Orqa mushaklarni bo‘shashtirishga",
+    "javob": "A"
+  },
+  {
+    "savol": "Tezkorlikni oshirish uchun qanday muhim omillar mavjud?",
+    "A": "Mushak kuchi, nerv tizimi, chidamlilik, to‘g‘ri texnika",
+    "B": "Faqatgina mushaklarning elastikligi",
+    "C": "Nafas olish mashqlari",
+    "D": "Mashqlardan keyin ko‘p ovqat yeyish",
+    "javob": "A"
+  },
+  {
+    "savol": "Kardio-chidamlilik qanday tizimning rivojlanishiga yordam beradi?",
+    "A": "Yurak-qon tomir tizimi",
+    "B": "Faqatgina mushak tizimi",
+    "C": "Faqat asab tizimi",
+    "D": "Faqat nafas olish tizimi",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri kardio-chidamlilik mashqiga kiradi?",
+    "A": "Yugurish",
+    "B": "Og‘irlik ko‘tarish",
+    "C": "O’ynash",
+    "D": "Turnik tortish",
+    "javob": "A"
+  },
+  {
+    "savol": "Teskorlikni necha turi bor.",
+    "A": "2",
+    "B": "3",
+    "C": "4",
+    "D": "5",
+    "javob": "A"
+  },
+  {
+    "savol": "Elementar tezlikni nechiga bo’linadi.",
+    "A": "3",
+    "B": "5",
+    "C": "6",
+    "D": "7",
+    "javob": "A"
+  },
+  {
+    "savol": "Refleks reaktsiyasidan necha marta tezroq.",
+    "A": "20",
+    "B": "30",
+    "C": "40",
+    "D": "50",
+    "javob": "A"
+  },
+  {
+    "savol": "Ertalabgi badan tarbiya necha daqiqa davom etadi?",
+    "A": "7-15 daqiqa",
+    "B": "15-20 daqiqa",
+    "C": "8-16 daqiqa",
+    "D": "5-10 daqiqa",
+    "javob": "A"
+  },
+  {
+    "savol": "Xarakatli o’yinlar o’z mazmuni va formasiga ko’ra qanday faoliyat xisoblanadi?",
+    "A": "Jismoniy",
+    "B": "Estetik",
+    "C": "Falsafiy",
+    "D": "Irodaviy",
+    "javob": "A"
+  },
+  {
+    "savol": "Xarakatli o’yinlar bolalarni qanday fazilatlarini shakllantirib boradi?",
+    "A": "Jismoniy va aqliy",
+    "B": "Jismoniy sifatlar va shikaslanish",
+    "C": "Jismoniy mashqlar va nutq",
+    "D": "Tarbiya va rassomlik",
+    "javob": "A"
+  },
+  {
+    "savol": "Jismoniy rivojlanish deganda nimani tushunasiz?",
+    "A": "Jismoniy tarbiya vositalari bilan rivojlanish",
+    "B": "Tabiiy rivojlanish",
+    "C": "Jismoniy, tabiiy rivojlanish,",
+    "D": "Bolaning o’sishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Tezkorlik deganda nimani tushunasiz?",
+    "A": "Kishining eng qisqa vaqt ichida xarakatni bajarish qobilyati",
+    "B": "Tez bajariladigan umumiy rivojlantiruvchi mashqlar",
+    "C": "Tanlangan sport turining maxsus mashqlari",
+    "D": "Turlixil mashqlar to’plami",
+    "javob": "A"
+  },
+  {
+    "savol": "Kuch deganda nimani tushunasiz?",
+    "A": "Tashqi qarshilikning yengib o’tishga yoki boshqa kuchlarga qarshi tura olishga",
+    "B": "Kuch va uning rivojlanish manbalari",
+    "C": "Kuch qobilyatlarini turi",
+    "D": "Kuch tabiiy shakillanish",
+    "javob": "A"
+  },
+  {
+    "savol": "Chidamlilik deganda nimani tushunasiz?",
+    "A": "Jismoniy tarbiyada chidamlilik deb muskul faoliyatini jarayonida vujudga keladigan organizimning toliqishiga qarshi turli qobilyatini",
+    "B": "Umumiy chidamlilik deb ko’p muskul guruxlarining faoliyatiga jalb etish",
+    "C": "Ko’p muskullar guruxiga jismoniy chidamlilik deb aytiladi",
+    "D": "Ilonizi bo’lib yugurish jarayoni",
+    "javob": "A"
+  },
+  {
+    "savol": "Egiluvchanlik deganda nimani tushunasiz?",
+    "A": "Bu odamning xarakatini katta amplatuda bilan bajara olish qobilyatidir",
+    "B": "Passiv xarakatlarda xarakatlanish",
+    "C": "Aktiv xarakatlarda xarakatlanish",
+    "D": "Harakatlar jamlanmasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Egiluvchanlik necha turga bo’linadi?",
+    "A": "2 turga",
+    "B": "3 turga",
+    "C": "4 turga",
+    "D": "6 turga",
+    "javob": "A"
+  },
+  {
+    "savol": "Chidamlilikni tarbiyalashda ko'pincha qaysi uslublar ishlatiladi?",
+    "A": "Aerob va anaerob tartibda intervalli (dam olish oralig’i bilan mashg’ulot uslublari) uslubi",
+    "B": "Aylanma mashg’ulot uslubi",
+    "C": "Bir tekis yoki o'zgaruvchan yuklama bilan uzoq vaqt davom etadigan mashqlar uslubi",
+    "D": "Modelga butun yoki yaqinlashtirilgan uslublar",
+    "javob": "A"
+  },
+  {
+    "savol": "Umumiy chidamlilik deb nimaga aytiladi?",
+    "A": "Umumiy chidamlilik deb ishni bajarish samaradorligini pasaytirmasdan o'rtacha quvvatda uzoq vaqt bajarish qobiliyatiga aytiladi",
+    "B": "Umumiy chidamlilik deb ishni shiddatini sezilarli darajada pasaytirish",
+    "C": "Umumiy chidamlilik deb hamma mushak apparati ishtiroki",
+    "D": "Umumiy chidamlilik deb uzoq vaqt davomida mushak ishlarini bajarish",
+    "javob": "A"
+  },
+  {
+    "savol": "Portlovchi kuch bu?",
+    "A": "Kuchning tezlik bilan birga namoyon bo’lishi",
+    "B": "Kuchning egiluvchanlik bilan birga namoyon bo’lishi",
+    "C": "Kuchning chaqqonlik bilan birga namoyon bo’lishi",
+    "D": "Kuchning chidamlilik bilan birga namoyon bo’lishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Yuklama bu?",
+    "A": "Berilgan mashqning inson organizmidagi tasiri",
+    "B": "Berilgan mashqning ortiqligi",
+    "C": "Mashg’ulotning chastotasi",
+    "D": "Mashg’ulot texnikasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Futbolda bir jamoada nechta o‘yinchi maydonga tushadi?",
+    "A": "11",
+    "B": "10",
+    "C": "9",
+    "D": "12",
+    "javob": "A"
+  },
+  {
+    "savol": "Olimpiya o‘yinlari necha yilda bir marta o‘tkaziladi?",
+    "A": "4",
+    "B": "2",
+    "C": "3",
+    "D": "5",
+    "javob": "A"
+  },
+  {
+    "savol": "Basketbolda bir savat necha ochko beradi?",
+    "A": "2 yoki 3",
+    "B": "1 yoki 2",
+    "C": "3 yoki 4",
+    "D": "1 yoki 3",
+    "javob": "A"
+  },
+  {
+    "savol": "Tennischilar qanday to‘p bilan o‘ynashadi?",
+    "A": "Sariq",
+    "B": "Qizil",
+    "C": "Ko‘k",
+    "D": "Yashil",
+    "javob": "A"
+  },
+  {
+    "savol": "Suzish qanday muhitda o‘tkaziladi?",
+    "A": "Suv",
+    "B": "Quruqlik",
+    "C": "Havo",
+    "D": "Muz",
+    "javob": "A"
+  },
+  {
+    "savol": "Shaxmat o‘yinida qanday figuralar bor?",
+    "A": "Shoh, farzin, rux, fil, ot, piyoda",
+    "B": "To‘p, tayoq, raketka",
+    "C": "Shinalar, pedallar, rul",
+    "D": "Qo‘lqoplar, dubulg‘a, qalqon",
+    "javob": "A"
+  },
+  {
+    "savol": "Yengil atletika qanday sport turini o‘z ichiga oladi?",
+    "A": "Yugurish, sakrash, uloqtirish",
+    "B": "Futbol, basketbol, voleybol",
+    "C": "Suzish, chang‘i uchish, konkida uchish",
+    "D": "Shaxmat, shashka, go",
+    "javob": "A"
+  },
+  {
+    "savol": "Boks qanday sport turi?",
+    "A": "Yakkakurash",
+    "B": "Jamoaviy sport turi",
+    "C": "Suv sporti",
+    "D": "Qishki sport turi",
+    "javob": "A"
+  },
+  {
+    "savol": "Voleybolda necha kishi o‘ynaydi?",
+    "A": "6",
+    "B": "5",
+    "C": "7",
+    "D": "8",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi sport turida to'pni qo'l bilan uriladi?",
+    "A": "Voleybol",
+    "B": "Futbol",
+    "C": "Tennis",
+    "D": "Golf",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi sport turida raketka ishlatiladi?",
+    "A": "Tennis",
+    "B": "Futbol",
+    "C": "Basketbol",
+    "D": "Suzish",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi sport turida konkidan foydalaniladi?",
+    "A": "Xokkey",
+    "B": "Futbol",
+    "C": "Basketbol",
+    "D": "Voleybol",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi sport turida dambildan foydalaniladi?",
+    "A": "Og'ir atletika",
+    "B": "Yengil atletika",
+    "C": "Suzish",
+    "D": "Stol tennis",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi sport turida maxsus kiyim - kimono kiyiladi?",
+    "A": "Dzyudo",
+    "B": "Futbol",
+    "C": "Basketbol",
+    "D": "Tennis",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi sport turida ot ishlatiladi?",
+    "A": "Ot sporti",
+    "B": "Futbol",
+    "C": "Basketbol",
+    "D": "Suzish",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi sport turida maxsus to'siqlar ustidan sakraladi?",
+    "A": "To'siqlar osha yugurish",
+    "B": "Yugurish",
+    "C": "Uzunlikga sakrash",
+    "D": "Balandlikga sakrash",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi sport turida to'pni darvozaga kiritish kerak?",
+    "A": "Futbol",
+    "B": "Basketbol",
+    "C": "Tennis",
+    "D": "Voleybol",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi sport turida halqa ichiga to'p tushuriladi?",
+    "A": "Basketbol",
+    "B": "Futbol",
+    "C": "Tennis",
+    "D": "Voleybol",
+    "javob": "A"
+  },
+  {
+    "savol": "Aerob bu?",
+    "A": "Organizimda kislarodli muhit",
+    "B": "Organizimda kuchlilik",
+    "C": "Organizimda teskorlik",
+    "D": "Organizimda chidamlilik",
+    "javob": "A"
+  },
+  {
+    "savol": "Anaerob bu?",
+    "A": "Organizimda kislarodsiz muhit",
+    "B": "Organizimda kuchlilik",
+    "C": "Organizimda teskorlik",
+    "D": "Organizimda chidamlilik",
+    "javob": "A"
+  }
+]
