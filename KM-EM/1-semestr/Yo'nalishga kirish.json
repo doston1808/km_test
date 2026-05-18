@@ -1,0 +1,1402 @@
+[
+  {
+    "savol": "O`zbekistonda birinchi GES ishga tushgan yil??",
+    "A": "1 may 1926y",
+    "B": "4 iyul 1935y",
+    "C": "10 mart 1927y",
+    "D": "16 oktyabr 1955y",
+    "javob": "A"
+  },
+  {
+    "savol": "Joul-Lents qonuni ifodasini aniqlang?",
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "javob": "A"
+  },
+  {
+    "savol": "O`zbekistonda ishlab chiqarilayotgan elektr energiyasini qanchasi GES larda ishlab chiqaradi?",
+    "A": "14 %",
+    "B": "41 %",
+    "C": "5 %",
+    "D": "23 %",
+    "javob": "A"
+  },
+  {
+    "savol": "O`zbekistonda nechta elektr stansiyalari mavjud?",
+    "A": "43",
+    "B": "48",
+    "C": "30",
+    "D": "52",
+    "javob": "A"
+  },
+  {
+    "savol": "O`zbekistondagi issiqlik elektr stansiyalarida ishlab chiqiladigan elektr energiyasining ulushi?",
+    "A": "86%",
+    "B": "71%",
+    "C": "65%",
+    "D": "81%",
+    "javob": "A"
+  },
+  {
+    "savol": "O`zbekiston issiqlik stansiyalarda gaz yoqilg`isining ulushi?",
+    "A": "90%",
+    "B": "77%",
+    "C": "81%",
+    "D": "87%",
+    "javob": "A"
+  },
+  {
+    "savol": "O`zbekistonda eng katta quvvatli issiqlik stansiyasi qaysi?",
+    "A": "Sirdaryo IES",
+    "B": "Toshkent IES",
+    "C": "Yangi-Angren IES",
+    "D": "Navoiy IES",
+    "javob": "A"
+  },
+  {
+    "savol": "O`zbekistonda eng katta quvvatli GES?",
+    "A": "Chorvoq GES",
+    "B": "G`azalkent GES",
+    "C": "Xojikent GES",
+    "D": "Farhod GES",
+    "javob": "A"
+  },
+  {
+    "savol": "O`zbekistondagi eng yirik energoblok quvvati?",
+    "A": "800 MVt",
+    "B": "500 MVt",
+    "C": "350 MVt",
+    "D": "11155 MVt",
+    "javob": "A"
+  },
+  {
+    "savol": "Issiqlik elektr stansiyalarida qanday yuqori samaradorli qurilma qo`llanilmoqda?",
+    "A": "Bug`-gaz qurilmasi",
+    "B": "Quyosh qurilmasi",
+    "C": "Shamol qurilmasi",
+    "D": "Gazli qurilmasi",
+    "javob": "A"
+  },
+  {
+    "savol": "O`zbekistonda eng katta quvvatli energoblok qaysi IES da o`rnatilgan?",
+    "A": "Tolimarjon IES",
+    "B": "Toshkent MES",
+    "C": "Sirdaryo IES",
+    "D": "Navoiy IES",
+    "javob": "A"
+  },
+  {
+    "savol": "O`zbekiston energetik stansiyalarida yillik ishlab chiqarilshi mumkin bo`lgan elektr energiya miqdori?",
+    "A": "72 mlrd  kVt soat",
+    "B": "51 mlrd  kVt  soat",
+    "C": "49 mlrd  kVt  soat",
+    "D": "85 mlrd  kVt  soat",
+    "javob": "A"
+  },
+  {
+    "savol": "O`zbekiston issiqlik elektr stansiyalarida ko`mir yoqilg`ining ulushi?",
+    "A": "3%",
+    "B": "10%",
+    "C": "4%",
+    "D": "6%",
+    "javob": "A"
+  },
+  {
+    "savol": "Gidroturbinaning vazifasi?",
+    "A": "Suv energiyasini mexanik energiyaga aylantirish",
+    "B": "Bug` hosil qilish",
+    "C": "Bug` energy-yasini elektr energiyaga aylantirish",
+    "D": "Shamol hosil qilish",
+    "javob": "A"
+  },
+  {
+    "savol": "Bug` turbinasining vazifasi?",
+    "A": "Bug` energiyasini mexanik energiyaga aylantirish",
+    "B": "Bug` hosil qilish",
+    "C": "Bug` energiyasini elektr energiyaga aylantirish",
+    "D": "Shamol hosil qilish",
+    "javob": "A"
+  },
+  {
+    "savol": "Aktiv quvvatning o`lchov birligi?",
+    "A": "Vt, kVt, MVt",
+    "B": "KVAr, mVAr",
+    "C": "V, kV, MV",
+    "D": "VA, kVA, mVA",
+    "javob": "A"
+  },
+  {
+    "savol": "Kuchlanishning o`lchov birligi?",
+    "A": "V, kV",
+    "B": "KVA, mVA",
+    "C": "KVAr, mVAr",
+    "D": "A, kA",
+    "javob": "A"
+  },
+  {
+    "savol": "Qanday elektr stansiyalarini bilasiz?",
+    "A": "IES, IEM, AES, GES",
+    "B": "MES",
+    "C": "ATES",
+    "D": "KES, IES, ATES",
+    "javob": "A"
+  },
+  {
+    "savol": "Qanday gidroelektr stansiyalarini bilasiz?",
+    "A": "GES, GAES",
+    "B": "AES",
+    "C": "AES, PGU",
+    "D": "GES, IES",
+    "javob": "A"
+  },
+  {
+    "savol": "O`zbekiston energetika tizimida qanday standart kuchlanish qo`llanadi?",
+    "A": "0,22, 0,38, 6, 10,  35, 110, 220, 500 kV",
+    "B": "3, 6, 10, 20, 35, 110, 152, 220, 330, 500, 750 kV",
+    "C": "0,22, 0,38, 0,66, 6, 10, 20, 35, 220, 330, 500, 750 kV",
+    "D": "10, 20, 27, 5, 35, 110, 220, 330, 500, 750, 1150 kV",
+    "javob": "A"
+  },
+  {
+    "savol": "Qayta tiklanuvchan energiya manbalari qaysilar?",
+    "A": "Quyosh energiyasi, shamol, gidravlik, geotermal energiyalari",
+    "B": "Shamol energiyasi, yoqilg`i energiyasi",
+    "C": "Quyosh, yoqilg`i energiyasi",
+    "D": "Issiqlik, atom energiyasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Birlamchi energiya nima?",
+    "A": "Tabiatdan olinadigan energiya",
+    "B": "Benzindan olingan energiya",
+    "C": "Yog`ochni yondirishda olinadigan energiya",
+    "D": "Suvdan olinadigan energiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Ikkilamchi energiya degani nima?",
+    "A": "Inson tomonidan birlamchi energiyaning maxsus qurilmalarda stansiyalarda qayta ishlanishi",
+    "B": "Ko`mirdan olingan energiya",
+    "C": "Torfdan olingan energiya",
+    "D": "Suvdan olingan energiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Energetik resurslarga nimalar kiradi?",
+    "A": "Ko`mir neft, tabiiy gaz, gidroenergetik reurslar, torf",
+    "B": "Sement, ohak, ganch",
+    "C": "Ko`mir, temir, alyuminiy",
+    "D": "Temir, tabiiy gaz",
+    "javob": "A"
+  },
+  {
+    "savol": "Elektr stansiyalar nimaga asoslanib nomlanadi?",
+    "A": "Ularda birlamchi energiyaning qaysi turi ishlatlishiga qarab",
+    "B": "Quvvatiga qarab",
+    "C": "Tezligiga qarab",
+    "D": "Kuchlanishiga qarab",
+    "javob": "A"
+  },
+  {
+    "savol": "Tiklanadigan energetik resurslar deb nimaga aytiladi?",
+    "A": "Tabiat tomonidan qayta tiklanadigan resurslar (suv, shamol quyosh)",
+    "B": "Suvdan olinadigan resurslar",
+    "C": "Neftdan olinadigan energiyaga",
+    "D": "Ko`mirdan olinadigan energiyaga",
+    "javob": "A"
+  },
+  {
+    "savol": "Tiklanmaydigan energetik resurslarga nimalar kiradi?",
+    "A": "Ko`mir, neft, tabiiy gaz",
+    "B": "Suv, quyosh",
+    "C": "Shamol, suv",
+    "D": "Ko`mir, quyosh",
+    "javob": "A"
+  },
+  {
+    "savol": "Issiqlik elektr stansiyasida birlamchi energiyasi sifatida qanday energetik resurslar ishlatiladi?",
+    "A": "Ko`mir, tabiiy gaz",
+    "B": "Suv",
+    "C": "Shamol",
+    "D": "Quyosh",
+    "javob": "A"
+  },
+  {
+    "savol": "Atom elektr stansiyalarida ishlatiladigan birlamchi energiya turi?",
+    "A": "Uran-235",
+    "B": "Ko`mir, tabiiy gaz",
+    "C": "Ko`mir, Suv",
+    "D": "tabiiy gaz, Shamol",
+    "javob": "A"
+  },
+  {
+    "savol": "Yadro reaktori nima?",
+    "A": "Bo`linishni boshqaruvchi zanjirli yadro reaksiyasini bajaradigan qurilma",
+    "B": "Kanallardan keladigan suv sirkulyasiyasini boshqaradigan qurilma",
+    "C": "Elektr energiyani iste`molchiga uzatuvchi qurilma",
+    "D": "Birlamchi energiyani ishlab chiqaruvchi qurilma",
+    "javob": "A"
+  },
+  {
+    "savol": "AESlarni qaerlarda qurish ruxsat etiladi?",
+    "A": "Shahardan 180-200 km chetda, seysmik jihatdan tinch joyda",
+    "B": "Suv bo`yiga yaqin joyda",
+    "C": "Ko`mir, neft qurilmalari yaqinida",
+    "D": "Aholi yashaydigan hududga yaqin joyda",
+    "javob": "A"
+  },
+  {
+    "savol": "Biologik himoya nima?",
+    "A": "Reaktorni tashqi muhitdan yuqori quvvatli neytronlar oqimining kirishidan muhofaza qiluvchi vosita",
+    "B": "Havo sirkulyasiyasini boshqarish vositasi",
+    "C": "Energiyani to`la holda saqlaydigan qurilma",
+    "D": "Havo sirkulyasiyasini boshqarish vositasi",
+    "javob": "A"
+  },
+  {
+    "savol": "IESda turbina qanday vazifani bajaradi?",
+    "A": "Bug`ning ichki energiyasini mexanik energiyaga aylantiradi",
+    "B": "Bugni suvga aylantirish uchun xizmat kiladi",
+    "C": "Bugni sovitib, uni suvga aylantiradi",
+    "D": "Bugni uzatish uchun xizmat kiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "IESda energiyaning o`zgarish sxemasi (ketma-ketligi) qanday?",
+    "A": "Yoqilg`i, issiqlik, mexanik, elektr",
+    "B": "Yoqilgi, mexanik, issiklik, elektr",
+    "C": "Yoqilgi, issiqlik, elektr, mexanik",
+    "D": "Issiqlik, mexanik, elektr",
+    "javob": "A"
+  },
+  {
+    "savol": "Hozirgi davrda O`zbekistonda mavjud KES larning foydali ish koeffisientlari taxminan qanday?",
+    "A": "35÷40% atrofida",
+    "B": "50÷55% atrofida",
+    "C": "60-65% atrofida",
+    "D": "90-95% atrofida",
+    "javob": "A"
+  },
+  {
+    "savol": "Zamonaviy bug` qurilmalarda qanday enersiya tashuvchidan foydalaniladi?",
+    "A": "Zamonaviy bug` qurilmalarda, harorati 600°C va bosim 30 MPa bo`lgan bug`dan foydalaniladi",
+    "B": "Harorati 600°C va bosim 30 MPa bo`lgan vodorod ishlatiladi",
+    "C": "Harorati 600°C va bosim 30 MPa bo`lgan geliy",
+    "D": "Harorati 500°C va bosim 25 MPa bo`lgan suv ishlatiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Bug` qozoni o`txonasida qanday yoqilg`i ishlatiladi?",
+    "A": "Bug` qozoni o`txonasida changsimon holatga keltirilgan ko`mir, gaz yoki neft 1500-2000°C haroratda purkaladi",
+    "B": "60% vodorod, 15% geliy va 25% boshqa gazlar",
+    "C": "60% vodorod, 15% geliy gazlar",
+    "D": "Harorati 500°S va bosim 25 MPa bo`lgan shartli yoqilg`i",
+    "javob": "A"
+  },
+  {
+    "savol": "IEM larda qanday kamchilik mavjud? To`g`ri javobni ko`rsating",
+    "A": "IEM larda elektr energiyasi ishlab chiqarish katta issiqlik isroflari hisobiga sodir bo`ladi",
+    "B": "Issiqlikka bo`lgan ehtiyojlarni qoplash uchun kichik qozonlar qurish, iqtisodiy jihatdan to`g`ri kelmaydi",
+    "C": "Stansiya turbinalaridan chiqayotgan bug` 25-30°S haroratga ega",
+    "D": "Korxonalardagi texnologik jarayonlarda foydalanishga yaroqsiz",
+    "javob": "A"
+  },
+  {
+    "savol": "IEM da markazlashgan issiqlik bilan ta`minlangan holda, necha % elektr energiyasi ishlab chiqarish mumkin?",
+    "A": "IEM da markazlashgan issiqlik bilan ta`minlangan holda, 20-30% elektr energiyasi ishlab chiqarish mumkin",
+    "B": "50% elektr energiyasi ishlab chiqarish mumkin",
+    "C": "IEM markazlashgan issiqlik bilan ta`minlashga yaroqsiz",
+    "D": "IEM da elektr energiyasi ishlab chiqarish ga yaroqsiz",
+    "javob": "A"
+  },
+  {
+    "savol": "Gaz turbinasining asosiy komponentlari qaysilar?",
+    "A": "Kompressor, yondirgich, quvvat turbinasi",
+    "B": "Qozonlar, aksessuarlar",
+    "C": "Suv, bug`, gaz",
+    "D": "Generator, rotor",
+    "javob": "A"
+  },
+  {
+    "savol": "Bug` turbinasi qanday energiya manbaidan foydalanadi?",
+    "A": "Issiq gazsimon bug`",
+    "B": "Havo",
+    "C": "Tabiiy gaz",
+    "D": "Suv",
+    "javob": "A"
+  },
+  {
+    "savol": "Gaz turbinasini ishga tushirish jarayoni qanchalik tez amalga oshadi?",
+    "A": "Tez va oson",
+    "B": "Unchalik tez emas",
+    "C": "Faqat soatlar davom etadi",
+    "D": "Har doim juda sekin",
+    "javob": "A"
+  },
+  {
+    "savol": "Bug` turbinasiga nisbatan gaz turbinasining ichki harorati qanday?",
+    "A": "Har doim yuqori",
+    "B": "Har doim pastroq",
+    "C": "Har doim baravar",
+    "D": "Umuman farq yo`q",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi turbinada o`rnatish joyi kamroq talab qilinadi?",
+    "A": "Gaz turbinasida",
+    "B": "Bug `turbinasida",
+    "C": "Ikkalasi ham bir xil",
+    "D": "Har doim farq qiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Gaz turbinasining o`ziga xosligi nima?",
+    "A": "U tez ishga tushadi",
+    "B": "U ko`proq joyni talab qiladi",
+    "C": "U yuqori narxga ega",
+    "D": "U suvga bog`liq",
+    "javob": "A"
+  },
+  {
+    "savol": "Bog`liqlik darajasida, qaysi turbinada suv ta`minotiga bog`liqlik mavjud?",
+    "A": "Bug `turbinasida",
+    "B": "Gaz turbinasida",
+    "C": "Ikkalasi ham bir xil",
+    "D": "Hech biri",
+    "javob": "A"
+  },
+  {
+    "savol": "Bug` turbinalarining samaradorligi haqida nima deyish mumkin?",
+    "A": "Ular juda samarali",
+    "B": "Ular samarali emas",
+    "C": "Faqat o`rtacha samaradorlikka ega",
+    "D": "Har doim past samaradorlikka ega",
+    "javob": "A"
+  },
+  {
+    "savol": "Gaz turbinasining o`rnatish xarajatlari qanday?",
+    "A": "Kamroq",
+    "B": "Yuqori",
+    "C": "O`rtacha",
+    "D": "Har doim yuqori",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi turbinada yuqori bosimli bug` ishlatiladi?",
+    "A": "Bug `turbinasida",
+    "B": "Gaz turbinasida",
+    "C": "Ushbu har ikkalasida",
+    "D": "Hech biri",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi turbinaning yuk sharoitlari o`zgarganda boshqarishi osonroq?",
+    "A": "Gaz turbinasida",
+    "B": "Bug `turbinasida",
+    "C": "Ikkalasi ham bir xil",
+    "D": "Hech biri",
+    "javob": "A"
+  },
+  {
+    "savol": "Bug` turbinalari o`z kuchini qayerdan oladi?",
+    "A": "Bug`ning kengayishidan",
+    "B": "Havodan",
+    "C": "Suvdan",
+    "D": "Gazdan",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi turbinaning boshqaruvi qiyinroq?",
+    "A": "Bug` turbinasida",
+    "B": "Gaz turbinasida",
+    "C": "Har doim bir xil nazorat",
+    "D": "Hech biri",
+    "javob": "A"
+  },
+  {
+    "savol": "Uskunalar nazorati qaysi turbinada qiyinroq?",
+    "A": "Bug` turbinasida",
+    "B": "Gaz turbinasida",
+    "C": "Har doim bir xil nazorat",
+    "D": "Hech biri",
+    "javob": "A"
+  },
+  {
+    "savol": "Atom elektr stansiyasida energiya qanday ishlab chiqariladi?",
+    "A": "Uran yadrosining bo`linishi natijasida ajralib chiqadigan energiya orqali",
+    "B": "Quyosh energiyasini to`plab, elektr energiyasiga aylantirish orqali",
+    "C": "Havo orqali qazib olish orqali",
+    "D": "Akkuumulyatorlardan energiya olish orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Atom elektr stansiyasining asosiy yoqilg`i manbai nima?",
+    "A": "Uran",
+    "B": "Ko`mir",
+    "C": "Neft",
+    "D": "G`az",
+    "javob": "A"
+  },
+  {
+    "savol": "Reaktorning asosiy vazifasi nima?",
+    "A": "Yadro energiyasini issiqlik energiyasiga aylantirish",
+    "B": "Elektr energiyasini to`plab, saqlash",
+    "C": "Suvni tozalash",
+    "D": "Havo oqimlarini boshqarish",
+    "javob": "A"
+  },
+  {
+    "savol": "Zanjirli reaksiya nima?",
+    "A": "Yadro bo`linishi jarayonida ajralib chiqadigan neytronlarning yangi yadrolarni bo`linishga olib kelishi",
+    "B": "Yadro energiyasining elektr energiyasiga aylanishi",
+    "C": "Yadro reaksiyasining to`xtash jarayoni",
+    "D": "Issiqlik tashuvchining bug`ga aylanishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Aktiv zona nima?",
+    "A": "Yadro yoqilg`isi joylashgan joy",
+    "B": "Suvni isitish uchun ishlatiladigan qism",
+    "C": "Turbina harakatini boshqarish joyi",
+    "D": "Elektr energiyasini uzatish hududi",
+    "javob": "A"
+  },
+  {
+    "savol": "Atom elektr stansiyasida issiqlik qanday tarqatiladi?",
+    "A": "Suv va bug` yordamida",
+    "B": "Elektr toki orqali",
+    "C": "Havo orqali",
+    "D": "Qattiq yoqilg`ilar bilan",
+    "javob": "A"
+  },
+  {
+    "savol": "Reaktorda qanday materiallar ishlatiladi?",
+    "A": "Grafitlar va uran",
+    "B": "Quyosh panellari va ko`mir",
+    "C": "Neft va gaz",
+    "D": "Temir va beton",
+    "javob": "A"
+  },
+  {
+    "savol": "Biologik himoya nima?",
+    "A": "Nurlanishni atrof muhitga chiqishining oldini olish uchun qo`llaniladigan himoya",
+    "B": "Yadro energiyasini boshqarish uchun zarur material",
+    "C": "Issiqlik energiyasini saqlash",
+    "D": "Suvni tozalash jarayoni",
+    "javob": "A"
+  },
+  {
+    "savol": "Atom elektr stansiyasida suyuqlik qanday ishlatiladi?",
+    "A": "Issiqlikni tashish va bug`ga aylantirish uchun",
+    "B": "Elektr energiyasini ishlab chiqarish uchun",
+    "C": "Yadro bo`linishini tezlashtirish uchun",
+    "D": "Suvni tozalash uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "Reaktorda neytronlar qanday boshqariladi?",
+    "A": "Sterjenlar yordamida",
+    "B": "Suv yordamida",
+    "C": "Elektr toki orqali",
+    "D": "G`az yordamida",
+    "javob": "A"
+  },
+  {
+    "savol": "Atom elektr stansiyasida quvvatni qanday rostlash mumkin?",
+    "A": "Sterjenlar yordamida",
+    "B": "Suvni qizdirish orqali",
+    "C": "G`azni tezlashtirish orqali",
+    "D": "Neftni qo`shish orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Yadro reaktorlarida kimyoviy reaktsiyalarni boshqarish uchun nima qo`llaniladi?",
+    "A": "Grafitlar va boshqaruv sterjenlari",
+    "B": "Elektr tokidan foydalanish",
+    "C": "Quyosh nurlaridan foydalanish",
+    "D": "Ko`mirni qo`llash",
+    "javob": "A"
+  },
+  {
+    "savol": "Yadro reaksiyasining xavfsizligini ta`minlash uchun nima kerak?",
+    "A": "Biologik himoya qatlamlari",
+    "B": "Quyosh panellari",
+    "C": "Qattiq yadro yoqilg`isi",
+    "D": "Suvni tozalash usullari",
+    "javob": "A"
+  },
+  {
+    "savol": "Yadro bo`linishining asosiy jarayoni nima?",
+    "A": "Neytronlarning uranishi va yangi bo`linishlarni keltirib chiqarish",
+    "B": "Suv bug`lanishining tezlashishi",
+    "C": "Issiqlik energiyasining hosil bo`lishi",
+    "D": "Elektr toki yaratish",
+    "javob": "A"
+  },
+  {
+    "savol": "Issiqlik energiyasi qayta ishlanadi va qanday energiyaga aylanadi?",
+    "A": "Mexanik energiyaga",
+    "B": "Kimyoviy energiyaga",
+    "C": "Quyosh energiyasiga",
+    "D": "Havo energiyasiga",
+    "javob": "A"
+  },
+  {
+    "savol": "Atom elektr stansiyalarida yadro yoqilg`isi qanday ishlatiladi?",
+    "A": "Yadro bo`linishini boshlash va energiya chiqarish",
+    "B": "Suvni tozalash uchun",
+    "C": "Elektr toki ishlab chiqarish uchun",
+    "D": "Havo oqimini boshqarish uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "Reaktorning biologik himoyasi nima uchun zarur?",
+    "A": "Yadro nurlanishining xavfini kamaytirish uchun",
+    "B": "Suvni tozalash uchun",
+    "C": "Yadro energiyasini uzatish uchun",
+    "D": "Elektr toki ishlab chiqarish uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "Atom elektr stansiyasida issiqlik tashuvchi nima?",
+    "A": "Suv, bug` yoki inert gazlar",
+    "B": "Elektr toki",
+    "C": "Quyosh nurlari",
+    "D": "G`az yoki neft",
+    "javob": "A"
+  },
+  {
+    "savol": "Yadro bo`linishining oxirgi mahsuloti nima?",
+    "A": "Issiqlik energiyasi va mexanik energiya",
+    "B": "Elektr energiyasi va ko`mir",
+    "C": "G`az va suyuqlik",
+    "D": "Quyosh energiyasi va elektr toki",
+    "javob": "A"
+  },
+  {
+    "savol": "Yadro reaktorida zanjirli",
+    "A": "Yadro bo`linishi natijasida yangi neytronlar chiqadi va jarayon davom etadi",
+    "B": "Suv bug`lanadi va energiya hosil bo`ladi",
+    "C": "Issiqlik energiyasi to`planadi va elektr energiyasiga aylantiriladi",
+    "D": "Yadro yoqilg`isi tugaydi va reaksiyalar to`xtaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qayta tiklanuvchan energiya manbalari qaysilar?",
+    "A": "Quyosh energiyasi, shamol, gidravlik, geotermal energiyalari",
+    "B": "Shamol energiyasi, yoqilg`i energiyasi",
+    "C": "Quyosh, yoqilg`i energiyasi",
+    "D": "Issiqlik, atom energiyasi",
+    "javob": "A"
+  },
+  {
+    "savol": "An`anaviy energiya manbalaridan ishlaydigan elektr stansiyalar?",
+    "A": "IES, GES, AES",
+    "B": "Shamol IES",
+    "C": "Quyosh ES",
+    "D": "IES, geotermal",
+    "javob": "A"
+  },
+  {
+    "savol": "Elektr energiyasi nima uchun yuqori kuchlanishda uzatiladi?",
+    "A": "Elektr energiyasi isroflarini kamaytirish maqsadida",
+    "B": "Elektr energiyasi sifatini oshirish uchun",
+    "C": "Transformatorlarni parallel ishlashlari uchun",
+    "D": "Elektr iste`molchilar rejimini yaxshilash maqsadida",
+    "javob": "A"
+  },
+  {
+    "savol": "Biosfera deb nimaga aytiladi?",
+    "A": "Tirik mavjudot bilan mashg`ul bo`lim",
+    "B": "Yerning sutkali harakati orqasidan boradigan gaz qatlamlari",
+    "C": "Quruqlikning bir qismi",
+    "D": "Azon qatlamidan pastda joylashgan gazlar yig`ilmasi",
+    "javob": "A"
+  },
+  {
+    "savol": "To`la, aktiv, reaktiv quvvatlarning o`lchov birliklari? To`g`ri javobni ko`rsating",
+    "A": "Vt,  kVt, Var, kVar, VA, kVA",
+    "B": "VA, kVA, mVA; V, kV",
+    "C": "Vt, kVt, MVt; VA, kVA,mVA",
+    "D": "A, kA; VA, kVA, mVA",
+    "javob": "A"
+  },
+  {
+    "savol": "Shamol energiyasi yer sharida yiliga necha TVtsoatni tashkil etadi?",
+    "A": "Shamol energiyasi yer sharida yiliga 175-220 ming TVtsoatni tashkil etadi",
+    "B": "150-200 ming TVtsoatni tashkil etadi",
+    "C": "250-300 ming TVtsoatni tashkil etadi",
+    "D": "Yer sharida mavjud energiyaning 5% - 10% -ini",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyosh energiyasining yer yuziga yo`naltirilgan oqimi taxminan qancha?",
+    "A": "Quyosh energiyasining yer yuziga yo`naltirilgan oqimi 1,21014 tonna shartli yoqilg`iga teng",
+    "B": "250-300 ming TVtsoatni tashkil etadi",
+    "C": "175-220 ming TVtsoatni tashkil etadi",
+    "D": "Yer sharida mavjud energiyaning 5% - 10% -cha",
+    "javob": "A"
+  },
+  {
+    "savol": "Boshqa yulduzlar kabi quyosh ham o`ta qizigan gaz hisoblanadi  Uning tarkibi nimalardan tashkil topgan?",
+    "A": "Uning tarkibi 82% vodorod, 17% geliy va 1% boshqa unsurlardan",
+    "B": "Yer sharida mavjud energiyaning tarkibidan",
+    "C": "60% vodorod, 15% geliy va 25% boshqa gazlardan",
+    "D": "1 tonna shartli yoqilg`ining tarkibicha",
+    "javob": "A"
+  },
+  {
+    "savol": "Elektr energiya sifati qiymati qanday belgilanadi?",
+    "A": "Elektr energiya sifati qiymati kuchlanish va chastotalar og`ishi, ularning o`zgarish ko`lami, elektr qiymatlarining nosinusoidalligi,kuchlanishlar nosimmetrikligi bilan belgilanadi",
+    "B": "Kuchlanish va chastotalar og`ishi",
+    "C": "Kuchlanish va chastotalarning o`zgarish ko`lami",
+    "D": "Elektr qiymatlarining nosinusoidalligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyosh panellarining FIK qancha?",
+    "A": "18-20 %",
+    "B": "5-10 %",
+    "C": "65-75%",
+    "D": "40-45%",
+    "javob": "A"
+  },
+  {
+    "savol": "Dunyodagi eng katta GES qayerda joylashgan?",
+    "A": "Xitoy",
+    "B": "Rossiya",
+    "C": "Rossiya",
+    "D": "O`zbekiston",
+    "javob": "A"
+  },
+  {
+    "savol": "Uch va undan ortiq o`tkazgichlar tutashgan nuqta nima deyiladi?",
+    "A": "Tugun",
+    "B": "Umumiy shoxa",
+    "C": "Umumiy nuqta",
+    "D": "Umumiy tutashma",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi elementdan o`zgaruvchan tok o`tganda elektr energiyasi davriy ravishda elektr maydon energiyasiga aylanib turadi?",
+    "A": "Kondensator",
+    "B": "Tranzistor",
+    "C": "Induktivlik",
+    "D": "Aktiv qarshilik",
+    "javob": "A"
+  },
+  {
+    "savol": "Mexanik energiyani elektr energiya aylantiruvchi qurilma nima deb ataladi?",
+    "A": "Generator",
+    "B": "Stol lampa",
+    "C": "Induktor",
+    "D": "Stator",
+    "javob": "A"
+  },
+  {
+    "savol": "Kuchlanish tushuvi deb nimaga aytiladi?",
+    "A": "Qarshilikdagi kuchlanishga",
+    "B": "Energita manbasidagi kuchlanishga",
+    "C": "Ikki nuqta orasidagi potensiallar ayirmasiga",
+    "D": "Aktiv kuchlanish isrofiga",
+    "javob": "A"
+  },
+  {
+    "savol": "O`tkazgichdan ajralayotgan issiqlik miqdorini aniqlash qaysi qonunga asoslangan",
+    "A": "Joul-Lens qonuniga",
+    "B": "Om qonuni",
+    "C": "Amper qonuni",
+    "D": "Elektromagnit induksiya qonuni",
+    "javob": "A"
+  },
+  {
+    "savol": "Voltlarda o`lchanadigan kattalik qanday?",
+    "A": "Kuchlanish",
+    "B": "Om",
+    "C": "Amper",
+    "D": "Kirxgof",
+    "javob": "A"
+  },
+  {
+    "savol": "Vattmetr tarmoqga qanday ulanadi?",
+    "A": "Ketma-ket va Paralel",
+    "B": "Ampermetr orqali",
+    "C": "Transformator orqali",
+    "D": "Stator orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi element o`zgarmas tokni o`tkazmaydi?",
+    "A": "Kondensator",
+    "B": "Induktivlik",
+    "C": "Aktiv qarshilik",
+    "D": "Energiya manbai",
+    "javob": "A"
+  },
+  {
+    "savol": "Ikki tugun orasidagi elektr zanjir soxasi nima?",
+    "A": "Shoxa",
+    "B": "Izolyasiya",
+    "C": "Elektr transformator",
+    "D": "Elektr dazmol",
+    "javob": "A"
+  },
+  {
+    "savol": "Elektr tokini o`tkazish uchun yig`ilgan elementlar umumlashmasi nima deyiladi?",
+    "A": "Zanjir",
+    "B": "Elektr energiyasi manbai",
+    "C": "Elektr energiyasi istemolchisi",
+    "D": "Elektr mashina",
+    "javob": "A"
+  },
+  {
+    "savol": "To`la quvvatni o`lchov birligini ko`rsating",
+    "A": "Volt-amper(VA)",
+    "B": "Amper (Vt)",
+    "C": "Amper reaktiv(var)",
+    "D": "Amper-nyuton",
+    "javob": "A"
+  },
+  {
+    "savol": "Elеktr zаnjirigа аmpеrmеtr qаndаy ulаnishi kеrаk?",
+    "A": "Yuklаmа qаrshiligigа kеtmа-kеt",
+    "B": "Yuklаmа qаrshiligigа pаrаllеl",
+    "C": "Qаrаmа-qаrshi",
+    "D": "Farqi yo`q",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi element istemolchi emas?",
+    "A": "Transformator",
+    "B": "Chuglanma lampa",
+    "C": "Dazmol",
+    "D": "Muzlatgich",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi qurilmada elektr toki elektro kimyoviy usulda hosil qilinadi?",
+    "A": "Akkumulyator",
+    "B": "Turbogenerator",
+    "C": "MGD generator",
+    "D": "Gidrogenerator",
+    "javob": "A"
+  },
+  {
+    "savol": "Induktivlik birligi nima?",
+    "A": "Genri",
+    "B": "Gers",
+    "C": "Veber",
+    "D": "Tesla",
+    "javob": "A"
+  },
+  {
+    "savol": "O`zgaruvchan tok deb nimaga aytiladi?",
+    "A": "Vaqt birligi ichida yo`nalishi va qiymati o`zgaradigan tok",
+    "B": "Vaqt birligi ichida yo`nalishi o`zgarmas qiymati o`zgaradigan tok",
+    "C": "Vaqt birligi ichida yo`nalishi o`zgarib qiymati o`zgarmaydigan tok",
+    "D": "Chastotasi nolga teng tok",
+    "javob": "A"
+  },
+  {
+    "savol": "Aktiv quvvat birligi",
+    "A": "Vatt",
+    "B": "Amper",
+    "C": "Volt",
+    "D": "Var",
+    "javob": "A"
+  },
+  {
+    "savol": "Reaktiv quvvat birligi",
+    "A": "Var",
+    "B": "Vatt",
+    "C": "Amper",
+    "D": "Volt",
+    "javob": "A"
+  },
+  {
+    "savol": "Chastota o`lchov birligi",
+    "A": "Gers",
+    "B": "Volt",
+    "C": "Amper",
+    "D": "Genri",
+    "javob": "A"
+  },
+  {
+    "savol": "Elektr o`tkazuvchanlik birligi?",
+    "A": "Sm (simens)",
+    "B": "Om",
+    "C": "volt",
+    "D": "vatt",
+    "javob": "A"
+  },
+  {
+    "savol": "Kondensatorlarni ketma-ket ulanganda sig`im o`zgaradimi?",
+    "A": "Kamayadi",
+    "B": "Oshadi",
+    "C": "O`zgarmaydi",
+    "D": "Ikki marta ortadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Elektr hisoblagich nima maqsadda ishlatiladi?",
+    "A": "Elektr energiyasini o`lchash uchun",
+    "B": "Quvvatni o`lchash uchun",
+    "C": "Tok kuchini cheklash uchun",
+    "D": "Kuchlanishni o`lchash uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi quvvat var da o`lchanadi?",
+    "A": "Q",
+    "B": "S",
+    "C": "R",
+    "D": "P",
+    "javob": "A"
+  },
+  {
+    "savol": "Transformatorning ishlash prinsipi qaysi qonunga asoslangan",
+    "A": "elektromagnit induksiya qonuniga",
+    "B": "Kulon qonuniga",
+    "C": "Joul-Lens qonuniga",
+    "D": "Kuchish toki paydo bo`lish qonuniga",
+    "javob": "A"
+  },
+  {
+    "savol": "Elеktr zаryadini o`lchоv birligini ko`rsаting",
+    "A": "Kl",
+    "B": "G",
+    "C": "А/s",
+    "D": "P",
+    "javob": "A"
+  },
+  {
+    "savol": "Elektr maydon kuchlanganligi formulasini yozing?",
+    "A": "E=F/q",
+    "B": "E=q/F+1",
+    "C": "E=Fq-1",
+    "D": "To`g`ri javob yoq",
+    "javob": "A"
+  },
+  {
+    "savol": "Elektr sig`imini aniqlash formulasini toping?",
+    "A": "C=q/U",
+    "B": "q=C-U",
+    "C": "U=q/C+1",
+    "D": "C=qU-p",
+    "javob": "A"
+  },
+  {
+    "savol": "Barqarorlashgan o`zgaruvchan tokda uning qaysi kattaligi o`zgarib turadi?",
+    "A": "Oniy qiymati",
+    "B": "Chastotasi",
+    "C": "Amplitudasi",
+    "D": "Boshlang`ich fazasi",
+    "javob": "A"
+  },
+  {
+    "savol": "O`tkazgichni elektr qarshiligini hisoblash formulasi?",
+    "A": "R=ρl/S",
+    "B": "R=l/S",
+    "C": "R=U/I",
+    "D": "To`g`ri javob yoq",
+    "javob": "A"
+  },
+  {
+    "savol": "Zanjirni bir qismi uchun Om qonuni?",
+    "A": "I=U/R",
+    "B": "I=R/U",
+    "C": "I=U/R+r",
+    "D": "I=E/R+r",
+    "javob": "A"
+  },
+  {
+    "savol": "Butun zanjir uchun Om qonuni?",
+    "A": "I=E/R+r",
+    "B": "I=U/R-1",
+    "C": "I=UP/R+r",
+    "D": "I=R/U+1",
+    "javob": "A"
+  },
+  {
+    "savol": "Uchta qarshilik ketma-ket ulanganda hisobiy qarshiligi?",
+    "A": "Rx=R1+R2+R3",
+    "B": "Rx=R1 +(R1 R3 /R1+R2)",
+    "C": "1/Rx=1/R1+1/R2+1/R3",
+    "D": "To`g`ri javob yoq",
+    "javob": "A"
+  },
+  {
+    "savol": "Uchta qarshilik parallel ulanganda hisobiy qarshiligi?",
+    "A": "1/Rx=1/R1+1/R2+1/R3",
+    "B": "Rx=R1 +(R1 R3 /R1+R2 )",
+    "C": "Rx=R1+R2+R3",
+    "D": "Rx=1/R1+1/R2+1/R3",
+    "javob": "A"
+  },
+  {
+    "savol": "Parallel ulangan 3 ta zanjirning umumiy toki?",
+    "A": "Ium=I1+I2+I3",
+    "B": "Ium=I1-I2-I3",
+    "C": "Ium=I1-I2+I3",
+    "D": "Ium=I1+I2-I3",
+    "javob": "A"
+  },
+  {
+    "savol": "3 ta qarshilik ketma-ket ulangan zanjirdagi umumiy kuchlanish tushuvi?",
+    "A": "Uum=U1+U2+U3",
+    "B": "Uum=U1-U2+U3",
+    "C": "Uum=U1-U2-U3",
+    "D": "To`g`ri javob yoq",
+    "javob": "A"
+  },
+  {
+    "savol": "Kirxgofning birinchi qonuning matematik ifodasi?",
+    "A": "I1+I2=I3+I4",
+    "B": "I1+I2=E1+E2",
+    "C": "U1+U2=E1+E2",
+    "D": "Uum=U1+U2+U3",
+    "javob": "A"
+  },
+  {
+    "savol": "Kirxgofning ikkinchi qonuning matematik ifodasi?",
+    "A": "IR1+IR2=E1+E2",
+    "B": "U1+U2=I1+I2",
+    "C": "I1+I2+I3=0",
+    "D": "I$_{2}$R$_{1}$+I$_{2}$R$_{2}$=E$_{1}$+E$_{2}$",
+    "javob": "A"
+  },
+  {
+    "savol": "Induktivlikdan iborat elektr zanjirni qarshiligi?",
+    "A": "XL=2πfL",
+    "B": "XL=1/2πfL",
+    "C": "Xc=1/(2πC)",
+    "D": "XL=2πfC",
+    "javob": "A"
+  },
+  {
+    "savol": "Sig`imdan iborat elektr zanjirning qarshiligi?",
+    "A": "Xc=1/(2πfC)",
+    "B": "XL=1/2πfL",
+    "C": "Xc=2πfL",
+    "D": "XL=2πfC",
+    "javob": "A"
+  },
+  {
+    "savol": "Quvvat koeffitsiyenti qanday ifodalanadi?",
+    "A": "Cosφ=R/z",
+    "B": "Cosφ=X/z",
+    "C": "Cosφ=z/R",
+    "D": "Cos=z/x",
+    "javob": "A"
+  },
+  {
+    "savol": "Elektr tokini o`lchov birligi",
+    "A": "A",
+    "B": "V",
+    "C": "W",
+    "D": "Hz",
+    "javob": "A"
+  },
+  {
+    "savol": "To`la quvvat o`lchov birligi",
+    "A": "VA",
+    "B": "VAR",
+    "C": "W",
+    "D": "A",
+    "javob": "A"
+  },
+  {
+    "savol": "Reaktiv quvvat qanday aniqlanadi",
+    "A": "Q=IUsinφ",
+    "B": "Q=IUcosφ",
+    "C": "S=IUsinφ",
+    "D": "P=IUcosφ",
+    "javob": "A"
+  },
+  {
+    "savol": "Aktiv quvvat qanday ifodalanadi",
+    "A": "P=IUsinφ",
+    "B": "Q=IUsinφ",
+    "C": "P=IUcosφ",
+    "D": "S=IU",
+    "javob": "A"
+  },
+  {
+    "savol": "To`la quvvat qanday ifodalanadi",
+    "A": "S=IU",
+    "B": "P=IUsinφ",
+    "C": "P=IUcosφ",
+    "D": "Q=IUsinφ",
+    "javob": "A"
+  },
+  {
+    "savol": "Aktiv o`tkazuvchanlik qanday ifodalanadi?",
+    "A": "G=1/R",
+    "B": "bL=1/ωL",
+    "C": "bc=1/ωC",
+    "D": "bc=ωC",
+    "javob": "A"
+  },
+  {
+    "savol": "Mamlakatimizda birinchi GES ishga tushgan yil??",
+    "A": "1 may 1926y",
+    "B": "4 iyul 1935y",
+    "C": "10 mart 1928y",
+    "D": "16 oktyabr 1954y",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi formula Joul-Lents qonuni ifodalaydi?",
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "javob": "A"
+  },
+  {
+    "savol": "Yurtimizda ishlab chiqarilayotgan elektr energiyasini qanchasi GES larda ishlab chiqaradi?",
+    "A": "14 %",
+    "B": "41 %",
+    "C": "5 %",
+    "D": "23 %",
+    "javob": "A"
+  },
+  {
+    "savol": "Mamlakatimizda nechta elektr stansiyalari mavjud?",
+    "A": "43",
+    "B": "48",
+    "C": "30",
+    "D": "52",
+    "javob": "A"
+  },
+  {
+    "savol": "Mamlakatimizdagi issiqlik elektr stansiyalarida ishlab chiqiladigan elektr energiyasining ulushi?",
+    "A": "86%",
+    "B": "71%",
+    "C": "65%",
+    "D": "81%",
+    "javob": "A"
+  },
+  {
+    "savol": "Mamlakatimizda issiqlik stansiyalarda gaz yoqilg`isining ulushi?",
+    "A": "90%",
+    "B": "77%",
+    "C": "81%",
+    "D": "87%",
+    "javob": "A"
+  },
+  {
+    "savol": "Mamlakatimizda eng katta quvvatli issiqlik stansiyasi qaysi?",
+    "A": "Sirdaryo IES",
+    "B": "Toshkent IES",
+    "C": "Yangi-Angren IES",
+    "D": "Navoiy IES",
+    "javob": "A"
+  },
+  {
+    "savol": "Mamlakatimizda eng katta quvvatli GES?",
+    "A": "Chorvoq GES",
+    "B": "G`azalkent GES",
+    "C": "Xojikent GES",
+    "D": "Farhod GES",
+    "javob": "A"
+  },
+  {
+    "savol": "Mamlakatimizda eng yirik energoblok quvvati?",
+    "A": "800 MVt",
+    "B": "500 MVt",
+    "C": "350 MVt",
+    "D": "11155 MVt",
+    "javob": "A"
+  },
+  {
+    "savol": "IESlarida qanday yuqori samaradorli qurilma qo`llanilmoqda?",
+    "A": "Bug`-gaz qurilmasi",
+    "B": "Quyosh qurilmasi",
+    "C": "Shamol qurilmasi",
+    "D": "Gazli qurilmasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Mamlakatimizda eng katta quvvatli energoblok qaysi IES da o`rnatilgan?",
+    "A": "Tolimarjon IES",
+    "B": "Toshkent MES",
+    "C": "Sirdaryo IES",
+    "D": "Navoiy IES",
+    "javob": "A"
+  },
+  {
+    "savol": "Mamlakatimizda energetik stansiyalarida yillik ishlab chiqarilshi mumkin bo`lgan elektr energiya miqdori?",
+    "A": "72 mlrd  kVt soat",
+    "B": "51 mlrd  kVt  soat",
+    "C": "49 mlrd  kVt  soat",
+    "D": "85 mlrd  kVt  soat",
+    "javob": "A"
+  },
+  {
+    "savol": "Mamlakatimizda issiqlik elektr stansiyalarida ko`mir yoqilg`ining ulushi?",
+    "A": "3%",
+    "B": "10%",
+    "C": "4%",
+    "D": "6%",
+    "javob": "A"
+  },
+  {
+    "savol": "GES gidroturbinaning vazifasi?",
+    "A": "Suv energiyasini mexanik energiyaga aylantirish",
+    "B": "Bug` hosil qilish",
+    "C": "Bug` energy-yasini elektr energiyaga aylantirish",
+    "D": "Shamol hosil qilish",
+    "javob": "A"
+  },
+  {
+    "savol": "Elektr stantsiyada bug` turbinasining vazifasi?",
+    "A": "Bug` energiyasini mexanik energiyaga aylantirish",
+    "B": "Bug` hosil qilish",
+    "C": "Bug` energiyasini elektr energiyaga aylantirish",
+    "D": "Shamol hosil qilish",
+    "javob": "A"
+  },
+  {
+    "savol": "Zanzirdagi aktiv quvvatning o`lchov birligi?",
+    "A": "Vt, kVt, MVt",
+    "B": "KVAr, mVAr",
+    "C": "V, kV, MV",
+    "D": "VA, kVA, mVA",
+    "javob": "A"
+  },
+  {
+    "savol": "Elektr kuchlanishning o`lchov birligi?",
+    "A": "V, kV",
+    "B": "KVA, mVA",
+    "C": "KVAr, mVAr",
+    "D": "A, kA",
+    "javob": "A"
+  },
+  {
+    "savol": "Elektr stansiyalarini qanday belgilanadi?",
+    "A": "IES, IEM, AES, GES",
+    "B": "MES",
+    "C": "ATES",
+    "D": "KES, IES, ATES",
+    "javob": "A"
+  },
+  {
+    "savol": "Gidroelektr stansiyalarini ko`rsating?",
+    "A": "GES, GAES",
+    "B": "AES",
+    "C": "AES, PGU",
+    "D": "GES, IES",
+    "javob": "A"
+  },
+  {
+    "savol": "Mamlakatimizda energetika tizimida qanday standart kuchlanish qo`llanadi?",
+    "A": "0,22, 0,38, 6, 10,  35, 110, 220, 500 kV",
+    "B": "3, 6, 10, 20, 35, 110, 152, 220, 330, 500, 750 kV",
+    "C": "0,22, 0,38, 0,66, 6, 10, 20, 35, 220, 330, 500, 750 kV",
+    "D": "10, 20, 27, 5, 35, 110, 220, 330, 500, 750, 1150 kV",
+    "javob": "A"
+  },
+  {
+    "savol": "KES ning FIK?",
+    "A": "40%",
+    "B": "51%",
+    "C": "63%",
+    "D": "81%",
+    "javob": "A"
+  },
+  {
+    "savol": "IEM ning FIK?",
+    "A": "62%",
+    "B": "51%",
+    "C": "41%",
+    "D": "83%",
+    "javob": "A"
+  },
+  {
+    "savol": "Tiklanuvchan energiya manbalari qaysilar?",
+    "A": "Quyosh energiyasi, shamol, gidravlik, geotermal energiyalari",
+    "B": "Shamol energiyasi, yoqilg`i energiyasi",
+    "C": "Quyosh, yoqilg`i energiyasi",
+    "D": "Issiqlik, atom energiyasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Eng birlamchi energiya nima?",
+    "A": "Tabiatdan olinadigan energiya",
+    "B": "Benzindan olingan energiya",
+    "C": "Yog`ochni yondirishda olinadigan energiya",
+    "D": "Suvdan olinadigan energiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Tabiyatdagi ikkilamchi energiya degani nima?",
+    "A": "Inson tomonidan birlamchi energiyaning maxsus qurilmalarda stansiyalarda qayta ishlanishi",
+    "B": "Ko`mirdan olingan energiya",
+    "C": "Torfdan olingan energiya",
+    "D": "Suvdan olingan energiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Jahonda energetik resurslarga nimalar kiradi?",
+    "A": "Ko`mir neft, tabiiy gaz, gidroenergetik reurslar, torf",
+    "B": "Sement, ohak, ganch",
+    "C": "Ko`mir, temir, alyuminiy",
+    "D": "Temir, tabiiy gaz",
+    "javob": "A"
+  },
+  {
+    "savol": "Barcha elektr stansiyalar nimaga asoslanib nomlanadi?",
+    "A": "Ularda birlamchi energiyaning qaysi turi ishlatlishiga qarab",
+    "B": "Quvvatiga qarab",
+    "C": "Tezligiga qarab",
+    "D": "Kuchlanishiga qarab",
+    "javob": "A"
+  },
+  {
+    "savol": "Tabiyatda tiklanadigan energetik resurslar deb nimaga aytiladi?",
+    "A": "Tabiat tomonidan qayta tiklanadigan resurslar (suv, shamol quyosh)",
+    "B": "Suvdan olinadigan resurslar",
+    "C": "Neftdan olinadigan energiyaga",
+    "D": "Ko`mirdan olinadigan energiyaga",
+    "javob": "A"
+  },
+  {
+    "savol": "Qayta tiklanmaydigan energetik resurslarga nimalar kiradi?",
+    "A": "Ko`mir, neft, tabiiy gaz",
+    "B": "Suv, quyosh",
+    "C": "Shamol, suv",
+    "D": "Ko`mir, quyosh",
+    "javob": "A"
+  },
+  {
+    "savol": "Jahonda issiqlik elektr stansiyasida birlamchi energiyasi sifatida qanday energetik resurslar ishlatiladi?",
+    "A": "Ko`mir, tabiiy gaz",
+    "B": "Suv",
+    "C": "Shamol",
+    "D": "Quyosh",
+    "javob": "A"
+  },
+  {
+    "savol": "Barcha atom elektr stansiyalarida ishlatiladigan birlamchi energiya turi?",
+    "A": "Uran-235",
+    "B": "Ko`mir, tabiiy gaz",
+    "C": "Ko`mir, Suv",
+    "D": "tabiiy gaz, Shamol",
+    "javob": "A"
+  },
+  {
+    "savol": "Atom yadro reaktori nima?",
+    "A": "Bo`linishni boshqaruvchi zanjirli yadro reaksiyasini bajaradigan qurilma",
+    "B": "Kanallardan keladigan suv sirkulyasiyasini boshqaradigan qurilma",
+    "C": "Elektr energiyani iste`molchiga uzatuvchi qurilma",
+    "D": "Birlamchi energiyani ishlab chiqaruvchi qurilma",
+    "javob": "A"
+  },
+  {
+    "savol": "Qoida bo`yicha AESlarni qaerlarda qurish ruxsat etiladi?",
+    "A": "Shahardan 180-200 km chetda, seysmik jihatdan tinch joyda",
+    "B": "Suv bo`yiga yaqin joyda",
+    "C": "Ko`mir, neft qurilmalari yaqinida",
+    "D": "Aholi yashaydigan hududga yaqin joyda",
+    "javob": "A"
+  },
+  {
+    "savol": "AES larda biologik himoya nima?",
+    "A": "Reaktorni tashqi muhitdan yuqori quvvatli neytronlar oqimining kirishidan muhofaza qiluvchi vosita",
+    "B": "Havo sirkulyasiyasini boshqarish vositasi",
+    "C": "Energiyani to`la holda saqlaydigan qurilma",
+    "D": "Havo sirkulyasiyasini boshqarish vositasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Barcha IESda turbina qanday vazifani bajaradi?",
+    "A": "Bug`ning ichki energiyasini mexanik energiyaga aylantiradi",
+    "B": "Bugni suvga aylantirish uchun xizmat kiladi",
+    "C": "Bugni sovitib, uni suvga aylantiradi",
+    "D": "Bugni uzatish uchun xizmat kiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Odadiy IESda energiyaning o`zgarish sxemasi (ketma-ketligi) qanday?",
+    "A": "Yoqilg`i, issiqlik, mexanik, elektr",
+    "B": "Yoqilgi, mexanik, issiklik, elektr",
+    "C": "Yoqilgi, issiqlik, elektr, mexanik",
+    "D": "Issiqlik, mexanik, elektr",
+    "javob": "A"
+  },
+  {
+    "savol": "O`zbekistonda mavjud KES larning foydali ish koeffisientlari taxminan qanday?",
+    "A": "35÷40% atrofida",
+    "B": "50÷55% atrofida",
+    "C": "60-65% atrofida",
+    "D": "90-95% atrofida",
+    "javob": "A"
+  },
+  {
+    "savol": "Bug` qurilmalarda qanday enersiya tashuvchidan foydalaniladi?",
+    "A": "Zamonaviy bug` qurilmalarda, harorati 600°C va bosim 30 MPa bo`lgan bug`dan foydalaniladi",
+    "B": "Harorati 600°C va bosim 30 MPa bo`lgan vodorod ishlatiladi",
+    "C": "Harorati 600°C va bosim 30 MPa bo`lgan geliy",
+    "D": "Harorati 500°C va bosim 25 MPa bo`lgan suv ishlatiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "IESda bug` qozoni o`txonasida qanday yoqilg`i ishlatiladi?",
+    "A": "Bug` qozoni o`txonasida changsimon holatga keltirilgan ko`mir, gaz yoki neft 1500-2000°C haroratda purkaladi",
+    "B": "60% vodorod, 15% geliy va 25% boshqa gazlar",
+    "C": "60% vodorod, 15% geliy gazlar",
+    "D": "Harorati 500°S va bosim 25 MPa bo`lgan shartli yoqilg`i",
+    "javob": "A"
+  },
+  {
+    "savol": "Barcha IEM larda qanday kamchilik mavjud? To`g`ri javobni ko`rsating",
+    "A": "IEM larda elektr energiyasi ishlab chiqarish katta issiqlik isroflari hisobiga sodir bo`ladi",
+    "B": "Issiqlikka bo`lgan ehtiyojlarni qoplash uchun kichik qozonlar qurish, iqtisodiy jihatdan to`g`ri kelmaydi",
+    "C": "Stansiya turbinalaridan chiqayotgan bug` 25-30°S haroratga ega",
+    "D": "Korxonalardagi texnologik jarayonlarda foydalanishga yaroqsiz",
+    "javob": "A"
+  },
+  {
+    "savol": "Barcha IEM da markazlashgan issiqlik bilan ta`minlangan holda, necha % elektr energiyasi ishlab chiqarish mumkin?",
+    "A": "IEM da markazlashgan issiqlik bilan ta`minlangan holda, 20-30% elektr energiyasi ishlab chiqarish mumkin",
+    "B": "50% elektr energiyasi ishlab chiqarish mumkin",
+    "C": "IEM markazlashgan issiqlik bilan ta`minlashga yaroqsiz",
+    "D": "IEM da elektr energiyasi ishlab chiqarish ga yaroqsiz",
+    "javob": "A"
+  },
+  {
+    "savol": "Zamonaviy gaz turbinasining asosiy komponentlari qaysilar?",
+    "A": "Kompressor, yondirgich, quvvat turbinasi",
+    "B": "Qozonlar, aksessuarlar",
+    "C": "Suv, bug`, gaz",
+    "D": "Generator, rotor",
+    "javob": "A"
+  },
+  {
+    "savol": "Zamonaviy bug` turbinasi qanday energiya manbaidan foydalanadi?",
+    "A": "Issiq gazsimon bug`",
+    "B": "Havo",
+    "C": "Tabiiy gaz",
+    "D": "Suv",
+    "javob": "A"
+  },
+  {
+    "savol": "Zamonaviy gaz turbinasini ishga tushirish jarayoni qanchalik tez amalga oshadi?",
+    "A": "Tez va oson",
+    "B": "Unchalik tez emas",
+    "C": "Faqat soatlar davom etadi",
+    "D": "Har doim juda sekin",
+    "javob": "A"
+  },
+  {
+    "savol": "Zamonaviy bug` turbinasiga nisbatan gaz turbinasining ichki harorati qanday?",
+    "A": "Har doim yuqori",
+    "B": "Har doim pastroq",
+    "C": "Har doim baravar",
+    "D": "Umuman farq yo`q",
+    "javob": "A"
+  }
+]
