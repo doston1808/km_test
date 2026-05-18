@@ -74,9 +74,9 @@
   {
     "savol": "Ko'rsatgichli kompleks sonni aniqlang",
     "A": "Z=re<sup>iφ</sup>",
-    "B": "z = r (cosφ < i sinφ)",
+    "B": "z = r (cosφ + i sinφ)",
     "C": "z = 5 - 15i",
-    "D": "z = (cosφ < sinφ)",
+    "D": "z = (cosφ + sinφ)",
     "javob": "A"
   },
   {
