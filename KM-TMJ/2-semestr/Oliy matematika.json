@@ -1,0 +1,970 @@
+[
+  {
+    "savol": "......ko'rinishdagi ifodaga kompleks son deyiladi.",
+    "A": "a + bi",
+    "B": "a + bk",
+    "C": "a + bj",
+    "D": "a + bd",
+    "javob": "A"
+  },
+  {
+    "savol": "Kompleks sonning haqiqiy qismi qanday belgilanadi?",
+    "A": "Re(Z)",
+    "B": "Im(Z)",
+    "C": "R",
+    "D": "Q",
+    "javob": "A"
+  },
+  {
+    "savol": "Kompleks sonning mavhum qismi qanday belgilanadi?",
+    "A": "Im(Z)",
+    "B": "Re(Z)",
+    "C": "R",
+    "D": "Q",
+    "javob": "A"
+  },
+  {
+    "savol": "Kompleks sonning moduli qanday formula orqali aniqlanadi?",
+    "A": "|z|=√a²+b²",
+    "B": "|z|=√a²b²",
+    "C": "|z|=√a²+ib²",
+    "D": "|z|=√ia²+b²",
+    "javob": "A"
+  },
+  {
+    "savol": "a + bi kompleks sonning haqiqiy qismini ko'rsating",
+    "A": "a",
+    "B": "b",
+    "C": "i",
+    "D": "bi",
+    "javob": "A"
+  },
+  {
+    "savol": "(5 + 2i) + (7 + 8i) ifodaning yechimini toping",
+    "A": "12+10i",
+    "B": "10+12i",
+    "C": "10+8i",
+    "D": "10+i",
+    "javob": "A"
+  },
+  {
+    "savol": "(5 + 2i) - (7 + 8i) ifodaning yechimini toping",
+    "A": "-2-6i",
+    "B": "-2+6i",
+    "C": "2-i",
+    "D": "3+6i",
+    "javob": "A"
+  },
+  {
+    "savol": "(5 - 2i) - (0 + 13i) ifodaning yechimini toping",
+    "A": "5 - 15i",
+    "B": "-5 + 15i",
+    "C": "-5 - 15i",
+    "D": "5 + 15i",
+    "javob": "A"
+  },
+  {
+    "savol": "(2+3i)+(2+5i) ifodaning yechimini toping.",
+    "A": "4+8i",
+    "B": "-2+6i",
+    "C": "2-6i",
+    "D": "6i",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko'rsatgichli kompleks sonni aniqlang",
+    "A": "Z=re<sup>iφ</sup>",
+    "B": "z = r (cosφ < i sinφ)",
+    "C": "z = 5 - 15i",
+    "D": "z = (cosφ < sinφ)",
+    "javob": "A"
+  },
+  {
+    "savol": "Kompleks sonning mavhum qismi qanday ifodalanadi?",
+    "A": "Im(Z)",
+    "B": "Re(Z)",
+    "C": "R",
+    "D": "Q",
+    "javob": "A"
+  },
+  {
+    "savol": "Kompleks sonning haqiqiy qismi qanday ifodalanadi?",
+    "A": "Re(Z)",
+    "B": "Im(Z)",
+    "C": "R",
+    "D": "Q",
+    "javob": "A"
+  },
+  {
+    "savol": "z = a + bi kompleks sonning mavhum birligini ko'rsating",
+    "A": "i",
+    "B": "a",
+    "C": "b",
+    "D": "bi",
+    "javob": "A"
+  },
+  {
+    "savol": "z = a + bi kompleks sonning haqiqiy qismini ko'rsating",
+    "A": "a",
+    "B": "b",
+    "C": "i",
+    "D": "bi",
+    "javob": "A"
+  },
+  {
+    "savol": "z = a + bi kompleks sonning mavhum qismini ko'rsating",
+    "A": "bi",
+    "B": "a",
+    "C": "b",
+    "D": "i",
+    "javob": "A"
+  },
+  {
+    "savol": "z = 5 + 2i kompleks sonning mavhum qismning koeffisiyentini ko'rsating",
+    "A": "2",
+    "B": "5",
+    "C": "2i",
+    "D": "i",
+    "javob": "A"
+  },
+  {
+    "savol": "(6 - 2i) - (7 + 8i) ifodaning yechimini toping",
+    "A": "-1-10i",
+    "B": "10+12i",
+    "C": "10+8i",
+    "D": "10+10i",
+    "javob": "A"
+  },
+  {
+    "savol": "(5 + 2i) + (10 + 8i) ifodaning yechimini toping",
+    "A": "15+10i",
+    "B": "10+12i",
+    "C": "10+8i",
+    "D": "10+10i",
+    "javob": "A"
+  },
+  {
+    "savol": "(9 - 2i) + (7 + 8i) ifodaning yechimini toping",
+    "A": "16+6i",
+    "B": "10+12i",
+    "C": "10+8i",
+    "D": "10+10i",
+    "javob": "A"
+  },
+  {
+    "savol": "Qanday shart bajarilsa F(x) funksiya f(x) funksiyaning boshlang'ich funksiyasi bo'ladi?",
+    "A": "F'(x) = f(x)",
+    "B": "F(x) = 0",
+    "C": "f(x)=12",
+    "D": "",
+    "javob": "A"
+  },
+  {
+    "savol": "Berilgan f(x) funksiyaning ixtiyoriy ikkita boshlang'ich funksiyasi nima bilan farq qiladi?",
+    "A": "O'zgarmas C soni bilan",
+    "B": "Integral belgisi bilan",
+    "C": "Funksiyasi bilan",
+    "D": "Differnsiali bilan",
+    "javob": "A"
+  },
+  {
+    "savol": "∫f(x)dx = F(x) + C berilgan integralda integral osti funksiyasini ko'rsating.",
+    "A": "f(x)",
+    "B": "F(x)",
+    "C": "C",
+    "D": "F(x)+C",
+    "javob": "A"
+  },
+  {
+    "savol": "∫f(x)dx = F(x) + C berilgan integralda integral osti ifodasini ko'rsating.",
+    "A": "f(x)dx",
+    "B": "F(x)",
+    "C": "C",
+    "D": "F(x)+C",
+    "javob": "A"
+  },
+  {
+    "savol": "∫f(x)dx = F(x) + C berilgan integralda o'zgarmas sonni ko'rsating.",
+    "A": "C",
+    "B": "F(x)",
+    "C": "dx",
+    "D": "f(x)",
+    "javob": "A"
+  },
+  {
+    "savol": "∫f(x)dx = F(x) + C berilgan funksiyaning boshlang'ich funksiyasini ko'rsating.",
+    "A": "F(x)",
+    "B": "f(x)",
+    "C": "C",
+    "D": "dx",
+    "javob": "A"
+  },
+  {
+    "savol": "∫f(x)dx = F(x) + C berilgan funksiyaning boshlang'ich funksiyalar to'plamini ko'rsating.",
+    "A": "F(x)+C",
+    "B": "F(x)",
+    "C": "f(x)",
+    "D": "dx",
+    "javob": "A"
+  },
+  {
+    "savol": "f(x) = x^{2} funksiyaning boshlang'ich funksiyasini toping.",
+    "A": "F(x) = x^{3}/3 + C",
+    "B": "F(x)=x+C",
+    "C": "F(x)=2",
+    "D": "F(x)",
+    "javob": "A"
+  },
+  {
+    "savol": "f(x) = sin x funksiyaning boshlang'ich funksiyasini toping",
+    "A": "F(x) = -cos x + C",
+    "B": "F(x)=sin x",
+    "C": "F(x)=C",
+    "D": "0",
+    "javob": "A"
+  },
+  {
+    "savol": "∫kf(x)dx = k ∫ f(x)dx aniqmas integralaning ushbu xossasida o'zgarmas sonni ko'rsating",
+    "A": "k",
+    "B": "f(x)",
+    "C": "dx",
+    "D": "∫",
+    "javob": "A"
+  },
+  {
+    "savol": "∫kf(x)dx = k ∫ f(x)dx aniqmas integralaning xossasi to'g'ri ta'riflangan qatorni ko'rsating.",
+    "A": "O'zgarmas ko'paytuvchini aniqmas integral ishorasidan tashqariga chiqarish mumkin",
+    "B": "k bu funksiya",
+    "C": "k integrallash natijasini xató qiladi",
+    "D": "Integral noto'g'ri tuzilgan",
+    "javob": "A"
+  },
+  {
+    "savol": "∫[f(x) ± g(x)]dx = ∫f(x)dx ± ∫g(x)dx aniqmas integralning xossasi to'g'ri ta'riflangan qatorni ko'rsating.",
+    "A": "Bir necha funksiyalar algebraik yig'indisining aniqmas integrali shu funksiyalar aniqmas integrallarining algebraik yig'indisiga teng",
+    "B": "f(x) va g(x) bir xil tipli funksiyalar",
+    "C": "f(x) va g(x) turlicha bo'lgan funksiyalar",
+    "D": "Soddaroq bo'lishi uchun alohida yozilgan",
+    "javob": "A"
+  },
+  {
+    "savol": "∫x^{a}dx = tenglikni davom ettiring.",
+    "A": "x^{a+1}/(a+1) + C",
+    "B": "ln|x| + C",
+    "C": "a^{x}/ln a + C",
+    "D": "-cos x + C",
+    "javob": "A"
+  },
+  {
+    "savol": "y=-9x+2 hosilasini toping.",
+    "A": "-9",
+    "B": "11",
+    "C": "-5",
+    "D": "-10",
+    "javob": "A"
+  },
+  {
+    "savol": "y=19x+8 hosilasini toping.",
+    "A": "19",
+    "B": "-1",
+    "C": "-2",
+    "D": "0",
+    "javob": "A"
+  },
+  {
+    "savol": "y=36x-5 hosilasini toping.",
+    "A": "36",
+    "B": "12",
+    "C": "53",
+    "D": "-4",
+    "javob": "A"
+  },
+  {
+    "savol": "y=30x+36 hosilasini toping.",
+    "A": "30",
+    "B": "-11",
+    "C": "-5",
+    "D": "20",
+    "javob": "A"
+  },
+  {
+    "savol": "y=16x-74 hosilasini toping.",
+    "A": "16",
+    "B": "42",
+    "C": "32",
+    "D": "52",
+    "javob": "A"
+  },
+  {
+    "savol": "y=52x-1,6 hosilasini toping.",
+    "A": "52",
+    "B": "1,1",
+    "C": "42",
+    "D": "45",
+    "javob": "A"
+  },
+  {
+    "savol": "y=10x+2,4 hosilasini toping.",
+    "A": "10",
+    "B": "17",
+    "C": "59",
+    "D": "39",
+    "javob": "A"
+  },
+  {
+    "savol": "y=11x-1,5 hosilasini toping.",
+    "A": "11",
+    "B": "15",
+    "C": "22",
+    "D": "37",
+    "javob": "A"
+  },
+  {
+    "savol": "Ta’rifni davom ettiring. y=f(x) funksiyaning qabul qilishi mumkin bo’lgan qiymatlar to’plamiga …. deyiladi.",
+    "A": "qiymatlar sohasi",
+    "B": "aniqlanish sohasi",
+    "C": "funksiya",
+    "D": "nol",
+    "javob": "A"
+  },
+  {
+    "savol": "Ta’rifni davom ettiring. Funksiyaning aniqlanish sohasi …. kabi belgilanadi.",
+    "A": "D(f)",
+    "B": "E(f)",
+    "C": "t(f)",
+    "D": "f(x)",
+    "javob": "A"
+  },
+  {
+    "savol": "Ta'rifni davom ettiring. Funksiyaning qiymatlar sohasi .... kabi belgilanadi.",
+    "A": "E(f)",
+    "B": "t(f)",
+    "C": "f(x)",
+    "D": "D(f)",
+    "javob": "A"
+  },
+  {
+    "savol": "y(x)=5x-2 funksiyaning y(1) dagi qiymatini toping.",
+    "A": "3",
+    "B": "5",
+    "C": "13",
+    "D": "0",
+    "javob": "A"
+  },
+  {
+    "savol": "y(x)=x+13 funksiyaning y(2) dagi qiymatini toping.",
+    "A": "15",
+    "B": "5",
+    "C": "13",
+    "D": "0",
+    "javob": "A"
+  },
+  {
+    "savol": "y(x)=x+1 funksiyaning y(-2) dagi qiymatini toping.",
+    "A": "-1",
+    "B": "5",
+    "C": "13",
+    "D": "0",
+    "javob": "A"
+  },
+  {
+    "savol": "y=2x<sup>2</sup>+5x-1 funksiyaning x=2 bo'lgandagi qiymatini toping.",
+    "A": "17",
+    "B": "21",
+    "C": "-1",
+    "D": "10",
+    "javob": "A"
+  },
+  {
+    "savol": "y=6x<sup>2</sup>-7x+1 funksiyaning y(-1) dagi qiymatini toping.",
+    "A": "14",
+    "B": "5",
+    "C": "7",
+    "D": "9",
+    "javob": "A"
+  },
+  {
+    "savol": "y=x<sup>2</sup>-5x+2 funksiyaning y(-2) dagi qiymatini toping.",
+    "A": "16",
+    "B": "15",
+    "C": "17",
+    "D": "9",
+    "javob": "A"
+  },
+  {
+    "savol": "y=x<sup>2</sup>+5x-1 funksiyaning x=3 bo'lgandagi qiymatini toping.",
+    "A": "23",
+    "B": "21",
+    "C": "-1",
+    "D": "10",
+    "javob": "A"
+  },
+  {
+    "savol": "Jadval usulda berilgan funksiyalar qanday ko'rinishda bo'ladi?",
+    "A": "erkli o'zgaruvchi(argument) ning erksiz o'zgaruvchi(funksiya) ning mos qiymatlarini jadval shaklda beriladi",
+    "B": "funksiya ma'lum formula, ya'ni erkli o'zgaruvchi(argument)ning erksiz o'zgaruvchi(funksiya) ga bog'lanish ko'rinishida beriladi",
+    "C": "funksiyaning qiymatlarining argument qiymatlariga bog'liqligining grafik tarzda beriladi",
+    "D": "Barcha javoblar to'g'ri",
+    "javob": "A"
+  },
+  {
+    "savol": "2x-4=0 x noma'lum sonni toping?",
+    "A": "x=2",
+    "B": "x=3",
+    "C": "x=5",
+    "D": "x=0",
+    "javob": "A"
+  },
+  {
+    "savol": "Funksiya so'zi qaysi tildan olingan",
+    "A": "lotincha",
+    "B": "yunoncha",
+    "C": "ruscha",
+    "D": "inglizcha",
+    "javob": "A"
+  },
+  {
+    "savol": "Funksiyaning aniqlanish sohasi ... bilan belgilanadi",
+    "A": "D(y)",
+    "B": "E(y)",
+    "C": "F(y)",
+    "D": "G(y)",
+    "javob": "A"
+  },
+  {
+    "savol": "Funksiyaning qiymatlar sohasi ... bilan belgilanadi",
+    "A": "E(y)",
+    "B": "D(y)",
+    "C": "G(y)",
+    "D": "F(y)",
+    "javob": "A"
+  },
+  {
+    "savol": "y=f(x) funksiyada x nima",
+    "A": "erkli o'zgaruvchi",
+    "B": "erksiz o'zgaruvchi",
+    "C": "Parameter",
+    "D": "Operator",
+    "javob": "A"
+  },
+  {
+    "savol": "y=f(x) funksiyada y nima",
+    "A": "erksiz o'zgaruvchi",
+    "B": "Erkli o'zgaruvchi",
+    "C": "Parameter",
+    "D": "Operator",
+    "javob": "A"
+  },
+  {
+    "savol": "y=f(x) funksiyada f nima",
+    "A": "x ni y ga mos qo'yuvchi qoida",
+    "B": "Erkli o'zgaruvchi",
+    "C": "Parameter",
+    "D": "erksiz o'zgaruvchi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ikki funksiya bo'linmasining limiti bu funksiyalar...",
+    "A": "Limitlarning nisbatiga teng",
+    "B": "Limitlarning ko'paytmasiga teng",
+    "C": "Limitlarning ayirmasiga teng",
+    "D": "Limitlarning yig'indisiga teng",
+    "javob": "A"
+  },
+  {
+    "savol": "Ikki funksiya ko'paytmasining limiti bu funksiyalar...",
+    "A": "Limitlarning ko'paytmasiga teng",
+    "B": "Limitlarning bo'linmasiga teng",
+    "C": "Limitlarning ayirmasiga teng",
+    "D": "Limitlarning yig'indisiga teng",
+    "javob": "A"
+  },
+  {
+    "savol": "Differensial tenglama tartibini aniqlang y'''= x-2",
+    "A": "3",
+    "B": "4",
+    "C": "2",
+    "D": "1",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar ∀x ∈ X uchun f(-x) = f(x) tenglik bajarilsa f(x) funksiya...",
+    "A": "Juft funksiya",
+    "B": "Toq funksiya",
+    "C": "Davriy funksiya",
+    "D": "Monoton funksiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar ∀x ∈ X uchun f(-x) = -f(x) tenglik bajarilsa f(x) funksiya...",
+    "A": "Toq funksiya",
+    "B": "Juft funksiya",
+    "C": "Monoton funksiya",
+    "D": "Davriy funksiya",
+    "javob": "A"
+  },
+  {
+    "savol": "O'suvchi va kamayuvchi funksiyalar umumiy nom bilan qanday funksiyalar deyiladi?",
+    "A": "Monoton funksiya",
+    "B": "Toq funksiya",
+    "C": "O'suvchi",
+    "D": "Kamayuvchi",
+    "javob": "A"
+  },
+  {
+    "savol": "y=3x<sup>2</sup>+5x-9 Funksiyaning aniqlanish sohasini toping.",
+    "A": "x∈R",
+    "B": "[2;6]",
+    "C": "(0; +∞)",
+    "D": "(-∞; 10)U (10; +∞)",
+    "javob": "A"
+  },
+  {
+    "savol": "Funksiyaning aniqlanish sohasini toping. y = log<sub>7</sub>(3x - 15)",
+    "A": "(5; +∞)",
+    "B": "(-∞; 3) U (3; +∞)",
+    "C": "(3; +∞)",
+    "D": "(-∞; 10)U (10; +∞)",
+    "javob": "A"
+  },
+  {
+    "savol": "Funksiyaning aniqlanish sohasini toping. y = (10 - 13x)/(9x - 27)",
+    "A": "(-∞; 3) U (3; +∞)",
+    "B": "(5; +∞)",
+    "C": "(-∞; 310 U (13; +∞)",
+    "D": "(-∞; 10)U (10; +∞)",
+    "javob": "A"
+  },
+  {
+    "savol": "Funksiyaning aniqlanish sohasini toping. y = (14x - 9)/(2x - 20)",
+    "A": "(-∞; 10)U (10; +∞)",
+    "B": "(5; +∞)",
+    "C": "(-∞; 4)U (10; +∞)",
+    "D": "",
+    "javob": "A"
+  },
+  {
+    "savol": "y=2x<sup>2</sup>+5x-1 funksiyaning x→2 bo'lgandagi limiti topilsin.",
+    "A": "17",
+    "B": "15",
+    "C": "-24",
+    "D": "5",
+    "javob": "A"
+  },
+  {
+    "savol": "lim<sub>x→0</sub> (4 sin x)/x limitni hisoblang.",
+    "A": "4",
+    "B": "-4",
+    "C": "2",
+    "D": "1",
+    "javob": "A"
+  },
+  {
+    "savol": "f(x)=2x<sup>2</sup>-6x+7 funksiyani f(1) ni qiymatini toping.",
+    "A": "3",
+    "B": "-3",
+    "C": "5",
+    "D": "4",
+    "javob": "A"
+  },
+  {
+    "savol": "f(x)=7x<sup>8</sup>-10x<sup>2</sup> funksiyaning f(1) dagi qiymatini toping.",
+    "A": "-3",
+    "B": "3",
+    "C": "5",
+    "D": "1",
+    "javob": "A"
+  },
+  {
+    "savol": "f(x)=x<sup>4</sup>-6x<sup>2</sup>+7 funksiya haqidagi to'g'ri tasdiqni aniqlang.",
+    "A": "juft funksiya",
+    "B": "na juft na toq",
+    "C": "toq funksiya",
+    "D": "kamayuvchi funksiya",
+    "javob": "A"
+  },
+  {
+    "savol": "f(x)=x<sup>6</sup>-5x<sup>2</sup> funksiya haqidagi to'g'ri tasdiqni aniqlang.",
+    "A": "juft funksiya",
+    "B": "toq funksiya",
+    "C": "na juft na toq",
+    "D": "Davriy funksiya",
+    "javob": "A"
+  },
+  {
+    "savol": "f(x)=x<sup>8</sup>-10x<sup>2</sup> funksiya haqidagi to'g'ri tasdiqni aniqlang.",
+    "A": "juft funksiya",
+    "B": "toq funksiya",
+    "C": "na juft na toq",
+    "D": "kamayuvchi funksiya",
+    "javob": "A"
+  },
+  {
+    "savol": "f(x)=x<sup>5</sup>-10x<sup>3</sup> funksiya haqidagi to'g'ri tasdiqni aniqlang.",
+    "A": "toq funksiya",
+    "B": "juft funksiya",
+    "C": "na juft na toq",
+    "D": "kamayuvchi funksiya",
+    "javob": "A"
+  },
+  {
+    "savol": "f(x)=6x<sup>6</sup>-5x<sup>2</sup> funksiyaning f(1) dagi qiymatini toping.",
+    "A": "1",
+    "B": "2",
+    "C": "-2",
+    "D": "5",
+    "javob": "A"
+  },
+  {
+    "savol": "ā(0;4) bo'lsa ,uning uzunligini toping.",
+    "A": "4",
+    "B": "0",
+    "C": "8",
+    "D": "5",
+    "javob": "A"
+  },
+  {
+    "savol": "Funksiya maksimum va minimumlari umumiy nom bilan uning .... deyiladi.",
+    "A": "ekstremumlari",
+    "B": "statsionar nuqtalari",
+    "C": "egilish nuqtalari",
+    "D": "asimtotalari",
+    "javob": "A"
+  },
+  {
+    "savol": "(a,b) oraliqda differensiallanuvchi y=f(x) funksiya musbat hosilaga ega, ya'ni f'(x)>0, bo'lsa, funksiya shu oraliqda.... bo'ladi;",
+    "A": "O'suvchi",
+    "B": "Kamayuvchi",
+    "C": "Uzluksiz",
+    "D": "Monoton",
+    "javob": "A"
+  },
+  {
+    "savol": "(a,b) oraliqda differensiallanuvchi y=f(x) funksiya manfiy hosilaga ega, ya'ni f'(x)<0, bo'lsa, funksiya shu oraliqda... bo'ladi.",
+    "A": "Kamayuvchi",
+    "B": "O'suvchi",
+    "C": "Uzluksiz",
+    "D": "Monoton",
+    "javob": "A"
+  },
+  {
+    "savol": "x (argument)ning qabul qilishi mumkin bo'lgan qiymatlar to'plamiga funksiyaning .... sohasi deyiladi.",
+    "A": "aniqlanish sohasi",
+    "B": "qiymatlar sohasi",
+    "C": "monoton soha",
+    "D": "o'suvchi soha",
+    "javob": "A"
+  },
+  {
+    "savol": "y (funksiya)ning qabul qilishi mumkin bo'lgan qiymatlar to'plamiga funksiyaning .... sohasi deyiladi.",
+    "A": "qiymatlar sohasi",
+    "B": "aniqlanish sohasi",
+    "C": "o'suvchi soha",
+    "D": "monoton soha",
+    "javob": "A"
+  },
+  {
+    "savol": "X va Y - sonli to'plamlar bo'lsin. Har bir x tegishli X nuqtaga y tegishli Y nuqtani mos qo'yuvchi qonuniyat ...... deyiladi.",
+    "A": "Funksiya",
+    "B": "Hosila",
+    "C": "Differensial",
+    "D": "Integral",
+    "javob": "A"
+  },
+  {
+    "savol": "f(x)=x<sup>2</sup>-6 Funksiyani berilgan argumentda qiymatini toping. f(-3) toping.",
+    "A": "3",
+    "B": "6",
+    "C": "4",
+    "D": "-6",
+    "javob": "A"
+  },
+  {
+    "savol": "f(x<sub>0</sub>+Δx) ≈ f(x<sub>0</sub>)+f'(x<sub>0</sub>)Δx qanday formula hisoblanadi?",
+    "A": "funksiya qiymatini taqribiy hisoblash",
+    "B": "Aniqlanish sohasini taqribiy hisoblash",
+    "C": "funksiya hosilasini taqribiy hisoblash",
+    "D": "funksiya qiymatini aniq hisoblash",
+    "javob": "A"
+  },
+  {
+    "savol": "f(x)=x<sup>2</sup>-6 Funksiyani berilgan argumentda qiymatini toping. f(0) toping.",
+    "A": "-6",
+    "B": "4",
+    "C": "-12",
+    "D": "5",
+    "javob": "A"
+  },
+  {
+    "savol": "f(x)=x<sup>3</sup>+2x Funksiyani berilgan argumentda qiymatini toping. f(0) toping.",
+    "A": "0",
+    "B": "1",
+    "C": "2",
+    "D": "4",
+    "javob": "A"
+  },
+  {
+    "savol": "f(x)=x<sup>3</sup>+2x Funksiyani berilgan argumentda qiymatini toping. f(-1) toping",
+    "A": "-3",
+    "B": "2",
+    "C": "1",
+    "D": "5",
+    "javob": "A"
+  },
+  {
+    "savol": "f(x)=x<sup>3</sup>+2x Funksiyani berilgan argumentda qiymatini toping. f(-2) toping.",
+    "A": "-12",
+    "B": "8",
+    "C": "12",
+    "D": "3",
+    "javob": "A"
+  },
+  {
+    "savol": "f(x)=-3x+3, g(x)=-5x+4 bo'lsa, (f-g)(x)=?",
+    "A": "2x-1",
+    "B": "-8x+2",
+    "C": "23",
+    "D": "2x+12",
+    "javob": "A"
+  },
+  {
+    "savol": "y(x)=5x+13 funksiyaning y(1) dagi qiymatini toping.",
+    "A": "18",
+    "B": "5",
+    "C": "13",
+    "D": "0",
+    "javob": "A"
+  },
+  {
+    "savol": "y(x)=5x+13 funksiyaning y(2) dagi qiymatini toping.",
+    "A": "23",
+    "B": "5",
+    "C": "13",
+    "D": "0",
+    "javob": "A"
+  },
+  {
+    "savol": "Funksiyalar nechchi xil usulda beriladi.",
+    "A": "3",
+    "B": "2",
+    "C": "6",
+    "D": "5",
+    "javob": "A"
+  },
+  {
+    "savol": "O'sivchi va kamayuvchi funksiyalar umumiy nom bilan qanday funksiyalar deyiladi?",
+    "A": "Monoton funksiyalar",
+    "B": "Davriy funksiya",
+    "C": "Toq funksiya",
+    "D": "Uzluksiz funksiya",
+    "javob": "A"
+  },
+  {
+    "savol": "y=2x<sup>2</sup>+5x-1 funksiyaning x->2 bo'lgandagi limiti toping.",
+    "A": "17",
+    "B": "21",
+    "C": "-1",
+    "D": "10",
+    "javob": "A"
+  },
+  {
+    "savol": "Ta'rifni to'ldiring: y=f(x) funksiyaning ...... deb x argumentning qabul qilishi mumkin bo'ladigan qiymatlar to'plamiga aytiladi.",
+    "A": "aniqlanish sohasi",
+    "B": "manfiy",
+    "C": "cheksiz",
+    "D": "Ma'noga ega",
+    "javob": "A"
+  },
+  {
+    "savol": "y=3x-7 funksiyaning y(3) dagi qiymatini toping.",
+    "A": "2",
+    "B": "5",
+    "C": "7",
+    "D": "9",
+    "javob": "A"
+  },
+  {
+    "savol": "y=6x<sup>2</sup>-7x+1 funksiyaning y(-1) dagi qiymatini toping.",
+    "A": "14",
+    "B": "5",
+    "C": "7",
+    "D": "9",
+    "javob": "A"
+  },
+  {
+    "savol": "y=x<sup>2</sup>-5x+2 funksiyaning y(-2) dagi qiymatini toping.",
+    "A": "16",
+    "B": "15",
+    "C": "17",
+    "D": "9",
+    "javob": "A"
+  },
+  {
+    "savol": "Ta'rifni davom ettiring. Bir to'plam elementlarini boshqa to'plam elementlari bilan ma'lum bir qoida orqali bo'lanishiga ...... deyiladi.",
+    "A": "Funksiya",
+    "B": "Nol",
+    "C": "Matritsa",
+    "D": "Determinant",
+    "javob": "A"
+  },
+  {
+    "savol": "Analitik usulda berilgan funksiyalar qanday ko'rinishda bo'ladi?",
+    "A": "funksiya ma'lum formula, ya'ni erkli o'zgaruvchi(argument)ning erksiz o'zgaruvchi(funksiya) ga bog'lanish ko'rinishida beriladi",
+    "B": "funksiyaning qiymatlarining argument qiymatlariga bog'liqligining grafik tarzda beriladi",
+    "C": "erkli o'zgaruvchi(argument) ning erksiz o'zgaruvchi(funksiya) ning mos qiymatlarini jadval shaklda beriladi",
+    "D": "Barcha javoblar to'g'ri",
+    "javob": "A"
+  },
+  {
+    "savol": "Grafik usulda berilgan funksiyalar qanday ko'rinishda bo'ladi?",
+    "A": "funksiyaning qiymatlarining argument qiymatlariga bog'liqligining grafik tarzda beriladi",
+    "B": "funksiya ma'lum formula, ya'ni erkli o'zgaruvchi(argument)ning erksiz o'zgaruvchi(funksiya) ga bog'lanish ko'rinishida beriladi",
+    "C": "erkli o'zgaruvchi(argument) ning erksiz o'zgaruvchi(funksiya) ning mos qiymatlarini jadval shaklda beriladi",
+    "D": "Barcha javoblar to'g'ri",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar y=f(x) funksiyaning aniqlanish sohasida olingan hamma qiymatlarida f(-x)=-f(x) bo'lsa, bu funksiya ... deyiladi.",
+    "A": "Toq funksiya",
+    "B": "Juft funksiya",
+    "C": "Manfiy funksiya",
+    "D": "Musbat funksiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Funksiyaning hosilasiini toping. f(x)=x<sup>3</sup>-7x+5",
+    "A": "3x<sup>2</sup>-7",
+    "B": "9-x",
+    "C": "2x-9",
+    "D": "3x-7",
+    "javob": "A"
+  },
+  {
+    "savol": "y=2x+5 hosilasiini toping.",
+    "A": "2",
+    "B": "1",
+    "C": "5",
+    "D": "0",
+    "javob": "A"
+  },
+  {
+    "savol": "y=5x<sup>2</sup>+3x hosilasiini toping.",
+    "A": "10x+3",
+    "B": "3x-4",
+    "C": "5x-6",
+    "D": "4x-6",
+    "javob": "A"
+  },
+  {
+    "savol": "y=x<sup>2</sup>+5x, hosilasiini toping.",
+    "A": "2x+5",
+    "B": "3x-4",
+    "C": "5x-6",
+    "D": "4x-6",
+    "javob": "A"
+  },
+  {
+    "savol": "Ushbu y=2sinx funktsiya uchun y' ni toping",
+    "A": "2 cos x",
+    "B": "(2/3) cos 3x",
+    "C": "(2/3) sin 2x",
+    "D": "(3/2) sin 2x",
+    "javob": "A"
+  },
+  {
+    "savol": "Ayirmaning hosilasi ....",
+    "A": "Hosilalar ayirmasiga teng",
+    "B": "Hosilalar yig'indisiga teng",
+    "C": "Hosilalar ko'paytmasiga teng",
+    "D": "Hosilalar bo'linmasiga teng",
+    "javob": "A"
+  },
+  {
+    "savol": "Yig'indining hosilasi....",
+    "A": "Hosilalar yig'indisiga teng",
+    "B": "Hosilalar ayirmasiga teng",
+    "C": "Hosilalar ko'paytmasiga teng",
+    "D": "Hosilalar bo'linmasiga teng",
+    "javob": "A"
+  },
+  {
+    "savol": "y= sinx funksiyaning hosilasiini toping.",
+    "A": "cosx",
+    "B": "-sinx",
+    "C": "tgx",
+    "D": "ctgx",
+    "javob": "A"
+  },
+  {
+    "savol": "Moddiy nuqta harakat qonuni ifodalanga n yo'lninq tenglamasidan olingan hosila nimani ifodalaydi?",
+    "A": "tezligini ifodalaydi",
+    "B": "harakat tezlanishini ifodalaydi",
+    "C": "Masofasini ifodalaydi",
+    "D": "Harakat vaqtini ifodalaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "y=4x<sup>2</sup>-x+5 hosilasini toping.",
+    "A": "8x-1",
+    "B": "3x-5",
+    "C": "5x",
+    "D": "4x-6",
+    "javob": "A"
+  },
+  {
+    "savol": "y=5sinx -cosx hosilasini toping.",
+    "A": "5cosx+sinx",
+    "B": "3cosx",
+    "C": "sinx-cosx",
+    "D": "2cosx-sinx",
+    "javob": "A"
+  },
+  {
+    "savol": "Tezlikdan olingan hosila nimaga teng?",
+    "A": "Tezlanishga teng",
+    "B": "Nolga teng",
+    "C": "Mavjud emas",
+    "D": "Chastotaga teng",
+    "javob": "A"
+  },
+  {
+    "savol": "y=3x+sinx funksiyaning hosilasi toping.",
+    "A": "3+cosx",
+    "B": "cosx-4",
+    "C": "sinx-2",
+    "D": "sinx+2",
+    "javob": "A"
+  },
+  {
+    "savol": "y=cosx-8x-12 funksiyaning hosilasi toping.",
+    "A": "-sinx-8",
+    "B": "cosx-8",
+    "C": "sinx-12",
+    "D": "sinx+24",
+    "javob": "A"
+  },
+  {
+    "savol": "y=7x<sup>2</sup> - 2x + 7 funksiyaning hosilasi toping.",
+    "A": "14x-2",
+    "B": "3x-4",
+    "C": "25x-6",
+    "D": "24x-64",
+    "javob": "A"
+  },
+  {
+    "savol": "O'zgarmas sonning hosilasi nimaga teng?",
+    "A": "nolga",
+    "B": "birga",
+    "C": "ikkiga",
+    "D": "uchga",
+    "javob": "A"
+  },
+  {
+    "savol": "y=3x-77 hosilasini toping.",
+    "A": "3",
+    "B": "1",
+    "C": "5",
+    "D": "0",
+    "javob": "A"
+  }
+]

@@ -1,0 +1,1622 @@
+[
+  {
+    "question": "Dunyoni afsonaviy tushunish?",
+    "options": [
+      "Mifologiya",
+      "Antropologiya",
+      "Astrologiya",
+      "Urbanizatsiya"
+    ],
+    "answer": "Mifologiya"
+  },
+  {
+    "question": "Dunyoqarash turlari?",
+    "options": [
+      "mifologik, diniy, falsafiy, ilmiy",
+      "astrologik, mifologik, antropologik",
+      "mifologik, diniy, antropologik",
+      "ilmiy, falsafiy, astrologik, mifologik"
+    ],
+    "answer": "mifologik, diniy, falsafiy, ilmiy"
+  },
+  {
+    "question": "Din nima?",
+    "options": [
+      "Ijtimoiy ong shakli",
+      "Axloqiy ong ko'rinishi",
+      "Estetik va Xuquqiy ong ko'rinishi",
+      "Psixologik hodisa"
+    ],
+    "answer": "Ijtimoiy ong shakli"
+  },
+  {
+    "question": "Dinshunoslik fani dinlarni necha tarixiy turga bo'adi?",
+    "options": [
+      "Urug'-qabila dinlari, milliy dinlar va jahon dinlari",
+      "Ibtidoiy dinlar va monoteistik dinlar",
+      "Politeistik va milliy dinlar",
+      "Jahon dinlari va ibtidoiy dinlar"
+    ],
+    "answer": "Urug'-qabila dinlari, milliy dinlar va jahon dinlari"
+  },
+  {
+    "question": "Qadimgi yunonlar etiqod qiladigan osmon xudosi?",
+    "options": [
+      "Zevs",
+      "Yupiter",
+      "Mars",
+      "Appolon"
+    ],
+    "answer": "Zevs"
+  },
+  {
+    "question": "Qadimgi yunonlar qo'rqadigan urush xudosi?",
+    "options": [
+      "Ares",
+      "Aid",
+      "Poseydon",
+      "Mars"
+    ],
+    "answer": "Ares"
+  },
+  {
+    "question": "Ateizm nima?",
+    "options": [
+      "xudoga va dinga ishonishni inkor etuvchi ilmiy qarashlar sistemasi",
+      "xudoga va dinga ishonish ilmiy qarashlar sistemasi",
+      "bir vaqtda bir nechta dinga ishonish",
+      "dinni takib va tazyiq qilish"
+    ],
+    "answer": "xudoga va dinga ishonishni inkor etuvchi ilmiy qarashlar sistemasi"
+  },
+  {
+    "question": "Butparastlarning sanam, ikona va fetishlari quyiladigan joyning nomi?",
+    "options": [
+      "Butxona",
+      "Ibodatxona",
+      "Cherkov",
+      "Sinagona"
+    ],
+    "answer": "Butxona"
+  },
+  {
+    "question": "Dinning jamiyatga bajaradigan vazifalariga nimalar kiradi?",
+    "options": [
+      "to'ldiruvchilik, birlashtiruvchilik, nazorat qiluvchilik, aloqa bog'lashlik, qonunlashtiruvchilik",
+      "siyosiy, ijtimoiy, ma'naviy",
+      "qonuniylik, dunyoqarashlik, aloqa bog'lashlik",
+      "nazorat qilislik"
+    ],
+    "answer": "to'ldiruvchilik, birlashtiruvchilik, nazorat qiluvchilik, aloqa bog'lashlik, qonunlashtiruvchilik"
+  },
+  {
+    "question": "Jahonda e'tiqod qiluvchilar soni jihatidan eng katta milliy din qaysi?",
+    "options": [
+      "Hinduizm",
+      "Sintoizm",
+      "Islom",
+      "Yahudiylik"
+    ],
+    "answer": "Hinduizm"
+  },
+  {
+    "question": "Islomdan avval turkiy xalqlar din tushunchasini qanday ifodalagan?",
+    "options": [
+      "\"darm\", \"nom\" va \"den\"",
+      "\"dar\", \"nado\" va \"xar\"",
+      "\"kadr\", \"imom\" va \"ars\"",
+      "\"eva\", \"nadom\" va \"bado\""
+    ],
+    "answer": "\"darm\", \"nom\" va \"den\""
+  },
+  {
+    "question": "Hinduilikda totemistik unsurlarga asosan qaysi hayvonlar ilohiylashtirilgan?",
+    "options": [
+      "sigir, maymun, ilon",
+      "sigir, fil, tovuq",
+      "maymun, arslon, kobra",
+      "qo'y, mushuk, sichqon"
+    ],
+    "answer": "sigir, maymun, ilon"
+  },
+  {
+    "question": "Yaponiya davlatining qadimiy milliy dini?",
+    "options": [
+      "Sintoizm",
+      "Daosizm",
+      "Buddizm",
+      "Lamaizm"
+    ],
+    "answer": "Sintoizm"
+  },
+  {
+    "question": "Yahudiylar ibodatxonasi qanday nomlanadi?",
+    "options": [
+      "Sinagoga",
+      "Butxona",
+      "Ibodatxona",
+      "Cherkov"
+    ],
+    "answer": "Sinagoga"
+  },
+  {
+    "question": "Yahudiylar dini iuddaizm qaysi mintaqida va qachon vujudga kelgan?",
+    "options": [
+      "Qadimgi Falastinda, er avvalgi 1 minginchi yilda",
+      "Qadimgi Rimda, er avvalgi V asrda",
+      "Qadimgi Bobilda, er avvalgi 1 minginchi yilda",
+      "Qadimgi Yunonistonda, er avvalgi VII asrda"
+    ],
+    "answer": "Qadimgi Falastinda, er avvalgi 1 minginchi yilda"
+  },
+  {
+    "question": "Daosizm dinining vatani?",
+    "options": [
+      "Qadimgi Xitoy",
+      "Qadimgi Hindiston",
+      "Qadimgi Misr",
+      "Qadimgi Yunoniston"
+    ],
+    "answer": "Qadimgi Xitoy"
+  },
+  {
+    "question": "Kastachilikka asoslangan din?",
+    "options": [
+      "Braxmanizm",
+      "Sintoizm",
+      "Lamaizm",
+      "Daosizm"
+    ],
+    "answer": "Braxmanizm"
+  },
+  {
+    "question": "Buxoro shahridagi eng ko'xna zardushtiylik ibodatxonasi?",
+    "options": [
+      "Magokki Attori",
+      "Chashman Ayub",
+      "ChorMinor",
+      "Chor Bakr"
+    ],
+    "answer": "Magokki Attori"
+  },
+  {
+    "question": "Zardushtiylikda ulug'langan unsurlar nechta va qaysilar?",
+    "options": [
+      "4 ta suv olov, yer, havo",
+      "2 ta olov, temir",
+      "3 ta quyosh, yer, havo",
+      "1 ta suv"
+    ],
+    "answer": "4 ta suv olov, yer, havo"
+  },
+  {
+    "question": "Avestoning 12 ming qora mol terisiga yozilganligi haqida kim yozib qoldirgan qaysi asarida?",
+    "options": [
+      "Abu Rayhon Beruniy \"Qadimgi xalqlardan qolgan yodgorliklar\"",
+      "Abu Nasr Forobiy \"Fozil odamlar shahri\"",
+      "Ibn Sino \"Tib qonunlari\"",
+      "Marg'inoniy \"Hidoyat\""
+    ],
+    "answer": "Abu Rayhon Beruniy \"Qadimgi xalqlardan qolgan yodgorliklar\""
+  },
+  {
+    "question": "Buddizm ta'limoti asosi qanday qismlaran iborat?",
+    "options": [
+      "Axloq, meditasiya, donolik",
+      "Donishmandlik, ezgulik",
+      "Diniy, falsafiy, mifologik",
+      "Ilohiyot, nirvana holatiga erishis"
+    ],
+    "answer": "Axloq, meditasiya, donolik"
+  },
+  {
+    "question": "Zardushtiylarning manbasi \"Avesto\" da din tushunchasi qanday ifodalangan?",
+    "options": [
+      "din",
+      "aqida",
+      "imom",
+      "dva"
+    ],
+    "answer": "din"
+  },
+  {
+    "question": "Fors pahlaviy tilida din qanday ma'noni anglatgan?",
+    "options": [
+      "marosim",
+      "bayram",
+      "tadbir",
+      "xursandchilik"
+    ],
+    "answer": "marosim"
+  },
+  {
+    "question": "Rus tilida din qanday ma'nosini anglatgan?",
+    "options": [
+      "religiya",
+      "xarosho",
+      "dena",
+      "drm"
+    ],
+    "answer": "religiya"
+  },
+  {
+    "question": "Umuman olganda, olimlar muayyan e'tiqod din deb atalishi uchun necha asosiy xususiyatga ega bo'lishi lozimligini ta'kidlaydilar?",
+    "options": [
+      "uch",
+      "besh",
+      "ikki",
+      "o'n"
+    ],
+    "answer": "uch"
+  },
+  {
+    "question": "Dinlar tarixi, ular bilan bog'liq jarayonlar, dinning inson hayotining turli jabhalari bilan o'zaro ta'sirlashuvini o'rganuvchi fan…..?",
+    "options": [
+      "dinshunoslik",
+      "odobnoma",
+      "etika",
+      "tarix"
+    ],
+    "answer": "dinshunoslik"
+  },
+  {
+    "question": "\"Tarix otasi» nomini olgan yunon olimini ko'rsating?",
+    "options": [
+      "Gerodot",
+      "Strabon",
+      "Fales",
+      "Pifagor"
+    ],
+    "answer": "Gerodot"
+  },
+  {
+    "question": "Taniqli tarixchi, dinshunos Shahristoniy johiliyat davrida arablarda necha turdagi ilm sohasi mavjudligini yozadi?",
+    "options": [
+      "Uch turdagi",
+      "Olti turdagi",
+      "Bir turdagi",
+      "Ikki turdagi"
+    ],
+    "answer": "Uch turdagi"
+  },
+  {
+    "question": "G'arbda, zamonaviy ma'nodagi dinlar tadqiqotlari kim tomonidan boshlab berilgan?",
+    "options": [
+      "Maks Myuller",
+      "Andins Telet",
+      "Nuyuton",
+      "Angeles Tomson"
+    ],
+    "answer": "Maks Myuller"
+  },
+  {
+    "question": "Maks Myuller qachon \"qiyosiy mifologiya\" asarini yozib tugatgan?",
+    "options": [
+      "1856 yilda",
+      "1956 yilda",
+      "1116 yilda",
+      "1200 yilda"
+    ],
+    "answer": "1856 yilda"
+  },
+  {
+    "question": "Islom ulamolari dinlarni ikkiga ……bo'lgan?",
+    "options": [
+      "\"haq\" va \"botil\"",
+      "\"adolatli\" va \"xurofot\"",
+      "\"katta\" va \"kichik\"",
+      "\"qadimiy\" va \"zamonaviy\""
+    ],
+    "answer": "\"haq\" va \"botil\""
+  },
+  {
+    "question": "Qit'alarda tarqalishiga ko'ra dinlar qanday tasniflanadi?",
+    "options": [
+      "Afrika, Osiyo, Yevropa, Amerika va Avstraliya dinlari",
+      "Yevroosiya va Afrika dinlari",
+      "Viloyat va shahar dinlari",
+      "Afrika, Osiyo, Yevropa, Amerika Avstraliya va shahar dinlari"
+    ],
+    "answer": "Afrika, Osiyo, Yevropa, Amerika va Avstraliya dinlari"
+  },
+  {
+    "question": "Muchal mo'g'ul, xitoy va butun turkiy xalqlarda keng tarqalgan yil hisobi bo'lib, unda yil oylari necha hayvon nomi bilan ataladi?",
+    "options": [
+      "12 ta",
+      "10 ta",
+      "13 ta",
+      "6 ta"
+    ],
+    "answer": "12 ta"
+  },
+  {
+    "question": "O'zbeklarda qaysi qushlarni e'zozlash totemizm ko'rinishlaridan biri hisoblanadi?",
+    "options": [
+      "qaldirg'och, musicha, laylak, ko'k qarg'ani",
+      "qarg'a, kaklik, musicha, boyo'g'li, laylak",
+      "chumchuq, mayna, kaklik, musicha",
+      "boyo'g'li, laylak, qaldirg'och, musicha"
+    ],
+    "answer": "qaldirg'och, musicha, laylak, ko'k qarg'ani"
+  },
+  {
+    "question": "Odam o'lgandan so'ng tanadan chiqib ketadigan jon bor, degan tasavvur qaysi dinga xosdir?",
+    "options": [
+      "Animizm",
+      "Fetishizm",
+      "Totemizm",
+      "Shomonlik"
+    ],
+    "answer": "Animizm"
+  },
+  {
+    "question": "Ba'zan murdani kiyimlari bilan dafn etish, yoniga suv, ovqatlar qo'yish odatlari qaysi dinning ko'rinishidir?",
+    "options": [
+      "animizmning",
+      "fetishizmning",
+      "totemizmning",
+      "shomonlikning"
+    ],
+    "answer": "animizmning"
+  },
+  {
+    "question": "Magiya so'zining ma'nosini ko'rsating?",
+    "options": [
+      "sehrgarlik",
+      "jon-ruh demakdir",
+      "ishonch, e'tiqod",
+      "uning urug'i"
+    ],
+    "answer": "sehrgarlik"
+  },
+  {
+    "question": "Qaysi dinda kishilar orasida turli ruhlar bilan munosabatda bo'la olish, kelajakni oldin aytib berish, kasalni davolash, o'lganlarni oxiratga uzatish, tabiatga xohlag'ancha o'zgartishlar kiritish kabi xususiyatlar aks etgan?",
+    "options": [
+      "Shomonizm",
+      "Magiya",
+      "Animizm",
+      "Fetishizm"
+    ],
+    "answer": "Shomonizm"
+  },
+  {
+    "question": "Islomdagi mavjud qonunlarga binoan necha yoshga to'lgan har bir fuqaro diniy jamoa a'zosi bo'la oladi?",
+    "options": [
+      "18 yosh",
+      "15 yosh",
+      "20 yosh",
+      "40 yosh"
+    ],
+    "answer": "18 yosh"
+  },
+  {
+    "question": "Odatda bir millatga mansub xalqlar e'tiqod qiladigan dinlar nima deb yuritiladi?",
+    "options": [
+      "Milliy dinlar",
+      "Jahon dinlar",
+      "Qabila dinlar",
+      "Rus dinlar"
+    ],
+    "answer": "Milliy dinlar"
+  },
+  {
+    "question": "Iudaizm - eng qadimgi dinlardan bo'lib, qachon yahudiylarning milliy dini sifatida vujudga kelgan?",
+    "options": [
+      "eramizdan oldingi XIII asrda",
+      "eramizdan oldingi X asrda",
+      "mill. avva. V asrda",
+      "VII asrda"
+    ],
+    "answer": "eramizdan oldingi XIII asrda"
+  },
+  {
+    "question": "Tavrot eramizdan ilgarigi ming yillik ichida shakllangan bo'lib, u necha kitobdan iborat?",
+    "options": [
+      "5 ta",
+      "9 ta",
+      "7 ta",
+      "10 ta"
+    ],
+    "answer": "5 ta"
+  },
+  {
+    "question": "Yahudiy dinidagi asosiy aqida yakka xudolik bo'lib, kimga e'tiqod qilish ilgari suriladi?",
+    "options": [
+      "Yaxvega",
+      "Musoga",
+      "Muhammadga",
+      "Sitxataga"
+    ],
+    "answer": "Yaxvega"
+  },
+  {
+    "question": "Konfusiychilik ta'limoti qayerda vujudga kelgan?",
+    "options": [
+      "Xitoyda",
+      "Yaponiyada",
+      "Isroilda",
+      "Hindistoda"
+    ],
+    "answer": "Xitoyda"
+  },
+  {
+    "question": "Animizm qaysi tildan olingan?",
+    "options": [
+      "lotincha",
+      "yunoncha",
+      "fransuzcha",
+      "nemischa"
+    ],
+    "answer": "lotincha"
+  },
+  {
+    "question": "Etnik jihatiga ko'ra dinlar necha guruhga bo'linadi?",
+    "options": [
+      "3",
+      "5",
+      "6",
+      "9"
+    ],
+    "answer": "3"
+  },
+  {
+    "question": "Urug' qabilaviy dinlariga……kiradi?",
+    "options": [
+      "Animizm",
+      "Yahudiylik",
+      "Islom",
+      "Daosizm"
+    ],
+    "answer": "Animizm"
+  },
+  {
+    "question": "Jahon dinlariga….?",
+    "options": [
+      "Islom, Xristianlik, Buddaviylik",
+      "Islom, Daosizm, Zardushtiylik",
+      "Buddaviylik, Animizm, Islom",
+      "Daosizm, Zardushtiylik, Xristianlik"
+    ],
+    "answer": "Islom, Xristianlik, Buddaviylik"
+  },
+  {
+    "question": "Qaysi urug', qabila dini \"O totem\" (uning urug'i) degan ma'noni bildiradi?",
+    "options": [
+      "Totemizim",
+      "Animizm",
+      "Daosizm",
+      "Zardushtiylik"
+    ],
+    "answer": "Totemizim"
+  },
+  {
+    "question": "Qaysi urug', qabila dini yasalgan tumor, but, sanam degan ma'noni bildiradi?",
+    "options": [
+      "Fetishizm",
+      "Animizm",
+      "Totemizim",
+      "Daosizm"
+    ],
+    "answer": "Fetishizm"
+  },
+  {
+    "question": "Fanda \"teologik yondashuv\"bu….?",
+    "options": [
+      "Diniy yondashuv",
+      "Ilmiy yondashuv",
+      "Tabiiy yondashuv",
+      "Ruhiy yondashuv"
+    ],
+    "answer": "Diniy yondashuv"
+  },
+  {
+    "question": "Dinshunoslikning alohida sohasi sifatida Yevropada qachondan boshlab vujudga kelgan?",
+    "options": [
+      "XIX asr oxiri XX asr boshlari",
+      "XX asr oxiri XXI asr boshlari",
+      "XI asr oxiri XII asr boshlari",
+      "XVIII asr oxiri XX asr boshlari"
+    ],
+    "answer": "XIX asr oxiri XX asr boshlari"
+  },
+  {
+    "question": "\"Teologiya\" atamasi ma'nosini toping?",
+    "options": [
+      "Xudo, ta'limot",
+      "Uy, vatan",
+      "Xususiyat, umumiylik",
+      "Axloq, odob"
+    ],
+    "answer": "Xudo, ta'limot"
+  },
+  {
+    "question": "Markaziy Osiyoning islomgacha bo'lgan davrdagi ma'naviy madaniyatini rivojlanishda bebaho manba bu…?",
+    "options": [
+      "Avesto",
+      "Moddiy manba",
+      "Qo'lyozmalar",
+      "Asarlar"
+    ],
+    "answer": "Avesto"
+  },
+  {
+    "question": "Zardushtiylik dini taxminan necha ming yil oldin vujudga kelgan?",
+    "options": [
+      "2700 y",
+      "3000 y",
+      "2000 y",
+      "3800 y"
+    ],
+    "answer": "2700 y"
+  },
+  {
+    "question": "Zardushtiylik dini qayerda paydo bo'lgan?",
+    "options": [
+      "Xorazimda",
+      "Marvda",
+      "Hirotda",
+      "Rossiyada"
+    ],
+    "answer": "Xorazimda"
+  },
+  {
+    "question": "Qaysi tilda Zardusht \"keksa tuyachi\" degan ma'noda keladi?",
+    "options": [
+      "fors",
+      "arab",
+      "yunon",
+      "lotin"
+    ],
+    "answer": "fors"
+  },
+  {
+    "question": "Qaysi sulola davrida Zardushtiylikni davlat dini sifatida qabul qilinadi?",
+    "options": [
+      "Ahamoniylar",
+      "Turklar",
+      "Arablar",
+      "Yunonlar"
+    ],
+    "answer": "Ahamoniylar"
+  },
+  {
+    "question": "Zardush necha yoshida payg'ambar bo'lgan?",
+    "options": [
+      "40 yoshda",
+      "30 yoshda",
+      "22 yoshda",
+      "44 yoshda"
+    ],
+    "answer": "40 yoshda"
+  },
+  {
+    "question": "Avesto matinini kim grek tiliga tarjima qildirgan?",
+    "options": [
+      "Makedoniyalik Iskandar",
+      "Ahamoniy Doro II",
+      "Kir II",
+      "Ma'mun"
+    ],
+    "answer": "Makedoniyalik Iskandar"
+  },
+  {
+    "question": "Avesto kitobi necha qismdan iborat bo'lgan?",
+    "options": [
+      "21 qism",
+      "11 qism",
+      "31 qism",
+      "7 qism"
+    ],
+    "answer": "21 qism"
+  },
+  {
+    "question": "Bizgacha Avesto kitobining bizgacha qancha qismi etib kelgan?",
+    "options": [
+      "4",
+      "7",
+      "10",
+      "12"
+    ],
+    "answer": "4"
+  },
+  {
+    "question": "Qaysi dinda tuproq, suv, havo va olov muqaddaslashtirilgan?",
+    "options": [
+      "Zardushtiylik",
+      "Islom",
+      "Animizm",
+      "Shia"
+    ],
+    "answer": "Zardushtiylik"
+  },
+  {
+    "question": "Avestoda Mitra qanday xudo hisoblangan?",
+    "options": [
+      "Quyosh",
+      "Oy",
+      "Osmon",
+      "Tabiat"
+    ],
+    "answer": "Quyosh"
+  },
+  {
+    "question": "Eronga yurush qilishdan oldin Delfa oroliga kelgan shahs kim edi?",
+    "options": [
+      "Doro I",
+      "Iskandar",
+      "Yaxmos",
+      "Ramzes"
+    ],
+    "answer": "Doro I"
+  },
+  {
+    "question": "Kim dinning kelib chiqishiga \"ajdodlarga sig'inish\" sabab bo'lganligini aytadi?",
+    "options": [
+      "G. Spenser",
+      "Ch.Darvin",
+      "E.Vohidov",
+      "A.Qodiriy"
+    ],
+    "answer": "G. Spenser"
+  },
+  {
+    "question": "Totemizm atamasini kim ilk bor fanga kiritgan?",
+    "options": [
+      "Jon Long",
+      "G. Spenser",
+      "Ch.Darvin",
+      "E.Vohidov"
+    ],
+    "answer": "Jon Long"
+  },
+  {
+    "question": "Bibliyada Qadimgi Ahd nechta kitobni o'z ichiga olgan?",
+    "options": [
+      "39",
+      "24",
+      "32",
+      "27"
+    ],
+    "answer": "39"
+  },
+  {
+    "question": "Shu kunlarda Isroilda qancha yahudiy yashamoqda?",
+    "options": [
+      "4,4 mln",
+      "5 mln",
+      "6,5 mln",
+      "7 mln"
+    ],
+    "answer": "4,4 mln"
+  },
+  {
+    "question": "Shu kunlarda AQSH da qancha yahudiy yashamoqda?",
+    "options": [
+      "6 mln",
+      "4,7 mln",
+      "5mln",
+      "9,5 mln"
+    ],
+    "answer": "6 mln"
+  },
+  {
+    "question": "Qaysi so'z arabcha \"narigi tomondan kelgan kelgindi\" ma'nosini beradi?",
+    "options": [
+      "Ibri",
+      "Yahudiy",
+      "Shanba",
+      "Levit"
+    ],
+    "answer": "Ibri"
+  },
+  {
+    "question": "Muso payg'ambarga Tur tog'ida tushirilgan 10 ta nasihat qaysi kitobdan o'rin olgan?",
+    "options": [
+      "\"Ikkinchi qonun\"",
+      "\"Alvido\"",
+      "\"Levit\"",
+      "\"Sonlar\""
+    ],
+    "answer": "\"Ikkinchi qonun\""
+  },
+  {
+    "question": "Sintoizm dining ma'nosi?",
+    "options": [
+      "xudolar yo'li demakdir",
+      "keng yo'l demakdir",
+      "haqiqatga erishish demakdir",
+      "to'ri so'z demakdir"
+    ],
+    "answer": "xudolar yo'li demakdir"
+  },
+  {
+    "question": "Qaysi vaqtgacha sintoizm Yaponiyaning davlat dini hisoblangan?",
+    "options": [
+      "XX asrning 40 yillarigacha",
+      "1889 yilgach",
+      "XXI asrning 20 yillarigacha",
+      "2020-yilgacha"
+    ],
+    "answer": "XX asrning 40 yillarigacha"
+  },
+  {
+    "question": "Yahudiylarda \"shoyixet\" kim?",
+    "options": [
+      "Qassob",
+      "O'qituvchi",
+      "Tabib",
+      "Savdogar"
+    ],
+    "answer": "Qassob"
+  },
+  {
+    "question": "Qaysi manbada yahudiylik marosimlari tizimi bayon etilgan. Unda yahudiylar amal qilib, bajarishi lozim bo'lgan 248 ta buyruq, 365 ta taqiq mavjud?",
+    "options": [
+      "Talmud",
+      "Tavrot",
+      "Injil",
+      "Tripitaka"
+    ],
+    "answer": "Talmud"
+  },
+  {
+    "question": "\"Rigveda\" nima?",
+    "options": [
+      "\"Madhiyalar vedasi\"",
+      "\"Afsun va jodular vedasi\"",
+      "\"Qo'shiqlar vedasi\"",
+      "\"Qurbonliklar vedasi\""
+    ],
+    "answer": "\"Madhiyalar vedasi\""
+  },
+  {
+    "question": "Atxarvaveda nima?",
+    "options": [
+      "\"Afsun va jodular vedasi\"",
+      "\"Madhiyalar vedasi\"",
+      "\"Qo'shiqlar vedasi\"",
+      "\"Qurbonliklar vedasi\""
+    ],
+    "answer": "\"Afsun va jodular vedasi\""
+  },
+  {
+    "question": "Samaveda nima?",
+    "options": [
+      "\"Qo'shiqlar vedasi\"",
+      "\"Qurbonliklar vedasi\"",
+      "\"Afsun va jodular vedasi\"",
+      "\"Madhiyalar vedasi\""
+    ],
+    "answer": "\"Qo'shiqlar vedasi\""
+  },
+  {
+    "question": "Yajurveda nima?",
+    "options": [
+      "\"Qurbonliklar vedasi\"",
+      "\"Qo'shiqlar vedasi\"",
+      "\"Afsun va jodular vedasi\"",
+      "\"Madhiyalar vedasi\""
+    ],
+    "answer": "\"Qurbonliklar vedasi\""
+  },
+  {
+    "question": "Qaysi din kastachilik asosiga qurilgan?",
+    "options": [
+      "Hinduiylik",
+      "Yahudiylik",
+      "Konfutsiylik",
+      "Zardushtiylik"
+    ],
+    "answer": "Hinduiylik"
+  },
+  {
+    "question": "U asosan Hindistonda tarqalgan bo'lib, aholisining 83 foizi e'tiqod qiladi gap qaysi din haqida ketyapti?",
+    "options": [
+      "Hinduiylik",
+      "Buddaviylik",
+      "Xristianlik",
+      "Islom"
+    ],
+    "answer": "Hinduiylik"
+  },
+  {
+    "question": "Vishnuylikning muqaddas hayvonini belgilang?",
+    "options": [
+      "Maymun",
+      "It",
+      "Mushuk",
+      "Quyon"
+    ],
+    "answer": "Maymun"
+  },
+  {
+    "question": "Abu Bakr as-Siddiqning xalifalik davrlari?",
+    "options": [
+      "632-634 y",
+      "634-644 y",
+      "622-624 y",
+      "624-634 y"
+    ],
+    "answer": "632-634 y"
+  },
+  {
+    "question": "Hazrati Usmonning xalifalik davrlari?",
+    "options": [
+      "644-656 y",
+      "664-671 y",
+      "634-644 y",
+      "656-661 y"
+    ],
+    "answer": "644-656 y"
+  },
+  {
+    "question": "\"Animizm\" atamasini fanga kim tomonidan kiritilgan?",
+    "options": [
+      "E.Taylor",
+      "Z.Freyd",
+      "Uayt",
+      "B.Malinovckiy"
+    ],
+    "answer": "E.Taylor"
+  },
+  {
+    "question": "Qur'on suralari qanday qismlarga bo'linadi?",
+    "options": [
+      "Makka va Madina suralari",
+      "Dastlabki va yangi",
+      "Qonuniy va noqonuniy",
+      "Katta va kichik"
+    ],
+    "answer": "Makka va Madina suralari"
+  },
+  {
+    "question": "Buddizmning muqaddas kitobi \"Tripitaka\" qanday ma'noni anglatadi?",
+    "options": [
+      "Uch savat",
+      "Xush xabar",
+      "O'qish",
+      "Qonun"
+    ],
+    "answer": "Uch savat"
+  },
+  {
+    "question": "O'zbekistonda nechta diniy konfessiya ro'yxatdan o'tgan?",
+    "options": [
+      "16",
+      "18",
+      "17",
+      "20"
+    ],
+    "answer": "16"
+  },
+  {
+    "question": "Missioner deb kimni ataladi?",
+    "options": [
+      "Aholi orasida o'zga dinga diniy tashviqot uchun yuborilgan shaxs",
+      "Urushga yuborilgan shaxs",
+      "O'rnatilgan an'analarni buzish uchun yuborilgan shaxs",
+      "Hadislarni yig'uvchi shaxs"
+    ],
+    "answer": "Aholi orasida o'zga dinga diniy tashviqot uchun yuborilgan shaxs"
+  },
+  {
+    "question": "Qachon Vazirlar Mahkamasi huzurida Din ishlari bo'yicha qo'mita tashkil etildi?",
+    "options": [
+      "1992-yil martda",
+      "1992-yil mayda",
+      "1993-yil martda",
+      "1993-yil mayda"
+    ],
+    "answer": "1992-yil martda"
+  },
+  {
+    "question": "O'zbekiston Respublikasi Prezidentining farmoyishi bilan qaysi yilda Adliya Vazirligi boshchiligida \"Vijdon erkinligi va Diniy tashkilotlar to'g'risidagi\" qonunining amalda tartibini monitoring qilivchi hay'at tuzildi?",
+    "options": [
+      "1998-yil avgustda",
+      "1991-yil avgustda",
+      "1993-yil martda",
+      "1992-yil mayda"
+    ],
+    "answer": "1998-yil avgustda"
+  },
+  {
+    "question": "Hozirgi Saudiya Arabistonining g'arbiy qismi nima deb ataladi?",
+    "options": [
+      "Hijoz",
+      "Suriya",
+      "Kiyev",
+      "Damashq"
+    ],
+    "answer": "Hijoz"
+  },
+  {
+    "question": "Hanif so'zining ma'nosi nima?",
+    "options": [
+      "Arabcha \"to'g'ri yo'l\"",
+      "Arabcha \"suv\"",
+      "Inglizcha \"kitob\"",
+      "Fransuzcha \"maqbara\""
+    ],
+    "answer": "Arabcha \"to'g'ri yo'l\""
+  },
+  {
+    "question": "Xadicha onamiz qaysi urug'dan bo'lganlar?",
+    "options": [
+      "Banu Asad",
+      "Mang'it",
+      "Qo'ng'irot",
+      "Kenagas"
+    ],
+    "answer": "Banu Asad"
+  },
+  {
+    "question": "Ansor so'zining ma'nosi nima?",
+    "options": [
+      "Yordamchi",
+      "Arabcha \"suv\"",
+      "Inglizcha \"kitob\"",
+      "Fransuzcha \"maqbara\""
+    ],
+    "answer": "Yordamchi"
+  },
+  {
+    "question": "Payg'ambarimiz Muhammad (s.a.v) qayerda vafot etganlar?",
+    "options": [
+      "Madina",
+      "Makka",
+      "Damashq",
+      "Qohira"
+    ],
+    "answer": "Madina"
+  },
+  {
+    "question": "Ali ibn Tolibning xalifalik davri",
+    "options": [
+      "656-661y",
+      "632-654y",
+      "634-644y",
+      "624-634y"
+    ],
+    "answer": "656-661y"
+  },
+  {
+    "question": "Qur'on Makkada necha yil davomida nozil qilingan?",
+    "options": [
+      "13 yil",
+      "15 yil",
+      "16 yil",
+      "18 yil"
+    ],
+    "answer": "13 yil"
+  },
+  {
+    "question": "Qur'on Madinada necha yil nozil bo'lgan?",
+    "options": [
+      "10 yil",
+      "14 yil",
+      "20 yil",
+      "23 yil"
+    ],
+    "answer": "10 yil"
+  },
+  {
+    "question": "Madinada nozil qilingan suralar nima deb ataladi?",
+    "options": [
+      "Madaniy suralar",
+      "Qisqa nozil qilingan suralar",
+      "Makkada nozil qilingan suralar",
+      "Ilk bor nozil qilingan suralar"
+    ],
+    "answer": "Madaniy suralar"
+  },
+  {
+    "question": "Ilk hadis to'plami qaysi xalifa ko'rsatmasiga binoan Muhammad ibn Shihob Zuhriy tomonidan yozilgan?",
+    "options": [
+      "Umar ibn Abdulaziz",
+      "Xalifa Usmon",
+      "Xalifa Abu Bakr Siddiq",
+      "Xalifa Ali ibn Tolib"
+    ],
+    "answer": "Umar ibn Abdulaziz"
+  },
+  {
+    "question": "Sahih so'zining ma'nosi nima?",
+    "options": [
+      "Ishonchli",
+      "Ishonchsiz",
+      "Qoniqarli",
+      "Qoniqarsiz"
+    ],
+    "answer": "Ishonchli"
+  },
+  {
+    "question": "Ibtido kitobi nechta bobdan iborat?",
+    "options": [
+      "50 bob",
+      "40 bob",
+      "30 bob",
+      "30 bob"
+    ],
+    "answer": "50 bob"
+  },
+  {
+    "question": "Cho'qintirish so'zining ma'nosi nima?",
+    "options": [
+      "Suvga botirish",
+      "Duo o'qish",
+      "Ahd qilish",
+      "Marosim"
+    ],
+    "answer": "Suvga botirish"
+  },
+  {
+    "question": "2013- yil yanvar holatiga ko'ra O'zbekistonda nechta diniy tashkilot faoliyat yuritmoqda",
+    "options": [
+      "2223 ta",
+      "2322 ta",
+      "2232",
+      "3222"
+    ],
+    "answer": "2223 ta"
+  },
+  {
+    "question": "Livan aholisining qanchasini arablar tashkil qiladi ?",
+    "options": [
+      "90%",
+      "80%",
+      "70%",
+      "60%"
+    ],
+    "answer": "90%"
+  },
+  {
+    "question": "Dastlabki xalqaro xristian missiyalari qayerda paydo bo'lgan ?",
+    "options": [
+      "Shotlandiya",
+      "Angliya",
+      "Kanada",
+      "Rossiya"
+    ],
+    "answer": "Shotlandiya"
+  },
+  {
+    "question": "Apostollar kimlar?",
+    "options": [
+      "Iso Masih izdoshlari",
+      "Falastindagi ruhoniylar",
+      "Xristian monaxlari",
+      "Cherkov a'zolari"
+    ],
+    "answer": "Iso Masih izdoshlari"
+  },
+  {
+    "question": "\"Avesto\" matniga yozilgan sharh nima deb nomlanadi?",
+    "options": [
+      "Zend",
+      "Vidovat",
+      "Vispart",
+      "Yasht"
+    ],
+    "answer": "Zend"
+  },
+  {
+    "question": "Budda qaysi qabiladan bo'lgan?",
+    "options": [
+      "Shakya",
+      "Shavkana",
+      "Shashya",
+      "Shaxsana"
+    ],
+    "answer": "Shakya"
+  },
+  {
+    "question": "Budda so'zining ma'nosi nima?",
+    "options": [
+      "nurlangan",
+      "poklangan",
+      "ummon",
+      "sanamlarga sig'inuvchi"
+    ],
+    "answer": "nurlangan"
+  },
+  {
+    "question": "Mil.avv I asrda qaysi hududda buddaviylik ustuvor mavqega ega bo'ldi?",
+    "options": [
+      "Termizda",
+      "Buxoroda",
+      "Qashqarda",
+      "Xolchayonda"
+    ],
+    "answer": "Termizda"
+  },
+  {
+    "question": "Buddaviylik dini Turkiston mintaqasiga qaysi podsholik davrida kirib kelgan?",
+    "options": [
+      "Kushon",
+      "Qang'",
+      "Davan",
+      "Baqtriya"
+    ],
+    "answer": "Kushon"
+  },
+  {
+    "question": "Cherkov bu − ...?",
+    "options": [
+      "Xristianlik diniy marosim o'tkazish uchun mo'ljallangan diniy tashkilot",
+      "Diniy dunyoqarash turi",
+      "Muqaddas matnlar to'plami",
+      "Kult, e'tiqod"
+    ],
+    "answer": "Xristianlik diniy marosim o'tkazish uchun mo'ljallangan diniy tashkilot"
+  },
+  {
+    "question": "E'tiqod qiluvchilarning soniga ko'ra eng katta jahon dini qaysi?",
+    "options": [
+      "Xristianlik",
+      "Buddizm",
+      "Islom",
+      "Hinduiylik"
+    ],
+    "answer": "Xristianlik"
+  },
+  {
+    "question": "Eng qadimgi jahon dini...?",
+    "options": [
+      "Buddizm",
+      "Xristianlik",
+      "Islom",
+      "Yahudiylik"
+    ],
+    "answer": "Buddizm"
+  },
+  {
+    "question": "Fetishizm – bu...:",
+    "options": [
+      "Moddiy narsalarda ilohiy kuch-qudratning mavjudligi haqidagi tasavvur",
+      "Ruhning ko'chib o'tishi haqidagi diniy tasavvur",
+      "Ajdodlar ruhiga bag'ishlangan marosim",
+      "Hayvonlar uchun bag'ishlangan marosim"
+    ],
+    "answer": "Moddiy narsalarda ilohiy kuch-qudratning mavjudligi haqidagi tasavvur"
+  },
+  {
+    "question": "Hinduiylikning eng qadimgi muqaddas manbasi qaysi javobda to'g'ri ko'rsatilgan?",
+    "options": [
+      "Veda",
+      "Tavrot",
+      "Avesto",
+      "Bibliya"
+    ],
+    "answer": "Veda"
+  },
+  {
+    "question": "\"Insonlar bilan hayvon va o'simliklar o'rtasida qarindoshchilik aloqalari mavjud\"- degan tasavvur qaysi diniy tasavvurda namoyon bo'ladi?",
+    "options": [
+      "Totemizm",
+      "Animizm",
+      "Fetishizm",
+      "Magiya"
+    ],
+    "answer": "Totemizm"
+  },
+  {
+    "question": "\"Insonning joni o'lgandan keyin ko'rinmas ruh bo'lib yashaydi\"- degan tasavvur qaysi dinning ibtidoiy shaklida uchraydi?",
+    "options": [
+      "Animizm",
+      "Fetishizm",
+      "Totemizm",
+      "Magiya"
+    ],
+    "answer": "Animizm"
+  },
+  {
+    "question": "Islomga qadar Markaziy Osiyoda eng keng tarqalgan din qaysi javobda berilgan?",
+    "options": [
+      "Zardushtiylik",
+      "Buddaviylik",
+      "Konfutsiychilik",
+      "Braxmanchilik"
+    ],
+    "answer": "Zardushtiylik"
+  },
+  {
+    "question": "Iso Masih qaysi dinning payg'ambari hisoblanadi?",
+    "options": [
+      "Xristianlik",
+      "Islom",
+      "Sintoizm",
+      "Lamaizm"
+    ],
+    "answer": "Xristianlik"
+  },
+  {
+    "question": "Jahon dinlaridan birining nomini aniqlang?",
+    "options": [
+      "Islom",
+      "Pyatidesyatniklik",
+      "Adventistlik",
+      "Baptistlik"
+    ],
+    "answer": "Islom"
+  },
+  {
+    "question": "Qaysi dinlar milliy dinlardan hisoblanadi?",
+    "options": [
+      "Hinduizm, jaynizm, konfutsilik",
+      "Fetishizm, totemizm, animizm",
+      "Buddizm, islom, xristianlik",
+      "Katolisizm, pravoslaviya, protestantlik"
+    ],
+    "answer": "Hinduizm, jaynizm, konfutsilik"
+  },
+  {
+    "question": "Islom dininig asoschisi qaysi javobda to'g'ri ko'rsatilgan?",
+    "options": [
+      "Muhammad(s a v)",
+      "Iso",
+      "Muso",
+      "Sidhata"
+    ],
+    "answer": "Muhammad(s a v)"
+  },
+  {
+    "question": "Budda tagida o'tirgan daraxt nima deb atalgan?",
+    "options": [
+      "Bodxa",
+      "Majnuntol",
+      "Qayrag'och",
+      "Tut"
+    ],
+    "answer": "Bodxa"
+  },
+  {
+    "question": "Budda jami necha marta qayta tug'ilgan ?",
+    "options": [
+      "550 marta",
+      "505 marta",
+      "555 marta",
+      "55 marta"
+    ],
+    "answer": "550 marta"
+  },
+  {
+    "question": "Budda necha marta ruhoniy ko'rinishda tug'ilgan ?",
+    "options": [
+      "84 marta",
+      "48 marta",
+      "78 marta",
+      "87 marta"
+    ],
+    "answer": "84 marta"
+  },
+  {
+    "question": "Buddaviylikning muqaddas manbasi \"Tripitaka\" ning qo'lyozma nusxasi qayerda saqlanmoqda?",
+    "options": [
+      "Shri Lanka",
+      "Xitoy",
+      "Dehli",
+      "Singapur"
+    ],
+    "answer": "Shri Lanka"
+  },
+  {
+    "question": "Zardushtiylik dinining asosiy g'oyasi nimadan iborat?",
+    "options": [
+      "Ezgu fikr, Ezgu so'z, Ezgu amal",
+      "Yovuz fikr, Yovuz so'z, Yovuz amal",
+      "Yovuzlik bilan murosa qilish",
+      "Ruhlar bilan kurashish"
+    ],
+    "answer": "Ezgu fikr, Ezgu so'z, Ezgu amal"
+  },
+  {
+    "question": "Yakkaxudolik dini qanday din hisoblanadi?",
+    "options": [
+      "monoteistik",
+      "politeizm",
+      "teologik",
+      "polomonotelistik"
+    ],
+    "answer": "monoteistik"
+  },
+  {
+    "question": "Zardushtiylik dinining bosh xudosi qaysi javobda to'g'ri ko'rsatilgan?",
+    "options": [
+      "Axuramazda",
+      "Axriman",
+      "Anaxita",
+      "Mitra"
+    ],
+    "answer": "Axuramazda"
+  },
+  {
+    "question": "Afsonalarga ko'ra yer yuzida Buddaga qadar yana nechta budda o'tgan?",
+    "options": [
+      "6 ta",
+      "8 ta",
+      "7 ta",
+      "5 ta"
+    ],
+    "answer": "6 ta"
+  },
+  {
+    "question": "Grek tilidagi \"Christos\" so'zining ma'nosi...?",
+    "options": [
+      "Xaloskor",
+      "Nurlangan",
+      "Sariq tuya yetaklagan",
+      "Payg'ambar"
+    ],
+    "answer": "Xaloskor"
+  },
+  {
+    "question": "Hinduiylik dini – bu...?",
+    "options": [
+      "Qadimgi Hindistonning ijtimoiy-siyosiy dini",
+      "Totemizmga asoslangan kult",
+      "Ijtimoiy kastalar",
+      "Qadimgi Eron dini"
+    ],
+    "answer": "Qadimgi Hindistonning ijtimoiy-siyosiy dini"
+  },
+  {
+    "question": "Konfutsiylik dini qaysi din bilan bir paytda paydo bo'ldi ?",
+    "options": [
+      "Daosizm",
+      "Hinduizm",
+      "Jaynizm",
+      "Sintoizm"
+    ],
+    "answer": "Daosizm"
+  },
+  {
+    "question": "Milliy dinlaridan birining nomini aniqlang...?",
+    "options": [
+      "Sintoizm",
+      "Totemizm",
+      "Buddizm",
+      "Islom"
+    ],
+    "answer": "Sintoizm"
+  },
+  {
+    "question": "Politeizm – bu...:",
+    "options": [
+      "Ko'pxudolik",
+      "Yakkaxudolik",
+      "Sekta",
+      "Cherkov tashkiloti"
+    ],
+    "answer": "Ko'pxudolik"
+  },
+  {
+    "question": "\"Vijdon erkinligi\" tushunchasi nimani anglatadi?",
+    "options": [
+      "Fuqarolarning biron bir dinga e'tiqod qilish yoki e'tiqod qilmaslik huquqi",
+      "Fuqarolarning bitta dinga ishonishi zarurligi",
+      "Fuqarolarning o'z millatiga ishonish huquqi",
+      "Fuqarolarning dinga ishonmaslik va unga qarshi chiqish huquqi"
+    ],
+    "answer": "Fuqarolarning biron bir dinga e'tiqod qilish yoki e'tiqod qilmaslik huquqi"
+  },
+  {
+    "question": "Xristianlik dinida nechta diniy bo'linish bor ?",
+    "options": [
+      "3 ta",
+      "2 ta",
+      "4 ta",
+      "5 ta"
+    ],
+    "answer": "3 ta"
+  },
+  {
+    "question": "Xristian dinini \"boshqa dinlar bilan teng\"- deb e'lon qilgan imperator kim edi?",
+    "options": [
+      "Konstantin",
+      "Litsiniy",
+      "Yustian",
+      "Luliy Sezar"
+    ],
+    "answer": "Konstantin"
+  },
+  {
+    "question": "Yaponlarning milliy dini qanday nomlanadi?",
+    "options": [
+      "Sintoizm",
+      "Lamaizm",
+      "Buddizm",
+      "Krishnachilik"
+    ],
+    "answer": "Sintoizm"
+  },
+  {
+    "question": "Yahudiylik dini mil.avv 2-ming yillikda qayerda paydo bo'lgan?",
+    "options": [
+      "Misrda",
+      "Eronda",
+      "Turkiyada",
+      "Yaponiyada"
+    ],
+    "answer": "Misrda"
+  },
+  {
+    "question": "Hozirda dunyo bo'yicha taxminan qancha kishi yahudiylikka e'tiqod qiladi?",
+    "options": [
+      "15-20 million kishi",
+      "18-22 million kishi",
+      "19-23 million kishi",
+      "25-30 million kishi"
+    ],
+    "answer": "15-20 million kishi"
+  },
+  {
+    "question": "\"Avesto\" atamasining ma'nosi to'g'ri ko'rsatilgan javobni aniqlang",
+    "options": [
+      "\"Qat'iy o'rnatilgan qonun-qoidalar\"",
+      "\"Bo'ysinish\"",
+      "\"O'qish\"",
+      "\"Yangilanish\""
+    ],
+    "answer": "\"Qat'iy o'rnatilgan qonun-qoidalar\""
+  },
+  {
+    "question": "Islom dini qachon paydo bo'lgan?",
+    "options": [
+      "Mil.VII asrda",
+      "Mil.I asrda",
+      "Mil. avv.VI asrda",
+      "Mil.avv XIIasrda"
+    ],
+    "answer": "Mil.VII asrda"
+  },
+  {
+    "question": "Islom dinining muqaddas kitobi qaysi javobda to'g'ri ko'rsatilgan?",
+    "options": [
+      "\"Qur'on\"",
+      "\"Bibliya\"",
+      "\"Tavrot\"",
+      "\"Avesto\""
+    ],
+    "answer": "\"Qur'on\""
+  },
+  {
+    "question": "\"Qur'on\" so'zining ma'nosini aniqlang",
+    "options": [
+      "\"o'qish\"",
+      "\"gapirish\"",
+      "\"itoat etish\"",
+      "\"muqaddas\""
+    ],
+    "answer": "\"o'qish\""
+  },
+  {
+    "question": "Xristianlik dinining asoschisi Iso necha yoshida xudoning amri bilan Yahyo payg'ambar oldiga boradi ?",
+    "options": [
+      "33 yoshida",
+      "35 yoshida",
+      "40 yoshida",
+      "45 yoshida"
+    ],
+    "answer": "33 yoshida"
+  },
+  {
+    "question": "\"Xudo-Ota, Xudo-O'g'il, Xudo-Muqaddas Ruhdan iborat\" tushunchasi qaysi dinga mansub?",
+    "options": [
+      "xristianlik",
+      "buddizm",
+      "islom",
+      "yahudiylik"
+    ],
+    "answer": "xristianlik"
+  },
+  {
+    "question": "Islom tarixida bu din kelmasidan avvalgi davr nima deb yuritiladi?",
+    "options": [
+      "\"johiliya yoki johiliyat\" davri",
+      "\"neandertallar\" davri",
+      "\"osoyishtalik\" davri",
+      "\"o'zaro urushlar\" davri"
+    ],
+    "answer": "\"johiliya yoki johiliyat\" davri"
+  },
+  {
+    "question": "Muhammad (sav) onalarining ismi qaysi javobda to'g'ri ko'rsatilgan?",
+    "options": [
+      "Omina",
+      "Xadicha",
+      "Fotima",
+      "Halima"
+    ],
+    "answer": "Omina"
+  },
+  {
+    "question": "Qachon Muhammad (sav) ga Allohdan Jabroil farishta vositasida birinchi vahiy tushadi?",
+    "options": [
+      "610 yil",
+      "622 yil",
+      "630 yil",
+      "632 yil"
+    ],
+    "answer": "610 yil"
+  },
+  {
+    "question": "\"Kalom\"so'zi arab tilida qanday ma'nolarni anglatadi?",
+    "options": [
+      "\"so'z\"",
+      "\"nutq\", \"jumla\"",
+      "\"aqida\", \"axloq\"",
+      "\"xulq\", \"atvor\""
+    ],
+    "answer": "\"so'z\""
+  },
+  {
+    "question": "Musulmonlarning necha foizi sunniylikka e'tiqod qiladi?",
+    "options": [
+      "92,5%",
+      "99,5%",
+      "75,5%",
+      "80,5%"
+    ],
+    "answer": "92,5%"
+  },
+  {
+    "question": "Zardushning tug'ilgan vaqtini ko'rsating?",
+    "options": [
+      "mill. avva. 589-512 yil",
+      "mill. avva. 522-486 yil",
+      "mill. avva. 500-412 yil",
+      "mill. avva. 501-410 yil"
+    ],
+    "answer": "mill. avva. 589-512 yil"
+  },
+  {
+    "question": "Zardushtiylikka ko'ra, inson vafotidan necha kundan so'ng uning ruhi jasadidan ajralib osmonga ko'tariladi deyilgan?",
+    "options": [
+      "Uch kun",
+      "Besh kun",
+      "Olti kun",
+      "O'n kun"
+    ],
+    "answer": "Uch kun"
+  },
+  {
+    "question": "Terrorizmning zamonaviy ko'rinishini ko'rsating?",
+    "options": [
+      "Xalqaro terrorizm",
+      "Individual terrorizm",
+      "Bir hudud bo'yicha amalga oshirilgan terrorizm",
+      "Bir qishloq doirasidagi terrorizm"
+    ],
+    "answer": "Xalqaro terrorizm"
+  },
+  {
+    "question": "Terrorizm namoyon bo'lishiga ko'ra nechitaga bo'linadi?",
+    "options": [
+      "3",
+      "5",
+      "7",
+      "2"
+    ],
+    "answer": "3"
+  },
+  {
+    "question": "Qaysi tashkilotning hisob-kitoblariga ko'ra, 2014-yil boshidan beri IShID jangarilari 700 ga yaqin bolaning, minglab asirlar va ko'plab tinch aholining hayotiga zomin bo'lgan?",
+    "options": [
+      "BMT",
+      "NATO",
+      "SHANXAY",
+      "EMDH"
+    ],
+    "answer": "BMT"
+  },
+  {
+    "question": "IShID-terrorchi to'da ma'nosini ko'rsating?",
+    "options": [
+      "Iroq va Shom islom davlati",
+      "Iqoq terrorchi to'da",
+      "Isroil sharq va dunyo",
+      "Singdirish"
+    ],
+    "answer": "Iroq va Shom islom davlati"
+  }
+]

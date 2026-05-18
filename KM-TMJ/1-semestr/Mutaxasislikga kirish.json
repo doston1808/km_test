@@ -1,0 +1,1632 @@
+[
+  {
+    "question": "Transportning xalq xo'jaligidagi asosiy ahamiyati nimada?",
+    "options": [
+      "Yuk va yo'lovchilarni tashish orqali iqtisodiy aloqalarni ta'minlaydi",
+      "Yangi mahsulot yaratadi",
+      "Yo'lovchilarni tashiydi",
+      "Eksport yuklarini tashiydi"
+    ],
+    "answer": "Yuk va yo'lovchilarni tashish orqali iqtisodiy aloqalarni ta'minlaydi"
+  },
+  {
+    "question": "Transportning mahsuloti nima hisoblanadi?",
+    "options": [
+      "Yuk va yo'lovchilarni tashish jarayoni",
+      "Transport vositalarining ishlab chiqarilishi",
+      "Yo'l qurilishi",
+      "Neft qazib olish"
+    ],
+    "answer": "Yuk va yo'lovchilarni tashish jarayoni"
+  },
+  {
+    "question": "Transportning asosiy vazifasi nima?",
+    "options": [
+      "Tashishni o'z vaqtida va sifatli bajarish",
+      "Yangi yo'llarni qurish",
+      "Yangi transport turlarini ixtiro qilish",
+      "Yoqilg'i ishlab chiqarish"
+    ],
+    "answer": "Tashishni o'z vaqtida va sifatli bajarish"
+  },
+  {
+    "question": "Ishlab chiqarish ichidagi transport nima uchun xizmat qiladi?",
+    "options": [
+      "Korxona ichki texnologik tashishlari uchun",
+      "Xom ashyo eksportiga",
+      "Xalqaro tashishlar uchun",
+      "Yo'lovchi tashish uchun"
+    ],
+    "answer": "Korxona ichki texnologik tashishlari uchun"
+  },
+  {
+    "question": "Tashqi (magistral) transportning asosiy vazifasi nima?",
+    "options": [
+      "Ishlab chiqaruvchi va iste'molchini bog'lash",
+      "Korxona ichki tashishlarini bajarish",
+      "Yuk tashish",
+      "Yo'lovchi tashish"
+    ],
+    "answer": "Ishlab chiqaruvchi va iste'molchini bog'lash"
+  },
+  {
+    "question": "Zamonaviy magistral transport turlariga nimalar kiradi?",
+    "options": [
+      "Temiryo'l, avtomobil, suv, havo va quvur transporti",
+      "Temiryo'l va avtomobil",
+      "Havo transporti",
+      "Dengiz transporti"
+    ],
+    "answer": "Temiryo'l, avtomobil, suv, havo va quvur transporti"
+  },
+  {
+    "question": "Temiryo'l transportining asosiy afzalligi nimada?",
+    "options": [
+      "Har qanday iqlimda kecha-kunduz ishlay oladi",
+      "Eng arzon yo'l qurilishi talab etadi",
+      "Qisqa masofalarga ishlaydi",
+      "Yoqilg'i sarfi eng katta"
+    ],
+    "answer": "Har qanday iqlimda kecha-kunduz ishlay oladi"
+  },
+  {
+    "question": "Temiryo'l transportida mamlakat yuk aylanmasining necha foizi bajariladi?",
+    "options": [
+      "55% dan ortig'i",
+      "25% dan kam",
+      "40% dan kam",
+      "10% dan kam"
+    ],
+    "answer": "55% dan ortig'i"
+  },
+  {
+    "question": "O'zbekiston tashqi savdo yuklarining necha foizi temiryo'l orqali tashiladi?",
+    "options": [
+      "80% dan ortig'i",
+      "50%",
+      "30%",
+      "20%"
+    ],
+    "answer": "80% dan ortig'i"
+  },
+  {
+    "question": "Temir yo'l transportida tashish tannarxi boshqa transportlarga nisbatan qanday?",
+    "options": [
+      "Ancha arzon",
+      "Eng qimmat",
+      "Bir xil",
+      "Eng tez"
+    ],
+    "answer": "Ancha arzon"
+  },
+  {
+    "question": "Avtomobil transportining eng katta afzalligi nimada?",
+    "options": [
+      "Qisqa masofalarga qulay va tez tashish imkoniyati",
+      "Tashish tannarxi eng past",
+      "Ekologik jihatdan eng toza",
+      "Harakat tezligi past"
+    ],
+    "answer": "Qisqa masofalarga qulay va tez tashish imkoniyati"
+  },
+  {
+    "question": "Avtomobil transportida xodimlarning asosiy qismini kimlar tashkil etadi?",
+    "options": [
+      "Haydovchilar",
+      "Mexaniklar",
+      "Konduktorlar",
+      "Muhandislar"
+    ],
+    "answer": "Haydovchilar"
+  },
+  {
+    "question": "Suv transportining asosiy kamchiligi nima?",
+    "options": [
+      "Mavsumiy ishlashi",
+      "Juda qimmat yo'l qurilishi",
+      "Dengizda ishlashi",
+      "Tezligi juda yuqori"
+    ],
+    "answer": "Mavsumiy ishlashi"
+  },
+  {
+    "question": "Suv transportida tashish tannarxi qanday?",
+    "options": [
+      "Nisbatan arzon",
+      "Juda yuqori",
+      "Havo transportidan ham qimmat",
+      "Temiryo'ldan qimmat"
+    ],
+    "answer": "Nisbatan arzon"
+  },
+  {
+    "question": "Daryo transporti qaysi maqsadlarda ishlatiladi?",
+    "options": [
+      "Ichki tashishlar uchun",
+      "Xalqaro tashishlar uchun",
+      "Qisqa masofali havo yo'llari uchun",
+      "Yo'lovchi tashish uchun"
+    ],
+    "answer": "Ichki tashishlar uchun"
+  },
+  {
+    "question": "Havo transportining eng asosiy afzalligi nima?",
+    "options": [
+      "Eng tezkor transport turi",
+      "Eng arzon transport turi",
+      "Eng ekologik toza transport turi",
+      "Eng katta yuk sig'imiga ega"
+    ],
+    "answer": "Eng tezkor transport turi"
+  },
+  {
+    "question": "Havo transportining asosiy kamchiligi nima?",
+    "options": [
+      "Yonilg'i sarfi juda katta",
+      "Tezligi past",
+      "Har doim ob-havoga bog'liq",
+      "Qisqa masofalarga yaroqsiz"
+    ],
+    "answer": "Yonilg'i sarfi juda katta"
+  },
+  {
+    "question": "O'zbekistonda havo transporti kim tomonidan boshqariladi?",
+    "options": [
+      "\"O'zbekiston havo yo'llari\" DAK",
+      "\"O'zbekiston temir yo'llari\" AJ",
+      "\"O'z avto trans\"",
+      "\"Uz Gaz Oil\""
+    ],
+    "answer": "\"O'zbekiston havo yo'llari\" DAK"
+  },
+  {
+    "question": "Quvur transporti asosan qaysi yuklarni tashish uchun ishlatiladi?",
+    "options": [
+      "Neft va gaz mahsulotlari",
+      "Paxta va don",
+      "Metall va ko'mir",
+      "Qishloq xo'jalik mahsulotlari"
+    ],
+    "answer": "Neft va gaz mahsulotlari"
+  },
+  {
+    "question": "Quvur transportining asosiy afzalligi nimada?",
+    "options": [
+      "Tashish tannarxi arzon va yil davomida uzluksiz ishlaydi",
+      "Eng tez transport turi",
+      "Eng katta qurilish xarajatiga ega",
+      "Qisqa masofalarga ishlaydi"
+    ],
+    "answer": "Tashish tannarxi arzon va yil davomida uzluksiz ishlaydi"
+  },
+  {
+    "question": "Ilk bor temiryo'l sifatida izli yo'llar qayerlarda qo'llanilgan?",
+    "options": [
+      "Metallurgiya zavodlari va konlarda",
+      "Shahar yo'llarida",
+      "Daryo bo'ylarida",
+      "Dehqon xo'jaliklarida"
+    ],
+    "answer": "Metallurgiya zavodlari va konlarda"
+  },
+  {
+    "question": "Birinchi parovozni kim yaratgan?",
+    "options": [
+      "R. Trevitik",
+      "J. Sariqov",
+      "Uroqov",
+      "P. Polzunov"
+    ],
+    "answer": "R. Trevitik"
+  },
+  {
+    "question": "J. Stefenson o'zining \"Blyuxer\" parovozini qachon yaratgan?",
+    "options": [
+      "1814-yilda",
+      "1925-yilda",
+      "1630-yilda",
+      "1703-yilda"
+    ],
+    "answer": "1814-yilda"
+  },
+  {
+    "question": "Dunyodagi birinchi umumfoydalanish temiryo'li qachon ishga tushirilgan?",
+    "options": [
+      "1825-yil 27-sentabrda",
+      "1890-yil 1-yanvarda",
+      "1895-yil 20-aprelda",
+      "1892-yil 5-dekabrda"
+    ],
+    "answer": "1825-yil 27-sentabrda"
+  },
+  {
+    "question": "Rossiyada birinchi parovozni kimlar yaratgan?",
+    "options": [
+      "Y.A. va M.Y. Cherepanovlar",
+      "D. Uroqov",
+      "R. Trassadov",
+      "P. Polvonov"
+    ],
+    "answer": "Y.A. va M.Y. Cherepanovlar"
+  },
+  {
+    "question": "Rossiyada birinchi umum foydalanish temir yo'li qachon ishga tushirilgan?",
+    "options": [
+      "1837-yil 11-noyabrda",
+      "1935-yil 2-martda",
+      "1740-yil 20-dekabrda",
+      "1639-yil 15-mayda"
+    ],
+    "answer": "1837-yil 11-noyabrda"
+  },
+  {
+    "question": "Peterburg--Moskva temiryo'lining uzunligi qancha bo'lgan?",
+    "options": [
+      "651 km",
+      "530 km",
+      "720 km",
+      "480 km"
+    ],
+    "answer": "651 km"
+  },
+  {
+    "question": "Rossiyada temir yo'l izining kengligi qancha qilib belgilangan?",
+    "options": [
+      "1524 mm",
+      "1335 mm",
+      "1500 mm",
+      "1600 mm"
+    ],
+    "answer": "1524 mm"
+  },
+  {
+    "question": "O'rta Osiyoda temiryo'l qurilishi qachon boshlangan?",
+    "options": [
+      "1880-yilda",
+      "1770-yilda",
+      "1690-yilda",
+      "1990-yilda"
+    ],
+    "answer": "1880-yilda"
+  },
+  {
+    "question": "O'rta Osiyoda birinchi temir yo'l uzunligi qancha bo'lgan?",
+    "options": [
+      "217 chaqirim",
+      "300 chaqirim",
+      "180 chaqirim",
+      "400 chaqirim"
+    ],
+    "answer": "217 chaqirim"
+  },
+  {
+    "question": "Qizil Arvat--Samarqand temir yo'lini kim boshchiligida davom ettirilgan?",
+    "options": [
+      "A.I. Urusatev",
+      "J. Sotvoldiyev",
+      "N. Churaqov",
+      "R. Timsoyev"
+    ],
+    "answer": "A.I. Urusatev"
+  },
+  {
+    "question": "Orenburg--Toshkent temir yo'li qachon to'liq foydalanishga topshirilgan?",
+    "options": [
+      "1906-yilda",
+      "1990-yilda",
+      "1995-yilda",
+      "1610-yilda"
+    ],
+    "answer": "1906-yilda"
+  },
+  {
+    "question": "Orenburg--Toshkent temir yo'lining umumiy uzunligi qancha bo'lgan?",
+    "options": [
+      "1736 chaqirim",
+      "2000 chaqirim",
+      "1500 chaqirim",
+      "1200 chaqirim"
+    ],
+    "answer": "1736 chaqirim"
+  },
+  {
+    "question": "O'zbekistonda temir yo'l sohasidagi islohotlar qachon boshlandi?",
+    "options": [
+      "Mustaqillikka erishgandan keyin",
+      "1980-yillarda",
+      "1960-yillarda",
+      "2000-yillarda"
+    ],
+    "answer": "Mustaqillikka erishgandan keyin"
+  },
+  {
+    "question": "Mustaqillikdan so'ng qurilgan yangi temir yo'l loyihalaridan biri qaysi?",
+    "options": [
+      "Uchquduq--Misken--Sulton-uzoq liniyasi",
+      "Toshkent--Andijon yo'li",
+      "Buxoro--Navoiy yo'li",
+      "Qarshi--Kitob yo'li"
+    ],
+    "answer": "Uchquduq--Misken--Sulton-uzoq liniyasi"
+  },
+  {
+    "question": "TRASEKA dasturi qachon qabul qilingan?",
+    "options": [
+      "XX asrning 90-yillarida",
+      "XXI asr boshlarida",
+      "1980-yillarda",
+      "1770-yilda"
+    ],
+    "answer": "XX asrning 90-yillarida"
+  },
+  {
+    "question": "TRASEKA dasturi asosida transport yo'lagi qayerdan qayergacha cho'ziladi?",
+    "options": [
+      "Yevropadan Xitoygacha",
+      "Rossiyadan Hindistongacha",
+      "Turkiyadan Eron orqali O'zbekistongacha",
+      "Qozog'istondan Afg'onistongacha"
+    ],
+    "answer": "Yevropadan Xitoygacha"
+  },
+  {
+    "question": "O'zbekistonning birinchi tezyurar elektropoyezdi qachon qatnay boshlagan?",
+    "options": [
+      "2004-yilda",
+      "2013-yilda",
+      "2018-yilda",
+      "2015-yilda"
+    ],
+    "answer": "2004-yilda"
+  },
+  {
+    "question": "\"Tosh temir yo'l loyiha\" instituti qachon tashkil etilgan?",
+    "options": [
+      "70 yil avval",
+      "75 yil avval",
+      "73 yil avval",
+      "60 yil avval"
+    ],
+    "answer": "70 yil avval"
+  },
+  {
+    "question": "Transafg'on yo'lagi loyihasiga kiruvchi yangi temiryo'l yo'nalishi qaysi?",
+    "options": [
+      "G'uzor--Boysun--Qumqo'rg'on",
+      "Toshkent--Qo'qon--Misr",
+      "Samarqand--Buxoro--Nepal",
+      "Qarshi--Kitob--AQSH"
+    ],
+    "answer": "G'uzor--Boysun--Qumqo'rg'on"
+  },
+  {
+    "question": "Temir yo'l transporti qanday xo'jalik turiga kiradi?",
+    "options": [
+      "Murakkab, ko'p tarmoqli xo'jalik",
+      "Yo'lovchi tashishga ixtisoslashgan",
+      "Yuk tashishga mo'ljallangan",
+      "Bitta yo'nalishda ishlovchi tizim"
+    ],
+    "answer": "Murakkab, ko'p tarmoqli xo'jalik"
+  },
+  {
+    "question": "\"O'zbekistontemiryo'llari\" Davlat aksionerlik kompaniyasi qachon tashkil etilgan?",
+    "options": [
+      "1994-yil 7-noyabrda",
+      "1991-yil 1-sentyabrda",
+      "1986-yil 10-martda",
+      "2011-yil 1-yanvarda"
+    ],
+    "answer": "1994-yil 7-noyabrda"
+  },
+  {
+    "question": "\"O'zbekistontemiryo'llari\" DATKning yangi tuzilmasi qachondan boshlab faoliyat yurita boshlagan?",
+    "options": [
+      "2001-yil 1-yanvardan",
+      "1991-yil 10-apreldan",
+      "2005-yil 1-iyuldan",
+      "2010-yil 15-dekabrdan"
+    ],
+    "answer": "2001-yil 1-yanvardan"
+  },
+  {
+    "question": "Temiryo'l tarmoqlarining asosiy vazifalaridan biri nima?",
+    "options": [
+      "Yagona temiryo'l transporti tizimini yaratish",
+      "Stansiyalarni ta'mirlash",
+      "Yangi korxonalarni qurish",
+      "Lokomotivlarni sotib olish"
+    ],
+    "answer": "Yagona temiryo'l transporti tizimini yaratish"
+  },
+  {
+    "question": "Temiryo'l infratuzilmasini rivojlantirishda asosiy yo'nalishlardan biri nima?",
+    "options": [
+      "Elektrlashtirish va optik tolali aloqa tizimiga o'tish",
+      "Yo'lovchi tashishni ko'paytirish",
+      "Relslarni yangilash bilan chegaralanish",
+      "Temir yo'l stansiyalarini kengaytirish"
+    ],
+    "answer": "Elektrlashtirish va optik tolali aloqa tizimiga o'tish"
+  },
+  {
+    "question": "Temiryo'llarda nechta asosiy turdagi gabarit mavjud?",
+    "options": [
+      "Ikki tur---inshootlarning yaqinlashish gabariti va harakatlanuvchi tarkib gabariti(T)",
+      "Uch tur---C,T,G",
+      "Bitta---T gabariti",
+      "To'rt tur---S,T,U,M"
+    ],
+    "answer": "Ikki tur---inshootlarning yaqinlashish gabariti va harakatlanuvchi tarkib gabariti(T)"
+  },
+  {
+    "question": "Temir yo'l transporti tarkibiga nimalar kiradi?",
+    "options": [
+      "Temiryo'llar, korxonalar, boshqaruv, ijtimoiy va tibbiy muassasalar",
+      "Harakat tarkiblari",
+      "Lokomotivlar va vagonlar",
+      "Kemalar, daryolar, o'zanlar va yo'lovchi stansiyalari"
+    ],
+    "answer": "Temiryo'llar, korxonalar, boshqaruv, ijtimoiy va tibbiy muassasalar"
+  },
+  {
+    "question": "Temir yo'llarning texnik jihozlari nimalardan iborat?",
+    "options": [
+      "Yo'llar, harakat vositalari, inshootlar, avtomatika va aloqa tizimlari",
+      "Rels va traverslardan",
+      "Elektr tarmoqlaridan",
+      "Kompyuter, printer, kemalar, lokomotivlardan"
+    ],
+    "answer": "Yo'llar, harakat vositalari, inshootlar, avtomatika va aloqa tizimlari"
+  },
+  {
+    "question": "Temir yo'lda yo'lovchilarni tushirish va chiqish joylari nima deb ataladi?",
+    "options": [
+      "Yo'lovchi perronlari va platformalar",
+      "Tashish uzellari",
+      "Tezlashtirish punktlari",
+      "Shoxobchalar va vagonlar"
+    ],
+    "answer": "Yo'lovchi perronlari va platformalar"
+  },
+  {
+    "question": "Temiryo'lda xavfsizlikni ta'minlovchi tizimlarga nimalar kiradi?",
+    "options": [
+      "Avtomatika, telemexanika, aloqa va hisoblash texnikasi",
+      "Signal chiroqlari",
+      "Telefon aloqa tizimi",
+      "Suv nasoslari, qum va mexanik tormozlar"
+    ],
+    "answer": "Avtomatika, telemexanika, aloqa va hisoblash texnikasi"
+  },
+  {
+    "question": "Kompaniya boshqaruvining tuzilmasiga nimalar kiradi?",
+    "options": [
+      "Kengash, boshqarmalar va markaziy apparat",
+      "Boshqarma",
+      "Kengash",
+      "Ishchilar, qorovul, ishlab chiqarish bo'limi"
+    ],
+    "answer": "Kengash, boshqarmalar va markaziy apparat"
+  },
+  {
+    "question": "O'zbekiston temir yo'l tarmoqlari qaysi mintaqaviy uzellarga bo'linadi?",
+    "options": [
+      "Toshkent, Qo'qon, Buxoro, Qo'ng'irot, Qarshi va Termiz MTU",
+      "Toshkent, Ko'lob, Andijon, Samarqand",
+      "Misr, Toshkent MTU",
+      "Farg'ona, Jizzax, Termiz, AQSH"
+    ],
+    "answer": "Toshkent, Qo'qon, Buxoro, Qo'ng'irot, Qarshi va Termiz MTU"
+  },
+  {
+    "question": "Gabarit deganda nimani tushuniladi?",
+    "options": [
+      "Harakatlanuvchi tarkib va inshootlarning xavfsiz o'lcham chegarasi",
+      "Poyezd tezligi",
+      "Yo'lning uzunligi",
+      "Vagon sig'imi"
+    ],
+    "answer": "Harakatlanuvchi tarkib va inshootlarning xavfsiz o'lcham chegarasi"
+  },
+  {
+    "question": "Inshootlarning yaqinlashish gabariti qanday belgilanadi?",
+    "options": [
+      "\"C\" harfi bilan",
+      "\"A\" harfi bilan",
+      "\"M\" harfi bilan",
+      "\"S\" harfi bilan"
+    ],
+    "answer": "\"C\" harfi bilan"
+  },
+  {
+    "question": "Harakatlanuvchi tarkib gabariti qanday belgilanadi?",
+    "options": [
+      "\"T\" harfi bilan",
+      "\"K\" harfi bilan",
+      "\"M\" harfi bilan",
+      "\"G\" harfi bilan"
+    ],
+    "answer": "\"T\" harfi bilan"
+  },
+  {
+    "question": "1983-yildan boshlab qaysi standart asosida yangi gabarit o'lchovlari joriy etilgan?",
+    "options": [
+      "9238--83 Davlat standarti",
+      "1524--58 Davlat standarti",
+      "9001--55 ISO standarti",
+      "7300--44 Davlat standarti"
+    ],
+    "answer": "9238--83 Davlat standarti"
+  },
+  {
+    "question": "Nogabarit yuklar deganda nima tushuniladi?",
+    "options": [
+      "O'lchamlari gabarit chegarasidan chiqib ketadigan yuklar",
+      "O'ta yengil yuklar",
+      "Xavfli moddalar",
+      "Og'irligi 10 tonnadan kam yuklar"
+    ],
+    "answer": "O'lchamlari gabarit chegarasidan chiqib ketadigan yuklar"
+  },
+  {
+    "question": "Nogabaritlik nechta yo'nalishda bo'lishi mumkin?",
+    "options": [
+      "Uchtada---tepa, yon va ostki tomonda",
+      "Ikkita---tepa va past",
+      "Bitta---yon tomonda",
+      "To'rtta---tepa, past, orqa va old"
+    ],
+    "answer": "Uchtada---tepa, yon va ostki tomonda"
+  },
+  {
+    "question": "Nogabarit yuklarni tashishda nimalarga rioya qilinadi?",
+    "options": [
+      "Maxsus xavfsizlik va ehtiyotkorlik qoidalariga",
+      "Tezlikni oshirishga",
+      "Yuk og'irligini kamaytirishga",
+      "Vagonda joylashuvini o'zgartirishga"
+    ],
+    "answer": "Maxsus xavfsizlik va ehtiyotkorlik qoidalariga"
+  },
+  {
+    "question": "Ochiq vagonlarda ortilgan yuklarning gabaritga mosligini tekshirish qanday amalga oshiriladi?",
+    "options": [
+      "Maxsus gabarit darvozalari orqali o'tkazish yo'li bilan",
+      "Vizual kuzatuv orqali",
+      "O'lchov lenta bilan",
+      "Kompyuterda hisoblash orqali"
+    ],
+    "answer": "Maxsus gabarit darvozalari orqali o'tkazish yo'li bilan"
+  },
+  {
+    "question": "Temir yo'llarning aniq ishlashini va xavfsizligini ta'minlash qanday amalga oshiriladi?",
+    "options": [
+      "Belgilangan tartib va qoidalarga qat'iy rioya qilish orqali",
+      "Avtomatik tizimlarga tayanish orqali",
+      "Har bir ishchini ogohlantirish orqali",
+      "Bosh muhandis nazorati bilan"
+    ],
+    "answer": "Belgilangan tartib va qoidalarga qat'iy rioya qilish orqali"
+  },
+  {
+    "question": "\"Temir yo'l transporti to'g'risida\"gi Qonun qachon qabul qilingan?",
+    "options": [
+      "1999-yil 15-aprel",
+      "1981-yil 1-sentyabr",
+      "2021-yil 10-iyun",
+      "1985-yil 5-yanvar"
+    ],
+    "answer": "1999-yil 15-aprel"
+  },
+  {
+    "question": "\"Temir yo'l transporti to'g'risida\"gi Qonun nechta moddadan iborat?",
+    "options": [
+      "28 ta modda",
+      "10 ta modda",
+      "35 ta modda",
+      "15 ta modda"
+    ],
+    "answer": "28 ta modda"
+  },
+  {
+    "question": "Qonunning birinchi moddasi nimaga bag'ishlangan?",
+    "options": [
+      "Asosiy tushunchalarga",
+      "Qonunni qo'llash tartibiga",
+      "Jazolar tizimiga",
+      "Transport turlariga"
+    ],
+    "answer": "Asosiy tushunchalarga"
+  },
+  {
+    "question": "\"Temiryo'l Nizomi\" nimani belgilaydi?",
+    "options": [
+      "Temiryo'l tashkilotlari va fuqarolarning huquq, majburiyat va mas'uliyatlarini",
+      "Temiryo'l chiptalarini sotish tartibini",
+      "Poyezd jadvalini tuzish qoidalarini",
+      "Yuk tashish shartlarini"
+    ],
+    "answer": "Temiryo'l tashkilotlari va fuqarolarning huquq, majburiyat va mas'uliyatlarini"
+  },
+  {
+    "question": "Temiryo'l Nizomi kimlar o'rtasidagi munosabatlarni boshqaradi?",
+    "options": [
+      "Temiryo'l, yuk jo'natuvchi, yo'lovchi va boshqa shaxslar o'rtasida",
+      "Temir yo'l xodimlari o'rtasida",
+      "Boshqarma va davlat o'rtasida",
+      "Yo'lovchilar o'rtasida"
+    ],
+    "answer": "Temiryo'l, yuk jo'natuvchi, yo'lovchi va boshqa shaxslar o'rtasida"
+  },
+  {
+    "question": "Poyezdlar harakatining yagona grafigi kim tomonidan belgilanadi?",
+    "options": [
+      "Temiryo'l boshqarmasi tomonidan",
+      "Lokomotiv depo rahbari tomonidan",
+      "Stansiya boshlig'i tomonidan",
+      "Haydovchilar kengashi tomonidan"
+    ],
+    "answer": "Temiryo'l boshqarmasi tomonidan"
+  },
+  {
+    "question": "Texnikaviy foydalanish qoidalari nimani o'rnatadi?",
+    "options": [
+      "Temir yo'l infratuzilmasi, inshootlar va harakat tartibi bo'yicha me'yorlarni",
+      "Yo'lovchi tashish narxlarini",
+      "Elektr energiyasi sarfini",
+      "Yangi yo'llarni qurish me'yorini"
+    ],
+    "answer": "Temir yo'l infratuzilmasi, inshootlar va harakat tartibi bo'yicha me'yorlarni"
+  },
+  {
+    "question": "Texnikaviy foydalanish qoidalari kimlar uchun majburiy?",
+    "options": [
+      "Temir yo'l transportining barcha bo'linmalari va xodimlari uchun",
+      "Stansiya xodimlari uchun",
+      "Lokomotivchilar uchun",
+      "Texnik bo'limlar uchun"
+    ],
+    "answer": "Temir yo'l transportining barcha bo'linmalari va xodimlari uchun"
+  },
+  {
+    "question": "Texnikaviy foydalanish qoidalariga amal qilish nimani ta'minlaydi?",
+    "options": [
+      "Barqaror tartib va harakat xavfsizligini",
+      "Ishlab chiqarish hajmini",
+      "Tezkor aloqa tizimini",
+      "Yuk tashish tezligini"
+    ],
+    "answer": "Barqaror tartib va harakat xavfsizligini"
+  },
+  {
+    "question": "O'zbekiston temir yo'llarida signallashtirish bo'yicha yo'riqnoma nima uchun mo'ljallangan?",
+    "options": [
+      "Ko'rinuvchan va ovozli signallar tizimini tartibga solish uchun",
+      "Poyezd chiptalarini rasmiylashtirish uchun",
+      "Yuk tashishni hisoblash uchun",
+      "Yo'lovchi xizmatini baholash uchun"
+    ],
+    "answer": "Ko'rinuvchan va ovozli signallar tizimini tartibga solish uchun"
+  },
+  {
+    "question": "Poyezdlar harakati va manyovr ishlari bo'yicha yo'riqnoma nimaga asoslanadi?",
+    "options": [
+      "Texnikaviy foydalanish qoidalari va signalizatsiya yo'riqnomalariga",
+      "Temir yo'l nizomiga",
+      "Yo'lovchi tashish jadvaliga",
+      "Bosh muhandis ko'rsatmasiga"
+    ],
+    "answer": "Texnikaviy foydalanish qoidalari va signalizatsiya yo'riqnomalariga"
+  },
+  {
+    "question": "Yo'riqnomada poyezdlar harakati qanday holatlar uchun belgilangan?",
+    "options": [
+      "SMB tizimlari nosozligi yoki ta'mir ishlari olib borilayotgan paytlar uchun",
+      "Ish kunlari uchun",
+      "Tungi vaqtda harakat uchun",
+      "Yangi yo'nalishlar uchun"
+    ],
+    "answer": "SMB tizimlari nosozligi yoki ta'mir ishlari olib borilayotgan paytlar uchun"
+  },
+  {
+    "question": "Harakat xavfsizligini ta'minlovchi asosiy shart nima?",
+    "options": [
+      "Texnik qurilma va inshootlarning butunligini va ishga shayligini ta'minlash",
+      "Haydovchilarning shaxsiy intizomini oshirish",
+      "Tezlikni kamaytirish",
+      "Harakat masofasini qisqartirish"
+    ],
+    "answer": "Texnik qurilma va inshootlarning butunligini va ishga shayligini ta'minlash"
+  },
+  {
+    "question": "Temir yo'l xodimining harakatga xavf tug'diruvchi holatda qilishi kerak bo'lgan ish nima?",
+    "options": [
+      "To'xtash signalini berish va xavfli joyni muhofazalash",
+      "Vaziyatni e'tiborsiz qoldirish",
+      "Harakatni davom ettirish",
+      "Boshqaruvga xabar berish bilan cheklanish"
+    ],
+    "answer": "To'xtash signalini berish va xavfli joyni muhofazalash"
+  },
+  {
+    "question": "Temir yo'l xodimlari ishga qabul qilinishdan oldin nimalarni bilishlari shart?",
+    "options": [
+      "Texnik foydalanish qoidalari, signalizatsiya va xavfsizlik yo'riqnomalarini",
+      "Marshrutlarni",
+      "Chiptalarni sotish tartibini",
+      "Stansiya joylashuvini"
+    ],
+    "answer": "Texnik foydalanish qoidalari, signalizatsiya va xavfsizlik yo'riqnomalarini"
+  },
+  {
+    "question": "Harakat bilan bog'liq ishchilarga qanday sinov o'tkaziladi?",
+    "options": [
+      "Texnik, xavfsizlik va sanitariya qoidalari bo'yicha sinov",
+      "Og'zaki suhbat",
+      "Jismoniy tayyorgarlik sinovi",
+      "Yozma imtihon"
+    ],
+    "answer": "Texnik, xavfsizlik va sanitariya qoidalari bo'yicha sinov"
+  },
+  {
+    "question": "Temiryo'l ishining asosiy iqtisodiy ko'rsatkichlaridan biri nima?",
+    "options": [
+      "Foyda miqdori",
+      "Yo'lovchi soni",
+      "Yo'l uzunligi",
+      "Depo soni"
+    ],
+    "answer": "Foyda miqdori"
+  },
+  {
+    "question": "Rentabellilik nimani bildiradi?",
+    "options": [
+      "Har bir so'm ishlab chiqarish fondiga to'g'ri keladigan foyda",
+      "Temir yo'l uzunligining samaradorligi",
+      "Poyezd tezligi",
+      "Xodimlar soni"
+    ],
+    "answer": "Har bir so'm ishlab chiqarish fondiga to'g'ri keladigan foyda"
+  },
+  {
+    "question": "Foyda davlat iqtisodiyotida qanday ahamiyatga ega?",
+    "options": [
+      "Davlat byudjetining asosiy tushum manbalaridan biri",
+      "Korxona daromadi",
+      "Xodimlar oyligini belgilaydi",
+      "Qurilish xarajatlarini kamaytiradi"
+    ],
+    "answer": "Davlat byudjetining asosiy tushum manbalaridan biri"
+  },
+  {
+    "question": "Yangi temir yo'l liniyalari qurilishining asosiy maqsadi nimada?",
+    "options": [
+      "Yangi hududlarni o'zlashtirish va yuk tashishni yengillashtirish",
+      "Eski yo'llarni yopish",
+      "Aholi punktlarini bog'lash",
+      "Yo'lovchi tashish uchun"
+    ],
+    "answer": "Yangi hududlarni o'zlashtirish va yuk tashishni yengillashtirish"
+  },
+  {
+    "question": "Yangi temir yo'l liniyalariga texnik talablar qanday belgilanadi?",
+    "options": [
+      "Ularning ahamiyati va yuk tashish hajmiga qarab differensiyalanadi",
+      "Har doim bir xil me'yorga ega",
+      "Geografik joylashuvga qarab",
+      "Yo'lovchi soniga qarab"
+    ],
+    "answer": "Ularning ahamiyati va yuk tashish hajmiga qarab differensiyalanadi"
+  },
+  {
+    "question": "Qurilish me'yorlari va qoidalari (QM va Q) nimalarni belgilaydi?",
+    "options": [
+      "Temir yo'l liniyalari darajasi va texnik parametrlarini",
+      "Temir yo'l uzunligini",
+      "Ishchi sonini",
+      "Qurilish vaqtini"
+    ],
+    "answer": "Temir yo'l liniyalari darajasi va texnik parametrlarini"
+  },
+  {
+    "question": "QM va Q 32.01--95 standarti qaysi temir yo'llarga taalluqli?",
+    "options": [
+      "MDH davlatlaridagi yangi va rekonstruksiya qilinayotgan temiryo'llarga",
+      "O'zbekiston ichki yo'llariga",
+      "Xalqaro yo'llarga",
+      "Stansiyalar oralig'iga"
+    ],
+    "answer": "MDH davlatlaridagi yangi va rekonstruksiya qilinayotgan temiryo'llarga"
+  },
+  {
+    "question": "Temir yo'l liniyasining trassasi nimani belgilaydi?",
+    "options": [
+      "Temir yo'l o'q chizig'ining fazoviy holatini",
+      "Liniya uzunligini",
+      "Liniya egri radiusini",
+      "Yo'l kengligini"
+    ],
+    "answer": "Temir yo'l o'q chizig'ining fazoviy holatini"
+  },
+  {
+    "question": "Trassaning gorizontal proyeksiyasi nima deb ataladi?",
+    "options": [
+      "Reja",
+      "Profil",
+      "Kesim",
+      "Egrilik"
+    ],
+    "answer": "Reja"
+  },
+  {
+    "question": "Trassa chizig'ining vertikal yoymasi nima deb ataladi?",
+    "options": [
+      "Bo'ylama profil",
+      "Egri radius",
+      "Liniya markazi",
+      "Nishablik"
+    ],
+    "answer": "Bo'ylama profil"
+  },
+  {
+    "question": "Temir yo'lni joylashtirish uchun ajratiladigan yer maydoni qanday ataladi?",
+    "options": [
+      "Ajratma maydon",
+      "Yo'l zonasi",
+      "Transport yo'lagi",
+      "Qurilish maydoni"
+    ],
+    "answer": "Ajratma maydon"
+  },
+  {
+    "question": "Ajratma maydon chegaralari qanday belgilanadi?",
+    "options": [
+      "Chegara belgisi bilan",
+      "Rangli chiziq bilan",
+      "O'lchov lenta bilan",
+      "Sun'iy devor bilan"
+    ],
+    "answer": "Chegara belgisi bilan"
+  },
+  {
+    "question": "Temir yo'l liniyasining rejasi qanday qismlardan iborat?",
+    "options": [
+      "To'g'ri chiziqli va egrilardan",
+      "Burilishlardan",
+      "Nishabliklardan",
+      "To'g'ri uchastkalardan"
+    ],
+    "answer": "To'g'ri chiziqli va egrilardan"
+  },
+  {
+    "question": "Egri radiusining kichik bo'lishi nimalarga olib keladi?",
+    "options": [
+      "Harakat tezligi kamayadi va relslar siyqalanadi",
+      "Harakat tezligi oshadi",
+      "Yoqilg'i sarfi kamayadi",
+      "Yo'l xavfsizligi oshadi"
+    ],
+    "answer": "Harakat tezligi kamayadi va relslar siyqalanadi"
+  },
+  {
+    "question": "O'tish egri chizig'i nimani ta'minlaydi?",
+    "options": [
+      "To'g'ri yo'ldan egri yo'lga ohista o'tishni",
+      "Tezlikni keskin kamaytirishni",
+      "Egri radiusini o'zgartirmaslikni",
+      "Nishablikni oshirishni"
+    ],
+    "answer": "To'g'ri yo'ldan egri yo'lga ohista o'tishni"
+  },
+  {
+    "question": "O'tish egri chizig'ining radiusi qanday o'zgaradi?",
+    "options": [
+      "Cheksiz qiymatdan R gacha kamayadi",
+      "R dan cheksizlikka oshadi",
+      "Doimiy bo'ladi",
+      "Egri radiusi o'zgarmaydi"
+    ],
+    "answer": "Cheksiz qiymatdan R gacha kamayadi"
+  },
+  {
+    "question": "Yetakchi qiyalik deganda nima tushuniladi?",
+    "options": [
+      "Eng katta, surunkali ko'tarilish darajasi",
+      "Eng kichik nishablik",
+      "Poyezd uzunligi",
+      "Egri radiusi"
+    ],
+    "answer": "Eng katta, surunkali ko'tarilish darajasi"
+  },
+  {
+    "question": "I darajali temir yo'l liniyalarida yetakchi qiyalikning eng katta qiymati qancha?",
+    "options": [
+      "0,012",
+      "9,009",
+      "0,028",
+      "0,038"
+    ],
+    "answer": "0,012"
+  },
+  {
+    "question": "IV darajali temiryo'l liniyalarida yetakchi qiyalikning maksimal qiymati qancha?",
+    "options": [
+      "0,03",
+      "0,028",
+      "0,0155",
+      "0,0098"
+    ],
+    "answer": "0,03"
+  },
+  {
+    "question": "Bo'ylama profil elementlarining uzunligi kamida qanday bo'lishi kerak?",
+    "options": [
+      "Poyezdning yarim uzunligidan kam bo'lmasligi kerak",
+      "Kamida 50 metr bo'lishi kerak",
+      "Poyezd uzunligiga teng bo'lishi kerak",
+      "Rels uzunligiga teng bo'lishi kerak"
+    ],
+    "answer": "Poyezdning yarim uzunligidan kam bo'lmasligi kerak"
+  },
+  {
+    "question": "To'liq bo'ylama profil qanday masshtablarda chiziladi?",
+    "options": [
+      "Gorizontal 1:10000, vertical 1:200",
+      "1:50000 va 1:1000",
+      "2:1000 va 1:100",
+      "3:25000 va 1:500"
+    ],
+    "answer": "Gorizontal 1:10000, vertical 1:200"
+  },
+  {
+    "question": "Qisqartirilgan bo'ylama profilning asosiy vazifasi nima?",
+    "options": [
+      "Mashinistlarga qiyaliklarni hisobga olib poyezdni boshqarishni yengillashtirish",
+      "Qurilish xarajatlarini kamaytirish",
+      "Relslar sifatini baholash",
+      "Egri radiuslarini tekshirish"
+    ],
+    "answer": "Mashinistlarga qiyaliklarni hisobga olib poyezdni boshqarishni yengillashtirish"
+  },
+  {
+    "question": "Qisqartirilgan bo'ylama profil qaysi masshtablarda tuziladi?",
+    "options": [
+      "Gorizontal 1:50000, vertical 1:1000",
+      "1:10000 va 1:200",
+      "2:25000 va 1:500",
+      "3:20000 va 1:400"
+    ],
+    "answer": "Gorizontal 1:50000, vertical 1:1000"
+  },
+  {
+    "question": "Yangi temir yo'l liniyalari loyihasi nimalarni hisobga olgan holda ishlab chiqiladi?",
+    "options": [
+      "Sanoat, aholi punktlari, transport va atrof-muhit talablarini",
+      "Iqtisodiy ko'rsatkichlarni",
+      "Texnik imkoniyatlarni",
+      "Ekologik holatni"
+    ],
+    "answer": "Sanoat, aholi punktlari, transport va atrof-muhit talablarini"
+  },
+  {
+    "question": "Yangi temir yo'l liniyalarini loyihalashdan oldin nima tuziladi?",
+    "options": [
+      "Texnik-iqtisodiy asos (TIA)",
+      "Qurilish smetasi",
+      "Ishchi chizmalar",
+      "Foydalanish rejalari"
+    ],
+    "answer": "Texnik-iqtisodiy asos (TIA)"
+  },
+  {
+    "question": "Temir yo'l liniyasi loyihasi nechta bosqichda ishlab chiqiladi?",
+    "options": [
+      "Ikki bosqichda",
+      "Uch bosqichda",
+      "Bir bosqichda",
+      "To'rt bosqichda"
+    ],
+    "answer": "Ikki bosqichda"
+  },
+  {
+    "question": "Texnik jihatdan murakkab bo'lmagan obyektlar qanday loyihalanadi?",
+    "options": [
+      "Bir bosqichda--- ishchi loyiha tuziladi",
+      "Ikki bosqichda--- loyiha va ishchi hujjatlar bilan",
+      "Iqtisodiy hisob-kitob bilan",
+      "Rejalashtirish asosida"
+    ],
+    "answer": "Bir bosqichda--- ishchi loyiha tuziladi"
+  },
+  {
+    "question": "Temir yo'l loyihasining asosiy qismlari nimalardan iborat?",
+    "options": [
+      "Iqtisodiy va texnik qismlardan",
+      "Texnik qismdan",
+      "Iqtisodiy qismdan",
+      "Boshqaruv qismidan"
+    ],
+    "answer": "Iqtisodiy va texnik qismlardan"
+  },
+  {
+    "question": "Loyihaning iqtisodiy qismida nimalar aniqlanadi?",
+    "options": [
+      "Tashish hajmi, poyezd massasi va harakat notekisligi koeffitsiyentlari",
+      "Yo'l uzunligi",
+      "Aholi soni",
+      "Xarajat miqdori"
+    ],
+    "answer": "Tashish hajmi, poyezd massasi va harakat notekisligi koeffitsiyentlari"
+  },
+  {
+    "question": "Loyihaning texnik qismiga nimalar kiradi?",
+    "options": [
+      "Trassa yo'nalishi, yer polotnosi, inshootlar, aloqa va elektr ta'minoti loyihalari",
+      "Iqtisodiy ko'rsatkichlar",
+      "Muhandislik izlanmalari",
+      "Suv ta'minoti loyihasi"
+    ],
+    "answer": "Trassa yo'nalishi, yer polotnosi, inshootlar, aloqa va elektr ta'minoti loyihalari"
+  },
+  {
+    "question": "Namunaviy loyihalar nima uchun mo'ljallangan?",
+    "options": [
+      "Ommaviy qo'llaniladigan obyektlar uchun",
+      "Noyob inshootlar uchun",
+      "Yangi qurilishlar uchun",
+      "Eksperimental inshootlar uchun"
+    ],
+    "answer": "Ommaviy qo'llaniladigan obyektlar uchun"
+  },
+  {
+    "question": "Qayta foydalaniladigan loyihalar qachon qo'llaniladi?",
+    "options": [
+      "Oldin boshqa obyektlar uchun ishlab chiqilgan loyihalardan foydalanilganda",
+      "Yangi obyektlar uchun",
+      "Muhandislik inshootlarida",
+      "Sinov loyihalarida"
+    ],
+    "answer": "Oldin boshqa obyektlar uchun ishlab chiqilgan loyihalardan foydalanilganda"
+  },
+  {
+    "question": "Individual loyihalar qaysi hollarda tuziladi?",
+    "options": [
+      "Noyob inshootlar yoki o'ziga xos sharoitlarda",
+      "Oddiy stansiyalar uchun",
+      "Har qanday yo'lda",
+      "Kichik obyektlarda"
+    ],
+    "answer": "Noyob inshootlar yoki o'ziga xos sharoitlarda"
+  },
+  {
+    "question": "Tajribaviy loyihalar nima uchun ishlab chiqiladi?",
+    "options": [
+      "Yangi texnik yechimlarning samaradorligini sinash uchun",
+      "Ishlab chiqarish me'yorlarini hisoblash uchun",
+      "Ilmiy ishlar uchun",
+      "Standart ob'ektlarda"
+    ],
+    "answer": "Yangi texnik yechimlarning samaradorligini sinash uchun"
+  },
+  {
+    "question": "Loyihalashdan oldin olib boriladigan izlanishlar qanday bo'ladi?",
+    "options": [
+      "Iqtisodiy va texnik izlanishlar",
+      "Iqtisodiy tahlil",
+      "Muhandislik o'lchovlari",
+      "Ijtimoiy so'rovlar"
+    ],
+    "answer": "Iqtisodiy va texnik izlanishlar"
+  },
+  {
+    "question": "Texnik izlanishlar tarkibiga nimalar kiradi?",
+    "options": [
+      "Geodezik, geologik, gidrogeologik tadqiqotlar",
+      "Geodezik ishlar",
+      "Iqtisodiy tekshiruvlar",
+      "Demografik tahlil"
+    ],
+    "answer": "Geodezik, geologik, gidrogeologik tadqiqotlar"
+  },
+  {
+    "question": "Muammoli texnik izlanishlar qanday amalga oshiriladi?",
+    "options": [
+      "Qiyin uchastkalarni joyida o'rganish orqali",
+      "Kompyuter modellashtirish orqali",
+      "Aerofotosuratlar orqali",
+      "Geologik kartalar orqali"
+    ],
+    "answer": "Qiyin uchastkalarni joyida o'rganish orqali"
+  },
+  {
+    "question": "Aero tadqiqot ishlari nima uchun foydali?",
+    "options": [
+      "Ish muddatini 2--3 baravar qisqartiradi",
+      "Qurilish xarajatini kamaytiradi",
+      "Aholi sonini aniqlaydi",
+      "Yo'lning kengligini belgilaydi"
+    ],
+    "answer": "Ish muddatini 2--3 baravar qisqartiradi"
+  },
+  {
+    "question": "Temir yo'l loyihasining eng maq'ul varianti qanday aniqlanadi?",
+    "options": [
+      "Texnik va iqtisodiy taqqoslash asosida",
+      "Iqtisodiy foydaga qarab",
+      "Qurilish narxiga qarab",
+      "Ekologik mezonlarga ko'ra"
+    ],
+    "answer": "Texnik va iqtisodiy taqqoslash asosida"
+  },
+  {
+    "question": "Kapital xarajatlar tarkibiga nimalar kiradi?",
+    "options": [
+      "Qurilish, signalizatsiya, elektr ta'minoti, stansiyalar va harakatdagi tarkib qiymatlari",
+      "Ishchi oyliklari",
+      "Yoqilg'i xarajatlari",
+      "Elektr energiyasi"
+    ],
+    "answer": "Qurilish, signalizatsiya, elektr ta'minoti, stansiyalar va harakatdagi tarkib qiymatlari"
+  },
+  {
+    "question": "Foydalanish xarajatlariga nimalar kiradi?",
+    "options": [
+      "Yoqilg'i, elektr energiyasi, ta'mir, ish haqi va materiallar sarfi",
+      "Qurilish smetasi",
+      "Transport soliqlari",
+      "Bino qiymati"
+    ],
+    "answer": "Yoqilg'i, elektr energiyasi, ta'mir, ish haqi va materiallar sarfi"
+  },
+  {
+    "question": "Temiryo'l qurilishida avtomatlashtirish nimani anglatadi?",
+    "options": [
+      "Mehnat jarayonini asboblar orqali boshqarish va nazorat qilish",
+      "Kompyuter texnologiyalarini o'rnatish",
+      "Mexanizatsiya qilish",
+      "Mehnat unumdorligini oshirish"
+    ],
+    "answer": "Mehnat jarayonini asboblar orqali boshqarish va nazorat qilish"
+  },
+  {
+    "question": "Temir yo'lni foydalanishga topshirish bosqichlari qaysilar?",
+    "options": [
+      "Ishchi harakatni ochish, vaqtinchalik va doimiy foydalanishga topshirish",
+      "Qurilish yakuni",
+      "Rasmiy ochilish",
+      "Laboratoriya sinov bosqichi"
+    ],
+    "answer": "Ishchi harakatni ochish, vaqtinchalik va doimiy foydalanishga topshirish"
+  },
+  {
+    "question": "Quvur nima uchun quriladi?",
+    "options": [
+      "Temir yo'l katta bo'lmagan suv yo'llarini kesib o'tishda",
+      "Harakat tezligini oshirish uchun",
+      "Yon bag'irni mustahkamlash uchun",
+      "Tonnelga kirishda xavfsizlikni ta'minlash uchun"
+    ],
+    "answer": "Temir yo'l katta bo'lmagan suv yo'llarini kesib o'tishda"
+  },
+  {
+    "question": "Eng ko'p ishlatiladigan quvur turi qaysi?",
+    "options": [
+      "1--6 m uzunlikdagi temir-beton bo'laklardan yig'ilgan quvur",
+      "Monolit beton quvur",
+      "Yog'ochdan yasalgan quvur",
+      "Plastmassa quvur"
+    ],
+    "answer": "1--6 m uzunlikdagi temir-beton bo'laklardan yig'ilgan quvur"
+  },
+  {
+    "question": "Quvurlarning ko'ndalang kesim shakli qanday bo'lishi mumkin?",
+    "options": [
+      "Dumaloq, to'g'ri burchakli yoki gumbazsimon",
+      "Uchburchak",
+      "Trapetsiya",
+      "Dumaloq"
+    ],
+    "answer": "Dumaloq, to'g'ri burchakli yoki gumbazsimon"
+  },
+  {
+    "question": "Metall quvurlarni yotqizishning afzalligi nimada?",
+    "options": [
+      "Qurilish ishlarini soddalashtiradi va tezlashtiradi",
+      "Mustahkamligi yuqori",
+      "Narxi past",
+      "Ko'p suv o'tkazadi"
+    ],
+    "answer": "Qurilish ishlarini soddalashtiradi va tezlashtiradi"
+  },
+  {
+    "question": "Yer polotnosi balandligi 10 m dan ortiq bo'lsa, nima quriladi?",
+    "options": [
+      "Kichik temir-beton ko'prik",
+      "Metall quvur",
+      "Plastmassa drenaj",
+      "Qumariqcha"
+    ],
+    "answer": "Kichik temir-beton ko'prik"
+  },
+  {
+    "question": "Tonnel nima uchun mo'ljallangan?",
+    "options": [
+      "Yo'lni yer ostidan o'tkazish uchun",
+      "Suvni oqizish uchun",
+      "Havo almashinuvi uchun",
+      "Ballastni joylashtirish uchun"
+    ],
+    "answer": "Yo'lni yer ostidan o'tkazish uchun"
+  },
+  {
+    "question": "Tonnel turlari qanday?",
+    "options": [
+      "Tog', suvosti va shahar tonneli",
+      "Metall va beton tonnel",
+      "Quruqlik va dengiz tonneli",
+      "Tog' tonneli"
+    ],
+    "answer": "Tog', suvosti va shahar tonneli"
+  },
+  {
+    "question": "Tonnelda suvni tashqariga chiqarish uchun qiyalik qancha bo'ladi?",
+    "options": [
+      "0,003",
+      "0,01123",
+      "0,0052",
+      "2,141"
+    ],
+    "answer": "0,003"
+  },
+  {
+    "question": "Tonnelga kirish joyi qanday quriladi?",
+    "options": [
+      "Mustahkam peshtoq ko'rinishida",
+      "Yumaloq shaklda",
+      "Drenajli chuqurda",
+      "Oddiy beton devor bilan"
+    ],
+    "answer": "Mustahkam peshtoq ko'rinishida"
+  },
+  {
+    "question": "Tonnel devoridagi \"nisha\" nimaga mo'ljallangan?",
+    "options": [
+      "Odamlar berkinishi va asboblarni joylashtirish uchun",
+      "Suv oqimini boshqarish uchun",
+      "Tonnelni ventilyatsiya qilish uchun",
+      "Yorug'lik ko'rnatish uchun"
+    ],
+    "answer": "Odamlar berkinishi va asboblarni joylashtirish uchun"
+  },
+  {
+    "question": "Tonnel uzunligi 1000 m dan ortiq bo'lsa, nima o'rnatiladi?",
+    "options": [
+      "Sun'iy shamollatish tizimi",
+      "Elektr isitish tizimi",
+      "Signalizatsiya tizimi",
+      "Favqulotda chiqish yo'li"
+    ],
+    "answer": "Sun'iy shamollatish tizimi"
+  },
+  {
+    "question": "Tirgak devorlar vazifasi nimadan iborat?",
+    "options": [
+      "Yer o'pirilishi va grunt yuvilishini oldini olish",
+      "Suv oqimini kuchaytirish",
+      "Tonnelni mustahkamlash",
+      "Relslarni mahkamlash"
+    ],
+    "answer": "Yer o'pirilishi va grunt yuvilishini oldini olish"
+  },
+  {
+    "question": "Tirgak devorlar qayerda quriladi?",
+    "options": [
+      "Tog'lik joylarda, dengiz va daryo sohillarida",
+      "Tekisliklarda",
+      "Shahar markazlarida",
+      "Quruq joylarda"
+    ],
+    "answer": "Tog'lik joylarda, dengiz va daryo sohillarida"
+  },
+  {
+    "question": "Yo'naltiruvchi inshootlar nima uchun quriladi?",
+    "options": [
+      "Suv oqimini boshqarish va yuvilishdan saqlash uchun",
+      "Poyezd yo'nalishini belgilash uchun",
+      "Tonnelga kirish uchun",
+      "Shamol yo'nalishini o'zgartirish uchun"
+    ],
+    "answer": "Suv oqimini boshqarish va yuvilishdan saqlash uchun"
+  },
+  {
+    "question": "Dambalarning asosiy vazifasi nima?",
+    "options": [
+      "Suv oqimini yer to'kmasidan uzoqlashtirish",
+      "Shamolni yo'naltirish",
+      "Haroratni ushlab turish",
+      "Ariqcha qurish"
+    ],
+    "answer": "Suv oqimini yer to'kmasidan uzoqlashtirish"
+  },
+  {
+    "question": "Yo'lning ustki qurilmalari tarkibiga nimalar kiradi?",
+    "options": [
+      "Ballast, shpallar, relslar, biriktirgichlar, strelkali o'tkazgichlar",
+      "Relslar va shpallar",
+      "Ballast va qum",
+      "Vagon va depolar, tirgak devorlar"
+    ],
+    "answer": "Ballast, shpallar, relslar, biriktirgichlar, strelkali o'tkazgichlar"
+  },
+  {
+    "question": "Ballast qatlamining vazifasi nimadan iborat?",
+    "options": [
+      "Bosimni bir tekis tarqatish, suvni qochirish va elastiklikni ta'minlash",
+      "Suvni to'plash",
+      "Changni kamaytirish",
+      "Relslarni sovutish"
+    ],
+    "answer": "Bosimni bir tekis tarqatish, suvni qochirish va elastiklikni ta'minlash"
+  },
+  {
+    "question": "Ballast uchun eng yaxshi material qaysi?",
+    "options": [
+      "Sheben va shag'altosh",
+      "Qum",
+      "Chig'anoq va yog'och",
+      "Asbest chiqindilari va ko'mir"
+    ],
+    "answer": "Sheben va shag'altosh"
+  },
+  {
+    "question": "Tez yurar poyezdlar harakati bo'lgan yo'llarda qanday ballast ishlatiladi?",
+    "options": [
+      "Shebenli ballast",
+      "Qumli ballast",
+      "Chig'anoqli ballast",
+      "Aralash ballast"
+    ],
+    "answer": "Shebenli ballast"
+  },
+  {
+    "question": "Quvur inshootlari qachon quriladi?",
+    "options": [
+      "Temiryo'l kichik suv yo'llarini kesib o'tganida",
+      "Katta daryolar ustidan",
+      "Tog'li joylarda",
+      "Kanal ustidan o'tadigan vagonlarni o'tkazish uchun"
+    ],
+    "answer": "Temiryo'l kichik suv yo'llarini kesib o'tganida"
+  },
+  {
+    "question": "Quvurlar materiali bo'yicha qanday turlarga bo'linadi?",
+    "options": [
+      "Toshli, metall, beton va temir-beton",
+      "Yog'och, po'lat va plastmassa",
+      "Loy, qum va g'ishtli",
+      "Temir, shisha va tosh"
+    ],
+    "answer": "Toshli, metall, beton va temir-beton"
+  },
+  {
+    "question": "Temir-beton quvurlar asosan qanday tayyorlanadi?",
+    "options": [
+      "1--6 metr uzunlikdagi alohida bo'laklardan yig'iladi",
+      "To'liq monolit holatda quyiladi",
+      "Dumaloq shaklda quyiladi",
+      "Bir butun metall quvur shaklida"
+    ],
+    "answer": "1--6 metr uzunlikdagi alohida bo'laklardan yig'iladi"
+  },
+  {
+    "question": "Quvurlarning teshiklari soni nimaga bog'liq?",
+    "options": [
+      "O'tadigan suv miqdori va yer polotnosi balandligiga",
+      "Quvurning materialiga",
+      "Qurilish narxiga",
+      "Tonnel uzunligiga"
+    ],
+    "answer": "O'tadigan suv miqdori va yer polotnosi balandligiga"
+  },
+  {
+    "question": "Quvurlar kesimi qanday shaklda bo'lishi mumkin?",
+    "options": [
+      "Dumaloq, to'g'ri burchakli yoki gumbazsimon",
+      "To'g'ri burchakli",
+      "Oval",
+      "Uchburchak shaklda"
+    ],
+    "answer": "Dumaloq, to'g'ri burchakli yoki gumbazsimon"
+  },
+  {
+    "question": "Quvurlarning kirish va chiqish joylari nima uchun kengaytiriladi?",
+    "options": [
+      "Yer yuvilishining oldini olish uchun",
+      "Suv oqimini tezlashtirish uchun",
+      "Qurilishni chiroyli qilish uchun",
+      "Havoni shamollatish uchun"
+    ],
+    "answer": "Yer yuvilishining oldini olish uchun"
+  },
+  {
+    "question": "Metall quvurlarni o'rnatishning afzalligi nimada?",
+    "options": [
+      "Qurilish ishlarini soddalashtiradi va tezlashtiradi",
+      "Haroratga chidamli bo'ladi",
+      "Uzoq muddatga xizmat qiladi",
+      "Qimmatga tushadi"
+    ],
+    "answer": "Qurilish ishlarini soddalashtiradi va tezlashtiradi"
+  },
+  {
+    "question": "Balandligi 10 metrdan ortiq joylarda nimalar qurilishi mumkin?",
+    "options": [
+      "Kichik temir-beton ko'prik",
+      "Tonnel",
+      "Yo'naltiruvchi damba",
+      "Tirgak devor"
+    ],
+    "answer": "Kichik temir-beton ko'prik"
+  },
+  {
+    "question": "Tonnel qanday inshoot?",
+    "options": [
+      "Yo'lni yer ostidan o'tkazish uchun quriladigan inshoot",
+      "Suv ostida joylashgan yo'l",
+      "Harakat yo'nalishini o'zgartirish uchun mo'ljallangan",
+      "Ko'prikka o'xshash ochiq inshoot"
+    ],
+    "answer": "Yo'lni yer ostidan o'tkazish uchun quriladigan inshoot"
+  },
+  {
+    "question": "Tonnel turlari qaysilar?",
+    "options": [
+      "Tog', suv osti va shahar tonneli",
+      "Yer usti, suv osti, havo tonneli",
+      "Magistral, shahar, metro tonneli",
+      "Suv osti tonneli"
+    ],
+    "answer": "Tog', suv osti va shahar tonneli"
+  },
+  {
+    "question": "Tonnellarda suvni tashqariga chiqarish uchun yo'l profili qanday loyihalanadi?",
+    "options": [
+      "Kamida 0,003 qiyalik bilan",
+      "Gorizontal holatda",
+      "0,0112 qiyalikda",
+      "Mutlaqo tekis qilib"
+    ],
+    "answer": "Kamida 0,003 qiyalik bilan"
+  },
+  {
+    "question": "Tonnel burilishi uchun minimal radius qancha bo'lishi kerak?",
+    "options": [
+      "600 metr",
+      "3000 metr",
+      "1000 metr",
+      "9000 metr"
+    ],
+    "answer": "600 metr"
+  },
+  {
+    "question": "Tonnellarda odamlar uchun qanday qulayliklar yaratiladi?",
+    "options": [
+      "Maxsus o'ymalarda berkinish joylari",
+      "Liftlar o'rnatiladi",
+      "O'rindiqlar qo'yiladi",
+      "Ichimlik suv quvurlari o'tkaziladi"
+    ],
+    "answer": "Maxsus o'ymalarda berkinish joylari"
+  },
+  {
+    "question": "Tonnel uzunligi 1000 metrdan oshganda nima zarur bo'ladi?",
+    "options": [
+      "Sun'iy shamollatish tizimi",
+      "Qo'shimcha kirish joyi",
+      "Suv nasoslari",
+      "Yorug'lik o'tkazuvchi quvurlar"
+    ],
+    "answer": "Sun'iy shamollatish tizimi"
+  },
+  {
+    "question": "Tirgak devorlarning vazifasi nima?",
+    "options": [
+      "Yer o'pirilishi va grunt yuvilishini oldini olish",
+      "Suvni yig'ish",
+      "Havoni aylantirish",
+      "Shovqinni kamaytirish"
+    ],
+    "answer": "Yer o'pirilishi va grunt yuvilishini oldini olish"
+  },
+  {
+    "question": "Tirgak devorlar qayerlarda quriladi?",
+    "options": [
+      "Tog' yonbag'irlarida, sohil va aholi punktlarida",
+      "Daryo sohilida",
+      "Shaharlarda",
+      "Tekisliklarda"
+    ],
+    "answer": "Tog' yonbag'irlarida, sohil va aholi punktlarida"
+  },
+  {
+    "question": "Mavjud tirgak devorlar qaysi materiallardan teriladi?",
+    "options": [
+      "Tosh, beton va butobeton",
+      "G'isht, loy va qum",
+      "Yog'och va metall",
+      "Shisha va plastmassa"
+    ],
+    "answer": "Tosh, beton va butobeton"
+  },
+  {
+    "question": "Yo'naltiruvchi inshootlarning vazifasi nima?",
+    "options": [
+      "Suv oqimini boshqarish va inshootlarni yuvilishdan saqlash",
+      "Shamol yo'nalishini o'zgartirish",
+      "Havoni tozalash",
+      "Zovurlarni to'ldirish"
+    ],
+    "answer": "Suv oqimini boshqarish va inshootlarni yuvilishdan saqlash"
+  },
+  {
+    "question": "Ballast qatlamining asosiy vazifasi nima?",
+    "options": [
+      "Shpallardan tushadigan kuchni yer polotnosiga bir tekis taqsimlash",
+      "Poyezd tezligini oshirish",
+      "Relslarni mustahkamlash",
+      "Yomg'ir suvini yig'ish"
+    ],
+    "answer": "Shpallardan tushadigan kuchni yer polotnosiga bir tekis taqsimlash"
+  },
+  {
+    "question": "Eng sifatli ballast materiali qaysi hisoblanadi?",
+    "options": [
+      "Sheben va shag'al tosh",
+      "Qum va gil",
+      "Asbest chiqindilari",
+      "Chig'anoq ballast"
+    ],
+    "answer": "Sheben va shag'al tosh"
+  },
+  {
+    "question": "Shpallarning asosiy vazifasi nimadan iborat?",
+    "options": [
+      "Relsdan kelgan yukni ballast qatlamiga uzatish va yo'l kengligini saqlash",
+      "Suvni yo'ldan oqizish",
+      "Relslarni sovutish",
+      "Signal toklarini o'tkazish"
+    ],
+    "answer": "Relsdan kelgan yukni ballast qatlamiga uzatish va yo'l kengligini saqlash"
+  },
+  {
+    "question": "Shpal materiali sifatida nimalar ishlatiladi?",
+    "options": [
+      "Yog'och, temir-beton va metall",
+      "Yog'och",
+      "Beton",
+      "Plastmassa"
+    ],
+    "answer": "Yog'och, temir-beton va metall"
+  },
+  {
+    "question": "Yog'och shpallarning afzalligi nimada?",
+    "options": [
+      "Yengil, elastik, tayyorlash va mahkamlash oson",
+      "Uzoq muddat xizmat qiladi",
+      "Elektr tokini yaxshi o'tkazadi",
+      "Arzonligi"
+    ],
+    "answer": "Yengil, elastik, tayyorlash va mahkamlash oson"
+  },
+  {
+    "question": "Yog'och shpallarning kamchiligi nimada?",
+    "options": [
+      "Xizmat muddati qisqa (15--18 yil)",
+      "Og'irligi katta",
+      "Mahkamlash qiyin",
+      "Tez sinadi"
+    ],
+    "answer": "Xizmat muddati qisqa (15--18 yil)"
+  }
+]
