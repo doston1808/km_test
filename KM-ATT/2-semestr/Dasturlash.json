@@ -1,0 +1,1098 @@
+[
+  {
+    "savol": "Ekranga ma'lumot chiqaruvchi operator?",
+    "A": "print()",
+    "B": "write()",
+    "C": "show()",
+    "D": "log()",
+    "javob": "A"
+  },
+  {
+    "savol": "Python fayl kengaytmasi nima?",
+    "A": ".py",
+    "B": ".pt",
+    "C": ".pyt",
+    "D": ".pyw",
+    "javob": "A"
+  },
+  {
+    "savol": "O'zgaruvchi turini bilish funksiyasi?",
+    "A": "type()",
+    "B": "id()",
+    "C": "class()",
+    "D": "is_a()",
+    "javob": "A"
+  },
+  {
+    "savol": "Bir qatorli izoh qaysi belgi bilan yoziladi?",
+    "A": "#",
+    "B": "//",
+    "C": "/*",
+    "D": "--",
+    "javob": "A"
+  },
+  {
+    "savol": "Butun sonlar qaysi ma'lumot turiga kiradi?",
+    "A": "int",
+    "B": "float",
+    "C": "long",
+    "D": "integer",
+    "javob": "A"
+  },
+  {
+    "savol": "O'nli sonlar (masalan 3.14) turi nima?",
+    "A": "float",
+    "B": "double",
+    "C": "decimal",
+    "D": "numeric",
+    "javob": "A"
+  },
+  {
+    "savol": "\"Python\" o'zgaruvchisi turi nima?",
+    "A": "str",
+    "B": "text",
+    "C": "string",
+    "D": "char",
+    "javob": "A"
+  },
+  {
+    "savol": "O'zgaruvchi qiymatini o'zlashtirish belgisi?",
+    "A": "=",
+    "B": "==",
+    "C": ":=",
+    "D": "->",
+    "javob": "A"
+  },
+  {
+    "savol": "3**4 ifodaning qiymatini toping?",
+    "A": "81",
+    "B": "27",
+    "C": "9",
+    "D": "3",
+    "javob": "A"
+  },
+  {
+    "savol": "3>4 and 4<5 ifodaning qiymatini toping",
+    "A": "False",
+    "B": "True",
+    "C": "1",
+    "D": "Error!",
+    "javob": "A"
+  },
+  {
+    "savol": "2 ** 3 ifodaning qiymatini toping?",
+    "A": "8",
+    "B": "6",
+    "C": "9",
+    "D": "5",
+    "javob": "A"
+  },
+  {
+    "savol": "27 // 5 ifodaning qiymatini toping?",
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "javob": "A"
+  },
+  {
+    "savol": "10 // 3 butun bo'lish natijasi?",
+    "A": "3",
+    "B": "3.33",
+    "C": "3",
+    "D": "1",
+    "javob": "A"
+  },
+  {
+    "savol": "10 % 3 qoldiqli bo'lish natijasi?",
+    "A": "1",
+    "B": "3",
+    "C": "0",
+    "D": "10",
+    "javob": "A"
+  },
+  {
+    "savol": "Mantiqiy (rost/yolg'on) ma'lumot turi?",
+    "A": "bool",
+    "B": "binary",
+    "C": "logical",
+    "D": "boolean",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi nom o'zgaruvchi uchun xato?",
+    "A": "1_variable",
+    "B": "_variable",
+    "C": "variable1",
+    "D": "my_variable",
+    "javob": "A"
+  },
+  {
+    "savol": "Matematik funksiyalar kutubxonasi?",
+    "A": "math",
+    "B": "random",
+    "C": "calc",
+    "D": "numbers",
+    "javob": "A"
+  },
+  {
+    "savol": "Matnni hammasini kichik harfga o'tkazish?",
+    "A": ".lower()",
+    "B": ".min()",
+    "C": ".small()",
+    "D": ".casefold()",
+    "javob": "A"
+  },
+  {
+    "savol": "Foydalanuvchidan ma'lumot olish funksiyasi?",
+    "A": "input()",
+    "B": "get()",
+    "C": "read()",
+    "D": "scan()",
+    "javob": "A"
+  },
+  {
+    "savol": "f-string nima uchun ishlatiladi?",
+    "A": "Formatlash uchun",
+    "B": "Fayl yaratish",
+    "C": "Funksiya uchun",
+    "D": "Float turi uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "Matn uzunligini o'lchash funksiyasi?",
+    "A": "len()",
+    "B": "count()",
+    "C": "size()",
+    "D": "length()",
+    "javob": "A"
+  },
+  {
+    "savol": "int(\"20\") natijasi nima bo'ladi?",
+    "A": "Butun son 20",
+    "B": "Matn \"20\"",
+    "C": "Xatolik",
+    "D": "Float 20.0",
+    "javob": "A"
+  },
+  {
+    "savol": "Python-da kod bloklari nima bilan ajratiladi?",
+    "A": "Bo'sh joy (Indentation)",
+    "B": "{ }",
+    "C": ";",
+    "D": "begin...end",
+    "javob": "A"
+  },
+  {
+    "savol": "Qiymati yo'q (bo'sh) o'zgaruvchi turi?",
+    "A": "None",
+    "B": "Null",
+    "C": "Empty",
+    "D": "Void",
+    "javob": "A"
+  },
+  {
+    "savol": "Matnlarni qo'shish (ulash) belgisi?",
+    "A": "+",
+    "B": "&",
+    "C": "*",
+    "D": ".",
+    "javob": "A"
+  },
+  {
+    "savol": "True va False qaysi turga kiradi?",
+    "A": "bool",
+    "B": "str",
+    "C": "int",
+    "D": "NoneType",
+    "javob": "A"
+  },
+  {
+    "savol": "abs(-5) funksiyasi nimani qaytaradi?",
+    "A": "5",
+    "B": "-5",
+    "C": "0",
+    "D": "5",
+    "javob": "A"
+  },
+  {
+    "savol": "Shartni tekshirish uchun qaysi kalit so'z ishlatiladi?",
+    "A": "if",
+    "B": "check",
+    "C": "while",
+    "D": "for",
+    "javob": "A"
+  },
+  {
+    "savol": "Bir nechta shartlarni ketma-ket tekshirishda nima ishlatiladi?",
+    "A": "elif",
+    "B": "else if",
+    "C": "elseif",
+    "D": "if then",
+    "javob": "A"
+  },
+  {
+    "savol": "Ro'yxat elementlari bo'ylab aylanish uchun qaysi tsikl qulay?",
+    "A": "for",
+    "B": "while",
+    "C": "do while",
+    "D": "repeat",
+    "javob": "A"
+  },
+  {
+    "savol": "Shart to'g'ri bo'lganicha davom etadigan tsikl?",
+    "A": "while",
+    "B": "for",
+    "C": "loop",
+    "D": "until",
+    "javob": "A"
+  },
+  {
+    "savol": "Tsiklni muddatidan oldin to'xtatish operatori?",
+    "A": "break",
+    "B": "exit",
+    "C": "stop",
+    "D": "continue",
+    "javob": "A"
+  },
+  {
+    "savol": "Tsiklning joriy qadamini tashlab o'tish operatori?",
+    "A": "continue",
+    "B": "skip",
+    "C": "pass",
+    "D": "next",
+    "javob": "A"
+  },
+  {
+    "savol": "range(5) funksiyasi qaysi sonlarni qaytaradi?",
+    "A": "0 dan 4 gacha",
+    "B": "1 dan 5 gacha",
+    "C": "0 dan 5 gacha",
+    "D": "Faqat 5 ni",
+    "javob": "A"
+  },
+  {
+    "savol": "Python-da \"teng emas\" operatori qaysi?",
+    "A": "!=",
+    "B": "<>",
+    "C": "not ==",
+    "D": "!==",
+    "javob": "A"
+  },
+  {
+    "savol": "Hech nima bajarmaydigan \"bo'sh\" operator?",
+    "A": "pass",
+    "B": "none",
+    "C": "empty",
+    "D": "null",
+    "javob": "A"
+  },
+  {
+    "savol": "Ikki shartning ikkalasi ham rost bo'lishini tekshirish?",
+    "A": "and",
+    "B": "or",
+    "C": "&&",
+    "D": "both",
+    "javob": "A"
+  },
+  {
+    "savol": "Shartlardan kamida biri rost bo'lishini tekshirish?",
+    "A": "or",
+    "B": "and",
+    "C": "||",
+    "D": "either",
+    "javob": "A"
+  },
+  {
+    "savol": "Shartning teskarisini olish operatori?",
+    "A": "not",
+    "B": "!",
+    "C": "reverse",
+    "D": "negative",
+    "javob": "A"
+  },
+  {
+    "savol": "range(1, 10, 2) funksiyasining qadami (step) nechaga teng?",
+    "A": "2",
+    "B": "1",
+    "C": "10",
+    "D": "9",
+    "javob": "A"
+  },
+  {
+    "savol": "if operatoridan so'ng qaysi belgi qo'yilishi shart?",
+    "A": ": (ikki nuqta)",
+    "B": "; (nuqtali vergul)",
+    "C": "{ }",
+    "D": "->",
+    "javob": "A"
+  },
+  {
+    "savol": "Cheksiz tsikl yaratish uchun qaysi biri ishlatiladi?",
+    "A": "while True:",
+    "B": "for True:",
+    "C": "while 1 > 0:",
+    "D": "loop:",
+    "javob": "A"
+  },
+  {
+    "savol": "Ro'yxatda ma'lum bir qiymat borligini tekshirish operatori?",
+    "A": "in",
+    "B": "exists",
+    "C": "has",
+    "D": "is",
+    "javob": "A"
+  },
+  {
+    "savol": "if sharti bajarilmaganda ishlaydigan yakuniy blok?",
+    "A": "else",
+    "B": "default",
+    "C": "finally",
+    "D": "catch",
+    "javob": "A"
+  },
+  {
+    "savol": "for i in range(2): tsikli necha marta aylanadi?",
+    "A": "2 marta",
+    "B": "1 marta",
+    "C": "3 marta",
+    "D": "0 marta",
+    "javob": "A"
+  },
+  {
+    "savol": "Ma’lumot turini aniqlovchi funksiya?",
+    "A": "type()",
+    "B": "typecheck()",
+    "C": "is_type()",
+    "D": "match()",
+    "javob": "A"
+  },
+  {
+    "savol": "a = 5; b = 10; print(a > b) natijasi nima?",
+    "A": "False",
+    "B": "True",
+    "C": "None",
+    "D": "Error",
+    "javob": "A"
+  },
+  {
+    "savol": "3 in [1, 2, 3] ifodasi nima qaytaradi?",
+    "A": "True",
+    "B": "False",
+    "C": "[3]",
+    "D": "None",
+    "javob": "A"
+  },
+  {
+    "savol": "if bloklari orasidagi masofa (indentation) nechta probel?",
+    "A": "Ixtiyoriy",
+    "B": "2 ta",
+    "C": "8 ta",
+    "D": "4 ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Python 3.10+ versiyalarida switch-case o'rniga nima keldi?",
+    "A": "match",
+    "B": "select",
+    "C": "switch",
+    "D": "case",
+    "javob": "A"
+  },
+  {
+    "savol": "for x in \"Python\": tsiklida x birinchi bo'lib nimaga teng?",
+    "A": "\"P\"",
+    "B": "\"Python\"",
+    "C": "0",
+    "D": "None",
+    "javob": "A"
+  },
+  {
+    "savol": "range(10, 0, -1) tsikli qanday ishlaydi?",
+    "A": "Kamayish tartibida",
+    "B": "O'sish tartibida",
+    "C": "Ishlamaydi",
+    "D": "Faqat 10 ni oladi",
+    "javob": "A"
+  },
+  {
+    "savol": "while tsiklida shart qachon tekshiriladi?",
+    "A": "Har bir iteratsiya boshida",
+    "B": "Faqat bir marta",
+    "C": "Iteratsiya oxirida",
+    "D": "Hech qachon",
+    "javob": "A"
+  },
+  {
+    "savol": "range(5, 10) funksiyasi qaysi sonni o'z ichiga olmaydi?",
+    "A": "10",
+    "B": "5",
+    "C": "7",
+    "D": "9",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi operator ikki obyekti bir xil ekanligini (id) tekshiradi?",
+    "A": "is",
+    "B": "==",
+    "C": "in",
+    "D": "as",
+    "javob": "A"
+  },
+  {
+    "savol": "Bir satrda yozilgan if-else nima deyiladi?",
+    "A": "Ternary operator",
+    "B": "Inline function",
+    "C": "Quick if",
+    "D": "Short loop",
+    "javob": "A"
+  },
+  {
+    "savol": "for i in range(1, 1): necha marta ishlaydi?",
+    "A": "0 marta",
+    "B": "1 marta",
+    "C": "Cheksiz",
+    "D": "Xatolik beradi",
+    "javob": "A"
+  },
+  {
+    "savol": "if sharti ichida yana bir if kelishi nima deyiladi?",
+    "A": "Nested if",
+    "B": "Double if",
+    "C": "Multi if",
+    "D": "Sub if",
+    "javob": "A"
+  },
+  {
+    "savol": "all([True, True, False]) natijasi nima bo'ladi?",
+    "A": "False",
+    "B": "True",
+    "C": "None",
+    "D": "Error",
+    "javob": "A"
+  },
+  {
+    "savol": "any([True, False, False]) natijasi nima bo'ladi?",
+    "A": "True",
+    "B": "False",
+    "C": "None",
+    "D": "Error",
+    "javob": "A"
+  },
+  {
+    "savol": "Tsikl ichida else ishlatilsa, u qachon ishlaydi?",
+    "A": "Tsikl normal tugasa",
+    "B": "break ishlatilsa",
+    "C": "Faqat xato bo'lsa",
+    "D": "Hech qachon",
+    "javob": "A"
+  },
+  {
+    "savol": "x = 5; \"Katta\" if x > 10 else \"Kichik\" natijasi?",
+    "A": "\"Kichik\"",
+    "B": "\"Katta\"",
+    "C": "None",
+    "D": "5",
+    "javob": "A"
+  },
+  {
+    "savol": "while tsiklidan chiqishning eng xavfsiz yo'li?",
+    "A": "Shartni False qilish",
+    "B": "Kompyuterni o'chirish",
+    "C": "pass yozish",
+    "D": "continue yozish",
+    "javob": "A"
+  },
+  {
+    "savol": "for tsikli qaysi obyektlar bilan ishlaydi?",
+    "A": "Iterable (takrorlanuvchi)",
+    "B": "Faqat sonlar bilan",
+    "C": "Faqat lug'atlar bilan",
+    "D": "Faqat fayllar bilan",
+    "javob": "A"
+  },
+  {
+    "savol": "not (5 > 3) ifodasi natijasi?",
+    "A": "False",
+    "B": "True",
+    "C": "0",
+    "D": "-1",
+    "javob": "A"
+  },
+  {
+    "savol": "range(-5, 0) qaysi sonni birinchi bo'lib qaytaradi?",
+    "A": "-5",
+    "B": "0",
+    "C": "-1",
+    "D": "-4",
+    "javob": "A"
+  },
+  {
+    "savol": "if a == b == c: ifodasi to'g'rimi?",
+    "A": "Ha, bu zanjirband shart",
+    "B": "Yo'q, xatolik beradi",
+    "C": "Faqat and bilan yoziladi",
+    "D": "Faqat sonlar uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "while tsiklida shart boshida False bo'lsa nima bo'ladi?",
+    "A": "Tsikl umuman ishlamaydi",
+    "B": "Bir marta ishlaydi",
+    "C": "Xatolik beradi",
+    "D": "Cheksiz aylanadi",
+    "javob": "A"
+  },
+  {
+    "savol": "for x in range(3): print(x) natijasida oxirgi son?",
+    "A": "2",
+    "B": "3",
+    "C": "0",
+    "D": "1",
+    "javob": "A"
+  },
+  {
+    "savol": "Mantiqiy or operatorida qachon True chiqadi?",
+    "A": "Kamida bittasi rost bo'lsa",
+    "B": "Hammasi rost bo'lsa",
+    "C": "Hammasi yolg'on bo'lsa",
+    "D": "Faqat birinchisi rost bo'lsa",
+    "javob": "A"
+  },
+  {
+    "savol": "match operatorida barcha variantlarga tushmagan holat?",
+    "A": "case _:",
+    "B": "case else:",
+    "C": "default:",
+    "D": "otherwise:",
+    "javob": "A"
+  },
+  {
+    "savol": "for i in [10, 20]: tsiklida i turi nima?",
+    "A": "int",
+    "B": "list",
+    "C": "str",
+    "D": "bool",
+    "javob": "A"
+  },
+  {
+    "savol": "if x is not None: nimani tekshiradi?",
+    "A": "O'zgaruvchi bo'sh emasligini",
+    "B": "O'zgaruvchi sonligini",
+    "C": "O'zgaruvchi xatoligini",
+    "D": "O'zgaruvchi nolga tengligini",
+    "javob": "A"
+  },
+  {
+    "savol": "range(0, 10, 3) natijasida qaysi sonlar chiqadi?",
+    "A": "0, 3, 6, 9",
+    "B": "0, 1, 2",
+    "C": "3, 6, 9",
+    "D": "0, 3, 6",
+    "javob": "A"
+  },
+  {
+    "savol": "break operatori faqat qayerda ishlatiladi?",
+    "A": "Tsikllar ichida",
+    "B": "if ichida",
+    "C": "Funksiya ichida",
+    "D": "Har qanday joyda",
+    "javob": "A"
+  },
+  {
+    "savol": "10 > 5 and 5 > 1 natijasi?",
+    "A": "True",
+    "B": "False",
+    "C": "10",
+    "D": "1",
+    "javob": "A"
+  },
+  {
+    "savol": "Dastur mantiqiy xatosiz ishlashi uchun if sharti qanday tur qaytarishi kerak?",
+    "A": "bool (True/False)",
+    "B": "int (1/0)",
+    "C": "str",
+    "D": "Har qanday tur",
+    "javob": "A"
+  },
+  {
+    "savol": "Python-da \"case-sensitive\" tushunchasi nimani anglatadi?",
+    "A": "Katta va kichik harflarni farqlaydi",
+    "B": "Faqat katta harflarda yozish",
+    "C": "Xatolarni avtomatik tuzatish",
+    "D": "Faqat inglizcha so'zlarni tushunish",
+    "javob": "A"
+  },
+  {
+    "savol": "complex ma'lumot turi qanday sonlar uchun?",
+    "A": "Kompleks (mavhum) sonlar",
+    "B": "Juda katta sonlar",
+    "C": "Manfiy sonlar",
+    "D": "Faqat 0 va 1 sonlari",
+    "javob": "A"
+  },
+  {
+    "savol": "x, y, z = 1, 2, 3 usulida qiymat berish nima deyiladi?",
+    "A": "Multiple assignment",
+    "B": "Sequence unpacking",
+    "C": "Zip assignment",
+    "D": "Matrix loading",
+    "javob": "A"
+  },
+  {
+    "savol": "O'zgaruvchini butunlay o'chirib tashlash operatori?",
+    "A": "del",
+    "B": "remove",
+    "C": "clear",
+    "D": "exit",
+    "javob": "A"
+  },
+  {
+    "savol": "str(100) kodi bajarilganda natija qanday bo'ladi?",
+    "A": "\"100\" (matn)",
+    "B": "100 (son)",
+    "C": "[100]",
+    "D": "Xatolik",
+    "javob": "A"
+  },
+  {
+    "savol": "Python-da \"Zen of Python\"ni o'qish uchun buyruq?",
+    "A": "import this",
+    "B": "import zen",
+    "C": "print(zen)",
+    "D": "help(python)",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi belgi matnni ko'p qatorli qilib yozishga yordam beradi?",
+    "A": "\"\"\" (uchta qo'shtirnoq)",
+    "B": "//",
+    "C": "\\n",
+    "D": "...",
+    "javob": "A"
+  },
+  {
+    "savol": "float(\"10.5\") kodi natijasi nima?",
+    "A": "10.5",
+    "B": "10",
+    "C": "\"10.5\"",
+    "D": "11",
+    "javob": "A"
+  },
+  {
+    "savol": "type(“5”) natijasi nima?",
+    "A": "Str",
+    "B": "Int",
+    "C": "Float",
+    "D": "bool",
+    "javob": "A"
+  },
+  {
+    "savol": "round(3.567, 1) natijasi nechaga teng?",
+    "A": "3.6",
+    "B": "3.5",
+    "C": "4",
+    "D": "3",
+    "javob": "A"
+  },
+  {
+    "savol": "input() funksiyasiga prompt (ko'rsatma) yozish mumkinmi?",
+    "A": "Ha, qavs ichiga matn yoziladi",
+    "B": "Yo'q, u faqat bo'sh bo'ladi",
+    "C": "Faqat son yozish mumkin",
+    "D": "Faqat bitta harf mumkin",
+    "javob": "A"
+  },
+  {
+    "savol": "bool(0) natijasi nima?",
+    "A": "False",
+    "B": "True",
+    "C": "None",
+    "D": "0",
+    "javob": "A"
+  },
+  {
+    "savol": "bool(\" \") (probel bor matn) natijasi nima?",
+    "A": "True",
+    "B": "False",
+    "C": "None",
+    "D": "Xatolik",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi kalit so'z Python-da mavjud emas?",
+    "A": "var",
+    "B": "pass",
+    "C": "Break",
+    "D": "continue",
+    "javob": "A"
+  },
+  {
+    "savol": "x = 5; x += 3 amali natijasida x nechaga teng?",
+    "A": "8",
+    "B": "3",
+    "C": "5",
+    "D": "15",
+    "javob": "A"
+  },
+  {
+    "savol": "x = 10; x *= 2 amali natijasida x nechaga teng?",
+    "A": "20",
+    "B": "10",
+    "C": "12",
+    "D": "100",
+    "javob": "A"
+  },
+  {
+    "savol": "min(5, 10, -2, 0) natijasi nima?",
+    "A": "-2",
+    "B": "0",
+    "C": "5",
+    "D": "10",
+    "javob": "A"
+  },
+  {
+    "savol": "pow(2, 4) funksiyasi nimaga teng?",
+    "A": "16",
+    "B": "8",
+    "C": "6",
+    "D": "32",
+    "javob": "A"
+  },
+  {
+    "savol": "Print(3**3) erkanga qanday natija chiqadi?",
+    "A": "27",
+    "B": "9",
+    "C": "81",
+    "D": "SyntaxError",
+    "javob": "A"
+  },
+  {
+    "savol": "O'zgaruvchi nomi qaysi belgi bilan boshlanishi mumkin?",
+    "A": "Pastki chiziq _",
+    "B": "Probel",
+    "C": "@ belgisi",
+    "D": "$ belgisi",
+    "javob": "A"
+  },
+  {
+    "savol": "\\t belgisi matn ichida nima vazifani bajaradi?",
+    "A": "Tabulyatsiya (bo'sh joy)",
+    "B": "Yangi qator",
+    "C": "Tovush chiqarish",
+    "D": "Matnni o'chirish",
+    "javob": "A"
+  },
+  {
+    "savol": "\\n belgisi matn ichida nima vazifani bajaradi?",
+    "A": "Yangi qatorga o'tish",
+    "B": "Bo'sh joy qo'shish",
+    "C": "Kursiv yozish",
+    "D": "Qalin yozish",
+    "javob": "A"
+  },
+  {
+    "savol": "Python-ning rasmiy sayti qaysi?",
+    "A": "python.org",
+    "B": "https://www.google.com/search?q=python.com",
+    "C": "python.uz",
+    "D": "py.org",
+    "javob": "A"
+  },
+  {
+    "savol": "1.2 + 2.2 == 3.4 ifodasi Python-da qanday natija beradi?",
+    "A": "True",
+    "B": "False",
+    "C": "None",
+    "D": "Error",
+    "javob": "A"
+  },
+  {
+    "savol": "my_list[0] ifodasi nimani qaytaradi?",
+    "A": "Birinchi elementni",
+    "B": "Oxirgi elementni",
+    "C": "Ro'yxat uzunligini",
+    "D": "Xatolik",
+    "javob": "A"
+  },
+  {
+    "savol": "my_list[-1] nimani anglatadi?",
+    "A": "Oxirgi elementni",
+    "B": "Birinchi elementni",
+    "C": "Xatolikni",
+    "D": "Bo'sh elementni",
+    "javob": "A"
+  },
+  {
+    "savol": "Ro'yxat ichida ma'lum element necha marta qatnashganini bilish?",
+    "A": ".count()",
+    "B": ".sum()",
+    "C": ".index()",
+    "D": ".len()",
+    "javob": "A"
+  },
+  {
+    "savol": "Ro'yxatni kesib olish (slicing) qanday yoziladi?",
+    "A": "[start:stop]",
+    "B": "(start, stop)",
+    "C": "{start-stop}",
+    "D": "[start...stop]",
+    "javob": "A"
+  },
+  {
+    "savol": "Ro'yxat ichida element borligini tekshirish?",
+    "A": "in operatori",
+    "B": "has metodi",
+    "C": "find funksiyasi",
+    "D": "exists operatori",
+    "javob": "A"
+  },
+  {
+    "savol": "Ifodaning qiymatini toping: (10 > 5) and (5 < 2)",
+    "A": "False",
+    "B": "True",
+    "C": "None",
+    "D": "Error",
+    "javob": "A"
+  },
+  {
+    "savol": "Ifodaning qiymatini toping: (not False) or (10 / 0 == 0)",
+    "A": "True",
+    "B": "False",
+    "C": "Error",
+    "D": "0",
+    "javob": "A"
+  },
+  {
+    "savol": "Ifodaning qiymatini toping: (5 == 5.0) and (type(5) == type(5.0))",
+    "A": "False",
+    "B": "True",
+    "C": "None",
+    "D": "Error",
+    "javob": "A"
+  },
+  {
+    "savol": "Ifodaning qiymatini toping: \"Python\"[0] == \"P\" and 10 % 3 == 1",
+    "A": "True",
+    "B": "False",
+    "C": "\"P\"",
+    "D": "1",
+    "javob": "A"
+  },
+  {
+    "savol": "Ifodaning qiymatini toping: bool([]) or bool({}) or bool(0.0)",
+    "A": "False",
+    "B": "True",
+    "C": "None",
+    "D": "Error",
+    "javob": "A"
+  },
+  {
+    "savol": "Ifodaning qiymatini toping: (True and False) or (not (10 < 5))",
+    "A": "True",
+    "B": "False",
+    "C": "None",
+    "D": "Error",
+    "javob": "A"
+  },
+  {
+    "savol": "Ifodaning qiymatini toping: 3 * \"2\" == \"222\"",
+    "A": "True",
+    "B": "False",
+    "C": "6",
+    "D": "Error",
+    "javob": "A"
+  },
+  {
+    "savol": "Ifodaning qiymatini toping: 10 > 5 and undefined_var",
+    "A": "Error",
+    "B": "True",
+    "C": "False",
+    "D": "None",
+    "javob": "A"
+  },
+  {
+    "savol": "If ofaning qiymatini toping: (5 > 2) and (2 > 8) or (10 == 10)",
+    "A": "True",
+    "B": "False",
+    "C": "None",
+    "D": "Error",
+    "javob": "A"
+  },
+  {
+    "savol": "Ifodaning qiymatini toping: int(True) + float(False)",
+    "A": "1",
+    "B": "1",
+    "C": "0",
+    "D": "Error",
+    "javob": "A"
+  },
+  {
+    "savol": "Ifodaning qiymatini toping: (100 // 30 == 3) and (100 % 30 == 10)",
+    "A": "True",
+    "B": "False",
+    "C": "3",
+    "D": "10",
+    "javob": "A"
+  },
+  {
+    "savol": "Ifodaning qiymatini toping: not (not (10 > 5))",
+    "A": "True",
+    "B": "False",
+    "C": "10",
+    "D": "None",
+    "javob": "A"
+  },
+  {
+    "savol": "Ifodaning qiymatini toping: (5 > 2) is True",
+    "A": "True",
+    "B": "False",
+    "C": "1",
+    "D": "Error",
+    "javob": "A"
+  },
+  {
+    "savol": "Ifodaning qiymatini toping: len(\"None\") == 4",
+    "A": "True",
+    "B": "False",
+    "C": "4",
+    "D": "None",
+    "javob": "A"
+  },
+  {
+    "savol": "Ifodaning qiymatini toping: (x := 10) > 5 and x == 10",
+    "A": "True",
+    "B": "False",
+    "C": "10",
+    "D": "Error",
+    "javob": "A"
+  },
+  {
+    "savol": "Ifodaning qiymatini toping: \"a\" in [\"a\", \"b\"] and \"c\" not in [\"a\", \"b\"]",
+    "A": "True",
+    "B": "False",
+    "C": "None",
+    "D": "Error",
+    "javob": "A"
+  },
+  {
+    "savol": "Ifodaning qiymatini toping: (1/2 == 0.5) or (1/0)",
+    "A": "True",
+    "B": "False",
+    "C": "Error",
+    "D": "0.5",
+    "javob": "A"
+  },
+  {
+    "savol": "Ifodaning qiymatini toping: True + True + False",
+    "A": "2",
+    "B": "True",
+    "C": "False",
+    "D": "Error",
+    "javob": "A"
+  },
+  {
+    "savol": "Ifodaning qiymatini toping: (5 > 3) and (\"\" or \"Dev\")",
+    "A": "\"Dev\"",
+    "B": "True",
+    "C": "False",
+    "D": "Error",
+    "javob": "A"
+  },
+  {
+    "savol": "Ifodaning qiymatini toping: round(2.5) == round(3.5)",
+    "A": "False",
+    "B": "True",
+    "C": "2",
+    "D": "3",
+    "javob": "A"
+  },
+  {
+    "savol": "Ifodaning qiymatini toping: 10 > 5 > 2",
+    "A": "True",
+    "B": "False",
+    "C": "10",
+    "D": "2",
+    "javob": "A"
+  },
+  {
+    "savol": "Ifodaning qiymatini toping: bool(\" \") and len(\"\") == 0",
+    "A": "True",
+    "B": "False",
+    "C": "1",
+    "D": "0",
+    "javob": "A"
+  },
+  {
+    "savol": "Ifodaning qiymatini toping: (10 > 5) + (10 < 5)",
+    "A": "1",
+    "B": "True",
+    "C": "False",
+    "D": "Error",
+    "javob": "A"
+  },
+  {
+    "savol": "Ifodaning qiymatini toping: 5 != \"5\" and 5 == 5.0",
+    "A": "True",
+    "B": "False",
+    "C": "None",
+    "D": "Error",
+    "javob": "A"
+  },
+  {
+    "savol": "Ifodaning qiymatini toping: not (5 > 2) and (1/0)",
+    "A": "False",
+    "B": "True",
+    "C": "Error",
+    "D": "0",
+    "javob": "A"
+  },
+  {
+    "savol": "Ifodaning qiymatini toping: \"Python\"[0]",
+    "A": "\"P\"",
+    "B": "\"y\"",
+    "C": "0",
+    "D": "Error",
+    "javob": "A"
+  },
+  {
+    "savol": "Ifodaning qiymatini toping: \"abc\" + \"def\"",
+    "A": "\"abcdef\"",
+    "B": "\"abc def\"",
+    "C": "\"abc+def\"",
+    "D": "Error",
+    "javob": "A"
+  },
+  {
+    "savol": "Ifodaning qiymatini toping: \"Hi\" * 3",
+    "A": "\"HiHiHi\"",
+    "B": "\"Hi 3\"",
+    "C": "\"Hi+Hi+Hi\"",
+    "D": "Error",
+    "javob": "A"
+  },
+  {
+    "savol": "Ifodaning qiymatini toping: len(\"Hello World\")",
+    "A": "11",
+    "B": "10",
+    "C": "12",
+    "D": "9",
+    "javob": "A"
+  },
+  {
+    "savol": "Ifodaning qiymatini toping: \"apple\".upper()",
+    "A": "\"APPLE\"",
+    "B": "\"Apple\"",
+    "C": "\"apple\"",
+    "D": "Error",
+    "javob": "A"
+  },
+  {
+    "savol": "Ifodaning qiymatini toping: \"PYTHON\"[1:4]",
+    "A": "\"YTH\"",
+    "B": "\"PYTH\"",
+    "C": "\"YTHO\"",
+    "D": "\"YHT\"",
+    "javob": "A"
+  }
+]
