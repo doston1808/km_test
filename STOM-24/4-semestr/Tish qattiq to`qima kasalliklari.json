@@ -1,0 +1,2010 @@
+[
+  {
+    "savol": "Yuza kariesda nuqson tishning qaysi to'qimalarida joylashgan",
+    "A": "Faqat emalda emal-dentin birikmasiga yetib bormasdan",
+    "B": "Yopqich dentin sohasida",
+    "C": "Peripulpal dentin sohasida",
+    "D": "Faqat ildiz sementiga ta'sir qiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Yuza karies bilan og'rigan bemorning asosiy shikoyati nima?",
+    "A": "Kimyoviy tirnash xususiyati beruvchi moddalardan shirin, nordon qisqa muddatli og'riq",
+    "B": "Spontan kechki og'riq",
+    "C": "Issiq ovqatdan uzoq muddatli og'riq",
+    "D": "Tishni bosganda og'riq",
+    "javob": "A"
+  },
+  {
+    "savol": "Yuza kariesda karies bo'shlig'ini tekshirish orqali nimani aniqlash mumkin?",
+    "A": "Shikastlanish markazidagi qo'pol emal",
+    "B": "Yumshagan dentinli chuqur bo'shliq",
+    "C": "Silliq, yaltiroq va qattiq sirt",
+    "D": "Tish bo'shlig'i bilan aloqa",
+    "javob": "A"
+  },
+  {
+    "savol": "Dog` bosqichidagi kariesdan yuza kariesga o'tishning belgisi qanday gistologik o'zgarish hisoblanadi?",
+    "A": "Emalda organik matritsaning yo'q qilinishi va mikrobo`shliq hosil bo'lishi",
+    "B": "Yuzaki emal qatlamining gipermineralizatsiyasi",
+    "C": "Pulpa kamerasida dentinning o'rnini bosuvchi o`rinbosar dentin paydo bo'lishi",
+    "D": "Dentin naychalarining obliteratsiyasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Emal kristall panjarasidagi qaysi birikma kislotalarga eng chidamli?",
+    "A": "Ftorapatit",
+    "B": "Gidroksiapatit",
+    "C": "Karbonatapatit",
+    "D": "Oksiapatit",
+    "javob": "A"
+  },
+  {
+    "savol": "2% metilen ko'k bilan kariesdagi dog`ni hayotiy bo'yash ijobiy natija beradi, chunki:",
+    "A": "Demineralizatsiyalangan emalning o'tkazuvchanligi oshadi",
+    "B": "Bo'yoq kalsiy bilan reaksiyaga kirishadi",
+    "C": "Dentin ichidagi bakterial tanachalar bo'yaladi",
+    "D": "Emal o'zining pellikulasini yo'qotadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Yuza kariesda jarayon rivojlanishining asosiy etiologik omili:",
+    "A": "Blyashka mikroflorasi tomonidan ishlab chiqarilgan organik kislotalar",
+    "B": "Qattiq cho'tka bilan mexanik ishqalash",
+    "C": "Emal tuzilishining genetik buzilishi",
+    "D": "Ishqoriy eritmalarning ta'sir qilish",
+    "javob": "A"
+  },
+  {
+    "savol": "Ponasimon nuqsonning yuza kariesdan farqli belgilaridan biri:",
+    "A": "Nuqson sirtining shakli va tabiati",
+    "B": "Sovuqdan og'riqning mavjudligi",
+    "C": "Shikastlanish joyining rangi",
+    "D": "Faqat oldingi tishlarga ta'sir qilish",
+    "javob": "A"
+  },
+  {
+    "savol": "Nima uchun V sinf bo'shlig'ini tayyorlashda emalda qiyalik (fals) hosil qilinadi?",
+    "A": "Yopishqoqlik maydonini oshirish va estetik jihatdan \"ko'rinmas\" o'tishni ta'minlash uchun",
+    "B": "Infitsirlangan dentinni olib tashlash uchun",
+    "C": "Tish pulpasiga bosimni kamaytirish uchun",
+    "D": "Bu Blek tasnifi bo`yicha barcha sinflar uchun majburiy talabdir.",
+    "javob": "A"
+  },
+  {
+    "savol": "Emal gipoplaziyasining yuza kariesdan farq qiluvchi asosiy belgisi:",
+    "A": "Bir xil guruh tishlarning simmetrik zaralanishi",
+    "B": "Zondlashda og'riq",
+    "C": "Metilen ko'k rangga bo'yalishi",
+    "D": "Nuqson asosining yumshashi",
+    "javob": "A"
+  },
+  {
+    "savol": "Yuza kariesda asosiy morfologik xususiyat:",
+    "A": "Emalning prizmalari tuzilishining buzilishi",
+    "B": "Odontoblast nekrozi",
+    "C": "Dentin sklerozi",
+    "D": "Gipertsementoz",
+    "javob": "A"
+  },
+  {
+    "savol": "Yuza kariesda og'riq quyidagi sabab tufayli yuzaga keladi:",
+    "A": "Dentin naychalarining ta`sirlanish xususiyati",
+    "B": "Pulpa yallig'lanishi",
+    "C": "Periodontning shikastlanishi",
+    "D": "Milkning shikastlanishi",
+    "javob": "A"
+  },
+  {
+    "savol": "O'rta kariyesda qaysi to`qima zararlanadi?",
+    "A": "Emal va yopqich dentin",
+    "B": "Faqat emal",
+    "C": "Peripulpar dentin",
+    "D": "Tish pulpasi",
+    "javob": "A"
+  },
+  {
+    "savol": "O'rta karies klinikasiga xos og'riq:",
+    "A": "Qisqa muddatli, tashqi ta`sirlardan kelib chiqadigan, tez o'tadigan",
+    "B": "Spontan, tungi",
+    "C": "Mutlaqo yo'q",
+    "D": "Doimiy, og'riqli, tishlash bilan kuchayadi",
+    "javob": "A"
+  },
+  {
+    "savol": "O'rta kariesda karioz bo'shlig'ini zondlashda og'riq qayd etiladi:",
+    "A": "Emal-dentin chegarasi sohasida",
+    "B": "Butun tubi bo'ylab",
+    "C": "Zondlash og'riqsiz",
+    "D": "Bo`shliq tubining bir nuqtasida (pulpa shoxining proyeksiyasi)",
+    "javob": "A"
+  },
+  {
+    "savol": "O'rta kariesni davolashning asosiy usuli:",
+    "A": "Charxlash va plombalash",
+    "B": "Remineralizatsiya terapiyasi",
+    "C": "Infiltratsiya usuli (ICON)",
+    "D": "Devitalizatsiya qiluvchi pasta qo'llash",
+    "javob": "A"
+  },
+  {
+    "savol": "O'tkir o`rta karies quyidagilar bilan tavsiflanadi:",
+    "A": "Tor kirish teshigi, och rangli, yumshagan dentin",
+    "B": "Keng kirish teshigi, pigmentli dentin",
+    "C": "Zich tubi va devorlar",
+    "D": "Yillar davomida asimptomatik",
+    "javob": "A"
+  },
+  {
+    "savol": "O'rta kariesini davolashda ajratuvchi taglik qo'llaniladi:",
+    "A": "Bo`shliq tubi va devorlarga emal-dentin chegarasigacha",
+    "B": "Bo`shliq tubiga nuqtasimon",
+    "C": "Emal chekkalari sohasiga",
+    "D": "Zamonaviy adgeziv vositalardan foydalanganda qo'llanilmaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Karies detektori quyidagilarni bo'yaydi:",
+    "A": "Infitsirlangan dentinning tashqi qatlami",
+    "B": "Sog'lom dentin",
+    "C": "Faqat emal",
+    "D": "Pulpa",
+    "javob": "A"
+  },
+  {
+    "savol": "Yumshagan dentinni olib tashlash uchun asbob:",
+    "A": "Ekskavator",
+    "B": "Zond",
+    "C": "Gladilka",
+    "D": "Shtrips",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar charxlashda tish sovutmasdan borlar bilan qizdirilsa, qanday asorat yuzaga kelishi mumkin?",
+    "A": "Pulpa kuyishi va pulpit rivojlanishi",
+    "B": "Flyuoroz",
+    "C": "Chuqur karies",
+    "D": "Papillit",
+    "javob": "A"
+  },
+  {
+    "savol": "Bo'shliqning qirralarini finirlash:",
+    "A": "Chetlari bo'ylab shikastlangan emal prizmalarini olib tashlash",
+    "B": "Blyashkani olib tashlash",
+    "C": "Kislota bilan ishlov berish",
+    "D": "Plombalash",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar o'rta kariesni davolash paytida pulpa tasodifan bor bilan ochilib qolsa, tashxis quyidagicha bo'ladi:",
+    "A": "Travmatik pulpit",
+    "B": "O'tkir chuqur kariyes",
+    "C": "O'rta kariyes o'zgarishsiz qoladi",
+    "D": "Surunkali periodontit",
+    "javob": "A"
+  },
+  {
+    "savol": "Surunkali chuqur kariesda karies bo'shlig'ining ko`rinishi:",
+    "A": "Keng kirish teshigi, taglik va devorlar zich, pigmentli dentindan iborat.",
+    "B": "Tor kirish teshigi, yumshagan och rangli dentin.",
+    "C": "Bo'shliq yo'q, faqat dog'.",
+    "D": "Bo'shliq granulyatsiya bilan to'ldirilgan.",
+    "javob": "A"
+  },
+  {
+    "savol": "Chuqur kariesning rentgenologik belgisi:",
+    "A": "Pulpa kamerasidan saqlanib qolgan to'qimaning tor chizig'i bilan ajratilgan dentin nuqsoni.",
+    "B": "Bo'shliq va tish kamerasi o'rtasidagi aloqa.",
+    "C": "Apikal sohada suyak yo'qotish o'chog'i.",
+    "D": "Kortikal plastinkaning yo'q qilinishi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Davolovchi taglik qo'llashning maqsadi:",
+    "A": "O`rinbosar dentin hosil bo'lishini rag'batlantirish va yallig'lanishga qarshi ta'sir ko'rsatish.",
+    "B": "Plomba fiksatsiyasini yaxshilash.",
+    "C": "Plombaning toksikligini kamaytirish maqsadida.",
+    "D": "Kompozitning polimerlanishini tezlashtirish.",
+    "javob": "A"
+  },
+  {
+    "savol": "Chuqur kariesni davolashda eng ko'p uchraydigan asorat:",
+    "A": "Pulpa shoxining tasodifan ochilishi.",
+    "B": "Ildiz sinishi.",
+    "C": "Qo'shni tish plomba zararlanishi..",
+    "D": "Marginal periodontit",
+    "javob": "A"
+  },
+  {
+    "savol": "Bo'shliqni tayyorlash ketma-ketligi:",
+    "A": "Bo`shliqni ochish, kengaytirish, tozalash, shakllantirish, pardozlash.",
+    "B": "Bo`shliqni ochish, shakl berish, tozalash, plombalash",
+    "C": "Faqat tozalash va plombalash.",
+    "D": "Ochish, charxlash, tozalash.",
+    "javob": "A"
+  },
+  {
+    "savol": "To'qimalarni yo'qotmasdan gipoplaziyaning dog'li shaklini davolash strategiyasi qanday?",
+    "A": "Remineralizatsiya terapiyasi va kuzatish yoki oqartirish/mikroabraziya",
+    "B": "Tishni tortib olish",
+    "C": "Charxlash va plombalash",
+    "D": "Endodontik davolash",
+    "javob": "A"
+  },
+  {
+    "savol": "Nima uchun ko'pincha flyuoroz bilan kasallangan tishlar kariesga chidamli bo'ladi?",
+    "A": "Emal tuzilishida ortiqcha ftorapatit mavjud",
+    "B": "Tish yuzasi mukammal silliq bo'ladi",
+    "C": "Bemorlarda so'lak sekretsiyasining ko'payishi kuzatiladi",
+    "D": "Ftor og'izdagi barcha kariesogen bakteriyalarni o'ldiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Emal matritsasining shakllanishidagi genetik nuqson qaysi kasallikka olib keladi?",
+    "A": "Tugallanmagan amilogenez",
+    "B": "Tugallanmagan dentinogenez",
+    "C": "Emal gipoplaziyasi (tizimli)",
+    "D": "Flyuoroz",
+    "javob": "A"
+  },
+  {
+    "savol": "Tugallanmagan dentinogenezda odatda rentgenografiyada quyidagilar kuzatiladi:",
+    "A": "Pulpa kamerasi va kanallarining obliteratsiyasi o`tmaslashishi",
+    "B": "Pulpa kamerasining kengayishi",
+    "C": "Ildiz uchlarida suyak to'qimasining yupqalashishi",
+    "D": "Ildiz uzunligining oshishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Dog'simon flyuoroz va dog' bosqichdagi kariesni qanday farqlash mumkin?",
+    "A": "Fluorozdagi dog'lar odatda ko`p sonli va simmetrik bo'ladi.",
+    "B": "Fluoroz dog'i metilen ko'kida bo'yaladi.",
+    "C": "Fluoroz dog'i har doim fissuralarda joylashgan.",
+    "D": "Fluoroz dog'i quriganida yo'qoladi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Tish chiqgunga qadar sodir bo’ladigan nokarioz kasallik:",
+    "A": "Flyuoroz",
+    "B": "Emal eroziyasi",
+    "C": "Emalning fokal demineralizatsiyasi",
+    "D": "Ponasimon nuqson",
+    "javob": "A"
+  },
+  {
+    "savol": "Tish chiqqandan keyin paydo bo'ladigan nokarioz nuqsonlarga quyidagilar kiradi:",
+    "A": "Ponasimon nuqson",
+    "B": "Tugallanmagan amelo va dentinogenez",
+    "C": "Flyuoroz",
+    "D": "Sistemali gipoplaziya",
+    "javob": "A"
+  },
+  {
+    "savol": "Tish nuqsonlarining sistemali zararlanishi quyidagi kasallikka xos:",
+    "A": "Gipoplaziya",
+    "B": "Ponasimon nuqson",
+    "C": "Tish eroziyasi",
+    "D": "Giperplaziya",
+    "javob": "A"
+  },
+  {
+    "savol": "Endemik flyuorozning kelib chiqish sabablari:",
+    "A": "Suvda ftor miqdorining me’yoridan oshib ketishi",
+    "B": "Hayotning birinchi yilidagi bolaning yuqumli kasalligi",
+    "C": "Homiladorlik davrida onaning tizimli kasalliklari",
+    "D": "Bolaning tanasida ftoryetishmasligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Endemik hududlarda flyuorozning oldini olish:",
+    "A": "Suv manbasini almashtirish",
+    "B": "Homiladorlik davrida ona kasalliklarining oldini olish",
+    "C": "Og'iz bo'shlig'i gigienasiga rioya qilish",
+    "D": "Ftor tabletkalarni qabul qilish",
+    "javob": "A"
+  },
+  {
+    "savol": "Ichimlik suvida ftorid miqdori yuqori bo'lgan hududlarda tish pastalaridan foydalanish tavsiya etilmaydi:",
+    "A": "ftoridli",
+    "B": "gigienik",
+    "C": "kaltsiy o'z ichiga olgan",
+    "D": "o'simlik qo'shimchalari bilan.",
+    "javob": "A"
+  },
+  {
+    "savol": "Ichimlik suvida ftorid miqdori yuqori bo'lgan hududda tug'ilgandan beri yashovchi bemorning og'iz bo'shlig'ida ko’rish mumkin:",
+    "A": "tishlarda ko'plab bo'r dog'lari",
+    "B": "adentiya",
+    "C": "makrodontiya",
+    "D": "ko'plab karieslarni ko'rish mumkin",
+    "javob": "A"
+  },
+  {
+    "savol": "Sistemali gipoplaziya bilan ko’pincha zararlanadi:",
+    "A": "Doimiy kesuv, kurak va 1molyar tishlar",
+    "B": "Sut va doimiy molyar tishlar",
+    "C": "kesuv va molyar sut tishlar",
+    "D": "Kesuv va kurak sut tishlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Tishlarning simmetrik zararlanishi quyidagi kasallikka xos:",
+    "A": "Sistemali gipoplaziya",
+    "B": "Flyuoroz",
+    "C": "Mahalliy gipoplaziya",
+    "D": "Emalning o’choqli demineralizatsiyasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Doimiy tishlar sistemali gipoplaziyasining paydo bo’lish sabablaridan biri:",
+    "A": "Hayotning birinchi yilidagi bolaning kasalliklari",
+    "B": "Ichimlik suvida ftor miqdori oshishi",
+    "C": "Homiladorlik paytida onada o’rta karies uchrashi",
+    "D": "Homiladorlik paytida onaning kasalliklari",
+    "javob": "A"
+  },
+  {
+    "savol": "Doimiy tish mahalliy gipoplaziyasining keng tarqalgan sababi:",
+    "A": "Molyar sut tishlarining surunkali periodontiti",
+    "B": "Og’iz bo’shlig’I gigiyenasiga rioya qilmaslik",
+    "C": "Hayotning birinchi yilidagi bolaning kasalliklari",
+    "D": "Homiladorlik paytida onaningkasalliklari",
+    "javob": "A"
+  },
+  {
+    "savol": "Doimiy tishlarning mahalliy gipoplaziyasining oldini olish:",
+    "A": "vaqtinchalik tishlarning kariesini o'z vaqtida davolash",
+    "B": "hayotning birinchi yilida bolaning to'liq ovqatlanishi",
+    "C": "ftoridli tabletkalarni qabul qilish",
+    "D": "suv manbasini almashtirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Tish qattiq to’qimalari nokarioz kasalliklarida bitta tishning shakli o’zgarib chiqishi bu:",
+    "A": "Mahalliy gipoplaziya",
+    "B": "Sistemali gipoplaziya",
+    "C": "Patologik yedirilishlar",
+    "D": "flyuoroz",
+    "javob": "A"
+  },
+  {
+    "savol": "Emalning shikastlanish joylarini metilen ko'kning 2% eritmasi bilan bo'yash quyidagilar uchun xosdir:",
+    "A": "Dog’ bosqichidagi karies",
+    "B": "Sistemali gipoplaziya",
+    "C": "Mahalliy gipoplaziya",
+    "D": "barchasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Sistemali gipoplaziya klinik kechishiga ko’ra nechiga bo’linadi:",
+    "A": "3",
+    "B": "5",
+    "C": "4",
+    "D": "6",
+    "javob": "A"
+  },
+  {
+    "savol": "Sistemali gipoplaziya klinik kechishiga ko’ra:",
+    "A": "Rangining o’zgarishi, emalning noto’liq rivojlanishi, emalning butunlay bo’lmasligi",
+    "B": "Chuqurchali, likopchali, egatchali, aralash",
+    "C": "Dog’, shtrixsimon, eroziv",
+    "D": "Bo’rsimon xol-xol, eroziv, destruktiv,shtrixsimon",
+    "javob": "A"
+  },
+  {
+    "savol": "Tish qattiqto'qimalarininggipoplaziyasi bu:",
+    "A": "Tish yoki uning to'qimalarining yetarli darajada rivojlanmaganligi",
+    "B": "Tish to'qimalarining (emal va dentin) progressiv yo'qolishidan iborat rivojlanish nuqsoni;",
+    "C": "Tishlarning toj qismi birlashuvi",
+    "D": "Sut va doimiy tishlar shakli va mineralizatsiyasinig sistemali buzilishi bilan ifodalangan emal shakllanishinig buzilishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Flyuoroz bu:",
+    "A": "ichimlik suvida haddan tashqari ftor ko'p bo'lganligi sababli ftorid bilan zaharlanish natijasida kelib chiqqan endemik kasallik",
+    "B": "Tish to'qimalarining (emal va dentin) progressiv yo'qolishidan iborat rivojlanish nuqsoni;",
+    "C": "Tish yoki uning to'qimalarining yetarli darajada rivojlanmaganligi",
+    "D": "Tishlarning toj qismi birlashuvi",
+    "javob": "A"
+  },
+  {
+    "savol": "Tish gipoplaziyasi qachon rivojlanadi:",
+    "A": "Embrional davrda va tish shakllanish jarayonida",
+    "B": "Tish chiqishidan keyin",
+    "C": "Faqat bolalik davrida",
+    "D": "Travma natijasida",
+    "javob": "A"
+  },
+  {
+    "savol": "Tish gipoplaziyasi qaysi kasallik bilan bog’liq:",
+    "A": "Raxit",
+    "B": "Qandli diabet",
+    "C": "Gepatit",
+    "D": "Gipertoniya",
+    "javob": "A"
+  },
+  {
+    "savol": "Tish gipoplaziyasini davolash usuli:",
+    "A": "Protezlash yoki plombalash",
+    "B": "Suvda ftor miqdorini oshirish",
+    "C": "Karashlarni tozalash",
+    "D": "Polirovka qilish",
+    "javob": "A"
+  },
+  {
+    "savol": "Tugallanmagan amelogenez bu:",
+    "A": "Sut va doimiy tishlar shakli va mineralizatsiyasining sistemali buzilishi bilan ifodalangan emal shakllanishinig buzilishi",
+    "B": "ichimlik suvida haddan tashqari ftor ko'p bo'lganligi sababli ftorid bilan zaharlanish natijasida kelib chiqqan endemik kasallik",
+    "C": "Tish yoki uning to'qimalarining yetarli darajada rivojlanmaganligi",
+    "D": "Tishlarning toj qismi birlashuvi",
+    "javob": "A"
+  },
+  {
+    "savol": "Flyuorozda patologik o’zgarishlar kelib chiqishiga sabab bo’ladi:",
+    "A": "ameloblastlar",
+    "B": "odontoblastlar",
+    "C": "osteoblastlar",
+    "D": "sementoblastlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Tish gipoplaziyasi turlari:",
+    "A": "Sistemali va mahalliy",
+    "B": "Static va dinamik",
+    "C": "Mexanik va kimyoviy",
+    "D": "O’choqli va mahalliy",
+    "javob": "A"
+  },
+  {
+    "savol": "Tish gipoplaziyasining og’ir darajasi nima bilan xarakterlanadi:",
+    "A": "Tish yuzasidagi chuqur nuqsonlar",
+    "B": "Faqat dog’lar paydo bo’lishi",
+    "C": "Hech qanday o’zgarish bo’lmaydi",
+    "D": "Tish yuzasining yaltiroq bo’lishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Suvda (litr) ftor normativ miqdori?",
+    "A": "0,8-1,2",
+    "B": "2-5",
+    "C": "1,2-4",
+    "D": "10",
+    "javob": "A"
+  },
+  {
+    "savol": "Flyuorozning chiziqli shakli quyidagicha:",
+    "A": "mayda bo'rli chiziqlar",
+    "B": "Yaqqol oq qog’lar",
+    "C": "Emalning butunlay bo’lmasligi",
+    "D": "Likopchasimon o’yiqlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Sistemali gipoplaziyaning klinik shakli:",
+    "A": "emalning rivojlanmaganligi",
+    "B": "xanjar shaklidagi nuqson",
+    "C": "qattiq to'qimalarning ishqalanishi,",
+    "D": "emal eroziyasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Gipoplaziyaning yanada og'ir shakli:",
+    "A": "emalning yo'qligi,",
+    "B": "rangi o'zgarishi,",
+    "C": "emalning rivojlanmaganligi,",
+    "D": "qattiq to'qimalarning ishqalanishi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Inson tanasiga kiradigan ftoridning asosiy manbai:",
+    "A": "ichimlik suvi",
+    "B": "havo",
+    "C": "dorilar",
+    "D": "vitaminlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Sovuq iqlimli hududlarda ichimlik suvida ftoridning optimal konsentratsiyasi (mg/l):",
+    "A": "1.2",
+    "B": "2.0",
+    "C": "3.0",
+    "D": "0.2",
+    "javob": "A"
+  },
+  {
+    "savol": "Ftoridli lak bilan qoplash necha yosh davrida eng samarali hisoblanadi:",
+    "A": "3 yoshdan 15 yoshgacha",
+    "B": "4 yoshdan 10 yoshgacha",
+    "C": "12 yoshdan 18 yoshgacha",
+    "D": "6 yoshdan 12 yoshgacha",
+    "javob": "A"
+  },
+  {
+    "savol": "Remineralizatsiya - bu:",
+    "A": "shikastlangan emalning zichligini qisman tiklash",
+    "B": "Shikastlangan yuza emaldan kaltsiy, fosfor, magniyni yo'qotish",
+    "C": "uglevodlarni qabul qilish chastotasini oshirish",
+    "D": "organik kislotalar ta'sirida emal tuzilishini yo'q qilish",
+    "javob": "A"
+  },
+  {
+    "savol": "Oqartirish tizimlarining faol moddasi:",
+    "A": "vodorod peroksid",
+    "B": "xloramin",
+    "C": "xlorid kislotasi",
+    "D": "xlorgeksidin",
+    "javob": "A"
+  },
+  {
+    "savol": "Sistemali tish shikastlanishi har doim quyidagilarga xosdir :",
+    "A": "gipoplaziya",
+    "B": "Tish eroziyasi",
+    "C": "gingivit",
+    "D": "karies",
+    "javob": "A"
+  },
+  {
+    "savol": "Flyuorozning dog'li shakli quyidagilar bilan tavsiflanadi:",
+    "A": "chiziqlarsiz aniq belgilangan bo'rli dog'lar mavjudligi",
+    "B": "bo'rli chiziqlar paydo bo'lishi",
+    "C": "emalning aniq pigmentatsiyasi fonida emal yo’qligi",
+    "D": "Eroziya va yediirilish tufayli toj shaklining o'zgarishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Flyuorozning bo'rsimon xol xol shakli:",
+    "A": "emal fonida yaxshi aniqlangan pigmentli dog'lar va bo’rsimon xolli dog'lar",
+    "B": "bo'rli chiziqlar paydo bo'lishi",
+    "C": "emalning aniq pigmentatsiyasi fonida emal yo’qligi",
+    "D": "Eroziya va yediirilish tufayli toj shaklining o'zgarishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Flyuorozning eroziv shakli:",
+    "A": "emalning aniq pigmentatsiyasi fonida emal yo’qligi",
+    "B": "emal fonida yaxshi aniqlangan pigmentli dog'lar va bo’rsimon xolli dog'lar",
+    "C": "Eroziya va yediirilish tufayli toj shaklining o'zgarishi",
+    "D": "bo'rli chiziqlar paydo bo'lishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Flyuorozning og’ir shakli:",
+    "A": "eroziya va yedirilish tufayli toj shaklining o'zgarishi",
+    "B": "bo'rli chiziqlar paydo bo'lishi",
+    "C": "chiziqlarsiz aniq belgilangan bo'rli dog'lar mavjudligi",
+    "D": "emalning aniq pigmentatsiyasi fonida emal yo’qligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Bolalikda tetratsiklinni qo'llash natijasida paydo bo'lgan hayotiy tishlarning rangi o'zgarishi (engil daraja) quyidagi usul yordamida yo'q qilinishi mumkin:",
+    "A": "tashqi oqartirish",
+    "B": "ichki oqartirish",
+    "C": "mikroabraziya",
+    "D": "Vinir bilan tiklash",
+    "javob": "A"
+  },
+  {
+    "savol": "Sistemali gipoplaziyaning klinik shakli:",
+    "A": "emalning kam rivojlanganligi",
+    "B": "Ponasimon nuqson (xanjar shaklidagi nuqson)",
+    "C": "qattiq to'qimalarni tozalash",
+    "D": "emal eroziyasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Fyuoroz tufayli emal rangining o'zgarishi quyidagilar bilan bog'liq :",
+    "A": "emalning tashqi qatlamining zichligi pasayishi",
+    "B": "tashqi emal qatlamining zichligi barqarorligi",
+    "C": "emalning ichki yuza qatlamining zichligi pasayishi",
+    "D": "emalning demineralizatsiyasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Tishlarning kechikishi sabablari:",
+    "A": "raxit",
+    "B": "Suvchechak",
+    "C": "skarlatina",
+    "D": "ORVI",
+    "javob": "A"
+  },
+  {
+    "savol": "Eng keng tarqalgan tugallanmagan amelogenez turi :",
+    "A": "gipokalsifikatsiyalangan",
+    "B": "gipomoturasion",
+    "C": "gipoplastik",
+    "D": "kombinatsion",
+    "javob": "A"
+  },
+  {
+    "savol": "Suvdagi ortiqcha ftorid quyidagilarga olib keladi :",
+    "A": "minerallashuvning buzilishi",
+    "B": "emalning yetarli darajada shakllanmasligi",
+    "C": "apatit kristallarining shakllanishidagi nuqsonlar",
+    "D": "endogen materialning cho'kishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Flyuorozning 5 ta shaklini o'z ichiga olgan tasnifni kim taklif qilgan:",
+    "A": "Patrikeev V.K.",
+    "B": "Bobovich R.D.",
+    "C": "Novik I.O.",
+    "D": "Ovrutskiy G.D.",
+    "javob": "A"
+  },
+  {
+    "savol": "Oqartirishga moyil bo’lmagan nuqsonlar:",
+    "A": "gipoplastik o'zgarishlarga uchragan tishlar",
+    "B": "ortiqcha ftorid bilan o'zgargan tishlar",
+    "C": "travma tufayli tishlarning rangi o'zgargan",
+    "D": "endometazon pastasi bilan to'ldirilgan kanalli tishlar, \"tetratsiklin tishlari\"",
+    "javob": "A"
+  },
+  {
+    "savol": "Irsiy tish kasalliklari bo'lgan bemorlarni tekshirish rejasi quyidagilarni o'z ichiga oladi:",
+    "A": "Geneologik usul naslchilik usuli",
+    "B": "klinik qon tekshiruvi",
+    "C": "Og’iz bo’shlig’ini ko’zdan kechirish",
+    "D": "Rentgen usuli",
+    "javob": "A"
+  },
+  {
+    "savol": "Tasodifiy tarqoq chuqurchalar bilan oddiy qalinlikdagi emal quyidagilarga xosdir :",
+    "A": "autosomal dominant chuqurchali gipoplastik amelogenez",
+    "B": "autosomal dominant mahalliy gipoplastik amelogenez",
+    "C": "autosomal dominant silliq gipoplastik to'liq bo'lmagan amelogenez",
+    "D": "autosomal dominant dag’al gipoplastik nuqsonli amelogenez",
+    "javob": "A"
+  },
+  {
+    "savol": "Gorizontal qator chuqurliklar, chiziqli chuqurliklar ko'rinishidagi gipoplastik emal nuqsoni quyidagilarga xosdir :",
+    "A": "autosomal dominant mahalliy gipoplastik to'liq bo'lmagan amelogenez",
+    "B": "autosomal dominant chuqurchali gipoplastik amelogenez",
+    "C": "autosomal dominant silliq gipoplastik to'liq bo'lmagan amelogenez",
+    "D": "autosomal dominant dag’al gipoplastik nuqsonli amelogenez",
+    "javob": "A"
+  },
+  {
+    "savol": "Yupqa (normal qalinlikning 1/4-1/3) qattiq emal quyidagilarga xosdir :",
+    "A": "autosomal dominant silliq gipoplastik to'liq bo'lmagan amelogenez",
+    "B": "autosomal dominant dag’al gipoplastik nuqsonli amelogenez",
+    "C": "X-bog'langan (dominant) silliq nuqsonli amelogenez",
+    "D": "autosomal dominant chuqurchali gipoplastik amelogenez",
+    "javob": "A"
+  },
+  {
+    "savol": "Yupqa (normal qalinlikning 1/4-1/8) qo'pol, donador yuzasiga ega qattiq emal quyidagilarga xosdir :",
+    "A": "autosomal dominant dag’al gipoplastik nuqsonli amelogenez",
+    "B": "autosomal dominant silliq gipoplastik to'liq bo'lmagan amelogenez",
+    "C": "autosomal dominant mahalliy gipoplastik to'liq bo'lmagan amelogenez",
+    "D": "autosomal dominant chuqurchali gipoplastik amelogenez",
+    "javob": "A"
+  },
+  {
+    "savol": "Erkak va ayollarda turlicha bo'lgan emalning o'zgarishi quyidagilarga xosdir :",
+    "A": "X-bog'langan dominant silliq nuqsonli amelogenez",
+    "B": "Autosomal dominant dag’al gipoplastik nuqsonli amelogenez",
+    "C": "Autosomal retsessiv nuqsonli amelogenez (tugallanmagan rivojlanish)",
+    "D": "Autosomal dominant silliq gipoplastik to'liq bo'lmagan amelogenez",
+    "javob": "A"
+  },
+  {
+    "savol": "Oddiy qalinlikdagi emal, lekin odatdagidan yumshoqroq, dentindan parchalanish tendensiyasi bilan:",
+    "A": "gipoplastik nuqsonli amelogenez",
+    "B": "gipomoturatsion (pishmagan) nuqsonli amelogenez",
+    "C": "gipokalsifikatsiyalangan nuqsonli amelogenez",
+    "D": "kombinatsiyalangan nuqsonli amelogenez",
+    "javob": "A"
+  },
+  {
+    "savol": "Tish rangini o'zgartiruvchi tashqi omillar:",
+    "A": "pulpa ichiga qon quyilishi",
+    "B": "tetratsiklin antibiotiklaridan uzoq muddatli foydalanish",
+    "C": "pulpa o'limi",
+    "D": "oziq-ovqat mahsulotlari va og'izni yuvish uchun dorivor moddalar",
+    "javob": "A"
+  },
+  {
+    "savol": "Tishlarni oqartirish uchun mahalliy qarshi ko’rsatmalar:",
+    "A": "emalning yo'qolishi, tish ildizlarining ochilib qolishi",
+    "B": "homiladorlik va emizish",
+    "C": "vodorod periksga allergik reaksiyalar mavjudligi",
+    "D": "yoshi (18 yoshgacha)",
+    "javob": "A"
+  },
+  {
+    "savol": "Tishlarni oqartirish uchun umumiy qarshi ko’rsatmalar:",
+    "A": "vodorod peroksidga allergik reaktsiyalar, homiladorlik, emizish",
+    "B": "periodontitda aniq yallig'lanish hodisalari",
+    "C": "Bo’yin sohada perforatsiya",
+    "D": "keng qamrovli restavratsiyalar",
+    "javob": "A"
+  },
+  {
+    "savol": "Oqartirish samaradorligini quyidagi yo'llar bilan oshirishingiz mumkin:",
+    "A": "lazer texnologiyasidan foydalangan holda tish haroratini 10 °C ga oshirish",
+    "B": "Oqartiruvchi ta'sirini kamaytirish",
+    "C": "oqartiruvchi ta'sirni oshirish",
+    "D": "Tish pulpasini olib tashlash",
+    "javob": "A"
+  },
+  {
+    "savol": "Getchinsonning tishlari quyidagilarning namoyonidir:",
+    "A": "sistemali gipoplaziya",
+    "B": "mahalliy gipoplaziya",
+    "C": "flyuoroz",
+    "D": "amelogenez",
+    "javob": "A"
+  },
+  {
+    "savol": "Qattiq tish to'qimalarining gipoplaziyasi quyidagilar natijasida yuzaga keladi:",
+    "A": "homila yoki bolaning tanasida mineral va oqsil almashinuvining buzilishi",
+    "B": "yuqumli omillar",
+    "C": "tish blyashka ta'siri",
+    "D": "suvdagi ortiqcha ftorid",
+    "javob": "A"
+  },
+  {
+    "savol": "Emal gipoplaziyasi bilan birga keladi:",
+    "A": "dentin va tish pulpasi rivojlanishining buzilishi",
+    "B": "periodontitdagi o'zgarishlar",
+    "C": "kuchli giperesteziya",
+    "D": "okklyuziyadagi o'zgarishlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Bolalarda doimiy tishlarning gipoplaziyasi quyidagi davrda rivojlanadi:",
+    "A": "tishlarning shakllanishi va mineralizatsiyasi",
+    "B": "tish chiqarish",
+    "C": "tish murtagining differensiasiyasi",
+    "D": "Tish chiqqandan so’ng",
+    "javob": "A"
+  },
+  {
+    "savol": "Hayotning birinchi oylarida bolaning kasalliklari ushbu sohada gipoplaziya rivojlanishiga olib keladi:",
+    "A": "markaziy tishlarning kesuvchi qirrasi va birinchi molyarlarning do’mboqlarida",
+    "B": "Markaziy yon va kuraklarning kesuvchi qirrasi",
+    "C": "birinchi premolyarlarning chaynash yuzasi",
+    "D": "Ikkinchi premolyarlarning chaynash yuzasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Flyuorozda tishlardan tashqari qo’shimcha ravishda zararlanadi:",
+    "A": "suyak skeleti",
+    "B": "teri",
+    "C": "mushaklar",
+    "D": "Qon-tomirlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Suvdagi ftorning ruxsat etilgan maksimal konsentratsiyasi (mg/l):",
+    "A": "1.5",
+    "B": "2.3",
+    "C": "4.2",
+    "D": "3.8",
+    "javob": "A"
+  },
+  {
+    "savol": "Flyuorozning og’ir shakli rivojlanadigan ichimlik suvidagi ftorid dozasi (mg/l):",
+    "A": "10 dan ortiq",
+    "B": "1.2",
+    "C": "4.2",
+    "D": "2.4",
+    "javob": "A"
+  },
+  {
+    "savol": "Flyuorozli bemorlarning shikoyatlari:",
+    "A": "kosmetik nuqson",
+    "B": "Uch shoxli nervning shoxlari bo’ylab radiatsion og’riq",
+    "C": "tishlardagi tungi og’riq",
+    "D": "harorat ta’siridan og’riq",
+    "javob": "A"
+  },
+  {
+    "savol": "Dentinogenezda ( Stenton-Kapdepon sindromi ) bilan quyidagilar ta'sirlanadi :",
+    "A": "Barcha sut va doimiy tishlar",
+    "B": "kurak va doimiy tishlar",
+    "C": "sut va doimiy molyarlar",
+    "D": "sut va doimiy premolyarlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Stenton-Kandepon sindromining klinik belgilari :",
+    "A": "Pulpa bo’shligi butunligi buzilmasdan tish qattiq to'qimalarining yedirilishi",
+    "B": "“aylanma” tishlar",
+    "C": "kariozli bo’shliqlar",
+    "D": "tungi og’riqning mavjudligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Tugallanmagan dentinogenez uchun tish davolashning asosiy usuli:",
+    "A": "ortopedik usullar",
+    "B": "kompozitlar yordamida tish tojining anatomik shaklini tiklash",
+    "C": "tish tortish",
+    "D": "tish depulpatsiyasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Doimiy tishlarning sistemali gipoplaziyasining sabablari:",
+    "A": "tug’ilgandan keyin bolaning kasalliklari",
+    "B": "enetic omillar",
+    "C": "ichimlik suvida ftorid miqdori past",
+    "D": "ichimlik suvida ftorid miqdori yuqori",
+    "javob": "A"
+  },
+  {
+    "savol": "Mahalliy emal gipoplaziyasining sabablari:",
+    "A": "sut tishlarining periodontiti",
+    "B": "genetik omillar",
+    "C": "homiladorlik paytida onaning kasalliklari",
+    "D": "tug'ilgandan keyin bolaning kasalliklari",
+    "javob": "A"
+  },
+  {
+    "savol": "Nokarioz kasalliklar nechi davrga bo’linadi:",
+    "A": "2",
+    "B": "5",
+    "C": "3",
+    "D": "4",
+    "javob": "A"
+  },
+  {
+    "savol": "Emal giperplaziyasi bu:",
+    "A": "Tish qattiq to’qimalarining me’yoridan ortiq rivojlanishi",
+    "B": "Tish ildizining deformatsiyasi",
+    "C": "Tish qattiq to’qimalarining yedirilishi",
+    "D": "Emalning shikastlanishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Emal tomchilari diametri:",
+    "A": "1-2-4 mm",
+    "B": "4-5 mm",
+    "C": "2-3 mm",
+    "D": "4-7-8 mm",
+    "javob": "A"
+  },
+  {
+    "savol": "Emal giperplaziyasi joylashuv lokalizatsiyasi:",
+    "A": "Tish bo’yin sohasida, bifurkatsiya trifurkatsiya",
+    "B": "Tish chaynov va kesuv qirrasida",
+    "C": "Tish kontakt yuzalarida",
+    "D": "Tish bo’yni va kontakt yuzalari",
+    "javob": "A"
+  },
+  {
+    "savol": "Emal giperplaziyasi necha % aholida uchraydi:",
+    "A": "1,5%",
+    "B": "5 %",
+    "C": "7%",
+    "D": "25%",
+    "javob": "A"
+  },
+  {
+    "savol": "Emal giperplaziyasi nechi xil ko’rinishi bor:",
+    "A": "5",
+    "B": "4",
+    "C": "7",
+    "D": "3",
+    "javob": "A"
+  },
+  {
+    "savol": "Irsiy xususiyatga ega bo`lgan nokaries kasalliklar:",
+    "A": "tugallanmagan amelogenez",
+    "B": "sistemali gipoplaziya",
+    "C": "flyuoroz",
+    "D": "o`rta kariyes",
+    "javob": "A"
+  },
+  {
+    "savol": "Irsiy xususiyatga ega bo`lmagan nokaries kasalliklar:",
+    "A": "gipoplaziya",
+    "B": "tugallanmagan amelogenez",
+    "C": "Steynton Kapdepon sindromi",
+    "D": "marmar kasalligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Gipoplaziya shakllarini aniqlang:",
+    "A": "Dog’ shakli Chuqurchali Likopchali Egatchali aralash",
+    "B": "giperplastik distrofik destruktiv",
+    "C": "Dog’ Eroziv Destruktiv Bo’rsimon",
+    "D": "o`choqli likopchali xolli eroziyali giperplastik",
+    "javob": "A"
+  },
+  {
+    "savol": "Flyuoroz kasalligining klinik ko’rinishlari:",
+    "A": "Dog’ Shtrixli Bo’rsimon xol –xol Eroziv Destruktiv",
+    "B": "Dog’ shakli Chuqurchali Likopchali Egatchali aralash",
+    "C": "giperplastik distrofik destruktiv",
+    "D": "Dog’ Eroziv Destruktiv Bo’rsimon",
+    "javob": "A"
+  },
+  {
+    "savol": "Flyuorozning og`irlik darajasi nimalarga bog`liq?",
+    "A": "ichimlik suvidagi ftor miqdoriga",
+    "B": "erta suniy ovqatlar bilan bolani boqishga",
+    "C": "onaning yoshiga",
+    "D": "kechki toksikozlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Steynton – Kapdepon sindromiga xos klinik belgilar:",
+    "A": "emal rangi o`zgargan, kulrang yoki loyqa suv rangida",
+    "B": "ildizlar o`zgarishsiz",
+    "C": "patologik yemirilish yo`q",
+    "D": "emalda o`zgarish yo`q",
+    "javob": "A"
+  },
+  {
+    "savol": "Tugallanmagan odontogenezga xos klinik belgilar:",
+    "A": "tish ildizlari kalta, yo`g`on",
+    "B": "emal rangi o`zgarmagan",
+    "C": "dentin to`qimasida o`zgarish bo`lmaydi",
+    "D": "prikus o`zgarmagan",
+    "javob": "A"
+  },
+  {
+    "savol": "Flyuorozning og’ir shaklida qanday klinik xulosalarni bildirish mumkin:",
+    "A": "Emaldagi minerallashuvning to’liq yo’qolishi va og’ir estetik muammolar",
+    "B": "Tish emali himoyasining mukammal bo’lishi va ftorga nisbatan kuchli rezistentlik",
+    "C": "Dentin strukturasidagi o’zgarishlar",
+    "D": "Kanal obliterasiyasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Marmar kasalligiga qaysi omillar ta’sir qiladi:",
+    "A": "Genetik omillar, yosh, jins, gormonal o’zgarishlar va ovqatlanish buzilishlari",
+    "B": "Suyaklardagi infeksiya ko’yishi",
+    "C": "Suyaklarda mineral moddalar ortiqcha miqdori",
+    "D": "Suyaklar shikastlanishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Marmar kasalligining aniqlangan belgisi qanday:",
+    "A": "Suyaklar oson sinadi, xususan kichik yoki o’rta jarohatlarda",
+    "B": "Ichki organlar holati buzilishi",
+    "C": "Tishlar kanali obliterasiyasi",
+    "D": "Emal va dentin qalinlashuvi",
+    "javob": "A"
+  },
+  {
+    "savol": "Marmar kasalligini davolashni qaysi usullar qo’llaniladi:",
+    "A": "Kalsiy va vitamin D, biofosfanatlar va gormonal terapiya",
+    "B": "Fizik mashqlar,to’g’ri ovqatlanish va antibakterial davo",
+    "C": "Remineralizatsion terapiya",
+    "D": "Ftor miqdorini cheklash",
+    "javob": "A"
+  },
+  {
+    "savol": "Marmar kasalligini davolashda qanday vitaminlardan foydalaniladi:",
+    "A": "Kalsiy va vitamin D",
+    "B": "Ftor va magniy",
+    "C": "A ,E vitamini",
+    "D": "C vitamin va antioksidantlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Marmar kasalligi yana qanday nomlanadi:",
+    "A": "Albers -Shenberg",
+    "B": "Terner",
+    "C": "Getchinson",
+    "D": "Pflyuger",
+    "javob": "A"
+  },
+  {
+    "savol": "Getchinson tishlari klinik belgilari:",
+    "A": "Tish bochkasimon shaklida kesuv qirrasi yarimoysimon o’yiq",
+    "B": "Tish bochkasimon kesuv qirrasi o’zgarmagan holda",
+    "C": "Tish bo’yin qismi chaynov yuzasiga qaraganda katta o’lchamda, do’mboqlar to’liq shakllanmagan, konus shaklida",
+    "D": "Qisman yoki butunlay emal qavati rivojlanmagan",
+    "javob": "A"
+  },
+  {
+    "savol": "Furnye tishlari klinik belgilari:",
+    "A": "Tish bochkasimon kesuv qirrasi o’zgarmagan holda",
+    "B": "Tish bochkasimon shaklida kesuv qirrasi yarimoysimon o’yiq",
+    "C": "Tish bo’yin qismi chaynov yuzasiga qaraganda katta o’lchamda, do’mboqlar to’liq shakllanmagan, konus shaklida",
+    "D": "Qisman yoki butunlay emal qavati rivojlanmagan",
+    "javob": "A"
+  },
+  {
+    "savol": "Pflyuger tishlari klinik belgilari:",
+    "A": "Tish bo’yin qismi chaynov yuzasiga qaraganda katta o’lchamda, do’mboqlar to’liq shakllanmagan, konus shaklida",
+    "B": "Tish bochkasimon shaklida kesuv qirrasi yarimoysimon o’yiq",
+    "C": "Tish bochkasimon kesuv qirrasi o’zgarmagan holda",
+    "D": "Qisman yoki butunlay emal qavati rivojlanmagan",
+    "javob": "A"
+  },
+  {
+    "savol": "Mahalliy gipoplaziya ko’pincha qaysi tishlarda uchraydi:",
+    "A": "1,2 doimiy premolyarlar",
+    "B": "1,2,3 doimiy molyarlar",
+    "C": "Doimiy kurak tishlar",
+    "D": "Doimiy markaziy tishlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Organizmga o’zlashtiriladigan ftorning ko’p qismi qaysi organlar quyidagi organlar orqali chiqariladi:",
+    "A": "Buyrak va ter bezlari",
+    "B": "buyrak",
+    "C": "jigar",
+    "D": "Jigar va ter bezlari",
+    "javob": "A"
+  },
+  {
+    "savol": "Flyuorozning yengil darajasiga qaysi klinik ko’rinishlari kiradi:",
+    "A": "Dog’, shtrixsimon",
+    "B": "Bo’rsimon xol xol",
+    "C": "Eroziv, destruktiv",
+    "D": "Bo’rsimon xol xol, eroziv",
+    "javob": "A"
+  },
+  {
+    "savol": "Flyuorozning o’rta darajasiga qaysi klinik ko’rinishlari kiradi:",
+    "A": "Bo’rsimon xol xol",
+    "B": "Dog’, shtrixsimon",
+    "C": "Eroziv, destruktiv",
+    "D": "Bo’rsimon xol xol, eroziv",
+    "javob": "A"
+  },
+  {
+    "savol": "Flyuorozning og’ir darajasiga qaysi klinik ko’rinishlari kiradi:",
+    "A": "Eroziv, destruktiv",
+    "B": "Bo’rsimon xol xol",
+    "C": "Dog’, shtrixsimon",
+    "D": "Bo’rsimon xol xol, eroziv",
+    "javob": "A"
+  },
+  {
+    "savol": "Flyuorozni qaysi klinik bosqichi chuqurlashmaydi:",
+    "A": "Dog’",
+    "B": "eroziv",
+    "C": "Bo’rsimon xol xol",
+    "D": "shtrixli",
+    "javob": "A"
+  },
+  {
+    "savol": "Patrikeev bo’yicha flyuoroz bosqichlari:",
+    "A": "Dog’Shtrixsimon Bo’rsimon xol xolErozivDestruktiv",
+    "B": "Dog’Shtrixsimon Bo’rsimon xol xolErozivDestruktiv Aralash",
+    "C": "Shtrixsimon Bo’rsimon xol xolErozivDestruktiv Aralash",
+    "D": "Dog’Shtrixsimon Bo’rsimon xol xolBo’rsimonErozivDestruktiv",
+    "javob": "A"
+  },
+  {
+    "savol": "Patrikeev bo’yicha nechanchi yilda flyuoroz klinik bosqichlarini tasnifi kiritilgan:",
+    "A": "1956",
+    "B": "1968",
+    "C": "1970",
+    "D": "1955",
+    "javob": "A"
+  },
+  {
+    "savol": "Patrikeev bo’yicha quyidagi yilda nokarioz kasalliklar davrlari kiritilgan :",
+    "A": "1968",
+    "B": "1956",
+    "C": "1955",
+    "D": "1970",
+    "javob": "A"
+  },
+  {
+    "savol": "Remineralizasion terapiya flyuorozda necha qatnovda davolanadi:",
+    "A": "10-15",
+    "B": "15-20",
+    "C": "10-20",
+    "D": "20-25",
+    "javob": "A"
+  },
+  {
+    "savol": "Remineralizion terapiya kursi nechi oyda qayta takrorlanadi:",
+    "A": "6-8oy",
+    "B": "8-9oy",
+    "C": "5-6oy",
+    "D": "7-8oy",
+    "javob": "A"
+  },
+  {
+    "savol": "Flyuorozda rem.terapiyada quyidagi preparatlar qo’llaniladi:",
+    "A": "Kalsiy preparatlari varemodent",
+    "B": "Kalsiy va ftor preparatlari",
+    "C": "Kislotalar va ftor preparatlari",
+    "D": "Flyuakal flyuodent gel",
+    "javob": "A"
+  },
+  {
+    "savol": "Gipoplaziyada rem.terapiyada quyidagi preparatlar qo’llaniladi:",
+    "A": "Kalsiy va ftor preparatlari",
+    "B": "Kompozit plombalar",
+    "C": "qoplamalar",
+    "D": "endogel",
+    "javob": "A"
+  },
+  {
+    "savol": "Flyuorozning quyidagi klinik ko’rinishlarida rem.terapiya olib boriladi:",
+    "A": "Dog’,shtrixsimon, bo’rsimon xol-xol",
+    "B": "Eroziv, destruktiv",
+    "C": "Dog’, bo’rsimon xol-xol",
+    "D": "Dog’, eroziv",
+    "javob": "A"
+  },
+  {
+    "savol": "Shakl anomaliyalari quyidagilar:",
+    "A": "Getchinson, furnye, pflyuger, terner",
+    "B": "Flyuoroz, gipoplaziya, tetrasiklinli tishlar",
+    "C": "Pflyuger, flyuoroz, gipoplaziya,",
+    "D": "Terner,makrodentiya,pflyuger",
+    "javob": "A"
+  },
+  {
+    "savol": "Rang anomaliyalari quyidagilar:",
+    "A": "Flyuoroz, gipoplaziya, tetrasiklinli tishlarTemir preparatlari intoksikatsiyasi",
+    "B": "Getchinson, furnye,pflyuger, terner",
+    "C": "Pflyuger, flyuoroz, gipoplaziya,",
+    "D": "Terner,makrodentiya,pflyuger",
+    "javob": "A"
+  },
+  {
+    "savol": "Son anomaliyalari quyidagilar:",
+    "A": "Gipodentiya, giperdentiya, adentiya,retensiya",
+    "B": "Getchinson, furnye,pflyuger, terner",
+    "C": "Flyuoroz, gipoplaziya, tetrasiklinli tishlarTemir preparatlari intoksikatsiyasi",
+    "D": "Terner,makrodentiya,pflyuger",
+    "javob": "A"
+  },
+  {
+    "savol": "Sistemali gipoplaziya noto’liq rivojlanishi quyidagilarda namoyon bo’ladi:",
+    "A": "Chuqurchali, likopchali, egatchali, aralash",
+    "B": "Dog’,chuqurchali, egatchali, aralash",
+    "C": "Likopchali, eroziv destruktiv, aralash",
+    "D": "Dog’, aralash, eroziv, likopchali",
+    "javob": "A"
+  },
+  {
+    "savol": "Tug’ma osteoskleroz bilan kechuvchi kasallik:",
+    "A": "Marmar",
+    "B": "Terner",
+    "C": "Getchinson",
+    "D": "Pflyuger",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi kasallikda tish ildizlari kalta, kanallar obliterasiyasi, molyar tishlar ildizi bitta ildizli:",
+    "A": "Stenton-Kapdepon",
+    "B": "Marmar",
+    "C": "Terner",
+    "D": "Albers-shenberg",
+    "javob": "A"
+  },
+  {
+    "savol": "Tugallanmagan dentinogenez qanday kasallik:",
+    "A": "Dentinning to’liq shakllanmasligi yoki nuqsonli rivojlanishi",
+    "B": "Emal to’qimasi yetishmovchiligi",
+    "C": "Pulpaning yallig’lanishi",
+    "D": "Emal prizmalarining shikastlanishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Tugallanmagan dentinogenezning asosiy sababi nimada:",
+    "A": "Irsiy faktorlar",
+    "B": "Kalsiy va fosfor yetishmovchiligi",
+    "C": "Bola vaqtida noto’g’ri parvarish",
+    "D": "Chaqaloqlikdagi infeksiyalar",
+    "javob": "A"
+  },
+  {
+    "savol": "Dentinogenezning qaysi tipi osteogenezis bilan bog’liq:",
+    "A": "1",
+    "B": "2",
+    "C": "3",
+    "D": "4",
+    "javob": "A"
+  },
+  {
+    "savol": "Tugallanmagan dentinogenezda dentinning qanday xususiyati o’zgaradi:",
+    "A": "Dentin nozik va yemiriluvchan bo’ladi",
+    "B": "Dentin qotib qoladi",
+    "C": "Dentin haddan tashqari qo’pol bo’lib qoladi",
+    "D": "Dentin hosil bo’lmaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "2 tip dentinogenez qaysi jihatdan 1 tip dentinogenezdan farq qiladi:",
+    "A": "Faqat tishlarga ta’sir qiladi, suyaklarga ta’sir qilmaydi.",
+    "B": "Tishlar normal ranga ega bo’ladi",
+    "C": "Dentin umuman shakllanmaydi",
+    "D": "Osteogenezis bilan bog’liq",
+    "javob": "A"
+  },
+  {
+    "savol": "Tugallanmagan dentinogenezda tishlar rangi qanday bo’ladi:",
+    "A": "Sariq, qo’ng’ir yoki zangori",
+    "B": "oppoq",
+    "C": "Har doim bir xil rangida qoladi",
+    "D": "Jigarrang, sariq",
+    "javob": "A"
+  },
+  {
+    "savol": "Tugallanmagan dentinogenez davolash usuli:",
+    "A": "Protezlash va mustahkamlash",
+    "B": "Tishlarni oqartirish",
+    "C": "Antibiotiklar qabul qilish",
+    "D": "vinir",
+    "javob": "A"
+  },
+  {
+    "savol": "Stenton-Kapdepon sindromi asosiy belgilari:",
+    "A": "Tishlar rangining o’zgarishi",
+    "B": "Tishlar erta tushishi",
+    "C": "Tishlar noto’g’ri joylashuvi",
+    "D": "Tishlar haddan tashqari o’sishsi",
+    "javob": "A"
+  },
+  {
+    "savol": "Stenton- kapdepon sindromi asosiy sababi:",
+    "A": "Irsiy mutatsiyalar",
+    "B": "Kalsiy va fosfor yetishmovchiligi",
+    "C": "Chaqaloqlikdagi infeksiyalar",
+    "D": "Ona turli yuqumli kasalliklarga chalinishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Stenton-kapdepon Sindromi qaysi tishlarga ta’sir qiladi:",
+    "A": "Sut va doimiy tishlar",
+    "B": "Sut tishlar",
+    "C": "Domiy tishlar",
+    "D": "Doimiy premolyarlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Stenton-kapdepon sindromida tish qattiq to’qimasining quyidagisi tez yemiriladi:",
+    "A": "emal",
+    "B": "dentin",
+    "C": "pulpa",
+    "D": "sement",
+    "javob": "A"
+  },
+  {
+    "savol": "Stenton kapdepon sidromi davolash usullari:",
+    "A": "Barchasi to’g’ri",
+    "B": "Rem.terapiya",
+    "C": "protezlash",
+    "D": "Tishlarni to’g’ri parvarishlash",
+    "javob": "A"
+  },
+  {
+    "savol": "Stenton -kapdepon sindromi irsiy o’tish ehtimoli qanday:",
+    "A": "50%",
+    "B": "25%",
+    "C": "75%",
+    "D": "10%",
+    "javob": "A"
+  },
+  {
+    "savol": "EODda sog’lom tishlar qanday tok kuchiga javob beradi?",
+    "A": "2-6 mkA;",
+    "B": "50-60 mkA;",
+    "C": "80-100 mkA;",
+    "D": "120-200 mkA;",
+    "javob": "A"
+  },
+  {
+    "savol": "EODda chuqur kariesda tishlar qanday tok kuchiga javob beradi",
+    "A": "8-12-15mkA;",
+    "B": "2-6 mkA;",
+    "C": "50-60 mkA;",
+    "D": "80-100 mkA;",
+    "javob": "A"
+  },
+  {
+    "savol": "EODda dog’ bosqichidagi kariesda qanday tok kuchiga javob beradi?",
+    "A": "2-6 mkA;",
+    "B": "50-60 mkA;",
+    "C": "80-100 mkA;",
+    "D": "120-200 mkA;",
+    "javob": "A"
+  },
+  {
+    "savol": "EOD 100dan yuqori bo’lsa",
+    "A": "Pulpa to’liq nekrozga uchragan",
+    "B": "Sog’lom tish",
+    "C": "Karies",
+    "D": "O’tkir pulpit",
+    "javob": "A"
+  },
+  {
+    "savol": "Kariyes immun zonalar joylashadi:",
+    "A": "do‘mboq va vestibulyar yuzalarda",
+    "B": "ko‘r teshiklarda",
+    "C": "fissura va do‘mboqlarda",
+    "D": "vestibulyar yuza va fissuralarda",
+    "javob": "A"
+  },
+  {
+    "savol": "O’rta karies qaysi kasallik bilan qiyosiy tashxislanadi?",
+    "A": "Surunkali periodontit",
+    "B": "Dog’ karies",
+    "C": "O’tkir o’choqli pulpit",
+    "D": "Periostit",
+    "javob": "A"
+  },
+  {
+    "savol": "O’rta karies qaysi kasallik bilan qiyosiy tashxislanadi?",
+    "A": "Chuqur karies",
+    "B": "Osteomielit",
+    "C": "Dog’ karies",
+    "D": "Surunkali fibroz pulpit",
+    "javob": "A"
+  },
+  {
+    "savol": "O’rta karies qaysi kasallik bilan qiyosiy tashxislanadi?",
+    "A": "Ponasimon nuqson",
+    "B": "Periostit",
+    "C": "Osteomielit",
+    "D": "Dog’ karies",
+    "javob": "A"
+  },
+  {
+    "savol": "Chuqur karies qaysi kasallik bilan qiyosiy tashxislanadi?",
+    "A": "O’tkir o’choqli pulpit",
+    "B": "Periostit",
+    "C": "Osteomielit",
+    "D": "Dog’ karies",
+    "javob": "A"
+  },
+  {
+    "savol": "Chuqur karies qaysi kasallik bilan qiyosiy tashxislanadi?",
+    "A": "Surunkali fibroz pulpit",
+    "B": "Periostit",
+    "C": "Osteomielit",
+    "D": "Dog’ karies",
+    "javob": "A"
+  },
+  {
+    "savol": "Karies etiologiyasida mahalliy omillar:",
+    "A": "Mikroorganizmlarga boy tish karashi",
+    "B": "Noto’liq ovqatlanish va sifatsiz ichimlik suvi",
+    "C": "Organizmga ekstremal ta’sir",
+    "D": "Barchasi to’g’ri",
+    "javob": "A"
+  },
+  {
+    "savol": "Karies etiologiyasida umumiy omillar:",
+    "A": "Sifatsiz ichimlik suvi",
+    "B": "Og’iz bo’shlig’idagi yopishqoq uglivod qoldiqlari",
+    "C": "Tish qattiq to’qimalarini rezistentligi",
+    "D": "Tish qattiq to’qimalarining noto’liq strukturasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Karies etiologiyasida mahalliy omillar:",
+    "A": "Og’iz suyuqligini tarkibi va miqdorini o’zgarishi",
+    "B": "Organizmga ekstremal ta’sir",
+    "C": "Noto’liq ovqatlanish va sifatsiz ichimlik suvi",
+    "D": "Barchasi to’g’ri",
+    "javob": "A"
+  },
+  {
+    "savol": "Tishlar qattiqligi nimaga bog‘liq.",
+    "A": "emal tarkibidagikristall va prizmalarga",
+    "B": "dentin tarkibidagikristallar va prizmalarga",
+    "C": "ovqatlanishga",
+    "D": "Immunitetga",
+    "javob": "A"
+  },
+  {
+    "savol": "Chuqur kariesning lotinchasi nima?",
+    "A": "Caries profunda",
+    "B": "Caries macula",
+    "C": "Caries superficialis",
+    "D": "Caries media",
+    "javob": "A"
+  },
+  {
+    "savol": "O’rta kariesning lotinchasi nima?",
+    "A": "Caries media",
+    "B": "Caries profunda",
+    "C": "Caries macula",
+    "D": "Caries superficialis",
+    "javob": "A"
+  },
+  {
+    "savol": "Chuqur kariesda tishning qaysi qismi zararlanadi?",
+    "A": "Emal va dentin",
+    "B": "Pulpa",
+    "C": "Sement",
+    "D": "Faqat emal",
+    "javob": "A"
+  },
+  {
+    "savol": "Tishning emal to’qimasi qayerda joylashgan",
+    "A": "Tishning toj qismida",
+    "B": "Barchasi to’g’ri",
+    "C": "Tishning toj va ildiz qismida",
+    "D": "Suyak usti pardasida",
+    "javob": "A"
+  },
+  {
+    "savol": "Tishning dentin to’qimasi qayerda joylashgan ?",
+    "A": "Tishning toj va ildiz qismida",
+    "B": "Tishning faqat ildiz qismida",
+    "C": "Tishning faqat toj qismida",
+    "D": "Barchasi to’g’ri",
+    "javob": "A"
+  },
+  {
+    "savol": "Tishning sement to’qimasi qayerda joylashgan?",
+    "A": "Tishning ildiz qismida",
+    "B": "Barchasi to’g’ri",
+    "C": "Tishning toj va ildiz qismida",
+    "D": "Suyak usti pardasida",
+    "javob": "A"
+  },
+  {
+    "savol": "Odontotrop davolovchi taglikka xos xususiyat",
+    "A": "Pulpa ustidagi dentin qavatini mineralizatsiyasini kuchaytirishi",
+    "B": "Odontotrop va biologik ta’sir etuvchi",
+    "C": "Tish pulpasi va organizmga indifferentligi",
+    "D": "Doimiy plomba fiksatsiyasini oshirishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Аjrаtuvchi tаgliklаrga tаlаblаr:",
+    "A": "Dentinga remineralizatsiyalovchi ta’sir etishi",
+    "B": "Ikkilamchi dentin hosil bo’lishini tezlashtirishi",
+    "C": "Odontotrop va biologik ta’sir etuvchi",
+    "D": "Tish pulpasi va organizmga indifferentligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Аjrаtuvchi tаgliklаrga tаlаblаr:",
+    "A": "Chaynov bosimiga chidamli bo’lishi kerak",
+    "B": "Tish pulpasi va organizmga indifferentligi",
+    "C": "Ikkilamchi dentin hosil bo’lishini tezlashtiruvchi",
+    "D": "Qotmaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Asosli ajrаtuvchi tаgliklаrga xos xususiyat:",
+    "A": "Kavakni optimal geometriyasini, tayanch nuqtalarini saqlagan xolda xosil qilish",
+    "B": "Ikkilamchi dentin hosil bo’lishini tezlashtiruvchi",
+    "C": "Odontotrop va biologik ta’sir etuvchi",
+    "D": "Mexanik mustaxkam emas",
+    "javob": "A"
+  },
+  {
+    "savol": "Asosli ajrаtuvchi tаgliklаrga xos xususiyat:",
+    "A": "Pulpani termik , kimyoviy ta’surotlardan ximoyalash",
+    "B": "Mexanik mustaxkam emas",
+    "C": "Ikkilamchi dentin hosil bo’lishini tezlashtiruvchi",
+    "D": "Odontotrop va biologik ta’sir etuvchi",
+    "javob": "A"
+  },
+  {
+    "savol": "Kariyesni jarrohlik davolash nima?",
+    "A": "Charxlash, plombalash",
+    "B": "Remineralizatsion terapiya",
+    "C": "Icon terapiyasi",
+    "D": "Konservativ davolash",
+    "javob": "A"
+  },
+  {
+    "savol": "Kariyesni noinvaziv davolash nima?",
+    "A": "Icon terapiyasi",
+    "B": "Charxlash",
+    "C": "Plombalash",
+    "D": "Barchasi to’g’ri",
+    "javob": "A"
+  },
+  {
+    "savol": "Kariyesni noinvaziv davolash nima?",
+    "A": "Remineralizatsion terapiya",
+    "B": "Charxlash",
+    "C": "Plombalash",
+    "D": "Barchasi to’g’ri",
+    "javob": "A"
+  },
+  {
+    "savol": "Mahalliy og’riqsizlantirish bo’linadi:",
+    "A": "in’eksion va noin’eksion",
+    "B": "invaziv bo'lmagan va invaziv usullar",
+    "C": "fizik, ximik va boshqa usullar",
+    "D": "infiltratsion, o’tkazuvchi",
+    "javob": "A"
+  },
+  {
+    "savol": "Noin’eksion og’riqsizlantirish turlari:",
+    "A": "fizik, ximik va boshqalar",
+    "B": "infiltratsion, o’tkazuvchi",
+    "C": "in’eksion va noin’eksion",
+    "D": "invaziv bo'lmagan va invaziv",
+    "javob": "A"
+  },
+  {
+    "savol": "In’eksion og’riqsizlantirish turlari:",
+    "A": "infiltratsion, o’tkazuvchi",
+    "B": "in’eksion va noin’eksion",
+    "C": "invaziv bo'lmagan va invaziv",
+    "D": "fizik, ximik va boshqa",
+    "javob": "A"
+  },
+  {
+    "savol": "Infiltratsion og’riqsizlantirish turlari:",
+    "A": "Intrapulpar",
+    "B": "Mental",
+    "C": "Mandibulyar",
+    "D": "Torusal",
+    "javob": "A"
+  },
+  {
+    "savol": "Kimyoviy og’riqsizlantirish turi:",
+    "A": "Applikasiya",
+    "B": "Muzlatish",
+    "C": "Anistetikni elektrofarez yordamida shimdirish",
+    "D": "Barchasi to’g’ri",
+    "javob": "A"
+  },
+  {
+    "savol": "Fizik og’riqsizlantirish turi:",
+    "A": "Muzlatish",
+    "B": "Aplikasiya",
+    "C": "Anistetikni elektrofarez yordamida shimdirish",
+    "D": "Barchasi to’g’ri",
+    "javob": "A"
+  },
+  {
+    "savol": "Ozon terapiyasidan foydalanishga qarshi ko'rsatmalar",
+    "A": "Yurak-qon tomir tizimining yetishmovchiligi",
+    "B": "Yosh bolalarga",
+    "C": "Nogironlarga",
+    "D": "Oshqozon ichak kasalliklarida",
+    "javob": "A"
+  },
+  {
+    "savol": "Ozon terapiyasidan foydalanishga qarshi ko'rsatmalar",
+    "A": "Gipertonik kasallik",
+    "B": "Yosh bolalarga",
+    "C": "Nogironlarga",
+    "D": "Oshqozon ichak kasalliklarida",
+    "javob": "A"
+  },
+  {
+    "savol": "Ozon terapiyasidan foydalanishga qarshi ko'rsatmalar",
+    "A": "Homiladorlar",
+    "B": "Yosh bolalarga",
+    "C": "Nogironlarga",
+    "D": "Oshqozon ichak kasalliklarida",
+    "javob": "A"
+  },
+  {
+    "savol": "Nekroektomiya bu-",
+    "A": "Nekrotik to’qimani olib tashlash",
+    "B": "Nekrotik to’qima",
+    "C": "Yumshagan dentinni qoldirish",
+    "D": "Pigmentlashgan dentin",
+    "javob": "A"
+  },
+  {
+    "savol": "Davolovchi taglik qo’yishdan maqsad",
+    "A": "Pulpa yallig’lanishini oldini olish",
+    "B": "Pulpani yallig’lanishi",
+    "C": "Plomba adgeziyasi",
+    "D": "Pulpani jonsizlantirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Davolovchi taglik qo’yishdan maqsad",
+    "A": "Uchlamchi o’rinbosar dentin hosil qilish",
+    "B": "Doimiy plomba qo’yish",
+    "C": "Pulpani yallig’lanishi",
+    "D": "Plomba adgeziyasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Davolovchi taglik qaerga qo’yiladi",
+    "A": "Kovak tubiga",
+    "B": "Kovak devoriga",
+    "C": "Emal qirrasiga",
+    "D": "Barchasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Davolovchi taglik qachon qo’yiladi",
+    "A": "Chuqur kariesda",
+    "B": "Pulpitda",
+    "C": "Yuza kariesda",
+    "D": "Periodontitda",
+    "javob": "A"
+  },
+  {
+    "savol": "Davolovchi taglikka nima kiradi?",
+    "A": "Dycal",
+    "B": "Fuji",
+    "C": "Semion",
+    "D": "Unisem",
+    "javob": "A"
+  },
+  {
+    "savol": "Davolovchi taglikka nima kiradi?",
+    "A": "Life",
+    "B": "Fuji",
+    "C": "Unisem",
+    "D": "Semion",
+    "javob": "A"
+  },
+  {
+    "savol": "Ajratuvchi taglikka nima kiradi?",
+    "A": "Fuji",
+    "B": "Life",
+    "C": "Dycal",
+    "D": "Charisma",
+    "javob": "A"
+  },
+  {
+    "savol": "Ajratuvchi taglikka nima kiradi?",
+    "A": "semion",
+    "B": "life",
+    "C": "dycal",
+    "D": "charisma",
+    "javob": "A"
+  },
+  {
+    "savol": "Ajratuvchi taglikka nima kiradi?",
+    "A": "unifas",
+    "B": "dycal",
+    "C": "life",
+    "D": "charisma",
+    "javob": "A"
+  },
+  {
+    "savol": "Ajratuvchi taglikka nima kiradi?",
+    "A": "unisem",
+    "B": "life",
+    "C": "dycal",
+    "D": "charisma",
+    "javob": "A"
+  },
+  {
+    "savol": "Tarkibida kalsiy gidrooksid saqlovchi preparatlar?",
+    "A": "Davolovchi tagliklar",
+    "B": "Ajratuvchi tagliklar",
+    "C": "Kimyoviy qotuvchi",
+    "D": "Nur yordamida qotuvchi",
+    "javob": "A"
+  },
+  {
+    "savol": "Plombaning pulpaga toksik tasir qilmasligini taminlab beruvchi preparat?",
+    "A": "Ajratuvchi taglik",
+    "B": "Davolovchi taglik",
+    "C": "Kimyoviy qotuvchi",
+    "D": "Oquvchi plombalar",
+    "javob": "A"
+  },
+  {
+    "savol": "Dorili ishlov berishda nimalardan foydalaniladi",
+    "A": "Kuchli bo’lmagan antiseptiklar",
+    "B": "Kuchli antiseptiklar",
+    "C": "Pulpaga zararli tasir etadigan",
+    "D": "Dorilar bilan",
+    "javob": "A"
+  },
+  {
+    "savol": "Minimal invaziv charxlash usuli avzalliklari",
+    "A": "Tish strukturasiga minimal tasir etish",
+    "B": "Davolashga ko’p vaqt ketishi",
+    "C": "Tish strukturasiga maksimal tasir etish",
+    "D": "Kuchli og’riq bo’lishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Minimal invaziv charxlash usuli avzalliklari",
+    "A": "Davolashga kam vaqt ketishi",
+    "B": "Tish strukturasiga maksimal tasir etish",
+    "C": "Blek koncepciyasiga qarama qarshiligi",
+    "D": "Kuchli og’riq bo’lishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Minimal invaziv charxlash usuli avzalliklari",
+    "A": "Og’riqni kam yoki umuman bo’lmasligi",
+    "B": "Kuchli og’riq bo’lishi",
+    "C": "Tish strukturasiga maksimal tasir etish",
+    "D": "Davolashga ko’p vaqt ketishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Minimal invaziv charxlash usuli avzalliklari",
+    "A": "Profilaktik samarani vujudga kelishi",
+    "B": "Blek koncepciyasiga qarama qarshiligi",
+    "C": "Kuchli og’riq bo’lishi",
+    "D": "Tish strukturasiga maksimal tasir etish",
+    "javob": "A"
+  },
+  {
+    "savol": "Minimal invaziv charxlash usuli kamchiligi",
+    "A": "Blek koncepciyasiga qarama qarshiligi",
+    "B": "Profilaktik samarani vujudga kelishi",
+    "C": "Og’riqni kam yoki umuman bo’lmasligi",
+    "D": "Tish strukturasiga minimal tasir etish",
+    "javob": "A"
+  },
+  {
+    "savol": "Minimal invaziv charxlash usuliga kiradi",
+    "A": "ART usuli",
+    "B": "Tunnel usuli",
+    "C": "Blek usuli",
+    "D": "Barchasi to’g’ri",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi dentin tishning rivojlanish davrida hosil bo`ladi?",
+    "A": "birlamchi",
+    "B": "ikkilamchi",
+    "C": "uchlamchi",
+    "D": "To`g`ri javob yoq",
+    "javob": "A"
+  },
+  {
+    "savol": "Necha xil sement mavjud:",
+    "A": "2",
+    "B": "3",
+    "C": "1",
+    "D": "Hammasi to`g`ri",
+    "javob": "A"
+  },
+  {
+    "savol": "Hujayrasiz sement qayerda joylashadi?",
+    "A": "Dentin yuzasida",
+    "B": "Ildiz uchida",
+    "C": "Bifurkatsiya soxasida",
+    "D": "Hammasi to`g`ri",
+    "javob": "A"
+  },
+  {
+    "savol": "Necha xil dentin uchraydi?",
+    "A": "3",
+    "B": "2",
+    "C": "1",
+    "D": "uchramaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Tish milkni yorib chiqqandan so`ng paydo bo`ladigan dentin:",
+    "A": "ikkilamchi",
+    "B": "uchlamchi",
+    "C": "birlamchi",
+    "D": "Hammasi to`g`ri",
+    "javob": "A"
+  },
+  {
+    "savol": "Insonning hayoti davomida pulpaning fiziologik faoliyati natijasida paydo bo`ladigan dentin:",
+    "A": "ikkilamchi",
+    "B": "uchlamchi",
+    "C": "birlamchi",
+    "D": "Hammasi to`g`ri",
+    "javob": "A"
+  },
+  {
+    "savol": "Ta`sirotga javoban himoya to`siq sifatida vujudga keladigan dentin:",
+    "A": "uchlamchi",
+    "B": "ikkilamchi",
+    "C": "birlamchi",
+    "D": "Hammasi to`g`ri",
+    "javob": "A"
+  },
+  {
+    "savol": "Eroziyaga javoban himoya to`siq sifatida vujudga keladigan dentin:",
+    "A": "uchlamchi",
+    "B": "ikkilamchi",
+    "C": "birlamchi",
+    "D": "Hammasi to`g`ri",
+    "javob": "A"
+  },
+  {
+    "savol": "Patologik yemirilishga javoban himoya to`siq sifatida vujudga keladigan dentin:",
+    "A": "uchlamchi",
+    "B": "ikkilamchi",
+    "C": "birlamchi",
+    "D": "Hammasi to`g`ri",
+    "javob": "A"
+  },
+  {
+    "savol": "Kariesga javoban himoya to`siq sifatida vujudga keladigan dentin:",
+    "A": "uchlamchi",
+    "B": "ikkilamchi",
+    "C": "birlamchi",
+    "D": "Hammasi to`g`ri",
+    "javob": "A"
+  },
+  {
+    "savol": "Uchlamchi dentin nomi?",
+    "A": "irregulyar",
+    "B": "introregulyar",
+    "C": "ekstremal",
+    "D": "Hammasi to`g`ri",
+    "javob": "A"
+  },
+  {
+    "savol": "Emal eroziyasi rivojlanishining asosiy etiologik omili nima?",
+    "A": "Kislotalarning kimyoviy ta’siri nobakterial kelib chiqishga ega",
+    "B": "Karies keltirib chiqaruvchi mikroorganizmlar faoliyati",
+    "C": "Ameloblastlarning genetik yetishmovchiligi",
+    "D": "Patologik prikus",
+    "javob": "A"
+  },
+  {
+    "savol": "Tish yuzasida eroziyaning odatdagi lokalizatsiyasi (joylashuvi) qayerda?",
+    "A": "Tishlar vestibulyar yuzasi ekvatorida",
+    "B": "Molyarlarning chaynov yuzasi",
+    "C": "Kesuv tishlarning kontakt yuzalari",
+    "D": "Pastki premolyarlarning oral yuzasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Emal eroziyasidan ko‘pincha qaysi tishlar zararlanadi?",
+    "A": "Simmetrik tishlar markaziy va yon kesuvchi tishlar, qoziq tishlar",
+    "B": "Aql tishlari",
+    "C": "Pastki kesuvchi tishlar",
+    "D": "Zararlanish doim bitta tishda bo‘ladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Eroziyaning qaysi shakli harorat va kimyoviy qo‘zg‘atuvchilarga og‘riq bilan xarakterlanadi?",
+    "A": "Aktiv faol shakli",
+    "B": "Stabillangan shakli",
+    "C": "Boshlang‘ich shakli",
+    "D": "Latent shakli",
+    "javob": "A"
+  },
+  {
+    "savol": "Endokrin tizimning qaysi kasalligi ko‘pincha eroziya paydo bo‘lishi bilan birga kechadi?",
+    "A": "Gipertireoz qalqonsimon bez kasalligi",
+    "B": "1-tur qandli diabet",
+    "C": "Akromegaliya",
+    "D": "Gipoterioz",
+    "javob": "A"
+  },
+  {
+    "savol": "Eroziyaning stabillangan shakli uchun nima xarakterli?",
+    "A": "Emal yaltiroqligining saqlanib qolishi va sezuvchanlikning yo‘qligi",
+    "B": "To‘qimalarning tez yedirilishi",
+    "C": "Zararlangan soha yuzasining xiraligi",
+    "D": "Dentinning yumshashi",
+    "javob": "A"
+  },
+  {
+    "savol": "Eroziyada remineralizatsiya terapiyasi uchun quyidagi moddalarning qaysi biri tavsiya etiladi?",
+    "A": "Kalsiy va fosfat preparatlari 10% kalsiy glyukonat",
+    "B": "Xlorgeksidin eritmasi",
+    "C": "Vodorod peroksid eritmasi",
+    "D": "Iodning spirtli eritmasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Jarayonning qaysi bosqichida defektni kompozit materiallar bilan plombalash ko‘rsatiladi?",
+    "A": "Chuqur zararlanish bosqichida, remineralizatsiya kursidan so‘ng",
+    "B": "Faqat aktiv shaklida, chuqurligidan qat’i nazar",
+    "C": "Eroziyada plombalash mumkin emas",
+    "D": "Boshlang‘ich bosqichda (dog‘ bosqichida)",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi alomat eroziyaning oshqozon-qizilo‘ngach reflyuksi tufayli yuzaga kelganligini ko‘rsatishi mumkin?",
+    "A": "Eroziyalarning yuqori tishlarning tanglay yuzasida joylashishi",
+    "B": "Faqat pastki kesuvchi tishlarning zararlanishi",
+    "C": "Eroziyalarning qora rangga bo‘yalishi",
+    "D": "Tishlarning kuchli qimirlab qolishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Eroziyaning aktiv fazasida to‘g‘ri davolash taktikasi qanday?",
+    "A": "Etiologik omilni bartaraf etish va mahalliy remineralizatsiya terapiyasi",
+    "B": "Tezkor charxlash va qoplamalar qo‘yish",
+    "C": "Tishlarni oqartirish",
+    "D": "Defekt tubini tozalash uchun qattiq tish cho‘tkasidan foydalanish",
+    "javob": "A"
+  },
+  {
+    "savol": "Ponasimon nuqson paydo bo‘lishining \"mexanik\" nazariyasida asosiy omil nima?",
+    "A": "Tish tozalashning noto‘g‘ri texnikasi qattiq cho‘tka bilan gorizontal harakatlar.",
+    "B": "Emal mo'rtligiga genetik moyillik.",
+    "C": "Nordon mahsulotlarni iste’mol qilish.",
+    "D": "Tish toshlarining mavjudligi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Ponasimon nuqsonning devorlari odatda qanday ko‘rinishda bo‘ladi?",
+    "A": "Zich, silliq, ko‘pincha yaltiroq.",
+    "B": "Yumshagan, pigmentlashgan.",
+    "C": "Bo‘rsimon, g‘adir-budur.",
+    "D": "Qalin karash qatlami bilan qoplangan.",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi tishlarda ponasimon nuqson ko‘proq uchraydi?",
+    "A": "Qoziq tishlar va premollyarlarda.",
+    "B": "Barcha guruh tishlarida",
+    "C": "Ikkinchi va uchinchi mollyarlarda.",
+    "D": "Faqat sut tishlarida.",
+    "javob": "A"
+  },
+  {
+    "savol": "Ponasimon nuqsonda harorat ta’siridan og‘riqlar bo‘lishi xosmi?",
+    "A": "Ha, giperesteziya sezuvchanlik bo‘lishi mumkin, lekin ko‘pincha simptomlarsiz kechadi.",
+    "B": "Yo‘q, shikoyatlar har doim mavjud bo‘lmaydi.",
+    "C": "Ha, tungi o‘z-o‘zidan paydo bo‘ladigan og‘riqlar xos.",
+    "D": "Og‘riqlar faqat shirin ovqat iste’mol qilganda paydo bo‘ladi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Ponasimon nuqson tish bo‘yni kariesidan nimasi bilan farq qiladi?",
+    "A": "Ponasimon nuqsonda tubi zich va silliq, kariesda esa yumshagan dentin bo‘ladi.",
+    "B": "Kariesda to‘qimalar zich, nuqsonda esa yumshoq.",
+    "C": "Kariesda nuqson ponasimon shaklda, nuqsonda esa dumaloq bo‘ladi.",
+    "D": "farq qilmaydi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Ponasimon nuqson sekin-asta chuqurlashganda tish pulpasi bilan nima sodir bo‘ladi?",
+    "A": "O‘rinbosar dentin to‘planadi, tish bo‘shlig‘i kichrayadi",
+    "B": "Har doim o‘tkir pulpit rivojlanadi.",
+    "C": "Pulpa nekrozga uchraydi.",
+    "D": "Hech qanday o`zgarish sodir bo`lmaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ponasimon nuqsonga chalingan bemorlarga qanday cho‘tka va tish pastasi tavsiya etiladi?",
+    "A": "Yumshoq yoki o‘rtacha cho‘tka va past abrazivli pasta.",
+    "B": "Qattiq cho‘tka va yuqori abrazivli oqartiruvchi pasta.",
+    "C": "Tish tozalash mumkin emas.",
+    "D": "Tish cho`tkasi va pastaning ahamiyati yo`q",
+    "javob": "A"
+  },
+  {
+    "savol": "Chuqur ponasimon nuqsonlarni plombalashda asosiy qiyinchilik nimadan iborat?",
+    "A": "Tishning bo‘yin qismidagi egilish yuklamalari tufayli plombaning tushib ketish xavfi yuqoriligi.",
+    "B": "Dentinga adgeziyaning yo‘qligi.",
+    "C": "Plomba rangini tanlashning imkonsizligi.",
+    "D": "Plombalashdan oldin tish nervini majburiy olib tashlash.",
+    "javob": "A"
+  },
+  {
+    "savol": "Ponasimon nuqsonning boshlang‘ich shakllarida qanday davolash ko‘rsatiladi?",
+    "A": "Remineralizatsiya qiluvchi terapiya va desensitayzerlardan foydalanish",
+    "B": "Darhol preparatsiya qilish va plombalash.",
+    "C": "Tishni olib tashlash.",
+    "D": "Plombalashdan oldin tish nervini majburiy olib tashlash.",
+    "javob": "A"
+  },
+  {
+    "savol": "Kislotali nekroz kuchaygan sari emalning tashqi ko‘rinishi qanday o‘zgaradi?",
+    "A": "Emal xiralashadi, yaltiroqligini yo‘qotadi va tezda yemiriladi.",
+    "B": "Chuqur pigmentlashgan fissuralar paydo bo‘ladi.",
+    "C": "Simmetrik bo‘rsimon dog‘lar hosil bo‘ladi.",
+    "D": "Emal gipertrofiyalanadi (qalinlashadi) va zichlashadi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Kimyoviy ishlab chiqarishda ishlovchilar uchun qaysi profilaktika chorasi eng samarali hisoblanadi?",
+    "A": "Ish smenasidan keyin og‘izni ishqorli eritmalar bilan chayqash.",
+    "B": "Kuniga uch marta qattiq cho‘tka bilan tish tozalash.",
+    "C": "Oqartiruvchi pastalardan foydalanish.",
+    "D": "Ovqatda oqsillar iste’molini ko`paytirish.",
+    "javob": "A"
+  },
+  {
+    "savol": "Kislotali nekrozda birinchi navbatda qaysi tishlar ko‘proq shikastlanadi?",
+    "A": "Old tishlar kurak va qoziq tishlar.",
+    "B": "Ikkinchi va uchinchi molyarlar.",
+    "C": "Pastki jag‘ premolyarlari",
+    "D": "Barcha tishlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Kislotali nekroz rivojlanishining asosiy etiologik omili nima?",
+    "A": "Ishlab chiqarish sharoitida kislota bug‘larining uzoq muddatli ta’siri.",
+    "B": "Endokrin tizim kasalliklarida",
+    "C": "Og‘iz bo‘shlig‘i gigiyenasining yetarli emasligi.",
+    "D": "Tishlarning mexanik travmasi.",
+    "javob": "A"
+  }
+]
