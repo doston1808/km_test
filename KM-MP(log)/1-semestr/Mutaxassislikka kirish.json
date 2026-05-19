@@ -1,0 +1,1322 @@
+[
+  {
+    "savol": "“Logopediya” atamasi qaysi tillardan kelib chiqqan?",
+    "A": "Grekcha",
+    "B": "Lotincha",
+    "C": "Arabcha",
+    "D": "Ruscha",
+    "javob": "A"
+  },
+  {
+    "savol": "Logopediya qanday fanlar qatoriga kiradi?",
+    "A": "Maxsus pedagogika",
+    "B": "Aniq fanlar",
+    "C": "Texnik fanlar",
+    "D": "Adabiyot fani",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq buzilishi qanday holatda yuzaga keladi?",
+    "A": "Adabiy til normasidan chetga chiqilganda",
+    "B": "Ko`p kitob o`qiganda",
+    "C": "O`yin o`ynaganda",
+    "D": "Sport bilan shug`ullanganda",
+    "javob": "A"
+  },
+  {
+    "savol": "Zamonaviy logopediya nechta asosiy bo`limga bo`linadi?",
+    "A": "To`rtta: maktabgacha, maktab, o`smirlar va kattalar logopediyasi",
+    "B": "Ikkita: maktab va maktabgacha",
+    "C": "Uchtaga: bola, o`qituvchi, ota-ona",
+    "D": "Beshta: nutq, eshitish, ko`rish, yurish, xotira",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq buzilishlarining sabablarini o`rganish qaysi yondashuvga kiradi?",
+    "A": "Biologik yondashuv",
+    "B": "Ijtimoiy yondashuv",
+    "C": "Psixologik yondashuv",
+    "D": "O`qituvchilik yondashuvi",
+    "javob": "A"
+  },
+  {
+    "savol": "I.P. Pavlovning ta`limoti logopediya uchun nima sababdan muhim?",
+    "A": "Nutq va signal tizimlarining o`zaro bog`liqligini tushuntiradi",
+    "B": "Bolalar pedagogikasini tavsiflaydi",
+    "C": "Emotsional rivojlanishni o`rganadi",
+    "D": "Nevrologiyani o`rganadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Broka va Vernike markazlari qaysi faoliyat bilan bog`liq?",
+    "A": "Nutq markazlari",
+    "B": "Ko`rish markazlari",
+    "C": "Eshitish markazlari",
+    "D": "Harakat markazlari",
+    "javob": "A"
+  },
+  {
+    "savol": "Biologik yondashuv asosida logopediya nimalarni o`rganadi?",
+    "A": "Anatomiya va fiziologik o`zgarishlar bilan bog`liq nutq buzilishlari",
+    "B": "Tilshunoslik nazariyasi",
+    "C": "Pedagogik o`quv rejasi",
+    "D": "Ijtimoiy aloqa turlari",
+    "javob": "A"
+  },
+  {
+    "savol": "Logopediya amaliy tomoni nimani o`z ichiga oladi?",
+    "A": "Nutq buzilishini aniqlash va bartaraf etish",
+    "B": "Raqamlarni yodlash",
+    "C": "Ranglarni tanlash",
+    "D": "Qo`shiqlar kuylash",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq vazifasi nima?",
+    "A": "Insonning muhim ruhiy vazifasi",
+    "B": "Jismoniy harakatlar",
+    "C": "Aqliy kamchiliklarni oldini oldini olish",
+    "D": "Ko`rishda nuqsoni bo`lgan bolalar ko`ruv idrokini rivojlantirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq buzilishi bolaning rivojlanishiga qanday ta`sir ko`rsatadi?",
+    "A": "Ruhiy va ijtimoiy rivojlanishga salbiy ta`sir qiladi",
+    "B": "Jismoniy rivojlanishga ta`sir qiladi",
+    "C": "Musiqa qobiliyatini oshiradi",
+    "D": "Sportda muvaffaqiyat keltiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Logopediya fanining boshqa fanlar bilan aloqasi nimadan iborat?",
+    "A": "Nutq buzilishlarini tuzatishda ko`p fanlarning bilimlaridan foydalanish",
+    "B": "Ruhiy va ijtimoiy rivojlanishga salbiy ta`sir qiladi",
+    "C": "Jismoniy rivojlanishga ta`sir qiladi",
+    "D": "Tarix va geografiya fanlari bilan bog`liq",
+    "javob": "A"
+  },
+  {
+    "savol": "Logopediya qaysi fanlar bilan chambarchas bog`liq?",
+    "A": "Tibbiyot, psixologiya, tilshunoslik",
+    "B": "Fizika va kimyo",
+    "C": "Astronomiya va geologiya",
+    "D": "San`at va musiqashunoslik",
+    "javob": "A"
+  },
+  {
+    "savol": "A. R. Luriya qanday tizimlarni ajratadi?",
+    "A": "Miya faoliyatining uchta funksional bloki",
+    "B": "Atrof-muhit elementlari",
+    "C": "Bosh miya a`zolarining birgalikda ishlashishini",
+    "D": "Nutq buzilishlarini tuzatishda ko`p fanlarning bilimlaridan foydalanish",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq faoliyati nimaga asoslanadi?",
+    "A": "Bosh miya a`zolarining birgalikda ishlashiga",
+    "B": "Yurak faoliyatiga",
+    "C": "Mushak harakatlariga",
+    "D": "Qon aylanishiga",
+    "javob": "A"
+  },
+  {
+    "savol": "Logopedik faoliyatda nimaga asoslaniladi?",
+    "A": "Pedagogik yondashuv va metodikalarga",
+    "B": "Texnika bilimlariga",
+    "C": "Musiqa bilimlariga",
+    "D": "Umumiy tibbiy bilim faoliyati",
+    "javob": "A"
+  },
+  {
+    "savol": "Zamonaviy logopediya qanday texnologiyalardan foydalanadi?",
+    "A": "Kompyuter dasturlari, audio va video vosital",
+    "B": "Qog`oz va ruchkadan",
+    "C": "Radio",
+    "D": "Televizordan",
+    "javob": "A"
+  },
+  {
+    "savol": "Logopediyaning asosiy maqsadi nima?",
+    "A": "Nutq buzilishlarini aniqlash, oldini olish va samarali tuzatish",
+    "B": "Nutq mashqlarini o`tkazish",
+    "C": "Raqamlarni yodlash",
+    "D": "Qo`shiqlar kuylash",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq buzilishlarini aniqlash, oldini olish va samarali tuzatish logopediya fanining asosiy nimasiga kiradi?",
+    "A": "Logopediyaning asosiy maqsadi",
+    "B": "Logopediyaning asosiy vazifalari",
+    "C": "Logopediyaning asosiy tamoyillariga",
+    "D": "Logopediyaning asosiy metodlariga",
+    "javob": "A"
+  },
+  {
+    "savol": "Logopediya fani nutq va fikr o`zaro bog`liqligini qanday yondashuv asosida o`rganadi?",
+    "A": "Ilmiy-nazariy tamoyillar asosida",
+    "B": "Amaliy harakatlar orqali",
+    "C": "Mustaqil o`rganish orqali",
+    "D": "Estetik baholash asosida",
+    "javob": "A"
+  },
+  {
+    "savol": "Sistemalilik tamoyili qanday tushunchaga asoslanadi?",
+    "A": "Til murakkab funksional sistema sifatida qaraladi",
+    "B": "Harflarni takrorlashga asoslanadi",
+    "C": "Nutq apparatini mashq qilishga asoslanadi",
+    "D": "O`yin asosidagi yondashuvga asoslanadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Komplekslilik tamoyilining logopediyadagi ahamiyati nimada?",
+    "A": "Nutq buzilishlarini barcha tomonlari bilan o`rganish",
+    "B": "Bolaga individual topshiriq berish",
+    "C": "Yozuv orqali tekshiruv",
+    "D": "So`z boyligini oshirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Ontogenetik tamoyil qanday yondashuvni bildiradi?",
+    "A": "Bolaning tabiiy rivojlanish bosqichlariga asoslanish",
+    "B": "Tovushlar tizimini mexanik takrorlash",
+    "C": "Grammatik tahlilni ustuvor qilish",
+    "D": "Yoshdan qat`i nazar umumiy mashqlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Etiopatogenetik tamoyil asosida nima yotadi?",
+    "A": "Buzilish sabablari va mexanizmlarini aniqlash",
+    "B": "Tashqi ko`rinishga asoslanish",
+    "C": "Test natijalari bilan baholash",
+    "D": "Yozma nutqga asoslash",
+    "javob": "A"
+  },
+  {
+    "savol": "Logopediya fanining ilmiy metodlari guruhiga quyidagilardan qaysi biri kiradi?",
+    "A": "Eksperimental va observatsion metodlar",
+    "B": "Didaktik o`yinlar",
+    "C": "Og`zaki suhbatlar",
+    "D": "Qo`shiq aytish orqali tahlil",
+    "javob": "A"
+  },
+  {
+    "savol": "Logopedik ishda rivojlanish tamoyili nimani inobatga oladi?",
+    "A": "Bolaning yaqin rivojlanish zonasi va qiyinchilik bosqichlarini",
+    "B": "Faol so`zlashga undashni",
+    "C": "Ota-onalar fikrini asos qilishni",
+    "D": "Tarbiyachilar fikrini asos qilishni",
+    "javob": "A"
+  },
+  {
+    "savol": "Faoliyatli yondashuvda bolaning qaysi jihati muhim ahamiyatga ega?",
+    "A": "Yetakchi faoliyat turlarini hisobga olish",
+    "B": "So`z boyligini kengaytirish",
+    "C": "Harflarni to`g`ri talaffuz qilish",
+    "D": "Nutq tezligini oshirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Pedagogik deontologiyaning logopediya jarayonidagi asosiy maqsadi nima?",
+    "A": "Etik, axloqiy va kasbiy me`yorlarga rioya qilish",
+    "B": "So`zlarni yod olishga undash",
+    "C": "Qayta o`qitish orqali o`rgatish",
+    "D": "Mustaqil topshiriqlar berish",
+    "javob": "A"
+  },
+  {
+    "savol": "Logopediya fanining kategorial apparati nima uchun zarur?",
+    "A": "Ilmiy asosda tashxis qo`yish va individual yondashuvni tanlash uchun",
+    "B": "Tarbiyachilarni baholash uchun",
+    "C": "O`quvchilarning xulq-atvorini o`rganish uchun",
+    "D": "Dars sifati nazorati uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "Logopediya qanday fanlarga tayangan holda ishlaydi?",
+    "A": "Psixologiya va pedagogikaga",
+    "B": "Fizika va matematika",
+    "C": "Kimyo va biologiya",
+    "D": "Tarix va geografiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Fonematik eshitishni rivojlantirish uchun qanday mashq kerak?",
+    "A": "Tovushlarni farqlash mashqlari",
+    "B": "Jismoniy mashqlar",
+    "C": "O`yin o`ynash",
+    "D": "Musiqa tinglash",
+    "javob": "A"
+  },
+  {
+    "savol": "Dislaliya nima?",
+    "A": "Tovush talaffuzining buzilishi",
+    "B": "Eshitishning yo`qolishi",
+    "C": "Ko`rishning buzilishi",
+    "D": "Hissiy muvozanat buzilishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Logopediya darslarining davomiyligi qanday bo`ladi?",
+    "A": "Bolaning yoshiga qarab belgilanadi",
+    "B": "Har doim bir xil",
+    "C": "5 soatgacha davom etadi",
+    "D": "Tushlikdan keyin bo`ladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Logopedik o`yinlar nima uchun muhim?",
+    "A": "Nutq faoliyatini rivojlantirish uchun",
+    "B": "Bolani tinchlantirish uchun",
+    "C": "Uyquga tayyorlash uchun",
+    "D": "Televizor ko`rishga undash uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "Logopediyadagi asosiy dars shakli bu?",
+    "A": "Mashg`ulot",
+    "B": "Darslik o`qish",
+    "C": "Musiqa tinglash",
+    "D": "Raqs tushish",
+    "javob": "A"
+  },
+  {
+    "savol": "Logopediya asoschilari kimlar hisoblanadi?",
+    "A": "V.P. Kasatkin, R.E. Levina",
+    "B": "A.Einshteyn, N.Tesla",
+    "C": "M.Ayupova, Sechenov",
+    "D": "J.Gandhi, A.Lincoln",
+    "javob": "A"
+  },
+  {
+    "savol": "Afaziya bu?",
+    "A": "Nutqning to`liq yoki qisman yo`qolishi",
+    "B": "Ko`rish buzilishi",
+    "C": "Oyoq faoliyati buzilishi",
+    "D": "Eshitishning kuchayishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Logoped mashg`ulotlarini kim olib boradi?",
+    "A": "Mutaxassis logoped",
+    "B": "Geograf o`qituvchi",
+    "C": "Sport murabbiyi",
+    "D": "Ona-ona",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq apparati necha qismdan tashkil topgan?",
+    "A": "Markaziy va periferik qismdan",
+    "B": "Yalpi va kichik qismdan",
+    "C": "Markaziy qismdan",
+    "D": "Periferik qismdan",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq harakat analizatori qaysi bosh miya qobig`ida joylashgan?",
+    "A": "Chap peshana qismida (Broka markazi)",
+    "B": "O`ng ensa qismida",
+    "C": "Chap ensa qismida",
+    "D": "O`ng peshana qismida",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq eshituv analizatori qayerda joylashgan?",
+    "A": "Chap chakka qismida (Vernike markazi)",
+    "B": "Chap peshana qismida",
+    "C": "O`ng chakka qismida",
+    "D": "O`ng peshana qismida",
+    "javob": "A"
+  },
+  {
+    "savol": "Periferik nutq apparatining vazifasi nima?",
+    "A": "Markaziy asab tizimidan nerv impulslarini nutq a`zolariga yetkazish va aksincha",
+    "B": "Nutqni anglash",
+    "C": "Yozma nutqni boshqarish",
+    "D": "Nafas olishni ta`minlash",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi nerv nutq organlarini boshqarishda muhim ahamiyatga ega?",
+    "A": "Beshinchi (nervus trigeminus)",
+    "B": "O`n birinchi nerv",
+    "C": "To`qqizinchi nerv faqat yurak uchun",
+    "D": "Yettinchi nerv faqat oyoq uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutqning markaziy boshqaruvi qaysi markazdan boshlanadi?",
+    "A": "Broka markazidan",
+    "B": "Vernike markazidan",
+    "C": "Miya po`stlog`ining orqa qismidan",
+    "D": "Miya o`zakidan",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq jarayonida proprio va baroretseptorlar qayerda joylashgan?",
+    "A": "Muskullar va halqumda",
+    "B": "Bosh miya qobig`ida",
+    "C": "O`pkada",
+    "D": "Lablarda",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq buzilishlarini aniqlashda zamonaviy usullardan qaysi biri keng qo`llaniladi?",
+    "A": "Funksional magnit-rezonans tomografiya (fMRI)",
+    "B": "Oddiy rentgen tekshiruvi",
+    "C": "X-ray ko`rsatkichlari",
+    "D": "Ultrasonografiya faqat yurak uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "Sun`iy intellekt va kompyuter lingvistikasi nutq o`rganishda qanday imkoniyatlar yaratadi?",
+    "A": "Nutqning akustik va artikulyator jihatdan tahlilini amalga oshirish",
+    "B": "Yozma nutqni tekshirish",
+    "C": "Miya to`qimalarini o`rganish",
+    "D": "Nafas olishni nazorat qilish",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq jarayonida teskari aloqa (feedback) mexanizmi qaysi tizimlar o`rtasida amalga oshadi?",
+    "A": "Aferent (sensorik) va efferent (motorik) tizimlar o`rtasida",
+    "B": "aferent tizimda",
+    "C": "eferent tizimda",
+    "D": "Yurak va o`pka tizimlari o`rtasida",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi nerv ovoz simlarini boshqaradi?",
+    "A": "Yuz nervi",
+    "B": "Uch tarmoqli nerv",
+    "C": "Til-halqum nervi",
+    "D": "Sayyor nerv",
+    "javob": "A"
+  },
+  {
+    "savol": "Periferik nervlarning faoliyati nimaga ta`sir qiladi?",
+    "A": "Nutqning aniqligi va ravonligiga",
+    "B": "Ko`zning harakatiga",
+    "C": "Qon aylanishiga",
+    "D": "Nafas olishga",
+    "javob": "A"
+  },
+  {
+    "savol": "Proprioretseptorlar qayerda joylashgan?",
+    "A": "Mushaklar va bo`g`inlarda",
+    "B": "Yurakda",
+    "C": "O`pkada",
+    "D": "Miya po`stlog`ida",
+    "javob": "A"
+  },
+  {
+    "savol": "Baroretseptorlar qayerda joylashgan?",
+    "A": "Halqumda",
+    "B": "Miya qobig`ida",
+    "C": "Yurakda",
+    "D": "Mushaklarda",
+    "javob": "A"
+  },
+  {
+    "savol": "Elektromiografiya (EMG) nimani o`rganadi?",
+    "A": "Mushaklarning elektr faolligini",
+    "B": "Miya qobig`ining faoliyatini",
+    "C": "Nafas olish tizimini",
+    "D": "Ko`z harakatlarini",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq buzilishlariga olib keladigan periferik nutq apparati shikastlanishi qaysi muammoni keltirib chiqaradi?",
+    "A": "Artikulyatsiya buzilishi",
+    "B": "Eshitish yo`li buzilishi",
+    "C": "Ko`rish buzilishi",
+    "D": "Nafas olish buzilishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutqning markaziy apparati qaysi asab tizimiga tegishli?",
+    "A": "Markaziy asab tizimiga",
+    "B": "Periferik asab tizimiga",
+    "C": "Yurak asab tizimiga",
+    "D": "Mushak tizimiga",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi nerv yuz mushaklarini innervatsiyalaydi?",
+    "A": "Yuz nervi",
+    "B": "Til-halqum nervi",
+    "C": "Sayyor nerv",
+    "D": "Uch tarmoqli nerv",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq jarayonida sensorik impulslardan markaziy asab tizimiga ma`lumot qaysi yo`l orqali yetkaziladi?",
+    "A": "Markazga intiluvchi nerv yo`li",
+    "B": "Markazdan qochuvchi nerv yo`li",
+    "C": "Qon tomir yo`li",
+    "D": "Mushak tolasidan",
+    "javob": "A"
+  },
+  {
+    "savol": "Zamonaviy nutq tadqiqotlarida qaysi metodlardan foydalanilmaydi?",
+    "A": "Ultratovushli tasvirlash (ultrasound)",
+    "B": "Rentgenologiya",
+    "C": "FMRI",
+    "D": "Elektroensefalografiya (EEG)",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq buzilishi qanday holatlarda yuzaga keladi?",
+    "A": "Tovushlar talaffuzining buzilishi",
+    "B": "So`z boyligining cheklanishi, grammatik xatolar",
+    "C": "Yozma nutqdagi xatoliklar",
+    "D": "Fonematik yetishmovchilik",
+    "javob": "A"
+  },
+  {
+    "savol": "Biologik omillar qaysi holatlarda nutq buzilishiga sabab bo`ladi?",
+    "A": "Irsiy kasalliklar, asab tizimining shikastlanishi, homiladorlikdagi infeksiyalar",
+    "B": "Maktabdagi baholash tizimi",
+    "C": "Ijtimoiy izolyatsiya",
+    "D": "Darsga qiziqmaslik",
+    "javob": "A"
+  },
+  {
+    "savol": "Psixologik omillar ta`sirida qanday nutq buzilishi rivojlanadi?",
+    "A": "Duduqlanish (logonevroz)",
+    "B": "Sensor alaliya",
+    "C": "Afaziya",
+    "D": "Rinolaliya",
+    "javob": "A"
+  },
+  {
+    "savol": "Dislaliya qanday nutq buzilishiga kiradi?",
+    "A": "Fonetik-fonematik buzilish",
+    "B": "Yozma nutqdagi xatolik",
+    "C": "Rivojlanish kechikishi",
+    "D": "Nutqni tushunmaslik",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq rivojlanishining kechikishiga nima sabab bo`lishi mumkin?",
+    "A": "Markaziy asab tizimining funksional yetishmovchiligi",
+    "B": "Bola ko`p o`ynashi",
+    "C": "Uyda televizor ko`rishi",
+    "D": "Ko`p tilda gaplashish",
+    "javob": "A"
+  },
+  {
+    "savol": "Alaliya qanday etiologik omil bilan bog`liq?",
+    "A": "Markaziy asab tizimining erta shikastlanishi",
+    "B": "Fonematik eshitishning zaifligi",
+    "C": "Kattalarning noto`g`ri nutqi",
+    "D": "Eshitish nervining shikastlanishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Afaziya qanday hollarda yuzaga keladi?",
+    "A": "Miya shikastlanishi natijasida oldin shakllangan nutqning buzilishi",
+    "B": "Tug`ma eshitish zaifligi",
+    "C": "Kattalarning salbiy ta`siri",
+    "D": "Fonemalarni farqlay olmaslik",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq buzilishlarini aniqlashda birinchi qadam nima?",
+    "A": "Keng qamrovli kuzatuv",
+    "B": "Tovushlarni yozdirish",
+    "C": "Darsda test yechish",
+    "D": "Ota-onalarga so`rovnoma berish",
+    "javob": "A"
+  },
+  {
+    "savol": "Dizartriyaning sababi nima?",
+    "A": "Nutq apparati mushaklarining falaji yoki parezi",
+    "B": "Psixik travma",
+    "C": "Bola eshitmasligi",
+    "D": "Logopedik yordam yetishmasligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq buzilishlarining oldini olishda eng muhim chora qaysi?",
+    "A": "Homiladorlik davridan boshlab ona va bola sog`ligini nazorat qilish",
+    "B": "Bola ko`p o`ynashiga imkon berish",
+    "C": "Televizor orqali so`z boyligini oshirish",
+    "D": "Erta maktabga berish",
+    "javob": "A"
+  },
+  {
+    "savol": "Maxsus maktabgacha ta`lim tashkilotlarining asosiy maqsadi nima?",
+    "A": "Bolalarning psixofiziologik xususiyatlarini hisobga olib ta`lim-tarbiya, sog`lomlashtirish va reabilitatsiya ishlarini amalga oshirish",
+    "B": "Sog`lom bolalarni tayyorlash",
+    "C": "Sport bilan shug`ullanishni o`rgatish",
+    "D": "O`yin o`tkazish uchun imkon yaratish",
+    "javob": "A"
+  },
+  {
+    "savol": "Maxsus ta`lim tashkilotlarida individual yondashuv qanday amalga oshiriladi?",
+    "A": "Har bir bolaning yoshiga, nogironlik turiga va ehtiyojlariga qarab",
+    "B": "Bolaning yoshiga qarab",
+    "C": "Ota-onaning talabiga binoan",
+    "D": "Tibbiy ko`rsatmaga asosan",
+    "javob": "A"
+  },
+  {
+    "savol": "Maxsus maktabgacha ta`lim muassasalarida qanday mutaxassislar ishlaydi?",
+    "A": "Logopedlar, defektologlar, psixologlar, surdotarjimonlar",
+    "B": "O`qituvchilar",
+    "C": "Sport murabbiylari",
+    "D": "Faoliyat yetakchilari",
+    "javob": "A"
+  },
+  {
+    "savol": "Logopedik guruhlarning asosiy maqsadi nima?",
+    "A": "Bola nutqiy rivojlanishini normaga yaqinlashtirish",
+    "B": "Bolaga faqat tovush qo`yish",
+    "C": "Umumiy kamchililarni tekshirish",
+    "D": "Aqliy rivojlanishda orqada qolishini tekshirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Aqliy zaif bolalar guruhi qanday muammoga ega bolalar uchun mo`ljallangan?",
+    "A": "Tafakkur, nutq, xotira, e`tibor kabi kognitiv funksiyalar zaif bo`lgan bolalar",
+    "B": "Jismoniy jihatdan kuchli bolalar",
+    "C": "Nutqi rivojlangan bolalar",
+    "D": "Oddiy sog`lom bolalar",
+    "javob": "A"
+  },
+  {
+    "savol": "Surdoguruhlarda asosiy metodika nima asosida olib boriladi?",
+    "A": "Imo-ishora va vizual vositalar asosida",
+    "B": "Ovozli o`qitish asosida",
+    "C": "Tez o`qitish asosida",
+    "D": "Yozma topshiriqlar asosida",
+    "javob": "A"
+  },
+  {
+    "savol": "Tiflopedagogik guruhlarda qanday vositalardan foydalaniladi?",
+    "A": "Fakturalar, audiomateriallar, Brayl alifbosi",
+    "B": "Kompyuter dasturlari",
+    "C": "Oddiy kitoblar",
+    "D": "Smartfon ilovalari",
+    "javob": "A"
+  },
+  {
+    "savol": "Logopedning asosiy vazifasi nima?",
+    "A": "Nutqiy buzilishlarni bartaraf etish va bolani muloqotga tayyorlash",
+    "B": "Aqliy rivojlanishda orqada qolgan bolalar",
+    "C": "Ko`rishda nuqsoni bo`lgan bolalar ta`lim tarbiyasi shug`ullanish",
+    "D": "Qo`l mehnatiga o`rgatish",
+    "javob": "A"
+  },
+  {
+    "savol": "Logopedik diagnostikada nima tekshiriladi?",
+    "A": "Fonematik eshituv, artikulyatsiya, lug`at boyligi",
+    "B": "Matematik saviyalar",
+    "C": "Aqliy rivojlanishda orqada qolgan bolalar",
+    "D": "Nutqiy buzilishlarni bartaraf etish va bolani muloqotga tayyorlash",
+    "javob": "A"
+  },
+  {
+    "savol": "Fonetik rivojlanish nimalarni o`z ichiga oladi?",
+    "A": "Tovushlarning to`g`ri talaffuzini",
+    "B": "Tovush balandligini",
+    "C": "Qo`shiq kuylashni",
+    "D": "Matematik fikrlashni",
+    "javob": "A"
+  },
+  {
+    "savol": "Fonematik rivojlanish deganda nima tushuniladi?",
+    "A": "Tovushlarni eshitish, farqlash va analiz qilish qobiliyati",
+    "B": "Tez gapirish qobiliyati",
+    "C": "Nutq tezligini oshirish",
+    "D": "Matematika tushunchalarini rivojlantirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Leksik va grammatik tuzilma ustida ishlashda logoped nimalarga e`tibor qaratadi?",
+    "A": "So`z boyligi, gap tuzish, mantiqiy bog`liqlik",
+    "B": "Talaffuzga",
+    "C": "Gap yozishga",
+    "D": "Rasm chizishga",
+    "javob": "A"
+  },
+  {
+    "savol": "Logopedik ish faqat tovush tuzatishga qaratilganmi?",
+    "A": "Yo`q, u bola shaxsini to`liq rivojlantirishga xizmat qiladi",
+    "B": "Ha, faqat tovush tuzatishga",
+    "C": "O`yinlarga",
+    "D": "Yozuvga",
+    "javob": "A"
+  },
+  {
+    "savol": "Maxsus maktabgacha ta`limda multidisiplinar yondashuv nimani anglatadi?",
+    "A": "Turli soha mutaxassislarining hamkorligini",
+    "B": "Logoped ishini",
+    "C": "Psixolog ishtirokini",
+    "D": "Tibbiy nazoratni",
+    "javob": "A"
+  },
+  {
+    "savol": "Sensor xonalar qanday maqsadda ishlatiladi?",
+    "A": "Sezgi a`zolari faoliyatini rivojlantirish uchun",
+    "B": "Fizik holatni baholash uchun",
+    "C": "O`yin o`tkazish uchun",
+    "D": "Mashg`ulotlar yozuvi uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "Psixologik xizmat xonasida qanday ishlar amalga oshiriladi?",
+    "A": "Psixokorreksion ishlar va psixologik holatni o`rganish",
+    "B": "Fizik rivojlanish baholanadi",
+    "C": "O`yin o`tkazish uchun",
+    "D": "Mashg`ulotlar yozuvi uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "Maxsus guruhlar qanday mezonlar asosida tashkil etiladi?",
+    "A": "Bolaning rivojlanish xususiyati va buzilish turiga qarab",
+    "B": "Yoshga qarab",
+    "C": "Ota-onaning istagiga ko`ra",
+    "D": "Tanlov asosida",
+    "javob": "A"
+  },
+  {
+    "savol": "Logopedik mashg`ulotlarda qanday usullar ishlatiladi?",
+    "A": "Artikulyatsion gimnastika, o`yinlar, tovush aytish",
+    "B": "Jismoniy mashqlar",
+    "C": "Qo`shiq aytish",
+    "D": "Sukut saqlash",
+    "javob": "A"
+  },
+  {
+    "savol": "Muloqot malakalari rivojlanmagan bola qanday muammoga duch keladi?",
+    "A": "Suhbatlashishda qiynaladi",
+    "B": "Artikulatsion a`zolari sust rivojlanadi",
+    "C": "Psixologik jarayonlar bilan bog`liq",
+    "D": "Jismoniy mashqlar bilan bog`liq",
+    "javob": "A"
+  },
+  {
+    "savol": "Logopedik faoliyatda psixologik yondashuvning o`rni qanday?",
+    "A": "Bola bilan individual ishlashni osonlashtiradi",
+    "B": "Ota-onalarni jalb qilish",
+    "C": "Muolajalarni o`tkazish",
+    "D": "Tibbiy maslahat berish",
+    "javob": "A"
+  },
+  {
+    "savol": "Fonatsiya qanday tizimlar faoliyati bilan bog`liq murakkab jarayondir?",
+    "A": "Nafas olish, ovoz bog`lamalari va rezonator tizimi",
+    "B": "Yurak, qon aylanish va ovqat hazm qilish tizimi",
+    "C": "Qon bosimi, yurak urishi va mushaklar kuchi",
+    "D": "O`pka hajmi, yurak ritmi va qon tarkibi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ovoz bog`lamalarining tebranish chastotasi nima bilan aniqlanadi?",
+    "A": "Ularning elastikligi va boshqaruv mushaklari faoliyati bilan",
+    "B": "O`pka hajmi va yurak urish tezligi bilan",
+    "C": "Burun shakli va eshitish qobiliyati bilan",
+    "D": "Qon tarkibi va havo harorati bilan",
+    "javob": "A"
+  },
+  {
+    "savol": "Erkaklardagi tovush bog`lamalarining tebranish chastotasi qaysi oraliqda bo`ladi?",
+    "A": "100–150 Hz",
+    "B": "200–300 Hz",
+    "C": "50–80 Hz",
+    "D": "250–350 Hz",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi rezonatorlar tovushni kuchaytirish va shakllantirishda ishtirok etadi?",
+    "A": "Og`iz, burun, halqum va ko`krak qafasi",
+    "B": "Yurak, buyrak, o`pka va taloq",
+    "C": "Miya, orqa miya, eshituv nervi va ko`z",
+    "D": "Qon aylanish, ovqat hazm qilish va termoregulyatsiya tizimi",
+    "javob": "A"
+  },
+  {
+    "savol": "Tovush spektri nimani belgilaydi?",
+    "A": "Tembrni",
+    "B": "Balandlikni",
+    "C": "Davomiylikni",
+    "D": "Chastotani",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq nafas olishining asosiy xususiyati nima?",
+    "A": "Ekspiratsiyaning nazorat ostida sekinlashtirilishi",
+    "B": "Nafas olish fazasining kuchaytirilishi",
+    "C": "Yurak urishining tezlashishi",
+    "D": "Muskul tonusining kamayishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Markaziy asab tizimida qaysi markaz fonatsiyani boshqaradi?",
+    "A": "Broka markazi",
+    "B": "Vernike markazi",
+    "C": "Ko`rish korteksi",
+    "D": "Eshituv yadrosi",
+    "javob": "A"
+  },
+  {
+    "savol": "Rezonator tizimining morfologik xususiyatlari nimaga ta`sir qiladi?",
+    "A": "Ovozning tembri va individual xususiyatlariga",
+    "B": "Nafas olish tezligiga",
+    "C": "Yurak qon aylanishiga",
+    "D": "Ko`z harakatlariga",
+    "javob": "A"
+  },
+  {
+    "savol": "Ovoz chiqarish jarayoni qaysi bosqichda amalga oshadi?",
+    "A": "Ekspiratsion",
+    "B": "Inspiratsion",
+    "C": "Pausal",
+    "D": "Diastolik",
+    "javob": "A"
+  },
+  {
+    "savol": "Tebranishlar soni nimani belgilaydi?",
+    "A": "Tovushning balandligini",
+    "B": "Tovushning tembrini",
+    "C": "Tovushning kuchini",
+    "D": "Tovushning yo`nalishini",
+    "javob": "A"
+  },
+  {
+    "savol": "Tovush amplitudasi nimani bildiradi?",
+    "A": "Ovozning kuchini",
+    "B": "Ovozning tembrini",
+    "C": "Ovozning ohangini",
+    "D": "Ovozning rezonansini",
+    "javob": "A"
+  },
+  {
+    "savol": "Rezonator bo`shliqlari orqali o`tgan tovush qanday o`zgaradi?",
+    "A": "Kuchayadi va shakllanadi",
+    "B": "So`nadi va kuchsizlanadi",
+    "C": "Qisqaradi va zaiflashadi",
+    "D": "Pasayadi va o`zgaradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Tovushning “tembr”i deganda nima tushuniladi?",
+    "A": "Tovushning “rangi” yoki ohangdorligi",
+    "B": "Tovushning davomiyligi",
+    "C": "Tovushning balandligi",
+    "D": "Tovushning tezligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq jarayonida energiya manbai nima hisoblanadi?",
+    "A": "Ekspirator havo oqimi",
+    "B": "Yurak urishi",
+    "C": "Og`iz harakatlari",
+    "D": "Miya impulslari",
+    "javob": "A"
+  },
+  {
+    "savol": "Akustik nuqtai nazardan, ovoz nima hisoblanadi?",
+    "A": "Havo muhitida tarqaluvchi tebranish to`lqini",
+    "B": "Eshituv nervlari orqali uzatiladigan impuls",
+    "C": "Nur to`lqinlari orqali yetkaziladigan signal",
+    "D": "Qon aylanishi orqali tarqaluvchi signal",
+    "javob": "A"
+  },
+  {
+    "savol": "Tovush chastotasi qanday birlikda o`lchanadi?",
+    "A": "Hertz (Hz)",
+    "B": "Volt (V)",
+    "C": "Pascal (Pa)",
+    "D": "Sekund (s)",
+    "javob": "A"
+  },
+  {
+    "savol": "Tovushning formantasi nima?",
+    "A": "Rezonans chastotalar",
+    "B": "Tovushning davomiyligi",
+    "C": "Tovushning amplitudasi",
+    "D": "Tovushning so`nish tezligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ovoz bog`lamalari qanday tuzilishga ega?",
+    "A": "Epiteliy bilan qoplangan mushakli tuzilma",
+    "B": "Tolali biriktiruvchi to`qima",
+    "C": "Yurak mushaklariga o`xshash hujayralar",
+    "D": "Suvli kistalar to`plami",
+    "javob": "A"
+  },
+  {
+    "savol": "Ovoz chiqarish paytida bog`lamalarning ochilishi nimaga bog`liq?",
+    "A": "Havo bosimi va aerodinamik kuchlar ta`siriga",
+    "B": "Yurak qisqarish kuchiga",
+    "C": "Og`iz bo`shlig`ining harakatiga",
+    "D": "Eshitish retseptorlarining faolligiga",
+    "javob": "A"
+  },
+  {
+    "savol": "Rezonatorlar qaysi xususiyatni ta`minlaydi?",
+    "A": "Tovushning kuchayishi va tembrining boyishi",
+    "B": "Nafas olish tezligini",
+    "C": "Yurak urish chastotasini",
+    "D": "Ovozni yutish va so`nishini",
+    "javob": "A"
+  },
+  {
+    "savol": "Ovoz buzilishlarini klinik-laborator tekshirishning birinchi bosqichi nimadan boshlanadi?",
+    "A": "Anamnez yig`ishdan",
+    "B": "Laringoskopiya o`tkazishdan",
+    "C": "Akustik tahlil qilishdan",
+    "D": "Fonatsiya mashqlaridan",
+    "javob": "A"
+  },
+  {
+    "savol": "Anamnez yig`ish jarayonida shifokor nimalarni aniqlaydi?",
+    "A": "Ovozdagi muammo paydo bo`lgan vaqt va omillarni",
+    "B": "Bemorning qon bosimi ko`rsatkichini",
+    "C": "Yurak urish tezligini",
+    "D": "Miya faoliyatini",
+    "javob": "A"
+  },
+  {
+    "savol": "Ovoz apparati va nutq organlarini tekshirishda qaysi tuzilmalar ko`zdan kechiriladi?",
+    "A": "Og`iz bo`shlig`i, til, burun, halqum",
+    "B": "Yurak, o`pka, jigar",
+    "C": "Qon tomirlari, teri, suyak",
+    "D": "Mushaklar, bo`g`imlar, paylar",
+    "javob": "A"
+  },
+  {
+    "savol": "Noto`g`ri nafas olish fonatsiyaga qanday ta`sir qiladi?",
+    "A": "Tez charchash va ovoz sifatsiz chiqishiga olib keladi",
+    "B": "Ovoz kuchini oshiradi",
+    "C": "Ovoz tebranishini barqarorlashtiradi",
+    "D": "Tembrni yaxshilaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Laringoskopiya yordamida nimalar aniqlanadi?",
+    "A": "Vokal paylarning harakati va yopilishi",
+    "B": "Miya nervlarining faoliyati",
+    "C": "Yurak qisqarish ritmi",
+    "D": "O`pka hajmi",
+    "javob": "A"
+  },
+  {
+    "savol": "Akustik tahlilda jitter ko`rsatkichi nimani bildiradi?",
+    "A": "Ovoz chastotasining barqarorligini",
+    "B": "Ovoz balandligini",
+    "C": "Nafas tezligini",
+    "D": "Tembr yo`nalishini",
+    "javob": "A"
+  },
+  {
+    "savol": "Ovoz buzilishlarini tashxislashda nutqning ravonligi nimani bildiradi?",
+    "A": "So`zlarning tabiiy ritmda, to`xtalishsiz chiqishini",
+    "B": "Ovoz balandligini",
+    "C": "Hissiyot kuchini",
+    "D": "Nutq tezligini",
+    "javob": "A"
+  },
+  {
+    "savol": "Emotsional ifodadorlik nima bilan belgilanadi?",
+    "A": "Ovozning tembri, balandligi va intonatsiyasi bilan",
+    "B": "Nutqdagi pauzalar soni bilan",
+    "C": "Fonatsion bosim bilan",
+    "D": "Artikulyatsion kuch bilan",
+    "javob": "A"
+  },
+  {
+    "savol": "Logopediya fanining asoschisi kim?",
+    "A": "L.S. Vygotskiy",
+    "B": "I.P. Pavlov",
+    "C": "A.R. Luriya",
+    "D": "K.D. Ushinskiy",
+    "javob": "A"
+  },
+  {
+    "savol": "Metodologiya nima?",
+    "A": "Ilmiy faoliyatni tashkil etish va baholash tizimi",
+    "B": "Tilning grammatik qurilishi",
+    "C": "Bola nutqining rivojlanish bosqichlari",
+    "D": "Psixologik testlar to`plami",
+    "javob": "A"
+  },
+  {
+    "savol": "Logopediya metodologiyasi nechta darajada ko`rib chiqiladi?",
+    "A": "Uch darajada",
+    "B": "Ikki darajada",
+    "C": "To`rt darajada",
+    "D": "Besh darajada",
+    "javob": "A"
+  },
+  {
+    "savol": "Ilmiylik prinsipi nimani anglatadi?",
+    "A": "Korreksion ishlar ilmiy asosda olib borilishi kerak",
+    "B": "Mashg`ulotlar erkin o`tishi kerak",
+    "C": "O`quvchi mustaqil qaror qabul qiladi",
+    "D": "Har bir darsda o`yinli metod ishlatiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Individual yondashuv prinsipi nimani bildiradi?",
+    "A": "Har bir bolaga uning xususiyatidan kelib chiqib ishlash",
+    "B": "Hamma bolalarga bir xil topshiriq berish",
+    "C": "Mashg`ulotlarni jamoaviy tarzda o`tkazish",
+    "D": "nazariy darslarga e`tibor berish",
+    "javob": "A"
+  },
+  {
+    "savol": "Komplekslik prinsipi nimani taqozo etadi?",
+    "A": "Bir necha fan va usullarni uyg`un qo`llashni",
+    "B": "Bitta usul bilan ishlashni",
+    "C": "Pedagogik nazoratni kuchaytirishni",
+    "D": "Bolani mustaqil ishlashga majburlashni",
+    "javob": "A"
+  },
+  {
+    "savol": "Logopedik tadqiqotlarda kuzatuv usuli nima uchun qo`llaniladi?",
+    "A": "Bolaning nutqini tabiiy sharoitda o`rganish",
+    "B": "Eshitish apparatini tekshirish",
+    "C": "Matn tahlili uchun",
+    "D": "O`quv bahosini belgilash",
+    "javob": "A"
+  },
+  {
+    "savol": "Eksperimental metodning maqsadi nima?",
+    "A": "Yangi logopedik metod samaradorligini sinash",
+    "B": "Tinglovchilarni testdan o`tkazish",
+    "C": "Nazariy ma`lumot yig`ish",
+    "D": "Suhbat o`tkazish",
+    "javob": "A"
+  },
+  {
+    "savol": "Statistik usullar logopediyada nima uchun kerak?",
+    "A": "Tadqiqot natijalarining ishonchliligini ta`minlash",
+    "B": "Bolaning so`z boyligini oshirish",
+    "C": "Mashg`ulot davomiyligini belgilash",
+    "D": "Nutq ritmini o`lchash",
+    "javob": "A"
+  },
+  {
+    "savol": "“Etiologiya” atamasi qanday ma`noni bildiradi?",
+    "A": "Sabablarni o`rganuvchi fan",
+    "B": "Natijalarni hisoblash",
+    "C": "Ovoz hosil qilish",
+    "D": "Tilshunoslik tarmog`i",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq buzilishlarining asosiy sabablari nimalar?",
+    "A": "Organik, funksional, ijtimoiy-psixologik omillar",
+    "B": "Fiziologik va musiqiy omillar",
+    "C": "Til va madaniyat omillari",
+    "D": "Tashqi omillar",
+    "javob": "A"
+  },
+  {
+    "savol": "M.Ye. Xvatsev nutq buzilishlarini qanday tasniflagan?",
+    "A": "Ichki va tashqi omillar asosida",
+    "B": "Tilshunoslik mezonida",
+    "C": "Madaniy sharoitlar bo`yicha",
+    "D": "Ijtimoiy tabaqa asosida",
+    "javob": "A"
+  },
+  {
+    "savol": "Organik sabablar nimani o`z ichiga oladi?",
+    "A": "Miya yoki artikulyatsiya apparati shikastlanishini",
+    "B": "O`quvchining fe`l-atvorini",
+    "C": "Fikrning tahlilini",
+    "D": "Madaniy omillarni",
+    "javob": "A"
+  },
+  {
+    "savol": "Ijtimoiy-psixologik sabablar qaysilar?",
+    "A": "Oila muhitidagi salbiy holatlar, tarbiyadagi kamchiliklar",
+    "B": "Yoshning fiziologik xususiyatlari",
+    "C": "Ovoz paychalari harakati",
+    "D": "Tovush balandligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Perinatal patologiya deganda nima tushuniladi?",
+    "A": "Homiladorlik va tug`ruq davridagi shikastlanishlar majmuasi",
+    "B": "Nutqning tez sur`atda rivojlanishi",
+    "C": "Psixologik muammolar tizimi",
+    "D": "O`yin orqali tarbiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Broka markazi qayerda joylashgan?",
+    "A": "Chap peshana qismida",
+    "B": "O`ng ensa qismida",
+    "C": "Chap ensa qismida",
+    "D": "O`rta chakka qismida",
+    "javob": "A"
+  },
+  {
+    "savol": "Vernike markazi qayerda joylashgan?",
+    "A": "Chap chakka qismida",
+    "B": "O`ng peshana qismida",
+    "C": "Chap ensa qismida",
+    "D": "Bosh miya o`zak qismida",
+    "javob": "A"
+  },
+  {
+    "savol": "Broka markazi nima uchun javob beradi?",
+    "A": "Og`zaki nutqning paydo bo`lishi",
+    "B": "Eshitish idroki",
+    "C": "Ko`ruv jarayoni",
+    "D": "Ovoz paychalarini boshqarish",
+    "javob": "A"
+  },
+  {
+    "savol": "Vernike markazining vazifasi nima?",
+    "A": "Eshitilgan nutqni tushunish",
+    "B": "Ovoz chiqarish",
+    "C": "Tovush hosil qilish",
+    "D": "So`z tuzish",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq reflekslari qayerda shakllanadi?",
+    "A": "Bosh miya qobig`ida",
+    "B": "Orqa miyada",
+    "C": "Qon aylanish tizimida",
+    "D": "Ko`ruv markazida",
+    "javob": "A"
+  },
+  {
+    "savol": "Periferik nutq apparati nimalardan iborat?",
+    "A": "Nafas, ovoz va artikulatsion bo`limlardan",
+    "B": "Fikr va his-tuyg`ulardan",
+    "C": "Tilshunoslik bo`limlaridan",
+    "D": "Miya markazlaridan",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq qanday fazada hosil bo`ladi?",
+    "A": "Nafas chiqarish fazasida",
+    "B": "Nafas olish fazasida",
+    "C": "Jimlik paytida",
+    "D": "Uyqu paytida",
+    "javob": "A"
+  },
+  {
+    "savol": "Hiqildoqda nima joylashgan?",
+    "A": "Ovoz paychalari",
+    "B": "Ko`ruv nervlari",
+    "C": "Tanglay muskullari",
+    "D": "Burun bo`shlig`i",
+    "javob": "A"
+  },
+  {
+    "savol": "Ovoz paychalari uzunligi erkaklarda qancha bo`ladi?",
+    "A": "20–24 mm",
+    "B": "15–17 mm",
+    "C": "10–12 mm",
+    "D": "25–30 mm",
+    "javob": "A"
+  },
+  {
+    "savol": "Logoped shaxsiga xos asosiy sifatlar qaysilar?",
+    "A": "Sabr, mehribonlik, bilimlilik",
+    "B": "Tezkorlik, qat`iylik",
+    "C": "Jimlik, befarqlik",
+    "D": "Buyruqbozlik",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq buzilishi deganda nima tushuniladi?",
+    "A": "Nutq shakllanishida yuzaga kelgan nuqson",
+    "B": "Grammatika bilimining pastligi",
+    "C": "Shevachilik holati",
+    "D": "Xotira zaifligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq mexanizmi nimalarni o`z ichiga oladi?",
+    "A": "Nafas, ovoz paychalari, til, lab, bosh miya faoliyati",
+    "B": "Hiqildoq va lablar",
+    "C": "Ko`z va quloq organlari",
+    "D": "Oyoq mushaklari",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq apparati nechta asosiy qismdan iborat?",
+    "A": "Ikki qismdan – markaziy va periferik",
+    "B": "Uch qismdan – markaziy, oraliq, tashqi",
+    "C": "To`rt bo`limdan",
+    "D": "Bitta umumiy tizimdan",
+    "javob": "A"
+  },
+  {
+    "savol": "Logopedik faoliyatning asosiy vazifasi nima?",
+    "A": "Nutqni tiklash va rivojlantirish",
+    "B": "Tibbiy tashxis qo`yish",
+    "C": "Bola jismoniy tayyorgarligini oshirish",
+    "D": "Eshituv mashqlarini o`tkazish",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq buzilishlarining ijtimoiy oqibati nimada ko`rinadi?",
+    "A": "Muloqotdagi qiyinchilik, tortinchoqlik",
+    "B": "Talaffuzni mukammal bilish",
+    "C": "Ijodiy tafakkur kuchayishi",
+    "D": "O`qishga qiziqish ortishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutqning fiziologik bosqichlari nimalarni o`z ichiga oladi?",
+    "A": "Nafas, fonatsiya va artikulyatsiya jarayonlari",
+    "B": "Ko`ruv va eshitish jarayonlari",
+    "C": "Ovoz yozish tizimi",
+    "D": "O`yin mashqlari",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutqiy aloqa qanday amalga oshadi?",
+    "A": "Til tizimi orqali",
+    "B": "Gestikulyatsiya orqali",
+    "C": "Musiqa orqali",
+    "D": "Rasm chizish orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Logopedik diagnostika nimaga xizmat qiladi?",
+    "A": "Nutq buzilishi turini va darajasini aniqlash",
+    "B": "O`quv dasturini tanlash",
+    "C": "Nazariy bilimni oshirish",
+    "D": "Shaxs sifatlarini baholash",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutqning psixofiziologik mexanizmi nimaga asoslanadi?A) Bosh miya faoliyatiga",
+    "A": "Bosh miya faoliyatiga",
+    "B": "Ovoz paychalari harakatiga",
+    "C": "Til o`rganish jarayoniga",
+    "D": "Ko`rish refleksiga",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq buzilishlari qaysi yoshda erta aniqlanishi muhim?",
+    "A": "3–5 yoshda",
+    "B": "1–2 yoshda",
+    "C": "6–8 yoshda",
+    "D": "10 yoshdan keyin",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq harakat analizatori qayerda joylashgan?",
+    "A": "Chap peshana qismida",
+    "B": "Chap chakka qismida",
+    "C": "O`ng ensa qismida",
+    "D": "Orqa miya qismida",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq eshituv analizatori vazifasi nima?",
+    "A": "Eshitilgan nutqni tahlil qilish",
+    "B": "So`z yasash",
+    "C": "Tovush hosil qilish",
+    "D": "Gap tuzish",
+    "javob": "A"
+  },
+  {
+    "savol": "Logopediya fanining ahamiyati nimada?",
+    "A": "Nutq nuqsonlarini bartaraf etib, shaxsning barkamol rivojlanishini ta`minlash",
+    "B": "Tilshunoslik nazariyalarini kengaytirish",
+    "C": "Psixologik so`rovlar o`tkazish",
+    "D": "Pedagogik fanlarni umumlashtirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Bola nutqining rivojlanishi qanday jarayon hisoblanadi?",
+    "A": "Hayot davomida jismoniy va aqliy rivojlanish bilan shakllanuvchi jarayon",
+    "B": "Tug`ma biologik xususiyat",
+    "C": "Irsiy belgilar asosida shakllanuvchi qobiliyat",
+    "D": "Tibbiy davolash natijasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutqning muvaffaqiyatli shakllanishida qaysi omil asosiy hisoblanadi?",
+    "A": "Bola va atrof-muhit o`rtasidagi muloqot",
+    "B": "Genetik irsiyat",
+    "C": "O`yinchoqlar sifati",
+    "D": "Tibbiy davolash natijasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Fiziologik dislaliya qachon kuzatiladi?",
+    "A": "Artikulyatsion apparat hali to`liq shakllanmaganda",
+    "B": "Bola eshitishida muammo bo`lganda",
+    "C": "Miya shikastlanganda",
+    "D": "Ovoz paychalari uzilganda",
+    "javob": "A"
+  },
+  {
+    "savol": "Bola nutqi rivojlanishining birinchi bosqichi nima?",
+    "A": "Tayyorlov davri",
+    "B": "Mustaqil nutq davri",
+    "C": "Yozma nutq davri",
+    "D": "Grammatik davr",
+    "javob": "A"
+  },
+  {
+    "savol": "G.L. Rozengrad-Pupko ta`limotiga ko`ra, nutq rivojlanish bosqichlari nechta?",
+    "A": "Ikki",
+    "B": "Uch",
+    "C": "To`rt",
+    "D": "Besh",
+    "javob": "A"
+  },
+  {
+    "savol": "A.N. Leontev bo`yicha nutq rivojlanishining birinchi bosqichi nima?",
+    "A": "Tayyorgarlik davri",
+    "B": "Bog`chagacha davr",
+    "C": "Maktabgacha davr",
+    "D": "Maktab davri",
+    "javob": "A"
+  },
+  {
+    "savol": "2 yoshli bola necha so`zdan foydalanadi?",
+    "A": "Taxminan 50 ta",
+    "B": "Taxminan 10 ta",
+    "C": "Taxminan 300 ta",
+    "D": "1000 ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq rivojlanishiga qaysi omil ta`sir etmaydi?",
+    "A": "Ijtimoiy muloqot",
+    "B": "Biologik sog`lomlik",
+    "C": "Tarbiyachi nutqi",
+    "D": "Rang sezgisi",
+    "javob": "A"
+  },
+  {
+    "savol": "5 yoshli bola so`z boyligi o`rtacha qancha bo`ladi?",
+    "A": "2500–3000 so`z",
+    "B": "1000-1200 so`z",
+    "C": "5000-7000 so`z",
+    "D": "700 so`z",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutqdagi chug`urlash qaysi yoshda boshlanadi?",
+    "A": "3 oylikda",
+    "B": "1 yoshda",
+    "C": "6 oylikda",
+    "D": "9 oylikda",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq buzilishlarini tahlil qilishning maqsadi nima?",
+    "A": "Nutq nuqsonlarini ilmiy asosda aniqlash va tuzatish yo`llarini belgilash",
+    "B": "O`qituvchining baholash tizimini takomillashtirish",
+    "C": "Bolaning psixologik muhitini o`zgartirish",
+    "D": "Fiziologik mashqlarni baholash",
+    "javob": "A"
+  }
+]
