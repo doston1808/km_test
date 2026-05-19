@@ -1,0 +1,1186 @@
+[
+  {
+    "savol": "Ajratib yozishga oid noto`g`ri ta`rifni toping?",
+    "A": "Qaratuvchili birikmaning bir so`zga aylanishi bilan yuzaga kelgan qo`shma otlar ajratib yoziladi",
+    "B": "Izofali birikmalar ajratib yoziladi",
+    "C": "Murakkab son qismlari ajratib yoziladi",
+    "D": "Barcha ta`rif to`g`ri",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq madaniyatiga erishish nimaga bog`liq?",
+    "A": "Adabiy til me`yorlarini puxta egallash",
+    "B": "Til tarixini chuqur bilish",
+    "C": "Shevalardan faol foydalanish",
+    "D": "Tez va ko`p gapirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Adabiy til me`yorlariga mos nutq qanday bo`ladi?",
+    "A": "Aniq, to`g`ri va ta`sirchan",
+    "B": "Murakkab va chalkash",
+    "C": "Shevaga yaqin va notekis",
+    "D": "Rasmiy va sovuq",
+    "javob": "A"
+  },
+  {
+    "savol": "Me`yor tushunchasi nimani bildiradi?",
+    "A": "Jamiyat tan olgan til vositalari",
+    "B": "Shaxsiy nutq odatlari",
+    "C": "Yozma nutq qoidalari",
+    "D": "Alohida lahja xususiyatlari",
+    "javob": "A"
+  },
+  {
+    "savol": "Adabiy me`yor qanday shakllanadi?",
+    "A": "Til taraqqiyoti jarayonida",
+    "B": "Shaxs xohishiga ko`ra",
+    "C": "Alohida qaror bilan",
+    "D": "Tasodifiy ravishda",
+    "javob": "A"
+  },
+  {
+    "savol": "Adabiy me`yor rivojiga nimalar ta`sir etadi?",
+    "A": "Lahja va shevalar hissasi",
+    "B": "Yozuv texnikasi rivoji",
+    "C": "Tinish belgilarining ko`pligi",
+    "D": "Grammatik qoidalar soni",
+    "javob": "A"
+  },
+  {
+    "savol": "Og`zaki adabiy normaning rivojida kimlar muhim?",
+    "A": "Xalq ijodkorlari va baxshilar",
+    "B": "Rasmiy idora xodimlari",
+    "C": "Tarjimon va muharrirlar",
+    "D": "Tilshunos olimlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq madaniyati nimani o`rganadi?",
+    "A": "Adabiy me`yorlarning holatini",
+    "B": "So`zlarning kelib chiqishini",
+    "C": "Shevalar tarixini",
+    "D": "Yozuv islohotlarini",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq odobi nimani belgilaydi?",
+    "A": "Umumiy axloqiy mezonlarni",
+    "B": "Fonetik qoidalarni",
+    "C": "Grammatik shakllarni",
+    "D": "Imlo talablarini",
+    "javob": "A"
+  },
+  {
+    "savol": "Til me`yori nima sabab bilan zarur?",
+    "A": "O`zaro tushunishni ta`minlash",
+    "B": "Yozuvni qisqartirish",
+    "C": "Nutqni murakkablashtirish",
+    "D": "Shevani saqlash",
+    "javob": "A"
+  },
+  {
+    "savol": "Fonetik me`yor nimani qamrab oladi?",
+    "A": "Tovushlarning adabiy qo`llanishi",
+    "B": "Urg`uning joylashuvi",
+    "C": "So`z ma`nosi",
+    "D": "Gap tuzilishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Leksik me`yor nimaga asoslanadi?",
+    "A": "Tushunarli so`z variantini tanlash",
+    "B": "Shevaga xos so`z ishlatish",
+    "C": "Tarjima usulini qo`llash",
+    "D": "So`z qisqartirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Talaffuz me`yorlari nimani belgilaydi?",
+    "A": "Og`zaki nutqdagi adabiy talaffuz",
+    "B": "Yozma nutq shakllari",
+    "C": "So`z yasalish qoidalari",
+    "D": "Urg`u tizimi",
+    "javob": "A"
+  },
+  {
+    "savol": "Aksentologik me`yor nimani anglatadi?",
+    "A": "Urg`uning to`g`ri qo`llanishi",
+    "B": "So`z tartibining o`zgarishi",
+    "C": "Tovush almashuvi",
+    "D": "Imlo qoidalari",
+    "javob": "A"
+  },
+  {
+    "savol": "Grammatik me`yor nimani tartibga soladi?",
+    "A": "Shakllarning maqbul qo`llanishi",
+    "B": "So`z boyligining oshishi",
+    "C": "Talaffuzning aniqligi",
+    "D": "Tinish belgilarini",
+    "javob": "A"
+  },
+  {
+    "savol": "So`z yasalish me`yorlari nimaga tegishli?",
+    "A": "Qo`shimchalarning to`g`ri ishlatilishi",
+    "B": "So`z ma`nosining kengayishi",
+    "C": "Urg`u o`zgarishi",
+    "D": "Talaffuz varianti",
+    "javob": "A"
+  },
+  {
+    "savol": "Imloviy me`yor nimani ta`minlaydi?",
+    "A": "So`zlarning to`g`ri yozilishi",
+    "B": "To`g`ri talaffuz qilinishi",
+    "C": "Uslubiy rang berilishi",
+    "D": "So`z qisqarishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Grafik me`yor nimani ifodalaydi?",
+    "A": "Yozuv va alifbo tizimi",
+    "B": "Nutq odobi",
+    "C": "So`z ma`nosi",
+    "D": "Grammatik shakl",
+    "javob": "A"
+  },
+  {
+    "savol": "Punktuatsion me`yor nimaga asoslanadi?",
+    "A": "Tinish belgilarining qo`llanishi",
+    "B": "So`z yasalish jarayoni",
+    "C": "Talaffuz qoidalari",
+    "D": "Urg`u tizimi",
+    "javob": "A"
+  },
+  {
+    "savol": "Uslubiy me`yor nimani talab qiladi?",
+    "A": "Nutq vaziyatiga mos so`z tanlash",
+    "B": "Murakkab iboralardan foydalanish",
+    "C": "Eskirgan so`zlarni ishlatish",
+    "D": "Takroriy ifodalar",
+    "javob": "A"
+  },
+  {
+    "savol": "O`qituvchi nutqining ahamiyati nimada?",
+    "A": "O`quvchi nutqiga ta`sir ko`rsatish",
+    "B": "Rasmiy mavqeni saqlash",
+    "C": "Ko`p gapirish imkoniyati",
+    "D": "Tajriba namoyishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Noto`g`ri yozilgan so`zni toping?",
+    "A": "Barcha so`zlar to`g`ri yozilgan",
+    "B": "Do`st-u dushman",
+    "C": "Sovuqmijoz",
+    "D": "Dardi bedavo",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi qaysi so`zlar yordamida yasalgan qo`shma ot va qo`shma sifatlar qo`shib yoziladi?",
+    "A": "1,2,3,5,6",
+    "B": "Berilgan barcha so`zlar bilan yasalgan qo`shma ot va qo`shma sifatlar qo`shib yoziladi",
+    "C": "1,2",
+    "D": "1,2,3,6",
+    "javob": "A"
+  },
+  {
+    "savol": "Qo`shib yozish qoidasiga noto`g`ri berilgan ta`rifni toping?",
+    "A": "Qo`shma fe`lning qismlari qo`shib yoziladi",
+    "B": "–(r (inkor shakli –mas) qo`shimchasi bilan tugaydigan qo`shma ot va qo`shma sifatlar qo`shib yoziladi",
+    "C": "Takror taqlid so`zlarga qo`shimcha qo`shish bilan yasalgan ot va fe`llar qo`shib yoziladi",
+    "D": "Narsani boshqa narsaga qiyoslash yo`li bilan bildiruvchi qo`shma ot va sifatlar qo`shib yoziladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyida berilgan so`zlardan qaysi biri asli ajratib yozilishi kerak?",
+    "A": "Dardibedavo, gulibeor",
+    "B": "Qabulxona, tabriknoma, bedapoya",
+    "C": "Ommabop, xushxabar, hamsuhbat",
+    "D": "Orombaxsh, umumxalq, kamquvvat",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyida berilgan so`zlardan qaysi biri asli qo`shib yozilishi kerak?",
+    "A": "Bug`doy rang, sovuq mijoz",
+    "B": "Tarjimayi hol, nuqtayi nazar",
+    "C": "Ayta ber, kun bo`yi",
+    "D": "Berilgan so`zlarning barchasi ajratib yoziladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi so`z noto`g`ri yozilgan?",
+    "A": "Barchasi noto`g`ri yozilgan",
+    "B": "Barchasi to`g`ri yozilgan",
+    "C": "1,3,5",
+    "D": "4,5",
+    "javob": "A"
+  },
+  {
+    "savol": "Qo`shib yozish bilan bog`liq qaysi ta`rif noto`g`ri?",
+    "A": "Narsaning joyga nisbat berish asosida bildiruvchi otlar qo`shib yoziladi",
+    "B": "Rang, maza va belgi asosidagi qo`shma otlar qo`shib yoziladi",
+    "C": "Maqsad uchun mo`ljallangan qo`shma otlar qo`shib yoziladi",
+    "D": "Barcha ta`rif to`g`ri",
+    "javob": "A"
+  },
+  {
+    "savol": "Cho`lyalpiz so`zi nima uchun qo`shib yoziladi?",
+    "A": "Narsani joyga nisbat berish asosida bildiruvchi qo`shma ot bo`lgani uchun",
+    "B": "Ikkinchi qismi turdosh ot bo`lgani uchun",
+    "C": "Qaratuvchili birikmaning bir so`zga aylanishi bilan yuzaga kelgani uchun",
+    "D": "Bu so`z ajratib yoziladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Marosim nomi berilmagan qo`shma otni toping.",
+    "A": "Achchiqtosh",
+    "B": "Kiryuvdi",
+    "C": "Qoryog`di",
+    "D": "Kelintushdi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi qo`shma so`zlarning ajratib yozilishi to`g`ri berilgan?",
+    "A": "Ko`hna Urganch, O`rta Chirchiq",
+    "B": "Ur to`qmoq, Ochil dasturxon",
+    "C": "Nos qovoq, ko`zoynak",
+    "D": "Barcha so`zlarning ajratib yozilishi to`g`ri",
+    "javob": "A"
+  },
+  {
+    "savol": "Chiziqcha bilan yozishga oid ta`rif noto`g`ri berilgan javobni toping?",
+    "A": "Qisqartma so`zlarga qo`shiladigan qo`shimchalar chiziqcha bilan yoziladi",
+    "B": "Juft va takror so`zlar chiziqcha bilan yoziladi",
+    "C": "Juft so`zdan yasalgani chiziqcha bilan yoziladi",
+    "D": "Yetakchi va ko`makchi fe`l bir xil bo`lsa chiziqcha bilan yoziladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Chiziqcha bilan yozish qoidasi buzilgan qatorni toping?",
+    "A": "Do`stu-dushman, kechayu-kunduz",
+    "B": "Mehr-shafqat, bilinar-bilinmas",
+    "C": "Bitta-bittalab, ming-minglab",
+    "D": "Barchasi to`g`ri yozilgan",
+    "javob": "A"
+  },
+  {
+    "savol": "Mingboshi, so`zboshi, olmaqoqi kabi qo`shma so`zlar nega qo`shib yozilgan?",
+    "A": "Qaratuvchili birikmaning bir so`zga aylanishi bilan yuzaga kelgan",
+    "B": "Ikkinchi qismi turdosh ot bo`lgani uchun",
+    "C": "O`xshatish yo`li bilan yasalgan",
+    "D": "Ajratib yozilishi kerak",
+    "javob": "A"
+  },
+  {
+    "savol": "Rus tilidan aynan o`zlashtirilgan yoki tarjima qilingan qo`shma so`zlar qatori",
+    "A": "Berilgan barcha so`zlar",
+    "B": "Kinoteatr, radiostansiya, fotoapparat",
+    "C": "Teleko`rsatuv, yarimavtomat",
+    "D": "Bayramoldi, suvosti",
+    "javob": "A"
+  },
+  {
+    "savol": "Berilgan ta`riflarning qaysi biri xato?",
+    "A": "Barcha ta`rif to`g`ri",
+    "B": "Qisqartmalar qo`shib yoziladi",
+    "C": "Yonma-yon qisqartmalar ajratib yoziladi",
+    "D": "Cho`zilgan tovushlar harfni takror yozish bilan beriladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Takror taqlid so`zlarga qo`shimcha qo`shish bilan yasalgan so`zlar to`g`ri yozilgan qator",
+    "A": "Pirpirak, bizbizak, hayhayla, gijgijla",
+    "B": "Pirpirak, bizbizak, hayhay-la, gijgij-la",
+    "C": "Pir-pirak, biz-bizak, hay-hayla, gij-gijla",
+    "D": "Pir-pirak, biz-bizak, hayhay-la, gijgij-la",
+    "javob": "A"
+  },
+  {
+    "savol": "Joy nomi to`g`ri yozilgan javob",
+    "A": "Berilgan qo`shma so`zlar to`g`ri yozilgan",
+    "B": "Yangiyo`l, To`rtko`l",
+    "C": "Sirdaryo, Kosonsoy",
+    "D": "Yangiobod, Xalqobod",
+    "javob": "A"
+  },
+  {
+    "savol": "Narsani o`xshatish yo`li bilan bildiruvchi so`zlar berilmagan qator",
+    "A": "Kirsovun, qiymataxta, tokqaychi",
+    "B": "Karnaygul, qo`ziqorin",
+    "C": "Devqomat, sheryurak",
+    "D": "Barchasida bor",
+    "javob": "A"
+  },
+  {
+    "savol": "Narsaning rangi, mazasi asosida yasalgan qo`shma otlar berilgan qator",
+    "A": "Berilgan barcha qo`shma so`zlar mos emas",
+    "B": "Oshrayhon, molqo`ra",
+    "C": "Nosqovoq, ko`zoynak",
+    "D": "Kirsovun, qiymataxta",
+    "javob": "A"
+  },
+  {
+    "savol": "Joyga nisbat berish asosida yasalgan qo`shma otlar berilmagan qator",
+    "A": "To`rtko`l, Mirzacho`l",
+    "B": "Tog`olcha, cho`lyalpiz",
+    "C": "Suvilon, qashqargul",
+    "D": "Barchasi mos",
+    "javob": "A"
+  },
+  {
+    "savol": "Ajratib yozilishi kerak bo`lgan atoqli ot",
+    "A": "Barchasi qo`shib yoziladi",
+    "B": "Yangiyo`l, To`rtko`l",
+    "C": "Mirzacho`l, Sirdaryo",
+    "D": "Yangiobod, Xalqobod",
+    "javob": "A"
+  },
+  {
+    "savol": "Cho`zib aytiladigan so`zlar qanday yoziladi?",
+    "A": "Yo`o`q, nimaa, himm, ufff",
+    "B": "Yo`o`o`q, nimaaa, hiimm, ufff",
+    "C": "Yo`-o`q, nima-a",
+    "D": "Yo`o`q, nimaa, himm, uff",
+    "javob": "A"
+  },
+  {
+    "savol": "Chiziqcha bilan yozish qoidasiga zid ta`rif",
+    "A": "–u(-yu)dan keyin chiziqcha qo`yiladi",
+    "B": "Juft so`zdan yasalganlar chiziqcha bilan yoziladi",
+    "C": "Yetakchi va ko`makchi fe`l bir xil bo`lsa chiziqcha bilan yoziladi",
+    "D": "Barchasi to`g`ri",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi ta`rifda xatolik bor?",
+    "A": "Tartib sonlardan keyin chiziqcha qo`yiladi",
+    "B": "–ma, -ba bilan birlashganlar chiziqcha bilan yoziladi",
+    "C": "Rus tilidan olinganlar chiziqcha bilan yoziladi",
+    "D": "Barcha ta`rif to`g`ri",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi qisqartma noto`g`ri yozilgan?",
+    "A": "O`zxdpmk",
+    "B": "Samdu",
+    "C": "AQSH",
+    "D": "Barchasi to`g`ri",
+    "javob": "A"
+  },
+  {
+    "savol": "Chiziqcha bilan yozish qoidasi buzilgan qator",
+    "A": "Javoblarda xatolik yo`q",
+    "B": "Ko`chama-ko`cha",
+    "C": "O`g`lim-ey",
+    "D": "3-,7-,8-sinf",
+    "javob": "A"
+  },
+  {
+    "savol": "Chiziqcha bilan yozish qoidasi buzilgan qator",
+    "A": "Ko`rgan-ov, ko`rdi-yov",
+    "B": "1991-yilning 1-sentabri",
+    "C": "5-“A” sinfi",
+    "D": "Javoblarda xatolik yo`q",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi biri chiziqcha bilan yoziladi?",
+    "A": "Ko`chama ko`cha, uyma uy",
+    "B": "Yildan yilga",
+    "C": "Yangidan yangi",
+    "D": "Barchasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi biri ajratib yoziladi?",
+    "A": "Barchasi qo`shib yoziladi",
+    "B": "Biroz",
+    "C": "Birpas",
+    "D": "Birato`la",
+    "javob": "A"
+  },
+  {
+    "savol": "Chiziqcha bilan ajratib yozilmaydigan yuklamalar",
+    "A": "1,3,6,9",
+    "B": "2,4,5,7,8,10,11",
+    "C": "1,3,5,6,7,8,9",
+    "D": "1,3,6,8,9",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi qatorda imloviy xatolik mavjud?",
+    "A": "Barchasi to`g`ri yozilgan",
+    "B": "Yashang-e",
+    "C": "Ko`rdiyov",
+    "D": "Ich-ichidan",
+    "javob": "A"
+  },
+  {
+    "savol": "Birinchi qismi chiqish, ikkinchisi jo`nalish kelishigida bo`lgan birikmalar",
+    "A": "Ajratib",
+    "B": "Qo`shib",
+    "C": "Chiziqcha bilan",
+    "D": "A va B",
+    "javob": "A"
+  },
+  {
+    "savol": "Noto`g`ri ta`rifni toping",
+    "A": "Berilgan ta`riflarda xatolik mavjud emas",
+    "B": "Izofa i/yi bilan qo`shiladi",
+    "C": "Mustaqil bo`lmagan qismlar qo`shib yoziladi",
+    "D": "Ko`makchilar ajratib yoziladi",
+    "javob": "A"
+  },
+  {
+    "savol": "To`g`ri yozilgan so`z",
+    "A": "Uyma-uy",
+    "B": "Yangidan-yangi",
+    "C": "Tomdan-tomga",
+    "D": "Barchasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Gulbeor so`zi nega qo`shib yozilgan?",
+    "A": "Izofa yozilmaydigan so`z bo`lgani uchun",
+    "B": "Izofali birikma",
+    "C": "Qismlari mustaqil emas",
+    "D": "Ajratib yoziladi",
+    "javob": "A"
+  },
+  {
+    "savol": "O`zaro ma`nodoshlik hosil qila oladigan so`zlarni aniqlang.",
+    "A": "Mojaro, janjal, g`alva",
+    "B": "Sokin, tinch, sukut",
+    "C": "Darbadar, sargardon, qochoq",
+    "D": "Sinoat, voqea, jarayon",
+    "javob": "A"
+  },
+  {
+    "savol": "O`zaro ma`nodoshlik hosil qila oladigan so`zlarni aniqlang.",
+    "A": "Sazovor, munosib, loyiq",
+    "B": "Mash`um, noxushlik, ko`ngilsiz",
+    "C": "Azim, muazzam, qadimiy",
+    "D": "Idda, talab, chaqiriq",
+    "javob": "A"
+  },
+  {
+    "savol": "O`zaro ma`nodoshlik hosil qila oladigan so`zlarni aniqlang.",
+    "A": "Aziz, mo`tabar, muqaddas",
+    "B": "Xavf, bosim, tahlika",
+    "C": "Istehzo, uyat, nomus",
+    "D": "Muvaqqat, mangu, abadiy",
+    "javob": "A"
+  },
+  {
+    "savol": "O`zaro ma`nodoshlik hosil qila oladigan so`zlarni aniqlang.",
+    "A": "Sabot, matonat, bardosh",
+    "B": "Bachkana, sayoz, yuzaki",
+    "C": "Behuda, puch, ishonchsiz",
+    "D": "O`xshash, ayon, aniq",
+    "javob": "A"
+  },
+  {
+    "savol": "O`zaro ma`nodoshlik hosil qila oladigan so`zlarni aniqlang.",
+    "A": "Did, farosat, fahm",
+    "B": "Bachkana, xunuk, yoqimsiz",
+    "C": "Tushkun, g`amgin, siqilish",
+    "D": "Boshqacha, ajoyib, yoqimli",
+    "javob": "A"
+  },
+  {
+    "savol": "O`zaro ma`nodoshlik hosil qila oladigan so`zlarni aniqlang.",
+    "A": "Dadil, tetik, shaxdam",
+    "B": "Mazmun, ma`no, miqyos",
+    "C": "Pishiq, chidamli, quvvat",
+    "D": "Ayb, nuqson, sifatsiz",
+    "javob": "A"
+  },
+  {
+    "savol": "O`zaro ma`nodoshlik hosil qila oladigan so`zlarni aniqlang.",
+    "A": "Xat, noma, taqrir-xat",
+    "B": "Rassom, musavvir, rasm",
+    "C": "Xilvat, ovloq, kimsasiz",
+    "D": "G`am, qayg`u, a`lam-lavozim",
+    "javob": "A"
+  },
+  {
+    "savol": "O`zaro ma`nodoshlik hosil qila oladigan so`zlarni aniqlang.",
+    "A": "G`arb, mag`rib, xovar",
+    "B": "Yiqilmoq, qulamoq, sudralmoq",
+    "C": "Urish, jang, kurash",
+    "D": "Sariq, malla, zafar",
+    "javob": "A"
+  },
+  {
+    "savol": "O`zaro ma`nodoshlik hosil qila oladigan so`zlarni aniqlang.",
+    "A": "Kayfiyat, kayf, avzo",
+    "B": "Ayb, xiyonat, gunoh",
+    "C": "Jo`rttaga, atay, noiloj",
+    "D": "Evaz, badal, hisob",
+    "javob": "A"
+  },
+  {
+    "savol": "O`zaro ma`nodoshlik hosil qila oladigan so`zlarni aniqlang.",
+    "A": "Hur, erkin, sarbast",
+    "B": "Muz, yax, sovuq",
+    "C": "Obro`, e`tibor, nufus",
+    "D": "Paykal, poliz, ekin",
+    "javob": "A"
+  },
+  {
+    "savol": "O`zaro ma`nodoshlik hosil qila oladigan so`zlarni aniqlang.",
+    "A": "So`zlamoq, so`ylamoq, demoq",
+    "B": "Umr, hayot, boqiy",
+    "C": "Yangilish, xato, g`alati",
+    "D": "O`chmoq, miltillamoq, so`nmoq",
+    "javob": "A"
+  },
+  {
+    "savol": "O`zaro ma`nodoshlik hosil qila oladigan so`zlarni aniqlang.",
+    "A": "Adil, tik, to`g`ri",
+    "B": "Xuddi, aynan, naqd",
+    "C": "Tashna, suvli, chanqoq",
+    "D": "Lol, tilsiz, parishon",
+    "javob": "A"
+  },
+  {
+    "savol": "O`zaro ma`nodoshlik hosil qila oladigan so`zlarni aniqlang.",
+    "A": "Suyak, so`ngak, ustuxon",
+    "B": "Lahza, on, kun",
+    "C": "Rang, tus, xil",
+    "D": "Tabrik, qutlov, muborak",
+    "javob": "A"
+  },
+  {
+    "savol": "Imloviy jihatdan toʻgʻri yozilgan soʻzlar qatorini aniqlang.",
+    "A": "Suiisteʼmol, grammatika, hoyhoylamoq",
+    "B": "Sovutkich, hashorat, melodrama",
+    "C": "Kulgu, afv, zalvorli",
+    "D": "Qorongʻu, ertalabki, dastlabki",
+    "javob": "A"
+  },
+  {
+    "savol": "Qismlari imloviy jihatdan ajratib yoziladigan soʻzlar berilgan qatorni aniqlang.",
+    "A": "Oʻzidan oʻzi, harakat nomi, har kuni",
+    "B": "Millatlararo, Sankt-Peterburg, fotoapparat",
+    "C": "Kinoteatr, ongosti, togʻu-tosh",
+    "D": "Biratoʻla, har zamon, makon zamon",
+    "javob": "A"
+  },
+  {
+    "savol": "Chiziqcha bilan yoziladigan soʻzlar qatorini aniqlang.",
+    "A": "Sarson-sargardon, kirdi-chiqdi, toʻy-tomosha",
+    "B": "Oldi-berdi, aytdi-qoʻydi, kelib tushdi",
+    "C": "Kecha-kunduz, uzoq-yaqin, umumtaʼlim",
+    "D": "Fan-texnika, agrotexnologiya, ipotekabank",
+    "javob": "A"
+  },
+  {
+    "savol": "Imloviy jihatdan toʻgʻri yozilgan soʻzlar qatorini aniqlang.",
+    "A": "Haromnamak, hamishabahor, xayolparishon",
+    "B": "Avanturistik, abadul abad, avogadro",
+    "C": "Bakalavriyat, doktorantura, magistratura",
+    "D": "Parashut, purmaʼno, Sanskrit",
+    "javob": "A"
+  },
+  {
+    "savol": "Imloviy jihatdan notoʻgʻri yozilgan soʻzlar qatorini aniqlang.",
+    "A": "Qora xat, uzil kesil, xasharotxoʻr",
+    "B": "Ampersoat, gursillamoq, qayin-boʻyin",
+    "C": "Narko biznes, ma`rafon, yuzxotirchilik",
+    "D": "Kamfarosat, kinemotografiya, sotsiolingvistika",
+    "javob": "A"
+  },
+  {
+    "savol": "Qoʻshib yoziladigan qoʻshma soʻzlar qatorini toping.",
+    "A": "Robototexnika, birmuncha, umuminsoniy",
+    "B": "Pirpiramoq, dumdumaloq, soʻzma-soʻz",
+    "C": "Liqtoʻla, birdanbir, baxtsaodatli",
+    "D": "Shuyoqka, hech nima, ketamiz mi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qismlari imloviy jihatdan ajratib yoziladigan soʻzlar berilgan qatorni aniqlang.",
+    "A": "Har vaqt, ming qoʻyliboy, imtihon oldi",
+    "B": "Dehqonobod, charchadi-toldi, koʻrsichqon",
+    "C": "Olatoʻn, oltinbaldoq, urtoʻqmoq",
+    "D": "Binafsharang, sariqdev, qizilrang",
+    "javob": "A"
+  },
+  {
+    "savol": "Chiziqcha bilan yoziladigan soʻzlar qatorini aniqlang.",
+    "A": "Natsional-sotsialistlar, irim-jirim, tor-mor",
+    "B": "Millatlar Ligasi, Versal Vashington, Uzb Rus",
+    "C": "Toʻq-sariq, oʻzmu, qardu",
+    "D": "Achchiqchuchuk, yorbirodar, qoraqayin",
+    "javob": "A"
+  },
+  {
+    "savol": "Imloviy jihatdan toʻgʻri yozilgan soʻzlar qatorini aniqlang.",
+    "A": "Sahna, tuhfa, auditoriya",
+    "B": "Haqoratomuz, kamxarj, hasta",
+    "C": "Ahl, asl, xorgʻin",
+    "D": "Purmaʼno, avf, ilohiy",
+    "javob": "A"
+  },
+  {
+    "savol": "Imloviy jihatdan to`g`ri yozilgan soʻzlar qatorini aniqlang.",
+    "A": "Xushyorlik, istehzomuz, diagramma",
+    "B": "Bepayon, dab-durustdan, daxanaki",
+    "C": "Fojiya, estalik, boqimanda",
+    "D": "Xiylagar, jumxuriyat, kakao",
+    "javob": "A"
+  },
+  {
+    "savol": "Imloviy jihatdan toʻgʻri yozilgan soʻzlar qatorini aniqlang.",
+    "A": "Suiisteʼmol, akkaunt, xayrixohlik",
+    "B": "Kompozitor, publisistik, hashamat",
+    "C": "Hashorat, dagʻdagʻa, oʻrinbosar",
+    "D": "Hay`at, toʻgʻrilamoq, sarhisob",
+    "javob": "A"
+  },
+  {
+    "savol": "Imloviy jihatdan xato yozilgan soʻzlar qatorini aniqlang.",
+    "A": "Sovutgich, dovrugʻ, ta`magir",
+    "B": "Haqiqatdan, xarajat, kungaboqar",
+    "C": "Koʻz yosh, diagramma, naqshband",
+    "D": "Ta`qiqlamoq, masxaraboz, hidoyat",
+    "javob": "A"
+  },
+  {
+    "savol": "Imloviy jihatdan toʻgʻri yozilgan soʻzlar qatorini aniqlang.",
+    "A": "Xayol, hayot, savodxon",
+    "B": "Magistr, tugʻulmoq, ma`shuqa",
+    "C": "Xamyon, islohot, xakker",
+    "D": "Ham qishloq, vaysaqi, toʻkpechka",
+    "javob": "A"
+  },
+  {
+    "savol": "Imloviy jihatdan toʻgʻri yozilmagan soʻzlar qatorini aniqlang.",
+    "A": "Yugirdak, mutoala, taasurot",
+    "B": "Dunyoqarash, kibersport, an`anaviy",
+    "C": "Rayxon, vasiyat, taalluqli",
+    "D": "Xadis, barkamol, me`mor",
+    "javob": "A"
+  },
+  {
+    "savol": "Imloviy jihatdan xato yozilgan soʻzlar qatorini aniqlang.",
+    "A": "Hazlkash, xarchand, kastyum",
+    "B": "Turizm, devqomat, nastarin",
+    "C": "Ma`siyat, teletanlov, manba",
+    "D": "Qastdan, brifing, mardonavor",
+    "javob": "A"
+  },
+  {
+    "savol": "Chiziqcha bilan yoziladigan soʻzlar qatorini aniqlang.",
+    "A": "Xatti-harakat, hisob-kitob, uzuq-yuluq",
+    "B": "Multi-media, dam-badam, kilovatt-soat",
+    "C": "Ot-ulov, video-kuzatuv, ochiq-sochiq",
+    "D": "Vafo-jafo, tarkib-band, salom-alik",
+    "javob": "A"
+  },
+  {
+    "savol": "Barcha so`zlar to`g`ri yozilgan qatorni belgilang.",
+    "A": "Boloxona, poyabzal, afv",
+    "B": "Lotoreya, televideniya, tashviqot",
+    "C": "Shavqat, monitoring, mudofa",
+    "D": "Talofat, hashorat, naqorat",
+    "javob": "A"
+  },
+  {
+    "savol": "Imloviy jihatdan to`g`ri yozilgan so`zlar qatorini aniqlang.",
+    "A": "Hasharot, yutinmoq, fojia",
+    "B": "Tatqiqot, mabodo, tavsiya",
+    "C": "Poyafzal, tomosha, tomoman",
+    "D": "Hayriyat, burilmoq, mas`ud",
+    "javob": "A"
+  },
+  {
+    "savol": "Imloviy jihatdan noto`g`ri yozilgan so`zlar qatorini aniqlang.",
+    "A": "Avf etmoq, tadbiq etmoq, gursillamoq",
+    "B": "Suqilmoq, tushunmoq, uchurmoq",
+    "C": "Tarjimayi hol, shavqat, tazyiq o`tkazmoq",
+    "D": "Taalluqli, tamoyil, qoyida",
+    "javob": "A"
+  },
+  {
+    "savol": "Imloviy jihatdan to`g`ri yozilgan so`zlar berilgan qatorni belgilang.",
+    "A": "Dam-badam, yaxshi-yomon, tip-tiniq",
+    "B": "Sap-sariq, yengil-yelpi, qadamba-qadam",
+    "C": "Ko`pdan-ko`p, baland-baland, oz-moz",
+    "D": "Tim-qora, galma-gal, saranjom-sarishta",
+    "javob": "A"
+  },
+  {
+    "savol": "Imloviy jihatdan to`g`ri yozilgan so`zlar qatorini aniqlang.",
+    "A": "Dimog`, dovruq, intervyu",
+    "B": "Jangovar, mutola, shafqat",
+    "C": "Suxandon, manfaat, sovutkich",
+    "D": "Koordinata, islohot, mikrorganizm",
+    "javob": "A"
+  },
+  {
+    "savol": "Imloviy jihatdan to`g`ri yozilgan so`zlar qatorini aniqlang.",
+    "A": "Hazmi taom, mulohaza, mutafakkir",
+    "B": "Mujassam, nadomat, kamdan-kam",
+    "C": "Tasodifan, mutaxasis, ta`qiqlamoq",
+    "D": "Mudarris, gina-kudurat, multi-ilova",
+    "javob": "A"
+  },
+  {
+    "savol": "Imloviy jihatdan to`g`ri yozilgan so`zlar qatorini aniqlang.",
+    "A": "Raqobat, muallaq, missiya",
+    "B": "Muxolifat, ijotbaxsh, qon-qoniga",
+    "C": "Turonzamin, ko`chama-ko`cha, me`zon",
+    "D": "Mashmasha, avtoyo`l, nim pushti",
+    "javob": "A"
+  },
+  {
+    "savol": "Imloviy jihatdan to`g`ri yozilgan so`zlar qatorini aniqlang.",
+    "A": "Palapon, taassuf, tadqiqot",
+    "B": "Takalluf, tannazul, taassurot",
+    "C": "Prezident, hukmdor, mamuriyat",
+    "D": "Gramatika, administrator, tatbiq",
+    "javob": "A"
+  },
+  {
+    "savol": "Imloviy jihatdan to`g`ri yozilgan so`zlarni aniqlang.",
+    "A": "Novvoy, mojaro, mash`um",
+    "B": "Dimog`dor, komolat, na`muna",
+    "C": "Xurofot, shavqat, xilqat",
+    "D": "Muomala, nuqtai nazar, dabdurustdan",
+    "javob": "A"
+  },
+  {
+    "savol": "Imloviy jihatdan to`g`ri yozilgan so`zlar qatorini aniqlang.",
+    "A": "Saranjom, qanoat, mutolaa",
+    "B": "Nadomad, me`moriy, mas`uliyat",
+    "C": "Muddao, mutloqo, vakolat",
+    "D": "Murojaat, nafosat, mas`um",
+    "javob": "A"
+  },
+  {
+    "savol": "Imloviy jihatdan to`g`ri yozilgan so`zlar qatorini aniqlang.",
+    "A": "To`g`onoq, poyonsiz, mudarris",
+    "B": "Landavur, mardonavor, afvnoma",
+    "C": "Fidoiy, poyandoz, qatag`on",
+    "D": "Tasavvuf, vaxshiy, shoshqaloq",
+    "javob": "A"
+  },
+  {
+    "savol": "Imloviy jihatdan to`g`ri yozilgan so`zlar qatorini aniqlang.",
+    "A": "Nogahon, olomon, pachaqlamoq",
+    "B": "Mutaxassis, intellekt, jangavor",
+    "C": "Azador, kislarod, xushomad",
+    "D": "Ustomon, nadomad, taassurot",
+    "javob": "A"
+  },
+  {
+    "savol": "Imloviy jihatdan to`g`ri yozilgan so`zlar qatorini aniqlang.",
+    "A": "Ganchkor, galaktika, eksponat",
+    "B": "Diagnoz, detektiv, apparat",
+    "C": "Bahramand, grammatika, kalloriya",
+    "D": "Ekoturizm, favqulotda, korrupsiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Imloviy jihatdan to`g`ri yozilgan so`zlar qatorini aniqlang.",
+    "A": "Saranjomlik, shafqat, maynabozchilik",
+    "B": "Mas`uliyatsizlik, takkabburlik, e`lon",
+    "C": "Tajovuz, voydodlamoq, disertatsiya",
+    "D": "Jahonshumul, kommisiya, o`rgamchik",
+    "javob": "A"
+  },
+  {
+    "savol": "Buyruq-istak kelasi zamonning qo`shimchalari to`g`ri ko`rsatilgan javobni toping.",
+    "A": "-sin, -aylik, -ing, -inglar",
+    "B": "-di, -gan, -r",
+    "C": "-moqchi, -sa, -di",
+    "D": "-uvchi, -ayotgan",
+    "javob": "A"
+  },
+  {
+    "savol": "“Ular ertaga yig`ilishga kelsin” gapida fe`l qaysi zamonda?",
+    "A": "Buyruq-istak kelasi zamon",
+    "B": "Gumon kelasi zamon",
+    "C": "Aniq kelasi zamon",
+    "D": "O`tgan zamon",
+    "javob": "A"
+  },
+  {
+    "savol": "“Men sizni ko`rishga kelmoqchiman” fe`lida qanday ma`no ifodalangan?",
+    "A": "Iroda va niyat",
+    "B": "Taxmin",
+    "C": "Shart",
+    "D": "Odat",
+    "javob": "A"
+  },
+  {
+    "savol": "“Odam bolasidan hamma narsa chiqar” gapidagi fe`l qaysi zamon turiga kiradi?",
+    "A": "Gumon kelasi zamon",
+    "B": "Aniq kelasi zamon",
+    "C": "Buyruq-istak kelasi zamon",
+    "D": "Hozirgi zamon",
+    "javob": "A"
+  },
+  {
+    "savol": "Kelasi zamon fe`li orqali so`zlovchi nimani bildiradi?",
+    "A": "O`z munosabatini: qat`iylik yoki gumonni",
+    "B": "O`tgan voqeani",
+    "C": "Shartli holatni",
+    "D": "Tugallanganlikni",
+    "javob": "A"
+  },
+  {
+    "savol": "“U ham tez orada qaytib kelar” jumlasidagi fe`l qanday zamon shaklida?",
+    "A": "Shartli kelasi zamon",
+    "B": "Aniq kelasi zamon",
+    "C": "Buyruq-istak kelasi zamon",
+    "D": "Hozirgi zamon",
+    "javob": "A"
+  },
+  {
+    "savol": "“Sen bu ishni ertaga bajargin” jumlasida qanday fe`l ishlatilgan?",
+    "A": "Buyruq-istak kelasi zamon",
+    "B": "Aniq kelasi zamon",
+    "C": "Gumon kelasi zamon",
+    "D": "Hozirgi zamon",
+    "javob": "A"
+  },
+  {
+    "savol": "“Bahor kelsa, qushlar sayraydi” gapidagi “sayraydi” fe`li qanday ma`no beradi?",
+    "A": "Odat va doimiylik",
+    "B": "Shart",
+    "C": "Taxmin",
+    "D": "Buyruq",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi gapda aniq kelasi zamon fe`li ishlatilgan?",
+    "A": "Yig`ilish soat 9:00 da boshlanadi.",
+    "B": "Bugun yomg`ir yogar.",
+    "C": "Ular ertaga kelsin.",
+    "D": "Sen bu ishni bajargin.",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi shakl aniq kelasi zamon hosil qiladi?",
+    "A": "-adi/-ydi",
+    "B": "-moqda",
+    "C": "-gan",
+    "D": "-sa",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi fe`l shakli “taxmin” ma`nosini beradi?",
+    "A": "-ar/-r",
+    "B": "-di",
+    "C": "-moqchi",
+    "D": "-sin",
+    "javob": "A"
+  },
+  {
+    "savol": "Ingliz tilida kelasi zamon qanday so`zlar bilan ifodalanadi?",
+    "A": "Will/shall",
+    "B": "Do/does",
+    "C": "Has/have",
+    "D": "Was/were",
+    "javob": "A"
+  },
+  {
+    "savol": "Fe`lning gapdagi ma`lum bir bo`lak vazifasini bajarishga mos shakli nima deyiladi?",
+    "A": "Funktsional forma",
+    "B": "Fe`lning zamoni",
+    "C": "Fe`lning turi",
+    "D": "Fe`lning mayli",
+    "javob": "A"
+  },
+  {
+    "savol": "Fe`lning funktsional formalari qaysilar?",
+    "A": "Sof fe`l, ravishdosh, sifatdosh, harakat nomi",
+    "B": "Fe`l, ot, sifat, son",
+    "C": "Asosiy va yordamchi fe`l",
+    "D": "Faol va majhul fe`l",
+    "javob": "A"
+  },
+  {
+    "savol": "Gapda kesim vazifasida keluvchi fe`l shakli qanday ataladi?",
+    "A": "Sof fe`l",
+    "B": "Ravishdosh",
+    "C": "Sifatdosh",
+    "D": "Harakat nomi",
+    "javob": "A"
+  },
+  {
+    "savol": "“U har kuni mashq qiladi” gapidagi “qiladi” fe`li qaysi turga kiradi?",
+    "A": "Sof fe`l",
+    "B": "Ravishdosh",
+    "C": "Sifatdosh",
+    "D": "Harakat nomi",
+    "javob": "A"
+  },
+  {
+    "savol": "“Borib keldi” birikmasidagi “borib” shakli qanday fe`l turiga kiradi?",
+    "A": "Ravishdosh",
+    "B": "Sof fe`l",
+    "C": "Sifatdosh",
+    "D": "Harakat nomi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ravishdosh qanday qo`shimchalar bilan yasaladi?",
+    "A": "-b, -ib, -a, -y, -gani, -gach, -guncha",
+    "B": "-moq, -v, -sh",
+    "C": "-gan, -ayotgan, -uvchi",
+    "D": "-sin, -aylik, -ing",
+    "javob": "A"
+  },
+  {
+    "savol": "“O`qib chiqdi” birikmasidagi “o`qib” ravishdoshi qanday vazifada kelgan?",
+    "A": "Qo`shma fe`lning yetakchi qismi",
+    "B": "Hol",
+    "C": "Aniqlovchi",
+    "D": "To`ldiruvchi",
+    "javob": "A"
+  },
+  {
+    "savol": "“O`qigach, dam oldi” gapidagi “o`qigach” shakli qaysi ravishdosh qo`shimchasi bilan yasalgan?",
+    "A": "-gach",
+    "B": "-gani",
+    "C": "-guncha",
+    "D": "-b",
+    "javob": "A"
+  },
+  {
+    "savol": "Sifatdosh nima?",
+    "A": "Predmetning belgisini harakat orqali bildiruvchi fe`l shakli",
+    "B": "Harakat tarzini bildiruvchi fe`l shakli",
+    "C": "Ish-harakatning nomini bildiruvchi shakl",
+    "D": "Kesimlik shakli",
+    "javob": "A"
+  },
+  {
+    "savol": "“Kelayotgan o`quvchi” so`z birikmasidagi “kelayotgan” fe`li qanday shaklda?",
+    "A": "Sifatdosh",
+    "B": "Sof fe`l",
+    "C": "Ravishdosh",
+    "D": "Harakat nomi",
+    "javob": "A"
+  },
+  {
+    "savol": "Sifatdoshning asosiy qo`shimchalari qaysilar?",
+    "A": "-gan, -ayotgan, -uvchi, -ajak",
+    "B": "-moq, -v",
+    "C": "-b, -ib, -gani",
+    "D": "-sin, -aylik",
+    "javob": "A"
+  },
+  {
+    "savol": "“Kitob o`qigan bola” gapidagi “o`qigan” so`zi qanday shaklda?",
+    "A": "Sifatdosh",
+    "B": "Ravishdosh",
+    "C": "Harakat nomi",
+    "D": "Sof fe`l",
+    "javob": "A"
+  },
+  {
+    "savol": "“Yugurib ketdi” gapida “yugurib” fe`li qanday vazifada kelgan?",
+    "A": "Hol",
+    "B": "Kesim",
+    "C": "To`ldiruvchi",
+    "D": "Aniqlovchi",
+    "javob": "A"
+  },
+  {
+    "savol": "“O`qish inson uchun zarur” gapidagi “o`qish” fe`li qaysi turga kiradi?",
+    "A": "Harakat nomi",
+    "B": "Sof fe`l",
+    "C": "Sifatdosh",
+    "D": "Ravishdosh",
+    "javob": "A"
+  },
+  {
+    "savol": "Harakat nomi qanday qo`shimchalar bilan yasaladi?",
+    "A": "-sh, -ish, -v, -uv, -moq",
+    "B": "-gan, -ayotgan",
+    "C": "-b, -ib, -gani",
+    "D": "-sin, -aylik",
+    "javob": "A"
+  },
+  {
+    "savol": "“Yozish, o`qish, ishlash” so`zlari qanday fe`l shakliga kiradi?",
+    "A": "Harakat nomi",
+    "B": "Ravishdosh",
+    "C": "Sifatdosh",
+    "D": "Sof fe`l",
+    "javob": "A"
+  },
+  {
+    "savol": "“Men sizni ko`rmoqchiman” gapidagi “ko`rmoqchi” fe`li qaysi shaklda?",
+    "A": "Sof fe`l",
+    "B": "Harakat nomi",
+    "C": "Sifatdosh",
+    "D": "Ravishdosh",
+    "javob": "A"
+  },
+  {
+    "savol": "“Ilmni o`rganib, odam kamol topadi” gapidagi “o`rganib” fe`li qanday?",
+    "A": "Ravishdosh",
+    "B": "Sifatdosh",
+    "C": "Harakat nomi",
+    "D": "Sof fe`l",
+    "javob": "A"
+  },
+  {
+    "savol": "“O`qiyotgan bola” so`z birikmasidagi “o`qiyotgan” fe`li nimani bildiradi?",
+    "A": "Hozirgi davomiy harakat belgisi",
+    "B": "Bo`lishsiz shakl",
+    "C": "Ish-harakatning nomi",
+    "D": "Shart mayli",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi so`zlardan qaysi biri sifatdosh emas?",
+    "A": "O`qish",
+    "B": "O`qigan",
+    "C": "O`qiyotgan",
+    "D": "O`quvchi",
+    "javob": "A"
+  },
+  {
+    "savol": "Fe`lning yasalish usullari nechta va ular qanday ataladi?",
+    "A": "Ikki: morfologik va sintaktik",
+    "B": "Uch: morfologik, semantik, sintaktik",
+    "C": "Bitta: affiksatsiya",
+    "D": "To`rt: morfologik, fonetik, semantik, sintaktik",
+    "javob": "A"
+  },
+  {
+    "savol": "Morfologik usulda fe`l qanday yo`l bilan yasaladi?",
+    "A": "Maxsus affikslar yordamida",
+    "B": "So`zlarni biriktirish orqali",
+    "C": "So`zlarni qisqartirish orqali",
+    "D": "Ma`nosini o`zgartirmasdan",
+    "javob": "A"
+  },
+  {
+    "savol": "Sintaktik usulda fe`l qanday yo`l bilan yasaladi?",
+    "A": "Ikki yoki undan ortiq so`z asosi birikib",
+    "B": "Yordamchi so`zlar qo`shilib",
+    "C": "Fe`l negiziga -la affiksi qo`shilib",
+    "D": "Ot asosidan",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi fe`llardan qaysi biri morfologik usul bilan yasalgan?",
+    "A": "Bahola",
+    "B": "Olib chiqmoq",
+    "C": "Sotib olmoq",
+    "D": "Aytib ko`rmoq",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi fe`llardan qaysi biri sintaktik usul bilan yasalgan?",
+    "A": "Javob bermoq",
+    "B": "O`yna",
+    "C": "Qo`rqa",
+    "D": "Yugur",
+    "javob": "A"
+  },
+  {
+    "savol": "“Qo`l qo`ymoq” qo`shma fe`lining tarkibiy qolipi to`g`ri ko`rsatilgan variantni aniqlang.",
+    "A": "Ot + fe`l",
+    "B": "Fe`l + fe`l",
+    "C": "Sifat + fe`l",
+    "D": "Ot + ot",
+    "javob": "A"
+  },
+  {
+    "savol": "“Sotib olmoq” qo`shma fe`li qanday qolip asosida yasalgan?",
+    "A": "Fe`l + fe`l",
+    "B": "Ot + fe`l",
+    "C": "Sifat + fe`l",
+    "D": "Ot + ot",
+    "javob": "A"
+  },
+  {
+    "savol": "“Qo`shma fe`l” bilan “ko`makchi fe`lli qo`shilma” o`rtasidagi asosiy farq nima?",
+    "A": "Qo`shmada har ikki qism leksik ma`noni saqlaydi",
+    "B": "Qo`shmada ma`no faqat ikkinchi qismda bo`ladi",
+    "C": "Qo`shmada modal ma`no ustun bo`ladi",
+    "D": "Qo`shmada faqat ravishdosh ishlatiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "“Aytib ko`r” birikmasidagi “ko`r” so`zi qanday vazifani bajaradi?",
+    "A": "Ko`makchi fe`l",
+    "B": "Yetakchi fe`l",
+    "C": "To`ldiruvchi",
+    "D": "Hol",
+    "javob": "A"
+  },
+  {
+    "savol": "-la affiksi yordamida qanday so`z turkumlaridan fe`l yasaladi?",
+    "A": "Barcha so`z turkumlaridan",
+    "B": "Ot va sifatdan",
+    "C": "Taqlidiy so`zlardan",
+    "D": "Olmoshdan",
+    "javob": "A"
+  },
+  {
+    "savol": "“Tezla” fe`lida qaysi so`z turkumidan fe`l yasalgan?",
+    "A": "Ravish",
+    "B": "Ot",
+    "C": "Sifat",
+    "D": "Undov",
+    "javob": "A"
+  },
+  {
+    "savol": "“Shodlan” fe`lida nechta affiks qatnashgan?",
+    "A": "Ikki (-la + n)",
+    "B": "Bitta (-lan)",
+    "C": "Uchta (-la + n + a)",
+    "D": "Ikki (-a + n)",
+    "javob": "A"
+  },
+  {
+    "savol": "“Birlashdi”, “xayrlashdi”, “gaplash” fe`llari qanday nisbatni ifodalaydi?",
+    "A": "Birgalik nisbati",
+    "B": "O`zlik nisbati",
+    "C": "Majhullik nisbati",
+    "D": "Orttirma nisbat",
+    "javob": "A"
+  },
+  {
+    "savol": "“O`qimoqchiman” fe`lida qanday ma`no mavjud?",
+    "A": "Maqsad va niyat",
+    "B": "Taxmin",
+    "C": "Davomiylik",
+    "D": "Tugallanganlik",
+    "javob": "A"
+  },
+  {
+    "savol": "“O`qiydiganman” fe`li qanday zamonni bildiradi?",
+    "A": "Kelasi zamon maqsad fe`li",
+    "B": "Hozirgi zamon",
+    "C": "O`tgan zamon",
+    "D": "Gumon fe`li",
+    "javob": "A"
+  },
+  {
+    "savol": "“Sabr qilsang, qadring oshar” gapidagi “oshar” fe`li qanday ma`noda?",
+    "A": "Hozirgi-kelasi zamon ma`nosida",
+    "B": "O`tgan zamon ma`nosida",
+    "C": "Gumon ma`nosida",
+    "D": "Tugallanmagan harakatda",
+    "javob": "A"
+  },
+  {
+    "savol": "O`tgan zamon hikoya fe`li nima uchun ishlatiladi?",
+    "A": "O`tgan voqeani hikoya tarzida ifodalash uchun",
+    "B": "Hozirgi holatni ko`rsatish uchun",
+    "C": "Kelajakdagi gumonni ifodalash uchun",
+    "D": "Shart ma`nosini ifodalash uchun",
+    "javob": "A"
+  }
+]
