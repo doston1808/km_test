@@ -1,0 +1,1122 @@
+[
+  {
+    "savol": "C++ dasturlash tilida qaysi ifoda ekranga ma'lumot chiqarish uchun ishlatiladi?",
+    "A": "cout",
+    "B": "cin",
+    "C": "out",
+    "D": "print",
+    "javob": "A"
+  },
+  {
+    "savol": "C++ dasturlash tilida qanday belgidan satr oxirini bildiradi?",
+    "A": ";",
+    "B": ":",
+    "C": ".",
+    "D": ",",
+    "javob": "A"
+  },
+  {
+    "savol": "C++ dasturlash tilida qanday ma'lumot turi butun sonlarni saqlaydi?",
+    "A": "int",
+    "B": "float",
+    "C": "double",
+    "D": "char",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi operator C++ dasturlash tilida ikkita qiymatni qo'shadi?",
+    "A": "+",
+    "B": "-",
+    "C": "*",
+    "D": "/",
+    "javob": "A"
+  },
+  {
+    "savol": "C++ dasturlash tilida qaysi kalit so'z konstantani aniqlaydi?",
+    "A": "const",
+    "B": "var",
+    "C": "define",
+    "D": "permanent",
+    "javob": "A"
+  },
+  {
+    "savol": "C++ dasturlash tilida qanday operator bog'lanishni (comparison) amalga oshiradi?",
+    "A": "==",
+    "B": "=",
+    "C": "!",
+    "D": "<>",
+    "javob": "A"
+  },
+  {
+    "savol": "C++ dasturlash tilida bo’lish amali qanday ifodalanadi?",
+    "A": "/",
+    "B": "*",
+    "C": "%",
+    "D": "++",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi C++ operatori ikkita qiymat orasida yoki bog'lanishini bildiradi?",
+    "A": "||",
+    "B": "&&",
+    "C": "!",
+    "D": "==",
+    "javob": "A"
+  },
+  {
+    "savol": "C++ dasturlash tilida qandaydir qismdan shartni tekshirish uchun ishlatiladi?",
+    "A": "if",
+    "B": "for",
+    "C": "while",
+    "D": "switch",
+    "javob": "A"
+  },
+  {
+    "savol": "C++ dasturlash tilida qanday kalit so'z sikllarni to'xtatadi?",
+    "A": "break",
+    "B": "continue",
+    "C": "stop",
+    "D": "exit",
+    "javob": "A"
+  },
+  {
+    "savol": "C++ dasturlash tilida qaysi operator inkrementlashni amalga oshiradi?",
+    "A": "++",
+    "B": "--",
+    "C": "**",
+    "D": "+",
+    "javob": "A"
+  },
+  {
+    "savol": "C++ dasturlash tilida satrlarni ifodalash uchun qanday ma'lumot turi ishlatiladi?",
+    "A": "string",
+    "B": "char",
+    "C": "text",
+    "D": "array",
+    "javob": "A"
+  },
+  {
+    "savol": "C++ dasturlash tilida qanday metod yangi satr (new line) hosil qiladi?",
+    "A": "\\n",
+    "B": "\\r",
+    "C": "\\t",
+    "D": "\\\\",
+    "javob": "A"
+  },
+  {
+    "savol": "C++ dasturlash tilida qanday qiymat 0 va 1 ni o'z ichiga olishi mumkin?",
+    "A": "bool",
+    "B": "int",
+    "C": "char",
+    "D": "float",
+    "javob": "A"
+  },
+  {
+    "savol": "C++ dasturlash tilida shartlarni tekshirish uchun qanday ifodalar ishlatiladi?",
+    "A": "if...else",
+    "B": "try...catch",
+    "C": "case...switch",
+    "D": "repeat...until",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi funksiya foydalanuvchidan ma'lumot kiritishni so'raydi?",
+    "A": "cin",
+    "B": "cout",
+    "C": "scanf",
+    "D": "printf",
+    "javob": "A"
+  },
+  {
+    "savol": "C++ dasturlash tilida qaysi operator matematik bo'linish uchun ishlatiladi?",
+    "A": "/",
+    "B": "%",
+    "C": "//",
+    "D": "div",
+    "javob": "A"
+  },
+  {
+    "savol": "C++ dasturlash tilida qanday operator tenglikni tekshiradi?",
+    "A": "==",
+    "B": "=",
+    "C": "!=",
+    "D": "<=>",
+    "javob": "A"
+  },
+  {
+    "savol": "C++ dasturlash tilida qanday operator qiymatni boshqa qiymatga tayinlaydi?",
+    "A": "=",
+    "B": "==",
+    "C": "!=",
+    "D": "<=",
+    "javob": "A"
+  },
+  {
+    "savol": "C++ dasturlash tilida qanday metod qiymatni o'zgaruvchiga to'g'ri bog'laydi?",
+    "A": "=",
+    "B": "+=",
+    "C": "*=",
+    "D": "/=",
+    "javob": "A"
+  },
+  {
+    "savol": "C++ dasturlash tilida qanday operator \"va\" (and) bog'lanishini amalga oshiradi?",
+    "A": "&&",
+    "B": "||",
+    "C": "!",
+    "D": "and",
+    "javob": "A"
+  },
+  {
+    "savol": "C++ dasturlash tilida qaysi operator qoldiqni hisoblaydi?",
+    "A": "%",
+    "B": "/",
+    "C": "*",
+    "D": "+",
+    "javob": "A"
+  },
+  {
+    "savol": "C++ dasturlash tilida qaysi kalit so'z yordamida o'zgaruvchi aniqlanadi?",
+    "A": "int",
+    "B": "number",
+    "C": "var",
+    "D": "define",
+    "javob": "A"
+  },
+  {
+    "savol": "C++ dasturlash tilida qanday operator biror qiymatni taqqoslash uchun ishlatiladi?",
+    "A": "!=",
+    "B": "=!",
+    "C": "!!",
+    "D": "<=!",
+    "javob": "A"
+  },
+  {
+    "savol": "C++ dasturlash tilida qaysi operator qiymatni bo'lishni amalga oshiradi?",
+    "A": "/",
+    "B": "%",
+    "C": "div",
+    "D": "||",
+    "javob": "A"
+  },
+  {
+    "savol": "C++ dasturlash tilida qaysi operator bit ketma-ketligini siljitish uchun ishlatiladi?",
+    "A": "<<",
+    "B": ">>",
+    "C": "<",
+    "D": "~",
+    "javob": "A"
+  },
+  {
+    "savol": "C++ dasturlash tilida qaysi ma'lumot turi belgilarni saqlaydi?",
+    "A": "char",
+    "B": "int",
+    "C": "float",
+    "D": "double",
+    "javob": "A"
+  },
+  {
+    "savol": "C++ dasturlash tilida qaysi operator belgilarni qo'shish uchun ishlatiladi?",
+    "A": "+",
+    "B": "++",
+    "C": "concat",
+    "D": "+=",
+    "javob": "A"
+  },
+  {
+    "savol": "C++ dasturlash tilida qaysi kalit so'z yordamida funksiya qaytaradigan qiymatni ko'rsatadi?",
+    "A": "return",
+    "B": "output",
+    "C": "give",
+    "D": "exit",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi kalit so'z yordamida C++ dasturlash tilida biror narsani oxirida qilsangiz bo'ladi?",
+    "A": "Else",
+    "B": "elif",
+    "C": "or",
+    "D": "continue",
+    "javob": "A"
+  },
+  {
+    "savol": "C++ dasturlash tilida qaysi operator ikkita qiymat o'rtasidagi mantiqiy noto'g'ri bo'lishni bildiradi?",
+    "A": "!=",
+    "B": "==",
+    "C": "=",
+    "D": "<",
+    "javob": "A"
+  },
+  {
+    "savol": "C++ dasturlash tilida qaysi kalit so'z yordamida satrlarni e'lon qilish mumkin?",
+    "A": "string",
+    "B": "text",
+    "C": "char[]",
+    "D": "varchar",
+    "javob": "A"
+  },
+  {
+    "savol": "C++ dasturlash tilida sikldan chiqish uchun qaysi kalit so'z ishlatiladi?",
+    "A": "break",
+    "B": "exit",
+    "C": "stop",
+    "D": "return",
+    "javob": "A"
+  },
+  {
+    "savol": "C++ dasturlash tilida qaysi operator qiymatlarni taqqoslaydi va mantiqiy yoki bilan ishlaydi?",
+    "A": "||",
+    "B": "&&",
+    "C": "and",
+    "D": "not",
+    "javob": "A"
+  },
+  {
+    "savol": "C++ dasturlash tilida qanday operator qiymatni to'liq qoldiqsiz bo'lish uchun ishlatiladi?",
+    "A": "/",
+    "B": "%",
+    "C": "div",
+    "D": "*",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi kalit so'z yordamida C++ dasturlash tilida doimiy qiymat aniqlanadi?",
+    "A": "const",
+    "B": "final",
+    "C": "static",
+    "D": "constant",
+    "javob": "A"
+  },
+  {
+    "savol": "C++ dasturlash tilida qanday operator qiymatni taqqoslash uchun ishlatiladi?",
+    "A": "==",
+    "B": "<=>",
+    "C": "!=",
+    "D": "<",
+    "javob": "A"
+  },
+  {
+    "savol": "C++ dasturlash tilida qaysi operator raqamlar orasidagi qoldiqni hisoblaydi?",
+    "A": "%",
+    "B": "/",
+    "C": "*",
+    "D": "-",
+    "javob": "A"
+  },
+  {
+    "savol": "C++ dasturlash tilida qanday operator qiymatni mantiqiy to'g'ri qilib tekshiradi?",
+    "A": "==",
+    "B": "=",
+    "C": "!=",
+    "D": "<>",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi metod yordamida C++ dasturlash tilida qiymatning qoldig'ini oladi?",
+    "A": "%",
+    "B": "/",
+    "C": "div",
+    "D": "mod",
+    "javob": "A"
+  },
+  {
+    "savol": "C++ dasturlash tilida qanday operator qiymatlarni arifmetik orttirma bo'yicha hisoblaydi?",
+    "A": "++",
+    "B": "--",
+    "C": "+=",
+    "D": "-=",
+    "javob": "A"
+  },
+  {
+    "savol": "C++ dasturlash tilida qanday kalit so'z yordamida ma'lumot kiritiladi?",
+    "A": "cin",
+    "B": "cout",
+    "C": "input",
+    "D": "enter",
+    "javob": "A"
+  },
+  {
+    "savol": "C++ dasturlash tilida qaysi operator stringlarni birlashtirish uchun ishlatiladi?",
+    "A": "+",
+    "B": "concat",
+    "C": "join",
+    "D": "merge",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi kalit so'z yordamida C++ dasturlash tilida shartli kod yoziladi?",
+    "A": "if",
+    "B": "switch",
+    "C": "for",
+    "D": "while",
+    "javob": "A"
+  },
+  {
+    "savol": "C++ dasturlash tilida qanday ma'lumot turi haqiqiy sonlarni saqlaydi?",
+    "A": "float",
+    "B": "int",
+    "C": "char",
+    "D": "bool",
+    "javob": "A"
+  },
+  {
+    "savol": "C++ dasturlash tilida qaysi kalit so'z yordamida funksiya qaytargan qiymat ishlatiladi?",
+    "A": "return",
+    "B": "result",
+    "C": "output",
+    "D": "give",
+    "javob": "A"
+  },
+  {
+    "savol": "C++ dasturlash tilida qaysi operator qiymatlarni taqqoslash uchun mantiqiy \"yoki\" ni bildiradi?",
+    "A": "||",
+    "B": "&&",
+    "C": "or",
+    "D": "not",
+    "javob": "A"
+  },
+  {
+    "savol": "C++ dasturlash tilida qanday operator qiymatlarni yuqoridan pastgacha tartibga solish uchun ishlatiladi?",
+    "A": ">",
+    "B": "<",
+    "C": "==",
+    "D": "<=",
+    "javob": "A"
+  },
+  {
+    "savol": "C++ dasturlash tilida qanday operator qiymatlarni taqqoslashda foydalaniladi?",
+    "A": "==",
+    "B": "!=",
+    "C": "<",
+    "D": "&",
+    "javob": "A"
+  },
+  {
+    "savol": "C++ dasturlash tilida if da katta yoki teng amali qaysi belgi orqali amalga oshiriladi?",
+    "A": ">=",
+    "B": "==",
+    "C": "!=",
+    "D": "&&",
+    "javob": "A"
+  },
+  {
+    "savol": "C++ dasturlash tilida if da kichik yoki teng amali qaysi belgi orqali amalga oshiriladi?",
+    "A": "<=",
+    "B": "=!",
+    "C": "!=",
+    "D": "==",
+    "javob": "A"
+  },
+  {
+    "savol": "C++ dasturlash tilida While da katta amali qaysi belgi orqali amalga oshiriladi?",
+    "A": ">",
+    "B": "<",
+    "C": "!",
+    "D": "P",
+    "javob": "A"
+  },
+  {
+    "savol": "C++ dasturlash tilida While da kichik amali qaysi belgi orqali amalga oshiriladi?",
+    "A": "<",
+    "B": ">",
+    "C": "(",
+    "D": "{",
+    "javob": "A"
+  },
+  {
+    "savol": "C++ dasturlash tilida While da katta yoki teng amali qaysi belgi orqali amalga oshiriladi?",
+    "A": ">=",
+    "B": "==",
+    "C": "!=",
+    "D": "&&",
+    "javob": "A"
+  },
+  {
+    "savol": "C++ dasturlash tilida While da kichik yoki teng amali qaysi belgi orqali amalga oshiriladi?",
+    "A": "<=",
+    "B": "=!",
+    "C": "!=",
+    "D": "==",
+    "javob": "A"
+  },
+  {
+    "savol": "C++ dasturlash tilida While da teng amali qaysi belgi orqali amalga oshiriladi?",
+    "A": "==",
+    "B": "!=",
+    "C": "=!",
+    "D": "<>",
+    "javob": "A"
+  },
+  {
+    "savol": "C++ dasturlash tilida While da teng emas amali qaysi belgi orqali amalga oshiriladi?",
+    "A": "!=",
+    "B": "<",
+    "C": "><",
+    "D": "==",
+    "javob": "A"
+  },
+  {
+    "savol": "C++ dasturlash tilida do..while qanaqa qiymanti qaytarishi mumkin?",
+    "A": "bool",
+    "B": "int",
+    "C": "float",
+    "D": "long",
+    "javob": "A"
+  },
+  {
+    "savol": "C++ dasturlash tilida do..while qanaqa qiymanti qaytarishi mumkin?",
+    "A": "True",
+    "B": "Size",
+    "C": "Hello",
+    "D": "Print",
+    "javob": "A"
+  },
+  {
+    "savol": "C++ dasturlash tilida do..while qanaqa qiymanti qaytarishi mumkin?",
+    "A": "False",
+    "B": "Length",
+    "C": "Int",
+    "D": "String",
+    "javob": "A"
+  },
+  {
+    "savol": "C++ dasturlash tilida do..while da katta amali qaysi belgi orqali amalga oshiriladi?",
+    "A": ">",
+    "B": "<",
+    "C": "!",
+    "D": "P",
+    "javob": "A"
+  },
+  {
+    "savol": "C++ dasturlash tilida do..while da kichik amali qaysi belgi orqali amalga oshiriladi?",
+    "A": "<",
+    "B": ">",
+    "C": "(",
+    "D": "{",
+    "javob": "A"
+  },
+  {
+    "savol": "C++ dasturlash tilida do..while da katta yoki teng amali qaysi belgi orqali amalga oshiriladi?",
+    "A": ">=",
+    "B": "==",
+    "C": "!=",
+    "D": "&&",
+    "javob": "A"
+  },
+  {
+    "savol": "C++ dasturlash tilida do..while da kichik yoki teng amali qaysi belgi orqali amalga oshiriladi?",
+    "A": "<=",
+    "B": "=!",
+    "C": "!=",
+    "D": "==",
+    "javob": "A"
+  },
+  {
+    "savol": "C++ dasturlash tilida do..while da teng amali qaysi belgi orqali amalga oshiriladi?",
+    "A": "==",
+    "B": "!=",
+    "C": "=!",
+    "D": "<>",
+    "javob": "A"
+  },
+  {
+    "savol": "C++ dasturlash tilida do..while da teng emas amali qaysi belgi orqali amalga oshiriladi?",
+    "A": "!=",
+    "B": "<",
+    "C": "><",
+    "D": "==",
+    "javob": "A"
+  },
+  {
+    "savol": "C++ dasturlash tilida for da katta amali qaysi belgi orqali amalga oshiriladi?",
+    "A": ">",
+    "B": "<",
+    "C": "!",
+    "D": "P",
+    "javob": "A"
+  },
+  {
+    "savol": "C++ dasturlash tilida for da kichik amali qaysi belgi orqali amalga oshiriladi?",
+    "A": "<",
+    "B": ">",
+    "C": "(",
+    "D": "{",
+    "javob": "A"
+  },
+  {
+    "savol": "C++ dasturlash tilida for da katta yoki teng amali qaysi belgi orqali amalga oshiriladi?",
+    "A": ">=",
+    "B": "==",
+    "C": "!=",
+    "D": "&&",
+    "javob": "A"
+  },
+  {
+    "savol": "C++ dasturlash tilida for da kichik yoki teng amali qaysi belgi orqali amalga oshiriladi?",
+    "A": "<=",
+    "B": "=!",
+    "C": "!=",
+    "D": "==",
+    "javob": "A"
+  },
+  {
+    "savol": "C++ dasturlash tilida for da teng amali qaysi belgi orqali amalga oshiriladi?",
+    "A": "==",
+    "B": "!=",
+    "C": "=!",
+    "D": "<>",
+    "javob": "A"
+  },
+  {
+    "savol": "C++ dasturlash tilida for da teng emas amali qaysi belgi orqali amalga oshiriladi?",
+    "A": "!=",
+    "B": "<",
+    "C": "><",
+    "D": "==",
+    "javob": "A"
+  },
+  {
+    "savol": "C++ dasturlash tilida quyida kod fragmentida i o’zgaruvchisining qiymati nechiga osyapti: for(int i=0; i<10; i++) { amal(lar);}",
+    "A": "1",
+    "B": "2",
+    "C": "3",
+    "D": "4",
+    "javob": "A"
+  },
+  {
+    "savol": "C++ dasturlash tilida quyida kod fragmentida i o’zgaruvchisining qiymati nechiga osyapti: for(int i=0; i<10; i+=4) { amal(lar);}",
+    "A": "4",
+    "B": "5",
+    "C": "6",
+    "D": "7",
+    "javob": "A"
+  },
+  {
+    "savol": "C++ dasturlash tilida quyida kod fragmentida i o’zgaruvchisining qiymati nechiga o’zgaryapdi: for(int i=0; i<10; i-=4) { amal(lar);}",
+    "A": "4",
+    "B": "5",
+    "C": "6",
+    "D": "7",
+    "javob": "A"
+  },
+  {
+    "savol": "C++ dasturlash tilida quyida kod fragmentida i o’zgaruvchisining qiymati nechiga o’zgaryapdi: for(int i=0; i<10; i--) { amal(lar);}",
+    "A": "1",
+    "B": "2",
+    "C": "3",
+    "D": "4",
+    "javob": "A"
+  },
+  {
+    "savol": "C++ dasturlash tilida quyida kod fragmentida i o’zgaruvchisi qaysi mantiqiy amal orqali tekshilyapdi: for(int i=0; i<10; i--) { amal(lar);}",
+    "A": "Kichik",
+    "B": "Katta",
+    "C": "Teng",
+    "D": "Teng emas",
+    "javob": "A"
+  },
+  {
+    "savol": "C++ dasturlash tilida quyida kod fragmentida i o’zgaruvchisi qaysi mantiqiy amal orqali tekshilyapdi: for(int i=100; i>10; i--) { amal(lar);}",
+    "A": "Katta",
+    "B": "Kichik",
+    "C": "Teng",
+    "D": "Teng emas",
+    "javob": "A"
+  },
+  {
+    "savol": "C++ dasturlash tilida quyida kod fragmentida i o’zgaruvchisi qaysi mantiqiy amal orqali tekshilyapdi: for(int i=0; i<=10; i--) { amal(lar);}",
+    "A": "Kichik yoki teng",
+    "B": "Katta yoki teng",
+    "C": "Teng",
+    "D": "Teng emas",
+    "javob": "A"
+  },
+  {
+    "savol": "C++ dasturlash tilida quyida kod fragmentida i o’zgaruvchisi qaysi mantiqiy amal orqali tekshilyapdi: for(int i=100; i>=10; i--) { amal(lar);}",
+    "A": "Katta yoki teng",
+    "B": "Kichik yoki teng",
+    "C": "Teng",
+    "D": "Teng emas",
+    "javob": "A"
+  },
+  {
+    "savol": "C++ dasturlash tilida quyida kod fragmentida i o’zgaruvchisi qaysi mantiqiy amal orqali tekshilyapdi: while(i>=10) { amal(lar);}",
+    "A": "Katta yoki teng",
+    "B": "Kichik yoki teng",
+    "C": "Teng",
+    "D": "Teng emas",
+    "javob": "A"
+  },
+  {
+    "savol": "C++ dasturlash tilida quyida kod fragmentida i o’zgaruvchisi qaysi mantiqiy amal orqali tekshilyapdi: while(i<=10) { amal(lar);}",
+    "A": "Kichik yoki teng",
+    "B": "Teng",
+    "C": "Teng emas",
+    "D": "Katta yoki teng",
+    "javob": "A"
+  },
+  {
+    "savol": "C++ dasturlash tilida quyida kod fragmentida i o’zgaruvchisi qaysi mantiqiy amal orqali tekshilyapdi: while(i==10) { amal(lar);}",
+    "A": "Teng",
+    "B": "Teng emas",
+    "C": "Katta yoki teng",
+    "D": "Kichik yoki teng",
+    "javob": "A"
+  },
+  {
+    "savol": "C++ dasturlash tilida quyida kod fragmentida i o’zgaruvchisi qaysi mantiqiy amal orqali tekshilyapdi: while(i<10) { amal(lar);}",
+    "A": "Kichik",
+    "B": "Teng",
+    "C": "Teng emas",
+    "D": "Katta yoki teng",
+    "javob": "A"
+  },
+  {
+    "savol": "C++ dasturlash tilida quyida kod fragmentida i o’zgaruvchisi qaysi mantiqiy amal orqali tekshilyapdi: while(i>10) { amal(lar);}",
+    "A": "Katta",
+    "B": "Teng",
+    "C": "Teng emas",
+    "D": "Katta yoki teng",
+    "javob": "A"
+  },
+  {
+    "savol": "C++ dasturlash tilida quyida kod fragmentida i o’zgaruvchisi qaysi mantiqiy amal orqali tekshilyapdi: while(i!=10) { amal(lar);}",
+    "A": "Teng emas",
+    "B": "Teng",
+    "C": "Katta emas",
+    "D": "Katta",
+    "javob": "A"
+  },
+  {
+    "savol": "C++ dasturlash tilida quyida kod fragmentida i o’zgaruvchisining qiymati nimaga teng: i=15; while(i==10) { amal(lar);}",
+    "A": "15",
+    "B": "10",
+    "C": "20",
+    "D": "12",
+    "javob": "A"
+  },
+  {
+    "savol": "C++ dasturlash tilida quyida kod fragmentida i o’zgaruvchisining qiymati nimaga teng: i=1; while(i=>10) { amal(lar);}",
+    "A": "1",
+    "B": "2",
+    "C": "3",
+    "D": "4",
+    "javob": "A"
+  },
+  {
+    "savol": "C++ dasturlash tilida quyida kod fragmentida i o’zgaruvchisining qiymati nimaga teng: i=22; while(i=<10) { amal(lar);}",
+    "A": "22",
+    "B": "10",
+    "C": "12",
+    "D": "23",
+    "javob": "A"
+  },
+  {
+    "savol": "C++ dasturlash tilida quyida kod fragmentida i o’zgaruvchisining qiymati nimaga teng: i=28; while(i<10) { amal(lar);}",
+    "A": "28",
+    "B": "10",
+    "C": "14",
+    "D": "13",
+    "javob": "A"
+  },
+  {
+    "savol": "C++ dasturlash tilida struct nima?",
+    "A": "Ma'lumotlarning bir nechta turini birlashtiruvchi foydalanuvchi tipi",
+    "B": "Butun sonlar saqlanadigan konteyner",
+    "C": "Funksiyalarni o'z ichiga oladi",
+    "D": "Pointerlar to‘plami",
+    "javob": "A"
+  },
+  {
+    "savol": "Struct e’lon qilishda qaysi kalit so‘z ishlatiladi?",
+    "A": "struct",
+    "B": "class",
+    "C": "object",
+    "D": "define",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri struct to‘g‘ri sintaksisiga misol bo‘ladi?",
+    "A": "struct Student { int id; string name; };",
+    "B": "structure Student = { int id, string name };",
+    "C": "Student { int id; string name }",
+    "D": "struct = Student { id:int; name:string };",
+    "javob": "A"
+  },
+  {
+    "savol": "Struct ichida nimalar bo‘lishi mumkin?",
+    "A": "o‘zgaruvchilar",
+    "B": "O‘zgaruvchilar va funksiyalar",
+    "C": "konstantalar",
+    "D": "classlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Struct a'zolariga qanday murojaat qilinadi?",
+    "A": "obj.ayzo",
+    "B": "obj->ayzo",
+    "C": "obj::ayzo",
+    "D": "obj[ayzo]",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi kod nimani bildiradi?struct Point { int x, y; }; Point p = {10, 20};",
+    "A": "p obyektining x = 10, y = 20 qiymatlari bor",
+    "B": "Bu noto‘g‘ri yozilgan",
+    "C": "p faqat int qiymatlar qabul qiladi",
+    "D": "x va y qiymati 0 ga teng bo‘ladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Struct qiymatlarini qanday chiqaramiz?",
+    "A": "cout << obj.ayzo;",
+    "B": "cin << obj.ayzo;",
+    "C": "print(obj.ayzo);",
+    "D": "obj >> ayzo;",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi kodda nima xato?struct Test { int a; int b;}",
+    "A": "; nuqtali vergul yo‘q",
+    "B": "int noto‘g‘ri ishlatilgan",
+    "C": "struct bo‘lishi shart emas",
+    "D": "a va b e’lon qilinmagan",
+    "javob": "A"
+  },
+  {
+    "savol": "Struct ichida struct bo‘lishi mumkinmi?",
+    "A": "Ha",
+    "B": "Yo‘q",
+    "C": "class ichida mumkin",
+    "D": "enum bo‘ladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi kodda qanday struct bor?struct Student { int id; string name; struct Address { string city; };};",
+    "A": "Ichma-ich (nested) struct",
+    "B": "bitta struct",
+    "C": "Static struct",
+    "D": "Bu class",
+    "javob": "A"
+  },
+  {
+    "savol": "int a[5]; necha elementli massiv yaratadi?",
+    "A": "5",
+    "B": "4",
+    "C": "6",
+    "D": "Xatolik",
+    "javob": "A"
+  },
+  {
+    "savol": "Massiv indekslari nechinchi sondan boshlanadi?",
+    "A": "0",
+    "B": "-1",
+    "C": "1",
+    "D": "2",
+    "javob": "A"
+  },
+  {
+    "savol": "Massivda 3-elementga qanday murojaat qilinadi?",
+    "A": "a[3]",
+    "B": "a(3)",
+    "C": "a{3}",
+    "D": "a.3",
+    "javob": "A"
+  },
+  {
+    "savol": "int a[] = {1, 2, 3}; massiv uzunligi?",
+    "A": "3",
+    "B": "2",
+    "C": "4",
+    "D": "Belgilanmagan",
+    "javob": "A"
+  },
+  {
+    "savol": "a[2] ifodasi nimani bildiradi?",
+    "A": "3-element",
+    "B": "1-element",
+    "C": "2-element",
+    "D": "Xatolik",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagidan qaysi biri to‘g‘ri e’lon?",
+    "A": "int a[5];",
+    "B": "int a(5);",
+    "C": "int[5] a;",
+    "D": "int a = {1,2,3};",
+    "javob": "A"
+  },
+  {
+    "savol": "Massiv qiymatlarini qanday chiqaramiz?",
+    "A": "cout << a[0];",
+    "B": "cout << a;",
+    "C": "print(a);",
+    "D": "write a;",
+    "javob": "A"
+  },
+  {
+    "savol": "Massivda qiymatni yangilash mumkinmi?",
+    "A": "Ha",
+    "B": "Yo‘q",
+    "C": "bir marta",
+    "D": "Har doim emas",
+    "javob": "A"
+  },
+  {
+    "savol": "int a[5] = {1,2,3}; - a[3] qiymati?",
+    "A": "0",
+    "B": "3",
+    "C": "Belgilanmagan",
+    "D": "1",
+    "javob": "A"
+  },
+  {
+    "savol": "2 o‘lchovli massiv qanday e’lon qilinadi?",
+    "A": "int a[2][3];",
+    "B": "int a[2,3];",
+    "C": "int a{2}[3];",
+    "D": "array a[2][3];",
+    "javob": "A"
+  },
+  {
+    "savol": "2 o‘lchovli massivga murojaat: a[1][2] nimani bildiradi?",
+    "A": "1-qator, 2-ustun",
+    "B": "2-qator, 3-ustun",
+    "C": "Xatolik",
+    "D": "To‘liq qatordagi qiymat",
+    "javob": "A"
+  },
+  {
+    "savol": "a[0] = a[1] + a[2]; - bu qanday amal?",
+    "A": "Qo‘shish",
+    "B": "Nusxa olish",
+    "C": "Saralash",
+    "D": "O‘chirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Massivni qiymatlarini sikl orqali chop etish to‘g‘rimi?",
+    "A": "Ha",
+    "B": "Yo‘q",
+    "C": "pointer bilan",
+    "D": "1 element",
+    "javob": "A"
+  },
+  {
+    "savol": "C++ dasturlash tilida yozilgan dastur fragmentida qanday element tasvirlangan: int a[10]",
+    "A": "Bir o’lchamli massiv",
+    "B": "Ikki o’lchamli massiv",
+    "C": "Uch o’lchamli massiv",
+    "D": "To’rt o’lchamli massiv",
+    "javob": "A"
+  },
+  {
+    "savol": "C++ dasturlash tilida yozilgan dastur fragmentida qanday element tasvirlangan: int array[72]",
+    "A": "Bir o’lchamli massiv",
+    "B": "Ikki o’lchamli massiv",
+    "C": "Uch o’lchamli massiv",
+    "D": "To’rt o’lchamli massiv",
+    "javob": "A"
+  },
+  {
+    "savol": "C++ dasturlash tilida yozilgan dastur fragmentida massiv uzunligi nechiga teng: int array[72]",
+    "A": "72",
+    "B": "12",
+    "C": "77",
+    "D": "16",
+    "javob": "A"
+  },
+  {
+    "savol": "C++ dasturlash tilida yozilgan dastur fragmentida massiv uzunligi nechiga teng: int array[10]",
+    "A": "10",
+    "B": "15",
+    "C": "16",
+    "D": "0",
+    "javob": "A"
+  },
+  {
+    "savol": "C++ dasturlash tilida yozilgan dastur fragmentida massiv uzunligi nechiga teng: int array[n]",
+    "A": "n",
+    "B": "m",
+    "C": "j",
+    "D": "10",
+    "javob": "A"
+  },
+  {
+    "savol": "C++ dasturlash tilida yozilgan dastur fragmentida massiv uzunligi nechiga teng: int array[k]",
+    "A": "k",
+    "B": "n",
+    "C": "m",
+    "D": "J",
+    "javob": "A"
+  },
+  {
+    "savol": "C++ dasturlash tilida yozilgan dastur fragmentida massiv uzunligi nechiga teng: int array[h]",
+    "A": "h",
+    "B": "d",
+    "C": "w",
+    "D": "S",
+    "javob": "A"
+  },
+  {
+    "savol": "C++ dasturlash tilida yozilgan dastur fragmentida massiv qana tipga mansub: int array[h]",
+    "A": "int",
+    "B": "float",
+    "C": "real",
+    "D": "lonf",
+    "javob": "A"
+  },
+  {
+    "savol": "C++ dasturlash tilida yozilgan dastur fragmentida massiv qana tipga mansub: float array[h]",
+    "A": "float",
+    "B": "int",
+    "C": "real",
+    "D": "long",
+    "javob": "A"
+  },
+  {
+    "savol": "C++ dasturlash tilida yozilgan dastur fragmentida massiv qana tipga mansub: string array[h]",
+    "A": "string",
+    "B": "float",
+    "C": "inf",
+    "D": "delete",
+    "javob": "A"
+  },
+  {
+    "savol": "C++ dasturlash tilida yozilgan dastur fragmentida massiv qana tipga mansub: long array[h]",
+    "A": "long",
+    "B": "double",
+    "C": "float",
+    "D": "inf",
+    "javob": "A"
+  },
+  {
+    "savol": "C++ dasturlash tilida yozilgan dastur fragmentida massiv qana tipga mansub: unsigned int array[h]",
+    "A": "unsigned int",
+    "B": "int",
+    "C": "real",
+    "D": "delete",
+    "javob": "A"
+  },
+  {
+    "savol": "C++ dasturlash tilida yozilgan dastur fragmentida massiv qana tipga mansub: unsigned long int array[h]",
+    "A": "unsigned long int",
+    "B": "unsigned long floar",
+    "C": "unsigned long delete",
+    "D": "unsigned long short",
+    "javob": "A"
+  },
+  {
+    "savol": "C++ dasturlash tilida yozilgan dastur fragmentida massiv uzunligi nechiga teng: int array[] = {1,2,3,4,5}",
+    "A": "5",
+    "B": "4",
+    "C": "3",
+    "D": "2",
+    "javob": "A"
+  },
+  {
+    "savol": "C++ dasturlash tilida yozilgan dastur fragmentida massiv uzunligi nechiga teng: int array[] = {4,3,2,3,4,5,6}",
+    "A": "7",
+    "B": "8",
+    "C": "3",
+    "D": "6",
+    "javob": "A"
+  },
+  {
+    "savol": "C++ dasturlash tilida yozilgan dastur fragmentida massiv uzunligi nechiga teng: int array[] = {3,2,67}",
+    "A": "3",
+    "B": "67",
+    "C": "12",
+    "D": "2",
+    "javob": "A"
+  },
+  {
+    "savol": "C++ dasturlash tilida yozilgan dastur fragmentida massiv uzunligi nechiga teng: int array[] = {54,32,45,67,54,32}",
+    "A": "6",
+    "B": "67",
+    "C": "5",
+    "D": "54",
+    "javob": "A"
+  },
+  {
+    "savol": "C++ dasturlash tilida yozilgan dastur fragmentida massiv uzunligi nechiga teng: int array[] = {0,0,0,0,0,0,0,0,0,0}",
+    "A": "10",
+    "B": "11",
+    "C": "12",
+    "D": "9",
+    "javob": "A"
+  },
+  {
+    "savol": "C++ dasturlash tilida yozilgan dastur fragmentida massiv uzunligi nechiga teng: int array[] = {1,2,1,2,1,2}",
+    "A": "6",
+    "B": "7",
+    "C": "8",
+    "D": "9",
+    "javob": "A"
+  },
+  {
+    "savol": "C++ dasturlash tilida yozilgan dastur fragmentida i ning qiymati nechiga teng: int i=2; int d = i+4;",
+    "A": "2",
+    "B": "3",
+    "C": "4",
+    "D": "5",
+    "javob": "A"
+  },
+  {
+    "savol": "C++ dasturlash tilida yozilgan dastur fragmentida d ning qiymati nechiga teng: int i=2; int d = i+4;",
+    "A": "6",
+    "B": "7",
+    "C": "8",
+    "D": "9",
+    "javob": "A"
+  },
+  {
+    "savol": "C++ dasturlash tilida yozilgan dastur fragmentida d ning qiymati nechiga teng: int i=5; int d = i+4;",
+    "A": "9",
+    "B": "7",
+    "C": "5",
+    "D": "0",
+    "javob": "A"
+  },
+  {
+    "savol": "C++ dasturlash tilida yozilgan dastur fragmentida d ning qiymati nechiga teng: int i=2; int d = i*4;",
+    "A": "8",
+    "B": "9",
+    "C": "10",
+    "D": "11",
+    "javob": "A"
+  },
+  {
+    "savol": "C++ dasturlash tilida yozilgan dastur fragmentida i ning qiymati nechiga teng: int i=2; int d += i;",
+    "A": "2",
+    "B": "3",
+    "C": "4",
+    "D": "5",
+    "javob": "A"
+  },
+  {
+    "savol": "C++ dasturlash tilida yozilgan dastur fragmentida i ning qiymati nechiga teng: int i=6; int d += i;",
+    "A": "6",
+    "B": "7",
+    "C": "8",
+    "D": "9",
+    "javob": "A"
+  },
+  {
+    "savol": "C++ dasturlash tilida yozilgan dastur fragmentida i ning qiymati nechiga teng: int d=8; int i += d;",
+    "A": "8",
+    "B": "9",
+    "C": "12",
+    "D": "6",
+    "javob": "A"
+  },
+  {
+    "savol": "C++ dasturlash tilida qanday operator qiymatlarni arifmetik kamaytirish orqali hisoblaydi?",
+    "A": "--",
+    "B": "++",
+    "C": "-+",
+    "D": "+=",
+    "javob": "A"
+  }
+]
