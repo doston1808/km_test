@@ -1,0 +1,802 @@
+[
+  {
+    "savol": "I........ a student",
+    "A": "Am",
+    "B": "Is",
+    "C": "Are",
+    "D": "Being",
+    "javob": "A"
+  },
+  {
+    "savol": "She........ my sister",
+    "A": "Is",
+    "B": "Am",
+    "C": "Are",
+    "D": "Been",
+    "javob": "A"
+  },
+  {
+    "savol": "We........ friends",
+    "A": "Are",
+    "B": "Am",
+    "C": "Is",
+    "D": "Being",
+    "javob": "A"
+  },
+  {
+    "savol": "He........ tall",
+    "A": "Is",
+    "B": "Am",
+    "C": "Are",
+    "D": "Be",
+    "javob": "A"
+  },
+  {
+    "savol": "They........ happy",
+    "A": "Are",
+    "B": "Am",
+    "C": "Is",
+    "D": "Being",
+    "javob": "A"
+  },
+  {
+    "savol": "It........ cold",
+    "A": "Is",
+    "B": "Am",
+    "C": "Are",
+    "D": "Been",
+    "javob": "A"
+  },
+  {
+    "savol": "You........ kind",
+    "A": "Are",
+    "B": "Am",
+    "C": "Is",
+    "D": "Be",
+    "javob": "A"
+  },
+  {
+    "savol": "I........ hungry",
+    "A": "Am",
+    "B": "Is",
+    "C": "Are",
+    "D": "Being",
+    "javob": "A"
+  },
+  {
+    "savol": "My brother........ ten",
+    "A": "Is",
+    "B": "Am",
+    "C": "Are",
+    "D": "Be",
+    "javob": "A"
+  },
+  {
+    "savol": "The cats........ ___ cute",
+    "A": "Are",
+    "B": "Am",
+    "C": "Is",
+    "D": "Being",
+    "javob": "A"
+  },
+  {
+    "savol": "This book........ interesting",
+    "A": "Is",
+    "B": "Am",
+    "C": "Are",
+    "D": "Be",
+    "javob": "A"
+  },
+  {
+    "savol": "We........ ready",
+    "A": "Are",
+    "B": "Am",
+    "C": "Is",
+    "D": "Being",
+    "javob": "A"
+  },
+  {
+    "savol": "She........ in the room",
+    "A": "Is",
+    "B": "Am",
+    "C": "Are",
+    "D": "Being",
+    "javob": "A"
+  },
+  {
+    "savol": "You........ my friend",
+    "A": "Are",
+    "B": "Am",
+    "C": "Is",
+    "D": "Being",
+    "javob": "A"
+  },
+  {
+    "savol": "The children........ in the park",
+    "A": "Are",
+    "B": "Am",
+    "C": "Is",
+    "D": "Be",
+    "javob": "A"
+  },
+  {
+    "savol": "I........ tired",
+    "A": "Am",
+    "B": "Is",
+    "C": "Are",
+    "D": "Been",
+    "javob": "A"
+  },
+  {
+    "savol": "He........ at home",
+    "A": "Is",
+    "B": "Am",
+    "C": "Are",
+    "D": "Be",
+    "javob": "A"
+  },
+  {
+    "savol": "They........ late",
+    "A": "Are",
+    "B": "Am",
+    "C": "Is",
+    "D": "Been",
+    "javob": "A"
+  },
+  {
+    "savol": "It........ __ easy",
+    "A": "Is",
+    "B": "Am",
+    "C": "Are",
+    "D": "Be",
+    "javob": "A"
+  },
+  {
+    "savol": "My parents........ doctors",
+    "A": "Are",
+    "B": "Am",
+    "C": "Is",
+    "D": "Been",
+    "javob": "A"
+  },
+  {
+    "savol": "The weather........ nice",
+    "A": "Is",
+    "B": "Am",
+    "C": "Are",
+    "D": "Been",
+    "javob": "A"
+  },
+  {
+    "savol": "I........ happy",
+    "A": "Am",
+    "B": "Is",
+    "C": "Are",
+    "D": "Been",
+    "javob": "A"
+  },
+  {
+    "savol": "She........ a good student",
+    "A": "Is",
+    "B": "Am",
+    "C": "Are",
+    "D": "Be",
+    "javob": "A"
+  },
+  {
+    "savol": "We........ in the garden",
+    "A": "Are",
+    "B": "Am",
+    "C": "Is",
+    "D": "Be",
+    "javob": "A"
+  },
+  {
+    "savol": "You........ my best friend",
+    "A": "Are",
+    "B": "Am",
+    "C": "Is",
+    "D": "Been",
+    "javob": "A"
+  },
+  {
+    "savol": "I........ eat breakfast every day",
+    "A": "Eat",
+    "B": "Have eaten",
+    "C": "Eating",
+    "D": "Had eaten",
+    "javob": "A"
+  },
+  {
+    "savol": "Ann ........ to school on Monday",
+    "A": "Goes",
+    "B": "Has gone",
+    "C": "Going",
+    "D": "Had gone",
+    "javob": "A"
+  },
+  {
+    "savol": "We........ football on Sundays",
+    "A": "Play",
+    "B": "Have played",
+    "C": "Playing",
+    "D": "Had played",
+    "javob": "A"
+  },
+  {
+    "savol": "Liza........ pizza",
+    "A": "Likes",
+    "B": "Has liked",
+    "C": "Liking",
+    "D": "Had liked",
+    "javob": "A"
+  },
+  {
+    "savol": "They........ in Kiev",
+    "A": "Live",
+    "B": "Have lived",
+    "C": "Living",
+    "D": "Had lived",
+    "javob": "A"
+  },
+  {
+    "savol": "It........ a lot in spring",
+    "A": "Rains",
+    "B": "Has rained",
+    "C": "Raining",
+    "D": "Had rained",
+    "javob": "A"
+  },
+  {
+    "savol": "I........ stories",
+    "A": "Read",
+    "B": "Have read",
+    "C": "Reading",
+    "D": "Had read",
+    "javob": "A"
+  },
+  {
+    "savol": "We........ water every morning",
+    "A": "Drink",
+    "B": "Have drunk",
+    "C": "Drinking",
+    "D": "Had drunk",
+    "javob": "A"
+  },
+  {
+    "savol": "His brother........ TV",
+    "A": "Watches",
+    "B": "Has watched",
+    "C": "Watching",
+    "D": "Had watched",
+    "javob": "A"
+  },
+  {
+    "savol": "The dogs........ on the floor",
+    "A": "Sleep",
+    "B": "Have slept",
+    "C": "Sleeping",
+    "D": "Had slept",
+    "javob": "A"
+  },
+  {
+    "savol": "That textbook........ many pages",
+    "A": "Has",
+    "B": "Has had",
+    "C": "Having",
+    "D": "Had had",
+    "javob": "A"
+  },
+  {
+    "savol": "We........ Russian",
+    "A": "Study",
+    "B": "Have studied",
+    "C": "Studying",
+    "D": "Had studied",
+    "javob": "A"
+  },
+  {
+    "savol": "Donna........ letters",
+    "A": "Writes",
+    "B": "Has written",
+    "C": "Writing",
+    "D": "Had written",
+    "javob": "A"
+  },
+  {
+    "savol": "You........ your friends",
+    "A": "Help",
+    "B": "Have helped",
+    "C": "Helping",
+    "D": "Had helped",
+    "javob": "A"
+  },
+  {
+    "savol": "The boys........ in the yard",
+    "A": "Play",
+    "B": "Have played",
+    "C": "Playing",
+    "D": "Had played",
+    "javob": "A"
+  },
+  {
+    "savol": "I........ Cola",
+    "A": "Like",
+    "B": "Have liked",
+    "C": "Liking",
+    "D": "Had liked",
+    "javob": "A"
+  },
+  {
+    "savol": "Alisher........ newspapers",
+    "A": "Reads",
+    "B": "Has read",
+    "C": "Reading",
+    "D": "Had read",
+    "javob": "A"
+  },
+  {
+    "savol": "They........ English",
+    "A": "Speak",
+    "B": "Have spoken",
+    "C": "Speaking",
+    "D": "Had spoken",
+    "javob": "A"
+  },
+  {
+    "savol": "It........ me sad",
+    "A": "Makes",
+    "B": "Has made",
+    "C": "Making",
+    "D": "Had made",
+    "javob": "A"
+  },
+  {
+    "savol": "His friends........ in a school",
+    "A": "Work",
+    "B": "Have worked",
+    "C": "Working",
+    "D": "Had worked",
+    "javob": "A"
+  },
+  {
+    "savol": "The weather........ usually",
+    "A": "Changes",
+    "B": "Has changed",
+    "C": "Changing",
+    "D": "Had changed",
+    "javob": "A"
+  },
+  {
+    "savol": "We........ to bed early",
+    "A": "Go",
+    "B": "Have gone",
+    "C": "Going",
+    "D": "Had gone",
+    "javob": "A"
+  },
+  {
+    "savol": "She........ supper",
+    "A": "Cooks",
+    "B": "Has cooked",
+    "C": "Cooking",
+    "D": "Had cooked",
+    "javob": "A"
+  },
+  {
+    "savol": "We........ to rock music",
+    "A": "Listen",
+    "B": "Have listened",
+    "C": "Listening",
+    "D": "Had listened",
+    "javob": "A"
+  },
+  {
+    "savol": "You........ your room",
+    "A": "Clean",
+    "B": "Have cleaned",
+    "C": "Cleaning",
+    "D": "Had cleaned",
+    "javob": "A"
+  },
+  {
+    "savol": "They........ to school tomorrow",
+    "A": "Will go",
+    "B": "Go",
+    "C": "Have gone",
+    "D": "Went",
+    "javob": "A"
+  },
+  {
+    "savol": "She........ you next week",
+    "A": "Will help",
+    "B": "Helps",
+    "C": "Has helped",
+    "D": "Helped",
+    "javob": "A"
+  },
+  {
+    "savol": "We........ football on Sunday",
+    "A": "Will play",
+    "B": "Play",
+    "C": "Have played",
+    "D": "Played",
+    "javob": "A"
+  },
+  {
+    "savol": "He........ pizza tonight",
+    "A": "Will eat",
+    "B": "Eats",
+    "C": "Has eaten",
+    "D": "Ate",
+    "javob": "A"
+  },
+  {
+    "savol": "They........ London next year",
+    "A": "Will visit",
+    "B": "Visit",
+    "C": "Have visited",
+    "D": "Visited",
+    "javob": "A"
+  },
+  {
+    "savol": "It........ heavily tomorrow",
+    "A": "Will rain",
+    "B": "Rains",
+    "C": "Has rained",
+    "D": "Rained",
+    "javob": "A"
+  },
+  {
+    "savol": "You........ this book next week",
+    "A": "Will read",
+    "B": "Read",
+    "C": "Have read",
+    "D": "Read",
+    "javob": "A"
+  },
+  {
+    "savol": "I........ tea later",
+    "A": "Will drink",
+    "B": "Drink",
+    "C": "Have drunk",
+    "D": "Drank",
+    "javob": "A"
+  },
+  {
+    "savol": "Their son........ TV tomorrow",
+    "A": "Will watch",
+    "B": "Watches",
+    "C": "Has watched",
+    "D": "Watched",
+    "javob": "A"
+  },
+  {
+    "savol": "The kitten........ on the pillow tomorrow",
+    "A": "Will sleep",
+    "B": "Sleep",
+    "C": "Have slept",
+    "D": "Slept",
+    "javob": "A"
+  },
+  {
+    "savol": "This book........ many pages in 2030",
+    "A": "Will have",
+    "B": "Having",
+    "C": "Has had",
+    "D": "Had",
+    "javob": "A"
+  },
+  {
+    "savol": "We........ tomorrow",
+    "A": "Will study",
+    "B": "Study",
+    "C": "Have studied",
+    "D": "Studied",
+    "javob": "A"
+  },
+  {
+    "savol": "She........ a letter next week",
+    "A": "Will write",
+    "B": "Writes",
+    "C": "Has written",
+    "D": "Wrote",
+    "javob": "A"
+  },
+  {
+    "savol": "You........ your friends tomorrow",
+    "A": "Will help",
+    "B": "Help",
+    "C": "Have helped",
+    "D": "Helped",
+    "javob": "A"
+  },
+  {
+    "savol": "The children........ in the yard later",
+    "A": "Will play",
+    "B": "Play",
+    "C": "Have played",
+    "D": "Played",
+    "javob": "A"
+  },
+  {
+    "savol": "I........ ice cream tomorrow",
+    "A": "Will like",
+    "B": "Like",
+    "C": "Have liked",
+    "D": "Liked",
+    "javob": "A"
+  },
+  {
+    "savol": "He........ newspapers tomorrow",
+    "A": "Will read",
+    "B": "Reads",
+    "C": "Has read",
+    "D": "Read",
+    "javob": "A"
+  },
+  {
+    "savol": "They........ English next week",
+    "A": "Will speak",
+    "B": "Speak",
+    "C": "Have spoken",
+    "D": "Spoke",
+    "javob": "A"
+  },
+  {
+    "savol": "It........ me happy tomorrow",
+    "A": "Will make",
+    "B": "Makes",
+    "C": "Has made",
+    "D": "Made",
+    "javob": "A"
+  },
+  {
+    "savol": "My parents........ in a school next week",
+    "A": "Will work",
+    "B": "Work",
+    "C": "Have worked",
+    "D": "Worked",
+    "javob": "A"
+  },
+  {
+    "savol": "The weather........ tomorrow",
+    "A": "Will change",
+    "B": "Changes",
+    "C": "Has changed",
+    "D": "Changed",
+    "javob": "A"
+  },
+  {
+    "savol": "I........ to bed early tomorrow",
+    "A": "Will go",
+    "B": "Go",
+    "C": "Have gone",
+    "D": "Went",
+    "javob": "A"
+  },
+  {
+    "savol": "She........ dinner tomorrow",
+    "A": "Will cook",
+    "B": "Cooks",
+    "C": "Has cooked",
+    "D": "Cooked",
+    "javob": "A"
+  },
+  {
+    "savol": "We........ to music tomorrow",
+    "A": "Will listen",
+    "B": "Listen",
+    "C": "Have listened",
+    "D": "Listened",
+    "javob": "A"
+  },
+  {
+    "savol": "I........ breakfast yesterday",
+    "A": "Cooked",
+    "B": "Cooking",
+    "C": "Have cooking",
+    "D": "Will cooking",
+    "javob": "A"
+  },
+  {
+    "savol": "She........ to school last Monday",
+    "A": "Went",
+    "B": "Goes",
+    "C": "Has going",
+    "D": "Will going",
+    "javob": "A"
+  },
+  {
+    "savol": "We........ football last Sunday",
+    "A": "Played",
+    "B": "Play",
+    "C": "Have playing",
+    "D": "Will playing",
+    "javob": "A"
+  },
+  {
+    "savol": "He........ pizza last night",
+    "A": "Liked",
+    "B": "Likes",
+    "C": "Has liking",
+    "D": "Will liking",
+    "javob": "A"
+  },
+  {
+    "savol": "They........ in London last year",
+    "A": "Lived",
+    "B": "Live",
+    "C": "Have lived",
+    "D": "Living",
+    "javob": "A"
+  },
+  {
+    "savol": "It........ yesterday",
+    "A": "Rained",
+    "B": "Rains",
+    "C": "Has raining",
+    "D": "Will raining",
+    "javob": "A"
+  },
+  {
+    "savol": "You........ this book last week",
+    "A": "Opened",
+    "B": "Opening",
+    "C": "Have",
+    "D": "Will",
+    "javob": "A"
+  },
+  {
+    "savol": "I........ water this morning",
+    "A": "Opened",
+    "B": "Opening",
+    "C": "Have opening",
+    "D": "Will opening",
+    "javob": "A"
+  },
+  {
+    "savol": "Her brother........ show yesterday",
+    "A": "Watched",
+    "B": "Watches",
+    "C": "Has watched",
+    "D": "Will watching",
+    "javob": "A"
+  },
+  {
+    "savol": "Children........ on the bed last night",
+    "A": "Rested",
+    "B": "Resting",
+    "C": "Have resting",
+    "D": "Will resting",
+    "javob": "A"
+  },
+  {
+    "savol": "These boys ........ many pages",
+    "A": "Learned",
+    "B": "Has learned",
+    "C": "Have learning",
+    "D": "Will learning",
+    "javob": "A"
+  },
+  {
+    "savol": "Students........ history yesterday",
+    "A": "Studied",
+    "B": "Study",
+    "C": "Have Studied",
+    "D": "Will Study",
+    "javob": "A"
+  },
+  {
+    "savol": "She........ a letter last week",
+    "A": "Finished",
+    "B": "Finishing",
+    "C": "Has finishing",
+    "D": "Will finishing",
+    "javob": "A"
+  },
+  {
+    "savol": "Joseph........ his mom yesterday",
+    "A": "Helped",
+    "B": "Help",
+    "C": "Have helped",
+    "D": "Will help",
+    "javob": "A"
+  },
+  {
+    "savol": "The girls........ in the street yesterday",
+    "A": "Played",
+    "B": "Play",
+    "C": "Have play",
+    "D": "Will play",
+    "javob": "A"
+  },
+  {
+    "savol": "We........ her song yesterday",
+    "A": "Liked",
+    "B": "Like",
+    "C": "Has liked",
+    "D": "Will like",
+    "javob": "A"
+  },
+  {
+    "savol": "Lora........ newspapers yesterday",
+    "A": "Copied",
+    "B": "Copies",
+    "C": "Has copied",
+    "D": "Will copied",
+    "javob": "A"
+  },
+  {
+    "savol": "They........ University yesterday",
+    "A": "Entered",
+    "B": "Enters",
+    "C": "Have enter",
+    "D": "Will enter",
+    "javob": "A"
+  },
+  {
+    "savol": "It........ yesterday",
+    "A": "Moved",
+    "B": "Moves",
+    "C": "Has Moved",
+    "D": "Will Move",
+    "javob": "A"
+  },
+  {
+    "savol": "Their groupmates........ in a school last week",
+    "A": "Worked",
+    "B": "Work",
+    "C": "Have worked",
+    "D": "Will work",
+    "javob": "A"
+  },
+  {
+    "savol": "The weather........ yesterday",
+    "A": "Changed",
+    "B": "Changes",
+    "C": "Has changed",
+    "D": "Will change",
+    "javob": "A"
+  },
+  {
+    "savol": "He........ his work early yesterday",
+    "A": "Finished",
+    "B": "Finishes",
+    "C": "Have Finished",
+    "D": "Will Finish",
+    "javob": "A"
+  },
+  {
+    "savol": "She........ dinner yesterday",
+    "A": "Cooked",
+    "B": "Cooks",
+    "C": "Has cooked",
+    "D": "Will cook",
+    "javob": "A"
+  },
+  {
+    "savol": "We........ to music yesterday",
+    "A": "Listened",
+    "B": "Listen",
+    "C": "Have listened",
+    "D": "Will listen",
+    "javob": "A"
+  },
+  {
+    "savol": "You........ your room yesterday",
+    "A": "Cleaned",
+    "B": "Clean",
+    "C": "Have cleaned",
+    "D": "Will clean",
+    "javob": "A"
+  },
+  {
+    "savol": "I........ my friend yesterday",
+    "A": "Visited",
+    "B": "Visiting",
+    "C": "Have visited",
+    "D": "Will visit",
+    "javob": "A"
+  }
+]

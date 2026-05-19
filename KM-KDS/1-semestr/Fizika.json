@@ -1,0 +1,1386 @@
+[
+  {
+    "savol": "Jismda musbat va manfiy zaryadlarning bir-birlariga teng bo`lmashiga nima deyiladi?",
+    "A": "Zaryadlangan jism",
+    "B": "Zaryadlanmagan jism",
+    "C": "Elektr toki",
+    "D": "Kuchlanish",
+    "javob": "A"
+  },
+  {
+    "savol": "Elektrоtexnikа mаteriаllаri necha turgа bulinаdi?",
+    "A": "4",
+    "B": "3",
+    "C": "5",
+    "D": "6",
+    "javob": "A"
+  },
+  {
+    "savol": "Qattiq jism tashqi ta`sir natijasida o`z shaklini yoki hajmini o`zgartirishiga nima deyiladi?",
+    "A": "Deformatsiya",
+    "B": "Kuchlanish",
+    "C": "Parchalanish",
+    "D": "Sinish",
+    "javob": "A"
+  },
+  {
+    "savol": "Atomlar nimalardan tashkil topgan?",
+    "A": "Musbat zaryadlangan yadro va manfiy zaryadlangan elektrondan",
+    "B": "Neytron va alfa zarra",
+    "C": "Alfa va betta zarrachalardan",
+    "D": "Metal va qotishmalardan",
+    "javob": "A"
+  },
+  {
+    "savol": "Elektronning massasi protonninng massasidan qancha kichik?",
+    "A": "1836 marta kichik",
+    "B": "1836 marta katta",
+    "C": "10 marta katta",
+    "D": "10 marta kichik",
+    "javob": "A"
+  },
+  {
+    "savol": "Metallar xossalariga ko`ra necha turga bo`linadi?",
+    "A": "4",
+    "B": "3",
+    "C": "2",
+    "D": "7",
+    "javob": "A"
+  },
+  {
+    "savol": "“metаllаrni rаngi, sоlishtirmа оg`irligi, elektr o`tkаzuvchаnligi, mаgnitli xususiyati, issiqlik o`tkаzuvchаnligi, issiqdаn kengаyishi, issiqlik sig`imi” ushbular metallarning qaysi xossalariga mos kelasi?",
+    "A": "Fizik",
+    "B": "Kimyoviy",
+    "C": "Mexanik",
+    "D": "Texnologik",
+    "javob": "A"
+  },
+  {
+    "savol": "“metаllni оksidlаnishi, yeruvchаnligi, kаrrоziyagа chidаmliligi” ushbular metallarning qaysi xossalariga mos kelasi?",
+    "A": "Kimyoviy",
+    "B": "Fizik",
+    "C": "Mexanik",
+    "D": "Texnologik",
+    "javob": "A"
+  },
+  {
+    "savol": "“metаllni mustаhkаmligi, qattiqligi, egiluvchаnligi, silliqligi” ushbular metallarning qaysi xossalariga mos kelasi?",
+    "A": "Mexanik",
+    "B": "Fizik",
+    "C": "Kimyoviy",
+    "D": "Texnologik",
+    "javob": "A"
+  },
+  {
+    "savol": "“quyiluvchаnligi, kesiluvchаnligi pаyvаndlаnishligi, bоlg`аlаnuvchаnlik, tоblаnuvchаnlik, оquvchаnligi” ushbular metallarning qaysi xossalariga mos kelasi?",
+    "A": "Texnologik",
+    "B": "Mexanik",
+    "C": "Fizik",
+    "D": "Kimyoviy",
+    "javob": "A"
+  },
+  {
+    "savol": "Metаlni bаtаmоm suyuq xоlgа utаdigаn temperаturаsi nima deb аtаlаdi?",
+    "A": "Erish temperаturаsi",
+    "B": "Qotish temperaturasi",
+    "C": "Kyure nuqtasi",
+    "D": "Bug`lanish",
+    "javob": "A"
+  },
+  {
+    "savol": "Metаllаrni qizdirgаndа yoki sоvutgаndа o`zidаn issiqlikni qаnchаlik tezlik bilаn o`tkаzishgа nima deb ataladi?",
+    "A": "Issiqlik o`tkаzuvchаnlik",
+    "B": "Nurlanish",
+    "C": "Issiqlik chiqarish",
+    "D": "Bug`lanish",
+    "javob": "A"
+  },
+  {
+    "savol": "Issiqlikdаn metаllаrni hajmi vа o`lchаmlаri o`zgаrishiga nima deyiladi?",
+    "A": "Issiqlikdan kengayish",
+    "B": "Issiqlikdan isish",
+    "C": "Issiqlikdan energiya olish",
+    "D": "Bug`lanish",
+    "javob": "A"
+  },
+  {
+    "savol": "Uzunligi 1 m vа ko`ndаlаng kesim yuzi 1 mm$^{2}$ bo`lgаn simning qarshiligi uning nimasi deb аtаlаdi?",
+    "A": "Sоlishtirmа elektr qarshiligi",
+    "B": "O`tkazgich uzunligi",
+    "C": "O`tkazgich yuzasi",
+    "D": "Kuchlanish",
+    "javob": "A"
+  },
+  {
+    "savol": "Solishtirma qarshilikning birligi qaysi qatorda berilgan?",
+    "A": "Om m",
+    "B": "V",
+    "C": "M/s",
+    "D": "A/m",
+    "javob": "A"
+  },
+  {
+    "savol": "Elektr tokini cheklash xossasiga nima deyiladi?",
+    "A": "Elektr qarshilik",
+    "B": "Tok kuchi",
+    "C": "Kuchlanish",
+    "D": "Quvvat",
+    "javob": "A"
+  },
+  {
+    "savol": "Qarshiliklar necha xil usulda ulanadi?",
+    "A": "3",
+    "B": "7",
+    "C": "4",
+    "D": "5",
+    "javob": "A"
+  },
+  {
+    "savol": "Voltmetr uzidan qanday toklarni o`tkazadi?",
+    "A": "Voltmeter uzidan tok o`tkazmaydi",
+    "B": "O`zgaruvchan tok",
+    "C": "Siljish toki",
+    "D": "O`zgarmas tok",
+    "javob": "A"
+  },
+  {
+    "savol": "Magnit maydon xossalari necha turga bo`lanadi?",
+    "A": "3",
+    "B": "5",
+    "C": "6",
+    "D": "2",
+    "javob": "A"
+  },
+  {
+    "savol": "Amper kuchi formulasi to`g`ri ko`rsatilgan qatorni toping?",
+    "A": "[F=iblsinx]",
+    "B": "F=mds/dv",
+    "C": "A=Fdl",
+    "D": "F=m(g+a)",
+    "javob": "A"
+  },
+  {
+    "savol": "[F=iblsinx] formulada “I” nimani anglatadi",
+    "A": "Tok kuchi",
+    "B": "Kuchlanish",
+    "C": "Qarshilik",
+    "D": "Zaryad miqdori",
+    "javob": "A"
+  },
+  {
+    "savol": "Protonlar soni bir xil neytronlar soni har xil bo`lgan moddalar nimalar deyiladi?",
+    "A": "Izobarlar",
+    "B": "Izotonlar",
+    "C": "Izomerlar",
+    "D": "Izoxorlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Neytronlar soni bir xil bo`lgan moddalar nimalar deyiladi?",
+    "A": "Izotonlar",
+    "B": "Izomerlar",
+    "C": "Izoxorlar",
+    "D": "Izobarlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Protonlar va neytronlar soni bir xil lekin yarim yemirilish davri bilan farq qiladigan moddalar nimalar deyiladi?",
+    "A": "Izomerlar",
+    "B": "Izoxorlar",
+    "C": "Izobarlar",
+    "D": "Izotonlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Radioaktiv modda boshlang`ich zarrachalar soni ikki marta kamayishi uchun ketgan vaqt nima deyiladi?",
+    "A": "Yarim yemirilish davri",
+    "B": "Davr",
+    "C": "Chastota",
+    "D": "Yarim davr",
+    "javob": "A"
+  },
+  {
+    "savol": "Neytronlar soni qanday topiladi?",
+    "A": "N=A-Z",
+    "B": "N=A+Z",
+    "C": "N=Z",
+    "D": "N=2A-3Z",
+    "javob": "A"
+  },
+  {
+    "savol": "Yadrodagi protonlar va neytronlar birgalikda nimalar deyiladi?",
+    "A": "Nuklonlar",
+    "B": "Izotonlar",
+    "C": "Izomerlar",
+    "D": "Izobarlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Yadroni tashkil qilgan nuklonlarni bir-biridan ajratib yuborish uchun kerak bo`ladigan energiyaga nima deyiladi?",
+    "A": "Bog`lanish energiyasi",
+    "B": "Issiqlik energiyasi",
+    "C": "Elektr energiyasi",
+    "D": "Mexanik energiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Atom so`zining ma`nosi qaysi javobda ko`rsatilgan?",
+    "A": "Bo`linmas",
+    "B": "Tartibsiz",
+    "C": "Tartibli",
+    "D": "Kuchli",
+    "javob": "A"
+  },
+  {
+    "savol": "“Atоmni musbаt zаryadlаr hajmidа tekis taqsimlаngаn, mаnfiy zаryadlаri esа kvаzielаstik kuch bilаn bоglаngаn neytrаl mоddiy shаrchаlаrdir deb tаriflаydi.” Ushbu tarif qaysi modelga tegishli hisoblanadi.",
+    "A": "Tomson",
+    "B": "Alfa zarracha",
+    "C": "Yardo modeli",
+    "D": "Bo`linmas",
+    "javob": "A"
+  },
+  {
+    "savol": "Tomson modelida Shаr mаrkаzidаn r<<R mаsоfаdа turgаn elektrоngа tа`sir etuvchi kuch qaysi javobda berilgan?",
+    "A": "F=(-e)E",
+    "B": "F=ma",
+    "C": "F=Eq",
+    "D": "F=0",
+    "javob": "A"
+  },
+  {
+    "savol": "Shаrning zаryadi qaysi javobda to`g`ri ko`rsatilgan?",
+    "A": "Q=Ze",
+    "B": "U=IR",
+    "C": "I=q/t",
+    "D": "Q=0",
+    "javob": "A"
+  },
+  {
+    "savol": "Tomson modeliga ko`ra atomning o`lchami qanchaga teng?",
+    "A": "10{-8}sm",
+    "B": "10{-6} sm",
+    "C": "10{-4} sm",
+    "D": "10{-2}sm",
+    "javob": "A"
+  },
+  {
+    "savol": "Qizildan binashfa ranglargacha bulgan nurlarning to`lqin uzunligi nechiga teng?",
+    "A": "[380:760] nm",
+    "B": "[200:700] nm",
+    "C": "[0:380] nm",
+    "D": "[760:2000] nm",
+    "javob": "A"
+  },
+  {
+    "savol": "Atоmning yadrо mоdelini kim tаklif etgan?",
+    "A": "Rezerfоrd",
+    "B": "Tomson",
+    "C": "Kulon",
+    "D": "Nyuton",
+    "javob": "A"
+  },
+  {
+    "savol": "Yuqori energetik holatdаn quyi energetik holatgа (elektrоn uzoqdаgi оrbitаdаn yadrоgа yaqin оrbitаgа) o`tgаndа nur …… nuqtalar o`rniga so`zni qo`ying?",
+    "A": "Chiqaradi",
+    "B": "Sochadi",
+    "C": "Saqlaydi",
+    "D": "Yuqotadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Diamagnitiklar magnit maydonni qanday o`zgartiradi?",
+    "A": "Susaytiradi",
+    "B": "Kuchaytiradi",
+    "C": "Juda kuchaytiradi",
+    "D": "O`zgartirmaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Chiqаrgаn (yutgаn) nurlаnish energiyasi formulasini ko`rsating?",
+    "A": "Hv=E$_{n}$-E$_{m}$",
+    "B": "E=mc2",
+    "C": "E=mgh",
+    "D": "E=mv/2",
+    "javob": "A"
+  },
+  {
+    "savol": "Nano -  so`zining manosini toping?",
+    "A": "Yunon “nannos” – “mitti”",
+    "B": "Yunoncha “juda katta”",
+    "C": "Grekcha “fizika”",
+    "D": "Grekcha “o`lcham”",
+    "javob": "A"
+  },
+  {
+    "savol": "10[-9] m nimani anglatadi?",
+    "A": "Nanometr",
+    "B": "Mikrometr",
+    "C": "Metr",
+    "D": "Pikometr",
+    "javob": "A"
+  },
+  {
+    "savol": "…… - bu ma`lum atomar tuzilishli mahsulotlarni, ularning atom va molekulalarini joylashtirish yo`li bilan ishlab chiqarish usullari yig`indisidir. Nuqtalar o`rniga to`g`ri so`zni toping?",
+    "A": "Nanotexnologiya",
+    "B": "Fizika",
+    "C": "Atom",
+    "D": "Optika",
+    "javob": "A"
+  },
+  {
+    "savol": "Atomlar bilan ishlash uchun u maxsus nanomashinalarning nomi nima?",
+    "A": "Assemblerlarni",
+    "B": "Tomson mashinasi",
+    "C": "Alfa zarracha",
+    "D": "Bor mashinasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Elektron mikroskop nechanchi yil yaratilgan?",
+    "A": "1931",
+    "B": "1941",
+    "C": "1938",
+    "D": "1978",
+    "javob": "A"
+  },
+  {
+    "savol": "Nanotranzistorni  kim yaratgan?",
+    "A": "Seez Dekker",
+    "B": "Nyuton",
+    "C": "Kulon",
+    "D": "Tomson",
+    "javob": "A"
+  },
+  {
+    "savol": "Ikki tomoni sferik sirt bilan chegaralangan shaffof jismga nima deyiladi?",
+    "A": "Linza",
+    "B": "Lazer",
+    "C": "Mikroskop",
+    "D": "Fanar",
+    "javob": "A"
+  },
+  {
+    "savol": "Linzalar necha turga bo`linadi?",
+    "A": "2",
+    "B": "4",
+    "C": "5",
+    "D": "3",
+    "javob": "A"
+  },
+  {
+    "savol": "Linzalarning turlari qaysi javobda to`g`ri ko`rsatilgan?",
+    "A": "Botiq va qavariq",
+    "B": "Yumshoq va qattiq",
+    "C": "Tekis va notekis",
+    "D": "Tezlatuvchan va sekinlatuvchan",
+    "javob": "A"
+  },
+  {
+    "savol": "Botiq linzaning vazifasi nima?",
+    "A": "Tasvirni sochib berish",
+    "B": "Tasvirni yig`ib berish",
+    "C": "Tasvirni o`tkazish",
+    "D": "Tavsir yasash",
+    "javob": "A"
+  },
+  {
+    "savol": "Qavariq linzaning vazifasi nima?",
+    "A": "Tasvirni yig`ib berish",
+    "B": "Tasvirni o`tkazish",
+    "C": "Tavsir yasash",
+    "D": "Tasvirni sochib berish",
+    "javob": "A"
+  },
+  {
+    "savol": "Fullerenlar qanday tuzulishga ega hisoblanadi?",
+    "A": "Karkas",
+    "B": "Tekis",
+    "C": "Yumaloq",
+    "D": "To`rtburchak",
+    "javob": "A"
+  },
+  {
+    "savol": "Fullerenlarni tarkibida uglerod atomlari soni nechta hisoblanadi?",
+    "A": "36 tadan 540 tagacha",
+    "B": "360 tadan 500 tagacha",
+    "C": "12 tadan 54 tagacha",
+    "D": "10 tadan 54 tagacha",
+    "javob": "A"
+  },
+  {
+    "savol": "…….- bu milliondan ortiq uglerod atomlaridan iborat molekula. Nuqtalar o`rniga mos so`zni toping?",
+    "A": "Nanonaycha",
+    "B": "Nanozarracha",
+    "C": "Elektron",
+    "D": "Proton",
+    "javob": "A"
+  },
+  {
+    "savol": "Yadrо fizikаsidа uzunlikni ulchоv birligi sifаtidа nima ishlаtilаdi",
+    "A": "Fermi",
+    "B": "Metr",
+    "C": "Sm",
+    "D": "Km",
+    "javob": "A"
+  },
+  {
+    "savol": "Hajm birligidagi molekulalar soniga nima deyiladi?",
+    "A": "Konsentratsiya",
+    "B": "Molekula",
+    "C": "Tezlanish",
+    "D": "Kuchlanish",
+    "javob": "A"
+  },
+  {
+    "savol": "Para magnitiklar magnit maydonni qanday o`zgartiradi?",
+    "A": "Kuchaytiradi",
+    "B": "Juda kuchaytiradi",
+    "C": "O`zgartirmaydi",
+    "D": "Susaytiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ferro  magnitiklar magnit maydonni qanday o`zgartiradi?",
+    "A": "Juda kuchaytiradi",
+    "B": "Kuchaytiradi",
+    "C": "O`zgartirmaydi",
+    "D": "Susaytiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Metallarning xossalari to`liq ko`rsatilgan qatorni toping?",
+    "A": "Fizik, ximyoviy, mexanik va texnologik",
+    "B": "Fizik va elektr",
+    "C": "Ximyoviy  va  kenitek",
+    "D": "Mexanik va atom",
+    "javob": "A"
+  },
+  {
+    "savol": "Аtоmlаrni muаyyan tаrtibdа jоylаshuvi nаtijаsidа hosil bo`lаdigаn geоmetrik jihatdаn to`g`ri shаkl nima deb nomlanadi?",
+    "A": "Mono kristall",
+    "B": "Amorf",
+    "C": "Qattiq jism",
+    "D": "Qotishma",
+    "javob": "A"
+  },
+  {
+    "savol": "Yorug`lik nurlarini yo`lida uchraydigan kichik tirqish orqali o`tib ekranda yorug` va xira yo`llar hosil qilishiga nima deb ataladi?",
+    "A": "Yorug`lik difraksiyasi",
+    "B": "Qisqarish",
+    "C": "Kuchlanish",
+    "D": "Nurlanish",
+    "javob": "A"
+  },
+  {
+    "savol": "Difraksiya hodisasini qaysi prinsipi asosida tushintirish mumkin?",
+    "A": "Gyuygens",
+    "B": "Nyuton",
+    "C": "Puazel",
+    "D": "Lens",
+    "javob": "A"
+  },
+  {
+    "savol": "Tirqish kengligi bilan tirqishlar orasidagi masofaning yig`indisiga nima deb ataladi?",
+    "A": "Difraksion panjara davri",
+    "B": "Difraksion panjara chastotasi",
+    "C": "Difraksion panjara amplitudasi",
+    "D": "Difraksion panjara tezligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Yorug`lik manbaidan chiqadigan nur murakkab yorug`likdan iborat bo`lsa, ekranda hosil bo`ladigan tasvir qanday bo`ladi?",
+    "A": "Rangli",
+    "B": "Chiziq-chiziq",
+    "C": "Yo`l yo`l",
+    "D": "Parabola",
+    "javob": "A"
+  },
+  {
+    "savol": "Yorug`lik manbaidan chiqadigan nur murakkab yorug`likdan iborat bo`lganda,  rangli tasmalar qaysi rangdagi tasmalar bilan ajratilgan bo`ladi.",
+    "A": "Qora",
+    "B": "Oq",
+    "C": "Ko`k",
+    "D": "Yashil",
+    "javob": "A"
+  },
+  {
+    "savol": "Rangli tasmalar qora tasmalar bilan ajratilishiga nima deyiladi?",
+    "A": "Difraksion spektr",
+    "B": "To`lqin uzunligi",
+    "C": "Chastota",
+    "D": "Davr",
+    "javob": "A"
+  },
+  {
+    "savol": "Spektrlarda hosil bo`ladigan difraksion maksimumlar qaysi shartga asosan topiladi?",
+    "A": "K sin φ=",
+    "B": "D= a+b",
+    "C": "A=d+b",
+    "D": "K cosx=d",
+    "javob": "A"
+  },
+  {
+    "savol": "K sin φ=  bunda -nimani anglatadi?",
+    "A": "Ikki chetki nurlar orasidagi yo`l farqi",
+    "B": "To`siqlar orasidagi masofa",
+    "C": "To`lqin uzunligi",
+    "D": "D va b orasidagi masofa",
+    "javob": "A"
+  },
+  {
+    "savol": "Difraksion panjaraga murakkab yorug`lik tushganda bitta spektr o`rnida nimalar  hosil bo`ladi?",
+    "A": "Spektrlar seriyasi",
+    "B": "Nurlar",
+    "C": "Tirqishlar",
+    "D": "Yo`llar farqi",
+    "javob": "A"
+  },
+  {
+    "savol": "K=0 bo`lganda markaziy tasma qanaqa rangda bo`ladi?",
+    "A": "Oq",
+    "B": "Qora",
+    "C": "Ko`k",
+    "D": "Binafsha",
+    "javob": "A"
+  },
+  {
+    "savol": "K = 1 bo`lganda tasmalar binafsha rangdan boshlanib qaysi rangda to`gaydi?",
+    "A": "Qizil",
+    "B": "Qora",
+    "C": "Ko`k",
+    "D": "Binafsha",
+    "javob": "A"
+  },
+  {
+    "savol": "Spektrning qizil sohasi binafsha nurga nisbatan qanday burchakka siljigan bo`ladi.",
+    "A": "Kattaroq",
+    "B": "Kichikroq",
+    "C": "Teng burchak",
+    "D": "Simmetrik",
+    "javob": "A"
+  },
+  {
+    "savol": "Tarmoqda elektr toki hosil bo`lishiga qanday  hodisa deyiladi?",
+    "A": "Elektromagnit induksiyasi",
+    "B": "Perkussiya",
+    "C": "Chaqnash",
+    "D": "Zaryadlash",
+    "javob": "A"
+  },
+  {
+    "savol": "Elektromagnit induksiyasi hodisasidagi tok qanday tok deyiladi?",
+    "A": "Induksion tok",
+    "B": "Siljish toki",
+    "C": "Zaryadlash toki",
+    "D": "Manfiy tok",
+    "javob": "A"
+  },
+  {
+    "savol": "Magnit induksiyasi oqimi Ф o`zgarganda induksion tok qanday o`zgaradi?",
+    "A": "O`zgarmaydi",
+    "B": "Oshadi",
+    "C": "Kamayadi",
+    "D": "Kvadrat darajada oshadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Lens qonuniga ko`ra magnit maydon kuchlanganligi uni hosil qiluvchi nimaga bogliq?",
+    "A": "Tokka",
+    "B": "Kuchlanishga",
+    "C": "Qarshilikka",
+    "D": "Zaryadga",
+    "javob": "A"
+  },
+  {
+    "savol": "Magnit maydon kuchlanganligi formulasi qaysi javobda berilgan?",
+    "A": "Ф=LI",
+    "B": "A=Fs",
+    "C": "I=U/R",
+    "D": "Q=It",
+    "javob": "A"
+  },
+  {
+    "savol": "Ф=LI formulada L nima hisoblanadi?",
+    "A": "Proporsionallik koeffisienti",
+    "B": "Tortishish kuchi",
+    "C": "Qarshilik",
+    "D": "Kuchlanish",
+    "javob": "A"
+  },
+  {
+    "savol": "Lens qonuniga ko`ra hosil bo`lgan E.Yu.K. Formulasini ko`rsating?",
+    "A": "E= - L di/dt",
+    "B": "Ф=LI",
+    "C": "I=U/R",
+    "D": "Q=It",
+    "javob": "A"
+  },
+  {
+    "savol": "Ф bilan I orasidagi chiziqli bog`lanish nimaga bog`liq.",
+    "A": "Atrof–muhitning magnit kirituvchanligiga",
+    "B": "Kuchlanishga",
+    "C": "Tok kuchiga",
+    "D": "Magnit oqimga",
+    "javob": "A"
+  },
+  {
+    "savol": "Induktivlik birligi nima hisoblanadi?",
+    "A": "Genri",
+    "B": "Joul",
+    "C": "Amper",
+    "D": "Volt",
+    "javob": "A"
+  },
+  {
+    "savol": "1 genri deb nimaga aytiladi?",
+    "A": "1A bo`lganda 1Vb ga teng magnit oqimi hosil bo`ladigan tugunning induktivligidir",
+    "B": "Tok kuchini qarshilikka ko`paytmasiga",
+    "C": "Kuchlanishni qarshilikka nisbatiga",
+    "D": "1000 mhn",
+    "javob": "A"
+  },
+  {
+    "savol": "O`zgaruvchan tok zanjirining bir qismi uchun Om qonuni formulasini ko`rsating?",
+    "A": "I=U/R",
+    "B": "F=ma",
+    "C": "F=kl",
+    "D": "I=A/q",
+    "javob": "A"
+  },
+  {
+    "savol": "1Gn nimaga teng?",
+    "A": "1Vb/1A",
+    "B": "1A 1Om",
+    "C": "1 J/1V",
+    "D": "1kg 1 m/s",
+    "javob": "A"
+  },
+  {
+    "savol": "Mаgnit mаydоni shu mаydоndа hаrаkаtlаnvchi nimalarga tа`sir qilаdi?",
+    "A": "Zаryadlаrga",
+    "B": "Jismlarga",
+    "C": "Toklarga",
+    "D": "Maydonga",
+    "javob": "A"
+  },
+  {
+    "savol": "Mаgnit mаydоnining tоkkа ko`rsаtаdigаn tа`siri nimalarga bog`liq bo`ladi?",
+    "A": "Tok kuchiga",
+    "B": "Qarshilikka",
+    "C": "Jismga",
+    "D": "Zaryadga",
+    "javob": "A"
+  },
+  {
+    "savol": "Tоk vа dоimiy mаgnit jоylаshgаn fаzоning bo`lаgidа qanday maydon hosil bo`ladi?",
+    "A": "Magnit",
+    "B": "Elektr",
+    "C": "Gravitatsion",
+    "D": "Aylana shakldagi maydon",
+    "javob": "A"
+  },
+  {
+    "savol": "Kuchning aylantiruvchi momenti formulasini ko`rsating?",
+    "A": "M=[PB]",
+    "B": "A=Fs",
+    "C": "S=vt",
+    "D": "M=Aq",
+    "javob": "A"
+  },
+  {
+    "savol": "M=[PB] formulada B nimani anglatadi?",
+    "A": "Magnit induksiyasi vektori",
+    "B": "Tok kuchi",
+    "C": "Kuchlanish",
+    "D": "Qarshilik",
+    "javob": "A"
+  },
+  {
+    "savol": "M=[PB] formulada P nimani anglatadi?",
+    "A": "Tokli konturning magnit momenti vektori",
+    "B": "Tezlik",
+    "C": "Tok kuchi",
+    "D": "Bajarilgan ish",
+    "javob": "A"
+  },
+  {
+    "savol": "Magnit maydon grafikasini nimalar orqali ifodalash mumkin?",
+    "A": "Magnit induksiyasi chiziqlari",
+    "B": "Vector belgisi",
+    "C": "Skalyar belgisi",
+    "D": "Nonius",
+    "javob": "A"
+  },
+  {
+    "savol": "Magnit induksiyasi chiziqlari qanday joylashadi?",
+    "A": "Doimo berk",
+    "B": "Aylanasimon",
+    "C": "Parabola shaklda",
+    "D": "Chiziqli",
+    "javob": "A"
+  },
+  {
+    "savol": "Magnit doimiysining birligi nimaga teng?",
+    "A": "Gn/m",
+    "B": "V/A",
+    "C": "M/s",
+    "D": "J",
+    "javob": "A"
+  },
+  {
+    "savol": "Tokli o`tkazgichning magnit induksiya vektori, uning elementar bo`lakchalari hosil qilgan induksiya vektorlarining geometrik yig`indisiga teng. Ushbu prinsip qaysi hisoblanadi?",
+    "A": "Superpozitsiya",
+    "B": "Parallillik xossasi",
+    "C": "Ketma-ketlik xossasi",
+    "D": "Bir xil yo`nalishlik xossasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Tok kuchining birligi nimaga teng?",
+    "A": "Amper",
+    "B": "Volt",
+    "C": "M/s",
+    "D": "Joul",
+    "javob": "A"
+  },
+  {
+    "savol": "Kuchlanishning birligi nimaga teng?",
+    "A": "Volt",
+    "B": "M/s",
+    "C": "Joul",
+    "D": "Amper",
+    "javob": "A"
+  },
+  {
+    "savol": "[F=iblsinx] qaysi kuch hisoblanadi?",
+    "A": "Amper kuchi",
+    "B": "Lens kuchi",
+    "C": "Qovushqoqlik kuchi",
+    "D": "Bosim kuchi",
+    "javob": "A"
+  },
+  {
+    "savol": "[F=iblsinx] formulada B nimani anglatadi?",
+    "A": "Magnit induksiyasi vektori",
+    "B": "Tok kuchi",
+    "C": "Kuchlanish",
+    "D": "Qarshilik",
+    "javob": "A"
+  },
+  {
+    "savol": "F=q v B sinx bu qaysi kuch hisoblanadi?",
+    "A": "Lorens kuchi",
+    "B": "Amper kuchi",
+    "C": "Qovushqoqlik kuchi",
+    "D": "Bosim kuchi",
+    "javob": "A"
+  },
+  {
+    "savol": "F=q v B sinx formulada [v] nimani anglatadi?",
+    "A": "Zarrachalar tezligi",
+    "B": "Tok kuchi",
+    "C": "Kuchlanish",
+    "D": "Masofani",
+    "javob": "A"
+  },
+  {
+    "savol": "Lorens kuchi qanday ish bajaradi?",
+    "A": "Ish bajarmaydi",
+    "B": "Musbat ish",
+    "C": "Manfiy ish",
+    "D": "Cheksiz",
+    "javob": "A"
+  },
+  {
+    "savol": "Tinch turgan zaryadga qanday maydon  ta`sir etmaydi?",
+    "A": "Magnit",
+    "B": "Elektr",
+    "C": "Gravitatsion",
+    "D": "Cheksizlikdagi maydon",
+    "javob": "A"
+  },
+  {
+    "savol": "Molekulyar toklar magnit momenti formulasini ko`rsating?",
+    "A": "P=evs",
+    "B": "A=Fs",
+    "C": "S=vt",
+    "D": "M=Aq",
+    "javob": "A"
+  },
+  {
+    "savol": "Tashqi maydon bo`lmaganda molekulalar magnit momentlari vektori nimaga teng bo`ladi",
+    "A": "Nolga",
+    "B": "Cheksizga",
+    "C": "Magnit maydonga",
+    "D": "Elektr maydonga",
+    "javob": "A"
+  },
+  {
+    "savol": "Moddaning hajm birligidagi magnit momentlarining algebraik yig`indisi son jihatidan teng kattalikka nima deb ataladi?",
+    "A": "Magnitlanish vektori",
+    "B": "Kuchlanish",
+    "C": "Tok kuchi",
+    "D": "Qarshilik",
+    "javob": "A"
+  },
+  {
+    "savol": "Magnitlanish vektorining birligi nimaga teng?",
+    "A": "A/m",
+    "B": "J",
+    "C": "V/A",
+    "D": "M/s",
+    "javob": "A"
+  },
+  {
+    "savol": "Vakuumda magnitlanish nimaga teng bo`ladi?",
+    "A": "Nolga",
+    "B": "J",
+    "C": "Cheksizga",
+    "D": "1 ga",
+    "javob": "A"
+  },
+  {
+    "savol": "Magnit maydon induksiyasini qaysi harf bilan belgilanadi?",
+    "A": "B",
+    "B": "A",
+    "C": "J",
+    "D": "R",
+    "javob": "A"
+  },
+  {
+    "savol": "Moddalar magnitlanishining yo`qolishining kuzatilishi nima deb ataladi?",
+    "A": "Kyuri nuqtasi",
+    "B": "Nurlanish",
+    "C": "Zaryadlanish",
+    "D": "Tortishish",
+    "javob": "A"
+  },
+  {
+    "savol": "Magnitlanish vektori qaysi harf bilan belgilanadi?",
+    "A": "J",
+    "B": "A",
+    "C": "U",
+    "D": "R",
+    "javob": "A"
+  },
+  {
+    "savol": "Qanday moddalar magnit maydon induksiyasini susaytiradi?",
+    "A": "Diamagnit moddalar",
+    "B": "Izotop moddalar",
+    "C": "Izoton moddalar",
+    "D": "Isobar moddalar",
+    "javob": "A"
+  },
+  {
+    "savol": "Qanday moddalar magnit maydon induksiyasini kuchaytiradi?",
+    "A": "Paramagnit moddalar",
+    "B": "Diamagnit moddalar",
+    "C": "Izotop moddalar",
+    "D": "Izoton moddalar",
+    "javob": "A"
+  },
+  {
+    "savol": "Moddaning magnitlanishi temperaturaning ortishi bilan qanday o`zgaradi?",
+    "A": "Kamyadi",
+    "B": "O`zgarmaydi",
+    "C": "Oshadi",
+    "D": "Cheksizlikka oshadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Kyuri doimiysi qaysi harf bilan belginaladi?",
+    "A": "C",
+    "B": "A",
+    "C": "Q",
+    "D": "R",
+    "javob": "A"
+  },
+  {
+    "savol": "Konservativ kuchi kichik bo`lgan moddalar nima deyiladi?",
+    "A": "Yumshoq ferromagnitlar",
+    "B": "Qattiq ferromagnitlar",
+    "C": "Zaryadlar",
+    "D": "Elektronlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Yorug`lik vа u bilаn bоg`liq hоdisаlаr qaysi fanda o`rganiladi?",
+    "A": "Optika",
+    "B": "Mexanika",
+    "C": "Issiqlik",
+    "D": "Elektr",
+    "javob": "A"
+  },
+  {
+    "savol": "Tabiatda eng katta tezlik qaysi hisoblanadi?",
+    "A": "Yorug`lik tezligi",
+    "B": "Tovush tezligi",
+    "C": "Electron tezligi",
+    "D": "Proton tezligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Yorug`lik tezligining son qiymati nechiga teng?",
+    "A": "3x108 m/s",
+    "B": "340 m/s",
+    "C": "330000 m/s",
+    "D": "240 m/s",
+    "javob": "A"
+  },
+  {
+    "savol": "Yorug`lik qanday to`lqin hisoblanadi?",
+    "A": "Elektrоmаgnit",
+    "B": "Bo`ylama",
+    "C": "Ko`nladang",
+    "D": "To`lqin emas",
+    "javob": "A"
+  },
+  {
+    "savol": "Nurning tushish burchagi bilan qaytish burchagi orasida qanday farq bor?",
+    "A": "Farq yo`q",
+    "B": "Ikki baravar farq",
+    "C": "Cheksiz",
+    "D": "3 baravar farq",
+    "javob": "A"
+  },
+  {
+    "savol": "Sindirish ko`rsаtkichining to`lqin uzunligigа bоg`liq hоldа o`zgаrishi nima deb yuritilаdi.",
+    "A": "Yorug`lik dispersiyasi",
+    "B": "Tok kuchi",
+    "C": "Kuchlanish",
+    "D": "Qutblanish",
+    "javob": "A"
+  },
+  {
+    "savol": "Yorug`likni uch yokli prizmаdаn o`tgаndа rаnglаrgа аjrаlib, ekrаndа qanday rаngli yo`l hosil bo`ladi?",
+    "A": "Kаmаlаk",
+    "B": "Ko`k",
+    "C": "Sariq",
+    "D": "Qora",
+    "javob": "A"
+  },
+  {
+    "savol": "Dielektrik dоimiylik qaysi harf bilan belgilanadi?",
+    "A": "Е",
+    "B": "K",
+    "C": "M",
+    "D": "N",
+    "javob": "A"
+  },
+  {
+    "savol": "Shаffоf mоddаlаr uchun [M] nechiga teng?",
+    "A": "1",
+    "B": "0",
+    "C": "10",
+    "D": "81",
+    "javob": "A"
+  },
+  {
+    "savol": "Yorug`likning elektr vektоri qaysi harf bilan belgilanadi?",
+    "A": "E",
+    "B": "R",
+    "C": "Q",
+    "D": "A",
+    "javob": "A"
+  },
+  {
+    "savol": "Dipоl mоmentini formulasini toping?",
+    "A": "P=ex",
+    "B": "A=UR",
+    "C": "I=U/R",
+    "D": "R=0",
+    "javob": "A"
+  },
+  {
+    "savol": "Yaltirоklik, plаstik, elektir, issiqlik o`tkаzаdigаn vа shаffоf bo`lmаgаn jismgа nima deb ataladi?",
+    "A": "Metall",
+    "B": "Tosh",
+    "C": "Ko`mir",
+    "D": "Jism",
+    "javob": "A"
+  },
+  {
+    "savol": "Metallar necha turga bo`linadi?",
+    "A": "2",
+    "B": "3",
+    "C": "4",
+    "D": "6",
+    "javob": "A"
+  },
+  {
+    "savol": "Metallar turlari ko`rsatilgan qatorni toping?",
+    "A": "Oddiy va murakkab",
+    "B": "Qalin va qisqa",
+    "C": "O`tkir va o`tmas",
+    "D": "Chiziqli va kvadrat",
+    "javob": "A"
+  },
+  {
+    "savol": "Boshqa ximiyaviy elementlаrdаn tоzа bo`lgаn metallar nimalar  deb ataladi?",
+    "A": "Oddiy metallar",
+    "B": "Murakkab metallar",
+    "C": "Qalim metallar",
+    "D": "Yupqa metallar",
+    "javob": "A"
+  },
+  {
+    "savol": "Bir nechtа оddiy metаllаrni birikmаsidan iborat bo`lgan metallar nima deb ataladi?",
+    "A": "Murakkab metallar",
+    "B": "Qalim metallar",
+    "C": "Yupqa metallar",
+    "D": "Oddiy metallar",
+    "javob": "A"
+  },
+  {
+    "savol": "Mendeleev D.I. dаvriy sistemаsining necha foizi metallar hisoblanadi?",
+    "A": "3/4",
+    "B": "1/4",
+    "C": "2/4",
+    "D": "2/5",
+    "javob": "A"
+  },
+  {
+    "savol": "Mendeleev D.I. dаvriy sistemаsining necha foizi metallmaslar hisoblanadi?",
+    "A": "1/4",
+    "B": "2/7",
+    "C": "1/5",
+    "D": "1/6",
+    "javob": "A"
+  },
+  {
+    "savol": "Dunyo sаnоаtidа ishlаtilаdigаn metаllаrning necha % ni qora metаllаr tаshkil etаdi.",
+    "A": "93",
+    "B": "56",
+    "C": "78",
+    "D": "52",
+    "javob": "A"
+  },
+  {
+    "savol": "Sаnоаt аhamiyatigа egа bo`lgаn metаll bu -  qaysi metal hisoblanadi",
+    "A": "Temir",
+    "B": "Ko`mir",
+    "C": "Oltin",
+    "D": "Kumush",
+    "javob": "A"
+  },
+  {
+    "savol": "Metаllаrni ichki tuzilishini o`rgаtаdigаn fаn nima deb аytilаdi?",
+    "A": "Metаlоgrаfiya",
+    "B": "Fizika",
+    "C": "Mexanika",
+    "D": "Optika",
+    "javob": "A"
+  },
+  {
+    "savol": "Qattiq moddalar necha turga bo`linadi?",
+    "A": "2",
+    "B": "4",
+    "C": "6",
+    "D": "8",
+    "javob": "A"
+  },
+  {
+    "savol": "Аmоrf mоddаlаrning аtоmlаri qanday joylashgan bo`ladi?",
+    "A": "Tartibsiz",
+    "B": "Tartibli",
+    "C": "To`rsimon",
+    "D": "Chiziqli",
+    "javob": "A"
+  },
+  {
+    "savol": "Аmоrf mоddаlаrning muаyyan bir suyuqlаnish vа qоtish temperаturаsi nechiga teng?(K)",
+    "A": "Aniq temperaturasi yo`q",
+    "B": "400",
+    "C": "145",
+    "D": "320",
+    "javob": "A"
+  },
+  {
+    "savol": "Аmоrf degаn so`z - nima degani?",
+    "A": "Shаklsiz",
+    "B": "Shaklli",
+    "C": "Turli",
+    "D": "Nozik",
+    "javob": "A"
+  },
+  {
+    "savol": "Metаll vа qotishmalаr qanday tuzilishigа egа",
+    "A": "Kristаl",
+    "B": "Nozik",
+    "C": "To`rsimon",
+    "D": "Chiziqli",
+    "javob": "A"
+  },
+  {
+    "savol": "Bа`zаn аmоrf, bа`zаn esа kristаll holatdа bo`lishi mumkin bo`lgan moddalar qaysilar?",
+    "A": "Yelim",
+    "B": "Plastik",
+    "C": "Temir",
+    "D": "Oltin",
+    "javob": "A"
+  },
+  {
+    "savol": "Kristаll mоddаlаr haqidagi fаn nima deb аtаlаdi?",
+    "A": "Kristоllоgrаfiya",
+    "B": "Optika",
+    "C": "Mexanika",
+    "D": "Fizika",
+    "javob": "A"
+  },
+  {
+    "savol": "Kristаll mоddаlаr muаyyan suyuqlаnish vа qotish temperаturаlаrigа ega bo`lishi qanday hodisa deb ataladi?",
+    "A": "Аnizоtrоpiya",
+    "B": "Izotop",
+    "C": "Izoton",
+    "D": "Izobar",
+    "javob": "A"
+  },
+  {
+    "savol": "Kristаllаr ko`pinchа nimalardan оlinаdi",
+    "A": "Eritmаlаrdаn",
+    "B": "Temirlardan",
+    "C": "Oltinlardan",
+    "D": "Suvdan",
+    "javob": "A"
+  },
+  {
+    "savol": "Eritmа qizdirilgandа erituvchi bug`lаnib, kristаll hosil bo`lishi qanday hodisa hisoblanadi?",
+    "A": "Kristаllаnish",
+    "B": "Nurlanish",
+    "C": "Ko`payish",
+    "D": "Amorflanish",
+    "javob": "A"
+  },
+  {
+    "savol": "Stеfаn-Bolsmаn doimiyligining birligi nimaga teng?",
+    "A": "Vt×m K–4",
+    "B": "A",
+    "C": "V/A",
+    "D": "J/N",
+    "javob": "A"
+  },
+  {
+    "savol": "Аbsolyut qorа jism issiqlik nurlаnishining spеktri qanday hisoblanadi?",
+    "A": "Uzluksizdir",
+    "B": "Shartsiz",
+    "C": "Kuchli",
+    "D": "Kuchsiz",
+    "javob": "A"
+  },
+  {
+    "savol": "Tеmpеrаturа ortishi bilаn аbsolyut qorа jismning to`lа nur chiqаrish qobiliyаti qanday o`zgaradi?",
+    "A": "Ortаdi",
+    "B": "Kamayadi",
+    "C": "O`zgarmaydi",
+    "D": "Cheksizga o`zgaradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Vin doimiysining birligi nimaga teng?",
+    "A": "M×K",
+    "B": "M/s",
+    "C": "J/K",
+    "D": "J",
+    "javob": "A"
+  },
+  {
+    "savol": "Absolyut qora jismga misolni toping?",
+    "A": "Quyosh",
+    "B": "Oy",
+    "C": "Yulduz",
+    "D": "Yer",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyoshning yuzа qаtlаmlаrigа qancha K hаrorаt to`g`ri kеlаdi",
+    "A": "6200",
+    "B": "7100",
+    "C": "4300",
+    "D": "3200",
+    "javob": "A"
+  },
+  {
+    "savol": "Temperaturaning birligi qaysi qatorda to`g`ri ko`rsatilgan?",
+    "A": "K",
+    "B": "M/s",
+    "C": "J/K",
+    "D": "V/A",
+    "javob": "A"
+  },
+  {
+    "savol": "Absolyut qorа jismning to`lа nur еhiqаrish qobiliyаti uning аbsolyut tеmpеrаturаning nechanchi dаrаjаsigа proporsionаl hisoblanadi?",
+    "A": "4",
+    "B": "2",
+    "C": "1",
+    "D": "7",
+    "javob": "A"
+  },
+  {
+    "savol": "Vin doimiysining son qiymati nechaga teng?",
+    "A": "B=2,9×10–3",
+    "B": "B=23.1×10–3",
+    "C": "B=43×10–3",
+    "D": "B=1.3×10–3",
+    "javob": "A"
+  },
+  {
+    "savol": "Stеfаn-Bolsmаn doimiyligi qiymati nechaga teng?",
+    "A": "5,67×10–8 Vt×m",
+    "B": "4.41×10–8 Vt×m",
+    "C": "3.27×10–8 Vt×m",
+    "D": "1/43×10–8 Vt×m",
+    "javob": "A"
+  },
+  {
+    "savol": "Kristаl jismlаrning аtоmlаri turli tekisliklаrdа turlichа zichlikdа jоylаshuvigа nima deb аytilаdi.",
+    "A": "Аnizаtrоplik xоssа",
+    "B": "Tezlanish",
+    "C": "Izotoplik",
+    "D": "Izobarlik",
+    "javob": "A"
+  },
+  {
+    "savol": "Fаzоviy pаnjаrаni bir turdаn ikkinchi turgа o`tishi muаyyan kritik temperаturаlаrdа ro`y berib, nima deb yuritilаdi",
+    "A": "Аllаtrоpik o`zgаrishlаr",
+    "B": "Kuchlanish",
+    "C": "Tok kuchi",
+    "D": "Qarshilik hodisasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Muаyyan suyuqlаnish vа qotish temperаturаlаrigа ega moddalar qaysilar",
+    "A": "Kristallar",
+    "B": "Plastiklar",
+    "C": "Temirlar",
+    "D": "Ko`mirlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Qattiq moddalar qaysilar hisoblanadi?",
+    "A": "Аmоrf  vа kristаll",
+    "B": "Plastic va elektik",
+    "C": "Spirt",
+    "D": "Qalin moddalar",
+    "javob": "A"
+  },
+  {
+    "savol": "[Lo - L] deformatsiyada nimani anglatadi?",
+    "A": "Absolyut deformatsiya",
+    "B": "Nisbit deformatsiya",
+    "C": "Plastic deformatsiya",
+    "D": "Elastic deformatsiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Magnit maydonida harakatlanuvchi zaryadli zarrachalarga ta`sir etuvchi kuch ….. Deyiladi",
+    "A": "Lorens kuchi",
+    "B": "Amper kuchi",
+    "C": "Kulon kuchi",
+    "D": "Og`irlik kuchi",
+    "javob": "A"
+  },
+  {
+    "savol": "Magnit maydoniga joylashtirilgan yaxlit toklio`tkazgichda magnit induksiyasi va tok zichligi vektoriga perpendikulyar yo`nalishdapotensiallar ayirmasi vujudga kelishini aniqlagan olim kim?",
+    "A": "E.Xoll",
+    "B": "Sh.Kulon",
+    "C": "M.Faradey",
+    "D": "I.Nyuton",
+    "javob": "A"
+  },
+  {
+    "savol": "…….  ……yarimo`t- kazgichlarnimng elektr xossalarini tahlil qilishda foydalaniladi.",
+    "A": "Xoll effekti",
+    "B": "Maksvell nazariyasi",
+    "C": "Nyuton tenglamasi",
+    "D": "Kulon qonuni",
+    "javob": "A"
+  },
+  {
+    "savol": "Magnit kuchlarining ma`lum qiymatida zaryadli zarracha……. Trayektoriya bo`ylab harakatlanadi.",
+    "A": "Yopiq",
+    "B": "Aylana",
+    "C": "Egri chiziqli",
+    "D": "To`gri chiziqli",
+    "javob": "A"
+  },
+  {
+    "savol": "….. Magnit maydoniga joylashtirilgan, duant deb ataladigan ichi kovak yarimsilindrik idish bo`lib, u o`zgaruvchan tok manbaiga ulangan.",
+    "A": "Siklotron",
+    "B": "Kondensator",
+    "C": "G`altak",
+    "D": "Transformator",
+    "javob": "A"
+  },
+  {
+    "savol": "……………  magnit o`tkazuvchanlik qiymati m birlikdan bir oz kamroq.",
+    "A": "Diamagnetik-lar",
+    "B": "Paramagnetiklar",
+    "C": "Ferromagnetik-lar",
+    "D": "Magnitlanuchi jismlar",
+    "javob": "A"
+  },
+  {
+    "savol": "…. Rux, qoʻrgʻoshin, kvarts, mis, shisha, vodorod, benzol va suv kiradi.",
+    "A": "Diamagnetik larga",
+    "B": "Paramagnetiklar-ga",
+    "C": "Ferromagnetik-larga",
+    "D": "Kimyoviy moddalarga",
+    "javob": "A"
+  },
+  {
+    "savol": "….. Misollar: nikel, kislorod, volfram, ebonit, platina, azot, havo.",
+    "A": "Paramagnetik-larga",
+    "B": "Diamagnetik larga",
+    "C": "Kimyoviy moddalarga",
+    "D": "Ferromagnetik-larga",
+    "javob": "A"
+  },
+  {
+    "savol": "……. Rux, qoʻrgʻoshin, kvarts, mis, shisha, vodorod, benzol va suv kiradi.",
+    "A": "Diamagnetik larga",
+    "B": "Paramagnetik-larga",
+    "C": "Ferromagnetik-larga",
+    "D": "Kimyoviy moddalarga",
+    "javob": "A"
+  },
+  {
+    "savol": "Magnit o`tkazuvchanligi sezilarli darajada (bir necha darajalar bo`yicha) birlikdan oshadi. Bu moddalar …...",
+    "A": "Ferromagnit lar",
+    "B": "Kimyoviy moddalar",
+    "C": "Paramagnetik-lar",
+    "D": "Diamagnetik lar",
+    "javob": "A"
+  },
+  {
+    "savol": "….. Asosan nikel, temir, kobalt va ularning qotishmalari kiradi.",
+    "A": "Ferromagnit lar",
+    "B": "Diamagnetik larga",
+    "C": "Kimyoviy moddalarga",
+    "D": "Paramagnetik-larga",
+    "javob": "A"
+  },
+  {
+    "savol": "……. Vismut, mis, oltingugurt, simob, xlor, inert gazlar va deyarli barcha organik birikmalar kiradi",
+    "A": "Diamagnetik lar",
+    "B": "Kimyoviy moddalarga",
+    "C": "Paramagnetik-larga",
+    "D": "Ferromagnetik-larga",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar chap qo`l kaftiga magnit induksiya vektori kiradigan qilib, to`rttala barmoqni tokning yo`nalishi bilan mos tushadigan qilib joylashtirilsa, bosh barmog`imiz ……. …….. Yo`nalishini ko`rsatadi",
+    "A": "Amper kuchi",
+    "B": "Lorens kuchi",
+    "C": "Tortishish kuchi",
+    "D": "Itarish kuchi",
+    "javob": "A"
+  },
+  {
+    "savol": "Turli shakldagi tokli o`tkazgichlar magnit maydonini o`rganib, barcha hollarda magnit induksiyasi maydonni hosil qiluvchi tok kuchi, tokli o`tkazgich shakli va uning o`lchamlariga bog`liq ekanligini aniqlagan olimlar.",
+    "A": "J. Bio va  F. Savar",
+    "B": "I.Nyuton va Sh.Kulon",
+    "C": "J.Bio va I.Nyuton",
+    "D": "M.Faradey va F.Savar",
+    "javob": "A"
+  }
+]
