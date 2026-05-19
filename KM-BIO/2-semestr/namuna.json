@@ -1,0 +1,2002 @@
+[
+  {
+    "savol": "Miologiya bo`limi nimani o`rganadi.",
+    "A": "Muskullarni",
+    "B": "Suyaklarni",
+    "C": "Tog`aylarni",
+    "D": "Organlarni",
+    "javob": "A"
+  },
+  {
+    "savol": "Muskullar necha guruhga bo`linadi",
+    "A": "2 ga",
+    "B": "3 ga",
+    "C": "4 ga",
+    "D": "5 ga",
+    "javob": "A"
+  },
+  {
+    "savol": "Muskullar kelib chiqishiga ko`ra necha xil bo`ladi",
+    "A": "3 xil",
+    "B": "2 xil",
+    "C": "1 xil",
+    "D": "4 xil",
+    "javob": "A"
+  },
+  {
+    "savol": "Inson ixtiyoriga bo`ysunmaydigan muskullarga qaysi muskul kiradi",
+    "A": "Yurak muskuli",
+    "B": "Oyoq muskuli",
+    "C": "Qo`l muskuli",
+    "D": "Qorin muskuli",
+    "javob": "A"
+  },
+  {
+    "savol": "Muskullardan qaysi biri inson ixtiyoriga bo`ysunmaydi",
+    "A": "Qon-tomirlar devori",
+    "B": "Qorin muskullari",
+    "C": "Ko`krak muskullari",
+    "D": "Orqa muskullari",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi muskul insonn ixtiyoriga bo`ysunmaydi",
+    "A": "Ichki organlar devori",
+    "B": "Ko`krak muskullari",
+    "C": "Orqa muskullari",
+    "D": "Yelka muskullari",
+    "javob": "A"
+  },
+  {
+    "savol": "Inson ixtiyoriga bo`ysunadigan muskullarni belgilang",
+    "A": "Skelet mushaklari",
+    "B": "Ichki organlar devorlari",
+    "C": "Qon tomirlar devori",
+    "D": "Yurak muskuli",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko`krak muskullari necha guruhga bo`linadi",
+    "A": "2 guruh: yuza va chuqur",
+    "B": "3 guruh: yuza, chuqur, lateral",
+    "C": "2 guruh:oldingi va orqa",
+    "D": "3 guruh:old, orqa, medial",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko`krakning yuza guruhiga qaysilari kiradi",
+    "A": "M.pectoralis major m.pectoralis minor",
+    "B": "M.iliopusuas",
+    "C": "M.adductor longus et breves",
+    "D": "M.latissimus dorsi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko`krakning  yuza guruh mushaklarini tashkil qiladi",
+    "A": "M.subclavius et m.serratus anterior",
+    "B": "M.obliquis abdominis interna et externa",
+    "C": "M.intercostalis externa et interna",
+    "D": "M.adductor longus et breves",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko`krakning chuqur guruh muskullarini belgilang",
+    "A": "M.intercostalis externa et m.intercostalis interna",
+    "B": "M.subclavius et m.serratus anterior",
+    "C": "M.obliquis abdominis interna et externa",
+    "D": "M.pectoralis major m.pectoralis minor",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko`krakning chuqur guruhi mushaklarini sanang",
+    "A": "M.subcostalis et m.transversus thorax",
+    "B": "M.obliquis abdominis interna et externa",
+    "C": "M.pectoralis major m.pectoralis minor",
+    "D": "M.obliquis abdominis interna et externa",
+    "javob": "A"
+  },
+  {
+    "savol": "Diafragmaning nechta qismi tafovut qilinadi",
+    "A": "Bel, qovurg`a, to`sh",
+    "B": "Bel,ko`krak,qovurg`a",
+    "C": "Qovurg`a, bel, qorin",
+    "D": "Ko`krak,bel,to`sh",
+    "javob": "A"
+  },
+  {
+    "savol": "Diafragmaning bel qismi nechanchi umurtqalarga to`g`ri keladi",
+    "A": "L 1-2",
+    "B": "L 2-3",
+    "C": "L 3-4",
+    "D": "L 4-5",
+    "javob": "A"
+  },
+  {
+    "savol": "Diafragmaning qovurg`a qismi nechanchi  qovurg`alarga to`g`ri keladi",
+    "A": "Pastki  7-12 qovurg`alarga",
+    "B": "Yuqorigi  1-5 qovurg`alarga",
+    "C": "Pastki  8-10 qovurg`alarga",
+    "D": "Yuqorigi  1-7 qovurg`alarga",
+    "javob": "A"
+  },
+  {
+    "savol": "Diafragma teshiklari nechta",
+    "A": "3 ta",
+    "B": "1 ta",
+    "C": "4 ta",
+    "D": "2 ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Diafragma teshiklarini belgilang",
+    "A": "Hiatus aorticus Hiatus esophagus Foramen vena cava inferior",
+    "B": "Foramen vena cava superior Hiatus esophagus Hiatus aorticus",
+    "C": "Hiatus aorticus Hiatus esophagus Hiatus venosus",
+    "D": "Foramen vena cava inferior Hiatus duodenus Hiatus venosus",
+    "javob": "A"
+  },
+  {
+    "savol": "Diafragmada nechta uchburchak bor",
+    "A": "2 ta",
+    "B": "3 ta",
+    "C": "4 ta",
+    "D": "1 ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Diafragmadagi uchburchaklarni belgilang",
+    "A": "Trigonum lumbacostalis Trigonum sternocostalis",
+    "B": "Trigonum cervicocostalis Trigonum sternocostalis",
+    "C": "Trigonum lumbacostalis Trigonum thoracocostalis",
+    "D": "Trigonum sternocostalis Trigonum thoracocostalis",
+    "javob": "A"
+  },
+  {
+    "savol": "Qorin muslullari necha guruhga bo`linadi",
+    "A": "3 ga",
+    "B": "4 ga",
+    "C": "2 ga",
+    "D": "5 ga",
+    "javob": "A"
+  },
+  {
+    "savol": "Qorin muskullari oldingi  guruhiga qaysi mushak kiradi",
+    "A": "M.rectus abdominis",
+    "B": "M.subcostalis",
+    "C": "M.obliquis abdominis externus",
+    "D": "M.obliquis abdominis internus",
+    "javob": "A"
+  },
+  {
+    "savol": "Qorin muskullari  oldingi yon guruhga qaysilar kiradi",
+    "A": "M.obliquis abdominis externus M.obliquis abdominis internus M.abdominis transversus",
+    "B": "M.rectus abdominis M.obliquis abdominis externus M.obliquis abdominis internus",
+    "C": "M.obliquis abdominis internus M.abdominis transversus M.subcostalis",
+    "D": "M.rectus abdominis M.obliquis abdominis externus M.subcostalis",
+    "javob": "A"
+  },
+  {
+    "savol": "Qorin muskullarini  orqa guruhini belgilang",
+    "A": "M.quadratus lumborum",
+    "B": "M.subcostalis",
+    "C": "M.rectus abdominis",
+    "D": "M.obliquis abdominis externus",
+    "javob": "A"
+  },
+  {
+    "savol": "Linea alba – qayerdan qayergacha tortilgan",
+    "A": "Xanjarsimon o`siqdan simfizgacha tortilgan",
+    "B": "Xanjarsimon o`siqdan crista iliaca ga tortilgan",
+    "C": "Xanjarsimon o`siqdan spina iliaca anterior superiorgacha",
+    "D": "Xanjarsimon o`siqdan spina iliaca anterior inferiorgacha",
+    "javob": "A"
+  },
+  {
+    "savol": "Linea alba qaysi muskullarning aponevrozi qo`shilishidan",
+    "A": "M.obliquis abdominis externus M.obliquis abdominis internus M.abdominis transversus",
+    "B": "M.obliquis abdominis internus M.abdominis transversus M.subcostalis",
+    "C": "M.rectus abdominis M.obliquis abdominis externus M.obliquis abdominis internus",
+    "D": "M.rectus abdominis M.obliquis abdominis externus M.subcostalis",
+    "javob": "A"
+  },
+  {
+    "savol": "Chov kanalining lotincha nomini belgilang",
+    "A": "Canalis inguinalis",
+    "B": "Anulus inguinalis",
+    "C": "Ligamentum inguinale",
+    "D": "Pupart boylami",
+    "javob": "A"
+  },
+  {
+    "savol": "Chov kanalining uzunligi  necha sm",
+    "A": "4-5 sm",
+    "B": "4-5 mm",
+    "C": "2-3 sm",
+    "D": "5-10 sm",
+    "javob": "A"
+  },
+  {
+    "savol": "Chov kanalining nechta halqasi bor",
+    "A": "2 ta",
+    "B": "1 ta",
+    "C": "3 ta",
+    "D": "5 ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Chov kanalining yuza halqasi  lotinchada qanday nomlanadi",
+    "A": "Anulus inguinalis superfacialis",
+    "B": "Anulus inguinalis profundus",
+    "C": "Canalis inguinalis",
+    "D": "Ligamentum inguinale",
+    "javob": "A"
+  },
+  {
+    "savol": "Chov kanalidan ayollarda nima o`tadi",
+    "A": "Ligamentum teres uteri",
+    "B": "Funniculus spermaticus",
+    "C": "Truncus coleacus",
+    "D": "Vena saphena",
+    "javob": "A"
+  },
+  {
+    "savol": "Chov kanalidan erkaklarda nima o`tadi",
+    "A": "Funniculus spermaticus",
+    "B": "Ligamentum teres uteri",
+    "C": "Truncus coleacus",
+    "D": "Fossa supraspinata Fossa infraspinata",
+    "javob": "A"
+  },
+  {
+    "savol": "M.supraspinatus va m.infraspinatus qaysi chuqurchalarni to`ldirib turadi",
+    "A": "Fossa supraspinata Fossa infraspinata",
+    "B": "Facies subscapularis",
+    "C": "Sulcus intertubercularis",
+    "D": "Fossa axillaris",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi jarayonda qo`ltiq osti chuqurchasini hosil qilish mumkin",
+    "A": "Qo`lni tanadan uzoqlashtirganda",
+    "B": "Qo`lni tanaga yaqinlashtirganda",
+    "C": "Qo`lni ichkariga burganda",
+    "D": "Qo`lni tashqariga burganda",
+    "javob": "A"
+  },
+  {
+    "savol": "Fossa axillarisning oldingi devorini belgilang",
+    "A": "M.pectoralis major",
+    "B": "M.latissimus dorsi",
+    "C": "M.biceps brachii",
+    "D": "M.serratus anterior",
+    "javob": "A"
+  },
+  {
+    "savol": "Fossa axillarisning orqa devorini belgilang",
+    "A": "M.latissimus dorsi",
+    "B": "M.biceps brachii",
+    "C": "M.pectoralis major",
+    "D": "M.serratus anterior",
+    "javob": "A"
+  },
+  {
+    "savol": "Fossa axillarisning lateral devorini belgilang",
+    "A": "M.biceps brachii",
+    "B": "M.pectoralis major",
+    "C": "M.latissimus dorsi",
+    "D": "M.serratus anterior",
+    "javob": "A"
+  },
+  {
+    "savol": "Fossa axillarisning medial devorini belgilang",
+    "A": "M.serratus anterior",
+    "B": "M.pectoralis major",
+    "C": "M.biceps brachii",
+    "D": "M.latissimus dorsi",
+    "javob": "A"
+  },
+  {
+    "savol": "Foramen trilacerumning yuqori devorini qaysi muskul hosil qiladi",
+    "A": "M.subscapularis",
+    "B": "M.subcostalis",
+    "C": "M.supraspinatus",
+    "D": "M.infraspinatus",
+    "javob": "A"
+  },
+  {
+    "savol": "Foramen trilacerumning pastki devorini qaysi muskul hosil qiladi",
+    "A": "M.teres major",
+    "B": "M.subscapularis",
+    "C": "M.subcostalis",
+    "D": "M.infraspinatus",
+    "javob": "A"
+  },
+  {
+    "savol": "Foramen trilacerumning lateral  devorini qaysi muskul hosil qiladi",
+    "A": "M.triceps brachii caput longus",
+    "B": "M.teres major",
+    "C": "M.subscapularis",
+    "D": "M.infraspinatus",
+    "javob": "A"
+  },
+  {
+    "savol": "Foramen quadrilacerumning lateral devorini qaysi muskul hosil qiladi",
+    "A": "Collum chirurgicum",
+    "B": "M.teres major",
+    "C": "M.subscapularis",
+    "D": "M.triceps brachii caput longus",
+    "javob": "A"
+  },
+  {
+    "savol": "Foramen quadrilacerumning medial devorini qaysi muskul hosil qiladi",
+    "A": "M.triceps brachii caput longus",
+    "B": "Collum chirurgicum",
+    "C": "M.subscapularis",
+    "D": "M.teres major",
+    "javob": "A"
+  },
+  {
+    "savol": "Yelka muskullari necha guruhga bo`linadi",
+    "A": "2 ga",
+    "B": "3 ga",
+    "C": "4 ga",
+    "D": "1 ga",
+    "javob": "A"
+  },
+  {
+    "savol": "Bilak muskullari necha guruhga bo`linadi",
+    "A": "3 ga",
+    "B": "2 ga",
+    "C": "1 ga",
+    "D": "4 ga",
+    "javob": "A"
+  },
+  {
+    "savol": "Muskullarda qo`l bosh barmog`i lotinchada  qanday nomlanadi",
+    "A": "Pollix",
+    "B": "Challex",
+    "C": "Digitorum minimi",
+    "D": "Index",
+    "javob": "A"
+  },
+  {
+    "savol": "Muskullarda oyoq bosh barmog`I lotinchada qanday nomlanadi",
+    "A": "Challex",
+    "B": "Pollix",
+    "C": "Index",
+    "D": "Digitorum minimi",
+    "javob": "A"
+  },
+  {
+    "savol": "Bosh muskullari necha guruhga bo`linadi",
+    "A": "Chaynov va mimika",
+    "B": "Chaynov va chakka",
+    "C": "Chakka va mimika",
+    "D": "Chakka va yonoq",
+    "javob": "A"
+  },
+  {
+    "savol": "Bo`yin muskullari necha guruhga bo`linadi",
+    "A": "3 ga: yuza, o`rta, chuqur",
+    "B": "2 ga: yuza, chuqur",
+    "C": "4 ga: yuza, o`rta, medial, lateral",
+    "D": "2 ga: medial, lateral",
+    "javob": "A"
+  },
+  {
+    "savol": "Bo`yin yuza guruhiga qaysi muskullar kiradi",
+    "A": "M.platisma, m.sternocleidomastoideus",
+    "B": "M.masseter, m.pterygoideus medialis",
+    "C": "M.omohyoideus, m.digastricus",
+    "D": "M.sternothyroideus, m.sternohyoideus",
+    "javob": "A"
+  },
+  {
+    "savol": "Bo`yin chur guruh muskullari nechiga bo`linadi",
+    "A": "Lateral va medial",
+    "B": "Old va orqa",
+    "C": "Yuza va chuqur",
+    "D": "Lateral va intermedius",
+    "javob": "A"
+  },
+  {
+    "savol": "Kalla suyagining miya qismiga nimalar kiradi?",
+    "A": "Os parietale",
+    "B": "Os zygomaticum",
+    "C": "Os mandibula",
+    "D": "Os palatinum",
+    "javob": "A"
+  },
+  {
+    "savol": "Kalla suyagining yuz qismiga nimalar kiradi?",
+    "A": "Os maxilla",
+    "B": "Os ethmoidale",
+    "C": "Os temporale",
+    "D": "Os parietale",
+    "javob": "A"
+  },
+  {
+    "savol": "Kalla haqidagi bo`lim?",
+    "A": "craniologiya",
+    "B": "osteologiya",
+    "C": "syndesmologiya",
+    "D": "neurologiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko`r teshik nomi va u qaysi suyakda joylashgan?",
+    "A": "Foramen caecum os frontale da",
+    "B": "Meatus acusticus externus os temporale da",
+    "C": "Foramen rotundum os sphenoidale da",
+    "D": "Foramen opticus os sphenoidale da",
+    "javob": "A"
+  },
+  {
+    "savol": "Kallaning yuz qismiga nimalar kiradi?",
+    "A": "Os palatinum",
+    "B": "Os temporale",
+    "C": "Os frontale",
+    "D": "Os parietale",
+    "javob": "A"
+  },
+  {
+    "savol": "Kallaning miya qismiga nimalar kiradi?",
+    "A": "Os temporale",
+    "B": "Os nasale",
+    "C": "Os lacrimale",
+    "D": "Os hyoideum",
+    "javob": "A"
+  },
+  {
+    "savol": "Foramen rotundum qaysi suyakda joylashgan?",
+    "A": "Os sphenoidale da",
+    "B": "Os lacrimale da",
+    "C": "Os temporale da",
+    "D": "Os frontale  da",
+    "javob": "A"
+  },
+  {
+    "savol": "Foramen jugulare qaysi suyakda joylashgan?",
+    "A": "Os temporale da",
+    "B": "Os sphenoidale da",
+    "C": "Os occipitaleda",
+    "D": "Os lacrimale da",
+    "javob": "A"
+  },
+  {
+    "savol": "Bo`yinturuq teshigining lotinchasi?",
+    "A": "foramen jugulare",
+    "B": "foramen ovale",
+    "C": "foramen magnum",
+    "D": "foramen caecum",
+    "javob": "A"
+  },
+  {
+    "savol": "Katta teshikning lotinchasi?",
+    "A": "Foramen magnum",
+    "B": "Foramen rotundum",
+    "C": "Foramen spinosum",
+    "D": "Foramen ovale",
+    "javob": "A"
+  },
+  {
+    "savol": "Foramen rotundum dan qaysi nerv o`tadi?",
+    "A": "n.maxillaris",
+    "B": "n.facialis",
+    "C": "n.opticus",
+    "D": "n.mandibularis",
+    "javob": "A"
+  },
+  {
+    "savol": "Foramen jugulare dan qaysi nerv o`tadi?",
+    "A": "n.vagus",
+    "B": "n.trochlearis",
+    "C": "n.facialis",
+    "D": "n.opticus",
+    "javob": "A"
+  },
+  {
+    "savol": "Qirrali teshik  lotichasi nima?",
+    "A": "Foramen spinosum",
+    "B": "Foramen lacerum",
+    "C": "Foramen ovale",
+    "D": "Foramen rotundum",
+    "javob": "A"
+  },
+  {
+    "savol": "Foramen infraorbitalis qaysi suyakka tegishli?",
+    "A": "Os maxilla",
+    "B": "Os mandibula",
+    "C": "Os palatinum",
+    "D": "Os nasale",
+    "javob": "A"
+  },
+  {
+    "savol": "Ponasimon suyakda qanaqa o`siq bor?",
+    "A": "Processus pterygoideus",
+    "B": "Processus temporale",
+    "C": "Processus orbitale",
+    "D": "Processus frontalis",
+    "javob": "A"
+  },
+  {
+    "savol": "Glabella qaysi suyakda joylashgan?",
+    "A": "Os frontaleda",
+    "B": "Os palatinumda",
+    "C": "Os maxillada",
+    "D": "Os temporaleda",
+    "javob": "A"
+  },
+  {
+    "savol": "Clivus qaysi suyakda joylashgan?",
+    "A": "Os occipitaleda",
+    "B": "Os frontaleda",
+    "C": "Os lacrimaleda",
+    "D": "Os sphenoidaleda",
+    "javob": "A"
+  },
+  {
+    "savol": "Gipofiz bezining joylashgan qismi?",
+    "A": "Cella turcicada",
+    "B": "Pars tympanicada",
+    "C": "Pars petrosada",
+    "D": "Pars squamada",
+    "javob": "A"
+  },
+  {
+    "savol": "Ichki uyqu arteriyasi chakka suyagining qaysi kanalidan o`tadi?",
+    "A": "Canalis carotica",
+    "B": "Canalis facialis",
+    "C": "Canalis chordatympani",
+    "D": "Canalis mastoideus",
+    "javob": "A"
+  },
+  {
+    "savol": "Yirtiq teshik qaysi?",
+    "A": "Foramen lacerum",
+    "B": "Foramen jugulare",
+    "C": "Foramen magnum",
+    "D": "Foramen rotundum",
+    "javob": "A"
+  },
+  {
+    "savol": "Processus mastoideus qaysi suyakda joylashgan?",
+    "A": "Os temporaleda",
+    "B": "Os frontaleda",
+    "C": "Os zygomaticumda",
+    "D": "Os maxillada",
+    "javob": "A"
+  },
+  {
+    "savol": "Processus styloideus qaysi suyakka tegishli?",
+    "A": "Os temporale",
+    "B": "Os maxilla",
+    "C": "Os palatinum",
+    "D": "Os vomer",
+    "javob": "A"
+  },
+  {
+    "savol": "Pars petrosa qaysi suyakka tegishli?",
+    "A": "Os temporale",
+    "B": "Os lacrimale",
+    "C": "Os frontale",
+    "D": "Os ethmoidaleas",
+    "javob": "A"
+  },
+  {
+    "savol": "Lamina orbitalis qaysi suyakka tegishli?",
+    "A": "Os ethmoidale",
+    "B": "Os palatinum",
+    "C": "Os hyoidem",
+    "D": "Os temporale",
+    "javob": "A"
+  },
+  {
+    "savol": "Lamina cribrosa qaysi suyakka tegishli?",
+    "A": "Os ethmoidale",
+    "B": "Os temporale",
+    "C": "Os frontale",
+    "D": "Os palatinum",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi suyakning katta va kichik qanotlari bor?",
+    "A": "Os sphenoidale",
+    "B": "Os frontale",
+    "C": "Os temporale",
+    "D": "Os ethmoidale",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi suyakning piramidasimon qismi bor?",
+    "A": "Chakka suyagida",
+    "B": "Peshona suyagida",
+    "C": "Ponasimon suyakda",
+    "D": "Ensa suyagida",
+    "javob": "A"
+  },
+  {
+    "savol": "Katta  teshik qaysi suyakka xos?",
+    "A": "Ensa suyakka",
+    "B": "Chakka suyakka",
+    "C": "Ponasimon suyakka",
+    "D": "G`alvirsimon suyakka",
+    "javob": "A"
+  },
+  {
+    "savol": "Xochsimon tepalik qaysi suyakka xos?",
+    "A": "Ensa suyakka",
+    "B": "Chakka suyakka",
+    "C": "G`alvirsimon suyakka",
+    "D": "Peshona suyakka",
+    "javob": "A"
+  },
+  {
+    "savol": "Xo`roz toji qaysi suyakka xos?",
+    "A": "G`alvirsimon suyakka",
+    "B": "Chakka suyakka",
+    "C": "Peshona suyakka",
+    "D": "Ensa suyakka",
+    "javob": "A"
+  },
+  {
+    "savol": "Qanotsimon o`siq qaysi suyakka xos?",
+    "A": "ponasimon suyakka",
+    "B": "Tepa suyakka",
+    "C": "chakka suyakka",
+    "D": "Ensa suyakka",
+    "javob": "A"
+  },
+  {
+    "savol": "To`rt qirrali va to`rt burchakli suyak qaysi?",
+    "A": "Tepa suyak",
+    "B": "Ensa suyak",
+    "C": "Peshona suyak",
+    "D": "Chakka  suyak",
+    "javob": "A"
+  },
+  {
+    "savol": "Ponasimon suyak  aperturasi qaysi chuqurchaga ochiladi?",
+    "A": "Chakka chuqurchasiga",
+    "B": "Chakka-osti chuqurchasiga",
+    "C": "Qanot-tanglay chuqurchasiga",
+    "D": "Kallaning tashqi asosiga",
+    "javob": "A"
+  },
+  {
+    "savol": "Yuqori jag` aperturasi qaysi chuqurchaga ochiladi?",
+    "A": "Chakka –osti chuqurchasiga",
+    "B": "Chakka chuqurchasiga",
+    "C": "Qanot-tanglay chuqurchasiga",
+    "D": "Kallaning ichki asosiga",
+    "javob": "A"
+  },
+  {
+    "savol": "Nog`ora qismi bor bo`lgan suyak?",
+    "A": "Chakka suyagi",
+    "B": "Peshona suyagi",
+    "C": "Tanglay suyagi",
+    "D": "Ponasimon suyak",
+    "javob": "A"
+  },
+  {
+    "savol": "Yonoq o`siq qaysi suyakka tegishli?",
+    "A": "Peshona  suyagiga",
+    "B": "Ensa suyagiga",
+    "C": "Ponasimon suyagiga",
+    "D": "Chakka suyagiga",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi suyak kallaning yon devorini hosil qiladi?",
+    "A": "Chakka  suyagi",
+    "B": "G`alvirsimon suyagi",
+    "C": "Peshona suyagi",
+    "D": "Ensa  suyagi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi suyak kallaning orqa qismini hosil qiladi?",
+    "A": "Ensa suyagi",
+    "B": "Tepa suyagi",
+    "C": "Peshona suyagi",
+    "D": "Chakka suyagi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi suyak  kalla qopqog`ini hosil qiladi?",
+    "A": "Tepa  suyagi",
+    "B": "Ensa suyagi",
+    "C": "ponasimon suyagi",
+    "D": "Chakka suyagi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi suyak kallaning old qismini hosil qiladi?",
+    "A": "Peshona  suyagi",
+    "B": "Ponasimon suyagi",
+    "C": "Chakka suyagi",
+    "D": "Ensa suyagi",
+    "javob": "A"
+  },
+  {
+    "savol": "Bo`g`im o`simtasi qaysi suyakka tegishli?",
+    "A": "Pastki jag`",
+    "B": "Yuqori jag`",
+    "C": "Tanglay suyagi",
+    "D": "Yonoq suyagi",
+    "javob": "A"
+  },
+  {
+    "savol": "Yuqori jag`ning lotinchasi?",
+    "A": "maxilla",
+    "B": "zygomaticum",
+    "C": "mandibula",
+    "D": "palatinum",
+    "javob": "A"
+  },
+  {
+    "savol": "Pastki jag`ning lotinchasi?",
+    "A": "mandibulla",
+    "B": "maxilla",
+    "C": "hyoideum",
+    "D": "maxilla",
+    "javob": "A"
+  },
+  {
+    "savol": "Yonoq suyakning lotinchasi?",
+    "A": "zygomaticum",
+    "B": "palatinum",
+    "C": "Concha nasalis inferior",
+    "D": "nasale",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi suyakning 2ta plastinkasi bor?",
+    "A": "Tanglay suyagi",
+    "B": "G`alvirsimon suyak",
+    "C": "Ko`z yosh suyagi",
+    "D": "Dimog` suyagi",
+    "javob": "A"
+  },
+  {
+    "savol": "Til osti suyagining lotinchasi nima?",
+    "A": "hyoideum",
+    "B": "vomer",
+    "C": "palatinum",
+    "D": "maxilla",
+    "javob": "A"
+  },
+  {
+    "savol": "Processus orbitalis qaysi suyakka xos?",
+    "A": "Os palatinum",
+    "B": "Os mandibula",
+    "C": "Os hyoideum",
+    "D": "Os nasale",
+    "javob": "A"
+  },
+  {
+    "savol": "Processus coronoideus qaysi suyakka xos?",
+    "A": "Os mandibulla",
+    "B": "Os nasale",
+    "C": "Os maxilla",
+    "D": "Os vomer",
+    "javob": "A"
+  },
+  {
+    "savol": "Processus sphenoidalis qaysi suyakka xos?",
+    "A": "Tanglay suyagi",
+    "B": "Dimog` suyagi",
+    "C": "Tilosti suyagi",
+    "D": "Burun suyagi",
+    "javob": "A"
+  },
+  {
+    "savol": "G`alvirsimon suyakning qaysi plastinkasi burun to`sig`ining yuqori qismini hosil qiladi?",
+    "A": "Lamina perpendicularis",
+    "B": "Lamina cribrosa",
+    "C": "Lamina orbitalis",
+    "D": "Lamina horizontalis",
+    "javob": "A"
+  },
+  {
+    "savol": "Processus uncinatus qaysi suyakka xos?",
+    "A": "G`alvirsimon suyagi",
+    "B": "Yuqori jag`",
+    "C": "Tanglay suyagi",
+    "D": "Pastki jag`",
+    "javob": "A"
+  },
+  {
+    "savol": "Tojsimon o`siq qaysi suyakka tegishli”",
+    "A": "Pastki jag`",
+    "B": "Tanglay suyagi",
+    "C": "G`alvirsimon suyak",
+    "D": "Yuqori jag`",
+    "javob": "A"
+  },
+  {
+    "savol": "Foramen mentali qaysi suyakda joylashgan?",
+    "A": "Pastki  jag`da",
+    "B": "Tanglay suyagida",
+    "C": "Yonoqda",
+    "D": "Tilosti suyagida",
+    "javob": "A"
+  },
+  {
+    "savol": "Qiyshiq chiziq qaysi suyakda bor?",
+    "A": "Pastki  jag`da",
+    "B": "yuqorigi jagda`",
+    "C": "Ko`zyosh suyagida",
+    "D": "Dimog suyagida",
+    "javob": "A"
+  },
+  {
+    "savol": "Processus ethmoidales qaysi suyakka xos?",
+    "A": "Pastki burun chig`anog`i",
+    "B": "Ko`z yosh suyagi",
+    "C": "Burun suyagi",
+    "D": "Tilosti suyagi",
+    "javob": "A"
+  },
+  {
+    "savol": "It chuqurchasi qaysi suyakda joylashgan?",
+    "A": "yuqorigi jag`da",
+    "B": "Pastki burun chig`anog`ida",
+    "C": "Burun suyagida",
+    "D": "Pastki jag`da",
+    "javob": "A"
+  },
+  {
+    "savol": "Gaymor bo`shlig`I qaysi suyakda joylashgan?",
+    "A": "Yuqorigi jag`da",
+    "B": "Peshona suyakda",
+    "C": "Ponasimon suyakda",
+    "D": "Ensa suyakda",
+    "javob": "A"
+  },
+  {
+    "savol": "Chakka o`sig`i qaysi suyakka xos?",
+    "A": "Yonoq  suyagiga",
+    "B": "Chakka suyagiga",
+    "C": "Pastki burun chig`anog`iga",
+    "D": "Pastki jag`ga",
+    "javob": "A"
+  },
+  {
+    "savol": "Processus maxillaris qaysi suyakning o`sig`i?",
+    "A": "Pastki burun chig`anog`ining",
+    "B": "Tanglay suyakning",
+    "C": "Pastki jag`ning",
+    "D": "Yuqori jag`ning",
+    "javob": "A"
+  },
+  {
+    "savol": "Processus lacrimalis qaysi suyakning o`sig`i?",
+    "A": "Pastki burun chig`anog`ining",
+    "B": "Peshona suyagining",
+    "C": "Yonoq suyagining",
+    "D": "Tanglay suyagining",
+    "javob": "A"
+  },
+  {
+    "savol": "Dimog` suyagining lotinchasi?",
+    "A": "Os vomer",
+    "B": "Os maxilla",
+    "C": "Os hyoideum",
+    "D": "Concha nasales inferior",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi suyakning katta va kichik shoxlari bo`ladi?",
+    "A": "Tilosti suyakning",
+    "B": "Dimog` suyakning",
+    "C": "Yuqori jag`ning",
+    "D": "Pastki jag`ning",
+    "javob": "A"
+  },
+  {
+    "savol": "Processus frontalis  qaysi suyakka xos?",
+    "A": "yuqorigi jag`",
+    "B": "Tanglay suyagi",
+    "C": "Peshona suyagi",
+    "D": "Pastki  jag`",
+    "javob": "A"
+  },
+  {
+    "savol": "Processus alveolaris qaysi suyakka xos?",
+    "A": "Yuqorigi jag`",
+    "B": "Pastki  jag`",
+    "C": "Dimog` suyagi",
+    "D": "Tilosti suyagi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi teshik yopiq holatda bo`ladi?",
+    "A": "Foramen caecum",
+    "B": "Foramen rotundum",
+    "C": "Foramen magnum",
+    "D": "Foramen jugulare",
+    "javob": "A"
+  },
+  {
+    "savol": "Tilosti nervi qaysi teshikdan o`tadi?",
+    "A": "Foramen hypoglossus",
+    "B": "Foramen ovale",
+    "C": "Foramen spinosum",
+    "D": "Canalis opticus",
+    "javob": "A"
+  },
+  {
+    "savol": "Os lacrimale ko`z kosasining qaysi devorida joylashgan?",
+    "A": "medial",
+    "B": "lateral",
+    "C": "yuqorigi",
+    "D": "pastki",
+    "javob": "A"
+  },
+  {
+    "savol": "Burun suyaklari burun bo`shlig`ining qaysi devorini hosil qiladi?",
+    "A": "yuqorigi",
+    "B": "pastki",
+    "C": "medial",
+    "D": "lateral",
+    "javob": "A"
+  },
+  {
+    "savol": "Processus clinoideus qaysi suyakka xos?",
+    "A": "Ponasimon suyagiga",
+    "B": "Peshona suyagiga",
+    "C": "Tanglay suyagiga",
+    "D": "Chakka suyagiga",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi suyak toq?",
+    "A": "pastki jag`",
+    "B": "yuqorigi jag`",
+    "C": "Ko`z yosh suyagi",
+    "D": "Burun suyagi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi suyaklar juft?",
+    "A": "Yonoq suyagi",
+    "B": "Pastki jag`",
+    "C": "Peshona suyagi",
+    "D": "Ensa suyagi",
+    "javob": "A"
+  },
+  {
+    "savol": "Linea nuchalis suprema qaysi suyakning chizig`i?",
+    "A": "chakka suyagi",
+    "B": "Tepa  suyagi",
+    "C": "Ensa suyagi",
+    "D": "Peshona suyagi",
+    "javob": "A"
+  },
+  {
+    "savol": "Pastki burun chig`anog`ining lotinchasi nima?",
+    "A": "Concha nasales inferior",
+    "B": "Os palatinum",
+    "C": "Os nasale",
+    "D": "Os vomer",
+    "javob": "A"
+  },
+  {
+    "savol": "Hidlov nervi qaysi teshikdan o`tadi?",
+    "A": "Foramen cribrosa",
+    "B": "Foramen magnum",
+    "C": "Foramen jugulare",
+    "D": "Foramen ovale",
+    "javob": "A"
+  },
+  {
+    "savol": "Ensa suyagining lotinchasi nima?",
+    "A": "Os occipitale",
+    "B": "Os frontale",
+    "C": "Os parietale",
+    "D": "Os hyoideum",
+    "javob": "A"
+  },
+  {
+    "savol": "N.maxillaris qaysi teshikdan chiqadi?",
+    "A": "Foramen rotundum",
+    "B": "Foramen spinosum",
+    "C": "Foramen magnum",
+    "D": "Foramen ovale",
+    "javob": "A"
+  },
+  {
+    "savol": "N.mandibularis qaysi teshikdan chiqadi?",
+    "A": "Foramen ovale",
+    "B": "Foramen cribrosa",
+    "C": "Foramen jugulare",
+    "D": "Foramen spinosum",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi suyak kallaning o`rta chuqurchasini hosil qiladi?",
+    "A": "Ponasimon  suyagi",
+    "B": "Ensa suyagi",
+    "C": "Peshona suyagi",
+    "D": "Chakka suyagi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi suyakda 7ta kanal mavjud?",
+    "A": "Chakka suyagida",
+    "B": "Ponasimon suyakda",
+    "C": "Pastki jag`da",
+    "D": "Yuqori jag`da",
+    "javob": "A"
+  },
+  {
+    "savol": "Yonoq o`sig`i qaysi suyakka tegishli?",
+    "A": "Yuqorigi jag`ga",
+    "B": "Tepa  suyagiga",
+    "C": "Tanglay suyagiga",
+    "D": "Ensa suyagiga",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi suyakning 4ta yuzasi va 4ta o`sig`i bor?",
+    "A": "Yuqori jag`",
+    "B": "Pastki jag`",
+    "C": "Tanglay suyagi",
+    "D": "Tilosti suyagi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi suyakning 3ta o`sig`i va 2ta plastinkasi bor?",
+    "A": "Tanglay  suyagi",
+    "B": "Burun  suyagi",
+    "C": "Ko`z yosh suyagi",
+    "D": "Yuqori jag`",
+    "javob": "A"
+  },
+  {
+    "savol": "Foramen mastoideum qaysi suyakka xos?",
+    "A": "Chakka suyagi",
+    "B": "Tepa suyagi",
+    "C": "Ensa suyagi",
+    "D": "Peshona suyagi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qo`shimcha nerv qaysi teshikdan o`tadi?",
+    "A": "Foramen jugulare",
+    "B": "Foramen ovale",
+    "C": "Foramen spinosum",
+    "D": "Foramen magnum",
+    "javob": "A"
+  },
+  {
+    "savol": "Barmoq izlari qaysi suyakka tegishli?",
+    "A": "Peshona   suyagi",
+    "B": "Chakka  suyagi",
+    "C": "G`alvirsimon suyagi",
+    "D": "Tepa suyagi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qanotsimon o`siqning nechta plastinkasi bor?",
+    "A": "2ta",
+    "B": "3ta",
+    "C": "4ta",
+    "D": "1ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Nervus opticus qaysi kanaldan o`tadi?",
+    "A": "Canalis opticus",
+    "B": "Canalis mastoideum",
+    "C": "Canalis facialis",
+    "D": "Canalis lacrimalis",
+    "javob": "A"
+  },
+  {
+    "savol": "Fovea sublingualis qaysi suyakka xos?",
+    "A": "Pastki i jag`",
+    "B": "Tanglay suyagi",
+    "C": "Yuqorig i jag`",
+    "D": "Yonoq suyagi",
+    "javob": "A"
+  },
+  {
+    "savol": "Chaynov bo`rtmasi(tuberositas masseterica) qaysi suyakka tegishli?",
+    "A": "Pastki jag`",
+    "B": "Yonoq suyagi",
+    "C": "Tanglay suyagi",
+    "D": "Yuqori jag`",
+    "javob": "A"
+  },
+  {
+    "savol": "Bo`g`im bo`rtig`i qaysi suyakka xos?",
+    "A": "Ensa suyagi",
+    "B": "Tepa suyagi",
+    "C": "Ponasimon suyagi",
+    "D": "Chakka suyagi",
+    "javob": "A"
+  },
+  {
+    "savol": "Tanglay suyagining nechta plastinkasi bor?",
+    "A": "2ta",
+    "B": "3ta",
+    "C": "1ta",
+    "D": "4ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Canalis palatinus major qaysi tishlar sohasiga to`gri keladi?",
+    "A": "6va 7tishlar",
+    "B": "1va 2tishlar",
+    "C": "2va3tishlar",
+    "D": "3va 4tishlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Keskich kanal qaysi tishlar sohasiga to`gri keladi?",
+    "A": "1va 1tishlar",
+    "B": "3va4tishlar",
+    "C": "2va 3tishlar",
+    "D": "6va 7tishlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Chakka suyagining qaysi kanalidan adashgan nervning quloq shoxi o`tadi?",
+    "A": "Canalis mastoideus",
+    "B": "Canalis facialis",
+    "C": "Canalis tympanicus",
+    "D": "Canalis chordatympani",
+    "javob": "A"
+  },
+  {
+    "savol": "Fossa mandibula qaysi suyakka xos?",
+    "A": "Chakka  suyagiga",
+    "B": "Tepa suyagiga",
+    "C": "Ensa suyagiga",
+    "D": "Peshona suyagiga",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi suyakka toshsimon qism bor?",
+    "A": "Chakka  suyagi",
+    "B": "Ensa  suyagi",
+    "C": "Peshona suyagi",
+    "D": "Tepa suyagi",
+    "javob": "A"
+  },
+  {
+    "savol": "Uzoqlashtiruvchi nerv qaysi teshikdan o`tadi?",
+    "A": "Fissura orbitalis superior",
+    "B": "Foramen ovale",
+    "C": "Foramen rotundum",
+    "D": "Foramen magnum",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi suyakka labirintlar va ularning katakchalari bor?",
+    "A": "G`alvirsimon suyagi",
+    "B": "Ensa suyagi",
+    "C": "Pastki jag`",
+    "D": "Yuqori jag`",
+    "javob": "A"
+  },
+  {
+    "savol": "Kallaning tashqi asosi nechi qismga bo`lingan?",
+    "A": "3qismga",
+    "B": "2qismga",
+    "C": "4qismga",
+    "D": "5qismga",
+    "javob": "A"
+  },
+  {
+    "savol": "Kallaning ichki asosi nechi qismga bo`lingan?",
+    "A": "3qismga",
+    "B": "4qismga",
+    "C": "1qismga",
+    "D": "2qismga",
+    "javob": "A"
+  },
+  {
+    "savol": "Kallada nechta chuqurchalar bor?",
+    "A": "3ta",
+    "B": "2ta",
+    "C": "1ta",
+    "D": "4ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Chakka chuqurchasini nima to`ldirib turadi?",
+    "A": "Chakka mushagi",
+    "B": "Chaynov mushagi",
+    "C": "Chakka pastki jag` bo`g`imi",
+    "D": "Qanotsimon mushak",
+    "javob": "A"
+  },
+  {
+    "savol": "Chakka-osti chuqurchasini nima to`ldirib turadi?",
+    "A": "Chakka-pastki jag` bo`g`imi",
+    "B": "Chakka mushagi",
+    "C": "Chaynov mushagi",
+    "D": "Bo`yin mushagi",
+    "javob": "A"
+  },
+  {
+    "savol": "Chakka chuqurchasining orqa va yuqori qismini qaysi chiziq hosil qiladi?",
+    "A": "Linea temporalis inferior",
+    "B": "Linea obliqua",
+    "C": "Linea temporalis superior",
+    "D": "Linea nuchalis suprema",
+    "javob": "A"
+  },
+  {
+    "savol": "Chakka osti chuqurchasini ko`z bilan nima tutashtirib turadi?",
+    "A": "Fissura orbitalis inferior",
+    "B": "Fissura orbitalis superior",
+    "C": "Foramen ovale",
+    "D": "Foramen rotundum",
+    "javob": "A"
+  },
+  {
+    "savol": "Chakka osti chuqurchasini qanot-tanglay chuqurchasi bilan nima tutashtirib turadi?",
+    "A": "Fissura pterygo-maxillaris",
+    "B": "Fisuura orbitalis superior",
+    "C": "Fissura orbitalis inferior",
+    "D": "Canalis lacrimalis",
+    "javob": "A"
+  },
+  {
+    "savol": "Chakka osti chuqurchasining old devorini nima hosil qiladi?",
+    "A": "Tuber maxilla",
+    "B": "Qanotsimon o`simta",
+    "C": "Chakka chizig`i",
+    "D": "Qanot-tanglay chuqurchasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qanot-tanglay chuqurchasining orqa devorini nima hosil qiladi?",
+    "A": "Qanotsimon o`simta",
+    "B": "Tuber maxilla",
+    "C": "Yonoq suyagi",
+    "D": "Chakka osti chuqurchasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qanot-tanglay chuqurchasining lateral devorini nima hosil qiladi?",
+    "A": "Chakka osti chuqurchasi",
+    "B": "Chakka chuqurchasi",
+    "C": "Yonoq suyagi",
+    "D": "Qanotsimon o`simta",
+    "javob": "A"
+  },
+  {
+    "savol": "Qanot-tanglay chuqurchasini kallaning o`rta sohasi bilan nima birlashtirib turadi?",
+    "A": "Foramen rotundum",
+    "B": "Fissura orbitalis inferior",
+    "C": "Foramen magnum",
+    "D": "Foramen jugulare",
+    "javob": "A"
+  },
+  {
+    "savol": "Qanot-tanglay chuqurchasini og`iz bo`shlig`I bilan nima birlashtirib turadi?",
+    "A": "Canalis palatinus major",
+    "B": "Canalis lacrimalis",
+    "C": "Canalis pterygoideus",
+    "D": "Canalis mastoideus",
+    "javob": "A"
+  },
+  {
+    "savol": "Qanot-tanglay chuqurchasini burun bo`shlig`I bilan nima birlashtirib turadi",
+    "A": "Foramen sphenopalatinum",
+    "B": "Foramen magnum",
+    "C": "Foramen jugulare",
+    "D": "Foramen rotundum",
+    "javob": "A"
+  },
+  {
+    "savol": "Tepa suyagining lotinchasi?",
+    "A": "Os parietale",
+    "B": "Os nasale",
+    "C": "Os ethmoidale",
+    "D": "Os frontale",
+    "javob": "A"
+  },
+  {
+    "savol": "Peshona o`sig`i qaysi suyakka xos?",
+    "A": "Yonoq suyagi",
+    "B": "Pastki jag`",
+    "C": "Peshona suyagi",
+    "D": "Tanglay suyagi",
+    "javob": "A"
+  },
+  {
+    "savol": "Burunda nechta chig`anog` bor?",
+    "A": "3ta",
+    "B": "2ta",
+    "C": "5ta",
+    "D": "4ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Pastki burun yo`liga nima ochiladi?",
+    "A": "Canalis nasolacrimalis",
+    "B": "Canalis palatinum minor",
+    "C": "Canalis facialis",
+    "D": "Canalis carotica",
+    "javob": "A"
+  },
+  {
+    "savol": "G`alvirsimon suyakning orqa katakchalari qaysi burun yo`liga ochiladi?",
+    "A": "Yuqorigi burun yo`liga",
+    "B": "O`rta burun yo`liga",
+    "C": "Pastki burun yo`liga",
+    "D": "Og`iz bo`shlig`iga",
+    "javob": "A"
+  },
+  {
+    "savol": "G`alvirsimon suyakning oldingi katakchalari qaysi burun yo`liga ochiladi?",
+    "A": "O`rta burun yo`liga",
+    "B": "Yuqori burun yo`liga",
+    "C": "Pastki  burun yo`liga",
+    "D": "O`rta kalla chuqurchasiga",
+    "javob": "A"
+  },
+  {
+    "savol": "Yuqorigi burun yo`lining lotinchasi?",
+    "A": "Meatus nasi superior",
+    "B": "Meatus nasi media",
+    "C": "Meatus nasi inferior",
+    "D": "Meatus nasi posterior",
+    "javob": "A"
+  },
+  {
+    "savol": "Yuqorigi burun chig`anog`i qaysi suyak tarkibiga kiradi?",
+    "A": "G`alvirsimon  suyagi",
+    "B": "Yuqori jag`",
+    "C": "Tepa suyagi",
+    "D": "Peshona suyagi",
+    "javob": "A"
+  },
+  {
+    "savol": "Suyaklarning o`zaro birikishini o`rganadigan bo`lim qaysi?",
+    "A": "sindesmologiya",
+    "B": "osteologiya",
+    "C": "miologiya",
+    "D": "craniologiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Skelet suyaklarining uzluksiz birikishi nima deyiladi?",
+    "A": "sinartroz",
+    "B": "diartroz",
+    "C": "diafiz",
+    "D": "simfiz",
+    "javob": "A"
+  },
+  {
+    "savol": "Yarim bo`g`imlar lotin tilida qanday nomlanadi?",
+    "A": "hemiartroz",
+    "B": "diartroz",
+    "C": "siartroz",
+    "D": "diafiz",
+    "javob": "A"
+  },
+  {
+    "savol": "Skelet suyaklarining uzluklibirikishi nima deyiladi?",
+    "A": "diartroz",
+    "B": "sinartroz",
+    "C": "gemiartroz",
+    "D": "simfiz",
+    "javob": "A"
+  },
+  {
+    "savol": "Bo`g`imlar lotin tilida qanday nomlanadi?",
+    "A": "articulatio",
+    "B": "apofiz",
+    "C": "aponevrosis",
+    "D": "epifiz",
+    "javob": "A"
+  },
+  {
+    "savol": "Bo`g`imlar nimalar vositasida mustahkamlanib turadi?",
+    "A": "ligamentum",
+    "B": "radix",
+    "C": "articulatio",
+    "D": "simfiz",
+    "javob": "A"
+  },
+  {
+    "savol": "Bo`g`imlarni frontal sath bo`ylab bukish nima deyiladi?",
+    "A": "flexio",
+    "B": "extencio",
+    "C": "adductio",
+    "D": "rotatio",
+    "javob": "A"
+  },
+  {
+    "savol": "Bo`g`imlarni gorizontal sath bo`ylab bukish nima deyiladi?",
+    "A": "rotatio",
+    "B": "extencio",
+    "C": "adductio",
+    "D": "flexio",
+    "javob": "A"
+  },
+  {
+    "savol": "Ellips shaklidagi bo`g`imlar qanday harakat qiladi?",
+    "A": "2 o`q atrofida",
+    "B": "Sharsimon",
+    "C": "Hamma o`qlar atrofida",
+    "D": "Faqat 1 o`q atrofida",
+    "javob": "A"
+  },
+  {
+    "savol": "Silindrsimon shakldagi bo`g`imlar qanday harakat qiladi?",
+    "A": "Faqat 1 o`q atrofida",
+    "B": "sharsimon",
+    "C": "Hamma o`qlar atrofida",
+    "D": "2 o`q atrofida",
+    "javob": "A"
+  },
+  {
+    "savol": "Sariq boylam lotin tilida qanday nomlanadi?",
+    "A": "Lig.  flava",
+    "B": "Lig. interspinale",
+    "C": "Lig. nuchae",
+    "D": "Lig. lateralis",
+    "javob": "A"
+  },
+  {
+    "savol": "Umurtqalarning ko`ndalang o`simtalari orasida qaysi boylam joylashgan?",
+    "A": "Lig. intertransversarium",
+    "B": "Lig. flava",
+    "C": "Lig. nuchae",
+    "D": "Lig. lateralis",
+    "javob": "A"
+  },
+  {
+    "savol": "Oldingi bo`ylama boylam lotin tilida qanday nomlanadi?",
+    "A": "Lig. Longitudinale anterior",
+    "B": "Lig. Longitudinale posterior",
+    "C": "Lig. nuchae",
+    "D": "Lig. laterale",
+    "javob": "A"
+  },
+  {
+    "savol": "Art. Atlantoaxialis lateralis qayerda joylashgan?",
+    "A": "1- va 2- bo`yin umurtqalari orasida",
+    "B": "3- va 4- bo`yin umurtqalari orasida",
+    "C": "Ensa suyagi va 2 – bo`yin umurtqasi orasida",
+    "D": "Ensa suyagi va 1- bo`yin umurtqasi orasida",
+    "javob": "A"
+  },
+  {
+    "savol": "Membrana atlantooccipitalis anterior qayerda joylashgan?",
+    "A": "1-bo`yin umurtqasi  Va ensa suyagi orasida",
+    "B": "2-bo`yin umurtqasi va ensa suyagi orasida",
+    "C": "1-va 2- bo`yin umurtqalari orasida",
+    "D": ", 2-, 3- bo`yin umurtqalari orasida",
+    "javob": "A"
+  },
+  {
+    "savol": "2-bo`yin umurtqasi tishchasining  yon yuzasidan, ensa suyagigacha tortilgan boylam qaysi?",
+    "A": "Lig. alaria",
+    "B": "Lig. nuchae",
+    "C": "Lig. Apices dentis",
+    "D": "Lig. flava",
+    "javob": "A"
+  },
+  {
+    "savol": "Xochsimon boylam lotincha nomi nima?",
+    "A": "Lig. cruciformis",
+    "B": "Lig. alaria",
+    "C": "Lig. flava",
+    "D": "Lig. nuchae",
+    "javob": "A"
+  },
+  {
+    "savol": "2- bo`yin umurtqasi tishchasining uchidan ensa suyagi tomon tortilgan boylam qaysi?",
+    "A": "Lig. apicis dentis",
+    "B": "Lig. alaria",
+    "C": "Lig. cruciformis",
+    "D": "Lig. flava",
+    "javob": "A"
+  },
+  {
+    "savol": "Umurtqa pog`onasining orqa bo`ylama boylami  qanday nomlanadi?",
+    "A": "Lig. Longitudinale posterius",
+    "B": "Lig. Longitudinale anterius",
+    "C": "Lig. cruciformis",
+    "D": "Lig. nuchae",
+    "javob": "A"
+  },
+  {
+    "savol": "Qovurg`a boshchasidagi bo`g`im yuzasi bilan ko`krak umurtqalaridagi qovurg`a o`ymalari orasida hosil bo`lgan bo`g`im qaysi?",
+    "A": "Art. Capitis costae",
+    "B": "Art. costotransversarie",
+    "C": "Art. intercostales",
+    "D": "Art. externa",
+    "javob": "A"
+  },
+  {
+    "savol": "Art. Sternoclavicularis qanday bo`g`im?",
+    "A": "To`sh – o`mrov bo`g`imi",
+    "B": "To`sh – qovurg`a bo`g`imi",
+    "C": "O`mrov – qovurg`a bo`g`imi",
+    "D": "Yelka bo`g`imi",
+    "javob": "A"
+  },
+  {
+    "savol": "Art. Acromioclavicularis qanday bo`g`im?",
+    "A": "O`mrov suyagi bilan kurak suyagi acromion o`sig`I orasidagi bo`g`im",
+    "B": "To`sh – o`mrov bo`g`imi",
+    "C": "O`mrov – qovurg`a bo`g`imi",
+    "D": "Yelka bo`g`imi",
+    "javob": "A"
+  },
+  {
+    "savol": "Tirsak bo`g`imi lotincha nomi nima?",
+    "A": "Art. cubiti",
+    "B": "Art. sternoclavicularis",
+    "C": "Art. humeri",
+    "D": "Art. tibialis",
+    "javob": "A"
+  },
+  {
+    "savol": "Dumg`aza – yonbosh bo`g`Imining lotincha nomi nima?",
+    "A": "Art. Sacroiliaca",
+    "B": "Art. cubiti",
+    "C": "Art. metacarpalis",
+    "D": "Art. palmare",
+    "javob": "A"
+  },
+  {
+    "savol": "Chanoqdagi yopqich teshik fibroz parda …. Bilan qoplangan bo`ladi.",
+    "A": "Membrana obturatoria",
+    "B": "Membrana ischiadica",
+    "C": "Membrana sacrospinale",
+    "D": "Membrana acetabuli",
+    "javob": "A"
+  },
+  {
+    "savol": "Art. Genus qanday bo`g`im?",
+    "A": "Tizza bo`g`imi",
+    "B": "Yelka bo`g`imi",
+    "C": "Tirsak bo`g`imi",
+    "D": "Son bo`g`imi",
+    "javob": "A"
+  },
+  {
+    "savol": "Yuqori jag` suyaklari orasidagi chok qanday nomlanadi?",
+    "A": "Sutura intermaxillaris",
+    "B": "Sutura sagittalis",
+    "C": "Sutura sphenosquamosa",
+    "D": "Sutura mastoidea",
+    "javob": "A"
+  },
+  {
+    "savol": "Peshona suyagi bilan burun suyagi orasida joylashgan chok qanday nomlanadi?",
+    "A": "Sutura frontonasalis",
+    "B": "Sutura sagittalis",
+    "C": "Sutura sphenoidalis",
+    "D": "Sutura mastoidea",
+    "javob": "A"
+  },
+  {
+    "savol": "Tanglay suyagining ko`ndalang choki qanday nomlanadi?",
+    "A": "Sutura palatina transversa",
+    "B": "Sutura frontalis",
+    "C": "Sutura sphenoidalis",
+    "D": "Sutura frontonasalis",
+    "javob": "A"
+  },
+  {
+    "savol": "Tojsimon chok lotincha qanday nomlanadi?",
+    "A": "Sutura coronalis",
+    "B": "Sutura sagittalis",
+    "C": "Sutura lambdoidea",
+    "D": "Sutura frontalis",
+    "javob": "A"
+  },
+  {
+    "savol": "Oldingi xochsimon boylam lotin tilida qanday nomlanadi?",
+    "A": "Lig. Cruciatum anterius",
+    "B": "Lig. Cruciatum medius",
+    "C": "Lig. Cruciatum posterius",
+    "D": "Lig. Cruciatum intermedius",
+    "javob": "A"
+  },
+  {
+    "savol": "Fibroz choklar nima deb ataladi?",
+    "A": "sindesmoz",
+    "B": "lordoz",
+    "C": "sinostoz",
+    "D": "sinxondroz",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi chok ponasimon suyak bilan yuqori jag` orasida joylashgan?",
+    "A": "Sutura sphenomaxillaris",
+    "B": "Sutura sagittalis",
+    "C": "Sutura sphenomandibularis",
+    "D": "Sutura sphenozygomatica",
+    "javob": "A"
+  },
+  {
+    "savol": "Chakka pastki jag` bo`g`imi qanday nomlanadi?",
+    "A": "Art. temporomandibularis",
+    "B": "Art. Temporo maxillaris",
+    "C": "Art. Mandibulo maxillaris",
+    "D": "Art. temporalis",
+    "javob": "A"
+  },
+  {
+    "savol": "CHPJB ni mustahkamlaydigan boylamlarni belgilang.",
+    "A": "barchasi",
+    "B": "Lig.  laterale",
+    "C": "Lig. stylomandibulare",
+    "D": "Lig. sphenomandibulare",
+    "javob": "A"
+  },
+  {
+    "savol": "CHPJB shakl jihatdan qanday bo`g`imlar guruhiga kiradi?",
+    "A": "G`altaksimon",
+    "B": "yassi",
+    "C": "1 o`qli",
+    "D": "sharsimon",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi boylam chakka suyagidagi yonoq o`simtasidan boshlanib, pastki jag` suyagining bo`yinchasiga birikadi?",
+    "A": "Lig. laterale",
+    "B": "Lig. alaria",
+    "C": "Lig. femoris",
+    "D": "Lig. coxae",
+    "javob": "A"
+  },
+  {
+    "savol": "Tanglay suyagi bilan g`alvirsimon suyak orasida joylashgan chokni belgilang.",
+    "A": "Sutura palatinoethmoidalis",
+    "B": "Sutura palatinomaxillaris",
+    "C": "Sutura maxilloethmoidalis",
+    "D": "Sutura palatinonasalis",
+    "javob": "A"
+  },
+  {
+    "savol": "Ponasimon suyakbilan ensa suyagi orasidajoylashgan sinxondrozni belgilang.",
+    "A": "Synchondroses sphenooccipitalis",
+    "B": "Synchondroses sphenopetrosa",
+    "C": "Synchondroses sphenomandibularis",
+    "D": "Synchondroses petrooccipitalis",
+    "javob": "A"
+  },
+  {
+    "savol": "Lig. Talocalcaneum laterale qanday boylam?",
+    "A": "Oshiq-tovon yon boylami",
+    "B": "Oshiq- tovon medial boylami",
+    "C": "Oshiq-tovon orqa boylami",
+    "D": "Kaft boylami",
+    "javob": "A"
+  },
+  {
+    "savol": "Ponasimon va qayiqsimon suyaklarning bo`g`im yuzalari hisobiga qaysi bo`g`im hosil bo`ladi?",
+    "A": "Art. cuneonavicularis",
+    "B": "Art. calcaneocuboidea",
+    "C": "Art. subtalaris",
+    "D": "Art. talocalcaneum",
+    "javob": "A"
+  },
+  {
+    "savol": "Tizza bo`g`imi lotincha qanday nomlanadi?",
+    "A": "Art. genus",
+    "B": "Art. manus",
+    "C": "Art. ulnaris",
+    "D": "Art. humeralis",
+    "javob": "A"
+  },
+  {
+    "savol": "Lig. Transversum genus qaysi bo`g`imni mustahkamlaydi?",
+    "A": "Art. genus",
+    "B": "Art. manus",
+    "C": "Art. humeralis",
+    "D": "Art. Ulnarislig.",
+    "javob": "A"
+  },
+  {
+    "savol": "Lig. Patellae qaysi sohada joylashgan?",
+    "A": "Tizza bo`g`imi",
+    "B": "Yelka bo`g`imi",
+    "C": "Kaftusti",
+    "D": "kaft",
+    "javob": "A"
+  },
+  {
+    "savol": "Kaft va barmoq falangalari orasida qaysi bo`g`im joylashgan?",
+    "A": "Art. metacarpophalangea",
+    "B": "Art. carpometacarpalea",
+    "C": "Art. carpodigitorium",
+    "D": "Art. carpophalangea",
+    "javob": "A"
+  },
+  {
+    "savol": "Ellips shaklidagi bo`g`imlarda harakat qanday bo`ladi?",
+    "A": "2 o`q atrofida",
+    "B": "1 o`q atrofida",
+    "C": "sharsimon",
+    "D": "Hamma o`q atrofida",
+    "javob": "A"
+  },
+  {
+    "savol": "Choklar qanday guruhlarga bo`linadi?",
+    "A": "Tishsimon, pallasimon, yassi",
+    "B": "Sharsimon, yassi, vaqtincha",
+    "C": "Vaqtincha, doimiy, ko`p o`qli",
+    "D": "Sahrsimon, yassi, kosachali",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko`p o`qli bo`g`imlar qanday guruhlarga bo`linadi?",
+    "A": "Sharsimon , yassi, kosachali",
+    "B": "Tishsimon, pallasimon, yassi",
+    "C": "Vaqtincha, doimiy, ko`p o`qli",
+    "D": "Tishsimon, vaqtincha, doimiy",
+    "javob": "A"
+  },
+  {
+    "savol": "Sinxondrozlar qanday guruhlarga bo`linadi?",
+    "A": "Vaqtincha, doimiy",
+    "B": "Uzlukli, uzluksiz",
+    "C": "1 o`qli, ko`p o`qli",
+    "D": "Yassi, tishsimon",
+    "javob": "A"
+  },
+  {
+    "savol": "Sindesmozlar qanday guruhlarga bo`linadi?",
+    "A": "Boylam, parda, chok",
+    "B": "Vaqtincha, doimiy",
+    "C": "1o`qli, ko`p o`qli",
+    "D": "Yassi, ko`p  o`qli",
+    "javob": "A"
+  },
+  {
+    "savol": "Bo`g`im kapsulasining tashqi yuzasida joylashgan boylamlar nima deyiladi?",
+    "A": "Lig. extracapsularia",
+    "B": "Lig. intercapsularia",
+    "C": "Lig. mediocapsularia",
+    "D": "Lig. simplex",
+    "javob": "A"
+  },
+  {
+    "savol": "Bo`g`im kapsulasining Ichida joylashgan boylamlar nima deyiladi?",
+    "A": "Lig. intracapsularia",
+    "B": "Lig. extracapsularia",
+    "C": "Lig. simplex",
+    "D": "Lig. mediocapsularia",
+    "javob": "A"
+  },
+  {
+    "savol": "2suyakningbirlashuvidan hosil bo`lgan bo`g`imlar qanday ataladi?",
+    "A": "Art. simplex",
+    "B": "Art. composita",
+    "C": "Art. complexa",
+    "D": "Art. flexio",
+    "javob": "A"
+  },
+  {
+    "savol": "3va undan ortiq suyaklarning birlashuvidan hosil bo`lgan bo`g`imlar qanday ataladi?",
+    "A": "Art. composita",
+    "B": "Art. simplex",
+    "C": "Art. complexa",
+    "D": "Art. Flexion",
+    "javob": "A"
+  },
+  {
+    "savol": "Bo`g`im bo`shlig`ining Ichida tog`ay plastinka bo`lsa, bunday bo`g`imlar nima deyiladi?",
+    "A": "Art. complexa",
+    "B": "Art. composita",
+    "C": "Art. simplex",
+    "D": "Art. Flexion",
+    "javob": "A"
+  },
+  {
+    "savol": "Hamkor bo`g`imlarga qaysi bo`g`im kiradi?",
+    "A": "CHPJB",
+    "B": "Art. manus",
+    "C": "Art. pedis",
+    "D": "Art. Cubiti",
+    "javob": "A"
+  },
+  {
+    "savol": "Bo`g`imlarda o`z holatiga qaytarish qanday ataladi?",
+    "A": "repositio",
+    "B": "flexio",
+    "C": "oppositio",
+    "D": "Abduction",
+    "javob": "A"
+  },
+  {
+    "savol": "Rotation qanday harakat ?",
+    "A": "burish",
+    "B": "Tanaga yaqinlashtirish",
+    "C": "Tanadan uzoqlashtirish",
+    "D": "Qarama- qarshi holatga keltirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Abduction qanday harakat?",
+    "A": "Tanadan uzoqashtirish",
+    "B": "Tanaga yaqinlashtirish",
+    "C": "Qarama-qarshi holatga keltirish",
+    "D": "burish",
+    "javob": "A"
+  },
+  {
+    "savol": "Opposition qanday harakat?",
+    "A": "Qarama-qarshi holatga keltirish",
+    "B": "burish",
+    "C": "Tanadan uzoqlashtirish",
+    "D": "Burish",
+    "javob": "A"
+  },
+  {
+    "savol": "Yelka bo`g`imida qo`lni gorizontal holatdan yuqoriga o`tolmasligiga qarshi boylamni belgilang.",
+    "A": "Lig. coracoacromiale",
+    "B": "Lig. humerale",
+    "C": "Lig.acromiale",
+    "D": "Lig. coracoidale",
+    "javob": "A"
+  },
+  {
+    "savol": "Lig. Coracohumerale qayerga birikadi?",
+    "A": "Yelka suyagiga",
+    "B": "Son suyagiga",
+    "C": "O`mrov suyagiga",
+    "D": "Qovurg`aga",
+    "javob": "A"
+  },
+  {
+    "savol": "Bilak va tirsak suyaklarida suyaklararo qirrada nima joylashgan?",
+    "A": "Membrana interossea",
+    "B": "Membrana metacarpi",
+    "C": "Membrana obturatorium",
+    "D": "Membrana tectoria",
+    "javob": "A"
+  },
+  {
+    "savol": "Art.cubiti kapsulasi Ichida nechta bo`g`imjoylashgan?",
+    "A": "3",
+    "B": "4",
+    "C": "5",
+    "D": "6",
+    "javob": "A"
+  },
+  {
+    "savol": "Kurak suyagining tumshuqsimon va acromial o`simtalari orasida qaysi boylam joylashgan?",
+    "A": "Lig. Coracoacromiale",
+    "B": "Lig. transversum",
+    "C": "Lig. glenoidalis",
+    "D": "Lig.cubiti",
+    "javob": "A"
+  },
+  {
+    "savol": "Kurak suyagidagi bo`g`im chuqurchasining atrofidagi tog`ay halqa qanday nomlanadi?",
+    "A": "Labrum glenoidale",
+    "B": "discus",
+    "C": "Labrum humerale",
+    "D": "Sinchondrosis",
+    "javob": "A"
+  },
+  {
+    "savol": "Suyaklar o`zaro biriktiruvchi to`qima vositasida birlashsa …. Deyiladi.",
+    "A": "syndesmosis",
+    "B": "synchondrosis",
+    "C": "sinostosis",
+    "D": "Diartrosis",
+    "javob": "A"
+  },
+  {
+    "savol": "Suyaklar o`zaro tog`ay moddasi vositasida birlashsa …. deyiladi",
+    "A": "synchondrosis",
+    "B": "syndesmosis",
+    "C": "sinostosis",
+    "D": "Diartrosis",
+    "javob": "A"
+  },
+  {
+    "savol": "Suyaklar o`zaro suyak to`qimasi vositasida birlashib, suyaklanib ketsa … deyiladi",
+    "A": "synostosis",
+    "B": "syndesmosis",
+    "C": "diartrosis",
+    "D": "Synchondrosis",
+    "javob": "A"
+  },
+  {
+    "savol": "Bo`g`im yuzalari nima bilan qoplangan bo`ladi?",
+    "A": "Gialin tog`ay",
+    "B": "membrana",
+    "C": "fassiya",
+    "D": "Parda",
+    "javob": "A"
+  },
+  {
+    "savol": "Bo`g`im ichidagi bo`shliq qanday ataladi?",
+    "A": "Cavitas articularis",
+    "B": "Membrana",
+    "C": "gialin",
+    "D": "Diartrosis",
+    "javob": "A"
+  },
+  {
+    "savol": "Qovurg`alarning ko`krakumurtqalari bilan birikish sohasida nechta bo`g`im hosil bo`ladi?",
+    "A": "2",
+    "B": "4",
+    "C": "6",
+    "D": "5",
+    "javob": "A"
+  },
+  {
+    "savol": "Bel umurtqalari bilan qovurg`alar orasida qaysi boylam joylashgan?",
+    "A": "Lig.lumbocostale",
+    "B": "Lig.sternocostale",
+    "C": "Lig.lumbosacrale",
+    "D": "Lig.sternolumbale",
+    "javob": "A"
+  },
+  {
+    "savol": "Qovurg`a boshchasidagi bo`g`im yuzasi bilan ko`krakumurtqalari orasida qaysi bo`g`im hosil bo`ladi?",
+    "A": "Art. Capitis costae",
+    "B": "Art.costotransversaria",
+    "C": "Art.costalis",
+    "D": "Art.sternocostalis",
+    "javob": "A"
+  },
+  {
+    "savol": "Lig. Pubicum inferius qaysi sohadajoylashgan?",
+    "A": "chanoq",
+    "B": "kaft",
+    "C": "yelka",
+    "D": "Bosh",
+    "javob": "A"
+  },
+  {
+    "savol": "Chanoqdagi yopqich teshik nima bilan qoplangan?",
+    "A": "Membrana obturatoria",
+    "B": "Lig. obturatorium",
+    "C": "Canalis obturatorius",
+    "D": "Fassiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Acetabulum va son suyagi boshchasi orasida joylashgan bo`g`im qaysi?",
+    "A": "Art. coxofemoralis",
+    "B": "Art. acetabuli",
+    "C": "Art. cubiti",
+    "D": "Art. Humeri",
+    "javob": "A"
+  },
+  {
+    "savol": "Art. Radioulnaris distalis qanday bo`g`im?",
+    "A": "silindrsimon",
+    "B": "sharsimon",
+    "C": "Ko`p o`qli",
+    "D": "2 o`qli",
+    "javob": "A"
+  },
+  {
+    "savol": "Art.coxofemoralis kapsulasi Ichida qaysi boylam joylashgan?",
+    "A": "Lig. Capitis femoris",
+    "B": "Lig. acetabuli",
+    "C": "Lig. obturatorium",
+    "D": "Lig. Lumbalis",
+    "javob": "A"
+  },
+  {
+    "savol": "Canalis obturatorius qaysi sohada joylashgan?",
+    "A": "chanoq",
+    "B": "yelka",
+    "C": "Bo`yin",
+    "D": "tizza",
+    "javob": "A"
+  }
+]
