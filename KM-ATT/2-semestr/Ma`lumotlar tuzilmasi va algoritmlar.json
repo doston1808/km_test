@@ -1,0 +1,1114 @@
+[
+  {
+    "savol": "List nima?",
+    "A": "Tartibli kolleksiya",
+    "B": "Funksiya",
+    "C": "Operator",
+    "D": "Tsikl",
+    "javob": "A"
+  },
+  {
+    "savol": "Tuple qanday xususiyatga ega?",
+    "A": "O‘zgarmas",
+    "B": "O‘zgaruvchan",
+    "C": "Tartibsiz",
+    "D": "Bo‘sh",
+    "javob": "A"
+  },
+  {
+    "savol": "List yaratish uchun qaysi qavs ishlatiladi?",
+    "A": "[]",
+    "B": "()",
+    "C": "{}",
+    "D": "<>",
+    "javob": "A"
+  },
+  {
+    "savol": "Tuple yaratish uchun qaysi qavs ishlatiladi?",
+    "A": "()",
+    "B": "[]",
+    "C": "{}",
+    "D": "//",
+    "javob": "A"
+  },
+  {
+    "savol": "len([1,2,3]) natijasi?",
+    "A": "3",
+    "B": "2",
+    "C": "1",
+    "D": "0",
+    "javob": "A"
+  },
+  {
+    "savol": "List oxiriga element qo‘shish metodi?",
+    "A": "append()",
+    "B": "add()",
+    "C": "push()",
+    "D": "put()",
+    "javob": "A"
+  },
+  {
+    "savol": "Listdan element o‘chirish metodi?",
+    "A": "remove()",
+    "B": "delete()",
+    "C": "clearone()",
+    "D": "popitem()",
+    "javob": "A"
+  },
+  {
+    "savol": "Listdagi birinchi element indeksi?",
+    "A": "0",
+    "B": "1",
+    "C": "-1",
+    "D": "2",
+    "javob": "A"
+  },
+  {
+    "savol": "my_list[-1] nimani bildiradi?",
+    "A": "Oxirgi element",
+    "B": "Birinchi element",
+    "C": "Xatolik",
+    "D": "Bo‘sh qiymat",
+    "javob": "A"
+  },
+  {
+    "savol": "Listni tartiblash metodi?",
+    "A": "sort()",
+    "B": "order()",
+    "C": "arrange()",
+    "D": "filter()",
+    "javob": "A"
+  },
+  {
+    "savol": "Listni teskari qilish metodi?",
+    "A": "reverse()",
+    "B": "backwards()",
+    "C": "invert()",
+    "D": "flip()",
+    "javob": "A"
+  },
+  {
+    "savol": "List nusxasini olish?",
+    "A": "copy()",
+    "B": "clone()",
+    "C": "paste()",
+    "D": "duplicate()",
+    "javob": "A"
+  },
+  {
+    "savol": "Tuple elementini o‘zgartirish mumkinmi?",
+    "A": "Yo‘q",
+    "B": "Ha",
+    "C": "sonni",
+    "D": "matnni",
+    "javob": "A"
+  },
+  {
+    "savol": "List uzunligini aniqlash funksiyasi?",
+    "A": "len()",
+    "B": "size()",
+    "C": "count()",
+    "D": "index()",
+    "javob": "A"
+  },
+  {
+    "savol": "Listdagi element indeksini topish?",
+    "A": "index()",
+    "B": "find()",
+    "C": "search()",
+    "D": "locate()",
+    "javob": "A"
+  },
+  {
+    "savol": "Listdagi element sonini hisoblash?",
+    "A": "count()",
+    "B": "len()",
+    "C": "size()",
+    "D": "total()",
+    "javob": "A"
+  },
+  {
+    "savol": "for tsikli nima uchun ishlatiladi?",
+    "A": "Takrorlash",
+    "B": "O‘chirish",
+    "C": "Saralash",
+    "D": "Nusxalash",
+    "javob": "A"
+  },
+  {
+    "savol": "while tsikli qachon ishlaydi?",
+    "A": "Shart True bo‘lsa",
+    "B": "Shart False bo‘lsa",
+    "C": "Bir marta",
+    "D": "Hech qachon",
+    "javob": "A"
+  },
+  {
+    "savol": "break operatori nima qiladi?",
+    "A": "Tsiklni to‘xtatadi",
+    "B": "Davom ettiradi",
+    "C": "Nusxalaydi",
+    "D": "O‘chiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "continue operatori nima qiladi?",
+    "A": "Qadamni tashlaydi",
+    "B": "Tsiklni tugatadi",
+    "C": "Xato beradi",
+    "D": "To‘xtaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "pass operatori nima qiladi?",
+    "A": "Hech nima",
+    "B": "Tsikl",
+    "C": "Qidiruv",
+    "D": "Saralash",
+    "javob": "A"
+  },
+  {
+    "savol": "if operatori nima uchun kerak?",
+    "A": "Shart tekshirish",
+    "B": "Tsikl",
+    "C": "Import",
+    "D": "Funksiya",
+    "javob": "A"
+  },
+  {
+    "savol": "elif nimada ishlatiladi?",
+    "A": "Qo‘shimcha shart",
+    "B": "Tsikl",
+    "C": "List",
+    "D": "Funksiya",
+    "javob": "A"
+  },
+  {
+    "savol": "else qachon ishlaydi?",
+    "A": "Shart noto‘g‘ri bo‘lsa",
+    "B": "Shart to‘g‘ri bo‘lsa",
+    "C": "Har doim",
+    "D": "Hech qachon",
+    "javob": "A"
+  },
+  {
+    "savol": "range(5) nechagacha son beradi?",
+    "A": "0–4",
+    "B": "1–5",
+    "C": "0–5",
+    "D": "1–4",
+    "javob": "A"
+  },
+  {
+    "savol": "range(1,5) natijasi?",
+    "A": "1–4",
+    "B": "1–5",
+    "C": "0–4",
+    "D": "0–5",
+    "javob": "A"
+  },
+  {
+    "savol": "range(0,10,2) qadam qiymati?",
+    "A": "2",
+    "B": "10",
+    "C": "0",
+    "D": "1",
+    "javob": "A"
+  },
+  {
+    "savol": "\"a\" in \"apple\" natijasi?",
+    "A": "True",
+    "B": "False",
+    "C": "Error",
+    "D": "None",
+    "javob": "A"
+  },
+  {
+    "savol": "5 == 5 natijasi?",
+    "A": "True",
+    "B": "False",
+    "C": "5",
+    "D": "Error",
+    "javob": "A"
+  },
+  {
+    "savol": "5 != 3 natijasi?",
+    "A": "True",
+    "B": "False",
+    "C": "None",
+    "D": "3",
+    "javob": "A"
+  },
+  {
+    "savol": "10 > 20 natijasi?",
+    "A": "False",
+    "B": "True",
+    "C": "10",
+    "D": "Error",
+    "javob": "A"
+  },
+  {
+    "savol": "and operatori qachon True qaytaradi?",
+    "A": "Ikkalasi True",
+    "B": "Bittasi True",
+    "C": "Hammasi False",
+    "D": "Birinchisi False",
+    "javob": "A"
+  },
+  {
+    "savol": "or operatori qachon True qaytaradi?",
+    "A": "Bittasi True",
+    "B": "Hammasi False",
+    "C": "Ikkalasi False",
+    "D": "Har doim",
+    "javob": "A"
+  },
+  {
+    "savol": "not True natijasi?",
+    "A": "False",
+    "B": "True",
+    "C": "None",
+    "D": "0",
+    "javob": "A"
+  },
+  {
+    "savol": "type(10) natijasi?",
+    "A": "int",
+    "B": "str",
+    "C": "bool",
+    "D": "float",
+    "javob": "A"
+  },
+  {
+    "savol": "type(\"10\") natijasi?",
+    "A": "str",
+    "B": "int",
+    "C": "bool",
+    "D": "list",
+    "javob": "A"
+  },
+  {
+    "savol": "int(\"5\") natijasi?",
+    "A": "5",
+    "B": "\"5\"",
+    "C": "5.0",
+    "D": "Error",
+    "javob": "A"
+  },
+  {
+    "savol": "str(10) natijasi?",
+    "A": "\"10\"",
+    "B": "10",
+    "C": "int",
+    "D": "Error",
+    "javob": "A"
+  },
+  {
+    "savol": "float(5) natijasi?",
+    "A": "5.0",
+    "B": "5",
+    "C": "\"5\"",
+    "D": "Error",
+    "javob": "A"
+  },
+  {
+    "savol": "input() nima qiladi?",
+    "A": "Ma’lumot oladi",
+    "B": "Chop etadi",
+    "C": "O‘chiradi",
+    "D": "Saqlaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "print() nima qiladi?",
+    "A": "Ekranga chiqaradi",
+    "B": "Kiritadi",
+    "C": "O‘chiradi",
+    "D": "Hisoblaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "\"Python\".lower() natijasi?",
+    "A": "\"python\"",
+    "B": "\"PYTHON\"",
+    "C": "\"Python\"",
+    "D": "Error",
+    "javob": "A"
+  },
+  {
+    "savol": "\"python\".upper() natijasi?",
+    "A": "\"PYTHON\"",
+    "B": "\"python\"",
+    "C": "\"Python\"",
+    "D": "Error",
+    "javob": "A"
+  },
+  {
+    "savol": "len(\"Hello\") natijasi?",
+    "A": "5",
+    "B": "4",
+    "C": "6",
+    "D": "0",
+    "javob": "A"
+  },
+  {
+    "savol": "\"Hello\"[0] natijasi?",
+    "A": "\"H\"",
+    "B": "\"e\"",
+    "C": "0",
+    "D": "Error",
+    "javob": "A"
+  },
+  {
+    "savol": "\"Hello\"[-1] natijasi?",
+    "A": "\"o\"",
+    "B": "\"H\"",
+    "C": "-1",
+    "D": "Error",
+    "javob": "A"
+  },
+  {
+    "savol": "\"Hi\" * 3 natijasi?",
+    "A": "\"HiHiHi\"",
+    "B": "\"Hi3\"",
+    "C": "3",
+    "D": "Error",
+    "javob": "A"
+  },
+  {
+    "savol": "\"A\" + \"B\" natijasi?",
+    "A": "\"AB\"",
+    "B": "\"A B\"",
+    "C": "2",
+    "D": "Error",
+    "javob": "A"
+  },
+  {
+    "savol": "bool(0) natijasi?",
+    "A": "False",
+    "B": "True",
+    "C": "0",
+    "D": "None",
+    "javob": "A"
+  },
+  {
+    "savol": "bool(1) natijasi?",
+    "A": "True",
+    "B": "False",
+    "C": "1",
+    "D": "None",
+    "javob": "A"
+  },
+  {
+    "savol": "abs(-7) natijasi?",
+    "A": "7",
+    "B": "-7",
+    "C": "0",
+    "D": "Error",
+    "javob": "A"
+  },
+  {
+    "savol": "max(2,5,1) natijasi?",
+    "A": "5",
+    "B": "2",
+    "C": "1",
+    "D": "Error",
+    "javob": "A"
+  },
+  {
+    "savol": "min(2,5,1) natijasi?",
+    "A": "1",
+    "B": "2",
+    "C": "5",
+    "D": "Error",
+    "javob": "A"
+  },
+  {
+    "savol": "round(3.6) natijasi?",
+    "A": "4",
+    "B": "3",
+    "C": "3.6",
+    "D": "Error",
+    "javob": "A"
+  },
+  {
+    "savol": "5 + 3 * 2 natijasi?",
+    "A": "11",
+    "B": "16",
+    "C": "13",
+    "D": "10",
+    "javob": "A"
+  },
+  {
+    "savol": "(5 + 3) * 2 natijasi?",
+    "A": "16",
+    "B": "11",
+    "C": "13",
+    "D": "10",
+    "javob": "A"
+  },
+  {
+    "savol": "10 // 3 natijasi?",
+    "A": "3",
+    "B": "3.3",
+    "C": "1",
+    "D": "4",
+    "javob": "A"
+  },
+  {
+    "savol": "10 % 3 natijasi?",
+    "A": "1",
+    "B": "3",
+    "C": "0",
+    "D": "10",
+    "javob": "A"
+  },
+  {
+    "savol": "2 ** 3 natijasi?",
+    "A": "8",
+    "B": "6",
+    "C": "9",
+    "D": "5",
+    "javob": "A"
+  },
+  {
+    "savol": "\"salom\".capitalize() natijasi?",
+    "A": "\"Salom\"",
+    "B": "\"SALOM\"",
+    "C": "\"salom\"",
+    "D": "Error",
+    "javob": "A"
+  },
+  {
+    "savol": "\"Hello\".replace(\"H\",\"J\") natijasi?",
+    "A": "\"Jello\"",
+    "B": "\"Hello\"",
+    "C": "\"J\"",
+    "D": "Error",
+    "javob": "A"
+  },
+  {
+    "savol": "\"banana\".count(\"a\") natijasi?",
+    "A": "3",
+    "B": "2",
+    "C": "1",
+    "D": "0",
+    "javob": "A"
+  },
+  {
+    "savol": "\"Python\"[1:4] natijasi?",
+    "A": "\"yth\"",
+    "B": "\"Pyt\"",
+    "C": "\"ytho\"",
+    "D": "\"tho\"",
+    "javob": "A"
+  },
+  {
+    "savol": "\"abc\".islower() natijasi?",
+    "A": "True",
+    "B": "False",
+    "C": "None",
+    "D": "Error",
+    "javob": "A"
+  },
+  {
+    "savol": "\"ABC\".isupper() natijasi?",
+    "A": "True",
+    "B": "False",
+    "C": "None",
+    "D": "Error",
+    "javob": "A"
+  },
+  {
+    "savol": "\"123\".isdigit() natijasi?",
+    "A": "True",
+    "B": "False",
+    "C": "123",
+    "D": "Error",
+    "javob": "A"
+  },
+  {
+    "savol": "\" \".isspace() natijasi?",
+    "A": "True",
+    "B": "False",
+    "C": "None",
+    "D": "Error",
+    "javob": "A"
+  },
+  {
+    "savol": "len([]) natijasi?",
+    "A": "0",
+    "B": "1",
+    "C": "Error",
+    "D": "None",
+    "javob": "A"
+  },
+  {
+    "savol": "[1,2,3][1] natijasi?",
+    "A": "2",
+    "B": "1",
+    "C": "3",
+    "D": "Error",
+    "javob": "A"
+  },
+  {
+    "savol": "[1,2] + [3,4] natijasi?",
+    "A": "[1,2,3,4]",
+    "B": "[4,6]",
+    "C": "[1,2]",
+    "D": "Error",
+    "javob": "A"
+  },
+  {
+    "savol": "[1,2] * 2 natijasi?",
+    "A": "[1,2,1,2]",
+    "B": "[2,4]",
+    "C": "[1,2,2]",
+    "D": "Error",
+    "javob": "A"
+  },
+  {
+    "savol": "list(range(3)) natijasi?",
+    "A": "[0,1,2]",
+    "B": "[1,2,3]",
+    "C": "[0,1,2,3]",
+    "D": "[3]",
+    "javob": "A"
+  },
+  {
+    "savol": "range(2) tsikli necha marta ishlaydi?",
+    "A": "2",
+    "B": "1",
+    "C": "3",
+    "D": "0",
+    "javob": "A"
+  },
+  {
+    "savol": "for i in range(3) da oxirgi qiymat?",
+    "A": "2",
+    "B": "3",
+    "C": "1",
+    "D": "0",
+    "javob": "A"
+  },
+  {
+    "savol": "while False: tsikli nima qiladi?",
+    "A": "Ishlamaydi",
+    "B": "1 marta ishlaydi",
+    "C": "Cheksiz ishlaydi",
+    "D": "Error",
+    "javob": "A"
+  },
+  {
+    "savol": "True and False natijasi?",
+    "A": "False",
+    "B": "True",
+    "C": "None",
+    "D": "Error",
+    "javob": "A"
+  },
+  {
+    "savol": "True or False natijasi?",
+    "A": "True",
+    "B": "False",
+    "C": "None",
+    "D": "Error",
+    "javob": "A"
+  },
+  {
+    "savol": "not False natijasi?",
+    "A": "True",
+    "B": "False",
+    "C": "0",
+    "D": "None",
+    "javob": "A"
+  },
+  {
+    "savol": "5 > 2 and 3 > 1 natijasi?",
+    "A": "True",
+    "B": "False",
+    "C": "None",
+    "D": "Error",
+    "javob": "A"
+  },
+  {
+    "savol": "5 > 10 or 3 < 5 natijasi?",
+    "A": "True",
+    "B": "False",
+    "C": "Error",
+    "D": "None",
+    "javob": "A"
+  },
+  {
+    "savol": "5 == \"5\" natijasi?",
+    "A": "False",
+    "B": "True",
+    "C": "Error",
+    "D": "None",
+    "javob": "A"
+  },
+  {
+    "savol": "type(True) natijasi?",
+    "A": "bool",
+    "B": "int",
+    "C": "str",
+    "D": "float",
+    "javob": "A"
+  },
+  {
+    "savol": "bool(\"\") natijasi?",
+    "A": "False",
+    "B": "True",
+    "C": "None",
+    "D": "Error",
+    "javob": "A"
+  },
+  {
+    "savol": "bool(\"Hi\") natijasi?",
+    "A": "True",
+    "B": "False",
+    "C": "None",
+    "D": "Error",
+    "javob": "A"
+  },
+  {
+    "savol": "x = 5; x += 2 dan keyin x?",
+    "A": "7",
+    "B": "5",
+    "C": "2",
+    "D": "10",
+    "javob": "A"
+  },
+  {
+    "savol": "x = 4; x *= 3 dan keyin x?",
+    "A": "12",
+    "B": "7",
+    "C": "3",
+    "D": "4",
+    "javob": "A"
+  },
+  {
+    "savol": "x = 10; x -= 4 dan keyin x?",
+    "A": "6",
+    "B": "14",
+    "C": "4",
+    "D": "10",
+    "javob": "A"
+  },
+  {
+    "savol": "x = 8; x /= 2 dan keyin x?",
+    "A": "4.0",
+    "B": "4",
+    "C": "2",
+    "D": "8",
+    "javob": "A"
+  },
+  {
+    "savol": "\"abc\".find(\"b\") natijasi?",
+    "A": "1",
+    "B": "2",
+    "C": "0",
+    "D": "-1",
+    "javob": "A"
+  },
+  {
+    "savol": "\"hello\".startswith(\"h\") natijasi?",
+    "A": "True",
+    "B": "False",
+    "C": "None",
+    "D": "Error",
+    "javob": "A"
+  },
+  {
+    "savol": "\"hello\".endswith(\"o\") natijasi?",
+    "A": "True",
+    "B": "False",
+    "C": "None",
+    "D": "Error",
+    "javob": "A"
+  },
+  {
+    "savol": "\",\".join([\"a\",\"b\"]) natijasi?",
+    "A": "\"a,b\"",
+    "B": "\"ab\"",
+    "C": "[\"a,b\"]",
+    "D": "Error",
+    "javob": "A"
+  },
+  {
+    "savol": "\"1,2\".split(\",\") natijasi?",
+    "A": "['1','2']",
+    "B": "\"12\"",
+    "C": "[1,2]",
+    "D": "Error",
+    "javob": "A"
+  },
+  {
+    "savol": "len((1,2,3)) natijasi?",
+    "A": "3",
+    "B": "2",
+    "C": "1",
+    "D": "0",
+    "javob": "A"
+  },
+  {
+    "savol": "(1,2)[0] natijasi?",
+    "A": "1",
+    "B": "2",
+    "C": "0",
+    "D": "Error",
+    "javob": "A"
+  },
+  {
+    "savol": "tuple elementlari o‘zgaradimi?",
+    "A": "Yo‘q",
+    "B": "Ha",
+    "C": "Ba’zida",
+    "D": "son",
+    "javob": "A"
+  },
+  {
+    "savol": "type([1,2]) natijasi?",
+    "A": "list",
+    "B": "tuple",
+    "C": "str",
+    "D": "int",
+    "javob": "A"
+  },
+  {
+    "savol": "type((1,2)) natijasi?",
+    "A": "tuple",
+    "B": "list",
+    "C": "str",
+    "D": "int",
+    "javob": "A"
+  },
+  {
+    "savol": "list(\"ab\") natijasi?",
+    "A": "['a','b']",
+    "B": "\"ab\"",
+    "C": "['ab']",
+    "D": "Error",
+    "javob": "A"
+  },
+  {
+    "savol": "tuple([1,2]) natijasi?",
+    "A": "(1,2)",
+    "B": "[1,2]",
+    "C": "\"1,2\"",
+    "D": "Error",
+    "javob": "A"
+  },
+  {
+    "savol": "Python’da list qanday ma’lumot turi hisoblanadi?",
+    "A": "O‘zgaruvchan",
+    "B": "O‘zgarmas",
+    "C": "Mantiqiy",
+    "D": "Sonli",
+    "javob": "A"
+  },
+  {
+    "savol": "Tuple ning asosiy afzalligi nima?",
+    "A": "O‘zgarmasligi",
+    "B": "Tez o‘chishi",
+    "C": "Saralanishi",
+    "D": "Avtomatik hisoblash",
+    "javob": "A"
+  },
+  {
+    "savol": "List elementlari qanday indekslanadi?",
+    "A": "0 dan",
+    "B": "1 dan",
+    "C": "-1 dan",
+    "D": "2 dan",
+    "javob": "A"
+  },
+  {
+    "savol": "Python’da manfiy indeks nimani bildiradi?",
+    "A": "Oxirdan murojaat",
+    "B": "Xato",
+    "C": "Nol indeks",
+    "D": "O‘rtadan olish",
+    "javob": "A"
+  },
+  {
+    "savol": "List slicing nima uchun ishlatiladi?",
+    "A": "Qism ajratish",
+    "B": "O‘chirish",
+    "C": "Saralash",
+    "D": "Nusxalash",
+    "javob": "A"
+  },
+  {
+    "savol": "for tsikli ko‘proq qaysi holatda ishlatiladi?",
+    "A": "Takrorlanuvchi obyektlarda",
+    "B": "sonlarda",
+    "C": "listda",
+    "D": "tupleda",
+    "javob": "A"
+  },
+  {
+    "savol": "while tsikli qanday ishlaydi?",
+    "A": "Shart asosida",
+    "B": "Indeks asosida",
+    "C": "Saralash asosida",
+    "D": "Funksiya asosida",
+    "javob": "A"
+  },
+  {
+    "savol": "break operatorining vazifasi nima?",
+    "A": "Tsiklni yakunlash",
+    "B": "Tsiklni davom ettirish",
+    "C": "O‘zgaruvchi yaratish",
+    "D": "Listni bo‘lish",
+    "javob": "A"
+  },
+  {
+    "savol": "continue operatorining vazifasi nima?",
+    "A": "Iteratsiyani tashlash",
+    "B": "Tsiklni to‘xtatish",
+    "C": "Listni o‘chirish",
+    "D": "Funksiya yaratish",
+    "javob": "A"
+  },
+  {
+    "savol": "pass operatori qaysi maqsadda ishlatiladi?",
+    "A": "Bo‘sh blok uchun",
+    "B": "Saralash uchun",
+    "C": "Import uchun",
+    "D": "Hisoblash uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "Python’da mantiqiy VA operatori qaysi?",
+    "A": "and",
+    "B": "or",
+    "C": "not",
+    "D": "&",
+    "javob": "A"
+  },
+  {
+    "savol": "Python’da mantiqiy YOKI operatori qaysi?",
+    "A": "or",
+    "B": "and",
+    "C": "not",
+    "D": "&&",
+    "javob": "A"
+  },
+  {
+    "savol": "Mantiqiy inkor operatori qaysi?",
+    "A": "not",
+    "B": "and",
+    "C": "or",
+    "D": "!=",
+    "javob": "A"
+  },
+  {
+    "savol": "== operatorining vazifasi nima?",
+    "A": "Tenglikni tekshirish",
+    "B": "Qiymat berish",
+    "C": "Qo‘shish",
+    "D": "Taqqoslashsiz",
+    "javob": "A"
+  },
+  {
+    "savol": "= operatorining vazifasi nima?",
+    "A": "Qiymat berish",
+    "B": "Tenglikni tekshirish",
+    "C": "Bo‘lish",
+    "D": "O‘chirish",
+    "javob": "A"
+  },
+  {
+    "savol": "len() funksiyasi nima uchun ishlatiladi?",
+    "A": "Uzunlikni aniqlash",
+    "B": "Saralash",
+    "C": "O‘zgartirish",
+    "D": "Nusxalash",
+    "javob": "A"
+  },
+  {
+    "savol": "type() funksiyasi nima qaytaradi?",
+    "A": "Ma’lumot turini",
+    "B": "Qiymatni",
+    "C": "Uzunlikni",
+    "D": "Indeksni",
+    "javob": "A"
+  },
+  {
+    "savol": "int() funksiyasi nima bajaradi?",
+    "A": "Butun songa aylantiradi",
+    "B": "Matnga aylantiradi",
+    "C": "List yaratadi",
+    "D": "O‘chiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "str() funksiyasi nima bajaradi?",
+    "A": "Matnga aylantiradi",
+    "B": "Songa aylantiradi",
+    "C": "Tsikl yaratadi",
+    "D": "Listni bo‘ladi",
+    "javob": "A"
+  },
+  {
+    "savol": "float() funksiyasi nima bajaradi?",
+    "A": "O‘nli songa aylantiradi",
+    "B": "Butun songa aylantiradi",
+    "C": "Matnni o‘chiradi",
+    "D": "List yaratadi",
+    "javob": "A"
+  },
+  {
+    "savol": "append() metodining vazifasi nima?",
+    "A": "Element qo‘shish",
+    "B": "Element o‘chirish",
+    "C": "Saralash",
+    "D": "Nusxalash",
+    "javob": "A"
+  },
+  {
+    "savol": "pop() metodining vazifasi nima?",
+    "A": "Element olish",
+    "B": "Element qo‘shish",
+    "C": "Tartiblash",
+    "D": "Hisoblash",
+    "javob": "A"
+  },
+  {
+    "savol": "remove() metodining vazifasi nima?",
+    "A": "Qiymatni o‘chirish",
+    "B": "Nusxa olish",
+    "C": "Element qo‘shish",
+    "D": "Uzunlik olish",
+    "javob": "A"
+  },
+  {
+    "savol": "sort() metodining vazifasi nima?",
+    "A": "Tartiblash",
+    "B": "O‘chirish",
+    "C": "Nusxalash",
+    "D": "Qo‘shish",
+    "javob": "A"
+  },
+  {
+    "savol": "reverse() metodining vazifasi nima?",
+    "A": "Teskari tartiblash",
+    "B": "Saralash",
+    "C": "O‘chirish",
+    "D": "Qo‘shish",
+    "javob": "A"
+  },
+  {
+    "savol": "index() metodining vazifasi nima?",
+    "A": "Indeks topish",
+    "B": "Uzunlik olish",
+    "C": "O‘chirish",
+    "D": "Nusxalash",
+    "javob": "A"
+  },
+  {
+    "savol": "count() metodining vazifasi nima?",
+    "A": "Takror sonini topish",
+    "B": "Indeks topish",
+    "C": "O‘chirish",
+    "D": "Tartiblash",
+    "javob": "A"
+  },
+  {
+    "savol": "range() funksiyasi nima hosil qiladi?",
+    "A": "Sonlar ketma-ketligi",
+    "B": "List",
+    "C": "Matn",
+    "D": "Dictionary",
+    "javob": "A"
+  },
+  {
+    "savol": "input() funksiyasi qanday vazifa bajaradi?",
+    "A": "Ma’lumot qabul qiladi",
+    "B": "Ma’lumot chiqaradi",
+    "C": "Saralaydi",
+    "D": "O‘chiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "print() funksiyasi qanday vazifa bajaradi?",
+    "A": "Ma’lumot chiqaradi",
+    "B": "Ma’lumot oladi",
+    "C": "Tsikl yaratadi",
+    "D": "Saralaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Python’da string qanday ma’lumot turi?",
+    "A": "Matnli",
+    "B": "Sonli",
+    "C": "Mantiqiy",
+    "D": "Obyektsiz",
+    "javob": "A"
+  },
+  {
+    "savol": "String elementlariga murojaat qanday amalga oshiriladi?",
+    "A": "Indeks orqali",
+    "B": "Kalit orqali",
+    "C": "Pointer orqali",
+    "D": "Funksiya orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "upper() metodining vazifasi nima?",
+    "A": "Katta harf qilish",
+    "B": "Kichik harf qilish",
+    "C": "O‘chirish",
+    "D": "Qo‘shish",
+    "javob": "A"
+  },
+  {
+    "savol": "lower() metodining vazifasi nima?",
+    "A": "Kichik harf qilish",
+    "B": "Katta harf qilish",
+    "C": "Saralash",
+    "D": "O‘chirish",
+    "javob": "A"
+  },
+  {
+    "savol": "replace() metodining vazifasi nima?",
+    "A": "Almashtirish",
+    "B": "O‘chirish",
+    "C": "Saralash",
+    "D": "Nusxalash",
+    "javob": "A"
+  },
+  {
+    "savol": "split() metodining vazifasi nima?",
+    "A": "Bo‘lish",
+    "B": "Qo‘shish",
+    "C": "Tartiblash",
+    "D": "O‘chirish",
+    "javob": "A"
+  },
+  {
+    "savol": "join() metodining vazifasi nima?",
+    "A": "Birlashtirish",
+    "B": "Bo‘lish",
+    "C": "O‘chirish",
+    "D": "Saralash",
+    "javob": "A"
+  },
+  {
+    "savol": "strip() metodining vazifasi nima?",
+    "A": "Bo‘sh joyni olib tashlash",
+    "B": "Qo‘shish",
+    "C": "Tartiblash",
+    "D": "Nusxalash",
+    "javob": "A"
+  },
+  {
+    "savol": "capitalize() metodining vazifasi nima?",
+    "A": "Birinchi harfni katta qilish",
+    "B": "Hammasini katta qilish",
+    "C": "O‘chirish",
+    "D": "Ajratish",
+    "javob": "A"
+  }
+]
