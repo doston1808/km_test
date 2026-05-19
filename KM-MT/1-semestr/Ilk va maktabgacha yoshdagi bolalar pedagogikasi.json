@@ -1,0 +1,1330 @@
+[
+  {
+    "savol": "Fan nimani o`rganadi?",
+    "A": "Bolalar rivojlanish jarayoni",
+    "B": "O`yinchoqlar tanlash usullari",
+    "C": "Bolalar kiyimlari turlari",
+    "D": "Guruh bezaklari ko`rinishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Asosiy maqsad nima?",
+    "A": "Bolani maqsadli rivojlantirish",
+    "B": "Kundalik tartibni tuzish",
+    "C": "Mashg`ulot vaqtini belgilash",
+    "D": "Guruh jihozlarini tanlash",
+    "javob": "A"
+  },
+  {
+    "savol": "Shaxs shakllanishi nimaga bog`liq?",
+    "A": "Potentsialni ro`yobga chiqarish",
+    "B": "Tezkor topshiriq bajarish",
+    "C": "O`yinlar sonini ko`paytirish",
+    "D": "Mashqlarni takror bajarish",
+    "javob": "A"
+  },
+  {
+    "savol": "Maktabga tayyorlik nimani o`z ichiga oladi?",
+    "A": "Ijtimoiy moslashuv jarayoni",
+    "B": "Matnlarni tez o`qish",
+    "C": "Hisoblash malakasini oshirish",
+    "D": "Rasmlarni rangga bo`yash",
+    "javob": "A"
+  },
+  {
+    "savol": "Hissiy kompetensiya qachon shakllanadi?",
+    "A": "Maktabgacha yosh davrida",
+    "B": "Yosh o`smirlik yillarida",
+    "C": "O`quvchilar bosqichi davrida",
+    "D": "Yuqori sinf yillarida",
+    "javob": "A"
+  },
+  {
+    "savol": "Tajribalar uyg`unligi nimaga asoslanadi?",
+    "A": "Milliy va xalqaro yondashuv",
+    "B": "Yagona tarbiyaviy tizim",
+    "C": "Mahalliy o`yinlar majmui",
+    "D": "Qadimiy marosim elementlari",
+    "javob": "A"
+  },
+  {
+    "savol": "Markaziy yondashuv talabi?",
+    "A": "Individual xususiyat hisobga olish",
+    "B": "Tarbiyachi fikrini ustun qo`yish",
+    "C": "Har kuni bir xil mashg`ulot",
+    "D": "Nazoratchi mezoniga tayanish",
+    "javob": "A"
+  },
+  {
+    "savol": "Faol ta`lim shakli qaysi?",
+    "A": "O`yin faoliyati tizimi",
+    "B": "Matnlarni tinglash jarayoni",
+    "C": "Belgilarni yodlash mashqi",
+    "D": "Qog`ozni tartibga solish",
+    "javob": "A"
+  },
+  {
+    "savol": "Rivojlanish qonuniyati nimani qamraydi?",
+    "A": "Psixologik va fiziologik jarayon",
+    "B": "Chiroyli yozuv malakasi",
+    "C": "Kattalar nutqini takrorlash",
+    "D": "Tartib asosida yurish",
+    "javob": "A"
+  },
+  {
+    "savol": "Psixologik rivojlanish tarkibi?",
+    "A": "Xotira nutq tafakkur",
+    "B": "Namoyish tasvir ko`rinishi",
+    "C": "Chizma rang tanlovi",
+    "D": "Tovush balandlik mashqi",
+    "javob": "A"
+  },
+  {
+    "savol": "Yangilanish nimani bildiradi?",
+    "A": "Metodlarni doimiy takomillashtirish",
+    "B": "Bir xil mashqni davom ettirish",
+    "C": "O`zgarmas jadvalni qo`llash",
+    "D": "Yangi mavzuni bekor qilish",
+    "javob": "A"
+  },
+  {
+    "savol": "Kasbiy mahorat nimani talab qiladi?",
+    "A": "Pedagog malaka oshirish",
+    "B": "Guruhni chiroyli bezash",
+    "C": "O`yinchoq yig`ish uslubi",
+    "D": "Ranglarni ketma-ket qo`yish",
+    "javob": "A"
+  },
+  {
+    "savol": "Markaziy yondashuvning mohiyati?",
+    "A": "Qobiliyat ehtiyojni aniqlash",
+    "B": "Bolalarga qat`iy buyruq",
+    "C": "Bir xil topshiriq berish",
+    "D": "Tarbiyachi fikriga tayanish",
+    "javob": "A"
+  },
+  {
+    "savol": "Milliy qadriyatlar nimada aks etadi?",
+    "A": "Tarbiyaviy madaniy faoliyat",
+    "B": "O`yinchoqlar narxi ro`yxati",
+    "C": "Xonani tozalash jadvali",
+    "D": "Guruhda chiroq tanlash",
+    "javob": "A"
+  },
+  {
+    "savol": "Xalqaro mezon vazifasi?",
+    "A": "Zamonaviy ta`limni takomillashtirish",
+    "B": "Harakatlarni cheklab qo`yish",
+    "C": "O`quvchilarni saralab ajratish",
+    "D": "Mashg`ulot vaqtini qisqartirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Faoliyatga asoslangan ta`lim asosi?",
+    "A": "O`yin amaliy faoliyat",
+    "B": "Tasvirlar yig`ish mashqi",
+    "C": "Belgilarni yodlab olish",
+    "D": "Ranglarni ketma-ket joylash",
+    "javob": "A"
+  },
+  {
+    "savol": "Ilk yosh rivoji omili?",
+    "A": "Psixologik fiziologik o`sish",
+    "B": "Qadam tashlash tezligi",
+    "C": "Sinf uchun buyum tanlash",
+    "D": "Guruhdagi o`rindiq joyi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ijodiy faoliyat nima?",
+    "A": "Amaliy ijodiy mashg`ulot",
+    "B": "Elementlar bo`yash jadvali",
+    "C": "Belgilarni tartibga solish",
+    "D": "Qoidalarni takror yodlash",
+    "javob": "A"
+  },
+  {
+    "savol": "Rivojlanish sur`ati nimaga bog`liq?",
+    "A": "Individual xususiyatlar uyg`unligi",
+    "B": "Mashg`ulot davomiylik rejasi",
+    "C": "Bir xil topshiriq ketma-keti",
+    "D": "Rang tanlash tezligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Maktabga tayyorgarlik mezoni?",
+    "A": "Ijtimoiy muhitga moslashuv",
+    "B": "Belgilarni chiroyli chizish",
+    "C": "Qog`ozni tekis buklash",
+    "D": "Matnni tez takrorlash",
+    "javob": "A"
+  },
+  {
+    "savol": "Emotsional rivojlanish nimaga taalluqli?",
+    "A": "Hissiy reaksiyalar o`zgarishi",
+    "B": "Yugurish tezlik darajasi",
+    "C": "Rasmda rang tanlovi",
+    "D": "Jismoniy mashq vaqti",
+    "javob": "A"
+  },
+  {
+    "savol": "Rivojlanish qanday qaraladi?",
+    "A": "Bosqichma-bosqich tizimli jarayon",
+    "B": "Kundalik mashqni takrorlash",
+    "C": "Bir turdagi o`yinlarni tanlash",
+    "D": "Bir xil tartibni davom ettirish",
+    "javob": "A"
+  },
+  {
+    "savol": "O`yin vazifasi nima?",
+    "A": "Bilim ko`nikma shakllantirish",
+    "B": "Belgilar tartibini joylash",
+    "C": "Qisqa matnlarni tinglash",
+    "D": "Tasodifiy kartani tanlash",
+    "javob": "A"
+  },
+  {
+    "savol": "Individual ehtiyojlar nega kerak?",
+    "A": "Qulay rivojlanish muhitini yaratish",
+    "B": "Guruhdagi joyni belgilash",
+    "C": "O`yin vaqtini ko`paytirish",
+    "D": "Elementlarni almashlab qo`yish",
+    "javob": "A"
+  },
+  {
+    "savol": "Milliy qadriyatlar tarkibi?",
+    "A": "Ona tili va madaniyat",
+    "B": "Xonalar rangli chirog`i",
+    "C": "Turli buyumlar ro`yxati",
+    "D": "Asboblarni saqlash qutisi",
+    "javob": "A"
+  },
+  {
+    "savol": "Zamonaviy g`oya vazifasi?",
+    "A": "Ta`lim samaradorligini oshirish",
+    "B": "Belgilarni almashtirish rejasi",
+    "C": "O`yinchoqlarni kamaytirish",
+    "D": "Mashg`ulot jadvalini qisqartirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Tafakkur rivoji nimaga tegishli?",
+    "A": "Psixologik faol jarayon",
+    "B": "Qog`ozni buklash usuli",
+    "C": "Belgilarni rangga solish",
+    "D": "Tovushlarni baland aytish",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq rivoji qaysi bo`limga kiradi?",
+    "A": "Psixologik rivojlanish tizimi",
+    "B": "Rang tanlash faoliyati",
+    "C": "Tana harakat mashqlari",
+    "D": "O`yinchoq yig`ish jarayoni",
+    "javob": "A"
+  },
+  {
+    "savol": "Uyg`unlashtirish mazmuni?",
+    "A": "Milliy va xalqaro moslashuv",
+    "B": "Yangi buyumlar qo`shish",
+    "C": "Belgilarni almashtirish",
+    "D": "Xonalarni qayta bo`lish",
+    "javob": "A"
+  },
+  {
+    "savol": "Pedagogik texnologiya talabi?",
+    "A": "Doimiy metodik yangilanish",
+    "B": "Ketma-ket mashq takrorlash",
+    "C": "O`zgarmas jadvalni qo`llash",
+    "D": "Bir xil topshiriq berish",
+    "javob": "A"
+  },
+  {
+    "savol": "Shaxs shakllanishi nimaga tayanadi?",
+    "A": "Ruhiy va ijtimoiy rivojlanish",
+    "B": "Ranglarni aniq tanlash",
+    "C": "Buyumlarni tez yig`ish",
+    "D": "Xonani chiroyli bezash",
+    "javob": "A"
+  },
+  {
+    "savol": "Ijtimoiy ko`nikma qachon shakllanadi?",
+    "A": "Maktabgacha yosh davrida",
+    "B": "Boshlang`ich sinf davrida",
+    "C": "Keyingi o`smirlik yillarida",
+    "D": "Katta yosh bosqichida",
+    "javob": "A"
+  },
+  {
+    "savol": "Tarbiyaning vazifasi?",
+    "A": "Shaxsning har tomonlama rivoji",
+    "B": "Xonani tartibga solish rejasi",
+    "C": "Mashg`ulot vaqtini belgilash",
+    "D": "Belgilarni joylashtirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Metodning xususiyati?",
+    "A": "Faol amaliy yo`nalish",
+    "B": "Rangli belgilar tanlovi",
+    "C": "Har bir chiziqni yodlash",
+    "D": "Qisqa matnlarni tinglash",
+    "javob": "A"
+  },
+  {
+    "savol": "Amaliy faoliyat vazifasi?",
+    "A": "Malaka va ko`nikma shakllantirish",
+    "B": "Tovushlarni baland aytish",
+    "C": "Shakllarni ustma-ust qo`yish",
+    "D": "Belgilarni ketma-ket yozish",
+    "javob": "A"
+  },
+  {
+    "savol": "Ona tili vazifasi?",
+    "A": "Muloqot va madaniyat rivoji",
+    "B": "Rang tanlash malakasi",
+    "C": "Jismoniy mashq tizimi",
+    "D": "Buyumlarni sanash usuli",
+    "javob": "A"
+  },
+  {
+    "savol": "Rivojlanish qonuniyati nega o`rganiladi?",
+    "A": "Bolani to`g`ri rivojlantirish",
+    "B": "Belgilarni rangga solish",
+    "C": "Kartochkalar yig`ish",
+    "D": "Mashqlarni tartibga solish",
+    "javob": "A"
+  },
+  {
+    "savol": "Pedagogning roli?",
+    "A": "Rivojlanishga ko`mak berish",
+    "B": "Darsliklarni sanab qo`yish",
+    "C": "Xonani boshdan bo`lish",
+    "D": "Elementlarni almashtirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Ehtiyoj hisobga olinadigan jarayon?",
+    "A": "Markaziy bolaga yondashuv",
+    "B": "Belgilarni takror joylash",
+    "C": "Kartochkalarni ajratib turish",
+    "D": "Buyumlarni chapga surish",
+    "javob": "A"
+  },
+  {
+    "savol": "Fanning asosiy vazifasi qaysi?",
+    "A": "Nazariy bilimlarni shakllantirish",
+    "B": "Asboblarni tizimli yig`ish",
+    "C": "Guruhda bezak o`rnatish",
+    "D": "Jadvalni qat`iy tuzish",
+    "javob": "A"
+  },
+  {
+    "savol": "Amaliy ko`nikma nimani o`z ichiga oladi?",
+    "A": "Metod va usul qo`llash",
+    "B": "Tasvirlarni chiroyli bo`yash",
+    "C": "Belgilarni tartibga keltirish",
+    "D": "O`yinchoqlarni bir joyga qo`yish",
+    "javob": "A"
+  },
+  {
+    "savol": "Rivojlanish ehtiyojini aniqlash nimaga qaratiladi?",
+    "A": "Qobiliyat va xohish baholash",
+    "B": "Rangli kartalar toplami",
+    "C": "Qog`ozni buklash mashqi",
+    "D": "Belgilarni ajratish tartibi",
+    "javob": "A"
+  },
+  {
+    "savol": "Maktabga tayyorlash vazifasi?",
+    "A": "Zarur bilimni berish",
+    "B": "Chizg`ich bilan chizish",
+    "C": "Rasmlarni rangga ajratish",
+    "D": "Oddiy belgilarni chizish",
+    "javob": "A"
+  },
+  {
+    "savol": "Milliy qadriyatlarni saqlash nimani anglatadi?",
+    "A": "Ona tili va madaniyat",
+    "B": "Guruhda tartib joriy etish",
+    "C": "Stollarni bir xil qo`yish",
+    "D": "Yorug`likni sozlash rejasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Tadqiqot va innovatsiya vazifasi?",
+    "A": "Yangi metod yaratish",
+    "B": "Eski buyum yig`ish",
+    "C": "Belgilarni almashtirish",
+    "D": "To`plamni qayta sanash",
+    "javob": "A"
+  },
+  {
+    "savol": "Komenskiy ta`kidlagan g`oya?",
+    "A": "Onalar maktabi konsepsiyasi",
+    "B": "Yugurish mashqi uslubi",
+    "C": "Toza xona tamoyili",
+    "D": "Ranglar uyg`un tartibi",
+    "javob": "A"
+  },
+  {
+    "savol": "Pestalotsi asosiy fikri?",
+    "A": "Muhabbat mehnat tabiat",
+    "B": "Qadam tashlash texnikasi",
+    "C": "Buyumlarni teng bo`lish",
+    "D": "Belgilarni ustma-ust qo`yish",
+    "javob": "A"
+  },
+  {
+    "savol": "Fröbel yaratgan tushuncha?",
+    "A": "Bolalar bog`chasi g`oyasi",
+    "B": "Ranglar bo`yicha jadval",
+    "C": "Tovush bilan mashq rejasi",
+    "D": "Belgilar shaklini chizish",
+    "javob": "A"
+  },
+  {
+    "savol": "Fröbel metodining asosi?",
+    "A": "O`yin va ijod faoliyati",
+    "B": "Guruhni bezash rejasi",
+    "C": "Raqamlarni tez aytish",
+    "D": "Tovushlarni baland aytish",
+    "javob": "A"
+  },
+  {
+    "savol": "Montessori tizimi nimaga asoslanadi?",
+    "A": "Mustaqil faoliyat tanlash",
+    "B": "Bir xil tartib mashqi",
+    "C": "Kartalarni turiga qarash",
+    "D": "Qisqa matnni takrorlash",
+    "javob": "A"
+  },
+  {
+    "savol": "Montessori yondashuvi talabi?",
+    "A": "Bola faoliyatni boshqarishi",
+    "B": "Tarbiyachi qat`iy ko`rsatsa",
+    "C": "Mashg`ulotlar ketma-keti",
+    "D": "Belgilarni bo`lish tartibi",
+    "javob": "A"
+  },
+  {
+    "savol": "Jon Dyui nazariyasi?",
+    "A": "Tajriba orqali o`rganish",
+    "B": "Har kuni bir xil topshiriq",
+    "C": "Ketma-ket matn tinglash",
+    "D": "Shakllarni rangga solish",
+    "javob": "A"
+  },
+  {
+    "savol": "Dyui ta`kidladi?",
+    "A": "Faoliyat orqali o`sish",
+    "B": "Yugurish malaka oshirish",
+    "C": "Ranglarni tekis tanlash",
+    "D": "O`zgarishsiz reja tuzish",
+    "javob": "A"
+  },
+  {
+    "savol": "Vygotskiy nazariyasi?",
+    "A": "Yaqin rivojlanish zonasi",
+    "B": "Tana harakat mashqlari",
+    "C": "Belgilarni katta chizish",
+    "D": "Guruhda tartib o`rnatish",
+    "javob": "A"
+  },
+  {
+    "savol": "Vygotskiy fikricha rivojlanish?",
+    "A": "Ijtimoiy muloqot orqali",
+    "B": "Rangli tasvir orqali",
+    "C": "Chiziqlarni keng chizish",
+    "D": "Belgilarni ustma-ust",
+    "javob": "A"
+  },
+  {
+    "savol": "XVIII–XIX asr yo`nalishi?",
+    "A": "Dastlabki maktabgacha bosqich",
+    "B": "Rasm chizish tajribasi",
+    "C": "Guruhda tartib nazorati",
+    "D": "Turli rangli buyumlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Komenskiy qarashlari qaysi soha?",
+    "A": "Ilk tarbiya oilada",
+    "B": "Sport mashqi tizimi",
+    "C": "Buyumlar saqlash qoidasi",
+    "D": "Guruhni navbat bilan bo`lish",
+    "javob": "A"
+  },
+  {
+    "savol": "Pestalotsi ta`limi asosi?",
+    "A": "Aqliy axloqiy tarbiya",
+    "B": "Shakllarni to`g`ri chizish",
+    "C": "Ketma-ket belgi yozish",
+    "D": "Rasmlarni katta bo`yash",
+    "javob": "A"
+  },
+  {
+    "savol": "Fröbelning maqsadi?",
+    "A": "Bola tafakkurini rivojlantirish",
+    "B": "Chizg`ichni to`g`ri tutish",
+    "C": "Belgilarni teng chizish",
+    "D": "Rasmni tez chizish",
+    "javob": "A"
+  },
+  {
+    "savol": "Montessori tamoyili?",
+    "A": "Bola erkin tanlov qiladi",
+    "B": "Yagona topshiriq berish",
+    "C": "To`plamni bir xil qo`yish",
+    "D": "Tartibni qat`iy saqlash",
+    "javob": "A"
+  },
+  {
+    "savol": "XX asr boshlari ta`limi?",
+    "A": "Davlat qo`llab-quvvatlashi",
+    "B": "Guruhni qayta bo`lish",
+    "C": "Qog`ozlarni sinflash",
+    "D": "Rangli shakl tanlash",
+    "javob": "A"
+  },
+  {
+    "savol": "Jadidlar davri maqsadi?",
+    "A": "Ma`rifatli yosh avlod",
+    "B": "Asboblarni tartib bilan qo`yish",
+    "C": "Guruhni navbat bilan bo`lish",
+    "D": "Tasvirni ko`p bo`yash",
+    "javob": "A"
+  },
+  {
+    "savol": "Avloniyning g`oyasi?",
+    "A": "Ilm va ma`naviyat rivoji",
+    "B": "Shakllarni aniq sanash",
+    "C": "Guruhni aylanib yurish",
+    "D": "Buyumlarni baland qo`yish",
+    "javob": "A"
+  },
+  {
+    "savol": "“Usuli jadid” mazmuni?",
+    "A": "O`yin va amaliy mashg`ulot",
+    "B": "Tasodifiy rang tanlovi",
+    "C": "Kartalarni ustma-ust qo`yish",
+    "D": "Rasmlarni kichik chizish",
+    "javob": "A"
+  },
+  {
+    "savol": "Jadid maktablarining yangi tomoni?",
+    "A": "Hikoya qo`shiq o`rgatish",
+    "B": "Har kuni bir xil mashq",
+    "C": "Buyumlarni tartibga solish",
+    "D": "O`yinchoqlarni kamaytirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Jadidlar ta`limga ta`siri?",
+    "A": "Erta rivojlanish imkoniyati",
+    "B": "Ranglar bo`yicha tanlov",
+    "C": "Guruhda buyum sanash",
+    "D": "Kartalarni teng taqsimlash",
+    "javob": "A"
+  },
+  {
+    "savol": "Fanning vazifasi ta`limga?",
+    "A": "Teoriya va amaliy integratsiya",
+    "B": "Kartalarni ustma-ust qo`yish",
+    "C": "Ranglar bilan ishlash",
+    "D": "Buyumlarni chapga surish",
+    "javob": "A"
+  },
+  {
+    "savol": "Rivojlanish ehtiyojini baholash?",
+    "A": "Kamchilik va imkoniyat aniqlash",
+    "B": "Qadam tashlashni o`lchash",
+    "C": "Shakllarni chiroyli joylash",
+    "D": "Tasvirni kengaytirib bo`yash",
+    "javob": "A"
+  },
+  {
+    "savol": "Milliy tarbiya vazifasi?",
+    "A": "Madaniyatni uyg`un qo`llash",
+    "B": "Guruhni kichik qismlarga bo`lish",
+    "C": "Kartochkalarni tartibga solish",
+    "D": "Narsalarni ustma-ust qo`yish",
+    "javob": "A"
+  },
+  {
+    "savol": "Tadqiqot nimaga qaratilgan?",
+    "A": "Yangi metod yaratish",
+    "B": "Tovushlarni sinab ko`rish",
+    "C": "Belgilarni ko`paytirish",
+    "D": "Rasmlarni kichik chizish",
+    "javob": "A"
+  },
+  {
+    "savol": "Dyui ta`limida asos?",
+    "A": "Amaliy faoliyat vositasi",
+    "B": "O`yinchoqlarni yig`ish",
+    "C": "Baland tovush chiqarish",
+    "D": "Ketma-ket yozuv mashqi",
+    "javob": "A"
+  },
+  {
+    "savol": "Vygotskiy ta`kidladi?",
+    "A": "Muloqot orqali rivojlanish",
+    "B": "Belgilarni ketma-ket qo`yish",
+    "C": "Qadam tashlashni o`rganish",
+    "D": "Rasmlarni qalin chizish",
+    "javob": "A"
+  },
+  {
+    "savol": "Montessori metodining mohiyati?",
+    "A": "Bola markazda bo`ladi",
+    "B": "Chizg`ichni to`g`ri ushlash",
+    "C": "Rasmlarni kichik bo`yash",
+    "D": "Belgilarni rangga keltirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Komenskiy g`oyasi?",
+    "A": "Ilk tarbiya oilada",
+    "B": "Belgilarni turli chizish",
+    "C": "Tasvirni baland bo`yash",
+    "D": "Shakllarni kichik chizish",
+    "javob": "A"
+  },
+  {
+    "savol": "Pestalotsi tamoyili?",
+    "A": "Muhabbat bilan tarbiya",
+    "B": "Chiziqlarni tekis chizish",
+    "C": "Belgilarni tez yozish",
+    "D": "Kartalarni tez sanash",
+    "javob": "A"
+  },
+  {
+    "savol": "Fröbel ta`limida asos?",
+    "A": "O`yin orqali rivojlanish",
+    "B": "Matnni ovoz bilan aytish",
+    "C": "Shaklni to`g`ri joylash",
+    "D": "Rasmlarni kichik ishlash",
+    "javob": "A"
+  },
+  {
+    "savol": "Jadidlar islohoti maqsadi?",
+    "A": "Zamonaviy ta`lim berish",
+    "B": "Belgilarni chiroyli qo`yish",
+    "C": "Qog`ozlarni qayta bo`lish",
+    "D": "Tovushlarni ko`tarib aytish",
+    "javob": "A"
+  },
+  {
+    "savol": "Erta ta`lim natijasi?",
+    "A": "Bolada keng rivojlanish",
+    "B": "Shakllarni tekis joylash",
+    "C": "Buyumlarni ketma-ket qo`yish",
+    "D": "Tasvirni baland ranglash",
+    "javob": "A"
+  },
+  {
+    "savol": "Fanning umumiy predmeti?",
+    "A": "Rivojlanish jarayonini o`rganish",
+    "B": "Belgilarni kichik tartibga solish",
+    "C": "Rasmlar rangini almashtirish",
+    "D": "Buyumlarni baland qo`yish",
+    "javob": "A"
+  },
+  {
+    "savol": "Sovet davrida maktabgacha ta`lim joriy etilgan yil qaysi?",
+    "A": "1918-yilda qaror qabul qilindi",
+    "B": "1930-yilda dastur qabul qilindi",
+    "C": "1925-yilda maktab ochildi",
+    "D": "1940-yilda metod ishlab chiqildi",
+    "javob": "A"
+  },
+  {
+    "savol": "1930–1980 yillarda bolalar bog`chalari qanday rivojlandi?",
+    "A": "Keng tarmoq shaklida ochildi",
+    "B": "Toshkentda ochildi",
+    "C": "Oila tashabbusi bilan boshqarildi",
+    "D": "Cheklangan hududlarda faol bo`ldi",
+    "javob": "A"
+  },
+  {
+    "savol": "Sovet davrida pedagoglar qayerda tayyorlandi?",
+    "A": "Pedagogik kollej va institutlarda",
+    "B": "Guruh markazida tayyorlandi",
+    "C": "Xalq qo`mitasi huzurida kurslar",
+    "D": "Mahalliy kutubxonada kurslar",
+    "javob": "A"
+  },
+  {
+    "savol": "Sovet davri dasturlari qanday edi?",
+    "A": "Markazlashgan va mafkuraviy tusda",
+    "B": "Erkin ijodiy yondashuvda",
+    "C": "Hududiy ehtiyojga mos",
+    "D": "Innovatsion va erkin tizim",
+    "javob": "A"
+  },
+  {
+    "savol": "Mustaqillikdan so`ng islohotlar nimaga asoslandi?",
+    "A": "Milliy qadriyatlar asosida",
+    "B": "Tashqi bosimga qarab",
+    "C": "Eskirgan tizimni saqlash",
+    "D": "Davlat qaroriga ko`ra",
+    "javob": "A"
+  },
+  {
+    "savol": "1997-yilda qaysi dastur qabul qilindi?",
+    "A": "Kadrlar tayyorlash milliy dasturi",
+    "B": "Pedagoglar kursi dasturi",
+    "C": "O`quvchi baholash rejasi",
+    "D": "Ta`lim tizimi nizomi",
+    "javob": "A"
+  },
+  {
+    "savol": "Milliy dasturda maktabgacha ta`lim qanday baholandi?",
+    "A": "Alohida tizim sifatida e`tirof etildi",
+    "B": "Yordamchi bo`lim deb ko`rsatildi",
+    "C": "Ikkinchi darajali faoliyat deb hisoblandi",
+    "D": "Qo`shimcha yo`nalish sifatida ko`rsatildi",
+    "javob": "A"
+  },
+  {
+    "savol": "2017-yilda qaysi tuzilma tashkil etildi?",
+    "A": "Maktabgacha ta`lim vazirligi tashkil etildi",
+    "B": "Xalq ta`limi bo`limi qayta ochildi",
+    "C": "Pedagoglar kengashi tuzildi",
+    "D": "Maxsus tarmoqlar uyushmasi tuzildi",
+    "javob": "A"
+  },
+  {
+    "savol": "2019-yilda qabul qilingan hujjat nomi?",
+    "A": "Maktabgacha ta`lim to`g`risida qonun",
+    "B": "Ta`lim boshqaruvi nizomi",
+    "C": "Pedagogik malaka oshirish reglamenti",
+    "D": "O`quv rejasi ustavi",
+    "javob": "A"
+  },
+  {
+    "savol": "2020-yilda qanday bosqich joriy qilindi?",
+    "A": "Majburiy bir yillik tayyorlov bosqichi",
+    "B": "Ikki yillik umumiy kurs",
+    "C": "Uy sharoitida o`qitish tizimi",
+    "D": "Qisqa muddatli amaliy mashg`ulot",
+    "javob": "A"
+  },
+  {
+    "savol": "Xalqaro tashkilotlar bilan qanday jarayon boshlandi?",
+    "A": "Ilg`or tajribalar tatbiq qilindi",
+    "B": "Yagona eksport jarayoni boshlandi",
+    "C": "Hududiy texnologiya ko`chirildi",
+    "D": "Maxsus kurslar yaratildi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi tashkilotlar bilan hamkorlik qilindi?",
+    "A": "UNESCO UNICEF JICA bilan",
+    "B": "FAO WTO OECD bilan",
+    "C": "ILO IMO UNDP bilan",
+    "D": "NATO ASEAN OTG bilan",
+    "javob": "A"
+  },
+  {
+    "savol": "Raqamli ta`lim tizimida nimalar joriy qilindi?",
+    "A": "STEM elementlari bolg`chalarga tatbiq qilindi",
+    "B": "Oddiy qo`lda yozish qaytarildi",
+    "C": "Analog qurilmalar kengaytirildi",
+    "D": "Foydalanuvchi interfeysi bekor qilindi",
+    "javob": "A"
+  },
+  {
+    "savol": "2023-yilda tizim qanday o`zgardi?",
+    "A": "Yagona vazirlik tarkibiga birlashtirildi",
+    "B": "Bog`chalar soni kamaytirildi",
+    "C": "O`quvchilar majburiy qilindi",
+    "D": "Hududiy komissiya tuzildi",
+    "javob": "A"
+  },
+  {
+    "savol": "“Ilk qadam” dasturi nimaga o`zgartirildi?",
+    "A": "Yangilanib takomillashtirildi",
+    "B": "To`liq bekor qilindi",
+    "C": "Nazorat qoldirildi",
+    "D": "Xorijiy boshqaruvga berildi",
+    "javob": "A"
+  },
+  {
+    "savol": "Milliy standartlar nimalarga tegishli?",
+    "A": "Bolalar rivojlanish ko`rsatkichlariga",
+    "B": "O`quv qurollari narxlariga",
+    "C": "Bog`cha hududi maydoniga",
+    "D": "Maxsus xodim soniga",
+    "javob": "A"
+  },
+  {
+    "savol": "Hozirgi davrda qaysi jihatga e`tibor kuchaygan?",
+    "A": "Inklyuziv ta`lim jarayoni",
+    "B": "Tashqi nazorat kuchaytirilgan",
+    "C": "O`qituvchi soni kamaytirildi",
+    "D": "Hududlar yopila boshlandi",
+    "javob": "A"
+  },
+  {
+    "savol": "Oilaviy bog`chalar qanday rivojlanmoqda?",
+    "A": "Qo`llab-quvvatlash tizimi kengaymoqda",
+    "B": "Rasmiy cheklovlar kuchaymoqda",
+    "C": "Faoliyat hududi qisqarmoqda",
+    "D": "Yopilish jarayoni davom etmoqda",
+    "javob": "A"
+  },
+  {
+    "savol": "Xususiy sektor qanday yo`nalishda qo`llanmoqda?",
+    "A": "Rivojlanish uchun sharoit yaratilmoqda",
+    "B": "Bozor nazorati uchun yopilmoqda",
+    "C": "Qisqa muddatli kursga aylanmoqda",
+    "D": "Xorijiy boshqaruvga berilmoqda",
+    "javob": "A"
+  },
+  {
+    "savol": "Maktabgacha ta`lim rivojlanishining asosiy tamoyili qaysi?",
+    "A": "Bolaning shaxsiy rivojlanishiga yo`naltirilgan",
+    "B": "O`yin faoliyatiga e`tibor berish",
+    "C": "Oilani hisobga olmay ishlash",
+    "D": "Texnologiya va qadriyatni cheklash",
+    "javob": "A"
+  },
+  {
+    "savol": "Pedagogika tarixi nimani o`rganadi?",
+    "A": "Ta`lim va maktablar rivojlanishini",
+    "B": "Frebel o`yinlar tizimini",
+    "C": "Origami shakllarini bolalarga",
+    "D": "Petrograd institut faoliyatini",
+    "javob": "A"
+  },
+  {
+    "savol": "Pedagogika tarixining manbalari qaysi?",
+    "A": "Arxeologik qazishmalar va qo`lyozmalar",
+    "B": "San`at va ranglar bilan ishlash",
+    "C": "Mozaika va munchoqlar faoliyati",
+    "D": "Koptok va plitkalar shakllari",
+    "javob": "A"
+  },
+  {
+    "savol": "Pedagogika qaysi fan asosidan ajralib chiqqan?",
+    "A": "Falsafa fanidan alohida",
+    "B": "Matematika fanidan alohida",
+    "C": "Geografiya fanidan alohida",
+    "D": "Biologiya fanidan alohida",
+    "javob": "A"
+  },
+  {
+    "savol": "“Pedagogika” atamasi qayerda paydo bo`lgan?",
+    "A": "Qadimgi Yunonistonda",
+    "B": "Qadimgi Misrda",
+    "C": "Qadimgi Xitoyda",
+    "D": "Qadimgi Rimda",
+    "javob": "A"
+  },
+  {
+    "savol": "Pedagogika so`zi ma`nosi nima?",
+    "A": "Bola yetaklovchi degani",
+    "B": "Olma va shar shakllari",
+    "C": "27 ta mayda kubiklar",
+    "D": "Frebel kursi tashkil etilishi",
+    "javob": "A"
+  },
+  {
+    "savol": "F.Frebel bolalarni qanday hisoblagan?",
+    "A": "O`simliklar bog`i deb",
+    "B": "Rasm chizish mashg`ulotlari",
+    "C": "Origami bilan ishlash",
+    "D": "Arqonli o`yinlar sifatida",
+    "javob": "A"
+  },
+  {
+    "savol": "Frebel o`yinlarni qanday baholadi?",
+    "A": "Uslubiyot asosida hisoblagan",
+    "B": "Shaxsiy o`yladi",
+    "C": "Rasmlar orqali baholadi",
+    "D": "Matematika bilan bog`ladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Frebel o`yin turlariga nima kiradi?",
+    "A": "Ijodiy, harakatli, fantaziyali va taqlidli",
+    "B": "Qog`ozni qirqish va loydan narsalar",
+    "C": "Mozaika va munchoqlar",
+    "D": "Petrograd maktabgacha institutida",
+    "javob": "A"
+  },
+  {
+    "savol": "Frebel didaktik o`yinlar nima uchun muhim?",
+    "A": "Nutqni rivojlantirishga yordam",
+    "B": "Koptok birinchi o`yinchoq",
+    "C": "Shar va silindr kublari",
+    "D": "Origami shakllari bilan ishlash",
+    "javob": "A"
+  },
+  {
+    "savol": "Frebel faoliyati turlari qaysi?",
+    "A": "Mozaika, munchoqlar, cho`plar va qog`oz",
+    "B": "Koptok va plitkalar shakllari",
+    "C": "27 ta mayda kubiklar",
+    "D": "Arqonli o`yinlar uzviy mashg`ulot",
+    "javob": "A"
+  },
+  {
+    "savol": "Origami usuli nimaga asoslangan?",
+    "A": "Qaychisiz qog`oz shakllari",
+    "B": "Qog`ozdan to`qish va loy",
+    "C": "Plitkalarga bo`lingan kub",
+    "D": "Ranglar bilan ishlash mashg`ulot",
+    "javob": "A"
+  },
+  {
+    "savol": "Frebel arqonli o`yinlar qanday mashg`ulot hisoblangan?",
+    "A": "Uzviy mashg`ulot sifatida",
+    "B": "Rasmlarni chizish uchun",
+    "C": "Matematika uchun",
+    "D": "Tinch o`yin uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "Frebel uslubiyotining g`oyasi nimaga qaratilgan?",
+    "A": "Barcha narsalar bolalarga",
+    "B": "O`qituvchilarga",
+    "C": "Maktabga",
+    "D": "Uy sharoitiga",
+    "javob": "A"
+  },
+  {
+    "savol": "“Frebel tuhfalari” nima edi?",
+    "A": "Didaktik materiallar to`plami",
+    "B": "San`at vositalari",
+    "C": "Uy o`yinchoqlari",
+    "D": "Sport asboblari",
+    "javob": "A"
+  },
+  {
+    "savol": "Birinchi tuhfa qaysi edi?",
+    "A": "Koptok birinchi o`yinchoq",
+    "B": "Ikkinchi tuhfa yog`och kub",
+    "C": "Uchinchi tuhfa 8 ta kubik",
+    "D": "To`rtinchi tuhfa 8 ta plitka",
+    "javob": "A"
+  },
+  {
+    "savol": "Ikkinchi tuhfa nimadan iborat?",
+    "A": "Yog`och kub shar va silindr",
+    "B": "Plastmassa bloklar",
+    "C": "Qog`oz plitkalar",
+    "D": "Rangli kartonlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Uchinchi tuhfa nechta kubikdan iborat?",
+    "A": "8 ta kubikka bo`lingan",
+    "B": "10 ta kubikdan iborat",
+    "C": "5 ta kubikdan iborat",
+    "D": "12 ta kubikdan iborat",
+    "javob": "A"
+  },
+  {
+    "savol": "To`rtinchi tuhfa qanday xususiyatga ega?",
+    "A": "8 ta plitkaga bo`lingan",
+    "B": "Sharning burchaklari yo`q",
+    "C": "27 ta mayda kubik",
+    "D": "Qog`oz shakli bilan ishlash",
+    "javob": "A"
+  },
+  {
+    "savol": "Beshinchi tuhfa nechta kubdan iborat?",
+    "A": "27 ta mayda kubiklar",
+    "B": "8 ta kubikka bo`lingan",
+    "C": "Koptok birinchi o`yinchoq",
+    "D": "Shar va silindr kublari",
+    "javob": "A"
+  },
+  {
+    "savol": "Oltinchi tuhfa qanday bo`lgan?",
+    "A": "27 ta kubik plitkalarga bo`lingan",
+    "B": "8 ta kubik o`lchamida",
+    "C": "Qog`oz shakli bilan ishlangan",
+    "D": "Mozaika va munchoqlar bilan",
+    "javob": "A"
+  },
+  {
+    "savol": "Frebel kursi qayerda tashkil etildi?",
+    "A": "Petrograd maktabgacha institutida",
+    "B": "Moskva universitetida",
+    "C": "Toshkent pedagogika institutida",
+    "D": "Berlin maktabida",
+    "javob": "A"
+  },
+  {
+    "savol": "1918-yilda nimaga ahamiyat berildi?",
+    "A": "Kadrlar tayyorlash muhim voqea",
+    "B": "Bog`cha ochish muhim emas",
+    "C": "Faoliyat   nazoratga",
+    "D": "O`qituvchi   nazorat qilindi",
+    "javob": "A"
+  },
+  {
+    "savol": "1930-yillarga kelib maktabgacha pedagogika qanday rivojladi?",
+    "A": "Jadallik bilan rivojlandi",
+    "B": "Sezilarli kamayib bordi",
+    "C": "Faoliyat   nazoratga",
+    "D": "Hududiy cheklov oshdi",
+    "javob": "A"
+  },
+  {
+    "savol": "Pedagogika tarixining predmeti nima?",
+    "A": "Ta`lim va maktablar jarayoni",
+    "B": "Frebel o`yinlar tizimi",
+    "C": "Origami shakllari bolalar",
+    "D": "Petrograd institut faoliyati",
+    "javob": "A"
+  },
+  {
+    "savol": "Pedagogika atamasi yunoncha qaysi so`zlardan keladi?",
+    "A": "Paidos va ago so`zlaridan",
+    "B": "Koptok va plitkadan",
+    "C": "Mozaika va qog`ozdan",
+    "D": "Kub va silindrdan",
+    "javob": "A"
+  },
+  {
+    "savol": "Frebel bolalarni qanday parvarishlashni tavsiya qilgan?",
+    "A": "G`amxo`rlik va parvarishga",
+    "B": "Bilim berish orqali",
+    "C": "O`yinlar orqali",
+    "D": "Mashqlar yordamida",
+    "javob": "A"
+  },
+  {
+    "savol": "Frebel o`yin turlarida nima mavjud?",
+    "A": "Taqlidli va fantaziyali",
+    "B": "Rasmlarni chizish",
+    "C": "Jismoniy mashqlar",
+    "D": "Ranglarni tanlash",
+    "javob": "A"
+  },
+  {
+    "savol": "Didaktik o`yinlar nima uchun muhim?",
+    "A": "Bolalar nutqini rivojlantirish",
+    "B": "Faoliyat vaqtini kamaytirish",
+    "C": "Fikrni qiyinlashtirish",
+    "D": "Rasm chizish",
+    "javob": "A"
+  },
+  {
+    "savol": "Frebel faoliyat turlariga nimalar kiradi?",
+    "A": "Qog`ozdan to`qish va loy",
+    "B": "Yog`och va koptoklar",
+    "C": "Plitka va silindr",
+    "D": "Mozaika va ranglar",
+    "javob": "A"
+  },
+  {
+    "savol": "Origamiga qanday e`tibor berilgan?",
+    "A": "Qaychisiz shakllar yasash",
+    "B": "Rangli karton kesish",
+    "C": "Plitka bilan kesish",
+    "D": "Koptok bilan o`ynash",
+    "javob": "A"
+  },
+  {
+    "savol": "Arqonli o`yinlar qanday mashg`ulot hisoblangan?",
+    "A": "Uzviy mashg`ulot sifatida",
+    "B": "Rasmlarni chizish",
+    "C": "Jismoniy yuklamani oshiruvchi mashqlari",
+    "D": "Tinch o`yin faoliyati",
+    "javob": "A"
+  },
+  {
+    "savol": "Frebel uslubiyotining g`oyasi nima edi?",
+    "A": "Barcha narsalar bolalarga",
+    "B": "Maktabga",
+    "C": "O`qituvchilarga",
+    "D": "Uy sharoitiga",
+    "javob": "A"
+  },
+  {
+    "savol": "“Frebel tuhfalari” nimadan iborat?",
+    "A": "Bolalarni rivojlantirish materiallari",
+    "B": "Sport asboblari",
+    "C": "San`at vositalari",
+    "D": "Uy o`yinchoqlari",
+    "javob": "A"
+  },
+  {
+    "savol": "Birinchi tuhfa qaysi?",
+    "A": "Koptok birinchi o`yinchoq",
+    "B": "Ikkinchi tuhfa yog`och kub",
+    "C": "Uchinchi tuhfa 8 ta kubik",
+    "D": "To`rtinchi tuhfa plitkalar",
+    "javob": "A"
+  },
+  {
+    "savol": "Uchinchi tuhfa nechta kubdan iborat?",
+    "A": "8 ta kubikka bo`lingan",
+    "B": "10 ta mayda kub",
+    "C": "5 ta plastmassa kub",
+    "D": "12 ta qog`oz kub",
+    "javob": "A"
+  },
+  {
+    "savol": "To`rtinchi tuhfa qanday bo`lgan?",
+    "A": "8 ta plitkaga bo`lingan",
+    "B": "Sharning burchaklari yo`q",
+    "C": "27 ta kubikdan iborat",
+    "D": "Qog`oz shakli bilan ishlangan",
+    "javob": "A"
+  },
+  {
+    "savol": "Beshinchi tuhfa nechta bo`lakdan iborat?",
+    "A": "27 ta mayda kubiklar",
+    "B": "8 ta kubik plitkalar",
+    "C": "Koptok birinchi o`yinchoq",
+    "D": "Yog`och shar va silindr",
+    "javob": "A"
+  },
+  {
+    "savol": "Oltinchi tuhfa qanday xususiyatga ega?",
+    "A": "27 ta kubik plitkalarga bo`lingan",
+    "B": "8 ta kubik o`lchamida",
+    "C": "Qog`oz shakli bilan ishlangan",
+    "D": "Mozaika va munchoqlar bilan",
+    "javob": "A"
+  },
+  {
+    "savol": "Kreativlik nima?",
+    "A": "Yangicha fikrlash va yechim",
+    "B": "O`yin va mashg`ulot",
+    "C": "Musiqa va rasm ishlari",
+    "D": "Matematika mashqlari bajarish",
+    "javob": "A"
+  },
+  {
+    "savol": "Kreativ odam narsalarga qanday qaraydi?",
+    "A": "Boshqacha nigoh bilan qaraydi",
+    "B": "Estetik didni rivojlantirish",
+    "C": "Interfaol metodlardan foydalanish",
+    "D": "Mashg`ulotlarda topshiriq berish",
+    "javob": "A"
+  },
+  {
+    "savol": "Maktabgacha pedagogi uchun kreativlik nima?",
+    "A": "Bolalarning qiziqishini uyg`ota olish",
+    "B": "Musiqa va rasm elementlari",
+    "C": "Guruh loyihalar yaratish",
+    "D": "Mashg`ulotlarni tashkil etish",
+    "javob": "A"
+  },
+  {
+    "savol": "Kreativlikning maqsadi nima?",
+    "A": "Original g`oyalar yaratish",
+    "B": "Bolalar bilan musiqani rivojlantirish",
+    "C": "Ranglar bilan ishlash mashqlari",
+    "D": "Rasm chizish mashqlari",
+    "javob": "A"
+  },
+  {
+    "savol": "Jim Xensonning fikricha bolalar nimani eslaydi?",
+    "A": "Sizning kimligingizni eslashadi",
+    "B": "Mashg`ulot topshiriqlarini",
+    "C": "Rasm va plastilin ishlashni",
+    "D": "Interfaol metodlarni qo`llashni",
+    "javob": "A"
+  },
+  {
+    "savol": "Kreativlik talabalarga nima beradi?",
+    "A": "Mustaqil fikrlash va muammolarni hal etish",
+    "B": "O`yin mashqlarini bajarish",
+    "C": "Rasm chizish qobiliyati",
+    "D": "Estetik didni rivojlantirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Darsda kreativlik qanday ko`rinadi?",
+    "A": "Oddiy mavzuga innovatsion yondashuv",
+    "B": "Interfaol metodlar ishlatiladi",
+    "C": "Mashg`ulotlar tashkil etiladi",
+    "D": "Guruh loyihalari yaratildi",
+    "javob": "A"
+  },
+  {
+    "savol": "Kreativlikni rivojlantirish omillaridan biri nima?",
+    "A": "Ijodiy muhit yaratish",
+    "B": "Bo`sh vaqtni tashkil etish",
+    "C": "Rasm chizish mashqlari",
+    "D": "Musiqa bilan shug`ullanish",
+    "javob": "A"
+  },
+  {
+    "savol": "Interfaol metodlar nimalarni o`z ichiga oladi?",
+    "A": "Aqliy hujum, Klaster, Rol o`ynash, Debat",
+    "B": "Estetik didni rivojlantirish",
+    "C": "Guruh loyihalarini yaratish",
+    "D": "Musiqa va teatr elementlari",
+    "javob": "A"
+  },
+  {
+    "savol": "Mashg`ulotlarda kreativlikni qanday qo`llash mumkin?",
+    "A": "Ijodiy topshiriqlar berish",
+    "B": "Ranglarni ajratish mashqlari",
+    "C": "Bo`sh vaqtni to`ldirish",
+    "D": "Matematika mashqlarini bajarish",
+    "javob": "A"
+  },
+  {
+    "savol": "Bolalar uchun yangi o`yin yaratish nima bilan bog`liq?",
+    "A": "Kreativlikni rivojlantirish",
+    "B": "Musiqa va rasm ishlari",
+    "C": "Guruh loyihalarini yaratish",
+    "D": "Interfaol metodlarni qo`llash",
+    "javob": "A"
+  },
+  {
+    "savol": "Guruh loyihalari nima rivojlantiradi?",
+    "A": "Ijodiy fikr almashish va hamkorlik",
+    "B": "Musiqa va teatr elementlarini",
+    "C": "Mashg`ulotlarni tashkil etish",
+    "D": "Estetik didni rivojlantirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Musiqa, rasm, teatr elementlari nima uchun ishlatiladi?",
+    "A": "Estetik didni va tasavvurni boyitish",
+    "B": "Guruh loyihalarini yaratish",
+    "C": "Aqliy hujum metodini",
+    "D": "Mashg`ulotlarda topshiriq berish",
+    "javob": "A"
+  },
+  {
+    "savol": "Kreativlik qaysi qobiliyat bilan bog`liq?",
+    "A": "Yangicha fikrlash va original g`oya",
+    "B": "Rasm va plastilin mashqlari",
+    "C": "Guruh loyihalari yaratish",
+    "D": "Musiqa va teatr elementlari",
+    "javob": "A"
+  },
+  {
+    "savol": "Bolalar nimani o`rganolmaydi, deb ta`kidlangan?",
+    "A": "Nimani o`rgatmoqchi bo`lganingizni",
+    "B": "Interfaol metodlarni",
+    "C": "Mashg`ulotlarni tashkil etish",
+    "D": "Guruh loyihalarini",
+    "javob": "A"
+  },
+  {
+    "savol": "Kreativlik qaysi faoliyatda namoyon bo`ladi?",
+    "A": "O`yin va mashg`ulotlarni yangi usullar bilan",
+    "B": "Musiqa va teatr elementlari",
+    "C": "Guruh loyihalarini yaratish",
+    "D": "Mashg`ulotlarda topshiriq berish",
+    "javob": "A"
+  },
+  {
+    "savol": "Talabalar uchun kreativlik nima imkon beradi?",
+    "A": "Jamoada yangicha yondashuv kiritish",
+    "B": "Estetik didni rivojlantirish",
+    "C": "Interfaol metodlarni qo`llash",
+    "D": "Guruh loyihalarini yaratish",
+    "javob": "A"
+  },
+  {
+    "savol": "Kreativ odam oddiy narsadan nima qiladi?",
+    "A": "Yangi, foydali yoki chiroyli narsa yaratadi",
+    "B": "Mashg`ulotlarda topshiriq berish",
+    "C": "Rasm chizish mashqlari",
+    "D": "Musiqa va teatr elementlari",
+    "javob": "A"
+  },
+  {
+    "savol": "Darsda mavzuga boshqacha yondashuv nima hisoblanadi?",
+    "A": "Innovatsion taqdimot qilish",
+    "B": "Interfaol metodlardan foydalanish",
+    "C": "Mashg`ulotlarni tashkil etish",
+    "D": "Guruh loyihalari yaratish",
+    "javob": "A"
+  },
+  {
+    "savol": "Kreativlikni rivojlantirish uchun interfaol metodlar nima yordam beradi?",
+    "A": "Bolalar qobiliyatini rivojlantirish",
+    "B": "Estetik didni boyitish",
+    "C": "Mashg`ulotlarda topshiriq berish",
+    "D": "Guruh loyihalarini yaratish",
+    "javob": "A"
+  },
+  {
+    "savol": "Jismoniy rivojlanish qaysi sohani o`z ichiga oladi?",
+    "A": "Yirik va mayda motorika",
+    "B": "Nutq va til rivoji",
+    "C": "Ijodiy badiiy faoliyat",
+    "D": "Elementar matematik tushunchalar",
+    "javob": "A"
+  },
+  {
+    "savol": "Sog`lom turmush tarzini shakllantirish nima bilan bog`liq?",
+    "A": "Xavfsizlik va gigiyena qoidalari",
+    "B": "Qo`l barmoqlari motorikasi",
+    "C": "Badiiy tasavvur etish",
+    "D": "Ijtimoiylashuv bilan mashg`ulot",
+    "javob": "A"
+  },
+  {
+    "savol": "Ijtimoiy hissiy rivojlanish qaysi ko`nikmalarni o`z ichiga oladi?",
+    "A": "Hissiyotlarni boshqarish va Men konsepsiyasi",
+    "B": "Ranglar va hidlarni idrok etish",
+    "C": "Qum va suv bilan o`yinlar",
+    "D": "Nutq va til malakalari",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq va yozish malakalari nimani rivojlantiradi?",
+    "A": "Nutq va til qobiliyatini",
+    "B": "Badiiy ijodiy faoliyatlarni",
+    "C": "Texnika o`yinchoqlarini",
+    "D": "Qum bilan o`yin mashqlarini",
+    "javob": "A"
+  },
+  {
+    "savol": "Bilish jarayonining rivojlanishi qaysi ko`nikmalar bilan bog`liq?",
+    "A": "Intelektual anglash va tadqiqiy bilish",
+    "B": "Qo`l barmoqlari motorikasi",
+    "C": "O`yinning quvnoqligi",
+    "D": "O`yinchoqlar ranglari",
+    "javob": "A"
+  },
+  {
+    "savol": "Ijodiy rivojlanish nima orqali amalga oshadi?",
+    "A": "Badiiy tasavvur va ijodiy faoliyat",
+    "B": "Qurish konstruktsiyalar bilan",
+    "C": "Su bilan o`yin mashqlari",
+    "D": "Texnika vositalarini boshqarish",
+    "javob": "A"
+  },
+  {
+    "savol": "Qurish markazida faoliyat qanday amalga oshiriladi?",
+    "A": "Polda o`tirgan holda amalga oshiriladi",
+    "B": "Rasm chizish va ranglash bilan",
+    "C": "Su bilan cho`milish mashqlari",
+    "D": "Qum bilan shakl yasash mashqlari",
+    "javob": "A"
+  },
+  {
+    "savol": "Qurish markazlarida bolalar nimani o`rganadi?",
+    "A": "Shakllar, balandlik va og`irlik",
+    "B": "Ranglar va hidlarni idrok etish",
+    "C": "Nutq va til ko`nikmalarini",
+    "D": "Ijtimoiy hissiy tajribalarni",
+    "javob": "A"
+  },
+  {
+    "savol": "Qurish markazlari qanday ko`nikmalarni rivojlantiradi?",
+    "A": "Ko`z-qo`l muvofiqligi va tozalash",
+    "B": "Badiiy ijodiy faoliyat",
+    "C": "Elementar matematik tushunchalar",
+    "D": "Estetik did va musiqiy ohang",
+    "javob": "A"
+  }
+]

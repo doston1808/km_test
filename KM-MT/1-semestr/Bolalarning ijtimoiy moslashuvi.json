@@ -1,0 +1,1322 @@
+[
+  {
+    "savol": "Ijtimoiylashuv so`zining ma`nosini aniqlang",
+    "A": "Lot. Socialis - umumiy, jamoaviy",
+    "B": "Ingl. Socialis - ijtimoiy, jamoaviy",
+    "C": "Lot. Socialis - ijtimoiy, yakka",
+    "D": "Bir nechta insonlardan iborat jamoa",
+    "javob": "A"
+  },
+  {
+    "savol": "Ijtimoiylashuv so`ziga mos ta`rifni belgilang",
+    "A": "Individning tug`ilib, jamiyatga kirib borib, undagi hayot uchun zarur boʻladigan bilim,ko`nikma,malakalar me`yorlar va qadriyatlarni oʻzlashtirishidir",
+    "B": "Sayyoramizning barcha aholisiga ta`sir qiladigan narsalar.",
+    "C": "Sotsializatsiya agentlari",
+    "D": "bola ota-onaning temperamentini, odatlarini, iste`dodlarini va afsuski, kasalliklarni meros qilib olishi mumkin",
+    "javob": "A"
+  },
+  {
+    "savol": "Bolaning rivojlanishiga ta`sir qiluvchi omillar qaysilar?",
+    "A": "Biologik, ekologik va ijtimoiy",
+    "B": "Biologik, ekologik",
+    "C": "Biologik, ijtimoiy",
+    "D": "Eekologik va ijtimoiy",
+    "javob": "A"
+  },
+  {
+    "savol": "Bola ijtimoiylashuv jarayonida nimalarni o`rganadi?",
+    "A": "Me`yorlar va qadriyatlarni",
+    "B": "O`yin qoidalarini",
+    "C": "Rang turlarini",
+    "D": "Ovqatlanish tartibini",
+    "javob": "A"
+  },
+  {
+    "savol": "Tarbiyachi bolalarda empatiyani qanday rivojlantiradi?",
+    "A": "Boshqalarning his-tuyg`ularini tushuntirish orqali",
+    "B": "Sovg`a berish orqali",
+    "C": "Musobaqa tashkil etish orqali",
+    "D": "Nazoratni kuchaytirish orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Tarbiyachi ijtimoiy muhitni qanday tashkil etadi?",
+    "A": "Hamkorlik va ishonch muhitini yaratish orqali",
+    "B": "Sovuqqonlik orqali",
+    "C": "Qattiq nazorat orqali",
+    "D": "Farqlash orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Bola ijtimoiy tajribani qanday oladi?",
+    "A": "O`yin va muloqot orqali",
+    "B": "Kitob o`qish orqali",
+    "C": "Tashqi kuzatuv orqali",
+    "D": "Jismoniy mashq orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Tarbiyachi bolada mehr-muhabbatni qanday uyg`otadi?",
+    "A": "Yaxshi so`z va e`tibor orqali",
+    "B": "Sovg`a orqali",
+    "C": "Tanaffus orqali",
+    "D": "Tanbeh orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Tarbiyachi ijtimoiy qadriyatlarni qanday singdiradi?",
+    "A": "Namuna ko`rsatish orqali",
+    "B": "Majburlash orqali",
+    "C": "Rag`bat orqali",
+    "D": "Tanqid orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Bola jamoadagi o`z o`rnini qanday topadi?",
+    "A": "Hamkorlik va muloqot orqali",
+    "B": "Yolg`iz ishlash orqali",
+    "C": "Shikoyat qilish orqali",
+    "D": "E`tiborsizlik orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Tarbiyachi ijtimoiy muammolarni qanday hal qiladi?",
+    "A": "Suhbat va maslahat orqali",
+    "B": "E`tiborsiz qoldirish orqali",
+    "C": "Jazolash orqali",
+    "D": "Sovuqqonlik orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Bola jamoadagi qoidalarni qanday o`rganadi?",
+    "A": "Tajriba va o`yin orqali",
+    "B": "Qattiq nazorat orqali",
+    "C": "Beparvolik orqali",
+    "D": "Yakkalanish orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Tarbiyachi ijtimoiy moslashuvni qanday baholaydi?",
+    "A": "Bola muloqot va xulqidagi o`zgarish orqali",
+    "B": "Test natijasi orqali",
+    "C": "Rasm chizish orqali",
+    "D": "Yozma ish orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Ijtimoiylashuvda asosiy shaxs kim?",
+    "A": "Tarbiyachi",
+    "B": "Rahbar",
+    "C": "Kuzatuvchi",
+    "D": "Psixolog",
+    "javob": "A"
+  },
+  {
+    "savol": "Bola ijtimoiylashuvda nimani his qiladi?",
+    "A": "Jamoaga tegishlilikni",
+    "B": "Mustaqillikni yo`qotishni",
+    "C": "Beparvolikni",
+    "D": "E`tiborsizlikni",
+    "javob": "A"
+  },
+  {
+    "savol": "Tarbiyachi bolada qaysi sifatni mustahkamlaydi?",
+    "A": "Mas`uliyat va g`amxo`rlikni",
+    "B": "Qattiqqo`llikni",
+    "C": "Sovuqqonlikni",
+    "D": "Beparvolikni",
+    "javob": "A"
+  },
+  {
+    "savol": "Ijtimoiy o`yinlarning maqsadi nima?",
+    "A": "Hamkorlikni o`rgatish",
+    "B": "Fikrni tekshirish",
+    "C": "Nazoratni kuchaytirish",
+    "D": "Yakkalanishni rag`batlantirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Bola jamoada o`zini qanday tutadi?",
+    "A": "Hurmat bilan muloqot qiladi",
+    "B": "Doimo jim turadi",
+    "C": "Fikr bildirmaydi",
+    "D": "E`tiborsiz bo`ladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Tarbiyachi bolalarda qanday tuyg`uni shakllantiradi?",
+    "A": "Hamjihatlik va ishonchni",
+    "B": "E`tiborsizlikni",
+    "C": "Sovuqlikni",
+    "D": "Beqarorlikni",
+    "javob": "A"
+  },
+  {
+    "savol": "Tarbiyachi ijtimoiy tarbiyaga qanday yondashadi?",
+    "A": "Insonparvarlik asosida",
+    "B": "Nazorat asosida",
+    "C": "Qattiqlik asosida",
+    "D": "Sovuqqonlik asosida",
+    "javob": "A"
+  },
+  {
+    "savol": "Ijtimoiy muhitda muloqotning ahamiyati nima?",
+    "A": "Tushunish va hamkorlikni kuchaytiradi",
+    "B": "Nazoratni oshiradi",
+    "C": "Harakatni cheklaydi",
+    "D": "Yolg`izlikni yaratadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Bola ijtimoiy moslashuvda qanday ko`nikmalar oladi?",
+    "A": "Muloqot va muomala ko`nikmasini",
+    "B": "Eslab qolish ko`nikmasini",
+    "C": "Jismoniy kuchni",
+    "D": "Raqobatni",
+    "javob": "A"
+  },
+  {
+    "savol": "Tarbiyachi bola bilan qanday aloqa o`rnatadi?",
+    "A": "Samimiy muloqot orqali",
+    "B": "Buyruq orqali",
+    "C": "Sukut orqali",
+    "D": "Jazolash orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Ijtimoiy muhitda ijobiy aloqa nimalarni beradi?",
+    "A": "Ishonch va do`stlikni mustahkamlaydi",
+    "B": "Nazoratni oshiradi",
+    "C": "Raqobatni kuchaytiradi",
+    "D": "Yakkalanishni",
+    "javob": "A"
+  },
+  {
+    "savol": "Bola ijtimoiy muhitga qanday moslashadi?",
+    "A": "Tajriba va kuzatish orqali",
+    "B": "Beparvolik orqali",
+    "C": "Yakkalanish orqali",
+    "D": "Cheklanish orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Tarbiyachi bolaga ijtimoiy rollarni qanday o`rgatadi?",
+    "A": "Rolli o`yinlar orqali",
+    "B": "Kitob o`qitish orqali",
+    "C": "Savol-javob orqali",
+    "D": "Yozuv topshiriqlari orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Ijtimoiy tarbiyada suhbatning o`rni?",
+    "A": "Tushunish va ishonchni oshiradi",
+    "B": "Fikrni cheklaydi",
+    "C": "Nazoratni kuchaytiradi",
+    "D": "Aloqani kamaytiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Bola ijtimoiy muhitda o`z hislarini qanday ifodalaydi?",
+    "A": "So`z va xatti-harakat orqali",
+    "B": "Rasm orqali",
+    "C": "Sukut orqali",
+    "D": "Beqarorlik orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Tarbiyachi ijtimoiy muhitni qanday boyitadi?",
+    "A": "Qiziqarli o`yinlar va suhbatlar orqali",
+    "B": "Nazorat orqali",
+    "C": "Tanbeh orqali",
+    "D": "Cheklash orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Tarbiyachi ijtimoiy faoliyatda qanday rol o`ynaydi?",
+    "A": "Yetakchi va namuna sifatida",
+    "B": "Tomoshabin sifatida",
+    "C": "Kuzatuvchi sifatida",
+    "D": "Qattiqqo`l sifatida",
+    "javob": "A"
+  },
+  {
+    "savol": "Ijtimoiy muhitda bolalarning faol ishtiroki nimani kuchaytiradi?",
+    "A": "O`zaro hamjihatlikni",
+    "B": "Nazoratni",
+    "C": "Cheklovlarni",
+    "D": "Passivlikni",
+    "javob": "A"
+  },
+  {
+    "savol": "Bola ijtimoiy qadriyatlarni qanday his qiladi?",
+    "A": "Tajriba va muloqot orqali",
+    "B": "Nazorat orqali",
+    "C": "Jazolash orqali",
+    "D": "Yakkalanish orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Tarbiyachi bolani ijtimoiy hayotga qanday tayyorlaydi?",
+    "A": "O`yin, suhbat va namuna orqali",
+    "B": "Faqat topshiriqlar orqali",
+    "C": "Nazorat orqali",
+    "D": "Rag`bat orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Ijtimoiy muhitda empatiya nimani bildiradi?",
+    "A": "Boshqani tushunish va qo`llab-quvvatlash",
+    "B": "Fikrni yashirish",
+    "C": "Qoidalarga bo`ysunish",
+    "D": "Har doim jim turish",
+    "javob": "A"
+  },
+  {
+    "savol": "Bola ijtimoiy o`zgarishlarga qanday javob beradi?",
+    "A": "Yangi sharoitga moslashadi",
+    "B": "Qarshilik qiladi",
+    "C": "Sukut saqlaydi",
+    "D": "Yakkalanadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ijtimoiy muhitda jamoaviy o`yinlarning ahamiyati?",
+    "A": "Hamkorlikni rivojlantiradi",
+    "B": "Raqobatni kuchaytiradi",
+    "C": "Nazoratni oshiradi",
+    "D": "Yolg`izlikni kuchaytiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ijtimoiy muhitda hurmatli munosabatning natijasi?",
+    "A": "Barqaror muloqot va do`stlik",
+    "B": "Cheklanish",
+    "C": "Beparvolik",
+    "D": "Sovuqlik",
+    "javob": "A"
+  },
+  {
+    "savol": "Bola jamoadagi o`rtoqlaridan nimani o`rganadi?",
+    "A": "Yordam va sabrni",
+    "B": "Raqobatni",
+    "C": "Sukutni",
+    "D": "Cheklovlarni",
+    "javob": "A"
+  },
+  {
+    "savol": "Tarbiyachi ijtimoiylashuvda qanday yondashuvni tanlaydi?",
+    "A": "Shaxsga yo`naltirilgan yondashuvni",
+    "B": "Nazoratli yondashuvni",
+    "C": "Qattiqqo`l yondashuvni",
+    "D": "Passiv yondashuvni",
+    "javob": "A"
+  },
+  {
+    "savol": "Bola ijtimoiylashuv jarayonida nimalarni o`rganadi?",
+    "A": "Muloqot, hamkorlik va hurmatni",
+    "B": "Yozish va o`qishni",
+    "C": "Chizmachilikni",
+    "D": "Musobaqalarda qatnashishni",
+    "javob": "A"
+  },
+  {
+    "savol": "Ijtimoiy moslashuvning asosiy maqsadi nima?",
+    "A": "Bolani jamiyat hayotiga tayyorlash",
+    "B": "Sport musobaqalarida g`olib bo`lish",
+    "C": "Musiqa mashg`ulotlarini o`tkazish",
+    "D": "Faqat yozma topshiriqlarni bajarish",
+    "javob": "A"
+  },
+  {
+    "savol": "Tarbiyachi ijtimoiy muhitni qanday yaratadi?",
+    "A": "Samimiy, hamkorlikka asoslangan muhit tashkil etadi",
+    "B": "Fikrlarni cheklaydi",
+    "C": "Qattiqqo`llik bilan boshqaradi",
+    "D": "Jazo tizimini qo`llaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Bola ijtimoiy tajribani qanday egallaydi?",
+    "A": "O`yin va amaliy ishtirok orqali",
+    "B": "Ko`rsatma orqali emas",
+    "C": "Boshqalardan ajralib",
+    "D": "O`qituvchisiz mustaqil",
+    "javob": "A"
+  },
+  {
+    "savol": "Ijtimoiy tarbiyaning asosiy vositasi nima?",
+    "A": "O`yin, suhbat va namuna",
+    "B": "Sport va musobaqa",
+    "C": "Musiqa va qo`shiq",
+    "D": "Rasm va rang",
+    "javob": "A"
+  },
+  {
+    "savol": "Tarbiyachi bolalarda mehr-muhabbatni qanday uyg`otadi?",
+    "A": "Yaxshi so`z va e`tibor orqali",
+    "B": "Mukofot orqali",
+    "C": "Yolg`izlik orqali",
+    "D": "Fikrni cheklash orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Ijtimoiy muhitda hurmat nima anglatadi?",
+    "A": "Boshqalarning fikriga e`tiborli bo`lish",
+    "B": "Faqat so`z bilan tasdiqlash",
+    "C": "Hech kimni tinglamaslik",
+    "D": "Qattiqqo`llikni ko`rsatish",
+    "javob": "A"
+  },
+  {
+    "savol": "Ijtimoiy muhitning ijobiy tomoni nima?",
+    "A": "Bolalarda ishonch va do`stlikni shakllantiradi",
+    "B": "Fikr almashinuvni kamaytiradi",
+    "C": "Qattiqqo`llikni kuchaytiradi",
+    "D": "Yolg`izlikni targ`ib qiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Tarbiyachi ijtimoiy muammolarni qanday hal qiladi?",
+    "A": "Suhbat va maslahat orqali",
+    "B": "E`tiborsiz qoldirib",
+    "C": "Jazolash orqali",
+    "D": "Cheklash orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Bola jamoadagi qoidalarni qanday o`zlashtiradi?",
+    "A": "O`yin jarayonida amaliy tajriba orqali",
+    "B": "Faqat eshitish orqali",
+    "C": "Tashqi nazorat orqali",
+    "D": "Yozma topshiriq orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Ijtimoiylashuv jarayonining markazida kim turadi?",
+    "A": "Tarbiyachi va bola",
+    "B": "Sinf rahbari",
+    "C": "Mutaxassislar",
+    "D": "Guruh nazoratchisi",
+    "javob": "A"
+  },
+  {
+    "savol": "Tarbiyachi bolada qaysi sifatni rivojlantiradi?",
+    "A": "G`amxo`rlik, sabr va ishonchni",
+    "B": "Fikrni yashirishni",
+    "C": "Qattiqqo`llikni",
+    "D": "Beparvolikni",
+    "javob": "A"
+  },
+  {
+    "savol": "Bola ijtimoiy his-tuyg`ularni qanday anglaydi?",
+    "A": "Suhbat va o`yin jarayonida",
+    "B": "Tasodif orqali",
+    "C": "Kitobdan o`qib",
+    "D": "Yozma test orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Tarbiyachi ijtimoiy madaniyatni qanday shakllantiradi?",
+    "A": "Namuna ko`rsatish va muloqot orqali",
+    "B": "Fikrni to`xtatish orqali",
+    "C": "Sukut orqali",
+    "D": "Jazo orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Ijtimoiy muhitda bolalar bir-biridan nimani o`rganadi?",
+    "A": "Hamkorlik, mehr va sabrni",
+    "B": "Fikrni yashirishni",
+    "C": "Qattiqqo`llikni",
+    "D": "Yolg`izlikni",
+    "javob": "A"
+  },
+  {
+    "savol": "Tarbiyachi bolalarda qanday tuyg`uni mustahkamlaydi?",
+    "A": "Ishonch va samimiyatni",
+    "B": "Sovuqqo`llikni",
+    "C": "Yakkalanishni",
+    "D": "Cheklovchi fikrni",
+    "javob": "A"
+  },
+  {
+    "savol": "Ijtimoiylashuv natijasi qanday?",
+    "A": "Madaniyatli, faol, mas`uliyatli bola",
+    "B": "Beparvo va sust bola",
+    "C": "Yolg`iz fikrli bola",
+    "D": "Fikrini yashiruvchi bola",
+    "javob": "A"
+  },
+  {
+    "savol": "Bola ijtimoiy muhitda nimani qadrlaydi?",
+    "A": "Do`stlik, hurmat va ishonchni",
+    "B": "Tanbehni",
+    "C": "Mukofotni",
+    "D": "Yakkalanishni",
+    "javob": "A"
+  },
+  {
+    "savol": "Bola ijtimoiy moslashuvda qanday ko`nikmalar hosil qiladi?",
+    "A": "Muloqot, muomala va moslashuv",
+    "B": "Fikrni to`xtatish",
+    "C": "Yozma topshiriq",
+    "D": "Bo`sh vaqt o`yinlari",
+    "javob": "A"
+  },
+  {
+    "savol": "Ijtimoiy muhitdagi ijobiy aloqa natijasi nima?",
+    "A": "Ishonch, hurmat va hamjihatlik kuchayadi",
+    "B": "Fikr almashinuv kamayadi",
+    "C": "Yakkalanish kuchayadi",
+    "D": "Yolg`izlik ortadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ijtimoiy tarbiyada suhbatning o`rni qanday?",
+    "A": "Bolalarda o`zaro ishonchni kuchaytiradi",
+    "B": "Fikrni to`xtatadi",
+    "C": "Muloqotni kamaytiradi",
+    "D": "Yolg`izlikni kuchaytiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ijtimoiy tarbiya natijasi qanday bo`lishi kerak?",
+    "A": "Mas`uliyatli va madaniyatli shaxs",
+    "B": "Fikrni yashiruvchi shaxs",
+    "C": "Yakkalangan shaxs",
+    "D": "Beparvo shaxs",
+    "javob": "A"
+  },
+  {
+    "savol": "Bola ijtimoiy munosabatlarda nimalarni o`rganadi?",
+    "A": "Hamkorlik, do`stlik, sabrni",
+    "B": "Yolg`izlikni",
+    "C": "Yozma topshiriqni",
+    "D": "E`tiborsizlikni",
+    "javob": "A"
+  },
+  {
+    "savol": "Tarbiyachi ijtimoiy faoliyatda qanday rol bajaradi?",
+    "A": "Yo`naltiruvchi va namuna bo`ladi",
+    "B": "Fikrni to`xtatadi",
+    "C": "Yolg`iz kuzatadi",
+    "D": "Buyruq beradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ijtimoiy muhitda bolalarning faol ishtiroki natijasi?",
+    "A": "Samimiylik va o`zaro tushunish ortadi",
+    "B": "Yolg`izlik kuchayadi",
+    "C": "Fikr to`xtaydi",
+    "D": "Sukut saqlanadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Tarbiyachi bolani jamiyatga qanday tayyorlaydi?",
+    "A": "O`yin, suhbat va kuzatish orqali",
+    "B": "Faqat kitob o`qish orqali",
+    "C": "Yakkalanish orqali",
+    "D": "Fikrni cheklash orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Ijtimoiy muhitda empatiya nimani anglatadi?",
+    "A": "Boshqalarning hislarini tushunish",
+    "B": "Yolg`izlikni his qilish",
+    "C": "Tanbehni qabul qilish",
+    "D": "Yozma ifoda qilish",
+    "javob": "A"
+  },
+  {
+    "savol": "Bola ijtimoiy o`zgarishlarga qanday moslashadi?",
+    "A": "Yangi sharoitni tushunib va qabul qilib",
+    "B": "Qarshilik ko`rsatib",
+    "C": "Sukutda qolib",
+    "D": "Yolg`iz yurib",
+    "javob": "A"
+  },
+  {
+    "savol": "Tarbiyachi bolalar o`rtasida qanday muhit yaratadi?",
+    "A": "Do`stona, samimiy va hurmatli muhit",
+    "B": "Yakkalik muhiti",
+    "C": "Qattiq nazoratli muhit",
+    "D": "Tanbeh muhiti",
+    "javob": "A"
+  },
+  {
+    "savol": "Ijtimoiy muhitda jamoaviy o`yinlarning roli?",
+    "A": "Hamkorlikni rivojlantiradi",
+    "B": "Yolg`izlikni kuchaytiradi",
+    "C": "Yodlashni oshiradi",
+    "D": "Fikrni cheklaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Bola ijtimoiy moslashuvda qanday rol o`ynaydi?",
+    "A": "Faol ishtirokchi sifatida",
+    "B": "Yolg`iz kuzatuvchi sifatida",
+    "C": "Fikrni yashiruvchi sifatida",
+    "D": "Sukut saqlovchi sifatida",
+    "javob": "A"
+  },
+  {
+    "savol": "Tarbiyachi ijtimoiy tajribani qanday boyitadi?",
+    "A": "O`yin, suhbat va amaliy mashg`ulotlar orqali",
+    "B": "Yakkalanish orqali",
+    "C": "Tanqid orqali",
+    "D": "Fikrni cheklash orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Ijtimoiy muhitda hurmatli munosabat natijasi nima?",
+    "A": "Do`stlik va hamjihatlik barqarorlashadi",
+    "B": "Yolg`izlik kuchayadi",
+    "C": "Sukut oshadi",
+    "D": "Fikr to`xtaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Bolaning rivojlanishiga ta`sir qiluvchi biologik omillar bu-?",
+    "A": "Bola ota-onaning temperamentini, odatlarini, iste`dodlarini va afsuski, kasalliklarni meros qilib olishi mumkin",
+    "B": "Iqlim sharoitlari bolaning fiziologik va shaxsiy rivojlanishiga ta`sir qiladi",
+    "C": "Ijtimoiy pedagogikaning amaliy faoliyat sohasi",
+    "D": "Bolaning rivojlanishiga oila, maktab, do`stlarining tasiri",
+    "javob": "A"
+  },
+  {
+    "savol": "Bolaning rivojlanishiga ta`sir qiluvchi ekologik omillar bu-?",
+    "A": "Iqlim sharoitlari bolaning fiziologik va shaxsiy rivojlanishiga ta`sir qiladi",
+    "B": "Ijtimoiy pedagogikaning amaliy faoliyat sohasi",
+    "C": "Qarindoshlar ta`siri",
+    "D": "Bola ota-onaning temperamentini, odatlarini, iste`dodlarini va afsuski, kasalliklarni meros qilib olishi mumkin",
+    "javob": "A"
+  },
+  {
+    "savol": "Bolaning rivojlanishiga ta`sir qiluvchi ijtimoiy omillar bu-?",
+    "A": "Bolaning rivojlanishiga oila, maktab, do`stlarining tasiri",
+    "B": "Iqlim,ob-havo tasiri",
+    "C": "Ijtimoiy pedagogikaning amaliy faoliyat sohasi",
+    "D": "Bola ota-onaning temperamentini, odatlarini, iste`dodlarini va afsuski, kasalliklarni meros qilib olishi mumkin",
+    "javob": "A"
+  },
+  {
+    "savol": "Pedagogika qanday fan?",
+    "A": "Bolaga ta`lim va tarbiya berishning nazariy asoslari bilan shugʻullanadi",
+    "B": "Bu ijtimoiy muhitning shaxsning rivojlanishi va shakllanishiga ta`siri haqidagi fan",
+    "C": "Agentlar bilan ishlaydigan fan",
+    "D": "Bolada tashqi dunyo haqidagi fikrlarini shakllantiradigan fan",
+    "javob": "A"
+  },
+  {
+    "savol": "Ijtimoiy pedagogika bu-?",
+    "A": "Bu ijtimoiy muhitning shaxsning rivojlanishi va shakllanishiga ta`siri haqidagi fan",
+    "B": "Bolaga ta`limva tarbiya berish qonuniyatlarini o`rganuvchi fan",
+    "C": "Ijtimoiy pedagogikaning amaliy faoliyat sohasi",
+    "D": "Bola ota-onaning temperamentini, odatlarini, iste`dodlarini va afsuski, kasalliklarni meros qilib olishi mumkin",
+    "javob": "A"
+  },
+  {
+    "savol": "Ijtimoiylashgan institutlarga nimalar kiradi?",
+    "A": "Oila, ta`lim, va din",
+    "B": "Din va talim, jamoa",
+    "C": "oila, ta`lim ,jamoa",
+    "D": "ta`lim, madaniyat , jamoa",
+    "javob": "A"
+  },
+  {
+    "savol": "Oila –bu?",
+    "A": "Ijtimoiylashishning yеtakchi instituti, bu orqali bola asosiy ijtimoiy bilimni egallaydi",
+    "B": "Ikki insonnning maqsadlarining bir bo`lmasligi",
+    "C": "Insonlar jamiyatdagi hayotining tarixan murakkab shaklda tashkil etilganligi va tartibga solinganligini o`rganadi",
+    "D": "iqlim sharoitlari bolaning fiziologik va shaxsiy rivojlanishiga ta`sir qiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Oila, ta`lim, va din bular?",
+    "A": "Ijtimoiy institutlar",
+    "B": "Ijtimoiy vositalar",
+    "C": "Ijtimoiy mexanizmlar",
+    "D": "Omillar",
+    "javob": "A"
+  },
+  {
+    "savol": "Pedagogikaning ham, ijtimoiy pedagogikaning ham obyekti bu ?",
+    "A": "Bola",
+    "B": "Dars",
+    "C": "Mashg`ulot",
+    "D": "Teatr",
+    "javob": "A"
+  },
+  {
+    "savol": "Identifikatsiya nima?",
+    "A": "Ijtimoiylashuv mexanimi",
+    "B": "Ijtimoiy omil",
+    "C": "Ijtimoiy vosita",
+    "D": "Ijtimoiy agent",
+    "javob": "A"
+  },
+  {
+    "savol": "Loyihalash nima?",
+    "A": "Ijtimoiylashuv mexanimi",
+    "B": "Ijtimoiy vosita",
+    "C": "Ijtimoiy omil",
+    "D": "Ijtimoiy agent",
+    "javob": "A"
+  },
+  {
+    "savol": "Empatiya nima?",
+    "A": "Ijtimoiylashuv mexanimi",
+    "B": "Ijtimoiy vosita",
+    "C": "Ijtimoiy omil",
+    "D": "Ijtimoiy agent",
+    "javob": "A"
+  },
+  {
+    "savol": "Introyeksiya nima?",
+    "A": "Ijtimoiylashuv mexanimi",
+    "B": "Ijtimoiy omil",
+    "C": "Ijtimoiy vosita",
+    "D": "Ijtimoiy agent",
+    "javob": "A"
+  },
+  {
+    "savol": "Bostirish nima?",
+    "A": "Ijtimoiylashuv mexanimi",
+    "B": "Ijtimoiy omil",
+    "C": "Ijtimoiy vosita",
+    "D": "Ijtimoiy agent",
+    "javob": "A"
+  },
+  {
+    "savol": "O`z-o`zini cheklash nima?",
+    "A": "Ijtimoiylashuv mexanimi",
+    "B": "Ijtimoiy vosita",
+    "C": "Ijtimoiy agent",
+    "D": "Ijtimoiy omil",
+    "javob": "A"
+  },
+  {
+    "savol": "Tаrbiyalаnuvchi xаyolаn o`zini o`rtоqlаri bilаn qiyoslаy оlаdigаn ijtimоiylаshuv mеxаnizmi nimа dеb аtаlаdi?",
+    "A": "Idеntifikаtsiya",
+    "B": "lоyihаlаsh",
+    "C": "o`z-o`zini chеklаsh mеxаnizmi",
+    "D": "аjrаtish mеxаnizmi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ijtimoiylashtirishning omillari nechta?",
+    "A": "4",
+    "B": "5",
+    "C": "3",
+    "D": "2",
+    "javob": "A"
+  },
+  {
+    "savol": "Ijtimoiylashtirishning omillari qaysilar?",
+    "A": "Megaomillar, makroomillar, mezoomillar, mikroomillar",
+    "B": "Loyihalash, introyeksiya, em;atiya",
+    "C": "Megaomillar va mikroomillar",
+    "D": "Empatiya va megaomillar",
+    "javob": "A"
+  },
+  {
+    "savol": "Megaomillar, makroomillar, mezoomillar, mikroomillar bular?",
+    "A": "Ijtimoiylashtirish omillari",
+    "B": "Bola rivojlanishi omillar",
+    "C": "Mexanizmlar",
+    "D": "Vositalar",
+    "javob": "A"
+  },
+  {
+    "savol": "Megaomillar bu?",
+    "A": "Butun dunyo aholisiga ta`sir qiladi",
+    "B": "Ma`lum bir mintaqa hudud yoki davlatda yashovchi aholiga ta`sir qiladi",
+    "C": "Ma`lum bir turar toy ,qishloq, shahar yoki ko`pqavatli bino aholisiga ta`sir qiladi",
+    "D": "Ma`lum bir guruh, auditoriya, sinf ga ta`sir ko`rsatadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Butun dunyo aholisiga ta`sir qiluvchi omillar bu?",
+    "A": "Megaomillar",
+    "B": "Makroomillar",
+    "C": "Mezoomillar",
+    "D": "Mikroomillar",
+    "javob": "A"
+  },
+  {
+    "savol": "Makroomillar qanday ta`sir ko`rsatadi?",
+    "A": "Ma`lum bir mintaqa hudud yoki davlatda yashovchi aholiga ta`sir qiladi",
+    "B": "Butun dunyo aholisiga ta`sir qiladi",
+    "C": "Ma`lum bir turar toy ,qishloq,shahar yoki ko`pqavatli bino aholisiga ta`sir qiladi",
+    "D": "Ma`lum bir guruh, auditoriya, sinf ga ta`sir ko`rsatadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ma`lum bir mintaqa hudud yoki davlatda yashovchi aholiga ta`sir qiluvchiomillar bu?",
+    "A": "Makroomillar",
+    "B": "Mezoomillar",
+    "C": "Mikroomillar",
+    "D": "Megaomillar",
+    "javob": "A"
+  },
+  {
+    "savol": "Mezoomillar qanday ta`sir kolamiga ega?",
+    "A": "Ma`lum bir turar toy ,qishloq,shahar yoki ko`pqavatli bino aholisiga ta`sir qiladi",
+    "B": "Ma`lum bir mintaqa hudud yoki davlatda yashovchi aholiga ta`sir qiladi",
+    "C": "Butun dunyo aholisiga ta`sir qiladi",
+    "D": "Ma`lum bir guruh, auditoriya, sinf ga ta`sir ko`rsatadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ma`lum bir turar toy ,qishloq,shahar yoki ko`pqavatli bino aholisiga ta`sir qiluvchi omillar bu?",
+    "A": "Mezoomillar",
+    "B": "Mikroomillar",
+    "C": "Megaomillar",
+    "D": "Makroomillar",
+    "javob": "A"
+  },
+  {
+    "savol": "Mikroomillar qanday ta`sir kolamiga ega?",
+    "A": "Ma`lum bir guruh, jamoa, auditoriya, sinf ga ta`sir ko`rsatadi",
+    "B": "Ma`lum bir turar toy ,qishloq,shahar yoki ko`pqavatli bino aholisiga ta`sir qiladi",
+    "C": "Ma`lum bir mintaqa hudud yoki davlatda yashovchi aholiga ta`sir qiladi",
+    "D": "Butun dunyo aholisiga ta`sir qiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ma`lum bir guruh, auditoriya, jamoa, sinf ga ta`sir ko`rsatuvchi omillar bu?",
+    "A": "Mikroomillar",
+    "B": "Megaomillar",
+    "C": "Makroomillar",
+    "D": "Mezoomillar",
+    "javob": "A"
+  },
+  {
+    "savol": "Mexanizm bu?",
+    "A": "Biri ikkinchisini taqazzo qiluvchi harakatlar majmui",
+    "B": "Bolaga ta`sir qiluvchi omil",
+    "C": "Ijtimoiylashuv vositasi",
+    "D": "Ijtimoiylashuv kategoriyasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Biri ikkinchisini taqazzo qiluvchi harakatlar majmui bu?",
+    "A": "Mexanizm",
+    "B": "Omil",
+    "C": "Vosita",
+    "D": "Kategoriya",
+    "javob": "A"
+  },
+  {
+    "savol": "Ijtimoiylashuv mexanizmlar nechata?",
+    "A": "8",
+    "B": "9",
+    "C": "6",
+    "D": "7",
+    "javob": "A"
+  },
+  {
+    "savol": "Bоshqаlаrning xislаtlаrini o`zgаrtirmаgаn hоldа o`zlаshtirib оlinishi qаysi ijtimоiylаshuv mеxаnizmigа to`g`ri kеlаdi?",
+    "A": "Intrоеksiya",
+    "B": "Empаtiya",
+    "C": "Entrоеksiya",
+    "D": "Intеllеktuаllаshuv",
+    "javob": "A"
+  },
+  {
+    "savol": "Intrоеksiya qanday bu?",
+    "A": "Bоshqаlаrning xislаtlаrini o`zgаrtirmаgаn hоldа o`zlаshtirib оlish",
+    "B": "Bоshqа оdаmning hissiy hоlаtigа hаmdаrd bo`lish",
+    "C": "Omil",
+    "D": "Vosita",
+    "javob": "A"
+  },
+  {
+    "savol": "Bоshqа оdаmning hissiy hоlаtigа hаmdаrd bo`lish qаysi ijtimоiylаshuv mеxаnizmigа to`g`ri kеlаdi?",
+    "A": "Empаtiya",
+    "B": "Intrоеksiya",
+    "C": "Intеllеktuаllаshuv",
+    "D": "Intrоеksiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Empаtiya bu?",
+    "A": "Bоshqа оdаmning hissiy hоlаtigа hаmdаrd bo`lish",
+    "B": "Bоshqаlаrning xislаtlаrini o`zgаrtirmаgаn hоldа o`zlаshtirib оlinishi",
+    "C": "Ijtimoiylashuv vositasi",
+    "D": "Ijtimoiylashuv omili",
+    "javob": "A"
+  },
+  {
+    "savol": "Bostirish mexanizmi nima?",
+    "A": "Muayyan g`oya, fikr, xohish, istaklarni ongdan chiqarib tashlash",
+    "B": "Bu mexanizm ijtimoiylashuv mexanizmi sifatida inson o`zi uchun yomon taassurotlardan voz kechishi bilan bog`liq",
+    "C": "Bоshqа оdаmning hissiy hоlаtigа hаmdаrd bo`lish",
+    "D": "Bоshqаlаrning xislаtlаrini o`zgаrtirmаgаn hоldа o`zlаshtirib оlinishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Muayyan g`oya, fikr, xohish, istaklarni ongdan chiqarib tashlash qanday mexanizm?",
+    "A": "Bostirish",
+    "B": "Ajratish",
+    "C": "Empatiya",
+    "D": "Loyihalash",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi mexanizm ijtimoiylashuv mexanizmi sifatida inson o`zi uchun yomon taassurotlardan voz kechishi bilan bog`liq.",
+    "A": "Ajratish",
+    "B": "Empatiya",
+    "C": "Loyihalash",
+    "D": "Bostirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Ajratish mexanizmi nima?",
+    "A": "Bu mexanizm ijtimoiylashuv mexanizmi sifatida inson o`zi uchun yomon taassurotlardan voz kechishi bilan bog`liq.",
+    "B": "Muayyan g`oya, fikr, xohish, istaklarni ongdan chiqarib tashlash",
+    "C": "Bоshqа оdаmning hissiy hоlаtigа hаmdаrd bo`lish",
+    "D": "Bоshqаlаrning xislаtlаrini o`zgаrtirmаgаn hоldа o`zlаshtirib оlinishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi mexnizmda bola yutuqlari do`stlarinikidan ko`ra ahamiyatsizroq tuyulsa, uning o`z-o`ziga hurmati pasayadi.",
+    "A": "O`z-o`zini cheklash",
+    "B": "Ajratish",
+    "C": "Empatiya",
+    "D": "Loyihalash",
+    "javob": "A"
+  },
+  {
+    "savol": "O`z-o`zini cheklash mexanzmining tarifini aniqlang?",
+    "A": "Yutuqlari do`stlarinikidan ko`ra ahamiyatsizroq tuyulsa, uning o`z-o`ziga hurmati pasayadi. Bu o`z menini cheklab qo`yish",
+    "B": "Bu mexanizm ijtimoiylashuv mexanizmi sifatida inson o`zi uchun yomon taassurotlardan voz kechishi bilan bog`liq",
+    "C": "Muayyan g`oya, fikr, xohish, istaklarni ongdan chiqarib tashlash",
+    "D": "Bоshqа оdаmning hissiy hоlаtigа hаmdаrd bo`lish",
+    "javob": "A"
+  },
+  {
+    "savol": "Dеzаdаptаtsiya nimа ?",
+    "A": "Mоslаshа оlmаslik",
+    "B": "Mоslаshish",
+    "C": "Og`ishish",
+    "D": "O`tа iqtidоrlilik",
+    "javob": "A"
+  },
+  {
+    "savol": "“Ijtimоiylаshuv nazariyasi” kitobining muallifi kim ?",
+    "A": "Kеddings",
+    "B": "Russо",
+    "C": "Gilvеtsiy",
+    "D": "Kvintеliаn",
+    "javob": "A"
+  },
+  {
+    "savol": "Loyihalash mexanizmi nima?",
+    "A": "O`z kamchiliklarini boshqalarga tegishli deb hisoblash",
+    "B": "inson o`zi uchun yomon taassurotlardan voz kechishi bilan bog`liq",
+    "C": "Muayyan g`oya, fikr, xohish, istaklarni ongdan chiqarib tashlash",
+    "D": "Bоshqа оdаmning hissiy hоlаtigа hаmdаrd bo`lish",
+    "javob": "A"
+  },
+  {
+    "savol": "O`z kamchiliklarini boshqalarga tegishli deb hisoblash",
+    "A": "Loyihalash",
+    "B": "O`z-o`zini cheklash",
+    "C": "Ajratish",
+    "D": "Empatiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Ijtimoiylashuv jarayoni dastlab qayerda amalga oshadi?",
+    "A": "Оilа",
+    "B": "Guruh",
+    "C": "Siyosаt",
+    "D": "Mа`dаniyat",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi mexanizmda bola hayolan o`zini o`rtoqlari bilan qiyoslaydi.",
+    "A": "Identifikatsiya",
+    "B": "Loyihalash",
+    "C": "O`z-o`zini cheklash",
+    "D": "Ajratish",
+    "javob": "A"
+  },
+  {
+    "savol": "Identifikatsiya mexanizmi tarifini toping?",
+    "A": "Hayolan o`zini o`rtoqlari bilan qiyoslaydi",
+    "B": "O`z kamchiliklarini boshqalarga tegishli deb hisoblash",
+    "C": "inson o`zi uchun yomon taassurotlardan voz kechishi bilan bog`liq",
+    "D": "Muayyan g`oya, fikr, xohish, istaklarni ongdan chiqarib tashlash",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi mexanizmda bola o`z yoshiga nisbatan katta yoshli insonlar kabi abstrakt fikrlay boshlaydi.",
+    "A": "Intelektuallashuv",
+    "B": "Identifikatsiya",
+    "C": "Loyihalash",
+    "D": "O`z-o`zini cheklash",
+    "javob": "A"
+  },
+  {
+    "savol": "Intelektuallashuv mexanizmi bu?",
+    "A": "Bola o`z yoshiga nisbatan katta yoshli insonlar kabi abstrakt fikrlay boshlaydi",
+    "B": "O`z kamchiliklarini boshqalarga tegishli deb hisoblash",
+    "C": "inson o`zi uchun yomon taassurotlardan voz kechishi bilan bog`liq",
+    "D": "Muayyan g`oya, fikr, xohish, istaklarni ongdan chiqarib tashlash",
+    "javob": "A"
+  },
+  {
+    "savol": "20-arsning 50-60-yillarida qaysi fan rivojlandi?",
+    "A": "Ijtimoiy pedagogika",
+    "B": "Pedagogika",
+    "C": "Ona tili",
+    "D": "Tarix",
+    "javob": "A"
+  },
+  {
+    "savol": "A.Distervergning millati?",
+    "A": "Nemis",
+    "B": "O`zbek",
+    "C": "Qozoq",
+    "D": "Rus",
+    "javob": "A"
+  },
+  {
+    "savol": "Ijtimoiy pedagogika fan sifatidaqachon shakllana boshladi",
+    "A": "20-arsning 50-60-yillarida",
+    "B": "1905-1906 yillar",
+    "C": "19-arsning 50-60-yillarida",
+    "D": "21-arsning 50-60-yillarida",
+    "javob": "A"
+  },
+  {
+    "savol": "Ijtimoiy pedagogika\" atamasining paydo bo`lishi nemis o`qituvchisi kimning nomi bilan bog`liq?",
+    "A": "A. Disterveg",
+    "B": "Vigotskiy",
+    "C": "Padlovskiy",
+    "D": "A.avloniy",
+    "javob": "A"
+  },
+  {
+    "savol": "A. Distervegga tegishli fikrni aniqlang.",
+    "A": "Ijtimoiy pedagogika ma`lum ijtimoiy sharoit, vaziyatlarda pedagogik yordam sifatida ishtirok etadi",
+    "B": "Tarbiya bizlar uchun, yo hayot, yo mamot, yo najot, yo halokat, yo saodat, yo falokat masalasidir",
+    "C": "Qaysi sohani olmaylik biz yetuk kadrlarni tarbiyalamasdan biror bir o`zgarishga farovon hayotga erisha olmaymiz",
+    "D": "Tarbiyaning boshi oila",
+    "javob": "A"
+  },
+  {
+    "savol": "Ijtimoiy pedagogika ma`lum ijtimoiy sharoit, vaziyatlarda pedagogik yordam sifatida ishtirok etadi. Kimning fikri?",
+    "A": "A. Disterveg",
+    "B": "Vigotskiy",
+    "C": "Padlovskiy",
+    "D": "A.avloniy",
+    "javob": "A"
+  },
+  {
+    "savol": "O`zbekistonda ijtimoiy pedagogikaning rivojlanishi kimlarning nomi bilan bog`liq?",
+    "A": "A.Avloniy, Behbudiy, Munavvarqori Abdurashidov, Fitrat",
+    "B": "A. Disterveg Vigotskiy",
+    "C": "Vigotskiy, Padlosov",
+    "D": "Padlovskiy A.Avloniy",
+    "javob": "A"
+  },
+  {
+    "savol": "Ijtimoiy pedagogikaning butun tarixiy rivojlanishi necha bosqichda amalga oshgan?",
+    "A": "3",
+    "B": "5",
+    "C": "2",
+    "D": "4",
+    "javob": "A"
+  },
+  {
+    "savol": "Ijtimoiy pedagogika rivojlanishing ilk bosqichi?",
+    "A": "Empirik",
+    "B": "Ilmiy",
+    "C": "Nazariy",
+    "D": "Amaliy",
+    "javob": "A"
+  },
+  {
+    "savol": "Empirik bosqichda qanday jarayon sodir bo`lgan?",
+    "A": "Kuzatish",
+    "B": "Xulosalash",
+    "C": "Qonuniyatlar paydo bo`lgan",
+    "D": "Tajriba",
+    "javob": "A"
+  },
+  {
+    "savol": "Ijtimoiy pedagogika rivojlanishing ikkinchi bosqichi?",
+    "A": "Ilmiy",
+    "B": "Nazariy",
+    "C": "Amaliy",
+    "D": "Empirik",
+    "javob": "A"
+  },
+  {
+    "savol": "Ilmiy bosqichda qanday jarayon sodir bo`lgan?",
+    "A": "Xulosalash",
+    "B": "Qonuniyatlar paydo bo`lgan",
+    "C": "Tajriba",
+    "D": "Kuztish",
+    "javob": "A"
+  },
+  {
+    "savol": "Ijtimoiy pedagogika rivojlanishing 3- bosqichi?",
+    "A": "Nazariy",
+    "B": "Amaliy",
+    "C": "Empirik",
+    "D": "Ilmiy",
+    "javob": "A"
+  },
+  {
+    "savol": "Nazariy bosqichda qanday jarayon sodir bo`lgan?",
+    "A": "Qonuniyatlar paydo bo`lgan",
+    "B": "Tajriba",
+    "C": "Kuzatish",
+    "D": "Xulosalash",
+    "javob": "A"
+  },
+  {
+    "savol": "“Tarbiya bizlar uchun, yo hayot, yo mamot, yo najot, yo halokat, yo saodat, yo falokat masalasidir” bu fikr kimga tegishli?",
+    "A": "A.Avloniy",
+    "B": "A. Disterveg",
+    "C": "Vigotskiy",
+    "D": "Padlovskiy",
+    "javob": "A"
+  },
+  {
+    "savol": "A.Avloniyning fikrini aniqlang.",
+    "A": "Tarbiya bizlar uchun, yo hayot, yo mamot, yo najot, yo halokat, yo saodat, yo falokat masalasidir",
+    "B": "Qaysi sohani olmaylik biz yetuk kadrlarni tarbiyalamasdan biror bir o`zgarishga farovon hayotga erisha olmaymiz",
+    "C": "Tarbiyaning boshi oila",
+    "D": "Ijtimoiy pedagogika ma`lum ijtimoiy sharoit, vaziyatlarda pedagogik yordam sifatida ishtirok etadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Tarbiya — bu?",
+    "A": "Shaxsda muayyan jismoniy, ruhiy, axloqiy, maʼnaviy sifatlarni shakllantirishga qaratilgan amaliy pedagogik jarayon",
+    "B": "Ijtimoiylashuv jarayoni",
+    "C": "O`rgatish",
+    "D": "Moslashish jarayoni",
+    "javob": "A"
+  },
+  {
+    "savol": "Shaxsda muayyan jismoniy, ruhiy, axloqiy, maʼnaviy sifatlarni shakllantirishga qaratilgan amaliy pedagogik jarayon bu?",
+    "A": "Tarbiya",
+    "B": "Ta`lim",
+    "C": "Bilim",
+    "D": "Ko`nikma",
+    "javob": "A"
+  },
+  {
+    "savol": "Farzandlarimiz tarbiyasida muhim qoidalar Qaysilar?",
+    "A": "Niyat ,tushuntirish,namuna, pand-nasihat, rag`bartlantirish, jazolash",
+    "B": "Niyat, tushuntirish, rag`bartlantirish, jazolash",
+    "C": "Tushuntirish, namuna, pand-nasihat, rag`bartlantirish, jazolash",
+    "D": "Niyat, tushuntirish,namuna, pand-nasihat, rag`bartlantirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Itimoiy pedagogikaning tadqiqot obyekti bu?",
+    "A": "Bola",
+    "B": "Shaxs",
+    "C": "Inson",
+    "D": "Jarayon",
+    "javob": "A"
+  },
+  {
+    "savol": "Ilk yosh necha yoshlarni o`z ichiga oladi?",
+    "A": "1-3",
+    "B": "2-3",
+    "C": "3",
+    "D": "3-7",
+    "javob": "A"
+  },
+  {
+    "savol": "Shaxs qaysi fanning kategoriyasi?",
+    "A": "Pedagogika",
+    "B": "Ijtimoiy pedagogoka",
+    "C": "Ona tili",
+    "D": "Matematika",
+    "javob": "A"
+  },
+  {
+    "savol": "Ta`lim qaysi fanning kategoriyasi?",
+    "A": "Pedagogika",
+    "B": "Ijtimoiy pedagogoka",
+    "C": "Matematika",
+    "D": "Ona tili",
+    "javob": "A"
+  },
+  {
+    "savol": "Tarbiya qaysi fanning kategoriyasi?",
+    "A": "Pedagogika",
+    "B": "Ijtimoiy pedagogoka",
+    "C": "Matematika",
+    "D": "Ona tili",
+    "javob": "A"
+  },
+  {
+    "savol": "Bilim qaysi fanning kategoriyasi?",
+    "A": "Pedagogika",
+    "B": "Matematika",
+    "C": "Ijtimoiy pedagogoka",
+    "D": "Ona tili",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko`nikma qaysi fanning kategoriyasi?",
+    "A": "Pedagogika",
+    "B": "Matematika",
+    "C": "Ijtimoiy pedagogoka",
+    "D": "Ona tili",
+    "javob": "A"
+  },
+  {
+    "savol": "Malaka qaysi fanning kategoriyasi?",
+    "A": "Pedagogika",
+    "B": "Matematika",
+    "C": "Ijtimoiy pedagogoka",
+    "D": "Ona tili",
+    "javob": "A"
+  },
+  {
+    "savol": "Pedagogika fanining kategoriyasini aniqlang?",
+    "A": "Shaxs",
+    "B": "Ijtimoiy ta`lim",
+    "C": "Ijtimoiy tarbiya",
+    "D": "Ijtimoiy institut",
+    "javob": "A"
+  },
+  {
+    "savol": "Kategoriya bu?",
+    "A": "Fanning mohiyatini ochib beruvchi eng muhim, asosiy tushunchalar",
+    "B": "Bilimlar majmui",
+    "C": "Dunyoqarash",
+    "D": "Psixologik jarayon",
+    "javob": "A"
+  },
+  {
+    "savol": "Fanning mohiyatini ochib beruvchi eng muhim, Asosiy tushunchalar bu?",
+    "A": "Kategoriya",
+    "B": "Bilim",
+    "C": "Ko`nikma",
+    "D": "Tasavvur",
+    "javob": "A"
+  },
+  {
+    "savol": "Pedagogikaning asosiy kategoriyalarini aniqlang.",
+    "A": "Shaxs, ta`lim, tarbiya, bilim, ko`nikma, malaka",
+    "B": "Ijtimoiylashuv, ijtimoiy institut, ijtimoiy adaptatsiya, ijtimoiy tarbiya",
+    "C": "Shaxs, ta`lim, tarbiya, bilim, ijtimoiylashuv, ijtimoiy institut",
+    "D": "Ijtimoiylashuv, ijtimoiy institut, ko`nikma, malaka",
+    "javob": "A"
+  },
+  {
+    "savol": "Ijtimoiy pedagogikaning kategoriyalarini aniqlang?",
+    "A": "Ijtimoiylashuv, ijtimoiy institut, ijtimoiy adaptatsiya, ijtimoiy tarbiya",
+    "B": "Shaxs, ta`lim, tarbiya, bilim, ijtimoiylashuv, ijtimoiy institut",
+    "C": "Ijtimoiylashuv, ijtimoiy institut, ko`nikma, malaka",
+    "D": "Shaxs, ta`lim, tarbiya, bilim, ko`nikma, malaka",
+    "javob": "A"
+  },
+  {
+    "savol": "Shaxs bu?",
+    "A": "Psixologik jihatdan taraqqiy etgan, shaxsiy xususiyatlari va xatti-harakatlari bilan boshqalardan ajralib turuvchi, muayyan xulq-atvor va dunyoqarashga ega bo`lgan jamiyat a`zosi",
+    "B": "Ta`lim oluvchilarni nazariy bilim, amaliy ko`nikma va malakalar bilan qurollantirish, ularning bilish qobiliyatlarini o`stirish va dunyoqarashlarini shakllantirishga yo`naltirilgan jarayon",
+    "C": "Muayyan, aniq maqsad hamda ijtimoiy-tarixiy tajriba asosida yosh avlodni har tomonlama o`stirish, uning ongi, xulq-atvori va dunyoqarashini tarkib toptirish jarayon",
+    "D": "Shaxsning ongida tushunchalar, sxemalar, ma`lum obrazlar ko`rinishida aks etuvchi borliq haqidagi tizimlashtirilgan ilmiy ma`lumotlar majmui",
+    "javob": "A"
+  },
+  {
+    "savol": "Psixologik jihatdan taraqqiy etgan, shaxsiy xususiyatlari va xatti-harakatlari bilan boshqalardan ajralib turuvchi, muayyan xulq-atvor va dunyoqarashga ega bo`lgan jamiyat a`zosi kim?",
+    "A": "Shaxs",
+    "B": "Individ",
+    "C": "Mavjudod",
+    "D": "Fuqaro",
+    "javob": "A"
+  },
+  {
+    "savol": "Tarbiya bu?",
+    "A": "Muayyan, aniq maqsad hamda ijtimoiy-tarixiy tajriba asosida yosh avlodni har tomonlama o`stirish, uning ongi, xulq-atvori va dunyoqarashini tarkib toptirish jarayoni",
+    "B": "Psixologik jihatdan taraqqiy etgan, shaxsiy xususiyatlari va xatti-harakatlari bilan boshqalardan ajralib turuvchi, muayyan xulq-atvor va dunyoqarashga ega bo`lgan jamiyat a`zosi",
+    "C": "Ta`lim oluvchilarni nazariy bilim, amaliy ko`nikma va malakalar bilan qurollantirish, ularning bilish qobiliyatlarini o`stirish va dunyoqarashlarini shakllantirishga yo`naltirilgan jarayon",
+    "D": "Shaxsning ongida tushunchalar, sxemalar, ma`lum obrazlar ko`rinishida aks etuvchi borliq haqidagi tizimlashtirilgan ilmiy ma`lumotlar majmui",
+    "javob": "A"
+  },
+  {
+    "savol": "Muayyan, aniq maqsad hamda ijtimoiy-tarixiy tajriba asosida yosh avlodni har tomonlama o`stirish, uning ongi, xulq-atvori va dunyoqarashini tarkib toptirish jarayoni bu?",
+    "A": "Tarbiya",
+    "B": "Talim",
+    "C": "Bilim",
+    "D": "Ko`nikma",
+    "javob": "A"
+  },
+  {
+    "savol": "Talim bu?",
+    "A": "Ta`lim oluvchilarni nazariy bilim, amaliy ko`nikma va malakalar bilan qurollantirish, ularning bilish qobiliyatlarini o`stirish va dunyoqarashlarini shakllantirishga yo`naltirilgan jarayon",
+    "B": "Muayyan, aniq maqsad hamda ijtimoiy-tarixiy tajriba asosida yosh avlodni har tomonlama o`stirish, uning ongi, xulq-atvori va dunyoqarashini tarkib toptirish jarayoni",
+    "C": "Psixologik jihatdan taraqqiy etgan, shaxsiy xususiyatlari va xatti-harakatlari bilan boshqalardan ajralib turuvchi, muayyan xulq-atvor va dunyoqarashga ega bo`lgan jamiyat a`zosi",
+    "D": "Shaxsning ongida tushunchalar, sxemalar, ma`lum obrazlar ko`rinishida aks etuvchi borliq haqidagi tizimlashtirilgan ilmiy ma`lumotlar majmui",
+    "javob": "A"
+  },
+  {
+    "savol": "Ta`lim oluvchilarni nazariy bilim, amaliy ko`nikma va malakalar bilan qurollantirish, ularning bilish qobiliyatlarini o`stirish va dunyoqarashlarini shakllantirishga yo`naltirilgan jarayon bu?",
+    "A": "Talim",
+    "B": "Bilim",
+    "C": "Ko`nikma",
+    "D": "Tarbiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Shaxsning ongida tushunchalar, sxemalar, ma`lum obrazlar ko`rinishida aks etuvchi borliq haqidagi tizimlashtirilgan ilmiy ma`lumotlar majmui bu?",
+    "A": "Bilim",
+    "B": "Ko`nikma",
+    "C": "Tarbiya",
+    "D": "Ta`lim",
+    "javob": "A"
+  },
+  {
+    "savol": "Bilim bu?",
+    "A": "Shaxsning ongida tushunchalar, sxemalar, ma`lum obrazlar ko`rinishida aks etuvchi borliq haqidagi tizimlashtirilgan ilmiy ma`lumotlar majmui",
+    "B": "Ta`lim oluvchilarni nazariy bilim, amaliy ko`nikma va malakalar bilan qurollantirish, ularning bilish qobiliyatlarini o`stirish va dunyoqarashlarini shakllantirishga yo`naltirilgan jarayon",
+    "C": "Muayyan, aniq maqsad hamda ijtimoiy-tarixiy tajriba asosida yosh avlodni har tomonlama o`stirish, uning ongi, xulq-atvori va dunyoqarashini tarkib toptirish jarayoni",
+    "D": "Psixologik jihatdan taraqqiy etgan, shaxsiy xususiyatlari va xatti-harakatlari bilan boshqalardan ajralib turuvchi, muayyan xulq-atvor va dunyoqarashga ega bo`lgan jamiyat a`zosi",
+    "javob": "A"
+  },
+  {
+    "savol": "Shaxsning muayyan faoliyatni tashkil eta olish qobiliyati bu?",
+    "A": "Ko`nikma",
+    "B": "Tarbiya",
+    "C": "Talim",
+    "D": "Bilim",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko`nikma bu?",
+    "A": "Shaxsning muayyan faoliyatni tashkil eta olish qobiliyati",
+    "B": "Shaxsning ongida tushunchalar, sxemalar, ma`lum obrazlar ko`rinishida aks etuvchi borliq haqidagi tizimlashtirilgan ilmiy ma`lumotlar majmui",
+    "C": "Ta`lim oluvchilarni nazariy bilim, amaliy ko`nikma va malakalar bilan qurollantirish, ularning bilish qobiliyatlarini o`stirish va dunyoqarashlarini shakllantirishga yo`naltirilgan jarayon",
+    "D": "Muayyan, aniq maqsad hamda ijtimoiy-tarixiy tajriba asosida yosh avlodni har tomonlama o`stirish, uning ongi, xulq-atvori va dunyoqarashini tarkib toptirish jarayoni",
+    "javob": "A"
+  },
+  {
+    "savol": "Muayyan harakat yoki faoliyatni bajarishning avtomatlashtirilgan shakli bu?",
+    "A": "Malaka",
+    "B": "Ko`nikma",
+    "C": "Tarbiya",
+    "D": "Talim",
+    "javob": "A"
+  },
+  {
+    "savol": "Malaka bu?",
+    "A": "Muayyan harakat yoki faoliyatni bajarishning avtomatlashtirilgan shakli",
+    "B": "Shaxsning muayyan faoliyatni tashkil eta olish qobiliyati",
+    "C": "Shaxsning ongida tushunchalar, sxemalar, ma`lum obrazlar ko`rinishida aks etuvchi borliq haqidagi tizimlashtirilgan ilmiy ma`lumotlar majmui",
+    "D": "Ta`lim oluvchilarni nazariy bilim, amaliy ko`nikma va malakalar bilan qurollantirish, ularning bilish qobiliyatlarini o`stirish va dunyoqarashlarini shakllantirishga yo`naltirilgan jarayon",
+    "javob": "A"
+  }
+]
