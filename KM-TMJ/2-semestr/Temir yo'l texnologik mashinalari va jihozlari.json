@@ -1,0 +1,1090 @@
+[
+  {
+    "savol": "Yo‘lni bo‘ylama profil bo‘yicha to‘g‘rilash qanday ataladi?",
+    "A": "Nivelirlash",
+    "B": "Rixtovka",
+    "C": "Pardozlash",
+    "D": "Qoqish",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko‘ndalang profilni to‘g‘rilash nimani bartaraf etadi?",
+    "A": "Qiyshiqliklarni",
+    "B": "Egri relslarni",
+    "C": "Shpallarni",
+    "D": "Ballastni",
+    "javob": "A"
+  },
+  {
+    "savol": "Planda to‘g‘rilash qanday nomlanadi?",
+    "A": "Rixtovka",
+    "B": "Nivelirlash",
+    "C": "Zichlash",
+    "D": "Qoqish",
+    "javob": "A"
+  },
+  {
+    "savol": "Shpallar ostidagi ballastni zichlash qanday ataladi?",
+    "A": "Qoqish",
+    "B": "Tekislash",
+    "C": "Kesish",
+    "D": "Yuvish",
+    "javob": "A"
+  },
+  {
+    "savol": "Siklik mashinalar qanday ishlaydi?",
+    "A": "To‘xtab ishlaydi",
+    "B": "Uzluksiz yuradi",
+    "C": "Qo‘lda",
+    "D": "Elektrsiz",
+    "javob": "A"
+  },
+  {
+    "savol": "Uzluksiz ishlaydigan mashinalarning afzalligi nima?",
+    "A": "Yuqori unumdorlik",
+    "B": "Kam og‘irlik",
+    "C": "Arzonlik",
+    "D": "Oddiylik",
+    "javob": "A"
+  },
+  {
+    "savol": "Uzluksiz-siklik mashinaga qaysi mashina kiradi?",
+    "A": "Duomatic 09-32 CSM",
+    "B": "VPR-02",
+    "C": "VPO-3000",
+    "D": "BUM-1M",
+    "javob": "A"
+  },
+  {
+    "savol": "Duomatic mashinasi qayerda ishlab chiqarilgan?",
+    "A": "Avstriya",
+    "B": "Rossiya",
+    "C": "Xitoy",
+    "D": "Germaniya",
+    "javob": "A"
+  },
+  {
+    "savol": "Duomatic 09-32 CSM qaysi firmaga tegishli?",
+    "A": "Plasser & Theurer",
+    "B": "Siemens",
+    "C": "Alstom",
+    "D": "GE",
+    "javob": "A"
+  },
+  {
+    "savol": "Duomatic mashinasi qaysi yillarda ishlab chiqarilgan?",
+    "A": "1991–2018",
+    "B": "2000–2020",
+    "C": "1980–1990",
+    "D": "2010–2024",
+    "javob": "A"
+  },
+  {
+    "savol": "Duomatic mashinasining asosiy vazifasi nima?",
+    "A": "Kompleks to‘g‘rilash va qoqish",
+    "B": "tashish",
+    "C": "Rels kesish",
+    "D": "Payvandlash",
+    "javob": "A"
+  },
+  {
+    "savol": "Duomatic mashinasining ishlash prinsipi qanday?",
+    "A": "Uzluksiz-siklik",
+    "B": "Siklik",
+    "C": "Uzluksiz",
+    "D": "Qo‘lda",
+    "javob": "A"
+  },
+  {
+    "savol": "Duomatic unumdorligi nechta shpal/soat?",
+    "A": "2200–2400",
+    "B": "1000–1200",
+    "C": "3000–3500",
+    "D": "500",
+    "javob": "A"
+  },
+  {
+    "savol": "Duomatic umumiy uzunligi qancha?",
+    "A": "27 630 mm",
+    "B": "20 000 mm",
+    "C": "30 000 mm",
+    "D": "15 000 mm",
+    "javob": "A"
+  },
+  {
+    "savol": "Duomatic kuch agregati quvvati qancha?",
+    "A": "354 kVt",
+    "B": "200 kVt",
+    "C": "500 kVt",
+    "D": "150 kVt",
+    "javob": "A"
+  },
+  {
+    "savol": "Duomatic massasi qancha?",
+    "A": "74–78 t",
+    "B": "50–55 t",
+    "C": "90–100 t",
+    "D": "30 t",
+    "javob": "A"
+  },
+  {
+    "savol": "VPR-02 qaysi tur mashinaga kiradi?",
+    "A": "Siklik",
+    "B": "Uzluksiz",
+    "C": "Qo‘lda",
+    "D": "Yordamchi",
+    "javob": "A"
+  },
+  {
+    "savol": "VPRS mashinalari qayerda qo‘llaniladi?",
+    "A": "Strelkali o‘tkazgichlarda",
+    "B": "Peregonda",
+    "C": "Depo",
+    "D": "Ko‘prikda",
+    "javob": "A"
+  },
+  {
+    "savol": "VPO-3000 qanday mashina?",
+    "A": "Uzluksiz",
+    "B": "Siklik",
+    "C": "Qo‘lda",
+    "D": "Yarim qo‘lda",
+    "javob": "A"
+  },
+  {
+    "savol": "BUM-1M nimaga mo‘ljallangan?",
+    "A": "Ballastni zichlashga",
+    "B": "Rels kesishga",
+    "C": "Yuvishga",
+    "D": "Tashishga",
+    "javob": "A"
+  },
+  {
+    "savol": "DSP qanday vazifani bajaradi?",
+    "A": "Ballastni barqarorlashtiradi",
+    "B": "Relsni kesadi",
+    "C": "Shpal almashtiradi",
+    "D": "Yuvadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qoqish mashinalarida qaysi usul qo‘llaniladi?",
+    "A": "Vibrozichlash",
+    "B": "Presslash",
+    "C": "Qo‘lda",
+    "D": "Isitish",
+    "javob": "A"
+  },
+  {
+    "savol": "Shpal ostidagi ballast qaysi tebranish bilan zichlanadi?",
+    "A": "Gorizontal",
+    "B": "Vertikal",
+    "C": "Aylana",
+    "D": "To‘xtovsiz",
+    "javob": "A"
+  },
+  {
+    "savol": "Siklik mashinalarda ballast qanday zichlanadi?",
+    "A": "Podboykalar bilan",
+    "B": "Valik bilan",
+    "C": "Qo‘l bilan",
+    "D": "Suv bilan",
+    "javob": "A"
+  },
+  {
+    "savol": "Uzluksiz mashinalarda ballast qanday uzatiladi?",
+    "A": "Pona yordamida",
+    "B": "Belkurak bilan",
+    "C": "Qo‘lda",
+    "D": "Nasos bilan",
+    "javob": "A"
+  },
+  {
+    "savol": "Vibroplitalar qayerda qo‘llaniladi?",
+    "A": "Qiyalik va yelkada",
+    "B": "Relsda",
+    "C": "Kabina ichida",
+    "D": "Platformada",
+    "javob": "A"
+  },
+  {
+    "savol": "Dinamik stabilizator qanday yuk bilan ishlaydi?",
+    "A": "Vertikal R yuk bilan",
+    "B": "Og‘irliksiz",
+    "C": "Gorizontal",
+    "D": "Statik",
+    "javob": "A"
+  },
+  {
+    "savol": "Yo‘lni ko‘tarish nimaga tayanadi?",
+    "A": "Ballastga",
+    "B": "Relsga",
+    "C": "Yerga",
+    "D": "Shpalga",
+    "javob": "A"
+  },
+  {
+    "savol": "Yo‘lni siljitish nimaning yordamida amalga oshiriladi?",
+    "A": "Ankerli qurilma",
+    "B": "Arqon",
+    "C": "Zanjir",
+    "D": "Qo‘l",
+    "javob": "A"
+  },
+  {
+    "savol": "VPR mashinalari qaysi qurilma bilan jihozlanadi?",
+    "A": "Rolikli qamrash",
+    "B": "Magnitli",
+    "C": "Tishli",
+    "D": "Zanjirli",
+    "javob": "A"
+  },
+  {
+    "savol": "VPO mashinalari qaysi ushlagichdan foydalanadi?",
+    "A": "Elektromagnit-rolikli",
+    "B": "qisqichli",
+    "C": "Arqonli",
+    "D": "Qo‘lda",
+    "javob": "A"
+  },
+  {
+    "savol": "Universal mashinalar nechta koordinata bo‘yicha ishlaydi?",
+    "A": "Uch koordinata",
+    "B": "Bir koordinata",
+    "C": "Ikki",
+    "D": "To‘rt",
+    "javob": "A"
+  },
+  {
+    "savol": "To‘g‘rilash va qoqish jarayonlari qanday bog‘langan?",
+    "A": "Vaqt va zona bo‘yicha",
+    "B": "vaqt bo‘yicha",
+    "C": "Zona",
+    "D": "Bog‘lanmagan",
+    "javob": "A"
+  },
+  {
+    "savol": "Elektroballasterlar qanday ishda qo‘llaniladi?",
+    "A": "Ballast zichlashda",
+    "B": "Rels kesishda",
+    "C": "Bo‘yashda",
+    "D": "Yuvishda",
+    "javob": "A"
+  },
+  {
+    "savol": "Traktor asosidagi uskunalar nima uchun ishlatiladi?",
+    "A": "Qo‘shimcha ishlar uchun",
+    "B": "Asosiy mashina sifatida",
+    "C": "Tashishda",
+    "D": "Depoda",
+    "javob": "A"
+  },
+  {
+    "savol": "VPR-02 mashinasi nimadan iborat?",
+    "A": "Bazaviy mashina va platforma",
+    "B": "Kabina",
+    "C": "Dvigatel",
+    "D": "Rama",
+    "javob": "A"
+  },
+  {
+    "savol": "Yarim tirkama platforma nimaga xizmat qiladi?",
+    "A": "Asbob va yoqilg‘i tashish",
+    "B": "Rels kesish",
+    "C": "Qoqish",
+    "D": "O‘lchash",
+    "javob": "A"
+  },
+  {
+    "savol": "Qo‘shimcha yonilg‘i baki qayerda joylashgan?",
+    "A": "Platformada",
+    "B": "Kabina ichida",
+    "C": "Ramada",
+    "D": "Aravachada",
+    "javob": "A"
+  },
+  {
+    "savol": "Platforma ajralganda nimaga tayanadi?",
+    "A": "Tayanchga",
+    "B": "Relsga",
+    "C": "Yerga",
+    "D": "Shpalga",
+    "javob": "A"
+  },
+  {
+    "savol": "VPR-02 da nechta kabina bor?",
+    "A": "2 ta",
+    "B": "1 ta",
+    "C": "3 ta",
+    "D": "Yo‘q",
+    "javob": "A"
+  },
+  {
+    "savol": "Kuch agregati qanday dvigatelga ega?",
+    "A": "Dizel",
+    "B": "Elektr",
+    "C": "Gaz",
+    "D": "Bug‘",
+    "javob": "A"
+  },
+  {
+    "savol": "Nivelirlash tizimi nimadan foydalanadi?",
+    "A": "Troslardan",
+    "B": "Zanjirdan",
+    "C": "Simdan",
+    "D": "Magnitdan",
+    "javob": "A"
+  },
+  {
+    "savol": "PRU nima vazifani bajaradi?",
+    "A": "Ko‘tarish-rixtovkalash",
+    "B": "Yoritish",
+    "C": "Tormozlash",
+    "D": "Yuvish",
+    "javob": "A"
+  },
+  {
+    "savol": "Qoqish bloklari nechta shpalni qamrab oladi?",
+    "A": "Ikki shpalni",
+    "B": "Bitta",
+    "C": "To‘rt",
+    "D": "Uch",
+    "javob": "A"
+  },
+  {
+    "savol": "Ballast zichlagichlar qayerda joylashgan?",
+    "A": "Shpallar toretsida",
+    "B": "Rels ustida",
+    "C": "Kabina ichida",
+    "D": "Ramada",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘lchash g‘altagi nimani aniqlaydi?",
+    "A": "Yo‘l holatini",
+    "B": "Tezlikni",
+    "C": "Yoqilg‘ini",
+    "D": "Bosimni",
+    "javob": "A"
+  },
+  {
+    "savol": "Avtoulagichlar nima uchun kerak?",
+    "A": "Mashinalarni ulash uchun",
+    "B": "Signal uchun",
+    "C": "Yoritish uchun",
+    "D": "Yuvish uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "Transmissiya nimani uzatadi?",
+    "A": "Kuchni",
+    "B": "Suvni",
+    "C": "Havoni",
+    "D": "Yog‘ni",
+    "javob": "A"
+  },
+  {
+    "savol": "Yurish aravachasi vazifasi nima?",
+    "A": "Harakatni ta’minlash",
+    "B": "Zichlash",
+    "C": "O‘lchash",
+    "D": "Yoritish",
+    "javob": "A"
+  },
+  {
+    "savol": "Orqa aravacha nimani bajaradi?",
+    "A": "Nazoratni",
+    "B": "Qoqishni",
+    "C": "Kesishni",
+    "D": "Bo‘yashni",
+    "javob": "A"
+  },
+  {
+    "savol": "Qum tizimi nimaga xizmat qiladi?",
+    "A": "Sirpanishni kamaytirish",
+    "B": "Yuvish",
+    "C": "Sovitish",
+    "D": "Yoritish",
+    "javob": "A"
+  },
+  {
+    "savol": "To‘g‘rilash tros-xordasi nimaga kerak?",
+    "A": "Planni to‘g‘rilashga",
+    "B": "Qoqishga",
+    "C": "Kesishga",
+    "D": "Yuvishga",
+    "javob": "A"
+  },
+  {
+    "savol": "Platforma g‘ildirak jufti nima vazifa bajaradi?",
+    "A": "Relsda yurish",
+    "B": "Zichlash",
+    "C": "Ko‘tarish",
+    "D": "Kesish",
+    "javob": "A"
+  },
+  {
+    "savol": "Mashina rama vazifasi nima?",
+    "A": "Konstruktsiyani tutib turish",
+    "B": "Zichlash",
+    "C": "O‘lchash",
+    "D": "Yuvish",
+    "javob": "A"
+  },
+  {
+    "savol": "To‘g‘rilash ishlari qaysi ta’mirlarda bajariladi?",
+    "A": "Barcha turida",
+    "B": "Kapitalda",
+    "C": "Joriyda",
+    "D": "O‘rta",
+    "javob": "A"
+  },
+  {
+    "savol": "Yo‘lni joriy saqlashda nima bajariladi?",
+    "A": "Nivelirlash va qoqish",
+    "B": "Bo‘yash",
+    "C": "Yuvish",
+    "D": "Tekshirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Ballast prizmasi nima uchun pardozlanadi?",
+    "A": "Barqarorlik uchun",
+    "B": "Chiroy uchun",
+    "C": "Og‘irlik uchun",
+    "D": "Tezlik uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "Qoqish mashinalari qaysi qatlamga ta’sir qiladi?",
+    "A": "Ballast qatlamiga",
+    "B": "Yer qatlamiga",
+    "C": "Relsga",
+    "D": "Shpalga",
+    "javob": "A"
+  },
+  {
+    "savol": "Zichlash jarayoni nimani oshiradi?",
+    "A": "Yo‘l barqarorligini",
+    "B": "Shovqinni",
+    "C": "Yoqilg‘i sarfini",
+    "D": "Og‘irlikni",
+    "javob": "A"
+  },
+  {
+    "savol": "Vibrozichlash nimaga asoslanadi?",
+    "A": "Majburiy tebranishga",
+    "B": "Issiqlikka",
+    "C": "Bosimga",
+    "D": "Suvga",
+    "javob": "A"
+  },
+  {
+    "savol": "Uzluksiz mashina qanday harakatlanadi?",
+    "A": "To‘xtamasdan",
+    "B": "To‘xtab",
+    "C": "Orqaga",
+    "D": "Qo‘lda",
+    "javob": "A"
+  },
+  {
+    "savol": "Siklik mashina qachon to‘xtaydi?",
+    "A": "Har shpal yonida",
+    "B": "Oxirida",
+    "C": "Boshlanishda",
+    "D": "Hech qachon",
+    "javob": "A"
+  },
+  {
+    "savol": "Duomatic mashinasida nima uzluksiz?",
+    "A": "Mashinaning harakati",
+    "B": "Qoqish",
+    "C": "Ko‘tarish",
+    "D": "O‘lchash",
+    "javob": "A"
+  },
+  {
+    "savol": "Balashenko tizimi qaysi guruhga kiradi?",
+    "A": "Uzluksiz-siklik",
+    "B": "Siklik",
+    "C": "Uzluksiz",
+    "D": "Qo‘lda",
+    "javob": "A"
+  },
+  {
+    "savol": "Mashinalar tasnifi nimaga asoslanadi?",
+    "A": "Ishlash prinsipi va vazifasiga",
+    "B": "Rangiga",
+    "C": "Og‘irligiga",
+    "D": "Tezligiga",
+    "javob": "A"
+  },
+  {
+    "savol": "Bir vaqtning o‘zida qoqiladigan shpallar soni qanday bo‘lishi mumkin?",
+    "A": "Yakka yoki guruhli",
+    "B": "Yakka",
+    "C": "Guruhli",
+    "D": "Cheklanmagan",
+    "javob": "A"
+  },
+  {
+    "savol": "Ballastni pardozlash nimani yaxshilaydi?",
+    "A": "Profil va barqarorlikni",
+    "B": "Rangni",
+    "C": "Og‘irlikni",
+    "D": "Narxni",
+    "javob": "A"
+  },
+  {
+    "savol": "To‘g‘rilash mashinalari nimani ta’minlaydi?",
+    "A": "Rels-shpal panjarasi holatini",
+    "B": "Signalni",
+    "C": "Yoritishni",
+    "D": "Aloqani",
+    "javob": "A"
+  },
+  {
+    "savol": "Yo‘l to‘g‘rilagich mashinalarining asosiy maqsadi nima?",
+    "A": "Yo‘l geometriyasini saqlash",
+    "B": "Yo‘lovchi tashish",
+    "C": "Yuk tashish",
+    "D": "Bo‘yash",
+    "javob": "A"
+  },
+  {
+    "savol": "Poyezd yuklamalari dastlab qayerga uzatiladi?",
+    "A": "Ballast qatlamiga",
+    "B": "Relsga",
+    "C": "Yer polotnosiga",
+    "D": "Shpalga",
+    "javob": "A"
+  },
+  {
+    "savol": "Ballast qatlamida qanday deformatsiyalar yuzaga keladi?",
+    "A": "Elastik va qoldiq",
+    "B": "Elastik",
+    "C": "Plastik",
+    "D": "Issiqlik",
+    "javob": "A"
+  },
+  {
+    "savol": "Yo‘l deformatsiyalari qanday to‘planadi?",
+    "A": "Notekis",
+    "B": "Bir xil",
+    "C": "Markazda",
+    "D": "Chetda",
+    "javob": "A"
+  },
+  {
+    "savol": "I-darajali chekinish nimani bildiradi?",
+    "A": "Joizlik chegarasida holat",
+    "B": "Avariya holati",
+    "C": "Yangi holat",
+    "D": "Ideal holat",
+    "javob": "A"
+  },
+  {
+    "savol": "Joizlikdan tashqaridagi holat nima deb ataladi?",
+    "A": "Natural holat",
+    "B": "Ideal holat",
+    "C": "Loyihaviy holat",
+    "D": "Statik holat",
+    "javob": "A"
+  },
+  {
+    "savol": "Yo‘l buzilishi nimaga olib keladi?",
+    "A": "Ekspluatatsion cheklovlarga",
+    "B": "Tezlik oshishiga",
+    "C": "Xizmatni bekor qilishga",
+    "D": "Shpal almashuviga",
+    "javob": "A"
+  },
+  {
+    "savol": "Yo‘lni to‘g‘rilashning asosiy maqsadi nima?",
+    "A": "Xavfsiz harakatni ta’minlash",
+    "B": "Tezlikni oshirish",
+    "C": "Ko‘rinishni yaxshilash",
+    "D": "Shovqinni kamaytirish",
+    "javob": "A"
+  },
+  {
+    "savol": "To‘g‘rilash qaysi holatga keltiradi?",
+    "A": "Loyihaviy holatga",
+    "B": "Tabiiy holatga",
+    "C": "Avariya holatiga",
+    "D": "Yangi holatga",
+    "javob": "A"
+  },
+  {
+    "savol": "Podbivka qilish nimani anglatadi?",
+    "A": "Ballastni zichlashni",
+    "B": "Rels kesishni",
+    "C": "Shpal almashtirishni",
+    "D": "Yo‘l yuvishni",
+    "javob": "A"
+  },
+  {
+    "savol": "Yo‘l xo‘jaligida ishlar nima yordamida bajariladi?",
+    "A": "Mashina va mexanizmlar bilan",
+    "B": "Qo‘lda",
+    "C": "Traktor bilan",
+    "D": "Kran bilan",
+    "javob": "A"
+  },
+  {
+    "savol": "Mashinalar qanday belgilar bo‘yicha tasniflanadi?",
+    "A": "Ishlash davriyligi va vazifasi bo‘yicha",
+    "B": "Rangiga ko‘ra",
+    "C": "Og‘irligiga ko‘ra",
+    "D": "Narxiga ko‘ra",
+    "javob": "A"
+  },
+  {
+    "savol": "Siklik ta’sirga ega mashinaga qaysi kiradi?",
+    "A": "VPR-02M",
+    "B": "VPO-3000",
+    "C": "DSP",
+    "D": "BUM-1M",
+    "javob": "A"
+  },
+  {
+    "savol": "VPRS mashinalari qanday turga kiradi?",
+    "A": "Universal",
+    "B": "Magistral",
+    "C": "Yordamchi",
+    "D": "Stasionar",
+    "javob": "A"
+  },
+  {
+    "savol": "Unimat qaysi mashina turiga kiradi?",
+    "A": "VPRS turiga",
+    "B": "VPO turiga",
+    "C": "DSP turiga",
+    "D": "BUM turiga",
+    "javob": "A"
+  },
+  {
+    "savol": "Uzluksiz-siklik mashinaga qaysi kiradi?",
+    "A": "Duomatic 09-32 CSM",
+    "B": "VPR-02M",
+    "C": "BUM-1M",
+    "D": "VPO-3-3000",
+    "javob": "A"
+  },
+  {
+    "savol": "Dynamic Stophexpress qaysi guruhga kiradi?",
+    "A": "Uzluksiz-siklik",
+    "B": "Siklik",
+    "C": "Uzluksiz",
+    "D": "Qo‘lda",
+    "javob": "A"
+  },
+  {
+    "savol": "VPO-3-3000 qanday mashina?",
+    "A": "Uzluksiz ta’sirli",
+    "B": "Siklik",
+    "C": "Qo‘lda",
+    "D": "Yarim avtomat",
+    "javob": "A"
+  },
+  {
+    "savol": "Shpal qutilarini zichlash qaysi mashinada bajariladi?",
+    "A": "BUM-1M",
+    "B": "VPR",
+    "C": "VPO",
+    "D": "DSP",
+    "javob": "A"
+  },
+  {
+    "savol": "Ballastni yakuniy barqarorlashtirish qaysi mashina bilan?",
+    "A": "DSP",
+    "B": "VPR",
+    "C": "BUM",
+    "D": "VPRS",
+    "javob": "A"
+  },
+  {
+    "savol": "DSP-S nimaga xizmat qiladi?",
+    "A": "Ballastni stabilizatsiyalashga",
+    "B": "Relsni kesishga",
+    "C": "Yo‘lni yuvishga",
+    "D": "Shpal almashtirishga",
+    "javob": "A"
+  },
+  {
+    "savol": "G‘ildirak juftligidan tushadigan yuklama qancha?",
+    "A": "100–250 kN",
+    "B": "50–80 kN",
+    "C": "300–400 kN",
+    "D": "10–50 kN",
+    "javob": "A"
+  },
+  {
+    "savol": "Qoldiq deformatsiyalar nimaga olib keladi?",
+    "A": "Profil va plandagi buzilishlarga",
+    "B": "Tezlik oshishiga",
+    "C": "Shovqin kamayishiga",
+    "D": "Barqarorlikka",
+    "javob": "A"
+  },
+  {
+    "savol": "Elastik deformatsiya qachon namoyon bo‘ladi?",
+    "A": "Yuk ostida",
+    "B": "Yuk bo‘lmaganda",
+    "C": "Doimiy",
+    "D": "Ta’mirda",
+    "javob": "A"
+  },
+  {
+    "savol": "Rels iplarining cho‘kishi qaysi yo‘nalishda?",
+    "A": "Bo‘ylama profilda",
+    "B": "Ko‘ndalang",
+    "C": "Vertikalgina",
+    "D": "Yonlama",
+    "javob": "A"
+  },
+  {
+    "savol": "Siljish qaysi holatda yuz beradi?",
+    "A": "Planda",
+    "B": "Profil bo‘yicha",
+    "C": "Sath bo‘yicha",
+    "D": "Balansda",
+    "javob": "A"
+  },
+  {
+    "savol": "Qiyshiqliklar qaysi yo‘nalishda aniqlanadi?",
+    "A": "Sath bo‘yicha",
+    "B": "Planda",
+    "C": "Bo‘ylama",
+    "D": "Diagonal",
+    "javob": "A"
+  },
+  {
+    "savol": "Barqarorlashtirishning asosiy usuli nima?",
+    "A": "Zichlashtirish",
+    "B": "Yuvish",
+    "C": "Kesish",
+    "D": "Qoplash",
+    "javob": "A"
+  },
+  {
+    "savol": "Zichlash nimani oshiradi?",
+    "A": "Zarrachalar konsentratsiyasini",
+    "B": "Namlikni",
+    "C": "Bo‘shliqlarni",
+    "D": "Hajmni",
+    "javob": "A"
+  },
+  {
+    "savol": "Ballast qanday muhit sifatida qaraladi?",
+    "A": "Sochiluvchan muhit",
+    "B": "Qattiq jism",
+    "C": "Suyuq jism",
+    "D": "Gaz",
+    "javob": "A"
+  },
+  {
+    "savol": "Zichlashda ballast nimani yo‘qotadi?",
+    "A": "Energiya yutish qobiliyatini",
+    "B": "Og‘irlikni",
+    "C": "Mustahkamlikni",
+    "D": "Zichlikni",
+    "javob": "A"
+  },
+  {
+    "savol": "Chegaraviy holatda ballast nimani yo‘qotadi?",
+    "A": "Zichlash qobiliyatini",
+    "B": "Mustahkamlikni",
+    "C": "Og‘irlikni",
+    "D": "Hajmni",
+    "javob": "A"
+  },
+  {
+    "savol": "Normal ekspluatatsiya qaysi davrga to‘g‘ri keladi?",
+    "A": "T2",
+    "B": "T1",
+    "C": "T3",
+    "D": "T4",
+    "javob": "A"
+  },
+  {
+    "savol": "Ballast cho‘kindilari nimadan hosil bo‘ladi?",
+    "A": "Kontaktlarning zaiflashishidan",
+    "B": "Rels sinishidan",
+    "C": "Shpal chirishidan",
+    "D": "Mahkamlagichdan",
+    "javob": "A"
+  },
+  {
+    "savol": "Buzilish bosqichi qaysi davrda kuchayadi?",
+    "A": "T3 va T4 da",
+    "B": "T1 da",
+    "C": "T2 da",
+    "D": "Boshlanishda",
+    "javob": "A"
+  },
+  {
+    "savol": "Avariya davrida nima sodir bo‘ladi?",
+    "A": "Yuk ko‘tarish qobiliyati yo‘qoladi",
+    "B": "Barqarorlik oshadi",
+    "C": "Zichlash kuchayadi",
+    "D": "Ideal holat",
+    "javob": "A"
+  },
+  {
+    "savol": "Zichlash sifati nimaga bog‘liq?",
+    "A": "Ballast teksturasiga",
+    "B": "Rels rangiga",
+    "C": "Shpal soniga",
+    "D": "Yoqilg‘iga",
+    "javob": "A"
+  },
+  {
+    "savol": "Zamonaviy yo‘l mashinalari qaysi qatlamga tayanadi?",
+    "A": "Shag‘al qatlamiga",
+    "B": "Qum qatlamiga",
+    "C": "Betonga",
+    "D": "Tuproqqa",
+    "javob": "A"
+  },
+  {
+    "savol": "Shag'al tosh qanday muhit?",
+    "A": "Sochiluvchan",
+    "B": "Qattiq",
+    "C": "Suyuq",
+    "D": "Elastik",
+    "javob": "A"
+  },
+  {
+    "savol": "Ichki tekstura nimaga ta’sir qiladi?",
+    "A": "Yuk ko‘tarish qobiliyatiga",
+    "B": "Rangga",
+    "C": "Og‘irlikka",
+    "D": "Narxga",
+    "javob": "A"
+  },
+  {
+    "savol": "Bo‘shroq struktura nimani kamaytiradi?",
+    "A": "Yuk ko‘tarish qobiliyatini",
+    "B": "Zichlikni",
+    "C": "Hajmni",
+    "D": "Og‘irlikni",
+    "javob": "A"
+  },
+  {
+    "savol": "Ballast fraksiyasi qaysi oraliqda?",
+    "A": "25–60 mm",
+    "B": "5–20 mm",
+    "C": "10–30 mm",
+    "D": "60–100 mm",
+    "javob": "A"
+  },
+  {
+    "savol": "Ballast prizma holati nima bilan tavsiflanadi?",
+    "A": "Zichlash sifati bilan",
+    "B": "Rang bilan",
+    "C": "Hajm bilan",
+    "D": "Og‘irlik bilan",
+    "javob": "A"
+  },
+  {
+    "savol": "Qoldiq cho‘kindilar tezligi nimaga bog‘liq?",
+    "A": "Zichlanish darajasiga",
+    "B": "Tezlikka",
+    "C": "Haroratga",
+    "D": "Namlikka",
+    "javob": "A"
+  },
+  {
+    "savol": "Zichlanish notekisligi nimani keltirib chiqaradi?",
+    "A": "Fazoviy notekislikni",
+    "B": "Barqarorlikni",
+    "C": "Ideal holatni",
+    "D": "Bir xillikni",
+    "javob": "A"
+  },
+  {
+    "savol": "Hn nimani bildiradi?",
+    "A": "Dastlabki qatlam qalinligini",
+    "B": "Oxirgi qalinlikni",
+    "C": "Bosimni",
+    "D": "Zichlikni",
+    "javob": "A"
+  },
+  {
+    "savol": "Hyu nimani bildiradi?",
+    "A": "Siqilgandan keyingi qalinlikni",
+    "B": "Boshlang‘ich holatni",
+    "C": "Yuklamani",
+    "D": "Tezlikni",
+    "javob": "A"
+  },
+  {
+    "savol": "Nisbiy cho‘kish E nimaga bog‘liq?",
+    "A": "Tonnaj T ga",
+    "B": "Tezlikka",
+    "C": "Vaqtga",
+    "D": "Namlikka",
+    "javob": "A"
+  },
+  {
+    "savol": "Zichlash modeli nimaga o‘xshatiladi?",
+    "A": "Harorat oshish jarayoniga",
+    "B": "Bosim kamayishiga",
+    "C": "Yuvishga",
+    "D": "Eritishga",
+    "javob": "A"
+  },
+  {
+    "savol": "Zichlashda E nimaga intiladi?",
+    "A": "To‘yinishga",
+    "B": "Nolga",
+    "C": "Cheksizlikka",
+    "D": "O‘zgarishga",
+    "javob": "A"
+  },
+  {
+    "savol": "Ballast stabilizatsiyasi qachon yuz beradi?",
+    "A": "Zichlash orqali",
+    "B": "Yuvish orqali",
+    "C": "Kesish orqali",
+    "D": "Quritish orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Yo‘l mashinalarining asosiy vazifasi nima?",
+    "A": "Harakat xavfsizligini ta’minlash",
+    "B": "Tezlikni oshirish",
+    "C": "Xarajatni kamaytirish",
+    "D": "Ko‘rinishni yaxshilash",
+    "javob": "A"
+  },
+  {
+    "savol": "Yo‘l to‘g‘rilash ishlari qachon bajariladi?",
+    "A": "Davriy ravishda",
+    "B": "Avariyada",
+    "C": "Yangi yo‘lda",
+    "D": "Bir martalik",
+    "javob": "A"
+  },
+  {
+    "savol": "Ballast prizmasi nimani qabul qiladi?",
+    "A": "Ekspluatatsion yuklamani",
+    "B": "Issiqlikni",
+    "C": "Bosimni emas",
+    "D": "statik kuchni",
+    "javob": "A"
+  },
+  {
+    "savol": "Zichlash jarayonida ballast qanday bo‘ladi?",
+    "A": "Tartibliroq",
+    "B": "Bo‘shroq",
+    "C": "Suyuq",
+    "D": "Yumshoq",
+    "javob": "A"
+  },
+  {
+    "savol": "Zarrachalar orasidagi bog‘lanish qachon barqaror?",
+    "A": "T2 davrida",
+    "B": "T4 da",
+    "C": "Boshlanishda",
+    "D": "Ta’mirsiz",
+    "javob": "A"
+  },
+  {
+    "savol": "Buzilishda ballast massasi qayerga ko‘chadi?",
+    "A": "Qo‘shni hajmlarga",
+    "B": "Markazga",
+    "C": "Yuqoriga",
+    "D": "Joyida qoladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Tekstura buzilganda qanday bo‘ladi?",
+    "A": "Kamroq tartibli",
+    "B": "Mukammal",
+    "C": "Ideal",
+    "D": "Qattiq",
+    "javob": "A"
+  },
+  {
+    "savol": "Zichlash sifati nimani belgilaydi?",
+    "A": "Yo‘l xizmat muddatini",
+    "B": "Rels rangini",
+    "C": "Shpal turini",
+    "D": "Signalni",
+    "javob": "A"
+  },
+  {
+    "savol": "Sochiluvchan jism nimadan farq qiladi?",
+    "A": "Qattiq va suyuqlikdan",
+    "B": "Qattiqdan",
+    "C": "Suyuqlikdan",
+    "D": "Gazdan",
+    "javob": "A"
+  },
+  {
+    "savol": "Tebranishlar ballastga qanday ta’sir qiladi?",
+    "A": "Shaklini yo‘qotadi",
+    "B": "Qotiradi",
+    "C": "Suyultiradi",
+    "D": "Erg‘itadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ichki ishqalanish nimani oshiradi?",
+    "A": "Barqarorlikni",
+    "B": "Bo‘shliqlarni",
+    "C": "Namlikni",
+    "D": "Hajmni",
+    "javob": "A"
+  },
+  {
+    "savol": "Zichlashda energiya qayerga ketadi?",
+    "A": "Ichki strukturaga",
+    "B": "Tashqi muhitga",
+    "C": "Issiqlikka",
+    "D": "Suvga",
+    "javob": "A"
+  },
+  {
+    "savol": "Yo‘l panjarasi nimani ta’minlaydi?",
+    "A": "Yukni qayta taqsimlashni",
+    "B": "Ko‘rinishni",
+    "C": "Tezlikni",
+    "D": "Signalni",
+    "javob": "A"
+  },
+  {
+    "savol": "Ballast qatlamining vazifasi nima?",
+    "A": "Yukni yerga uzatish",
+    "B": "Relsni bo‘yash",
+    "C": "Shpalni almashtirish",
+    "D": "Signal berish",
+    "javob": "A"
+  },
+  {
+    "savol": "Ekspluatatsion cheklovlar nimaga bog‘liq?",
+    "A": "Yo‘l holatiga",
+    "B": "Lokomotiv turiga",
+    "C": "Vagon soniga",
+    "D": "Ob-havoga",
+    "javob": "A"
+  },
+  {
+    "savol": "Yo‘lni pardozlash nimani yaxshilaydi?",
+    "A": "Geometrik holatni",
+    "B": "Rangni",
+    "C": "Og‘irlikni",
+    "D": "Narxni",
+    "javob": "A"
+  },
+  {
+    "savol": "Rels-shpal panjarasi qanday yuklarni qabul qiladi?",
+    "A": "Statik va dinamik",
+    "B": "Statik",
+    "C": "Dinamik",
+    "D": "Issiqlik",
+    "javob": "A"
+  }
+]
