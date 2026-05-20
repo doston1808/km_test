@@ -1,0 +1,1994 @@
+[
+  {
+    "savol": "Issiq bug‘ bilan sterilizatsiya bu —",
+    "A": "Fizik usul",
+    "B": "Kimyoviy usul",
+    "C": "Biologik usul",
+    "D": "Kombinatsiyalashgan usul",
+    "javob": "A"
+  },
+  {
+    "savol": "Mikroorganizmlarni o‘sishini to‘xtatish nima deyiladi?",
+    "A": "Bakteriostatik ta’sir",
+    "B": "Bakteriotsid ta’sir",
+    "C": "Antiseptik ta’sir",
+    "D": "Kimyoviy reaksiyalar",
+    "javob": "A"
+  },
+  {
+    "savol": "Mikrobni o‘ldiradigan omil qanday ataladi?",
+    "A": "Bakteriotsid",
+    "B": "Bakteriostatik",
+    "C": "Dezinfektor",
+    "D": "Antigen",
+    "javob": "A"
+  },
+  {
+    "savol": "Boshqa xonalarga laboratoriya xalatida chiqish mumkinmi?",
+    "A": "Mumkin emas",
+    "B": "Faqat yo'lakka",
+    "C": "Ruxsat etiladi",
+    "D": "Zarurat bo'lsa",
+    "javob": "A"
+  },
+  {
+    "savol": "Laminar boksning (Laminar flow) asosiy vazifasi nima?",
+    "A": "Steril ish muhitini yaratish",
+    "B": "Namunani muzlatish",
+    "C": "Eritmani aralashtirish",
+    "D": "Mikrobni ko'paytirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Virusologik laboratoriyada viruslarni yetishtirish uchun nima ishlatiladi?",
+    "A": "Tovuq embrioni yoki hujayra kulturasi",
+    "B": "Oddiy go'shtli bulyon",
+    "C": "Shakarli suv",
+    "D": "Qattiq agar",
+    "javob": "A"
+  },
+  {
+    "savol": "Ish yakunida laboratoriya stoli yuzasiga qanday ishlov beriladi?",
+    "A": "Dezinfeksiyalovchi eritma bilan",
+    "B": "Faqat quruq latta bilan",
+    "C": "Suv bilan",
+    "D": "Ishlov berilmaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Patogen mikroorganizmlar bilan ishlashda qaysi xavfsizlik darajasi eng yuqori hisoblanadi?",
+    "A": "BSL-4",
+    "B": "BSL-1",
+    "C": "BSL-2",
+    "D": "BSL-3",
+    "javob": "A"
+  },
+  {
+    "savol": "Termostat (inkubator) laboratoriyada nima uchun kerak?",
+    "A": "Mikroblarni o'stirish uchun doimiy haroratni saqlash",
+    "B": "Namunalarni quritish",
+    "C": "Shisha idishlarni yuvish",
+    "D": "Viruslarni o'ldirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Laboratoriyada kislota yoki ishqor to'kilsa, birinchi navbatda nima qilinadi?",
+    "A": "Mas'ul xodimga xabar beriladi",
+    "B": "Suv bilan yuviladi",
+    "C": "E'tibor berilmaydi",
+    "D": "Qog'oz bilan artiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Bakterial halqa (petlya) qanday usulda sterillanadi?",
+    "A": "Olovda qizdirish orqali",
+    "B": "Suvda yuvish orqali",
+    "C": "Spirt bilan artish",
+    "D": "Muzlatish orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Paster pechi (quruq issiqlik shkafi) necha darajada sterillaydi?",
+    "A": "160-180°C",
+    "B": "50-60°C",
+    "C": "100°C",
+    "D": "300-400°C",
+    "javob": "A"
+  },
+  {
+    "savol": "Gepa-filtrlar (HEPA) qanday vazifani bajaradi?",
+    "A": "Havoni mikroorganizmlardan tozalash",
+    "B": "Suvni filtrlash",
+    "C": "Yorug'likni yo'naltirish",
+    "D": "Suyuqlikni filtrlash",
+    "javob": "A"
+  },
+  {
+    "savol": "Virusologik tadqiqotlarda \"Tsitopatik effekt\" (TPE) nimani anglatadi?",
+    "A": "Virus ta'sirida hujayraning zararlanishi",
+    "B": "Bakteriyaning bo'linishi",
+    "C": "Muhitning rang o'zgarishi",
+    "D": "Suyuqlikning bug'lanishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Bakteriya hujayrasining doimiy tarkibiy qismini ko'rsating.",
+    "A": "Sitoplazmatik membrana",
+    "B": "Kapsula",
+    "C": "Xivchin",
+    "D": "Spora",
+    "javob": "A"
+  },
+  {
+    "savol": "Bakteriya hujayra devorining asosini qaysi polimer tashkil etadi?",
+    "A": "Peptidoglikan",
+    "B": "Xitin",
+    "C": "Sellyuloza",
+    "D": "Glikogen",
+    "javob": "A"
+  },
+  {
+    "savol": "Bakteriyalarda oqsil sintezi qaysi organoidda amalga oshadi?",
+    "A": "Ribosoma",
+    "B": "Mitoxondriya",
+    "C": "Lizosoma",
+    "D": "Golji apparati",
+    "javob": "A"
+  },
+  {
+    "savol": "Bakteriya xivchinlarining asosiy funksiyasi nima?",
+    "A": "Harakatlanish",
+    "B": "Ko'payish",
+    "C": "Oziq modda to'plash",
+    "D": "Himoya",
+    "javob": "A"
+  },
+  {
+    "savol": "Bakteriya hujayrasidagi irsiy ma'lumot qayerda saqlanadi?",
+    "A": "Nukleoidda",
+    "B": "Yadroda",
+    "C": "Ribosomada",
+    "D": "Mezosomada",
+    "javob": "A"
+  },
+  {
+    "savol": "Bakteriya kapsulasi asosan nimadan iborat?",
+    "A": "Polisaxaridlar",
+    "B": "Yog'lar",
+    "C": "Nuklein kislotalar",
+    "D": "Minerallar",
+    "javob": "A"
+  },
+  {
+    "savol": "Gram-musbat bakteriyalar hujayra devorida qaysi kislota ko'p miqdorda bo'ladi?",
+    "A": "Teyxoat kislotasi",
+    "B": "L-amino kislota",
+    "C": "Sulfat kislota",
+    "D": "Sirka kislota",
+    "javob": "A"
+  },
+  {
+    "savol": "Bakteriya sporasi qanday vazifani bajaradi?",
+    "A": "Noqulay sharoitdan saqlanish",
+    "B": "Ko'payish",
+    "C": "Oziqlanish",
+    "D": "Nafas olish",
+    "javob": "A"
+  },
+  {
+    "savol": "Mezosomalar qaysi tuzilmaning ichkariga botib kirishidan hosil bo'ladi?",
+    "A": "Sitoplazmatik membrana",
+    "B": "Hujayra devori",
+    "C": "Kapsula",
+    "D": "Nukleoid",
+    "javob": "A"
+  },
+  {
+    "savol": "Volyutin donachalari qanday kiritmalar sirasiga kiradi?",
+    "A": "Energetika zaxirasi",
+    "B": "Pigmentlar",
+    "C": "Kristallar",
+    "D": "Vitaminlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Bakteriya xivchinlari qaysi oqsildan tashkil topgan?",
+    "A": "Flagellin",
+    "B": "Tubulin",
+    "C": "Aktin",
+    "D": "Keratin",
+    "javob": "A"
+  },
+  {
+    "savol": "Pili (fimbriyalar)ning asosiy vazifasi nima?",
+    "A": "Adgeziya",
+    "B": "Harakatlanish",
+    "C": "Fotosintez",
+    "D": "Spora hosil qilish",
+    "javob": "A"
+  },
+  {
+    "savol": "Gram-manfiy bakteriyalar hujayra devorining tashqi qavatida nima mavjud?",
+    "A": "Lipopolisaxarid",
+    "B": "Oqsil",
+    "C": "Xitin qavati",
+    "D": "Mumsimon qavat",
+    "javob": "A"
+  },
+  {
+    "savol": "Bakteriya sitoplazmasining kimyoviy tarkibida suv miqdori o'rtacha qancha?",
+    "A": "75-85%",
+    "B": "10-20%",
+    "C": "50-60%",
+    "D": "95-98%",
+    "javob": "A"
+  },
+  {
+    "savol": "Plazmidalar nima?",
+    "A": "Xromosomadan tashqari DNK halqasi",
+    "B": "Oqsil donachalari",
+    "C": "RNK bo'laklari",
+    "D": "Mezosoma qismlari",
+    "javob": "A"
+  },
+  {
+    "savol": "Bakteriya hujayrasida ATF sintezi qayerda kechadi?",
+    "A": "Sitoplazmatik membranada",
+    "B": "Mitoxondriyada",
+    "C": "Yadroda",
+    "D": "Kapsulada",
+    "javob": "A"
+  },
+  {
+    "savol": "Spora hosil qilish jarayoni qanday ataladi?",
+    "A": "Sporulyatsiya",
+    "B": "Vegetatsiya",
+    "C": "Transformatsiya",
+    "D": "Transduksiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Bakteriya hujayrasining osmotik bosimini nima tartibga soladi?",
+    "A": "Hujayra devori",
+    "B": "Xivchin",
+    "C": "Pili",
+    "D": "Spora",
+    "javob": "A"
+  },
+  {
+    "savol": "Bakteriyalarda \"L-shakllar\" qanday paydo bo'ladi?",
+    "A": "Hujayra devori yo'qolganda",
+    "B": "Xivchin uzilganda",
+    "C": "Spora o'sganda",
+    "D": "DNK nobud bo'lganda",
+    "javob": "A"
+  },
+  {
+    "savol": "Glikokaliks nima?",
+    "A": "Tashqi shilimshiq qavat",
+    "B": "Ichki membrana",
+    "C": "Yadro qobig'i",
+    "D": "Oqsil sintezlovchi markaz",
+    "javob": "A"
+  },
+  {
+    "savol": "Spora nega tashqi muhitga chidamli?",
+    "A": "Suv miqdori kam va dipikolinat kislota borligi uchun",
+    "B": "Tarkibida suv ko'pligi uchun",
+    "C": "Yupqa qobig'i uchun",
+    "D": "ATF ko'pligi uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "Monotrix bakteriyalar qanday xivchinga ega?",
+    "A": "Bir uchida bitta xivchin",
+    "B": "Har tomonida ko'p xivchin",
+    "C": "Ikki uchida tutam xivchin",
+    "D": "Xivchini yo'q",
+    "javob": "A"
+  },
+  {
+    "savol": "Bakteriya DNKsi qanday shaklda bo'ladi?",
+    "A": "Ikki zanjirli halqasimon",
+    "B": "Bir zanjirli chiziqli",
+    "C": "To'rt zanjirli",
+    "D": "Faqat RNKdan iborat",
+    "javob": "A"
+  },
+  {
+    "savol": "Gram usulida bo'yalganda Gram-musbat bakteriyalar qanday rangga kiradi?",
+    "A": "To'q binafsha",
+    "B": "Pushti",
+    "C": "Sariq",
+    "D": "Yashil",
+    "javob": "A"
+  },
+  {
+    "savol": "Peritrix bakteriyalar qanday tavsiflanadi?",
+    "A": "Hujayra bo'ylab xivchinlar tarqalgan",
+    "B": "Faqat bir qutbda xivchin",
+    "C": "Xivchinlari ichkarida",
+    "D": "Xivchini juda kalta",
+    "javob": "A"
+  },
+  {
+    "savol": "Protoplast va sferoplast o'rtasidagi asosiy farq nimada?",
+    "A": "Hujayra devorining qisman yoki to'liq saqlanganligi",
+    "B": "DNK miqdori",
+    "C": "Xivchin soni",
+    "D": "Ribosoma hajmi",
+    "javob": "A"
+  },
+  {
+    "savol": "Bakteriya hujayrasidagi 70S ribosomaning subbirliklari qaysilar?",
+    "A": "50S va 30S",
+    "B": "60S va 40S",
+    "C": "40S va 30S",
+    "D": "50S va 20S",
+    "javob": "A"
+  },
+  {
+    "savol": "Kapsulani aniqlashda qaysi bo'yash usulidan foydalaniladi?",
+    "A": "Burri-Gins",
+    "B": "Gram",
+    "C": "Tsil-Nilsen",
+    "D": "Romanovskiy-Gimza",
+    "javob": "A"
+  },
+  {
+    "savol": "Spora markazida qaysi moddaning kalsiyli tuzi yuqori konsentratsiyada bo'ladi?",
+    "A": "Dipikolinat kislota",
+    "B": "Piruvat kislota",
+    "C": "Sut kislotasi",
+    "D": "Fosfat kislota",
+    "javob": "A"
+  },
+  {
+    "savol": "Avtoklavda sterillashning asosiy ishchi omili nima?",
+    "A": "Yuqori bosimli to‘yingan bug‘",
+    "B": "Issiq quruq havo",
+    "C": "Ultrabinafsha nur",
+    "D": "Kimyoviy gaz",
+    "javob": "A"
+  },
+  {
+    "savol": "Dezinfeksiya tushunchasining ma'nosi nima?",
+    "A": "Patogen mikroblarni yo‘qotish",
+    "B": "Mikroblarni ko‘paytirish",
+    "C": "Barcha mikroblarni yo‘qotish",
+    "D": "Faqat asboblarni yuvish",
+    "javob": "A"
+  },
+  {
+    "savol": "Material olishda ishlatiladigan vositalar qanday bo'lishi shart?",
+    "A": "Steril holatda",
+    "B": "Faqat toza",
+    "C": "Dezinfeksiyalangan",
+    "D": "Yangi bo'lsa kifoya",
+    "javob": "A"
+  },
+  {
+    "savol": "Qon sachragan yuzalarga birinchi navbatda qanday ishlov beriladi?",
+    "A": "Dezinfektant bilan",
+    "B": "Suv bilan",
+    "C": "Quruq latta bilan",
+    "D": "Hech narsa qilinmaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Tish karashidan material olishda nima ishlatiladi?",
+    "A": "Steril ekskavator yoki zond",
+    "B": "Oddiy paxta",
+    "C": "Barmoq bilan",
+    "D": "Qog‘oz salfetka",
+    "javob": "A"
+  },
+  {
+    "savol": "Mikroblarni to‘liq (sporalari bilan) yo‘qotish jarayoni nima?",
+    "A": "Sterilizatsiya",
+    "B": "Dezinfeksiya",
+    "C": "Deratizatsiya",
+    "D": "Dezinseksiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Tish kanallaridan material olish uchun nima ishlatiladi?",
+    "A": "Steril qog‘ozli fiyerlar",
+    "B": "Shisha tayoqcha",
+    "C": "Pinset",
+    "D": "Skalpel",
+    "javob": "A"
+  },
+  {
+    "savol": "Qo‘l terisiga qon sachrasa, nima bilan artiladi?",
+    "A": "70% li etil spirti",
+    "B": "Suv bilan",
+    "C": "10% li xloramin",
+    "D": "Toza latta",
+    "javob": "A"
+  },
+  {
+    "savol": "Avtoklavda 2 atm bosimda harorat necha daraja bo'ladi?",
+    "A": "132 °C",
+    "B": "123 °C",
+    "C": "122 °C",
+    "D": "133 °C",
+    "javob": "A"
+  },
+  {
+    "savol": "Milk egati suyuqligini olishning eng ma'qul usuli?",
+    "A": "Adsorbsion qog‘oz tasmacha",
+    "B": "Shprits bilan tortish",
+    "C": "Paxtali tampon",
+    "D": "Milkni kesish",
+    "javob": "A"
+  },
+  {
+    "savol": "Paster pechida 180 °C da sterillash necha daqiqa davom etadi?",
+    "A": "60 daqiqa",
+    "B": "15 daqiqa",
+    "C": "5 daqiqa",
+    "D": "2 soat",
+    "javob": "A"
+  },
+  {
+    "savol": "So‘lak bezlari sekretini olishda qayerdan namuna olinadi?",
+    "A": "Bezning chiqarish yo‘lidan",
+    "B": "Til ustidan",
+    "C": "Tish yuzasidan",
+    "D": "Milk chetidan",
+    "javob": "A"
+  },
+  {
+    "savol": "Kimyoviy sterilizatsiya (sovuq usul) uchun nima ishlatiladi?",
+    "A": "6% vodorod peroksid",
+    "B": "3% vodorod peroksid",
+    "C": "0.5% xloramin",
+    "D": "Furatsilin",
+    "javob": "A"
+  },
+  {
+    "savol": "Biologik suyuqlik to‘kilgan polga qanday ishlov beriladi?",
+    "A": "3% xloramin eritmasi bilan",
+    "B": "Sovunli suv bilan",
+    "C": "Faqat quruq artiladi",
+    "D": "Isitiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Karies bo‘shlig‘idan material olish tartibi qanday?",
+    "A": "Yumshagan dentin qirib olinadi",
+    "B": "Faqat so‘lak olinadi",
+    "C": "Bo‘shliq yuviladi",
+    "D": "Kavak quritilmaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Shisha idishlar va metall asboblarni quruq usulda sterillash joyi?",
+    "A": "Quruq issiqlik shkafi",
+    "B": "Avtoklav",
+    "C": "Muzlatgich",
+    "D": "UB-kamera",
+    "javob": "A"
+  },
+  {
+    "savol": "Tish-milk cho‘ntagidan surtma olishdan oldin nima qilinadi?",
+    "A": "Tish usti karashdan tozalanadi",
+    "B": "Milk kesiladi",
+    "C": "Bemorga ovqat beriladi",
+    "D": "Suv bilan chayiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Bakterial sporalarni o‘ldirish uchun eng samarali usul?",
+    "A": "Avtoklavlash",
+    "B": "Qaynatish",
+    "C": "UB-nurlanish",
+    "D": "Muzlatish",
+    "javob": "A"
+  },
+  {
+    "savol": "Materialni laboratoriyaga yuborish muddati?",
+    "A": "Maksimal 2 soat ichida",
+    "B": "24 soat ichida",
+    "C": "12 soat ichida",
+    "D": "3 kundan keyin",
+    "javob": "A"
+  },
+  {
+    "savol": "Aseptika nima?",
+    "A": "Infeksiyani yaraga tushishidan saqlash",
+    "B": "Yaradagi mikrobni o‘ldirish",
+    "C": "Faqat asbobni yuvish",
+    "D": "Mikroblarni o‘stirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Stomatologik borlar qanday sterillanishi kerak?",
+    "A": "Quruq issiqlik yoki avtoklavda",
+    "B": "Faqat spirtda artiladi",
+    "C": "Issiq suvda yuviladi",
+    "D": "UB-nurda 5 daqiqa",
+    "javob": "A"
+  },
+  {
+    "savol": "Antiseptika nima?",
+    "A": "Tirik to'qimadagi mikrobni o'ldirish",
+    "B": "Binoni tozalash",
+    "C": "Havoni almashtirish",
+    "D": "Asbobni quritish",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko‘zga qon sachraganda qaysi eritma bilan yuviladi?",
+    "A": "0.01% kaliy permanganat",
+    "B": "0.05% spirt",
+    "C": "0.25% yod",
+    "D": "Toza atir",
+    "javob": "A"
+  },
+  {
+    "savol": "Laboratoriya idishlarini sterillashdan oldin nima qilinadi?",
+    "A": "Yuvish va quritish",
+    "B": "Faqat artiladi",
+    "C": "Hech narsa qilinmaydi",
+    "D": "Laklanadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Milk suyuqligi miqdori qaysi usul bilan aniqlanadi?",
+    "A": "Periotron apparati yordamida",
+    "B": "Mikroskopda",
+    "C": "Rangiga qarab",
+    "D": "Hidiga qarab",
+    "javob": "A"
+  },
+  {
+    "savol": "Sterillangan asboblarni saqlash muddati (yopiq boksda)?",
+    "A": "3 sutka",
+    "B": "1 sutka",
+    "C": "10 sutka",
+    "D": "15 sutka",
+    "javob": "A"
+  },
+  {
+    "savol": "Dezinfeksiyaning mexanik usuli nima?",
+    "A": "Yuvish va artish",
+    "B": "Olovda kuydirish",
+    "C": "Xlorlash",
+    "D": "UB-nur berish",
+    "javob": "A"
+  },
+  {
+    "savol": "Avtoklavda bosim tushib ketsa nima bo'ladi?",
+    "A": "Sterillik ta'minlanmaydi",
+    "B": "Asboblar erib ketadi",
+    "C": "Yaxshi sterillanadi",
+    "D": "Hech narsa bo'lmaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Stomatologiyada asboblarni sterillashdan oldingi ishlov (PSO) maqsadi?",
+    "A": "Qon va oqsil qoldiqlarini yuvish",
+    "B": "Mikrobni o'ldirish",
+    "C": "Zangdan tozalash",
+    "D": "Chiroyli qilish",
+    "javob": "A"
+  },
+  {
+    "savol": "Dezinfektantlarning konsentratsiyasi nima bilan nazorat qilinadi?",
+    "A": "Indikator chiziqchalar",
+    "B": "Rangiga qarab",
+    "C": "Hidiga qarab",
+    "D": "Hech narsa bilan",
+    "javob": "A"
+  },
+  {
+    "savol": "Vaks-analizator nima uchun ishlatiladi?",
+    "A": "Mikroblar miqdorini aniqlash",
+    "B": "Tishni yulish",
+    "C": "Milkni tikish",
+    "D": "So'lak pH ni o'lchash",
+    "javob": "A"
+  },
+  {
+    "savol": "Avtoklavda sterillanish sifatini biologik tekshirish nima?",
+    "A": "Chidamli sporalarni qo'yish",
+    "B": "Haroratni o'lchash",
+    "C": "Bosimni tekshirish",
+    "D": "Rangga qarash",
+    "javob": "A"
+  },
+  {
+    "savol": "Material transport muhitiga (masalan, Amies) nima uchun solinadi?",
+    "A": "Mikroblar hayotini saqlash uchun",
+    "B": "Mikroblarni o'ldirish uchun",
+    "C": "Ularni ko'paytirish uchun",
+    "D": "Bo'yash uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "S.mutansni aniqlashda qaysi muhit tanlanadi?",
+    "A": "Mitis Salivarius Agar",
+    "B": "Oddiy agar",
+    "C": "Shakarli bulyon",
+    "D": "Qonli agar",
+    "javob": "A"
+  },
+  {
+    "savol": "Tish karashidagi mikrob biopardasini o'rganish usuli?",
+    "A": "Konfokal lazer mikroskopiya",
+    "B": "Oddiy mikroskop",
+    "C": "Ko'z bilan ko'rish",
+    "D": "Paypaslab ko'rish",
+    "javob": "A"
+  },
+  {
+    "savol": "Avtoklavlashda \"eksponirlash\" vaqti deganda nima tushuniladi?",
+    "A": "Kerakli haroratda ushlab turish",
+    "B": "Qurilmani qizdirish",
+    "C": "Suv quyish vaqti",
+    "D": "Sovutish vaqti",
+    "javob": "A"
+  },
+  {
+    "savol": "Og‘iz bo‘shlig‘ining asosiy suyuq biotopi qaysi?",
+    "A": "So‘lak",
+    "B": "Qon",
+    "C": "Milk suyuqligi",
+    "D": "Limfa",
+    "javob": "A"
+  },
+  {
+    "savol": "Og‘iz bo‘shlig‘i biopardasi (biofilm) nima?",
+    "A": "Mikroblar va polimer matritsa to‘plami",
+    "B": "Faqat ovqat qoldig‘i",
+    "C": "Faqat oqsil qavati",
+    "D": "Epiteliy qavati",
+    "javob": "A"
+  },
+  {
+    "savol": "Tishlar bo‘lmaganda og‘izda qaysi turdagi mikroblar kamayadi?",
+    "A": "Qattiq yuzaga yopishuvchi",
+    "B": "Zamburug‘lar",
+    "C": "Spiroxetalar",
+    "D": "Anaeroblar",
+    "javob": "A"
+  },
+  {
+    "savol": "Yasama tishlar (protezlar) ostida qanday muhit hosil bo‘ladi?",
+    "A": "Anaerob va kislotali",
+    "B": "To‘liq steril",
+    "C": "Aerob va ishqoriy",
+    "D": "Quruq muhit",
+    "javob": "A"
+  },
+  {
+    "savol": "Stomatologik kabinetda havo qanday tozalanadi?",
+    "A": "UB-nurlari yordamida",
+    "B": "Ventilyator bilan",
+    "C": "Atir sepish orqali",
+    "D": "Faqat artib",
+    "javob": "A"
+  },
+  {
+    "savol": "Og‘iz shilliq qavatining asosiy himoya funksiyasi?",
+    "A": "To‘siq hosil qilish",
+    "B": "Ovqat hazm qilish",
+    "C": "Rang berish",
+    "D": "Mineral to‘plash",
+    "javob": "A"
+  },
+  {
+    "savol": "Terapevtik stomatologiya xonasi devorlari qanday bo‘lishi kerak?",
+    "A": "Namli tozalashga chidamli",
+    "B": "Faqat qog‘oz gulqog‘oz",
+    "C": "Bo‘yalmagan g‘isht",
+    "D": "Yog‘och qoplamali",
+    "javob": "A"
+  },
+  {
+    "savol": "So‘lakning mikrobga qarshi eng asosiy fermenti?",
+    "A": "Lizotsim",
+    "B": "Amilaza",
+    "C": "Lipaza",
+    "D": "Maltaza",
+    "javob": "A"
+  },
+  {
+    "savol": "Og‘iz bo‘shlig‘i shilliq qavati biopardasining ahamiyati nima?",
+    "A": "Patogenlardan himoya qilish",
+    "B": "Mikroblarni o‘stirish",
+    "C": "Tishni yulish",
+    "D": "So‘lakni kamaytirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Til yuzasi (biotop) mikroflorasining o'ziga xosligi nima?",
+    "A": "Anaeroblar uchun qulay sharoit",
+    "B": "Doimiy sterillik",
+    "C": "Faqat viruslar mavjudligi",
+    "D": "Mikroblar yo'qligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Adgeziya nima?",
+    "A": "Mikroblarning yuzaga yopishishi",
+    "B": "Mikroblarning bo'linishi",
+    "C": "Mikroblarning o'lishi",
+    "D": "Mikroblarning harakati",
+    "javob": "A"
+  },
+  {
+    "savol": "Tish chiqishi bilan bolada qaysi bakteriya paydo bo'ladi?",
+    "A": "Streptococcus sanguis",
+    "B": "S. salivarius",
+    "C": "E. coli",
+    "D": "B. anthracis",
+    "javob": "A"
+  },
+  {
+    "savol": "Protez kiyish natijasida qaysi kasallik xavfi ortadi?",
+    "A": "Kandidoz",
+    "B": "Gripp",
+    "C": "Karies",
+    "D": "Skarlatina",
+    "javob": "A"
+  },
+  {
+    "savol": "Jarrohlik stomatologiya bo‘limida \"steril zona\"ga nima kiradi?",
+    "A": "Operatsiya xonasi",
+    "B": "Kutish zali",
+    "C": "Ro‘yxatxona",
+    "D": "Garderob",
+    "javob": "A"
+  },
+  {
+    "savol": "Milk egati suyuqligi (biotop) tarkibida nima ko‘p?",
+    "A": "Immunoglobulinlar va neytrofillar",
+    "B": "Faqat shakar",
+    "C": "Faqat mineral tuzlar",
+    "D": "Viruslar",
+    "javob": "A"
+  },
+  {
+    "savol": "Og‘iz bo‘shlig‘i mikroflorasini o‘rganishning \"oltin standarti\"?",
+    "A": "Bakteriologik ekma qilish",
+    "B": "Ko'z bilan ko'rish",
+    "C": "Paypaslash",
+    "D": "So'rovnoma",
+    "javob": "A"
+  },
+  {
+    "savol": "Tishsiz bemorlarda so‘lak pH ko‘rsatkichi qanday o‘zgaradi?",
+    "A": "Ishqoriy tomonga siljiydi",
+    "B": "Keskin kislotali bo‘ladi",
+    "C": "O‘zgarmaydi",
+    "D": "Nolga tushadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Stomatologik kabinetda pollar qanday bo‘lishi kerak?",
+    "A": "Choksiz",
+    "B": "Gilamli",
+    "C": "Yog‘ochli",
+    "D": "Betonli",
+    "javob": "A"
+  },
+  {
+    "savol": "\"Pellikula\" nima?",
+    "A": "So‘lak glikoproteinlaridan hosil bo‘lgan parda",
+    "B": "Mikrob koloniya",
+    "C": "Tish toshi",
+    "D": "Milk shishishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Protez materiallari (akril) mikroblarga qanday ta'sir qiladi?",
+    "A": "Mikroblar to'planishi uchun sirt hosil qiladi",
+    "B": "Ularni o'ldiradi",
+    "C": "Hech qanday ta'sir qilmaydi",
+    "D": "Vitamin beradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Jarrohlik stomatologiyasida qo‘llarni yuvish tartibi?",
+    "A": "Xirurgik antiseptika qoidalari bo‘yicha",
+    "B": "Faqat suv bilan",
+    "C": "Faqat sovun bilan",
+    "D": "Yuvish shart emas",
+    "javob": "A"
+  },
+  {
+    "savol": "Tish karashi (nalyot) va tish toshi o‘rtasidagi farq?",
+    "A": "Tosh – minerallashgan karash",
+    "B": "Karash – bu toshning o'zi",
+    "C": "Farqi yo'q",
+    "D": "Toshda mikrob bo'lmaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Og‘iz bo‘shlig‘idagi \"rezident\" mikroflora nima?",
+    "A": "Doimiy yashovchi mikroblar",
+    "B": "Tasodifiy kelgan mikroblar",
+    "C": "Faqat zararli mikroblar",
+    "D": "Faqat foydali mikroblar",
+    "javob": "A"
+  },
+  {
+    "savol": "Shilliq qavat biopardasini o‘rganishda qaysi usul samarali?",
+    "A": "Elektron mikroskopiya",
+    "B": "Termometriya",
+    "C": "Perkussiya",
+    "D": "Auskultatsiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Stomatologik kreslo atrofidagi \"ishchi zona\" qanchalik bo‘lishi kerak?",
+    "A": "Kamida 14 kvadrat metr",
+    "B": "Kamida 2 kvadrat metr",
+    "C": "Kamida 24 kvadrat metr",
+    "D": "Kamida 7 kvadrat metr",
+    "javob": "A"
+  },
+  {
+    "savol": "Protezlar og‘izda qaysi jarayonni buzadi?",
+    "A": "Shilliq qavatning o‘z-o‘zini tozalashini",
+    "B": "Ko‘rish qobiliyatini",
+    "C": "Eshitishni",
+    "D": "Yurak urishini",
+    "javob": "A"
+  },
+  {
+    "savol": "Milk egati biopadasida qaysi mikroblar ustunlik qiladi?",
+    "A": "Anaeroblar",
+    "B": "Aerob kokklar",
+    "C": "Mog‘or zamburug‘lari",
+    "D": "Spora hosil qiluvchilar",
+    "javob": "A"
+  },
+  {
+    "savol": "Og‘iz bo‘shlig‘i mikroflorasi dinamikasiga nima ta'sir qilmaydi?",
+    "A": "Soch rangi",
+    "B": "Yoshi",
+    "C": "Ovqatlanish tartibi",
+    "D": "Gigiyena holati",
+    "javob": "A"
+  },
+  {
+    "savol": "Stomatologik bo‘limda asboblar qayerda sterillanadi?",
+    "A": "Markazlashgan sterilizatsiya xonasida",
+    "B": "Kutish zalida",
+    "C": "Shifokor stolida",
+    "D": "Omborxonada",
+    "javob": "A"
+  },
+  {
+    "savol": "So‘lakning yuvish xususiyati (klirens) nima uchun kerak?",
+    "A": "Mikroblarni mexanik haydash uchun",
+    "B": "Ularni ko'paytirish uchun",
+    "C": "Tishni bo'yash uchun",
+    "D": "Shakar hosil qilish uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "\"Quorum sensing\" biopardada nimani anglatadi?",
+    "A": "Bakteriyalarning o'zaro aloqasini",
+    "B": "Bakteriyaning o'limini",
+    "C": "Bo'linishni to'xtatishni",
+    "D": "Muzlashni",
+    "javob": "A"
+  },
+  {
+    "savol": "Protez ostidagi \"kislotali stress\" nimaga olib keladi?",
+    "A": "Shilliq qavat yallig‘lanishiga",
+    "B": "Tish o‘sishiga",
+    "C": "Vitamin ko‘payishiga",
+    "D": "Sterillikka",
+    "javob": "A"
+  },
+  {
+    "savol": "Tishsiz og‘izda Lactobacillus va S.mutans yo‘qolishining sababi?",
+    "A": "Ularning yopishish joyi yo'qligi",
+    "B": "Ovqat yo'qligi",
+    "C": "So'lak yo'qligi",
+    "D": "Harorat o'zgarishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Sekretor Immunoglobulin A (sIgA) ning biopardadagi roli?",
+    "A": "Mikroblarni shilliq qavatga yopishishiga yo'l qo'ymaslik",
+    "B": "Mikroblarni ko'paytirish",
+    "C": "Shilliqni eritish",
+    "D": "Qon aylanishini tezlatish",
+    "javob": "A"
+  },
+  {
+    "savol": "Stomatologik bo‘limlarni loyihalashda havo almashinuvi (kratnost) qanday bo‘lishi kerak?",
+    "A": "Oqimli-so‘ruvchi ventilyatsiya",
+    "B": "Ochiq deraza",
+    "C": "Ventilyatsiya shart emas",
+    "D": "Faqat ventilyator",
+    "javob": "A"
+  },
+  {
+    "savol": "Kolonizatsiyaga qarshilik (rezistentlik) nima?",
+    "A": "Normal floraning patogenlar o'rnashishiga to'sqinligi",
+    "B": "Mikroblarning o'lishi",
+    "C": "Viruslarning ko'payishi",
+    "D": "Antiseptika usuli",
+    "javob": "A"
+  },
+  {
+    "savol": "Molekulyar-genetik usullar (PZR) ning afzalligi nimada?",
+    "A": "Kultura qilinmaydigan mikroblarni aniqlash",
+    "B": "Arzonligi",
+    "C": "Tezda rang berishi",
+    "D": "Mikrobni ko'zga ko'rsatishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Og‘iz bo‘shlig‘i shilliq qavatidagi \"M-hujayralar\" funksiyasi?",
+    "A": "Antigenlarni tanish va immun javobni boshlash",
+    "B": "So'lak ishlab chiqarish",
+    "C": "Keratin sintezi",
+    "D": "Qon to'xtatish",
+    "javob": "A"
+  },
+  {
+    "savol": "Akril protezlarning g'ovakdorligi nimaga sabab bo'ladi?",
+    "A": "Mikroblarning material ichiga kirib olishiga",
+    "B": "Protezning mustahkamligiga",
+    "C": "Rangning chiroyli bo'lishiga",
+    "D": "Suv o'tmasligiga",
+    "javob": "A"
+  },
+  {
+    "savol": "Og‘iz bo‘shlig‘i shilliq qavatining asosiy himoya immunoglobulini qaysi?",
+    "A": "Sekretor IgA",
+    "B": "Sekretor IgG",
+    "C": "Sekretor IgE",
+    "D": "Sekretor IgM",
+    "javob": "A"
+  },
+  {
+    "savol": "Mikroblarni yo‘q qilishning fizik usulini ko‘rsating.",
+    "A": "Yuqori harorat",
+    "B": "Antiseptiklar",
+    "C": "Antibiotiklar",
+    "D": "Bakteriofaglar",
+    "javob": "A"
+  },
+  {
+    "savol": "So‘lakning tarkibidagi qaysi modda bakteriya devorini parchalaydi?",
+    "A": "Lizotsim",
+    "B": "Amilaza",
+    "C": "Insulin",
+    "D": "Gemoglobin",
+    "javob": "A"
+  },
+  {
+    "savol": "Dezinfeksiyalovchi moddalarning asosiy vazifasi nima?",
+    "A": "Tashqi muhitdagi patogenlarni yo‘qotish",
+    "B": "Ichki a’zolarni davolash",
+    "C": "Vitamin sintez qilish",
+    "D": "Mikroblarni o‘stirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Past harorat (muzlatish) mikroblarga qanday ta’sir qiladi?",
+    "A": "Mikrob o‘sishini to‘xtatadi",
+    "B": "Ularni darhol o‘ldiradi",
+    "C": "Ularni tezroq ko‘paytiradi",
+    "D": "Sporalarni yo‘qotadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Og‘iz bo‘shlig‘i immun tizimining mahalliy omili nima?",
+    "A": "Milk suyuqligi va so‘lak",
+    "B": "Oshqozon shirasi",
+    "C": "O‘t suyuqligi",
+    "D": "Jigar fermentlari",
+    "javob": "A"
+  },
+  {
+    "savol": "Kimyoviy omillardan qaysi biri oqsilni denaturatsiyaga uchratib mikrobni o‘ldiradi?",
+    "A": "Etil spirti",
+    "B": "Distillangan suv",
+    "C": "Glyukoza",
+    "D": "Kraxmal",
+    "javob": "A"
+  },
+  {
+    "savol": "Mikroorganizmlarga ta’sir etuvchi biologik omilni ko‘rsating.",
+    "A": "Antagonizm va antibiotiklar",
+    "B": "Ultrabinafsha nurlar",
+    "C": "Kislotalar",
+    "D": "Ishqorlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Gengivit (milk yallig‘lanishi)da immun tizimida nima kuzatiladi?",
+    "A": "Neytrofillar migratsiyasi ortadi",
+    "B": "Immun javob butunlay to‘xtaydi",
+    "C": "Lizotsim miqdori ortadi",
+    "D": "Antitanalar yo‘qoladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ultrabinafsha nurlar mikroblarga qanday ta’sir ko‘rsatadi?",
+    "A": "DNK tuzilishini buzadi",
+    "B": "Hujayrani muzlatadi",
+    "C": "Membranani quritadi",
+    "D": "Hech qanday ta'sir qilmaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Fagositoz jarayoni nima?",
+    "A": "Himoya hujayralari tomonidan mikrobni yutilishi",
+    "B": "Mikrobning bo‘linishi",
+    "C": "Virusning ko‘payishi",
+    "D": "Qonning ivishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Atrof muhitdagi mikroblarni yo‘q qilishda xlorli birikmalar qanday ta’sir qiladi?",
+    "A": "Oqsillarni oksidlaydi",
+    "B": "Mikroblarni oziqlantiradi",
+    "C": "Membranani yumshatadi",
+    "D": "DNKni ko‘paytiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Me’yorda og‘iz bo‘shlig‘i mikroflorasi va immun tizimi munosabati?",
+    "A": "Simbioz va muvozanat",
+    "B": "Doimiy kurash",
+    "C": "Bir-birini yo‘qotish",
+    "D": "Bog‘liqlik yo‘q",
+    "javob": "A"
+  },
+  {
+    "savol": "Antibiotiklarning mikroblarga biologik ta’sir mexanizmi nima?",
+    "A": "Metabolik jarayonlarni bloklash",
+    "B": "Mexanik maydalash",
+    "C": "Sovutish",
+    "D": "Nurlantirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Tirik to‘qimalarga (yara, shilliq qavat) ishlov berish usuli qanday ataladi?",
+    "A": "Antiseptika",
+    "B": "Dezinfeksiya",
+    "C": "Sterilizatsiya",
+    "D": "Deratizatsiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi holatda og‘iz bo‘shlig‘i mahalliy immuniteti pasayadi?",
+    "A": "Surunkali stress va vitamin yetishmovchiligi",
+    "B": "To‘g‘ri ovqatlanishda",
+    "C": "Sport bilan shug‘ullanganda",
+    "D": "Tishni muntazam yuvganda",
+    "javob": "A"
+  },
+  {
+    "savol": "Bakteriyalarning yuqori bosimga chidamliligi qanday?",
+    "A": "Barotolerantlik",
+    "B": "Termofillik",
+    "C": "Atsidofillik",
+    "D": "Halofillik",
+    "javob": "A"
+  },
+  {
+    "savol": "Oksidlovchi antiseptiklarga misol keltiring.",
+    "A": "Vodorod peroksid",
+    "B": "Nashatir spirti",
+    "C": "Osh tuzi",
+    "D": "Shakar",
+    "javob": "A"
+  },
+  {
+    "savol": "Patologiya (masalan, karies) paytida so‘lak pH ko‘rsatkichi qanday o‘zgaradi?",
+    "A": "Kislotali tomonga siljiydi",
+    "B": "O‘zgarmaydi",
+    "C": "Keskin ishqoriy bo‘ladi",
+    "D": "Neytral bo‘ladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Bakteriofaglarning mikroblarga ta’siri qanday omilga kiradi?",
+    "A": "Biologik omil",
+    "B": "Fizik omil",
+    "C": "Kimyoviy omil",
+    "D": "Mexanik omil",
+    "javob": "A"
+  },
+  {
+    "savol": "Komplement tizimi qanday vazifani bajaradi?",
+    "A": "Mikrob membranasini teshish",
+    "B": "Oqsil sintez qilish",
+    "C": "Shakar parchalash",
+    "D": "Vitamin tashish",
+    "javob": "A"
+  },
+  {
+    "savol": "Tuzlarning yuqori konsentratsiyasi (gipertonik muhit) mikrobga qanday ta’sir qiladi?",
+    "A": "Plazmoliz",
+    "B": "Plazmoptiz (shishish)",
+    "C": "Tez ko‘payish",
+    "D": "Spora hosil bo‘lishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Og‘iz bo‘shlig‘i shilliq qavatidagi M-hujayralarning roli?",
+    "A": "Antigenlarni limfoid to‘qimaga yetkazish",
+    "B": "So‘lak ajratish",
+    "C": "Keratin ishlab chiqarish",
+    "D": "Tishni mineralizatsiya qilish",
+    "javob": "A"
+  },
+  {
+    "savol": "Kimyoviy sterilyantlarning (masalan, glutar aldegid) afzalligi?",
+    "A": "Sporalarni ham yo‘qota olishi",
+    "B": "Arzonligi",
+    "C": "Xidsizligi",
+    "D": "Tez bug‘lanishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Antibiotiklarga chidamlilik qanday paydo bo‘ladi?",
+    "A": "Mikroorganizmlarning genetik o‘zgarishlari orqali",
+    "B": "Antibiotiklarning ishlatilmasligi tufayli",
+    "C": "Odam organizmining kuchayishi natijasida",
+    "D": "Mikroblarning tabiiy evolyutsiyasi bilan",
+    "javob": "A"
+  },
+  {
+    "savol": "Antibiotiklar qanday ishlaydi?",
+    "A": "Bakteriyalarning hujayra devorini buzadi yoki o‘sishini to‘xtatadi",
+    "B": "Qon aylanishini tezlashtiradi",
+    "C": "Immunitetni pasaytiradi",
+    "D": "Virionlarni yo‘q qiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Tetratsiklinlar qaysi mikroorganizmlar bilan kurashadi?",
+    "A": "Bakteriyalar",
+    "B": "Viruslar",
+    "C": "Fungi",
+    "D": "Parazitlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Antibiotiklar orqali bakterial infektsiyalarni davolashda xavfli jihat —",
+    "A": "Bakteriyalarning dorilarga qarshi chidamliligini rivojlantirish",
+    "B": "Mikrobiota muvozanatining buzilmasligi",
+    "C": "Odamning immun tizimi pasayishi",
+    "D": "Kichik zararlar bilan davolash",
+    "javob": "A"
+  },
+  {
+    "savol": "Antibiotiklar faqat qaysi mikroorganizmlarga qarshi kurashadi?",
+    "A": "Bakteriyalar",
+    "B": "Viruslar",
+    "C": "Fungi",
+    "D": "Parazitlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi antibiotik bakterial sitoplazmatik membrananing butunligini buzish orqali o‘z ta'sirini ko‘rsatadi?",
+    "A": "polimiksin",
+    "B": "Penitsillin",
+    "C": "Sulfonamid",
+    "D": "Azitromitsin",
+    "javob": "A"
+  },
+  {
+    "savol": "RNK sinteziga ta’sir qiluvchi antibiotiklar ?",
+    "A": "rifampitsin",
+    "B": "Polimiksin",
+    "C": "kaptopril",
+    "D": "seftriaksion",
+    "javob": "A"
+  },
+  {
+    "savol": "Folevoy kislota sinteziga ta’sir etuvchi antibitiklar?",
+    "A": "sulfanilamid",
+    "B": "gentomitsin",
+    "C": "tetrasiklin",
+    "D": "Aminoglyukozidlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Folevoy kislota sinteziga ta’sir etuvchi antibitiklar?",
+    "A": "trimetoprim",
+    "B": "Aminoglyukozidlar",
+    "C": "sefazolin",
+    "D": "To’g’ri javob yo’q",
+    "javob": "A"
+  },
+  {
+    "savol": "Bakteriya ribasomasining 30 S birligini ingibitsiya qiluvchi antibiotiklar",
+    "A": "tetrasiklin",
+    "B": "seftriaksion",
+    "C": "penitsillin",
+    "D": "glyukoza",
+    "javob": "A"
+  },
+  {
+    "savol": "Bakteriya ribasomasining 30 S birligini ingibitsiya qiluvchi antibiotiklar",
+    "A": "aminoglikozidlar",
+    "B": "sefipim",
+    "C": "meropinim",
+    "D": "atsiklovir",
+    "javob": "A"
+  },
+  {
+    "savol": "Bakteriya ribasomasining 50 S birligini ingibitsiya qiluvchi antibiotiklar",
+    "A": "Barcha javob to’g’ri",
+    "B": "linkomitsin",
+    "C": "azitromitsin",
+    "D": "Eritromitsin",
+    "javob": "A"
+  },
+  {
+    "savol": "Bakteriya ribasomasining 50 S birligini ingibitsiya qiluvchi antibiotiklar",
+    "A": "Makrolidlar",
+    "B": "aminoglikozidlar",
+    "C": "To’g’ri javob yo’q",
+    "D": "rifampitsin",
+    "javob": "A"
+  },
+  {
+    "savol": "Bakteriya ribasomasining 50 S birligini ingibitsiya qiluvchi antibiotiklar",
+    "A": "linkomitsin",
+    "B": "aminoglikozidlar",
+    "C": "sefipim",
+    "D": "Eritromitsin",
+    "javob": "A"
+  },
+  {
+    "savol": "Bakteriya ribasomasining 50 S birligini ingibitsiya qiluvchi antibiotikla",
+    "A": "Eritromitsin",
+    "B": "seftoralin",
+    "C": "polimiksin",
+    "D": "piperatsillin",
+    "javob": "A"
+  },
+  {
+    "savol": "DNK sinteziga ta’sir etuvchi antibiotiklar",
+    "A": "ftorxinolinlar",
+    "B": "sefuroksim",
+    "C": "sefalosporinlar",
+    "D": "ampitsillin",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi antibiotik bakterial hujayra devorini buzish orqali o‘z ta'sirini ko‘rsatadi?",
+    "A": "sefalosparinlar",
+    "B": "levofloksatsin",
+    "C": "Polimiksin",
+    "D": "azitromitsin",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi antibiotik bakterial hujayra devorini buzish orqali o‘z ta'sirini ko‘rsatadi?",
+    "A": "vankomitsin",
+    "B": "levofloksatsin",
+    "C": "azitromitsin",
+    "D": "Polimiksin",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi antibiotik bakterial hujayra devorini buzish orqali o‘z ta'sirini ko‘rsatadi?",
+    "A": "Betta-laktam antibiotiklar",
+    "B": "Polimiksin",
+    "C": "azitromitsin",
+    "D": "levofloksatsin",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi antibiotik bakterial hujayra devorini buzish orqali o‘z ta'sirini ko‘rsatadi?",
+    "A": "Barcha javob to’g’ri",
+    "B": "Seftriaksion",
+    "C": "Sefozalin",
+    "D": "Sefipim",
+    "javob": "A"
+  },
+  {
+    "savol": "Mikroblarni Antibiotiklarga sezgirligini aniqlashda Qog’oz disk usuli usulida past sezuvchanlik necha mm",
+    "A": "10-15",
+    "B": "15-25",
+    "C": "25-30",
+    "D": "30 dan katta",
+    "javob": "A"
+  },
+  {
+    "savol": "Mikroblarni Antibiotiklarga sezgirligini aniqlashda Qog’oz disk usuli usulida o’rtacha sezuvchanlik necha mm",
+    "A": "15-25",
+    "B": "10-15",
+    "C": "25-30",
+    "D": "25 dan katta",
+    "javob": "A"
+  },
+  {
+    "savol": "Mikroblarni Antibiotiklarga sezgirligini aniqlashda Qog’oz disk usuli usulida yuqori sezuvchanlik necha mm",
+    "A": "25 dan katta",
+    "B": "10-15",
+    "C": "15-25",
+    "D": "30dan katta",
+    "javob": "A"
+  },
+  {
+    "savol": "Antimikrobik qarshilik qanday paydo bo‘ladi?",
+    "A": "Mikroorganizmlar o‘z-o‘zini himoya qilish uchun mutatsiyaga uchraganda",
+    "B": "Mikrob faqat qizil qon hujayralarini ta'sir qiladi",
+    "C": "O‘simliklar antibiotiklarga qarshi tabiiy himoya mexanizmini ishlab chiqaradi",
+    "D": "Mikroorganizmlar doimo o‘zgarmaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Antibiotiklar asosan qanday yo‘l bilan qabul qilinadi?",
+    "A": "Og‘iz orqali yoki in'ektsiya yordamida",
+    "B": "Teri orasiga",
+    "C": "ingalyatsion",
+    "D": "To’g’ri ichak orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Ogʻiz boʻshligʻidagi mikroflora tarkibida qaysi bakteriyalar mavjud?",
+    "A": "Stafilokokk, Streptokokk, Ko‘k-yiring tayoqcha",
+    "B": "E. coli, Klebsiella, Enterobakteriyalar",
+    "C": "Toksoplazma, Gripp virusi",
+    "D": "Ascomycetes, Zygomycetes,gripp",
+    "javob": "A"
+  },
+  {
+    "savol": "Streptokokk bakteriyalarining ko‘p uchraydigan turi qaysi?",
+    "A": "Streptococcus pyogenes",
+    "B": "Streptococcus pneumoniae",
+    "C": "Streptococcus salivarius",
+    "D": "Streptococcus mutans",
+    "javob": "A"
+  },
+  {
+    "savol": "Ogʻiz boʻshligʻidagi stafilokokklar qanday ta'sir ko‘rsatadi?",
+    "A": "Yallig‘lanish, pushtirash va infeksiya keltirib chiqarishi mumkin",
+    "B": "Oqsil sintezini kuchaytiradi",
+    "C": "Vitaminlar ishlab chiqaradi",
+    "D": "Immun tizimni kuchaytiradi",
+    "javob": "A"
+  },
+  {
+    "savol": ". Ko‘k-yiring tayoqcha nima bilan tavsiflanadi?",
+    "A": "Yiringli jarohatlarni keltirib chiqaradi",
+    "B": "Yurakni kuchaytiradi",
+    "C": "Bakterial o‘sish uchun oziqlantiruvchi modda bo‘lib xizmat qiladi",
+    "D": "Immunitetni yaxshilaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Streptokokklar ogʻiz boʻshligʻida qaysi kasalliklarni keltirib chiqaradi?",
+    "A": "Angina, faringit, tonzillit",
+    "B": "O‘tkir bronxit",
+    "C": "Gripe, o‘tkir respirator infeksiya",
+    "D": "Asalqand (herpes) infeksiyasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Og‘iz bo‘shlig‘idagi stafilokokklar qaysi kasallikni keltirib chiqaradi?",
+    "A": "O‘tkir angina va tonsillit",
+    "B": "Suvchechak",
+    "C": "Gipertoniya",
+    "D": "Shikastlanishlarning og‘rig‘ini kamaytiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko‘k-yiring tayoqchasining ilmiy nomi nima?",
+    "A": "Pseudomonas aeruginosa",
+    "B": "Streptococcus mutans",
+    "C": "Escherichia coli",
+    "D": "Staphylococcus aureus",
+    "javob": "A"
+  },
+  {
+    "savol": "Stafilokokklar og‘izda qanday o‘zgarishlarni yuzaga keltiradi?",
+    "A": "Yiringli infeksiyalar, absesslar va shishlar",
+    "B": "Katta miqdorda ozuqaviy moddalar ishlab chiqaradi",
+    "C": "Bakteriyalarni yo‘q qilish uchun fermentlar ishlab chiqaradi",
+    "D": "Immunitetni kuchaytiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Streptokokklar og‘iz mikroflorasida qanday ro‘l o‘ynaydi?",
+    "A": "Og‘izning tabiiy mikroflorasining bir qismi bo‘ladi",
+    "B": "To‘g‘ri hazm bo‘lishni yaxshilayd",
+    "C": "Faol oziq-ovqat moddalari ishlab chiqaradi",
+    "D": "Immunitetni oshiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Og‘iz mikroflorasidagi stafilokokklar ko‘proq qaysi joyda mavjud?",
+    "A": "Og‘izning shilliq qavatid",
+    "B": "Tomoqda",
+    "C": "Yumshoq to‘qimalarda",
+    "D": "Havo yo‘llarida",
+    "javob": "A"
+  },
+  {
+    "savol": "Stafilokokk infektsiyalarining eng keng tarqalgan alomati nima?",
+    "A": "Yiringli absesslar",
+    "B": "Oqibatlar bo‘lmasligi",
+    "C": "Aksariyatda semizlik",
+    "D": "Haroratning yuqori ko‘tarilishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Og‘iz bo‘shlig‘ida streptokokklarning mavjudligi qanday simptomlarga olib kelishi mumkin?",
+    "A": "Og‘riqli tomoq, yallig‘lanish",
+    "B": "Qichishish va yonish",
+    "C": "Ovqat hazm qilish muammolari",
+    "D": "Teri kasalliklari",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko‘k-yiring tayoqchasining odatiy simptomlari qaysilar?",
+    "A": "Yiringli yaralar, og‘riq",
+    "B": "Qon bosimi pasayishi",
+    "C": "Teri tug‘ma kasalliklari",
+    "D": "Yallig‘lanishsiz holat",
+    "javob": "A"
+  },
+  {
+    "savol": "Og‘izdagi mikrofloradagi bakteriyalarni boshqarish uchun qanday choralar ko‘rilishi kerak?",
+    "A": "Yaxshi tibbiy tozalash va sanitariya tadbirlari",
+    "B": "Faqat antibiotiklar ishlatish",
+    "C": "To‘g‘ri ovqatlanish orqali organizmni mustahkamlash",
+    "D": "Faqat dori vositalarini qo‘llash",
+    "javob": "A"
+  },
+  {
+    "savol": "Tish kariyesining boshlang‘ich bosqichida qaysi mikroorganizmlar asosiy rol o‘ynaydi?",
+    "A": "Streptococcus mutans",
+    "B": "Lactobacillus acidophilus",
+    "C": "Actinomyces israelii",
+    "D": "Veillonella parvula",
+    "javob": "A"
+  },
+  {
+    "savol": "Tish emalining kariyesga chidamliligini oshiruvchi omil qaysi?",
+    "A": "Flüorid ionlari mavjudligi",
+    "B": "Past pH muhit",
+    "C": "Yengil karbogidratlar ko‘pligi",
+    "D": "Og‘izda suyuqlik kamligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Og‘iz mikroflorasidagi kariyesga olib keluvchi asosiy shakar qanday?",
+    "A": "Saxaroza",
+    "B": "Laktoza",
+    "C": "Fruktoza",
+    "D": "Maltoza",
+    "javob": "A"
+  },
+  {
+    "savol": "Bo‘g‘ma (difteriya) kasalligini qaysi mikrob qo‘zg‘atadi?",
+    "A": "Corynebacterium diphtheriae",
+    "B": "Bordetella pertussis",
+    "C": "Legionella pneumophila",
+    "D": "Clostridium tetani",
+    "javob": "A"
+  },
+  {
+    "savol": "\"Klostridial\" infeksiyalarning asosiy xususiyati nima?",
+    "A": "Spora hosil qiluvchi anaeroblar",
+    "B": "Aerob kokklar",
+    "C": "Gram-manfiy tayoqchalar",
+    "D": "Faqat viruslar",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko‘kyo‘tal kasalligining asosiy laborator tashxis usuli?",
+    "A": "Bakteriologik usul",
+    "B": "Rentgen",
+    "C": "Umumiy qon tahlili",
+    "D": "Ultartovush tekshiruvi",
+    "javob": "A"
+  },
+  {
+    "savol": "Operatsiyadan keyingi infeksiyalarning oldini olish uchun nima qilinadi?",
+    "A": "Aseptika va antiseptika",
+    "B": "Faqat vitamin ichish",
+    "C": "Xonani isitish",
+    "D": "Bemorni uxlash",
+    "javob": "A"
+  },
+  {
+    "savol": "Legionella infeksiyasi ko‘pincha qayerdan yuqadi?",
+    "A": "Konditsioner va suv purkagichlar",
+    "B": "Ovqatdan",
+    "C": "Tuproqdan",
+    "D": "Hasharotlardan",
+    "javob": "A"
+  },
+  {
+    "savol": "Stomatologiyada uchraydigan noklostridial anaeroblarga nima kiradi?",
+    "A": "Bakteroidlar va fuzobakteriyalar",
+    "B": "Qoziqoyoqlar",
+    "C": "Vabo vibrioni",
+    "D": "Sil tayoqchasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Bo‘g‘ma kasalligida tomoqda qanday parda hosil bo‘ladi?",
+    "A": "Kulrang-oqish fibrinoz parda",
+    "B": "Sariq yiringli parda",
+    "C": "Qizil dog‘lar",
+    "D": "Parda hosil bo‘lmaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko‘kyo‘tal qo‘zg‘atuvchisi (B. pertussis) uchun qaysi ozuqa muhiti ishlatiladi?",
+    "A": "Borde-Jangu muhiti",
+    "B": "Oddiy go'shtli bulyon",
+    "C": "Shakarli agar",
+    "D": "Endo muhiti",
+    "javob": "A"
+  },
+  {
+    "savol": "Klostridial mionekroz (gazli gangrena) qo‘zg‘atuvchisi?",
+    "A": "Clostridium perfringens",
+    "B": "Clostridium botulinum",
+    "C": "Corynebacterium",
+    "D": "Streptococcus",
+    "javob": "A"
+  },
+  {
+    "savol": "Operatsiyadan keyingi \"autoinfeksiya\" nima?",
+    "A": "Bemorning o‘z florasi orqali yuqishi",
+    "B": "Tashqaridan yuqish",
+    "C": "Shifokordan yuqish",
+    "D": "Asbobdan yuqish",
+    "javob": "A"
+  },
+  {
+    "savol": "Bo‘g‘ma mikrobini aniqlashda qaysi bo‘yash usuli qo‘llaniladi?",
+    "A": "Lyoffler yoki Neysser",
+    "B": "Gram usuli",
+    "C": "Tsil-Nilsen",
+    "D": "Burri-Gins",
+    "javob": "A"
+  },
+  {
+    "savol": "Legionellyozda asosiy zararlanadigan a'zo qaysi?",
+    "A": "O'pka",
+    "B": "Buyrak",
+    "C": "Tish milklar",
+    "D": "Jig'ildon",
+    "javob": "A"
+  },
+  {
+    "savol": "Noklostridial anaerob infeksiyalarning o‘ziga xos hidi?",
+    "A": "Qo‘lansa, chirigan hid",
+    "B": "Xidsiz bo‘ladi",
+    "C": "Atir hidi",
+    "D": "Shira hidi",
+    "javob": "A"
+  },
+  {
+    "savol": "Operatsiyadan keyingi infeksiya manbai bo‘lishi mumkin?",
+    "A": "Nosoz sterillangan asboblar",
+    "B": "Steril qo'lqoplar",
+    "C": "Toza bintlar",
+    "D": "Vitaminlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Bordetella pertussis qanday morfologiyaga ega?",
+    "A": "Mayda Gram-manfiy kokkobakteriya",
+    "B": "Gram-musbat yirik tayoqcha",
+    "C": "Halqasimon mikrob",
+    "D": "Spiral shaklidagi",
+    "javob": "A"
+  },
+  {
+    "savol": "Legionella pneumophila qaysi turdagi muhitda o‘sadi?",
+    "A": "Temir va sisteinli maxsus muhitda",
+    "B": "Distillangan suvda",
+    "C": "Oddiy tuzli suvda",
+    "D": "Faqat sutda",
+    "javob": "A"
+  },
+  {
+    "savol": "Stomatologiyada \"anaerob flegmona\"ni ko‘pincha nima qo‘zg‘atadi?",
+    "A": "Noklostridial anaeroblar",
+    "B": "Viruslar",
+    "C": "Zamburug'lar",
+    "D": "Ichak tayoqchasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Bo‘g‘ma tashxisida \"Elek testi\" nima uchun o‘tkaziladi?",
+    "A": "Toksigenlikni aniqlash uchun",
+    "B": "Harakatni tekshirish uchun",
+    "C": "Rangni aniqlash uchun",
+    "D": "Soni sanash uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "Jarrohlik jarohatiga infeksiya tushishi necha kundan keyin namoyon bo‘ladi?",
+    "A": "Odatda 3-5 kundan keyin",
+    "B": "Odatda 3-5 haftadan keyin",
+    "C": "Odatda 3-5 soatdan keyin",
+    "D": "1 yildan keyin",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko‘kyo‘talning kataral davrida laborator tashxis samaradorligi?",
+    "A": "Eng yuqori bo'ladi",
+    "B": "Juda past bo'ladi",
+    "C": "Samarasi yo'q",
+    "D": "Farqi yo'q",
+    "javob": "A"
+  },
+  {
+    "savol": "Legionellyozning eng og'ir shakli nima deb ataladi?",
+    "A": "Pontiac isitmasi",
+    "B": "Gripp",
+    "C": "Bronxit",
+    "D": "Angina",
+    "javob": "A"
+  },
+  {
+    "savol": "Noklostridial anaeroblar tish karashida qanday holatda bo'ladi?",
+    "A": "Normal flora tarkibida bo'ladi",
+    "B": "Hech qachon bo'lmaydi",
+    "C": "Faqat kariesda bo'ladi",
+    "D": "Faqat bolalarda bo'ladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Klostridiyalarda spora qanday vazifani bajaradi?",
+    "A": "Tashqi muhitda saqlanib qolish",
+    "B": "Ko'payish",
+    "C": "Harakatlanish",
+    "D": "Oziqlanish",
+    "javob": "A"
+  },
+  {
+    "savol": "Bo‘g‘ma tayoqchasining voltin donachalari qayerda joylashgan?",
+    "A": "Tayoqcha uchlarida",
+    "B": "Markazida",
+    "C": "Membranasida",
+    "D": "Xivchinida",
+    "javob": "A"
+  },
+  {
+    "savol": "Noklostridial anaeroblarni kultivatsiya qilish uchun nima kerak?",
+    "A": "Anaerostat",
+    "B": "Ochiq havo",
+    "C": "Quyosh nuri",
+    "D": "Muzlatgich",
+    "javob": "A"
+  },
+  {
+    "savol": "Legionellalarning hujayra ichida ko'payish xususiyati?",
+    "A": "Fakultativ hujayra ichi paraziti",
+    "B": "Faqat hujayra tashqarisida",
+    "C": "Ko'paya olmaydi",
+    "D": "Faqat o'lik to'qimada",
+    "javob": "A"
+  },
+  {
+    "savol": "Vabo (xolera) qo‘zg‘atuvchisi qanday shaklga ega?",
+    "A": "Vergulsimon (vibrion)",
+    "B": "Sharsimon (kokk)",
+    "C": "Zanjirsimon",
+    "D": "Spiral",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘lat (chuma) qo‘zg‘atuvchisi qaysi mikrob?",
+    "A": "Yersinia pestis",
+    "B": "Bacillus anthracis",
+    "C": "Vibrio cholerae",
+    "D": "Shigella sonnei",
+    "javob": "A"
+  },
+  {
+    "savol": "Kuydirgi (sibir yarasi) kasalligining asosiy manbai nima?",
+    "A": "Kasal hayvonlar",
+    "B": "Zararlangan suv",
+    "C": "Faqat odamlar",
+    "D": "Kemiruvchilar",
+    "javob": "A"
+  },
+  {
+    "savol": "Ichak infeksiyalarida material laboratoriyaga qanday yuboriladi?",
+    "A": "Maxsus steril idishda",
+    "B": "Qog‘ozga o‘ralgan holda",
+    "C": "Ochiq bankada",
+    "D": "Yuborish shart emas",
+    "javob": "A"
+  },
+  {
+    "savol": "Brusellez asosan qaysi a’zolar tizimini zararlaydi?",
+    "A": "Tayanch-harakat va jinsiy tizim",
+    "B": "Faqat tishlarni",
+    "C": "Ko'rish a'zolarini",
+    "D": "Markaziy eshitish",
+    "javob": "A"
+  },
+  {
+    "savol": "Vabo vibrioni qanday harakatlanadi?",
+    "A": "Bitta qutbdagi xivchin bilan",
+    "B": "Xivchinlari yo‘q",
+    "C": "Kirpikchalar bilan",
+    "D": "Dumaloq harakat",
+    "javob": "A"
+  },
+  {
+    "savol": "Shigellez (dizenteriya) kasalligining asosiy laborator tashxisi?",
+    "A": "Bakteriologik",
+    "B": "Qonni rentgen qilish",
+    "C": "Siydik tahlili",
+    "D": "Faqat tashqi ko'rik",
+    "javob": "A"
+  },
+  {
+    "savol": "Kuydirgi tayoqchasi (B. anthracis) tashqi muhitda nima hosil qiladi?",
+    "A": "Spora",
+    "B": "Kapsula",
+    "C": "Xivchin",
+    "D": "Pili",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘lat kasalligini tashuvchi asosiy hasharot qaysi?",
+    "A": "Burgalar",
+    "B": "Chivinlar",
+    "C": "Kanalar",
+    "D": "Pashshalar",
+    "javob": "A"
+  },
+  {
+    "savol": "Esherixiozlarni keltirib chiqaruvchi E.coli qayerda doimiy yashaydi?",
+    "A": "Yo‘g‘on ichakda",
+    "B": "Oshqozonda",
+    "C": "O‘pkada",
+    "D": "Buyrakda",
+    "javob": "A"
+  },
+  {
+    "savol": "Vabo mikrobi qanday muhitda yaxshi o‘sadi?",
+    "A": "Ishqoriy muhitda",
+    "B": "Kislotali muhitda",
+    "C": "Distillangan suvda",
+    "D": "Faqat yog'li muhitda",
+    "javob": "A"
+  },
+  {
+    "savol": "Brusellyozning laborator tashxisida qaysi reaksiya qo‘llaniladi?",
+    "A": "Rayt va Xeddelson reaksiyasi",
+    "B": "Vidal reaksiyasi",
+    "C": "Elek testi",
+    "D": "Shick testi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ichak tayoqchasi (E.coli) qanday morfologik belgiga ega?",
+    "A": "Gram-manfiy tayoqcha",
+    "B": "Gram-musbat kokk",
+    "C": "Spora hosil qiladi",
+    "D": "Spiral shaklda",
+    "javob": "A"
+  },
+  {
+    "savol": "Kuydirgi kasalligining eng ko‘p uchraydigan shakli?",
+    "A": "Teri shakli",
+    "B": "O‘pka shakli",
+    "C": "Ichak shakli",
+    "D": "Septik shakl",
+    "javob": "A"
+  },
+  {
+    "savol": "Shigellalarning E.colidan asosiy farqi?",
+    "A": "Harakatsizligi",
+    "B": "Rangli bo'lishi",
+    "C": "Kattaligi",
+    "D": "Sporasi borligi",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘lat tayoqchasining bo‘yalgandagi o‘ziga xosligi?",
+    "A": "Bipolyar bo'yalishi",
+    "B": "Bir tekis bo'yalishi",
+    "C": "Bo'yalmasligi",
+    "D": "Faqat markazi bo'yalishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Vabo epidemiyasi paytida birinchi navbatda nima tekshiriladi?",
+    "A": "Ichimlik suvi",
+    "B": "Havoning tarkibi",
+    "C": "Tuproq unumdorligi",
+    "D": "Daraxt barglari",
+    "javob": "A"
+  },
+  {
+    "savol": "Brusellalar qanday yo'l bilan yuqadi?",
+    "A": "Alimentar",
+    "B": "Havo orqali",
+    "C": "Hasharot chaqishi",
+    "D": "Tishlash orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Kuydirgini tezkor aniqlash uchun qaysi reaksiya qo‘llaniladi?",
+    "A": "Askoli termopretsipitatsiya",
+    "B": "Vidal",
+    "C": "Vasserman",
+    "D": "Rayt",
+    "javob": "A"
+  },
+  {
+    "savol": "Shigella dysenteriae qanday toksin ishlab chiqaradi?",
+    "A": "Shiga-toksini",
+    "B": "Faqat endotoksin",
+    "C": "Gemolizin",
+    "D": "Insulin",
+    "javob": "A"
+  },
+  {
+    "savol": "Enterotoksigen esherixiyalar keltirib chiqaradigan holat?",
+    "A": "\"Sayohatdarlar diareyasi\"",
+    "B": "Angina",
+    "C": "Pnevmoniya",
+    "D": "Revmatizm",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘latning laborator tashxisida qaysi usul eng xavfsiz va tezkor?",
+    "A": "IFU",
+    "B": "Mikrobni o'stirish",
+    "C": "Hayvonlarga yuqtirish",
+    "D": "Qon quyish",
+    "javob": "A"
+  },
+  {
+    "savol": "Vabo vibrionining El-Tor varianti klassik variantidan nima bilan farq qiladi?",
+    "A": "Gemolitik xususiyati bilan",
+    "B": "Shakli bilan",
+    "C": "Rangi bilan",
+    "D": "Xivchini yo'qligi bilan",
+    "javob": "A"
+  },
+  {
+    "savol": "Kuydirgi sporalari tuproqda necha yil saqlanishi mumkin?",
+    "A": "Bir necha o‘n yillar",
+    "B": "1 yil",
+    "C": "1 oy",
+    "D": "1 kun",
+    "javob": "A"
+  },
+  {
+    "savol": "Viruslarning genomini nima tashkil etadi?",
+    "A": "Yo faqat DNK, yo faqat RNK",
+    "B": "Faqat DNK",
+    "C": "Faqat RNK",
+    "D": "Ham DNK, ham RNK",
+    "javob": "A"
+  },
+  {
+    "savol": "Gripp virusi qaysi guruhga kiradi?",
+    "A": "Ortomiksoviruslar",
+    "B": "Adenoviruslar",
+    "C": "Gerpesviruslar",
+    "D": "Poksviruslar",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi virus DNK saqlaydi?",
+    "A": "Gerpes virusi",
+    "B": "Qizamiq virusi",
+    "C": "Paragripp virusi",
+    "D": "Gripp virusi",
+    "javob": "A"
+  },
+  {
+    "savol": "Viruslarning oqsil qobig'i nima deb ataladi?",
+    "A": "Kapsid",
+    "B": "Membrana",
+    "C": "Pellikula",
+    "D": "Peplos",
+    "javob": "A"
+  },
+  {
+    "savol": "Adenoviruslar odatda qaysi a'zolarni zararlaydi?",
+    "A": "Nafas yo'llari va ko'z konyuktivasi",
+    "B": "Faqat jigarni",
+    "C": "Faqat buyrakni",
+    "D": "Tish emalini",
+    "javob": "A"
+  },
+  {
+    "savol": "Gripp virusining yuzasidagi gemagglyutinin (H) vazifasi nima?",
+    "A": "Hujayraga yopishish",
+    "B": "Hujayradan chiqish",
+    "C": "RNK sintezi",
+    "D": "Toksin ajratish",
+    "javob": "A"
+  },
+  {
+    "savol": "Chin chechak (ospa) virusi qaysi oilaga kiradi?",
+    "A": "Poksviruslar",
+    "B": "Adenoviruslar",
+    "C": "Retroviruslar",
+    "D": "Paramiksoviruslar",
+    "javob": "A"
+  },
+  {
+    "savol": "Virusologik tekshirishda material olishning eng qulay vaqti?",
+    "A": "Kasallikning birinchi kunlarida",
+    "B": "Sog'ayish davrida",
+    "C": "2 haftadan so'ng",
+    "D": "Farqi yo'q",
+    "javob": "A"
+  },
+  {
+    "savol": "Paramiksoviruslarga qaysi kasallik qo'zg'atuvchisi kiradi?",
+    "A": "Tepki virusi",
+    "B": "Gepatit B virusi",
+    "C": "OIV",
+    "D": "Quturish virusi",
+    "javob": "A"
+  },
+  {
+    "savol": "Virusli genomni aniqlashda qaysi yuqori aniqlikdagi usul qo'llaniladi?",
+    "A": "PZR",
+    "B": "Gram bo'yash",
+    "C": "Aglyutinatsiya",
+    "D": "Serologik tahlil",
+    "javob": "A"
+  },
+  {
+    "savol": "Gerpes viruslari hujayraning qaysi qismida ko'payadi?",
+    "A": "Yadroda",
+    "B": "Sitoplazmada",
+    "C": "Ribosomada",
+    "D": "Faqat membranasida",
+    "javob": "A"
+  },
+  {
+    "savol": "Adenoviruslar morfologik jihatdan qanday shaklda bo'ladi?",
+    "A": "Ikosaedr",
+    "B": "Tyoqchasimon",
+    "C": "Vergulsimon",
+    "D": "Ipsimon",
+    "javob": "A"
+  },
+  {
+    "savol": "Paragripp virusi gripp virusidan nima bilan farq qiladi?",
+    "A": "Genomi segmentlanmagan",
+    "B": "DNK saqlashi bilan",
+    "C": "Xivchini borligi bilan",
+    "D": "Kapsidining yo'qligi bilan",
+    "javob": "A"
+  },
+  {
+    "savol": "Virusologiya laboratoriyasida virusni ko'paytirish uchun nima ishlatiladi?",
+    "A": "Tovuq embrioni yoki hujayra kulturasi",
+    "B": "Go'shtli-peptonli agar",
+    "C": "Shakarli bulyon",
+    "D": "Sabzavotli muhitlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Virus oqsilining sintezlanish jarayoni qayerda kechadi?",
+    "A": "Xo'jayin hujayrasi ribosomalarida",
+    "B": "Virusning o'zida",
+    "C": "Tashqi muhitda",
+    "D": "Avtoklavda",
+    "javob": "A"
+  }
+]
