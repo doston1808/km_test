@@ -1,0 +1,1202 @@
+[
+  {
+    "savol": "Maktabgacha yoshdagi bolalarda yetakchi faoliyat turi qaysi?",
+    "A": "O‘yin faoliyati orqali bilim berish",
+    "B": "Nazariy ma’ruzalar asosida o‘qitish",
+    "C": "Mustaqil ilmiy izlanishlar olib borish",
+    "D": "Yozma topshiriqlar orqali o‘zlashtirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Tashqi faollik nimani ifodalaydi?",
+    "A": "Ko‘zga ko‘rinadigan jismoniy harakatlar majmui",
+    "B": "Ong ostida kechuvchi ichki jarayonlar yig‘indisi",
+    "C": "Emotsional holatlarning ichki kechinmalari",
+    "D": "Bilimlarni yodlash orqali o‘zlashtirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Ichki faollik tarkibiga nimalar kiradi?",
+    "A": "Fiziologik va psixik jarayonlar yig‘indisi",
+    "B": "Mushaklar faoliyati va jismoniy harakatlar",
+    "C": "Nutq orqali ifodalanadigan fikrlar",
+    "D": "Ijtimoiy muhitdagi ochiq xatti-harakatlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Didaktik o‘yinlarning asosiy vazifasi nimada?",
+    "A": "Tafakkur va bilish jarayonlarini rivojlantirish",
+    "B": "Jismoniy chiniqishni ta’minlash",
+    "C": "Intizomiy nazoratni kuchaytirish",
+    "D": "Baholash jarayonini tashkil etish",
+    "javob": "A"
+  },
+  {
+    "savol": "Mashg‘ulotlar qanday jarayon hisoblanadi?",
+    "A": "Tarbiyachi tomonidan tashkil etiladigan rejalashtirilgan faoliyat",
+    "B": "Bolaning ixtiyoriga to‘liq berilgan faoliyat",
+    "C": "Uy sharoitida amalga oshiriladigan ishlar majmui",
+    "D": "Tasodifiy o‘rganish jarayoni",
+    "javob": "A"
+  },
+  {
+    "savol": "Mehnat faoliyati bolada qaysi sifatlarni rivojlantiradi?",
+    "A": "Mas’uliyat va tartiblilikni shakllantiradi",
+    "B": "Qiziqishning susayishiga olib keladi",
+    "C": "Ijtimoiy faollikni pasaytiradi",
+    "D": "Emotsional beqarorlikni kuchaytiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Analitik tafakkur qanday jarayonni bildiradi?",
+    "A": "Taqqoslash va umumlashtirish orqali fikrlash",
+    "B": "Tasodifiy qarorlar qabul qilish jarayoni",
+    "C": "Hissiy ta’sir asosida xulosa chiqarish",
+    "D": "Tayyor bilimlarni takrorlash",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutqiy muloqotning ahamiyati nimada?",
+    "A": "Tafakkur va muloqot madaniyatini rivojlantiradi",
+    "B": "Jismoniy rivojlanishni tezlashtiradi",
+    "C": "Faoliyatni cheklashga olib keladi",
+    "D": "Xotira jarayonlarini susaytiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘z-o‘ziga xizmat mehnati nimani shakllantiradi?",
+    "A": "Mustaqillik va javobgarlikni rivojlantiradi",
+    "B": "Ijtimoiy aloqalarni kamaytiradi",
+    "C": "Fikr yuritishni cheklaydi",
+    "D": "Faollikni pasaytiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Reminissensiya qanday hodisa?",
+    "A": "Unutilgan ma’lumotning qayta tiklanishi",
+    "B": "Yangi ma’lumotni tez eslab qolish",
+    "C": "Xotiraning to‘liq yo‘qolishi",
+    "D": "Sezgilarning keskin kuchayishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Bolalarda xotiraning asosiy xususiyati nimada?",
+    "A": "Obrazlilik va emotsionallik ustun bo‘ladi",
+    "B": "Mantiqiy fikrlash ustun bo‘ladi",
+    "C": "Abstrakt tafakkur rivojlangan bo‘ladi",
+    "D": "Reflekslar asosiy rol o‘ynaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Nerv tizimining plastikligi nimani ta’minlaydi?",
+    "A": "Yangi ma’lumotni tez o‘zlashtirish imkonini beradi",
+    "B": "Xotiraning susayishiga olib keladi",
+    "C": "Diqqatni kamaytiradi",
+    "D": "Harakatni sekinlashtiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Zinchenko tadqiqotiga ko‘ra nima muhim?",
+    "A": "Faoliyat maqsadi esda qolishga ta’sir qiladi",
+    "B": "Xotira tug‘ma bo‘ladi",
+    "C": "Esda qolish tasodifiy kechadi",
+    "D": "Harakatlar asosiy rol o‘ynaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Mnemik strategiyalarga qaysi kiradi?",
+    "A": "Takrorlash, guruhlash va assotsiatsiya",
+    "B": "Eshitish jarayoni",
+    "C": "Harakat reflektori",
+    "D": "Sezgilarning yig‘indisi",
+    "javob": "A"
+  },
+  {
+    "savol": "Tafakkur nima?",
+    "A": "Narsa va hodisalar o‘rtasidagi bog‘lanishlarni aks ettirish jarayoni",
+    "B": "Sezgilar orqali ma’lumot qabul qilish jarayoni",
+    "C": "Harakatlarni boshqarish va takrorlash",
+    "D": "Hissiy kechinmalar yig‘indisi",
+    "javob": "A"
+  },
+  {
+    "savol": "Analiz operatsiyasi nimani anglatadi?",
+    "A": "Narsa va hodisalarni qismlarga ajratib o‘rganish",
+    "B": "Qismlarni birlashtirib umumlashtirish",
+    "C": "Narsalarni solishtirish",
+    "D": "Tizimga joylashtirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Sintez nima?",
+    "A": "Ajratilgan qismlarni bir butun qilib birlashtirish",
+    "B": "Narsani qismlarga ajratish jarayoni",
+    "C": "Farqlarni aniqlash jarayoni",
+    "D": "Belgilarni ajratish jarayoni",
+    "javob": "A"
+  },
+  {
+    "savol": "Taqqoslash operatsiyasi nimaga xizmat qiladi?",
+    "A": "O‘xshash va farqli tomonlarni aniqlash",
+    "B": "Qismlarga ajratish",
+    "C": "Umumiy tushuncha hosil qilish",
+    "D": "Tizimga solish",
+    "javob": "A"
+  },
+  {
+    "savol": "Abstraksiya nimani bildiradi?",
+    "A": "Muhim belgilarni ajratib olish jarayoni",
+    "B": "Qismlarni birlashtirish",
+    "C": "Narsalarni guruhlash",
+    "D": "Tizimlashtirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Umumlashtirish nima?",
+    "A": "O‘xshash belgilar asosida umumiy tushuncha hosil qilish",
+    "B": "Narsani tahlil qilish",
+    "C": "Farqlarni aniqlash",
+    "D": "Belgilarni ajratish",
+    "javob": "A"
+  },
+  {
+    "savol": "Klassifikatsiya nima?",
+    "A": "Narsalarni o‘xshash belgilariga ko‘ra guruhlarga ajratish",
+    "B": "Narsalarni birlashtirish",
+    "C": "Narsalarni tahlil qilish",
+    "D": "Belgilarni ajratish",
+    "javob": "A"
+  },
+  {
+    "savol": "Sistemalashtirish nimani anglatadi?",
+    "A": "Narsalarni tartib va tizim asosida joylashtirish",
+    "B": "Narsalarni solishtirish",
+    "C": "Belgilarni ajratish",
+    "D": "Narsalarni umumlashtirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Tushuncha nima?",
+    "A": "Narsa haqida umumiy tasavvur",
+    "B": "Narsa haqida hukm",
+    "C": "Yangi fikr hosil qilish",
+    "D": "Hissiy kechinma",
+    "javob": "A"
+  },
+  {
+    "savol": "Hukm nima?",
+    "A": "Narsa haqida tasdiq yoki inkor shaklidagi fikr",
+    "B": "Umumiy tushuncha",
+    "C": "Yangi xulosa",
+    "D": "Tasavvur",
+    "javob": "A"
+  },
+  {
+    "savol": "Xulosa chiqarish nima?",
+    "A": "Bir nechta hukmdan yangi fikr hosil qilish",
+    "B": "Narsani tasvirlash",
+    "C": "Belgilarni ajratish",
+    "D": "Narsani guruhlash",
+    "javob": "A"
+  },
+  {
+    "savol": "Induktiv xulosa chiqarish qanday kechadi?",
+    "A": "Yakka faktlardan umumiy xulosaga kelish",
+    "B": "Umumiydan yakka xulosaga kelish",
+    "C": "Tasodifiy xulosa chiqarish",
+    "D": "Belgilarni ajratish",
+    "javob": "A"
+  },
+  {
+    "savol": "Deduktiv xulosa chiqarish qanday amalga oshadi?",
+    "A": "Umumiydan yakka xulosaga o‘tish",
+    "B": "Yakkadan umumiyga o‘tish",
+    "C": "Tasodifiy xulosa chiqarish",
+    "D": "Belgilarni umumlashtirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Obrazli tafakkur qanday tavsiflanadi?",
+    "A": "Ko‘rish va tasavvurlar asosida fikrlash",
+    "B": "Mantiqiy tahlil orqali fikrlash",
+    "C": "Nazariy tushunchalar asosida fikrlash",
+    "D": "Formulalar asosida fikrlash",
+    "javob": "A"
+  },
+  {
+    "savol": "Mantiqiy tafakkur qachon rivojlana boshlaydi?",
+    "A": "4–6 yoshdan boshlab rivojlanadi",
+    "B": "Tug‘ilgandan boshlab shakllanadi",
+    "C": "Maktabdan keyin rivojlanadi",
+    "D": "O‘smirlikda paydo bo‘ladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ijodiy tafakkur nimaga bog‘liq?",
+    "A": "O‘yin, tasavvur va ijodiy faoliyatga bog‘liq",
+    "B": "Reflekslar tizimiga bog‘liq",
+    "C": "Sezgilar bilan cheklanadi",
+    "D": "Harakatlar bilan bog‘liq",
+    "javob": "A"
+  },
+  {
+    "savol": "So‘z-mantiqiy tafakkur nimaga asoslanadi?",
+    "A": "Nutq orqali fikrni ifodalashga asoslanadi",
+    "B": "Harakatlar orqali ifodalanadi",
+    "C": "Sezgilar orqali yuzaga keladi",
+    "D": "Tasodifiy shakllanadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Analiz va sintez qanday bog‘langan?",
+    "A": "Bir-birini to‘ldiruvchi yagona jarayon hisoblanadi",
+    "B": "Bir-biriga qarama-qarshi jarayonlar hisoblanadi",
+    "C": "Mustaqil jarayonlar sifatida kechadi",
+    "D": "Tasodifiy bog‘langan jarayonlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Maktabgacha yoshda tafakkur qanday xarakterga ega?",
+    "A": "Ko‘rgazmali-obrazli xarakter ustun bo‘ladi",
+    "B": "Abstrakt tafakkur ustun bo‘ladi",
+    "C": "Nazariy tafakkur ustun bo‘ladi",
+    "D": "Formal tafakkur ustun bo‘ladi",
+    "javob": "A"
+  },
+  {
+    "savol": "6–7 yoshdagi bolalarda nima rivojlanadi?",
+    "A": "Mantiqiy tafakkur shakllanishi kuchayadi",
+    "B": "Sezgi va ongsizlik jarayonlari rivojlanadi",
+    "C": "Harakat reflekslari ustun bo‘ladi",
+    "D": "Tasodifiy fikrlash kuchayadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq nima?",
+    "A": "Fikr va his-tuyg‘ularni tovush orqali ifodalash jarayoni",
+    "B": "Harakatlarni boshqarish tizimi",
+    "C": "Sezgilar orqali qabul qilish",
+    "D": "Tasavvurlar yig‘indisi",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutqning asosiy vazifasi nima?",
+    "A": "Muloqot va axborot almashish",
+    "B": "Harakatlarni boshqarish",
+    "C": "Sezgilarni rivojlantirish",
+    "D": "Reflekslarni shakllantirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq qanday turlarga bo‘linadi?",
+    "A": "Ichki va tashqi nutqqa bo‘linadi",
+    "B": "Og‘zaki va yozma xotiraga bo‘linadi",
+    "C": "Faol va passiv sezgilarga bo‘linadi",
+    "D": "Analiz va sintezga bo‘linadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Tashqi nutq qanday ko‘rinishga ega?",
+    "A": "Og‘zaki va yozma nutq shaklida namoyon bo‘ladi",
+    "B": "Fikr va tasavvur orqali ifodalanadi",
+    "C": "Harakat orqali ifodalanadi",
+    "D": "Reflekslar orqali yuzaga keladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Dialogik nutq nima?",
+    "A": "Ikki yoki undan ortiq kishilar o‘rtasidagi nutq",
+    "B": "Bir kishining nutqi",
+    "C": "Ichki fikrlash jarayoni",
+    "D": "Tasavvur orqali ifodalash",
+    "javob": "A"
+  },
+  {
+    "savol": "Monologik nutq qanday tavsiflanadi?",
+    "A": "Bir kishining izchil nutqi hisoblanadi",
+    "B": "Ikki kishining savol-javobi",
+    "C": "Ichki fikrlash shakli",
+    "D": "Tasodifiy nutq",
+    "javob": "A"
+  },
+  {
+    "savol": "Ichki nutq qanday vazifani bajaradi?",
+    "A": "Faoliyatni rejalashtirishga xizmat qiladi",
+    "B": "Muloqot uchungina ishlatiladi",
+    "C": "Harakatni boshqaradi",
+    "D": "Tovush chiqaradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Verbal kommunikatsiya nima?",
+    "A": "Nutq orqali axborot almashish",
+    "B": "Harakat orqali muloqot",
+    "C": "Mimika orqali muloqot",
+    "D": "Pantomimika orqali muloqot",
+    "javob": "A"
+  },
+  {
+    "savol": "Noverbal kommunikatsiya nimani o‘z ichiga oladi?",
+    "A": "Jest, mimika va pantomimikani o‘z ichiga oladi",
+    "B": "Nutq va yozuvni o‘z ichiga oladi",
+    "C": "So‘z va gaplarni o‘z ichiga oladi",
+    "D": "Fikr va tushunchalarni o‘z ichiga oladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Mimika nima?",
+    "A": "Yuz harakatlari orqali ifoda",
+    "B": "Qo‘l harakatlari orqali ifoda",
+    "C": "Tana harakatlari orqali ifoda",
+    "D": "Nutq orqali ifoda",
+    "javob": "A"
+  },
+  {
+    "savol": "Broka markazi qanday vazifani bajaradi?",
+    "A": "Nutq hosil qilishni boshqaradi",
+    "B": "Nutqni tushunishni boshqaradi",
+    "C": "Harakatni boshqaradi",
+    "D": "Sezgilarni boshqaradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Vernike markazi nimaga javob beradi?",
+    "A": "Nutqni tushunishga javob beradi",
+    "B": "Nutqni hosil qilishga javob beradi",
+    "C": "Harakatni boshqaradi",
+    "D": "Sezgilarni boshqaradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Angular gyrus qanday vazifani bajaradi?",
+    "A": "O‘qish va yozish jarayonida ishtirok etadi",
+    "B": "Nutq hosil qiladi",
+    "C": "Sezgini boshqaradi",
+    "D": "Harakat boshqariladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Prelingvistik davr qaysi yosh oralig‘ini qamrab oladi?",
+    "A": "0–1 yosh davrini qamrab oladi",
+    "B": "1–3 yosh davrini qamrab oladi",
+    "C": "3–5 yosh davrini qamrab oladi",
+    "D": "5–7 yosh davrini qamrab oladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Bola nutqida Babbling bosqichi qanday tavsiflanadi?",
+    "A": "Bo‘g‘inlarni takrorlash bilan namoyon bo‘ladi",
+    "B": "So‘zlarni yozish bilan boshlanadi",
+    "C": "Grammatik gaplar bilan boshlanadi",
+    "D": "Murakkab nutq bilan boshlanadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Egosentrik nutq nimani bildiradi?",
+    "A": "Bola o‘ziga qaratib gapiradi",
+    "B": "Bola boshqalar bilan muloqot qiladi",
+    "C": "Bola yozma nutqdan foydalanadi",
+    "D": "Bola nutqdan foydalanmaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "1–3 yoshda nutq qanday rivojlanadi?",
+    "A": "Lug‘at boyligi tez ortadi va gaplar shakllanadi",
+    "B": "Nutq susayadi",
+    "C": "Harakat rivojlanadi",
+    "D": "Nutq shakllanmaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "5–7 yoshda nutq qanday rivojlanadi?",
+    "A": "Mantiqiy va grammatik nutq shakllanadi",
+    "B": "Nutq sekinlashadi",
+    "C": "Nutq yo‘qoladi",
+    "D": "Nutq o‘zgarmaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Duduqlanish qanday nutq buzilishi hisoblanadi?",
+    "A": "Nutq ritmi buzilishi bilan bog‘liq holat",
+    "B": "Tovush noto‘g‘ri aytilishi",
+    "C": "Nutqning yo‘qolishi",
+    "D": "Nutqni tushunmaslik",
+    "javob": "A"
+  },
+  {
+    "savol": "Empatiya nima?",
+    "A": "Boshqa inson hissiyotlarini tushunish qobiliyati",
+    "B": "O‘z fikrini ifodalash qobiliyati",
+    "C": "Harakatni boshqarish qobiliyati",
+    "D": "Sezgilarni kuchaytirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Xayol nima?",
+    "A": "Yangi obrazlarni yaratish jarayoni",
+    "B": "Sezgi orqali qabul qilish jarayoni",
+    "C": "Harakatni boshqarish tizimi",
+    "D": "Hissiy kechinmalar yig‘indisi",
+    "javob": "A"
+  },
+  {
+    "savol": "Xayolning fiziologik asosi nimaga bog‘liq?",
+    "A": "Miyada hosil bo‘lgan aloqalarning qayta tiklanishiga",
+    "B": "Mushaklar harakatiga",
+    "C": "Nafas olish jarayoniga",
+    "D": "Qon aylanishiga",
+    "javob": "A"
+  },
+  {
+    "savol": "Agglyutinatsiya nima?",
+    "A": "Turli qismlarni birlashtirib yangi obraz yaratish",
+    "B": "Obrazni kattalashtirish",
+    "C": "Belgilarni kamaytirish",
+    "D": "Tasavvurni yo‘qotish",
+    "javob": "A"
+  },
+  {
+    "savol": "Giperbolizatsiya qanday jarayon?",
+    "A": "Obrazni kattalashtirish yoki kichiklashtirish",
+    "B": "Qismlarni birlashtirish",
+    "C": "Belgilarni umumlashtirish",
+    "D": "Tasodifiy tasvirlash",
+    "javob": "A"
+  },
+  {
+    "savol": "Aksentlashtirish nimani bildiradi?",
+    "A": "Belgilarni ajratib ta’kidlash orqali obraz yaratish",
+    "B": "Belgilarni yo‘qotish",
+    "C": "Obrazni soddalashtirish",
+    "D": "Tasodifiy yaratish",
+    "javob": "A"
+  },
+  {
+    "savol": "Ijodiy xayol nima?",
+    "A": "Yangi obraz va g‘oyalarni yaratish jarayoni",
+    "B": "Oldingi tasavvurlarni takrorlash",
+    "C": "Sezgilarni kuchaytirish",
+    "D": "Harakatni boshqarish",
+    "javob": "A"
+  },
+  {
+    "savol": "Tasavvur xayoli qanday tavsiflanadi?",
+    "A": "Oldin ko‘rilmagan obrazlarni tasavvur qilish",
+    "B": "Real voqeani takrorlash",
+    "C": "Harakatni boshqarish",
+    "D": "Sezgilarni kuchaytirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Ixtiyorsiz xayol qanday yuzaga keladi?",
+    "A": "Maqsadsiz, o‘z-o‘zidan paydo bo‘ladi",
+    "B": "Ongli ravishda yaratiladi",
+    "C": "Reja asosida shakllanadi",
+    "D": "Mashq orqali yuzaga keladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ixtiyoriy xayol nimaga asoslanadi?",
+    "A": "Maqsad va iroda asosida obraz yaratishga",
+    "B": "Tasodifiy fikrlashga",
+    "C": "Sezgilar faoliyatiga",
+    "D": "Harakat reflekslariga",
+    "javob": "A"
+  },
+  {
+    "savol": "Realistik xayol nimani aks ettiradi?",
+    "A": "Voqelik bilan bog‘liq obrazlarni yaratadi",
+    "B": "Amalga oshmaydigan obrazlarni yaratadi",
+    "C": "Tasodifiy fikrlarni hosil qiladi",
+    "D": "Hissiy holatni aks ettiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Fantastik xayol qanday bo‘ladi?",
+    "A": "Amalga oshmaydigan obrazlar bilan bog‘liq bo‘ladi",
+    "B": "Real voqealarni aks ettiradi",
+    "C": "Mantiqiy fikrlashga asoslanadi",
+    "D": "Tajribaga tayangan bo‘ladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Orzu qanday xayol turiga kiradi?",
+    "A": "Ijodiy xayolning kelajakka yo‘naltirilgan shakliga kiradi",
+    "B": "Tasavvur xayoliga kiradi",
+    "C": "Sezgi jarayoniga kiradi",
+    "D": "Harakat faoliyatiga kiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Bolalarda xayol qanday rivojlanadi?",
+    "A": "Taqlid va o‘yin faoliyati orqali rivojlanadi",
+    "B": "Biologik jarayon orqaliginarivojlanadi",
+    "C": "Harakat reflekslari orqali rivojlanadi",
+    "D": "Tasodifiy ravishda rivojlanadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Egosentrik xayol qanday namoyon bo‘ladi?",
+    "A": "Bola o‘z ehtiyojlari asosida tasavvur qiladi",
+    "B": "Bola boshqalar fikriga tayanadi",
+    "C": "Bola nutq orqali ifodalaydi",
+    "D": "Bola yozma tasvirlaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Xayol sifatlariga nimalar kiradi?",
+    "A": "Kenglik, kuch, mazmundorlik va reallik kiradi",
+    "B": "Harakat tezligi va reflekslar kiradi",
+    "C": "Sezgi va idrok kiradi",
+    "D": "Fiziologik jarayonlar kiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Hissiyot nima?",
+    "A": "Tashqi olamga nisbatan ichki kechinmalarning aks etishi",
+    "B": "Harakatni boshqarish jarayoni",
+    "C": "Sezgilar yig‘indisi",
+    "D": "Tafakkur natijasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Emotsiya qanday tavsiflanadi?",
+    "A": "Ehtiyoj va qiziqishlarga bog‘liq kechinmalar",
+    "B": "Harakat reflekslari yig‘indisi",
+    "C": "Sezgi organlari faoliyati",
+    "D": "Mantiqiy fikrlash jarayoni",
+    "javob": "A"
+  },
+  {
+    "savol": "Hissiyotlar nimaga bog‘liq holda yuzaga keladi?",
+    "A": "Ehtiyoj va qiziqishlarga bog‘liq holda",
+    "B": "Mushak harakatlariga bog‘liq holda",
+    "C": "Nafas olishga bog‘liq holda",
+    "D": "Tasodifiy ravishda",
+    "javob": "A"
+  },
+  {
+    "savol": "Ambivalentlik nimani bildiradi?",
+    "A": "Qarama-qarshi hissiyotlarning bir vaqtda mavjudligi",
+    "B": "Bir xil hissiyotning davomiyligi",
+    "C": "Hissiyotning yo‘qolishi",
+    "D": "Tasodifiy kechinma",
+    "javob": "A"
+  },
+  {
+    "savol": "Stenik hissiyot qanday bo‘ladi?",
+    "A": "Faollikni oshiruvchi ijobiy hissiyot",
+    "B": "Kuchni pasaytiruvchi hissiyot",
+    "C": "Tasodifiy hissiy holat",
+    "D": "Sezgilar bilan bog‘liq holat",
+    "javob": "A"
+  },
+  {
+    "savol": "Astenik hissiyot qanday tavsiflanadi?",
+    "A": "Faollikni pasaytiruvchi hissiy holat",
+    "B": "Faollikni kuchaytiruvchi holat",
+    "C": "Tasodifiy kechinma",
+    "D": "Mantiqiy tafakkur",
+    "javob": "A"
+  },
+  {
+    "savol": "Affekt nima?",
+    "A": "Kuchli va qisqa muddatli hissiy holat",
+    "B": "Uzoq davom etuvchi hissiyot",
+    "C": "Oddiy kayfiyat holati",
+    "D": "Sezgilar yig‘indisi",
+    "javob": "A"
+  },
+  {
+    "savol": "Stress nima?",
+    "A": "Zo‘riqish natijasida yuzaga keladigan holat",
+    "B": "Ijobiy hissiyot",
+    "C": "Harakat refleksi",
+    "D": "Sezgi jarayoni",
+    "javob": "A"
+  },
+  {
+    "savol": "Fiziologik stress nimadan kelib chiqadi?",
+    "A": "Jismoniy zo‘riqish va og‘riqlardan kelib chiqadi",
+    "B": "Fikr yuritishdan kelib chiqadi",
+    "C": "Tasavvurdan kelib chiqadi",
+    "D": "Nutqdan kelib chiqadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Psixologik stress qanday yuzaga keladi?",
+    "A": "Ruhiy ta’sirlar natijasida yuzaga keladi",
+    "B": "Mushak harakati natijasida",
+    "C": "Nafas olish natijasida",
+    "D": "Qon aylanish natijasida",
+    "javob": "A"
+  },
+  {
+    "savol": "Maslou nazariyasiga ko‘ra ehtiyojlarning yuqori bosqichi qaysi?",
+    "A": "O‘zini namoyon qilish ehtiyoji",
+    "B": "Fiziologik ehtiyojlar",
+    "C": "Xavfsizlik ehtiyojlari",
+    "D": "Ijtimoiy ehtiyojlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Hissiyotning tashqi ifodasi nimada ko‘rinadi?",
+    "A": "Mimika va harakatlarda namoyon bo‘ladi",
+    "B": "Nutq jarayonidagina ko‘rinadi",
+    "C": "Tafakkurda yuz beradi",
+    "D": "Xotirada saqlanadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Intellektual hissiyotlar nimaga bog‘liq?",
+    "A": "Bilish jarayonlariga bog‘liq",
+    "B": "Harakatlarga bog‘liq",
+    "C": "Nafas olishga bog‘liq",
+    "D": "Sezgilarga bog‘liq",
+    "javob": "A"
+  },
+  {
+    "savol": "Estetik hissiyot nimani anglatadi?",
+    "A": "Go‘zallikni idrok qilish va undan zavqlanish",
+    "B": "Harakatni boshqarish",
+    "C": "Sezgilarni kuchaytirish",
+    "D": "Mantiqiy fikrlash",
+    "javob": "A"
+  },
+  {
+    "savol": "Depressiya qanday holat?",
+    "A": "Uzoq davom etuvchi tushkun ruhiy holat",
+    "B": "Qisqa muddatli quvonch",
+    "C": "Harakat faolligi oshishi",
+    "D": "Sezgi kuchayishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Iroda nima?",
+    "A": "Maqsadga erishishda qiyinchiliklarni yengib o‘tishga qaratilgan ongli faoliyat",
+    "B": "Sezgi orqali ma’lumot qabul qilish",
+    "C": "Harakat reflekslari yig‘indisi",
+    "D": "Hissiy kechinmalar majmui",
+    "javob": "A"
+  },
+  {
+    "savol": "Irodaviy harakatlar qanday bo‘ladi?",
+    "A": "Ongli ravishda boshqariladigan harakatlar",
+    "B": "Tasodifiy yuzaga keladigan harakatlar",
+    "C": "Reflektor harakatlar",
+    "D": "Avtomatik jarayonlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Ixtiyorsiz harakatlarga qaysi misol mos keladi?",
+    "A": "Ko‘z pirpiratish yoki qo‘lni tortib olish",
+    "B": "Reja asosida ish bajarish",
+    "C": "Maqsad sari harakat qilish",
+    "D": "Qaror qabul qilish",
+    "javob": "A"
+  },
+  {
+    "savol": "Irodaviy harakatlarning birinchi bosqichi qaysi?",
+    "A": "Maqsadni belgilash va unga intilish",
+    "B": "Qarorni amalga oshirish",
+    "C": "Motivlar kurashi",
+    "D": "Natijani baholash",
+    "javob": "A"
+  },
+  {
+    "savol": "Motiv nima?",
+    "A": "Harakatni tanlash sababini belgilovchi omil",
+    "B": "Sezgi jarayoni",
+    "C": "Harakat refleksi",
+    "D": "Tasodifiy fikr",
+    "javob": "A"
+  },
+  {
+    "savol": "Motivlar kurashi nimani bildiradi?",
+    "A": "Bir nechta variant orasidan tanlash jarayoni",
+    "B": "Harakatni to‘xtatish jarayoni",
+    "C": "Sezgilarni kuchaytirish",
+    "D": "Tasodifiy qaror",
+    "javob": "A"
+  },
+  {
+    "savol": "Qarorga kelish qanday jarayon?",
+    "A": "Maqsad va unga erishish yo‘lini tanlash",
+    "B": "Harakatni boshlash",
+    "C": "Sezgi jarayoni",
+    "D": "Tasavvur hosil qilish",
+    "javob": "A"
+  },
+  {
+    "savol": "Qat’iyat nima?",
+    "A": "Qarorni tez va ishonch bilan qabul qilish",
+    "B": "Qaror qabul qila olmaslik",
+    "C": "Tasodifiy harakat qilish",
+    "D": "Sezgi kuchayishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Irodaviy sifatlardan qaysi biri to‘g‘ri?",
+    "A": "Matonat va qat’iyat",
+    "B": "Sezgi va idrok",
+    "C": "Nafas olish va harakat",
+    "D": "Refleks va instinkt",
+    "javob": "A"
+  },
+  {
+    "savol": "Ichki iroda nimani anglatadi?",
+    "A": "O‘zini boshqarish va ichki to‘siqlarni yengish",
+    "B": "Tashqi muhitga moslashish",
+    "C": "Harakat reflekslari",
+    "D": "Sezgi faoliyati",
+    "javob": "A"
+  },
+  {
+    "savol": "Tashqi iroda qanday tavsiflanadi?",
+    "A": "Tashqi qiyinchiliklarni yengish qobiliyati",
+    "B": "Ichki kechinmalarni boshqarish",
+    "C": "Tasavvur hosil qilish",
+    "D": "Sezgi jarayoni",
+    "javob": "A"
+  },
+  {
+    "savol": "Abuliya nima?",
+    "A": "Harakat boshlashda sustlik va irodaning pasayishi",
+    "B": "Faollikning ortishi",
+    "C": "Hissiyot kuchayishi",
+    "D": "Sezgilar rivojlanishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Gipobuliya qanday holat?",
+    "A": "Iroda kuchining pasayishi va tashabbus yo‘qligi",
+    "B": "Harakat faolligining ortishi",
+    "C": "Sezgi kuchayishi",
+    "D": "Tafakkur rivoji",
+    "javob": "A"
+  },
+  {
+    "savol": "Irodaviy zo‘r berish nimani bildiradi?",
+    "A": "Qarorni amalga oshirish uchun ongli zo‘riqish",
+    "B": "Sezgi faoliyati",
+    "C": "Tasavvur jarayoni",
+    "D": "Refleks harakati",
+    "javob": "A"
+  },
+  {
+    "savol": "Irodaning mustaqilligi nimada namoyon bo‘ladi?",
+    "A": "Tashabbuskorlik va mustaqil qaror qabul qilishda",
+    "B": "Sezgi kuchayishida",
+    "C": "Harakat tezligida",
+    "D": "Nafas olishda",
+    "javob": "A"
+  },
+  {
+    "savol": "Irodaviy harakatlar qanday tavsiflanadi?",
+    "A": "Oldindan anglangan va maqsadga yo‘naltirilgan harakatlar",
+    "B": "Tasodifiy yuzaga keladigan harakatlar",
+    "C": "Reflektor reaksiyalar yig‘indisi",
+    "D": "Sezgilar orqali boshqariladigan harakatlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Ixtiyorsiz harakatlarning asosini nima tashkil etadi?",
+    "A": "Shartsiz reflekslar",
+    "B": "Ongli qarorlar",
+    "C": "Rejalashtirilgan faoliyat",
+    "D": "Motivlar kurashi",
+    "javob": "A"
+  },
+  {
+    "savol": "Irodaviy harakatlarning oxirgi bosqichi qaysi?",
+    "A": "Qarorni amalga oshirish",
+    "B": "Motivlar kurashi",
+    "C": "Maqsadni aniqlash",
+    "D": "Imkoniyatlarni baholash",
+    "javob": "A"
+  },
+  {
+    "savol": "Maqsad tushunchasi nimani anglatadi?",
+    "A": "Zarur deb topilgan harakat natijasini tasavvur qilish",
+    "B": "Sezgi orqali qabul qilish",
+    "C": "Tasodifiy fikrlar yig‘indisi",
+    "D": "Refleksli harakat",
+    "javob": "A"
+  },
+  {
+    "savol": "Ichki iroda nimaga asoslanadi?",
+    "A": "O‘zini boshqarish va ichki to‘siqlarni yengishga",
+    "B": "Tashqi ta’sirlarga moslashishga",
+    "C": "Harakat reflekslariga",
+    "D": "Sezgilar faoliyatiga",
+    "javob": "A"
+  },
+  {
+    "savol": "Tashqi iroda nimani bildiradi?",
+    "A": "Tashqi qiyinchiliklarni yengish qobiliyatini",
+    "B": "Ichki kechinmalarni boshqarishni",
+    "C": "Tasavvur qilish jarayonini",
+    "D": "Sezgilarni kuchaytirishni",
+    "javob": "A"
+  },
+  {
+    "savol": "Irodasizlik qanday holat?",
+    "A": "Iroda kuchining yetarli darajada namoyon bo‘lmasligi",
+    "B": "Faollikning ortishi",
+    "C": "Sezgi kuchayishi",
+    "D": "Tafakkur rivojlanishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Irodaviy harakatlarning fiziologik asosi nimaga bog‘liq?",
+    "A": "Bosh miya po‘stlog‘ining faoliyatiga",
+    "B": "Mushaklar kuchiga",
+    "C": "Nafas olish tizimiga",
+    "D": "Qon aylanishiga",
+    "javob": "A"
+  },
+  {
+    "savol": "Ijobiy irodaviy sifatlardan biri qaysi?",
+    "A": "Qat’iyatlilik",
+    "B": "Beparvolik",
+    "C": "Ikkilanish",
+    "D": "Sustkashlik",
+    "javob": "A"
+  },
+  {
+    "savol": "Maktab yoshidagi bolalarda iroda qanday rivojlanadi?",
+    "A": "Rejalashtirish va nazorat qilish qobiliyati ortadi",
+    "B": "Reflekslar kuchayadi",
+    "C": "Sezgilar susayadi",
+    "D": "Tasavvur kamayadi",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘smirlik davrida irodaning xususiyati qanday?",
+    "A": "Emotsiyalar bilan birga rivojlanadi va ba’zan beqaror bo‘ladi",
+    "B": "To‘liq shakllanmagan holda qoladi",
+    "C": "Reflekslarga asoslanadi",
+    "D": "Sezgilarga bog‘liq bo‘ladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Malaka nima?",
+    "A": "Mashq orqali avtomatlashgan harakat usuli",
+    "B": "Tasodifiy bajarilgan ish",
+    "C": "Sezgi jarayoni",
+    "D": "Tafakkur natijasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko‘nikma nimani anglatadi?",
+    "A": "Bilim va malakalardan foydalanish qobiliyatini",
+    "B": "Refleksli harakatni",
+    "C": "Tasodifiy fikrni",
+    "D": "Hissiy holatni",
+    "javob": "A"
+  },
+  {
+    "savol": "Negativizm qanday holat?",
+    "A": "Tashqi ta’sirlarga asossiz qarshilik ko‘rsatish",
+    "B": "Qarorni tez qabul qilish",
+    "C": "Harakatni rejalashtirish",
+    "D": "Sezgi kuchayishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysarlik nimada namoyon bo‘ladi?",
+    "A": "Boshqalarning fikriga qarshi turib o‘z yo‘lidan qaytmaslikda",
+    "B": "Tez moslashishda",
+    "C": "Sezgilarni boshqarishda",
+    "D": "Tasavvur kuchayishida",
+    "javob": "A"
+  },
+  {
+    "savol": "Davlat talablarining asosiy maqsadi nimadan iborat?",
+    "A": "Bolalarni har tomonlama yetuk qilib tarbiyalash",
+    "B": "Bilim berishni tashkil etish",
+    "C": "O‘yin faoliyatini nazorat qilish",
+    "D": "Nutqni rivojlantirish bilan cheklanish",
+    "javob": "A"
+  },
+  {
+    "savol": "Ichki nazorat kim tomonidan amalga oshiriladi?",
+    "A": "Ta’lim muassasasi rahbari va boshqaruv organlari tomonidan",
+    "B": "Ota-onalar tomonidan",
+    "C": "Xalqaro tashkilotlar tomonidan",
+    "D": "O‘qituvchilar tomonidan",
+    "javob": "A"
+  },
+  {
+    "savol": "Jamoatchilik nazorati kim tomonidan olib boriladi?",
+    "A": "Mahalla va fuqarolar yig‘ini komissiyasi tomonidan",
+    "B": "Vazirlik tomonidan",
+    "C": "O‘qituvchilar tomonidan",
+    "D": "Talabalar tomonidan",
+    "javob": "A"
+  },
+  {
+    "savol": "“Men” konsepsiyasi nimani anglatadi?",
+    "A": "Bolaning o‘zi haqidagi anglangan tasavvurlari tizimi",
+    "B": "Sezgi jarayonlari yig‘indisi",
+    "C": "Harakat reflekslari tizimi",
+    "D": "Bilish faoliyati shakli",
+    "javob": "A"
+  },
+  {
+    "savol": "Refleksiv faoliyat qanday jarayon?",
+    "A": "O‘z xatti-harakatini tahlil qilib xulosa chiqarish jarayoni",
+    "B": "Harakatni avtomatik bajarish jarayoni",
+    "C": "Sezgilarni qabul qilish jarayoni",
+    "D": "Nutqni shakllantirish jarayoni",
+    "javob": "A"
+  },
+  {
+    "savol": "Ijtimoiy-hissiy rivojlanish sohasiga qaysi kichik soha kiradi?",
+    "A": "Hissiyotlar va ularni boshqarish",
+    "B": "Matematik fikrlash",
+    "C": "Harakat reflekslari",
+    "D": "Biologik rivojlanish",
+    "javob": "A"
+  },
+  {
+    "savol": "0–1 yoshdagi bola qanday xususiyatga ega bo‘ladi?",
+    "A": "O‘z ismiga munosabat bildiradi va hissiy javob qaytaradi",
+    "B": "Murakkab mantiqiy fikrlaydi",
+    "C": "Rejalashtirilgan harakat qiladi",
+    "D": "Mustaqil qaror qabul qiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "2–3 yoshdagi bola qanday rivojlanadi?",
+    "A": "O‘zini mustaqil tutishga va ish bajarishga intiladi",
+    "B": "Reflekslar asosidagina harakat qiladi",
+    "C": "Mantiqiy fikrlash ustun bo‘ladi",
+    "D": "Qaror qabul qila olmaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Kommunikativ kompetensiya nimani bildiradi?",
+    "A": "Turli vaziyatlarda muloqot vositalaridan foydalanish qobiliyati",
+    "B": "Harakatni boshqarish qobiliyati",
+    "C": "Sezgi faoliyatini kuchaytirish",
+    "D": "Reflekslarni rivojlantirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Ijtimoiy kompetensiya nimani anglatadi?",
+    "A": "Jamiyatda me’yor va qoidalarga amal qilib o‘zini tutish qobiliyati",
+    "B": "Sezgilarni rivojlantirish jarayoni",
+    "C": "Harakat tezligini oshirish",
+    "D": "Tafakkurni cheklash",
+    "javob": "A"
+  },
+  {
+    "savol": "Agglyutinatsiya usuli xayolda nimani bildiradi?",
+    "A": "Turli obraz qismlarini birlashtirish orqali yangi obraz yaratish",
+    "B": "Belgilarni kamaytirish orqali tasvirlash",
+    "C": "Tasodifiy fikrlar yig‘indisini hosil qilish",
+    "D": "Harakatni ongdan chiqarish",
+    "javob": "A"
+  },
+  {
+    "savol": "Xayolda sxemalashtirish nimaga xizmat qiladi?",
+    "A": "Obrazni soddalashtirib umumiy shaklga keltirishga",
+    "B": "Obrazni kattalashtirishga",
+    "C": "Obrazni yo‘qotishga",
+    "D": "Harakatni tezlashtirishga",
+    "javob": "A"
+  },
+  {
+    "savol": "Ixtiyoriy xayol qaysi omilga asoslanadi?",
+    "A": "Ongli maqsad va vazifaga asoslanadi",
+    "B": "Refleksga asoslanadi",
+    "C": "Tasodifiy ta’sirga asoslanadi",
+    "D": "Sezgiga asoslanadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Xayolning passiv shakli qanday bo‘ladi?",
+    "A": "Ongsiz va nazoratsiz obrazlar paydo bo‘ladi",
+    "B": "Maqsadli obrazlar yaratiladi",
+    "C": "Harakat bilan bog‘liq bo‘ladi",
+    "D": "Mantiqiy fikr bilan bog‘liq",
+    "javob": "A"
+  },
+  {
+    "savol": "Fantaziya rivojlanishida nima asosiy rol o‘ynaydi?",
+    "A": "Ijodiy tajriba va tasavvur kengligi",
+    "B": "Nafas olish tezligi",
+    "C": "Mushak kuchi",
+    "D": "Refleks faoliyati",
+    "javob": "A"
+  },
+  {
+    "savol": "Emotsional barqarorlik nimani anglatadi?",
+    "A": "Hissiyotlarni muvozanatda ushlab turish qobiliyatini",
+    "B": "Hissiyotlarni tez o‘zgartirishni",
+    "C": "Hissiyotlarni yo‘qotishni",
+    "D": "Sezgilarni kuchaytirishni",
+    "javob": "A"
+  },
+  {
+    "savol": "Affektiv portlash nimaga olib keladi?",
+    "A": "Nazoratning vaqtincha yo‘qolishiga",
+    "B": "Mantiqiy fikr kuchayishiga",
+    "C": "Harakat sekinlashishiga",
+    "D": "Xotira kuchayishiga",
+    "javob": "A"
+  },
+  {
+    "savol": "Hissiy tonus nimani bildiradi?",
+    "A": "Umumiy emotsional fonni",
+    "B": "Qisqa hissiy portlashni",
+    "C": "Harakat refleksini",
+    "D": "Sezgi intensivligini",
+    "javob": "A"
+  },
+  {
+    "savol": "Stressga chidamlilik nimaga bog‘liq?",
+    "A": "Shaxsning psixologik barqarorligiga",
+    "B": "Nafas olish chastotasiga",
+    "C": "Mushak kuchiga",
+    "D": "Refleks tezligiga",
+    "javob": "A"
+  },
+  {
+    "savol": "Ijobiy hissiyotlar qanday ta’sir ko‘rsatadi?",
+    "A": "Faoliyat samaradorligini oshiradi",
+    "B": "Faoliyatni sekinlashtiradi",
+    "C": "Sezgini kamaytiradi",
+    "D": "Xotirani susaytiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Irodaning tartibga soluvchi funksiyasi nimada?",
+    "A": "Xulq-atvorni boshqarishda",
+    "B": "Sezgini kuchaytirishda",
+    "C": "Refleksni tezlashtirishda",
+    "D": "Nafasni nazorat qilishda",
+    "javob": "A"
+  },
+  {
+    "savol": "Irodaviy harakatda eng muhim omil qaysi?",
+    "A": "Maqsadning aniq bo‘lishi",
+    "B": "Tasodifiy harakat",
+    "C": "Sezgi kuchi",
+    "D": "Refleks tezligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Motivlar ierarxiyasi nimani bildiradi?",
+    "A": "Motivlarning ustuvorlik darajasi mavjudligini",
+    "B": "Barcha motivlar tengligini",
+    "C": "Motivlarning yo‘qligini",
+    "D": "Refleks ustunligini",
+    "javob": "A"
+  },
+  {
+    "savol": "Iroda va emotsiya o‘rtasidagi bog‘liqlik nimada?",
+    "A": "Emotsiya iroda kuchiga ta’sir qiladi",
+    "B": "Iroda emotsiyani yo‘q qiladi",
+    "C": "Ikkalasi aloqasiz",
+    "D": "Emotsiya refleksdir",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaror qabul qilishdagi ikkilanish nimani ko‘rsatadi?",
+    "A": "Motivlar o‘rtasidagi qarama-qarshilikni",
+    "B": "Sezgining kuchayishini",
+    "C": "Refleksni",
+    "D": "Nafasni",
+    "javob": "A"
+  },
+  {
+    "savol": "Xotiraning operativ turi nimaga xizmat qiladi?",
+    "A": "Vaqtinchalik axborotni saqlashga",
+    "B": "Doimiy saqlashga",
+    "C": "Refleksga",
+    "D": "Sezgiga",
+    "javob": "A"
+  },
+  {
+    "savol": "Xotira hajmi nimani bildiradi?",
+    "A": "Eslab qolish mumkin bo‘lgan ma’lumot miqdorini",
+    "B": "Sezgi kuchini",
+    "C": "Harakat tezligini",
+    "D": "Nafas hajmini",
+    "javob": "A"
+  },
+  {
+    "savol": "Xotira mustahkamligi nimaga bog‘liq?",
+    "A": "Takrorlash va tushunishga",
+    "B": "Nafas olishga",
+    "C": "Mushak kuchiga",
+    "D": "Refleksga",
+    "javob": "A"
+  },
+  {
+    "savol": "Esga tushirish jarayoni qanday kechadi?",
+    "A": "Saqlangan ma’lumotni ongga qaytarish orqali",
+    "B": "Yangi ma’lumot yaratish orqali",
+    "C": "Refleks orqali",
+    "D": "Sezgi orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Unutishning tabiiy sababi nima?",
+    "A": "Izlarning so‘nishi",
+    "B": "Nafas yetishmasligi",
+    "C": "Mushak charchashi",
+    "D": "Refleks buzilishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Tafakkurning muhim belgisi qaysi?",
+    "A": "Bilvosita aks ettirish",
+    "B": "To‘g‘ridan-to‘g‘ri qabul qilish",
+    "C": "Refleks",
+    "D": "Sezgi",
+    "javob": "A"
+  },
+  {
+    "savol": "Sezgining adaptatsiyasi nimani anglatadi?",
+    "A": "Ta’sirga moslashish jarayonini",
+    "B": "Ta’sirni kuchaytirishni",
+    "C": "Refleksni yo‘qotishni",
+    "D": "Harakatni oshirishni",
+    "javob": "A"
+  },
+  {
+    "savol": "Ijtimoiy tajriba nimani beradi?",
+    "A": "Xulq-atvor me’yorlarini o‘rgatadi",
+    "B": "Nafasni boshqaradi",
+    "C": "Mushakni rivojlantiradi",
+    "D": "Refleksni kuchaytiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Kompetensiya nimani bildiradi?",
+    "A": "Bilim va ko‘nikmalarni amalda qo‘llash qobiliyatini",
+    "B": "Sezgini",
+    "C": "Harakatni",
+    "D": "Refleksni",
+    "javob": "A"
+  },
+  {
+    "savol": "Bolaning hissiy rivojlanishida o‘yin nima beradi?",
+    "A": "Emotsional tajriba va ijtimoiy o‘rganish",
+    "B": "Refleks",
+    "C": "Nafas",
+    "D": "Mushak",
+    "javob": "A"
+  },
+  {
+    "savol": "Ijtimoiy muhitning roli nimada?",
+    "A": "Shaxs rivojlanishini shakllantirishda",
+    "B": "Refleksni oshirishda",
+    "C": "Nafasni boshqarishda",
+    "D": "Sezgini kamaytirishda",
+    "javob": "A"
+  }
+]
