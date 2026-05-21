@@ -10,8 +10,14 @@
     <script>
         window.MathJax = {
             tex: {
-                inlineMath: [['$', '$'], ['\\(', '\\)']],
-                displayMath: [['$$', '$$'], ['\\[', '\\]']],
+                inlineMath: [
+                    ['$', '$'],
+                    ['\\(', '\\)']
+                ],
+                displayMath: [
+                    ['$$', '$$'],
+                    ['\\[', '\\]']
+                ],
                 packages: { '[+]': ['ams', 'newcommand'] }
             },
             options: { ignoreHtmlClass: 'no-mathjax', processHtmlClass: 'math' },
@@ -458,11 +464,6 @@
                     style="background:var(--primary-glow);color:var(--primary);">
                     <span id="current-badge">1</span>/<span id="total-badge">35</span>
                 </div>
-                <div id="variant-badge"
-                    class="hidden px-2.5 py-1 rounded-lg font-bold text-[10px] md:text-xs whitespace-nowrap"
-                    style="background:var(--primary-glow);color:var(--primary);">
-                    <span id="variant-text">1-variant</span>
-                </div>
             </div>
         </header>
 
@@ -520,7 +521,6 @@
                     </div>
                 </div>
                 <div id="semester-list" class="space-y-3"></div>
-
                 <button onclick="goBackToDirections()"
                     class="mt-5 w-full py-3.5 rounded-xl text-center transition-all active:scale-95 text-sm font-bold flex items-center justify-center gap-2"
                     style="background:var(--bg);color:var(--text-sec);border:1px solid var(--border);">
@@ -546,14 +546,12 @@
                     </div>
                 </div>
                 <div id="subject-list" class="space-y-3"></div>
-
                 <button onclick="goBackToSemesters()"
                     class="mt-5 w-full py-3.5 rounded-xl text-center transition-all active:scale-95 text-sm font-bold flex items-center justify-center gap-2"
                     style="background:var(--bg);color:var(--text-sec);border:1px solid var(--border);">
                     <i class="icon-arrow-left" style="font-size:16px;"></i>
                     Orqaga qaytish
                 </button>
-
                 <div id="loading-spinner" class="hidden py-6 space-y-3">
                     <div class="skeleton h-14 w-full"></div>
                     <div class="skeleton h-14 w-full"></div>
@@ -582,6 +580,31 @@
                 </div>
                 <div id="mode-buttons" class="space-y-3"></div>
                 <button onclick="goBackToSubjects()"
+                    class="mt-5 w-full py-3.5 rounded-xl text-center transition-all active:scale-95 text-sm font-bold flex items-center justify-center gap-2"
+                    style="background:var(--bg);color:var(--text-sec);border:1px solid var(--border);">
+                    <i class="icon-arrow-left" style="font-size:16px;"></i>
+                    Orqaga qaytish
+                </button>
+            </div>
+        </div>
+
+        <!-- Variant Selection Screen (only for variant mode) -->
+        <div id="variant-selection-screen" class="hidden screen">
+            <div class="rounded-3xl p-5 md:p-8 relative overflow-hidden"
+                style="background:var(--card-solid);border:1px solid var(--border);box-shadow:var(--shadow-lg);">
+                <div class="absolute top-0 left-0 w-full h-1" style="background:var(--primary);"></div>
+                <div class="flex items-center gap-3 mb-6">
+                    <div class="w-10 h-10 rounded-xl flex items-center justify-center"
+                        style="background:var(--primary-glow);">
+                        <i class="icon-layers" style="font-size:20px;color:var(--primary);"></i>
+                    </div>
+                    <div>
+                        <h2 class="text-lg md:text-xl font-extrabold" style="color:var(--text);">Variant tanlang</h2>
+                        <p class="text-xs" style="color:var(--text-muted);">4 ta variantdan birini tanlang</p>
+                    </div>
+                </div>
+                <div id="variant-buttons" class="space-y-3"></div>
+                <button onclick="goBackToMode()"
                     class="mt-5 w-full py-3.5 rounded-xl text-center transition-all active:scale-95 text-sm font-bold flex items-center justify-center gap-2"
                     style="background:var(--bg);color:var(--text-sec);border:1px solid var(--border);">
                     <i class="icon-arrow-left" style="font-size:16px;"></i>
@@ -722,7 +745,7 @@
                 "KM-Siyosatshunoslik": { "1-semestr": ["Konstitutsiyaviy huquq", "O'zbekistonning eng yangi tarixi", "Siyosatshunoslikka kirish", "Siyosiy ta`limotlar tarixi", "Xorijiy til"], "2-semestr": ["Siyosiy madaniyat, mafkura va antrpologiya", "Kratologiya"] },
                 "KM-Tarix": { "1-semestr": ["Arxeologiya", "Jahon tarixi", "O'zbekiston tarixi", "Tarixiy geografiya", "Umumiy psixologiya", "Xorijiy til"], "2-semestr": ["Allomalarining ilmiy merosi", "Falsafa"] },
                 "KM-EM": { "1-semestr": ["Dinshunoslik", "Fizika", "Oliy matematika", "Yo'nalishga kirish", "Тexnik tizimlarda AKT"], "2-semestr": ["O'zbekistonning eng yangi tarixi", "O`zbek (rus) tili", "Oliy matematika"] },
-                "KM-MMT": {"1-semestr": ["Akademik ko'nikmalar va kasbiy kompetentlik", "Amaliy matematika", "Iqtisodiyot nazariyasi", "Iqtisodiyotda AKT", "O'zbekistonning eng yangi tarixi", "Xorijiy til"], "2-semestr": ["Jismoniy madaniyat va sport", "Dinshunoslik", "Falsafa"]},
+                "KM-MMT": { "1-semestr": ["Akademik ko'nikmalar va kasbiy kompetentlik", "Amaliy matematika", "Iqtisodiyot nazariyasi", "Iqtisodiyotda AKT", "O'zbekistonning eng yangi tarixi", "Xorijiy til"], "2-semestr": ["Jismoniy madaniyat va sport", "Dinshunoslik", "Falsafa"] },
                 "SRTQI": { "Testlar": ["Ma'lumotlar bazasi", "Hisob (calculus)", "Diskret tuzilmalar", "Chiziqli algebra", "Kompyuter tarmoqlari 2-semestr", "Muhandislik psixologiyasi 2-semestr", "Differensial tenglamalar 2-semestr"] }
             },
             "Magistratura": {
@@ -732,10 +755,17 @@
         };
 
         const subjectIcons = {
-            "matematika": "icon-calculator", "fizika": "icon-atom", "kimyo": "icon-flask-conical",
-            "biologiya": "icon-leaf", "tarix": "icon-landmark", "ingliz": "icon-languages",
-            "rus": "icon-languages", "psixologiya": "icon-brain", "falsafa": "icon-lightbulb",
-            "anatomiya": "icon-heart-pulse", "til": "icon-message-square",
+            "matematika": "icon-calculator",
+            "fizika": "icon-atom",
+            "kimyo": "icon-flask-conical",
+            "biologiya": "icon-leaf",
+            "tarix": "icon-landmark",
+            "ingliz": "icon-languages",
+            "rus": "icon-languages",
+            "psixologiya": "icon-brain",
+            "falsafa": "icon-lightbulb",
+            "anatomiya": "icon-heart-pulse",
+            "til": "icon-message-square",
             "default": "icon-book-open"
         };
 
@@ -755,10 +785,9 @@
         let currentSemester = '';
         let currentSubject = '';
         let pendingSubject = '';
-
         let quizMode = 'exam';
-        let partStartIndices = [];
-        let totalParts = 1;
+        let variantParts = [];
+        let currentPartIndex = -1;
 
         let timerInterval = null;
         const TIME_LIMIT = 35 * 60;
@@ -766,10 +795,8 @@
         let autoAdvanceTimeout = null;
 
         let actionLock = false;
-
         let touchStartX = 0;
         let touchEndX = 0;
-
         let isDark = localStorage.getItem('theme') === 'dark';
 
         document.addEventListener('DOMContentLoaded', () => {
@@ -829,7 +856,8 @@
                 const xDrift = (Math.random() - 0.5) * 200;
                 piece.animate([
                     { transform: `translate(0,0) rotate(0deg)`, opacity: 1 },
-                    { transform: `translate(${xDrift}px, ${window.innerHeight + 50}px) rotate(${Math.random() * 720}deg)`, opacity: 0 }
+                    { transform: `translate(${xDrift}px, ${window.innerHeight + 50}px) rotate(${Math.random() * 720}deg)`,
+                        opacity: 0 }
                 ], { duration, easing: 'cubic-bezier(0.25,0.46,0.45,0.94)' });
                 setTimeout(() => piece.remove(), duration);
             }
@@ -848,7 +876,8 @@
             btnContainer.innerHTML = '';
             buttons.forEach(btn => {
                 const button = document.createElement('button');
-                button.className = 'flex-1 py-3 px-2 rounded-xl font-bold text-xs md:text-sm transition-all active:scale-95';
+                button.className =
+                    'flex-1 py-3 px-2 rounded-xl font-bold text-xs md:text-sm transition-all active:scale-95';
                 button.style.cssText = btn.styleClass;
                 button.innerText = btn.text;
                 button.onclick = () => { closeModal(); if (btn.action) btn.action(); };
@@ -862,7 +891,9 @@
         }
 
         function hideAllScreens() {
-            ['degree-screen', 'directions-screen', 'semesters-screen', 'subjects-screen', 'mode-screen', 'quiz-screen', 'result-screen'].forEach(id => {
+            ['degree-screen', 'directions-screen', 'semesters-screen', 'subjects-screen', 'mode-screen',
+                'variant-selection-screen', 'quiz-screen', 'result-screen'
+            ].forEach(id => {
                 document.getElementById(id).classList.add('hidden');
             });
         }
@@ -875,13 +906,12 @@
             el.classList.add(animClass, 'screen');
         }
 
-        function updateHeader(showBack, backAction, subtitle, showBadge = false, showTimer = false, showVariantBadge = false) {
+        function updateHeader(showBack, backAction, subtitle, showBadge = false, showTimer = false) {
             const backBtn = document.getElementById('back-home-btn');
             const logo = document.getElementById('header-logo');
             const sub = document.getElementById('sub-title');
             const badge = document.getElementById('quiz-badge');
             const timerBox = document.getElementById('timer-box');
-            const variantBadge = document.getElementById('variant-badge');
 
             backBtn.classList.toggle('hidden', !showBack);
             backBtn.onclick = backAction || goHome;
@@ -889,13 +919,14 @@
             sub.innerText = subtitle || '';
             badge.classList.toggle('hidden', !showBadge);
             timerBox.classList.toggle('hidden', !showTimer);
-            if (showTimer) timerBox.style.display = 'flex'; else timerBox.style.display = 'none';
-            variantBadge.classList.toggle('hidden', !showVariantBadge);
+            if (showTimer) timerBox.style.display = 'flex';
+            else timerBox.style.display = 'none';
         }
 
         function createMenuCard(title, subtitle, iconClass, onClick, index) {
             const btn = document.createElement('button');
-            btn.className = `menu-card w-full p-4 rounded-2xl text-left transition-all active:scale-95 flex items-center justify-between group animate-fade-up stagger-${Math.min(index + 1, 8)}`;
+            btn.className =
+                `menu-card w-full p-4 rounded-2xl text-left transition-all active:scale-95 flex items-center justify-between group animate-fade-up stagger-${Math.min(index + 1, 8)}`;
             btn.innerHTML = `
                 <div class="flex items-center gap-3 pr-3 overflow-hidden">
                     <div class="w-10 h-10 rounded-xl flex items-center justify-center flex-shrink-0" style="background:var(--primary-glow);">
@@ -922,7 +953,8 @@
                 { name: "Magistratura", desc: "Magistratura mutaxassisliklari", icon: "icon-award" }
             ];
             degrees.forEach((d, i) => {
-                container.appendChild(createMenuCard(fixUzbekChars(d.name), d.desc, d.icon, () => selectDegree(d.name), i));
+                container.appendChild(createMenuCard(fixUzbekChars(d.name), d.desc, d.icon, () => selectDegree(d.name),
+                    i));
             });
         }
 
@@ -934,7 +966,8 @@
             dirList.innerHTML = '';
             const directions = curriculumData[degree] ? Object.keys(curriculumData[degree]) : [];
             if (directions.length === 0) {
-                dirList.innerHTML = `<p class="text-center text-sm py-4" style="color:var(--text-muted);">Yo'nalishlar topilmadi</p>`;
+                dirList.innerHTML =
+                    `<p class="text-center text-sm py-4" style="color:var(--text-muted);">Yo'nalishlar topilmadi</p>`;
                 return;
             }
             directions.forEach((dir, i) => {
@@ -942,7 +975,9 @@
                 if (curriculumData[degree][dir]) {
                     Object.values(curriculumData[degree][dir]).forEach(sem => { subCount += sem.length; });
                 }
-                dirList.appendChild(createMenuCard(fixUzbekChars(dir), `Yo'nalishga kirish | ${subCount} ta fandan test mavjud`, 'icon-map-pin', () => selectDirection(dir), i));
+                dirList.appendChild(createMenuCard(fixUzbekChars(dir),
+                    `Yo'nalishga kirish | ${subCount} ta fandan test mavjud`, 'icon-map-pin', () => selectDirection(dir),
+                    i));
             });
         }
 
@@ -959,14 +994,17 @@
             updateHeader(true, goBackToDirections, fixUzbekChars(dir).toUpperCase());
             const semList = document.getElementById('semester-list');
             semList.innerHTML = '';
-            const semesters = curriculumData[currentDegree] && curriculumData[currentDegree][dir] ? Object.keys(curriculumData[currentDegree][dir]) : [];
+            const semesters = curriculumData[currentDegree] && curriculumData[currentDegree][dir] ?
+                Object.keys(curriculumData[currentDegree][dir]) : [];
             if (semesters.length === 0) {
-                semList.innerHTML = `<p class="text-center text-sm py-4" style="color:var(--text-muted);">Semestrlar topilmadi</p>`;
+                semList.innerHTML =
+                    `<p class="text-center text-sm py-4" style="color:var(--text-muted);">Semestrlar topilmadi</p>`;
                 return;
             }
             semesters.forEach((sem, i) => {
                 const subCount = (curriculumData[currentDegree][dir][sem] || []).length;
-                semList.appendChild(createMenuCard(fixUzbekChars(sem).toUpperCase(), `${subCount} ta fandan test mavjud`, 'icon-calendar', () => selectSemester(sem), i));
+                semList.appendChild(createMenuCard(fixUzbekChars(sem).toUpperCase(),
+                    `${subCount} ta fandan test mavjud`, 'icon-calendar', () => selectSemester(sem), i));
             });
         }
 
@@ -980,16 +1018,20 @@
         function selectSemester(sem) {
             currentSemester = sem;
             showScreen('subjects-screen');
-            updateHeader(true, goBackToSemesters, `${fixUzbekChars(currentDirection)} | ${fixUzbekChars(sem)}`.toUpperCase());
+            updateHeader(true, goBackToSemesters,
+                `${fixUzbekChars(currentDirection)} | ${fixUzbekChars(sem)}`.toUpperCase());
             const subjectsList = document.getElementById('subject-list');
             subjectsList.innerHTML = '';
-            const subjects = (curriculumData[currentDegree] && curriculumData[currentDegree][currentDirection] && curriculumData[currentDegree][currentDirection][sem]) || [];
+            const subjects = (curriculumData[currentDegree] && curriculumData[currentDegree][currentDirection] &&
+                curriculumData[currentDegree][currentDirection][sem]) || [];
             if (subjects.length === 0) {
-                subjectsList.innerHTML = `<p class="text-center text-sm py-4" style="color:var(--text-muted);">Ushbu semestr uchun fanlar hozircha kiritilmagan.</p>`;
+                subjectsList.innerHTML =
+                    `<p class="text-center text-sm py-4" style="color:var(--text-muted);">Ushbu semestr uchun fanlar hozircha kiritilmagan.</p>`;
             } else {
                 subjects.forEach((subj, i) => {
                     const icon = getSubjectIcon(subj);
-                    subjectsList.appendChild(createMenuCard(fixUzbekChars(subj), 'Testni boshlash', icon, () => showModeScreen(subj), i));
+                    subjectsList.appendChild(createMenuCard(fixUzbekChars(subj), 'Testni boshlash', icon, () =>
+                        showModeScreen(subj), i));
                 });
             }
         }
@@ -1013,7 +1055,11 @@
             ];
             modes.forEach((m, i) => {
                 modeContainer.appendChild(createMenuCard(m.name, m.desc, m.icon, () => {
-                    startQuiz(pendingSubject, m.name === 'Variantlar' ? 'variant' : 'exam');
+                    if (m.name === 'Variantlar') {
+                        startVariantMode(pendingSubject);
+                    } else {
+                        startQuiz(pendingSubject, 'exam');
+                    }
                 }, i));
             });
         }
@@ -1037,13 +1083,14 @@
             clearTimeout(autoAdvanceTimeout);
             stopTimer();
             showScreen('subjects-screen');
-            updateHeader(true, goBackToSemesters, `${fixUzbekChars(currentDirection)} | ${fixUzbekChars(currentSemester)}`.toUpperCase());
+            updateHeader(true, goBackToSemesters,
+                `${fixUzbekChars(currentDirection)} | ${fixUzbekChars(currentSemester)}`.toUpperCase());
             currentSubject = '';
             quizQuestions = [];
             userAnswers = [];
             quizMode = 'exam';
-            partStartIndices = [];
-            totalParts = 1;
+            variantParts = [];
+            currentPartIndex = -1;
         }
 
         function startTimer() {
@@ -1063,12 +1110,14 @@
             }, 1000);
         }
 
-        function stopTimer() { if (timerInterval) { clearInterval(timerInterval); timerInterval = null; } }
+        function stopTimer() { if (timerInterval) { clearInterval(timerInterval);
+                timerInterval = null; } }
 
         function updateTimerDisplay() {
             const m = Math.floor(remainingSeconds / 60);
             const s = remainingSeconds % 60;
-            document.getElementById('timer-value').innerText = `${String(m).padStart(2, '0')}:${String(s).padStart(2, '0')}`;
+            document.getElementById('timer-value').innerText =
+                `${String(m).padStart(2, '0')}:${String(s).padStart(2, '0')}`;
             const box = document.getElementById('timer-box');
             if (remainingSeconds <= 120 && remainingSeconds > 0) box.classList.add('timer-warning');
             else box.classList.remove('timer-warning');
@@ -1108,70 +1157,28 @@
             throw new Error('Fayl topilmadi');
         }
 
-        async function startQuiz(subjectName, mode = 'exam') {
+        async function startVariantMode(subjectName) {
             currentSubject = subjectName;
-            quizMode = mode;
-
-            const subjectList = document.getElementById('subject-list');
+            quizMode = 'variant';
             const spinner = document.getElementById('loading-spinner');
-            subjectList.classList.add('hidden');
             spinner.classList.remove('hidden');
-
             try {
                 let data = await fetchSubjectData(currentDirection, currentSemester, subjectName);
                 let rawQuestions = extractQuestions(data);
                 if (rawQuestions.length === 0) throw new Error("Savollar topilmadi");
 
-                // Prepare questions
                 let allQuestions = [...rawQuestions].map(normalizeQuestion).filter(q => q !== null);
                 if (allQuestions.length === 0) throw new Error("Savollar o'qilmadi");
-
-                // Shuffle randomly
                 allQuestions.sort(() => Math.random() - 0.5);
 
-                if (quizMode === 'exam') {
-                    // Imtixon rejimi: 35 ta savol
-                    quizQuestions = allQuestions.slice(0, Math.min(allQuestions.length, 35));
-                    partStartIndices = [0];
-                    totalParts = 1;
-                } else {
-                    // Variant rejimi: barcha savollar, 4 qismga bo'linadi
-                    quizQuestions = allQuestions;
-                    const partCount = Math.min(4, quizQuestions.length);
-                    const partSize = Math.ceil(quizQuestions.length / partCount);
-                    let parts = [];
-                    for (let i = 0; i < partCount; i++) {
-                        parts.push(quizQuestions.slice(i * partSize, Math.min((i + 1) * partSize, quizQuestions.length)));
-                    }
-                    quizQuestions = parts.flat();
-                    partStartIndices = [0];
-                    for (let i = 0; i < parts.length - 1; i++) {
-                        partStartIndices.push(partStartIndices[i] + parts[i].length);
-                    }
-                    totalParts = parts.length;
+                const partCount = Math.min(4, allQuestions.length);
+                const partSize = Math.ceil(allQuestions.length / partCount);
+                variantParts = [];
+                for (let i = 0; i < partCount; i++) {
+                    variantParts.push(allQuestions.slice(i * partSize, Math.min((i + 1) * partSize, allQuestions.length)));
                 }
 
-                currentIndex = 0;
-                userAnswers = Array(quizQuestions.length).fill(null);
-
-                showScreen('quiz-screen', 'animate-fade');
-                const showTimer = quizMode === 'exam';
-                updateHeader(true, goBackToSubjects, fixUzbekChars(subjectName).toUpperCase(), true, showTimer, quizMode === 'variant');
-                document.getElementById('current-badge').innerText = '1';
-                document.getElementById('total-badge').innerText = quizQuestions.length;
-
-                if (showTimer) startTimer();
-                else {
-                    // Variant rejimida vaqt ko'rsatilmaydi
-                    const timerBox = document.getElementById('timer-box');
-                    timerBox.classList.add('hidden');
-                    timerBox.style.display = 'none';
-                }
-
-                renderNavDots();
-                showQuestion();
-                showToast(`${quizQuestions.length} ta savol yuklandi`, 'success');
-
+                showVariantSelectionScreen();
             } catch (error) {
                 console.error("Xatolik:", error);
                 showModal(
@@ -1179,7 +1186,111 @@
                     `<b>${fixUzbekChars(currentDirection)}</b> yo'nalishida <b>${fixUzbekChars(subjectName)}</b> fanidan testlar topilmadi.`,
                     [{ text: "Tushunarli", styleClass: "background:var(--primary);color:#fff;", action: null }]
                 );
-                subjectList.classList.remove('hidden');
+                goBackToSubjects();
+            } finally {
+                spinner.classList.add('hidden');
+            }
+        }
+
+        function showVariantSelectionScreen() {
+            showScreen('variant-selection-screen');
+            updateHeader(true, goBackToMode, `${fixUzbekChars(currentSubject)} - Variant tanlang`);
+            const container = document.getElementById('variant-buttons');
+            container.innerHTML = '';
+            variantParts.forEach((part, idx) => {
+                container.appendChild(createMenuCard(
+                    `${idx + 1}-variant`,
+                    `${part.length} ta savol`,
+                    'icon-file-text',
+                    () => selectVariantPart(idx),
+                    idx
+                ));
+            });
+        }
+
+        function selectVariantPart(partIndex) {
+            currentPartIndex = partIndex;
+            quizQuestions = [...variantParts[partIndex]];
+            userAnswers = Array(quizQuestions.length).fill(null);
+            currentIndex = 0;
+
+            showScreen('quiz-screen', 'animate-fade');
+            updateHeader(true, () => goBackToVariantSelection(), `${currentSubject} | ${partIndex + 1}-variant`, true, false);
+            document.getElementById('current-badge').innerText = '1';
+            document.getElementById('total-badge').innerText = quizQuestions.length;
+            stopTimer();
+            const timerBox = document.getElementById('timer-box');
+            timerBox.classList.add('hidden');
+            timerBox.style.display = 'none';
+
+            renderNavDots();
+            showQuestion();
+            showToast(`${quizQuestions.length} ta savol yuklandi (${partIndex + 1}-variant)`, 'success');
+        }
+
+        function goBackToVariantSelection() {
+            if (!document.getElementById('quiz-screen').classList.contains('hidden')) {
+                showModal(
+                    "Variantni tark etish",
+                    "Joriy variantdagi javoblaringiz saqlanmaydi. Davom etmoqchimisiz?",
+                    [
+                        { text: "Qolish", styleClass: "background:var(--bg);color:var(--text-sec);border:1px solid var(--border);", action: null },
+                        { text: "Chiqish", styleClass: "background:var(--error-bg);color:var(--error);border:1px solid rgba(220,38,38,0.15);", action: () => { clearTimeout(autoAdvanceTimeout); showVariantSelectionScreen(); } }
+                    ]
+                );
+                return;
+            }
+            showVariantSelectionScreen();
+        }
+
+        function goBackToMode() {
+            showModeScreen(currentSubject);
+        }
+
+        async function startQuiz(subjectName, mode = 'exam') {
+            currentSubject = subjectName;
+            quizMode = mode;
+            const spinner = document.getElementById('loading-spinner');
+            spinner.classList.remove('hidden');
+            try {
+                let data = await fetchSubjectData(currentDirection, currentSemester, subjectName);
+                let rawQuestions = extractQuestions(data);
+                if (rawQuestions.length === 0) throw new Error("Savollar topilmadi");
+
+                let allQuestions = [...rawQuestions].map(normalizeQuestion).filter(q => q !== null);
+                if (allQuestions.length === 0) throw new Error("Savollar o'qilmadi");
+                allQuestions.sort(() => Math.random() - 0.5);
+
+                if (quizMode === 'exam') {
+                    quizQuestions = allQuestions.slice(0, Math.min(allQuestions.length, 35));
+                } else {
+                    quizQuestions = allQuestions;
+                }
+
+                currentIndex = 0;
+                userAnswers = Array(quizQuestions.length).fill(null);
+                showScreen('quiz-screen', 'animate-fade');
+                const showTimer = (quizMode === 'exam');
+                updateHeader(true, goBackToSubjects, fixUzbekChars(subjectName).toUpperCase(), true, showTimer);
+                document.getElementById('current-badge').innerText = '1';
+                document.getElementById('total-badge').innerText = quizQuestions.length;
+                if (showTimer) startTimer();
+                else {
+                    const timerBox = document.getElementById('timer-box');
+                    timerBox.classList.add('hidden');
+                    timerBox.style.display = 'none';
+                }
+                renderNavDots();
+                showQuestion();
+                showToast(`${quizQuestions.length} ta savol yuklandi`, 'success');
+            } catch (error) {
+                console.error("Xatolik:", error);
+                showModal(
+                    "Test mavjud emas",
+                    `<b>${fixUzbekChars(currentDirection)}</b> yo'nalishida <b>${fixUzbekChars(subjectName)}</b> fanidan testlar topilmadi.`,
+                    [{ text: "Tushunarli", styleClass: "background:var(--primary);color:#fff;", action: null }]
+                );
+                goBackToSubjects();
             } finally {
                 spinner.classList.add('hidden');
             }
@@ -1189,15 +1300,19 @@
             if (Array.isArray(data)) return data;
             if (data.test_questions && Array.isArray(data.test_questions)) return data.test_questions;
             if (data.questions && Array.isArray(data.questions)) return data.questions;
-            if (data.test_questions && data.test_questions.questions && Array.isArray(data.test_questions.questions)) return data.test_questions.questions;
+            if (data.test_questions && data.test_questions.questions && Array.isArray(data.test_questions.questions))
+                return data.test_questions.questions;
             for (let key in data) {
-                if (Array.isArray(data[key]) && data[key].length > 0 && (data[key][0].question || data[key][0].savol)) return data[key];
+                if (Array.isArray(data[key]) && data[key].length > 0 && (data[key][0].question || data[key][0].savol))
+                    return data[key];
             }
             return [];
         }
 
         function normalizeQuestion(item) {
-            let questionText = "", correctText = "", options = [];
+            let questionText = "",
+                correctText = "",
+                options = [];
             if (item.savol && item.A) {
                 questionText = String(item.savol).trim();
                 let j = String(item.javob || "").trim();
@@ -1219,31 +1334,15 @@
                 return null;
             }
             if (!questionText || options.length === 0) return null;
-
             questionText = fixUzbekChars(questionText);
             correctText = fixUzbekChars(correctText);
             options = options.map(o => fixUzbekChars(o));
-
             if (!options.includes(correctText)) {
                 let matched = options.find(o => o.toLowerCase() === correctText.toLowerCase());
                 if (matched) correctText = matched;
             }
             const shuffled = [...options].sort(() => Math.random() - 0.5);
             return { q: questionText, correct: correctText, options: shuffled };
-        }
-
-        function getCurrentPartIndex() {
-            if (totalParts <= 1) return 0;
-            for (let i = partStartIndices.length - 1; i >= 0; i--) {
-                if (currentIndex >= partStartIndices[i]) return i;
-            }
-            return 0;
-        }
-
-        function updateVariantBadge() {
-            if (quizMode !== 'variant') return;
-            const idx = getCurrentPartIndex();
-            document.getElementById('variant-text').innerText = `${idx + 1}-variant`;
         }
 
         function renderNavDots() {
@@ -1266,7 +1365,8 @@
                 dot.className = 'nav-dot snap-center';
                 if (i === currentIndex) dot.classList.add('active');
                 else if (userAnswers[i] !== null) {
-                    dot.classList.add(userAnswers[i] === quizQuestions[i].correct ? 'answered-correct' : 'answered-wrong');
+                    dot.classList.add(userAnswers[i] === quizQuestions[i].correct ? 'answered-correct' :
+                        'answered-wrong');
                 }
             });
             const activeDot = document.querySelector('.nav-dot.active');
@@ -1285,36 +1385,30 @@
         function showQuestion(animClass = 'animate-fade') {
             actionLock = true;
             setTimeout(() => { actionLock = false; }, 400);
-
             const data = quizQuestions[currentIndex];
             const userAnswer = userAnswers[currentIndex];
-
             document.getElementById('current-badge').innerText = currentIndex + 1;
             document.getElementById('progress-bar').style.width = ((currentIndex / quizQuestions.length) * 100) + '%';
             document.getElementById('question-text').innerHTML = data.q;
-            updateVariantBadge();
 
             const qCard = document.getElementById('question-card');
             qCard.className = qCard.className.replace(/animate-\w+/g, '');
             qCard.classList.add(animClass);
-
             const optionsBox = document.getElementById('options-container');
             const feedback = document.getElementById('feedback');
             optionsBox.innerHTML = '';
             feedback.classList.add('hidden');
-
             const letters = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H'];
-
             data.options.forEach((opt, i) => {
                 const btn = document.createElement('button');
-                btn.className = `option-btn w-full text-left p-3.5 rounded-xl font-semibold text-sm flex items-center gap-3 animate-fade-up stagger-${Math.min(i + 1, 8)}`;
+                btn.className =
+                    `option-btn w-full text-left p-3.5 rounded-xl font-semibold text-sm flex items-center gap-3 animate-fade-up stagger-${Math.min(i + 1, 8)}`;
                 btn.dataset.value = opt;
                 btn.innerHTML = `
                     <span class="w-8 h-8 rounded-lg flex items-center justify-center font-bold flex-shrink-0 text-xs"
                         style="background:var(--bg);color:var(--text-muted);border:1px solid var(--border);">${letters[i]}</span>
                     <span class="flex-1 leading-tight option-text">${opt}</span>
                 `;
-
                 if (userAnswer !== null) {
                     btn.disabled = false;
                     btn.style.cursor = 'pointer';
@@ -1342,12 +1436,10 @@
                 }
                 optionsBox.appendChild(btn);
             });
-
             if (userAnswer !== null) {
                 const isCorrect = userAnswer === data.correct;
                 showFeedback(isCorrect ? "To'g'ri! 🌟" : "Noto'g'ri ❌", isCorrect ? 'correct' : 'error');
             }
-
             updateNavDots();
             typesetMath();
         }
@@ -1373,7 +1465,6 @@
             const data = quizQuestions[currentIndex];
             const isCorrect = selected === data.correct;
             userAnswers[currentIndex] = selected;
-
             const allBtns = document.querySelectorAll('.option-btn');
             allBtns.forEach(b => {
                 b.disabled = true;
@@ -1391,22 +1482,14 @@
                     }
                 };
                 const val = b.dataset.value;
-                if (val === data.correct) {
-                    b.classList.add('correct');
-                    b.style.opacity = '1';
-                } else if (val === selected && !isCorrect) {
-                    b.classList.add('wrong');
-                    b.style.opacity = '1';
-                } else {
-                    b.style.opacity = '0.5';
-                }
+                if (val === data.correct) { b.classList.add('correct');
+                    b.style.opacity = '1'; } else if (val === selected && !isCorrect) { b.classList.add('wrong');
+                    b.style.opacity = '1'; } else { b.style.opacity = '0.5'; }
             });
-
             showFeedback(isCorrect ? "To'g'ri! 🌟" : "Noto'g'ri ❌", isCorrect ? 'correct' : 'error');
             updateNavDots();
             const answeredCount = userAnswers.filter(a => a !== null).length;
             document.getElementById('progress-bar').style.width = ((answeredCount / quizQuestions.length) * 100) + '%';
-
             autoAdvanceTimeout = setTimeout(() => {
                 actionLock = true;
                 if (currentIndex < quizQuestions.length - 1) {
@@ -1418,27 +1501,15 @@
             }, 1200);
         }
 
-        function nextQuestion() {
-            if (actionLock) return;
+        function nextQuestion() { if (actionLock) return;
             actionLock = true;
-            clearTimeout(autoAdvanceTimeout);
-            if (currentIndex < quizQuestions.length - 1) {
-                currentIndex++;
-                showQuestion('animate-slide-right');
-            } else {
-                checkAndFinishQuiz();
-            }
-        }
+            clearTimeout(autoAdvanceTimeout); if (currentIndex < quizQuestions.length - 1) { currentIndex++;
+                showQuestion('animate-slide-right'); } else { checkAndFinishQuiz(); } }
 
-        function prevQuestion() {
-            if (actionLock) return;
+        function prevQuestion() { if (actionLock) return;
             actionLock = true;
-            clearTimeout(autoAdvanceTimeout);
-            if (currentIndex > 0) {
-                currentIndex--;
-                showQuestion('animate-slide-left');
-            }
-        }
+            clearTimeout(autoAdvanceTimeout); if (currentIndex > 0) { currentIndex--;
+                showQuestion('animate-slide-left'); } }
 
         function checkAndFinishQuiz() {
             clearTimeout(autoAdvanceTimeout);
@@ -1447,9 +1518,8 @@
             if (unanswered > 0) {
                 const unansweredNums = [];
                 userAnswers.forEach((a, i) => { if (a === null) unansweredNums.push(i + 1); });
-                const displayNums = unansweredNums.length > 5
-                    ? unansweredNums.slice(0, 5).join(', ') + '...'
-                    : unansweredNums.join(', ');
+                const displayNums = unansweredNums.length > 5 ? unansweredNums.slice(0, 5).join(', ') + '...' :
+                    unansweredNums.join(', ');
                 showModal(
                     "Testni yakunlash",
                     `${quizQuestions.length} ta savoldan <b>${unanswered}</b> tasiga javob berilmagan.<br><span style="color:var(--text-muted);font-size:11px;">Savollar: ${displayNums}</span><br>Haqiqatan ham yakunlamoqchimisiz?`,
@@ -1458,22 +1528,23 @@
                         { text: "Yakunlash", styleClass: "background:var(--primary);color:#fff;", action: finishQuiz }
                     ]
                 );
-            } else {
-                finishQuiz();
-            }
+            } else { finishQuiz(); }
         }
 
         function finishQuiz() {
             clearTimeout(autoAdvanceTimeout);
             stopTimer();
             showScreen('result-screen', 'animate-scale');
-            updateHeader(true, () => executeGoBackToSubjects(), 'NATIJA');
-
-            const correctTotal = userAnswers.filter((ans, idx) => ans !== null && ans === quizQuestions[idx].correct).length;
-            const wrongTotal = userAnswers.filter((ans, idx) => ans !== null && ans !== quizQuestions[idx].correct).length;
+            updateHeader(true, () => {
+                if (quizMode === 'variant') showVariantSelectionScreen();
+                else executeGoBackToSubjects();
+            }, 'NATIJA');
+            const correctTotal = userAnswers.filter((ans, idx) => ans !== null && ans === quizQuestions[idx].correct)
+                .length;
+            const wrongTotal = userAnswers.filter((ans, idx) => ans !== null && ans !== quizQuestions[idx].correct)
+                .length;
             const unanswered = userAnswers.filter(a => a === null).length;
             const scorePercent = quizQuestions.length ? Math.round((correctTotal / quizQuestions.length) * 100) : 0;
-
             const ring = document.getElementById('result-ring');
             const circumference = 2 * Math.PI * 58;
             ring.style.strokeDasharray = circumference;
@@ -1482,43 +1553,25 @@
             if (scorePercent >= 85) ringColor = 'var(--success)';
             else if (scorePercent < 50) ringColor = 'var(--error)';
             ring.style.stroke = ringColor;
-
-            setTimeout(() => {
-                const offset = circumference - (scorePercent / 100) * circumference;
-                ring.style.strokeDashoffset = offset;
-            }, 100);
-
+            setTimeout(() => { const offset = circumference - (scorePercent / 100) * circumference;
+                ring.style.strokeDashoffset = offset; }, 100);
             animateNumber('score-percent', 0, scorePercent, 800, '%');
             document.getElementById('score-percent').style.color = ringColor;
-
             const emoji = document.getElementById('result-emoji');
-            if (scorePercent >= 85) { emoji.innerText = "🏆"; launchConfetti(); }
-            else if (scorePercent >= 70) emoji.innerText = "⚡";
+            if (scorePercent >= 85) { emoji.innerText = "🏆";
+                launchConfetti(); } else if (scorePercent >= 70) emoji.innerText = "⚡";
             else if (scorePercent >= 50) emoji.innerText = "📝";
             else emoji.innerText = "📚";
-
             let summaryText = '';
-            if (unanswered > 0) {
-                summaryText = `${quizQuestions.length} ta savoldan <b>${correctTotal}</b> to'g'ri, <b>${wrongTotal}</b> noto'g'ri, <b>${unanswered}</b> javobsiz.`;
-            } else {
-                summaryText = `${quizQuestions.length} ta savoldan <b>${correctTotal}</b> tasiga to'g'ri javob berdingiz.`;
-            }
+            if (unanswered > 0) { summaryText = `${quizQuestions.length} ta savoldan <b>${correctTotal}</b> to'g'ri, <b>${wrongTotal}</b> noto'g'ri, <b>${unanswered}</b> javobsiz.`; } else { summaryText = `${quizQuestions.length} ta savoldan <b>${correctTotal}</b> tasiga to'g'ri javob berdingiz.`; }
             document.getElementById('result-summary').innerHTML = summaryText;
             document.getElementById('stat-correct').innerText = correctTotal;
             document.getElementById('stat-wrong').innerText = wrongTotal + unanswered;
-
-            // Vaqt hisobi faqat Imtixon rejimida
-            if (quizMode === 'exam') {
-                const timeSpent = TIME_LIMIT - remainingSeconds;
-                document.getElementById('stat-time').innerText = formatTime(timeSpent);
-            } else {
-                document.getElementById('stat-time').innerText = '-';
-            }
-
+            if (quizMode === 'exam') { const timeSpent = TIME_LIMIT - remainingSeconds;
+                document.getElementById('stat-time').innerText = formatTime(timeSpent); } else { document.getElementById('stat-time').innerText = '-'; }
             const storageKey = `best_${currentDegree}_${currentDirection}_${currentSemester}_${currentSubject}`;
             const bestScore = parseInt(localStorage.getItem(storageKey) || '0');
-            const bestBox = document.getElementById('best-score-box');
-            bestBox.classList.remove('hidden');
+            document.getElementById('best-score-box').classList.remove('hidden');
             document.getElementById('best-score-val').innerText = bestScore + '%';
             if (scorePercent > bestScore) {
                 localStorage.setItem(storageKey, scorePercent);
@@ -1532,23 +1585,20 @@
         function animateNumber(elementId, start, end, duration, suffix = '') {
             const el = document.getElementById(elementId);
             const startTime = performance.now();
-            function update(currentTime) {
-                const elapsed = currentTime - startTime;
+
+            function update(currentTime) { const elapsed = currentTime - startTime;
                 const progress = Math.min(elapsed / duration, 1);
                 const eased = 1 - Math.pow(1 - progress, 3);
                 const current = Math.round(start + (end - start) * eased);
-                el.innerText = current + suffix;
-                if (progress < 1) requestAnimationFrame(update);
-            }
+                el.innerText = current + suffix; if (progress < 1) requestAnimationFrame(update); }
             requestAnimationFrame(update);
         }
 
         function restartQuiz() {
             if (currentDirection && currentSemester && currentSubject) {
-                startQuiz(currentSubject, quizMode);
-            } else {
-                goHome();
-            }
+                if (quizMode === 'variant') startVariantMode(currentSubject);
+                else startQuiz(currentSubject, 'exam');
+            } else { goHome(); }
         }
 
         function goHome() {
@@ -1564,51 +1614,36 @@
             quizQuestions = [];
             userAnswers = [];
             quizMode = 'exam';
-            partStartIndices = [];
-            totalParts = 1;
+            variantParts = [];
+            currentPartIndex = -1;
         }
 
         function setupKeyboardNav() {
             document.addEventListener('keydown', (e) => {
                 if (document.getElementById('quiz-screen').classList.contains('hidden')) return;
                 if (!document.getElementById('custom-modal').classList.contains('hidden')) return;
-                if (e.key === 'ArrowRight' || e.key === 'd') {
-                    e.preventDefault();
-                    if (actionLock) return;
-                    nextQuestion();
-                } else if (e.key === 'ArrowLeft' || e.key === 'a') {
-                    e.preventDefault();
-                    if (actionLock) return;
-                    prevQuestion();
-                } else if (e.key >= '1' && e.key <= '4') {
-                    e.preventDefault();
-                    if (actionLock) return;
+                if (e.key === 'ArrowRight' || e.key === 'd') { e.preventDefault(); if (actionLock) return;
+                    nextQuestion(); } else if (e.key === 'ArrowLeft' || e.key === 'a') { e.preventDefault(); if (
+                        actionLock) return;
+                    prevQuestion(); } else if (e.key >= '1' && e.key <= '4') { e.preventDefault(); if (actionLock)
+                        return;
                     const idx = parseInt(e.key) - 1;
-                    const btns = document.querySelectorAll('.option-btn:not(:disabled)');
-                    if (btns[idx] && !btns[idx].hasAttribute('disabled')) btns[idx].click();
-                }
+                    const btns = document.querySelectorAll('.option-btn:not(:disabled)'); if (btns[idx] && !btns[idx]
+                        .hasAttribute('disabled')) btns[idx].click(); }
             });
         }
 
         function setupSwipeGesture() {
             const quizScreen = document.getElementById('quiz-screen');
-            quizScreen.addEventListener('touchstart', (e) => {
-                touchStartX = e.changedTouches[0].screenX;
-            }, { passive: true });
-            quizScreen.addEventListener('touchend', (e) => {
-                touchEndX = e.changedTouches[0].screenX;
-                handleSwipe();
-            }, { passive: true });
+            quizScreen.addEventListener('touchstart', (e) => { touchStartX = e.changedTouches[0].screenX; }, { passive: true });
+            quizScreen.addEventListener('touchend', (e) => { touchEndX = e.changedTouches[0].screenX;
+                handleSwipe(); }, { passive: true });
         }
 
-        function handleSwipe() {
-            const diff = touchStartX - touchEndX;
-            const threshold = 60;
-            if (Math.abs(diff) < threshold) return;
-            if (document.getElementById('quiz-screen').classList.contains('hidden')) return;
-            if (actionLock) return;
-            if (diff > 0) { nextQuestion(); } else { prevQuestion(); }
-        }
+        function handleSwipe() { const diff = touchStartX - touchEndX;
+            const threshold = 60; if (Math.abs(diff) < threshold) return; if (document.getElementById('quiz-screen')
+                .classList.contains('hidden')) return; if (actionLock) return; if (diff > 0) { nextQuestion(); } else {
+                prevQuestion(); } }
     </script>
 </body>
 
