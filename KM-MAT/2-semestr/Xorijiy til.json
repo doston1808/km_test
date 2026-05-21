@@ -1,0 +1,786 @@
+[
+  {
+    "savol": "A train driver usually .......... the train at 6:00 every morning.",
+    "A": "starts",
+    "B": "start",
+    "C": "started",
+    "D": "is starting",
+    "javob": "A"
+  },
+  {
+    "savol": "There .......... two signal lights near the station.",
+    "A": "are",
+    "B": "is",
+    "C": "was",
+    "D": "has",
+    "javob": "A"
+  },
+  {
+    "savol": "The mechanic uses .......... wrench to repair the engine.",
+    "A": "a",
+    "B": "an",
+    "C": "the",
+    "D": "is",
+    "javob": "A"
+  },
+  {
+    "savol": "Steel is .......... than plastic.",
+    "A": "stronger",
+    "B": "strongest",
+    "C": "more strong",
+    "D": "strong",
+    "javob": "A"
+  },
+  {
+    "savol": "The passengers are waiting .......... the platform.",
+    "A": "on",
+    "B": "in",
+    "C": "under",
+    "D": "between",
+    "javob": "A"
+  },
+  {
+    "savol": "The train is .......... by electricity.",
+    "A": "powered",
+    "B": "power",
+    "C": "powering",
+    "D": "powers",
+    "javob": "A"
+  },
+  {
+    "savol": "Workers .......... wear a helmet in the workshop.",
+    "A": "must",
+    "B": "may",
+    "C": "can",
+    "D": "could",
+    "javob": "A"
+  },
+  {
+    "savol": "If the signal is red, the train .......... stop.",
+    "A": "will",
+    "B": "would",
+    "C": "did",
+    "D": "has",
+    "javob": "A"
+  },
+  {
+    "savol": "The station manager .......... already checked the timetable.",
+    "A": "has",
+    "B": "have",
+    "C": "is",
+    "D": "did",
+    "javob": "A"
+  },
+  {
+    "savol": "The engineer wants .......... the new control system.",
+    "A": "to test",
+    "B": "testing",
+    "C": "test",
+    "D": "tested",
+    "javob": "A"
+  },
+  {
+    "savol": "The supervisor said that the train .......... late.",
+    "A": "was",
+    "B": "is",
+    "C": "were",
+    "D": "has",
+    "javob": "A"
+  },
+  {
+    "savol": "Next year, the company .......... buy new trains.",
+    "A": "will",
+    "B": "is",
+    "C": "has",
+    "D": "did",
+    "javob": "A"
+  },
+  {
+    "savol": "This train is .......... than the old one.",
+    "A": "faster",
+    "B": "fastest",
+    "C": "more fast",
+    "D": "fast",
+    "javob": "A"
+  },
+  {
+    "savol": ".......... does the train leave?",
+    "A": "when",
+    "B": "where",
+    "C": "why",
+    "D": "who",
+    "javob": "A"
+  },
+  {
+    "savol": "The mechanic .......... the broken wheel yesterday.",
+    "A": "repaired",
+    "B": "repair",
+    "C": "repairs",
+    "D": "is repairing",
+    "javob": "A"
+  },
+  {
+    "savol": "The bridge is 50 meters long. It .......... carry heavy trains.",
+    "A": "can",
+    "B": "might",
+    "C": "should",
+    "D": "have to",
+    "javob": "A"
+  },
+  {
+    "savol": "Workers .......... check the brakes every day.",
+    "A": "have to",
+    "B": "may",
+    "C": "could",
+    "D": "might",
+    "javob": "A"
+  },
+  {
+    "savol": "You .......... smoke in the control room.",
+    "A": "must not",
+    "B": "should",
+    "C": "can",
+    "D": "could",
+    "javob": "A"
+  },
+  {
+    "savol": ".......... the engineer finished the repair yet?",
+    "A": "has",
+    "B": "have",
+    "C": "did",
+    "D": "is",
+    "javob": "A"
+  },
+  {
+    "savol": "The train .......... at the station two hours ago.",
+    "A": "arrived",
+    "B": "has arrived",
+    "C": "arrives",
+    "D": "is arriving",
+    "javob": "A"
+  },
+  {
+    "savol": "The mechanic has repaired the engine, but he .......... the lights yesterday.",
+    "A": "checked",
+    "B": "has checked",
+    "C": "checks",
+    "D": "is checking",
+    "javob": "A"
+  },
+  {
+    "savol": ".......... do you need to repair the signal?",
+    "A": "what",
+    "B": "which",
+    "C": "how many",
+    "D": "whose",
+    "javob": "A"
+  },
+  {
+    "savol": "The operator  .......... checks the control panel before work.",
+    "A": "always",
+    "B": "never",
+    "C": "tomorrow",
+    "D": "yesterday",
+    "javob": "A"
+  },
+  {
+    "savol": "This warning sign means: “Do not touch .......... switch.”",
+    "A": "this",
+    "B": "these",
+    "C": "those",
+    "D": "some",
+    "javob": "A"
+  },
+  {
+    "savol": "There is .......... in the station office. It is empty.",
+    "A": "nobody",
+    "B": "somebody",
+    "C": "anybody",
+    "D": "everybody",
+    "javob": "A"
+  },
+  {
+    "savol": "The oil is leaking .......... the valve.",
+    "A": "from",
+    "B": "to",
+    "C": "at",
+    "D": "with",
+    "javob": "A"
+  },
+  {
+    "savol": "The tools are .......... the box near the engine.",
+    "A": "in",
+    "B": "on",
+    "C": "through",
+    "D": "across",
+    "javob": "A"
+  },
+  {
+    "savol": "The relay is .......... the control panel and the battery.",
+    "A": "between",
+    "B": "under",
+    "C": "into",
+    "D": "over",
+    "javob": "A"
+  },
+  {
+    "savol": "The railway company .......... introduced a new ticket system.",
+    "A": "has",
+    "B": "have",
+    "C": "did",
+    "D": "was",
+    "javob": "A"
+  },
+  {
+    "savol": "The workers want .......... the damaged track today.",
+    "A": "to replace",
+    "B": "replacing",
+    "C": "replace",
+    "D": "replaced",
+    "javob": "A"
+  },
+  {
+    "savol": "There .......... a fire extinguisher in every carriage.",
+    "A": "is",
+    "B": "are",
+    "C": "were",
+    "D": "have",
+    "javob": "A"
+  },
+  {
+    "savol": "Copper is .......... than iron.",
+    "A": "lighter",
+    "B": "lightest",
+    "C": "more light",
+    "D": "light",
+    "javob": "A"
+  },
+  {
+    "savol": "The train is moving .......... the tunnel.",
+    "A": "through",
+    "B": "between",
+    "C": "under",
+    "D": "behind",
+    "javob": "A"
+  },
+  {
+    "savol": "The broken signal was .......... by the technician.",
+    "A": "repaired",
+    "B": "repair",
+    "C": "repairing",
+    "D": "repairs",
+    "javob": "A"
+  },
+  {
+    "savol": "You .......... wear gloves when you work with hot parts.",
+    "A": "should",
+    "B": "may",
+    "C": "could",
+    "D": "might",
+    "javob": "A"
+  },
+  {
+    "savol": "If there is a problem with the engine, you .......... call the mechanic.",
+    "A": "will",
+    "B": "would",
+    "C": "are",
+    "D": "have",
+    "javob": "A"
+  },
+  {
+    "savol": "The station manager .......... just spoken to the driver.",
+    "A": "has",
+    "B": "have",
+    "C": "is",
+    "D": "did",
+    "javob": "A"
+  },
+  {
+    "savol": "The driver decided .......... the train because of the weather.",
+    "A": "to stop",
+    "B": "stopping",
+    "C": "stop",
+    "D": "stopped",
+    "javob": "A"
+  },
+  {
+    "savol": "The new railway line will be .......... than the old line.",
+    "A": "longer",
+    "B": "longest",
+    "C": "more long",
+    "D": "long",
+    "javob": "A"
+  },
+  {
+    "savol": ".......... is the control room?",
+    "A": "where",
+    "B": "when",
+    "C": "why",
+    "D": "what",
+    "javob": "A"
+  },
+  {
+    "savol": "The train .......... not leave on time yesterday.",
+    "A": "did",
+    "B": "has",
+    "C": "was",
+    "D": "is",
+    "javob": "A"
+  },
+  {
+    "savol": "The company has .......... built a new station near the airport.",
+    "A": "already",
+    "B": "yesterday",
+    "C": "last year",
+    "D": "tomorrow",
+    "javob": "A"
+  },
+  {
+    "savol": ".......... you ever travelled by high-speed train?",
+    "A": "have",
+    "B": "has",
+    "C": "did",
+    "D": "are",
+    "javob": "A"
+  },
+  {
+    "savol": "The train driver usually .......... to work at 5:30.",
+    "A": "comes",
+    "B": "come",
+    "C": "came",
+    "D": "is coming",
+    "javob": "A"
+  },
+  {
+    "savol": "There are .......... seats in the carriage, but there are not many passengers.",
+    "A": "many",
+    "B": "much",
+    "C": "any",
+    "D": "a",
+    "javob": "A"
+  },
+  {
+    "savol": "The battery is .......... the engine.",
+    "A": "under",
+    "B": "through",
+    "C": "between",
+    "D": "from",
+    "javob": "A"
+  },
+  {
+    "savol": "The mechanic found .......... important in the engine room.",
+    "A": "something",
+    "B": "anything",
+    "C": "nothing",
+    "D": "everywhere",
+    "javob": "A"
+  },
+  {
+    "savol": "The engineer usually .......... the control system every morning.",
+    "A": "checks",
+    "B": "check",
+    "C": "checked",
+    "D": "is checking",
+    "javob": "A"
+  },
+  {
+    "savol": "There .......... three new wagons at the station.",
+    "A": "are",
+    "B": "is",
+    "C": "was",
+    "D": "has",
+    "javob": "A"
+  },
+  {
+    "savol": "The driver uses .......... radio to speak to the station.",
+    "A": "a",
+    "B": "an",
+    "C": "the",
+    "D": "-",
+    "javob": "A"
+  },
+  {
+    "savol": "This train is .......... than the old train.",
+    "A": "faster",
+    "B": "fastest",
+    "C": "more fast",
+    "D": "fast",
+    "javob": "A"
+  },
+  {
+    "savol": "The signal box is .......... the station building.",
+    "A": "behind",
+    "B": "between",
+    "C": "through",
+    "D": "during",
+    "javob": "A"
+  },
+  {
+    "savol": "The damaged track was .......... by the workers.",
+    "A": "repaired",
+    "B": "repair",
+    "C": "repairing",
+    "D": "repairs",
+    "javob": "A"
+  },
+  {
+    "savol": "You .......... wear safety glasses in the workshop.",
+    "A": "must",
+    "B": "may",
+    "C": "can",
+    "D": "could",
+    "javob": "A"
+  },
+  {
+    "savol": "If the weather is bad, the train .......... arrive late.",
+    "A": "will",
+    "B": "would",
+    "C": "did",
+    "D": "has",
+    "javob": "A"
+  },
+  {
+    "savol": "The company .......... already installed a new system.",
+    "A": "has",
+    "B": "have",
+    "C": "is",
+    "D": "did",
+    "javob": "A"
+  },
+  {
+    "savol": "The mechanic wants .......... the engine again.",
+    "A": "to check",
+    "B": "checking",
+    "C": "check",
+    "D": "checked",
+    "javob": "A"
+  },
+  {
+    "savol": "The manager said that the train .......... ready.",
+    "A": "was",
+    "B": "is",
+    "C": "were",
+    "D": "has",
+    "javob": "A"
+  },
+  {
+    "savol": "Tomorrow the workers .......... repair the bridge.",
+    "A": "will",
+    "B": "are",
+    "C": "have",
+    "D": "did",
+    "javob": "A"
+  },
+  {
+    "savol": "The blue train is .......... than the red train.",
+    "A": "longer",
+    "B": "longest",
+    "C": "more long",
+    "D": "long",
+    "javob": "A"
+  },
+  {
+    "savol": ".......... does the train stop?",
+    "A": "where",
+    "B": "what",
+    "C": "why",
+    "D": "who",
+    "javob": "A"
+  },
+  {
+    "savol": "The mechanic .......... the broken door yesterday.",
+    "A": "fixed",
+    "B": "fix",
+    "C": "fixes",
+    "D": "is fixing",
+    "javob": "A"
+  },
+  {
+    "savol": "This small crane .......... lift 500 kilograms.",
+    "A": "can",
+    "B": "might",
+    "C": "should",
+    "D": "have to",
+    "javob": "A"
+  },
+  {
+    "savol": "Drivers .......... check the lights before every trip.",
+    "A": "have to",
+    "B": "may",
+    "C": "could",
+    "D": "might",
+    "javob": "A"
+  },
+  {
+    "savol": "You .......... use your phone near the control panel.",
+    "A": "must not",
+    "B": "should",
+    "C": "can",
+    "D": "could",
+    "javob": "A"
+  },
+  {
+    "savol": "The station .......... not received the new timetable yet.",
+    "A": "has",
+    "B": "have",
+    "C": "is",
+    "D": "did",
+    "javob": "A"
+  },
+  {
+    "savol": ".......... the workers finished the repair?",
+    "A": "have",
+    "B": "has",
+    "C": "did",
+    "D": "are",
+    "javob": "A"
+  },
+  {
+    "savol": "The train .......... the station at 8 o’clock yesterday.",
+    "A": "left",
+    "B": "has left",
+    "C": "leaves",
+    "D": "is leaving",
+    "javob": "A"
+  },
+  {
+    "savol": "The accident .......... last winter.",
+    "A": "happened",
+    "B": "happens",
+    "C": "has happened",
+    "D": "is happening",
+    "javob": "A"
+  },
+  {
+    "savol": "The mechanic has cleaned the engine, and he .......... the filter yesterday.",
+    "A": "changed",
+    "B": "has changed",
+    "C": "changes",
+    "D": "is changing",
+    "javob": "A"
+  },
+  {
+    "savol": ".......... do you travel to work?",
+    "A": "how",
+    "B": "which",
+    "C": "whose",
+    "D": "whose",
+    "javob": "A"
+  },
+  {
+    "savol": "The station master .......... meets the driver before the trip.",
+    "A": "always",
+    "B": "last year",
+    "C": "tomorrow",
+    "D": "yesterday",
+    "javob": "A"
+  },
+  {
+    "savol": "Do not touch .......... wires. They are dangerous.",
+    "A": "these",
+    "B": "this",
+    "C": "that",
+    "D": "a lot",
+    "javob": "A"
+  },
+  {
+    "savol": "There is .......... in the workshop today. It is closed.",
+    "A": "nobody",
+    "B": "somebody",
+    "C": "everybody",
+    "D": "anything",
+    "javob": "A"
+  },
+  {
+    "savol": "Smoke is coming .......... the engine.",
+    "A": "from",
+    "B": "to",
+    "C": "under",
+    "D": "with",
+    "javob": "A"
+  },
+  {
+    "savol": "The documents are .......... the desk.",
+    "A": "on",
+    "B": "along",
+    "C": "through",
+    "D": "between",
+    "javob": "A"
+  },
+  {
+    "savol": "The signal is .......... the tunnel and the bridge.",
+    "A": "between",
+    "B": "over",
+    "C": "into",
+    "D": "at",
+    "javob": "A"
+  },
+  {
+    "savol": "The railway company .......... built a new station.",
+    "A": "has",
+    "B": "have",
+    "C": "did",
+    "D": "was",
+    "javob": "A"
+  },
+  {
+    "savol": "The technician wants .......... the old battery.",
+    "A": "to replace",
+    "B": "replacing",
+    "C": "replace",
+    "D": "replaced",
+    "javob": "A"
+  },
+  {
+    "savol": "There .......... a ticket office near the entrance.",
+    "A": "is",
+    "B": "are",
+    "C": "were",
+    "D": "have",
+    "javob": "A"
+  },
+  {
+    "savol": "Aluminum is .......... than steel.",
+    "A": "lighter",
+    "B": "lightest",
+    "C": "more light",
+    "D": "light",
+    "javob": "A"
+  },
+  {
+    "savol": "The train is going .......... the bridge.",
+    "A": "across",
+    "B": "of",
+    "C": "with",
+    "D": "between",
+    "javob": "A"
+  },
+  {
+    "savol": "The broken window was .......... by the cleaner.",
+    "A": "cleaned",
+    "B": "clean",
+    "C": "cleaning",
+    "D": "cleans",
+    "javob": "A"
+  },
+  {
+    "savol": "Workers .......... wear gloves when they use tools.",
+    "A": "should",
+    "B": "may",
+    "C": "could",
+    "D": "might",
+    "javob": "A"
+  },
+  {
+    "savol": "If the light is green, the train .......... move.",
+    "A": "will",
+    "B": "would",
+    "C": "did",
+    "D": "has",
+    "javob": "A"
+  },
+  {
+    "savol": "The engineer .......... just arrived at the station.",
+    "A": "has",
+    "B": "have",
+    "C": "is",
+    "D": "did",
+    "javob": "A"
+  },
+  {
+    "savol": "The driver decided .......... the train near the station.",
+    "A": "to stop",
+    "B": "stopping",
+    "C": "stop",
+    "D": "stopped",
+    "javob": "A"
+  },
+  {
+    "savol": "The new train is the .......... in the country.",
+    "A": "fastest",
+    "B": "faster",
+    "C": "more fast",
+    "D": "fast",
+    "javob": "A"
+  },
+  {
+    "savol": ".......... are the passengers waiting?",
+    "A": "where",
+    "B": "whose",
+    "C": "what colour",
+    "D": "how much",
+    "javob": "A"
+  },
+  {
+    "savol": "The train .......... not stop yesterday.",
+    "A": "did",
+    "B": "has",
+    "C": "was",
+    "D": "is",
+    "javob": "A"
+  },
+  {
+    "savol": "Passengers .......... enter the control room.",
+    "A": "must not",
+    "B": "can",
+    "C": "could",
+    "D": "might",
+    "javob": "A"
+  },
+  {
+    "savol": "The company has .......... finished the new railway line.",
+    "A": "already",
+    "B": "tomorrow",
+    "C": "yesterday",
+    "D": "last year",
+    "javob": "A"
+  },
+  {
+    "savol": ".......... you ever used this machine?",
+    "A": "have",
+    "B": "has",
+    "C": "did",
+    "D": "are",
+    "javob": "A"
+  },
+  {
+    "savol": "The station worker usually .......... the doors at 7 a.m.",
+    "A": "opens",
+    "B": "open",
+    "C": "opened",
+    "D": "is opening",
+    "javob": "A"
+  },
+  {
+    "savol": "There are .......... people on the platform today.",
+    "A": "many",
+    "B": "much",
+    "C": "any",
+    "D": "a",
+    "javob": "A"
+  },
+  {
+    "savol": "The toolbox is .......... the table.",
+    "A": "under",
+    "B": "through",
+    "C": "during",
+    "D": "across",
+    "javob": "A"
+  },
+  {
+    "savol": "The mechanic found .......... wrong with the engine.",
+    "A": "something",
+    "B": "anything",
+    "C": "nowhere",
+    "D": "everybody",
+    "javob": "A"
+  },
+  {
+    "savol": "The passengers usually .......... their tickets before the trip.",
+    "A": "buy",
+    "B": "buys",
+    "C": "bought",
+    "D": "are buying",
+    "javob": "A"
+  }
+]
