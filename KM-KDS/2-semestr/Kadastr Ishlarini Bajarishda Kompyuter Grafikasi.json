@@ -1,0 +1,962 @@
+[
+  {
+    "savol": "Yer resurslarini boshqarishning asosiy maqsadi nima?",
+    "A": "Yer fondidan oqilona, samarali va qonuniy foydalanishni ta’minlash",
+    "B": "Yerlarni sotish oqilona, samarali va qonuniy foydalanishni ta’minlash",
+    "C": "Qurilishlarni ko‘paytirish oqilona, samarali va qonuniy foydalanishni ta’minlash",
+    "D": "Soliqni kamaytirish oqilona, samarali va qonuniy foydalanishni ta’minlash",
+    "javob": "A"
+  },
+  {
+    "savol": "Kadastr ishlarida har bir obyektga nima beriladi?",
+    "A": "Yagona kadastr raqami",
+    "B": "Pasport raqami",
+    "C": "Qurilish kodi",
+    "D": "Soliq belgisi",
+    "javob": "A"
+  },
+  {
+    "savol": "Kadastr hujjatlarida nimaning texnik tavsifi aniqlanadi?",
+    "A": "Maydoni, chegaralari va joylashuvi",
+    "B": "Egasining ismi",
+    "C": "Bino rangi",
+    "D": "Qurilish materiali",
+    "javob": "A"
+  },
+  {
+    "savol": "Kadastr ishlari qaysi huquqiy jarayonlar uchun asos yaratadi?",
+    "A": "Oldi-sotdi, meros, hadya va ijara",
+    "B": "Kredit olish",
+    "C": "Eksport qilish",
+    "D": "Ishga joylashish",
+    "javob": "A"
+  },
+  {
+    "savol": "Kompyuter grafikasi yordamida chizilgan xaritalar nimani oshiradi?",
+    "A": "Huquqiy hujjatlarning ishonchliligini",
+    "B": "Qurilish narxini",
+    "C": "Elektr sarfini",
+    "D": "Soliq miqdorini",
+    "javob": "A"
+  },
+  {
+    "savol": "Shaharsozlikni rejalashtirishning asosiy vazifasi nima?",
+    "A": "Hududlarni ilmiy va texnik asosda rivojlantirish",
+    "B": "Yo‘llar qurish",
+    "C": "Bog‘ yaratish",
+    "D": "Soliq yig‘ish",
+    "javob": "A"
+  },
+  {
+    "savol": "Kadastr va kompyuter grafikasi shaharsozlikda nimaga yordam beradi?",
+    "A": "Bosh reja yaratishga",
+    "B": "Telefon ishlab chiqarishga",
+    "C": "Dars jadvali tuzishga",
+    "D": "Kredit ajratishga",
+    "javob": "A"
+  },
+  {
+    "savol": "3D modellar qanday imkoniyat yaratadi?",
+    "A": "Hududlarning kelajakdagi ko‘rinishini baholash",
+    "B": "Yer qazishni tezlashtirish",
+    "C": "Soliqni kamaytirish",
+    "D": "Internet tezligini oshirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Muhandislik kommunikatsiyalariga qaysilar kiradi?",
+    "A": "Yo‘l, suv, elektr va gaz",
+    "B": "Internet",
+    "C": "Telefon",
+    "D": "Televizor",
+    "javob": "A"
+  },
+  {
+    "savol": "Kadastr ma’lumotlari qaysi tizimning asosiy axborot manbasi hisoblanadi?",
+    "A": "Soliq tizimining",
+    "B": "Ta’lim tizimining",
+    "C": "Tibbiyot tizimining",
+    "D": "Bank tizimining",
+    "javob": "A"
+  },
+  {
+    "savol": "Yer solig‘i va mol-mulk solig‘ini qanday hisoblash mumkin?",
+    "A": "Aniq va adolatli",
+    "B": "Taxminiy",
+    "C": "Tasodifiy",
+    "D": "Qo‘lda",
+    "javob": "A"
+  },
+  {
+    "savol": "Kadastr yordamida qanday obyektlar aniqlanadi?",
+    "A": "Noqonuniy qurilishlar va ro‘yxatdan o‘tmagan obyektlar",
+    "B": "Maktablarda qurilishlar va ro‘yxatdan o‘tmagan obyektlar",
+    "C": "Bog‘lar",
+    "D": "Fabrikalar",
+    "javob": "A"
+  },
+  {
+    "savol": "Raqamli kadastr xaritalari kimlar uchun qulay nazorat vositasi hisoblanadi?",
+    "A": "Soliq organlari uchun",
+    "B": "Kasalxonalar uchun",
+    "C": "Universitetlar uchun",
+    "D": "Mehmonxonalar uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "Yer uchastkalarining aniq chegaralari qayerda aks ettiriladi?",
+    "A": "Raqamli xaritalarda",
+    "B": "Darsliklarda",
+    "C": "Gazetalarda",
+    "D": "Reklama bannerlarida",
+    "javob": "A"
+  },
+  {
+    "savol": "Yerlarni to‘g‘ri tasniflashda qaysi toifalar hisobga olinadi?",
+    "A": "Qishloq xo‘jaligi, sanoat va aholi punktlari",
+    "B": "Sport maydonlari",
+    "C": "Dam olish maskanlari",
+    "D": "Savdo markazlari",
+    "javob": "A"
+  },
+  {
+    "savol": "Yerlarning meliorativ holati nimani aniqlashga yordam beradi?",
+    "A": "Unumdorligi va foydalanish darajasini",
+    "B": "Narxini",
+    "C": "Egasini",
+    "D": "Rangini",
+    "javob": "A"
+  },
+  {
+    "savol": "Monitoring va nazorat ishlari nima uchun olib boriladi?",
+    "A": "Yer resurslarini samarali boshqarish uchun",
+    "B": "Soliqni oshirish uchun",
+    "C": "Qurilishlarni to‘xtatish uchun",
+    "D": "Reklama qilish uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "Yer resurslarini boshqarish natijasida nima ta’minlanadi?",
+    "A": "Yerlarning noqonuniy egallanishdan himoyalanishi",
+    "B": "Elektr energiyasining kamayishi",
+    "C": "Aholining kamayishi egallanishdan himoyalanishi",
+    "D": "Binolar buzilishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Kadastr tizimi va kompyuter grafikasi birgalikda nimani ta’minlaydi?",
+    "A": "Davlat yer siyosatining samarali amalga oshirilishini",
+    "B": "Transportni boshqarishni",
+    "C": "Internet xizmatini",
+    "D": "Savdo faoliyatini",
+    "javob": "A"
+  },
+  {
+    "savol": "Aholi zichligi va infratuzilma yuklamasini tahlil qilish nimaga yordam beradi?",
+    "A": "Shaharlarning barqaror rivojlanishiga",
+    "B": "Qurilish narxini oshirishga",
+    "C": "Eksportni ko‘paytirishga",
+    "D": "Reklama tarqatishga",
+    "javob": "A"
+  },
+  {
+    "savol": "Autocad dasturi qaysi firma tomonidan ishlab chiqilgan?",
+    "A": "Autodesk firmasi",
+    "B": "Microsoft firmasi",
+    "C": "Corel firmasi",
+    "D": "Adobe firmasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Autodesk firmasining mashhur dasturlaridan biri qaysi?",
+    "A": "Autocad",
+    "B": "Paint",
+    "C": "Excel",
+    "D": "Wordpad",
+    "javob": "A"
+  },
+  {
+    "savol": "Autocad dasturi asosan nima uchun mo‘ljallangan?",
+    "A": "Grafik va texnik chizmalarni yaratish uchun",
+    "B": "Video montaj qilish uchun",
+    "C": "Musiqa yozish uchun",
+    "D": "Internet yaratish uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "“Kompyuter grafikasi” fani birinchi navbatda qaysi fan bilan bog‘liq?",
+    "A": "Informatika fani",
+    "B": "Biologiya fani",
+    "C": "Tarix fani",
+    "D": "Kimyo fani",
+    "javob": "A"
+  },
+  {
+    "savol": "Kompyuter grafikasini o‘rganish uchun avvalo nimani bilish kerak?",
+    "A": "Kompyuterda oddiy operatsiyalarni",
+    "B": "Ingliz tilini",
+    "C": "Fizika formulasini",
+    "D": "Musiqa nazariyasini",
+    "javob": "A"
+  },
+  {
+    "savol": "Kompyuter grafikasi qaysi aniq fan bilan chambarchas bog‘liq?",
+    "A": "Chizma geometriya",
+    "B": "Astronomiya egallanishdan himoyalanishi",
+    "C": "Zoologiya",
+    "D": "Botanika",
+    "javob": "A"
+  },
+  {
+    "savol": "Autocad dasturi qachon yaratilgan?",
+    "A": "O‘tgan asrning 80-yillarida",
+    "B": "1950-yillarda",
+    "C": "O‘tgan asrning 90-yillarida",
+    "D": "1970-yilda",
+    "javob": "A"
+  },
+  {
+    "savol": "Autocad dasturining Rossiyada keng tarqalishi qaysi versiyadan boshlangan?",
+    "A": "10-versiyadan",
+    "B": "5-versiyadan",
+    "C": "20-versiyadan",
+    "D": "2-versiyadan",
+    "javob": "A"
+  },
+  {
+    "savol": "Autocad 14-versiyasi qaysi operatsion tizimga to‘liq o‘tkazilgan?",
+    "A": "Windows operatsion tizimiga",
+    "B": "Linux tizimiga",
+    "C": "Android tizimiga",
+    "D": "Unix tizimiga",
+    "javob": "A"
+  },
+  {
+    "savol": "Autocadda “Прямоугольник” buyrug‘i bilan chizilgan to‘rtburchak nechta obyekt hisoblanadi?",
+    "A": "1 ta obyekt",
+    "B": "2 ta obyekt",
+    "C": "3 ta obyekt",
+    "D": "4 ta obyekt",
+    "javob": "A"
+  },
+  {
+    "savol": "“Кесма” buyrug‘i bilan chizilgan to‘rtburchak nechta obyekt hisoblanadi?",
+    "A": "4 ta obyekt",
+    "B": "1 ta obyekt",
+    "C": "2 ta obyekt",
+    "D": "6 ta obyekt",
+    "javob": "A"
+  },
+  {
+    "savol": "Obyektlarni tanlash asosan nima uchun kerak?",
+    "A": "Ularni tahrirlash uchun",
+    "B": "O‘chirish uchun",
+    "C": "Chop etish uchun",
+    "D": "Rang berish uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "Bitta obyekt qanday tanlanadi?",
+    "A": "Sichqoncha chap tugmasi bilan obyekt ustida bosish orqali",
+    "B": "Klaviaturani bosish orqali",
+    "C": "Ekranni ikki marta bosish orqali",
+    "D": "Enter tugmasi orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Dinamik ramka nima uchun ishlatiladi?",
+    "A": "Bir nechta obyektlarni tanlash uchun",
+    "B": "Chizmalarni chop etish uchun",
+    "C": "Fayl saqlash uchun",
+    "D": "Ovoz yozish uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko‘k ramka qanday obyektlarni tanlaydi?",
+    "A": "To‘liq ichiga kirgan obyektlarni",
+    "B": "Barcha obyektlarni",
+    "C": "Aylanalarni",
+    "D": "Chiziqlarni",
+    "javob": "A"
+  },
+  {
+    "savol": "Yashil ramka qanday obyektlarni tanlaydi?",
+    "A": "Ramkaga qisman kirgan obyektlarni ham",
+    "B": "To‘liq kirgan obyektlarni",
+    "C": "Matnlarni",
+    "D": "Nuqtalarni",
+    "javob": "A"
+  },
+  {
+    "savol": "Autocad panellari asosan nimadan iborat?",
+    "A": "Piktogrammalardan",
+    "B": "Jadvaldan",
+    "C": "Diagrammadan",
+    "D": "Matndan",
+    "javob": "A"
+  },
+  {
+    "savol": "“ОРТО” funksional klavishasi qanday rejimni yoqadi?",
+    "A": "Gorizontal va vertikal yurish rejimini",
+    "B": "Rangli rejimni",
+    "C": "Chop etish rejimini",
+    "D": "Internet rejimini",
+    "javob": "A"
+  },
+  {
+    "savol": "“СЕТКА” funksiyasi nimani bildiradi?",
+    "A": "To‘r rejimini",
+    "B": "Ovoz rejimini",
+    "C": "Saqlash rejimini",
+    "D": "Bosma rejimini",
+    "javob": "A"
+  },
+  {
+    "savol": "“ДИН” funksional klavishasi nimani anglatadi?",
+    "A": "Dinamik kiritishni",
+    "B": "Obyektni o‘chirishni",
+    "C": "Faylni yopishni",
+    "D": "Nusxa olishni",
+    "javob": "A"
+  },
+  {
+    "savol": "Oddiy geometrik obyektlar qanday nomlanadi?",
+    "A": "Primitivlar",
+    "B": "Bloklar",
+    "C": "Fayllar",
+    "D": "Modullar",
+    "javob": "A"
+  },
+  {
+    "savol": "Piktogramma nima?",
+    "A": "Buyruqning rasmli tugma ko‘rinishi",
+    "B": "Matnli buyruq",
+    "C": "Audio signal",
+    "D": "Fayl turi",
+    "javob": "A"
+  },
+  {
+    "savol": "Buyruqlar satri qayerda joylashgan?",
+    "A": "Ekran pastki qismida",
+    "B": "Ekran yuqorisida",
+    "C": "O‘ng tomonda",
+    "D": "Chap tomonda",
+    "javob": "A"
+  },
+  {
+    "savol": "“ШАГ” funksiyasi nimani bildiradi?",
+    "A": "Qadamli bog‘lashni",
+    "B": "Rang berishni",
+    "C": "Chiziq o‘chirishni",
+    "D": "Chop etishni",
+    "javob": "A"
+  },
+  {
+    "savol": "“СЕТКА” funksiyasi nima uchun xizmat qiladi?",
+    "A": "To‘r rejimini yoqish uchun",
+    "B": "Chizma saqlash uchun",
+    "C": "Matn yozish uchun",
+    "D": "Obyektni o‘chirish uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "“ОРТО” funksiyasi qanday rejimni yoqadi?",
+    "A": "Gorizontal va vertikal yurish rejimini",
+    "B": "Rangli rejimni",
+    "C": "3D rejimni",
+    "D": "Chop etish rejimini",
+    "javob": "A"
+  },
+  {
+    "savol": "“ДИН” funksiyasi nimani anglatadi?",
+    "A": "Dinamik kiritishni",
+    "B": "Fayl yopishni",
+    "C": "Nusxa olishni",
+    "D": "Ekranni tozalashni",
+    "javob": "A"
+  },
+  {
+    "savol": "Oddiy geometrik obyektlar qanday ataladi?",
+    "A": "Primitivlar",
+    "B": "Modullar",
+    "C": "Fayllar",
+    "D": "Bloklar",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri primitiv hisoblanadi?",
+    "A": "Kesma",
+    "B": "Jadval",
+    "C": "Fayl",
+    "D": "Slayd",
+    "javob": "A"
+  },
+  {
+    "savol": "“Рисование” paneli nima uchun ishlatiladi?",
+    "A": "Chizish va yozish ishlari uchun",
+    "B": "Musiqa yozish uchun",
+    "C": "Internetga chiqish uchun",
+    "D": "Video montaj uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "“Отрезок” buyrug‘i nima vazifani bajaradi?",
+    "A": "Kesma chizadi",
+    "B": "Ellips chizadi",
+    "C": "Jadval tuzadi",
+    "D": "Bulut chizadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Kesma hosil qilish uchun nechta nuqta kerak bo‘ladi?",
+    "A": "2 ta nuqta",
+    "B": "1 ta nuqta",
+    "C": "3 ta nuqta",
+    "D": "4 ta nuqta",
+    "javob": "A"
+  },
+  {
+    "savol": "Kesma chizish buyrug‘idan chiqish uchun qaysi tugma bosiladi?",
+    "A": "Esc",
+    "B": "Shift",
+    "C": "Ctrl",
+    "D": "Tab",
+    "javob": "A"
+  },
+  {
+    "savol": "“Прямая” buyrug‘i nima uchun xizmat qiladi?",
+    "A": "To‘g‘ri chiziq o‘tkazish uchun",
+    "B": "Aylana chizish uchun",
+    "C": "Rang berish uchun",
+    "D": "Matn yozish uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "“Гор” bandi nimani bildiradi?",
+    "A": "Gorizontal chiziqni",
+    "B": "Vertikal chiziqni",
+    "C": "Radiusni",
+    "D": "Yoyni",
+    "javob": "A"
+  },
+  {
+    "savol": "“Вер” bandi nimani bildiradi?",
+    "A": "Vertikal chiziqni",
+    "B": "Gorizontal chiziqni",
+    "C": "Radiusni",
+    "D": "Ellipsni",
+    "javob": "A"
+  },
+  {
+    "savol": "“Биссект” funksiyasi nima uchun ishlatiladi?",
+    "A": "Bissektrisa o‘tkazish uchun",
+    "B": "Aylana chizish uchun",
+    "C": "Jadval tuzish uchun",
+    "D": "Bulut chizish uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "“Полилиния” buyrug‘i qanday chiziqlar uchun qo‘llaniladi?",
+    "A": "Murakkab xususiyatli chiziqlar uchun",
+    "B": "Aylana uchun",
+    "C": "Matn uchun",
+    "D": "Jadval uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "“Полилиния” yordamida yoy chizish uchun qaysi band tanlanadi?",
+    "A": "«Дуга»",
+    "B": "«Центр»",
+    "C": "«Диаметр»",
+    "D": "«Высота»",
+    "javob": "A"
+  },
+  {
+    "savol": "“Многоугольник” buyrug‘i nima uchun ishlatiladi?",
+    "A": "Ko‘pburchak chizish uchun",
+    "B": "Ellips chizish uchun",
+    "C": "Jadval tuzish uchun",
+    "D": "Bulut chizish uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko‘pburchak chizishda dastlab nima kiritiladi?",
+    "A": "Tomonlar soni",
+    "B": "Radius",
+    "C": "Rang",
+    "D": "Diametr",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko‘pburchak chizishda minimal tomonlar soni nechta?",
+    "A": "3 ta",
+    "B": "2 ta",
+    "C": "1 ta",
+    "D": "5 ta",
+    "javob": "A"
+  },
+  {
+    "savol": "“Прямоугольник” buyrug‘i nima uchun xizmat qiladi?",
+    "A": "To‘g‘ri to‘rtburchak chizish uchun",
+    "B": "Aylana chizish uchun",
+    "C": "Matn yozish uchun",
+    "D": "Jadval tuzish uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "“Фаска” bandi nimani sozlaydi?",
+    "A": "Faska uzunligini",
+    "B": "Radiusni",
+    "C": "Rangni",
+    "D": "Qalinlikni",
+    "javob": "A"
+  },
+  {
+    "savol": "“Сопряжение” bandi nimani bildiradi?",
+    "A": "Tutashma radiusini",
+    "B": "Kesma uzunligini",
+    "C": "Diametrni",
+    "D": "Matn hajmini",
+    "javob": "A"
+  },
+  {
+    "savol": "“Высота” parametri qaysi holatda muhim?",
+    "A": "3D chizmalarda",
+    "B": "Matnda",
+    "C": "Jadvalda",
+    "D": "Chop etishda",
+    "javob": "A"
+  },
+  {
+    "savol": "“Ширина” parametri nimani bildiradi?",
+    "A": "Chiziq qalinligini",
+    "B": "Radiusni",
+    "C": "Rangni",
+    "D": "Burchakni",
+    "javob": "A"
+  },
+  {
+    "savol": "“Площадь” bandi nima asosida to‘g‘ri to‘rtburchak hosil qiladi?",
+    "A": "Yuza qiymati asosida",
+    "B": "Radius asosida",
+    "C": "Rang asosida",
+    "D": "Diametr asosida",
+    "javob": "A"
+  },
+  {
+    "savol": "“Размеры” bandi orqali nima kiritiladi?",
+    "A": "Uzunlik va kenglik",
+    "B": "Radius va diametr",
+    "C": "Rang va qalinlik",
+    "D": "Markaz va yoy",
+    "javob": "A"
+  },
+  {
+    "savol": "“Поворот” bandi nimani bajaradi?",
+    "A": "Burilish burchagini beradi",
+    "B": "Radiusni beradi",
+    "C": "Rang beradi",
+    "D": "Jadval yaratadi",
+    "javob": "A"
+  },
+  {
+    "savol": "“Дуга” buyrug‘i nima uchun xizmat qiladi?",
+    "A": "Yoy chizish uchun",
+    "B": "Jadval yaratish uchun",
+    "C": "Matn yozish uchun",
+    "D": "Kesma o‘chirish uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "Yoyning asosiy parametrlari qaysilar?",
+    "A": "Markaz, boshi va oxiri",
+    "B": "Radius",
+    "C": "Diametr",
+    "D": "Rang va qalinlik",
+    "javob": "A"
+  },
+  {
+    "savol": "“Круг” buyrug‘i nima uchun ishlatiladi?",
+    "A": "Aylana chizish uchun",
+    "B": "Ellips chizish uchun",
+    "C": "Jadval tuzish uchun",
+    "D": "Bulut chizish uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "“3T” bandi nimani bildiradi?",
+    "A": "3 nuqta asosida aylana chizishni",
+    "B": "3D rejimni",
+    "C": "3 ta kesma chizishni",
+    "D": "3 qatorli matnni",
+    "javob": "A"
+  },
+  {
+    "savol": "“2T” bandi nimani bildiradi?",
+    "A": "2 nuqta asosida aylana chizishni",
+    "B": "2D rejimni",
+    "C": "2 ta ellipsni",
+    "D": "2 qatorli matnni",
+    "javob": "A"
+  },
+  {
+    "savol": "“Диаметр” bandi nima uchun qo‘llaniladi?",
+    "A": "Diametr asosida aylana chizish uchun",
+    "B": "Radiusni o‘chirish uchun",
+    "C": "Rang berish uchun",
+    "D": "Chiziq qalinlashtirish uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "“Облако” buyrug‘i nima uchun ishlatiladi?",
+    "A": "Izohlarni belgilash uchun",
+    "B": "Aylana chizish uchun",
+    "C": "Jadval tuzish uchun",
+    "D": "Fayl saqlash uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "“Сплайн” buyrug‘i nima uchun xizmat qiladi?",
+    "A": "Lekalo egri chiziqlar chizish uchun",
+    "B": "Jadval tuzish uchun",
+    "C": "Kesma o‘chirish uchun",
+    "D": "Rang berish uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "“Эллипс” buyrug‘i nima uchun xizmat qiladi?",
+    "A": "Ellips chizish uchun",
+    "B": "Bulut chizish uchun",
+    "C": "Jadval yaratish uchun",
+    "D": "Matn yozish uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "Ellips qanday parametrlar asosida chiziladi?",
+    "A": "Katta va kichik o‘qlar asosida",
+    "B": "Radius asosida",
+    "C": "Diametr asosida",
+    "D": "Rang asosida",
+    "javob": "A"
+  },
+  {
+    "savol": "“Model” so‘zi qanday ma’noni anglatadi?",
+    "A": "Nusxa, namuna",
+    "B": "Hisoblash",
+    "C": "Chizma",
+    "D": "Dastur",
+    "javob": "A"
+  },
+  {
+    "savol": "Modellashtirish nima?",
+    "A": "Nusxa yoki namuna yaratish",
+    "B": "Fayl saqlash",
+    "C": "Rang berish",
+    "D": "Matn yozish",
+    "javob": "A"
+  },
+  {
+    "savol": "Model nimani aks ettirishi kerak?",
+    "A": "Real obyekt haqida axborotni",
+    "B": "Rangni",
+    "C": "Hajmni",
+    "D": "Nomni",
+    "javob": "A"
+  },
+  {
+    "savol": "Modellashtirishning nechta asosiy elementi mavjud?",
+    "A": "3 ta",
+    "B": "2 ta",
+    "C": "4 ta",
+    "D": "5 ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Modellashtirishning birinchi elementi nima?",
+    "A": "Sub’ekt",
+    "B": "Chizma",
+    "C": "Kompyuter",
+    "D": "Algoritm",
+    "javob": "A"
+  },
+  {
+    "savol": "Tadqiqot ob’ekti modellashtirishning qaysi elementi hisoblanadi?",
+    "A": "Ikkinchi elementi",
+    "B": "Birinchi elementi",
+    "C": "To‘rtinchi elementi",
+    "D": "Beshinchi elementi",
+    "javob": "A"
+  },
+  {
+    "savol": "Model qanday munosabatni akslantiradi?",
+    "A": "Tadqiqotchi va obyekt munosabatini",
+    "B": "Iqtisodiy jarayonni",
+    "C": "Matematik hisobni",
+    "D": "Rangni",
+    "javob": "A"
+  },
+  {
+    "savol": "Adekvatlik nimani bildiradi?",
+    "A": "Modelning real obyektni aks ettirishini",
+    "B": "Modelning rangli bo‘lishini",
+    "C": "Modelning katta bo‘lishini",
+    "D": "Modelning qimmat bo‘lishini",
+    "javob": "A"
+  },
+  {
+    "savol": "Aniqlik nimani anglatadi?",
+    "A": "Model natijalarining real obyektga mosligini",
+    "B": "Modelning tez chizilishini",
+    "C": "Modelning rangini",
+    "D": "Modelning hajmini",
+    "javob": "A"
+  },
+  {
+    "savol": "Universallik nimani bildiradi?",
+    "A": "Modelning turli masalalarda qo‘llanishini",
+    "B": "Modelning bir martalik bo‘lishini",
+    "C": "Modelning qimmatligini",
+    "D": "Modelning kichikligini",
+    "javob": "A"
+  },
+  {
+    "savol": "Maqbullik nimani anglatadi?",
+    "A": "Kam xarajatli bo‘lishini",
+    "B": "Juda murakkab bo‘lishini",
+    "C": "Katta bo‘lishini",
+    "D": "Rangli bo‘lishini",
+    "javob": "A"
+  },
+  {
+    "savol": "Modellashtirishning birinchi bosqichi nimani talab qiladi?",
+    "A": "Obyekt haqida ma’lumotni",
+    "B": "Rang tanlashni",
+    "C": "Printer ulashni",
+    "D": "Jadval tuzishni",
+    "javob": "A"
+  },
+  {
+    "savol": "Ikkinchi bosqichda model qanday qaraladi?",
+    "A": "Mustaqil tadqiqot ob’ekti sifatida",
+    "B": "Fayl sifatida",
+    "C": "Dastur sifatida",
+    "D": "Jadval sifatida",
+    "javob": "A"
+  },
+  {
+    "savol": "Uchinchi bosqichda nima amalga oshiriladi?",
+    "A": "Modeldagi bilimlar original obyektga ko‘chiriladi",
+    "B": "Model o‘chiriladi",
+    "C": "Fayl saqlanadi",
+    "D": "Rang o‘zgartiriladi",
+    "javob": "A"
+  },
+  {
+    "savol": "2D nimani anglatadi?",
+    "A": "Ikki o‘lchamli",
+    "B": "Uch o‘lchamli",
+    "C": "To‘rt o‘lchamli",
+    "D": "Bir o‘lchamli",
+    "javob": "A"
+  },
+  {
+    "savol": "“D” harfi qaysi inglizcha so‘zdan olingan?",
+    "A": "Dimension",
+    "B": "Design",
+    "C": "Data",
+    "D": "Digital",
+    "javob": "A"
+  },
+  {
+    "savol": "Oddiy qog‘oz varog‘i qanday modellashtirish uchun asos bo‘ladi?",
+    "A": "2D modellashtirish uchun",
+    "B": "3D modellashtirish uchun",
+    "C": "Statistik modellashtirish uchun",
+    "D": "Molekulyar modellashtirish uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "Grafik axborotlarga nimalar kiradi?",
+    "A": "Sxema, grafik, fotosurat va chizmalar",
+    "B": "Matnlar",
+    "C": "Formulalar",
+    "D": "Sonlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Har qanday muhandis nimani mukammal bilishi kerak?",
+    "A": "2D modellashtirish asoslarini",
+    "B": "Musiqa nazariyasini",
+    "C": "Tibbiyot asoslarini",
+    "D": "Astronomiyani",
+    "javob": "A"
+  },
+  {
+    "savol": "Geometrik modellashtirish nima?",
+    "A": "Fazoviy obyektlarni geometrik elementlar asosida modellashtirish",
+    "B": "Matematik hisoblash",
+    "C": "Rang berish",
+    "D": "Yozuv yozish",
+    "javob": "A"
+  },
+  {
+    "savol": "Geometrik modellashtirishda qaysi xususiyatlar hisobga olinmaydi?",
+    "A": "Fizikaviy, kimyoviy va biologik xususiyatlar",
+    "B": "Geometrik shakllar",
+    "C": "Koordinatalar",
+    "D": "O‘lchamlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Geometrik modellashtirishning asosiy elementlari qaysilar?",
+    "A": "Nuqta, chiziq va sirt",
+    "B": "Rang, tovush va yorug‘lik",
+    "C": "Fayl, jadval va matn",
+    "D": "Printer, skaner va monitor",
+    "javob": "A"
+  },
+  {
+    "savol": "Chiziqning xususiy holi nima?",
+    "A": "To‘g‘ri chiziq",
+    "B": "Ellips",
+    "C": "Aylana",
+    "D": "Ko‘pburchak",
+    "javob": "A"
+  },
+  {
+    "savol": "Kesma nima?",
+    "A": "To‘g‘ri chiziqning bir bo‘lagi",
+    "B": "Aylananing markazi",
+    "C": "Ellipsning qismi",
+    "D": "Ko‘pburchak tomoni",
+    "javob": "A"
+  },
+  {
+    "savol": "Har qanday sirt nimadan tashkil topadi?",
+    "A": "Chiziqlar to‘plamidan",
+    "B": "Nuqtalardan",
+    "C": "Ranglardan",
+    "D": "Formulalardan",
+    "javob": "A"
+  },
+  {
+    "savol": "Geometrik modellashtirish apparati nima asosida quriladi?",
+    "A": "X, y, z koordinata o‘qlari asosida",
+    "B": "Y koordinata o‘qlari asosida",
+    "C": "Ranglar asosida",
+    "D": "Formulalar asosida",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘zdst 2.301-96 nimani belgilaydi?",
+    "A": "Formatlarni",
+    "B": "Shriftlarni",
+    "C": "Chiziq turlarini",
+    "D": "O‘lchamlarni",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘zdst 2.302-97 nimaga tegishli?",
+    "A": "Masshtablarga",
+    "B": "Ranglarga",
+    "C": "Radiuslarga",
+    "D": "Printerlarga",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘zdst 2.303-97 nimani belgilaydi?",
+    "A": "Chizma chiziqlarini",
+    "B": "Formatlarni",
+    "C": "Shriftlarni",
+    "D": "Qirqimlarni",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘zdst 2.304-97 nimaga tegishli?",
+    "A": "Shriftlarga",
+    "B": "Formatlarga",
+    "C": "Chiziqlarga",
+    "D": "Ko‘rinishlarga",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘zdst 2.307-96 nimani belgilaydi?",
+    "A": "O‘lcham qo‘yish qoidalarini",
+    "B": "Shriftlarni",
+    "C": "Masshtablarni",
+    "D": "Ranglarni",
+    "javob": "A"
+  },
+  {
+    "savol": "Ortogonal proeksiyalash nimaga asoslanadi?",
+    "A": "To‘g‘ri burchakli proeksiyalashga",
+    "B": "Rangli tasvirlashga",
+    "C": "Dinamik modellashtirishga",
+    "D": "Statistik hisobga",
+    "javob": "A"
+  },
+  {
+    "savol": "Ikki ko‘rinish nima uchun yetarli bo‘lmasligi mumkin?",
+    "A": "Geometrik figurani aniq aniqlash uchun",
+    "B": "Rang tanlash uchun",
+    "C": "Fayl saqlash uchun",
+    "D": "Chop etish uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "Uchinch ko‘rinish nima uchun kerak bo‘ladi?",
+    "A": "Obyektni to‘liq tasavvur qilish uchun",
+    "B": "Rang berish uchun",
+    "C": "Jadval tuzish uchun",
+    "D": "Matn yozish uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "Geometrik model nimani o‘zida mujassamlashtiradi?",
+    "A": "Original obyekt ma’lumotlarini",
+    "B": "Rangni",
+    "C": "Hajmni",
+    "D": "Nomni",
+    "javob": "A"
+  },
+  {
+    "savol": "Zamonaviy modellashtirishning asosiy ehtiyoji nima?",
+    "A": "Fazoviy obyektlarning geometrik modellari",
+    "B": "Matn yozish",
+    "C": "Jadval yaratish",
+    "D": "Rasm chizish",
+    "javob": "A"
+  },
+  {
+    "savol": "Uch o‘lchamli modellar yordamida nima topiladi?",
+    "A": "Muhandislik masalalarining maqbul yechimlari",
+    "B": "Ranglar masalalarining maqbul yechimlari",
+    "C": "Matnlar masalalarining maqbul yechimlari",
+    "D": "Formulalar",
+    "javob": "A"
+  },
+  {
+    "savol": "SAAB kompaniyasi nimani kompyuterda modellashtirgan?",
+    "A": "Avtomobil to‘qnashuv jarayonini",
+    "B": "Telefon ishlab chiqarishni",
+    "C": "Binolarni buzishni",
+    "D": "Elektr tizimini",
+    "javob": "A"
+  },
+  {
+    "savol": "Kompyuterda modellashtirish kompaniyaga nima berdi?",
+    "A": "Iqtisodiy xarajatlarni kamaytirish imkonini",
+    "B": "Rangli chizmalar yaratishni",
+    "C": "Reklama qilishni",
+    "D": "Internet ulashni",
+    "javob": "A"
+  },
+  {
+    "savol": "Modellashtirish natijasida nima tekshiriladi?",
+    "A": "Modelning haqqoniyligi",
+    "B": "Printer sifati",
+    "C": "Monitor hajmi",
+    "D": "Internet tezligi",
+    "javob": "A"
+  }
+]
