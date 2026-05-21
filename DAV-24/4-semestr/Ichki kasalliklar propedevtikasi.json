@@ -1,0 +1,2226 @@
+[
+  {
+    "savol": "Qaysi qatordagi tushuncha bemor habitusini ifodalaydi.",
+    "A": "Bemorning tana tuzilishi, qad-qomati, tana rangi, yuz ifodasi",
+    "B": "Bemorning ong darajasi, muloqotga kirisha olish imkoniyati.",
+    "C": "Bemorni egallab turgan vaziyatiga qarab baho berish",
+    "D": "Bemorning majburiy holatda ekanligi va uning bu vaziyati yengillik berishi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Terri tirnoqlari qaysi kasalliklarda bo`ladi?",
+    "A": "Jigar sirrozi, surunkali yurak yetishmovchiligi",
+    "B": "Miokard infarkti, oshqozon-yara kasalligi",
+    "C": "O`pkaning surunkali obstruktiv kasalligi, o`pka abssesi",
+    "D": "Tizimli qizil bo`richa, o`tkir revmatik isitma",
+    "javob": "A"
+  },
+  {
+    "savol": "Traube bo`shlig`i qayerda joylashgan?",
+    "A": "Oshqozon tubining ko`krak qafasiga taqalib turgan joyi",
+    "B": "Diafragmaning o`ng tomon jigarga tegib turuvchi bo`shlig`i.",
+    "C": "Katta ko`krak muskuli va kichik ko`krak muskuli orasida",
+    "D": "Ko`ks oralig`ida oldingi qismida.",
+    "javob": "A"
+  },
+  {
+    "savol": "Subyektiv belgi bu…",
+    "A": "So’rab-surishtirish orqali aniqlangan belgi",
+    "B": "Bemorni ko’rib, kuzatib aniqlangan belgi",
+    "C": "Laborator tekshiruvda aniqlangan belgi",
+    "D": "Instrumental tekshiruvda aniqlangan belgi",
+    "javob": "A"
+  },
+  {
+    "savol": "Semiotika(semiologiya) tushunchasi ta’rifini tanlang",
+    "A": "Kasallik belgilari ya’ni simptomlari, ularni yuzaga kelishi va rivojlanishi",
+    "B": "Aynan bir kasallikda uchrovchi simptom",
+    "C": "Bir-biri bilan patogenetik bog’liq simptomlar yig’indisi",
+    "D": "Fanga kirib borish degani",
+    "javob": "A"
+  },
+  {
+    "savol": "Sindrom bu…",
+    "A": "Bir-biri bilan patogenetik bog’liq simptomlar yig’indisi",
+    "B": "Aynan bir kasallikda uchrovchi simptom",
+    "C": "Laborator tekshiruvda aniqlangan belgi",
+    "D": "Kasallik belgilari ya’ni simptomlari, ularni yuzaga kelishi va rivojlanishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Asosiy kasallik nima?",
+    "A": "Bemor ahvolini og’irlashtiruvchi va shifoxonaga kelishga majbur qilgan kasallik",
+    "B": "Og’irlik darajasi bo’yicha boshqa kasallik bilan raqobat qila oluvchi kasallik",
+    "C": "Surunkali va remissiya holatida bo’lgan kasallik",
+    "D": "Kasallik kechishini qiyinlashtiruvchi boshqa bir kasallik",
+    "javob": "A"
+  },
+  {
+    "savol": "Patognomonik(patognomik) simptomga ta’rif bering",
+    "A": "Aynan bir kasallikda uchrovchi simptom",
+    "B": "Bir-biri bilan patogenetik bog’liq simptomlar yig’indisi",
+    "C": "Turli xil tizim kasalliklariga xos simptom",
+    "D": "Ma’lum bir tizim a’zolari kasalliklariga xos belgi",
+    "javob": "A"
+  },
+  {
+    "savol": "Maxsus(spetsifik) simptom nima?",
+    "A": "Ma’lum bir tizim a’zolari kasalliklariga xos belgi",
+    "B": "Turli xil tizim kasalliklariga xos simptom",
+    "C": "Aynan bir kasallikda uchrovchi simptom",
+    "D": "Bir-biri bilan patogenetik bog’liq simptomlar yig’indisi",
+    "javob": "A"
+  },
+  {
+    "savol": "Maxsus(spetsifik) bo’lmagan simptom nima?",
+    "A": "Turli xil tizim kasalliklariga xos simptom",
+    "B": "Aynan bir kasallikda uchrovchi simptom",
+    "C": "Bir-biri bilan patogenetik bog’liq simptomlar yig’indisi",
+    "D": "Ma’lum bir tizim a’zolari kasalliklariga xos belgi",
+    "javob": "A"
+  },
+  {
+    "savol": "Obyektiv simptom nima?",
+    "A": "Bemorni ko’rish jarayonida aniqlangan simptom",
+    "B": "So’rab-surishtirish orqali aniqlangan simptom",
+    "C": "Turli xil tizim kasalliklariga xos simptom",
+    "D": "Aynan bir kasallikda uchrovchi symptom",
+    "javob": "A"
+  },
+  {
+    "savol": "Anamnesis vitae tarkibiga kiruvchi punktni belgilang",
+    "A": "Allergologik anamnez",
+    "B": "Kasallikning qanday boshlangani, birinchi belgilari",
+    "C": "Bemor fikricha kasallik sababi",
+    "D": "Ambulator yoki statsionar davo olgani haqida ma’lumot",
+    "javob": "A"
+  },
+  {
+    "savol": "Anamnesis vitae tarkibiga kiruvchi punktni belgilang",
+    "A": "Kasbiy anamnez",
+    "B": "Qayerda va qachon tibbiy yordam olgani",
+    "C": "Kasallik qanday boshlangani",
+    "D": "Bemor fikricha kasallik sababi",
+    "javob": "A"
+  },
+  {
+    "savol": "Anamnesis morbi tarkibiga kiruvchi punktni belgilang",
+    "A": "Kasallikning qanday boshlangani, birinchi belgilari",
+    "B": "Kasbiy anamnez",
+    "C": "Allergologik anamnez",
+    "D": "Zararli odatlari",
+    "javob": "A"
+  },
+  {
+    "savol": "Anamnesis morbi tarkibiga kiruvchi punktni belgilang",
+    "A": "Ambulator yoki statsionar davo olgani haqida ma’lumot",
+    "B": "Akusherlik(ginekologik anamnez)",
+    "C": "O’tkazgan kasalliklari",
+    "D": "Allergologik anamnez",
+    "javob": "A"
+  },
+  {
+    "savol": "Stupor holatiga mos keluvchi javobni belgilang",
+    "A": "Karaxtlik, savollarga kechikib javob berish",
+    "B": "Uyqu holati, savollarga javob yo’q, og’riq va harorat sezgisi saqlangan",
+    "C": "Hushsizlik, tashqi ta’sirga reaksiya va reflekslar yo’q",
+    "D": "Juda faollik",
+    "javob": "A"
+  },
+  {
+    "savol": "Sopor holatiga mos keluvchi javobni belgilang",
+    "A": "Uyqu holati, savollarga javob yo’q, og’riq va harorat sezgisi saqlangan",
+    "B": "Karaxtlik, savollarga kechikib javob berish",
+    "C": "Hushsizlik, tashqi ta’sirga reaksiya va reflekslar yo’q",
+    "D": "Juda faollik",
+    "javob": "A"
+  },
+  {
+    "savol": "Komatoz holatga mos keluvchi javobni belgilang",
+    "A": "Hushsizlik, tashqi ta’sirga reaksiya va reflekslar yo’q",
+    "B": "Juda faollik",
+    "C": "Uyqu holati, savollarga javob yo’q, og’riq va harorat sezgisi saqlangan",
+    "D": "Karaxtlik, savollarga kechikib javob berish",
+    "javob": "A"
+  },
+  {
+    "savol": "Ortopnoe nima degani?",
+    "A": "Bemorning majburiy holatni egallashi",
+    "B": "Bemor nofaol holati",
+    "C": "Bemor aktiv holati",
+    "D": "Komatoz holat",
+    "javob": "A"
+  },
+  {
+    "savol": "Bronxial astmada tizzalariga yoki stulga tayanib majburiy holatni egallashi bu…",
+    "A": "Ortopnoe",
+    "B": "Soporoz",
+    "C": "Stupor",
+    "D": "Apopleksik koma",
+    "javob": "A"
+  },
+  {
+    "savol": "Epigastral burchak 90 gradusdan kichik, tananing bo’yiga rivojlangani xos, ko’krak qafasi tor. Qaysi tana tuzilishiga xos?",
+    "A": "Astenik",
+    "B": "Giperstenik",
+    "C": "Normostenik",
+    "D": "Kifoz",
+    "javob": "A"
+  },
+  {
+    "savol": "Og’zi yarim ochiq, lablar ko’kargan, shishgan sariq rangpar. Yuqoridagilar qaysi yuz tuzilishiga xos?",
+    "A": "Korvizor yuzi",
+    "B": "Gippokrat yuzi",
+    "C": "Kaxektik yuz",
+    "D": "Mum qo’g’irchoq yuzi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko’z olmasi juda cho’kkan, yonoq suyaklari bo’rtgan, terida suvsizlanish belgilari. Yuqoridagilar qaysi yuz tuzilishiga xos?",
+    "A": "Gippokrat yuzi",
+    "B": "Korvizor yuzi",
+    "C": "Kaxektik yuz",
+    "D": "Mum qo’g’irchoq yuzi",
+    "javob": "A"
+  },
+  {
+    "savol": "Aorta qopqoqchalari yetishmovchiligida boshning pulsatsiyalovchi og’ishi qaysi simptom?",
+    "A": "Myusse",
+    "B": "Myorfi",
+    "C": "Gorner",
+    "D": "Stoks",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri Gorner uchligiga kirmaydi?",
+    "A": "Ko’z qorachig’i kengayishi",
+    "B": "Ko’z qorachig’i torayishi",
+    "C": "Qovoqning pastga tushishi",
+    "D": "Ko’z soqqasi teshigi torayishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Oshqozon-ichak kasalliklariga xos simptomni belgilang",
+    "A": "Silliq(laklangan) til",
+    "B": "Malinasimon til",
+    "C": "Leykoplakiya",
+    "D": "To’q yashil qoplamli til",
+    "javob": "A"
+  },
+  {
+    "savol": "Malina rangli til qaysi kasallikka xos?",
+    "A": "Skarlatina",
+    "B": "Oshqozon yarasi",
+    "C": "B12 va folat yetishmovchiligi",
+    "D": "Chekuvchilarda",
+    "javob": "A"
+  },
+  {
+    "savol": "Leykoplakiya bu…",
+    "A": "Til epiteliysi qalinlashishi",
+    "B": "Silliq til",
+    "C": "Malinasimon til",
+    "D": "Yorilgan til",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko’ks oralig’i o’smalarida limfa va qon oqishi qiyinlashganda bo’yinda qaysi simptomni ko’rish mumkin?",
+    "A": "Stoks yoqasi",
+    "B": "Myusse simptomi",
+    "C": "Myorfi simptomi",
+    "D": "Gorner uchligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Terining cho’ziluvchanligi va turgorligi qachon kamayadi?",
+    "A": "Diareyada",
+    "B": "Virusli infeksiyalarda",
+    "C": "Ochlik holatida",
+    "D": "Kamqonlikda",
+    "javob": "A"
+  },
+  {
+    "savol": "Rozeola bu…",
+    "A": "Diametri 1 sm dan kichik dog’",
+    "B": "Diametri 1 sm dan katta dog’",
+    "C": "Teriga qon quyilishi",
+    "D": "Teri yuzasidagi qon tomirlar kattalashishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Eritema bu…",
+    "A": "Diametri 1 sm dan katta dog’",
+    "B": "Diametri 1 sm dan kichik dog’",
+    "C": "Teriga qon quyilishi",
+    "D": "Teri yuzasidagi qon tomirlar kattalashishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Teleangioektaziya bu…",
+    "A": "Teri yuzasidagi qon tomirlar kattalashishi",
+    "B": "Diametri 1 sm dan katta dog’",
+    "C": "Diametri 1 sm dan kichik dog’",
+    "D": "Teriga qon quyilishi oqibatidagi dog’",
+    "javob": "A"
+  },
+  {
+    "savol": "Purpura bu…",
+    "A": "Teriga qon quyilishi oqibatidagi dog’",
+    "B": "Teri yuzasidagi qon tomirlar kattalashishi",
+    "C": "Diametri 1 sm dan katta dog’",
+    "D": "Diametri 1 sm dan kichik dog’",
+    "javob": "A"
+  },
+  {
+    "savol": "Teri yuzasida tarkibida yiring saqlovchi chegaralangan bo’shliq nima?",
+    "A": "Pustula",
+    "B": "Vezikula",
+    "C": "Tugun",
+    "D": "Eroziya",
+    "javob": "A"
+  },
+  {
+    "savol": "Soat oynasi simptomiga to’g’ri keluvchi ta’rifni tanlang.",
+    "A": "Tirnoq ostida biriktiruvchi to’qima o’sishi oqibatida tirnoq bo’rtib qolishi",
+    "B": "Tirnoq qizil-malla chiziqli va oqargan ko’rinishga kelishi",
+    "C": "Tirnoqning ichkariga botib kirib qolishi",
+    "D": "Tirnoq notekis, g’adir-budur bo’lib qolishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Surunkali gipoksiya holatida tirnoqlarda kuzatish mumkin…",
+    "A": "Baraban tayoqchalari",
+    "B": "Terri tirnoqlari",
+    "C": "Tirnoqning ichkariga botib kirib qolishi",
+    "D": "To’g’ri javob yo’q",
+    "javob": "A"
+  },
+  {
+    "savol": "Sochlar to’kilishi nima deyiladi?",
+    "A": "Allopetsiya",
+    "B": "Gipertrixoz",
+    "C": "Teleangioektaziya",
+    "D": "Girsutizm",
+    "javob": "A"
+  },
+  {
+    "savol": "Aniq-yaqqol perkutor tovush qayerda eshitiladi?",
+    "A": "O’pkada",
+    "B": "Parenximatoz organlarda",
+    "C": "Ichaklar va oshqozonda",
+    "D": "Suyaklarda",
+    "javob": "A"
+  },
+  {
+    "savol": "To’mtoq(bo’g’iq)perkutor tovush qayerda eshitiladi?",
+    "A": "Parenximatoz organlarda",
+    "B": "O’pkada",
+    "C": "Oshqozonda",
+    "D": "Ichaklarda",
+    "javob": "A"
+  },
+  {
+    "savol": "Timpanik perkutor tovush qayerda eshitiladi?",
+    "A": "Oshqozon-ichaklarda",
+    "B": "O’pkada",
+    "C": "Parenximatoz organlarda",
+    "D": "Suyaklarda",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri fizik tekshiruv usuli emas?",
+    "A": "So’rab-surishtirish",
+    "B": "Palpatsiya",
+    "C": "Perkussiya",
+    "D": "Auskultatsiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri perkussiya turi emas?",
+    "A": "Sirg’anuvchi",
+    "B": "Bevosita",
+    "C": "Bilvosita",
+    "D": "Topografik",
+    "javob": "A"
+  },
+  {
+    "savol": "Tana vazn indeksi qanday hisoblanadi?",
+    "A": "Tana vaznini(kg) bo’yning metrdagi kvadratiga bo’lish orqali",
+    "B": "Tana vaznini bo’yning metrdagi kvadratiga ko’paytirish orqali",
+    "C": "Tana vaznini bo’yning santimetrdagi kvadratiga bo’lish orqali",
+    "D": "To’g’ri javob yo’q",
+    "javob": "A"
+  },
+  {
+    "savol": "Tana vazn indeksida normal ko’rsatkichni belgilang",
+    "A": "18.5-24.9",
+    "B": "25-29.9",
+    "C": "30-34.9",
+    "D": "35-40",
+    "javob": "A"
+  },
+  {
+    "savol": "Tana vazn indeksida ortiqcha vazn ko’rsatkichini belgilang",
+    "A": "25-29.9",
+    "B": "30-34.9",
+    "C": "35-40",
+    "D": "40-45",
+    "javob": "A"
+  },
+  {
+    "savol": "Tana vazn indeksida 1-darajali semizlik ko’rsatkichini belgilang",
+    "A": "30-34.9",
+    "B": "35-40",
+    "C": "40-45",
+    "D": "18.5-24.9",
+    "javob": "A"
+  },
+  {
+    "savol": "Tana vazn indeksida 2-darajali semizlik ko’rsatkichini belgilang",
+    "A": "35-39.9",
+    "B": "40-45",
+    "C": "18.5-24.9",
+    "D": "30-34.9",
+    "javob": "A"
+  },
+  {
+    "savol": "Tana vazn indeksida 3-darajali semizlik ko’rsatkichini belgilang",
+    "A": "40 va undan yuqori",
+    "B": "18.5-24.9",
+    "C": "30-34.9",
+    "D": "35-39.9",
+    "javob": "A"
+  },
+  {
+    "savol": "Subfebril isitmaga mos keladigan haroratni belgilang",
+    "A": "37-37.9",
+    "B": "38-39.9",
+    "C": "40-40.9",
+    "D": "41 va undan yuqori",
+    "javob": "A"
+  },
+  {
+    "savol": "Febril isitmaga mos keladigan haroratni belgilang",
+    "A": "38-39.9",
+    "B": "40-40.9",
+    "C": "41 va undan yuqori",
+    "D": "37-37.9",
+    "javob": "A"
+  },
+  {
+    "savol": "Gektik isitmaga mos keladigan haroratni belgilang",
+    "A": "40-40.9",
+    "B": "37-37.9",
+    "C": "38-39.9",
+    "D": "35.5-36.9",
+    "javob": "A"
+  },
+  {
+    "savol": "O’tkir respirator kasalliklar va kashandalarda, astmatik bemorlarda uchraydigan yo’tal turini belgilang",
+    "A": "Davriy",
+    "B": "Tovushsiz",
+    "C": "Bitonal",
+    "D": "Jarangdor(it hurishi)",
+    "javob": "A"
+  },
+  {
+    "savol": "Konvulsiv yo`talga xos xususiyatlar berilgan qatorni belgilang.",
+    "A": "Asosan tunda boshlanadi, xurujsimon, ketma-ket, uzun va yuqori nafas orasida yo`tal bo`lishi.",
+    "B": "Tovush xirillilashi, afoniya bilan birga kechuvchi yo`tal",
+    "C": "Dag`al ohang bilan musiqali yuqori oberton bilan qo`shilib keladi.",
+    "D": "Surunkali kechuvchi qisqa va quruq yo`tal bilan keladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Bitonal yo’tal qachon paydo bo’ladi",
+    "A": "Rakdagi bronxoadenitda",
+    "B": "O’tkir laringitda",
+    "C": "Bronxial astmada",
+    "D": "Zotiljamda",
+    "javob": "A"
+  },
+  {
+    "savol": "Inspirator hansirash bilan kechuvchi kasallikni belgilang",
+    "A": "Chap qorincha yetishmovchiligi",
+    "B": "Bronxial astma",
+    "C": "Surunkali bronxit",
+    "D": "Bronxoektaz",
+    "javob": "A"
+  },
+  {
+    "savol": "Ekspirator xansirash bilan kechuvchi kasallikni belgilang",
+    "A": "Bronxial astma",
+    "B": "Chap qorincha yetishmovchiligi",
+    "C": "Pnevmoniya",
+    "D": "Emfizema",
+    "javob": "A"
+  },
+  {
+    "savol": "Haemoptoe atamasiga mos keluvchi javobni belgilang",
+    "A": "Qon tupurish",
+    "B": "Yo’tal",
+    "C": "Balg’am",
+    "D": "Hansirash",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko’krak qafasi shakli boshkasimon, qovurg’alar oralig’i kengaygan bo’lishi qaysi javobga xos",
+    "A": "Emfizematoz ko’krak qafasi",
+    "B": "Qayiqsimon ko’krak qafasi",
+    "C": "Paralitik ko’krak qafasi",
+    "D": "Raxitik ko’krak qafasi",
+    "javob": "A"
+  },
+  {
+    "savol": "To’sh suyagi old sathining yuqori va o’rta qismida chuqurcha bo’lishi qaysi ko’krak qafasiga xos",
+    "A": "Qayiqsimon",
+    "B": "Paralitik ko’krak qafasi",
+    "C": "Raxitik ko’krak qafasi",
+    "D": "Emfizematoz ko’krak qafasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko’krak qafasi muskullari yaqqol atrofiyasi, o’mrov usti chuqurchalar turlicha bo’lishi qaysi ko’krak qafasiga xos",
+    "A": "Paralitik ko’krak qafasi",
+    "B": "Raxitik ko’krak qafasi",
+    "C": "Emfizematoz ko’krak qafasi",
+    "D": "Voronkasimon",
+    "javob": "A"
+  },
+  {
+    "savol": "Bradipnoe bu…",
+    "A": "Nafas sonining kamayib ketishi",
+    "B": "Nafas sonining oshib ketishi",
+    "C": "Nafas chuqurligi ortishi",
+    "D": "Nafas to’xtashi",
+    "javob": "A"
+  },
+  {
+    "savol": "Taxipnoe bu…",
+    "A": "Nafas sonining oshib ketishi",
+    "B": "Nafas chuqurligi ortishi",
+    "C": "Nafas to’xtashi",
+    "D": "Nafas sonining kamayib ketishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Giperpnoe bu…",
+    "A": "Nafas chuqurligi ortishi",
+    "B": "Nafas to’xtashi",
+    "C": "Nafas sonining kamayib ketishi",
+    "D": "Nafas sonining oshib ketishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Kuchli shovqin bilan davom etuvchi chuqur va tez patologik nafas turini belgilang",
+    "A": "Kussmaul",
+    "B": "Cheyn-Stoks",
+    "C": "Biott",
+    "D": "Grokk",
+    "javob": "A"
+  },
+  {
+    "savol": "Dastlab nafas tezlashib chuqurlashadi keyin sekinlashib borib to’xtaydi va nafas tanaffusi kuzatiladigan patologik nafas turini belgilang",
+    "A": "Cheyn-Stoks",
+    "B": "Kussmaul",
+    "C": "Biott",
+    "D": "Grokk",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan qaysi birini palpatsiya orqali aniqlamaymiz",
+    "A": "O’pkadagi patologik to’mtoq tovushni",
+    "B": "Ko’krak qafasi nafas olishda bir tomoni ortda qolayotgani yoki yo’qligi",
+    "C": "Ko’krak qafasi elastikligini baholash",
+    "D": "Tovush titrashini baholash",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan qaysi birini palpatsiya orqali aniqlaymiz",
+    "A": "Barcha javob to’g’ri",
+    "B": "Ko’krak qafasi nafas olishda bir tomoni ortda qolayotgani yoki yo’qligi",
+    "C": "Ko’krak qafasi elastikligini baholash",
+    "D": "Tovush titrashini baholash",
+    "javob": "A"
+  },
+  {
+    "savol": "Tovush titrashi qachon kuchayadi",
+    "A": "O’pka to’qimasi zichlashganda",
+    "B": "Plevra bo’shlig’ida havo bo’lganda",
+    "C": "Plevra bo’shlig’ida suyuqlik bo’lganda",
+    "D": "O’pka to’qimasi havo miqdori oshib ketsa",
+    "javob": "A"
+  },
+  {
+    "savol": "Krenig maydoni bu…",
+    "A": "O’pka cho’qqisini topografiyasi",
+    "B": "O’pka to’qimasi pastki chegarasi topografiyasi",
+    "C": "Solishtirma perkussiya",
+    "D": "O’pka to’qimasi harakatchanligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Krenig maydoni qachon kattalashadi",
+    "A": "Emfizemada",
+    "B": "Zotiljimda",
+    "C": "Plevritda",
+    "D": "Chap qorincha yetishmovchiligida",
+    "javob": "A"
+  },
+  {
+    "savol": "O’pka chegarasi bir tomonlama yuqoriga siljishi quyidagilardan qaysi birida bo’ladi",
+    "A": "Jigar kattalashishi",
+    "B": "Emfezimada",
+    "C": "Qorin bo’shlig’ida suyuqlik bo’lsa",
+    "D": "Qorin bo’shlig’ida havo bo’lsa",
+    "javob": "A"
+  },
+  {
+    "savol": "O’pkada eshitiluvchi normal nafas turi qaysi",
+    "A": "Barcha javob to’g’ri",
+    "B": "Vezikulyar",
+    "C": "Bronxial",
+    "D": "Bronxo-vezikulyar",
+    "javob": "A"
+  },
+  {
+    "savol": "Yumshoq f tovushiga o’xshash, o’pka to’qimasida eshitiladigan, inspiratsiya fazasi uzun. Bu ma’lumotlar qaysi nafasga xos?",
+    "A": "Vezikulyar",
+    "B": "Bronxial",
+    "C": "Stridor",
+    "D": "Krepitatsiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Qattiq x tovushiga o’xshash, traxeya, bronxlar ustida eshitiladi, ekspiratsiya fazasi uzoq. Bu ma’lumotlar qaysi nafasga xos?",
+    "A": "Bronxial",
+    "B": "Vezikulyar",
+    "C": "Stridor",
+    "D": "Krepitatsiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Sakkadirlangan nafas nima?",
+    "A": "Nafas olish fazasida vezikulyar nafas uzilib uzilib eshitiladi",
+    "B": "Ichi bo’sh idishga puflangan tovush",
+    "C": "Bolalarda uchrovchi kuchli eshitiluvchi vezikulyat nafas",
+    "D": "Nafas chiqarishda yaqqol eshitikuvchi hushtaksimon tovush",
+    "javob": "A"
+  },
+  {
+    "savol": "Amforik nafas nima?",
+    "A": "Ichi bo’sh idishga puflangan tovush",
+    "B": "Nafas olish fazasida vezikulyar nafas uzilib uzilib eshitiladi",
+    "C": "Bolalarda uchrovchi kuchli eshitiluvchi vezikulyat nafas",
+    "D": "Nafas chiqarishda yaqqol eshitikuvchi hushtaksimon tovush",
+    "javob": "A"
+  },
+  {
+    "savol": "Pueril nafas nima?",
+    "A": "Bolalarda uchrovchi kuchli eshitiluvchi vezikulyat nafas, inspiratsiya va ekspiratsiya nisbati 3:2",
+    "B": "Nafas chiqarishda yaqqol eshitikuvchi hushtaksimon tovush",
+    "C": "Ichi bo’sh idishga puflangan tovush",
+    "D": "Nafas olish fazasida vezikulyar nafas uzilib uzilib eshitiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Vezikulyar nafas qachon fiziologik susayadi?",
+    "A": "Muskul va teri osti yog’ qavati yaxshi rivojlanganlarda",
+    "B": "Muskul va teri osti yog’ qavati yaxshi rivojlanmaganlarda",
+    "C": "Astenik insonlarda",
+    "D": "Zotiljam kasalligida",
+    "javob": "A"
+  },
+  {
+    "savol": "Vezikulyar nafas qachon fiziologik kuchayadi?",
+    "A": "Astenik insonlarda",
+    "B": "Muskul va teri osti yog’ qavati yaxshi rivojlanganlarda",
+    "C": "Giperstenik insonlarda",
+    "D": "Sportchilarda",
+    "javob": "A"
+  },
+  {
+    "savol": "Vezikulyar nafas qachon patologik susayadi?",
+    "A": "Emfizemada",
+    "B": "Muskul va teri osti yog’ qavati yaxshi rivojlanmaganlarda",
+    "C": "Gipersteniklarda",
+    "D": "Asteniklarda",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi kasallikda hushtaksiomon tovush eshitiladi?",
+    "A": "Bronxial astmada",
+    "B": "Zotiljimda",
+    "C": "Emfizemada",
+    "D": "Pnevmotoraksda",
+    "javob": "A"
+  },
+  {
+    "savol": "Pikflometriya o’tkazishdan maqsad?",
+    "A": "Nafas yo’llaridagi torayishni aniqlash",
+    "B": "O’pka tiriklik hajmini aniqlash",
+    "C": "Funksional qoldiq hajmni hisoblash",
+    "D": "O’pkada havo hajmi kamayishi bilan bog’liq kasalliklarni tashhislash",
+    "javob": "A"
+  },
+  {
+    "savol": "Pikflometriyada necha foiz chiqsa yashil hudud hisoblanadi",
+    "A": "80-100",
+    "B": "60-80",
+    "C": "70-80",
+    "D": "50-70",
+    "javob": "A"
+  },
+  {
+    "savol": "Pikflometriyadan quyidagi qaysi kasallikni tashhislashda foydalanamiz?",
+    "A": "Bronxial astma",
+    "B": "Zotiljam",
+    "C": "Emfizema",
+    "D": "Plevrit",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri pnevmoniya davri emas?",
+    "A": "Qora jigarlanish",
+    "B": "Qizil jigarlanish",
+    "C": "Kulrang jigarlanish",
+    "D": "Zichlashish",
+    "javob": "A"
+  },
+  {
+    "savol": "Pnevmoniya dastlabki davrlarida auskultatsiyada nima eshitamiz?",
+    "A": "Krepitatsiya",
+    "B": "Quruq xirillash",
+    "C": "Hushtaksimon nafas",
+    "D": "Plevra ishqalanish shovqini",
+    "javob": "A"
+  },
+  {
+    "savol": "Pnevmoniya dastlabki davrlarida palpatsiyada nima aniqlanadi?",
+    "A": "Tovush titrashi kuchayishi",
+    "B": "To’mtoq tovush",
+    "C": "Krepitatsiya",
+    "D": "Tovush titrashi susayishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Pnevmoniya dastlabki davrlarida perkussiyada nima aniqlanadi?",
+    "A": "To’mtoq tovush",
+    "B": "Timpanik tovush",
+    "C": "Qutichasimon tovush",
+    "D": "Aniq o’pka tovushi",
+    "javob": "A"
+  },
+  {
+    "savol": "Pnevmoniyada qon analiziga xos emas",
+    "A": "Trombotsitoz",
+    "B": "Leykotsitoz",
+    "C": "ECHT oshishi",
+    "D": "C-reaktiv oqsil aniqlanishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Virusli infeksiyadan so`ng infeksiyalanishning bronxogen shaklida kuzatilganda qanday etiologiyali zotiljam kelib chiqadi.",
+    "A": "Stafilakokkli zotiljam",
+    "B": "Klebsiyellali zotiljam",
+    "C": "Mikoplazmali zotiljam",
+    "D": "Pnevmokokkli zotiljam",
+    "javob": "A"
+  },
+  {
+    "savol": "Pnevmoniyaning septik asoratlari berilgan qatorni belgilang.",
+    "A": "Infeksiyali-toksik shok, perikardit",
+    "B": "O`tkir nafas yetishmovchiligi, plevrit",
+    "C": "O`pka to`qimasida yiringli jarayonlar",
+    "D": "Yiringli plevrit, nafas yetishmovchiligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Pnevmoniya dastlabki davrlarida palpatsiyada nima aniqlanadi?",
+    "A": "Ko’krak qafasi nafas olishdan bir tomonlama ortda qolishi",
+    "B": "Krenig maydoni kengayishi",
+    "C": "To’mtoq tovush",
+    "D": "Krepitatsiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri pnevmoniyani davosiga kirmaydi?",
+    "A": "Vena ichiga dezintoksikatsiya maqsadida ko’proq suyuqlik yuborish",
+    "B": "Antibiotik terapiya",
+    "C": "Oksigenoterapiya",
+    "D": "Balg’am ko’chiruvchilar",
+    "javob": "A"
+  },
+  {
+    "savol": "Shifoxona ichi pnevmoniyasi deyiladi, qachonki…",
+    "A": "Shifoxonaga tushgach 48-72 soatdan keyin pnevmoniya rivojlansa",
+    "B": "Shifoxonaga tushgach 24-48 soatdan keyin pnevmoniya rivojlansa",
+    "C": "Shifoxonaga tushgach 12-24 soatdan keyin pnevmoniya rivojlansa",
+    "D": "Shifoxonaga tushgach 12 soatgacha pnevmoniya rivojlansa",
+    "javob": "A"
+  },
+  {
+    "savol": "Teskari isitma nima?",
+    "A": "Ertalabki harorat kechkidan yuqori",
+    "B": "Tana haroratining bir kecha kunduz davomida 2-4 gradusga farq qilishi",
+    "C": "Har 2-3 kunda isitma qaytalanishi",
+    "D": "Kechki harorat baland bo’lishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Bezgakka xos isitma turi?",
+    "A": "Qaytalanuvchi",
+    "B": "Teskari",
+    "C": "davomiy",
+    "D": "Noto’g’ri",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri destruktiv kasallik hisoblanadi",
+    "A": "O’pka absessi",
+    "B": "O’choqli zotiljam",
+    "C": "O’tkir bronxit",
+    "D": "Krupoz pnevmoniya",
+    "javob": "A"
+  },
+  {
+    "savol": "O’pka absessi bu…",
+    "A": "Chegaralangan yiringli yallig’lanish",
+    "B": "Bronxo-obstruksiya bilan kechuvchi kasallik",
+    "C": "O’pkada havo ortib ketishi bi;an kechuvchi kasallik",
+    "D": "Bronxlar qaytmas kengayishi bilan kechuvchi kasallik",
+    "javob": "A"
+  },
+  {
+    "savol": "Bronxoektaz qanday kasallik?",
+    "A": "Bronxlar qaytmas kengayishi bilan kechuvchi kasallik",
+    "B": "Bronxo-obstruksiya bilan kechuvchi kasallik",
+    "C": "O’pkada havo ortib ketishi bi;an kechuvchi kasallik",
+    "D": "Chegaralangan yiringli yallig’lanish",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri bronxoektaz sababi",
+    "A": "Muko-siliar apparat funksiyasi buzilishi",
+    "B": "Alveolar elastikligi yo’qolishi",
+    "C": "Plevra bo’shlig’ida havo to’planishi",
+    "D": "Barchasi to’g’ri",
+    "javob": "A"
+  },
+  {
+    "savol": "Qadahsimon hujayralar va Bronx kiprikchalari funksiyasi buzilsa qaysi kasallik kelib chiqadi?",
+    "A": "Bronxoektaz",
+    "B": "Emfizema",
+    "C": "Bronxial astma",
+    "D": "Plevrit",
+    "javob": "A"
+  },
+  {
+    "savol": "O’pka absessining yiringli bo’shlig’I yorilgach perkussiyada nima aniqlanadi?",
+    "A": "Timpanik tovush",
+    "B": "To’mtoq tovush",
+    "C": "Aniq o’pka tovushi",
+    "D": "Krepitatsiya",
+    "javob": "A"
+  },
+  {
+    "savol": "O’pka absessining yiringli bo’shlig’i yorilgach va yiringdan tozalangach auskultatsiyada nima eshitiladi",
+    "A": "Amforik nafas",
+    "B": "Sakkadirlangan nafas",
+    "C": "Vezikulyar nafas",
+    "D": "Krepitatsiya",
+    "javob": "A"
+  },
+  {
+    "savol": "O’pka absessining yiringli bo’shlig’i yorilgach va yiringdan tozalangach palpatsiyada nima aniqlanadi",
+    "A": "Tovush titrashi susayishi",
+    "B": "Tovush titrashi kuchayishi",
+    "C": "To’mtoq tovush",
+    "D": "Krenig maydoni kattalashishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ekssudativ plevritga xos simptomni belgilang",
+    "A": "Zararlangan tomonda kuchli og’riq",
+    "B": "Auskultatsiyada krepitatsiya",
+    "C": "Perkussiyada timpanik tovush",
+    "D": "Palpatsiyada tovush titrashi kuchayishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ekssudativ plevritda plevral punksiya sohasini belgilang",
+    "A": "7-8 qovurg’alar orasi, 8-qovurg’a ustidan",
+    "B": "7-8 qovurg’alar orasi, 7-qovurg’a ostidan",
+    "C": "3-4 qovurg’alar orasi, 4-qovurg’a ustidan",
+    "D": "3-4 qovurg’alar orasi, 3-qovurg’a ostidan",
+    "javob": "A"
+  },
+  {
+    "savol": "O`pka absessiga xos bo`lgan balg`am xususiyatini belgilang",
+    "A": "Pastki qavati detritli, kulrang, o`rta qavati suyuq yiringli, yuqori qavatda ko`pikli seroz",
+    "B": "Pastki qavati quyqali, qora yuqori qavati seroz suyuqlik",
+    "C": "Pastki qavati qon quyqasi, yuqori qavati shilliq, yiringli",
+    "D": "Pastki qavati shilliqli, o`rta qavati zardobli tiniq, pastki qavati qon quyqasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Bronxial astma asosida…",
+    "A": "I tip gipersezuvchanlik reaksiyasi yotadi",
+    "B": "II tip gipersezuvchanlik reaksiyasi yotadi",
+    "C": "III tip gipersezuvchanlik reaksiyasi yotadi",
+    "D": "IV tip gipersezuvchanlik reaksiyasi yotadi",
+    "javob": "A"
+  },
+  {
+    "savol": "O`pka abssesi qaysi kasalliklarda moyillik tug`duradi.",
+    "A": "Alkogolizm, qandli diabet, bronxoektaz",
+    "B": "Miokard infarkti, o`tkir nafas yetishmovchiligi",
+    "C": "Pnevmotorakslarning turli formalarida",
+    "D": "O`tkir bronxit, respirator infeksiyalar",
+    "javob": "A"
+  },
+  {
+    "savol": "Bronxial astma kasalligida qonda oshib ketadi…",
+    "A": "IgE",
+    "B": "IgG",
+    "C": "IgM",
+    "D": "IgA",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi dori vositalardan qaysi biri astma xurujiga sabab bo’lishi mumkin?",
+    "A": "Aspirin",
+    "B": "Nitroglitserin",
+    "C": "B guruh vitamin preparatlar",
+    "D": "Salbutamol",
+    "javob": "A"
+  },
+  {
+    "savol": "Bronxial astma xuruji davrlariga kirmaydiganini belgilang",
+    "A": "Zichlashish",
+    "B": "Xabarchilar",
+    "C": "Avj olish",
+    "D": "Xuruj ortga qaytish",
+    "javob": "A"
+  },
+  {
+    "savol": "Bronxial astma auskultatsuyasiga xos belgini belgilang",
+    "A": "Quruq xushtaksimon xirillash",
+    "B": "Krepitatsiya",
+    "C": "Amforik nafas",
+    "D": "Sakkadirlangan nafas",
+    "javob": "A"
+  },
+  {
+    "savol": "Bronxial astma avj olish davrida perkussiyada…",
+    "A": "Qutichasimon tovush",
+    "B": "To’mtoq tovush",
+    "C": "Aniq o’pka tovushi",
+    "D": "Bo’g’iq tovush",
+    "javob": "A"
+  },
+  {
+    "savol": "Bronxial astma qon tahlilida nimani aniqlash mumkin",
+    "A": "Eozinofiliya",
+    "B": "Neytrofillyoz",
+    "C": "Leykotsitar formula chapga siljiganini",
+    "D": "Leykopeniya",
+    "javob": "A"
+  },
+  {
+    "savol": "Bronxial astma kasalligi balg’am tekshiruvida nima topiladi",
+    "A": "Kurshman spirallari",
+    "B": "Yiringli, yashil balg’am",
+    "C": "3 qavatli balg’am",
+    "D": "Qonli balg’am",
+    "javob": "A"
+  },
+  {
+    "savol": "Bronxial astma kasalligi balg’am tekshiruvida nima topiladi",
+    "A": "Sharko-Leyden kristallari",
+    "B": "Yiringli, yashil balg’am",
+    "C": "3 qavatli balg’am",
+    "D": "Qonli balg’am",
+    "javob": "A"
+  },
+  {
+    "savol": "Bronxial astma kasalligida asosiy instrumental tekshiruv usulini belgilang",
+    "A": "Pikflometriya",
+    "B": "Rentgen",
+    "C": "EKG",
+    "D": "Balg’am tahlili",
+    "javob": "A"
+  },
+  {
+    "savol": "Bronxial astmaning eng asosiy asorati nima?",
+    "A": "Astmatik status",
+    "B": "Bronxoektaz",
+    "C": "Miokard infarkti",
+    "D": "Pnevmoniya",
+    "javob": "A"
+  },
+  {
+    "savol": "Bronxial astma xurujida asosiy birinchi yordam dorini belgilang",
+    "A": "Salbutamol",
+    "B": "Diazolin",
+    "C": "Mukolitiklar",
+    "D": "Aspirin",
+    "javob": "A"
+  },
+  {
+    "savol": "O’pka elastikligi buzilishi bilan kechuvchi kasallikni belgilang",
+    "A": "Emfizema",
+    "B": "Pnevmoniya",
+    "C": "Bronxial astma",
+    "D": "Plevrit",
+    "javob": "A"
+  },
+  {
+    "savol": "O’pka emfizemasi asosida qaysi ferment yetishmovchiligi yotadi",
+    "A": "Alfa-1 antitripsin",
+    "B": "Elastaza",
+    "C": "Superoksiddismutaza",
+    "D": "Alfa amilaza",
+    "javob": "A"
+  },
+  {
+    "savol": "O’pka emfizemasida perkussiyada nimani aniqlash mumkin",
+    "A": "Qutichasimon tovushni",
+    "B": "To’mtoq tovushni",
+    "C": "Krepitatsiyani",
+    "D": "Tovush titrashi susayishini",
+    "javob": "A"
+  },
+  {
+    "savol": "O’pka emfizemasiga xos ko’krak qafasi shaklini belgilang",
+    "A": "Bochkasimon",
+    "B": "Qayiqsimon",
+    "C": "Voronkasimon",
+    "D": "Paralitik",
+    "javob": "A"
+  },
+  {
+    "savol": "Pnevmotoraks perkussiyasiga xos belgi",
+    "A": "Timpanik tovush",
+    "B": "Aniq o’pka tovushi",
+    "C": "To’mtoq tovush",
+    "D": "Bo’g’iq tovush",
+    "javob": "A"
+  },
+  {
+    "savol": "Pnevmotorakas palpatsiyasiga xos belgi",
+    "A": "Tovush titrashi susayishi",
+    "B": "Tovush titrashi kuchayishi",
+    "C": "Timpanik tovush",
+    "D": "To’mtoq tovush",
+    "javob": "A"
+  },
+  {
+    "savol": "Yurak kasalliklaridagi og’riq xarakteri",
+    "A": "Kuydiruvchi, siquvchi, bosuvchi",
+    "B": "Sanchuvchi",
+    "C": "Faqat ezuvchi",
+    "D": "Aniq bir nuqtada bo’lishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Yurak kasalliklaridagi og’riq qayerlarga tarqaladi",
+    "A": "Chap jag’, chap yelka, chap kurak",
+    "B": "O’ng jag’, o’ng yelka, o’ng kurak",
+    "C": "Qorin va yonbosh sohaga",
+    "D": "Bel, chov sohasiga",
+    "javob": "A"
+  },
+  {
+    "savol": "Chap qorincha yetishmovchiligida shish…",
+    "A": "O’pkada",
+    "B": "Oyoqlarda",
+    "C": "Qorinda",
+    "D": "Bo’yin sohasida",
+    "javob": "A"
+  },
+  {
+    "savol": "Chap qorincha yetishmovchiligi belgisi",
+    "A": "Krepitatsiya",
+    "B": "Assit",
+    "C": "Vena jugularis kattalashuvi",
+    "D": "Qovoqlarda shish",
+    "javob": "A"
+  },
+  {
+    "savol": "Stenokardiya og’riqlariga xarakterli…",
+    "A": "Og’riqning 20 daqiqagacha bo’lishi",
+    "B": "Nitroglitserin foyda qilmasligi",
+    "C": "30 minutdan oshiq og’riq davom etishi",
+    "D": "O’lim xissi",
+    "javob": "A"
+  },
+  {
+    "savol": "Miokard infarkti og’riqlariga xos xususiyat:",
+    "A": "Nitroglitserin foyda qilmaydi",
+    "B": "Bir nuqtada sanchuvchi",
+    "C": "Og’riqning 20 daqiqagacha bo’lishi",
+    "D": "Umurtqa pog’onasi bo’ylab og’riq",
+    "javob": "A"
+  },
+  {
+    "savol": "Chap qorincha yetishmovchiligiga xos:",
+    "A": "Inspirator xansirash",
+    "B": "Ekspirator xansirash",
+    "C": "Oyoqlarda shish",
+    "D": "Assit",
+    "javob": "A"
+  },
+  {
+    "savol": "O’ng qorincha yetishmovchiligiga xos",
+    "A": "Oyoqlarda shish",
+    "B": "Inspirator xansirash",
+    "C": "Ekspirator xansirash",
+    "D": "Krepitatsiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Chap qorincha yetishmovchiligiga xos:",
+    "A": "Krepitatsiya",
+    "B": "Ekspirator xansirash",
+    "C": "Vena jugularis kattalashishi",
+    "D": "Gepatomegaliya",
+    "javob": "A"
+  },
+  {
+    "savol": "Chap qorincha yetishmovchiligiga xos:",
+    "A": "Yo’tal",
+    "B": "Vena jugularis kattalashishi",
+    "C": "Gepatomegaliya",
+    "D": "Splenomegaliya",
+    "javob": "A"
+  },
+  {
+    "savol": "O’ng qorincha yetishmovchiligiga xos",
+    "A": "Vena jugularis kattalashishi",
+    "B": "Yo’tal",
+    "C": "Krepitatsiya",
+    "D": "Inspirator xansirash",
+    "javob": "A"
+  },
+  {
+    "savol": "Anasarka bu…",
+    "A": "Butun tanaga tarqalgan shish",
+    "B": "Oyoqlardagi shish",
+    "C": "Pereferik shish",
+    "D": "Butun tanaga tarqalgan ko’karish",
+    "javob": "A"
+  },
+  {
+    "savol": "Epigastral pulsatsiya…",
+    "A": "O’ng qorincha gipertrofiyasi belgisi",
+    "B": "Chap qorincha gipertrofiyasi belgisi",
+    "C": "O’ng bo’lmacha gipertrofiyasi belgisi",
+    "D": "Chap bo’lmacha gipertrofiyasi belgisi",
+    "javob": "A"
+  },
+  {
+    "savol": "Cho’qqi turtkisini yuqoriga siljituvchi sababni belgilang",
+    "A": "Homiladorlik",
+    "B": "Ozib ketish",
+    "C": "visseroptoz",
+    "D": "Chap qorincha gipertrofiyasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Cho’qqi turtkisini pastga siljituvchi sababni belgilang",
+    "A": "Ozib ketish",
+    "B": "Homiladorlik",
+    "C": "Meteorizm",
+    "D": "Assit",
+    "javob": "A"
+  },
+  {
+    "savol": "Yurak belining mitral shakliga olib keluvchi sababni belgilang",
+    "A": "Mitral stenoz",
+    "B": "Aortal stenoz",
+    "C": "Aortal yetishmovchilik",
+    "D": "Arterial gipertoniya",
+    "javob": "A"
+  },
+  {
+    "savol": "Yurak belining aortal shakliga olib keluvchi sababni belgilang",
+    "A": "Aortal stenoz",
+    "B": "Mitral stenoz",
+    "C": "O’pka kasalliklari",
+    "D": "Mitral yetishmovchilik",
+    "javob": "A"
+  },
+  {
+    "savol": "Aortal stenozda auskultatsiya nuqtasini belgilang",
+    "A": "To’shdan o’ngda 2-3 qovurg’alar orasida",
+    "B": "To’shdan chapda 2-3 qovurg’alar orasida",
+    "C": "Yurak cho’qqi turtki sohasida",
+    "D": "To’sh xanjarsimon o’siq asosida",
+    "javob": "A"
+  },
+  {
+    "savol": "Aortal klapan yetishmovchiligida auskultatsiya nuqtasini belgilang",
+    "A": "To’shdan chapda 3-4 qovurg’alar orasida",
+    "B": "To’shdan o’ngda 2-3 qovurg’alar orasida",
+    "C": "Yurak cho’qqi turtki sohasida",
+    "D": "To’sh xanjarsimon o’siq asosida",
+    "javob": "A"
+  },
+  {
+    "savol": "Mitral stenozda auskultatsiya nuqtasini belgilang",
+    "A": "Yurak cho’qqi turtki sohasida",
+    "B": "To’shdan o’ngda 2-3 qovurg’alar orasida",
+    "C": "To’shdan chapda 2-3 qovurg’alar orasida",
+    "D": "Botkin-Erb nuqtasida",
+    "javob": "A"
+  },
+  {
+    "savol": "Uch tabaqali klapan auskultatsiya nuqtasini belgilang",
+    "A": "To’sh xanjarsimon o’siq asosida",
+    "B": "To’shdan o’ngda 2-3 qovurg’alar orasida",
+    "C": "To’shdan chapda 2-3 qovurg’alar orasida",
+    "D": "Botkin-Erb nuqtasida",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi klapanlar yopilishi I ton xosil bo’lishida muhim?",
+    "A": "Mitral va trikuspidal klapanlar",
+    "B": "Aortal va pulmonar klapanlar",
+    "C": "Mitral va aortal klapanlar",
+    "D": "Trikuspidal va pulmonar klapanlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi klapanlar yopilishi II ton xosil bo’lishida muhim?",
+    "A": "Aortal va pulmonar klapanlar",
+    "B": "Mitral va trikuspidal klapanlar",
+    "C": "Mitral va aortal klapanlar",
+    "D": "Trikuspidal va pulmonar klapanlar",
+    "javob": "A"
+  },
+  {
+    "savol": "II ton fiziologik ikkilanishi sababini belgilang",
+    "A": "Inspiratsiya",
+    "B": "Ekspiratsiya",
+    "C": "O’pka arteriyasida bosim oshib ketishi",
+    "D": "Giss o’ng oyoqchasi blokadasi",
+    "javob": "A"
+  },
+  {
+    "savol": "II ton patologik ikkilanishi sababini belgilang",
+    "A": "Giss o’ng oyoqchasi blokadasi",
+    "B": "Inspiratsiya",
+    "C": "Ekspiratsiya",
+    "D": "Mitral stenoz",
+    "javob": "A"
+  },
+  {
+    "savol": "Patologik III ton paydo bo’lish sababini belgilang",
+    "A": "Chap qorincha yetishmovchiligi",
+    "B": "Aortal stenoz",
+    "C": "Qorinchalar gipertrofiyasi",
+    "D": "Arterial gipertoniya",
+    "javob": "A"
+  },
+  {
+    "savol": "Patologik IV ton paydo bo’lish sababini belgilang",
+    "A": "Aortal stenoz",
+    "B": "Chap qorincha yetishmovchiligi",
+    "C": "O’tkir yurak yetishmovchiligi",
+    "D": "Vagotonik insonlarda",
+    "javob": "A"
+  },
+  {
+    "savol": "Ot dupuri ritmini hosil qiladi…",
+    "A": "Patologik III yoki IV ton",
+    "B": "Ikkinchi tonning ikkilanishi",
+    "C": "Birinchi tonning ikkilanishi",
+    "D": "Mitral Stenozdagi mitral klapan ochilish toni",
+    "javob": "A"
+  },
+  {
+    "savol": "Bedana ritmi hosil bo’lishida muhim…",
+    "A": "Mitral Stenozdagi mitral klapan ochilish toni",
+    "B": "Patologik III yoki IV ton",
+    "C": "Ikkinchi tonning ikkilanishi",
+    "D": "Birinchi tonning ikkilanishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ekstrakardial shovqin turini belgilang",
+    "A": "Perikard ishqalanish shovqini",
+    "B": "Aortal stenoz",
+    "C": "Mitral stenoz",
+    "D": "Aortal klapan yetishmovchiligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Yurak qisqarishlari va puls to’lqini ketma-ket bir xil vaqt oralig’ida takrorlanishi bu…",
+    "A": "Pulsus regularis",
+    "B": "Pulsus irregularis",
+    "C": "Pulsus frequens",
+    "D": "Pulsus rarus",
+    "javob": "A"
+  },
+  {
+    "savol": "Yurak qisqarishlari va puls to’lqinlarining o’rtasida farq bu…",
+    "A": "Pulsus deficiens",
+    "B": "Pulsus irregularis",
+    "C": "Pulsus frequens",
+    "D": "Pulsus rarus",
+    "javob": "A"
+  },
+  {
+    "savol": "Yuqori arterial bosimga xos bo’lgan puls…",
+    "A": "Pulsus durus",
+    "B": "Pulsus mollis",
+    "C": "Pulsus frequens",
+    "D": "Pulsus rarus",
+    "javob": "A"
+  },
+  {
+    "savol": "Qon aylanish buzilishi va qon yo’qotilgandagi puls…",
+    "A": "Pulsus vacuus",
+    "B": "Pulsus durus",
+    "C": "Pulsus mollis",
+    "D": "Pulsus frequens",
+    "javob": "A"
+  },
+  {
+    "savol": "Pulsus celer et altus qaysi yurak nuqsoniga xos?",
+    "A": "Aortal klapan yetishmovchiligiga",
+    "B": "Aortal stenozga",
+    "C": "Mitral klapan yetishmovchiligiga",
+    "D": "Mitral stenoz",
+    "javob": "A"
+  },
+  {
+    "savol": "Pulsus parvus et tardus qaysi yurak nuqsoniga xos?",
+    "A": "Aortal stenozga",
+    "B": "Aortal klapan yetishmovchiligiga",
+    "C": "Mitral klapan yetishmovchiligiga",
+    "D": "Mitral stenoz",
+    "javob": "A"
+  },
+  {
+    "savol": "I darajali qon bosimga xos ko’rsatkichni belgilang",
+    "A": "150\\95",
+    "B": "160\\100",
+    "C": "180\\110",
+    "D": "170\\100",
+    "javob": "A"
+  },
+  {
+    "savol": "II darajali qon bosimga xos ko’rsatkichni belgilang",
+    "A": "160\\100",
+    "B": "150\\95",
+    "C": "180\\110",
+    "D": "130\\85",
+    "javob": "A"
+  },
+  {
+    "savol": "III darajali qon bosimga xos ko’rsatkichni belgilang",
+    "A": "180\\110",
+    "B": "160\\100",
+    "C": "150\\95",
+    "D": "170\\100",
+    "javob": "A"
+  },
+  {
+    "savol": "Yakkalangan sistolik qon bosimni belgilang",
+    "A": "150\\80",
+    "B": "160\\100",
+    "C": "150\\95",
+    "D": "170\\100",
+    "javob": "A"
+  },
+  {
+    "savol": "Kuchaytirilgan tarmoqqa kirmaydiganni belgilang",
+    "A": "II",
+    "B": "aVR",
+    "C": "aVL",
+    "D": "aVF",
+    "javob": "A"
+  },
+  {
+    "savol": "O’ng va chap qo’ldan qaysi standart tarmoq xosil bo’ladi?",
+    "A": "I",
+    "B": "II",
+    "C": "III",
+    "D": "IV",
+    "javob": "A"
+  },
+  {
+    "savol": "O’ng qo’l va chap oyoqdan qaysi standart tarmoq xosil bo’ladi?",
+    "A": "II",
+    "B": "I",
+    "C": "III",
+    "D": "IV",
+    "javob": "A"
+  },
+  {
+    "savol": "Chap qorincha yuqori yon devorini ko’ruvchi tarmoqni belgilang",
+    "A": "aVL",
+    "B": "II",
+    "C": "III",
+    "D": "aVF",
+    "javob": "A"
+  },
+  {
+    "savol": "Yurak pastki devorini ko’ruvchi tarmoqni belgilang",
+    "A": "III",
+    "B": "I",
+    "C": "aVL",
+    "D": "aVR",
+    "javob": "A"
+  },
+  {
+    "savol": "Bo’lmachalar depolyarizatsiyasini bildiruvchi tishcha qaysi?",
+    "A": "P",
+    "B": "Q",
+    "C": "R",
+    "D": "S",
+    "javob": "A"
+  },
+  {
+    "savol": "Qorinchalar repolyarizatsiyasini bildiruvchi tishcha qaysi?",
+    "A": "T",
+    "B": "Q",
+    "C": "R",
+    "D": "S",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar I standart tarmoqdagi R tishcha II va III tarmoqdagi R tishchadan katta bo’lsa, yurak o’qi…",
+    "A": "Chapga siljigan",
+    "B": "O’nga siljigan",
+    "C": "Normal",
+    "D": "Pastga siljigan",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar III standart tarmoqdagi R tishcha II va I tarmoqdagi R tishchadan katta bo’lsa, yurak o’qi…",
+    "A": "O’nga siljigan",
+    "B": "Chapga siljigan",
+    "C": "Normal",
+    "D": "Pastga siljigan",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar I standart tarmoqdagi R tishcha II va III tarmoqdagi R tishchadan katta bo’lishi kimlarga xos",
+    "A": "Gipersteniklarda",
+    "B": "Asteniklarda",
+    "C": "Normosteniklarda",
+    "D": "O’ng qorincha gipertrofiyasi bo’lgan insonlarda",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar III standart tarmoqdagi R tishcha II va I tarmoqdagi R tishchadan katta bo’lishi kimlarga xos",
+    "A": "Asteniklarda",
+    "B": "Gipersteniklarda",
+    "C": "Normosteniklarda",
+    "D": "Chap qorincha gipertrofiyasi bo’lgan insonlarda",
+    "javob": "A"
+  },
+  {
+    "savol": "P-R interval normada necha sekund bo’ladi?",
+    "A": "0.12-0.2 sekund",
+    "B": "0.12 sekundgacha",
+    "C": "0.2-0.3 sekund",
+    "D": "0.1-0.2 sekund",
+    "javob": "A"
+  },
+  {
+    "savol": "QRS kompleksi davomiyligi normasini belgilang",
+    "A": "0.06-0.1 sekund",
+    "B": "0.12-0.2 sekund",
+    "C": "0.12 sekundgacha",
+    "D": "0.1-0.2 sekund",
+    "javob": "A"
+  },
+  {
+    "savol": "Ritmning sinusli ekanligini qaysi tishcha mavjudligi orqali aniqlaymiz",
+    "A": "P",
+    "B": "R",
+    "C": "S",
+    "D": "T",
+    "javob": "A"
+  },
+  {
+    "savol": "Sakolov-Layon formulasiga ko’ra…",
+    "A": "V1 dagi S+ V5(yoki V6)dagi R= 35 mm dan oshmasligi kerak",
+    "B": "V1 dagi R+ V5(yoki V6)dagi S= 35 mm dan oshmasligi kerak",
+    "C": "aVL dagi S+ V3 R= 28 mm dan oshmasligi kerak",
+    "D": "aVL dagi R+ V3 S= 28 mm dan oshmasligi kerak",
+    "javob": "A"
+  },
+  {
+    "savol": "Simptomatik arterial gipertoniyaga olib kelmaydigan sababni toping",
+    "A": "Gipotireoz",
+    "B": "Surunkali glomerulonefrit",
+    "C": "Qandli diabet",
+    "D": "Aorta koartikatsiyasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Simptomatik arterial gipertoniyaga olib kelmaydigan sababni toping",
+    "A": "Miokard infarkti",
+    "B": "Buyrak arteriyasi stenozi",
+    "C": "Feoxromotsitoma",
+    "D": "Konn sindromi",
+    "javob": "A"
+  },
+  {
+    "savol": "Arterial gipertoniyani davolashda ishlatilinmaydigan guruhni belgilang",
+    "A": "Betta adrenomimetiklar",
+    "B": "Betta adrenoblokatorlar",
+    "C": "Diuretiklar",
+    "D": "Kaltsiy antogonistlari",
+    "javob": "A"
+  },
+  {
+    "savol": "Yurak muskullarini kislorodga bo’lgan talabi va toj tomirlar qon aylanish muvozanati buzilsa…",
+    "A": "Yurak ishemik kasalliklari rivojlanadi",
+    "B": "Arterial gipertoniya rivojlanadi",
+    "C": "Yurak klapanlari nuqsonlari rivojlanadi",
+    "D": "To’g’ri javob yo’q",
+    "javob": "A"
+  },
+  {
+    "savol": "YuIK rivojlanishida boshqarib bo’maydigan faktorni belgilang",
+    "A": "Jins",
+    "B": "Dislipidemiya",
+    "C": "Gipodinamiya",
+    "D": "Psixoemotsional zo’riqish",
+    "javob": "A"
+  },
+  {
+    "savol": "YuIK rivojlanishida boshqarib bo’ladigan faktorni belgilang",
+    "A": "Psixoemotsional zo’riqish",
+    "B": "Jins",
+    "C": "Yosh",
+    "D": "Nasliy moyillik",
+    "javob": "A"
+  },
+  {
+    "savol": "To’sh ostidagi og’riq davomiyligi 20 daqiqagacha va nitroglitserin foyda beradi. Qaysi kasallika shubha qilasiz?",
+    "A": "Stabil stenokardiya",
+    "B": "Miokard infarkti",
+    "C": "Arterial gipertoniya",
+    "D": "Nostabil stenokardiya",
+    "javob": "A"
+  },
+  {
+    "savol": "To’sh ostidagi og’riq davomiyligi 30 daqiqadan ortiq va nitroglitserin foyda bermadi. Qaysi kasallika shubha qilasiz?",
+    "A": "Miokard infarkti",
+    "B": "Stabil stenokardiya",
+    "C": "Arterial gipertoniya",
+    "D": "Nostabil stenokardiya",
+    "javob": "A"
+  },
+  {
+    "savol": "To’sh ostidagi og’riq xurujlari jismoniy zo’riqishdan keyin paydo bo’lishi xos…",
+    "A": "Stabil stenokardiyaga",
+    "B": "Nostabil stenokardiyaga",
+    "C": "Vazospastik stenokardiyaga",
+    "D": "Mikrosirkulyator stenokardiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Stabil stenokardiya funksional sinfini belgilang: og’ir va uzoq vaqtli jismoniy zo’riqishdan keyin belgilar kuzatilsa…",
+    "A": "I sinf",
+    "B": "II sinf",
+    "C": "III sinf",
+    "D": "IV sinf",
+    "javob": "A"
+  },
+  {
+    "savol": "Stabil stenokardiya funksional sinfini belgilang: har qanday jismoniy harakat va tinch holatda ham belgilar kuzatilsa…",
+    "A": "IV sinf",
+    "B": "II sinf",
+    "C": "III sinf",
+    "D": "I sinf",
+    "javob": "A"
+  },
+  {
+    "savol": "Stabil stenokardiya funksional sinfini belgilang: bemor 500 metrdan ko’proq yura oladi, zinapoyadan 1 qavatdan ko’p ko’tarila oladi shundan so’ng belgilar kuzatilsa…",
+    "A": "II sinf",
+    "B": "I sinf",
+    "C": "III sinf",
+    "D": "IV sinf",
+    "javob": "A"
+  },
+  {
+    "savol": "Stabil stenokardiya funksional sinfini belgilang: bemor 100-500 metrgacha yura oladi, zinapoyadan 1 qavatgacha chiqa oladi, shundan keyin belgilar kuzatilsa…",
+    "A": "III sinf",
+    "B": "II sinf",
+    "C": "I sinf",
+    "D": "IV sinf",
+    "javob": "A"
+  },
+  {
+    "savol": "10 lab nitroglitserin qabul qilishi ham foyda qilmaydi",
+    "A": "Nostabil stenokardiyada",
+    "B": "Stabil stenokardiyada",
+    "C": "Vazospastik stenokardiyada",
+    "D": "Mikrosirkulyator stenokardiyada",
+    "javob": "A"
+  },
+  {
+    "savol": "Yirik koronar arteriyalar spazmi natijasida yuzaga keladi…",
+    "A": "Vazospastik stenokardiyada",
+    "B": "Nostabil stenokardiyada",
+    "C": "Stabil stenokardiyada",
+    "D": "Mikrosirkulyator stenokardiyada",
+    "javob": "A"
+  },
+  {
+    "savol": "Stabil stenokardiyada og’riq…",
+    "A": "Faqat jismoniy yuklamadan keyin paydo bo’ladi",
+    "B": "Tinch holatdayam bezovta qiladi",
+    "C": "Nitroglitserin yordam bermaydi",
+    "D": "30 minutdan uzoq davom etadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Nostabil stenokardiyada og’riq",
+    "A": "Tinch holatdayam bezovta qiladi",
+    "B": "Faqat jismoniy yuklamadan keyin paydo bo’ladi",
+    "C": "Nitroglitserin tezda yordam beradi",
+    "D": "Og’riq davomiyligi qisqa",
+    "javob": "A"
+  },
+  {
+    "savol": "Subendokardial infarkt EKG belgisiga xos…",
+    "A": "ST segment depressiyasi",
+    "B": "ST segment elevatsiyasi",
+    "C": "Simmetrik T tish",
+    "D": "2 fazali T tish",
+    "javob": "A"
+  },
+  {
+    "savol": "Transmural infarkt EKG belgisiga xos…",
+    "A": "ST segment elevatsiyasi",
+    "B": "ST segment depressiyasi",
+    "C": "Simmetrik T tish",
+    "D": "2 fazali T tish",
+    "javob": "A"
+  },
+  {
+    "savol": "Stabil stenokardiya tashxisini yanada aniq tashxislash uchun qo’llanadi…",
+    "A": "Jismoniy yuklamali stress test",
+    "B": "ExoKG",
+    "C": "Rentgen",
+    "D": "MRT",
+    "javob": "A"
+  },
+  {
+    "savol": "Stabil stenokardiyani davolashda ishlatilmaydigan guruhni belgilang",
+    "A": "Diuretiklar",
+    "B": "Betta adrenoblokatorlar",
+    "C": "Nitratlar(NO donatorlar)",
+    "D": "Antiagregantlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Stabil stenokardiyani davolashda ishlatiladigan asosiy guruhni belgilang",
+    "A": "Betta adrenoblokatorlar",
+    "B": "Diuretiklar",
+    "C": "Angiotenzin retseptor blokatorlari",
+    "D": "Psixostimulyatorlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi betta adrenoblokatorlar qaysi biri NO hosil qilib vazodilatator ta’sir ham qiladi",
+    "A": "Nebivalol",
+    "B": "Bisoprolol",
+    "C": "Metoprolol",
+    "D": "Atenalol",
+    "javob": "A"
+  },
+  {
+    "savol": "Stenokardiya xurujida birinchi yordam sifatida quyidagi qaysi preparatni qo’llamaymiz?",
+    "A": "Enalapril",
+    "B": "Nitroglitserin",
+    "C": "Nifedipin",
+    "D": "Morfin",
+    "javob": "A"
+  },
+  {
+    "savol": "Miokard infarkti davrini belgilang: 30 daqiqadan 2 soatgacha, kuchli og’riq xuruji bo’lishi",
+    "A": "O’ta o’tkir davr",
+    "B": "O’tkir davr",
+    "C": "O’tkirosti davr",
+    "D": "Chandiqlanish",
+    "javob": "A"
+  },
+  {
+    "savol": "Miokard infarkti davrini belgilang: 14 kungacha bo’lib, og’riq biroz pasayadi",
+    "A": "O’tkir davr",
+    "B": "O’ta o’tkir davr",
+    "C": "O’tkirosti davr",
+    "D": "Chandiqlanish",
+    "javob": "A"
+  },
+  {
+    "savol": "Miokard infarkti davrini belgilang: 4-8 hafta davomida, surunkali yurak yetishmovchilik belgilari rivojlanadi",
+    "A": "O’tkirosti davr",
+    "B": "O’tkir davr",
+    "C": "O’ta o’tkir davr",
+    "D": "Chandiqlanish",
+    "javob": "A"
+  },
+  {
+    "savol": "Miokard infarkti davrini belgilang: 3-6 oy davom etadi",
+    "A": "Chandiqlanish",
+    "B": "O’tkirosti davr",
+    "C": "O’tkir davr",
+    "D": "O’ta o’tkir davr",
+    "javob": "A"
+  },
+  {
+    "savol": "Miokard infarktining erta asoratini belgilang",
+    "A": "AV blokada",
+    "B": "Plevrit",
+    "C": "Pnevmoniya",
+    "D": "Perikardit",
+    "javob": "A"
+  },
+  {
+    "savol": "Miokard infarktining erta asoratini belgilang",
+    "A": "Kardiogen Shok",
+    "B": "Dressler sindromi",
+    "C": "Surankali yurak yetishmovchiligi",
+    "D": "Katta qon aylanish doirasida dimlanish",
+    "javob": "A"
+  },
+  {
+    "savol": "Miokard infarktining kechgi asoratini belgilang",
+    "A": "Dressler sindromi",
+    "B": "AV blokada",
+    "C": "Xilpillovchi aritmiya",
+    "D": "Tromboemboliya",
+    "javob": "A"
+  },
+  {
+    "savol": "Yurak urish soni 140, ritm sinusli, R-R oralig’teng va qisqargan. Bemorda…",
+    "A": "Sinus taxikardiya",
+    "B": "Paroksizmal taxikardiya",
+    "C": "Bo’lmacha titrashi",
+    "D": "Qorincha ekstrasistoliyasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Yurak urish soni 55, ritm sinusli, R-R oralig’teng va qisqargan. Bemorda…",
+    "A": "Sinus bradikardiya",
+    "B": "Paroksizmal taxikardiya",
+    "C": "Bo’lmacha titrashi",
+    "D": "Qorincha ekstrasistoliyasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Sinus aritmiyaning fiziologik sababini belgilang",
+    "A": "Nafas olish va chiqarish fazalari",
+    "B": "Gipertireoz",
+    "C": "Betta blokatorlar qabul qilinganda",
+    "D": "Gipotireoz",
+    "javob": "A"
+  },
+  {
+    "savol": "Ekstrasistoliya turini belgilang: QRS-T kompleksi o’zgarmagan, to’liq bo’lmagan kompensator pauza",
+    "A": "Bo’lmacha ekstrasistoliyasi",
+    "B": "Qorinchalar ekstrasistoliyasi",
+    "C": "Giss tutami ekstrasistoliyasi",
+    "D": "To’g’ri javob yo’q",
+    "javob": "A"
+  },
+  {
+    "savol": "Ekstrasistoliya turini belgilang: QRS-T kompleksi shakli o’zgargan, to’liq kompensator pauza",
+    "A": "Qorinchalar ekstrasistoliyasi",
+    "B": "Bo’lmacha ekstrasistoliyasi",
+    "C": "Giss tutami ekstrasistoliyasi",
+    "D": "To’g’ri javob yo’q",
+    "javob": "A"
+  },
+  {
+    "savol": "AV blokada turini belgilang: PQ(R) interval 0.2 sekunddan uzun, QRS shakli normal va tushib qolmagan",
+    "A": "I tip AV blok",
+    "B": "II tip AV blok, Mobits I",
+    "C": "II tip AV blok, Mobits II",
+    "D": "III tip AV blok",
+    "javob": "A"
+  },
+  {
+    "savol": "AV blokada turini belgilang: PQ(R) interval bosqichma-bosqich uzayib borgan va orada bir QRS kompleksi tushib qolgan",
+    "A": "II tip AV blok, Mobits I",
+    "B": "I tip AV blok",
+    "C": "II tip AV blok, Mobits II",
+    "D": "III tip AV blok",
+    "javob": "A"
+  },
+  {
+    "savol": "AV blokada turini belgilang: PQ(R) interval davomiyligi bir xil va orada bir QRS kompleksi tushib qolgan",
+    "A": "II tip AV blok, Mobits II",
+    "B": "II tip AV blok, Mobits I",
+    "C": "III tip AV blok",
+    "D": "I tip AV blok",
+    "javob": "A"
+  },
+  {
+    "savol": "AV blokada turini belgilang:P tishchalar soni normada lekin QRS 30-40 atrofida, P tishcha va QRS kompleksi aloqasi yo’q.",
+    "A": "III tip AV blok",
+    "B": "II tip AV blok, Mobits II",
+    "C": "II tip AV blok, Mobits I",
+    "D": "I tip AV blok",
+    "javob": "A"
+  },
+  {
+    "savol": "EKGda p tishcha aniqlanmaydi va p tishcha o’rnida mayda f to’lqinlar. Bo’lmacha qisqarish soni 450 ta. Qanday patologiya?",
+    "A": "Bo’lmacha hilpillashi",
+    "B": "Bo’lmacha titrashi",
+    "C": "Bo’lmacha ichi blokadasi",
+    "D": "AV blok",
+    "javob": "A"
+  },
+  {
+    "savol": "EKGda p tishcha aniqlanmaydi va p tishcha o’rnida biroz yirikroq F to’lqinlar. Bo’lmacha qisqarish soni 280 ta. Qanday patologiya?",
+    "A": "Bo’lmacha titrashi",
+    "B": "Bo’lmacha hilpillashi",
+    "C": "Bo’lmacha ichi blokadasi",
+    "D": "AV blok",
+    "javob": "A"
+  },
+  {
+    "savol": "Bemor ba’zan yuragi to’satdan urib ketish shikoyati bilan murojat qildi, EKGda P tish va QRS kompleksi o’zgarmagan, yurak qisqarish soni 200 ta, vagus sinamasi foyda qilmadi. Bemorda qanday patologiya?",
+    "A": "Bo’lmacha paroksizmal taxikardiyasi",
+    "B": "Bo’lmacha titrashi",
+    "C": "Bo’lmacha hilpillashi",
+    "D": "Qorincha ekstrasistoliyasi",
+    "javob": "A"
+  },
+  {
+    "savol": "EKGda V1,V2 tarmoqlarda P tishcha amplitudasi 4 mm. Ehtimoliy patologiyani belgilang",
+    "A": "O’ng bo’lmacha gipertrofiyasi",
+    "B": "Chap bo’lmacha gipertrofiyasi",
+    "C": "O’ng qorincha gipertrofiyasi",
+    "D": "Chap qorincha gipertrofiyasi",
+    "javob": "A"
+  },
+  {
+    "savol": "EKGda V1, II standart tarmoqlarda P tishcha davomiyligi 0.2 sekund, p tish ikki uchli. Ehtimoliy patologiyani belgilang",
+    "A": "Chap bo’lmacha gipertrofiyasi",
+    "B": "O’ng bo’lmacha gipertrofiyasi",
+    "C": "O’ng qorincha gipertrofiyasi",
+    "D": "Chap qorincha gipertrofiyasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Chap bo’lmacha gipertrofiyasiga olib keluvchi eng ehtimoliy sababni belgilang",
+    "A": "Mitral stenoz",
+    "B": "Aortal stenoz",
+    "C": "Aortal klapan yetishmovchiligi",
+    "D": "Arterial gipertoniya",
+    "javob": "A"
+  },
+  {
+    "savol": "O’ng bo’lmacha gipertrofiyasiga olib keluvchi eng ehtimoliy sababni belgilang",
+    "A": "Cor pulmonale",
+    "B": "Mitral stenoz",
+    "C": "Aortal stenoz",
+    "D": "Aortal klapan yetishmovchiligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Sokolov-Layon kriteriyasi bo’yicha V1 dagi S tish va V5 dagi R tish yig’indisi 60 mm. Ehtimoliy patologiyani belgilang",
+    "A": "Chap qorincha gipertrofiyasi",
+    "B": "O’ng qorincha gipertrofiyasi",
+    "C": "Chap bo’lmacha gipertrofiyasi",
+    "D": "O’ng bo’lmacha gipertrofiyasi",
+    "javob": "A"
+  },
+  {
+    "savol": "III standart tarmoqdagi R tish eng baland, shuningdek V1, V2 tarmoqlarda R tish baland. Ehtimoliy patologiyani belgilang",
+    "A": "O’ng qorincha gipertrofiyasi",
+    "B": "Chap qorincha gipertrofiyasi",
+    "C": "Chap bo’lmacha gipertrofiyasi",
+    "D": "O’ng bo’lmacha gipertrofiyasi",
+    "javob": "A"
+  },
+  {
+    "savol": "III, aVF, V1-V2 tarmoqlarda QRS kompleksi “M” simon shaklda, V5-V6 tarmoqlarda S tishchasi chuqur kengaygan. Qanday patologiya bo’lishi mumkin?",
+    "A": "Giss tutami o’ng oyoqchasi blokadasi",
+    "B": "Giss tutami chap oyoqchasi blokadasi",
+    "C": "Chap qorincha gipertrofiyasi",
+    "D": "O’ng qorincha gipertrofiyasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Yurak o’qi chapga siljigan, I, aVL, V5-V6 tarmoqlarda R tishchasi kengaygan, ikkilangan. III, aVF, V1-V2 tarmoqlarda esa kengaygan va ikkilangan S tishcha. Qanday patologiya bo’lishi mumkin?",
+    "A": "Giss tutami chap oyoqchasi blokadasi",
+    "B": "Giss tutami o’ng oyoqchasi blokadasi",
+    "C": "Chap qorincha gipertrofiyasi",
+    "D": "O’ng qorincha gipertrofiyasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Sinusli taxikardiyaga olib keluvchi sababni belgilang",
+    "A": "Tireotoksikoz",
+    "B": "Gipotireoz",
+    "C": "Ochlik",
+    "D": "O’ng koronar arteriya aterosklerozi",
+    "javob": "A"
+  },
+  {
+    "savol": "Sinusli bradikardiyaga olib keluvchi sababni belgilang",
+    "A": "Gipotireoz",
+    "B": "Tireotoksikoz",
+    "C": "Gipovolemiya",
+    "D": "Anemiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Karotid sinus massaji yordam beradi…",
+    "A": "Supraventrikulyar paroksizmal taxikardiyada",
+    "B": "Sinusli bradikardiyada",
+    "C": "Qorinchalar paroksizmal taxikardiyada",
+    "D": "Qorinchalar ekstrasistoliyasida",
+    "javob": "A"
+  },
+  {
+    "savol": "Revmatik isitma qo’zg’atuvchisini belgilang",
+    "A": "A guruhga kiruvchi betta gemolitik streptokokk",
+    "B": "Tillarang stafilakokk",
+    "C": "Ko’k yiring tayoqchasi",
+    "D": "Pnevmokokk",
+    "javob": "A"
+  },
+  {
+    "savol": "Revmatik isitma patogenezi asosida qaysi tip gipersezuvchanlik reaksiyasi yotibdi?",
+    "A": "II tip",
+    "B": "I tip",
+    "C": "III tip",
+    "D": "IV tip",
+    "javob": "A"
+  },
+  {
+    "savol": "Revmatik isitma rivojlanishida autoimmun jarayonga sabab bo’luvchi omilni belgilang",
+    "A": "M-oqsil",
+    "B": "Streptolizin-O",
+    "C": "Streptokinaza",
+    "D": "Superoksiddismutaza",
+    "javob": "A"
+  },
+  {
+    "savol": "Revmatik isitma katta belgisini belgilang",
+    "A": "Pankardit",
+    "B": "ECHT oshishi",
+    "C": "Isitma",
+    "D": "Artralgiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Revmatik isitma katta belgisini belgilang",
+    "A": "Xalqasimon eritema",
+    "B": "c-reaktiv oqsil oshishi",
+    "C": "ECHT oshishi",
+    "D": "Abdominal sindrom",
+    "javob": "A"
+  },
+  {
+    "savol": "Revmatik isitma katta belgisiga kirmaydigan simptomni belgilang",
+    "A": "c-reaktiv oqsil oshishi",
+    "B": "Xalqasimon eritema",
+    "C": "Kichik xoreya",
+    "D": "Teriosti tugunchalar",
+    "javob": "A"
+  },
+  {
+    "savol": "Revmatik isitmadagi og’riq xususiyatini belgilang",
+    "A": "Ko’chib yuruvchi og’riq",
+    "B": "Sanchuvchi og’riq",
+    "C": "Belbog’simon og’riq",
+    "D": "Kuydiruvchi og’riq",
+    "javob": "A"
+  },
+  {
+    "savol": "Bedana ritmi qaysi yurak nuqsoniga xos?",
+    "A": "Mitral stenoz",
+    "B": "Mitral klapan yetishmovchiligi",
+    "C": "Aortal stenoz",
+    "D": "Aortal klapan yetishmovchiligiga",
+    "javob": "A"
+  },
+  {
+    "savol": "Yuz mushaklarining tartibsiz qisqarishi, yozuv xunuklashishi kabilar nimaning belgisi bo’lishi mumkin",
+    "A": "Kichik xoreya",
+    "B": "Xalqasimon eritema",
+    "C": "Pankardit",
+    "D": "Artralgiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Lab, burun, quloq sianozi va yonoqlardagi qizillik …",
+    "A": "Facies Mitralis belgisi",
+    "B": "Myusse simptomi",
+    "C": "Korvizor yuzi belgisi",
+    "D": "Mum qo’g’irchoq yuzi belgisi",
+    "javob": "A"
+  },
+  {
+    "savol": "Mitral stenoz palpatsiyasida aniqlash mumkin",
+    "A": "Mushuk xirillashi belgisini",
+    "B": "Krepitatsiyani",
+    "C": "Yurak belining yanada o’tkirlanishini",
+    "D": "Ovoz dirillashi kuchayishini",
+    "javob": "A"
+  },
+  {
+    "savol": "Facies Mitralis qaysi yurak nuqsoniga xos?",
+    "A": "Mitral stenoz",
+    "B": "Mitral klapan yetishmovchiligi",
+    "C": "Aortal stenoz",
+    "D": "Aortal klapan yetishmovchiligiga",
+    "javob": "A"
+  },
+  {
+    "savol": "Kvinke simptomi qaysi yurak nuqsoniga xos?",
+    "A": "Aortal klapan yetishmovchiligiga",
+    "B": "Mitral stenoz",
+    "C": "Mitral klapan yetishmovchiligi",
+    "D": "Aortal stenoz",
+    "javob": "A"
+  },
+  {
+    "savol": "Yurak belining yassilanishi(tekislanishi) qaysi yurak nuqsoniga xos?",
+    "A": "Mitral stenoz",
+    "B": "Mitral klapan yetishmovchiligi",
+    "C": "Aortal stenoz",
+    "D": "Aortal klapan yetishmovchiligiga",
+    "javob": "A"
+  },
+  {
+    "savol": "Kasallikni aniqlang:20 yoshli ayol bemor bir necha yillar davomida mukovitsidoz(sistik fibroz) sababli davolanib yuradi. Bemor yo‘tal, ko‘p miqdorda yiringli balg‘am ajralishi, sovuqda ahvoli yomonlashishi bilan shikoyat qiladi. So‘nggi paytlarda balg‘amda qon aralashlik paydo bo‘lgan. Nafas qisishi kuchaygan. Ko‘rikda: barmoqlari “baraban tayoqchasi” shaklida, tirnoqlar “soat oynasi” kabi. Auskultatsiyada pastki bo‘laklarda ko‘plab nam xirillashlar eshitiladi. Rentgenogrammada o‘pka pastki qismida silindrsimon kengaygan bronxlar ko‘rinadi. MRT ham kichik bronxlar kengayganini tasdiqladi.",
+    "A": "Bronxoektaz",
+    "B": "Pnevmoniya",
+    "C": "Bronxial astma",
+    "D": "O’pka absessi",
+    "javob": "A"
+  },
+  {
+    "savol": "Kasallikni aniqlang:62 yoshli erkak bemor klinikaga nafas qisishi, jismoniy harakatda tez charchash, ko‘krakda qisilish hissi, kam miqdorda balg‘amli yo‘tal bilan murojaat qilgan.Kasallik tarixi: Bemor 25 yildan beri surunkali bronxit bilan og‘rib keladi, uzoq yillar davomida chekuvchi (kuniga 1,5 quti sigaret). So‘nggi 2 yilda nafas qisishi kuchayib, ayniqsa zinadan chiqishda yoki tez yurishda toliqish sezgan. So‘nggi oyda lablar ko‘karib qolganini aytadi.Umumiy ahvoli: nisbatan barqaror, lekin nafas olishda qiynalayapti.Tana holati: majburiy holat (o‘tirgan holda, tirsaklarini tizzasiga tiragan)Teri va lablar: sianotik (“ko‘k rangli bemor”)Ko‘krak qafasi: bochkasimon shaklda, qovurg‘alar gorizontal joylashgan.Perkussiya: quti tovushi, Auskultatsiya: nafas tovushi sust, cho‘zilgan ekspiratsiya.",
+    "A": "O’pkaning surunkali obstruktiv kasalligi",
+    "B": "Bronxoektaz",
+    "C": "Bronxial astma",
+    "D": "O’tkir bronxit",
+    "javob": "A"
+  },
+  {
+    "savol": "Sistolik yurak yetishmovchiligi sababini belgilang",
+    "A": "Miokard infarkti",
+    "B": "Arterial gipertoniya",
+    "C": "Cor pulmonale",
+    "D": "Mitral stenoz",
+    "javob": "A"
+  },
+  {
+    "savol": "Diastolik yurak yetishmovchiligi sababini belgilang",
+    "A": "Chap qorincha konsentrik gipertrofiyasi",
+    "B": "Miokard infarkti",
+    "C": "Mitral stenoz",
+    "D": "Mitral klapan yetishmovchiligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Simptomatik gipertoniyaga olib kelmaydigan kasallikni belgilang",
+    "A": "Pnevmoniya",
+    "B": "Konn sindromi",
+    "C": "Kushing kasalligi",
+    "D": "Feoxromotsitoma",
+    "javob": "A"
+  },
+  {
+    "savol": "Gipertoniya kasalligini davolashda ishlatiladigan qaysi guruh quruq yo’talga sabab bo’lishi mumkin?",
+    "A": "Angiotenzin konvertirlovchi ferment ingibitorlari",
+    "B": "Angitenzin retseptor blokatorlari",
+    "C": "Diuretiklar",
+    "D": "Periferik kaltsiy kanal blokatorlari",
+    "javob": "A"
+  },
+  {
+    "savol": "O’pka shishi rivojlanadi…",
+    "A": "Chap qorincha o’tkir yetishmovchiligida",
+    "B": "O’ng qorincha o’tkir yetishmovchiligida",
+    "C": "Pulmonar klapan stenozida",
+    "D": "Cor pulmonaleda",
+    "javob": "A"
+  },
+  {
+    "savol": "Turg`un zo`riqish stenokardiyasining III sinfida bemor ahvoli qanday bo`ladi.",
+    "A": "Oddiy jismoniy faollik keskin cheklangan, 100-500 metr oraliqdagi masofada belgilar namoyon bo`ladi.",
+    "B": "Oddiy jismoniy faollik biroz cheklangan, 500 metr va undan uzoq masofaga yurganda belgilar namoyon bo`ladi.",
+    "C": "Har qanday jismoniy yuklamada harakatlar cheklangan, bemor kundalik faoliyat olib bora olmaydi.",
+    "D": "Bemor tinch holatda ham og`riqlar bezovta qiladi, emosional sterrsda xurujlar kuchayadi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Xolter bo`yicha sutkalik EKG monitorlashda impulslar qaysi tarmoqlarda yozib olinadi.",
+    "A": "V2 – V5 ko`krak tarmoqlarida",
+    "B": "V1-V6 ko`krak tarmoqlarida",
+    "C": "Standart tarmoqlar orqali yozib olinadi.",
+    "D": "Xolter monitoring uchun maxsus tarmoqlar ko`krak qafasiga ulanadi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Status anginosus qaysi kasallik uchun xos belgi.",
+    "A": "Miokard infarkti",
+    "B": "Dressler sindromi",
+    "C": "Prinsmetall stenokardiya",
+    "D": "Mitral stenoz",
+    "javob": "A"
+  },
+  {
+    "savol": "Miokard infarktida og`riq qaysi tadbirdan so`ng o`tib ketishi xarakterli",
+    "A": "Narkotik analgetiklardan so`ng",
+    "B": "Nitrogliserin biroz samara beradi.",
+    "C": "Analgetiklarlar va spazmolitiklar og`riq xurujlarini bartaraf etishda muhim hisoblanadi.",
+    "D": "Antitrombotik terapiya og`riq xurujlarini bartaraf etadi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Intramural infarktga xos bo`lgan EKG dagi o`zgarishlarni belgilang.",
+    "A": "ST segmenti va T tishchaning o`zgarishi bilan boradi.",
+    "B": "QRS kompleks QS ko`rinishni oladi, ST segment o`zgaradi.",
+    "C": "Q tishchaning katta amplitudada va kenglikda bo`lishi bilan boradi",
+    "D": "T tishchaning manfiylashishi bilan boradi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Miokard infarktida isitma simptomining bo`lishi qachon kuzatiladi?",
+    "A": "2-3 kunlarda",
+    "B": "Dastlabki soatlarda.",
+    "C": "Kechki asoratlar bo`lganda.",
+    "D": "Miokard infarktida isitma kuzatilmaydi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Miokard infarktida isitma kuzatilishi sababi nima bilan tushuntiriladi?",
+    "A": "Rezorbsion-nekrotik sindrom bo`lishi.",
+    "B": "Septik-toksik sindrom bo`lishi",
+    "C": "Yallig`lanish sindromi bo`lishi",
+    "D": "Ishemik shikastlanish sindromi bo`lishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Mitral stenoz oqibatida o`pkaning alveolyar shishi rivojlansa bemorda qanday klinik belgilar namoyon bo`ladi?",
+    "A": "Pushti rangdagi seroz ko`piksimon balg`am ajraladi.",
+    "B": "Bemor davomli quruq yo`tal qiynaydi",
+    "C": "Bemorlarda tungi xurujsimon yo`tal bilab birga, oyoqlarda shishlar namoyon bo`ladi",
+    "D": "Bemorlarda bu holat subklinik kechib hech qanday shikoyatlar bo`lmaydi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Qanday bemorlarda habitus gracilis ko`rish mumkin.",
+    "A": "Mitral stenoz bilan yoshlik davridan kasallanganlarda",
+    "B": "Mitral stenoz keksa yoshdagi bemorlarda rivojlanganda",
+    "C": "Ortirilgan mitra-aortal yetishmovchilik bilan og`rigan barcha bemorlarda",
+    "D": "Yurak nuqsonlari bilan og`rigan barcha bemorlarda",
+    "javob": "A"
+  },
+  {
+    "savol": "Mitral stenozda yurak sohasi palpatsiyasidagi muhim klinik belgi qaysi.",
+    "A": "Tarqoq va kuchaygan prekardial pulsatsiyaning bo`lishi (yurak turtkisi)",
+    "B": "Yurak cho`qqisining aniq sezilmasiligi yoki kuchisizligi ( cho`qqi turtkisi)",
+    "C": "Palpatsiya ushbu kasallikka xos patognomik belgi aniqlanmaydi.",
+    "D": "Yurak belining mitrallashuvi hisobiga tekislanib qolishi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Mitral stenoz bilan og`rigan bemorlarda chap tomonga yonboshlatib paypaslanganda past to`lqinli diastolik titroq qanday belgi hisoblanadi?",
+    "A": "“Mushuk xirillashi”",
+    "B": "Bedana ritmi",
+    "C": "Mitral konfiguratsiya",
+    "D": "O`pka arteriyasining kengayish belgisi",
+    "javob": "A"
+  },
+  {
+    "savol": "Grexem-Stil shovqini kelib chiqishi sababi belgilang.",
+    "A": "Yaqqol ifodalangan o`pka gipertenziyasida O`pka arteriyalarining kengayishi va uning qopqoqchali shovqini paydo bo`lishi",
+    "B": "O`pka venalaridagi dimlanish bilan birga bo`lmacha sistolik disfunksiyasining aniq namoyon bo`lishida",
+    "C": "Ifodalangan o`pka gipertenziyasida aortaning kengayishi va uning qopqoqchaliri shovqini paydo bo`lishi",
+    "D": "Mitral stenozdagi mitral klapan ochilish bilan bog`liq",
+    "javob": "A"
+  },
+  {
+    "savol": "O`pkaning interstisial shishida qanday xirillashlar xarakterli?",
+    "A": "Mayda pufakchali jarangsiz nam xirillashlar",
+    "B": "Yirik pufakchali nam xirillashlar",
+    "C": "Quruq xirillashlar go`ng`illovchi xarakterda",
+    "D": "Krepitatio redux",
+    "javob": "A"
+  },
+  {
+    "savol": "Mitral yetishmovchilik bo`lgan bemorlarda tinch holatdagi taxikardiyaning sababi",
+    "A": "Sistolik yuklama oshishi fonida reflector sinoatrial tugun faollashishi hisobiga",
+    "B": "Yurakning koronar tomirlari qon bilan taminishi izdan chiqishi bilan gipertrofiyalangan chap qorincha o`zgarishlari",
+    "C": "Diastolik yuklamaning kamayishi bilan yurak sistolasiga tezda o`tib ketishi.",
+    "D": "Mitral yetishmovchiliklarda taxikardiya kuzatilmaydi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi kasallikda yonoqlarda yorqin sianotik qizillik kuzatiladi?",
+    "A": "Mitral yetishmovchilikda.",
+    "B": "Mitra stenozda",
+    "C": "Mitro-aortal yetishmovchilikda",
+    "D": "Barcha yurak nuqsonlarida",
+    "javob": "A"
+  },
+  {
+    "savol": "O`rdaksimon yurish qaysi kasallikda uchraydi?",
+    "A": "Osteomalyatsiya, son suyagining tug`ma chiqishi.",
+    "B": "Revmatik isitma, poliartrit",
+    "C": "Bexterev kasalligi, Parkinson",
+    "D": "O`tkazilgan ishemik insult, demensiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Stoks yoqasi qanday holatlarda kuzatiladi?",
+    "A": "Ko`ks oralig`i o`smalarida limfa va qonni oqishi qiyinlashishi?",
+    "B": "Qalqonsimon bez kasalliklarida",
+    "C": "Bosh miyada qon quyilishida",
+    "D": "Bo`yin sohasidagi teri osti emfizemasida",
+    "javob": "A"
+  },
+  {
+    "savol": "Perkussiyada aniq o`pka tovushiga xos bo`lgan tovushning xususiyati qanday?",
+    "A": "O`rtacha balandlikda, davomiyligi o`rta",
+    "B": "Aniq tovush bilan, balandligi yuqori",
+    "C": "Bo`g`iq o`pka tovushi va past balandlikda",
+    "D": "O`pka perkussiyasida timpanik jarangdor ovoz chiqadi",
+    "javob": "A"
+  },
+  {
+    "savol": "“Soqov o`pka” sindromiga xos xususiyatni belgilang.",
+    "A": "Quruq xirillashlarning to`satdan esshitilmay qolishi.",
+    "B": "Quruq xirillashlar balg`am bo`lishi bilan namga o`tishi",
+    "C": "Bronxial astmaning sog`ayib belgilarning yo`qolishi",
+    "D": "Bronxofoniyaning kuchayib borishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Astmatik status davolanmaganda bemor ahvoli qanday kechadi.",
+    "A": "Giperkapnik komaga asoratlanadi",
+    "B": "Bemor bronxlar reaktivlik pasayib, sog`aya boshlaydi.",
+    "C": "Jarayon surunkali shaklga o`tadi",
+    "D": "Odatda yengil kechib davo talab etmaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Eksudativ plevritda qaysi sohada auskultatsiyada bronxofoniyaning kuchayishi aniqlanadi.",
+    "A": "Garlend uchburchaki",
+    "B": "Elis-Damaoze-Sakolov chizig`I bo`ylab",
+    "C": "Grokko-Rauxfus uchburchagi",
+    "D": "Perkussiya qiliganda bo`g`iq tovish aniqlangan sohada",
+    "javob": "A"
+  }
+]
