@@ -1,0 +1,2202 @@
+[
+  {
+    "savol": "Farmasiya qaysi fan hisoblanadi?",
+    "A": "Ilmiy-amaliy fanlar majmuasi",
+    "B": "Nazariy fan",
+    "C": "Amaliy fan",
+    "D": "Ijtimoiy fan",
+    "javob": "A"
+  },
+  {
+    "savol": "“Farmasiya” atamasi qaysi tildan olingan?",
+    "A": "Yunon",
+    "B": "Lotin",
+    "C": "Arab",
+    "D": "Sanskrit",
+    "javob": "A"
+  },
+  {
+    "savol": "“Farmakeia” so‘zining ma’nosi nima?",
+    "A": "Dorilarni qo‘llash",
+    "B": "Kasallikni aniqlash",
+    "C": "Jarrohlik qilish",
+    "D": "Tahlil o‘tkazish",
+    "javob": "A"
+  },
+  {
+    "savol": "Eng qadimgi farmatsevtik ma’lumotlar qayerdan olingan?",
+    "A": "Ebers papirusi",
+    "B": "Xitoy manbalari",
+    "C": "Hind Vedalari",
+    "D": "Yunon yozuvlari",
+    "javob": "A"
+  },
+  {
+    "savol": "Ebers papirusi qachon yaratilgan?",
+    "A": "m.avv. 1700",
+    "B": "m.avv. 500",
+    "C": "m.avv. 1000",
+    "D": "m.avv. 3000",
+    "javob": "A"
+  },
+  {
+    "savol": "Dorivor o‘simliklar qanday aniqlangan?",
+    "A": "Hayvonlarni kuzatish orqali",
+    "B": "Tajribalar orqali",
+    "C": "Kitoblar orqali",
+    "D": "Tahlil orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Dastlabki dorivor o‘simliklardan biri?",
+    "A": "Paslyon",
+    "B": "Lavlagi",
+    "C": "Bug‘doy",
+    "D": "Sabzi",
+    "javob": "A"
+  },
+  {
+    "savol": "Narkotik o‘simliklar qaysi?",
+    "A": "Ko‘knori, tamaki, nasha",
+    "B": "Yalpiz",
+    "C": "Shuvoq",
+    "D": "Loviya",
+    "javob": "A"
+  },
+  {
+    "savol": "Hayvon manbali dorilarga misol?",
+    "A": "Yog‘ va qon",
+    "B": "Vitaminlar",
+    "C": "Antibiotiklar",
+    "D": "Gormonlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Qadimgi davrda kasallik sababi deb nima qaralgan?",
+    "A": "Yovuz ruhlar",
+    "B": "Mikroorganizmlar",
+    "C": "Genetika",
+    "D": "Vitamin yetishmasligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Hindistonda farmatsevtika rivojlanishining asosiy manbasi?",
+    "A": "Ayurveda",
+    "B": "Gippokrat asarlari",
+    "C": "Rim qonunlari",
+    "D": "Arab qo‘lyozmalari",
+    "javob": "A"
+  },
+  {
+    "savol": "“Mahabharat” asari nimani ifodalaydi?",
+    "A": "Ensiklopediya",
+    "B": "Farmakopeya",
+    "C": "Qonunlar to‘plami",
+    "D": "Darslik",
+    "javob": "A"
+  },
+  {
+    "savol": "Ayurveda bo‘yicha kasallik sababi?",
+    "A": "5 element muvozanatining buzilishi",
+    "B": "Viruslar",
+    "C": "Bakteriyalar",
+    "D": "Gen mutatsiyasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qadimgi Hindistonda nechta dorivor o‘simlik ma’lum bo‘lgan?",
+    "A": "1000 dan ortiq",
+    "B": "100 ta",
+    "C": "500 ta",
+    "D": "2000 ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Panaseya sifatida ishlatilgan modda?",
+    "A": "Simob",
+    "B": "Temir",
+    "C": "Mis",
+    "D": "Oltin",
+    "javob": "A"
+  },
+  {
+    "savol": "Yaralarni davolashda ishlatilgan modda?",
+    "A": "Margimush",
+    "B": "Natriy xlorid",
+    "C": "Glyukoza",
+    "D": "Kaliy",
+    "javob": "A"
+  },
+  {
+    "savol": "Hind farmakopeyasi nechta o‘simlikni o‘z ichiga olgan?",
+    "A": "800 ga yaqin",
+    "B": "200 ta",
+    "C": "400 ta",
+    "D": "1200 ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Qustiruvchi dorilar berilishining sababi?",
+    "A": "Yovuz ruhni chiqarish",
+    "B": "Hazmni yaxshilash",
+    "C": "Immunitetni oshirish",
+    "D": "Og‘riqni kamaytirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Qadimgi dorilar tarkibi asosan nimadan iborat bo‘lgan?",
+    "A": "O‘simlik va hayvon mahsulotlari",
+    "B": "Sintetik moddalar",
+    "C": "Minerallar",
+    "D": "Suv",
+    "javob": "A"
+  },
+  {
+    "savol": "Farmasiya fanining asosiy vazifasi?",
+    "A": "Dori vositalarini yaratish va tarqatish",
+    "B": "Tashxis qo‘yish",
+    "C": "Operatsiya qilish",
+    "D": "Profilaktika",
+    "javob": "A"
+  },
+  {
+    "savol": "Qadimgi Misr tibbiyoti haqidagi asosiy manbalar nimalar?",
+    "A": "Papiruslar va ieroglif yozuvlar",
+    "B": "Kitoblar",
+    "C": "Arxeologiya",
+    "D": "Rivoyatlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Ebers papirusi qayerda saqlanadi?",
+    "A": "Leypsig universitetida",
+    "B": "Parijda",
+    "C": "Rimda",
+    "D": "Londonda",
+    "javob": "A"
+  },
+  {
+    "savol": "Ebers papirusi nechta betdan iborat?",
+    "A": "110 bet",
+    "B": "50 bet",
+    "C": "200 bet",
+    "D": "300 bet",
+    "javob": "A"
+  },
+  {
+    "savol": "Ebers papirusi nechta reseptni o‘z ichiga oladi?",
+    "A": "Taxminan 800",
+    "B": "200",
+    "C": "1000",
+    "D": "50",
+    "javob": "A"
+  },
+  {
+    "savol": "Misrda dorilarni tayyorlash huquqi kimlarga tegishli bo‘lgan?",
+    "A": "Ruhoniylarning yuqori qatlamiga",
+    "B": "Dehqonlarga",
+    "C": "Harbiylarga",
+    "D": "Savdogarlarga",
+    "javob": "A"
+  },
+  {
+    "savol": "Misrliklar davolash ishlarini qaysi xudo homiyligida olib borishgan?",
+    "A": "Tot",
+    "B": "Ra",
+    "C": "Osiris",
+    "D": "Anubis",
+    "javob": "A"
+  },
+  {
+    "savol": "“Farmaki” so‘zining ma’nosi nima?",
+    "A": "Qutqaruvchi va davolovchi",
+    "B": "Jarroh",
+    "C": "Kimyogar",
+    "D": "Tabib",
+    "javob": "A"
+  },
+  {
+    "savol": "Misrliklar ayniqsa qaysi mahsulotlarni yaxshi tayyorlashgan?",
+    "A": "Kosmetik va surtmalar",
+    "B": "Antibiotiklar",
+    "C": "Gormonlar",
+    "D": "Vitaminlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Qadimgi Misr qaysi sohaning tug‘ilgan joyi hisoblanadi?",
+    "A": "Dermatologiya",
+    "B": "Kardiologiya",
+    "C": "Nevrologiya",
+    "D": "Onkologiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Misrliklar qaysi dori shakllarini tayyorlashni bilishgan?",
+    "A": "Pilyula, damlama, qaynatma",
+    "B": "Tabletka",
+    "C": "Kapsula",
+    "D": "Sirop",
+    "javob": "A"
+  },
+  {
+    "savol": "Qadimgi Misrda ishlatilgan moddaga misol?",
+    "A": "Afiun",
+    "B": "Insulin",
+    "C": "Penitsillin",
+    "D": "Morfin",
+    "javob": "A"
+  },
+  {
+    "savol": "Qadimgi Misr kosmetikasi qanday xususiyatga ega bo‘lgan?",
+    "A": "Yallig‘lanishga qarshi va fotoprotektiv",
+    "B": "bezak uchun",
+    "C": "Teri zararli",
+    "D": "Hidli",
+    "javob": "A"
+  },
+  {
+    "savol": "Misrliklar jarrohlikda nimadan foydalangan?",
+    "A": "Shina va gipsga o‘xshash vositalar",
+    "B": "Lazer",
+    "C": "Plastik",
+    "D": "Robot",
+    "javob": "A"
+  },
+  {
+    "savol": "Qadimgi Misrda qaysi operatsiya bajarilgan?",
+    "A": "Trepanatsiya",
+    "B": "Yurak transplantatsiyasi",
+    "C": "Plastik jarrohlik",
+    "D": "Dializ",
+    "javob": "A"
+  },
+  {
+    "savol": "Jarrohlikda og‘riqni kamaytirish uchun nima ishlatilgan?",
+    "A": "Og‘riq qoldiruvchi vositalar",
+    "B": "Suv",
+    "C": "Tuz",
+    "D": "Yog‘",
+    "javob": "A"
+  },
+  {
+    "savol": "Yaralarda infeksiyani oldini olish uchun nima ishlatilgan?",
+    "A": "Tol barglari",
+    "B": "Shakar",
+    "C": "Sut",
+    "D": "Qum",
+    "javob": "A"
+  },
+  {
+    "savol": "Xitoy dorishunosligi qachondan rivojlana boshlagan?",
+    "A": "m.avv. 2-3 asrlar",
+    "B": "m.avv. 10 asr",
+    "C": "m.avv. 1 asr",
+    "D": "m.avv. 5 asr",
+    "javob": "A"
+  },
+  {
+    "savol": "Djan Sun-Djan nechta resept yozgan?",
+    "A": "116 ta",
+    "B": "50 ta",
+    "C": "300 ta",
+    "D": "1000 ta",
+    "javob": "A"
+  },
+  {
+    "savol": "“Shen'on o‘t-o‘lanlari”da nechta o‘simlik tasvirlangan?",
+    "A": "240 ta",
+    "B": "100 ta",
+    "C": "500 ta",
+    "D": "800 ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Xitoyda birinchi farmakopeya qachon e’lon qilingan?",
+    "A": "659-yil",
+    "B": "500-yil",
+    "C": "1000-yil",
+    "D": "300-yil",
+    "javob": "A"
+  },
+  {
+    "savol": "Xitoy farmakopeyasi nechta dorini o‘z ichiga olgan?",
+    "A": "844 ta",
+    "B": "200 ta",
+    "C": "100 ta",
+    "D": "500 ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Xitoy tibbiyotida asosiy dori manbalari?",
+    "A": "O‘simlik, hayvon va minerallar",
+    "B": "O‘simlik",
+    "C": "Hayvon",
+    "D": "Kimyoviy",
+    "javob": "A"
+  },
+  {
+    "savol": "Jenshen qanday xususiyatga ega o‘simlik?",
+    "A": "Rag‘batlantiruvchi",
+    "B": "Uyqu beruvchi",
+    "C": "Antibiotik",
+    "D": "Og‘riq qoldiruvchi",
+    "javob": "A"
+  },
+  {
+    "savol": "Xitoyda og‘riqsizlantiruvchi sifatida nima ishlatilgan?",
+    "A": "Opiy va mandragora",
+    "B": "Tuz",
+    "C": "Suv",
+    "D": "Yog‘",
+    "javob": "A"
+  },
+  {
+    "savol": "Hayvon manbali doriga misol?",
+    "A": "Yo‘lbars tirnog‘i",
+    "B": "Kartoshka",
+    "C": "Sabzi",
+    "D": "Bug‘doy",
+    "javob": "A"
+  },
+  {
+    "savol": "Pantlar nima?",
+    "A": "Yosh kiyik shoxi",
+    "B": "Baliq yog‘i",
+    "C": "Qush patlari",
+    "D": "Daraxt po‘stlog‘i",
+    "javob": "A"
+  },
+  {
+    "savol": "Jenshen ildizi qachondan qo‘llanilgan?",
+    "A": "m.avv. 5-6 asr",
+    "B": "m.avv. 1 asr",
+    "C": "m.avv. 10 asr",
+    "D": "m.avv. 2 asr",
+    "javob": "A"
+  },
+  {
+    "savol": "Dengiz suv o‘tlari nima kasallikda ishlatilgan?",
+    "A": "Bo‘qoq",
+    "B": "Bezgak",
+    "C": "Yurak kasalligi",
+    "D": "Saraton",
+    "javob": "A"
+  },
+  {
+    "savol": "Xitoyda simob birikmalari qayerda ishlatilgan?",
+    "A": "Sifilis davolashda",
+    "B": "Shamollashda",
+    "C": "Oshqozonda",
+    "D": "Allergiyada",
+    "javob": "A"
+  },
+  {
+    "savol": "“Shen-nuna” asarida dorilar qanday tasniflangan?",
+    "A": "Farmakologik xususiyatiga ko‘ra",
+    "B": "Rangiga ko‘ra",
+    "C": "Hajmiga ko‘ra",
+    "D": "Narxiga ko‘ra",
+    "javob": "A"
+  },
+  {
+    "savol": "Qadimgi Yunonistonda eng mashhur tibbiyot maktablari qayerda joylashgan?",
+    "A": "Knidos va Kosda",
+    "B": "Rim va Afina",
+    "C": "Misr va Bobil",
+    "D": "Hindiston va Xitoy",
+    "javob": "A"
+  },
+  {
+    "savol": "Gippokrat qayerda tug‘ilgan?",
+    "A": "Kos orolida",
+    "B": "Afina shahrida",
+    "C": "Rimda",
+    "D": "Misrda",
+    "javob": "A"
+  },
+  {
+    "savol": "Gippokrat qaysi yillarda yashagan?",
+    "A": "m.avv. 460–377",
+    "B": "m.avv. 300–200",
+    "C": "m.avv. 100–50",
+    "D": "m.avv. 600–500",
+    "javob": "A"
+  },
+  {
+    "savol": "Gippokrat tibbiyotda nimani amalga oshirdi?",
+    "A": "Uni diniy ta’sirdan ozod qildi",
+    "B": "Jarrohlikni yaratdi",
+    "C": "Kimyoni rivojlantirdi",
+    "D": "Farmakopeya tuzdi",
+    "javob": "A"
+  },
+  {
+    "savol": "Gippokrat davolashda nimaga katta ahamiyat bergan?",
+    "A": "Parhezga",
+    "B": "Jarrohlikka",
+    "C": "Antibiotiklarga",
+    "D": "Gormonlarga",
+    "javob": "A"
+  },
+  {
+    "savol": "“Ptizana” nima?",
+    "A": "Arpa bo‘tqasi",
+    "B": "O‘simlik damlamasi",
+    "C": "Hayvon yog‘i",
+    "D": "Mineral tuz",
+    "javob": "A"
+  },
+  {
+    "savol": "Gippokrat fikricha davolashda nima muhim?",
+    "A": "Gigiena va dori birgalikda",
+    "B": "jarrohlik",
+    "C": "dorilar",
+    "D": "parhez",
+    "javob": "A"
+  },
+  {
+    "savol": "Gippokrat nechta dorivor o‘simlikdan foydalangan?",
+    "A": "230 ga yaqin",
+    "B": "50 ta",
+    "C": "100 ta",
+    "D": "500 ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Gippokrat dorilarni qanday saqlashni tavsiya qilgan?",
+    "A": "Yopiq idishlarda",
+    "B": "Ochiq havoda",
+    "C": "Yer ostida",
+    "D": "Suvda",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘simlik sharbatlarini qaysi idishda saqlash tavsiya etilgan?",
+    "A": "Shisha idishda",
+    "B": "Yog‘ochda",
+    "C": "Metallda",
+    "D": "Loyda",
+    "javob": "A"
+  },
+  {
+    "savol": "Yunon tibbiyotida qaysi mahsulotlar ishlatilgan?",
+    "A": "O‘simlik va hayvon mahsulotlari",
+    "B": "O‘simlik",
+    "C": "Hayvon",
+    "D": "Mineral",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri dorivor o‘simlik hisoblanadi?",
+    "A": "Mandragora",
+    "B": "Kartoshka",
+    "C": "Sabzi",
+    "D": "Lavlagi",
+    "javob": "A"
+  },
+  {
+    "savol": "Rim tibbiyotining eng yirik vakili kim?",
+    "A": "Galen",
+    "B": "Gippokrat",
+    "C": "Aristotel",
+    "D": "Avitsenna",
+    "javob": "A"
+  },
+  {
+    "savol": "Galen qayerda tug‘ilgan?",
+    "A": "Pergamda",
+    "B": "Rimda",
+    "C": "Afina",
+    "D": "Misrda",
+    "javob": "A"
+  },
+  {
+    "savol": "Galen qaysi yoshdan tibbiyotni o‘rgana boshlagan?",
+    "A": "17 yoshdan",
+    "B": "10 yoshdan",
+    "C": "25 yoshdan",
+    "D": "30 yoshdan",
+    "javob": "A"
+  },
+  {
+    "savol": "Galen kimlar orasida amaliyot olib borgan?",
+    "A": "Gladiatorlar orasida",
+    "B": "Dehqonlar orasida",
+    "C": "Ruhoniylar orasida",
+    "D": "Harbiylar orasida",
+    "javob": "A"
+  },
+  {
+    "savol": "Galen nechta asar yozgan?",
+    "A": "400 ga yaqin",
+    "B": "100 ta",
+    "C": "50 ta",
+    "D": "1000 ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Galen ta’limotiga ko‘ra davolash nimaga asoslanadi?",
+    "A": "Dieta va qarshi ta’sir",
+    "B": "Dorilar",
+    "C": "Operatsiya",
+    "D": "Gigiena",
+    "javob": "A"
+  },
+  {
+    "savol": "“Qarama-qarshini qarama-qarshi bilan davolash” kimga tegishli?",
+    "A": "Galen",
+    "B": "Gippokrat",
+    "C": "Aristotel",
+    "D": "Galiley",
+    "javob": "A"
+  },
+  {
+    "savol": "Galen dorilarni nechta sinfga bo‘lgan?",
+    "A": "3 ta",
+    "B": "2 ta",
+    "C": "4 ta",
+    "D": "5 ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Galen dorishunoslikka qanday yangilik kiritgan?",
+    "A": "Ta’sir etuvchi moddalar tushunchasi",
+    "B": "Antibiotiklar",
+    "C": "Gormonlar",
+    "D": "Vitaminlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Galen qanday usullarni qo‘llagan?",
+    "A": "Ekstraksiya va bo‘ktirish",
+    "B": "Filtrlash",
+    "C": "Distillatsiya",
+    "D": "Sublimatsiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Rimda qaysi vositalar farmasiyaga kiritilgan?",
+    "A": "Sharob va sirka",
+    "B": "Suv va tuz",
+    "C": "Yog‘ va shakar",
+    "D": "Sut va asal",
+    "javob": "A"
+  },
+  {
+    "savol": "Galen dorilarni qayerda tayyorlagan?",
+    "A": "O‘z dorixonasida",
+    "B": "Bozorda",
+    "C": "Saroyda",
+    "D": "Dalada",
+    "javob": "A"
+  },
+  {
+    "savol": "Murakkab dorilar nechta moddalardan iborat bo‘lgan?",
+    "A": "23–60 modda",
+    "B": "5–10 modda",
+    "C": "1–2 modda",
+    "D": "100 modda",
+    "javob": "A"
+  },
+  {
+    "savol": "Abu Ali ibn Sino qachon tug‘ilgan?",
+    "A": "980-yilda",
+    "B": "970-yilda",
+    "C": "990-yilda",
+    "D": "1000-yilda",
+    "javob": "A"
+  },
+  {
+    "savol": "Ibn Sino qayerda tug‘ilgan?",
+    "A": "Afshona qishlog‘ida",
+    "B": "Buxoro shahrida",
+    "C": "Xorazmda",
+    "D": "Samarqandda",
+    "javob": "A"
+  },
+  {
+    "savol": "Ibn Sino qaysi davlat davrida shakllangan?",
+    "A": "Somoniylar davrida",
+    "B": "Temuriylar davrida",
+    "C": "Abbosiylar davrida",
+    "D": "Qoraxoniylar davrida",
+    "javob": "A"
+  },
+  {
+    "savol": "Ibn Sino qaysi ilmiy markazda faoliyat yuritgan?",
+    "A": "Ma’mun akademiyasida",
+    "B": "Bag‘dod akademiyasida",
+    "C": "Rim maktabida",
+    "D": "Afina akademiyasida",
+    "javob": "A"
+  },
+  {
+    "savol": "“Tib qonunlari” qachon yozilgan?",
+    "A": "1019–1020 yillarda",
+    "B": "900-yilda",
+    "C": "1100-yilda",
+    "D": "950-yilda",
+    "javob": "A"
+  },
+  {
+    "savol": "“Tib qonunlari” nechta kitobdan iborat?",
+    "A": "5 ta",
+    "B": "3 ta",
+    "C": "7 ta",
+    "D": "10 ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Ibn Sino nechta murakkab dori reseptini keltirgan?",
+    "A": "508 ta",
+    "B": "100 ta",
+    "C": "200 ta",
+    "D": "1000 ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Ibn Sino qaysi jarayonlarni o‘rgangan?",
+    "A": "Qaynash va sublimatsiya",
+    "B": "Filtrlash",
+    "C": "Eritish",
+    "D": "Bug‘latish",
+    "javob": "A"
+  },
+  {
+    "savol": "Ibn Sino dorilar saqlanishi haqida nima degan?",
+    "A": "Issiq iqlimda tez buziladi",
+    "B": "Sovuqda tez buziladi",
+    "C": "Har doim saqlanadi",
+    "D": "Saqlash shart emas",
+    "javob": "A"
+  },
+  {
+    "savol": "Ibn Sino og‘riqsizlantiruvchi sifatida nimani ishlatgan?",
+    "A": "Belladonna va afyun",
+    "B": "Tuz va suv",
+    "C": "Shakar",
+    "D": "Yog‘",
+    "javob": "A"
+  },
+  {
+    "savol": "Turkiston o‘lkasida Rossiyaga qo‘shilgunga qadar bemorlarni kimlar davolagan?",
+    "A": "Tabiblar va xalq tabiblari",
+    "B": "Shifokorlar",
+    "C": "Dorixonachilar",
+    "D": "Harbiylar",
+    "javob": "A"
+  },
+  {
+    "savol": "Tabiblar qanday davolash ishlarini bajargan?",
+    "A": "Jarrohlik va kasallik davolash",
+    "B": "Dori berish",
+    "C": "Maslahat",
+    "D": "Parhez",
+    "javob": "A"
+  },
+  {
+    "savol": "Tabiblar efir moylarini qanday usulda olgan?",
+    "A": "Suv bug‘i orqali",
+    "B": "Qaynatish orqali",
+    "C": "Muzlatish orqali",
+    "D": "Quritish orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Dori vositalari qanday saqlangan?",
+    "A": "Haltacha va idishlarda",
+    "B": "Yerda",
+    "C": "Ochiq havoda",
+    "D": "Suvda",
+    "javob": "A"
+  },
+  {
+    "savol": "Attorlar qanday mahsulotlar bilan savdo qilgan?",
+    "A": "O‘simlik, hayvon va mineral dorilar",
+    "B": "O‘simlik",
+    "C": "Kimyoviy",
+    "D": "Oziq-ovqat",
+    "javob": "A"
+  },
+  {
+    "savol": "R. Palm nechta dori vositasini yozib qoldirgan?",
+    "A": "200 dan ortiq",
+    "B": "50 ta",
+    "C": "100 ta",
+    "D": "500 ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Toshkentda harbiy lazaret qachon ochilgan?",
+    "A": "1868-yilda",
+    "B": "1850-yilda",
+    "C": "1875-yilda",
+    "D": "1900-yilda",
+    "javob": "A"
+  },
+  {
+    "savol": "Shahar dorixonasi qachon ochilgan?",
+    "A": "1874-yilda",
+    "B": "1880-yilda",
+    "C": "1860-yilda",
+    "D": "1901-yilda",
+    "javob": "A"
+  },
+  {
+    "savol": "Turkistonda birinchi xususiy dorixona kim tomonidan ochilgan?",
+    "A": "I.I. Krauze",
+    "B": "G.F. Kaplan",
+    "C": "Dragendorf",
+    "D": "Palm",
+    "javob": "A"
+  },
+  {
+    "savol": "Xususiy dorixona qachon ochilgan?",
+    "A": "1880-yil 25-yanvar",
+    "B": "1870-yil",
+    "C": "1903-yil",
+    "D": "1868-yil",
+    "javob": "A"
+  },
+  {
+    "savol": "Farmatsevtika faoliyati qanday asosda amalga oshiriladi?",
+    "A": "Lisenziya asosida",
+    "B": "Patent asosida",
+    "C": "Shartnoma asosida",
+    "D": "Sertifikat asosida",
+    "javob": "A"
+  },
+  {
+    "savol": "Lisenziya kim tomonidan beriladi?",
+    "A": "Sog‘liqni saqlash vazirligi",
+    "B": "Ta’lim vazirligi",
+    "C": "Moliya vazirligi",
+    "D": "Adliya vazirligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Farmatsevtika faoliyati uchun lisenziya necha yilga beriladi?",
+    "A": "5 yilga",
+    "B": "1 yilga",
+    "C": "10 yilga",
+    "D": "3 yilga",
+    "javob": "A"
+  },
+  {
+    "savol": "Lisenziya muddatini uzaytirish uchun nima talab etiladi?",
+    "A": "Malaka oshirish sertifikati",
+    "B": "Diplom",
+    "C": "Pasport",
+    "D": "Tavsiyanoma",
+    "javob": "A"
+  },
+  {
+    "savol": "Dori vositalarini yaratish kimlar tomonidan amalga oshiriladi?",
+    "A": "Ilmiy va ishlab chiqaruvchi tashkilotlar",
+    "B": "Dorixonalar",
+    "C": "Shifokorlar",
+    "D": "Talabalar",
+    "javob": "A"
+  },
+  {
+    "savol": "Dori vositalarini yaratish jarayoniga nima kiradi?",
+    "A": "Yangi vositalarni izlash va o‘rganish",
+    "B": "Sotish",
+    "C": "Reklama",
+    "D": "Saqlash",
+    "javob": "A"
+  },
+  {
+    "savol": "Tibbiy buyumlarni yaratish nimani o‘z ichiga oladi?",
+    "A": "Texnik xususiyatlarni o‘rganish",
+    "B": "Sotish",
+    "C": "Import",
+    "D": "Saqlash",
+    "javob": "A"
+  },
+  {
+    "savol": "Dori vositalarini ishlab chiqarish qanday amalga oshiriladi?",
+    "A": "Texnologik sikl bo‘yicha",
+    "B": "Qo‘lda",
+    "C": "Import orqali",
+    "D": "Laboratoriyada",
+    "javob": "A"
+  },
+  {
+    "savol": "Qanday holatda dori vositalarini ro‘yxatdan o‘tkazmasdan ishlab chiqarish mumkin?",
+    "A": "Ilmiy tadqiqot va eksport uchun",
+    "B": "Har doim",
+    "C": "Sotish uchun",
+    "D": "Reklama uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "Farmatsevtika tashkilotlarida chakana savdo kim tomonidan amalga oshiriladi?",
+    "A": "Dorixona va uning filiallari",
+    "B": "Shifokorlar",
+    "C": "Ishlab chiqaruvchilar",
+    "D": "Laboratoriyalar",
+    "javob": "A"
+  },
+  {
+    "savol": "Chakana savdo qanday faoliyat turiga kiradi?",
+    "A": "Lisenziyalanadigan faoliyat",
+    "B": "Erkin faoliyat",
+    "C": "Tadbirkorliksiz faoliyat",
+    "D": "Majburiy faoliyat",
+    "javob": "A"
+  },
+  {
+    "savol": "Dori vositalari qanday asosda sotiladi?",
+    "A": "Resept yoki reseptsiz ro‘yxat asosida",
+    "B": "Reseptsiz",
+    "C": "Og‘zaki",
+    "D": "Reklama asosida",
+    "javob": "A"
+  },
+  {
+    "savol": "Qanday dori vositalarini chakana savdoga chiqarish mumkin?",
+    "A": "Ro‘yxatdan o‘tgan yoki dorixonada tayyorlangan",
+    "B": "Har qanday dori",
+    "C": "Import",
+    "D": "O‘simlik",
+    "javob": "A"
+  },
+  {
+    "savol": "Qanday dori vositalarini sotish taqiqlanadi?",
+    "A": "Qalbakilashtirilgan va ro‘yxatdan o‘tmagan",
+    "B": "O‘simlik dorilar",
+    "C": "Hayvon dorilar",
+    "D": "Mineral dorilar",
+    "javob": "A"
+  },
+  {
+    "savol": "Chakana savdo qaysi hujjatga muvofiq amalga oshiriladi?",
+    "A": "2017-yil 185-son qaror",
+    "B": "2000-yil qaror",
+    "C": "1995-yil qonun",
+    "D": "2020-yil farmon",
+    "javob": "A"
+  },
+  {
+    "savol": "Dorixona nima?",
+    "A": "Tibbiyot muassasasi",
+    "B": "Savdo markazi",
+    "C": "Laboratoriya",
+    "D": "Ombor",
+    "javob": "A"
+  },
+  {
+    "savol": "Dorixona qanday ishlarni bajaradi?",
+    "A": "Dori tayyorlash va sotish",
+    "B": "Sotish",
+    "C": "Ishlab chiqarish",
+    "D": "Saqlash",
+    "javob": "A"
+  },
+  {
+    "savol": "Dorixona tizimida qaysi mahsulotlar sotiladi?",
+    "A": "Dori va gigiena vositalari",
+    "B": "Oziq-ovqat",
+    "C": "Kiyim",
+    "D": "Texnika",
+    "javob": "A"
+  },
+  {
+    "savol": "Dorixona tizimida qanday mahsulotlar kiradi?",
+    "A": "Ma'danli suv va kosmetika",
+    "B": "Suv",
+    "C": "Oziq ovqat mahsulorlari",
+    "D": "Ichimlik",
+    "javob": "A"
+  },
+  {
+    "savol": "Dorixona tizimida qaysi o‘rin egallaydi?",
+    "A": "Yakunlovchi bo‘g‘in",
+    "B": "Boshlang‘ich bo‘g‘in",
+    "C": "O‘rta bo‘g‘in",
+    "D": "Nazorat bo‘g‘ini",
+    "javob": "A"
+  },
+  {
+    "savol": "Chakana savdoning maqsadi nima?",
+    "A": "Aholi ehtiyojini qondirish",
+    "B": "Foyda olish",
+    "C": "Eksport qilish",
+    "D": "Reklama qilish",
+    "javob": "A"
+  },
+  {
+    "savol": "Dorixona tashkilotlariga nimalar kiradi?",
+    "A": "Dorixona va filiallar",
+    "B": "Markaz",
+    "C": "Ombor",
+    "D": "Laboratoriya",
+    "javob": "A"
+  },
+  {
+    "savol": "Qishloq hududida dorixona qayerda bo‘lishi mumkin?",
+    "A": "Shifokorlik punktida",
+    "B": "Bozorda",
+    "C": "Maktabda",
+    "D": "Uyda",
+    "javob": "A"
+  },
+  {
+    "savol": "Dorixona turlaridan biri qaysi?",
+    "A": "Shifoxonalararo dorixona",
+    "B": "Xususiy do‘kon",
+    "C": "Bozor",
+    "D": "Klinika",
+    "javob": "A"
+  },
+  {
+    "savol": "Ixtisoslashtirilgan dorixonalar nimasi bilan farq qiladi?",
+    "A": "Yuqori sifatli xizmat ko‘rsatishi bilan",
+    "B": "Narxi bilan",
+    "C": "Joylashuvi bilan",
+    "D": "Reklama bilan",
+    "javob": "A"
+  },
+  {
+    "savol": "Tayyor dori vositalari bilan savdo qiluvchi dorixonalar nima bilan shug‘ullanadi?",
+    "A": "Tayyor dorilar savdosi",
+    "B": "Ishlab chiqarish",
+    "C": "Saqlash",
+    "D": "Eksport",
+    "javob": "A"
+  },
+  {
+    "savol": "Geriatrik dorixonalar kimlarga xizmat qiladi?",
+    "A": "Keksalarga",
+    "B": "Bolalarga",
+    "C": "Talabalarga",
+    "D": "Sportchilarga",
+    "javob": "A"
+  },
+  {
+    "savol": "Bolalar dorixonalarining asosiy xususiyati nima?",
+    "A": "Kichik dozali dorilar",
+    "B": "Kattalar uchun",
+    "C": "Import",
+    "D": "Kosmetika",
+    "javob": "A"
+  },
+  {
+    "savol": "Dorivor o‘simliklar dorixonasi nima bilan shug‘ullanadi?",
+    "A": "Fitodori tayyorlash va sotish",
+    "B": "Kimyoviy dorilar",
+    "C": "Vitaminlar",
+    "D": "Suv",
+    "javob": "A"
+  },
+  {
+    "savol": "Dorivor o‘simlik dorixonalarida qanday shakllar mavjud?",
+    "A": "Damlama va qaynatma",
+    "B": "Tabletka",
+    "C": "Kapsula",
+    "D": "Sirop",
+    "javob": "A"
+  },
+  {
+    "savol": "Gomeopatik dorixonalar nima bilan ta’minlaydi?",
+    "A": "Gomeopatik dorilar",
+    "B": "O‘simlik dorilar",
+    "C": "Antibiotiklar",
+    "D": "Vitaminlar",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘quv ishlab chiqarish dorixonalari nima uchun kerak?",
+    "A": "Talabalarni tayyorlash",
+    "B": "Savdo",
+    "C": "Eksport",
+    "D": "Nazorat",
+    "javob": "A"
+  },
+  {
+    "savol": "Dorixonaning asosiy vazifasi nima?",
+    "A": "Aholini dori bilan ta’minlash",
+    "B": "Foyda olish",
+    "C": "Reklama",
+    "D": "Saqlash",
+    "javob": "A"
+  },
+  {
+    "savol": "Tibbiy buyumlarga nimalar kiradi?",
+    "A": "Shpris va bog‘lov materiallari",
+    "B": "Oziq-ovqat",
+    "C": "Kiyim",
+    "D": "Texnika",
+    "javob": "A"
+  },
+  {
+    "savol": "Dorixonalar qanday faoliyat bilan shug‘ullanadi?",
+    "A": "Ishlab chiqarish va savdo",
+    "B": "Savdo",
+    "C": "Ishlab chiqarish",
+    "D": "Nazorat",
+    "javob": "A"
+  },
+  {
+    "savol": "Dorixonaning ishlab chiqarish faoliyati nimani o‘z ichiga oladi?",
+    "A": "Dori tayyorlash",
+    "B": "Sotish",
+    "C": "Import",
+    "D": "Reklama",
+    "javob": "A"
+  },
+  {
+    "savol": "Dorixonada dori qanday asosda tayyorlanadi?",
+    "A": "Resept asosida",
+    "B": "Og‘zaki",
+    "C": "Reklama asosida",
+    "D": "Tasodifiy",
+    "javob": "A"
+  },
+  {
+    "savol": "Dorixonada sifat nazorati nima uchun kerak?",
+    "A": "Dori sifatini tekshirish",
+    "B": "Narxni tekshirish",
+    "C": "Miqdorni tekshirish",
+    "D": "Reklama",
+    "javob": "A"
+  },
+  {
+    "savol": "Dorixonalar tibbiyot xodimlariga nima beradi?",
+    "A": "Axborot",
+    "B": "Pul",
+    "C": "Jihoz",
+    "D": "Transport",
+    "javob": "A"
+  },
+  {
+    "savol": "Dorixonalar qanday xizmat ko‘rsatadi?",
+    "A": "Dori haqida maslahat",
+    "B": "Sotish",
+    "C": "Saqlash",
+    "D": "Reklama",
+    "javob": "A"
+  },
+  {
+    "savol": "Dorivor o‘simliklar bilan ishlashga kim jalb qilinadi?",
+    "A": "Dorixona filiallari",
+    "B": "Shifokorlar",
+    "C": "Talabalar",
+    "D": "Mijozlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Dorixonada qanday talablar bajariladi?",
+    "A": "Sanitariya-gigiena",
+    "B": "Iqtisodiy",
+    "C": "Reklama",
+    "D": "Savdo",
+    "javob": "A"
+  },
+  {
+    "savol": "Dorixonalar qanday yordam ko‘rsatishi mumkin?",
+    "A": "Birinchi tibbiy yordam",
+    "B": "Maslahat",
+    "C": "Sotish",
+    "D": "Reklama",
+    "javob": "A"
+  },
+  {
+    "savol": "Dorixona faoliyati nimaga asoslanadi?",
+    "A": "Lisenziya asosida",
+    "B": "Shartnoma",
+    "C": "Patent",
+    "D": "Ruxsat",
+    "javob": "A"
+  },
+  {
+    "savol": "Ulgurji vositachilarning asosiy vazifasi nima?",
+    "A": "Ishlab chiqaruvchi va dorixona o‘rtasini bog‘lash",
+    "B": "Ishlab chiqarish",
+    "C": "Reklama",
+    "D": "Saqlash",
+    "javob": "A"
+  },
+  {
+    "savol": "Ulgurji savdo nimaga xizmat qiladi?",
+    "A": "Zaxiralarni kamaytirish va taqchillikni bartaraf etish",
+    "B": "Foyda olish",
+    "C": "Eksport",
+    "D": "Reklama",
+    "javob": "A"
+  },
+  {
+    "savol": "Ulgurji savdoda marketing funksiyasi nimani o‘z ichiga oladi?",
+    "A": "Bozor tahlili va narx siyosati",
+    "B": "Reklama",
+    "C": "Sotish",
+    "D": "Transport",
+    "javob": "A"
+  },
+  {
+    "savol": "Axborot funksiyasi nimani anglatadi?",
+    "A": "Tashkilotlarni ma’lumot bilan ta’minlash",
+    "B": "Sotish",
+    "C": "Reklama",
+    "D": "Ishlab chiqarish",
+    "javob": "A"
+  },
+  {
+    "savol": "Ulgurji tashkilotlar qanday jarayonni bajaradi?",
+    "A": "Tovarni saqlash va boshqarish",
+    "B": "Sotish",
+    "C": "Ishlab chiqarish",
+    "D": "Reklama",
+    "javob": "A"
+  },
+  {
+    "savol": "Ulgurji vositachilar yana qanday xizmat ko‘rsatadi?",
+    "A": "Tovarni tashish",
+    "B": "Reklama",
+    "C": "Nazorat",
+    "D": "Ishlab chiqarish",
+    "javob": "A"
+  },
+  {
+    "savol": "Ulgurji tashkilotlar qanday savdo qiladi?",
+    "A": "Kredit asosida ham",
+    "B": "Naqd",
+    "C": "Bepul",
+    "D": "Barter",
+    "javob": "A"
+  },
+  {
+    "savol": "Ulgurji vositachilar nimani kamaytiradi?",
+    "A": "Xavf-xatarni",
+    "B": "Narxni",
+    "C": "Hajmni",
+    "D": "Vaqtni",
+    "javob": "A"
+  },
+  {
+    "savol": "Ulgurji savdo ustamasi qancha bo‘lishi mumkin?",
+    "A": "15% dan oshmaydi",
+    "B": "50%",
+    "C": "100%",
+    "D": "Cheklanmagan",
+    "javob": "A"
+  },
+  {
+    "savol": "Ulgurji tashkilotlar kimlardan xarid qiladi?",
+    "A": "Ishlab chiqaruvchilardan",
+    "B": "Dorixonalardan",
+    "C": "Aholidan",
+    "D": "Importdan",
+    "javob": "A"
+  },
+  {
+    "savol": "Ulgurji savdo kimlarga amalga oshiriladi?",
+    "A": "Lisenziyaga ega tashkilotlarga",
+    "B": "Aholi",
+    "C": "Talabalar",
+    "D": "Fermerlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi dorilarni sotishga ruxsat beriladi?",
+    "A": "Ro‘yxatdan o‘tgan dorilar",
+    "B": "Har qanday dorilar",
+    "C": "O‘simlik dorilar",
+    "D": "Import dorilar",
+    "javob": "A"
+  },
+  {
+    "savol": "Ulgurji savdoni kim nazorat qiladi?",
+    "A": "Sog‘liqni saqlash vazirligi",
+    "B": "Moliya vazirligi",
+    "C": "Ta’lim vazirligi",
+    "D": "Adliya vazirligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Distribyutor nima?",
+    "A": "Ulgurji savdo tashkiloti",
+    "B": "Dorixona",
+    "C": "Shifokor",
+    "D": "Laboratoriya",
+    "javob": "A"
+  },
+  {
+    "savol": "Distribyutor vazifasi nima?",
+    "A": "Dori sotib olib yetkazish",
+    "B": "Ishlab chiqarish",
+    "C": "Reklama",
+    "D": "Nazorat",
+    "javob": "A"
+  },
+  {
+    "savol": "Xududiy ulgurji tashkilot nima qiladi?",
+    "A": "Mahalliy bozorda savdo qiladi",
+    "B": "Eksport",
+    "C": "Import",
+    "D": "Reklama",
+    "javob": "A"
+  },
+  {
+    "savol": "Ixtisoslashgan ulgurji tashkilot nima bilan shug‘ullanadi?",
+    "A": "Muayyan mahsulotlar savdosi",
+    "B": "Oziq-ovqat",
+    "C": "Kiyim",
+    "D": "Texnika",
+    "javob": "A"
+  },
+  {
+    "savol": "Universal ulgurji tashkilot nima qiladi?",
+    "A": "Turli mahsulotlar bilan savdo",
+    "B": "Bitta mahsulot",
+    "C": "Xizmat",
+    "D": "Reklama",
+    "javob": "A"
+  },
+  {
+    "savol": "GDP nima?",
+    "A": "Yaxshi distribyutsiya amaliyoti",
+    "B": "Yaxshi ishlab chiqarish",
+    "C": "Yaxshi savdo",
+    "D": "Yaxshi nazorat",
+    "javob": "A"
+  },
+  {
+    "savol": "GSP nima?",
+    "A": "Yaxshi saqlash amaliyoti",
+    "B": "Yaxshi ishlab chiqarish",
+    "C": "Yaxshi reklama",
+    "D": "Yaxshi savdo",
+    "javob": "A"
+  },
+  {
+    "savol": "Dorixona omborxonasi qanday obyektlardan iborat?",
+    "A": "Kapital binolar va inshootlar",
+    "B": "Savdo joylari",
+    "C": "Ofis",
+    "D": "Laboratoriya",
+    "javob": "A"
+  },
+  {
+    "savol": "Omborxonaga qaysi yordamchi inshoot kiradi?",
+    "A": "Elektr podstansiyasi",
+    "B": "Maktab",
+    "C": "Bozor",
+    "D": "Mehmonxona",
+    "javob": "A"
+  },
+  {
+    "savol": "Kommunikatsiya tizimiga nima kiradi?",
+    "A": "Elektr va suv ta’minoti",
+    "B": "Yo‘l",
+    "C": "Transport",
+    "D": "Aloqa",
+    "javob": "A"
+  },
+  {
+    "savol": "Omborxonada saqlash uchun nima kerak?",
+    "A": "Stellaj va tagliklar",
+    "B": "Qutilar",
+    "C": "Stol",
+    "D": "Paket",
+    "javob": "A"
+  },
+  {
+    "savol": "Termolabil dorilar qayerda saqlanadi?",
+    "A": "Sovutgichlarda",
+    "B": "Ochiq havoda",
+    "C": "Yerda",
+    "D": "Issiq xonada",
+    "javob": "A"
+  },
+  {
+    "savol": "Havo parametrlarini nazorat qilish uchun nima ishlatiladi?",
+    "A": "Termometr va gigrometr",
+    "B": "Tarozilar",
+    "C": "Mikroskop",
+    "D": "Kompyuter",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi vositalar alohida shkafda saqlanadi?",
+    "A": "Maxsus dori va hujjatlar",
+    "B": "Oziq-ovqat",
+    "C": "Kiyim",
+    "D": "Suv",
+    "javob": "A"
+  },
+  {
+    "savol": "Sanitariya uchun nima ishlatiladi?",
+    "A": "Dezinfeksiya vositalari",
+    "B": "Suv",
+    "C": "Havo",
+    "D": "Tuz",
+    "javob": "A"
+  },
+  {
+    "savol": "Zamonaviy omborxonalar qanday bo‘ladi?",
+    "A": "Ko‘p qavatli inshootlar",
+    "B": "Yer osti",
+    "C": "Kichik xona",
+    "D": "Ochiq maydon",
+    "javob": "A"
+  },
+  {
+    "savol": "Omborxonaga kimlar kirishi mumkin emas?",
+    "A": "Ruxsatsiz shaxslar",
+    "B": "Ishchilar",
+    "C": "Rahbarlar",
+    "D": "Mutaxassislar",
+    "javob": "A"
+  },
+  {
+    "savol": "Yuklash-tushirish maydoni qanday bo‘ladi?",
+    "A": "Alohida hududda",
+    "B": "Ichkarida",
+    "C": "Tashqarida",
+    "D": "Tomda",
+    "javob": "A"
+  },
+  {
+    "savol": "Tovarlarni qabul qilishni kim amalga oshiradi?",
+    "A": "Qabul bo‘limi",
+    "B": "Direktor",
+    "C": "Mijoz",
+    "D": "Haydovchi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qabul hayati nechta kishidan iborat bo‘ladi?",
+    "A": "Kamida 3 kishi",
+    "B": "1 kishi",
+    "C": "2 kishi",
+    "D": "5 kishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qabul qilish jarayoniga nima kiradi?",
+    "A": "Qadoqni tekshirish",
+    "B": "Sotish",
+    "C": "Reklama",
+    "D": "Saqlash",
+    "javob": "A"
+  },
+  {
+    "savol": "Son jihatdan qabul qilish nimani bildiradi?",
+    "A": "Hujjat bilan solishtirish",
+    "B": "Ko‘rish",
+    "C": "O‘lchash",
+    "D": "Yozish",
+    "javob": "A"
+  },
+  {
+    "savol": "Sifat jihatdan qabul qilishda nimaga e’tibor beriladi?",
+    "A": "Tovar holatiga",
+    "B": "Narxga",
+    "C": "Rangga",
+    "D": "Nomga",
+    "javob": "A"
+  },
+  {
+    "savol": "Nuqsonli tovar qayerga joylashtiriladi?",
+    "A": "Karantin xonasiga",
+    "B": "Omborga",
+    "C": "Do‘konga",
+    "D": "Transportga",
+    "javob": "A"
+  },
+  {
+    "savol": "Sifatsiz dorilar bilan nima qilinadi?",
+    "A": "Yo‘q qilinadi",
+    "B": "Saqlanadi",
+    "C": "Sotiladi",
+    "D": "Qayta ishlatiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Tovarlarni saqlash qanday amalga oshiriladi?",
+    "A": "Stellaj va tagliklarda",
+    "B": "Polda",
+    "C": "Devorda",
+    "D": "Shiftda",
+    "javob": "A"
+  },
+  {
+    "savol": "Dori vositalarini himoya qilish uchun nima qilinadi?",
+    "A": "Kontaminatsiyani oldini olish",
+    "B": "Saqlash",
+    "C": "Sotish",
+    "D": "Tashish",
+    "javob": "A"
+  },
+  {
+    "savol": "Tibbiy tovarlar nimalarni o‘z ichiga oladi?",
+    "A": "Priborlar, apparatlar va reagentlar",
+    "B": "Dorilar",
+    "C": "Oziq-ovqat",
+    "D": "Kiyim",
+    "javob": "A"
+  },
+  {
+    "savol": "Tasniflash nima uchun kerak?",
+    "A": "Nomenklaturani tartibga solish uchun",
+    "B": "Sotish uchun",
+    "C": "Reklama uchun",
+    "D": "Saqlash uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "Tibbiy tovarlar nima uchun mo‘ljallangan?",
+    "A": "Sog‘liqni ta’minlash uchun",
+    "B": "Eksport uchun",
+    "C": "Reklama uchun",
+    "D": "Ishlab chiqarish uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "Ashyolar qanday tovarlar hisoblanadi?",
+    "A": "Bir martalik ishlatiladigan",
+    "B": "Ko‘p martalik",
+    "C": "Qimmat",
+    "D": "Import",
+    "javob": "A"
+  },
+  {
+    "savol": "Buyumlar qanday xususiyatga ega?",
+    "A": "Ko‘p martalik foydalaniladi",
+    "B": "Bir martalik",
+    "C": "Arzon",
+    "D": "Plastik",
+    "javob": "A"
+  },
+  {
+    "savol": "Qadoqning iste’mol xususiyatlaridan biri nima?",
+    "A": "Tashishga qulayligi",
+    "B": "Rangi",
+    "C": "Narxi",
+    "D": "Hajmi",
+    "javob": "A"
+  },
+  {
+    "savol": "Birlamchi qadoq nima bilan bevosita aloqada bo‘ladi?",
+    "A": "Dori moddasi bilan",
+    "B": "Transport bilan",
+    "C": "Ombor bilan",
+    "D": "Reklama bilan",
+    "javob": "A"
+  },
+  {
+    "savol": "Ikkilamchi qadoqning asosiy vazifasi nima?",
+    "A": "Birlamchi qadoqni himoya qilish",
+    "B": "Saqlash",
+    "C": "Sotish",
+    "D": "Tashish",
+    "javob": "A"
+  },
+  {
+    "savol": "Soxta dori vositalar haqidagi eng qadimgi ma’lumot qaysi davrga tegishli?",
+    "A": "m.avv. IV asr",
+    "B": "m.avv. II asr",
+    "C": "milodiy I asr",
+    "D": "m.avv. VI asr",
+    "javob": "A"
+  },
+  {
+    "savol": "Qalbakilashtirish muammosi hozirgi kunda qanday xarakterga ega?",
+    "A": "Global muammo",
+    "B": "Mahalliy muammo",
+    "C": "Mintaqaviy muammo",
+    "D": "Vaqtinchalik muammo",
+    "javob": "A"
+  },
+  {
+    "savol": "JSST qalbaki dorilar haqida birinchi ma’lumotni qachon aniqlagan?",
+    "A": "1982-yilda",
+    "B": "1972-yilda",
+    "C": "1992-yilda",
+    "D": "1962-yilda",
+    "javob": "A"
+  },
+  {
+    "savol": "Rivojlangan mamlakatlarda qalbaki dorilar ulushi qancha?",
+    "A": "5–8%",
+    "B": "1–3%",
+    "C": "10–15%",
+    "D": "20–25%",
+    "javob": "A"
+  },
+  {
+    "savol": "Jahon farmatsevtika bozorida soxta dorilar hajmi qancha?",
+    "A": "14–21 mlrd dollar",
+    "B": "5–10 mlrd dollar",
+    "C": "30–40 mlrd dollar",
+    "D": "1–5 mlrd dollar",
+    "javob": "A"
+  },
+  {
+    "savol": "Qalbakilashtirish eng ko‘p qayerlardan kirib keladi?",
+    "A": "Hindiston va Xitoydan",
+    "B": "AQSH va Kanada",
+    "C": "Germaniya va Fransiya",
+    "D": "Yaponiya va Koreya",
+    "javob": "A"
+  },
+  {
+    "savol": "Rivojlanayotgan mamlakatlarda qalbaki dorilar ulushi qancha bo‘lishi mumkin?",
+    "A": "30% gacha",
+    "B": "5% gacha",
+    "C": "10% gacha",
+    "D": "15% gacha",
+    "javob": "A"
+  },
+  {
+    "savol": "Eng ko‘p soxtalashtiriladigan dorilar qaysilar?",
+    "A": "Antibakterial dorilar",
+    "B": "Vitaminlar",
+    "C": "Antiallergik dorilar",
+    "D": "Sedativ dorilar",
+    "javob": "A"
+  },
+  {
+    "savol": "Dunyoda eng ko‘p soxtalashtiriladigan antibiotik qaysi?",
+    "A": "Amoksitsillin",
+    "B": "Penitsillin",
+    "C": "Tetratsiklin",
+    "D": "Eritromitsin",
+    "javob": "A"
+  },
+  {
+    "savol": "JSST ma’lumotiga ko‘ra qalbaki dorilar eng ko‘p qayerda uchraydi?",
+    "A": "G‘arbiy Tinch okeani hududida",
+    "B": "Yevropada",
+    "C": "Shimoliy Amerikada",
+    "D": "Avstraliyada",
+    "javob": "A"
+  },
+  {
+    "savol": "Farmakognoziya so‘zi qanday ma’noni anglatadi?",
+    "A": "Dori va bilim",
+    "B": "O‘simlik va hayvon",
+    "C": "Kimyo va tibbiyot",
+    "D": "Tabiat va fan",
+    "javob": "A"
+  },
+  {
+    "savol": "Farmakognoziya nimani o‘rganadi?",
+    "A": "Dorivor o‘simlik va mahsulotlarni",
+    "B": "Kimyoviy dorilarni",
+    "C": "Hayvon dorilarni",
+    "D": "Sintetik moddalarni",
+    "javob": "A"
+  },
+  {
+    "savol": "Fitopreparatlarga ehtiyoj oshishining sababi nima?",
+    "A": "Sintetik dorilar nojo‘ya ta’siri",
+    "B": "Arzonligi",
+    "C": "Reklama",
+    "D": "Import",
+    "javob": "A"
+  },
+  {
+    "savol": "Farmakognoziyaning asosiy maqsadi nima?",
+    "A": "Biologik faol moddalarni o‘rganish",
+    "B": "Sotish",
+    "C": "Reklama",
+    "D": "Eksport",
+    "javob": "A"
+  },
+  {
+    "savol": "Dorivor o‘simliklarni muhofaza qilish nimani o‘z ichiga oladi?",
+    "A": "Ularni asrab qolish va yetishtirish",
+    "B": "Sotish",
+    "C": "Quritish",
+    "D": "Eksport",
+    "javob": "A"
+  },
+  {
+    "savol": "Dorivor mahsulotlar uchun MTH nima uchun kerak?",
+    "A": "Sifat va chinligini aniqlash",
+    "B": "Narx belgilash",
+    "C": "Reklama",
+    "D": "Transport",
+    "javob": "A"
+  },
+  {
+    "savol": "Farmakognoziya qaysi fanlar bilan bog‘liq?",
+    "A": "Biologiya va kimyo bilan",
+    "B": "Matematika",
+    "C": "Fizika",
+    "D": "Tarix",
+    "javob": "A"
+  },
+  {
+    "savol": "Farmakognoziya qaysi qismlardan iborat?",
+    "A": "Umumiy va maxsus",
+    "B": "Amaliy",
+    "C": "Nazariy",
+    "D": "Laboratoriya",
+    "javob": "A"
+  },
+  {
+    "savol": "Umumiy qismda nimalar o‘rganiladi?",
+    "A": "Tayyorlash va saqlash usullari",
+    "B": "Sotish",
+    "C": "Reklama",
+    "D": "Transport",
+    "javob": "A"
+  },
+  {
+    "savol": "Maxsus qismda nimalar o‘rganiladi?",
+    "A": "Dorivor o‘simliklar haqida ma’lumot",
+    "B": "Texnologiya",
+    "C": "Marketing",
+    "D": "Nazorat",
+    "javob": "A"
+  },
+  {
+    "savol": "Ashyolar qanday mahsulotlar?",
+    "A": "Bir martalik",
+    "B": "Ko‘p martalik",
+    "C": "Qimmat",
+    "D": "Import",
+    "javob": "A"
+  },
+  {
+    "savol": "Buyumlar qanday mahsulotlar?",
+    "A": "Ko‘p martalik",
+    "B": "Bir martalik",
+    "C": "Arzon",
+    "D": "Plastik",
+    "javob": "A"
+  },
+  {
+    "savol": "Tibbiy buyumlarning asosiy vazifasi nima?",
+    "A": "Diagnostika va davolash",
+    "B": "Saqlash",
+    "C": "Sotish",
+    "D": "Reklama",
+    "javob": "A"
+  },
+  {
+    "savol": "Tibbiy texnika nimani o‘z ichiga oladi?",
+    "A": "Pribor va apparatlar",
+    "B": "Kiyim",
+    "C": "Oziq-ovqat",
+    "D": "Qog‘oz",
+    "javob": "A"
+  },
+  {
+    "savol": "Farmakognoziya qachon mustaqil fan bo‘ldi?",
+    "A": "XIX asrda",
+    "B": "XVII asrda",
+    "C": "XX asrda",
+    "D": "XVIII asrda",
+    "javob": "A"
+  },
+  {
+    "savol": "Dioskorid qaysi asarni yozgan?",
+    "A": "Materia Medica",
+    "B": "Tib qonunlari",
+    "C": "As-saydana",
+    "D": "Yajur-veda",
+    "javob": "A"
+  },
+  {
+    "savol": "Dioskorid nechta o‘simlikni tasvirlagan?",
+    "A": "304 ta",
+    "B": "100 ta",
+    "C": "500 ta",
+    "D": "700 ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Beruniy nechta dorivor o‘simlikni tasvirlagan?",
+    "A": "750 ta",
+    "B": "400 ta",
+    "C": "300 ta",
+    "D": "1000 ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Ibn Sino nechta dorivor modda haqida yozgan?",
+    "A": "800 dan ortiq",
+    "B": "200 ta",
+    "C": "100 ta",
+    "D": "50 ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Birinchi arab farmakopeyasi qachon yaratilgan?",
+    "A": "XIII asrda",
+    "B": "X asrda",
+    "C": "XV asrda",
+    "D": "XVII asrda",
+    "javob": "A"
+  },
+  {
+    "savol": "Toksikologik kimyo nimani o‘rganadi?",
+    "A": "Zaharli moddalarni aniqlash usullarini",
+    "B": "Dorilarni ishlab chiqarishni",
+    "C": "Biologiyani",
+    "D": "Farmakologiyani",
+    "javob": "A"
+  },
+  {
+    "savol": "“Toxikon” so‘zining ma’nosi nima?",
+    "A": "Zahar",
+    "B": "Dori",
+    "C": "O‘simlik",
+    "D": "Kimyo",
+    "javob": "A"
+  },
+  {
+    "savol": "Toksikodinamika nimani o‘rganadi?",
+    "A": "Zaharni organizmga ta’siri",
+    "B": "Zaharni chiqarilishi",
+    "C": "Zaharni parchalanishi",
+    "D": "Zaharni saqlanishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Toksikokinetika nimani o‘rganadi?",
+    "A": "Zaharni organizmda o‘zgarishi",
+    "B": "Zaharni tashqi muhitda ta’siri",
+    "C": "Zaharni ishlab chiqarilishi",
+    "D": "Zaharni reklama qilish",
+    "javob": "A"
+  },
+  {
+    "savol": "Toksikologiyada nechta asosiy yo‘nalish mavjud?",
+    "A": "3 ta",
+    "B": "2 ta",
+    "C": "4 ta",
+    "D": "5 ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Klinik toksikologiya nimani o‘rganadi?",
+    "A": "Zaharlanish natijasidagi kasalliklarni",
+    "B": "Profilaktikani",
+    "C": "Kimyoni",
+    "D": "Biologiyani",
+    "javob": "A"
+  },
+  {
+    "savol": "Eng ko‘p zaharlanish sababi nima?",
+    "A": "Tasodifiy iste’mol",
+    "B": "Kasb",
+    "C": "Iqlim",
+    "D": "Genetika",
+    "javob": "A"
+  },
+  {
+    "savol": "Zaharlanishlarning asosiy qismi necha foizni tashkil etadi?",
+    "A": "98%",
+    "B": "50%",
+    "C": "75%",
+    "D": "25%",
+    "javob": "A"
+  },
+  {
+    "savol": "Kasbiy zaharlanish qanday bo‘ladi?",
+    "A": "Surunkali",
+    "B": "O‘tkir",
+    "C": "Tasodifiy",
+    "D": "Qisqa muddatli",
+    "javob": "A"
+  },
+  {
+    "savol": "Klinik toksikologiyaning asosiy vazifasi nima?",
+    "A": "Diagnoz va davolash",
+    "B": "Nazorat",
+    "C": "Saqlash",
+    "D": "Sotish",
+    "javob": "A"
+  },
+  {
+    "savol": "Zaharli moddaning asosiy omillaridan biri nima?",
+    "A": "Dozasi",
+    "B": "Rangi",
+    "C": "Shakli",
+    "D": "Narxi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qo‘shimcha omillardan biri qaysi?",
+    "A": "Yosh",
+    "B": "Rang",
+    "C": "Hajm",
+    "D": "Narx",
+    "javob": "A"
+  },
+  {
+    "savol": "Kimyo-toksikologik tahlil ob’ektlari nima?",
+    "A": "Biologik materiallar",
+    "B": "Suv",
+    "C": "Havo",
+    "D": "Tuproq",
+    "javob": "A"
+  },
+  {
+    "savol": "Biologik ob’ektga nima kiradi?",
+    "A": "Qon va siydik",
+    "B": "Suv",
+    "C": "Oziq-ovqat",
+    "D": "Havo",
+    "javob": "A"
+  },
+  {
+    "savol": "Konsеrvant sifatida nima ishlatiladi?",
+    "A": "Etil spirti",
+    "B": "Suv",
+    "C": "Tuz",
+    "D": "Yog‘",
+    "javob": "A"
+  },
+  {
+    "savol": "Ob’ektlarni qayerga yuboriladi?",
+    "A": "Sud kimyo laboratoriyasiga",
+    "B": "Dorixonaga",
+    "C": "Bozorga",
+    "D": "Zavodga",
+    "javob": "A"
+  },
+  {
+    "savol": "Toksikologik tahlil usullari nechta guruhga bo‘linadi?",
+    "A": "2 ta",
+    "B": "3 ta",
+    "C": "4 ta",
+    "D": "5 ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Birinchi guruh nimani o‘z ichiga oladi?",
+    "A": "Ajratish va tozalash",
+    "B": "Aniqlash",
+    "C": "Saqlash",
+    "D": "Tashish",
+    "javob": "A"
+  },
+  {
+    "savol": "Ikkinchi guruh nimani o‘z ichiga oladi?",
+    "A": "Sifat va miqdor aniqlash",
+    "B": "Sotish",
+    "C": "Reklama",
+    "D": "Ishlab chiqarish",
+    "javob": "A"
+  },
+  {
+    "savol": "Toksikologik tahlilning asosiy xususiyati nima?",
+    "A": "Kam miqdordagi modda bilan ishlash",
+    "B": "Toza modda bilan ishlash",
+    "C": "Katta hajm",
+    "D": "Tezlik",
+    "javob": "A"
+  },
+  {
+    "savol": "Dorivor o‘simlik nima?",
+    "A": "Dorivor modda beruvchi o‘simlik",
+    "B": "Oziq-ovqat o‘simligi",
+    "C": "Dekorativ o‘simlik",
+    "D": "Zaharli o‘simlik",
+    "javob": "A"
+  },
+  {
+    "savol": "Dorivor o‘simliklardan nima ajratib olinadi?",
+    "A": "Biologik faol moddalar",
+    "B": "Vitaminlar",
+    "C": "Suv",
+    "D": "Oqsil",
+    "javob": "A"
+  },
+  {
+    "savol": "Dorivor o‘simlik manbai nima?",
+    "A": "Ruxsat etilgan xom-ashyo",
+    "B": "Har qanday o‘simlik",
+    "C": "Yovvoyi o‘simlik",
+    "D": "Daraxt",
+    "javob": "A"
+  },
+  {
+    "savol": "Farmakologik vosita nima?",
+    "A": "Klinik tekshiruvdagi modda",
+    "B": "Tayyor dori",
+    "C": "Ekstrakt",
+    "D": "Kukun",
+    "javob": "A"
+  },
+  {
+    "savol": "Dori moddasi nima?",
+    "A": "Shaklsiz modda",
+    "B": "Tayyor preparat",
+    "C": "Eritma",
+    "D": "Kapsula",
+    "javob": "A"
+  },
+  {
+    "savol": "Dori preparati nima?",
+    "A": "Ma’lum shakldagi dori",
+    "B": "Modda",
+    "C": "Kukun",
+    "D": "Eritma",
+    "javob": "A"
+  },
+  {
+    "savol": "Dori vositasi nima?",
+    "A": "Davolash uchun modda",
+    "B": "Kimyoviy modda",
+    "C": "O‘simlik",
+    "D": "Hayvon mahsuloti",
+    "javob": "A"
+  },
+  {
+    "savol": "Dori shakli nima?",
+    "A": "Qulay ko‘rinish",
+    "B": "Eritma",
+    "C": "Tabletka",
+    "D": "Kapsula",
+    "javob": "A"
+  },
+  {
+    "savol": "Yangi dori vositasi qancha vaqt qo‘llanadi?",
+    "A": "3 yil",
+    "B": "1 yil",
+    "C": "5 yil",
+    "D": "10 yil",
+    "javob": "A"
+  },
+  {
+    "savol": "Platsеbo nima?",
+    "A": "Indifferent modda",
+    "B": "Kuchli dori",
+    "C": "Antibiotik",
+    "D": "Gormon",
+    "javob": "A"
+  },
+  {
+    "savol": "Pinxoniy tajriba nima?",
+    "A": "Taqqoslash usuli",
+    "B": "Davolash",
+    "C": "Nazorat",
+    "D": "Ishlab chiqarish",
+    "javob": "A"
+  },
+  {
+    "savol": "Farmakodinamika nimani o‘rganadi?",
+    "A": "Ta’sir mexanizmi",
+    "B": "So‘rilish",
+    "C": "Chiqarilish",
+    "D": "Tarqalish",
+    "javob": "A"
+  },
+  {
+    "savol": "Dori vositalarini kim tasdiqlaydi?",
+    "A": "Maxsus davlat organi",
+    "B": "Dorixona",
+    "C": "Zavod",
+    "D": "Shifokor",
+    "javob": "A"
+  },
+  {
+    "savol": "1992 yilda qaysi tashkilot tuzilgan?",
+    "A": "Nazorat boshqarmasi",
+    "B": "Dorixona",
+    "C": "Zavod",
+    "D": "Institut",
+    "javob": "A"
+  },
+  {
+    "savol": "Dori vositasi qachon ro‘yxatga olinadi?",
+    "A": "Tekshiruvdan so‘ng",
+    "B": "Ishlab chiqarishda",
+    "C": "Sotilganda",
+    "D": "Reklama qilinganda",
+    "javob": "A"
+  },
+  {
+    "savol": "Yangi dori yaratishda kimlar ishtirok etadi?",
+    "A": "Turli mutaxassislar",
+    "B": "Shifokor",
+    "C": "Kimyogar",
+    "D": "Farmatsevt",
+    "javob": "A"
+  },
+  {
+    "savol": "Empirik usul nima?",
+    "A": "Tajriba asosida",
+    "B": "Nazariy asosda",
+    "C": "hisoblash",
+    "D": "yozish",
+    "javob": "A"
+  },
+  {
+    "savol": "Skrining nima?",
+    "A": "Saralash usuli",
+    "B": "Davolash usuli",
+    "C": "Diagnostika",
+    "D": "Saqlash",
+    "javob": "A"
+  },
+  {
+    "savol": "Yo‘naltirilgan izlanish nima?",
+    "A": "Maxsus guruhlash",
+    "B": "Tekshirish",
+    "C": "Saqlash",
+    "D": "Ishlab chiqarish",
+    "javob": "A"
+  },
+  {
+    "savol": "Tuzilish modifikatsiyasi nima?",
+    "A": "Tuzilishni o‘zgartirish",
+    "B": "Aralashtirish",
+    "C": "Maydalash",
+    "D": "Eritish",
+    "javob": "A"
+  },
+  {
+    "savol": "Modifikatsiya nimani o‘zgartiradi?",
+    "A": "Faollikni",
+    "B": "Rangni",
+    "C": "Hajmni",
+    "D": "Narxni",
+    "javob": "A"
+  },
+  {
+    "savol": "Antagonist moddalar nima?",
+    "A": "Zid ta’sirli moddalar",
+    "B": "Bir xil ta’sirli",
+    "C": "Kuchli",
+    "D": "Zaharli",
+    "javob": "A"
+  },
+  {
+    "savol": "Biotexnologiya nimani o‘rganadi?",
+    "A": "Tirik manbalardan dori",
+    "B": "Kimyo",
+    "C": "Fizika",
+    "D": "Matematika",
+    "javob": "A"
+  },
+  {
+    "savol": "Antibiotiklar qaysi usul bilan olinadi?",
+    "A": "Biotexnologiya",
+    "B": "Fizik usul",
+    "C": "Mexanik usul",
+    "D": "Issiqlik usuli",
+    "javob": "A"
+  },
+  {
+    "savol": "Gen muhandisligi nimani beradi?",
+    "A": "Yangi oqsillar",
+    "B": "Vitaminlar",
+    "C": "Suv",
+    "D": "Tuz",
+    "javob": "A"
+  },
+  {
+    "savol": "Insulin qanday olingan?",
+    "A": "Gen muhandisligi",
+    "B": "Qaynatish",
+    "C": "Filtrlash",
+    "D": "Quritish",
+    "javob": "A"
+  },
+  {
+    "savol": "Dori vositasini kim joriy qiladi?",
+    "A": "Nazorat boshqarmasi",
+    "B": "Dorixona",
+    "C": "Zavod",
+    "D": "Shifokor",
+    "javob": "A"
+  },
+  {
+    "savol": "Yangi dori yaratish qanday jarayon?",
+    "A": "Murakkab jarayon",
+    "B": "Oddiy jarayon",
+    "C": "Tez jarayon",
+    "D": "Oson jarayon",
+    "javob": "A"
+  },
+  {
+    "savol": "Farmatsevtik kimyo fanining asosiy vazifasi nima?",
+    "A": "Dori moddalarini o‘rganish va nazorat qilish",
+    "B": "Dorilarni sotish",
+    "C": "Dorilarni reklama qilish",
+    "D": "Dorilarni tashish",
+    "javob": "A"
+  },
+  {
+    "savol": "Farmatsevtik kimyo nimani o‘rganadi?",
+    "A": "Kimyoviy tuzilish va ta’sir bog‘liqligini",
+    "B": "Dorixona faoliyatini",
+    "C": "Marketingni",
+    "D": "Hisob-kitobni",
+    "javob": "A"
+  },
+  {
+    "savol": "Dori moddalarining sifatini nazorat qilish nimaga asoslanadi?",
+    "A": "Me’yoriy-texnik hujjatlarga",
+    "B": "Reklamaga",
+    "C": "Narxga",
+    "D": "Rangga",
+    "javob": "A"
+  },
+  {
+    "savol": "Fizik usul nimaga asoslanadi?",
+    "A": "Moddaning fizik xossalariga",
+    "B": "Kimyoviy reaksiyaga",
+    "C": "Biologik ta’sirga",
+    "D": "Mexanik jarayonga",
+    "javob": "A"
+  },
+  {
+    "savol": "Kimyoviy usulda tahlil qanday o‘tkaziladi?",
+    "A": "Reaktivlar yordamida",
+    "B": "Quritish orqali",
+    "C": "Sovitish orqali",
+    "D": "Filtrlash orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Fizik-kimyoviy usullarga qaysi usul kiradi?",
+    "A": "Xromatografiya",
+    "B": "Filtrlash",
+    "C": "Quritish",
+    "D": "Ezish",
+    "javob": "A"
+  },
+  {
+    "savol": "Biologik usulda tahlil nimaga asoslanadi?",
+    "A": "Biologik obyektlarga",
+    "B": "Metallarga",
+    "C": "Gazlarga",
+    "D": "Qattiq moddalarga",
+    "javob": "A"
+  },
+  {
+    "savol": "Gravimetrik usul nimani aniqlaydi?",
+    "A": "Modda massasini",
+    "B": "Rangini",
+    "C": "Hidini",
+    "D": "Ta’mini",
+    "javob": "A"
+  },
+  {
+    "savol": "Titrimetrik usul nimaga asoslanadi?",
+    "A": "Kimyoviy reaksiyaga",
+    "B": "Fizik xossalarga",
+    "C": "Mexanik ta’sirga",
+    "D": "Issiqlikka",
+    "javob": "A"
+  },
+  {
+    "savol": "Oksidlanish-qaytarilish usuliga qaysi misol kiradi?",
+    "A": "Yodometriya",
+    "B": "Filtrlash",
+    "C": "Quritish",
+    "D": "Ezish",
+    "javob": "A"
+  }
+]
