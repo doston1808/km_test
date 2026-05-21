@@ -73,7 +73,6 @@
             transition: background-color 0.4s, color 0.4s;
         }
 
-        /* Fon gradienti */
         body::before {
             content: '';
             position: fixed;
@@ -92,7 +91,6 @@
             0% {
                 transform: translate(0, 0) rotate(0deg);
             }
-
             100% {
                 transform: translate(-3%, -3%) rotate(3deg);
             }
@@ -143,144 +141,56 @@
         }
 
         @keyframes fadeInUp {
-            from {
-                opacity: 0;
-                transform: translateY(12px);
-            }
-
-            to {
-                opacity: 1;
-                transform: translateY(0);
-            }
+            from { opacity: 0; transform: translateY(12px); }
+            to { opacity: 1; transform: translateY(0); }
         }
-
         @keyframes fadeIn {
-            from {
-                opacity: 0;
-            }
-
-            to {
-                opacity: 1;
-            }
+            from { opacity: 0; }
+            to { opacity: 1; }
         }
-
         @keyframes scaleIn {
-            from {
-                opacity: 0;
-                transform: scale(0.95);
-            }
-
-            to {
-                opacity: 1;
-                transform: scale(1);
-            }
+            from { opacity: 0; transform: scale(0.95); }
+            to { opacity: 1; transform: scale(1); }
         }
-
         @keyframes slideInRight {
-            from {
-                opacity: 0;
-                transform: translateX(20px);
-            }
-
-            to {
-                opacity: 1;
-                transform: translateX(0);
-            }
+            from { opacity: 0; transform: translateX(20px); }
+            to { opacity: 1; transform: translateX(0); }
         }
-
         @keyframes slideInLeft {
-            from {
-                opacity: 0;
-                transform: translateX(-20px);
-            }
-
-            to {
-                opacity: 1;
-                transform: translateX(0);
-            }
+            from { opacity: 0; transform: translateX(-20px); }
+            to { opacity: 1; transform: translateX(0); }
         }
 
-        .animate-fade-up {
-            animation: fadeInUp 0.35s ease-out forwards;
-        }
+        .animate-fade-up { animation: fadeInUp 0.35s ease-out forwards; }
+        .animate-fade { animation: fadeIn 0.3s ease-out forwards; }
+        .animate-scale { animation: scaleIn 0.3s ease-out forwards; }
+        .animate-slide-right { animation: slideInRight 0.3s ease-out forwards; }
+        .animate-slide-left { animation: slideInLeft 0.3s ease-out forwards; }
 
-        .animate-fade {
-            animation: fadeIn 0.3s ease-out forwards;
-        }
-
-        .animate-scale {
-            animation: scaleIn 0.3s ease-out forwards;
-        }
-
-        .animate-slide-right {
-            animation: slideInRight 0.3s ease-out forwards;
-        }
-
-        .animate-slide-left {
-            animation: slideInLeft 0.3s ease-out forwards;
-        }
-
-        .stagger-1 {
-            animation-delay: 0.04s;
-            opacity: 0;
-        }
-
-        .stagger-2 {
-            animation-delay: 0.08s;
-            opacity: 0;
-        }
-
-        .stagger-3 {
-            animation-delay: 0.12s;
-            opacity: 0;
-        }
-
-        .stagger-4 {
-            animation-delay: 0.16s;
-            opacity: 0;
-        }
-
-        .stagger-5 {
-            animation-delay: 0.2s;
-            opacity: 0;
-        }
-
-        .stagger-6 {
-            animation-delay: 0.24s;
-            opacity: 0;
-        }
-
-        .stagger-7 {
-            animation-delay: 0.28s;
-            opacity: 0;
-        }
-
-        .stagger-8 {
-            animation-delay: 0.32s;
-            opacity: 0;
-        }
+        .stagger-1 { animation-delay: 0.04s; opacity: 0; }
+        .stagger-2 { animation-delay: 0.08s; opacity: 0; }
+        .stagger-3 { animation-delay: 0.12s; opacity: 0; }
+        .stagger-4 { animation-delay: 0.16s; opacity: 0; }
+        .stagger-5 { animation-delay: 0.2s; opacity: 0; }
+        .stagger-6 { animation-delay: 0.24s; opacity: 0; }
+        .stagger-7 { animation-delay: 0.28s; opacity: 0; }
+        .stagger-8 { animation-delay: 0.32s; opacity: 0; }
 
         .menu-card {
             background: var(--card-solid);
             border: 1.5px solid var(--border);
             transition: all 0.2s ease;
         }
-
         .menu-card:hover {
             border-color: var(--primary);
             box-shadow: 0 0 0 3px var(--primary-glow), var(--shadow);
             transform: translateY(-2px);
         }
-
         .menu-card:active {
             transform: scale(0.97);
         }
 
-        /* Navigator nuqtalar */
-        #nav-dots::-webkit-scrollbar {
-            display: none;
-        }
-
+        #nav-dots::-webkit-scrollbar { display: none; }
         #nav-dots {
             -ms-overflow-style: none;
             scrollbar-width: none;
@@ -303,7 +213,6 @@
             flex-shrink: 0;
             box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
         }
-
         .nav-dot.active {
             background: var(--primary);
             color: #ffffff;
@@ -311,39 +220,26 @@
             transform: scale(1.1);
             box-shadow: 0 4px 12px var(--primary-glow);
         }
-
         .nav-dot.answered-correct {
             background: var(--success);
             color: #fff;
             border-color: var(--success);
         }
-
         .nav-dot.answered-wrong {
             background: var(--error);
             color: #fff;
             border-color: var(--error);
         }
 
-        /* Timer */
         .timer-display {
             font-variant-numeric: tabular-nums;
             letter-spacing: 0.05em;
         }
+        .timer-warning { color: var(--error) !important; }
 
-        .timer-warning {
-            color: var(--error) !important;
-        }
+        .toast { animation: slideInRight 0.3s ease-out forwards; }
+        .toast-exit { animation: fadeIn 0.2s ease-out reverse forwards; }
 
-        /* Toast */
-        .toast {
-            animation: slideInRight 0.3s ease-out forwards;
-        }
-
-        .toast-exit {
-            animation: fadeIn 0.2s ease-out reverse forwards;
-        }
-
-        /* Confetti */
         .confetti-piece {
             position: fixed;
             width: 8px;
@@ -353,45 +249,23 @@
             pointer-events: none;
         }
 
-        /* Skeleton */
         .skeleton {
             background: linear-gradient(90deg, var(--border) 25%, transparent 50%, var(--border) 75%);
             background-size: 200% 100%;
             animation: shimmer 1.5s infinite;
             border-radius: 8px;
         }
-
         @keyframes shimmer {
-            0% {
-                background-position: 200% 0;
-            }
-
-            100% {
-                background-position: -200% 0;
-            }
+            0% { background-position: 200% 0; }
+            100% { background-position: -200% 0; }
         }
 
-        /* Stat kartasi */
-        .stat-card {
-            background: var(--card-solid);
-            border: 1px solid var(--border);
-        }
+        .stat-card { background: var(--card-solid); border: 1px solid var(--border); }
 
-        /* Scrollbar */
-        ::-webkit-scrollbar {
-            width: 4px;
-        }
+        ::-webkit-scrollbar { width: 4px; }
+        ::-webkit-scrollbar-track { background: transparent; }
+        ::-webkit-scrollbar-thumb { background: var(--text-muted); border-radius: 4px; }
 
-        ::-webkit-scrollbar-track {
-            background: transparent;
-        }
-
-        ::-webkit-scrollbar-thumb {
-            background: var(--text-muted);
-            border-radius: 4px;
-        }
-
-        /* Progress ring */
         .progress-ring-circle {
             transition: stroke-dashoffset 0.6s ease;
             transform: rotate(-90deg);
@@ -399,36 +273,20 @@
         }
 
         @media (max-width: 480px) {
-            .subject-btn-title {
-                font-size: 0.85rem;
-            }
-
-            .question-text {
-                font-size: 0.93rem !important;
-            }
-
-            .option-text {
-                font-size: 0.78rem !important;
-            }
-
-            .nav-btn {
-                font-size: 0.7rem !important;
-                padding: 0.75rem 0.25rem !important;
-            }
+            .subject-btn-title { font-size: 0.85rem; }
+            .question-text { font-size: 0.93rem !important; }
+            .option-text { font-size: 0.78rem !important; }
+            .nav-btn { font-size: 0.7rem !important; padding: 0.75rem 0.25rem !important; }
         }
 
-        mjx-container {
-            display: inline-block !important;
-            margin: 0 2px;
-        }
+        mjx-container { display: inline-block !important; margin: 0 2px; }
     </style>
 </head>
 
 <body class="min-h-screen">
 
     <!-- Toast Container -->
-    <div id="toast-container" class="fixed top-4 right-4 z-[100] flex flex-col gap-2 pointer-events-none"
-        style="max-width:340px;"></div>
+    <div id="toast-container" class="fixed top-4 right-4 z-[100] flex flex-col gap-2 pointer-events-none" style="max-width:340px;"></div>
 
     <div class="max-w-2xl mx-auto px-3 py-4 md:py-8 screen">
         <!-- Header -->
@@ -447,9 +305,7 @@
                 <div class="overflow-hidden">
                     <h1 class="font-extrabold text-sm md:text-base truncate" style="color:var(--text);">Testlar</h1>
                     <p id="sub-title" class="text-[8px] md:text-[10px] uppercase font-bold tracking-tighter"
-                        style="color:var(--text-muted);">
-                        Ta'lim darajasini tanlang
-                    </p>
+                        style="color:var(--text-muted);">Ta'lim darajasini tanlang</p>
                 </div>
             </div>
             <div class="flex items-center gap-2">
@@ -471,6 +327,12 @@
                     class="hidden px-2.5 py-1 rounded-lg font-bold text-[10px] md:text-sm whitespace-nowrap"
                     style="background:var(--primary-glow);color:var(--primary);">
                     <span id="current-badge">1</span>/<span id="total-badge">35</span>
+                </div>
+                <!-- Part badge (Variantlar) -->
+                <div id="part-badge"
+                    class="hidden px-2.5 py-1 rounded-lg font-bold text-[10px] md:text-xs whitespace-nowrap"
+                    style="background:var(--primary-glow);color:var(--primary);">
+                    <span id="part-text">1/4 qism</span>
                 </div>
             </div>
         </header>
@@ -529,7 +391,6 @@
                     </div>
                 </div>
                 <div id="semester-list" class="space-y-3"></div>
-
                 <button onclick="goBackToDirections()"
                     class="mt-5 w-full py-3.5 rounded-xl text-center transition-all active:scale-95 text-sm font-bold flex items-center justify-center gap-2"
                     style="background:var(--bg);color:var(--text-sec);border:1px solid var(--border);">
@@ -555,23 +416,44 @@
                     </div>
                 </div>
                 <div id="subject-list" class="space-y-3"></div>
-
                 <button onclick="goBackToSemesters()"
                     class="mt-5 w-full py-3.5 rounded-xl text-center transition-all active:scale-95 text-sm font-bold flex items-center justify-center gap-2"
                     style="background:var(--bg);color:var(--text-sec);border:1px solid var(--border);">
                     <i class="icon-arrow-left" style="font-size:16px;"></i>
                     Orqaga qaytish
                 </button>
-
-                <!-- Skeleton loading -->
                 <div id="loading-spinner" class="hidden py-6 space-y-3">
                     <div class="skeleton h-14 w-full"></div>
                     <div class="skeleton h-14 w-full"></div>
                     <div class="skeleton h-14 w-full"></div>
                     <div class="skeleton h-14 w-full"></div>
-                    <p class="text-center text-xs font-medium pt-2" style="color:var(--text-muted);">Ma'lumotlar
-                        yuklanmoqda...</p>
+                    <p class="text-center text-xs font-medium pt-2" style="color:var(--text-muted);">Ma'lumotlar yuklanmoqda...</p>
                 </div>
+            </div>
+        </div>
+
+        <!-- Mode Screen (Yangi: Variantlar/Imtixon tanlash) -->
+        <div id="mode-screen" class="hidden screen">
+            <div class="rounded-3xl p-5 md:p-8 relative overflow-hidden"
+                style="background:var(--card-solid);border:1px solid var(--border);box-shadow:var(--shadow-lg);">
+                <div class="absolute top-0 left-0 w-full h-1" style="background:var(--primary);"></div>
+                <div class="flex items-center gap-3 mb-6">
+                    <div class="w-10 h-10 rounded-xl flex items-center justify-center"
+                        style="background:var(--primary-glow);">
+                        <i class="icon-grid" style="font-size:20px;color:var(--primary);"></i>
+                    </div>
+                    <div>
+                        <h2 class="text-lg md:text-xl font-extrabold" style="color:var(--text);">Test rejimi</h2>
+                        <p class="text-xs" style="color:var(--text-muted);">Variantlar yoki Imtixon shaklini tanlang</p>
+                    </div>
+                </div>
+                <div id="mode-buttons" class="space-y-3"></div>
+                <button onclick="goBackToSubjects()"
+                    class="mt-5 w-full py-3.5 rounded-xl text-center transition-all active:scale-95 text-sm font-bold flex items-center justify-center gap-2"
+                    style="background:var(--bg);color:var(--text-sec);border:1px solid var(--border);">
+                    <i class="icon-arrow-left" style="font-size:16px;"></i>
+                    Orqaga qaytish
+                </button>
             </div>
         </div>
 
@@ -615,8 +497,6 @@
                 style="background:var(--card-solid);border:1px solid var(--border);box-shadow:var(--shadow-lg);">
                 <div class="absolute top-0 left-0 w-full h-1.5"
                     style="background:linear-gradient(90deg,var(--primary),var(--accent));"></div>
-
-                <!-- Progress Ring -->
                 <div class="mx-auto mb-5 relative" style="width:140px;height:140px;">
                     <svg width="140" height="140" viewBox="0 0 140 140">
                         <circle cx="70" cy="70" r="58" fill="none" stroke="var(--border)" stroke-width="8" />
@@ -628,12 +508,9 @@
                         <span id="score-percent" class="text-3xl font-black" style="color:var(--primary);">0%</span>
                     </div>
                 </div>
-
                 <div id="result-emoji" class="text-4xl mb-2">🏆</div>
                 <h2 class="text-xl md:text-2xl font-black mb-1" style="color:var(--text);">Natija</h2>
                 <p id="result-summary" class="text-sm mb-6 font-medium" style="color:var(--text-sec);"></p>
-
-                <!-- Statistika kartalari -->
                 <div class="grid grid-cols-3 gap-2 mb-6">
                     <div class="stat-card rounded-xl p-3 text-center">
                         <div class="text-lg font-black" id="stat-correct" style="color:var(--success);">0</div>
@@ -648,14 +525,10 @@
                         <div class="text-[10px] font-bold" style="color:var(--text-muted);">Vaqt</div>
                     </div>
                 </div>
-
-                <!-- Eng yaxshi natija -->
                 <div id="best-score-box" class="hidden mb-5 py-2.5 px-4 rounded-xl text-xs font-bold"
                     style="background:var(--primary-glow);color:var(--primary);">
-                    <i class="icon-trophy" style="font-size:13px;"></i> Eng yaxshi natija: <span
-                        id="best-score-val">0%</span>
+                    <i class="icon-trophy" style="font-size:13px;"></i> Eng yaxshi natija: <span id="best-score-val">0%</span>
                 </div>
-
                 <div class="grid grid-cols-2 gap-2.5">
                     <button onclick="restartQuiz()"
                         class="py-3 rounded-xl font-bold text-sm text-white transition-all active:scale-95"
@@ -684,7 +557,6 @@
 
     <script>
         // ========== YORDAMCHI: APOSTROFLARNI TO'G'RILASH ==========
-        // Har xil qing'ir-qiyshiq tutuq belgilarini faqatgina bitta standart variantga (') o'tkazadi
         function fixUzbekChars(str) {
             if (!str) return "";
             return String(str).replace(/[`‘’ʻ]/g, "'");
@@ -720,10 +592,8 @@
                 "MM-IQ": { "1-semestr": ["Maxsus fanlar o'qitish metodikasi", "Ekonometrika", "Ilmiy tadqiqot metodologiyasi", "Mikroiqtisodiyot"], "2-semestr": [] },
                 "MM-UZB": { "1-semestr": ["Ilmiy tadqiqot metodologiyasi", "Mumtoz tarixiy poetika", "Oliy filologik ta'limning nazariy asoslari"], "2-semestr": [] }
             }
-           
         };
 
-        // Fan uchun ikonkalar
         const subjectIcons = {
             "matematika": "icon-calculator", "fizika": "icon-atom", "kimyo": "icon-flask-conical",
             "biologiya": "icon-leaf", "tarix": "icon-landmark", "ingliz": "icon-languages",
@@ -749,21 +619,24 @@
         let currentDirection = '';
         let currentSemester = '';
         let currentSubject = '';
+        let pendingSubject = ''; // Mode tanlash uchun saqlanadi
 
-        // Taymër va render vaqtlari
+        // Yangi: test rejimi va qismlar
+        let quizMode = 'exam'; // 'exam' yoki 'variant'
+        let partStartIndices = []; // Har bir qismning boshlanish indeksi (global flat massivda)
+        let totalParts = 1;       // Jami qismlar soni
+
+        // Taymer
         let timerInterval = null;
-        const TIME_LIMIT = 35 * 60; // 35 daqiqa (2100 soniya)
+        const TIME_LIMIT = 35 * 60;
         let remainingSeconds = TIME_LIMIT;
         let autoAdvanceTimeout = null;
 
-        // GHOST CLICK (Arvoh bosish) lar oldini olish uchun qat'iy Lock (qulf)
         let actionLock = false;
 
-        // Swipe
         let touchStartX = 0;
         let touchEndX = 0;
 
-        // Dark mode
         let isDark = localStorage.getItem('theme') === 'dark';
 
         // ========== SAHIFANI YUKLASH ==========
@@ -775,7 +648,6 @@
             setupSwipeGesture();
         });
 
-        // ========== DARK MODE ==========
         function toggleTheme() {
             isDark = !isDark;
             document.documentElement.classList.toggle('dark', isDark);
@@ -789,7 +661,6 @@
             icon.style.fontSize = '16px';
         }
 
-        // ========== TOAST ==========
         function showToast(message, type = 'info') {
             const container = document.getElementById('toast-container');
             const toast = document.createElement('div');
@@ -803,14 +674,12 @@
             toast.style.cssText = `background:var(--card-solid);border:1px solid var(--border);`;
             toast.innerHTML = `<i class="${c.icon}" style="font-size:18px;color:${c.color};"></i><span style="color:var(--text);">${message}</span>`;
             container.appendChild(toast);
-
             setTimeout(() => {
                 toast.classList.add('toast-exit');
                 setTimeout(() => toast.remove(), 200);
             }, 3000);
         }
 
-        // ========== CONFETTI ==========
         function launchConfetti() {
             const colors = ['#2563eb', '#059669', '#f59e0b', '#dc2626', '#8b5cf6', '#ec4899'];
             for (let i = 0; i < 60; i++) {
@@ -824,32 +693,27 @@
                 piece.style.borderRadius = Math.random() > 0.5 ? '50%' : '2px';
                 piece.style.transform = `rotate(${Math.random() * 360}deg)`;
                 document.body.appendChild(piece);
-
                 const duration = Math.random() * 2000 + 1500;
                 const xDrift = (Math.random() - 0.5) * 200;
                 piece.animate([
                     { transform: `translate(0,0) rotate(0deg)`, opacity: 1 },
                     { transform: `translate(${xDrift}px, ${window.innerHeight + 50}px) rotate(${Math.random() * 720}deg)`, opacity: 0 }
                 ], { duration, easing: 'cubic-bezier(0.25,0.46,0.45,0.94)' });
-
                 setTimeout(() => piece.remove(), duration);
             }
         }
 
-        // ========== MATHJAX ==========
         function typesetMath() {
             if (window.MathJax && window.MathJax.typesetPromise) {
-                window.MathJax.typesetPromise().catch(() => { });
+                window.MathJax.typesetPromise().catch(() => {});
             }
         }
 
-        // ========== MODAL ==========
         function showModal(title, desc, buttons) {
             document.getElementById('modal-title').innerText = title;
             document.getElementById('modal-desc').innerHTML = desc;
             const btnContainer = document.getElementById('modal-buttons');
             btnContainer.innerHTML = '';
-
             buttons.forEach(btn => {
                 const button = document.createElement('button');
                 button.className = 'flex-1 py-3 px-2 rounded-xl font-bold text-xs md:text-sm transition-all active:scale-95';
@@ -858,7 +722,6 @@
                 button.onclick = () => { closeModal(); if (btn.action) btn.action(); };
                 btnContainer.appendChild(button);
             });
-
             document.getElementById('custom-modal').classList.remove('hidden');
         }
 
@@ -866,9 +729,8 @@
             document.getElementById('custom-modal').classList.add('hidden');
         }
 
-        // ========== NAVIGATSIYA YORDAMCHILARI ==========
         function hideAllScreens() {
-            ['degree-screen', 'directions-screen', 'semesters-screen', 'subjects-screen', 'quiz-screen', 'result-screen'].forEach(id => {
+            ['degree-screen','directions-screen','semesters-screen','subjects-screen','mode-screen','quiz-screen','result-screen'].forEach(id => {
                 document.getElementById(id).classList.add('hidden');
             });
         }
@@ -881,12 +743,13 @@
             el.classList.add(animClass, 'screen');
         }
 
-        function updateHeader(showBack, backAction, subtitle, showBadge = false, showTimer = false) {
+        function updateHeader(showBack, backAction, subtitle, showBadge = false, showTimer = false, showPartBadge = false) {
             const backBtn = document.getElementById('back-home-btn');
             const logo = document.getElementById('header-logo');
             const sub = document.getElementById('sub-title');
             const badge = document.getElementById('quiz-badge');
             const timerBox = document.getElementById('timer-box');
+            const partBadge = document.getElementById('part-badge');
 
             backBtn.classList.toggle('hidden', !showBack);
             backBtn.onclick = backAction || goHome;
@@ -894,14 +757,13 @@
             sub.innerText = subtitle || '';
             badge.classList.toggle('hidden', !showBadge);
             timerBox.classList.toggle('hidden', !showTimer);
-            if (showTimer) timerBox.style.display = 'flex';
-            else timerBox.style.display = '';
+            if (showTimer) timerBox.style.display = 'flex'; else timerBox.style.display = '';
+            partBadge.classList.toggle('hidden', !showPartBadge);
         }
 
-        // ========== MENU KARTA YARATISH ==========
         function createMenuCard(title, subtitle, iconClass, onClick, index) {
             const btn = document.createElement('button');
-            btn.className = `menu-card w-full p-4 rounded-2xl text-left transition-all active:scale-95 flex items-center justify-between group animate-fade-up stagger-${Math.min(index + 1, 8)}`;
+            btn.className = `menu-card w-full p-4 rounded-2xl text-left transition-all active:scale-95 flex items-center justify-between group animate-fade-up stagger-${Math.min(index+1,8)}`;
             btn.innerHTML = `
                 <div class="flex items-center gap-3 pr-3 overflow-hidden">
                     <div class="w-10 h-10 rounded-xl flex items-center justify-center flex-shrink-0" style="background:var(--primary-glow);">
@@ -929,33 +791,25 @@
                 { name: "Magistratura", desc: "Magistratura mutaxassisliklari", icon: "icon-award" }
             ];
             degrees.forEach((d, i) => {
-                // UI da toza ko'rsatish
                 container.appendChild(createMenuCard(fixUzbekChars(d.name), d.desc, d.icon, () => selectDegree(d.name), i));
             });
         }
 
-        // ========== YO'NALISHLAR EKRANI ==========
         function selectDegree(degree) {
             currentDegree = degree;
             showScreen('directions-screen');
             updateHeader(true, goBackToDegree, fixUzbekChars(degree).toUpperCase());
-
             const dirList = document.getElementById('direction-list');
             dirList.innerHTML = '';
-
             const directions = curriculumData[degree] ? Object.keys(curriculumData[degree]) : [];
             if (directions.length === 0) {
                 dirList.innerHTML = `<p class="text-center text-sm py-4" style="color:var(--text-muted);">Yo'nalishlar topilmadi</p>`;
                 return;
             }
-
             directions.forEach((dir, i) => {
-                // Har bir yo'nalish ichidagi barcha semestrlardagi jami fanlarni hisoblash
                 let subCount = 0;
                 if (curriculumData[degree][dir]) {
-                    Object.values(curriculumData[degree][dir]).forEach(sem => {
-                        subCount += sem.length;
-                    });
+                    Object.values(curriculumData[degree][dir]).forEach(sem => { subCount += sem.length; });
                 }
                 dirList.appendChild(createMenuCard(fixUzbekChars(dir), `Yo'nalishga kirish | ${subCount} ta fandan test mavjud`, 'icon-map-pin', () => selectDirection(dir), i));
             });
@@ -968,22 +822,17 @@
             currentDirection = '';
         }
 
-        // ========== SEMESTRLAR EKRANI ==========
         function selectDirection(dir) {
             currentDirection = dir;
             showScreen('semesters-screen');
             updateHeader(true, goBackToDirections, fixUzbekChars(dir).toUpperCase());
-
             const semList = document.getElementById('semester-list');
             semList.innerHTML = '';
-
             const semesters = curriculumData[currentDegree] && curriculumData[currentDegree][dir] ? Object.keys(curriculumData[currentDegree][dir]) : [];
-
             if (semesters.length === 0) {
                 semList.innerHTML = `<p class="text-center text-sm py-4" style="color:var(--text-muted);">Semestrlar topilmadi</p>`;
                 return;
             }
-
             semesters.forEach((sem, i) => {
                 const subCount = (curriculumData[currentDegree][dir][sem] || []).length;
                 semList.appendChild(createMenuCard(fixUzbekChars(sem).toUpperCase(), `${subCount} ta fandan test mavjud`, 'icon-calendar', () => selectSemester(sem), i));
@@ -997,24 +846,19 @@
             currentSemester = '';
         }
 
-        // ========== FANLAR EKRANI ==========
         function selectSemester(sem) {
             currentSemester = sem;
             showScreen('subjects-screen');
             updateHeader(true, goBackToSemesters, `${fixUzbekChars(currentDirection)} | ${fixUzbekChars(sem)}`.toUpperCase());
-
             const subjectsList = document.getElementById('subject-list');
             subjectsList.innerHTML = '';
-
             const subjects = (curriculumData[currentDegree] && curriculumData[currentDegree][currentDirection] && curriculumData[currentDegree][currentDirection][sem]) || [];
-
             if (subjects.length === 0) {
                 subjectsList.innerHTML = `<p class="text-center text-sm py-4" style="color:var(--text-muted);">Ushbu semestr uchun fanlar hozircha kiritilmagan.</p>`;
             } else {
                 subjects.forEach((subj, i) => {
                     const icon = getSubjectIcon(subj);
-                    // UI ga chiroyli (' bilan) chiqaramiz, lekin ishlash logikasiga aslini yuboramiz
-                    subjectsList.appendChild(createMenuCard(fixUzbekChars(subj), 'Testni boshlash', icon, () => startQuiz(subj), i));
+                    subjectsList.appendChild(createMenuCard(fixUzbekChars(subj), 'Testni boshlash', icon, () => showModeScreen(subj), i));
                 });
             }
         }
@@ -1024,6 +868,24 @@
             updateHeader(true, goBackToDirections, fixUzbekChars(currentDirection).toUpperCase());
             currentSemester = '';
             currentSubject = '';
+        }
+
+        // ========== MODE EKRANI (Yangi) ==========
+        function showModeScreen(subjectName) {
+            pendingSubject = subjectName;
+            showScreen('mode-screen');
+            updateHeader(true, goBackToSubjects, fixUzbekChars(subjectName).toUpperCase());
+            const modeContainer = document.getElementById('mode-buttons');
+            modeContainer.innerHTML = '';
+            const modes = [
+                { name: 'Variantlar', desc: 'Test 4 ta qismga bo‘lingan', icon: 'icon-grid' },
+                { name: 'Imtixon', desc: 'Barcha savollar bir ekranda', icon: 'icon-edit-3' }
+            ];
+            modes.forEach((m, i) => {
+                modeContainer.appendChild(createMenuCard(m.name, m.desc, m.icon, () => {
+                    startQuiz(pendingSubject, m.name === 'Variantlar' ? 'variant' : 'exam');
+                }, i));
+            });
         }
 
         // ========== TESTDAN CHIQISH ==========
@@ -1050,17 +912,18 @@
             currentSubject = '';
             quizQuestions = [];
             userAnswers = [];
+            quizMode = 'exam';
+            partStartIndices = [];
+            totalParts = 1;
         }
 
-        // ========== TAYMÈR ==========
+        // ========== TAYMER ==========
         function startTimer() {
             remainingSeconds = TIME_LIMIT;
             updateTimerDisplay();
             timerInterval = setInterval(() => {
                 remainingSeconds--;
                 updateTimerDisplay();
-
-                // Vaqt tugaganda avtomatik yakunlash
                 if (remainingSeconds <= 0) {
                     stopTimer();
                     showModal(
@@ -1072,39 +935,27 @@
             }, 1000);
         }
 
-        function stopTimer() {
-            if (timerInterval) { clearInterval(timerInterval); timerInterval = null; }
-        }
+        function stopTimer() { if (timerInterval) { clearInterval(timerInterval); timerInterval = null; } }
 
         function updateTimerDisplay() {
             const m = Math.floor(remainingSeconds / 60);
             const s = remainingSeconds % 60;
-            const display = `${String(m).padStart(2, '0')}:${String(s).padStart(2, '0')}`;
-            const el = document.getElementById('timer-value');
-            el.innerText = display;
-
-            // 2 daqiqadan kam qolganda qizil ogohlantirish
+            document.getElementById('timer-value').innerText = `${String(m).padStart(2,'0')}:${String(s).padStart(2,'0')}`;
             const box = document.getElementById('timer-box');
-            if (remainingSeconds <= 120 && remainingSeconds > 0) {
-                box.classList.add('timer-warning');
-            } else {
-                box.classList.remove('timer-warning');
-            }
+            if (remainingSeconds <= 120 && remainingSeconds > 0) box.classList.add('timer-warning');
+            else box.classList.remove('timer-warning');
         }
 
         function formatTime(seconds) {
             const m = Math.floor(seconds / 60);
             const s = seconds % 60;
-            return `${m}:${String(s).padStart(2, '0')}`;
+            return `${m}:${String(s).padStart(2,'0')}`;
         }
 
-        // ========== JSON FAYLNI QIDIRISH (Apostroflardan qat'iy nazar) ==========
+        // ========== JSON FAYLNI QIDIRISH ==========
         async function fetchSubjectData(dir, sem, subj) {
             const encodedDir = dir.split(' ').join('%20');
             const encodedSem = sem.split(' ').join('%20');
-            
-            // Kompyuteringizda yoki serveringizda qanday apostrof ishlatilgan bo'lsa ham
-            // tizim ularni barini bitta-bitta sinab ko'radi
             const vars = [
                 subj,
                 subj.replace(/['`‘’ʻ]/g, "'"),
@@ -1113,50 +964,36 @@
                 subj.replace(/['`‘’ʻ]/g, "‘"),
                 subj.replace(/['`‘’ʻ]/g, "ʻ")
             ];
-            
-            // Takroriylarni yo'q qilish
             const uniqueVars = [...new Set(vars)];
-            
             for (let variant of uniqueVars) {
                 const encodedSubj = variant.split(' ').join('%20');
-                
-                // 1-chi papkasi bo'yicha "1-semestr" ichidan izlaydi
-                // Agar topolmasa 2-chi zaxira orqali eski tizimdagi kabi umumiy yo'nalish papkasidan izlaydi.
                 const urlsToTry = [
                     `./${encodedDir}/${encodedSem}/${encodedSubj}.json`,
                     `./${encodedDir}/${encodedSubj}.json`
                 ];
-
                 for (let url of urlsToTry) {
                     try {
                         const response = await fetch(url);
-                        if (response.ok) {
-                            return await response.json();
-                        }
-                    } catch (e) {
-                        // Xatolikni inobatga olmaymiz, keyingi ehtimolni sinaymiz
-                    }
+                        if (response.ok) return await response.json();
+                    } catch (e) {}
                 }
             }
             throw new Error('Fayl topilmadi');
         }
 
         // ========== TEST BOSHLASH ==========
-        async function startQuiz(subjectName) {
+        async function startQuiz(subjectName, mode = 'exam') {
             currentSubject = subjectName;
+            quizMode = mode;
 
             const subjectList = document.getElementById('subject-list');
             const spinner = document.getElementById('loading-spinner');
-
             subjectList.classList.add('hidden');
             spinner.classList.remove('hidden');
 
             try {
-                // Yangilangan, xatolikda to'xtamaydigan qidiruv texnologiyasi
                 let data = await fetchSubjectData(currentDirection, currentSemester, subjectName);
-                
                 let rawQuestions = extractQuestions(data);
-
                 if (rawQuestions.length === 0) throw new Error("Savollar topilmadi");
 
                 quizQuestions = [...rawQuestions]
@@ -1167,11 +1004,31 @@
 
                 if (quizQuestions.length === 0) throw new Error("Savollar o'qilmadi");
 
+                // ---- Qismlarga bo'lish (Variant rejimi uchun) ----
+                if (quizMode === 'variant') {
+                    const totalQ = quizQuestions.length;
+                    const partCount = Math.min(4, totalQ);
+                    const partSize = Math.ceil(totalQ / partCount);
+                    let parts = [];
+                    for (let i = 0; i < partCount; i++) {
+                        parts.push(quizQuestions.slice(i * partSize, Math.min((i + 1) * partSize, totalQ)));
+                    }
+                    quizQuestions = parts.flat();
+                    partStartIndices = [0];
+                    for (let i = 0; i < parts.length - 1; i++) {
+                        partStartIndices.push(partStartIndices[i] + parts[i].length);
+                    }
+                    totalParts = parts.length;
+                } else {
+                    partStartIndices = [0];
+                    totalParts = 1;
+                }
+
                 currentIndex = 0;
                 userAnswers = Array(quizQuestions.length).fill(null);
 
                 showScreen('quiz-screen', 'animate-fade');
-                updateHeader(true, goBackToSubjects, fixUzbekChars(subjectName).toUpperCase(), true, true);
+                updateHeader(true, goBackToSubjects, fixUzbekChars(subjectName).toUpperCase(), true, true, quizMode === 'variant');
                 document.getElementById('current-badge').innerText = '1';
                 document.getElementById('total-badge').innerText = quizQuestions.length;
 
@@ -1197,23 +1054,19 @@
             if (Array.isArray(data)) return data;
             if (data.test_questions && Array.isArray(data.test_questions)) return data.test_questions;
             if (data.questions && Array.isArray(data.questions)) return data.questions;
-            if (data.test_questions && data.test_questions.questions && Array.isArray(data.test_questions.questions))
-                return data.test_questions.questions;
+            if (data.test_questions && data.test_questions.questions && Array.isArray(data.test_questions.questions)) return data.test_questions.questions;
             for (let key in data) {
-                if (Array.isArray(data[key]) && data[key].length > 0 && (data[key][0].question || data[key][0].savol))
-                    return data[key];
+                if (Array.isArray(data[key]) && data[key].length > 0 && (data[key][0].question || data[key][0].savol)) return data[key];
             }
             return [];
         }
 
         function normalizeQuestion(item) {
             let questionText = "", correctText = "", options = [];
-
-            // Savol va javoblarni o'qish
             if (item.savol && item.A) {
                 questionText = String(item.savol).trim();
                 let j = String(item.javob || "").trim();
-                if (['A', 'B', 'C', 'D'].includes(j.toUpperCase())) {
+                if (['A','B','C','D'].includes(j.toUpperCase())) {
                     correctText = String(item[j.toUpperCase()] || "").trim();
                 } else {
                     correctText = j;
@@ -1230,26 +1083,34 @@
             } else {
                 return null;
             }
-
             if (!questionText || options.length === 0) return null;
 
-            // XATOLIKNI TO'G'RILASH: JSON ichidagi barcha savol, javob va variantlardagi
-            // tutuq belgilarini faqat standart (') ga o'tkazib yuboramiz. 
             questionText = fixUzbekChars(questionText);
             correctText = fixUzbekChars(correctText);
             options = options.map(o => fixUzbekChars(o));
 
-            // Matnni topishni kafolatlash
             if (!options.includes(correctText)) {
                 let matched = options.find(o => o.toLowerCase() === correctText.toLowerCase());
                 if (matched) correctText = matched;
             }
-
             const shuffled = [...options].sort(() => Math.random() - 0.5);
             return { q: questionText, correct: correctText, options: shuffled };
         }
 
-        // ========== NAVIGATOR NUQTALAR ==========
+        function getCurrentPartIndex() {
+            if (totalParts <= 1) return 0;
+            for (let i = partStartIndices.length - 1; i >= 0; i--) {
+                if (currentIndex >= partStartIndices[i]) return i;
+            }
+            return 0;
+        }
+
+        function updatePartBadge() {
+            if (quizMode !== 'variant') return;
+            const idx = getCurrentPartIndex();
+            document.getElementById('part-text').innerText = `${idx+1}/${totalParts} qism`;
+        }
+
         function renderNavDots() {
             const container = document.getElementById('nav-dots');
             container.innerHTML = '';
@@ -1257,7 +1118,7 @@
                 const dot = document.createElement('div');
                 dot.className = 'nav-dot snap-center';
                 dot.innerText = i + 1;
-                dot.title = `Savol ${i + 1}`;
+                dot.title = `Savol ${i+1}`;
                 dot.onclick = () => jumpToQuestion(i);
                 container.appendChild(dot);
             });
@@ -1273,7 +1134,6 @@
                     dot.classList.add(userAnswers[i] === quizQuestions[i].correct ? 'answered-correct' : 'answered-wrong');
                 }
             });
-
             const activeDot = document.querySelector('.nav-dot.active');
             if (activeDot) activeDot.scrollIntoView({ behavior: 'smooth', block: 'nearest', inline: 'center' });
         }
@@ -1287,9 +1147,7 @@
             showQuestion(dir);
         }
 
-        // ========== SAVOL KO'RSATISH ==========
         function showQuestion(animClass = 'animate-fade') {
-            // Yangi savol render bo'lganda ghost-click oldini olish uchun 400ms qulf
             actionLock = true;
             setTimeout(() => { actionLock = false; }, 400);
 
@@ -1299,6 +1157,7 @@
             document.getElementById('current-badge').innerText = currentIndex + 1;
             document.getElementById('progress-bar').style.width = ((currentIndex / quizQuestions.length) * 100) + '%';
             document.getElementById('question-text').innerHTML = data.q;
+            updatePartBadge();
 
             const qCard = document.getElementById('question-card');
             qCard.className = qCard.className.replace(/animate-\w+/g, '');
@@ -1306,17 +1165,15 @@
 
             const optionsBox = document.getElementById('options-container');
             const feedback = document.getElementById('feedback');
-
             optionsBox.innerHTML = '';
             feedback.classList.add('hidden');
 
-            const letters = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H'];
+            const letters = ['A','B','C','D','E','F','G','H'];
 
             data.options.forEach((opt, i) => {
                 const btn = document.createElement('button');
-                btn.className = `option-btn w-full text-left p-3.5 rounded-xl font-semibold text-sm flex items-center gap-3 animate-fade-up stagger-${Math.min(i + 1, 8)}`;
+                btn.className = `option-btn w-full text-left p-3.5 rounded-xl font-semibold text-sm flex items-center gap-3 animate-fade-up stagger-${Math.min(i+1,8)}`;
                 btn.dataset.value = opt;
-
                 btn.innerHTML = `
                     <span class="w-8 h-8 rounded-lg flex items-center justify-center font-bold flex-shrink-0 text-xs"
                         style="background:var(--bg);color:var(--text-muted);border:1px solid var(--border);">${letters[i]}</span>
@@ -1324,15 +1181,11 @@
                 `;
 
                 if (userAnswer !== null) {
-                    // Agar bu savol oldin ishlangan bo'lsa
                     btn.disabled = false;
                     btn.style.cursor = 'pointer';
                     btn.style.opacity = opt === userAnswer || opt === data.correct ? '1' : '0.5';
-
                     if (opt === data.correct) btn.classList.add('correct');
                     if (opt === userAnswer && opt !== data.correct) btn.classList.add('wrong');
-
-                    // Oldin ishlangan test variantlaridan birortasini bossa keyingisiga o'tib ketadi
                     btn.onclick = (e) => {
                         if (e) e.preventDefault();
                         if (actionLock) return;
@@ -1346,7 +1199,6 @@
                         }
                     };
                 } else {
-                    // Yangi savol uchun
                     btn.onclick = (e) => {
                         if (e) e.preventDefault();
                         if (actionLock) return;
@@ -1378,27 +1230,19 @@
             feedback.classList.add('animate-fade');
         }
 
-        // ========== JAVOB TEKSHIRISH ==========
         function checkAnswer(btn, selected) {
-            // Ghost click va takroriy bosishlarni qulflash
             if (actionLock || userAnswers[currentIndex] !== null) return;
-
             actionLock = true;
-            // Javob berilgach, "keyingisiga tez o'tkazish" funksiyasi uchun qulfni tez ochish
             setTimeout(() => { actionLock = false; }, 350);
-
             clearTimeout(autoAdvanceTimeout);
             const data = quizQuestions[currentIndex];
             const isCorrect = selected === data.correct;
             userAnswers[currentIndex] = selected;
 
-            // Barcha tugmalarni darhol o'chiramizki, yana bosib bo'lmasin
             const allBtns = document.querySelectorAll('.option-btn');
             allBtns.forEach(b => {
                 b.disabled = true;
                 b.style.cursor = 'default';
-
-                // Variant qayta bosilsa, keyingi savolga o'tkazish
                 b.onclick = (e) => {
                     if (e) e.preventDefault();
                     if (actionLock) return;
@@ -1411,7 +1255,6 @@
                         checkAndFinishQuiz();
                     }
                 };
-
                 const val = b.dataset.value;
                 if (val === data.correct) {
                     b.classList.add('correct');
@@ -1426,11 +1269,9 @@
 
             showFeedback(isCorrect ? "To'g'ri! 🌟" : "Noto'g'ri ❌", isCorrect ? 'correct' : 'error');
             updateNavDots();
-
             const answeredCount = userAnswers.filter(a => a !== null).length;
             document.getElementById('progress-bar').style.width = ((answeredCount / quizQuestions.length) * 100) + '%';
 
-            // AVTOMATIK KEYINGI SAVOLGA O'TISH (1.2 SONIYA = 1200 ms)
             autoAdvanceTimeout = setTimeout(() => {
                 actionLock = true;
                 if (currentIndex < quizQuestions.length - 1) {
@@ -1442,7 +1283,6 @@
             }, 1200);
         }
 
-        // ========== NAVIGATSIYA ==========
         function nextQuestion() {
             if (actionLock) return;
             actionLock = true;
@@ -1469,15 +1309,12 @@
             clearTimeout(autoAdvanceTimeout);
             const answeredCount = userAnswers.filter(a => a !== null).length;
             const unanswered = quizQuestions.length - answeredCount;
-
             if (unanswered > 0) {
-                // Javobsiz savollar ro'yxatini tuzish
                 const unansweredNums = [];
-                userAnswers.forEach((a, i) => { if (a === null) unansweredNums.push(i + 1); });
+                userAnswers.forEach((a, i) => { if (a === null) unansweredNums.push(i+1); });
                 const displayNums = unansweredNums.length > 5
-                    ? unansweredNums.slice(0, 5).join(', ') + '...'
+                    ? unansweredNums.slice(0,5).join(', ') + '...'
                     : unansweredNums.join(', ');
-
                 showModal(
                     "Testni yakunlash",
                     `${quizQuestions.length} ta savoldan <b>${unanswered}</b> tasiga javob berilmagan.<br><span style="color:var(--text-muted);font-size:11px;">Savollar: ${displayNums}</span><br>Haqiqatan ham yakunlamoqchimisiz?`,
@@ -1491,7 +1328,6 @@
             }
         }
 
-        // ========== NATIJA ==========
         function finishQuiz() {
             clearTimeout(autoAdvanceTimeout);
             stopTimer();
@@ -1503,13 +1339,10 @@
             const unanswered = userAnswers.filter(a => a === null).length;
             const scorePercent = quizQuestions.length ? Math.round((correctTotal / quizQuestions.length) * 100) : 0;
 
-            // Progress ring animatsiya
             const ring = document.getElementById('result-ring');
-            const circumference = 2 * Math.PI * 58; // 364.42
+            const circumference = 2 * Math.PI * 58;
             ring.style.strokeDasharray = circumference;
             ring.style.strokeDashoffset = circumference;
-
-            // Rangni natijaga qarab o'zgartirish
             let ringColor = 'var(--primary)';
             if (scorePercent >= 85) ringColor = 'var(--success)';
             else if (scorePercent < 50) ringColor = 'var(--error)';
@@ -1520,18 +1353,15 @@
                 ring.style.strokeDashoffset = offset;
             }, 100);
 
-            // Foizni animatsiya bilan ko'rsatish
             animateNumber('score-percent', 0, scorePercent, 800, '%');
             document.getElementById('score-percent').style.color = ringColor;
 
-            // Emoji
             const emoji = document.getElementById('result-emoji');
             if (scorePercent >= 85) { emoji.innerText = "🏆"; launchConfetti(); }
             else if (scorePercent >= 70) emoji.innerText = "⚡";
             else if (scorePercent >= 50) emoji.innerText = "📝";
             else emoji.innerText = "📚";
 
-            // Xulosa
             let summaryText = '';
             if (unanswered > 0) {
                 summaryText = `${quizQuestions.length} ta savoldan <b>${correctTotal}</b> to'g'ri, <b>${wrongTotal}</b> noto'g'ri, <b>${unanswered}</b> javobsiz.`;
@@ -1539,22 +1369,16 @@
                 summaryText = `${quizQuestions.length} ta savoldan <b>${correctTotal}</b> tasiga to'g'ri javob berdingiz.`;
             }
             document.getElementById('result-summary').innerHTML = summaryText;
-
-            // Statistika
             document.getElementById('stat-correct').innerText = correctTotal;
             document.getElementById('stat-wrong').innerText = wrongTotal + unanswered;
-
-            // Sarflangan vaqtni hisoblash
             const timeSpent = TIME_LIMIT - remainingSeconds;
             document.getElementById('stat-time').innerText = formatTime(timeSpent);
 
-            // Eng yaxshi natijani tekshirish va saqlash
             const storageKey = `best_${currentDegree}_${currentDirection}_${currentSemester}_${currentSubject}`;
             const bestScore = parseInt(localStorage.getItem(storageKey) || '0');
             const bestBox = document.getElementById('best-score-box');
             bestBox.classList.remove('hidden');
             document.getElementById('best-score-val').innerText = bestScore + '%';
-
             if (scorePercent > bestScore) {
                 localStorage.setItem(storageKey, scorePercent);
                 setTimeout(() => {
@@ -1567,7 +1391,6 @@
         function animateNumber(elementId, start, end, duration, suffix = '') {
             const el = document.getElementById(elementId);
             const startTime = performance.now();
-
             function update(currentTime) {
                 const elapsed = currentTime - startTime;
                 const progress = Math.min(elapsed / duration, 1);
@@ -1579,10 +1402,9 @@
             requestAnimationFrame(update);
         }
 
-        // ========== QAYTA BOSHLASH ==========
         function restartQuiz() {
             if (currentDirection && currentSemester && currentSubject) {
-                startQuiz(currentSubject);
+                startQuiz(currentSubject, quizMode);
             } else {
                 goHome();
             }
@@ -1600,14 +1422,15 @@
             currentSubject = '';
             quizQuestions = [];
             userAnswers = [];
+            quizMode = 'exam';
+            partStartIndices = [];
+            totalParts = 1;
         }
 
-        // ========== KLAVIATURA NAVIGATSIYASI ==========
         function setupKeyboardNav() {
             document.addEventListener('keydown', (e) => {
                 if (document.getElementById('quiz-screen').classList.contains('hidden')) return;
                 if (!document.getElementById('custom-modal').classList.contains('hidden')) return;
-
                 if (e.key === 'ArrowRight' || e.key === 'd') {
                     e.preventDefault();
                     if (actionLock) return;
@@ -1618,8 +1441,7 @@
                     prevQuestion();
                 } else if (e.key >= '1' && e.key <= '4') {
                     e.preventDefault();
-                    if (actionLock) return; // Klaviatura auto-repeat blokirovkasi
-
+                    if (actionLock) return;
                     const idx = parseInt(e.key) - 1;
                     const btns = document.querySelectorAll('.option-btn:not(:disabled)');
                     if (btns[idx] && !btns[idx].hasAttribute('disabled')) btns[idx].click();
@@ -1627,14 +1449,11 @@
             });
         }
 
-        // ========== SWIPE GESTURE ==========
         function setupSwipeGesture() {
             const quizScreen = document.getElementById('quiz-screen');
-
             quizScreen.addEventListener('touchstart', (e) => {
                 touchStartX = e.changedTouches[0].screenX;
             }, { passive: true });
-
             quizScreen.addEventListener('touchend', (e) => {
                 touchEndX = e.changedTouches[0].screenX;
                 handleSwipe();
@@ -1644,18 +1463,11 @@
         function handleSwipe() {
             const diff = touchStartX - touchEndX;
             const threshold = 60;
-
             if (Math.abs(diff) < threshold) return;
             if (document.getElementById('quiz-screen').classList.contains('hidden')) return;
-            if (actionLock) return; // Swipe lock
-
-            if (diff > 0) {
-                nextQuestion();
-            } else {
-                prevQuestion();
-            }
+            if (actionLock) return;
+            if (diff > 0) { nextQuestion(); } else { prevQuestion(); }
         }
     </script>
 </body>
-
 </html>
