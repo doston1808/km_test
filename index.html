@@ -565,7 +565,7 @@
             </div>
         </div>
 
-        <!-- Mode Screen: Variantlar/Imtixon -->
+        <!-- Mode Screen -->
         <div id="mode-screen" class="hidden screen">
             <div class="rounded-3xl p-5 md:p-8 relative overflow-hidden"
                 style="background:var(--card-solid);border:1px solid var(--border);box-shadow:var(--shadow-lg);">
@@ -750,7 +750,6 @@
         let quizQuestions = [];
         let currentIndex = 0;
         let userAnswers = [];
-        const totalToPlay = 35;
         let currentDegree = '';
         let currentDirection = '';
         let currentSemester = '';
@@ -890,7 +889,7 @@
             sub.innerText = subtitle || '';
             badge.classList.toggle('hidden', !showBadge);
             timerBox.classList.toggle('hidden', !showTimer);
-            if (showTimer) timerBox.style.display = 'flex'; else timerBox.style.display = '';
+            if (showTimer) timerBox.style.display = 'flex'; else timerBox.style.display = 'none';
             variantBadge.classList.toggle('hidden', !showVariantBadge);
         }
 
@@ -1002,7 +1001,6 @@
             currentSubject = '';
         }
 
-        // ========== MODE EKRANI ==========
         function showModeScreen(subjectName) {
             pendingSubject = subjectName;
             showScreen('mode-screen');
@@ -1010,8 +1008,8 @@
             const modeContainer = document.getElementById('mode-buttons');
             modeContainer.innerHTML = '';
             const modes = [
-                { name: 'Variantlar', desc: 'Test 4 ta variantga bo‘linadi', icon: 'icon-grid' },
-                { name: 'Imtixon', desc: 'Barcha savollar bir ekranda', icon: 'icon-edit-3' }
+                { name: 'Variantlar', desc: 'Test 4 ta variantga bo‘linadi (vaqt cheklanmagan)', icon: 'icon-grid' },
+                { name: 'Imtixon', desc: 'Barcha savollar bir ekranda (35 daqiqa)', icon: 'icon-edit-3' }
             ];
             modes.forEach((m, i) => {
                 modeContainer.appendChild(createMenuCard(m.name, m.desc, m.icon, () => {
@@ -1124,21 +1122,26 @@
                 let rawQuestions = extractQuestions(data);
                 if (rawQuestions.length === 0) throw new Error("Savollar topilmadi");
 
-                quizQuestions = [...rawQuestions]
-                    .sort(() => Math.random() - 0.5)
-                    .slice(0, Math.min(rawQuestions.length, totalToPlay))
-                    .map(normalizeQuestion)
-                    .filter(q => q !== null);
+                // Prepare questions
+                let allQuestions = [...rawQuestions].map(normalizeQuestion).filter(q => q !== null);
+                if (allQuestions.length === 0) throw new Error("Savollar o'qilmadi");
 
-                if (quizQuestions.length === 0) throw new Error("Savollar o'qilmadi");
+                // Shuffle randomly
+                allQuestions.sort(() => Math.random() - 0.5);
 
-                if (quizMode === 'variant') {
-                    const totalQ = quizQuestions.length;
-                    const partCount = Math.min(4, totalQ);
-                    const partSize = Math.ceil(totalQ / partCount);
+                if (quizMode === 'exam') {
+                    // Imtixon rejimi: 35 ta savol
+                    quizQuestions = allQuestions.slice(0, Math.min(allQuestions.length, 35));
+                    partStartIndices = [0];
+                    totalParts = 1;
+                } else {
+                    // Variant rejimi: barcha savollar, 4 qismga bo'linadi
+                    quizQuestions = allQuestions;
+                    const partCount = Math.min(4, quizQuestions.length);
+                    const partSize = Math.ceil(quizQuestions.length / partCount);
                     let parts = [];
                     for (let i = 0; i < partCount; i++) {
-                        parts.push(quizQuestions.slice(i * partSize, Math.min((i + 1) * partSize, totalQ)));
+                        parts.push(quizQuestions.slice(i * partSize, Math.min((i + 1) * partSize, quizQuestions.length)));
                     }
                     quizQuestions = parts.flat();
                     partStartIndices = [0];
@@ -1146,20 +1149,25 @@
                         partStartIndices.push(partStartIndices[i] + parts[i].length);
                     }
                     totalParts = parts.length;
-                } else {
-                    partStartIndices = [0];
-                    totalParts = 1;
                 }
 
                 currentIndex = 0;
                 userAnswers = Array(quizQuestions.length).fill(null);
 
                 showScreen('quiz-screen', 'animate-fade');
-                updateHeader(true, goBackToSubjects, fixUzbekChars(subjectName).toUpperCase(), true, true, quizMode === 'variant');
+                const showTimer = quizMode === 'exam';
+                updateHeader(true, goBackToSubjects, fixUzbekChars(subjectName).toUpperCase(), true, showTimer, quizMode === 'variant');
                 document.getElementById('current-badge').innerText = '1';
                 document.getElementById('total-badge').innerText = quizQuestions.length;
 
-                startTimer();
+                if (showTimer) startTimer();
+                else {
+                    // Variant rejimida vaqt ko'rsatilmaydi
+                    const timerBox = document.getElementById('timer-box');
+                    timerBox.classList.add('hidden');
+                    timerBox.style.display = 'none';
+                }
+
                 renderNavDots();
                 showQuestion();
                 showToast(`${quizQuestions.length} ta savol yuklandi`, 'success');
@@ -1498,8 +1506,14 @@
             document.getElementById('result-summary').innerHTML = summaryText;
             document.getElementById('stat-correct').innerText = correctTotal;
             document.getElementById('stat-wrong').innerText = wrongTotal + unanswered;
-            const timeSpent = TIME_LIMIT - remainingSeconds;
-            document.getElementById('stat-time').innerText = formatTime(timeSpent);
+
+            // Vaqt hisobi faqat Imtixon rejimida
+            if (quizMode === 'exam') {
+                const timeSpent = TIME_LIMIT - remainingSeconds;
+                document.getElementById('stat-time').innerText = formatTime(timeSpent);
+            } else {
+                document.getElementById('stat-time').innerText = '-';
+            }
 
             const storageKey = `best_${currentDegree}_${currentDirection}_${currentSemester}_${currentSubject}`;
             const bestScore = parseInt(localStorage.getItem(storageKey) || '0');
