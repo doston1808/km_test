@@ -1,0 +1,1202 @@
+[
+  {
+    "savol": "Zamburug‘lar qanday organizmlar hisoblanadi?",
+    "A": "Xlorofilsiz geterotrof organizmlar",
+    "B": "Xlorofilli avtotrof organizmlar",
+    "C": "Suvda yashovchi organizmlar",
+    "D": "Hayvonlar bilan oziqlanuvchi",
+    "javob": "A"
+  },
+  {
+    "savol": "Zamburug‘ tanasi qanday tuzilgan?",
+    "A": "Gifa iplaridan tashkil topgan",
+    "B": "Barg va ildizdan iborat",
+    "C": "Hujayra yadrosidan iborat",
+    "D": "Qattiq skeletdan iborat",
+    "javob": "A"
+  },
+  {
+    "savol": "Mitseliy nima?",
+    "A": "Gifalarning yig‘indisi",
+    "B": "Hujayra yadrosi",
+    "C": "Spora turi",
+    "D": "Oziq modda",
+    "javob": "A"
+  },
+  {
+    "savol": "Zamburug‘ hujayra devori nimadan tashkil topgan?",
+    "A": "Xitindan",
+    "B": "Sellulozadan",
+    "C": "Kraxmaldan",
+    "D": "Yog‘dan",
+    "javob": "A"
+  },
+  {
+    "savol": "Zamburug‘lar qanday oziqlanadi?",
+    "A": "Geterotrof",
+    "B": "Avtotrof",
+    "C": "Fotoavtotrof",
+    "D": "Kimyoviy sintez orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Zamburug‘larda zahira modda sifatida nima to‘planadi",
+    "A": "Glikogen",
+    "B": "Kraxmal",
+    "C": "Yog‘",
+    "D": "Oqsil",
+    "javob": "A"
+  },
+  {
+    "savol": "Vegetativ ko‘payish qanday sodir bo‘ladi?",
+    "A": "Mitseliy bo‘laklarga bo‘linishi orqali",
+    "B": "Urug‘ orqali",
+    "C": "Jinsiy hujayralar orqali",
+    "D": "Sporalar orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Jinssiz ko‘payishda qaysi tuzilmalar ishtirok etadi?",
+    "A": "Zoosporalar",
+    "B": "Ildizlar",
+    "C": "Barglar",
+    "D": "Gullari",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi zamburug‘ kartoshkada kasallik keltirib chiqaradi?",
+    "A": "Phytophthora infestans",
+    "B": "Penitsillium",
+    "C": "Aspergillus",
+    "D": "Mucor",
+    "javob": "A"
+  },
+  {
+    "savol": "Zamburug‘lar nechta asosiy sinfga bo‘linadi?",
+    "A": "5 ta",
+    "B": "3 ta",
+    "C": "7 ta",
+    "D": "2 ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Zamburug‘larni qaysi fan o‘rganadi?",
+    "A": "Mycology",
+    "B": "Zoologiya",
+    "C": "Botanika",
+    "D": "Ekologiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Zamburug‘lar qanday organizmlar hisoblanadi?",
+    "A": "Eukariot organizmlar",
+    "B": "Prokariot organizmlar",
+    "C": "Viruslar",
+    "D": "Bakteriyalar",
+    "javob": "A"
+  },
+  {
+    "savol": "Achitqi zamburug‘i qanday tuzilgan?",
+    "A": "Bir hujayrali, ovalsimon",
+    "B": "Ko‘p hujayrali",
+    "C": "Bargli va ildizli",
+    "D": "Shoxlangan daraxtsimon",
+    "javob": "A"
+  },
+  {
+    "savol": "Achitqi zamburug‘i qanday ko‘payadi?",
+    "A": "Kurtaklanish yo‘li bilan",
+    "B": "Urug‘ bilan",
+    "C": "Bo‘linishsiz",
+    "D": "Jinsiy yo‘l bilan",
+    "javob": "A"
+  },
+  {
+    "savol": "Mog‘or zamburug‘i qanday yo‘l bilan tarqaladi?",
+    "A": "Sporalar orqali",
+    "B": "Urug‘ orqali",
+    "C": "Barg orqali",
+    "D": "Barg orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Qalpoqchali zamburug‘lar asosan nima uchun ishlatiladi?",
+    "A": "Oziq-ovqat sifatida",
+    "B": "Qurilish materiali sifatida",
+    "C": "Yonilg‘i sifatida",
+    "D": "Metall ishlab chiqarishda",
+    "javob": "A"
+  },
+  {
+    "savol": "Zaharli zamburug‘larga qaysilar kiradi?",
+    "A": "Qizil muxomor",
+    "B": "Qo‘zidumba",
+    "C": "Oq qo‘ziqorin",
+    "D": "Shampinion",
+    "javob": "A"
+  },
+  {
+    "savol": "Parazit zamburug‘larga qaysi misol kiradi?",
+    "A": "Verticillium",
+    "B": "Achitqi zamburug‘i",
+    "C": "Mog‘or zamburug‘i",
+    "D": "Shampinion",
+    "javob": "A"
+  },
+  {
+    "savol": "Zamburug‘lar o‘sishi uchun qaysi omil shart emas?",
+    "A": "Yorug‘lik",
+    "B": "Namlik",
+    "C": "Harorat",
+    "D": "Oziqa",
+    "javob": "A"
+  },
+  {
+    "savol": "Bazidiyasimonlarning mitseliylari qanday tuzilgan?",
+    "A": "Ko‘p hujayrali va yaxshi rivojlangan",
+    "B": "Bir hujayrali",
+    "C": "Hujayrasiz",
+    "D": "Qattiq skeletli",
+    "javob": "A"
+  },
+  {
+    "savol": "Bazidiyasimonlarda jinssiz ko‘payish qanday amalga oshadi?",
+    "A": "Konidiyalar yordamida",
+    "B": "Urug‘ bilan",
+    "C": "Barg orqali",
+    "D": "Ildiz orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Bazidiyasimonlarda jinsiy ko‘payishda nima hosil bo‘ladi?",
+    "A": "Bazidiya va bazidiosporalar",
+    "B": "Askospora",
+    "C": "Zoospora",
+    "D": "Sporangiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Bazidiyaning uchki qismida nechta o‘simta hosil bo‘ladi?",
+    "A": "4 ta",
+    "B": "2 ta",
+    "C": "6 ta",
+    "D": "8 ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Bazidiyasimonlarda gaploid faza qachon kuzatiladi?",
+    "A": "Bazidiya va bazidiospora hosil bo‘lganda",
+    "B": "Doimiy ravishda",
+    "C": "Vegetativ davrda",
+    "D": "Hech qachon",
+    "javob": "A"
+  },
+  {
+    "savol": "Xolobazidiya qanday tuzilgan?",
+    "A": "Bir hujayrali, yaxlit bazidiya",
+    "B": "Ko‘p hujayrali",
+    "C": "Shoxlangan daraxtsimon",
+    "D": "Spora to‘plami",
+    "javob": "A"
+  },
+  {
+    "savol": "Zang zamburug‘lari qayerda parazitlik qiladi?",
+    "A": "O‘simliklarda",
+    "B": "Hayvonlarda",
+    "C": "Suvda",
+    "D": "Havoda",
+    "javob": "A"
+  },
+  {
+    "savol": "Qorakuya zamburug‘lari ko‘proq qaysi qismda rivojlanadi?",
+    "A": "O‘simlik boshoqlarida",
+    "B": "Ildizda",
+    "C": "Barg ostida",
+    "D": "Tuproqda",
+    "javob": "A"
+  },
+  {
+    "savol": "Qorakuya sporalarining asosiy vazifasi nima?",
+    "A": "Qishlab chiqish va ko‘payish",
+    "B": "Fotosintez qilish",
+    "C": "Harakatlanish",
+    "D": "Nafas olish",
+    "javob": "A"
+  },
+  {
+    "savol": ". Bazidiyasimon zamburug‘lar nomi nimadan olingan?",
+    "A": "Bazidiya hosil bo‘lishidan",
+    "B": "Barg tuzilishidan",
+    "C": "Ildiz tizimidan",
+    "D": "Rangidan",
+    "javob": "A"
+  },
+  {
+    "savol": "Bazidiyasimonlarda jinsiy a’zolar qanday hosil bo‘ladi?",
+    "A": "Haqiqiy jinsiy a’zolar hosil bo‘lmaydi",
+    "B": "Gullari orqali hosil bo‘lad",
+    "C": "Ildiz orqali hosil bo‘ladi",
+    "D": "Barg orqali hosil bo‘ladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Bazidiyasimonlarda dikarion nima orqali hosil bo‘ladi?",
+    "A": "Mitseliy yadrolarining qo‘shilishi orqali",
+    "B": "Spora bo‘linishi orqali",
+    "C": "Barg o‘sishi orqali",
+    "D": "Ildiz rivojlanishi orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Bazidiyaning uchida nima hosil bo‘ladi?",
+    "A": "Bazidiosporalar",
+    "B": "Askosporalar",
+    "C": "Zoosporalar",
+    "D": "Konidiyalar",
+    "javob": "A"
+  },
+  {
+    "savol": "Bazidiyasimonlarda gaploid faza qanday bo‘ladi?",
+    "A": "Juda qisqa davom etadi",
+    "B": "Juda uzoq davom etadi",
+    "C": "Umuman bo‘lmaydi",
+    "D": "Doimo boladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Lishayniklar qanday organizmlardan tashkil topgan?",
+    "A": "Suvo‘tlar va zamburug‘lar simbiozidan",
+    "B": "Zamburug‘lardan",
+    "C": "Suvo‘tlardan",
+    "D": "Bakteriyalardan",
+    "javob": "A"
+  },
+  {
+    "savol": "Lishayniklarda zamburug‘lar qanday vazifani bajaradi?",
+    "A": "Suv va mineral moddalar bilan ta’minlaydi",
+    "B": "Fotosintez qiladi",
+    "C": "Harakatlanishni ta’minlaydi",
+    "D": "Nafas olishni boshqaradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Lishayniklarda suvo‘tlar qanday vazifani bajaradi?",
+    "A": "Fotosintez orqali organik modda hosil qiladi",
+    "B": "Suvni shimadi",
+    "C": "Himoya qiladi",
+    "D": "Sporalar hosil qiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Lishayniklar morfologik jihatdan nechta tipga bo‘linadi?",
+    "A": "3 ta",
+    "B": "2 ta",
+    "C": "4 ta",
+    "D": "5 ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Yopishqoq lishayniklar qayerda o‘sadi?",
+    "A": "Tosh va daraxt po‘stloqlarida",
+    "B": "Suvda",
+    "C": "Havoda",
+    "D": "Tuproqda",
+    "javob": "A"
+  },
+  {
+    "savol": "Bargsimon lishayniklarning tallomi qanday bo‘ladi?",
+    "A": "Bargga o‘xshash",
+    "B": "Ildizga o‘xshash",
+    "C": "Sharsimon",
+    "D": "Naychasimon",
+    "javob": "A"
+  },
+  {
+    "savol": "Butasimon lishayniklar qanday o‘sadi?",
+    "A": "Shoxlanib, butaga o‘xshab",
+    "B": "Yassi holda",
+    "C": "Yer ostida",
+    "D": "Suv ichida",
+    "javob": "A"
+  },
+  {
+    "savol": ". Lishayniklar asosan qanday yo‘l bilan ko‘payadi?",
+    "A": "Vegetativ yo‘l bilan",
+    "B": "Jinsiy yo‘l bilan",
+    "C": "Jinssiz yo‘l bilan",
+    "D": "Urug‘ orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Lishayniklar nima sababdan “pioner o‘simliklar” deyiladi?",
+    "A": "Qiyin sharoitlarda ham o‘sishi sababli",
+    "B": "Suvda yashashi sababli",
+    "C": "Daraxtlarda o‘sishi sababli",
+    "D": "Issiq joylarda o‘sishi sababli",
+    "javob": "A"
+  },
+  {
+    "savol": "Cladonia rangiferina qanday ahamiyatga ega?",
+    "A": "Bug‘ular uchun asosiy oziqa hisoblanadi",
+    "B": "Bezak uchun ishlatiladi",
+    "C": "Zaharli hisoblanadi",
+    "D": "Suvda yashaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Yo‘sintoifa o‘simliklar qaysi bo‘limga kiradi?",
+    "A": "Bryophyta",
+    "B": "Pinophyta",
+    "C": "Magnoliophyta",
+    "D": "Pteridophyta",
+    "javob": "A"
+  },
+  {
+    "savol": "Yo‘sinlarda ildiz o‘rnini nima bajaradi?",
+    "A": "Rizoidlar",
+    "B": "Barglar",
+    "C": "Poya",
+    "D": "Spora",
+    "javob": "A"
+  },
+  {
+    "savol": "Yo‘sinlarning vegetativ tanasi qanday ataladi?",
+    "A": "Gametofit",
+    "B": "Sporofit",
+    "C": "Zigota",
+    "D": "Sporangiy",
+    "javob": "A"
+  },
+  {
+    "savol": "Yo‘sinlarda qaysi bosqich ustunlik qiladi?",
+    "A": "Gametofit",
+    "B": "Sporofit",
+    "C": "Zigota",
+    "D": "Spora",
+    "javob": "A"
+  },
+  {
+    "savol": "Yo‘sinlar nechta asosiy sinfga bo‘linadi?",
+    "A": "3 ta",
+    "B": "2 ta",
+    "C": "4 ta",
+    "D": "5 ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Protonema nima?",
+    "A": "Sporadan rivojlanadigan boshlang‘ich ipcha",
+    "B": "Tayyor o‘simlik",
+    "C": "Urug‘",
+    "D": "Ildiz",
+    "javob": "A"
+  },
+  {
+    "savol": "Funaria hygrometrica nimasi yaxshi o‘rganilgan?",
+    "A": "Protonemasi",
+    "B": "Ildizi",
+    "C": "Mevasi",
+    "D": "Gullari",
+    "javob": "A"
+  },
+  {
+    "savol": "Jigarsimon yo‘sinlar qaysi sinfga kiradi?",
+    "A": "Marchantiopsida",
+    "B": "Bryopsida",
+    "C": "Anthocerotopsida",
+    "D": "Lycopodiopsida",
+    "javob": "A"
+  },
+  {
+    "savol": "Yo‘sinlar qayerlarda uchraydi?",
+    "A": "Turli iqlim zonalarida tropikdan tundragacha",
+    "B": "Suvda",
+    "C": "Cho‘lda",
+    "D": "Tog‘larda",
+    "javob": "A"
+  },
+  {
+    "savol": "Sfagnum yo‘sinlari qanday xususiyatga ega?",
+    "A": "Ko‘p miqdorda suvni o‘zida saqlaydi",
+    "B": "Quruq joyda o‘sadi",
+    "C": "Daraxt bo‘lib o‘sadi",
+    "D": "Gullaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qirqbo‘g‘imlarning poyasi qanday tuzilishga ega?",
+    "A": "Bo‘g‘im va bo‘g‘im oraliqlariga aniq ajralgan",
+    "B": "Butasimon",
+    "C": "Yaproqsimon",
+    "D": "Ildizsiz",
+    "javob": "A"
+  },
+  {
+    "savol": "Qirqbo‘g‘imlarning ildizi qayerda joylashgan?",
+    "A": "Yer ostidagi ildizpoyada",
+    "B": "Poyaning uchida",
+    "C": "Barglarda",
+    "D": "Sporangiy ichida",
+    "javob": "A"
+  },
+  {
+    "savol": "Qirqbo‘g‘imlarning sporasi qayerda hosil bo‘ladi?",
+    "A": "Spora boshoqlarida (strobil)",
+    "B": "Ildizda",
+    "C": "Bargda",
+    "D": "Rizoidda",
+    "javob": "A"
+  },
+  {
+    "savol": "Qirqbo‘g‘imlar qaysi davrda yaxshi taraqqiy etgan?",
+    "A": "Toshko‘mir davrida",
+    "B": "Yura davrida",
+    "C": "Perm davrida",
+    "D": "Bo‘r davrida",
+    "javob": "A"
+  },
+  {
+    "savol": "Qirqbo‘g‘imlarning vegetativ ko‘payishida nima ishtirok etadi?",
+    "A": "Tugunaklar",
+    "B": "Gullar",
+    "C": "Meva",
+    "D": "Urug‘",
+    "javob": "A"
+  },
+  {
+    "savol": "Dala qirqbo‘g‘imida generativ poya qachon paydo bo‘ladi?",
+    "A": "Erta bahorda",
+    "B": "Yozda",
+    "C": "Kuzda",
+    "D": "Qishda",
+    "javob": "A"
+  },
+  {
+    "savol": "Qirqbo‘g‘im poyasining ichki qismi qanday bo‘ladi?",
+    "A": "Bo‘sh (kovak)",
+    "B": "Qattiq yog‘ochsimon",
+    "C": "To‘liq suvli",
+    "D": "Bargli",
+    "javob": "A"
+  },
+  {
+    "savol": "Qirqbo‘g‘imlarning dorivor xususiyati nimaga bog‘liq?",
+    "A": "Qonni to‘xtatish va siydik haydash",
+    "B": "Yog‘ hosil qilish",
+    "C": "Meva berish",
+    "D": "Changlanish",
+    "javob": "A"
+  },
+  {
+    "savol": "Qirqquloqlar turlar soni bo‘yicha nechanchi o‘rinda turadi?",
+    "A": "Uchinchi",
+    "B": "Birinchi",
+    "C": "Ikkinchi",
+    "D": "To’rtinchi",
+    "javob": "A"
+  },
+  {
+    "savol": "Hozirgi kunda qirqquloqlarning taxminan nechta turi mavjud?",
+    "A": "10 mingdan ziyod",
+    "B": "1 mingdan kam",
+    "C": "5 ming atrofida",
+    "D": "50 mingdan ortiq",
+    "javob": "A"
+  },
+  {
+    "savol": "Qirqquloqlar asosan qayerlarda uchraydi?",
+    "A": "Tog‘, tekislik, botqoqlik va suvda",
+    "B": "Cho‘lda",
+    "C": "Tog‘larda",
+    "D": "Dengizda",
+    "javob": "A"
+  },
+  {
+    "savol": "Qirqquloqlarning ko‘p turlari qaysi muhitni talab qiladi?",
+    "A": "Sernam muhitni",
+    "B": "Quruq muhitni",
+    "C": "Muzli muhitni",
+    "D": "Issiq va quruq muhitni",
+    "javob": "A"
+  },
+  {
+    "savol": "Qirqquloqlarning ildiz sistemasi qanday?",
+    "A": "Yaxshi taraqqiy etgan",
+    "B": "Yo‘q",
+    "C": "Juda qisqa",
+    "D": "Rizoidlardan iborat",
+    "javob": "A"
+  },
+  {
+    "savol": "Qirqquloqlarda sporangiylar qayerda joylashadi?",
+    "A": "Bargning pastki qismida",
+    "B": "Ildizda",
+    "C": "Poyaning ichida",
+    "D": "Novdada",
+    "javob": "A"
+  },
+  {
+    "savol": "Sporangiylar to‘plami nima deb ataladi?",
+    "A": "Sorus",
+    "B": "Zigota",
+    "C": "Gameta",
+    "D": "Rizoid",
+    "javob": "A"
+  },
+  {
+    "savol": "Qirqquloqlarning gametofiti qanday bo‘ladi?",
+    "A": "Teng sporali o‘simliklarda har xil shaklda",
+    "B": "Har doim daraxtsimon",
+    "C": "Ildizli",
+    "D": "Suv ostida yashaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Salviniya qaysi turga kiradi?",
+    "A": "Suvda qalqib o‘suvchi o‘simlik",
+    "B": "Cho‘l o‘simligi",
+    "C": "Daraxtsimon qirqquloq",
+    "D": "Tog‘ moxi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ochiq urug‘li o‘simliklar qaysi davrda paydo bo‘lgan?",
+    "A": "Devon",
+    "B": "Yura",
+    "C": "Bo’r",
+    "D": "Paleogen",
+    "javob": "A"
+  },
+  {
+    "savol": "Ochiq urug‘li o‘simliklarning eng muhim belgisi nima?",
+    "A": "Urug‘ hosil qilishi",
+    "B": "Gullashi",
+    "C": "Meva hosil qilishi",
+    "D": "Barg to‘kishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Urug‘ qayerdan hosil bo‘ladi?",
+    "A": "Urug‘kurtakdan",
+    "B": "Bargdan",
+    "C": "Poyadan",
+    "D": "Changdonlardan",
+    "javob": "A"
+  },
+  {
+    "savol": "Urug‘kurtak aslida nima?",
+    "A": "Megasporangiy",
+    "B": "Mikrospora",
+    "C": "Chang",
+    "D": "Barg",
+    "javob": "A"
+  },
+  {
+    "savol": "Qarag‘aytoifalarning asosiy hayotiy shakli qanday?",
+    "A": "Daraxt va buta",
+    "B": "O‘t o‘simlik",
+    "C": "Suv o‘simligi",
+    "D": "Liana",
+    "javob": "A"
+  },
+  {
+    "savol": "Qarag‘aytoifalarda shoxlanish tipi qanday?",
+    "A": "Monopodial",
+    "B": "Dichotomik",
+    "C": "Simpodial",
+    "D": "Aralash",
+    "javob": "A"
+  },
+  {
+    "savol": "Qubbalar nimadan tashkil topgan?",
+    "A": "O‘q, poya, qoplag‘ich va tangacha barglardan",
+    "B": "Barglardan",
+    "C": "Urug‘dan",
+    "D": "Ildizdan",
+    "javob": "A"
+  },
+  {
+    "savol": "Qarag‘aytoifalar qaysi yarimsharda ko‘proq tarqalgan?",
+    "A": "Shimoliy yarimsharda",
+    "B": "Janubiy yarimsharda",
+    "C": "Sharqiy yarimsharda",
+    "D": "G‘arbiy yarimsharda",
+    "javob": "A"
+  },
+  {
+    "savol": "Qarag‘aysimonlar ajdodiga qancha turga yaqin o‘simlik kiradi?",
+    "A": "600 ga yaqin",
+    "B": "100 ga yaqin",
+    "C": "2000 ga yaqin",
+    "D": "50 ga yaqin",
+    "javob": "A"
+  },
+  {
+    "savol": "Qarag‘aytoifalar qanday usulda changlanadi?",
+    "A": "Shamol yordamida",
+    "B": "Hasharotlar yordamida",
+    "C": "Suv yordamida",
+    "D": "Qushlar yordamida",
+    "javob": "A"
+  },
+  {
+    "savol": "Magnoliyatoifalar yana qanday nom bilan ham yuritiladi?",
+    "A": "Ginetseyli yoki urug‘chili o‘simliklar",
+    "B": "Suvo‘tlar guruhi",
+    "C": "Qirqquloqsimonlar",
+    "D": "Moxsimonlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Magnoliyatoifalar qaysi davrda eng ko‘p rivojlangan?",
+    "A": "Mezozoy erasi bo‘r davrining ikkinchi yarmida",
+    "B": "Paleozoy erasi boshida",
+    "C": "Kaynozoy erasi oxirida",
+    "D": "Proterozoy davrida",
+    "javob": "A"
+  },
+  {
+    "savol": "Magnoliyatoifalarda eng asosiy jinsiy ko‘payish organi qaysi?",
+    "A": "Gul",
+    "B": "Ildiz",
+    "C": "Poya",
+    "D": "Barg",
+    "javob": "A"
+  },
+  {
+    "savol": "Urug‘kurtak odatda qayerda joylashadi?",
+    "A": "Urug‘chi tugunchasi ichida",
+    "B": "Barg yuzasida",
+    "C": "Poya ichida",
+    "D": "Ildiz uchida",
+    "javob": "A"
+  },
+  {
+    "savol": "Chang urug‘chi qaysi qismiga tushadi?",
+    "A": "Tumshuqchaga",
+    "B": "Bargga",
+    "C": "Ildizga",
+    "D": "Poyaga",
+    "javob": "A"
+  },
+  {
+    "savol": "Magnoliyatoifalarda ildizning asosiy turi qaysi?",
+    "A": "O‘q ildiz",
+    "B": "Yon ildiz",
+    "C": "Havo ildizi",
+    "D": "Barg ildizi",
+    "javob": "A"
+  },
+  {
+    "savol": "Magnoliyatoifalarda o‘tkazuvchi asosiy to‘qima qaysi?",
+    "A": "Traxeya (naylar)",
+    "B": "Parenxima",
+    "C": "Kollenxema",
+    "D": "Epidermis",
+    "javob": "A"
+  },
+  {
+    "savol": "Magnoliyatoifalarning umumiy turlar soni qanday tasvirlanadi?",
+    "A": "Juda ko‘p, minglab va yuz minglab turlar",
+    "B": "Juda kam, bir necha tur",
+    "C": "O‘nlab turlar",
+    "D": "Bir nechta oila",
+    "javob": "A"
+  },
+  {
+    "savol": "Ayiqtovonlar qaysi oilaga kiradi?",
+    "A": "Ranunculaceae",
+    "B": "Rosaceae",
+    "C": "Fabaceae",
+    "D": "Liliaceae",
+    "javob": "A"
+  },
+  {
+    "savol": "Ayiqtovonlarda meva qanday bo‘lishi mumkin?",
+    "A": "Yong‘oqcha yoki ko‘sakcha",
+    "B": "Rezavor meva",
+    "C": "Danakli meva",
+    "D": "Meva hosil qilmaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko‘knornamolar qabilasining asosiy hayotiy shakli qaysi?",
+    "A": "Bir yillik va ko‘p yillik o‘tlar",
+    "B": "Daraxtlar",
+    "C": "Suv o‘simliklari",
+    "D": "Moxlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko‘knornamolarda barglar qanday joylashadi?",
+    "A": "Aksariyat navbatlashib",
+    "B": "Qarama-qarshi",
+    "C": "Halqa bo‘lib",
+    "D": "Tasodifiy",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko‘knornamolarning gullari qanday xususiyatga ega?",
+    "A": "Ikki jinsli va aktinomorf yoki zigomorf",
+    "B": "Bir jinsli",
+    "C": "Suvda ochiluvchi",
+    "D": "Har doim zigomorf",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko‘knornamolarda ginetsey qanday tuzilgan?",
+    "A": "Parakarp tuzilishga ega",
+    "B": "Apokarp tuzilishga ega",
+    "C": "Spiral tuzilishga ega",
+    "D": "Yo’q",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko‘knordoshlar oilasining muhim belgisi qaysi?",
+    "A": "Sutsimon suyuqlik mavjudligi",
+    "B": "Ignabargli barglar",
+    "C": "Havo ildizlari",
+    "D": "Gulning yo‘qligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko‘knordoshlarning barglari qanday?",
+    "A": "Patsimon kesilgan oddiy barglar",
+    "B": "Ignasimon barglar",
+    "C": "Tangachasimon barglar",
+    "D": "Bargsiz",
+    "javob": "A"
+  },
+  {
+    "savol": "Mikroskopning qaysi qismi yordamida obyektivlar o‘zgartiriladi?",
+    "A": "Revolver",
+    "B": "Obyektiv",
+    "C": "Tubs (trubka)",
+    "D": "Diapozitiv",
+    "javob": "A"
+  },
+  {
+    "savol": "Piyoz pusti epiteliy hujayralarini mikroskopda aniqlik bilan ko‘rish uchun qaysi modda tomiziladi?",
+    "A": "Yod eritmasi",
+    "B": "Spirt",
+    "C": "Glitserinning 1% eritmasi",
+    "D": "Nacl eritmasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Turgor hodisasi nimaga bog‘liq?",
+    "A": "Hujayra shirasining osmotik bosimi va po‘stining elastikligiga",
+    "B": "Hujayra yadrosi kattaligiga",
+    "C": "Vakuolaning o‘lchamiga",
+    "D": "Sitoplazma harakatiga",
+    "javob": "A"
+  },
+  {
+    "savol": "Plazmoliz hodisasi qanday eritma bilan yuzaga keladi?",
+    "A": "Kuchsiz tuzli eritma (nacl yoki kcl)",
+    "B": "Toza suv",
+    "C": "Spirt",
+    "D": "Glitserinning suyultirilgan eritmasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Prozenxima hujayralarining asosiy belgisi nima?",
+    "A": "O‘lik bo‘ladi va hujayra po‘stidan iborat",
+    "B": "Yadro markazda joylashgan bo‘ladi",
+    "C": "Har tomonlama teng kattalikda bo‘ladi",
+    "D": "Hujayra ichi pigmentlarga boy",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi to‘qima boshqa to‘qimalarni hosil qilish xususiyatiga ega?",
+    "A": "Meristema",
+    "B": "Parenxima",
+    "C": "Sklerexima",
+    "D": "Ksilema",
+    "javob": "A"
+  },
+  {
+    "savol": "Apikal meristemaning asosiy vazifasi nima?",
+    "A": "O‘suvchi organlarni bo‘yiga o‘stirish",
+    "B": "O‘suvchi konusni shakllantirish",
+    "C": "Yashil plastidalar hosil qilish",
+    "D": "Organlarni yon tomonga o‘stirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Meristema qanday hujayralardan tashkil topgan?",
+    "A": "Zich joylashgan parenxima hujayralaridan",
+    "B": "Yassi epitelial hujayralardan",
+    "C": "Sklerexima hujayralaridan",
+    "D": "Kollenxima hujayralaridan",
+    "javob": "A"
+  },
+  {
+    "savol": "Qoplovchi to‘qimaning asosiy vazifasi nima?",
+    "A": "Himoya qilish",
+    "B": "Fotosintez qilish",
+    "C": "Ozuqa moddalari to‘plash",
+    "D": "Havo almashinuvini ta’minlash",
+    "javob": "A"
+  },
+  {
+    "savol": "Epiderma qaysi birlamchi to‘qimadan kelib chiqadi?",
+    "A": "Birlamchi meristemaning ustki qavatidan",
+    "B": "Prokambiy",
+    "C": "Sklerexima",
+    "D": "Ikkilamchi meristemaning pastki qatlamidan",
+    "javob": "A"
+  },
+  {
+    "savol": "Peridermani hosil qiluvchi uch to‘qima qaysilar?",
+    "A": "Po’kak, fеllоgен, felloderma",
+    "B": "Epiderma, ksilema, floema",
+    "C": "Parchalanma, fibrilla, kollenkima",
+    "D": "Parchalanma, tormozchi, proplastid",
+    "javob": "A"
+  },
+  {
+    "savol": "Po’kak hujayralari qanday xususiyatga ega?",
+    "A": "O‘lik, suv o‘tkazmaydi",
+    "B": "Tirik, suv o‘tkazuvchi",
+    "C": "Tirik, havo o‘tkazadi",
+    "D": "O‘lik, havo va suvni yaxshi o‘tkazadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Interkalyar (oralik) meristema qayerda joylashadi?",
+    "A": "Poya bo‘g‘imlarida",
+    "B": "Poya uchida",
+    "C": "Barglarda",
+    "D": "Ildiz uchida",
+    "javob": "A"
+  },
+  {
+    "savol": "Qanday sharoitda yara meristemasi hosil bo‘ladi?",
+    "A": "O‘simliklar shikastlanganda",
+    "B": "Suvsizlanishda",
+    "C": "Mevalar pishganda",
+    "D": "Barglar to‘kilganda",
+    "javob": "A"
+  },
+  {
+    "savol": "Po’stloq qanday hollarda paydo bo‘ladi?",
+    "A": "Ko‘p yillik daraxtlarda, fеllogen faoliyati tufayli",
+    "B": "Bir yillik novdalarda",
+    "C": "Barglar to‘kilganda",
+    "D": "Har qanday yosh o‘simlikda",
+    "javob": "A"
+  },
+  {
+    "savol": "Epiderma tuzilmasida qanday tuzilmalar nafas olishda qatnashadi?",
+    "A": "Ustitsalar og‘izchalar",
+    "B": "O‘simta tukchalar",
+    "C": "Lenticellalar",
+    "D": "Ksilema naychalari",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi reaktiv yordamida po’kak to‘qimasi aniqlanadi?",
+    "A": "Sudan iii",
+    "B": "Yod eritmasi",
+    "C": "Fenol qizili",
+    "D": "Bromtimol ko‘k",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi mexanik to‘qima “tiriq hujayralardan” tashkil topgan?",
+    "A": "Kollenxima",
+    "B": "Sklerenxima",
+    "C": "Sklereid",
+    "D": "Naylar",
+    "javob": "A"
+  },
+  {
+    "savol": "Sklerenxima hujayralarining po‘stlari qanday xususiyatga ega?",
+    "A": "Bir tekis qalinlashgan, yog‘ochlashgan",
+    "B": "Notekis qalinlashgan",
+    "C": "Burchaklari qalinlashgan",
+    "D": "Yupqa va shifof",
+    "javob": "A"
+  },
+  {
+    "savol": "Kollenxima asosan qaerda joylashadi?",
+    "A": "Poya va bargda qoplovchi to‘qimadan keyin",
+    "B": "Meva tuxumida",
+    "C": "Ildiz uchida",
+    "D": "Ikkilamchi lub to‘qimasi ichida",
+    "javob": "A"
+  },
+  {
+    "savol": "Sklerenximaning kelib chiqishi bo‘yicha to‘g‘ri javobni toping:",
+    "A": "Birlamchi va ikkilamchi meristemalardan",
+    "B": "Ikkilamchi va uchlamchi qoplovchi to‘qimadan",
+    "C": "Sudan iii bilan ranglangan to‘qimadan",
+    "D": "Parenximaning yog‘ochlashishidan",
+    "javob": "A"
+  },
+  {
+    "savol": "Lub tolalarining xossasi to‘g‘ri ko‘rsatilgan javob:",
+    "A": "Cho‘ziq, uchli, o‘lik, mustahkam",
+    "B": "Uzun va to‘rtburchak, protoplastga ega",
+    "C": "Radial yo‘nalishda joylashgan epidermis ostida",
+    "D": "Hammasi tirik va yashil",
+    "javob": "A"
+  },
+  {
+    "savol": "Sklereid hujayralari asosan qaerlarda ko‘p uchraydi?",
+    "A": "Nok va behi etida",
+    "B": "Ildiz uchida",
+    "C": "Gul to‘shchasida",
+    "D": "Ikkilamchi yog‘ochlikda",
+    "javob": "A"
+  },
+  {
+    "savol": "Naylar (traxeya) qanday to‘qimaga mansub?",
+    "A": "O‘tkazuvchi to‘qima",
+    "B": "Qoplovchi to‘qima",
+    "C": "Asosiy to‘qima",
+    "D": "Mexanik to‘qima",
+    "javob": "A"
+  },
+  {
+    "savol": "Naylar devorining qalinlashishiga ko‘ra necha turga bo‘linadi?",
+    "A": "6 (halqasimon, spiralsimon, narvonsimon, tursimon, nuqtasimon, aralash)",
+    "B": "5 (spiralsimon, narvonsimon, tursimon, nuqtasimon, aralash)",
+    "C": "4 (halqasimon, spiralsimon, narvonsimon, tursimon)",
+    "D": "3 (narvonsimon, tursimon, nuqtasimon)",
+    "javob": "A"
+  },
+  {
+    "savol": "Elaksimon naylar qanday moddalarni o‘tkazadi?",
+    "A": "Organik moddalar",
+    "B": "Gazlar va havo",
+    "C": "Mineral moddalar",
+    "D": "Suv",
+    "javob": "A"
+  },
+  {
+    "savol": "Yo‘ldosh hujayralarning vazifasi nimadan iborat?",
+    "A": "Elaksimon naylar bilan organik moddalarni olib o‘tish",
+    "B": "Mexanik mustahkamlikni ta’minlash",
+    "C": "Suv o‘tkazish",
+    "D": "Qoplash",
+    "javob": "A"
+  },
+  {
+    "savol": "Traxeidlar qanday hujayralardan tashkil topgan?",
+    "A": "Uzun, cho‘ziq, uchli o‘lik prozenxima hujayralardan",
+    "B": "Protoplastga ega silindrsimon tiriq hujayralardan",
+    "C": "Kollenxima hujayralaridan",
+    "D": "Butunlay parenximadan",
+    "javob": "A"
+  },
+  {
+    "savol": "Naychalar (traxeya) orqali qanday oqim amalga oshadi?",
+    "A": "Ko‘tariluvchi oqim",
+    "B": "Tushuvchi oqim",
+    "C": "Uzluksiz oqim",
+    "D": "Parrandasimon oqim",
+    "javob": "A"
+  },
+  {
+    "savol": "Sklereid hujayralarini kuzatishda qanday modda bilan ishlov beriladi?",
+    "A": "Floroglyusin + hcl",
+    "B": "Yod",
+    "C": "Eritrotsin",
+    "D": "Sudan iii",
+    "javob": "A"
+  },
+  {
+    "savol": "Ildizning asosiy vazifasi nimadan iborat?",
+    "A": "O‘simlikni tuproqqa mahkam ushlab turish va suv, mineral moddalarni so‘rish",
+    "B": "Barglarda moddalar almashinuvini ta’minlash",
+    "C": "Havo almashinuvini ta’minlash",
+    "D": "Changlanishni ta’minlash",
+    "javob": "A"
+  },
+  {
+    "savol": "Ildizning shimish zonasida qanday tuzilma paydo bo‘ladi?",
+    "A": "Tukchalar",
+    "B": "Ustitsa",
+    "C": "Chang hujayralari",
+    "D": "Ksilema naylari",
+    "javob": "A"
+  },
+  {
+    "savol": "Birlamchi po‘stloqning tashqi qatlami qaysi?",
+    "A": "Ekzoderma",
+    "B": "Mezoderma",
+    "C": "Endoderma",
+    "D": "Perisikl",
+    "javob": "A"
+  },
+  {
+    "savol": "Birlamchi po‘stloqning asosiy qismini tashkil etuvchi parenxima hujayralari qaysi qatlamda joylashgan?",
+    "A": "Mezoderma",
+    "B": "Endoderma",
+    "C": "Perisikl",
+    "D": "Kambiy",
+    "javob": "A"
+  },
+  {
+    "savol": "Endoderma hujayralari asosan qanday vazifani bajaradi?",
+    "A": "Suv va moddalar o‘tishini tartibga solish",
+    "B": "Yog‘ to‘plash",
+    "C": "Havo almashinuvi",
+    "D": "Ozuqani saqlash",
+    "javob": "A"
+  },
+  {
+    "savol": "Perisikldan nima hosil bo‘ladi?",
+    "A": "Yonildizlar va fellogen",
+    "B": "Tukchalar",
+    "C": "Barglar",
+    "D": "Ksilema va floema",
+    "javob": "A"
+  },
+  {
+    "savol": "Ildiz markazida joylashgan, suv o‘tkazuvchi naylardan iborat to‘qima:",
+    "A": "Ksilema",
+    "B": "Floema",
+    "C": "Mezoderma",
+    "D": "Endoderma",
+    "javob": "A"
+  },
+  {
+    "savol": "Ildizning ikkilamchi tuzilishi qaysi to‘qima faoliyati bilan boshlanadi?",
+    "A": "Kambiy va fellogen",
+    "B": "Endoderma",
+    "C": "Mezoderma",
+    "D": "Ekzoderma",
+    "javob": "A"
+  },
+  {
+    "savol": "Kambiyning asosiy vazifasi nima?",
+    "A": "Ikkilamchi yog‘ochlik va lubni hosil qiladi",
+    "B": "Ildizning cho‘zilib o‘sishini ta’minlaydi",
+    "C": "Suvni shimadi",
+    "D": "Himoya vazifasini bajaradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ikkilamchi tuzilish natijasida ildiz qanday o‘zgaradi?",
+    "A": "Yenga o‘sadi yo‘g‘onlashadi",
+    "B": "Uzayadi",
+    "C": "Ipsimon bo‘ladi",
+    "D": "Qurib ketadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Fellogen qaysi qatlam hujayralarining bo‘linishidan hosil bo‘ladi?",
+    "A": "Perisikl",
+    "B": "Endoderma",
+    "C": "Kambiy",
+    "D": "Ksilema",
+    "javob": "A"
+  },
+  {
+    "savol": "Fellogendan tashqariga ajralib chiqadigan to‘qima qanday ataladi?",
+    "A": "Po‘kak fellema",
+    "B": "Felloderma",
+    "C": "Kambiy",
+    "D": "Floema",
+    "javob": "A"
+  },
+  {
+    "savol": "Ildizdagi radial nurlar qanday tuzilmalardan tashkil topgan?",
+    "A": "Yog‘ochlik parenximasi hujayralaridan",
+    "B": "Epidermis hujayralaridan",
+    "C": "Fellogen hujayralaridan",
+    "D": "Floema naylaridan",
+    "javob": "A"
+  },
+  {
+    "savol": "Gulsavsar ildizida yog‘ochlangan to‘qimalarni aniqlash uchun qaysi reaktiv ishlatiladi?",
+    "A": "Floroglyusin + xlorid kislota",
+    "B": "Yod eritmasi",
+    "C": "Safra sabuni",
+    "D": "Etil spirti",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘simlikning asosiy (o‘q) qismi nima deb ataladi?",
+    "A": "Poya",
+    "B": "Barg",
+    "C": "Ildiz",
+    "D": "Gul",
+    "javob": "A"
+  },
+  {
+    "savol": "Bir pallali o‘simliklar poyasida o‘tkazuvchi bog‘lamlar qanday joylashgan bo‘ladi?",
+    "A": "Sochilib joylashgan",
+    "B": "Halqa shaklida",
+    "C": "Markazda",
+    "D": "Bir qatorli holda",
+    "javob": "A"
+  },
+  {
+    "savol": "Makkajo‘xori poyasida o‘tkazuvchi bog‘lamlar qanday tipga kiradi?",
+    "A": "Yopiq kollateral",
+    "B": "Ochiq kollateral",
+    "C": "Radial",
+    "D": "Bikambiy tip",
+    "javob": "A"
+  },
+  {
+    "savol": "Ikki pallali o‘simlik poyasida poya eniga o‘sishini ta’minlaydigan to‘qima qaysi?",
+    "A": "Kambiy",
+    "B": "Epiderma",
+    "C": "Kollenxima",
+    "D": "Sklerenxima",
+    "javob": "A"
+  },
+  {
+    "savol": "Bir pallali o‘simliklar poyasida kambiy mavjudmi?",
+    "A": "Yo‘q, mavjud emas",
+    "B": "Ha, mavjud",
+    "C": "Ildiz qismida",
+    "D": "Yosh poyalarda",
+    "javob": "A"
+  },
+  {
+    "savol": "Poyaning sirtki qatlami qanday ataladi?",
+    "A": "Epiderma",
+    "B": "Endoderma",
+    "C": "Kambiy",
+    "D": "Po‘stloq parenximasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Floroglyusin va xlorid kislotasi bilan bo‘yalganda yog‘ochlashgan hujayralar qanday rangga kiradi?",
+    "A": "Qizil",
+    "B": "Ko‘k",
+    "C": "Sariq",
+    "D": "Sabz",
+    "javob": "A"
+  },
+  {
+    "savol": "Ikki pallali o‘simlik poyasida o‘tkazuvchi bog‘lamlar qanday joylashgan bo‘ladi?",
+    "A": "Halqa shaklida",
+    "B": "Tarqoq holda",
+    "C": "Bitta markazda",
+    "D": "Sirtda",
+    "javob": "A"
+  },
+  {
+    "savol": "Kambiy bo‘linganda qanday to‘qimalar hosil bo‘ladi?",
+    "A": "Ikkilamchi floema va ksilema",
+    "B": "Birlamchi floema va ksilema",
+    "C": "Epiderma va kollenxima",
+    "D": "Sklerenxima va parenxima",
+    "javob": "A"
+  },
+  {
+    "savol": "Ikki pallali poyaning markaziy qismida joylashgan katta, havo bilan to‘lgan hujayralar to‘plami nima deyiladi?",
+    "A": "O‘zak (markaziy silindr)",
+    "B": "Endoderma",
+    "C": "Po‘stloq",
+    "D": "Periskl",
+    "javob": "A"
+  }
+]
