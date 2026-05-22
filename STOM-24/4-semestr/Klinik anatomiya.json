@@ -1,0 +1,2346 @@
+[
+  {
+    "savol": "Oldingi kalla chuqurchasi orqa tomondan qaysi tuzilma bilan chegaralangan?",
+    "A": "Ponasimon suyakning kichik qanotlari",
+    "B": "Chakka suyagining piramidasi",
+    "C": "Turk egati",
+    "D": "Krestsimon tepalik",
+    "javob": "A"
+  },
+  {
+    "savol": "Lamina cribrosa orqali qaysi tuzilma o‘tadi?",
+    "A": "Fila olfactoria",
+    "B": "N. opticus",
+    "C": "A. ophthalmica",
+    "D": "N. maxillaris",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko‘z yosh qopi qayerda?",
+    "A": "Medial orbital devorda",
+    "B": "Lateral devorda",
+    "C": "Pastki devorda",
+    "D": "Yuqori devorda",
+    "javob": "A"
+  },
+  {
+    "savol": "Ductus nasolacrimalis qayerga ochiladi?",
+    "A": "Meatus nasi inferior",
+    "B": "Meatus nasi superior",
+    "C": "Meatus nasi medius",
+    "D": "Sinus frontalis",
+    "javob": "A"
+  },
+  {
+    "savol": "M. levator anguli oris qaysi qatlamda?",
+    "A": "Chuqur muskullar qavati",
+    "B": "Yuza qatlam",
+    "C": "Suyak usti",
+    "D": "Fascia",
+    "javob": "A"
+  },
+  {
+    "savol": "Foramen caecum qaysi sinus bilan bog‘liq?",
+    "A": "Sinus sagittalis superior",
+    "B": "Sinus transversus",
+    "C": "Sinus cavernosus",
+    "D": "Sinus petrosus inferior",
+    "javob": "A"
+  },
+  {
+    "savol": "Canalis opticus orqali o‘tadigan tuzilmalar:",
+    "A": "N. opticus va A. ophthalmica",
+    "B": "N. oculomotorius va V. ophthalmica superior",
+    "C": "N. trochlearis va N. abducens",
+    "D": "N. maxillaris va A. meningea media",
+    "javob": "A"
+  },
+  {
+    "savol": "Yuqori ko‘z tirqishi orqali o‘tmaydigan nervni belgilang:",
+    "A": "N. mandibularis",
+    "B": "N. oculomotorius",
+    "C": "N. trochlearis",
+    "D": "N. abducens",
+    "javob": "A"
+  },
+  {
+    "savol": "Foramen rotundum orqali o‘tadi:",
+    "A": "N. maxillaris",
+    "B": "N. mandibularis",
+    "C": "N. ophthalmicus",
+    "D": "N. facialis",
+    "javob": "A"
+  },
+  {
+    "savol": "Foramen ovale orqali o‘tadigan asosiy nerv:",
+    "A": "N. mandibularis",
+    "B": "N. maxillaris",
+    "C": "N. ophthalmicus",
+    "D": "N. facialis",
+    "javob": "A"
+  },
+  {
+    "savol": "Foramen spinosum orqali o‘tadi:",
+    "A": "A. meningea media",
+    "B": "A. maxillaris",
+    "C": "N. ophthalmicus",
+    "D": "N. facialis",
+    "javob": "A"
+  },
+  {
+    "savol": "Foramen lacerum orqali o‘tadi:",
+    "A": "N. petrosus major va minor",
+    "B": "A. maxillaris",
+    "C": "N. ophthalmicus",
+    "D": "N. facialis",
+    "javob": "A"
+  },
+  {
+    "savol": "Canalis caroticus ichki teshigi orqali o‘tadi:",
+    "A": "A. carotis interna va plexus caroticus internus",
+    "B": "A. meningea media",
+    "C": "A. vertebralis",
+    "D": "V. jugularis interna",
+    "javob": "A"
+  },
+  {
+    "savol": "Hiatus canalis n. petrosi majoris orqali o‘tadi:",
+    "A": "N. petrosus major",
+    "B": "N. petrosus minor",
+    "C": "N. accessorius",
+    "D": "A. meningea media",
+    "javob": "A"
+  },
+  {
+    "savol": "Hiatus canalis n. petrosi minoris orqali o‘tadi:",
+    "A": "N. petrosus minor",
+    "B": "N. petrosus major",
+    "C": "N. glossopharyngeus",
+    "D": "N. vagus",
+    "javob": "A"
+  },
+  {
+    "savol": "Orqa kalla chuqurchasi oldindan qaysi tuzilmalar bilan chegaralangan?",
+    "A": "Pars petrosa ossis temporalis va clivus",
+    "B": "Ala minor ossis sphenoidalis",
+    "C": "Crista galli",
+    "D": "Lamina cribrosa",
+    "javob": "A"
+  },
+  {
+    "savol": "Foramen magnum orqali o‘tadi:",
+    "A": "Medulla oblongata",
+    "B": "N. facialis",
+    "C": "N. hypoglossus",
+    "D": "A. meningea media",
+    "javob": "A"
+  },
+  {
+    "savol": "Foramen jugulare orqali o‘tmaydigan tuzilma:",
+    "A": "N. hypoglossus",
+    "B": "N. vagus",
+    "C": "N. glossopharyngeus",
+    "D": "V. jugularis interna",
+    "javob": "A"
+  },
+  {
+    "savol": "Canalis hypoglossalis orqali o‘tadi:",
+    "A": "N. hypoglossus",
+    "B": "N. vagus",
+    "C": "N. accessorius",
+    "D": "N. glossopharyngeus",
+    "javob": "A"
+  },
+  {
+    "savol": "Porus acusticus internus orqali o‘tadi:",
+    "A": "N. facialis",
+    "B": "N. mandibularis",
+    "C": "N. maxillaris",
+    "D": "N. trochlearis",
+    "javob": "A"
+  },
+  {
+    "savol": "Apertura externa aqueductus vestibuli orqali o‘tadi:",
+    "A": "Ichki limfatik nay",
+    "B": "A. vertebralis",
+    "C": "N. hypoglossus",
+    "D": "V. jugularis interna",
+    "javob": "A"
+  },
+  {
+    "savol": "Foramen mastoideum orqali o‘tadi:",
+    "A": "V. emissarium mastoideum",
+    "B": "glossopharyngeus",
+    "C": "A. carotis interna",
+    "D": "N. vagus",
+    "javob": "A"
+  },
+  {
+    "savol": "Foramen stylomastoideum orqali o‘tadi:",
+    "A": "N. facialis",
+    "B": "N. hypoglossus",
+    "C": "N. maxillaris",
+    "D": "N. oculomotorius",
+    "javob": "A"
+  },
+  {
+    "savol": "Canalis condylaris orqali o‘tadi:",
+    "A": "V. emissaria condylaris",
+    "B": "A. meningea media",
+    "C": "N. glossopharyngeus",
+    "D": "N. vagus",
+    "javob": "A"
+  },
+  {
+    "savol": "Canalis caroticus tashqi teshigi orqali o‘tadi:",
+    "A": "A. carotis interna",
+    "B": "A. meningea media",
+    "C": "N. glossopharyngeus",
+    "D": "N. vagus",
+    "javob": "A"
+  },
+  {
+    "savol": "Porus acusticus externus orqali o‘tadi:",
+    "A": "A. auricularis profunda",
+    "B": "A. vertebralis",
+    "C": "A. carotis intern",
+    "D": "A. meningea media",
+    "javob": "A"
+  },
+  {
+    "savol": "Canaliculus tympanicus orqali o‘tadi:",
+    "A": "N. tympanicus",
+    "B": "N. petrosus major",
+    "C": "N. facialis",
+    "D": "hypoglossus",
+    "javob": "A"
+  },
+  {
+    "savol": "Canalis pterygoideus orqali o‘tadi:",
+    "A": "N. canalis pterygoidei",
+    "B": "N. mandibularis",
+    "C": "N. maxillaris",
+    "D": "N. vagus",
+    "javob": "A"
+  },
+  {
+    "savol": "Yuqori ko‘z tirqishi orqali o‘tuvchi venani belgilang:",
+    "A": "V. ophthalmica superior",
+    "B": "V. jugularis interna",
+    "C": "V. emissaria condylaris",
+    "D": "V. canaliculi cochleae",
+    "javob": "A"
+  },
+  {
+    "savol": "Foramen ovale qaysi chuqurcha bilan bog‘laydi?",
+    "A": "Fossa infratemporalis",
+    "B": "Fossa cranii anterior",
+    "C": "Fossa cranii posterior",
+    "D": "Cavitas nasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Foramen rotundum qaysi chuqurcha bilan bog‘laydi?",
+    "A": "Fossa pterygopalatina",
+    "B": "Fossa infratemporalis",
+    "C": "Orbita",
+    "D": "Cavitas nasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Foramen lacerum qaysi soha bilan aloqador?",
+    "A": "Fossa pterygopalatina",
+    "B": "Orbita",
+    "C": "Fossa cranii anterior",
+    "D": "Foramen magnum",
+    "javob": "A"
+  },
+  {
+    "savol": "Kalla tashqi asosida joylashgan teshiklardan biri:",
+    "A": "Foramen stylomastoideum",
+    "B": "Foramen rotundum",
+    "C": "Hiatus canalis n. petrosi majoris",
+    "D": "Lamina cribrosa",
+    "javob": "A"
+  },
+  {
+    "savol": "Qattiq miya pardasi, venoz sinuslar va miya qorinchalari topografiyasiga oid murakkab klinik holatni aniqlang.",
+    "A": "Matnda bayon qilingan anatomik va topografik tuzilmalarga to‘liq mos keladi",
+    "B": "Venoz sinuslar klapanli tuzilma hisoblanadi",
+    "C": "Dura mater suyak bilan hamma joyda bir xil mustahkam birikkan",
+    "D": "Subaraxnoidal bo‘shliq likvorsiz bo‘ladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Mental anesteziya qaysi nervni bloklaydi?",
+    "A": "N mandibularis, r mentalis",
+    "B": "N maxillaris",
+    "C": "N fatsialis",
+    "D": "N opticus",
+    "javob": "A"
+  },
+  {
+    "savol": "Foramen ceicumga nima birikadi?",
+    "A": "Qattiq miya pardasi",
+    "B": "Ko’ruv nervi",
+    "C": "Yumshoq miya pardasi",
+    "D": "Yuqori jag’ nervi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko’ruv nervi qayerdan chiqadi?",
+    "A": "Foramen opticus",
+    "B": "Foramen ovale",
+    "C": "Foramen rotundum",
+    "D": "Foramen seucum",
+    "javob": "A"
+  },
+  {
+    "savol": "Foramen opticus qaysi miya chuqurchasida joylashadi?",
+    "A": "Fossa cranium media",
+    "B": "Fossa cranium posterior",
+    "C": "Foramen rotundum",
+    "D": "Foramen seucum",
+    "javob": "A"
+  },
+  {
+    "savol": "Foramen magnum qaysi miya chuqurchasida joylashadi?",
+    "A": "Fossa cranium posterior",
+    "B": "Fossa cranium anterior",
+    "C": "Fossa cranium media",
+    "D": "Fossa cranium superior",
+    "javob": "A"
+  },
+  {
+    "savol": "Foramen hypoglosus qaysi miya chuqurchasida joylashadi?",
+    "A": "Fossa cranium posterior",
+    "B": "Fossa cranium anterior",
+    "C": "Fossa cranium media",
+    "D": "Fossa cranium superior",
+    "javob": "A"
+  },
+  {
+    "savol": "Foramen jugularis qaysi miya chuqurchasida joylashadi?",
+    "A": "Fossa cranium posterior",
+    "B": "Media",
+    "C": "Fossa cranium anterioris",
+    "D": "Foramen rotundum",
+    "javob": "A"
+  },
+  {
+    "savol": "9 ,10,11 juft nervlar qayerdan chiqadi?",
+    "A": "Foramen jugularis",
+    "B": "Foramen opticus",
+    "C": "Foramen ovale",
+    "D": "Foramen rotundum",
+    "javob": "A"
+  },
+  {
+    "savol": "Arteriya vertebralis qayerdan miya qutisi ichiga kiradi?",
+    "A": "Foramen magnum",
+    "B": "Foramen opticus",
+    "C": "Foramen ovale",
+    "D": "Foramen rotundum",
+    "javob": "A"
+  },
+  {
+    "savol": "Foramen rotumdum qayerda joylashgan?",
+    "A": "O’rta miya chuqurchasida",
+    "B": "Oldingi miya chuqurchasida",
+    "C": "Yuqorigi miya chuqurchasida",
+    "D": "Orqa miya chuqurchasida",
+    "javob": "A"
+  },
+  {
+    "savol": "Foramen rotumdum qayerda joylashgan?",
+    "A": "Fossa cranium media",
+    "B": "Oldingi miya chuqurchasida",
+    "C": "Yuqorigi miya chuqurchasida",
+    "D": "Orqa miya chuqurchasida",
+    "javob": "A"
+  },
+  {
+    "savol": "Foramen rotumdum nima o’tadi?",
+    "A": "Nervus maxillaris",
+    "B": "Opticus",
+    "C": "Nervus alveolaris",
+    "D": "Nervus mandibularis",
+    "javob": "A"
+  },
+  {
+    "savol": "Foramen ovaledan nima o’tadi?",
+    "A": "Nervus mandibularis",
+    "B": "Nervus maxillaris",
+    "C": "Opticus",
+    "D": "Nervus alveolaris",
+    "javob": "A"
+  },
+  {
+    "savol": "1 juft bosh miya nervi qayerdan chiqadi?",
+    "A": "Foramen cribrosa",
+    "B": "Foramen opticus",
+    "C": "Foramen maxillaris",
+    "D": "Fissure orbitalis superior",
+    "javob": "A"
+  },
+  {
+    "savol": "2 juft bosh miya nervi qayerdan chiqadi?",
+    "A": "Foramen opticus",
+    "B": "Foramen maxillaris",
+    "C": "Fissure orbitalis superior",
+    "D": "Foramen cribrosa",
+    "javob": "A"
+  },
+  {
+    "savol": "3 juft bosh miya nervi qayerdan chiqadi?",
+    "A": "Fissure orbitalis superior",
+    "B": "Foramen cribrosa",
+    "C": "Foramen opticus",
+    "D": "Foramen maxillaris",
+    "javob": "A"
+  },
+  {
+    "savol": "4 juft bosh miya nervi qayerdan chiqadi?",
+    "A": "Fissure orbitalis superior",
+    "B": "Foramen cribrosa",
+    "C": "Foramen opticus",
+    "D": "Foramen maxillaris",
+    "javob": "A"
+  },
+  {
+    "savol": "5 juft bosh miya nervi qayerdan chiqadi?",
+    "A": "Fissure orbitalis superior, foramen rotundum, ovale",
+    "B": "Foramen cribrosa, rotundum, ovale",
+    "C": "Foramen opticus",
+    "D": "Foramen maxillaris",
+    "javob": "A"
+  },
+  {
+    "savol": "6 juft bosh miya nervi qayerdan chiqadi?",
+    "A": "Fissure orbitalis superior",
+    "B": "Foramen cribrosa",
+    "C": "Foramen opticus",
+    "D": "Foramen maxillaris",
+    "javob": "A"
+  },
+  {
+    "savol": "7 juft bosh miya nervi qayerdan chiqadi?",
+    "A": "Porus acusticus interna",
+    "B": "Fissure orbitalis superior",
+    "C": "Foramen cribrosa",
+    "D": "Foramen opticus",
+    "javob": "A"
+  },
+  {
+    "savol": "9 juft bosh miya nervi qayerdan chiqadi?",
+    "A": "Foramen jugularis",
+    "B": "Fissure orbitalis superior",
+    "C": "Foramen cribrosa",
+    "D": "Foramen opticus",
+    "javob": "A"
+  },
+  {
+    "savol": "10 juft bosh miya nervi qayerdan chiqadi?",
+    "A": "Foramen jugularis",
+    "B": "Fissure orbitalis superior",
+    "C": "Fissure orbitalis inferior",
+    "D": "Foramen opticus",
+    "javob": "A"
+  },
+  {
+    "savol": "11 juft bosh miya nervi qayerdan chiqadi?",
+    "A": "Foramen jugularis",
+    "B": "Fissure orbitalis superior",
+    "C": "Fissure orbitalis inferior",
+    "D": "Foramen opticus",
+    "javob": "A"
+  },
+  {
+    "savol": "12 juft bosh miya nervi qayerdan chiqadi?",
+    "A": "Foramen hupoglosus",
+    "B": "Fissure orbitalis superior",
+    "C": "Fissure orbitalis inferior",
+    "D": "Foramen opticus",
+    "javob": "A"
+  },
+  {
+    "savol": "1 juft bosh miya nervi nomi nima?",
+    "A": "N olfactorius (hidlov nervi)",
+    "B": "N opticus (ko’ruv nervi)",
+    "C": "N occulamotorius (ko’zni harakatlantiruvchi nerv)",
+    "D": "N trigeminus ( uch shoxli nerv)",
+    "javob": "A"
+  },
+  {
+    "savol": "2 juft bosh miya nervi nomi nima?",
+    "A": "N opticus (ko’ruv nervi)",
+    "B": "N occulamotorius (ko’zni harakatlantiruvchi nerv)",
+    "C": "N trigeminus ( uch shoxli nerv)",
+    "D": "N trochlarius ( g’altak nerv)",
+    "javob": "A"
+  },
+  {
+    "savol": "3 juft bosh miya nervi nomi nima?",
+    "A": "N occulamotorius (ko’zni harakatlantiruvchi nerv)",
+    "B": "N abdussens ( uzoqlashtiruvchi nerv)",
+    "C": "N fasialis (yuz nervi)",
+    "D": "N vestibulocochlearis (dahliz chig’anoq nervi)",
+    "javob": "A"
+  },
+  {
+    "savol": "4 juft bosh miya nervi nomi nima?",
+    "A": "N trochlarius ( g’altak nerv)",
+    "B": "N occulamotorius (ko’zni harakatlantiruvchi nerv)",
+    "C": "N abdussens ( uzoqlashtiruvchi nerv)",
+    "D": "N fasialis (yuz nervi)",
+    "javob": "A"
+  },
+  {
+    "savol": "5 juft bosh miya nervi nomi nima?",
+    "A": "N trigeminus ( uch shoxli nerv)",
+    "B": "N occulamotorius (ko’zni harakatlantiruvchi nerv)",
+    "C": "N abdussens ( uzoqlashtiruvchi nerv)",
+    "D": "N fasialis (yuz nervi)",
+    "javob": "A"
+  },
+  {
+    "savol": "6 juft bosh miya nervi nomi nima?",
+    "A": "N abdussens ( uzoqlashtiruvchi nerv)",
+    "B": "N occulamotorius (ko’zni harakatlantiruvchi nerv)",
+    "C": "N trigeminus ( uch shoxli nerv)",
+    "D": "N trochlarius ( g’altak nerv)",
+    "javob": "A"
+  },
+  {
+    "savol": "7 juft bosh miya nervi nomi nima?",
+    "A": "N fasialis (yuz nervi)",
+    "B": "N occulamotorius (ko’zni harakatlantiruvchi nerv)",
+    "C": "N trigeminus ( uch shoxli nerv)",
+    "D": "N trochlarius ( g’altak nerv)",
+    "javob": "A"
+  },
+  {
+    "savol": "8 juft bosh miya nervi nomi nima?",
+    "A": "N vestibulocochlearis (dahliz chig’anoq nervi)",
+    "B": "N occulamotorius (ko’zni harakatlantiruvchi nerv)",
+    "C": "N trigeminus ( uch shoxli nerv)",
+    "D": "N trochlarius ( g’altak nerv)",
+    "javob": "A"
+  },
+  {
+    "savol": "9 juft bosh miya nervi nomi nima?",
+    "A": "N glossopharengius (til yutqin nervi)",
+    "B": "N occulamotorius (ko’zni harakatlantiruvchi nerv)",
+    "C": "N trigeminus ( uch shoxli nerv)",
+    "D": "N trochlarius ( g’altak nerv)",
+    "javob": "A"
+  },
+  {
+    "savol": "10 juft bosh miya nervi nomi nima?",
+    "A": "N vagus (adashgan nerv)",
+    "B": "N occulamotorius (ko’zni harakatlantiruvchi nerv)",
+    "C": "N trigeminus ( uch shoxli nerv)",
+    "D": "N trochlarius ( g’altak nerv)",
+    "javob": "A"
+  },
+  {
+    "savol": "11 juft bosh miya nervi nomi nima?",
+    "A": "N accisorius (qo’shimcha nerv)",
+    "B": "N occulamotorius (ko’zni harakatlantiruvchi nerv)",
+    "C": "N trigeminus ( uch shoxli nerv)",
+    "D": "N trochlarius ( g’altak nerv)",
+    "javob": "A"
+  },
+  {
+    "savol": "12 juft bosh miya nervi nomi nima?",
+    "A": "N hupoglossus (til osti nervi)",
+    "B": "N occulamotorius (ko’zni harakatlantiruvchi nerv)",
+    "C": "N trigeminus ( uch shoxli nerv)",
+    "D": "N trochlarius ( g’altak nerv)",
+    "javob": "A"
+  },
+  {
+    "savol": "Shipo uchburchagi qaysi sohada joylashgan?",
+    "A": "So’rg’ichsimon o’siq sohasida",
+    "B": "Tepa sohasida",
+    "C": "Peshona sohasida",
+    "D": "Ensa sohasida",
+    "javob": "A"
+  },
+  {
+    "savol": "Shipo uchburchagi qaysi suyakda joylashgan?",
+    "A": "Chakka suyagida",
+    "B": "Peshona suyagida",
+    "C": "Tepa suyagida",
+    "D": "Ensa suyagida",
+    "javob": "A"
+  },
+  {
+    "savol": "Shipo uchburchagining yuqori devori qayerga to’g’ri keladi?",
+    "A": "O’rta miya chuqurchasiga",
+    "B": "Orqa miya chuqurchasiga",
+    "C": "Sigmasimon sinus",
+    "D": "Yuz nervi kanaliga",
+    "javob": "A"
+  },
+  {
+    "savol": "Shipo uchburchagining orqa devori qayerga to’g’ri keladi?",
+    "A": "Sigmasimon sinusga",
+    "B": "O’rta miya chuqurchasiga",
+    "C": "Orqa miya chuqurchasiga",
+    "D": "Yuz nervi kanaliga",
+    "javob": "A"
+  },
+  {
+    "savol": "Shipo uchburchagining oldingi devori qayerga to’g’ri keladi?",
+    "A": "Yuz nervi kanaliga",
+    "B": "Sigmasimon sinusga",
+    "C": "O’rta miya chuqurchasiga",
+    "D": "Orqa miya chuqurchasiga",
+    "javob": "A"
+  },
+  {
+    "savol": "Peshona tepa ensa sohasining qaysi qavati muskul apanevrotik shlem joylashgan?",
+    "A": "3 qavatida",
+    "B": "4 qavatida",
+    "C": "6 qavatida",
+    "D": "8 qavatida",
+    "javob": "A"
+  },
+  {
+    "savol": "Miyaning yumshoq pardasi bu?",
+    "A": "Pia mater",
+    "B": "Dura mater",
+    "C": "Araxnoidea",
+    "D": "Corpus",
+    "javob": "A"
+  },
+  {
+    "savol": "Miyaning to’rsimon pardasi bu?",
+    "A": "Araxnoidea",
+    "B": "Pia mater",
+    "C": "Dura mater",
+    "D": "Corpus",
+    "javob": "A"
+  },
+  {
+    "savol": "Peshona tepa ensa sohasini qon bilan taminlaydigan asosiy arteriya qaysi?",
+    "A": "Tashqi uyqu arteriyasi",
+    "B": "Ichki uyqu arteriyasi",
+    "C": "Umurtqa arteriyasi",
+    "D": "O’mrov osti arteriyasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Chakka sohasini yuza qavatini qon bilan taminlaydigan arteriya qaysi?",
+    "A": "A temporalis superfitsialis",
+    "B": "A temporalis superior",
+    "C": "A temporalis inferior",
+    "D": "A temporalis posterior",
+    "javob": "A"
+  },
+  {
+    "savol": "Regio frontalis bu?",
+    "A": "Peshona sohasi",
+    "B": "Ensa sohasi",
+    "C": "Chakka sohasi",
+    "D": "Ko’z osti sohasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Arteriya meningea media jarohatlansa qanday gematoma paydo bo’ladi",
+    "A": "epidural",
+    "B": "subdural",
+    "C": "subarochnoedal",
+    "D": "intradural",
+    "javob": "A"
+  },
+  {
+    "savol": "Dura mater encephali nechta varaqdan tashkil topgan?",
+    "A": "2",
+    "B": "1",
+    "C": "3",
+    "D": "4",
+    "javob": "A"
+  },
+  {
+    "savol": "Dura mater varaqalari orasida nima joylashgan?",
+    "A": "Yupqa g‘ovak kletchatka",
+    "B": "Qalin mushak qavati",
+    "C": "Nerv chigali",
+    "D": "Arterial plexus",
+    "javob": "A"
+  },
+  {
+    "savol": "Epidural bo‘shliq qayerda hosil bo‘ladi?",
+    "A": "Suyak ichki yuzasi va dura tashqi yuzasi orasida",
+    "B": "Dura va araxnoidea orasida",
+    "C": "Arachnoidea va pia orasida",
+    "D": "Pia va miya orasida",
+    "javob": "A"
+  },
+  {
+    "savol": "Falx cerebri nimani ajratadi?",
+    "A": "Katta yarimsharlarni",
+    "B": "Miyachani",
+    "C": "Talamusni",
+    "D": "Ko‘ruv nervlarini",
+    "javob": "A"
+  },
+  {
+    "savol": "Falx cerebri qaysi tuzilmalargacha cho‘ziladi?",
+    "A": "Crista galli – protuberantia occipitalis interna",
+    "B": "Bregma – lambda",
+    "C": "Foramen magnum – sella turcica",
+    "D": "Pterion – asterion",
+    "javob": "A"
+  },
+  {
+    "savol": "Tentorium cerebelli qanday joylashgan?",
+    "A": "Gorizontal",
+    "B": "Vertikal",
+    "C": "Qiyshiq",
+    "D": "Spiral",
+    "javob": "A"
+  },
+  {
+    "savol": "Tentorium orqali nima o‘tadi?",
+    "A": "Miya poyasi",
+    "B": "Ko‘ruv nervi",
+    "C": "A. cerebri media",
+    "D": "Sinus sagittalis",
+    "javob": "A"
+  },
+  {
+    "savol": "Arachnoidea qanday xususiyatga ega?",
+    "A": "Tomirsiz",
+    "B": "Qalin tolali",
+    "C": "Mushakli",
+    "D": "Suyakka birikkan",
+    "javob": "A"
+  },
+  {
+    "savol": "Pia mater nimaga boy?",
+    "A": "Qon tomirlarga",
+    "B": "Nerv tolalarga",
+    "C": "Mushak tolalarga",
+    "D": "Limfa tugunlariga",
+    "javob": "A"
+  },
+  {
+    "savol": "Pachion granulyatsiyalari qayerga kiradi?",
+    "A": "Venoz sinuslarga",
+    "B": "Epidural bo‘shliqqa",
+    "C": "Subdural bo‘shliqqa",
+    "D": "Qorinchalarga",
+    "javob": "A"
+  },
+  {
+    "savol": "Qovoq tog‘aylari nima hosil qiladi?",
+    "A": "Tarsus superior et inferior",
+    "B": "Retina",
+    "C": "Iris",
+    "D": "Cornea",
+    "javob": "A"
+  },
+  {
+    "savol": "Subdural bo‘shliq qaysi pardalar orasida?",
+    "A": "Dura va araxnoidea",
+    "B": "Arachnoidea va pia",
+    "C": "Pia va miya",
+    "D": "Suyak va dura",
+    "javob": "A"
+  },
+  {
+    "savol": "Subaraxnoidal bo‘shliq nimani tutadi?",
+    "A": "Likvor",
+    "B": "Arterial qon",
+    "C": "Venoz qon",
+    "D": "Limfa",
+    "javob": "A"
+  },
+  {
+    "savol": "Pia mater egatlarga kiradimi?",
+    "A": "Ha",
+    "B": "Yo‘q",
+    "C": "Faqat yoriqlarga",
+    "D": "Faqat qorinchalarga",
+    "javob": "A"
+  },
+  {
+    "savol": "Dura mater asosda qanday birikkan?",
+    "A": "Juda mustahkam",
+    "B": "Zaif",
+    "C": "Harakatchan",
+    "D": "Mushak bilan",
+    "javob": "A"
+  },
+  {
+    "savol": "Falx cerebri pastki qirrasi qayerga yetadi?",
+    "A": "Corpus callosumga",
+    "B": "Talamusga",
+    "C": "Ponsga",
+    "D": "Medullaga",
+    "javob": "A"
+  },
+  {
+    "savol": "Tentorium qaysi suyak piramidasiga birikadi?",
+    "A": "Chakka suyagi piramidasiga",
+    "B": "Tepa suyakka",
+    "C": "Peshona suyakka",
+    "D": "G‘alvirsimon suyakka",
+    "javob": "A"
+  },
+  {
+    "savol": "Dura mater o‘siqlari ichida nima bor?",
+    "A": "Venoz sinuslar",
+    "B": "Arteriyalar",
+    "C": "Nerv tugunlari",
+    "D": "Limfa tomirlari",
+    "javob": "A"
+  },
+  {
+    "savol": "Arachnoidea egatlarga kirmasligi nimaga olib keladi?",
+    "A": "Subaraxnoidal kengayishlarga",
+    "B": "Sinus tromboziga",
+    "C": "Epidural gematomaga",
+    "D": "Osteitga",
+    "javob": "A"
+  },
+  {
+    "savol": "Dura materning tashqi yuzasi nimaga yopishgan?",
+    "A": "Suyak ichki yuzasiga",
+    "B": "Pia materga",
+    "C": "Arachnoideaga",
+    "D": "Sinusga",
+    "javob": "A"
+  },
+  {
+    "savol": "Likvor qayerda so‘riladi?",
+    "A": "Arachnoid granulyatsiyalar orqali",
+    "B": "Tentorium orqali",
+    "C": "Falx orqali",
+    "D": "Pia orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Ganglion pterygopalatinum qayer bilan bog‘liq?",
+    "A": "Foramen sphenopalatinum",
+    "B": "Canalis opticus",
+    "C": "Fissura orbitalis superior",
+    "D": "Meatus inferior",
+    "javob": "A"
+  },
+  {
+    "savol": "Sinus cavernosus shikastlansa xavfli sabab?",
+    "A": "V. ophthalmica superior bilan aloqa",
+    "B": "A. facialis",
+    "C": "N. lingualis",
+    "D": "V. jugularis externa",
+    "javob": "A"
+  },
+  {
+    "savol": "Sinus sagittalis superior qayerda joylashgan?",
+    "A": "Falx cerebri bo‘ylab",
+    "B": "Tentorium ichida",
+    "C": "Ko‘ndalang egatda",
+    "D": "Sella yonida",
+    "javob": "A"
+  },
+  {
+    "savol": "Sinus sagittalis superior jarohati nimaga olib keladi?",
+    "A": "Kuchli venoz qon ketish",
+    "B": "Arterial spazm",
+    "C": "Likvor oqishi",
+    "D": "Nerv falaji",
+    "javob": "A"
+  },
+  {
+    "savol": "Sinus sagittalis inferior qayerda?",
+    "A": "Falxning pastki erkin qirrasi bo‘ylab",
+    "B": "Tentorium asosida",
+    "C": "Ko‘ndalang sinus ichida",
+    "D": "Foramen magnumda",
+    "javob": "A"
+  },
+  {
+    "savol": "Sinus rectus qayerda joylashgan?",
+    "A": "Falx va tentorium tutashgan joyda",
+    "B": "Sella ichida",
+    "C": "Pons ustida",
+    "D": "Ensa suyak ichida",
+    "javob": "A"
+  },
+  {
+    "savol": "Sinus cavernosus qayerda?",
+    "A": "Sella turcica yon tomonida",
+    "B": "Falx ichida",
+    "C": "Ko‘ndalang egatda",
+    "D": "Ensa qirrasi bo‘ylab",
+    "javob": "A"
+  },
+  {
+    "savol": "Sinus cavernosus ichidan qaysi arteriya o‘tadi?",
+    "A": "A. carotis interna",
+    "B": "A. basilaris",
+    "C": "A. cerebri media",
+    "D": "A. vertebralis",
+    "javob": "A"
+  },
+  {
+    "savol": "Sinus cavernosus ichida qaysi nerv o‘tadi?",
+    "A": "N. abducens",
+    "B": "N. facialis",
+    "C": "N. glossopharyngeus",
+    "D": "N. hypoglossus",
+    "javob": "A"
+  },
+  {
+    "savol": "Sinus transversus davom etadi:",
+    "A": "Sinus sigmoideusga",
+    "B": "Sinus rectusga",
+    "C": "Sinus sagittalisga",
+    "D": "Sinus cavernosusga",
+    "javob": "A"
+  },
+  {
+    "savol": "Confluens sinuum tashqi proyeksiyasi:",
+    "A": "Tashqi ensa do‘mbog‘i",
+    "B": "Bregma",
+    "C": "Pterion",
+    "D": "Asterion",
+    "javob": "A"
+  },
+  {
+    "savol": "Miyaning katta venasi qaysi sinusga quyiladi?",
+    "A": "Sinus rectusga",
+    "B": "Sinus cavernosusga",
+    "C": "Sinus sagittalisga",
+    "D": "Sinus transversusga",
+    "javob": "A"
+  },
+  {
+    "savol": "Suyak-plastik trepanatsiyaning asosiy maqsadi nima?",
+    "A": "Suyak lahtagini saqlab qolish va qayta o‘rnatish",
+    "B": "Miya moddasini olib tashlash",
+    "C": "Faqat gemostaz qilish",
+    "D": "Sinuslarni drenajlash",
+    "javob": "A"
+  },
+  {
+    "savol": "Vagner-Volf usulida qanday lahtak hosil qilinadi?",
+    "A": "Teri-periost-suyakdan iborat oyoqchali lahtak",
+    "B": "Faqat suyak plastinka",
+    "C": "Faqat teri-aponevroz",
+    "D": "Mushakli lahtak",
+    "javob": "A"
+  },
+  {
+    "savol": "Olivekron usulining asosiy farqi nimada?",
+    "A": "Teri-aponevroz va suyak-periost lahtaklari alohida hosil qilinadi",
+    "B": "Suyak butunlay olib tashlanadi",
+    "C": "Dura kesilmaydi",
+    "D": "Sinus bog‘lanadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Rezeksiyali trepanatsiyada nima olib tashlanadi?",
+    "A": "Suyak plastinkasi",
+    "B": "Qattiq miya pardasi",
+    "C": "Yumshoq parda",
+    "D": "Arteriya",
+    "javob": "A"
+  },
+  {
+    "savol": "Dalgren qisqichlari nima uchun ishlatiladi?",
+    "A": "Teshiklar orasidagi suyakni tishlab birlashtirish",
+    "B": "Dura kesish",
+    "C": "Muskullarni tikish",
+    "D": "Arteriyani bog‘lash",
+    "javob": "A"
+  },
+  {
+    "savol": "Jiglining simli arrasi afzalligi nimada?",
+    "A": "Qiyshiq kesish imkonini beradi",
+    "B": "Tez aylanish beradi",
+    "C": "Sinusni ochadi",
+    "D": "Likvor chiqaradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Trepanatsiyada 30–40 ml likvor chiqarishdan maqsad?",
+    "A": "Dura tarangligini kamaytirish",
+    "B": "Qon bosimini oshirish",
+    "C": "Suyakni yumshatish",
+    "D": "Arteriyani ko‘rish",
+    "javob": "A"
+  },
+  {
+    "savol": "Kushing bo‘yicha dekompressiya qayerda bajariladi?",
+    "A": "O‘ng chakka sohasida",
+    "B": "Chap ensada",
+    "C": "Peshonada",
+    "D": "Tepa markazida",
+    "javob": "A"
+  },
+  {
+    "savol": "Freza suyakning qaysi qismiga tushganda ehtiyot bo‘lish zarur?",
+    "A": "G‘ovak diploetik qismiga",
+    "B": "Kompakt qismiga",
+    "C": "Periostga",
+    "D": "Mushakka",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘rta miya pardasi arteriyasi qachon shikastlanishi mumkin?",
+    "A": "Suyak qirg‘oqlari sindirilganda",
+    "B": "Teri kesilganda",
+    "C": "Mushak ajratilganda",
+    "D": "Likvor chiqarilganda",
+    "javob": "A"
+  },
+  {
+    "savol": "Dura kesmasi suyak qirg‘og‘idan necha sm tashlab o‘tkaziladi?",
+    "A": "0,5–1 sm",
+    "B": "2–3 sm",
+    "C": "3–4 sm",
+    "D": "Qirg‘oqning o‘zida",
+    "javob": "A"
+  },
+  {
+    "savol": "Teri-aponevroz lahtagi kengligi odatda qancha?",
+    "A": "5–6 sm",
+    "B": "2–3 sm",
+    "C": "8–10 sm",
+    "D": "1 sm",
+    "javob": "A"
+  },
+  {
+    "savol": "Rezeksiyali trepanatsiyada nuqson nima bilan yopiladi?",
+    "A": "Teri-aponevroz lahtagi yoki sintetik plastinka",
+    "B": "Faqat mushak",
+    "C": "Faqat periost",
+    "D": "Ochiq qoldiriladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Trepanatsiya oldidan teri nimaga ishlov beriladi?",
+    "A": "5% yod eritmasi",
+    "B": "Spirt 100%",
+    "C": "Xlorid natriy",
+    "D": "Fenol",
+    "javob": "A"
+  },
+  {
+    "savol": "Kreynleyn-Bryusova sxemasi nimani aniqlashda yordam beradi?",
+    "A": "Trepanatsiya sohasini",
+    "B": "Arterial bosimni",
+    "C": "Likvor hajmini",
+    "D": "Mushak tolalarini",
+    "javob": "A"
+  },
+  {
+    "savol": "Krestsimon kesma qaysi tuzilmaga qilinadi?",
+    "A": "Qattiq miya pardasiga",
+    "B": "Yumshoq parda",
+    "C": "Arteriya",
+    "D": "Sinus",
+    "javob": "A"
+  },
+  {
+    "savol": "Dekompresiyaning asosiy maqsadi nima?",
+    "A": "Miya qavarib chiqishi uchun bo‘shliq yaratish",
+    "B": "Qon ketishini to‘xtatish",
+    "C": "Suyakni tiklash",
+    "D": "Nervni kesish",
+    "javob": "A"
+  },
+  {
+    "savol": "Simli arra qaysi qurilma orqali o‘tkaziladi?",
+    "A": "Tarnovsimon metall o‘tkazgich",
+    "B": "Skalpel",
+    "C": "Qisqich",
+    "D": "Kateter",
+    "javob": "A"
+  },
+  {
+    "savol": "Olivekron usulida nechta freza teshigi ochiladi?",
+    "A": "4–5 ta",
+    "B": "1 ta",
+    "C": "8–10 ta",
+    "D": "2 ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Dekompresiyada suyak qancha maydonda rezeksiya qilinadi?",
+    "A": "6×6 yoki 7×7 sm",
+    "B": "2×2 sm",
+    "C": "10×10",
+    "D": "3×4 sm",
+    "javob": "A"
+  },
+  {
+    "savol": "Yuz nervi tarmoqlarini shikastlamaslik uchun kesma qayerdan pastga tushirilmaydi?",
+    "A": "Yonoq yoyining yuqori qirg‘og‘idan pastga",
+    "B": "Tepa sohasidan",
+    "C": "Ensa sohasidan",
+    "D": "Peshonadan",
+    "javob": "A"
+  },
+  {
+    "savol": "Dalgren qisqichi qaysi bosqichda qo‘llanadi?",
+    "A": "Suyakni tishlab ajratishda",
+    "B": "Dura tikishda",
+    "C": "Teri kesishda",
+    "D": "Likvor chiqarishda",
+    "javob": "A"
+  },
+  {
+    "savol": "Rezeksiyali trepanatsiyada suyak qayta qo‘yiladimi?",
+    "A": "Yo‘q",
+    "B": "Ha",
+    "C": "Ba’zida",
+    "D": "Faqat bolalarda",
+    "javob": "A"
+  },
+  {
+    "savol": "Dura kesishdan oldin nima bajariladi?",
+    "A": "Lumbal punksiya",
+    "B": "Arteriya bog‘lash",
+    "C": "Mushak tikish",
+    "D": "Sinus kesish",
+    "javob": "A"
+  },
+  {
+    "savol": "Lahtakni ko‘tarishda qaysi asbob ishlatiladi?",
+    "A": "Elevator",
+    "B": "Skalpel",
+    "C": "Qisqich",
+    "D": "Kateter",
+    "javob": "A"
+  },
+  {
+    "savol": "Trepanatsiyada og‘riqsizlantirish turi?",
+    "A": "Narkoz yoki mahalliy anesteziya",
+    "B": "Faqat mahalliy",
+    "C": "Faqat spinal",
+    "D": "Umuman qilinmaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Suyak usti pardasi qanday ajratiladi?",
+    "A": "Raspator bilan",
+    "B": "Skalpel bilan",
+    "C": "Qisqich bilan",
+    "D": "Sim bilan",
+    "javob": "A"
+  },
+  {
+    "savol": "Trepanatsiya teshiklari orasidagi suyak qanday ajratiladi?",
+    "A": "Simli arra yoki qisqich bilan",
+    "B": "Skalpel bilan",
+    "C": "Ignalar bilan",
+    "D": "Ligatura bilan",
+    "javob": "A"
+  },
+  {
+    "savol": "Dura kesmasi qaysi yo‘nalishda lahtak tarzida bo‘lishi mumkin?",
+    "A": "Asosi sagittal sinusga qaratilgan",
+    "B": "Ensa tomon",
+    "C": "Tepa tomon",
+    "D": "Mushakka",
+    "javob": "A"
+  },
+  {
+    "savol": "Operatsiya yakunida qaysi choklar qo‘yiladi?",
+    "A": "Qavatma-qavat alohida choklar",
+    "B": "Faqat teriga",
+    "C": "Faqat mushakka",
+    "D": "Chok qo‘yilmaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "44. Fissura orbitalis inferior orqali o‘tadi:",
+    "A": "N. infraorbitalis",
+    "B": "N. opticus",
+    "C": "N. trochlearis",
+    "D": "N. olfactorius",
+    "javob": "A"
+  },
+  {
+    "savol": "Yuzning medial qismiga qaysi soha kiradi?",
+    "A": "Regio orbitalis",
+    "B": "Regio temporalis",
+    "C": "Regio occipitalis",
+    "D": "Regio mastoidea",
+    "javob": "A"
+  },
+  {
+    "savol": "Regio mentalis qaysi sohaga qo‘shiladi?",
+    "A": "Regio oris",
+    "B": "Regio buccalis",
+    "C": "Regio parotideomasseterica",
+    "D": "Regio temporalis",
+    "javob": "A"
+  },
+  {
+    "savol": "Regio facialis lateralis tarkibiga qaysi soha kiradi?",
+    "A": "Regio buccalis",
+    "B": "Regio orbitalis",
+    "C": "Regio nasalis",
+    "D": "Regio oris",
+    "javob": "A"
+  },
+  {
+    "savol": "Yuz terisi qanday xususiyatga ega?",
+    "A": "Yupqa va harakatchan",
+    "B": "Qalin va harakatsiz",
+    "C": "Mushak bilan birikkan",
+    "D": "Fassiaga yopishgan",
+    "javob": "A"
+  },
+  {
+    "savol": "Yuz qon bilan asosan qaysi tizim orqali ta’minlanadi?",
+    "A": "A. carotis externa",
+    "B": "A. carotis communis",
+    "C": "A. subclavia",
+    "D": "A. vertebralis",
+    "javob": "A"
+  },
+  {
+    "savol": "A. facialis qaysi arteriya tizimiga kiradi?",
+    "A": "A. carotis externa",
+    "B": "A. carotis interna",
+    "C": "A. basilaris",
+    "D": "A. vertebralis",
+    "javob": "A"
+  },
+  {
+    "savol": "Yuzning qo‘shimcha arterial manbai qaysi?",
+    "A": "A. ophthalmica",
+    "B": "A. meningea media",
+    "C": "A. cerebri media",
+    "D": "A. basilaris",
+    "javob": "A"
+  },
+  {
+    "savol": "Yuz venoz to‘ri nechta asosiy qismdan iborat?",
+    "A": "Yuza va chuqur",
+    "B": "Uchta",
+    "C": "Bitta",
+    "D": "To‘rtta",
+    "javob": "A"
+  },
+  {
+    "savol": "V. angularis qayerda boshlanadi?",
+    "A": "Ko‘z ichki burchagida",
+    "B": "Pastki jag‘da",
+    "C": "Chakka sohasida",
+    "D": "Ensa sohasida",
+    "javob": "A"
+  },
+  {
+    "savol": "1. Margo supraorbitalis orqali qaysi tuzilmalar chiqadi?",
+    "A": "Aa., vv. et nn. supraorbitales et supratrochleares",
+    "B": "A. infraorbitalis va n. infraorbitalis",
+    "C": "N. lacrimalis va a. lacrimalis",
+    "D": "V. angularis va n. facialis",
+    "javob": "A"
+  },
+  {
+    "savol": "Septum orbitale nimani ajratadi?",
+    "A": "Qovoq sohasi va xususiy ko‘z kosasi sohasini",
+    "B": "Ko‘z olmasi va retina",
+    "C": "Ko‘z kosasi va sinus maxillaris",
+    "D": "Iris va cornea",
+    "javob": "A"
+  },
+  {
+    "savol": "Yuqori qovoqni ko‘taruvchi muskul qaysi nerv bilan innervatsiyalanadi?",
+    "A": "N. oculomotorius",
+    "B": "N. trochlearis",
+    "C": "N. abducens",
+    "D": "N. facialis",
+    "javob": "A"
+  },
+  {
+    "savol": "M. orbicularis oculi qaysi nerv bilan innervatsiyalanadi?",
+    "A": "N. facialis",
+    "B": "N. oculomotorius",
+    "C": "N. trigeminus",
+    "D": "N. opticus",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko‘z kosasining yuqori devori qaysi suyaklardan hosil bo‘ladi?",
+    "A": "Os frontale va ala minor ossis sphenoidalis",
+    "B": "Maxilla va os lacrimale",
+    "C": "Os zygomaticum",
+    "D": "Vomer",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko‘z kosasining tubi nimaning tomi hisoblanadi?",
+    "A": "Sinus maxillaris",
+    "B": "Sinus frontalis",
+    "C": "Sinus sphenoidalis",
+    "D": "Sinus ethmoidalis",
+    "javob": "A"
+  },
+  {
+    "savol": "Margo supraorbitalis orqali qaysi tuzilmalar chiqadi?",
+    "A": "Aa., vv. et nn. supraorbitales et supratrochleares",
+    "B": "A. infraorbitalis va n. infraorbitalis",
+    "C": "N. lacrimalis va a. lacrimalis",
+    "D": "V. angularis va n. facialis",
+    "javob": "A"
+  },
+  {
+    "savol": "Canalis opticus orqali nima o‘tadi?",
+    "A": "N. opticus va a. ophthalmica",
+    "B": "N. trochlearis",
+    "C": "N. facialis",
+    "D": "A. maxillaris",
+    "javob": "A"
+  },
+  {
+    "savol": "Fissura orbitalis superior orqali o‘tadigan nervlardan biri?",
+    "A": "N. oculomotorius",
+    "B": "N. olfactorius",
+    "C": "N. hypoglossus",
+    "D": "N. glossopharyngeus",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko‘z kosasining pastki tirqishi qaysi chuqurchalar bilan bog‘laydi?",
+    "A": "Fossa pterygopalatina va fossa infratemporalis",
+    "B": "Fossa cranii anterior",
+    "C": "Fossa cranii posterior",
+    "D": "Sinus frontalis",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko‘z olmasining fibroz qobig‘i qismlari?",
+    "A": "Sclera va cornea",
+    "B": "Retina va choroidea",
+    "C": "Iris va corpus ciliare",
+    "D": "Lens va vitreum",
+    "javob": "A"
+  },
+  {
+    "savol": "N. ethmoidalis anterior qayerdan keladi?",
+    "A": "N. ophthalmicus",
+    "B": "N. maxillaris",
+    "C": "N. mandibularis",
+    "D": "N. facialis",
+    "javob": "A"
+  },
+  {
+    "savol": "Qorachiq sfinkteri qaysi tolalar bilan innervatsiyalanadi?",
+    "A": "Parasimpatik tolalar (ganglion ciliare)",
+    "B": "Simpatik tolalar",
+    "C": "N. facialis (tanglion ciliare)",
+    "D": "N. abducens",
+    "javob": "A"
+  },
+  {
+    "savol": "Retina markaziy chuqurchasi qayerda?",
+    "A": "Fovea centralis (macula sohasida)",
+    "B": "Discus n. optici (ganglion ciliare)",
+    "C": "Iris markazida",
+    "D": "Corpus vitreum",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko‘z ichi bosimi oshishi nimaga olib keladi?",
+    "A": "Retina ishemiyasi va ko‘rish yo‘qolishi",
+    "B": "Mioz",
+    "C": "Ekzoftalm",
+    "D": "Diplopiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Ganglion ciliare qayerda joylashgan?",
+    "A": "N. opticus tashqi yuzasida",
+    "B": "Iris ichida",
+    "C": "Retina orqasida",
+    "D": "Sinus cavernosus ichida",
+    "javob": "A"
+  },
+  {
+    "savol": "A. ophthalmica qayerdan chiqadi?",
+    "A": "A. carotis interna",
+    "B": "A. carotis externa",
+    "C": "A. maxillaris",
+    "D": "A. facialis",
+    "javob": "A"
+  },
+  {
+    "savol": "M. rectus lateralis qaysi nerv bilan innervatsiyalanadi?",
+    "A": "N. abducens",
+    "B": "N. oculomotorius",
+    "C": "N. trochlearis",
+    "D": "N. facialis",
+    "javob": "A"
+  },
+  {
+    "savol": "M. obliquus superior qaysi nerv bilan innervatsiyalanadi?",
+    "A": "N. trochlearis",
+    "B": "N. oculomotorius",
+    "C": "N. abducens",
+    "D": "N. opticus",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko‘z osti nervi qaysi sohani innervatsiya qiladi?",
+    "A": "Pastki qovoqdan yuqori labgacha terini",
+    "B": "Faqat burun uchi",
+    "C": "Faqat yonoq",
+    "D": "Faqat pastki lab",
+    "javob": "A"
+  },
+  {
+    "savol": "Infraorbital anesteziyada blokada qilinadi:",
+    "A": "Nn. alveolares superiores anteriores et medii",
+    "B": "N. mandibularis",
+    "C": "N. lingualis",
+    "D": "N. buccalis",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko‘z osti teshigi qayerda joylashgan?",
+    "A": "Fossa canina sohasida",
+    "B": "Os zygomaticum",
+    "C": "Vomer",
+    "D": "Concha nasalis inferior",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko‘z kosasi piramida shakli qaysi tomonga qaragan?",
+    "A": "Cho‘qqisi orqaga",
+    "B": "Oldinga",
+    "C": "Pastga",
+    "D": "Yuqoriga",
+    "javob": "A"
+  },
+  {
+    "savol": "Tashqi burun qon bilan ta’minlanadi:",
+    "A": "A. angularis va a. dorsalis nasi",
+    "B": "A. temporalis",
+    "C": "A. meningea media",
+    "D": "A. lingualis",
+    "javob": "A"
+  },
+  {
+    "savol": "Lamina cribrosa nimani ajratadi?",
+    "A": "Burun bo‘shlig‘i va oldingi kalla chuqurchasini",
+    "B": "Burun va og‘izni",
+    "C": "Orbitani",
+    "D": "Sinus frontalisni",
+    "javob": "A"
+  },
+  {
+    "savol": "Pastki burun yo‘liga nima ochiladi?",
+    "A": "Canalis nasolacrimalis",
+    "B": "Sinus frontalis",
+    "C": "Sinus sphenoidalis",
+    "D": "Sinus ethmoidalis posterior",
+    "javob": "A"
+  },
+  {
+    "savol": "Meatus nasi mediusga nima ochiladi?",
+    "A": "Sinus frontalis va sinus maxillaris",
+    "B": "Sinus sphenoidalis",
+    "C": "Faqat sinus ethmoidalis posterior",
+    "D": "Canalis incisivus",
+    "javob": "A"
+  },
+  {
+    "savol": "Septum nasi tarkibiga kiradi:",
+    "A": "Vomer va lamina perpendicularis ossis ethmoidalis",
+    "B": "Maxilla",
+    "C": "Os zygomaticum",
+    "D": "Os palatinum",
+    "javob": "A"
+  },
+  {
+    "savol": "Burun qon ketishining tez-tez manbai:",
+    "A": "Septumning oldingi venoz chigali",
+    "B": "Concha superior",
+    "C": "Sinus frontalis",
+    "D": "Choana",
+    "javob": "A"
+  },
+  {
+    "savol": "N. nasopalatine qayerdan o‘tadi?",
+    "A": "Foramen sphenopalatinum → canalis incisivus",
+    "B": "Canalis opticus",
+    "C": "Fissura orbitalis superior",
+    "D": "Foramen rotundum",
+    "javob": "A"
+  },
+  {
+    "savol": "Sinus maxillaris yuqori devori nima?",
+    "A": "Facies orbitalis maxillae",
+    "B": "Processus alveolaris",
+    "C": "Vomer",
+    "D": "Os lacrimale",
+    "javob": "A"
+  },
+  {
+    "savol": "Odontogen infeksiya ko‘proq qaysi sinusga tarqaladi?",
+    "A": "Sinus maxillaris",
+    "B": "Sinus frontalis",
+    "C": "Sinus sphenoidalis",
+    "D": "Sinus ethmoidalis posterior",
+    "javob": "A"
+  },
+  {
+    "savol": "Sinus sphenoidalis yuqorida nima bilan chegaralangan?",
+    "A": "Sella turcica",
+    "B": "Maxilla",
+    "C": "Os palatinum",
+    "D": "Concha inferior",
+    "javob": "A"
+  },
+  {
+    "savol": "Tenon kapsulasi nima?",
+    "A": "Vagina bulbi",
+    "B": "Retina",
+    "C": "Iris",
+    "D": "Cornea",
+    "javob": "A"
+  },
+  {
+    "savol": "Sinus frontalis pastki devori qayerga ochiladi?",
+    "A": "Meatus nasi medius",
+    "B": "Meatus nasi inferior",
+    "C": "Meatus nasi superior",
+    "D": "Choana",
+    "javob": "A"
+  },
+  {
+    "savol": "Sinus ethmoidales anterior qayerga ochiladi?",
+    "A": "Meatus nasi medius",
+    "B": "Meatus nasi superior",
+    "C": "Meatus nasi inferior",
+    "D": "Sinus sphenoidalis",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko‘zning yuqori venasi qayerga quyiladi?",
+    "A": "Sinus cavernosus",
+    "B": "V. facialis",
+    "C": "Plexus pterygoideus",
+    "D": "V. jugularis externa",
+    "javob": "A"
+  },
+  {
+    "savol": "M. ciliaris vazifasi?",
+    "A": "Akkomodatsiya",
+    "B": "Qorachiq kengayishi",
+    "C": "Ko‘z yopilishi",
+    "D": "Ko‘z aylanishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Iris markazidagi teshik?",
+    "A": "Pupilla",
+    "B": "Fovea",
+    "C": "Discus",
+    "D": "Hiatus",
+    "javob": "A"
+  },
+  {
+    "savol": "Shishasimon tana joylashgan?",
+    "A": "Gavharning orqasida",
+    "B": "Iris oldida",
+    "C": "Cornea ichida",
+    "D": "Retina ustida",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko‘z kosasining medial devori tarkibi?",
+    "A": "Lamina orbitalis ossis ethmoidalis va os lacrimale",
+    "B": "Maxilla",
+    "C": "Os frontale",
+    "D": "Os palatinum",
+    "javob": "A"
+  },
+  {
+    "savol": "N. lacrimalis vazifasi?",
+    "A": "Ko‘z yosh bezining sezuvchanligi",
+    "B": "Qorachiq torayishi",
+    "C": "Ko‘z yopilishi",
+    "D": "Ko‘rish",
+    "javob": "A"
+  },
+  {
+    "savol": "Burun limfasi oldingi bo‘limdan qayerga oqadi?",
+    "A": "Nodi lymphatici submandibulares",
+    "B": "Sinus cavernosus",
+    "C": "Plexus pterygoideus",
+    "D": "Nodi cervicales profundi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko‘z kosasining yog‘ to‘qimasi vazifasi?",
+    "A": "Ko‘z olmasiga yostiqcha",
+    "B": "Ko‘rish",
+    "C": "Qorachiq harakati",
+    "D": "Retina oziqlanishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Hiatus maxilaris ochiladi",
+    "A": "Meatus nasi media",
+    "B": "Meatus nasi superior",
+    "C": "Meatus nasi inferior",
+    "D": "Meatus nasi communis",
+    "javob": "A"
+  },
+  {
+    "savol": "Bo‘yin yuqori chegarasi nimadan o‘tadi?",
+    "A": "Pastki jag‘ qirras",
+    "B": "To‘sh suyagi",
+    "C": "Kurak",
+    "D": "Qovurg‘a",
+    "javob": "A"
+  },
+  {
+    "savol": "Bo‘yin pastki chegarasiga qaysi suyak kiradi?",
+    "A": "O‘mrov suyagi",
+    "B": "Bilak suyagi",
+    "C": "Son suyagi",
+    "D": "Tirsak",
+    "javob": "A"
+  },
+  {
+    "savol": "Bo‘yinning oldingi qismi nima deyiladi?",
+    "A": "Regio colli anterior",
+    "B": "Regio manus",
+    "C": "Regio thoracis",
+    "D": "Regio cranii",
+    "javob": "A"
+  },
+  {
+    "savol": "Bo‘yinning orqa qismi nima deyiladi?",
+    "A": ") Regio colli posterior",
+    "B": "Regio faciei",
+    "C": "Regio thoracis",
+    "D": "Regio cranii",
+    "javob": "A"
+  },
+  {
+    "savol": "To‘sh-o‘mrov-so‘rg‘ichsimon mushak lotincha?",
+    "A": "Sternocleidomastoideus",
+    "B": "Masseter",
+    "C": "Temporalis",
+    "D": "Buccinator",
+    "javob": "A"
+  },
+  {
+    "savol": "Uyqu do‘mbog‘i qaysi umurtqada?",
+    "A": "VI bo‘yin",
+    "B": "I bel",
+    "C": "III ko‘krak",
+    "D": "II dumg‘aza",
+    "javob": "A"
+  },
+  {
+    "savol": "Umumiy uyqu arteriyasini qayerga bosish mumkin?",
+    "A": "Uyqu do‘mbog‘iga",
+    "B": "Kurakka",
+    "C": "Bilakka",
+    "D": "Son suyagiga",
+    "javob": "A"
+  },
+  {
+    "savol": "Bo‘yin ichki uchburchagi chegarasiga nima kiradi",
+    "A": "Pastki jag‘",
+    "B": "Kurak",
+    "C": "Son",
+    "D": "Bilak",
+    "javob": "A"
+  },
+  {
+    "savol": "Bo‘yin tashqi uchburchagi chegarasiga nima kiradi?",
+    "A": "Trapetsiyasimon mushak",
+    "B": "Yurak",
+    "C": "Jigar",
+    "D": "Buyrak",
+    "javob": "A"
+  },
+  {
+    "savol": "Jag‘ osti uchburchagi lotincha?",
+    "A": "Trigonum submandibulare",
+    "B": "Trigonum femorale",
+    "C": "Trigonum anale",
+    "D": "Trigonum cubitale",
+    "javob": "A"
+  },
+  {
+    "savol": "Uyqu uchburchagi lotincha?",
+    "A": "A) Trigonum caroticum",
+    "B": "Trigonum scapulare",
+    "C": "Trigonum mentale",
+    "D": "Trigonum costale",
+    "javob": "A"
+  },
+  {
+    "savol": "Omoklavikulyar uchburchakda nima aniqlanadi?",
+    "A": "O‘mrov osti arteriyasi",
+    "B": "Aorta",
+    "C": "Buyrak arteriyasi",
+    "D": "Son venasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Platysma qaysi fassiyada joylashadi?",
+    "A": "1-fassiya",
+    "B": "3-fassiya",
+    "C": "5-fassiya",
+    "D": "Yo‘q",
+    "javob": "A"
+  },
+  {
+    "savol": "Bo‘yinning ichki fassiyasi qaysi?",
+    "A": "4-fassiya",
+    "B": "3-fassiya",
+    "C": "5-fassiya",
+    "D": "Yo‘q",
+    "javob": "A"
+  },
+  {
+    "savol": "Bo‘yin venalari shikastida xavfli asorat?",
+    "A": "Havo emboliyasi",
+    "B": "Gipertoniya",
+    "C": "Ich ketish",
+    "D": "Isitma",
+    "javob": "A"
+  },
+  {
+    "savol": "Hiqildoq lotincha?",
+    "A": "Larynx",
+    "B": "Pharynx",
+    "C": "Oesophagus",
+    "D": "Trachea",
+    "javob": "A"
+  },
+  {
+    "savol": "Kekirdak lotincha?",
+    "A": "Trachea",
+    "B": "Larynx",
+    "C": "Pharynx",
+    "D": "Pleura",
+    "javob": "A"
+  },
+  {
+    "savol": "Hiqildoq skeleti nechta tog‘aydan iborat?",
+    "A": "9 ta",
+    "B": "5 ta",
+    "C": "12 ta",
+    "D": "2 ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Hiqildoq qaysi umurtqa sohasida?",
+    "A": "V-VI bo‘yin",
+    "B": "I-II bel",
+    "C": "X-XI ko‘krak",
+    "D": "Sakral",
+    "javob": "A"
+  },
+  {
+    "savol": "Hiqildoqning yuqori bo‘limi?",
+    "A": "Vestibulum laryngis",
+    "B": "Atrium",
+    "C": "Fundus",
+    "D": "Corpus",
+    "javob": "A"
+  },
+  {
+    "savol": "Ovoz boylamlari oralig‘i qismi?",
+    "A": "Regio glottica",
+    "B": "Regio nasi",
+    "C": "Regio oris",
+    "D": "Regio ani",
+    "javob": "A"
+  },
+  {
+    "savol": "Kekirdak orqasida nima joylashadi?",
+    "A": "Qizilo‘ngach",
+    "B": "Yurak",
+    "C": "O‘pka",
+    "D": "Buyrak",
+    "javob": "A"
+  },
+  {
+    "savol": "alqonsimon bez bo‘yinchasi qayerda?",
+    "A": "Kekirdak oldida",
+    "B": "Yurak ustida",
+    "C": "O‘pka ichida",
+    "D": "Til ustida",
+    "javob": "A"
+  },
+  {
+    "savol": "Qalqonsimon bez qon ta’minoti manbai?",
+    "A": "Yuqori qalqonsimon arteriya",
+    "B": "Son arteriyasi",
+    "C": "Radial arteriya",
+    "D": "Koronar arteriya",
+    "javob": "A"
+  },
+  {
+    "savol": "Bez orqasida qaysi nerv yotadi?",
+    "A": "Qaytuvchi hiqildoq nervi",
+    "B": "Ko‘ruv nervi",
+    "C": "Yuz nervi",
+    "D": "Tirsak nervi",
+    "javob": "A"
+  },
+  {
+    "savol": "Nervus larengeus recurrens shikastlansa nima bo‘ladi?",
+    "A": "Ovoz buziladi",
+    "B": "Ko‘r bo‘ladi",
+    "C": "Eshitmaydi",
+    "D": "Oyoq falaji",
+    "javob": "A"
+  },
+  {
+    "savol": "Bo’yinning qon tomir nerv tutami tarkibiga kirmaydi",
+    "A": "n.hypoglossus",
+    "B": "n.vagus",
+    "C": "a.carotica communis",
+    "D": "v.jugularis interna",
+    "javob": "A"
+  },
+  {
+    "savol": "Fasia endo servicalisning visseral parag’i nimlarni o’raydi",
+    "A": "tracheya",
+    "B": "n.vagus",
+    "C": "a.carotica communis",
+    "D": "v.jugularis interna",
+    "javob": "A"
+  },
+  {
+    "savol": "Pirogov uchburchagida nima topiladi?",
+    "A": "Til arteriyasi",
+    "B": "n.vagus",
+    "C": "a.carotica communis",
+    "D": "v.jugularis interna",
+    "javob": "A"
+  },
+  {
+    "savol": "Jag‘ osti bez chiqaruv yo‘li?",
+    "A": "Ductus submandibularis",
+    "B": "Ductus choledochus",
+    "C": "Ureter",
+    "D": "Urethra",
+    "javob": "A"
+  },
+  {
+    "savol": "Bo‘yin tashqi uchburchagida qaysi chigal bor?",
+    "A": "Plexus brachialis",
+    "B": "Plexus solaris",
+    "C": "Plexus coccygeus",
+    "D": "Plexus venosus",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi mimika muskullaridan qaysi biri lunj sohasida joylashadi?",
+    "A": "Barchasi",
+    "B": "m. zygomaticus",
+    "C": "m. quadratus labii superioris",
+    "D": "m. orbicularis oculi",
+    "javob": "A"
+  },
+  {
+    "savol": "Yuz arteriyasi pastki jag‘ qirrasi orqali o‘tgach qaysi tomonga yo‘naladi?",
+    "A": "Ko‘zning ichki burchagiga",
+    "B": "Pastga",
+    "C": "Orqaga",
+    "D": "Quloq tomon",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko‘z ichki burchagi sohasida yuz arteriyasi qanday nomlanadi?",
+    "A": "a. angularis",
+    "B": "a. infraorbitalis",
+    "C": "a. temporalis",
+    "D": "a. maxillaris",
+    "javob": "A"
+  },
+  {
+    "savol": "Corona mortis ni qaysi venalar hosil qiladi",
+    "A": "v.angulari+v.fasialis",
+    "B": "v.jugulari+v.angularis",
+    "C": "v.tyroidea superior",
+    "D": "v.ophtalmica",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi arteriyalardan qaysi biri a. maxillarisdan chiqadi va lunj sohasida anastomoz hosil qiladi?",
+    "A": "a. infraorbitalis",
+    "B": "a. lingualis",
+    "C": "a. carotis interna",
+    "D": "a. meningea anterior",
+    "javob": "A"
+  },
+  {
+    "savol": "Yuz venasi ko‘z burchagi sohasida qaysi vena bilan anastomozlashadi?",
+    "A": "v. ophthalmica superior",
+    "B": "v. jugularis externa",
+    "C": "v. temporalis superficialis",
+    "D": "v. retromandibularis",
+    "javob": "A"
+  },
+  {
+    "savol": "Yuz venasining retrograd qon oqimi qaysi patologiyaga olib kelishi mumkin?",
+    "A": "Kavernoz sinus trombozi",
+    "B": "Otit",
+    "C": "Laringit",
+    "D": "Faringit",
+    "javob": "A"
+  },
+  {
+    "savol": "Lunj sohasining sezuvchi innervatsiyasida qatnashuvchi nervlardan biri qaysi?",
+    "A": "n. infraorbitalis",
+    "B": "n. hypoglossus",
+    "C": "n. vagus",
+    "D": "n. accessorius",
+    "javob": "A"
+  },
+  {
+    "savol": "Lunj sohasida mimika muskullarini harakatlantiruvchi nerv qaysi?",
+    "A": "n. facialis",
+    "B": "n. trigeminus",
+    "C": "n. glossopharyngeus",
+    "D": "n. hypoglossus",
+    "javob": "A"
+  },
+  {
+    "savol": "Lunj muskuli qaysi tuzilmalardan boshlanadi?",
+    "A": "Yuqori va pastki jag‘dan",
+    "B": "Yonoq yoyidan",
+    "C": "Burun suyagidan",
+    "D": "Tanglay suyagidan",
+    "javob": "A"
+  },
+  {
+    "savol": "Ductus parotideus qaysi muskullarni teshib o‘tadi?",
+    "A": "m. buccinator",
+    "B": "m. temporalis",
+    "C": "m. masseter",
+    "D": "m. pterygoideus",
+    "javob": "A"
+  },
+  {
+    "savol": "Quloq oldi bezini qoplaydigan fassiya qanday nomlanadi?",
+    "A": "fascia parotideomasseterica",
+    "B": "fascia cervicalis",
+    "C": "fascia temporalis",
+    "D": "fascia buccopharyngea",
+    "javob": "A"
+  },
+  {
+    "savol": "Quloq oldi bezining ichidan qaysi arteriya o‘tadi?",
+    "A": "a. carotis externa",
+    "B": "a. carotis interna",
+    "C": "a. lingualis",
+    "D": "a. vertebralis",
+    "javob": "A"
+  },
+  {
+    "savol": "Quloq oldi bezining ichida qaysi vena joylashadi?",
+    "A": "v. retromandibularis",
+    "B": "v. jugularis interna",
+    "C": "v. temporalis profunda",
+    "D": "v. lingualis",
+    "javob": "A"
+  },
+  {
+    "savol": "Quloq oldi bezida qaysi nerv chigal hosil qiladi?",
+    "A": "n. facialis",
+    "B": "n. trigeminus",
+    "C": "n. vagus",
+    "D": "n. glossopharyngeus",
+    "javob": "A"
+  },
+  {
+    "savol": "Quloq oldi bezining chiqaruv yo‘li qaysi muskuli ustidan o‘tadi?",
+    "A": "m. masseter",
+    "B": "m. temporalis",
+    "C": "m. pterygoideus",
+    "D": "m. digastricus",
+    "javob": "A"
+  },
+  {
+    "savol": "Golotopiya bu?",
+    "A": "A’zo va to’qimalarni inson tanasiga nisbattan joylashuvi",
+    "B": "A’zo va to’qimalarni bir biriga nisbattan joylashuvi",
+    "C": "A’zo va to’qimalarni suyakka nisbattan joylashuvi",
+    "D": "Tuzilishi va topografiyasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Sintopiya bu?",
+    "A": "A’zo va to’qimalarni bir biriga nisbattan joylashuvi",
+    "B": "A’zo va to’qimalarni inson tanasiga nisbattan joylashuvi",
+    "C": "A’zo va to’qimalarni suyakka nisbattan joylashuvi",
+    "D": "Tuzilishi va topografiyasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Skletotopiya bu?",
+    "A": "A’zo va to’qimalarni skletga nisbattan joylashuvi",
+    "B": "A’zo va to’qimalarni inson tanasiga nisbattan joylashuvi",
+    "C": "A’zo va to’qimalarni bir biriga nisbattan joylashuvi",
+    "D": "Tuzilishi va topografiyasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Bilrot qisqichi qaysi guruh asboblarga kiradi?",
+    "A": "Qon to’xtatuvchilar",
+    "B": "Kesuvchilar",
+    "C": "Yordamchilar",
+    "D": "Fiksatsiyalovchilar",
+    "javob": "A"
+  },
+  {
+    "savol": "Koxer qisqichi qaysi guruh asboblarga kiradi?",
+    "A": "Qon to’xtatuvchilar",
+    "B": "Kesuvchilar",
+    "C": "Yordamchilar",
+    "D": "Fiksatsiyalovchilar",
+    "javob": "A"
+  },
+  {
+    "savol": "Pian qisqichi qaysi guruh asboblarga kiradi?",
+    "A": "Qon to’xtatuvchilar",
+    "B": "Kesuvchilar",
+    "C": "Yordamchilar",
+    "D": "Fiksatsiyalovchilar",
+    "javob": "A"
+  },
+  {
+    "savol": "Maskit qisqichi qaysi guruh asboblarga kiradi?",
+    "A": "Qon to’xtatuvchilar",
+    "B": "Kesuvchilar",
+    "C": "Yordamchilar",
+    "D": "Fiksatsiyalovchilar",
+    "javob": "A"
+  },
+  {
+    "savol": "Scalpel qaysi guruh asboblarga kiradi?",
+    "A": "Kesuvchilar",
+    "B": "Yordamchilar",
+    "C": "Fiksatsiyalovchilar",
+    "D": "Qon to’xtatuvchilar",
+    "javob": "A"
+  },
+  {
+    "savol": "Kuper qaychisi qaysi guruh asboblarga kiradi?",
+    "A": "Kesuvchilar",
+    "B": "Yordamchilar",
+    "C": "Fiksatsiyalovchilar",
+    "D": "Qon to’xtatuvchilar",
+    "javob": "A"
+  },
+  {
+    "savol": "Gigar ignaushlagichi qaysi guruh asboblariga kiradi?",
+    "A": "To’qimalarni birlashtiruvchilar",
+    "B": "Yordamchilar",
+    "C": "Fiksatsiyalovchilar",
+    "D": "Qon to’xtatuvchilar",
+    "javob": "A"
+  },
+  {
+    "savol": "Burdenko triadasi bu?",
+    "A": "Barchasi to’g’ri",
+    "B": "Anatomik qulaylik",
+    "C": "Fiziologik raxsat",
+    "D": "Texnik imkoniyat",
+    "javob": "A"
+  },
+  {
+    "savol": "Barcha operatsiyalarning nechta elementi bor?",
+    "A": "3 ta",
+    "B": "4 ta",
+    "C": "5 ta",
+    "D": "6 ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Traxeostomik kanyula qaysi guruh asboblarga kiradi?",
+    "A": "Maxsus",
+    "B": "To’qimalarni birlashtiruvchilar",
+    "C": "Yordamchilar",
+    "D": "Fiksatsiyalovchilar",
+    "javob": "A"
+  },
+  {
+    "savol": "Necha xil tana tiplari bor?",
+    "A": "3 xil",
+    "B": "2 xil",
+    "C": "5 xil",
+    "D": "6 xil",
+    "javob": "A"
+  },
+  {
+    "savol": "Astenik tana tipiga xos",
+    "A": "Bo’yi uzun epigastral burchak 80 dan kichik",
+    "B": "Gavdali , keng yelkali epigastral burchak 120 dan katta",
+    "C": "Normal tuzilishli epigastral burchak 90-120",
+    "D": "Skalioz",
+    "javob": "A"
+  },
+  {
+    "savol": "Giperstenik tana tipiga xos",
+    "A": "Gavdali , keng yelkali epigastral burchak 120 dan katta",
+    "B": "Bo’yi uzun epigastral burchak 80 dan kichik",
+    "C": "Normal tuzilishli epigastral burchak 90-120",
+    "D": "Kifoz tuzilishli",
+    "javob": "A"
+  },
+  {
+    "savol": "Normastenik tana tipiga xos",
+    "A": "Normal tuzilishli epigastral burchak 90-120",
+    "B": "Bo’yi uzun epigastral burchak 80 dan kichik",
+    "C": "Gavdali , keng yelkali epigastral burchak 120 dan katta",
+    "D": "Kifoz tuzilishli",
+    "javob": "A"
+  },
+  {
+    "savol": "Anesteziya bu?",
+    "A": "Og’riqsizlantirish",
+    "B": "Kesish",
+    "C": "Tikish",
+    "D": "Ajratish",
+    "javob": "A"
+  },
+  {
+    "savol": "Qon to’xtatish bu?",
+    "A": "Gemostas (vaqtincha , doimiy)",
+    "B": "Caput (doimiy)",
+    "C": "Anesteziya",
+    "D": "Coagulyatsiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Topografik antomiya nimani o’rganadi?",
+    "A": "A’zolarni malum sohada joylashishini",
+    "B": "Qon tomirlarini",
+    "C": "Tana tuzilishini",
+    "D": "Hamma organlar tuzilishini",
+    "javob": "A"
+  },
+  {
+    "savol": "Boshning miya qismini qon bilan taminlaydigan asosiy arteriya bu ?",
+    "A": "Ichki uyqu arteriyasi",
+    "B": "Tashqi uyqu arteriyasi",
+    "C": "Yuz arteriyalari",
+    "D": "Temporalis a.a",
+    "javob": "A"
+  },
+  {
+    "savol": "Boshning ichki asosi nima deyiladi?",
+    "A": "Basis cranii interna",
+    "B": "Fossa cranii pasterior",
+    "C": "Fossa cranii media",
+    "D": "Basis cranii eksterna",
+    "javob": "A"
+  },
+  {
+    "savol": "Boshning tashqi asosi nima deyiladi?",
+    "A": "Basis cranii eksterna",
+    "B": "Fossa cranii pasterior",
+    "C": "Fossa cranii media",
+    "D": "Basis cranii interna",
+    "javob": "A"
+  },
+  {
+    "savol": "Boshning ichki asosida nechta chuqurcha bor?",
+    "A": "3 ta",
+    "B": "4 ta",
+    "C": "5 ta",
+    "D": "6 ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Boshning ichki asosi old chuqurchasi bu?",
+    "A": "Fossa cranii anterior",
+    "B": "Fossa cranii pasterior",
+    "C": "Fossa cranii media",
+    "D": "Basis cranii",
+    "javob": "A"
+  },
+  {
+    "savol": "Boshning ichki asosi o’rta chuqurchasi bu?",
+    "A": "Fossa cranii media",
+    "B": "Fossa cranii pasterior",
+    "C": "Fossa cranii anterior",
+    "D": "Basis cranii eksterna",
+    "javob": "A"
+  },
+  {
+    "savol": "Boshning ichki asosi orqa chuqurchasi bu?",
+    "A": "Fossa cranii pasterior",
+    "B": "Fossa cranii media",
+    "C": "Fossa cranii anterior",
+    "D": "Basis cranii eksterna",
+    "javob": "A"
+  },
+  {
+    "savol": "Foramen magnum qaysi chuqurchada joylashgan?",
+    "A": "Fossa cranii pasterior",
+    "B": "Fossa cranii media",
+    "C": "Fossa cranii anterior",
+    "D": "Basis cranii eksterna",
+    "javob": "A"
+  },
+  {
+    "savol": "Williziy halqasini qaysi qon tomirlar hosil qiladi?",
+    "A": "Ichki uyqu arteriyasi va umurtqa arteriyalari",
+    "B": "Tashqi uyqu arteriyasi",
+    "C": "Yuz arteriyasi",
+    "D": "Yuz arteriyasi va umurtqa arteriyalari",
+    "javob": "A"
+  },
+  {
+    "savol": "Chakka sohasini qon bilan taminlaydigan asosiy arteriya qaysi?",
+    "A": "A temporalis",
+    "B": "Tashqi uyqu arteriyasi",
+    "C": "Yuz arteriyasi",
+    "D": "Yuz arteriyasi va umurtqa arteriyalari",
+    "javob": "A"
+  },
+  {
+    "savol": "Foramen ceicum qaysi chuqurchada joylashgan?",
+    "A": "Oldingi",
+    "B": "O’rta",
+    "C": "Orqa",
+    "D": "Pastgi",
+    "javob": "A"
+  },
+  {
+    "savol": "Peshona tepa ensa sohasida teri osti qavatida nima joylashgan?",
+    "A": "Trabekulalar",
+    "B": "Mushak to’qimasi",
+    "C": "Yuz arteriyasi",
+    "D": "Yuz arteriyasi va umurtqa arteriyalari",
+    "javob": "A"
+  },
+  {
+    "savol": "A meningia media qaysi arteriyaning tarmog’i?",
+    "A": "Ichki uyqu arteriyasi",
+    "B": "Tashqi uyqu arteriyasi",
+    "C": "Yuz arteriyasi",
+    "D": "Yuz arteriyasi va umurtqa arteriyalari",
+    "javob": "A"
+  },
+  {
+    "savol": "Chakka sohasi nima deyiladi?",
+    "A": "Regio temporalis",
+    "B": "Regio frontoperietooccipitalis",
+    "C": "Regio nasalis",
+    "D": "Regio oris",
+    "javob": "A"
+  },
+  {
+    "savol": "Peshona tepa ensa sohalari nima deyiladi?",
+    "A": "Regio frontoperietooccipitalis",
+    "B": "Regio temporalis",
+    "C": "Regio nasalis",
+    "D": "Regio oris",
+    "javob": "A"
+  },
+  {
+    "savol": "Boshning ichki asosi nechta qismdan iborat?",
+    "A": "3 ta",
+    "B": "2 ta",
+    "C": "1 ta",
+    "D": "5 ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Oldingi miya chuqurchasi bu?",
+    "A": "Fossa cranium anterior",
+    "B": "Fossa cranium media",
+    "C": "Fossa cranium posterior",
+    "D": "Hidlov nervi",
+    "javob": "A"
+  },
+  {
+    "savol": "O’rta miya chuqurchasi bu?",
+    "A": "Fossa cranium media",
+    "B": "Fossa cranium posterior",
+    "C": "Hidlov nervi",
+    "D": "Fossa cranium anterior",
+    "javob": "A"
+  },
+  {
+    "savol": "Orqa miya chuqurchasi bu?",
+    "A": "Fossa cranium posterior",
+    "B": "Fossa cranium anterior",
+    "C": "Fossa cranium media",
+    "D": "Hidlov nervi",
+    "javob": "A"
+  },
+  {
+    "savol": "Foramen ceicum qayerda joylashgan?",
+    "A": "Fossa cranium anterior",
+    "B": "Fossa cranium media",
+    "C": "Fossa cranium posterior",
+    "D": "Hidlov nervi",
+    "javob": "A"
+  },
+  {
+    "savol": "Miya qattiq pardasi bu?",
+    "A": "Dura meter",
+    "B": "Pia mater",
+    "C": "Araxnoidea",
+    "D": "Coagulyatsiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Bosh suyagi bu?",
+    "A": "Cranium",
+    "B": "Collum",
+    "C": "Caput",
+    "D": "Ceicum",
+    "javob": "A"
+  },
+  {
+    "savol": "Boshni qaysi sohalarga bo’lib o’rganiladi?",
+    "A": "Miya va asos",
+    "B": "Gumbaz",
+    "C": "Ichki va tashqi",
+    "D": "Yuz va bo’yin",
+    "javob": "A"
+  },
+  {
+    "savol": "Boshning asos qismi qaysi sohalarga bo’linadi?",
+    "A": "Ichki va tashqi",
+    "B": "Miya va asos",
+    "C": "Gumbaz",
+    "D": "Yuz va bo’yin",
+    "javob": "A"
+  },
+  {
+    "savol": "Yuz sohasi qaysi sohalarga bo’linadi?",
+    "A": "Old va yon",
+    "B": "Ichki va tashqi",
+    "C": "Miya va asos",
+    "D": "Gumbaz",
+    "javob": "A"
+  },
+  {
+    "savol": "Bosh gumbazini qon bilan taminlaydigan asosiy arteriya bu ?",
+    "A": "Tashqi uyqu arteriyasi",
+    "B": "Ichki uyqu arteriyasi",
+    "C": "Miya arteriyalari",
+    "D": "Yuz arteriyalari",
+    "javob": "A"
+  }
+]
