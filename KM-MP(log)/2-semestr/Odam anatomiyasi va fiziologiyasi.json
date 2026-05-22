@@ -1,0 +1,1202 @@
+[
+  {
+    "savol": "Odam anatomiyasi nimani o‘rganadi?",
+    "A": "Organizmning shakli, tuzilishi va rivojlanishini",
+    "B": "Odam kasalliklarni",
+    "C": "Odam hujayralarni",
+    "D": "Odamlarning tashqi ko‘rinishni",
+    "javob": "A"
+  },
+  {
+    "savol": "“Anatomiya” so‘zining ma’nosi nima?",
+    "A": "Kesaman",
+    "B": "O‘lchayman",
+    "C": "Davolayman",
+    "D": "Tekshiraman",
+    "javob": "A"
+  },
+  {
+    "savol": "Makroskopik anatomiya nimani o‘rganadi?",
+    "A": "A’zolarni oddiy ko‘z bilan",
+    "B": "Hujayralarni mikroskopda",
+    "C": "Genetikani",
+    "D": "Kimyoviy tarkibni",
+    "javob": "A"
+  },
+  {
+    "savol": "Mikroskopik anatomiya nimani o‘rganadi?",
+    "A": "A’zolarning nozik tuzilishini",
+    "B": "suyaklarni",
+    "C": "mushaklarni",
+    "D": "Organizm tizimlarini",
+    "javob": "A"
+  },
+  {
+    "savol": "Sistematik anatomiya yana qanday ataladi?",
+    "A": "Mo‘tadil anatomiya",
+    "B": "Klinik anatomiya",
+    "C": "Eksperimental anatomiya",
+    "D": "Dinamik anatomiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Topografik anatomiya nimani o‘rganadi?",
+    "A": "A’zolarning o‘zaro joylashuvi va chegarasi",
+    "B": "funksiyasini",
+    "C": "rivojlanishini",
+    "D": "hujayralarni",
+    "javob": "A"
+  },
+  {
+    "savol": "Patologik anatomiya nimani o‘rganadi?",
+    "A": "Kasallikdagi o‘zgarishlarni",
+    "B": "Normal tuzilishni",
+    "C": "Yosh o‘zgarishlarini",
+    "D": "Tashqi muhitni",
+    "javob": "A"
+  },
+  {
+    "savol": "Palpatsiya usuli nima?",
+    "A": "Paypaslab o‘rganish",
+    "B": "Kesib o‘rganish",
+    "C": "Eshitib o‘rganish",
+    "D": "Rentgen bilan o‘rganish",
+    "javob": "A"
+  },
+  {
+    "savol": "Perkussiya usuli qanday amalga oshiriladi?",
+    "A": "Urib ko‘rib aniqlash",
+    "B": "Paypaslab",
+    "C": "Kesib",
+    "D": "Mikroskopda",
+    "javob": "A"
+  },
+  {
+    "savol": "Auskultatsiya nima yordamida amalga oshiriladi?",
+    "A": "Eshitish asboblari bilan",
+    "B": "Skalpel bilan",
+    "C": "Rentgen bilan",
+    "D": "Kislota bilan",
+    "javob": "A"
+  },
+  {
+    "savol": "Antropometriya nimani o‘lchaydi?",
+    "A": "Gavda o‘lchamlari va og‘irligini",
+    "B": "Qon tarkibini",
+    "C": "Nerv impulsini",
+    "D": "Nafas olishni",
+    "javob": "A"
+  },
+  {
+    "savol": "Rentgenografiya nimaga asoslanadi?",
+    "A": "Rentgen nurlariga",
+    "B": "Ultrasonik to‘lqinlarga",
+    "C": "Issiqlikka",
+    "D": "Magnitga",
+    "javob": "A"
+  },
+  {
+    "savol": "Korroziya usulida nima qilinadi?",
+    "A": "To‘qima eritilib shakl o‘rganiladi",
+    "B": "kesiladi",
+    "C": "Bo‘yaladi",
+    "D": "Muzlatiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Anatomiyaning rivojlanishi qayerda boshlangan?",
+    "A": "Qadimgi Yunonistonda",
+    "B": "Misrda",
+    "C": "Xitoyda",
+    "D": "Hindistonda",
+    "javob": "A"
+  },
+  {
+    "savol": "Miya aqliy faoliyat markazi ekanini kim aytgan?",
+    "A": "Alkmeon",
+    "B": "Gippokrat",
+    "C": "Aristotel",
+    "D": "Galen",
+    "javob": "A"
+  },
+  {
+    "savol": "Tibbiyot ilmining otasi kim?",
+    "A": "Gippokrat",
+    "B": "Aristotel",
+    "C": "Ibn Sino",
+    "D": "Galen",
+    "javob": "A"
+  },
+  {
+    "savol": "Qon tomirlari yurakdan boshlanishini kim isbotlagan?",
+    "A": "Aristotel",
+    "B": "Gippokrat",
+    "C": "Galen",
+    "D": "Gerofil",
+    "javob": "A"
+  },
+  {
+    "savol": "“Tib qonunlari” asari muallifi kim?",
+    "A": "Abu Ali ibn Sino",
+    "B": "Ar-Roziy",
+    "C": "Galen",
+    "D": "Pirogov",
+    "javob": "A"
+  },
+  {
+    "savol": "Kichik qon aylanish doirasini kim ochgan?",
+    "A": "Ibn al Nafis",
+    "B": "Garvey",
+    "C": "Malpigi",
+    "D": "Servet",
+    "javob": "A"
+  },
+  {
+    "savol": "Ilmiy anatomiyaning asoschisi kim?",
+    "A": "Vezaliy",
+    "B": "Leonardo da Vinchi",
+    "C": "Galen",
+    "D": "Aristotel",
+    "javob": "A"
+  },
+  {
+    "savol": "Mushaklar dinamikasini birinchi o‘rgangan olim kim?",
+    "A": "Leonardo da Vinchi",
+    "B": "Vezaliy",
+    "C": "Pirogov",
+    "D": "Fallopiy",
+    "javob": "A"
+  },
+  {
+    "savol": "Kapillyarlarni kim aniqlagan?",
+    "A": "Malpigi",
+    "B": "Garvey",
+    "C": "Shumlyanskiy",
+    "D": "Galen",
+    "javob": "A"
+  },
+  {
+    "savol": "Qon aylanishini ilmiy asoslagan olim kim?",
+    "A": "Garvey",
+    "B": "Ibn Sino",
+    "C": "Aristotel",
+    "D": "Gerofil",
+    "javob": "A"
+  },
+  {
+    "savol": "Topografik anatomiya asoschisi kim?",
+    "A": "Pirogov",
+    "B": "Vezaliy",
+    "C": "Galen",
+    "D": "Ryuysh",
+    "javob": "A"
+  },
+  {
+    "savol": "Nerv tizimini makro-mikroskopik o‘rgangan olim kim?",
+    "A": "Vorobyov",
+    "B": "Zernov",
+    "C": "Bets",
+    "D": "Buyalskiy",
+    "javob": "A"
+  },
+  {
+    "savol": "Osteologiya nimani o‘rganadi?",
+    "A": "Suyaklarning tuzilishini",
+    "B": "Mushaklarni",
+    "C": "Nerv tizimini",
+    "D": "Qon aylanishini",
+    "javob": "A"
+  },
+  {
+    "savol": "Skelet nechta suyakdan iborat?",
+    "A": "200 dan ortiq",
+    "B": "150 ta",
+    "C": "100 ta",
+    "D": "300 dan ortiq",
+    "javob": "A"
+  },
+  {
+    "savol": "Skeletning asosiy vazifalaridan biri qaysi?",
+    "A": "Tayanch vazifasi",
+    "B": "Nafas olish",
+    "C": "Hazm qilish",
+    "D": "Ajratish",
+    "javob": "A"
+  },
+  {
+    "savol": "Skeletning harakat vazifasi nimaga bog‘liq?",
+    "A": "Mushaklar qisqarishi va bo‘g‘imlar",
+    "B": "suyaklar",
+    "C": "qon tomirlar",
+    "D": "Nervsiz harakat",
+    "javob": "A"
+  },
+  {
+    "savol": "Skeletning himoya vazifasiga misol qaysi?",
+    "A": "Kalla suyagi miyani himoya qiladi",
+    "B": "Mushaklar harakatni ta’minlaydi",
+    "C": "Yurak qon haydaydi",
+    "D": "O‘pka nafas oladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Suyaklarda qaysi elementlar ko‘p uchraydi?",
+    "A": "Kalsiy va fosfor",
+    "B": "Temir va natriy",
+    "C": "Kaliy va yod",
+    "D": "Uglerod",
+    "javob": "A"
+  },
+  {
+    "savol": "Uzun naysimon suyakning o‘rta qismi nima deyiladi?",
+    "A": "Diafiz",
+    "B": "Epifiz",
+    "C": "Metafiz",
+    "D": "Apofiz",
+    "javob": "A"
+  },
+  {
+    "savol": "Suyakning kengaygan uchi nima deyiladi?",
+    "A": "Epifiz",
+    "B": "Diafiz",
+    "C": "Metafiz",
+    "D": "Kanal",
+    "javob": "A"
+  },
+  {
+    "savol": "Metafiz qayerda joylashadi?",
+    "A": "Diafiz va epifiz orasida",
+    "B": "Epifiz ichida",
+    "C": "Suyak tashqarisida",
+    "D": "Mushak ichida",
+    "javob": "A"
+  },
+  {
+    "savol": "G‘ovak suyaklarga qaysi misol kiradi?",
+    "A": "Qovurg‘a",
+    "B": "Son suyagi",
+    "C": "Yelka suyagi",
+    "D": "Bilak suyagi",
+    "javob": "A"
+  },
+  {
+    "savol": "Yassi suyaklarning vazifasi nima?",
+    "A": "Himoya qilish",
+    "B": "Harakat qilish",
+    "C": "Qon aylantirish",
+    "D": "Hazm qilish",
+    "javob": "A"
+  },
+  {
+    "savol": "Aralash suyaklarga misol qaysi?",
+    "A": "Umurtqa",
+    "B": "Qovurg‘a",
+    "C": "Kaft suyaklari",
+    "D": "Son suyagi",
+    "javob": "A"
+  },
+  {
+    "savol": "Havo saqlovchi suyaklarga qaysi kiradi?",
+    "A": "Peshona suyagi",
+    "B": "Son suyagi",
+    "C": "Bilak suyagi",
+    "D": "Qovurg‘a",
+    "javob": "A"
+  },
+  {
+    "savol": "Suyak tarkibida qancha suv mavjud?",
+    "A": "Taxminan 50%",
+    "B": "10%",
+    "C": "Taxminan 80%",
+    "D": "5%",
+    "javob": "A"
+  },
+  {
+    "savol": "Organik moddalar suyakka qanday xususiyat beradi?",
+    "A": "Elastiklik",
+    "B": "Qattiqlik",
+    "C": "Og‘irlik",
+    "D": "Rang",
+    "javob": "A"
+  },
+  {
+    "savol": "Mineral moddalar suyakka qanday xususiyat beradi?",
+    "A": "Qattiqlik",
+    "B": "Elastiklik",
+    "C": "Yumshoqlik",
+    "D": "O‘sish",
+    "javob": "A"
+  },
+  {
+    "savol": "D vitamini yetishmasa nima yuz beradi?",
+    "A": "Raxit kasalligi",
+    "B": "Anemiya",
+    "C": "Diabet",
+    "D": "Gipertoniya",
+    "javob": "A"
+  },
+  {
+    "savol": "Osteon nima?",
+    "A": "Suyakning tuzilish birligi",
+    "B": "Mushak tolasi",
+    "C": "Nerv hujayrasi",
+    "D": "Qon tomiri",
+    "javob": "A"
+  },
+  {
+    "savol": "Suyak usti pardasi qanday vazifa bajaradi?",
+    "A": "Suyak o‘sishini ta’minlaydi",
+    "B": "Qonni haydaydi",
+    "C": "Nafas oladi",
+    "D": "Nerv impulsini uzatadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qizil suyak iligi qayerda joylashadi?",
+    "A": "Epifiz va g‘ovak moddalarda",
+    "B": "diafizda",
+    "C": "Mushaklarda",
+    "D": "Nervlarda",
+    "javob": "A"
+  },
+  {
+    "savol": "Yangi tug‘ilgan chaqaloqda nechta suyak bo‘ladi?",
+    "A": "270 ta",
+    "B": "200 ta",
+    "C": "150 ta",
+    "D": "300 ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Umurtqa pog‘onasi nechta umurtqadan iborat?",
+    "A": "33-34 ta",
+    "B": "20 ta",
+    "C": "50 ta",
+    "D": "13-15 ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko‘krak qafasi nimadan tashkil topgan?",
+    "A": "Umurtqa, qovurg‘a va to‘sh suyagi",
+    "B": "Qovurg‘a",
+    "C": "To‘sh",
+    "D": "Mushak",
+    "javob": "A"
+  },
+  {
+    "savol": "Umurtqa teshiklari qo‘shilib nima hosil qiladi?",
+    "A": "Umurtqa kanali",
+    "B": "Bo‘g‘im",
+    "C": "Mushak",
+    "D": "Nerv",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘mrov suyagi qanday suyak turiga kiradi?",
+    "A": "Uzun naysimon suyak",
+    "B": "Yassi suyak",
+    "C": "G‘ovak suyak",
+    "D": "Aralash suyak",
+    "javob": "A"
+  },
+  {
+    "savol": "Miologiya nimani o‘rganadi?",
+    "A": "Mushaklarni",
+    "B": "Suyaklarni",
+    "C": "Nervlarni",
+    "D": "Qon tomirlarni",
+    "javob": "A"
+  },
+  {
+    "savol": "Skelet mushaklari organizm og‘irligining necha foizini tashkil qiladi?",
+    "A": "40%",
+    "B": "20%",
+    "C": "60%",
+    "D": "10%",
+    "javob": "A"
+  },
+  {
+    "savol": "Mushak tolalarini o‘rab turuvchi parda nima deyiladi?",
+    "A": "Endomiziy",
+    "B": "Epifiz",
+    "C": "Periost",
+    "D": "Apofiz",
+    "javob": "A"
+  },
+  {
+    "savol": "Butun mushakni o‘rab turuvchi parda nima?",
+    "A": "Epimiziy",
+    "B": "Endomiziy",
+    "C": "Perimiziy",
+    "D": "Sinovial qin",
+    "javob": "A"
+  },
+  {
+    "savol": "Mushakning faol qisqaruvchi qismi nima?",
+    "A": "Qorincha",
+    "B": "Pay",
+    "C": "Boshcha",
+    "D": "Dum",
+    "javob": "A"
+  },
+  {
+    "savol": "Mushakning suyakka birikuvchi qismi nima?",
+    "A": "Pay",
+    "B": "Qorincha",
+    "C": "Fasciya",
+    "D": "Sinovial qin",
+    "javob": "A"
+  },
+  {
+    "savol": "Axill payi nechaga yaqin yukni ko‘tara oladi?",
+    "A": "400 kg",
+    "B": "100 kg",
+    "C": "200 kg",
+    "D": "600 kg",
+    "javob": "A"
+  },
+  {
+    "savol": "Uzun mushaklar qanday shaklga ega?",
+    "A": "Duksimon",
+    "B": "Yassi",
+    "C": "Uchburchak",
+    "D": "Yumaloq",
+    "javob": "A"
+  },
+  {
+    "savol": "Ikki boshli mushak qanday ataladi?",
+    "A": "Biceps",
+    "B": "Triceps",
+    "C": "Quadriceps",
+    "D": "Deltoideus",
+    "javob": "A"
+  },
+  {
+    "savol": "Mushaklar vazifasiga ko‘ra qanday bo‘linadi?",
+    "A": "Flexor, extensor va boshqalar",
+    "B": "Uzun va kalta",
+    "C": "Yassi",
+    "D": "Chuqur",
+    "javob": "A"
+  },
+  {
+    "savol": "Sfinkter mushaklar qanday tolalardan iborat?",
+    "A": "Aylanma",
+    "B": "Parallel",
+    "C": "Qiyshiq",
+    "D": "To‘g‘ri",
+    "javob": "A"
+  },
+  {
+    "savol": "Mushaklarning yordamchi apparatlaridan biri qaysi?",
+    "A": "Fassiya",
+    "B": "Epifiz",
+    "C": "Diafiz",
+    "D": "Osteon",
+    "javob": "A"
+  },
+  {
+    "savol": "Fassiyaning vazifasi nima?",
+    "A": "Mushaklarni ajratish va ushlab turish",
+    "B": "Qonni haydash",
+    "C": "Nafas olish",
+    "D": "Ovqat hazm qilish",
+    "javob": "A"
+  },
+  {
+    "savol": "Sinovial qin nima vazifa bajaradi?",
+    "A": "Payni ishqalanishdan saqlaydi",
+    "B": "Suyakni mustahkamlaydi",
+    "C": "Qonni filtrlash",
+    "D": "Nervni himoya qiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Orqa mushaklari nechta guruhga bo‘linadi?",
+    "A": "Yuza va chuqur",
+    "B": "Old va orqa",
+    "C": "Ichki va tashqi",
+    "D": "Yuqori va pastki",
+    "javob": "A"
+  },
+  {
+    "savol": "Trapetsiyasimon mushak qayerda joylashgan?",
+    "A": "Orqa va bo‘yin sohasida",
+    "B": "Oyoqda",
+    "C": "Qorinda",
+    "D": "Ko‘krak ichida",
+    "javob": "A"
+  },
+  {
+    "savol": "Umurtqa pog‘onasini tiklaydigan mushak qanday vazifa bajaradi?",
+    "A": "Umurtqani yozadi",
+    "B": "Bukadi",
+    "C": "Aylantiradi",
+    "D": "Qisqartiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Eng uzun mushak qaysi guruhga kiradi?",
+    "A": "Orqa mushaklari",
+    "B": "Qo‘l mushaklari",
+    "C": "Oyoq mushaklari",
+    "D": "Bosh mushaklari",
+    "javob": "A"
+  },
+  {
+    "savol": "Mushaklar joylashishiga qarab qanday bo‘linadi?",
+    "A": "Yuza va chuqur",
+    "B": "Uzun va kalta",
+    "C": "Katta va kichik",
+    "D": "Qattiq va yumshoq",
+    "javob": "A"
+  },
+  {
+    "savol": "Diafragma qanday mushak?",
+    "A": "Nafas olish mushagi",
+    "B": "Harakat mushagi",
+    "C": "Himoya mushagi",
+    "D": "Sezuvchi mushak",
+    "javob": "A"
+  },
+  {
+    "savol": "Diafragma qaysi bo‘shliqlarni ajratadi?",
+    "A": "Ko‘krak va qorin",
+    "B": "Qorin va tos",
+    "C": "Bosh va bo‘yin",
+    "D": "Ko‘krak va bosh",
+    "javob": "A"
+  },
+  {
+    "savol": "Diafragmada aorta o‘tadigan teshik nima deyiladi?",
+    "A": "Hiatus aorticus",
+    "B": "Foramen magnum",
+    "C": "Canalis vertebralis",
+    "D": "Sulcus",
+    "javob": "A"
+  },
+  {
+    "savol": "Qizilo‘ngach o‘tadigan diafragma teshigi nima?",
+    "A": "Hiatus esophageus",
+    "B": "Foramen intervertebrale",
+    "C": "Cavitas medullaris",
+    "D": "Incisura",
+    "javob": "A"
+  },
+  {
+    "savol": "Mushaklarning innervatsiyasi nima orqali amalga oshadi?",
+    "A": "Nervlar orqali",
+    "B": "Qon orqali",
+    "C": "Suyak orqali",
+    "D": "Limfa orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Mushaklar asosiy harakatni qanday hosil qiladi?",
+    "A": "Qisqarish orqali",
+    "B": "Kengayish orqali",
+    "C": "Bo‘linish orqali",
+    "D": "Qattiqlashish orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Ovqat hazmining asosiy ahamiyati nimada?",
+    "A": "Oqsil, yog‘ va uglevodlarni parchalaydi va o‘zlashtiradi",
+    "B": "Suv beradi",
+    "C": "Vitamin saqlaydi",
+    "D": "Energiya ishlab chiqaradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ovqat hazm qilish jarayoni nima?",
+    "A": "Oziq moddalarning parchalanishi va so‘rilishi",
+    "B": "Qon aylanishi",
+    "C": "Nafas olish",
+    "D": "Nerv impuls uzatish",
+    "javob": "A"
+  },
+  {
+    "savol": "Oqsillar organizmda nimaga parchalanadi?",
+    "A": "Aminokislotalar",
+    "B": "Glyukoza",
+    "C": "Vitaminlar",
+    "D": "Tuzlarga",
+    "javob": "A"
+  },
+  {
+    "savol": "Yog‘lar parchalanish mahsuloti nima?",
+    "A": "Glitserin va yog‘ kislotalari",
+    "B": "Glyukoza",
+    "C": "Kraxmal",
+    "D": "Oqsil",
+    "javob": "A"
+  },
+  {
+    "savol": "Uglevodlar nimaga parchalanadi?",
+    "A": "Glyukoza va oddiy qandlar",
+    "B": "Aminokislota",
+    "C": "Yog‘ kislota",
+    "D": "Vitamin",
+    "javob": "A"
+  },
+  {
+    "savol": "Fermentlar nima?",
+    "A": "Biologik katalizatorlar",
+    "B": "Mineral moddalar",
+    "C": "Yog‘lar",
+    "D": "Tuzlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Fermentlarning asosiy xususiyati nima?",
+    "A": "Spetsifikligi",
+    "B": "Qattiqligi",
+    "C": "Rangliligi",
+    "D": "Hidsizligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Fistula usulini kim keng qo‘llagan?",
+    "A": "I. P. Pavlov",
+    "B": "Darwin",
+    "C": "Mendel",
+    "D": "I. P. Pasteur",
+    "javob": "A"
+  },
+  {
+    "savol": "Fistula nima?",
+    "A": "Sun’iy naycha",
+    "B": "Qon tomiri",
+    "C": "Nerv tolasi",
+    "D": "Tish elementi",
+    "javob": "A"
+  },
+  {
+    "savol": "So‘lak ajralishi qanday boshqariladi?",
+    "A": "Reflektor va nerv tizimi orqali",
+    "B": "mexanik",
+    "C": "gormonal",
+    "D": "kimyoviy",
+    "javob": "A"
+  },
+  {
+    "savol": "Shartli refleksga misol nima?",
+    "A": "Ovqatni ko‘rganda so‘lak ajralishi",
+    "B": "Yurak urishi",
+    "C": "Nafas olish",
+    "D": "Qon aylanishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qizilo‘ngach vazifasi nima?",
+    "A": "Ovqatni me’daga o‘tkazish",
+    "B": "Ovqatni hazm qilish",
+    "C": "Qonni tozalash",
+    "D": "Havo o‘tkazish",
+    "javob": "A"
+  },
+  {
+    "savol": "Me’da qayerda joylashgan?",
+    "A": "Qorin bo‘shlig‘ida",
+    "B": "Ko‘krak bo‘shlig‘ida",
+    "C": "Boshda",
+    "D": "Bo‘yin qismida",
+    "javob": "A"
+  },
+  {
+    "savol": "Me’da shirasi tarkibida nima bor?",
+    "A": "Xlorid kislota va fermentlar",
+    "B": "Kislorod",
+    "C": "Glyukoza",
+    "D": "Vitamin",
+    "javob": "A"
+  },
+  {
+    "savol": "Pepsin vazifasi nima?",
+    "A": "Oqsillarni parchalaydi",
+    "B": "Yog‘ni parchalaydi",
+    "C": "Suvni ajratadi",
+    "D": "Tuz hosil qiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ximozin qaysi moddani ivitadi?",
+    "A": "Sutni",
+    "B": "Yog‘ni",
+    "C": "Kraxmalni",
+    "D": "Suvni",
+    "javob": "A"
+  },
+  {
+    "savol": "Me’dada oziqa qancha vaqt saqlanishi mumkin?",
+    "A": "4–11 soat",
+    "B": "1 soat",
+    "C": "2-11 soat",
+    "D": "24 soat",
+    "javob": "A"
+  },
+  {
+    "savol": "Yangi tug‘ilgan bolalarda me’da hajmi qancha?",
+    "A": "30–35 ml",
+    "B": "100 ml",
+    "C": "300-500 ml",
+    "D": "1 litr",
+    "javob": "A"
+  },
+  {
+    "savol": "1 yoshda me’da hajmi qancha bo‘ladi?",
+    "A": "300–350 ml",
+    "B": "30-50 ml",
+    "C": "100 ml",
+    "D": "1 litr",
+    "javob": "A"
+  },
+  {
+    "savol": "Me’da muskullari qanday to‘qimadan tuzilgan?",
+    "A": "Silliq mushak to‘qimasi",
+    "B": "Suyak to‘qimasi",
+    "C": "Nerv to‘qimasi",
+    "D": "Yog‘ to‘qimasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Sut tishlar soni nechta?",
+    "A": "20 ta",
+    "B": "28 ta",
+    "C": "32 ta",
+    "D": "16 ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Doimiy tishlar soni nechta?",
+    "A": "32 ta",
+    "B": "20 ta",
+    "C": "28 ta",
+    "D": "36 ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Tishlarning eng qattiq qismi nima?",
+    "A": "Emal",
+    "B": "Dentin",
+    "C": "Sement",
+    "D": "Pulpa",
+    "javob": "A"
+  },
+  {
+    "savol": "Kariyes nima bilan bog‘liq?",
+    "A": "Emalning yemirilishi",
+    "B": "Qon aylanishi",
+    "C": "Nerv o‘sishi",
+    "D": "Suyak sinishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Og‘iz bo‘shlig‘ida ovqat hazmi nimadan boshlanadi?",
+    "A": "Mexanik va kimyoviy ishlovdan",
+    "B": "Me’dada",
+    "C": "Ichakda",
+    "D": "Qonda",
+    "javob": "A"
+  },
+  {
+    "savol": "Nafas olishning asosiy ahamiyati nima?",
+    "A": "Gazlar almashinuvini ta’minlash",
+    "B": "Qonni aylantirish",
+    "C": "Oziqa hazm qilish",
+    "D": "Haroratni oshirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Nafas jarayonida qaysi gaz organizmga kiradi?",
+    "A": "Kislorod",
+    "B": "Azot",
+    "C": "Karbonat angidrid",
+    "D": "Geliy",
+    "javob": "A"
+  },
+  {
+    "savol": "Nafas chiqarishda qaysi gaz chiqariladi?",
+    "A": "Karbonat angidrid",
+    "B": "Kislorod",
+    "C": "Vodorod",
+    "D": "Azot",
+    "javob": "A"
+  },
+  {
+    "savol": "Gazlar almashinuvi qayerda sodir bo‘ladi?",
+    "A": "O‘pkada",
+    "B": "Yurakda",
+    "C": "Me’dada",
+    "D": "Jigarida",
+    "javob": "A"
+  },
+  {
+    "savol": "Nafas yo‘li qayerdan boshlanadi?",
+    "A": "Burun bo‘shlig‘idan",
+    "B": "Og‘izdan",
+    "C": "Halqumdan",
+    "D": "Qizilo‘ngachdan",
+    "javob": "A"
+  },
+  {
+    "savol": "Burun bo‘shlig‘i vazifasi nima?",
+    "A": "Havoni tozalash va isitish",
+    "B": "Qonni tozalash",
+    "C": "Ovqat hazm qilish",
+    "D": "Tovush chiqarish",
+    "javob": "A"
+  },
+  {
+    "savol": "Burun bo‘shlig‘ini nima tozalaydi?",
+    "A": "Kiprikchali epiteliy",
+    "B": "Muskullar",
+    "C": "Suyaklar",
+    "D": "Qon tomirlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Halqum qayerga ochiladi?",
+    "A": "Qizilo‘ngach va kekirdakka",
+    "B": "Yurakka",
+    "C": "Jigariga",
+    "D": "Oshqozonga",
+    "javob": "A"
+  },
+  {
+    "savol": "Hiqildoqning asosiy vazifasi?",
+    "A": "Tovush hosil qilish",
+    "B": "Qonni aylantirish",
+    "C": "Oziqa hazm qilish",
+    "D": "Issiqlik ishlab chiqish",
+    "javob": "A"
+  },
+  {
+    "savol": "Tovush naychalari qayerda joylashgan?",
+    "A": "Hiqildoqda",
+    "B": "Burunda",
+    "C": "Me’dada",
+    "D": "Ichakda",
+    "javob": "A"
+  },
+  {
+    "savol": "Kekirdakning vazifasi?",
+    "A": "Havo o‘tkazish",
+    "B": "Oziqa hazm qilish",
+    "C": "Qonni tozalash",
+    "D": "Gormon ishlab chiqarish",
+    "javob": "A"
+  },
+  {
+    "savol": "Bronxlar nima hosil qiladi?",
+    "A": "Bronxlar daraxtini",
+    "B": "Suyak tizimini",
+    "C": "Qon tomirini",
+    "D": "Mushak tizimini",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘pkadagi asosiy gaz almashinuvi qayerda?",
+    "A": "Alveolalarda",
+    "B": "Bronxda",
+    "C": "Qizilo‘ngachda",
+    "D": "Burunda",
+    "javob": "A"
+  },
+  {
+    "savol": "Alveolalar devori qanday hujayralardan iborat?",
+    "A": "Bir qavatli epiteliy",
+    "B": "Ko‘p qavatli mushak",
+    "C": "Suyak to‘qimasi",
+    "D": "Nerv to‘qimasi",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘pkada qancha alveola bo‘lishi mumkin?",
+    "A": "Taxminan 350 ming",
+    "B": "10 ming",
+    "C": "Taxminan 50 ming",
+    "D": "1 million",
+    "javob": "A"
+  },
+  {
+    "savol": "Plevra nima?",
+    "A": "O‘pkani qoplovchi qavat",
+    "B": "Qon tomir",
+    "C": "Mushak",
+    "D": "Suyak",
+    "javob": "A"
+  },
+  {
+    "savol": "Plevralar orasida nima bor?",
+    "A": "Suyuqlik",
+    "B": "Havo",
+    "C": "Qon",
+    "D": "Yog‘",
+    "javob": "A"
+  },
+  {
+    "savol": "Nafas olishda asosiy mushak?",
+    "A": "Diafragma",
+    "B": "Yurak mushagi",
+    "C": "Bosh mushagi",
+    "D": "Qo‘l mushagi",
+    "javob": "A"
+  },
+  {
+    "savol": "Nafas chiqarishda nima sodir bo‘ladi?",
+    "A": "Ko‘krak qafasi qisqaradi",
+    "B": "Yurak to‘xtaydi",
+    "C": "Qon ko‘payadi",
+    "D": "Suyak o‘sadi",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘pkaning tiriklik sig‘imi nima?",
+    "A": "Maksimal chiqariladigan havo miqdori",
+    "B": "Qon hajmi",
+    "C": "Ovqat miqdori",
+    "D": "Suv miqdori",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘pkada gaz almashinuvi qonuniga nima asos?",
+    "A": "Diffuziya",
+    "B": "Osmos",
+    "C": "Filtratsiya",
+    "D": "Harakat",
+    "javob": "A"
+  },
+  {
+    "savol": "Alveolalarda qaysi gaz ko‘proq bo‘ladi?",
+    "A": "Kislorod",
+    "B": "Temir",
+    "C": "Azot",
+    "D": "Geliy",
+    "javob": "A"
+  },
+  {
+    "savol": "Bolalarda nafas turi dastlab qanday bo‘ladi?",
+    "A": "Diafragmali",
+    "B": "Ko‘krak",
+    "C": "Qorin",
+    "D": "Aralash",
+    "javob": "A"
+  },
+  {
+    "savol": "Hiqildoq bolalarda qanday bo‘ladi?",
+    "A": "Keng va yuqorida joylashgan",
+    "B": "Tor va past",
+    "C": "Qattiq",
+    "D": "Suyakli",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘pka ventilatsiyasi nima?",
+    "A": "Havo almashinuvi",
+    "B": "Qon aylanishi",
+    "C": "Ovqat hazmi",
+    "D": "Tana harorati",
+    "javob": "A"
+  },
+  {
+    "savol": "Siydik nayi (ureter) nima vazifani bajaradi?",
+    "A": "Siydikni buyrak jomidan qovuqqa o‘tkazadi",
+    "B": "Siydikni qovuqdan tashqariga chiqaradi",
+    "C": "Qonni tozalaydi",
+    "D": "Gormon ishlab chiqaradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Siydik nayining uzunligi qancha?",
+    "A": "30–35 sm",
+    "B": "10–12 sm",
+    "C": "50–60 sm",
+    "D": "5–8 sm",
+    "javob": "A"
+  },
+  {
+    "savol": "Siydik nayida nechta asosiy qism farqlanadi?",
+    "A": "3 ta (qorin, chanoq, devor ichidagi)",
+    "B": "2 ta (chanoq, devor ichidagi)",
+    "C": "4 ta",
+    "D": "5 ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Siydik qopining asosiy vazifasi nima?",
+    "A": "Siydikni to‘plash",
+    "B": "Qonni filtrlash",
+    "C": "Oqsil sintez qilish",
+    "D": "Nafas olishni boshqarish",
+    "javob": "A"
+  },
+  {
+    "savol": "Siydik qopining sig‘imi qancha?",
+    "A": "500–700 ml",
+    "B": "100–200 ml",
+    "C": "1–2 litr",
+    "D": "50–100 ml",
+    "javob": "A"
+  },
+  {
+    "savol": "Siydik qopi devori nechta qavatdan iborat?",
+    "A": "4 ta",
+    "B": "3 ta",
+    "C": "2 ta",
+    "D": "5 ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Siydik qopining shilliq qavati qanday holatda burma hosil qiladi?",
+    "A": "Bo‘sh holatda",
+    "B": "Doimo",
+    "C": "Yallig‘langanda",
+    "D": "Hech qachon",
+    "javob": "A"
+  },
+  {
+    "savol": "Siydik qopi uchburchagi (trigon) xususiyati?",
+    "A": "Burmasiz, tekis qism",
+    "B": "Eng qalin qavat",
+    "C": "mushaklardan iborat",
+    "D": "shilliq osti qatlam",
+    "javob": "A"
+  },
+  {
+    "savol": "Siydik qopining mushak qavati vazifasi?",
+    "A": "Siydikni chiqarish",
+    "B": "Qonni filtrlash",
+    "C": "Nafas olish",
+    "D": "Hazm qilish",
+    "javob": "A"
+  },
+  {
+    "savol": "Sistit nima?",
+    "A": "Siydik qopi yallig‘lanishi",
+    "B": "Buyrak tosh kasalligi",
+    "C": "Jigar yallig‘lanishi",
+    "D": "O‘pka yallig‘lanishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Buyrakning shakli qanday?",
+    "A": "Loviyasimon",
+    "B": "Sferik",
+    "C": "Uchburchak",
+    "D": "Yassi",
+    "javob": "A"
+  },
+  {
+    "savol": "Buyrakning og‘irligi qancha?",
+    "A": "120–200 g",
+    "B": "50–80 g",
+    "C": "300–400 g",
+    "D": "20–40 g",
+    "javob": "A"
+  },
+  {
+    "savol": "Buyrak qayerda joylashgan?",
+    "A": "Qorin pardaning orqa devorida",
+    "B": "Ko‘krak qafasida",
+    "C": "Bo‘yin sohasida",
+    "D": "Oyoq sohasida",
+    "javob": "A"
+  },
+  {
+    "savol": "Buyrak darvozasi (hilum) nima?",
+    "A": "Tomir va siydik nayi kirib-chiqadigan joy",
+    "B": "Siydik to‘planadigan joy",
+    "C": "vena joyi",
+    "D": "arteriya joyi",
+    "javob": "A"
+  },
+  {
+    "savol": "Buyrak po‘stloq qavati qalinligi?",
+    "A": "0,4–0,7 sm",
+    "B": "1–2 sm",
+    "C": "0,3–0,4 sm",
+    "D": "0,1 sm",
+    "javob": "A"
+  },
+  {
+    "savol": "Buyrak mag‘iz qavati qalinligi?",
+    "A": "2–2,5 sm",
+    "B": "0,5–1 sm",
+    "C": "3–4 sm",
+    "D": "5 sm",
+    "javob": "A"
+  },
+  {
+    "savol": "Po‘stloq qavatning nurli qismi nimadan iborat?",
+    "A": "To‘g‘ri naychalar va yig‘uvchi naychalar boshlanishi",
+    "B": "qon tomirlar",
+    "C": "nervlar",
+    "D": "mushaklar",
+    "javob": "A"
+  },
+  {
+    "savol": "Buyrakning asosiy vazifasi?",
+    "A": "Siydik hosil qilish",
+    "B": "Oshqozon shirasi ishlab chiqarish",
+    "C": "Nafas olish",
+    "D": "Gormon ishlab chiqarish",
+    "javob": "A"
+  },
+  {
+    "savol": "Siydik nayining toraygan joylari nechta?",
+    "A": "3 ta",
+    "B": "1 ta",
+    "C": "2 ta",
+    "D": "4 ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Siydik qopi uchburchagining burchaklarida nima joylashgan?",
+    "A": "2 siydik nayi va 1 siydik chiqarish teshigi",
+    "B": "arteriyalar va 1 siydik chiqarish teshigi",
+    "C": "nervlar",
+    "D": "mushaklar",
+    "javob": "A"
+  },
+  {
+    "savol": "Erkaklarda siydik qopi orqasida nima joylashgan?",
+    "A": "To‘g‘ri ichak va urug‘ pufakchalari",
+    "B": "Bachadon",
+    "C": "Jigar",
+    "D": "O‘pka",
+    "javob": "A"
+  },
+  {
+    "savol": "Ayollarda siydik qopi orqasida nima joylashgan?",
+    "A": "Bachadon bo‘yni va qin",
+    "B": "Prostata bez",
+    "C": "Oshqozon",
+    "D": "Buyrak",
+    "javob": "A"
+  },
+  {
+    "savol": "Siydik nayining devori nechta qavatdan iborat?",
+    "A": "3 ta (shilliq, mushak, tashqi)",
+    "B": "2 ta (mushak, tashqi)",
+    "C": "4 ta",
+    "D": "5 ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Siydik qopi qachon qorin parda bilan qoplanadi?",
+    "A": "To‘lgan holatda qisman",
+    "B": "Doimo to‘liq",
+    "C": "Hech qachon",
+    "D": "bo‘sh holatda",
+    "javob": "A"
+  },
+  {
+    "savol": "Siydik qopining mushak qavati qanday ataladi?",
+    "A": "Siydik haydovchi mushak detrusor",
+    "B": "To‘lgan holatda qisman Biceps",
+    "C": "Diafragma",
+    "D": "Triceps",
+    "javob": "A"
+  }
+]
