@@ -1,0 +1,2002 @@
+[
+  {
+    "savol": "Bolalik davrlarining ikki asosiy bosqichi qaysilar?",
+    "A": "Rivojlanishning homila ichi va homiladan tashqari davri",
+    "B": "Neonatal va postneonatal davrlar",
+    "C": "Embrional va postembrional davrlar",
+    "D": "Prepubertal va pubertal davrlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Embrional davrning asosiy jarayonlari qaysilar?",
+    "A": "Gastrulyatsiya va organogenez",
+    "B": "Implantatsiya va bo‘linish",
+    "C": "Rivojlanishning tugashi",
+    "D": "Platsentatsiya yakunlanishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Fetal davr qachondan qachongacha davom etadi?",
+    "A": "9-haftadan homiladorlik oxirigacha",
+    "B": "3-haftadan 8-haftagacha",
+    "C": "Tug‘ilgandan 1 yoshgacha",
+    "D": "1 yoshdan 3 yoshgacha",
+    "javob": "A"
+  },
+  {
+    "savol": "Boshlang‘ich davrda kuzatiladigan jarayonlarni tanlang:",
+    "A": "Urug‘lanish, bo‘linish, implantatsiya",
+    "B": "Organogenez va gastrulyatsiya",
+    "C": "Platsenta shakllanishi",
+    "D": "Homilaning tez o‘sishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Homila ichidagi embrional davrda qaysi jarayonlar sodir bo‘ladi?",
+    "A": "Organlar barpo bo‘lishi...",
+    "B": "Organogenez tugashi",
+    "C": "Fetal o‘sish",
+    "D": "Neonatal moslashuv",
+    "javob": "A"
+  },
+  {
+    "savol": "Homila 3 oylikdan boshlab qaysi yo‘l bilan oziqlanadi?",
+    "A": "Yo‘ldosh orqali",
+    "B": "Sariq pufak orqali",
+    "C": "Ichki sekretsiya orqali",
+    "D": "Amnion suyuqligi orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Homila ichi rivojlanishida tana vaznining keskin oshishi qaysi davrga xos?",
+    "A": "Fetal davr",
+    "B": "Boshlang‘ich davr",
+    "C": "Embrional 1–2 hafta",
+    "D": "Neonatal davr",
+    "javob": "A"
+  },
+  {
+    "savol": "Embrionning birinchi 3 oyligidagi nuqsonlar qanday ataladi?",
+    "A": "Embriomutatsiya/embriopatiya",
+    "B": "Plasentopatiya",
+    "C": "Teratogenez kech bosqichi",
+    "D": "Fetonevropatiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Homila ichi rivojlanishining 4-oyidan boshlab kasalliklar qanday ataladi?",
+    "A": "Fetopatiya",
+    "B": "Embriopatiya",
+    "C": "Teratopatiya",
+    "D": "Plasentopatiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Orttirilgan fetopatiyaga xos ta’rif?",
+    "A": "Patogen agentlar ta’siri...",
+    "B": "Nerv tizimi tug‘ma nuqson",
+    "C": "Genetik mutatsiya faqat embrioda",
+    "D": "Oxirgi haftalar fiziologiyasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Chala tug‘ilgan bolaga xos belgi?",
+    "A": "Qo‘l-oyoqlarning hipotoniya holati",
+    "B": "Teri osti yog‘ rivojlangan",
+    "C": "Kuchli so‘rish",
+    "D": "Tana harorati barqaror",
+    "javob": "A"
+  },
+  {
+    "savol": "Teri osti yog‘ qavati rivojlanmaganligi nimaga olib keladi?",
+    "A": "Tana haroratining pasayishi",
+    "B": "Mushak massasining oshishi",
+    "C": "Nafas chastotasi kamayishi",
+    "D": "Gemoglobin ortishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Chala tug‘ilganda ovqatlantirishning asosiy usuli?",
+    "A": "Oshqozon zondi orqali",
+    "B": "Og‘izdan to‘liq",
+    "C": "Har doim parenteral",
+    "D": "Faqat aralashma",
+    "javob": "A"
+  },
+  {
+    "savol": "Chala tug‘ilgan bolaga xos holat?",
+    "A": "Jinsiy yorikning ochiqligi",
+    "B": "Kuchli qiyqirish",
+    "C": "Termoregulyatsiya to‘liq",
+    "D": "Yog‘ qavati ko‘p",
+    "javob": "A"
+  },
+  {
+    "savol": "Neonatal davrning davomiyligi qaysi?",
+    "A": "Tug‘ilgandan 28 kungacha",
+    "B": "40 kungacha",
+    "C": "14 kungacha",
+    "D": "2 oygacha",
+    "javob": "A"
+  },
+  {
+    "savol": "Neonatal davrning fiziologik ahamiyati?",
+    "A": "Moslashish jarayoni",
+    "B": "Ovqat hazm tizimi yetilishi",
+    "C": "Immunitet tugashi",
+    "D": "Nutq rivojlanishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Neonatal chegara holatlar sababi?",
+    "A": "Tashqi muhitga keskin moslashish",
+    "B": "Organlar to‘liq yetilgan",
+    "C": "Homila qon aylanishi saqlanishi",
+    "D": "Gormonlar ortishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Neonatal jarayonlar?",
+    "A": "Nafas, qon aylanishi, termoregulyatsiya mustaqil",
+    "B": "Nutq markazi o‘sishi",
+    "C": "Tayanch-harakat tizimi to‘liq",
+    "D": "Fermentlar to‘liq yetilishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Tug‘ruqdan keyingi birinchi bosqich?",
+    "A": "Neonatal davr",
+    "B": "Emizikli davr",
+    "C": "Kichik maktab",
+    "D": "Maktabgacha",
+    "javob": "A"
+  },
+  {
+    "savol": "Emizikli davrning asosiy tavsifi qaysi?",
+    "A": "Bola tashqi muhitga moslashishni davom ettiradi",
+    "B": "Bola to‘liq mustaqil yuradi",
+    "C": "Bola murakkab nutq shakllantiradi",
+    "D": "Bola ijtimoiy muhitda faol muloqot qiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Emizikli davrda qaysi rivojlanish faol bo‘ladi?",
+    "A": "Jismoniy, ruhiy va motor rivojlanish",
+    "B": "Abstrakt tafakkur",
+    "C": "Murakkab ijtimoiy ko‘nikmalar",
+    "D": "Mustaqil gigiyenik malakalar",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko‘krak yoshi davrida OIT yetishmovchiligi sababi?",
+    "A": "Ichak shilliq qavatining nozikligi va fermentlar pastligi",
+    "B": "Peristaltikaning kuchliligi",
+    "C": "Me’da shirasi ortiqcha kislotali",
+    "D": "Ichak mikroflorasi ortiqcha faolligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Infektsiyaga moyillik oshish sababi?",
+    "A": "Passiv immunitetning kamayishi",
+    "B": "Kuchli immunitet shakllanishi",
+    "C": "Immun tizim to‘liq yetilishi",
+    "D": "Himoya mexanizmlarining kuchliligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Kichik bog‘cha davrida o‘zgarish?",
+    "A": "Harakat koordinatsiyasi takomillashadi",
+    "B": "Abstrakt fikrlash rivojlanadi",
+    "C": "Murakkab matematik ko‘nikmalar",
+    "D": "Biologik yetilish yakunlanadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Emizikli davrda bolaning bo‘yi va vazni o‘zgarishi to‘g‘ri ko‘rsatilgan variantni tanlang:",
+    "A": "Bo‘yi 50% ga, vazni 3 martaga ko‘payadi",
+    "B": "Bo‘yi 30% ga, vazni 3 martaga ko‘payadi",
+    "C": "Bo‘yi 50% ga, vazni 2 martaga ko‘payadi",
+    "D": "Bo‘yi 40% ga, vazni 2 martaga ko‘payadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Go‘dakning 6–7 oydan boshlab rivojlanishiga xos holat qaysi?",
+    "A": "O’tiradi",
+    "B": "Yuradi",
+    "C": "So’zlarni gapiradi(10-15ta)",
+    "D": "Boshini ko’tarishni boshlaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Go‘dakning 9 oydan boshlab rivojlanishiga xos holat qaysi?",
+    "A": "Buyumlarni ushlab o’rnidan turadi",
+    "B": "Mustaqil kiyinadi",
+    "C": "O’tiradi",
+    "D": "Yuradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko‘krak yoshi davrida oshqozon–ichak traktining nisbiy yetishmovchiligi nimaga bog‘liq?",
+    "A": "Shilliq qavatning nozikligi va fermentlar faolligi pastligi",
+    "B": "Oshqozon shirasi ortiqcha ishlab chiqarilishi",
+    "C": "Ichak peristaltikasining kuchli bo‘lishi",
+    "D": "Fermentlar haddan tashqari ko‘pligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Yangi tug‘ilganlarda vazn va bo‘yga ta’sir qiluvchi eng muhim omil?",
+    "A": "Onaning homiladorlik davridagi ovqatlanishi va turmush tarzi",
+    "B": "Tug‘ruqning davomiyligi",
+    "C": "Chaqaloq jinsining biologik xususiyati",
+    "D": "Plasenta og‘irligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Chegara holatlarning asosiy sababi nima?",
+    "A": "Tug‘ruqdan keyingi tashqi muhitga moslashuv",
+    "B": "Immunitetning shakllanmagani",
+    "C": "Ovqat hazm tizimi sustligi",
+    "D": "Tug‘ruqning uzoqligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Chegara holatlar sog‘lom bolalarda ham nega uchraydi?",
+    "A": "Erta moslashuvdagi fiziologik o‘zgarishlar tufayli",
+    "B": "Genetik kasalliklar tufayli",
+    "C": "Nerv tizimi rivojlanmagani uchun",
+    "D": "Shikastlanish bo‘lgani uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "“Hozir tug‘ilgan chaqaloq” sindromining mexanizmi?",
+    "A": "Og‘riq stressida katexolaminlar ajralishi",
+    "B": "Sovuq muhitga tushish",
+    "C": "Teri orqali yo‘qotish",
+    "D": "Gipoksiyaning uzoq davom etishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Katexolaminlar yuqori konsentratsiyasida nima kuchayadi?",
+    "A": "Nafas yo‘llaridagi suyuqlikning so‘rilishi",
+    "B": "Qon bosimining pasayishi",
+    "C": "Mushaklarning bo‘shashi",
+    "D": "Ichak peristaltikasining susayishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Tranzitor nevrologik disfunktsiya sababi?",
+    "A": "Sensor yoki og‘riq stressiga javob",
+    "B": "O‘tkir asfiksiya",
+    "C": "Miya bosimi oshishi",
+    "D": "Metabolik kasalliklar",
+    "javob": "A"
+  },
+  {
+    "savol": "Tranzitor giperventilyatsiya sababi?",
+    "A": "Nafas markazi faollashuvi",
+    "B": "Alveola o‘sishi",
+    "C": "Yurak faoliyati susayishi",
+    "D": "Qon ivishining kuchayishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Birinchi nafasning asosiy sababi?",
+    "A": "Gipoksiya va retikulyar formatsiya faollashuvi",
+    "B": "Mushak kuchi oshishi",
+    "C": "Sovuq muhit",
+    "D": "Ko‘krak kengayishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Tranzitor qon aylanishi nimaga bog‘liq?",
+    "A": "O‘pka tomir qarshiligining kamayishi va shuntlarning yopilishi",
+    "B": "Yurak mushaklari kuchayishi",
+    "C": "Periferiyaga ko‘p qon oqishi",
+    "D": "Mushak qon aylanishining kamayishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Botallov yo‘lining yopilishi qaysi jarayonga bog‘liq?",
+    "A": "O‘pkada qon aylanishining ortishi va bosimning pasayishi",
+    "B": "Yurak ritmining o‘zgarishi",
+    "C": "Sovuq muhitga moslashuv",
+    "D": "Tana haroratining barqarorlashuvi",
+    "javob": "A"
+  },
+  {
+    "savol": "Siydik infarktining asosiy patogenezi nimaga bog‘liq?",
+    "A": "Siydik kislatasining kristall holatda yig‘uvchi naychalarda cho‘kishi",
+    "B": "Buyraklarda yallig‘lanish jarayoni",
+    "C": "Siydik yo‘llarining infektsiyalanishi",
+    "D": "Filtratsiyaning keskin oshishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Siydik infarktining klinik belgisi qaysi?",
+    "A": "Yo‘rgakda sarg‘ich dog‘ning paydo bo‘lishi",
+    "B": "Siydikning yiringli tusga kirishi",
+    "C": "Siydikning qonli bo‘lishi",
+    "D": "Og‘riqli siyish",
+    "javob": "A"
+  },
+  {
+    "savol": "Tranzitor disbakteriozning asosiy sababi nima?",
+    "A": "Steril muhitdan mikroblarga to‘la muhitga o‘tish",
+    "B": "Ichak rivojlanishining tug‘ma nuqsoni",
+    "C": "Antibiotiklar qabul qilish",
+    "D": "Ferment yetishmovchiligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ona suti yangi tug‘ilganda qanday rol o‘ynaydi?",
+    "A": "Bifidobakteriyalarni yetkazib patogen florani kamaytiradi",
+    "B": "Ichak pHni keskin oshiradi",
+    "C": "Viruslar bilan ichakni infektsiyalaydi",
+    "D": "Ichakni sterillikda ushlab turadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Neonatal mikroblanishga nima yordam beradi?",
+    "A": "Teri bar’er funksiyasining yetilmaganligi",
+    "B": "Buyrak faoliyatining kuchayishi",
+    "C": "Plasenta yetishmovchiligi",
+    "D": "Homila suvlarining kamayishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Tranzitor ichak katari qanday jarayon bilan boshlanadi?",
+    "A": "Mekoniyning ajralishi va ichak faoliyatining yo‘lga tushishi",
+    "B": "Ichak infeksiyasi qo‘shilishi",
+    "C": "Sut allergiyasi",
+    "D": "Tashqi ovqat berilishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Tranzitor ichak katarida axlatning xususiyati?",
+    "A": "Tez-tez, shilliqli va sariq–yashil tusda",
+    "B": "Qattiq shaklda",
+    "C": "Qon aralash",
+    "D": "Rangsiz",
+    "javob": "A"
+  },
+  {
+    "savol": "Tranzitor ichak katari qanday holat?",
+    "A": "O‘tkinchi va fiziologik jarayon",
+    "B": "Og‘ir ichak infektsiyasi",
+    "C": "Laktoza yetishmovchiligi",
+    "D": "Dispepsiyaning og‘ir turi",
+    "javob": "A"
+  },
+  {
+    "savol": "Neonatal davrda mikroflora barqarorlashuviga nima sabab bo‘ladi?",
+    "A": "Ona sutidagi bifidobakteriyalar",
+    "B": "Sun’iy aralashmalar",
+    "C": "Antiseptik bilan ichak yuvish",
+    "D": "Ko‘p suv ichirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Tranzitor ichak katarida mikroskopiyada nima aniqlanadi?",
+    "A": "Shilliqlar, yog‘ kislotasi va leykotsitlar",
+    "B": "Yiring aralashmalari",
+    "C": "Zamburug‘ koloniyalari",
+    "D": "Eritrotsitlar to‘planishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Fiziologik mastopatiyaning asosiy belgisi?",
+    "A": "Sut bezlarining simmetrik kattalashishi",
+    "B": "Teri qizarishi va qattiqlashishi",
+    "C": "Bezdan yiringli ajralma kelishi",
+    "D": "Bezning og‘riqli bo‘lishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Mastopatiyada bezni siqish nega mumkin emas?",
+    "A": "Infeksiya tushish xavfini oshiradi",
+    "B": "Bezlarni kattalashtiradi",
+    "C": "Doimiy deformatsiya qiladi",
+    "D": "Asoratlarni kamaytiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Deskvamativ vul’vovaginitning sababi?",
+    "A": "Onadagi gormonlarning vaqtinchalik ta’siri",
+    "B": "Tug‘ruq yo‘llaridagi infeksiya",
+    "C": "Allergik reaksiya",
+    "D": "Tashqi muhitning sovuqligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Metroragiyaning fiziologik holat ekanini bildiruvchi belgi?",
+    "A": "Oz miqdordagi qisqa muddatli qon ajralishi",
+    "B": "Qon ketishining kuchayishi",
+    "C": "Ajralmaning yiringli tusga kirishi",
+    "D": "Qon ketishi davomli bo‘lishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Milia paydo bo‘lishi nimaga bog‘liq?",
+    "A": "Yog‘ bezlarining faoliyati va yo‘lchalarining berkilishi",
+    "B": "Bakterial infeksiya",
+    "C": "Teri osti allergiyasi",
+    "D": "Vitamin yetishmovchiligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Milia uchun xos ta’rif?",
+    "A": "Oqsimon tugunchalar bo‘lib o‘tkinchi holatdir",
+    "B": "Darhol antiseptik bilan davolash kerak",
+    "C": "Doimiy teri kasalligi",
+    "D": "Yiringli jarayon",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘g‘il bolalarda fiziologik jinsiy o‘zgarish belgisi?",
+    "A": "So‘rg‘ich atrofida pigment kuchayishi",
+    "B": "Bel sohasida ko‘karishlar",
+    "C": "Tana haroratining oshishi",
+    "D": "Teri quruqligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko‘krak bezidan sutga o‘xshash suyuqlik chiqishi nimani anglatadi?",
+    "A": "Ona gormonlari ta’siridagi tranzitor holat",
+    "B": "Yiringli mastit",
+    "C": "Tug‘ma bez kengayishi",
+    "D": "Infeksion yallig‘lanish",
+    "javob": "A"
+  },
+  {
+    "savol": "Deskvamativ vul’vovaginitda davolash taktikasi?",
+    "A": "Maxsus davolash talab qilinmaydi",
+    "B": "Antibiotik surtmalar qo‘llanadi",
+    "C": "Kuchli antiseptik yuboriladi",
+    "D": "Jarrohlik talab qilinadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Fiziologik mastopatiyani patologik mastitdan farqlash mezoni?",
+    "A": "Teri rangi o‘zgarmasligi va og‘riqsizlik",
+    "B": "Kattalashish tezligi",
+    "C": "Chaqaloqning jinsiy holati",
+    "D": "Tug‘ruq davomiyligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Oddiy eritemaning asosiy mexanizmi?",
+    "A": "Teri va tashqi muhit o‘rtasidagi moslashuv reaksiyasi",
+    "B": "Teri osti infeksiyasining rivojlanishi",
+    "C": "Qon tomirlarining tug‘ma patologiyasi",
+    "D": "Organizmning allergik javobi",
+    "javob": "A"
+  },
+  {
+    "savol": "Oddiy eritemaning klinik belgisini ko‘rsating:",
+    "A": "Teri qizarib asta-sekin normal holatga qaytadi",
+    "B": "Toshma uzoq vaqt saqlanadi",
+    "C": "Yiringli infiltratlar paydo bo‘ladi",
+    "D": "Teri ostida gematoma hosil bo‘ladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Fiziologik qipiqlanishning xususiyati?",
+    "A": "Teri yuzasida tangachali ko‘chishlar bo‘lishi",
+    "B": "Teri og‘riqli yallig‘lanishi",
+    "C": "Suyuqlik to‘planishi",
+    "D": "Teri qalinlashuvi",
+    "javob": "A"
+  },
+  {
+    "savol": "Tug‘ruq shishining asosiy sababi?",
+    "A": "Old keluvchi qismda venoz dimlanish",
+    "B": "Ichki infeksiya qo‘shilishi",
+    "C": "Tug‘ruq vaqtida suyak shikastlanishi",
+    "D": "Homiladorlikdagi toksikoz",
+    "javob": "A"
+  },
+  {
+    "savol": "Tug‘ruq shishining davolash taktikasi?",
+    "A": "O’zi o‘tib ketadi, davolash talab qilinmaydi",
+    "B": "Antibiotiklar yuborish kerak",
+    "C": "Yodli kompress qo‘yish lozim",
+    "D": "Jarrohlik aralashuvi shart",
+    "javob": "A"
+  },
+  {
+    "savol": "Toksik eritemaning asosiy ko‘rinishi?",
+    "A": "Eritematoz yoki papulyar guruh-guruh toshmalar",
+    "B": "Yiringli pustulalar",
+    "C": "Ko‘k–qora dog‘lar",
+    "D": "Tarqalgan makulyar qon ketishlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Toksik eritemaning og‘ir shakllarida kuzatiladigan belgi?",
+    "A": "Bezovtalik, diareya va taloq kattalashishi",
+    "B": "Trombotsitopeniya",
+    "C": "Isitma va bradikardiya",
+    "D": "Ko‘p qon ketishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Toksik eritemaning hematologik belgisi?",
+    "A": "Qonda eozinofiliya",
+    "B": "Leykopeniya",
+    "C": "Anemiya",
+    "D": "Trombositopeniya",
+    "javob": "A"
+  },
+  {
+    "savol": "Toksik eritemadan keyingi moyillik?",
+    "A": "Allergik diatezga moyillik",
+    "B": "Jiddiy ichak kasalliklari",
+    "C": "Endokrin buzilishlar",
+    "D": "Gemolitik anemiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Toksik eritemaning og‘ir holatidagi davo?",
+    "A": "Dimedrolning kichik dozada berilishi",
+    "B": "Kuchli steroidlar qo‘llash",
+    "C": "Jarrohlik aralashuvi",
+    "D": "Keng ta’sirli antibiotiklar berish",
+    "javob": "A"
+  },
+  {
+    "savol": "Paratrofiyaning asosiy etiologik omili?",
+    "A": "Bolaning uglevodlar bilan ortiqcha ovqatlantirilishi",
+    "B": "Faqat oqsillar yetishmovchiligi",
+    "C": "Tashqi muhitning sovuqligi",
+    "D": "Homila davridagi gipoksiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Paratrofiyada disbakteriozning sababi?",
+    "A": "Ferment tizimlarining ortiqcha yuklama tufayli susayishi",
+    "B": "Vitaminlar noto‘g‘ri berilishi",
+    "C": "Erta antibiotik terapiyasi",
+    "D": "Chaqaloqning ko‘p suyuqlik ichishi",
+    "javob": "A"
+  },
+  {
+    "savol": "A vitamini yetishmovchiligi belgisi?",
+    "A": "Teri qurishi va infeksiyalarga moyillik",
+    "B": "Teri osti nekrozlari",
+    "C": "Yiringli infiltratlar",
+    "D": "Keskin gipermenstsiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Paratrofiyaning klinik belgisi?",
+    "A": "Mushak tonusining pasayishi va bo‘shashgan qiyofa",
+    "B": "Keskin vazn yo‘qotish",
+    "C": "Teri osti yog‘ining yo‘qligi",
+    "D": "Hipertonik sindrom",
+    "javob": "A"
+  },
+  {
+    "savol": "Kraxmalli najas sababi?",
+    "A": "Ichakda achish jarayonlarining ortishi",
+    "B": "Oqsil parchalanishining to‘xtashi",
+    "C": "Yog‘ malabsorbsiyasi",
+    "D": "Ichak invaziyasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Oqsilli najas sababi?",
+    "A": "Oqsillar bilan ortiqcha ovqatlantirish",
+    "B": "Laktaza yetishmovchiligi",
+    "C": "Ichak diskineziyasi",
+    "D": "Magniy tanqisligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Osteoid giperplaziya simptomi uchun xos?",
+    "A": "Raxitik bilakuzuk",
+    "B": "Kraneotabes",
+    "C": "Liqildoqlarning bitmasligi",
+    "D": "Sut tishlari kech chiqishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Gipotrofiya ta’rifi?",
+    "A": "Tana vaznining surunkali yetishmovchiligi",
+    "B": "Organizmning ichki intoksikatsiyasi",
+    "C": "Vitamin yetishmovchiligi holati",
+    "D": "Psixogen ovqatlanmaslik",
+    "javob": "A"
+  },
+  {
+    "savol": "Gipotrofiya I darajasi belgisi?",
+    "A": "Yog‘ qavatining biroz kamayishi, umumiy holat qoniqarli",
+    "B": "Ekstremal ozish",
+    "C": "Tana massasi 30% dan kam",
+    "D": "Chumchuq og‘zi belgisi",
+    "javob": "A"
+  },
+  {
+    "savol": "Gipotrofiya II darajasi belgisi?",
+    "A": "Qorin va ko‘krakda yog‘ to‘qimasining yo‘qolishi",
+    "B": "Og‘ir suvsizlanish",
+    "C": "Tana vaznining oshishi",
+    "D": "Gemorragik toshmalar",
+    "javob": "A"
+  },
+  {
+    "savol": "Gipotrofiya III darajasi ko‘rinishi?",
+    "A": "Teri suyakka yopishgan",
+    "B": "Faqat meteorizm",
+    "C": "Faqat teri qurishi",
+    "D": "Ko‘z yoshining ortishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Doimiy tishlar necha yoshda to’liq chiqqan bo’lishi kerak?",
+    "A": "12",
+    "B": "14",
+    "C": "18",
+    "D": "25",
+    "javob": "A"
+  },
+  {
+    "savol": "Sut tishlarini hisoblash formulasi",
+    "A": "X=n-4",
+    "B": "30+30n",
+    "C": "800n+4",
+    "D": "X=4n-20",
+    "javob": "A"
+  },
+  {
+    "savol": "Asab tizimi shikastlanishing endogen sababi?",
+    "A": "Perinatal ensefalopatiyalar",
+    "B": "Quyosh nuri",
+    "C": "Vitamin E ortiqligi",
+    "D": "Uyquning ko‘pligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Dislaliya nima?",
+    "A": "Tovushlarni noto’g’ri talaffuz qilish",
+    "B": "Noto’g’ri yurish",
+    "C": "Gapirishning kechikishi va falajlik",
+    "D": "Aqliy rivojlanishdan orqada qolish",
+    "javob": "A"
+  },
+  {
+    "savol": "Kam qo‘zg‘aluvchanlik sindromi uchun xarakterli belgi qaysi?",
+    "A": "Harakat va ruhiy faollikning pasayishi",
+    "B": "Mushak gipertonusi",
+    "C": "Talvasaga moyillik",
+    "D": "Uyquchanlikning kamayishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Giperqo‘zg‘aluvchanlik sindromida kuzatiladigan asosiy belgi?",
+    "A": "Harakat bezovtaligi",
+    "B": "Reflekslarning susayishi",
+    "C": "Mushak gipotonusi",
+    "D": "Uyqusizlikning kamayishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Bosh miya ichi gipertenziyasi belgisini aniqlang:",
+    "A": "Kalla ichidagi bosimning oshishi",
+    "B": "Teri osti yog‘ qavatining ortishi",
+    "C": "Tirik vaznning ortishi",
+    "D": "Kalla choklarining torayishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Talvasalarning asosiy xususiyati:",
+    "A": "Mushaklarning ritmik qisqarishi",
+    "B": "Yurak urishining pasayishi",
+    "C": "Nafas sonining ortishi",
+    "D": "Teri rangi o‘zgarishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Kam qo‘zg‘aluvchanlik sindromining sababi bo‘lishi mumkin:",
+    "A": "Perinatal miya jarohati",
+    "B": "Gipervitaminoz",
+    "C": "Surunkali bronxit",
+    "D": "O‘tkir gepatit",
+    "javob": "A"
+  },
+  {
+    "savol": "Yangi tug‘ilgan chaqaloqlarda shartsiz reflekslarning mavjudligi qaysi tizimning me’yoriy rivojlanganligini bildiradi?",
+    "A": "Bosh miyaning pо‘stloq osti va diencefal-qism faol yetilgan",
+    "B": "Pо‘stloq va pо‘stloq osti neyronlari to‘liq yetilgan",
+    "C": "Markaziy asab tizimi to‘liq mielinizatsiyalangan",
+    "D": "Shartli reflekslar tug‘ruqda shakllangan",
+    "javob": "A"
+  },
+  {
+    "savol": "Chaqaloqlarda 2–3 haftalikda ozuqa berish va tebratishda ishga tushadigan shartli refleks?",
+    "A": "Vestibulyar refleks",
+    "B": "Himoya refleksi",
+    "C": "Oziqlanish refleksi",
+    "D": "Yorug‘likka javob refleksi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ovoz ta’siriga javoban ko‘z qovoqlarining yopilishi qaysi davrda shakllanadi?",
+    "A": "Hayotining 1-oyi oxirida",
+    "B": "Tug‘ilgandan 5-daqiqada",
+    "C": "3 oylikda",
+    "D": "6 oylikda",
+    "javob": "A"
+  },
+  {
+    "savol": "Nerv impulslarini o‘tkazish tezligi bolalarda past bo‘lishining asosiy sababi?",
+    "A": "Mielinizatsiya jarayonining tugamaganligi",
+    "B": "Neyronlar soni kamligi",
+    "C": "Sinaptik o‘tishlar kuchsizligi",
+    "D": "Dendritlar qisqa bo‘lishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Chaqaloqlarda shartsiz reflekslar ustun bo‘lishining asosiy sababi?",
+    "A": "Po‘stloq yetilmagan, po‘stloq osti markazlari faol",
+    "B": "Sensor tizimlar to‘liq rivojlangan",
+    "C": "Miyelinizatsiya tugagan",
+    "D": "Shartli reflekslar tug‘ruqdan oldin shakllangan",
+    "javob": "A"
+  },
+  {
+    "savol": "0–1 yoshdagi bolalarda ustun bo‘lgan fiziologik holat qaysi?",
+    "A": "Reflekslar ustun, miyelinizatsiya faol",
+    "B": "Murakkab harakatlar shakllangan",
+    "C": "Xotira va diqqat rivojlangan",
+    "D": "MAT faoliyati kattalarnikiga teng",
+    "javob": "A"
+  },
+  {
+    "savol": "1–3 yosh davrida rivojlanadigan asosiy ko‘nikma?",
+    "A": "So‘zlash va yurish shakllanishi",
+    "B": "Murakkab motor reaktsiyalar",
+    "C": "Abstrakt fikrlash to‘liq shakllanishi",
+    "D": "Shartli reflekslar to‘la shakllanishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Vegetativ asab tizimining bolalardagi asosiy xususiyati?",
+    "A": "Muvozanatsiz va oson o‘zgaruvchi",
+    "B": "Kattalarnikidek barqaror",
+    "C": "Miyelinizatsiyasi to‘liq",
+    "D": "Reflektor javoblari sust",
+    "javob": "A"
+  },
+  {
+    "savol": "Bolalarda nerv tolalari nega impulsni sekin o‘tkazadi?",
+    "A": "Miyelin yetarli bo‘lmagani uchun",
+    "B": "Neyronlar soni kamligi uchun",
+    "C": "Vegetativ tizim kuchsizligi uchun",
+    "D": "Sinapslar faol emasligi uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "Erta yoshdagi bolalarda muhitga reaksiyani baholashda nimaga e’tibor beriladi?",
+    "A": "Atrofdagilarga emotsional javobi",
+    "B": "Abstrakt fikrlashiga",
+    "C": "Maktabdagi o‘zlashtirishiga",
+    "D": "Patologik reflekslarga",
+    "javob": "A"
+  },
+  {
+    "savol": "Yangi tug‘ilgan chaqaloqdagi mushak tonusi qanday bo‘ladi?",
+    "A": "Gipertonus",
+    "B": "Gipotonus",
+    "C": "Normotonus",
+    "D": "Atrofiyasiz",
+    "javob": "A"
+  },
+  {
+    "savol": "Psixomotor rivojlanishda 2 oylik chaqaloqda kuzatiladigan belgilar qaysi?",
+    "A": "Yumshoq ohanglarga iljayish",
+    "B": "Qayrilish",
+    "C": "Mustaqil yurish",
+    "D": "Nutq paydo bo‘lishi",
+    "javob": "A"
+  },
+  {
+    "savol": "3–6 oylik bola boshini ushlashi qaysi davrda shakllanadi?",
+    "A": "1 oylikda",
+    "B": "6 oylikda",
+    "C": "Tug‘ilganda",
+    "D": "3 yoshda",
+    "javob": "A"
+  },
+  {
+    "savol": "Yangi tug‘ilgan chaqaloqda qaysi refleks tug‘ma hisoblanadi?",
+    "A": "So‘rish refleksi",
+    "B": "Yurish refleksi",
+    "C": "Nutq refleksi",
+    "D": "Qo‘l berish",
+    "javob": "A"
+  },
+  {
+    "savol": "Atetozsimon harakatlar qachon kuzatiladi?",
+    "A": "3–6 oylikda",
+    "B": "1 yoshda",
+    "C": "7-8 oylikda",
+    "D": "7 yoshda",
+    "javob": "A"
+  },
+  {
+    "savol": "4 oylik bolada shakllanadigan shartli refleksni ko‘rsating.",
+    "A": "Onasini tanish refleksi",
+    "B": "Nutq refleksi",
+    "C": "Motor refleks",
+    "D": "Himoya refleksi",
+    "javob": "A"
+  },
+  {
+    "savol": "1 oylik chaqaloqda mushak tonusini baholash qanday amalga oshiriladi?",
+    "A": "Tirsagidan ko‘tarib tortish",
+    "B": "Tizza refleksi",
+    "C": "Bo‘yin refleksi",
+    "D": "Yurish refleksi",
+    "javob": "A"
+  },
+  {
+    "savol": "Sun’iy oziqa turlari",
+    "A": "Oziqlantiruvchi va davolovchi",
+    "B": "Aralash va tabiiyga yaqin",
+    "C": "Tabiiy, sun’iy, aralash",
+    "D": "Dokorm, prekorm",
+    "javob": "A"
+  },
+  {
+    "savol": "Tabiiy oziqlantirishga qarshi ko’rsatma?",
+    "A": "Bolada galaktezemiya kasalligi",
+    "B": "Bolada O’RVI",
+    "C": "Onaning uzoq joyda ishlashi",
+    "D": "Gipogalaktiya",
+    "javob": "A"
+  },
+  {
+    "savol": "2–3 haftalik chaqaloqda kuzatiladigan rivojlanish belgisi qaysi?",
+    "A": "Yaltiroq narsaga qarashi",
+    "B": "Mustaqil yurishi",
+    "C": "Nutq paydo bo‘lishi",
+    "D": "Qo‘llarini ko‘tarishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Yangi tug‘ilgan chaqaloqda Babinskiy refleksining 2 yoshgacha saqlanishi nimani ko‘rsatadi?",
+    "A": "Asab tizimi yetilmagan",
+    "B": "Mushak gipertonusi",
+    "C": "Reflekslar yo‘qligi",
+    "D": "Vegetativ buzilish",
+    "javob": "A"
+  },
+  {
+    "savol": "Tovon refleksi qaysi yoshdan boshlab paydo bo‘ladi?",
+    "A": "2 yoshdan so‘ng",
+    "B": "Tug‘ilganda",
+    "C": "1 oyligida",
+    "D": "3 yoshda",
+    "javob": "A"
+  },
+  {
+    "savol": "Chaqaloqlarda qorin devori reflekslari qanday chaqiriladi?",
+    "A": "Yon tomondan kindikka qarab shtrixsimon ta’sir bilan",
+    "B": "Bolga bilan urish",
+    "C": "Termik ta’sir bilan",
+    "D": "Sovitish bilan",
+    "javob": "A"
+  },
+  {
+    "savol": "Vegetativ reflekslardan biri qaysi?",
+    "A": "Dermografizm",
+    "B": "Tovon refleksi",
+    "C": "Biceps refleksi",
+    "D": "Yutish refleksi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi refleks bolalarda doimiy chaqirilmasligi mumkin?",
+    "A": "Korneal",
+    "B": "Babinskiy",
+    "C": "Tovon",
+    "D": "Qorin devori",
+    "javob": "A"
+  },
+  {
+    "savol": "Gipertonus qanday holat?",
+    "A": "Mushak tonusining ortishi",
+    "B": "Mushak tonusining pasayishi",
+    "C": "Mushak kuchi yo‘qolishi",
+    "D": "Mushak atrofiyasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Gipesteziya nimani anglatadi?",
+    "A": "Sezgi susayishi",
+    "B": "Sezgi yo‘qolishi",
+    "C": "Og‘riqqa sezuvchanlik ortishi",
+    "D": "Noto‘g‘ri sezgi",
+    "javob": "A"
+  },
+  {
+    "savol": "Paresteziya qaysi ta’rifga mos?",
+    "A": "Uvishish, jimirlash hissi",
+    "B": "Og‘riqning kuchayishi",
+    "C": "Sezgi yo‘qolishi",
+    "D": "Barcha reflekslar yo‘qligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Falaj (plegiya) nimani bildiradi?",
+    "A": "Mushak kuchining to‘liq yo‘qolishi",
+    "B": "Mushak tonusining ortishi",
+    "C": "Mushak kuchining pasayishi",
+    "D": "Sezgi buzilishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Vegetativ distoniyada dermografizm qanday bo‘lishi mumkin?",
+    "A": "Aralash/valiksimon",
+    "B": "Qizil",
+    "C": "Oq",
+    "D": "Ko‘tarilmaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi refleksda lablar burchagi pastga egilib, til chetga chiqadi?",
+    "A": "Qidiruv refleksi",
+    "B": "So‘rish refleksi",
+    "C": "Moro refleksi",
+    "D": "Galant refleksi",
+    "javob": "A"
+  },
+  {
+    "savol": "Moro refleksining I fazasida nima kuzatiladi?",
+    "A": "Qo‘llar yozilishi",
+    "B": "Qo‘llar qaytishi",
+    "C": "Oyoqlar bukilishi",
+    "D": "Qo‘llar qattiq qisilishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Galant refleksida qanday javob kuzatiladi?",
+    "A": "Tanasini ta’sirlangan tomonga bukish",
+    "B": "Qo‘llarni yozish",
+    "C": "Oyoqlarni bukish",
+    "D": "Boshni orqaga tashlash",
+    "javob": "A"
+  },
+  {
+    "savol": "Robinson (ushlash) refleksida bola nima qiladi?",
+    "A": "Barmoqni qattiq qisadi",
+    "B": "Boshini buradi",
+    "C": "Oyoqlarini yozadi",
+    "D": "Labini cho‘zadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Tayanch va avtomatik yurish refleksida qanday javob bo‘ladi?",
+    "A": "Qadam tashlaydi",
+    "B": "Qo‘lni ko‘taradi",
+    "C": "Boshini buradi",
+    "D": "Oyoqlarni chalishtiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Labirint refleksida qaysi mushaklar tonusi oshadi?",
+    "A": "Yozuvchi mushaklar",
+    "B": "Bukuvchi mushaklar",
+    "C": "Yuz mushaklari",
+    "D": "Panjarasi mushaklari",
+    "javob": "A"
+  },
+  {
+    "savol": "Landau yuqori refleksida bola qanday holatni egallaydi?",
+    "A": "Tanani bir chiziqda saqlaydi",
+    "B": "Oyoqlarini bukadi",
+    "C": "Qo‘lini ko‘taradi",
+    "D": "Boshini yon tomonga egadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Peres refleksida qaysi hol kuzatiladi?",
+    "A": "Taz ko‘tariladi va oyoqlar bukiladi",
+    "B": "Bola qadam tashlaydi",
+    "C": "Qo‘llar yoziladi",
+    "D": "Bosh orqaga ketadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Emaklash refleksida qanday javob beriladi?",
+    "A": "Oyoqlar bilan itaradi",
+    "B": "Qo‘llarni yozadi",
+    "C": "Boshni buradi",
+    "D": "Lablarni cho‘zadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qo‘shimcha ozuqa qaysi yoshdan boshlab fiziologik jihatdan kiritilishi tavsiya etiladi?",
+    "A": "6 oy",
+    "B": "4 oy",
+    "C": "3 oy",
+    "D": "9 oy",
+    "javob": "A"
+  },
+  {
+    "savol": "Qo‘shimcha ovqatning asosiy vazifasi nimadan iborat?",
+    "A": "Bola energiya, oqsil va mikroelementlar ehtiyojini to‘ldirish",
+    "B": "Ona sutini butunlay almashtirish",
+    "C": "Bolani chaynashga majburlash",
+    "D": "Bola uyqusini nazorat qilish",
+    "javob": "A"
+  },
+  {
+    "savol": "Birlik prinsipi nimani anglatadi?",
+    "A": "Har safar faqat bitta yangi mahsulot kiritish",
+    "B": "Ovqatni har safar 3 xil mahsulot bilan boshlash",
+    "C": "Yangi mahsulotni faqat kechqurun berish",
+    "D": "Bir kunda faqat bir mahal ovqat berish",
+    "javob": "A"
+  },
+  {
+    "savol": "Qo‘shimcha ovqatni bosqichma-bosqich kiritishda birinchi qaysi turdagi ovqat beriladi?",
+    "A": "Sabzavot pyuresi",
+    "B": "Go‘sht pyuresi",
+    "C": "Baliq pyuresi",
+    "D": "Tuxum sarig‘i",
+    "javob": "A"
+  },
+  {
+    "savol": "Qo‘shimcha ovqatning optimal harorati qanchaga teng bo‘lishi kerak?",
+    "A": "37–40°C",
+    "B": "15–20°C",
+    "C": "60°C",
+    "D": "5°C",
+    "javob": "A"
+  },
+  {
+    "savol": "7 oylik bolaga tavsiya etiladigan qo‘shimcha ovqat turi qaysi?",
+    "A": "Tvorog",
+    "B": "Qovurilgan tuxum",
+    "C": "Achchiq sho‘rva",
+    "D": "Gazaklar",
+    "javob": "A"
+  },
+  {
+    "savol": "Qo‘shimcha ovqatni juda erta kiritish qanday oqibatga olib keladi?",
+    "A": "Allergiya, ich ketishi, hazm buzilishi",
+    "B": "Tez mushak massasi ortishi",
+    "C": "Bosh aylanmasi",
+    "D": "Yurak urishining sekinlashishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Dokorm nima?",
+    "A": "Aralash ovqatlantirish",
+    "B": "Sun’iy ovqatlantirish",
+    "C": "Qo’shimcha ovqatlantirish",
+    "D": "Tabiiy oziqlantirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Qo‘shimcha ovqat kiritishda eng ko‘p uchraydigan xatolardan biri qaysi?",
+    "A": "Ovqatga tuz va shakar qo‘shish",
+    "B": "Oziqlantirish vaqtini muntazam qilish",
+    "C": "Ona suti bilan birga berish",
+    "D": "Iliq ovqat berish",
+    "javob": "A"
+  },
+  {
+    "savol": "Tabiiy ovqatlantirish deganda nimani tushunamiz?",
+    "A": "Faqat ona suti bilan oziqlantirish",
+    "B": "Aralashma va suv berish",
+    "C": "Aralash ovqatlantirish",
+    "D": "To‘liq sun’iy ovqat",
+    "javob": "A"
+  },
+  {
+    "savol": "Gipogalaktiya qaysi holatda tashxis qilinadi?",
+    "A": "Sut miqdori kam va vazn o‘sishi sust bo‘lsa",
+    "B": "Siydik miqdori kamaysa, sut yetarli",
+    "C": "Ona kam uxlaganda sut ishlab chiqarilishi ko’p bo’lsa",
+    "D": "Bola 3 soatda bir emganda",
+    "javob": "A"
+  },
+  {
+    "savol": "Gipogalaktiyaning eng muhim psixogen sababi?",
+    "A": "Tug‘ruqdan keyingi stress va depressiya",
+    "B": "Ko‘p suyuqlik ichish",
+    "C": "Bola ko‘p uxlashi",
+    "D": "Onaning semirishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Bola kam emishi nima bilan xavfli?",
+    "A": "Emish refleksi susayib sut kamayadi",
+    "B": "Bola ko‘p vazn oladi",
+    "C": "Ona sut bezlari shishadi",
+    "D": "Laktatsiya avtomatik kuchayadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Gipogalaktiyada tipik klinik belgi qaysi?",
+    "A": "Bola vazni 7 kun davomida ortmasligi",
+    "B": "Bola ko‘p qusishi",
+    "C": "Tana haroratining ko‘tarilishi",
+    "D": "Terida toshma",
+    "javob": "A"
+  },
+  {
+    "savol": "Kundalik siydik ajralishi qancha bo‘lsa sut yetishmasligi taxmin qilinadi?",
+    "A": "Kuniga 5 martadan kam",
+    "B": "Kuniga 10 martadan ko‘p",
+    "C": "Kuniga 1 martadan ko‘p",
+    "D": "2 kunda bir marta",
+    "javob": "A"
+  },
+  {
+    "savol": "24 soatlik sut ishlab chiqarishni aniqlash usuli qaysi?",
+    "A": "Sut sog‘ib hajmini o‘lchash",
+    "B": "Faqat bolaning vaznini o‘lchash",
+    "C": "Ko‘krak UZI qilish",
+    "D": "Onaning qon tahlilini olish",
+    "javob": "A"
+  },
+  {
+    "savol": "Gipogalaktiyaning oldini olishda eng muhim choralar qaysi?",
+    "A": "Bolani tug‘ruqdan keyin 30 daqiqada ko‘krakka qo‘yish",
+    "B": "Faqat ko‘proq suv ichish",
+    "C": "Onaga antibiotik berish",
+    "D": "Faqat sut sog‘ish chastotasini oshirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Kechasi emizishning asosiy ahamiyati nimada?",
+    "A": "Prolaktin aynan kechasi ko‘p ajraladi",
+    "B": "Bola kechasi ko‘p chanqaydi",
+    "C": "Oksitotsin pasayadi",
+    "D": "Sut ertalab yaxshi chiqadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Onaning qaysi xatti-harakati laktatsiyani eng ko‘p pasaytiradi?",
+    "A": "Uyquning kamligi va charchoq",
+    "B": "Juda ko‘p yurish",
+    "C": "Ko‘p sutli ovqat yeyish",
+    "D": "Ratsiondagi uglevodlar kamayishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Gipogalaktiyada qo‘llanadigan laktogon vosita qaysi?",
+    "A": "Apilak",
+    "B": "Ibuprofen",
+    "C": "Fenistil",
+    "D": "Ceftriaxon",
+    "javob": "A"
+  },
+  {
+    "savol": "Bolalarda epidermisning qaysi qatlami sust rivojlangan",
+    "A": "Shox-muguz",
+    "B": "Shishasimon",
+    "C": "Bazal",
+    "D": "Derma",
+    "javob": "A"
+  },
+  {
+    "savol": "G‘o‘daklarda shox qavatning o‘ziga xosligi nima?",
+    "A": "Juda yupqa",
+    "B": "Juda qalin",
+    "C": "Melanin ko‘p",
+    "D": "Keratin ko‘p",
+    "javob": "A"
+  },
+  {
+    "savol": "Chaqaloq terisining och-pushti ko‘rinish sababi?",
+    "A": "Donador qavat sust rivojlangan",
+    "B": "Melanin ko‘p",
+    "C": "Ter bezlari kuchli",
+    "D": "Qon tomirlar chuqur",
+    "javob": "A"
+  },
+  {
+    "savol": "Dermaning qaysi qavati retikulyar tuzilishga ega?",
+    "A": "To‘rsimon qavat",
+    "B": "So‘rg‘ichsimon",
+    "C": "Shishasimon",
+    "D": "Bazal",
+    "javob": "A"
+  },
+  {
+    "savol": "Bola terisi qaysi yoshda kattalarnikiga yaqinlashadi?",
+    "A": "7 yoshda",
+    "B": "1 yoshda",
+    "C": "4 yoshda",
+    "D": "10 yoshda",
+    "javob": "A"
+  },
+  {
+    "savol": "Chaqaloqlarda epiderma-derma bog‘lanishi?",
+    "A": "Juda bo‘sh",
+    "B": "Juda qattiq",
+    "C": "Kuchsiz elastik",
+    "D": "Mustahkam",
+    "javob": "A"
+  },
+  {
+    "savol": "Teri pH birinchi oyda qanday o‘zgaradi?",
+    "A": "Kislota tomonga pasayadi",
+    "B": "Ishqoriylashadi",
+    "C": "O‘zgarishsiz",
+    "D": "Ko‘tariladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Bakteriosidlik ta’siri pasayish sababi?",
+    "A": "Sekret qatlami kuchsiz",
+    "B": "Yog‘ qatlami ko‘p",
+    "C": "Melanin ko‘p sintezlanadi",
+    "D": "Qalin teri",
+    "javob": "A"
+  },
+  {
+    "savol": "Teri yuzasi kimyoviy moddalarga qanday ta’sir qiladi?",
+    "A": "So‘rilishni sekinlashtiradi",
+    "B": "Tezlashtiradi",
+    "C": "Mutlaqo to‘xtatadi",
+    "D": "Faollashtiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Bolalar terisining o’ziga xos xususiyati?",
+    "A": "Qon tomirga bor",
+    "B": "Himoya funksiyasi kuchli",
+    "C": "Ter ajratish yaxshi rivojlangan",
+    "D": "Termoregulyatsiya yaxshi rivojlangan",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyosh nurlaridan himoya qanday?",
+    "A": "Melanin hosil bo‘lishi",
+    "B": "Keratin yutilishi",
+    "C": "Shishasimon qavat",
+    "D": "Qon tomirlar torayishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Resorbsion xususiyat bolalarda qanday rivojlangan?",
+    "A": "Kuchli",
+    "B": "Zaif",
+    "C": "Mavjud emas",
+    "D": "Sust rivojlangan",
+    "javob": "A"
+  },
+  {
+    "savol": "Termoregulyatsiya sustligi sababi?",
+    "A": "Teri yuzasi katta",
+    "B": "Yog‘ qalin",
+    "C": "Mushak kuchli",
+    "D": "Qon aylanishi kuchsiz",
+    "javob": "A"
+  },
+  {
+    "savol": "Issiqlikning 25% qayerda yo‘qotiladi?",
+    "A": "Boshda",
+    "B": "Qo‘lda",
+    "C": "Yuzda",
+    "D": "Tizzada",
+    "javob": "A"
+  },
+  {
+    "savol": "Isitmada termoregulyatsiya?",
+    "A": "Gomeostaz sust tiklanadi",
+    "B": "Ter ajralishi ko‘p",
+    "C": "Qon sekin aylanadi",
+    "D": "Yog‘ zaxirasi yetarli",
+    "javob": "A"
+  },
+  {
+    "savol": "Chaqaloqda issiqlik hosil qilish cheklanishi?",
+    "A": "Boshqaruv markazi yetilmagan",
+    "B": "Yog‘ zaxirasi yo‘q",
+    "C": "Ter ajralishi ko‘p",
+    "D": "Mushak massasi yetarli",
+    "javob": "A"
+  },
+  {
+    "savol": "Issiqlik sarflanish yo‘li?",
+    "A": "Bug‘lanish",
+    "B": "Osmosis",
+    "C": "Katabolizm",
+    "D": "Retseptorlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Sovuqda birinchi eriydigan yog‘?",
+    "A": "Oq yog‘",
+    "B": "Qo‘ng‘ir",
+    "C": "Qora",
+    "D": "Sariq",
+    "javob": "A"
+  },
+  {
+    "savol": "Bish yostiqchalari qayerda bo’ladi?",
+    "A": "Yuz",
+    "B": "Bo’yin",
+    "C": "Qorin",
+    "D": "Qo’ltiq osti",
+    "javob": "A"
+  },
+  {
+    "savol": "Apokrin bezlar ish boshlashi?",
+    "A": "Balog‘atda",
+    "B": "Go’daklik davrida",
+    "C": "Tug‘ilganda",
+    "D": "Neonatal davrda",
+    "javob": "A"
+  },
+  {
+    "savol": "Chaqaloqda yog‘ massasi qaysi qismda kam?",
+    "A": "Qorin",
+    "B": "Yuz",
+    "C": "Qo’l",
+    "D": "Oyoq",
+    "javob": "A"
+  },
+  {
+    "savol": "Chala tug‘ilganlarda yog‘ miqdori?",
+    "A": "Kam",
+    "B": "Ko‘p",
+    "C": "Bir xil",
+    "D": "Ortadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Bir yoshda burmalar sababi?",
+    "A": "Yog‘ ko‘pligi",
+    "B": "Mushak ko‘pligi",
+    "C": "Suv kamayishi",
+    "D": "Teri qalin",
+    "javob": "A"
+  },
+  {
+    "savol": "Yog‘ birinchi qayerda yig‘iladi?",
+    "A": "Yuzda",
+    "B": "Qorinda",
+    "C": "Sonlarda",
+    "D": "Bilakda",
+    "javob": "A"
+  },
+  {
+    "savol": "Yangi tug’ilgan chaqaloqlarning terisi PH qanday bo’ladi",
+    "A": "Neytralga yaqin",
+    "B": "Kislotali",
+    "C": "Ishqoriy",
+    "D": "Kuchsiz ishqoriy",
+    "javob": "A"
+  },
+  {
+    "savol": "Chaqaloq yog‘ining xususiyati?",
+    "A": "Palmitin-stearin ko‘p",
+    "B": "Yumshoq",
+    "C": "Erishi oson",
+    "D": "Ko‘p suyuqlik",
+    "javob": "A"
+  },
+  {
+    "savol": "Issiqlik uchun muhim yog‘?",
+    "A": "Qo‘ng‘ir yog‘",
+    "B": "Oq yog‘",
+    "C": "Qora yog‘",
+    "D": "Sariq yog‘",
+    "javob": "A"
+  },
+  {
+    "savol": "Qo‘ng‘ir yog‘ joylashishi?",
+    "A": "Bosh orti",
+    "B": "Bilak",
+    "C": "Tizza",
+    "D": "Tovon",
+    "javob": "A"
+  },
+  {
+    "savol": "Qo‘ng‘ir yog‘ning himoyasi?",
+    "A": "1–2 kun sovuqdan asraydi",
+    "B": "1 soat",
+    "C": "Foydasiz",
+    "D": "Issiqlikni kamaytiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qo‘ng‘ir yog‘ afzalligi?",
+    "A": "Metabolik faolligi yuqori",
+    "B": "Sog‘lom",
+    "C": "Qalin",
+    "D": "Suyuqligi ko‘p",
+    "javob": "A"
+  },
+  {
+    "savol": "Chaqaloq sochining xususiyati?",
+    "A": "O‘zagi yo‘q",
+    "B": "Qattiq",
+    "C": "Keratin ko‘p",
+    "D": "To‘kiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Lanugoni qachon ko’rishimiz mumkin?",
+    "A": "Chala tug‘ilgan chaqaloqlarda",
+    "B": "1 yosh",
+    "C": "5 yosh",
+    "D": "10 yosh",
+    "javob": "A"
+  },
+  {
+    "savol": "Bolalarda qo’ng’ir yog’ zaxirasi tananing qaysi qismlarida bo’ladi?",
+    "A": "Qo’ltiq osti",
+    "B": "Qorin",
+    "C": "Tizza bo’g’imi",
+    "D": "Tirsak bo’g’imi",
+    "javob": "A"
+  },
+  {
+    "savol": "Bolalarda issiq ajratish yo’llari",
+    "A": "Radiatsiya",
+    "B": "Terlash",
+    "C": "Konvergensiya",
+    "D": "Konyugatsiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Terining nafas olish funksiyasining yaxshi rivojlanishiga sabab?",
+    "A": "Qon tomirga boy, yupqa",
+    "B": "Qalin, bo’shliqlar ko’p",
+    "C": "Qon tomir yuza joylashgan va siyrak",
+    "D": "Kislorod o’zlashtirish qobiliyati yaxshi rivojlangan, terisi qalin",
+    "javob": "A"
+  },
+  {
+    "savol": "Ter bezlari qachon ishga tushadi?",
+    "A": "3–4 haftada",
+    "B": "Tug‘ilganda",
+    "C": "2 yoshda",
+    "D": "10 yoshda",
+    "javob": "A"
+  },
+  {
+    "savol": "Tabiiy sut turlari?",
+    "A": "Kolostrum",
+    "B": "Humana",
+    "C": "Malyutka",
+    "D": "Hippo",
+    "javob": "A"
+  },
+  {
+    "savol": "Chaqaloq terlamasligining sababi?",
+    "A": "Bez yo‘llari tor",
+    "B": "Suv kam",
+    "C": "Mushak sust",
+    "D": "Qon kam",
+    "javob": "A"
+  },
+  {
+    "savol": "Yog‘ bezlari bekilishi natijasida yuzaga keladigan tranzitor holat?",
+    "A": "Milia",
+    "B": "Terqattiqligi",
+    "C": "Ateroma",
+    "D": "Psoriaz",
+    "javob": "A"
+  },
+  {
+    "savol": "Homiladorlik tuklari nima deyiladi?",
+    "A": "Lanugo",
+    "B": "Keratin",
+    "C": "Dermatit",
+    "D": "Pigment",
+    "javob": "A"
+  },
+  {
+    "savol": "Girsutizm nima?",
+    "A": "Qizlarda sochlarning ko’p chiqishi",
+    "B": "O’g’illarda soqol chiqishi",
+    "C": "Parateriozda bo’y past bo’lishi",
+    "D": "Teridagi chegaralanmagan hosila",
+    "javob": "A"
+  },
+  {
+    "savol": "Koylonixiya qaysi holatda kuzatiladi?",
+    "A": "Temir va xrom tanqisligida",
+    "B": "Surunkali qo‘zg‘alishda",
+    "C": "Uyqu yetishmovchiligi",
+    "D": "Yog‘ bezlari disfunksiyasida",
+    "javob": "A"
+  },
+  {
+    "savol": "Angishvona simptomi nimaga xos?",
+    "A": "Psoriazda tirnoq ustida chuqurchalar",
+    "B": "B12 yetishmovchiligi",
+    "C": "Nevritlar",
+    "D": "Gipotireoz",
+    "javob": "A"
+  },
+  {
+    "savol": "“Soat oynasi” ko‘rinishi qaysi kasallikda?",
+    "A": "Uzoq vaqtli gipoksik kasalliklarida",
+    "B": "Allergiyada",
+    "C": "Rinitda",
+    "D": "Gastritda",
+    "javob": "A"
+  },
+  {
+    "savol": "Leykonixiya nima?",
+    "A": "Tirnoqda dog‘ va chiziqlar",
+    "B": "Qalinlashish",
+    "C": "Sarg‘ayish",
+    "D": "Yallig‘lanish",
+    "javob": "A"
+  },
+  {
+    "savol": "Ikkilamchi elementlar?",
+    "A": "Qipiqlanish",
+    "B": "Eritema",
+    "C": "Makula",
+    "D": "Rozeola",
+    "javob": "A"
+  },
+  {
+    "savol": "Sariq tirnoqlar sindromi qaysi kasallikda uchraydi?",
+    "A": "Nafas yo‘llari kasalliklari",
+    "B": "Anemiya",
+    "C": "D vitamini yetishmovchiligi",
+    "D": "Alergiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Onixogrifoz qaysi holatda uchraydi?",
+    "A": "Tug‘ma distrofiyada",
+    "B": "Gipoksiya",
+    "C": "Pnevmoniya",
+    "D": "D vitamini kamligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Gipoksiya belgisi?",
+    "A": "Sianoz",
+    "B": "Eritema",
+    "C": "Ikter",
+    "D": "Pigmentoz",
+    "javob": "A"
+  },
+  {
+    "savol": "Bolalarda teri qalinligi kattalarga nisbatan?",
+    "A": "1.5–3 marta yupqa",
+    "B": "Teng",
+    "C": "Qalin",
+    "D": "O‘zgarmaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Tishlangan tirnoqlar qaysi sabablarda uchraydi?",
+    "A": "Nevroz va ruhiy zo‘riqishlarda",
+    "B": "Allergiya",
+    "C": "Anemiya",
+    "D": "Viruslar",
+    "javob": "A"
+  },
+  {
+    "savol": "Paronixiya qanday namoyon bo‘ladi?",
+    "A": "Tirnoq atrofida yallig‘lanish",
+    "B": "Tirnoq tushishi",
+    "C": "Dog‘lar",
+    "D": "Chandiqlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Tirnoqlar zamburug‘li zararlanganda qanday ko‘rinadi?",
+    "A": "Deformatsiya va sarg‘ayish",
+    "B": "Ko‘karish",
+    "C": "Qizarish",
+    "D": "To‘kilish",
+    "javob": "A"
+  },
+  {
+    "savol": "Tirnoq tushishi nima bilan bog‘liq?",
+    "A": "Travma va porfiriyaga",
+    "B": "Psoriazga",
+    "C": "D vitamini yetishmovchiligi",
+    "D": "Nevrozga",
+    "javob": "A"
+  },
+  {
+    "savol": "Umumiy soch to‘kilishiga sabab?",
+    "A": "Anemiya va intoksikatsiya",
+    "B": "Rinit",
+    "C": "Dermatit",
+    "D": "Tish kasalliklari",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘choqli alopetsiya qaysi sabablarga ko’ra kelib chiqadi?",
+    "A": "Zamburug‘li kasalliklarda",
+    "B": "Gipotermiyada",
+    "C": "Allergiyada",
+    "D": "Raxitda",
+    "javob": "A"
+  },
+  {
+    "savol": "“Kesilgan soha” belgisi nima?",
+    "A": "Sochlar ildiziga yaqin sinadi",
+    "B": "Soch yog‘lanadi",
+    "C": "Soch qora tus oladi",
+    "D": "Faqat peshona sohasida",
+    "javob": "A"
+  },
+  {
+    "savol": "Girsutizm sababi?",
+    "A": "Itsenko–Kushing sindromi",
+    "B": "Anemiya",
+    "C": "Miya jarohati",
+    "D": "Vitamin C yetishmovchiligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Nursiz, quruq sochlar nimadan dalolat beradi?",
+    "A": "Vitamin va mikroelement yetishmovchiligi",
+    "B": "Gipertermiya",
+    "C": "Ko‘p yog‘lanish",
+    "D": "Allergiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Dermal osteogenez nimasi bilan xondral osteogenezdan farqlanadi?",
+    "A": "Tog‘ay bosqichini chetlab o‘tib shakllanishi",
+    "B": "Suyaklar zichroq bo‘lishi",
+    "C": "Epifizda boshlanishi",
+    "D": "Qon tomiri kech keladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Endoxondral suyaklanishning asosiy jarayoni qaysi?",
+    "A": "Tog‘ay modeli shakllanishi",
+    "B": "Mineralizatsiya",
+    "C": "Organik modda kamayishi",
+    "D": "Fasiyalar kuchayishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Osteoblastlar nima qiladi?",
+    "A": "Organik matritsa yaratadi",
+    "B": "Matritsani buzadi",
+    "C": "Faqat mineral to‘playdi",
+    "D": "Tolalarni qisqartiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Mineralizatsiya yetishmasligi nimaga olib keladi?",
+    "A": "Suyak egiluvchanligi ortadi",
+    "B": "Qattiqligi ortadi",
+    "C": "Bo‘g‘imlar yopiladi",
+    "D": "Mushak o‘sadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Bolalarda suyak elastik bo‘lishi sababi?",
+    "A": "Organik modda ko‘pligi",
+    "B": "Mineral ko‘pligi",
+    "C": "Kollagen kamligi",
+    "D": "Suyak usti yupqaligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Oqsil matritsa yetishmasa nima bo‘ladi?",
+    "A": "Organik asos susayadi",
+    "B": "Mineral ko‘payadi",
+    "C": "Bo‘g‘im yallig‘lanadi",
+    "D": "Konga tuz to‘planadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Vitamin A kamligi qanday ta’sir qiladi?",
+    "A": "Osteoblast va osteoklast muvozanati buziladi",
+    "B": "Qon aylanishi ortadi",
+    "C": "Mushak tonusi oshadi",
+    "D": "Bo‘g‘imlar yopiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Vitamin D kamligi birinchi nimani buzadi?",
+    "A": "Mineralizatsiyani",
+    "B": "Oqsil sintezini",
+    "C": "Mushak tonusini",
+    "D": "Fasiyani",
+    "javob": "A"
+  },
+  {
+    "savol": "Remodellingda nima sodir bo‘ladi?",
+    "A": "Eski suyak yangilanadi",
+    "B": "Faqat osteoblastlar ishlaydi",
+    "C": "Faqat tog‘ay qalinlashadi",
+    "D": "Organik modda kamayadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Kollagen kamligi nimaga olib keladi?",
+    "A": "Mo‘rtlik ortadi",
+    "B": "Qattiqlik ortadi",
+    "C": "Bo‘shashuv ortadi",
+    "D": "Cho‘zilish ortadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Chaqaloq skeleti nega yumshoq?",
+    "A": "Mineral modda kam",
+    "B": "Kollagen kam",
+    "C": "Bo‘g‘imlar yopiq",
+    "D": "Tog‘ay yo‘q",
+    "javob": "A"
+  },
+  {
+    "savol": "“Yashil novda” sinish sababi?",
+    "A": "Suyak usti qalin",
+    "B": "Mineral kuchli",
+    "C": "Bo‘g‘im zaif",
+    "D": "Mushak cho‘ziluvchan",
+    "javob": "A"
+  },
+  {
+    "savol": "Liqildoqning ahamiyati?",
+    "A": "Tug‘ilish moslashuvi",
+    "B": "Ko‘rish yaxshilash",
+    "C": "Isitma kamayishi",
+    "D": "Quloq bosimi o‘zgarishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Bolalarda qon ta’minoti kuchli bo‘lsa?",
+    "A": "Osteomiyelit xavfi yuqori",
+    "B": "Bo‘g‘im yopiladi",
+    "C": "Mineral ko‘payadi",
+    "D": "Mushak kamayadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Skolioz tez shakllanishi sababi?",
+    "A": "Umurtqa mushaklari yetilmagan",
+    "B": "Suyak qattiq",
+    "C": "Bo‘g‘im keng",
+    "D": "Lordoz kam",
+    "javob": "A"
+  },
+  {
+    "savol": "Bola umurtqasi avval qanday bo‘ladi?",
+    "A": "Egriliksiz",
+    "B": "Kifozli",
+    "C": "Lordozli",
+    "D": "Yon egilgan",
+    "javob": "A"
+  },
+  {
+    "savol": "Bog‘lam apparati zaif bo‘lsa nima bo‘ladi?",
+    "A": "Bo‘g‘im chiqishi oson",
+    "B": "Qattiqlashadi",
+    "C": "Yiringlaydi",
+    "D": "Mushak o‘sadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko‘krak qafasi keng bo‘lishi nimaga yordam beradi?",
+    "A": "Nafasga moslashuv",
+    "B": "Yurak kuchi",
+    "C": "Bosim kamayishi",
+    "D": "Qon aylanishi oshishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Chanoq suyaklari tez o‘sishi qaysi davrga xos?",
+    "A": "Erta bolalik",
+    "B": "Maktab davri",
+    "C": "O‘smirlik",
+    "D": "Neonatal",
+    "javob": "A"
+  },
+  {
+    "savol": "Proporsiya o‘zgarishiga misol?",
+    "A": "Yuz sekin rivojlanadi",
+    "B": "Ko‘krak kengayadi",
+    "C": "Qo‘l qisqaradi",
+    "D": "Umurtqa qattiqlashadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Chaqaloqlarda mushak tonusi yuqori sababi?",
+    "A": "Egiluvchan mushak ustun",
+    "B": "Oqsil kam",
+    "C": "Fasia torayadi",
+    "D": "Mineral kuchli",
+    "javob": "A"
+  },
+  {
+    "savol": "Mushaklar yengil bo‘lishi sababi?",
+    "A": "Suv ko‘p",
+    "B": "Kollagen ko‘p",
+    "C": "Fasia qalin",
+    "D": "Yadro oz",
+    "javob": "A"
+  },
+  {
+    "savol": "Mushak tez o‘sishi qachon?",
+    "A": "Postnatal ilk yillarda",
+    "B": "Maktabda",
+    "C": "Qariyalikda",
+    "D": "Faqat pubertatda",
+    "javob": "A"
+  },
+  {
+    "savol": "Mushak tolasi nega kattalashadi?",
+    "A": "Miobrillalar ko‘payadi",
+    "B": "Qon kamayadi",
+    "C": "Fasia qisqaradi",
+    "D": "Energiya kamayadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Mushak kuchi nega teng emas o‘sadi?",
+    "A": "Guruhlar turli rivojlanadi",
+    "B": "Gipertonus",
+    "C": "Yallig‘lanish",
+    "D": "Suv o‘zgaradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qo‘l mushaklari avval rivojlanish sababi?",
+    "A": "Nozik motorika zarur",
+    "B": "Nafas",
+    "C": "Yurak",
+    "D": "Bosim",
+    "javob": "A"
+  },
+  {
+    "savol": "Homiladorlik davrida osteogenez necha xil yo’lda kechadi?",
+    "A": "Dermal va xondral",
+    "B": "Dermal va anoqganik",
+    "C": "Anabolik va mineralizatsiya",
+    "D": "Dermal, xondral va anabolik",
+    "javob": "A"
+  },
+  {
+    "savol": "Dermal osteogenez natijasida qaysi suyaklar hosil bo’aldi?",
+    "A": "Kalla asosi",
+    "B": "Uzun naysimon suyaklar",
+    "C": "Yelka suyagi",
+    "D": "Jag’ suyagi va to’sh suyagi, son suyagi",
+    "javob": "A"
+  },
+  {
+    "savol": "Balerina poza mushak holati qachon kuzatiladi?",
+    "A": "Gipertonusda",
+    "B": "Gipotonusda",
+    "C": "Fasia cho‘zilishi",
+    "D": "Qisqarish",
+    "javob": "A"
+  },
+  {
+    "savol": "Dermal osteogenezdan hosil bo’ladigan suyaklarning o’ziga xos xususiyati?",
+    "A": "Yengil va egiluvchan",
+    "B": "Tez o’sadi",
+    "C": "Yassi va mustahkam",
+    "D": "O’sishi sekin lekin elastik",
+    "javob": "A"
+  },
+  {
+    "savol": "“Tasbeh donalari” nimaga xos?",
+    "A": "Raxit da qovurg’alarda o’zgarish",
+    "B": "Bo‘g‘im yiringi",
+    "C": "Osteomiyelit",
+    "D": "Mushaklar qotishi",
+    "javob": "A"
+  },
+  {
+    "savol": "“Manjetka belgisi” nimani ko‘rsatadi?",
+    "A": "Epifiz kengayishi",
+    "B": "Yassi oyoqlik",
+    "C": "Bosh yumshoqligi",
+    "D": "Mushak qisqarishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Kraniotabes nima?",
+    "A": "Ensa suyak yumshashi",
+    "B": "Tish erta chiqishi",
+    "C": "Bo‘yin qattiq",
+    "D": "Mushak spazmi",
+    "javob": "A"
+  },
+  {
+    "savol": "Boalarda sut tishlaridan dastlab qaysi chiqadi?",
+    "A": "Pastki ikkita kesuvchi kurak tishlar",
+    "B": "Molyar tishlar",
+    "C": "Qoziq tish",
+    "D": "Oziq tish",
+    "javob": "A"
+  },
+  {
+    "savol": "Bolalarda sut tishlari necha oylikdan chiqadi?",
+    "A": "6",
+    "B": "4",
+    "C": "3",
+    "D": "12",
+    "javob": "A"
+  },
+  {
+    "savol": "Bolalarda doimiy tishlardan qaysi bir tish sut tishlarida bo’lmaydi",
+    "A": "Molyar",
+    "B": "Qoziq",
+    "C": "Kurak",
+    "D": "Kichik oziq",
+    "javob": "A"
+  },
+  {
+    "savol": "Bolalarda bel lordozi qachon yuzaga keladi",
+    "A": "Yurishni boshlaganda",
+    "B": "O’tirganda",
+    "C": "Emaklaganda",
+    "D": "Bo’ynini tutganda",
+    "javob": "A"
+  },
+  {
+    "savol": "Bolalarda bo’yin lordozi qachon yuzaga keladi",
+    "A": "Boshini tuta boshlaganda",
+    "B": "Tug’ilganda",
+    "C": "Bo’lmaydi",
+    "D": "Emaklagada",
+    "javob": "A"
+  },
+  {
+    "savol": "Epikant nima?",
+    "A": "Ko’z ichki qismida teridan hosil bo’ladigan burma",
+    "B": "Qorachiqning qimirlab turishi",
+    "C": "Bir qorachiq katta bittasi kichik bo’lishi",
+    "D": "Qovoqlarning tushishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Gipertelorizmga ta’rif bering",
+    "A": "A’zolar o’rtasidagi masofaning uzoq bo’lishi",
+    "B": "Ko’zlarning yaqin joylashuvi",
+    "C": "A’zolarning ikkitadan bo’lishi",
+    "D": "Kipriklarning ikki qator bo’lib joylashishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Pustula nima?",
+    "A": "Ichi yiringli bo’shliq",
+    "B": "Terining qizarishi",
+    "C": "Tranzitor holar",
+    "D": "Ichi suyuqlik bilan to’lgan bo’shliq",
+    "javob": "A"
+  },
+  {
+    "savol": "Teleangioektaziya nima uchun paydo bo’ladi?",
+    "A": "Kapilyar to’rlarining kengayishidan",
+    "B": "Kapilyar to’rlarining yorilishidan",
+    "C": "Teri ostiga qon quyilishidan",
+    "D": "Ko’z tashqi burchagining normadan katta bo’lishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Petexiyaga ta’rif bering",
+    "A": "Nuqtasimon qon quyilish",
+    "B": "Teri ostiga qon quyilish",
+    "C": "Dog’",
+    "D": "Yara",
+    "javob": "A"
+  },
+  {
+    "savol": "Makula?",
+    "A": "Dog’",
+    "B": "Qizarish",
+    "C": "Tugun",
+    "D": "Hol",
+    "javob": "A"
+  }
+]
