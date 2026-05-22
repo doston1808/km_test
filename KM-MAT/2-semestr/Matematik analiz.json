@@ -1,0 +1,986 @@
+[
+  {
+    "savol": "f(x)=sinx cosx, hosilani toping",
+    "A": "cos2x",
+    "B": "sin2x",
+    "C": "-cos2x",
+    "D": "-sin2x",
+    "javob": "A"
+  },
+  {
+    "savol": "f(x)=ln(sinx) hosilani toping",
+    "A": "cos x / sin x",
+    "B": "sin x / cos x",
+    "C": "sinx cosx",
+    "D": "-cos2x",
+    "javob": "A"
+  },
+  {
+    "savol": "f(x)=ln(cosx) hosilani toping",
+    "A": "-sin x / cos x",
+    "B": "sin x / cos x",
+    "C": "sinx cosx",
+    "D": "-cos2x",
+    "javob": "A"
+  },
+  {
+    "savol": "f(x)=sinx+cosx hosilani toping",
+    "A": "cosx-sinx",
+    "B": "sinx+cosx",
+    "C": "-cosx+sinx",
+    "D": "cosx+sinx",
+    "javob": "A"
+  },
+  {
+    "savol": "f(x)=tanx, hosilani toping",
+    "A": "1/(cosx·cosx)",
+    "B": "sin x / cos x",
+    "C": "sin x / cos x",
+    "D": "1/(cosx·sinx)",
+    "javob": "A"
+  },
+  {
+    "savol": "f(x)=ln x + sin x, hosilani toping",
+    "A": "1/x + cos x",
+    "B": "1/x + sin x",
+    "C": "ln x + cos x",
+    "D": "sin x / cos x",
+    "javob": "A"
+  },
+  {
+    "savol": "y= 7x² - 2x + √7 funksiyaning hosilasi toping.",
+    "A": "14x-2",
+    "B": "3x-4",
+    "C": "25x-6",
+    "D": "24x-64",
+    "javob": "A"
+  },
+  {
+    "savol": "Tenglikni davom ettiring: (xⁿ)' =",
+    "A": "nxⁿ⁻¹",
+    "B": "aⁿ ln a",
+    "C": "eⁿ",
+    "D": "1/x",
+    "javob": "A"
+  },
+  {
+    "savol": "Tenglikni davom ettiring: X' =",
+    "A": "1",
+    "B": "0",
+    "C": "eⁿ",
+    "D": "1/x",
+    "javob": "A"
+  },
+  {
+    "savol": "Tenglikni davom ettiring: (aⁿ)' =",
+    "A": "aⁿ ln a",
+    "B": "eⁿ",
+    "C": "1/x",
+    "D": "1/(x ln a)",
+    "javob": "A"
+  },
+  {
+    "savol": "Tenglikni davom ettiring: (log a x)' =",
+    "A": "1/(x ln a)",
+    "B": "aⁿ ln a",
+    "C": "eⁿ",
+    "D": "1/x",
+    "javob": "A"
+  },
+  {
+    "savol": "Tenglikni davom ettiring: (√x)' =",
+    "A": "1/(2√x)",
+    "B": "1/(x ln a)",
+    "C": "aⁿ ln a",
+    "D": "1/x + sin x",
+    "javob": "A"
+  },
+  {
+    "savol": "Tenglikni davom ettiring: (tgx)' =",
+    "A": "1/cos²x",
+    "B": "1/(x ln a)",
+    "C": "aⁿ ln a",
+    "D": "1/sin²x",
+    "javob": "A"
+  },
+  {
+    "savol": "Tenglikni davom ettiring: (ctgx)' =",
+    "A": "-1/sin²x",
+    "B": "1/cos²x",
+    "C": "1/(x ln a)",
+    "D": "aⁿ ln a",
+    "javob": "A"
+  },
+  {
+    "savol": "Tenglikni davom ettiring: d(loga x) =",
+    "A": "1/(x ln a) dx",
+    "B": "1/cos²x dx",
+    "C": "c·xⁿ⁻¹ dx",
+    "D": "1/(x ln a)",
+    "javob": "A"
+  },
+  {
+    "savol": "Tenglikni davom ettiring: d(aⁿ) =",
+    "A": "aⁿ ln a dx",
+    "B": "c·xⁿ⁻¹ dx",
+    "C": "1/(x ln a)",
+    "D": "eⁿ",
+    "javob": "A"
+  },
+  {
+    "savol": "d(ctgx) =",
+    "A": "-1/sin²x dx",
+    "B": "1/(x ln a) dx",
+    "C": "1/cos²x dx",
+    "D": "c·xᶜ⁻¹ dx",
+    "javob": "A"
+  },
+  {
+    "savol": "d(eˣ) =",
+    "A": "eˣ dx",
+    "B": "c·xᶜ⁻¹ dx",
+    "C": "1/(x ln a)",
+    "D": "aˣ ln a",
+    "javob": "A"
+  },
+  {
+    "savol": "d(xᶜ) =",
+    "A": "c·xᶜ⁻¹ dx",
+    "B": "1/(x ln a)",
+    "C": "aˣ ln a",
+    "D": "eˣ",
+    "javob": "A"
+  },
+  {
+    "savol": "y=sin(3x) dan hosila",
+    "A": "3cos3x",
+    "B": "Cos3x",
+    "C": "-3cos3x",
+    "D": "Cos3x/3",
+    "javob": "A"
+  },
+  {
+    "savol": "y=sin(7x) dan hosila",
+    "A": "7cos7x",
+    "B": "Cos7x",
+    "C": "-7cos7x",
+    "D": "Cos3x/3",
+    "javob": "A"
+  },
+  {
+    "savol": "y=sin(8x) dan hosila",
+    "A": "8cos8x",
+    "B": "Cos8x",
+    "C": "-8cos8x",
+    "D": "Cos8x/3",
+    "javob": "A"
+  },
+  {
+    "savol": "y=cos(3x) dan hosila",
+    "A": "-3sin3x",
+    "B": "sin3x",
+    "C": "3 sin3x",
+    "D": "Cos3x/3",
+    "javob": "A"
+  },
+  {
+    "savol": "y=cos(5x) dan hosila",
+    "A": "-5sin5x",
+    "B": "Sin5x",
+    "C": "5 sin5x",
+    "D": "Cosx/5",
+    "javob": "A"
+  },
+  {
+    "savol": "y=cos(2x) dan hosila",
+    "A": "-2sin2x",
+    "B": "Sin2x",
+    "C": "2 sin2x",
+    "D": "Cos2x/2",
+    "javob": "A"
+  },
+  {
+    "savol": "y=cos(6x) dan hosila",
+    "A": "-6sin6x",
+    "B": "Sin6x",
+    "C": "6 sin6x",
+    "D": "Cos6x/6",
+    "javob": "A"
+  },
+  {
+    "savol": "dy=f'(x)dx bu qanday ifoda",
+    "A": "Funksiyaning differensiali",
+    "B": "Mustaqil o'zgaruvchi x ning differensiali",
+    "C": "Funksiya hosilasi",
+    "D": "funksiya",
+    "javob": "A"
+  },
+  {
+    "savol": "dy=f'(x)dx , bu yerda dx nima?",
+    "A": "mustaqil o'zgaruvchi x ning differensiali",
+    "B": "funksiyaning differensiali",
+    "C": "Funksiya hosilasi",
+    "D": "funksiya",
+    "javob": "A"
+  },
+  {
+    "savol": "dy=f'(x)dx , bu yerda dy nima",
+    "A": "funksiyaning differensiali",
+    "B": "Funksiya hosilasi",
+    "C": "funksiya",
+    "D": "mustaqil o'zgaruvchi x ning differensiali",
+    "javob": "A"
+  },
+  {
+    "savol": "sin²(x) funksiyaning hosilasini toping",
+    "A": "2sinx cosx",
+    "B": "2sinx",
+    "C": "2cosx",
+    "D": "2sinx sinx",
+    "javob": "A"
+  },
+  {
+    "savol": "x³+2x funksiyaning differensialini toping.",
+    "A": "(3x²+2)dx",
+    "B": "(4x²+1)dx",
+    "C": "(x²+2)dx",
+    "D": "(3x²)dx",
+    "javob": "A"
+  },
+  {
+    "savol": "x⁵+6x funksiyaning differensialini toping.",
+    "A": "(5x⁴+6)dx",
+    "B": "(4x²+1)dx",
+    "C": "(x²+2)dx",
+    "D": "(3x²)dx",
+    "javob": "A"
+  },
+  {
+    "savol": "3x⁵+6cosx funksiyaning differensialini toping.",
+    "A": "(15x⁴-6sinx)dx",
+    "B": "(15x⁴+6cosx)dx",
+    "C": "(x²+2)dx",
+    "D": "(3x²)dx",
+    "javob": "A"
+  },
+  {
+    "savol": "x⁷+6 funksiyaning differensialini toping.",
+    "A": "(7x⁶)dx",
+    "B": "(7x⁶+1)dx",
+    "C": "(x²+2)dx",
+    "D": "(3x²)dx",
+    "javob": "A"
+  },
+  {
+    "savol": "4x⁵+6sinx funksiyaning differensialini toping.",
+    "A": "(20x⁴+6cosx)dx",
+    "B": "(20x⁴-6cosx)dx",
+    "C": "(x²+2)dx",
+    "D": "(3x²)dx",
+    "javob": "A"
+  },
+  {
+    "savol": "Funksiyaning hosilasi yordamida qaysi xususiyatlari aniqlanadi?",
+    "A": "O'sish va kamayish oraliqlari",
+    "B": "Integral chegaralari",
+    "C": "Logarifm qiymatlari",
+    "D": "Matritsa determinantlari",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar f'(x) > 0 bo'lsa, funksiya qanday xususiyatga ega bo'ladi?",
+    "A": "O'sadi",
+    "B": "Kamayadi",
+    "C": "Barqaror",
+    "D": "Ekstremum hosil qiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar f'(x) < 0 bo'lsa, funksiya qanday bo'ladi?",
+    "A": "Kamayadi",
+    "B": "Barqaror",
+    "C": "Ekstremum hosil qiladi",
+    "D": "O'sadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar f'(x) = 0 bo'lsa, bu nuqta qanday bo'lishi mumkin?",
+    "A": "Ekstremum",
+    "B": "Infleksiya",
+    "C": "Limit",
+    "D": "Hosila nolga teng emas",
+    "javob": "A"
+  },
+  {
+    "savol": "Grafigini yasashda birinchi bosqich qanday?",
+    "A": "Funksiyaning sohasini aniqlash",
+    "B": "Hosilani hisoblash",
+    "C": "Infleksiya nuqtasini topish",
+    "D": "Ekstremumni aniqlash",
+    "javob": "A"
+  },
+  {
+    "savol": "Ekstremum nuqtalarini topish uchun qaysi hosila ishlatiladi?",
+    "A": "Birinchi hosila",
+    "B": "Ikkinchi hosila",
+    "C": "Limit",
+    "D": "Integral",
+    "javob": "A"
+  },
+  {
+    "savol": "Funksiyaning o'sish va kamayish oraliqlarini aniqlash uchun birinchi hosila belgisi qanday bo'lishi kerak?",
+    "A": "f'(x)>0 — o'sish, f'(x)<0 — kamayish",
+    "B": "f'(x)<0 — o'sish, f'(x)>0 — kamayish",
+    "C": "f'(x)=0 — har doim o'sadi",
+    "D": "f'(x)>0 — kamayadi, f'(x)<0 — o'sadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Funksiyaning hosilasidan foydalanishning asosiy maqsadi nima?",
+    "A": "Grafigini tahlil qilish va xususiyatlarini aniqlash",
+    "B": "Limitlarni hisoblash",
+    "C": "Logarifmlarni topish",
+    "D": "Integral qiymatlarini olish",
+    "javob": "A"
+  },
+  {
+    "savol": "Funksiyaning differensiali nima?",
+    "A": "Funksiyaning o'zgarishini hosilaga bog'laydigan ifoda",
+    "B": "Funksiyaning eng katta qiymatini aniqlash",
+    "C": "Funksiya grafigining yuzasini topish",
+    "D": "Integral qiymatini hisoblash",
+    "javob": "A"
+  },
+  {
+    "savol": "Funksiyaning differensiali hosila bilan qanday bog'liq?",
+    "A": "Hosila orqali aniqlanadi",
+    "B": "Mustaqil hisoblanadi",
+    "C": "Integral orqali topiladi",
+    "D": "Chegarasiz aniqlanadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ikkinchi tartibli hosila qanday ta'riflanadi?",
+    "A": "Birinchi hosilaning hosilasi",
+    "B": "Funksiyaning kvadrati",
+    "C": "Funksiyaning aniq integrali",
+    "D": "Funksiyaning limiti",
+    "javob": "A"
+  },
+  {
+    "savol": "n-tartibli hosila qanday ta'riflanadi?",
+    "A": "(n-1)-tartibli hosilaning hosilasi",
+    "B": "n-tartibli integral",
+    "C": "Funksiyaning n-martalik ko'paytmasi",
+    "D": "Funksiyaning n-martalik limiti",
+    "javob": "A"
+  },
+  {
+    "savol": "y=sin x. y'' ni toping.",
+    "A": "-sin x",
+    "B": "cos x",
+    "C": "-cos x",
+    "D": "sin x",
+    "javob": "A"
+  },
+  {
+    "savol": "y=cos x. y'' ni toping.",
+    "A": "-cos x",
+    "B": "cos x",
+    "C": "sin x",
+    "D": "-sin x",
+    "javob": "A"
+  },
+  {
+    "savol": "y'', f''(x), d²y/dx² shu ifodalardan biri bilan qanday kattalik belgilanadi?",
+    "A": "ikkinchi tartibli hosila",
+    "B": "hosila",
+    "C": "birinchi tartibli hosila",
+    "D": "uchinchi tartibli hosila",
+    "javob": "A"
+  },
+  {
+    "savol": "(a^u)' = a^u * ln a * u' ; qanday funksiya hosilasiga misol bo'ladi?",
+    "A": "murakkab",
+    "B": "oddiy",
+    "C": "teskari",
+    "D": "juft",
+    "javob": "A"
+  },
+  {
+    "savol": "(cos u)' = -sin u * u' qanday funksiya hosilasiga misol bo'ladi?",
+    "A": "murakkab",
+    "B": "oddiy",
+    "C": "teskari",
+    "D": "juft",
+    "javob": "A"
+  },
+  {
+    "savol": "y=-x+5 Funksiyaning 2-tartibli hosilasini toping:",
+    "A": "0",
+    "B": "1",
+    "C": "-1",
+    "D": "2",
+    "javob": "A"
+  },
+  {
+    "savol": "y=-8x+5 Funksiyaning 2-tartibli hosilasini toping:",
+    "A": "0",
+    "B": "1",
+    "C": "-1",
+    "D": "2",
+    "javob": "A"
+  },
+  {
+    "savol": "“1 dan n gacha bo‘lgan sonlar ko‘paytmasi”ning qisqa yozilishi qaysi?",
+    "A": "n!",
+    "B": "P_n",
+    "C": "C_n",
+    "D": "[n]",
+    "javob": "A"
+  },
+  {
+    "savol": "f(x)=sin x, f''(x) ni toping",
+    "A": "-sin x",
+    "B": "sin x",
+    "C": "cos x",
+    "D": "-cos x",
+    "javob": "A"
+  },
+  {
+    "savol": "f(x)=cos x, f''(x) ni toping",
+    "A": "-cos x",
+    "B": "-sin x",
+    "C": "sin x",
+    "D": "cos x",
+    "javob": "A"
+  },
+  {
+    "savol": "f(x)=sin x, f'''(x) ni toping",
+    "A": "-cos x",
+    "B": "-sin x",
+    "C": "sin x",
+    "D": "cos x",
+    "javob": "A"
+  },
+  {
+    "savol": "f(x)=cos x, f'''(x) ni toping",
+    "A": "sin x",
+    "B": "-cos x",
+    "C": "-sin x",
+    "D": "Sin2 x",
+    "javob": "A"
+  },
+  {
+    "savol": "f(x)=sin x, f''''(x) ni toping",
+    "A": "sin x",
+    "B": "-sin x",
+    "C": "cos x",
+    "D": "-cos x",
+    "javob": "A"
+  },
+  {
+    "savol": "f(x)=cos x, f''''(x) ni toping",
+    "A": "cos x",
+    "B": "sin x",
+    "C": "-sin x",
+    "D": "-cos x",
+    "javob": "A"
+  },
+  {
+    "savol": "f(x)=sin x+cos x, f''(x) ni toping",
+    "A": "-sin x - cos x",
+    "B": "sin x + cos x",
+    "C": "cos x - sin x",
+    "D": "sin x - cos x",
+    "javob": "A"
+  },
+  {
+    "savol": "f(x)=sin x, nechanchi hosila yana sin x ga teng bo‘ladi?",
+    "A": "4",
+    "B": "3",
+    "C": "2",
+    "D": "1",
+    "javob": "A"
+  },
+  {
+    "savol": "f(x)=cos x, nechanchi hosila yana cos x ga teng bo‘ladi?",
+    "A": "4",
+    "B": "3",
+    "C": "2",
+    "D": "1",
+    "javob": "A"
+  },
+  {
+    "savol": "f(x)=sin x, 5-hosilani toping",
+    "A": "cos x",
+    "B": "sin x",
+    "C": "-sin x",
+    "D": "-cos x",
+    "javob": "A"
+  },
+  {
+    "savol": "f(x)=cos x, 6-hosilani toping",
+    "A": "-cos x",
+    "B": "cos x",
+    "C": "sin x",
+    "D": "-sin x",
+    "javob": "A"
+  },
+  {
+    "savol": "f(x)=2sin x, f''(x) ni toping",
+    "A": "-2sin x",
+    "B": "2sin x",
+    "C": "2cos x",
+    "D": "-2cos x",
+    "javob": "A"
+  },
+  {
+    "savol": "f(x)=3cos x, f''(x) ni toping",
+    "A": "-3cos x",
+    "B": "3sin x",
+    "C": "3cos x",
+    "D": "-3sin x",
+    "javob": "A"
+  },
+  {
+    "savol": "Manfiy sonlar qayerdan chegaralangan",
+    "A": "yuqoridan",
+    "B": "quyidan",
+    "C": "chegaralanmagan",
+    "D": "cheksiz",
+    "javob": "A"
+  },
+  {
+    "savol": "Sonlar ketma-ketligi qanday ta'riflanadi?",
+    "A": "Ma'lum bir qoida bilan tartiblangan sonlar to'plami",
+    "B": "barcha haqiqiy sonlarning to'plami",
+    "C": "butun sonlar ketma-ketligi",
+    "D": "faqat musbat sonlar yig'indisi",
+    "javob": "A"
+  },
+  {
+    "savol": "Sonlar ketma-ketligining hadlari nima?",
+    "A": "ketma-ketlikka kiruvchi elementlar",
+    "B": "natural sonlarning yig'indisi",
+    "C": "eng katta sonlar",
+    "D": "eng kichik sonlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Ketma-ketlik yuqoridan chegaralangan bo'lishi uchun qanday shart bajariladi?",
+    "A": "ixtiyoriy n uchun a_n ≤ M bo'ladigan M son mavjud bo'lishi",
+    "B": "ketma-ketlikda eng katta son bo'lishi",
+    "C": "barcha hadlar manfiy bo'lishi",
+    "D": "barcha hadlar nolga teng bo'lishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ketma-ketlik quyidan chegaralangan deb atalishi uchun qanday shart bajarilishi kerak?",
+    "A": "ixtiyoriy n uchun a_n ≥ m bo'ladigan m son mavjud bo'lishi",
+    "B": "barcha hadlar nolga teng bo'lishi",
+    "C": "ketma-ketlik cheksiz bo'lishi",
+    "D": "ketma-ketlikning limiti bo'lmasligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Monoton ketma-ketlik nima?",
+    "A": "o'suvchi yoki kamayuvchi ketma-ketlik",
+    "B": "faqat nolga yaqinlashuvchi ketma-ketlik",
+    "C": "faqat cheksiz ketma-ketlik",
+    "D": "faqat o'zgarmas ketma-ketlik",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi shartda ketma-ketlik o'suvchi deyiladi?",
+    "A": "har bir n uchun a_n ≤ a_{n+1} bo'lsa",
+    "B": "har bir n uchun a_n ≥ a_{n+1} bo'lsa",
+    "C": "barcha hadlar nolga teng bo'lsa",
+    "D": "ketma-ketlik chegaralangan bo'lsa",
+    "javob": "A"
+  },
+  {
+    "savol": "Qat'iy o'suvchi ketma-ketlik qanday shartda aniqlanadi?",
+    "A": "har bir n uchun a_n < a_{n+1} bo'lsa",
+    "B": "har bir n uchun a_n = a_{n+1} bo'lsa",
+    "C": "har bir n uchun a_n > a_{n+1} bo'lsa",
+    "D": "barcha hadlar bir xil bo'lsa",
+    "javob": "A"
+  },
+  {
+    "savol": "Y=2x to'g'ri chiziq tenglamasi qayerdan o'tadi",
+    "A": "Koordinata boshidan",
+    "B": "X o'qidan",
+    "C": "Y o'qidan",
+    "D": "To'g'ri javob berilmagan",
+    "javob": "A"
+  },
+  {
+    "savol": "X=-2 to'g'ri chiziq tekislikda qanday joylashgan?",
+    "A": "Y o'qiga parallel",
+    "B": "X o'qiga parallel",
+    "C": "Y o'qiga perpendikulyar",
+    "D": "Koordinata boshidan",
+    "javob": "A"
+  },
+  {
+    "savol": "X=1 to'g'ri chiziq tekislikda qanday joylashgan?",
+    "A": "Y o'qiga parallel",
+    "B": "X o'qiga parallel",
+    "C": "Y o'qiga perpendikulyar",
+    "D": "Koordinata boshidan",
+    "javob": "A"
+  },
+  {
+    "savol": "y= 2 funksiyaga boshlang'ich funksiya toping.",
+    "A": "2x+c",
+    "B": "x-5x+c",
+    "C": "3x+c",
+    "D": "x²-4x",
+    "javob": "A"
+  },
+  {
+    "savol": "y= -3 funksiyaga boshlang'ich funksiya toping.",
+    "A": "-3x+c",
+    "B": "x-5x+c",
+    "C": "3x+c",
+    "D": "x²-4x",
+    "javob": "A"
+  },
+  {
+    "savol": "y= 11 funksiyaga boshlang'ich funksiya toping.",
+    "A": "11x+c",
+    "B": "x-5x+c",
+    "C": "3x+c",
+    "D": "x²-4x",
+    "javob": "A"
+  },
+  {
+    "savol": "y=-7 funksiyaga boshlang'ich funksiya toping.",
+    "A": "-7x+c",
+    "B": "x-5x+c",
+    "C": "3x+c",
+    "D": "x²-4x",
+    "javob": "A"
+  },
+  {
+    "savol": "y= 8 funksiyaga boshlang'ich funksiya toping.",
+    "A": "8x+c",
+    "B": "x-5x+c",
+    "C": "3x+c",
+    "D": "x²-4x",
+    "javob": "A"
+  },
+  {
+    "savol": "y=-1 funksiyaga boshlang'ich funksiya toping.",
+    "A": "-x+c",
+    "B": "x-5x+c",
+    "C": "x+c",
+    "D": "x²-4x",
+    "javob": "A"
+  },
+  {
+    "savol": "Qanday shart bajarilsa F(x) funksiya f(x) funksiyaning boshlang'ich funksiyasi bo'ladi?",
+    "A": "F'(x) = f(x)",
+    "B": "F(x) = 0",
+    "C": "f(x)=12",
+    "D": "",
+    "javob": "A"
+  },
+  {
+    "savol": "Berilgan f(x) funksiyaning ixtiyoriy ikkita boshlang'ich funksiyasi nima bilan farq qiladi?",
+    "A": "O'zgarmas C soni bilan",
+    "B": "Integral belgisi bilan",
+    "C": "Funksiyasi bilan",
+    "D": "Differnsiali bilan",
+    "javob": "A"
+  },
+  {
+    "savol": "∫ f(x)dx = F(x) + C berilgan integralda integral osti funksiyasini ko'rsating.",
+    "A": "f(x)",
+    "B": "F(x)",
+    "C": "C",
+    "D": "F(x)+C",
+    "javob": "A"
+  },
+  {
+    "savol": "∫ f(x)dx = F(x) + C berilgan integralda integral osti ifodasini ko'rsating.",
+    "A": "f(x)dx",
+    "B": "F(x)",
+    "C": "C",
+    "D": "F(x)+C",
+    "javob": "A"
+  },
+  {
+    "savol": "∫ f(x)dx = F(x) + C berilgan funksiyaning boshlang'ich funksiyasini ko'rsating.",
+    "A": "F(x)",
+    "B": "f(x)dx",
+    "C": "C",
+    "D": "dx",
+    "javob": "A"
+  },
+  {
+    "savol": "∫ f(x)dx = F(x) + C berilgan funksiyaning boshlang'ich funksiyalar to'plamini ko'rsating.",
+    "A": "F(x)+C",
+    "B": "F(x)",
+    "C": "f(x)",
+    "D": "dx",
+    "javob": "A"
+  },
+  {
+    "savol": "f(x) = x² funksiyaning boshlang'ich funksiyasini toping.",
+    "A": "F(x) = x³/3 + C",
+    "B": "F(x)=x+C",
+    "C": "F(x)=2",
+    "D": "F(x)",
+    "javob": "A"
+  },
+  {
+    "savol": "f(x) = sin x funksiyaning boshlang'ich funksiyasini toping",
+    "A": "F(x) = -cos x + C",
+    "B": "F(x)=sin x",
+    "C": "F(x)=C",
+    "D": "0",
+    "javob": "A"
+  },
+  {
+    "savol": "∫ k f(x) dx = k ∫ f(x) dx aniqmas integralning ushbu xossasida o'zgarmas sonni ko'rsating",
+    "A": "k",
+    "B": "f(x)",
+    "C": "dx",
+    "D": "∫",
+    "javob": "A"
+  },
+  {
+    "savol": "∫ k f(x) dx = k ∫ f(x) dx aniqmas integralning xossasi to'g'ri ta'riflangan qatorni ko'rsating.",
+    "A": "O'zgarmas ko'paytuvchini aniqmas integral ishorasidan tashqariga chiqarish mumkin",
+    "B": "k bu funksiya",
+    "C": "k integrallash natijasini xató qiladi",
+    "D": "Integral noto'g'ri tuzilgan",
+    "javob": "A"
+  },
+  {
+    "savol": "∫ [f(x) ± g(x)] dx = ∫ f(x) dx ± ∫ g(x) dx aniqmas integralning xossasi to'g'ri ta'riflangan qatorni ko'rsating.",
+    "A": "Bir necha funksiyalar algebraik yig'indisining aniqmas integrali shu funksiyalar aniqmas integrallarining algebraik yig'indisiga teng",
+    "B": "f(x) va g(x) bir xil tipli funksiyalar",
+    "C": "f(x) va g(x) turlicha bo'lgan funksiyalar",
+    "D": "Soddaroq bo'lishi uchun alohida yozilgan",
+    "javob": "A"
+  },
+  {
+    "savol": "∫ dx/(x² + a²) = tenglikni davom ettiring.",
+    "A": "(1/a) arctg(x/a) + C",
+    "B": "sin x + C",
+    "C": "tg x + C",
+    "D": "eˣ + C",
+    "javob": "A"
+  },
+  {
+    "savol": "∫ cos x dx = tenglikni davom ettiring.",
+    "A": "sin x + C",
+    "B": "(1/a) arctg(x/a) + C",
+    "C": "tg x + C",
+    "D": "eˣ + C",
+    "javob": "A"
+  },
+  {
+    "savol": "∫ eˣ dx = tenglikni davom ettiring.",
+    "A": "eˣ + C",
+    "B": "(1/a) arctg(x/a) + C",
+    "C": "sin x + C",
+    "D": "tg x + C",
+    "javob": "A"
+  },
+  {
+    "savol": "y=-9x+2 hosilasini toping.",
+    "A": "-9",
+    "B": "11",
+    "C": "-5",
+    "D": "-10",
+    "javob": "A"
+  },
+  {
+    "savol": "y=19x+8 hosilasini toping.",
+    "A": "19",
+    "B": "-1",
+    "C": "-2",
+    "D": "0",
+    "javob": "A"
+  },
+  {
+    "savol": "Aniq integralning geometrik ma'nosini ko'rsating.",
+    "A": "egri chiziqli trapetsiyaning yuzi.",
+    "B": "Doiraning yuzi",
+    "C": "Kvadrat yuzi",
+    "D": "Vatar",
+    "javob": "A"
+  },
+  {
+    "savol": "∫ₐᵇ dx integral qiymati nimaga teng ?",
+    "A": "b - a",
+    "B": "a*b",
+    "C": "b+a",
+    "D": "b²-a²",
+    "javob": "A"
+  },
+  {
+    "savol": "∫₋₂⁵ dx integral qiymati nimaga teng ?",
+    "A": "7",
+    "B": "-7",
+    "C": "13",
+    "D": "-15",
+    "javob": "A"
+  },
+  {
+    "savol": "∫₋₁⁴ 3 dx integral qiymati nimaga teng ?",
+    "A": "15",
+    "B": "-20",
+    "C": "5",
+    "D": "9",
+    "javob": "A"
+  },
+  {
+    "savol": "∫₀¹ x dx aniq integralning qiymatini Nyuton-Leybnits formulasi yordamida toping",
+    "A": "1/2",
+    "B": "0",
+    "C": "2",
+    "D": "4",
+    "javob": "A"
+  },
+  {
+    "savol": "∫₁² dx Integralning qiymatini hisoblang",
+    "A": "1",
+    "B": "1",
+    "C": "2",
+    "D": "3",
+    "javob": "A"
+  },
+  {
+    "savol": "Integralning qiymatini hisoblang. ∫₁² dx",
+    "A": "1",
+    "B": "2",
+    "C": "5",
+    "D": "3",
+    "javob": "A"
+  },
+  {
+    "savol": "Aniq integralni hisoblang ∫₂³ 3dx",
+    "A": "3",
+    "B": "2",
+    "C": "1",
+    "D": "4",
+    "javob": "A"
+  },
+  {
+    "savol": "Aniq integralni hisoblang ∫₂³ 15dx",
+    "A": "15",
+    "B": "7",
+    "C": "8",
+    "D": "12",
+    "javob": "A"
+  },
+  {
+    "savol": "Integralning qiymatini hisoblang ∫₋₁⁴ (-4) dx",
+    "A": "-20",
+    "B": "12",
+    "C": "13",
+    "D": "-18",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi aniqmas integralni hisoblang: ∫ x³ dx",
+    "A": "x⁴/4 + C",
+    "B": "5x",
+    "C": "x⁵ + C",
+    "D": "3x-5",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi aniqmas integralni hisoblang: ∫ x⁴ dx",
+    "A": "x⁵/5 + C",
+    "B": "4x-9",
+    "C": "x⁶ + C",
+    "D": "0",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi aniqmas integralni hisoblang: ∫ x⁵ dx",
+    "A": "x⁶/6 + C",
+    "B": "x⁵ + C",
+    "C": "8x-9",
+    "D": "5x+c",
+    "javob": "A"
+  },
+  {
+    "savol": "Nyuton-Leybnis formulasini ko'rsating?",
+    "A": "∫ₐᵇ f(x)dx = F(x)|ₐᵇ = F(b)-F(a)",
+    "B": "F(x)",
+    "C": "f(x)",
+    "D": "dx",
+    "javob": "A"
+  },
+  {
+    "savol": "Aniq integral yordamida nimalarni hisoblash mumkin?",
+    "A": "Yuza",
+    "B": "Aylana uzunligi",
+    "C": "Nuqta",
+    "D": "Yo'l",
+    "javob": "A"
+  },
+  {
+    "savol": "Aniq integral yordamida nimalarni hisoblash mumkin? (ikkinchi)",
+    "A": "Hajm",
+    "B": "Yo'l",
+    "C": "uzunlik",
+    "D": "Nuqta",
+    "javob": "A"
+  },
+  {
+    "savol": "∫ₐᵇ R f(x) dx = R ∫ₐᵇ f(x) dx aniq integralning ushbu xossasida o'zgarmas sonni ko'rsating",
+    "A": "R",
+    "B": "f(x)",
+    "C": "dx",
+    "D": "∫",
+    "javob": "A"
+  },
+  {
+    "savol": "∫ₐᵇ R f(x) dx = R ∫ₐᵇ f(x) dx aniq integralning xossasi to'g'ri ta'riflangan qatorni ko'rsating.",
+    "A": "O'zgarmas ko'paytuvchini aniq integral ishorasidan tashqariga chiqarish mumkin",
+    "B": "R bu funksiya",
+    "C": "R integrallash natijasini xató qiladi",
+    "D": "Integral noto'g'ri tuzilgan",
+    "javob": "A"
+  },
+  {
+    "savol": "∫ₐᵇ (f₁(x) ± f₂(x)) dx = ∫ₐᵇ f₁(x) dx ± ∫ₐᵇ f₂(x) dx aniq integralning xossasi to'g'ri ta'riflangan qatorni ko'rsating.",
+    "A": "Bir necha funksiyalar algebraik yig'indisining aniq integrali shu funksiyalar aniq integrallarining algebraik yig'indisiga teng",
+    "B": "f(x) va g(x) bir xil tipli funksiyalar",
+    "C": "f(x) va g(x) turlicha bo'lgan funksiyalar",
+    "D": "Soddaroq bo'lishi uchun alohida yozilgan",
+    "javob": "A"
+  },
+  {
+    "savol": "∫ₐᵇ f(x)dx = -∫ᵇₐ f(x)dx Aniq integral xossasi to'g'ri ta'riflangan qatorni ko'rsating.",
+    "A": "Aniq integralning yuqori va quyi chegaralari almashtirilganda, aniq integral qiymati qarama-qarshisiga o'zgaradi",
+    "B": "f(x) funksiyani integrali ixtiyoriy oraliqda bir xil",
+    "C": "f(x) funksiya integrallab bo'lmaydi",
+    "D": "a va b sonlar o'zaro teng",
+    "javob": "A"
+  },
+  {
+    "savol": "y=52x-9 hosilasini toping.",
+    "A": "52",
+    "B": "12",
+    "C": "5",
+    "D": "4",
+    "javob": "A"
+  },
+  {
+    "savol": "Aniq integral yordamida yuzani hisoblash formulasini ko'rsating.",
+    "A": "S = ∫ₐᵇ f(x) dx",
+    "B": "∫ₐᵇ f(x)dx = F(x)|ₐᵇ = F(b)-F(a)",
+    "C": "F(b)-F(a)",
+    "D": "∫ₐᵇ f(φ(t)) φ'(t) dt",
+    "javob": "A"
+  }
+]
