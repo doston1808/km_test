@@ -1,0 +1,1202 @@
+[
+  {
+    "savol": "So‘zning o‘zakdan boshqa qismlari qanday ataladi?",
+    "A": "Morfema",
+    "B": "Leksema",
+    "C": "So‘z",
+    "D": "Tovush",
+    "javob": "A"
+  },
+  {
+    "savol": "Morfemaning nutqiy ko‘rinishi nima deyiladi?",
+    "A": "Qo‘shimcha",
+    "B": "O‘zak",
+    "C": "Leksema",
+    "D": "So‘z",
+    "javob": "A"
+  },
+  {
+    "savol": "“Ular” hurmat ma’nosini qachon bildiradi?",
+    "A": "Yakka shaxsga nisbatan",
+    "B": "Ko‘plikda",
+    "C": "Jonsizga nisbatan",
+    "D": "So‘roq gapda",
+    "javob": "A"
+  },
+  {
+    "savol": "“Men, sen, u” qaysi olmosh turiga kiradi?",
+    "A": "Kishilik olmoshi",
+    "B": "Ko‘rsatish olmoshi",
+    "C": "So‘roq olmoshi",
+    "D": "Gumon olmoshi",
+    "javob": "A"
+  },
+  {
+    "savol": "Leksik ma’no ifodalaydigan morfema qaysi?",
+    "A": "O‘zak morfema",
+    "B": "Affiksal morfema",
+    "C": "Shakl yasovchi",
+    "D": "Qo‘shimcha",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘zak morfemaning boshqa nomi nima?",
+    "A": "Leksema",
+    "B": "Affiks",
+    "C": "Shakl",
+    "D": "Qo‘shimcha",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi so‘zlar o‘zakdosh sanalmaydi?",
+    "A": "Shakl yasovchi olgan so‘zlar",
+    "B": "So‘z yasovchi olgan so‘zlar",
+    "C": "Bir o‘zakli so‘zlar",
+    "D": "Yasama so‘zlar",
+    "javob": "A"
+  },
+  {
+    "savol": "“Gulchi” so‘zida “-chi” qanday morfema?",
+    "A": "Affiksal morfema",
+    "B": "O‘zak morfema",
+    "C": "Leksema",
+    "D": "Shakl yasovchi",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘zakning tarixiy taraqqiyoti natijasida nima bo‘lishi mumkin?",
+    "A": "Qo‘shimchaga aylanishi",
+    "B": "Gapga aylanishi",
+    "C": "Tovushga aylanishi",
+    "D": "So‘zdan chiqib ketishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi so‘zlar tublashish natijasida hosil bo‘lgan?",
+    "A": "bugun, sakson",
+    "B": "kitoblar, bolalar",
+    "C": "gulchi, ishchi",
+    "D": "mevali, mevasiz",
+    "javob": "A"
+  },
+  {
+    "savol": "Morfemalar vazifasiga ko‘ra nimalarga aloqador?",
+    "A": "So‘z va shakl yasalishiga",
+    "B": "So‘z yasalishiga",
+    "C": "Shakl yasalishiga",
+    "D": "Gap tuzilishiga",
+    "javob": "A"
+  },
+  {
+    "savol": "Leksemaning asosiy belgisi nima?",
+    "A": "Shakllanuvchanlik",
+    "B": "Bo‘linmaslik",
+    "C": "Mustaqillik",
+    "D": "Tovushlilik",
+    "javob": "A"
+  },
+  {
+    "savol": "Morfema nutqda qanday qo‘llanadi?",
+    "A": "Mustaqil qo‘llanmaydi",
+    "B": "Mustaqil qo‘llanadi",
+    "C": "Gap bo‘lagi bo‘ladi",
+    "D": "So‘z o‘rnida keladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Morfema qayerda “yashaydi”?",
+    "A": "So‘z tarkibida",
+    "B": "Gap tarkibida",
+    "C": "Nutqda",
+    "D": "Matnda",
+    "javob": "A"
+  },
+  {
+    "savol": "“Mehnatkashlarimizning” so‘zida nechta morfema bor?",
+    "A": "5",
+    "B": "4",
+    "C": "3",
+    "D": "2",
+    "javob": "A"
+  },
+  {
+    "savol": "Morfemalar leksik ma’no anglata olishiga ko‘ra nechaga bo‘linadi?",
+    "A": "2",
+    "B": "3",
+    "C": "4",
+    "D": "5",
+    "javob": "A"
+  },
+  {
+    "savol": "“-lar” qo‘shimchasi qanday ma’no bildiradi?",
+    "A": "Ko‘plik",
+    "B": "Egalik",
+    "C": "Kelishik",
+    "D": "Shaxs",
+    "javob": "A"
+  },
+  {
+    "savol": "So‘z yasovchi qo‘shimchaning vazifasi nima?",
+    "A": "Yangi so‘z yasash",
+    "B": "Shakl yasash",
+    "C": "Tovush o‘zgartirish",
+    "D": "Gap tuzish",
+    "javob": "A"
+  },
+  {
+    "savol": "Morfemik tahlil nimadan boshlanadi?",
+    "A": "Oxirgi morfemadan",
+    "B": "O‘zakdan",
+    "C": "Birinchi bo‘g‘indan",
+    "D": "So‘z boshidan",
+    "javob": "A"
+  },
+  {
+    "savol": "Grammatikaning ikki ma'nosi qanday?",
+    "A": "Tilning grammatik qurilishi va tilshunoslikning shu grammatik qurilishni o'rganuvchi sohasi",
+    "B": "Til va leksikaning o'zaro aloqasi",
+    "C": "Grammatikaning faqat so'zshakllarni o'rganishi",
+    "D": "Tilning fonetik tuzilishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Grammatik ma'no qanday ifodalanadi?",
+    "A": "Fonetik, leksik, morfologik va sintaktik vositalar orqali",
+    "B": "So'z o'zgarishi orqali",
+    "C": "Gap tarkibi orqali",
+    "D": "So'z tartibi bilan",
+    "javob": "A"
+  },
+  {
+    "savol": "Grammatikaning ikki qismi nima?",
+    "A": "Morfologiya va sintaksis",
+    "B": "Fonologiya va morfologiya",
+    "C": "Leksikologiya va sintaksis",
+    "D": "Morfologiya va fonetika",
+    "javob": "A"
+  },
+  {
+    "savol": "Morfologiya nima haqida bahs yuritadi?",
+    "A": "So'z turkumlari va ularga xos shakllar",
+    "B": "So'zlarning bir-biri bilan bog'lanishi",
+    "C": "Gap tuzish qoidalari",
+    "D": "Leksikaning tarkibi",
+    "javob": "A"
+  },
+  {
+    "savol": "Sintaksis nimani o'rganadi?",
+    "A": "So'zlarning bir-biri bilan bog'lanishini",
+    "B": "So'zlarning ma'nosini",
+    "C": "So'z shakllarini o'zgartirishni",
+    "D": "Leksemalarning ma'nosini",
+    "javob": "A"
+  },
+  {
+    "savol": "Grammatika leksik so'zni o'rganadimi?",
+    "A": "Yo'q, grammatika grammatik so'zni o'rganadi",
+    "B": "Ha, grammatika leksik so'zni o'rganadi",
+    "C": "Leksik so'zlar grammatikaga ta'sir qilmaydi",
+    "D": "Grammatika leksik va morfologik birliklarni o'rganadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Grammatika qanday ikki ma'noni ifodalaydi?",
+    "A": "Kategorial grammatik ma'no va xususiy grammatik ma'no",
+    "B": "Leksik ma'no va morfologik ma'no",
+    "C": "O'zgarishli va o'zgarishsiz ma'no",
+    "D": "Sintaktik va fonetik ma'no",
+    "javob": "A"
+  },
+  {
+    "savol": "Morfologiyaning obyekti nima?",
+    "A": "So'zning o'zgarish bilan bog'liq morfologik struktura",
+    "B": "So'zning leksik ma'nosi",
+    "C": "Gap tarkibi",
+    "D": "So'z turkumlari",
+    "javob": "A"
+  },
+  {
+    "savol": "So'zning morfologik strukturasini qanday tushunish mumkin?",
+    "A": "Grammatik morfema, morfologik kategoriya",
+    "B": "So'zning leksik ma'nosi",
+    "C": "So'zning gapdagi vazifasi",
+    "D": "Sintaktik birliklar",
+    "javob": "A"
+  },
+  {
+    "savol": "Grammatik ma'no qanday ifodalanadi?",
+    "A": "Affikslar, so'z tartibi, ohang orqali",
+    "B": "So'zning o'zgarish shakli orqali",
+    "C": "Gap tarkibida",
+    "D": "Leksik ma'no orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Affikslar qanday ma'nolarni ifodalaydi?",
+    "A": "So'z yasovchi va shakl yasovchi affikslar",
+    "B": "Gap bo'lagi affikslari",
+    "C": "Leksik ma'nolar",
+    "D": "Grammatik ma'nolar",
+    "javob": "A"
+  },
+  {
+    "savol": "Sintetik shakl nima?",
+    "A": "Affikslarning yordamida hosil bo'ladigan so'z shakli",
+    "B": "So'zning o'zgartirilgan shakli",
+    "C": "So'zning o'zgarishsiz shakli",
+    "D": "Leksik so'zning o'zgartirilgan shakli",
+    "javob": "A"
+  },
+  {
+    "savol": "Sintaktik shaklni qanday tushunish mumkin?",
+    "A": "So'z tartibi orqali hosil bo'ladigan shakl",
+    "B": "So'zning o'zgarishi",
+    "C": "Affikslar yordamida hosil bo'ladi",
+    "D": "So'zning morfologik shakli",
+    "javob": "A"
+  },
+  {
+    "savol": "Takrorning grammatik ma'no ifodalashdagi roli nima?",
+    "A": "Takror grammatik ma'no ifodalashning vositasidir",
+    "B": "Takror faqat leksik ma'no bildiradi",
+    "C": "Takror gapda qo'llanilmaydi",
+    "D": "Takror faqat ma'lum shakllarda ishlatiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ohang nima?",
+    "A": "Grammatik ma'no ifodalashning fonetik vositasi",
+    "B": "So'zning leksik ma'nosi",
+    "C": "So'zning sintaktik shakli",
+    "D": "So'zning grammatik shakli",
+    "javob": "A"
+  },
+  {
+    "savol": "So'z shaklini qanday hosil qilish tartibi mavjud?",
+    "A": "O‘zaksiz, so‘z yasovchi affiks, lug‘aviy shakl, sintaktik shakl",
+    "B": "Affikslar faqat sintaktik shaklni hosil qiladi",
+    "C": "So‘z yasovchi affikslar ishlatiladi",
+    "D": "Shakl faqat morfologik o‘zgarish orqali hosil bo‘ladi",
+    "javob": "A"
+  },
+  {
+    "savol": "\"Bolalar qiziqarli kitobni o‘qiydilar\" jumlasidagi \"bolalar\" so'zining grammatik ma'nosi qanday?",
+    "A": "Ko‘plik son, bosh kelishik, ega vazifasida",
+    "B": "Birlik son, bosh kelishik",
+    "C": "Ko‘plik son, tobe vazifasida",
+    "D": "Birlik son, ega vazifasida",
+    "javob": "A"
+  },
+  {
+    "savol": "Grammatik ma'no qanday tashkil etiladi?",
+    "A": "Nutqni shakllantiruvchi lisoniy birliklardan",
+    "B": "So'z shakllaridan",
+    "C": "Leksik ma'nolardan",
+    "D": "So'z turkumlaridan",
+    "javob": "A"
+  },
+  {
+    "savol": "Grammatikaning ifodalash vositalariga qaysilar kiradi?",
+    "A": "Affiksal vosita, so‘z tartibi, ohang, sintaktik qolip",
+    "B": "So‘z o‘zgarishi",
+    "C": "Leksik vosita",
+    "D": "Sintaksisning o‘zi",
+    "javob": "A"
+  },
+  {
+    "savol": "Grammatik ko'rsatkichli so'z shakllariga qanday misollar keltirish mumkin?",
+    "A": "Mamlakatlari, mamlakatlarida",
+    "B": "Mamlakat, mamlakatga",
+    "C": "Kitob, kitobni",
+    "D": "Dalalar, yam-yashil",
+    "javob": "A"
+  },
+  {
+    "savol": "Morfologiya nimani o‘rganadi?",
+    "A": "So‘zlarning grammatik ma’nolari va shakllarini",
+    "B": "So‘zlarning kelib chiqishini",
+    "C": "Gap tuzilishini",
+    "D": "Tovushlarni",
+    "javob": "A"
+  },
+  {
+    "savol": "“Morfologiya” so‘zi qaysi tillardan olingan?",
+    "A": "Yunon tilidan",
+    "B": "Lotin tilidan",
+    "C": "Arab tilidan",
+    "D": "Fors tilidan",
+    "javob": "A"
+  },
+  {
+    "savol": "Leksikologiya nimani o‘rganadi?",
+    "A": "Leksema va atash ma’nolarini",
+    "B": "Grammatik shakllarni",
+    "C": "Gap bo‘laklarini",
+    "D": "Tovush tizimini",
+    "javob": "A"
+  },
+  {
+    "savol": "So‘zlarning umumiy grammatik ma’no va vazifalariga ko‘ra bo‘linishi nima deyiladi?",
+    "A": "So‘z turkumlari",
+    "B": "So‘z yasalishi",
+    "C": "Sintaksis",
+    "D": "Fonema",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘zbek tilida mustaqil so‘z turkumlari nechta?",
+    "A": "6 ta",
+    "B": "5 ta",
+    "C": "7 ta",
+    "D": "8 ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Olmoshlar ma’nosiga ko‘ra nechta guruhga bo‘linadi?",
+    "A": "7 guruhga",
+    "B": "6 guruhga",
+    "C": "5 guruhga",
+    "D": "8 guruhga",
+    "javob": "A"
+  },
+  {
+    "savol": "Sifat nimani bildiradi?",
+    "A": "Shaxs va narsaning belgisini",
+    "B": "Harakatni",
+    "C": "Miqdorni",
+    "D": "Holatni",
+    "javob": "A"
+  },
+  {
+    "savol": "Son qaysi so‘roqlarga javob bo‘ladi?",
+    "A": "Necha?, qancha?, nechanchi?",
+    "B": "Kim?, nima?",
+    "C": "Qanday?",
+    "D": "Nima qilmoq?",
+    "javob": "A"
+  },
+  {
+    "savol": "Fe’l nimani ifodalaydi?",
+    "A": "Harakat yoki holatni",
+    "B": "Belgini",
+    "C": "Miqdorni",
+    "D": "Predmetni",
+    "javob": "A"
+  },
+  {
+    "savol": "Fe’lning qaysi kategoriyalari mavjud?",
+    "A": "Zamon, shaxs-son, mayl",
+    "B": "Daraja",
+    "C": "Kelishik",
+    "D": "Egalik",
+    "javob": "A"
+  },
+  {
+    "savol": "Ravish nimani bildiradi?",
+    "A": "Ish-harakat va holat belgisini",
+    "B": "Predmetni",
+    "C": "Miqdorni",
+    "D": "Shaxsni",
+    "javob": "A"
+  },
+  {
+    "savol": "Ravish gapda asosan qaysi vazifada keladi?",
+    "A": "Hol",
+    "B": "Ega",
+    "C": "To‘ldiruvchi",
+    "D": "Aniqlovchi",
+    "javob": "A"
+  },
+  {
+    "savol": "Olmoshning asosiy xususiyati nimada?",
+    "A": "Boshqa so‘zlar o‘rnida qo‘llanishi",
+    "B": "Belgini bildirishi",
+    "C": "Miqdorni bildirishi",
+    "D": "Harakatni bildirishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Yordamchi so‘z turkumlariga nimalar kiradi?",
+    "A": "Bog‘lovchi, ko‘makchi, yuklama",
+    "B": "Ot, sifat, son",
+    "C": "Ravish, fe’l",
+    "D": "Modal, undov",
+    "javob": "A"
+  },
+  {
+    "savol": "Bog‘lovchilar nima vazifa bajaradi?",
+    "A": "So‘z va gaplarni bog‘laydi",
+    "B": "Belgini bildiradi",
+    "C": "Harakatni ifodalaydi",
+    "D": "Hisni bildiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko‘makchilar qaysi so‘zlardan keyin keladi?",
+    "A": "Ot, olmosh, harakat nomi",
+    "B": "Fe’l kesimdan",
+    "C": "Ravishdan",
+    "D": "Undovdan",
+    "javob": "A"
+  },
+  {
+    "savol": "Yuklamalar nima uchun xizmat qiladi?",
+    "A": "Qo‘shimcha ma’no yuklash uchun",
+    "B": "Gap tuzish uchun",
+    "C": "Belgini aniqlash uchun",
+    "D": "Harakatni bildirish uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "Modal so‘zlar nimani bildiradi?",
+    "A": "So‘zlovchining fikrga munosabatini",
+    "B": "Tovushni",
+    "C": "Harakatni",
+    "D": "Belgini",
+    "javob": "A"
+  },
+  {
+    "savol": "Undov so‘zlar nimani ifodalaydi?",
+    "A": "His-hayajon va xitobni",
+    "B": "Miqdorni",
+    "C": "Belgini",
+    "D": "Munosabatni",
+    "javob": "A"
+  },
+  {
+    "savol": "Taqlid so‘zlar nimani bildiradi?",
+    "A": "Tovush yoki holatga taqlidni",
+    "B": "Harakatni",
+    "C": "Shaxsni",
+    "D": "Belgini",
+    "javob": "A"
+  },
+  {
+    "savol": "Ot qaysi so‘roqlarga javob bo‘ladi?",
+    "A": "Kim?, nima?, qayer?",
+    "B": "Qanday?, qaysi?",
+    "C": "Necha?",
+    "D": "Nima qilmoq?",
+    "javob": "A"
+  },
+  {
+    "savol": "Ot qanday so‘z turkumiga kiradi?",
+    "A": "Mustaqil so‘z turkumiga",
+    "B": "Yordamchi so‘z turkumiga",
+    "C": "Modal so‘zlarga",
+    "D": "Undovlarga",
+    "javob": "A"
+  },
+  {
+    "savol": "Atoqli otlar nimani bildiradi?",
+    "A": "Yakka holdagi nomlarni",
+    "B": "Umumiy predmetlarni",
+    "C": "Belgini",
+    "D": "Harakatni",
+    "javob": "A"
+  },
+  {
+    "savol": "Atoqli otlar tilshunoslikning qaysi bo‘limida o‘rganiladi?",
+    "A": "Onomastikada",
+    "B": "Morfologiyada",
+    "C": "Sintaksisda",
+    "D": "Fonetikada",
+    "javob": "A"
+  },
+  {
+    "savol": "Shaxs nomlari qanday atama bilan yuritiladi?",
+    "A": "Antroponim",
+    "B": "Toponim",
+    "C": "Gidronim",
+    "D": "Zoonim",
+    "javob": "A"
+  },
+  {
+    "savol": "Joy nomlari qanday ataladi?",
+    "A": "Toponim",
+    "B": "Antroponim",
+    "C": "Zoonim",
+    "D": "Bayram nomi",
+    "javob": "A"
+  },
+  {
+    "savol": "Hayvonlarga qo‘yilgan maxsus nomlar qanday ataladi?",
+    "A": "Zoonim",
+    "B": "Gidronim",
+    "C": "Antroponim",
+    "D": "Toponim",
+    "javob": "A"
+  },
+  {
+    "savol": "Suv havzalari nomlari qanday nomlanadi?",
+    "A": "Gidronim",
+    "B": "Zoonim",
+    "C": "Toponim",
+    "D": "Antroponim",
+    "javob": "A"
+  },
+  {
+    "savol": "Atoqli otlarga -lar qo‘shimchasi qanday ma’no beradi?",
+    "A": "Uslubiy ko‘plik",
+    "B": "Sof ko‘plik",
+    "C": "Yasalish",
+    "D": "Kelishik",
+    "javob": "A"
+  },
+  {
+    "savol": "Atoqli otlarda -ni qanday qo‘llanadi?",
+    "A": "Doim belgili",
+    "B": "Belgisiz",
+    "C": "Ixtiyoriy",
+    "D": "Qo‘llanmaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Atoqli ot + lik qanday otga aylanadi?",
+    "A": "Turdosh otga",
+    "B": "Yana atoqli otga",
+    "C": "Ravishga",
+    "D": "Sifatga",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi otlar -dosh qo‘shimchasini qabul qiladi?",
+    "A": "Turdosh otlar",
+    "B": "Atoqli otlar",
+    "C": "Modal so‘zlar",
+    "D": "Ravishlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Turdosh otlar nimani bildiradi?",
+    "A": "Bir turdagi narsa va shaxslarni",
+    "B": "Yakka nomlarni",
+    "C": "Belgini",
+    "D": "Harakatni",
+    "javob": "A"
+  },
+  {
+    "savol": "Shaxs otlari qaysi so‘roqqa javob bo‘ladi?",
+    "A": "Kim?",
+    "B": "Nima?",
+    "C": "Qayer?",
+    "D": "Qanday?",
+    "javob": "A"
+  },
+  {
+    "savol": "Narsa otlari qaysi so‘roqqa javob bo‘ladi?",
+    "A": "Nima?",
+    "B": "Kim?",
+    "C": "Qayer?",
+    "D": "Necha?",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘rin-joy otlari qaysi so‘roqqa javob bo‘ladi?",
+    "A": "Qayer?",
+    "B": "Kim?",
+    "C": "Nima?",
+    "D": "Qanday?",
+    "javob": "A"
+  },
+  {
+    "savol": "Faoliyat-jarayon otlari nimani bildiradi?",
+    "A": "Harakat va jarayonni",
+    "B": "Belgini",
+    "C": "Joyni",
+    "D": "Shaxsni",
+    "javob": "A"
+  },
+  {
+    "savol": "Jamlovchi otlarning xususiyati qaysi?",
+    "A": "Birlikda turib ko‘plikni bildiradi",
+    "B": "Faqat birlikni bildiradi",
+    "C": "Sof ko‘plik oladi",
+    "D": "Belgini bildiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Aniqlik xususiyatiga ko‘ra sezgi bilan bilinarli otlar qanday ataladi?",
+    "A": "Aniq otlar",
+    "B": "Mavhum otlar",
+    "C": "Jamlovchi otlar",
+    "D": "Atoqli otlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Mavhum otlar qanday ma’noni bildiradi?",
+    "A": "Tafakkur orqali idrok etiladigan",
+    "B": "Sezgi bilan bilinadigan",
+    "C": "Joyni bildiradigan",
+    "D": "Shaxsni bildiradigan",
+    "javob": "A"
+  },
+  {
+    "savol": "Ot turkumi nechta grammatik kategoriyaga ega?",
+    "A": "3 ta",
+    "B": "2 ta",
+    "C": "4 ta",
+    "D": "5 ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Otning grammatik kategoriyalari qaysilar?",
+    "A": "Son, kelishik, egalik",
+    "B": "Zamon, shaxs, mayl",
+    "C": "Daraja, nisbat",
+    "D": "Tur, shakl",
+    "javob": "A"
+  },
+  {
+    "savol": "Birlik va ko‘plik shakllari qaysi kategoriyaga kiradi?",
+    "A": "Son kategoriyasiga",
+    "B": "Kelishik kategoriyasiga",
+    "C": "Egalik kategoriyasiga",
+    "D": "Yasalish",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko‘plik ma’nosi qaysi qo‘shimcha orqali ifodalanadi?",
+    "A": "-lar",
+    "B": "-ni",
+    "C": "-ga",
+    "D": "-ning",
+    "javob": "A"
+  },
+  {
+    "savol": "Birlikdagi otning asosiy xususiyati qaysi?",
+    "A": "Grammatik ko‘rsatkichsiz bo‘lishi",
+    "B": "-lar bilan kelishi",
+    "C": "Egalik olishi",
+    "D": "Ko‘plikda bo‘lishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Egalik kategoriyasi nimani bildiradi?",
+    "A": "Qarashlilikni",
+    "B": "Harakatni",
+    "C": "Belgini",
+    "D": "Miqdorni",
+    "javob": "A"
+  },
+  {
+    "savol": "“Ota+m” shakli qaysi shaxs egaligini bildiradi?",
+    "A": "I shaxs birlik",
+    "B": "II shaxs birlik",
+    "C": "III shaxs birlik",
+    "D": "I shaxs ko‘plik",
+    "javob": "A"
+  },
+  {
+    "savol": "“Amma+m+lar” shakli qanday ma’no bildiradi?",
+    "A": "Hurmat ma’nosini",
+    "B": "Sof ko‘plikni",
+    "C": "Belgini",
+    "D": "Joyni",
+    "javob": "A"
+  },
+  {
+    "savol": "Otlar gapda qaysi vazifalarda keladi?",
+    "A": "Barcha gap bo‘laklari",
+    "B": "Ega",
+    "C": "Kesim",
+    "D": "Hol",
+    "javob": "A"
+  },
+  {
+    "savol": "Son kategoriyasi nimani ifodalaydi?",
+    "A": "Birlik va ko‘plikni",
+    "B": "Egalikni",
+    "C": "Kelishikni",
+    "D": "Yasalishni",
+    "javob": "A"
+  },
+  {
+    "savol": "Grammatik ko‘plik hosil qiluvchi -lar qanday usulga kiradi?",
+    "A": "Morfologik usulga",
+    "B": "Sintaktik usulga",
+    "C": "Leksik usulga",
+    "D": "Fonetik usulga",
+    "javob": "A"
+  },
+  {
+    "savol": "Juft turdosh otlarning “yigit-qiz” turi qaysi xususiyatga ega?",
+    "A": "Ko‘plikda qo‘llanadi",
+    "B": "Faqat birlikda ishlatiladi",
+    "C": "Kelishik olmaydi",
+    "D": "Egalik olmaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "“Mehr-muhabbat” kabi otlar qanday ishlatiladi?",
+    "A": "Birlik shaklda",
+    "B": "Faqat ko‘plikda",
+    "C": "Belgisiz",
+    "D": "Yasalma",
+    "javob": "A"
+  },
+  {
+    "savol": "Faqat birlikda ishlatiladigan otlarga qaysilar kiradi?",
+    "A": "Mavhum otlar",
+    "B": "Aniq otlar",
+    "C": "Sanaladigan otlar",
+    "D": "Juft otlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Atoqli otlarga -lar qo‘shilganda qanday ma’no hosil bo‘ladi?",
+    "A": "Sulola, avlod ma’nosi",
+    "B": "Sof ko‘plik",
+    "C": "Belgisizlik",
+    "D": "Kelishik",
+    "javob": "A"
+  },
+  {
+    "savol": "Bosh kelishik qanday qo‘shimcha bilan ifodalanadi?",
+    "A": "Nol shakl (0)",
+    "B": "-ni",
+    "C": "-ga",
+    "D": "-dan",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaratqich kelishigining qo‘shimchasi qaysi?",
+    "A": "-ning",
+    "B": "-ni",
+    "C": "-da",
+    "D": "-dan",
+    "javob": "A"
+  },
+  {
+    "savol": "Tushum kelishigi qaysi so‘roqqa javob bo‘ladi?",
+    "A": "Kimni? nimani?",
+    "B": "Kimga? nimaga?",
+    "C": "Kimdan? nimadan?",
+    "D": "Qayerda?",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘rin-payt kelishigi qaysi qo‘shimcha bilan ifodalanadi?",
+    "A": "-da",
+    "B": "-ga",
+    "C": "-ni",
+    "D": "-dan",
+    "javob": "A"
+  },
+  {
+    "savol": "Ot yasashning eng mahsuldor usuli qaysi?",
+    "A": "Affiksatsiya",
+    "B": "Kompozitsiya",
+    "C": "Abbreviatsiya",
+    "D": "Fonetik",
+    "javob": "A"
+  },
+  {
+    "savol": "Sifat so‘z turkumi qaysi so‘roqlarga javob bo‘ladi?",
+    "A": "qanday? qanaqa? qaysi?",
+    "B": "kim? nima?",
+    "C": "qayerda? qachon?",
+    "D": "nechta?",
+    "javob": "A"
+  },
+  {
+    "savol": "Sifatning asosiy vazifasi nima?",
+    "A": "Predmet belgisini ifodalash",
+    "B": "Harakatni bildirish",
+    "C": "Predmetni nomlash",
+    "D": "Miqdorni ko‘rsatish",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi biri sifat vazifasida kelgan ot?",
+    "A": "tilla uzuk",
+    "B": "uzuk taqdi",
+    "C": "uzuklar",
+    "D": "uzukni",
+    "javob": "A"
+  },
+  {
+    "savol": "Sifat vazifasida kelgan olmosh qaysi qatorda?",
+    "A": "shu kitob",
+    "B": "kitob o‘qidi",
+    "C": "kitoblar",
+    "D": "kitobni",
+    "javob": "A"
+  },
+  {
+    "savol": "Fe’lning sifatdosh shakli qaysi?",
+    "A": "o‘qigan odam",
+    "B": "o‘qiydi",
+    "C": "o‘qidi",
+    "D": "o‘qimoq",
+    "javob": "A"
+  },
+  {
+    "savol": "Sifat vazifasida kelgan ravish qaysi?",
+    "A": "otalarcha mehr",
+    "B": "mehr berdi",
+    "C": "mehrlar",
+    "D": "mehrni",
+    "javob": "A"
+  },
+  {
+    "savol": "Sifatlar qaysi qo‘shimchalarni qabul qilmaydi?",
+    "A": "kelishik va ko‘plik",
+    "B": "daraja",
+    "C": "yasovchi",
+    "D": "shakl yasovchi",
+    "javob": "A"
+  },
+  {
+    "savol": "Sifat qachon otlashadi?",
+    "A": "Mustaqil qo‘llanganda",
+    "B": "Otga bog‘langanda",
+    "C": "Fe’lga bog‘langanda",
+    "D": "Ravish bo‘lganda",
+    "javob": "A"
+  },
+  {
+    "savol": "Sifat yasovchi qo‘shimcha qaysi?",
+    "A": "-li",
+    "B": "-lar",
+    "C": "-di",
+    "D": "-sa",
+    "javob": "A"
+  },
+  {
+    "savol": "Egalik ma’nosini bildiruvchi qo‘shimcha qaysi?",
+    "A": "-li",
+    "B": "-siz",
+    "C": "no-",
+    "D": "be-",
+    "javob": "A"
+  },
+  {
+    "savol": "Payt va o‘rin belgisini yasovchi qo‘shimcha qaysi?",
+    "A": "-gi",
+    "B": "-chan",
+    "C": "-ma",
+    "D": "-siz",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘xshashlik ma’nosini bildiruvchi qo‘shimcha qaysi?",
+    "A": "-simon",
+    "B": "-li",
+    "C": "-dor",
+    "D": "-siz",
+    "javob": "A"
+  },
+  {
+    "savol": "Sodda yasama sifat qaysi?",
+    "A": "chiroyli",
+    "B": "oq-qora",
+    "C": "katta-kichik",
+    "D": "baland-past",
+    "javob": "A"
+  },
+  {
+    "savol": "Juft sifat qaysi?",
+    "A": "katta-kichik",
+    "B": "kattaroq",
+    "C": "kattagina",
+    "D": "kattalik",
+    "javob": "A"
+  },
+  {
+    "savol": "Takroriy sifat qaysi?",
+    "A": "uzun-uzun",
+    "B": "uzunchoq",
+    "C": "uzunroq",
+    "D": "uzunlik",
+    "javob": "A"
+  },
+  {
+    "savol": "Rang-tusni bildiruvchi shakl yasovchi qaysi?",
+    "A": "-ish",
+    "B": "-chan",
+    "C": "-siz",
+    "D": "-dor",
+    "javob": "A"
+  },
+  {
+    "savol": "Taqsim son qanday ma’noni bildiradi?",
+    "A": "Teng taqsimlashni",
+    "B": "Chamalashni",
+    "C": "Jamlikni",
+    "D": "Tartibni",
+    "javob": "A"
+  },
+  {
+    "savol": "Taqsim son qaysi qo‘shimcha bilan yasaladi?",
+    "A": "-tadan",
+    "B": "-ta",
+    "C": "-lab",
+    "D": "-ov",
+    "javob": "A"
+  },
+  {
+    "savol": "Kasr son nimani bildiradi?",
+    "A": "Butunning qismini",
+    "B": "To‘liq miqdorni",
+    "C": "Tartibni",
+    "D": "Jamlikni",
+    "javob": "A"
+  },
+  {
+    "savol": "Kasr sonlarda maxraj qaysi kelishikda bo‘ladi?",
+    "A": "Chiqish kelishigida",
+    "B": "Bosh kelishikda",
+    "C": "Qaratqichda",
+    "D": "Jo‘nalishda",
+    "javob": "A"
+  },
+  {
+    "savol": "Jamlovchi son qaysi qo‘shimchalar bilan yasaladi?",
+    "A": "-ov, -ala, -ovlon",
+    "B": "-ta, -tadan",
+    "C": "-lab",
+    "D": "-(i)nchi",
+    "javob": "A"
+  },
+  {
+    "savol": "Chama son qanday ma’noni bildiradi?",
+    "A": "Taxminiy miqdorni",
+    "B": "Aniq miqdorni",
+    "C": "Tartibni",
+    "D": "Jamlikni",
+    "javob": "A"
+  },
+  {
+    "savol": "Tartib sonning so‘rog‘i qaysi?",
+    "A": "nechanchi?",
+    "B": "qancha?",
+    "C": "nechta?",
+    "D": "qanday?",
+    "javob": "A"
+  },
+  {
+    "savol": "Tartib son arab raqami bilan yozilganda qanday belgilanadi?",
+    "A": "Chiziqcha bilan",
+    "B": "Qavs bilan",
+    "C": "Nuqta bilan",
+    "D": "Belgisiz",
+    "javob": "A"
+  },
+  {
+    "savol": "Fe’l asosida harakat-holatga munosabatni bildiruvchi shakllar nima deyiladi?",
+    "A": "Mayl shakllari",
+    "B": "Zamon shakllari",
+    "C": "Nisbat shakllari",
+    "D": "Shaxs shakllari",
+    "javob": "A"
+  },
+  {
+    "savol": "Mayl kategoriyasi nimani ifodalaydi?",
+    "A": "So‘zlovchining harakat-holatga munosabatini",
+    "B": "Harakatning vaqtini",
+    "C": "Harakatning bajaruvchisini",
+    "D": "Harakatning davomiyligini",
+    "javob": "A"
+  },
+  {
+    "savol": "Harakat va holat haqida xabar bildiruvchi mayl qaysi?",
+    "A": "Xabar mayli",
+    "B": "Shart mayli",
+    "C": "Buyruq-istak mayli",
+    "D": "Gumon mayli",
+    "javob": "A"
+  },
+  {
+    "savol": "Xabar maylidagi fe’l qaysi vazifada keladi?",
+    "A": "Kesim",
+    "B": "Ega",
+    "C": "Hol",
+    "D": "Aniqlovchi",
+    "javob": "A"
+  },
+  {
+    "savol": "Xabar mayli qaysi gap turini hosil qiladi?",
+    "A": "Darak gap",
+    "B": "So‘roq gap",
+    "C": "Buyruq gap",
+    "D": "Undov gap",
+    "javob": "A"
+  },
+  {
+    "savol": "Boshqa harakatning bajarilishi uchun shart bo‘lgan harakatni bildiruvchi mayl qaysi?",
+    "A": "Shart mayli",
+    "B": "Xabar mayli",
+    "C": "Buyruq mayli",
+    "D": "Istak mayli",
+    "javob": "A"
+  },
+  {
+    "savol": "Shart maylining asosiy qo‘shimchasi qaysi?",
+    "A": "-sa",
+    "B": "-sin",
+    "C": "-ay",
+    "D": "-gan",
+    "javob": "A"
+  },
+  {
+    "savol": "Shart mayli qaysi shaxs-son guruhi bilan tuslanadi?",
+    "A": "II guruh",
+    "B": "I guruh",
+    "C": "III guruh",
+    "D": "Tuslanmaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "“Olim bo‘lsang, olam seniki” gapida qaysi ma’no bor?",
+    "A": "Shart ma’nosi",
+    "B": "Buyruq ma’nosi",
+    "C": "Xabar ma’nosi",
+    "D": "Inkori",
+    "javob": "A"
+  },
+  {
+    "savol": "“-sa edi”, “-saydi” shakllari qanday ma’noni ifodalaydi?",
+    "A": "Orzu-istak",
+    "B": "Buyruq",
+    "C": "Shart",
+    "D": "Gumon",
+    "javob": "A"
+  },
+  {
+    "savol": "Fe’lning umumiy grammatik ma’nosi nimani bildiradi?",
+    "A": "Harakat va holatni",
+    "B": "Predmetni",
+    "C": "Belgini",
+    "D": "Miqdorni",
+    "javob": "A"
+  },
+  {
+    "savol": "Harakatni bajaruvchi shaxs yoki narsa nima deyiladi?",
+    "A": "Harakat bajaruvchisi",
+    "B": "Kesim",
+    "C": "Hol",
+    "D": "Aniqlovchi",
+    "javob": "A"
+  },
+  {
+    "savol": "“Yugurmoq, kesmoq” qaysi fe’l turiga kiradi?",
+    "A": "Harakat fe’li",
+    "B": "Holat fe’li",
+    "C": "Nutqiy fe’l",
+    "D": "Aqliy fe’l",
+    "javob": "A"
+  },
+  {
+    "savol": "“Uxlamoq, quvonmoq” qaysi fe’l turiga mansub?",
+    "A": "Holat fe’li",
+    "B": "Harakat fe’li",
+    "C": "Nutqiy fe’l",
+    "D": "Jismoniy fe’l",
+    "javob": "A"
+  },
+  {
+    "savol": "“Fikrlamoq, tushunmoq” qanday fe’llar guruhiga kiradi?",
+    "A": "Aqliy faoliyat fe’llari",
+    "B": "Jismoniy fe’llar",
+    "C": "Nutqiy fe’llar",
+    "D": "Harakat fe’llari",
+    "javob": "A"
+  },
+  {
+    "savol": "Leksik ma’noga ega bo‘lgan fe’llar qaysilar?",
+    "A": "Mustaqil fe’llar",
+    "B": "Yordamchi fe’llar",
+    "C": "To‘liqsiz fe’llar",
+    "D": "Bog‘lamalar",
+    "javob": "A"
+  },
+  {
+    "savol": "“Edi, ekan, emas” qaysi fe’llar turiga kiradi?",
+    "A": "To‘liqsiz fe’llar",
+    "B": "Mustaqil fe’llar",
+    "C": "Ko‘makchi fe’llar",
+    "D": "Harakat fe’llari",
+    "javob": "A"
+  },
+  {
+    "savol": "“O‘qib turmoq” qanday fe’lli birikma?",
+    "A": "Ko‘makchi fe’lli birikma",
+    "B": "Sodda fe’l",
+    "C": "Juft fe’l",
+    "D": "Takroriy fe’l",
+    "javob": "A"
+  },
+  {
+    "savol": "Affiksatsiya usuli bilan fe’l yasalishi qaysi qatorda to‘g‘ri?",
+    "A": "Yosh+a → yasha",
+    "B": "Kitob+lar",
+    "C": "Yaxshi+roq",
+    "D": "Tez+da",
+    "javob": "A"
+  },
+  {
+    "savol": "“Olib kelmoq” qanday yasalgan fe’l?",
+    "A": "Qo‘shma fe’l",
+    "B": "Sodda fe’l",
+    "C": "Juft fe’l",
+    "D": "Takroriy fe’l",
+    "javob": "A"
+  },
+  {
+    "savol": "Shaxs-son, zamon, mayl qo‘shimchalari qaysi shakl yasovchi?",
+    "A": "Sintaktik shakl yasovchi",
+    "B": "Lug‘aviy",
+    "C": "So‘z yasovchi",
+    "D": "Leksik",
+    "javob": "A"
+  },
+  {
+    "savol": "Shaxs-son qo‘shimchasini qabul qiladigan fe’l qanday ataladi?",
+    "A": "Tuslanishli fe’l",
+    "B": "Tuslanishsiz fe’l",
+    "C": "Ravishdosh",
+    "D": "Harakat nomi",
+    "javob": "A"
+  },
+  {
+    "savol": "Harakat nomi qaysi so‘z turkumiga xoslangan?",
+    "A": "Otga",
+    "B": "Sifatga",
+    "C": "Ravishga",
+    "D": "Olmoshga",
+    "javob": "A"
+  },
+  {
+    "savol": "Tushum kelishigidagi so‘zni boshqaradigan fe’l qanday ataladi?",
+    "A": "O‘timli fe’l",
+    "B": "O‘timsiz fe’l",
+    "C": "Holat fe’li",
+    "D": "Yordamchi fe’l",
+    "javob": "A"
+  },
+  {
+    "savol": "“Uyda uxladi” fe’li qaysi turga mansub?",
+    "A": "O‘timsiz fe’l",
+    "B": "O‘timli fe’l",
+    "C": "Orttirma fe’l",
+    "D": "Majhul fe’l",
+    "javob": "A"
+  },
+  {
+    "savol": "Orttirma nisbat qo‘shimchasi qanday fe’l hosil qiladi?",
+    "A": "O‘timli fe’l",
+    "B": "O‘timsiz fe’l",
+    "C": "Holat fe’li",
+    "D": "Juft fe’l",
+    "javob": "A"
+  },
+  {
+    "savol": "Majhul nisbat qo‘shimchasi qanday fe’lni hosil qiladi?",
+    "A": "O‘timsiz fe’l",
+    "B": "O‘timli fe’l",
+    "C": "Nutqiy fe’l",
+    "D": "Harakat fe’li",
+    "javob": "A"
+  }
+]
