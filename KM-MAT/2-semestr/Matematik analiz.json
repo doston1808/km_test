@@ -24,7 +24,7 @@
     "javob": "A"
   },
   {
-    "savol": "f(x)=sinx+cosx hosilani toping",
+    "savol": "f(x)=sinx+cosx",
     "A": "cosx-sinx",
     "B": "sinx+cosx",
     "C": "-cosx+sinx",
@@ -48,11 +48,11 @@
     "javob": "A"
   },
   {
-    "savol": "y= 7x² - 2x + √7 funksiyaning hosilasi toping.",
+    "savol": "y=7x² - 2x + √7 funksiyaning hosilasi toping.",
     "A": "14x-2",
-    "B": "3x-4",
-    "C": "25x-6",
-    "D": "24x-64",
+    "B": "3x-42",
+    "C": "5x-62",
+    "D": "4x-64",
     "javob": "A"
   },
   {
@@ -208,7 +208,7 @@
     "javob": "A"
   },
   {
-    "savol": "dy=f'(x)dx bu qanday ifoda",
+    "savol": "dy = f'(x) dx bu qanday ifoda",
     "A": "Funksiyaning differensiali",
     "B": "Mustaqil o'zgaruvchi x ning differensiali",
     "C": "Funksiya hosilasi",
@@ -216,7 +216,7 @@
     "javob": "A"
   },
   {
-    "savol": "dy=f'(x)dx , bu yerda dx nima?",
+    "savol": "dy = f'(x) dx, bu yerda dx nima?",
     "A": "mustaqil o'zgaruvchi x ning differensiali",
     "B": "funksiyaning differensiali",
     "C": "Funksiya hosilasi",
@@ -224,7 +224,7 @@
     "javob": "A"
   },
   {
-    "savol": "dy=f'(x)dx , bu yerda dy nima",
+    "savol": "dy = f'(x) dx, bu yerda dy nima",
     "A": "funksiyaning differensiali",
     "B": "Funksiya hosilasi",
     "C": "funksiya",
@@ -257,7 +257,7 @@
   },
   {
     "savol": "3x⁵+6cosx funksiyaning differensialini toping.",
-    "A": "(15x⁴-6sinx)dx",
+    "A": "(15x⁴-6cosx)dx",
     "B": "(15x⁴+6cosx)dx",
     "C": "(x²+2)dx",
     "D": "(3x²)dx",
@@ -400,7 +400,7 @@
     "javob": "A"
   },
   {
-    "savol": "(a^u)' = a^u * ln a * u' ; qanday funksiya hosilasiga misol bo'ladi?",
+    "savol": "(a^u)' = a^u ln a * u' ; qanday funksiya hosilasiga misol bo'ladi?",
     "A": "murakkab",
     "B": "oddiy",
     "C": "teskari",
@@ -432,7 +432,7 @@
     "javob": "A"
   },
   {
-    "savol": "“1 dan n gacha bo‘lgan sonlar ko‘paytmasi”ning qisqa yozilishi qaysi?",
+    "savol": "\"1 dan n gacha bo'lgan sonlar ko'paytmasi\"ning qisqa yozilishi qaysi?",
     "A": "n!",
     "B": "P_n",
     "C": "C_n",
@@ -496,7 +496,7 @@
     "javob": "A"
   },
   {
-    "savol": "f(x)=sin x, nechanchi hosila yana sin x ga teng bo‘ladi?",
+    "savol": "f(x)=sin x, nechanchi hosila yana sin x ga teng bo'ladi?",
     "A": "4",
     "B": "3",
     "C": "2",
@@ -504,7 +504,7 @@
     "javob": "A"
   },
   {
-    "savol": "f(x)=cos x, nechanchi hosila yana cos x ga teng bo‘ladi?",
+    "savol": "f(x)=cos x, nechanchi hosila yana cos x ga teng bo'ladi?",
     "A": "4",
     "B": "3",
     "C": "2",
@@ -531,7 +531,7 @@
     "savol": "f(x)=2sin x, f''(x) ni toping",
     "A": "-2sin x",
     "B": "2sin x",
-    "C": "2cos x",
+    "C": "2cosx",
     "D": "-2cos x",
     "javob": "A"
   },
@@ -539,8 +539,8 @@
     "savol": "f(x)=3cos x, f''(x) ni toping",
     "A": "-3cos x",
     "B": "3sin x",
-    "C": "3cos x",
-    "D": "-3sin x",
+    "C": "3cosx",
+    "D": "-3sinx",
     "javob": "A"
   },
   {
@@ -632,7 +632,7 @@
     "javob": "A"
   },
   {
-    "savol": "y= 2 funksiyaga boshlang'ich funksiya toping.",
+    "savol": "y=2 funksiyaga boshlang'ich funksiya toping.",
     "A": "2x+c",
     "B": "x-5x+c",
     "C": "3x+c",
@@ -640,7 +640,7 @@
     "javob": "A"
   },
   {
-    "savol": "y= -3 funksiyaga boshlang'ich funksiya toping.",
+    "savol": "y=-3 funksiyaga boshlang'ich funksiya toping.",
     "A": "-3x+c",
     "B": "x-5x+c",
     "C": "3x+c",
@@ -648,7 +648,7 @@
     "javob": "A"
   },
   {
-    "savol": "y= 11 funksiyaga boshlang'ich funksiya toping.",
+    "savol": "y=11 funksiyaga boshlang'ich funksiya toping.",
     "A": "11x+c",
     "B": "x-5x+c",
     "C": "3x+c",
@@ -664,7 +664,7 @@
     "javob": "A"
   },
   {
-    "savol": "y= 8 funksiyaga boshlang'ich funksiya toping.",
+    "savol": "y=8 funksiyaga boshlang'ich funksiya toping.",
     "A": "8x+c",
     "B": "x-5x+c",
     "C": "3x+c",
@@ -683,8 +683,8 @@
     "savol": "Qanday shart bajarilsa F(x) funksiya f(x) funksiyaning boshlang'ich funksiyasi bo'ladi?",
     "A": "F'(x) = f(x)",
     "B": "F(x) = 0",
-    "C": "f(x)=12",
-    "D": "",
+    "C": "f(x)=1",
+    "D": "2",
     "javob": "A"
   },
   {
@@ -818,16 +818,16 @@
   {
     "savol": "∫ₐᵇ dx integral qiymati nimaga teng ?",
     "A": "b - a",
-    "B": "a*b",
-    "C": "b+a",
-    "D": "b²-a²",
+    "B": "a * b",
+    "C": "b + a",
+    "D": "b² - a²",
     "javob": "A"
   },
   {
     "savol": "∫₋₂⁵ dx integral qiymati nimaga teng ?",
     "A": "7",
-    "B": "-7",
-    "C": "13",
+    "B": "-71",
+    "C": "3",
     "D": "-15",
     "javob": "A"
   },
@@ -850,24 +850,24 @@
   {
     "savol": "∫₁² dx Integralning qiymatini hisoblang",
     "A": "1",
-    "B": "1",
-    "C": "2",
-    "D": "3",
+    "B": "2",
+    "C": "3",
+    "D": "4",
     "javob": "A"
   },
   {
     "savol": "Integralning qiymatini hisoblang. ∫₁² dx",
-    "A": "1",
-    "B": "2",
-    "C": "5",
-    "D": "3",
+    "A": "2",
+    "B": "10",
+    "C": "12",
+    "D": "5",
     "javob": "A"
   },
   {
     "savol": "Aniq integralni hisoblang ∫₂³ 3dx",
     "A": "3",
-    "B": "2",
-    "C": "1",
+    "B": "12",
+    "C": "10",
     "D": "4",
     "javob": "A"
   },
@@ -880,7 +880,15 @@
     "javob": "A"
   },
   {
-    "savol": "Integralning qiymatini hisoblang ∫₋₁⁴ (-4) dx",
+    "savol": "Integralning qiymatini hisoblang ∫₁⁴ dx",
+    "A": "1",
+    "B": "12",
+    "C": "3",
+    "D": "14",
+    "javob": "A"
+  },
+  {
+    "savol": "∫₋₁⁴ (-4) dx integral qiymati nimaga teng ?",
     "A": "-20",
     "B": "12",
     "C": "13",
@@ -912,8 +920,80 @@
     "javob": "A"
   },
   {
+    "savol": "∫₀¹ x dx aniq integralning qiymatini Nyuton-Leybnits formulasi yordamida toping",
+    "A": "1/2",
+    "B": "0",
+    "C": "2",
+    "D": "4",
+    "javob": "A"
+  },
+  {
+    "savol": "∫₁² dx Integralning qiymatini hisoblang",
+    "A": "1",
+    "B": "2",
+    "C": "3",
+    "D": "4",
+    "javob": "A"
+  },
+  {
+    "savol": "Aniq integralni hisoblash formulasi qaysi?",
+    "A": "Nyuton-Leybnits formulasi",
+    "B": "Karlmen formulasi",
+    "C": "Songa ko'paytirish",
+    "D": "Laplas formulasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Berilgan f(x) funksiyaning aniq integrali berilgan javobni tanlang?",
+    "A": "∫ₐᵇ f(x)dx",
+    "B": "F(x)",
+    "C": "F(x)-f(a)",
+    "D": "F(b)-F(a)",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi aniq integralning yuqori chegarasini ko'rsating: ∫ₐᵇ f(x)dx",
+    "A": "b",
+    "B": "a",
+    "C": "C",
+    "D": "F(x)+C",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi aniq integralning quyi chegarasini ko'rsating: ∫ₐᵇ f(x)dx",
+    "A": "a",
+    "B": "b",
+    "C": "F(x)+C",
+    "D": "C",
+    "javob": "A"
+  },
+  {
+    "savol": "∫ f(x)dx = F(x) + C berilgan integralda o'zgarmas sonni ko'rsating.",
+    "A": "C",
+    "B": "F(x)",
+    "C": "dx",
+    "D": "f(x)",
+    "javob": "A"
+  },
+  {
+    "savol": "Aniq integral qanday belgi bilan belgilanadi?",
+    "A": "∫ₐᵇ f(x)dx",
+    "B": "(",
+    "C": "{",
+    "D": "[",
+    "javob": "A"
+  },
+  {
+    "savol": "∑ f(εi)Δx ko'rinishidagi ifodaga qanday nomlanadi?",
+    "A": "Integral yig'indi",
+    "B": "Uzluksiz",
+    "C": "Hosila",
+    "D": "Limit",
+    "javob": "A"
+  },
+  {
     "savol": "Nyuton-Leybnis formulasini ko'rsating?",
-    "A": "∫ₐᵇ f(x)dx = F(x)|ₐᵇ = F(b)-F(a)",
+    "A": "∫ₐᵇ f(x)dx = F(b)-F(a)",
     "B": "F(x)",
     "C": "f(x)",
     "D": "dx",
@@ -978,9 +1058,25 @@
   {
     "savol": "Aniq integral yordamida yuzani hisoblash formulasini ko'rsating.",
     "A": "S = ∫ₐᵇ f(x) dx",
-    "B": "∫ₐᵇ f(x)dx = F(x)|ₐᵇ = F(b)-F(a)",
+    "B": "∫ₐᵇ f(x)dx = F(b)-F(a)",
     "C": "F(b)-F(a)",
     "D": "∫ₐᵇ f(φ(t)) φ'(t) dt",
+    "javob": "A"
+  },
+  {
+    "savol": "Aniq integral yordamida hajmni hisoblash formulasini ko'rsating",
+    "A": "V = π ∫ₐᵇ [f(x)]² dx",
+    "B": "∫ₐᵇ f(x)dx = F(b)-F(a)",
+    "C": "F(b)-F(a)",
+    "D": "∫ₐᵇ f(φ(t)) φ'(t) dt",
+    "javob": "A"
+  },
+  {
+    "savol": "∫ₐᵇ R f(x) dx = R ∫ₐᵇ f(x) dx aniq integralning xossasi to'g'ri ta'riflangan qatorni ko'rsating. (takror)",
+    "A": "O'zgarmas ko'paytuvchini aniq integral ishorasidan tashqariga chiqarish mumkin",
+    "B": "R bu funksiya",
+    "C": "R integrallash natijasini xató qiladi",
+    "D": "Integral noto'g'ri tuzilgan",
     "javob": "A"
   }
 ]
