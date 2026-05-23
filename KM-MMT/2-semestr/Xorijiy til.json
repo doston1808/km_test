@@ -1,0 +1,1202 @@
+[
+  {
+    "savol": "She ___ a teacher",
+    "A": "is",
+    "B": "Are",
+    "C": "Am",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "I ___ from Uzbekistan",
+    "A": "am",
+    "B": "Is",
+    "C": "Are",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": ". They ___ happy today",
+    "A": "are",
+    "B": "Is",
+    "C": "Am",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "He ___ football every day",
+    "A": "plays",
+    "B": "Play",
+    "C": "Playing",
+    "D": "played",
+    "javob": "A"
+  },
+  {
+    "savol": "We ___ dinner now",
+    "A": "are eating",
+    "B": "Eat",
+    "C": "Ate",
+    "D": "eats",
+    "javob": "A"
+  },
+  {
+    "savol": "She ___ coffee every morning",
+    "A": "drinks",
+    "B": "Drink",
+    "C": "Drank",
+    "D": "drinking",
+    "javob": "A"
+  },
+  {
+    "savol": "I ___ my homework yesterday",
+    "A": "did",
+    "B": "Do",
+    "C": "Done",
+    "D": "doing",
+    "javob": "A"
+  },
+  {
+    "savol": "He ___ to school every day",
+    "A": "goes",
+    "B": "Go",
+    "C": "Going",
+    "D": "went",
+    "javob": "A"
+  },
+  {
+    "savol": "They ___ in the park now",
+    "A": "are",
+    "B": "Is",
+    "C": "Am",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "We ___ TV now",
+    "A": "are watching",
+    "B": "Watch",
+    "C": "Watched",
+    "D": "watches",
+    "javob": "A"
+  },
+  {
+    "savol": "She ___ not like milk",
+    "A": "does",
+    "B": "Do",
+    "C": "Did",
+    "D": "is",
+    "javob": "A"
+  },
+  {
+    "savol": "___ you a student?",
+    "A": "Are",
+    "B": "Is",
+    "C": "Do",
+    "D": "Does",
+    "javob": "A"
+  },
+  {
+    "savol": "He ___ 20 years old",
+    "A": "is",
+    "B": "Are",
+    "C": "Am",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "I ___ a car",
+    "A": "have",
+    "B": "Has",
+    "C": "Had",
+    "D": "having",
+    "javob": "A"
+  },
+  {
+    "savol": "She ___ a brother",
+    "A": "has",
+    "B": "Have",
+    "C": "Had",
+    "D": "having",
+    "javob": "A"
+  },
+  {
+    "savol": "We ___ English",
+    "A": "study",
+    "B": "studies",
+    "C": "Studied",
+    "D": "studying",
+    "javob": "A"
+  },
+  {
+    "savol": "He ___ at home yesterday",
+    "A": "was",
+    "B": "Were",
+    "C": "Is",
+    "D": "are",
+    "javob": "A"
+  },
+  {
+    "savol": "They ___ late today",
+    "A": "are",
+    "B": "Is",
+    "C": "Am",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "I ___ tired",
+    "A": "am",
+    "B": "Is",
+    "C": "Are",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "She ___ cooking now",
+    "A": "is",
+    "B": "Are",
+    "C": "Am",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "He ___ not understand",
+    "A": "does",
+    "B": "Do",
+    "C": "Is",
+    "D": "are",
+    "javob": "A"
+  },
+  {
+    "savol": "We ___ friends",
+    "A": "are",
+    "B": "Is",
+    "C": "Am",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "She ___ my teacher",
+    "A": "is",
+    "B": "Are",
+    "C": "Am",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "I ___ tea every day",
+    "A": "drink",
+    "B": "drinks",
+    "C": "Drank",
+    "D": "drinking",
+    "javob": "A"
+  },
+  {
+    "savol": "They ___ dinner now",
+    "A": "are eating",
+    "B": "Eat",
+    "C": "Ate",
+    "D": "eats",
+    "javob": "A"
+  },
+  {
+    "savol": "He ___ fast",
+    "A": "runs",
+    "B": "Run",
+    "C": "Running",
+    "D": "ran",
+    "javob": "A"
+  },
+  {
+    "savol": "She ___ a letter",
+    "A": "writes",
+    "B": "Write",
+    "C": "Writing",
+    "D": "wrote",
+    "javob": "A"
+  },
+  {
+    "savol": "We ___ music",
+    "A": "like",
+    "B": "Likes",
+    "C": "Liked",
+    "D": "liking",
+    "javob": "A"
+  },
+  {
+    "savol": "I ___ not hungry",
+    "A": "am",
+    "B": "Is",
+    "C": "Are",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "They ___ at school",
+    "A": "are",
+    "B": "Is",
+    "C": "Am",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "He ___ very tall",
+    "A": "is",
+    "B": "Are",
+    "C": "Am",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "She ___ beautiful",
+    "A": "is",
+    "B": "Are",
+    "C": "Am",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "I ___ English well",
+    "A": "speak",
+    "B": "speaks",
+    "C": "Spoke",
+    "D": "speaking",
+    "javob": "A"
+  },
+  {
+    "savol": "We ___ homework every day",
+    "A": "do",
+    "B": "Does",
+    "C": "Did",
+    "D": "doing",
+    "javob": "A"
+  },
+  {
+    "savol": "He ___ to work every day",
+    "A": "goes",
+    "B": "Go",
+    "C": "Going",
+    "D": "went",
+    "javob": "A"
+  },
+  {
+    "savol": "They ___ ready",
+    "A": "are",
+    "B": "Is",
+    "C": "Am",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "She ___ early every day",
+    "A": "wakes",
+    "B": "Wake",
+    "C": "Waking",
+    "D": "woke",
+    "javob": "A"
+  },
+  {
+    "savol": "I ___ my keys",
+    "A": "have",
+    "B": "Has",
+    "C": "Had",
+    "D": "having",
+    "javob": "A"
+  },
+  {
+    "savol": "We ___ a house",
+    "A": "have",
+    "B": "Has",
+    "C": "Had",
+    "D": "having",
+    "javob": "A"
+  },
+  {
+    "savol": "He ___ not here now",
+    "A": "is",
+    "B": "Are",
+    "C": "Am",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "She ___ happy today",
+    "A": "is",
+    "B": "Are",
+    "C": "Am",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "I ___ cold",
+    "A": "am",
+    "B": "Is",
+    "C": "Are",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "They ___ late again",
+    "A": "are",
+    "B": "Is",
+    "C": "Am",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "He ___ English very well",
+    "A": "speaks",
+    "B": "Speak",
+    "C": "speaking",
+    "D": "spoke",
+    "javob": "A"
+  },
+  {
+    "savol": "We ___ now",
+    "A": "are studying",
+    "B": "Study",
+    "C": "Studied",
+    "D": "studies",
+    "javob": "A"
+  },
+  {
+    "savol": "She ___ TV every evening",
+    "A": "watches",
+    "B": "Watch",
+    "C": "Watched",
+    "D": "watching",
+    "javob": "A"
+  },
+  {
+    "savol": "I ___ a student now",
+    "A": "am",
+    "B": "Is",
+    "C": "Are",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "They ___ at home now",
+    "A": "are",
+    "B": "Is",
+    "C": "Am",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "He ___ a book every week",
+    "A": "reads",
+    "B": "Read",
+    "C": "Reading",
+    "D": "readed",
+    "javob": "A"
+  },
+  {
+    "savol": "We ___ lunch at 1pm",
+    "A": "Eat",
+    "B": "Eats",
+    "C": "Ate",
+    "D": "eating",
+    "javob": "A"
+  },
+  {
+    "savol": "I ___ working on my project when my friend suddenly called me",
+    "A": "was",
+    "B": "were",
+    "C": "am",
+    "D": "have",
+    "javob": "A"
+  },
+  {
+    "savol": "She ___ already left the house when I tried to call her",
+    "A": "had",
+    "B": "has",
+    "C": "have",
+    "D": "is",
+    "javob": "A"
+  },
+  {
+    "savol": "They ___ watching a movie when the lights went out",
+    "A": "were",
+    "B": "are",
+    "C": "was",
+    "D": "have",
+    "javob": "A"
+  },
+  {
+    "savol": "He ___ never seen such a difficult exam before",
+    "A": "had",
+    "B": "has",
+    "C": "have",
+    "D": "is",
+    "javob": "A"
+  },
+  {
+    "savol": "We ___ eating dinner when the phone rang",
+    "A": "were",
+    "B": "are",
+    "C": "was",
+    "D": "have",
+    "javob": "A"
+  },
+  {
+    "savol": "I ___ just completed my homework, so I can go out now",
+    "A": "have",
+    "B": "had",
+    "C": "was",
+    "D": "am",
+    "javob": "A"
+  },
+  {
+    "savol": "She ___ studying for hours before she took a break",
+    "A": "had been",
+    "B": "was",
+    "C": "is",
+    "D": "has",
+    "javob": "A"
+  },
+  {
+    "savol": "They ___ already finished the task when the teacher came",
+    "A": "had",
+    "B": "have",
+    "C": "has",
+    "D": "are",
+    "javob": "A"
+  },
+  {
+    "savol": "He ___ working in that office before he moved to another city",
+    "A": "had been",
+    "B": "was",
+    "C": "is",
+    "D": "has",
+    "javob": "A"
+  },
+  {
+    "savol": "We ___ walking in the park when it started raining heavily",
+    "A": "were",
+    "B": "are",
+    "C": "was",
+    "D": "have",
+    "javob": "A"
+  },
+  {
+    "savol": "I ___ talking to my friend when my phone battery died",
+    "A": "was",
+    "B": "were",
+    "C": "am",
+    "D": "have",
+    "javob": "A"
+  },
+  {
+    "savol": "She ___ not finished her work yet because it was very difficult",
+    "A": "has",
+    "B": "have",
+    "C": "had",
+    "D": "is",
+    "javob": "A"
+  },
+  {
+    "savol": "They ___ in London last year for their vacation",
+    "A": "were",
+    "B": "was",
+    "C": "are",
+    "D": "is",
+    "javob": "A"
+  },
+  {
+    "savol": "He ___ working late yesterday because he had many tasks",
+    "A": "was",
+    "B": "were",
+    "C": "is",
+    "D": "has",
+    "javob": "A"
+  },
+  {
+    "savol": "We ___ already done our homework before going outside",
+    "A": "had",
+    "B": "have",
+    "C": "has",
+    "D": "are",
+    "javob": "A"
+  },
+  {
+    "savol": "I ___ cooking dinner when my brother came home",
+    "A": "was",
+    "B": "were",
+    "C": "am",
+    "D": "have",
+    "javob": "A"
+  },
+  {
+    "savol": "She ___ not attend the meeting yesterday",
+    "A": "did",
+    "B": "does",
+    "C": "is",
+    "D": "was",
+    "javob": "A"
+  },
+  {
+    "savol": "They ___ watching TV when I entered the room quietly",
+    "A": "were",
+    "B": "are",
+    "C": "was",
+    "D": "have",
+    "javob": "A"
+  },
+  {
+    "savol": "He ___ just reached the station when the train arrived",
+    "A": "had",
+    "B": "has",
+    "C": "have",
+    "D": "is",
+    "javob": "A"
+  },
+  {
+    "savol": "We ___ playing football when it suddenly started to snow",
+    "A": "were",
+    "B": "are",
+    "C": "was",
+    "D": "have",
+    "javob": "A"
+  },
+  {
+    "savol": "I ___ never been to such a big city before",
+    "A": "have",
+    "B": "has",
+    "C": "had",
+    "D": "am",
+    "javob": "A"
+  },
+  {
+    "savol": "She ___ already eaten breakfast before going to work",
+    "A": "had",
+    "B": "has",
+    "C": "have",
+    "D": "is",
+    "javob": "A"
+  },
+  {
+    "savol": "They ___ working now, so they cannot come with us",
+    "A": "are",
+    "B": "is",
+    "C": "am",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "He ___ to Turkey last summer with his friends",
+    "A": "went",
+    "B": "go",
+    "C": "going",
+    "D": "goes",
+    "javob": "A"
+  },
+  {
+    "savol": "We ___ completed the project yesterday before the deadline",
+    "A": "completed",
+    "B": "complete",
+    "C": "completing",
+    "D": "completes",
+    "javob": "A"
+  },
+  {
+    "savol": "I ___ studying when the teacher asked me a question",
+    "A": "was",
+    "B": "were",
+    "C": "am",
+    "D": "have",
+    "javob": "A"
+  },
+  {
+    "savol": "She ___ reading a book while waiting for the bus",
+    "A": "was",
+    "B": "were",
+    "C": "is",
+    "D": "have",
+    "javob": "A"
+  },
+  {
+    "savol": "They ___ not understand the instructions clearly",
+    "A": "did",
+    "B": "do",
+    "C": "does",
+    "D": "are",
+    "javob": "A"
+  },
+  {
+    "savol": "He ___ already seen that place before we visited it",
+    "A": "had",
+    "B": "has",
+    "C": "have",
+    "D": "is",
+    "javob": "A"
+  },
+  {
+    "savol": "We ___ talking when the manager entered the room",
+    "A": "were",
+    "B": "are",
+    "C": "was",
+    "D": "have",
+    "javob": "A"
+  },
+  {
+    "savol": "I ___ just finished my homework when my friend arrived",
+    "A": "had",
+    "B": "have",
+    "C": "was",
+    "D": "am",
+    "javob": "A"
+  },
+  {
+    "savol": "She ___ studying all day before she went to sleep",
+    "A": "had been",
+    "B": "was",
+    "C": "is",
+    "D": "has",
+    "javob": "A"
+  },
+  {
+    "savol": "They ___ playing outside when it started raining",
+    "A": "were",
+    "B": "are",
+    "C": "was",
+    "D": "have",
+    "javob": "A"
+  },
+  {
+    "savol": "He ___ already completed his work before the meeting started",
+    "A": "had",
+    "B": "has",
+    "C": "have",
+    "D": "is",
+    "javob": "A"
+  },
+  {
+    "savol": "We ___ walking for a long time before we found the restaurant",
+    "A": "had been",
+    "B": "were",
+    "C": "are",
+    "D": "have",
+    "javob": "A"
+  },
+  {
+    "savol": "I ___ listening to music when someone knocked on the door",
+    "A": "was",
+    "B": "were",
+    "C": "am",
+    "D": "have",
+    "javob": "A"
+  },
+  {
+    "savol": "She ___ already seen that movie before we watched it together",
+    "A": "had",
+    "B": "has",
+    "C": "have",
+    "D": "was",
+    "javob": "A"
+  },
+  {
+    "savol": "They ___ working in the office when the electricity went off",
+    "A": "were",
+    "B": "are",
+    "C": "was",
+    "D": "have",
+    "javob": "A"
+  },
+  {
+    "savol": "He ___ never experienced such a problem before",
+    "A": "had",
+    "B": "has",
+    "C": "have",
+    "D": "was",
+    "javob": "A"
+  },
+  {
+    "savol": "We ___ preparing lunch when the guests arrived unexpectedly",
+    "A": "were",
+    "B": "are",
+    "C": "was",
+    "D": "have",
+    "javob": "A"
+  },
+  {
+    "savol": "I ___ just started my work when my boss called me",
+    "A": "had",
+    "B": "have",
+    "C": "was",
+    "D": "am",
+    "javob": "A"
+  },
+  {
+    "savol": "She ___ studying English before she moved to another country",
+    "A": "had been",
+    "B": "was",
+    "C": "is",
+    "D": "has",
+    "javob": "A"
+  },
+  {
+    "savol": "They ___ already finished their work when the teacher came",
+    "A": "had",
+    "B": "have",
+    "C": "has",
+    "D": "are",
+    "javob": "A"
+  },
+  {
+    "savol": "He ___ driving home when he saw a car accident",
+    "A": "was",
+    "B": "were",
+    "C": "is",
+    "D": "has",
+    "javob": "A"
+  },
+  {
+    "savol": "We ___ talking about the problem when he joined us",
+    "A": "were",
+    "B": "are",
+    "C": "was",
+    "D": "have",
+    "javob": "A"
+  },
+  {
+    "savol": "I ___ never met such a friendly person before",
+    "A": "have",
+    "B": "has",
+    "C": "had",
+    "D": "am",
+    "javob": "A"
+  },
+  {
+    "savol": "She ___ already cleaned the room before her guests arrived",
+    "A": "had",
+    "B": "has",
+    "C": "have",
+    "D": "was",
+    "javob": "A"
+  },
+  {
+    "savol": "They ___ playing games when their parents came home",
+    "A": "were",
+    "B": "are",
+    "C": "was",
+    "D": "have",
+    "javob": "A"
+  },
+  {
+    "savol": "He ___ working for several hours before he took a rest",
+    "A": "had been",
+    "B": "was",
+    "C": "is",
+    "D": "has",
+    "javob": "A"
+  },
+  {
+    "savol": "We ___ walking in the street when it started raining suddenly",
+    "A": "were",
+    "B": "are",
+    "C": "was",
+    "D": "Have",
+    "javob": "A"
+  },
+  {
+    "savol": "If I ___ more time, I would learn another language",
+    "A": "had",
+    "B": "have",
+    "C": "has",
+    "D": "Having",
+    "javob": "A"
+  },
+  {
+    "savol": "She ___ already finished her work when I arrived",
+    "A": "had",
+    "B": "has",
+    "C": "have",
+    "D": "is",
+    "javob": "A"
+  },
+  {
+    "savol": "He ___ never been to Italy before last year",
+    "A": "had",
+    "B": "has",
+    "C": "have",
+    "D": "is",
+    "javob": "A"
+  },
+  {
+    "savol": "We ___ dinner when the guests suddenly arrived",
+    "A": "were having",
+    "B": "are having",
+    "C": "was having",
+    "D": "have",
+    "javob": "A"
+  },
+  {
+    "savol": "If we ___ earlier, we would catch the bus",
+    "A": "left",
+    "B": "leave",
+    "C": "leaving",
+    "D": "leaves",
+    "javob": "A"
+  },
+  {
+    "savol": "The book ___ by the author last year",
+    "A": "was written",
+    "B": "wrote",
+    "C": "is write",
+    "D": "writing",
+    "javob": "A"
+  },
+  {
+    "savol": "She ___ to the party if she had known",
+    "A": "would come",
+    "B": "would have come",
+    "C": "will come",
+    "D": "comes",
+    "javob": "A"
+  },
+  {
+    "savol": "They ___ in this house for five years",
+    "A": "have lived",
+    "B": "lived",
+    "C": "living",
+    "D": "lives",
+    "javob": "A"
+  },
+  {
+    "savol": "He ___ already left when I called him",
+    "A": "had",
+    "B": "has",
+    "C": "have",
+    "D": "is",
+    "javob": "A"
+  },
+  {
+    "savol": "We ___ studying when the teacher entered",
+    "A": "were",
+    "B": "are",
+    "C": "was",
+    "D": "have",
+    "javob": "A"
+  },
+  {
+    "savol": "They ___ watching TV when the phone rang",
+    "A": "were",
+    "B": "are",
+    "C": "was",
+    "D": "have",
+    "javob": "A"
+  },
+  {
+    "savol": "If she ___ harder, she would pass the exam",
+    "A": "studied",
+    "B": "studies",
+    "C": "study",
+    "D": "studying",
+    "javob": "A"
+  },
+  {
+    "savol": "I wish I ___ more free time",
+    "A": "had",
+    "B": "have",
+    "C": "has",
+    "D": "having",
+    "javob": "A"
+  },
+  {
+    "savol": "He ___ working all day before he rested",
+    "A": "had been",
+    "B": "was",
+    "C": "is",
+    "D": "has",
+    "javob": "A"
+  },
+  {
+    "savol": "They ___ finished before we arrived",
+    "A": "had",
+    "B": "have",
+    "C": "has",
+    "D": "are",
+    "javob": "A"
+  },
+  {
+    "savol": "I ___ just finished my work, so I can go out now",
+    "A": "have",
+    "B": "had",
+    "C": "was",
+    "D": "am",
+    "javob": "A"
+  },
+  {
+    "savol": "She ___ studying English for three years",
+    "A": "has been",
+    "B": "was",
+    "C": "is",
+    "D": "had",
+    "javob": "A"
+  },
+  {
+    "savol": "They ___ already left the building when we arrived",
+    "A": "had",
+    "B": "have",
+    "C": "has",
+    "D": "are",
+    "javob": "A"
+  },
+  {
+    "savol": "He ___ working in that company for five years before he quit",
+    "A": "had been",
+    "B": "was",
+    "C": "is",
+    "D": "has",
+    "javob": "A"
+  },
+  {
+    "savol": "We ___ walking in the street when we saw an accident",
+    "A": "were",
+    "B": "are",
+    "C": "was",
+    "D": "have",
+    "javob": "A"
+  },
+  {
+    "savol": "I ___ reading a book when my friend called me",
+    "A": "was",
+    "B": "were",
+    "C": "am",
+    "D": "have",
+    "javob": "A"
+  },
+  {
+    "savol": "She ___ not finished her project yet",
+    "A": "has",
+    "B": "have",
+    "C": "had",
+    "D": "is",
+    "javob": "A"
+  },
+  {
+    "savol": "They ___ in Paris last year for a holiday",
+    "A": "were",
+    "B": "was",
+    "C": "are",
+    "D": "is",
+    "javob": "A"
+  },
+  {
+    "savol": "He ___ working late last night because he had many tasks",
+    "A": "was",
+    "B": "were",
+    "C": "is",
+    "D": "has",
+    "javob": "A"
+  },
+  {
+    "savol": "We ___ already completed our homework before the teacher came",
+    "A": "had",
+    "B": "have",
+    "C": "has",
+    "D": "are",
+    "javob": "A"
+  },
+  {
+    "savol": "I ___ cooking dinner when my mother arrived home",
+    "A": "was",
+    "B": "were",
+    "C": "am",
+    "D": "have",
+    "javob": "A"
+  },
+  {
+    "savol": "She ___ not come to class yesterday",
+    "A": "did",
+    "B": "does",
+    "C": "is",
+    "D": "was",
+    "javob": "A"
+  },
+  {
+    "savol": "They ___ watching TV when I entered the room",
+    "A": "were",
+    "B": "are",
+    "C": "was",
+    "D": "have",
+    "javob": "A"
+  },
+  {
+    "savol": "He ___ just arrived at the station when the train left",
+    "A": "had",
+    "B": "has",
+    "C": "have",
+    "D": "is",
+    "javob": "A"
+  },
+  {
+    "savol": "We ___ playing chess when it started raining heavily",
+    "A": "were",
+    "B": "are",
+    "C": "was",
+    "D": "have",
+    "javob": "A"
+  },
+  {
+    "savol": "I ___ never been to London before this year",
+    "A": "have",
+    "B": "has",
+    "C": "had",
+    "D": "am",
+    "javob": "A"
+  },
+  {
+    "savol": "She ___ already eaten lunch before I came",
+    "A": "had",
+    "B": "has",
+    "C": "have",
+    "D": "is",
+    "javob": "A"
+  },
+  {
+    "savol": "They ___ working now, so they cannot answer the phone",
+    "A": "are",
+    "B": "is",
+    "C": "am",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "He ___ to Italy last summer with his family",
+    "A": "went",
+    "B": "go",
+    "C": "going",
+    "D": "goes",
+    "javob": "A"
+  },
+  {
+    "savol": "We ___ finished the task yesterday before the deadline",
+    "A": "finished",
+    "B": "finish",
+    "C": "finishing",
+    "D": "finishes",
+    "javob": "A"
+  },
+  {
+    "savol": "I ___ studying when the teacher entered the classroom",
+    "A": "was",
+    "B": "were",
+    "C": "am",
+    "D": "have",
+    "javob": "A"
+  },
+  {
+    "savol": "She ___ reading a very interesting book now",
+    "A": "is",
+    "B": "are",
+    "C": "am",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "They ___ not understand the question, so they asked again",
+    "A": "did",
+    "B": "do",
+    "C": "does",
+    "D": "are",
+    "javob": "A"
+  },
+  {
+    "savol": "He ___ already seen that movie twice before",
+    "A": "has",
+    "B": "have",
+    "C": "had",
+    "D": "is",
+    "javob": "A"
+  },
+  {
+    "savol": "We ___ talking when the teacher suddenly came in",
+    "A": "were",
+    "B": "are",
+    "C": "was",
+    "D": "have",
+    "javob": "A"
+  },
+  {
+    "savol": "I ___ just finished my lunch when you called me",
+    "A": "had",
+    "B": "have",
+    "C": "was",
+    "D": "am",
+    "javob": "A"
+  },
+  {
+    "savol": "She ___ studying all night before the exam started",
+    "A": "had been",
+    "B": "was",
+    "C": "is",
+    "D": "has",
+    "javob": "A"
+  },
+  {
+    "savol": "They ___ playing outside when it started to snow",
+    "A": "were",
+    "B": "are",
+    "C": "was",
+    "D": "have",
+    "javob": "A"
+  },
+  {
+    "savol": "He ___ already completed his work before going home",
+    "A": "had",
+    "B": "has",
+    "C": "have",
+    "D": "is",
+    "javob": "A"
+  },
+  {
+    "savol": "We ___ walking for a long time before we found the place",
+    "A": "had been",
+    "B": "were",
+    "C": "are",
+    "D": "have",
+    "javob": "A"
+  },
+  {
+    "savol": "I ___ listening to music when my friend knocked on the door",
+    "A": "was",
+    "B": "were",
+    "C": "am",
+    "D": "have",
+    "javob": "A"
+  },
+  {
+    "savol": "She ___ already seen that film before we watched it together",
+    "A": "had",
+    "B": "has",
+    "C": "have",
+    "D": "was",
+    "javob": "A"
+  },
+  {
+    "savol": "They ___ working in the office when the alarm went off",
+    "A": "were",
+    "B": "are",
+    "C": "was",
+    "D": "have",
+    "javob": "A"
+  },
+  {
+    "savol": "He ___ never experienced such a difficult situation before",
+    "A": "had",
+    "B": "has",
+    "C": "have",
+    "D": "was",
+    "javob": "A"
+  },
+  {
+    "savol": "We ___ preparing dinner when the guests arrived",
+    "A": "were",
+    "B": "are",
+    "C": "was",
+    "D": "have",
+    "javob": "A"
+  }
+]
