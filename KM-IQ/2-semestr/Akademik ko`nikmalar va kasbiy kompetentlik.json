@@ -1,0 +1,1202 @@
+[
+  {
+    "savol": "Hard-skills , ya'ni  kasbiy ko'nikmalar uzoq muddatli va barqaror muvaffaqiyatining qanday qismini egallaydi?",
+    "A": "25%",
+    "B": "30%",
+    "C": "75%",
+    "D": "50%",
+    "javob": "A"
+  },
+  {
+    "savol": "Soft-skills , ya'ni  moslashuvchan ko'nikmalar uzoq muddatli va barqaror muvaffaqiyatining qanday qismini egallaydi?",
+    "A": "75%",
+    "B": "25%",
+    "C": "50%",
+    "D": "30%",
+    "javob": "A"
+  },
+  {
+    "savol": "Birgalikda o‘rganishning asosiy afzalligi nima?",
+    "A": "Akademik samardorlik va tanqidiy fikrlashni kuchaytiradi",
+    "B": "Byudjetni tejash va xarajatlarni qisqartirish",
+    "C": "Vizual ma'lumotlarni loyihalashni soddalashtirish",
+    "D": "Marketing strategiyalarini ishlab chiqish",
+    "javob": "A"
+  },
+  {
+    "savol": "Kasbiy kompetentlikning eng muhim tarkibiy qismi nima?",
+    "A": "Amaliy tajriba va kasbiy bilimlar",
+    "B": "Aqliy  qobiliyatlari",
+    "C": "Bo‘sh vaqtni to‘g‘ri tashkil etish",
+    "D": "Shaxsiy kompetentlik va ijtimoiy munosabatlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Birlamchi manbalar qanday xususiyatga ega?",
+    "A": "Asl ma'lumotlarni o‘z ichiga olib, tahlil qilinmagan yoki talqin qilinmagan bo‘ladi",
+    "B": "Birlamchi manbalardan olingan ma'lumotlarning kengayishi sifatida shakllanadi",
+    "C": "Guruh loyihalarini tashkil etish uchun talqin qilinadi",
+    "D": "Ilmiy natijalarini  tahlil qilish va o'z ishida foydalanish uchun talqin qilinadi",
+    "javob": "A"
+  },
+  {
+    "savol": "… - oliy ta’lim yo‘nalishlaridan biri bo‘yicha chuqurlashtirilgan bilim, malaka va ko‘nikmalar beradigan, o‘qish davomiyligi kamida uch yil bo‘lgan tayanch oliy ta’limdir",
+    "A": "Bakalavriat",
+    "B": "Magistratura",
+    "C": "Qayta tayyorlash",
+    "D": "Oliy ta'limdan keyingi ta'lim",
+    "javob": "A"
+  },
+  {
+    "savol": "Biometrik autentifikatsiya usullariga qaysi biri kiradi?",
+    "A": "Barmoq izi, yuzni aniqlash va ovoz tanish texnologiyalari",
+    "B": "Parol bilan tizimga kirish",
+    "C": "Shaxsiy kodlardan foydalanish",
+    "D": "Telefon raqami orqali tasdiqlash",
+    "javob": "A"
+  },
+  {
+    "savol": "Amalda kompetentlik nima?",
+    "A": "bilim mahsuli bo‘lib, amaliyotda qo‘llay bilish qobiliyati",
+    "B": "ish  faoliyatiga nisbatan tanqidiy va ijodiy yondoshish, o‘zining ijodkorlik malakalariga egaligini namoyish eta olish",
+    "C": "axborot muhitida zarur, muhim, kerakli, foydali m a’lumotlarni izlash, yig‘ish, saralash, qayta ishlash va ulardan maqsadli, o‘rinli, samarali foydalanish",
+    "D": "ish  jarayonida sog‘lom psixologik muhitni yarata olish, hamkasblar va rahbariyat  bilan ijobiy muloqotni tashkil etish, turli salbiy psixologik ziddiyatlarni o‘z vaqtida anglay olish va bartaraf eta olish;",
+    "javob": "A"
+  },
+  {
+    "savol": "Kasbiy kompetentlikning qanday asosiy komponentlardan iborat?",
+    "A": "Bilim, ko'nikma, malaka",
+    "B": "Kasbiy bilim  va tajriba",
+    "C": "Axborotni izlash, saralash va tahlil qilish",
+    "D": "Ijtimoiy kompetentlik",
+    "javob": "A"
+  },
+  {
+    "savol": "Akademik yozishda rasmiy tilni qo‘llash nima uchun muhim?",
+    "A": "Fikrlarni aniq, professional va ilmiy tarzda ifodalashni ta'minlaydi",
+    "B": "Mavzuni tanlash va ma'lumotlarni to‘plash orqali yozuvning asosini shakllantiradi",
+    "C": "Mavzuga doir adabiyotlarni qidirib o'qish va ularni tanqidiy o'qishni shakllantiradi",
+    "D": "Tahlil qilish, muammolarni hal qilish, ma'lumotlarni izlash va texnologiyalarni qo‘llashni o‘z ichiga oladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Axborotning cheksizlik belgisi qanday ifodalanadi?",
+    "A": "Foydalanuvchilar soni cheklanmagan holda o‘zgarmay uzatilishida ifodalanadi",
+    "B": "Tashkilotning moliyaviy resurslari cheklanmagan holda taqsimlanishida ifodalanadi",
+    "C": "Guruh loyihalari cheklanmagan holda tashkil etilishida ifodalanadi",
+    "D": "Ilmiy loyihalar cheklanmagan holda vizual tahlil qilinishida ifodalanadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Akademik yozishda tahrir qilishning ahamiyati nima?",
+    "A": "Grammatika, uslub va mazmunni tahlil qilib, yozuv sifatini oshirishga yordam beradi",
+    "B": "Yozuvni jozibadorligi va sifatini oshirishga yordam beradi",
+    "C": "Grammatik  qoidalariga rioya qilish sifatini oshirishga yordam beradi",
+    "D": "Ilmiy loyihalarni tahlil qilish sifatini oshirishga yordam beradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Akademik yozish qanday ta’riflanadi?",
+    "A": "Ilmiy va ta'limiy kontekstda ma'lumotlarni aniq va mantiqiy ifodalash jarayoni sifatida aniqlanadi",
+    "B": "Mavzuga doir adabiyotlarni qidirib o'qish va ularni tanqidiy o'qishni shakllantiradi",
+    "C": "Guruh loyihalarini tashkil etish va boshqarish jarayoni sifatida aniqlanadi",
+    "D": "Ilmiy loyihalarni vizual tahlil qilish jarayoni sifatida aniqlanadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Iqtisodiy modellashtirish qanday maqsadda qo‘llaniladi?",
+    "A": "Iqtisodiy jarayonlarni tushunish, bashorat qilish va tahlil qilish uchun",
+    "B": "Kompaniyaning kelajakdagi foydasini hisoblash uchun",
+    "C": "Davlat byudjetini rejalashtirish uchun",
+    "D": "Statistika fanida qo‘llaniladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar nomzod qisqa muddat ishlab ketgan bo‘lsa, rezyumeda nima qilish kerak?",
+    "A": "Ishdan ketish sababini ko‘rsatish",
+    "B": "Hech qanday izoh bermaslik",
+    "C": "ish joyini keltirish",
+    "D": "Boshqa tajribalarni yashirish",
+    "javob": "A"
+  },
+  {
+    "savol": "………  - kasbiy faoliyatga oid masalalami amaliy tajriba, bilim va ko‘nikmaga tayanib muvaffaqiyatli hal eta olishga qaratilgan faoliyat",
+    "A": "Kasbiy kompetensiya",
+    "B": "Amalda kompetentlik",
+    "C": "Shaxsiy kompetensiya",
+    "D": "Maxsus kompetensiya",
+    "javob": "A"
+  },
+  {
+    "savol": "\"Big Data\" atamasi qanday ma’lumotlar to‘plamiga nisbatan ishlatiladi?",
+    "A": "Katta hajmli, tez tushadigan va murakkab ma’lumotlar",
+    "B": "Katta hajmli video va audio fayllar to‘plamlari",
+    "C": "Tarmoq orqali uzatiladigan ma’lumotlar",
+    "D": "Internetdagi har qanday ma’lumotlar",
+    "javob": "A"
+  },
+  {
+    "savol": "…………  - hamma bilan samimiy muloqotda bo‘lish, ularni tinglay bilish, ularga ijobiy ta’sir ko‘rsata olish",
+    "A": "Kommunikativ kompetentlik",
+    "B": "Kreativ kompetentlik",
+    "C": "Psixologik kompetentlik",
+    "D": "Metodik kompetentlik",
+    "javob": "A"
+  },
+  {
+    "savol": "………   xodimning kompaniya kutayotgan darajada va belgilangan tarkibda ishlab chiqarish xulqini muntazam ravishda namoyish qilishga tayyorlik qobiliyati",
+    "A": "Kompetensiya",
+    "B": "Konvergensiya",
+    "C": "Kasbiy kompetentlik",
+    "D": "Adaptatsiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Adaptatsiya qobiliyati qanday vaziyatda muhim?",
+    "A": "Kutilmagan o‘zgarishlarga tez moslashish uchun",
+    "B": "Bir xil sharoitda ishlash uchun",
+    "C": "Ish muhitidagi barcha o‘zgarishlarni inkor qilish",
+    "D": "O‘zgarishlardan qochish",
+    "javob": "A"
+  },
+  {
+    "savol": "Akademik yozish madaniyati talaba ilmiy faoliyatida qanday ahamiyat kasb etadi?",
+    "A": "Ma’lumotlarni mantiqiy va aniq ifodalash va ilmiy uslubda matn yozish",
+    "B": "Har qanday fikrlarni yozib qo‘yish va eslatmalar olish",
+    "C": "Ilmiy ishlarda aniq va tushunarli dallillarni yozmaslik va ijodiy yondashish",
+    "D": "Og‘zaki nutq so‘zlash va muloqot qilish",
+    "javob": "A"
+  },
+  {
+    "savol": "Akademik yozish madaniyati talabadan nima talab qiladi?",
+    "A": "Ma’lumotlarni mantiqiy va aniq ifodalash",
+    "B": "Har qanday fikrlarni yozib qo‘yish",
+    "C": "Ilmiy faoliyatni o'rganish",
+    "D": "Og‘zaki nutq so‘zlash",
+    "javob": "A"
+  },
+  {
+    "savol": "… - tegishli bakalavriat negizidagi aniq mutaxassislik bo‘yicha o‘qish davomiyligi kamida bir yil bo‘lgan oliy ta’limdir",
+    "A": "Magistratura",
+    "B": "Bakalavriat",
+    "C": "Oliy ta'limdan keyingi ta'lim",
+    "D": "Professional ta'lim",
+    "javob": "A"
+  },
+  {
+    "savol": "Akademik yozishni boyitishning asosiy usullaridan biri nima?",
+    "A": "Manbalarni kengaytirish va adabiyotlarni tanqidiy o‘rganish orqali boyitiladi",
+    "B": "Moliyaviy hujjatlarini tahlil qilish orqali boyitiladi",
+    "C": "Grammatik  qoidalariga rioya qilish va tahlil qilish orqali boyitiladi",
+    "D": "Ilmiy maqolalar yozish va analitik  tahlil qilish orqali boyitiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Akademik yozishning kirish qismida nima qilinadi?",
+    "A": "Mavzu tanishtirilib, tadqiqot savollari va maqsadlari belgilanadi",
+    "B": "Muhim g‘oyalar va dalillar taqdim etilib, har bir bo‘limda alohida g‘oya asoslanadi",
+    "C": "Ilmiy loyihalarni tahlil qilish vazifasi bajariladi",
+    "D": "Ilmiy maqolalar tahlil qilinadi va asoslab beriladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Akademik yozish jarayonida rejalashtirishning ahamiyati nima?",
+    "A": "Mavzuni tanlash va ma'lumotlarni to‘plash orqali yozuvning asosini shakllantiradi",
+    "B": "Mavzuga doir adabiyotlarni qidirib o'qish va ularni tanqidiy o'qishni shakllantiradi",
+    "C": "Jamoada ishlash va etika qoidalariga rioya qilish asosini shakllantiradi",
+    "D": "Ilmiy maqolalar yozish va vizual tahlil qilish asosini shakllantiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Iqtisodchi uchun matematik ko‘nikmalar nima uchun muhim?",
+    "A": "Moliyaviy hisob-kitoblarni bajarish, ma’lumotlarni tahlil qilish va iqtisodiy modellarni qurish uchun",
+    "B": "Oddiy hisob-kitoblarni bajarish, xizmat ko'rsatish   va reklama qilish uchun",
+    "C": "Inflyatsiyani hisoblash , soliqlarni hisoblash va doimiy jamoa bilan ishlash hamda shaxsiy javobgarlik uchun",
+    "D": "Algebra va geometriyani bilish uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "Akademik yozishning asosiy qismida qanday vazifa bajariladi?",
+    "A": "Muhim g‘oyalar va dalillar taqdim etilib, har bir bo‘limda alohida g‘oya asoslanadi",
+    "B": "Kirish va bo'limlarni yozish orqali fikrlarni shakklantiradi",
+    "C": "Guruh bilan birga ilmiy hujjatlarni tashkil etish  vazifasi bajariladi",
+    "D": "Ilmiy loyihalarni tahlil qilish vazifasi bajariladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Bozor tendensiyalarini prognoz qilishda asosiy omillar nimalar?",
+    "A": "Narxlar, talab va taklif, raqobat muhiti hamda iqtisodiy ko‘rsatkichlar",
+    "B": "Kompaniyalar reklama strategiyalari va boshqaruvchanlik ko'nikmalari",
+    "C": "Iste’molchilarning shaxsiy fikrlari",
+    "D": "Savdo hajmi va inflyatsiya darajasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Kasbiy kompetentlikning turlari",
+    "A": "Nazariy, amaliy, ijtimoiy, shaxsiy",
+    "B": "Bilim, ko'nikma, malaka",
+    "C": "Maxsus kompetensiya",
+    "D": "Professional ko'nikmalar",
+    "javob": "A"
+  },
+  {
+    "savol": "Akademik yozishda dalillarni keltirishning ahamiyati nima?",
+    "A": "Pozitsiyani isbotlash va yozuvning ishonchliligini oshirish uchun dalillar keltiriladi",
+    "B": "Tashkilotning moliyaviy resurslarini to'g'ri rejalashtirish ishonchliligini oshirish uchun keltiriladi",
+    "C": "Mavzining nomi va rejalarini  tashkil etish va strukturaga rioya qilish ishonchliligini oshirish uchun keltiriladi",
+    "D": "Ilmiy tadqiqotlarni vizual tahlil qilish ishonchliligini oshirish uchun keltiriladi",
+    "javob": "A"
+  },
+  {
+    "savol": "……bu qaror qabul qila olmaslik  Kechiktirish - zudlik bilan bajarilishi kerak bo’lgan vazifalarni bekorga bekor qilish",
+    "A": "Qarorning falaji va sustkashlik",
+    "B": "Vazifalarni o'z vaqtida bajarish",
+    "C": "O'ziga berilgan har qanday topshiriqni bajara olish",
+    "D": "O’ziga haddan tashqari ishonch",
+    "javob": "A"
+  },
+  {
+    "savol": "Bulutli hisoblash texnologiyalari qanday imkoniyat beradi?",
+    "A": "Raqamli ma'lumotlarni saqlash va ruxsat bilan kirish imkoniyatini yaratadi",
+    "B": "Moliyaviy resurslarini taqsimlash va nazorat qilish imkoniyatini yaratadi",
+    "C": "Kompyuter dasturlarini bilish va ishlay olish imkoniyati beradi",
+    "D": "Ilmiy loyihalarni vizual tahlil qilish imkoniyatini yaratadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Iqtisodchi mutaxassisning eng muhim ko‘nikmalaridan biri nima?",
+    "A": "Resurslarni samarali taqsimlash",
+    "B": "Savdo qilish va reklama qila olish",
+    "C": "Marketing strategiyasini ishlab chiqish",
+    "D": "Yangi mahsulotlar yaratish",
+    "javob": "A"
+  },
+  {
+    "savol": "Iqtisodchi mutaxassisning qanday ko‘nikmasi foydali investitsiyalarni aniqlashga yordam beradi?",
+    "A": "Risk tahlili va investitsiya tahlili",
+    "B": "Raqobatbardosh strategiyalar ishlab chiqish",
+    "C": "Bozorni tahlil qilish",
+    "D": "Tahlil qilish",
+    "javob": "A"
+  },
+  {
+    "savol": "Aktiv tinglash jarayoni qanday amalga oshiriladi?",
+    "A": "Savollar berish, mulohazalar bildirish va fikr almashish",
+    "B": "yozma shaklda savollar berish va   javob berish",
+    "C": "Mavzuni nomi va rejalarini tuzish",
+    "D": "Tasviriy san’at asarlarini tahlil qilish",
+    "javob": "A"
+  },
+  {
+    "savol": "…    - bu shaxsning o‘z bilimini kengaytirish, malakasini oshirish va intellektual rivojlanishi uchun olib boradigan tadbirlari va faoliyatidir",
+    "A": "Shaxsiy akademik faoliyat",
+    "B": "Vaqtni o‘tkazish",
+    "C": "Mustaqil ta'lim olish",
+    "D": "Tashkiliy faoliyatda ishtirok etish",
+    "javob": "A"
+  },
+  {
+    "savol": "Adolatli bo’lish kompetensiyaning qaysi turiga xos?",
+    "A": "Shaxsiy kompetensiya",
+    "B": "Kommunikativ kompetentlik",
+    "C": "Kreativ kompetentlik",
+    "D": "Maxsus kompetensiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Iqtisodchi mutaxassisning qaysi ko‘nikmasi eng muhim hisoblanadi?",
+    "A": "Tahlil qilish va qarorlar qabul qilish",
+    "B": "Xizmat ko‘rsatish ko‘nikmasi",
+    "C": "Kompyuter dasturlarini bilish",
+    "D": "Raqobatni tahlil qilish",
+    "javob": "A"
+  },
+  {
+    "savol": "Akademik ko‘nikmalar qanday asosiy elementlarni o‘z ichiga oladi?",
+    "A": "Tahlil qilish, muammolarni hal qilish, yozma va og‘zaki ifodalash, ma'lumotlarni izlash va texnologiyalarni qo‘llashni o‘z ichiga oladi",
+    "B": "Tashkilotning resurslarini taqsimlash, ishchi kuchini boshqarish  va loyiha boshqarishni o‘z ichiga oladi",
+    "C": "Kommunikativ kompetentlik, o'z-o'zini boshqarish hamda jamoada ishlash va guruh loyihalarini tashkil etishni o‘z ichiga oladi",
+    "D": "Tashqi ko‘rinishni saqlash , etik va estetika rioya qilish va imidjni boshqarishni o‘z ichiga oladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Akademik ko‘nikmalar qanday maqsadni ko‘zlaydi?",
+    "A": "Talabalarning o‘quv jarayonida bilim olish, tahlil qilish va ilmiy izlanish qobiliyatlarini rivojlantirishni maqsad qiladi",
+    "B": "Kommunikativ kompetentlik, o'z-o'zini boshqarish hamda jamoada ishlash va guruh loyihalarini tashkil etishni maqsad qiladi",
+    "C": "Tashkilotning moliyaviy faoliyatini tahlil qilishni maqsad qiladi",
+    "D": "O'z-o'zinin boshqarish va guruh loyihalarini tashkil etishni maqsad qiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Akademik ko‘nikmalarni rivojlantirishning asosiy usullaridan biri nima?",
+    "A": "Tanqidiy o‘qish, ilmiy ishlarni tahlil qilish va guruhli ishlarni tashkil etish orqali rivojlantiriladi",
+    "B": "Tashkilotning moliyaviy resurslarini taqsimlash usullari orqali rivojlantiriladi",
+    "C": "Jamoada ishlash, ma'suliyatli bo'lish  va etika qoidalariga rioya qilish orqali rivojlantiriladi",
+    "D": "Tashqi ko‘rinishni saqlash va imidjni boshqarish orqali rivojlantiriladi",
+    "javob": "A"
+  },
+  {
+    "savol": "O’zbekiston Respublikasida oliy ta`lim muassasalarining  turlari",
+    "A": "Universitet, institut, akademiya",
+    "B": "Kollej,litsey,texnikum",
+    "C": "Maktab, kurs",
+    "D": "Qayta tayyorlash instutlari",
+    "javob": "A"
+  },
+  {
+    "savol": "Iqtisodchi mutaxassisning qanday ko‘nikmasi xalqaro bozorda muvaffaqiyatli ishlashga yordam beradi?",
+    "A": "Xalqaro savdo va valyuta operatsiyalari",
+    "B": "Yuridik bilimlar va tashkiliy faolyat",
+    "C": "Moliya bo‘yicha bilimlar",
+    "D": "Raqamli iqtisodiyot",
+    "javob": "A"
+  },
+  {
+    "savol": "Nizo (konflikt) nima?",
+    "A": "O‘zaro kelishmovchilik yoki qarama-qarshilik",
+    "B": "O’zaro bir qarorni yechimini topish",
+    "C": "Yangi do‘st orttirish",
+    "D": "Doimiy tashvishlanish",
+    "javob": "A"
+  },
+  {
+    "savol": "Tanqidiy o‘qishning asosiy bosqichlari qaysilar?",
+    "A": "Tahlil qilish, baholash, sintez qilish",
+    "B": "O‘qish, yozish, tinglash",
+    "C": "Yodlash, takrorlash, eslatma olish",
+    "D": "Savol berish, javob berish, xulosa chiqarish",
+    "javob": "A"
+  },
+  {
+    "savol": "O'zbekiston Respublikasida ta'lim turlari nechta?",
+    "A": "7 ta",
+    "B": "6 ta",
+    "C": "3 ta",
+    "D": "5 ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Akademik ko‘nikmalar va kasbiy kompetentlik qanday bog‘liq?",
+    "A": "Akademik ko‘nikmalar ilmiy izlanish uchun, kasbiy kompetentlik esa amaliyot uchun muhim",
+    "B": "Ularning orasida hech qanday bog‘liqlik yo‘q",
+    "C": "Akademik ko‘nikmalar muhim, kasbiy kompetentlik ahamiyatsiz",
+    "D": "Kasbiy kompetentlik muhim, akademik ko‘nikmalar kerak emas",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan qaysi bir fanning vazifasi hisoblanadi?",
+    "A": "Akademik kompetentlikni rivojlantirish",
+    "B": "Ijtimoiy tarmoqlarni rivojlantirish",
+    "C": "Axborot texnologiyalari sohasida ishlash",
+    "D": "Yuqori tezlikda yugurish ko‘nikmasini rivojlantirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Stressni boshqarish ta’lim jarayonida qanday ahamiyatga ega?",
+    "A": "Asabiylik va keskinlikni kamaytirib, o‘quv samaradorligini oshirishga yordam beradi",
+    "B": "Tashkilotning moliyaviy hujjatlarini tahlil qilish samaradorligini oshiradi",
+    "C": "Guruh loyihalarini tashkil etish va etikaga rioya qilish samaradorligini oshiradi",
+    "D": "Ilmiy loyihalarni vizual tahlil qilish samaradorligini oshiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ikkinchi darajali manbalarning asosiy vazifasi nima?",
+    "A": "Asosiy manbalardagi ma'lumotlarni tahlil qilish va umumlashtirish",
+    "B": "Yozuvni bezash",
+    "C": "Eksperimentlarni o'tkazish",
+    "D": "Yangi tadqiqot olib borish va yozuvni bezash",
+    "javob": "A"
+  },
+  {
+    "savol": "Vaqtni samarali boshqarishda qaysi uslubdan foydalanish kerak?",
+    "A": "Asosiy vazifalarga ko‘proq vaqt ajratish",
+    "B": "Dam olish",
+    "C": "Barcha ishlarni keyinga qoldirish",
+    "D": "Kechiktirish ko‘nikmasini rivojlantirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Vaqtni samarali boshqarishga yo‘naltirilgan qoidalarning asosiy maqsadi nima?",
+    "A": "Asosiy vazifalarni o‘z vaqtida bajarish va samaradorlikni oshirish",
+    "B": "Barcha ishlarni kechiktirib bajarish",
+    "C": "Tasodifiy ishlar bajarish",
+    "D": "Kitob o‘qishga e’tibor berish",
+    "javob": "A"
+  },
+  {
+    "savol": "Akademik faoliyatda tanqidiy fikrlashning ahamiyati nimada?",
+    "A": "Axborotni tahlil qilish va xulosa chiqarish uchun",
+    "B": "O'z shaxsiy biznesini tashkil etish",
+    "C": "Kitoblar o'qish va ilmiy terminlarni yodlash",
+    "D": "Badiiy kitob  yozish va vizual tahlil orqali rivojlanadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Vaqtni samarali boshqarish nimaga xizmat qiladi?",
+    "A": "Barcha vazifalarni o‘z vaqtida bajarish va stressni kamaytirish uchun",
+    "B": "Tezroq yodlash uchun",
+    "C": "Ko‘proq yodlash uchun",
+    "D": "Kunni tez o‘tkazish uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘z-o‘zini boshqarishning uzoq muddatli foydalari qanday?",
+    "A": "Barqaror ishlash, stress darajasining pasayishi va maqsadlarga erishish",
+    "B": "Ish hajmini doimiy ravishda oshirish",
+    "C": "Har doim sharoitga qarab harakat qilish",
+    "D": "Qisqa muddatli natijalarga e’tibor qaratish",
+    "javob": "A"
+  },
+  {
+    "savol": "Plagiat qanday harakat sifatida aniqlanadi?",
+    "A": "Boshqa shaxslarning g‘oyalarini ruxsatsiz o‘zlashtirish va havolasiz taqdim etish",
+    "B": "Ilmiy maqolalarni tahlil qilish va umumlashtirish",
+    "C": "Loyiha jamoalarini tuzish va boshqarish",
+    "D": "Vizual ma'lumotlarni loyihalashtirish va taqdim etish",
+    "javob": "A"
+  },
+  {
+    "savol": "Raqamli ma'lumotlarni saqlashning eng keng tarqalgan usuli qaysi?",
+    "A": "Bulutli xotira va ma'lumotlar bazalari",
+    "B": "Qog‘ozda saqlash",
+    "C": "Disketkalar va CD-lar",
+    "D": "Pochta orqali yuborish",
+    "javob": "A"
+  },
+  {
+    "savol": "Cornell usulida eslatmalar qanday tuziladi?",
+    "A": "Chap tomonida asosiy tushunchalar, o‘ng tomonida batafsil eslatmalar, pastda xulosa",
+    "B": "Asosiy fikrlar chiziqli tarzda yoziladi",
+    "C": "Markazda asosiy g‘oya, shoxlarda bog‘langan tushunchalar",
+    "D": "Jadval shaklida taqqoslash uchun yoziladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Yetakchilik uslubining biznesdagi ahamiyati nima?",
+    "A": "Do‘stona jamoa yaratib, uzoq muddatli maqsadlarga erishishga yordam beradi",
+    "B": "Ilmiy tadqiqotlarni nashr etishni tezlashtiradi",
+    "C": "Raqamli dizayn loyihalarini sifatli yakunlaydi",
+    "D": "Moliyaviy resurslarni optimallashtiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri raqamli identifikatsiya usuli hisoblanadi?",
+    "A": "Elektron imzo, biometrik ma’lumotlar va parollar",
+    "B": "Har qanday Internetdan yuklab olingan ma’lumotlar",
+    "C": "Raqamli hujjatlar nashr etish jarayoni",
+    "D": "SMS orqali kod yuborish",
+    "javob": "A"
+  },
+  {
+    "savol": "Maqsadlarni belgilashning asosiy afzalligi nima?",
+    "A": "Eng muhim loyihalarga ustunlik berib, jamoa ruhiyatini oshirishga yordam beradi",
+    "B": "Tashkilotning moliyaviy resurslarini taqsimlashni osonlashtirishga yordam beradi",
+    "C": "Guruh loyihalarini tashkil etish va etikaga rioya qilishga yordam beradi",
+    "D": "Ilmiy maqolalar yozish va tahlil qilishga yordam beradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Vaqtni boshqarishda ustuvorlik nima uchun muhim?",
+    "A": "Eng muhim vazifalarga ko‘proq vaqt ajratish uchun",
+    "B": "Vazifalarni tasodifiy bajarish uchun",
+    "C": "Vaqtni ko‘paytirish uchun",
+    "D": "Ishni tez tugatish uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "Vaqtni boshqarishda eng muhim qadam nima?",
+    "A": "Eng muhim vazifalarga ustunlik berib, kundalik ishlar ro‘yxatini tuzishdir",
+    "B": "Tashkilotning moliyaviy resurslarini taqsimlashni rejalashtirishdir",
+    "C": "Jamoada ishlash va loyiha boshqarishni tashkil etishdir",
+    "D": "Ilmiy loyihalarni vizual tahlil qilish va yozishdir",
+    "javob": "A"
+  },
+  {
+    "savol": "Vaqtni boshqarishning asosiy maqsadi nima?",
+    "A": "Eng muhim vazifalarga ustunlik berib, vaqtdan samarali foydalanishni nazorat qilishdir",
+    "B": "Tashkilotning moliyaviy resurslarini taqsimlashni tahlil qilishdir",
+    "C": "Jamoada ishlash va etika qoidalariga rioya qilishni rejalashtirishdir",
+    "D": "Ilmiy loyihalarni vizual tarzda tahlil qilishdir",
+    "javob": "A"
+  },
+  {
+    "savol": "Raqamli jadvallar uchun qaysi formatlar ishlatiladi?",
+    "A": "Excel va CSV formatlari",
+    "B": "PDF va DOCX",
+    "C": "JPG va PNG",
+    "D": "MP3 va MP4",
+    "javob": "A"
+  },
+  {
+    "savol": "Raqamli jadvallar qanday formatda ishlatiladi?",
+    "A": "Excel va CSV formatlarida tizimli ma'lumotlarni tartibga solish va tahlil qilish uchun ishlatiladi",
+    "B": "Jamoada ishlash va etika qoidalariga rioya qilishga yordam beradi",
+    "C": "Guruh loyihalarini tashkil etish va etikaga rioya qilish uchun ishlatiladi",
+    "D": "Ilmiy loyihalarni vizual tahlil qilish uchun ishlatiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Muloqot strategiyalari qanday vazifalarni bajaradi?",
+    "A": "Fikrlarni aniqlashtirish va muammolarni hal qilish",
+    "B": "Jismoniy faoliyatni tahlil qilish",
+    "C": "Yozma shaklda hisobotlar tayyorlash",
+    "D": "Tasviriy san’at asarlarini sharhlash",
+    "javob": "A"
+  },
+  {
+    "savol": "Kontseptual xaritalar (Mind Mapping) usulining asosiy xususiyati nima?",
+    "A": "Fikrlarni vizual tarzda bog‘lash, markazda asosiy g‘oya bilan",
+    "B": "Ma’lumotlarni  raqamlar yoki bullet nuqtalar bilan yozish",
+    "C": "Matnni so‘zma-so‘z ko‘chirib yozish",
+    "D": "Statistik ma’lumotlarni tahlil qilish",
+    "javob": "A"
+  },
+  {
+    "savol": "Manbalarni rasmiylashtirish nima uchun muhim?",
+    "A": "Foydalanilgan ma'lumotlarni ishonchli va aniq ko‘rsatish uchun muhimdir",
+    "B": "Tashkilotning moliyaviy hujjatlarini tahlil qilish uchun muhimdir",
+    "C": "Guruh loyihalarini tashkil etish va etikaga rioya qilish uchun muhimdir",
+    "D": "Ilmiy loyihalarni vizual tahlil qilish uchun muhimdir",
+    "javob": "A"
+  },
+  {
+    "savol": "Raqamli identifikatsiya nima?",
+    "A": "Foydalanuvchini Internet va elektron xizmatlar orqali tanib olish jarayoni",
+    "B": "Kompyuter tarmog‘idagi barcha ma’lumotlarni boshqarish tizimi",
+    "C": "Elektron hujjatlarni chop etish jarayoni",
+    "D": "Internetdagi reklama kampaniyalarini boshqarish tizimi",
+    "javob": "A"
+  },
+  {
+    "savol": "Shaxsiy maqsadlar qanday ta’riflanadi?",
+    "A": "Hayot va o‘zini rivojlantirishga oid shaxsiy istaklar va intilishlar",
+    "B": "Moliyaviy rejalarni tuzishga qaratilgan faoliyat",
+    "C": "Asosan  martaba rivojiga yo‘naltirilgan rejalar",
+    "D": "Jismoniy sog‘liqni yaxshilashga qaratilgan harakatlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Raqamli ma’lumotlar manbalaridan biri nima?",
+    "A": "Ijtimoiy media va onlayn platformalar",
+    "B": "Asosan matnli hujjatlar",
+    "C": "Grafik,  rasmlar va grafiklar",
+    "D": "Jadval va multimedia formatlari",
+    "javob": "A"
+  },
+  {
+    "savol": "So‘rovnomalar o‘tkazish nima uchun muhim?",
+    "A": "Ijtimoiy yoki iqtisodiy muammolar bo‘yicha aniq ma’lumotlarni yig‘ish uchun",
+    "B": "Statistik ma’lumotlarni tekshirish uchun",
+    "C": "Iste’molchilarning shaxsiy fikrlarini bilish uchun",
+    "D": "Ta’lim sohasida foydalanish uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘zbekistonda plagiatga qarshi qanday choralar ko‘riladi?",
+    "A": "Ilmiy ishlar majburiy ravishda plagiat tekshiruvidan o‘tkaziladi",
+    "B": "Moliyaviy hisobotlar qayta ko‘rib chiqiladi",
+    "C": "Loyiha jamoalariga qo‘shimcha treninglar tashkil qilinadi",
+    "D": "Raqamli dizaynlar uchun yangi shablonlar joriy qilinadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Plagiatning asosiy salbiy oqibatlari nima?",
+    "A": "Ilmiy ishonchni yo‘qotish va huquqiy javobgarlikka tortish",
+    "B": "Loyiha byudjetini noto‘g‘ri boshqarish",
+    "C": "Jamoaviy ishda motivatsiyani pasaytirish",
+    "D": "Vizual prezentatsiyalarni sifatsiz tayyorlash",
+    "javob": "A"
+  },
+  {
+    "savol": "Google Scholar qaysi turdagi manbalarni qidirishda eng samaralidir?",
+    "A": "Ilmiy maqolalar va dissertatsiyalara",
+    "B": "Badiiy adabiyotlar",
+    "C": "Ommaviy axborot vositalari maqolalari",
+    "D": "Blog postlari",
+    "javob": "A"
+  },
+  {
+    "savol": "Akademik ko‘nikmalar qaysi faoliyatda muhim?",
+    "A": "Ilmiy tadqiqot olib borishda",
+    "B": "O'z shaxsiy biznesini tashkil etishda",
+    "C": "Muloqot ko'nikmalarini rivojlantirishda",
+    "D": "Muloqotni shakllantirishda",
+    "javob": "A"
+  },
+  {
+    "savol": "Akademik faoliyat qaysi asosiy ko‘nikmalarni rivojlantiradi?",
+    "A": "Ilmiy tadqiqot, tanqidiy fikrlash va yozish ko‘nikmalari",
+    "B": "Sport ko‘nikmalari",
+    "C": "Jismoniy faollikni oshirish",
+    "D": "Muzeylarda ekskursiya o‘tkazish",
+    "javob": "A"
+  },
+  {
+    "savol": "Akademik yozishning asosiy maqsadi nima?",
+    "A": "Ilmiy va ta'limiy kontekstda ma'lumotlarni aniq va mantiqiy ifodalash",
+    "B": "Hikoya qiluvchi matnlar yozish",
+    "C": "Shaxsiy fikrlarni cheklovsiz ifodalash",
+    "D": "Badiiy asarlar yaratish",
+    "javob": "A"
+  },
+  {
+    "savol": "Adabiyotlar qanday turlarga bo‘linadi?",
+    "A": "Ilmiy, badiiy va ommabop adabiyotlar",
+    "B": "Elektron va  badiiy adabiyotlar",
+    "C": "Badiiy, raqamli va ommabop adabiyotlar",
+    "D": "Ommabop, raqamli  va hujjatli adabiyotlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Muvaffaqiyatli o‘rganishda intellektning roli qanday?",
+    "A": "Intellekt tahlil qilish, axborotni to‘g‘ri tushunish va murakkab masalalarni hal qilishda yordam beradi",
+    "B": "Intellekt  axborotni yodlashda yordam beradi",
+    "C": "Intellekt ta’lim jarayonida muhim emas",
+    "D": "Intellekt  yozma ishlar uchun muhim",
+    "javob": "A"
+  },
+  {
+    "savol": "Raqamli izlar nima?",
+    "A": "Internetda foydalanuvchilar tomonidan qoldiriladigan har qanday raqamli ma’lumot",
+    "B": "Elektron pochta xabarlarining nusxalari",
+    "C": "Kompyuter xotirasidagi vaqtinchalik fayllar",
+    "D": "Veb-brauzer tarixidagi ma’lumotlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Plagiatdan qochish uchun eng muhim chora nima?",
+    "A": "Iqtibos qoidalariga rioya qilib, to‘g‘ri havola keltirish",
+    "B": "Loyiha xarajatlarini qisqartirish",
+    "C": "Jamoa a’zolarining mas'uliyatini oshirish",
+    "D": "Vizual ma'lumotlarni soddalashtirish",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘z-o‘zini boshqarishning eng asosiy foydasi nima?",
+    "A": "Ish samaradorligini oshirish va stressni kamaytirish",
+    "B": "Har qanday vaziyatda yagona usulga rioya qilish",
+    "C": "Shaxsiy hayot va ish o‘rtasidagi muvozanatni buzish",
+    "D": "Vaqtni tejash uchun barcha ishlarni birdan bajarish",
+    "javob": "A"
+  },
+  {
+    "savol": "Stressni boshqarishning natijasi nima?",
+    "A": "Ish sifatini saqlab, ortiqcha charchashning oldini olishga yordam beradi",
+    "B": "Tashkilotning moliyaviy faoliyatini tahlil qilishga yordam beradi",
+    "C": "Guruh loyihalarini tashkil etish va etikaga rioya qilishga yordam beradi",
+    "D": "Ilmiy maqolalar yozish va vizual tahlil qilishga yordam beradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Manbalarni tanlashda qaysi omil muhim?",
+    "A": "Ishonchlilik, dolzarblik va qamrovlilikni hisobga olish muhimdir",
+    "B": "Tashkilotning moliyaviy resurslarini taqsimlash muhimdir",
+    "C": "Jamoada ishlash va etika qoidalariga rioya qilish muhimdir",
+    "D": "Ilmiy maqolalar yozish va vizual tahlil qilish muhimdir",
+    "javob": "A"
+  },
+  {
+    "savol": "Qanday qilib stressni boshqarish mumkin?",
+    "A": "Jismoniy mashqlar qilish, dam olish va nafas olish texnikalaridan foydalanish",
+    "B": "Stressni  o‘zingizda saqlash",
+    "C": "Vazifalarni yana-da ko‘paytirish",
+    "D": "Ish yuklamasini boshqalarga yuklash",
+    "javob": "A"
+  },
+  {
+    "savol": "Ma'lumotlarni tozalash jarayonida nima amalga oshiriladi?",
+    "A": "Keraksiz yoki noto‘g‘ri ma'lumotlarni aniqlash va tuzatish",
+    "B": "Ma'lumotlarni  kodlash va shirflash",
+    "C": "Ma'lumotlarni  saqlash, yig'ish",
+    "D": "Ma'lumotlarni  tahlil qilish, statistik tahlil qilish",
+    "javob": "A"
+  },
+  {
+    "savol": "Ma’lumotlarni tozalash jarayonining maqsadi nima?",
+    "A": "Keraksiz, noto‘g‘ri yoki yetishmayotgan ma'lumotlarni aniqlab, tuzatishdir",
+    "B": "Tashkilotning umumiy faoliyatini rejalashtirish va tahlil qilishdir",
+    "C": "Guruh loyihalarini tashkil etish va etikaga rioya qilishdir",
+    "D": "Ilmiy loyihalarni vizual tahlil qilish va yozishdir",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri raqamli ma’lumotlarga oid muammo hisoblanadi?",
+    "A": "Kiberxavfsizlik tahdidlari va shaxsiy ma’lumotlarning noqonuniy foydalanilishi",
+    "B": "Internet tezligining oshishi",
+    "C": "Smartfonlarning ommalashishi",
+    "D": "Elektron kitoblarning ko‘payishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri akademik yozuvda maqola tuzilishi uchun kerak?",
+    "A": "Kirish, asosiy qism, xulosa",
+    "B": "Kirish, bo‘limlar, xulosa",
+    "C": "Hikoya, badiiy qism, yakun",
+    "D": "Fikrni aniq va qisqa ifodalash",
+    "javob": "A"
+  },
+  {
+    "savol": "Raqamli ma’lumotlar deganda nimani tushunamiz?",
+    "A": "Kompyuterlar, smartfonlar va boshqa qurilmalarda saqlanadigan va qayta ishlanadigan ma’lumotlar",
+    "B": "Internet orqali tarqatiladigan har qanday axborot",
+    "C": "Raqamli hujjatlar va elektron pochta xabarlari",
+    "D": "Audio va video fayllar",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri raqamli ma’lumotlarni himoya qilishning eng samarali usuli hisoblanadi?",
+    "A": "Kuchli parollar, shifrlash va ikki faktorli autentifikatsiya",
+    "B": "Brauzer tarixini tozalash",
+    "C": "Qurilmadagi ma’lumotlarni o‘chirish",
+    "D": "Internetdan kam foydalanish",
+    "javob": "A"
+  },
+  {
+    "savol": "Raqamli qurilmalarning xavfsizligini ta’minlash uchun qaysi chora ko‘rilishi kerak?",
+    "A": "Kuchli parollar, xavfsizlik devorlari va antiviruslardan foydalanish",
+    "B": "Internet ulanishini uzib qo‘yish va qiyin tushunarsiz parollar qo'yish",
+    "C": "Qurilmani doimiy ravishda o‘chirib yoqish",
+    "D": "Shaxsiy fayllarni  bitta joyda saqlash",
+    "javob": "A"
+  },
+  {
+    "savol": "Moslashuvchanlik qanday muhitda ayniqsa muhim?",
+    "A": "Loyiha o‘zgarishlari tez-tez sodir bo‘ladigan tezkor muhitda muhimdir",
+    "B": "Tashkilotning moliyaviy hujjatlarini tahlil qilish muhitida muhimdir",
+    "C": "Jamoada ishlash va etika qoidalariga rioya qilish muhitida muhimdir",
+    "D": "Ilmiy loyihalarni vizual tahlil qilish muhitida muhimdir",
+    "javob": "A"
+  },
+  {
+    "savol": "Eslatmalar olishning asosiy afzalliklaridan biri nima?",
+    "A": "Ma’lumotlarni qayta ishlash va mustahkamlash",
+    "B": "Matnni  ko‘chirib yozish va o'qib chiqish",
+    "C": "O‘qish jarayonini sekinlashtirish",
+    "D": "Asosan testlarga tayyorgarlik ko‘rish",
+    "javob": "A"
+  },
+  {
+    "savol": "Raqamli ma’lumotlarni rasmiylashtirishning asosiy maqsadi nima?",
+    "A": "Ma’lumotlarni standartlashtirilgan va tasdiqlangan shaklga keltirish",
+    "B": "Ma'lumotlarni  tozalash va tahlil qilish, statistik tahlil qilish",
+    "C": "Ma'lumotlarni ko'p hollarda  vizualizatsiya qilish",
+    "D": "Ma'lumotlarni shifrlash va tahlil qilish, statistik tahlil qilish",
+    "javob": "A"
+  },
+  {
+    "savol": "Matematik mantiq iqtisodchi uchun qanday ahamiyatga ega?",
+    "A": "Ma’lumotlarni tahlil qilish va to‘g‘ri qaror qabul qilish jarayonida muhim",
+    "B": "Iqtisodiy model yaratishda qo‘llaniladi",
+    "C": "Byudjet rejalashtirishda ishlatiladi",
+    "D": "Statistik ma’lumotlarni jamlash uchun zarur",
+    "javob": "A"
+  },
+  {
+    "savol": "Oliy ta’limning asosiy maqsadi nima?",
+    "A": "Malakali va raqobatbardosh mutaxassislarni tayyorlash",
+    "B": "Har qanday talabaga diplom berish",
+    "C": "Talabalarning  shaxsiy rivojlanishiga e’tibor qaratish",
+    "D": "Ijtimoiy tarmoqlardan foydalana olishni o‘rgatish",
+    "javob": "A"
+  },
+  {
+    "savol": "Kalit so‘zlar qidiruvda qanday yordam beradi?",
+    "A": "Manbalarni tez va aniq topishga yordam beradi",
+    "B": "Ko'p hollarda  qidiruvni toraytiradi",
+    "C": "Qidiruvni asosan  kengaytiradi",
+    "D": "Qidiruvni tahlil qilishga xizmat qiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Manbalarni tanlashda qaysi omil muhim hisoblanadi?",
+    "A": "Manbaning ishonchli va ilmiy asoslangan bo‘lishi",
+    "B": "Manbaning  ommabop bo‘lishi va sifatli bo'lishi",
+    "C": "Manbaning qisqa va umumiy bo‘lishi",
+    "D": "Manbaning  badiiy mazmunga ega bo‘lishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Manbalarni baholashda “mavzu bilan aloqadorlik” qanday aniqlanadi?",
+    "A": "Manbaning mavzuga qanchalik yaqinligi va tadqiqot maqsadlariga xizmat qilishi bilan",
+    "B": "Manbaning uzunligi bilan va ma'lumotlarni qisman mos bo'lishi",
+    "C": "Nashr joyi bilan muallif nomi bo'lishi",
+    "D": "Muallifning ismi bilan",
+    "javob": "A"
+  },
+  {
+    "savol": "Akademik yozish shakllaridan qaysi biri ilmiy jurnallarda nashr etiladi?",
+    "A": "Maqola",
+    "B": "Dissertatsiya",
+    "C": "Kurs ishi",
+    "D": "Tahliliy hisobot",
+    "javob": "A"
+  },
+  {
+    "savol": "Maqsad va vazifalar o‘rtasidagi asosiy farq nima?",
+    "A": "Maqsad – erishmoqchi bo‘lgan natija, vazifalar – uni amalga oshirish qadamlari",
+    "B": "Maqsad va vazifalar bir xil ma’noga ega",
+    "C": "Maqsad – qisqa muddatli reja, vazifalar – uzoq muddatli",
+    "D": "Maqsad – umumiy yo‘nalish, vazifalar – ijtimoiy munosabatlar",
+    "javob": "A"
+  },
+  {
+    "savol": "CREAM strategiyasida o‘quvchilarga qanday yordam beriladi?",
+    "A": "Maqsadlarni aniq belgilash, mustahkamlash, qiziqtirish, amaliyot va nazorat qilish orqali",
+    "B": "O‘quvchilarning o‘z-o‘zini baholashini va nazorati orqali",
+    "C": "Stressni boshqarishda yordam orqali",
+    "D": "Darslarni tinglash , eslatmalar olish orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘z-o‘zini boshqarishning yetakchilikka ta’siri qanday?",
+    "A": "Mas’uliyatni o‘z zimmasiga olish va jamoaga ta’sir ko‘rsatish qobiliyatini oshiradi",
+    "B": "Barcha qarorlarni boshqalarga yuklash",
+    "C": "O‘z faoliyati bilan shug‘ullanish",
+    "D": "Har qanday holatda passiv bo‘lish",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri raqamli ma’lumotlarning turlari hisoblanadi?",
+    "A": "Matnli hujjatlar, rasm, audio va video fayllar",
+    "B": "Dasturiy ta’minot kodlari",
+    "C": "Shaxsiy elektron pochta xabarlari",
+    "D": "Internet saytlari ma’lumotlari",
+    "javob": "A"
+  },
+  {
+    "savol": "Tanqidiy o‘qishda asosiy omil qaysi?",
+    "A": "Matnning ma’nosini chuqur tushunish va baholash",
+    "B": "Matnni tahlil qilmasdan o‘qish",
+    "C": "Kitobni tugatish",
+    "D": "Matndagi har bir so‘zni yodlash",
+    "javob": "A"
+  },
+  {
+    "savol": "Akademik yozish tuzilishining kirish qismida nima amalga oshiriladi?",
+    "A": "Mavzu tanishtiriladi va tadqiqot maqsadlari belgilanadi",
+    "B": "Xulosa, kirish  yoziladi",
+    "C": "Dalillar va misollar keltiriladi",
+    "D": "Matnning faqat tahliliy qismi tuziladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Akademik faoliyatni tashkil etishda tadqiqotni qay tarzda boshlash lozim?",
+    "A": "Mavzu tanlash va axborot manbalarini topish orqali",
+    "B": "Kitoblar o'qish va ilmiy terminlarni yodlash",
+    "C": "Oddiy yozish ko‘nikmasini rivojlantirish va moliyaviy hisob -kitoblar bilish",
+    "D": "Internetda tasodifiy axborot izlash",
+    "javob": "A"
+  },
+  {
+    "savol": "Matritsa (jadval) usulining asosiy maqsadi nima?",
+    "A": "Mavzularni taqqoslash yoki farqlash uchun ma’lumotlarni jadval shaklida yozish",
+    "B": "Asosiy g‘oyalarni yozib olish va ularni jadval ko'rinishda taqdim etish",
+    "C": "Matnni vizual tarzda shoxlar orqali bog‘lash",
+    "D": "Ma’lumotlarni asosan chiziqli tarzda yozish",
+    "javob": "A"
+  },
+  {
+    "savol": "Manbalar va adabiyotlarni izlashda birinchi qadam nima?",
+    "A": "Mavzuni aniq belgilash va yo‘nalish berish",
+    "B": "Mavzudagi eng kerakli kalit so‘zlarni tanlash",
+    "C": "Qidiruv tarixini saqlash",
+    "D": "Tadqiqot guruhlarida qatnashish",
+    "javob": "A"
+  },
+  {
+    "savol": "Raqamli ma’lumotlarni yo‘q qilishning xavfsiz usuli nima?",
+    "A": "Maxsus dasturlar yordamida ma’lumotlarni butunlay o‘chirib tashlash",
+    "B": "Fayllarni oddiygina \"Delete\" tugmasi bilan o‘chirish",
+    "C": "Qurilmani o‘chirib yoqish",
+    "D": "USB fleshkaga ko‘chirib qo‘yish",
+    "javob": "A"
+  },
+  {
+    "savol": "Prezentatsiyalarni taqdim qilishda qaysi vosita keng qo‘llaniladi?",
+    "A": "Microsoft PowerPoint orqali slaydlar va diagrammalar yaratish",
+    "B": "Moliyaviy hisobotlarni tahlil qilish dasturi",
+    "C": "Raqamli kontentni loyihalash platformasi",
+    "D": "Byudjetni boshqarish tizimi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi variant manbalarni to‘g‘ri rasmiylashtirish shakli hisoblanadi?",
+    "A": "Muallif, yil, nom, nashr joyi va nashriyot keltiriladi",
+    "B": "Maqolaning sarlavhasi yoziladi",
+    "C": "Nashr sanasi va sayt havolasi yetarli",
+    "D": "Muallifning ismi yoziladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Mualliflik huquqi qanday maqsadni ko‘zlaydi?",
+    "A": "Muallifning intellektual mulkini himoya qilish uchun ekskluziv huquqlarni belgilaydi",
+    "B": "Moliyaviy resurslarni taqsimlashni nazorat qilish",
+    "C": "Jamoaviy loyihalarda etik me’yorlarni joriy etish",
+    "D": "Raqamli dizaynlar yaratish va ularni nashr etish",
+    "javob": "A"
+  },
+  {
+    "savol": "Raqamli ma’lumotlarni zaxiralash nima uchun muhim?",
+    "A": "Muhim hujjatlar va fayllarni yo‘qotib qo‘ymaslik uchun",
+    "B": "Internetdan tezroq foydalanish uchun",
+    "C": "Qurilmaning ishlashini tezlashtirish uchun",
+    "D": "Yangi dasturlarni o‘rnatish uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "Ma’lumotnoma (obyektivka) qanday hujjat hisoblanadi?",
+    "A": "Nomzodning qisqacha tavsifi",
+    "B": "Ilmiy nashrlar va maqolalar ro‘yxati",
+    "C": "Xobbi va shaxsiy qiziqishlar to‘plami",
+    "D": "ish tajribasi bayoni",
+    "javob": "A"
+  },
+  {
+    "savol": "Mustaqil ta’lim qanday ta’riflanadi?",
+    "A": "O‘quv materialini mustaqil o‘zlashtirish va ijodiy topshiriqlarni bajarishga qaratilgan tizimli faoliyat sifatida aniqlanadi",
+    "B": "Tashkilotning umumiy faoliyatini vizual tahlil qilish jarayoni sifatida aniqlanadi",
+    "C": "Guruh loyihalarini tashkil etish va boshqarish jarayoni sifatida aniqlanadi",
+    "D": "Ilmiy maqolalar yozish va tahlil qilish jarayoni sifatida aniqlanadi",
+    "javob": "A"
+  },
+  {
+    "savol": "CREAM strategiyasining  Engage bosqichi nimani anglatadi?",
+    "A": "O‘quvchilarni qiziqtirish va jalb qilish",
+    "B": "O‘rganish natijalarini baholash",
+    "C": "Yangi mavzu o'rgatish",
+    "D": "Test topshirish",
+    "javob": "A"
+  },
+  {
+    "savol": "CREAM strategiyasining Apply bosqichida nima amalga oshiriladi?",
+    "A": "O‘rganilgan bilimlarni amaliyotda qo‘llash",
+    "B": "O‘rganish natijalarini baholash",
+    "C": "Test topshirish",
+    "D": "Umumiy ma’lumotlarni taqdim etish",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘z-o‘zini rag‘batlantirishning eng yaxshi usuli qaysi?",
+    "A": "O‘z oldiga kichik, aniq va erishish mumkin bo‘lgan maqsadlarni qo‘yish",
+    "B": "Mukofot olishgacha hech qanday harakat qilmaslik",
+    "C": "Har doim tashqi rag‘batlantirishni kutish",
+    "D": "Motivatsiya yo‘qolsa, ishni to‘xtatish",
+    "javob": "A"
+  },
+  {
+    "savol": "Vaqtni to‘g‘ri boshqarish uchun qaysi uslubdan foydalanish mumkin?",
+    "A": "O‘z vazifalaringizni rejalashtirish va ularni ustuvorlik darajasiga ko‘ra bajarish",
+    "B": "Kun tartibini yozib qo‘ymaslik",
+    "C": "Tasodifiy ravishda vazifalar bajarish",
+    "D": "Hech qanday reja tuzmaslik",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘z-o‘zini baholash ko‘nikmalari qanday maqsadga xizmat qiladi?",
+    "A": "O‘zaro aloqa ko‘nikmalarini rivojlantirish va yaxshilash",
+    "B": "Boshqalarni tanqid qilish va baholash",
+    "C": "Rasmiy hujjatlar va sertifikatlar to‘plash",
+    "D": "Moliyaviy rejalarni tuzish va boshqarish",
+    "javob": "A"
+  },
+  {
+    "savol": "Moslashuvchanlik ko‘nikmasi qanday holatlarda muhim?",
+    "A": "O‘zgarishlar yuzaga kelganda o‘ziga ishonch bilan harakat qilish uchun muhimdir",
+    "B": "Tashkilotning umumiy faoliyatini rejalashtirish uchun muhimdir",
+    "C": "Guruh loyihalarini tashkil etish va etikaga rioya qilish uchun muhimdir",
+    "D": "Ilmiy maqolalar yozish va tahlil qilish uchun muhimdir",
+    "javob": "A"
+  },
+  {
+    "savol": "Moslashuvchanlikning asosiy xususiyati nima?",
+    "A": "O‘zgarishlarga moslasha olish",
+    "B": "Har doim o‘z fikrida turish",
+    "C": "Doimiy reja bilan ishlash",
+    "D": "Hamma bilan murosa qilish",
+    "javob": "A"
+  },
+  {
+    "savol": "Nega shaxsiy javobgarlik muhim?",
+    "A": "O‘zingizni nazorat qilish va muvaffaqiyatga erishishda samarali bo‘lish uchun",
+    "B": "Gina kamchiliklarni tan olish uchun",
+    "C": "Boshqa odamlarning muvaffaqiyatiga yordam berish uchun",
+    "D": "O‘z ustozingizga ko‘proq yoqish uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘z-o‘zidan plagiat qanday shaklda namoyon bo‘ladi?",
+    "A": "O‘zining oldingi asarini iqtibossiz qayta ishlatish",
+    "B": "Tadqiqot natijalarini qayta tahlil qilish",
+    "C": "Jamoa a’zolari bilan yangi loyiha rejasini ishlab chiqish",
+    "D": "Ma'lumotlarni grafik shaklda tasvirlash",
+    "javob": "A"
+  },
+  {
+    "savol": "Chiziqli eslatma olish usulining afzalligi nima?",
+    "A": "Oddiy va tezkor usul sifatida ishlatiladi",
+    "B": "Murakkab mavzularni vizual tarzda tushuntiradi",
+    "C": "Mantiqiy va  tarixiy dalillarni yozishga yordam beradi",
+    "D": "Ma’lumotlarni  jadval shaklida tuzadi",
+    "javob": "A"
+  },
+  {
+    "savol": "…      - iqtisod, fan, texnika va madaniyat sohasida faoliyat olib boruvchi, ish mobaynida ilm-fan, madaniyat, texnika yangiliklarini qo’llagan va o’z ustida ishlagan holda nazariy va amaliy muammolarni bartaraf etuvchi yuqori malakali mutaxassislarni tayyorlash",
+    "A": "oliy ta'lim",
+    "B": "doktorantura",
+    "C": "professional ta'lim",
+    "D": "o'rta maxsus ta'lim",
+    "javob": "A"
+  },
+  {
+    "savol": "Kreativ fikrlashni baholash xalqaro dasturi qaysi tashkilot tomonidan olib boriladi?",
+    "A": "PISA Iqtisodiy hamkorlik va taraqqiyot tashkiloti",
+    "B": "BMT Ta’lim tashkiloti",
+    "C": "Jahon Banki",
+    "D": "Harvard Universiteti",
+    "javob": "A"
+  },
+  {
+    "savol": "Manbalarni qidirishda kalit so‘zlarning ahamiyati nima?",
+    "A": "Qidiruvni tez va aniq qilish uchun kalit so‘zlar kombinatsiyasi ishlatiladi",
+    "B": "Tashkilotning moliyaviy resurslarini taqsimlash uchun ishlatiladi",
+    "C": "Jamoada ishlash va etika qoidalariga rioya qilish uchun ishlatiladi",
+    "D": "Ilmiy maqolalar yozish uchun vizual tahlil qilinadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ma’lumotlarni modellashtirish qanday maqsadda amalga oshiriladi?",
+    "A": "Regressiya va klassifikatsiya orqali tendensiyalarni aniqlash va bashorat qilish uchun amalga oshiriladi",
+    "B": "Tashkilotning umumiy faoliyatini rejalashtirish uchun amalga oshiriladi",
+    "C": "Guruh loyihalarini tashkil etish va etikaga rioya qilish uchun amalga oshiriladi",
+    "D": "Ilmiy loyihalarni vizual tahlil qilish uchun amalga oshiriladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qanday qilib ish samaradorligini oshirish mumkin?",
+    "A": "Rejalashtirish, ustuvorliklarni aniqlash va muhim vazifalarga e’tibor qaratish orqali",
+    "B": "Har doim birdaniga ko‘p vazifalar bajarishga harakat qilish",
+    "C": "Natijaga e’tibor berish, jarayonga emas",
+    "D": "Vaqt taqsimotiga ahamiyat bermaslik",
+    "javob": "A"
+  },
+  {
+    "savol": "Akademik faoliyatni samarali tashkil etish uchun nimalar zarur?",
+    "A": "Rejalashtirish, vaqtni boshqarish va resurslardan foydalanish",
+    "B": "Har kuni tasodifiy ishlash",
+    "C": "Shunchaki kutish va vaziyatga moslashish",
+    "D": "Internetdan foydalangan holda o‘qish",
+    "javob": "A"
+  },
+  {
+    "savol": "Tanqidiy fikrlash uchun zarur bo’lgan nazariy bilimlardan biri ilmiy usullrga qaysi usullr Kiradi?",
+    "A": "Sabablari va oqibatlarini aniqlash; ehtimolliklar nazariyasi va statistika",
+    "B": "Savol-javob? Anketa",
+    "C": "Ichki va tashqi kuzatuv",
+    "D": "Kontent analiz",
+    "javob": "A"
+  },
+  {
+    "savol": "Vaqtni boshqarish ko‘nikmasi universitetda qanday rivojlanadi?",
+    "A": "Seminarlarga tayyorgarlik, ma'ruzalar yozish va ilmiy tadbirlarda qatnashish orqali rivojlanadi",
+    "B": "Tashkilotning moliyaviy hujjatlarini tahlil qilish orqali rivojlanadi",
+    "C": "Guruh loyihalarini tashkil etish va etikaga rioya qilish orqali rivojlanadi",
+    "D": "Ilmiy maqolalar yozish va vizual tahlil orqali rivojlanadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Shaxsiy tajribaga asoslangan akademik yozuv qanday xususiyatga ega?",
+    "A": "Shaxsiy fikr va mulohazalarni tahlil qilib, tanqidiy fikrlashni namoyish etadi",
+    "B": "Tashkilotning umumiy faoliyatini rejalashtirishni tahlil qilib namoyish etadi",
+    "C": "Guruh loyihalarini tashkil etish va etikaga rioya qilishni tahlil qilib namoyish etadi",
+    "D": "Ilmiy loyihalarni vizual tahlil qilib namoyish etadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Shaxsiy rivojlanishni rejalashtirish qanday amalga oshiriladi?",
+    "A": "Shaxsiy maqsadlarni aniqlab, ularga erishish uchun aniq rejalar tuzish orqali amalga oshiriladi",
+    "B": "Tashkilotning umumiy faoliyatini vizual tahlil qilish orqali amalga oshiriladi",
+    "C": "Jamoada ishlash va loyiha boshqarishni rejalashtirish orqali amalga oshiriladi",
+    "D": "Ilmiy loyihalarni vizual tarzda tahlil qilish orqali amalga oshiriladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Shaxsiy javobgarlik samarali natijaga qanday ta’sir qiladi?",
+    "A": "Shaxsiy mas'uliyatni oshirib, maqsadlarga erishishni tezlashdiradi",
+    "B": "Tashkilotning umumiy faoliyatini vizual tahlil qilishni tezlashdiradi",
+    "C": "Guruh loyihalarini tashkil etish va etikaga rioya qilishni tezlashdiradi",
+    "D": "Ilmiy maqolalar yozish va vizual tahlil qilishni tezlashdiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Mustaqil ta’lim qanday ahamiyatga ega?",
+    "A": "Shaxsiy rivojlanish va mas’uliyatni oshirish uchun muhim",
+    "B": "Uning ahamiyati yo‘q",
+    "C": "O‘qituvchidan olgan bilimlarga tayanib o‘rganish",
+    "D": "Gina yodlashni talab qiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘z-o‘zini boshqarishning yetakchilikdagi o‘rni nima?",
+    "A": "Shaxsiy va professional mas'uliyatni yuqori darajada bajarishga imkon beradi",
+    "B": "Tashkilotning umumiy faoliyatini rejalashtirishga imkon beradi",
+    "C": "Guruh loyihalarini tashkil etish va etikaga rioya qilishga imkon beradi",
+    "D": "Ilmiy maqolalar yozish va tahlil qilishga imkon beradi",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘z-o‘zini rag‘batlantirish qanday ahamiyatga ega?",
+    "A": "Shaxsning motivatsiyaga ega bo‘lib, kundalik vazifalarni faol bajarish qobiliyatini oshiradi",
+    "B": "Tashkilotning umumiy faoliyatini vizual tahlil qilish qobiliyatini oshiradi",
+    "C": "Guruh loyihalarini tashkil etish va etikaga rioya qilish qobiliyatini oshiradi",
+    "D": "Ilmiy maqolalar yozish va tahlil qilish qobiliyatini oshiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘z-o‘zini boshqarish nimani anglatadi?",
+    "A": "Shaxsning o‘z fikr, his-tuyg‘u va harakatlarini tartibga solish qobiliyati",
+    "B": "Atrofdagilarni boshqarish qobiliyati",
+    "C": "Vaqtni rejalashtirish jarayoni",
+    "D": "Barcha vazifalarni boshqalarga topshirish",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘z-o‘zini boshqarish qanday ta’riflanadi?",
+    "A": "Shaxsning xatti-harakatlarini, fikrlarini va his-tuyg‘ularini samarali tartibga solish qobiliyati sifatida aniqlanadi",
+    "B": "Tashkilotning umumiy faoliyatini rejalashtirish va boshqarish jarayoni sifatida aniqlanadi",
+    "C": "Guruh loyihalarini tashkil etish va ularni boshqarish jarayoni sifatida aniqlanadi",
+    "D": "Ilmiy maqolalar yozish va tahlil qilish jarayoni sifatida aniqlanadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Raqamli ma’lumotlarning xavfsizligini ta’minlashda nima muhim?",
+    "A": "Shifrlash va autentifikatsiya",
+    "B": "Ma'lumotlarni vizualizatsiya qilish",
+    "C": "Ma'lumotlarni to‘plash",
+    "D": "Ma'lumotlarni modellashtirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Tanqidiy o‘qishda mantiqiy dalillar qanday shaklda bo‘ladi?",
+    "A": "Sillogizmlar yoki asoslar kabi mantiqiy mulohazalar bilan tasdiqlanadi",
+    "B": "Shaxsiy hikoyalar va anekdotlarga asoslanadi",
+    "C": "Statistik ma’lumotlardan iborat bo‘ladi",
+    "D": "Hech qanday tahlilga asoslanmaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Tanqidiy o‘qishda mantiqiy dalillar qanday ishlatiladi?",
+    "A": "Sillogizmlar yoki asoslar orqali xulosa chiqarish uchun mantiqiy mulohazalar sifatida qo‘llaniladi",
+    "B": "Tashkilotning umumiy faoliyatini rejalashtirish uchun mantiqiy mulohazalar sifatida qo‘llaniladi",
+    "C": "Guruh loyihalarini tashkil etish va etikaga rioya qilish uchun mantiqiy mulohazalar sifatida qo‘llaniladi",
+    "D": "Ilmiy maqolalar yozish va vizual tahlil qilish uchun mantiqiy mulohazalar sifatida qo‘llaniladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Tanqidiy o‘qishda empirik ma’lumotlar nimalarga asoslanadi?",
+    "A": "So‘rovlar, eksperimentlar va kuzatishlarga",
+    "B": "Shaxsiy hikoyalar va anekdotlarga",
+    "C": "Statistik ma’lumotlarga",
+    "D": "Tarixiy voqealarga",
+    "javob": "A"
+  }
+]
