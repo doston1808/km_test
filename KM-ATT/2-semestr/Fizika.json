@@ -1,0 +1,1122 @@
+[
+  {
+    "savol": "Moddalarning magnit xossalari asosan nimaga bog'liq?",
+    "A": "Atom va molekulalarning magnit momentlari hamda ularning tartiblanishiga",
+    "B": "Moddaning geometrik shakliga",
+    "C": "Moddaning elektr zaryadiga",
+    "D": "Moddaning rangiga",
+    "javob": "A"
+  },
+  {
+    "savol": "Diamagnit modda tashqi magnit maydonda qanday magnitlanadi?",
+    "A": "Tashqi maydonga qarama-qarshi yo'nalishda juda zaif magnitlanadi",
+    "B": "Tashqi maydon yo'nalishida kuchli magnitlanadi",
+    "C": "Doimiy magnitga aylanadi",
+    "D": "Magnit maydonni butunlay yo'q qiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Paramagnit modda tashqi magnit maydonda qanday xususiyat ko'rsatadi?",
+    "A": "Tashqi maydon yo'nalishida zaif magnitlanadi",
+    "B": "Har doim maydondan itariladi",
+    "C": "Sovuqda elektr o'tkazadi",
+    "D": "Magnitlanishi tashqi maydonga bog'liq bo'lmaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ferromagnit moddalarga xos asosiy belgi qaysi?",
+    "A": "Tashqi maydonda kuchli magnitlanishi va qoldiq magnitlanishni saqlashi",
+    "B": "Maydon ta'sirida mutlaqo o'zgarmasligi",
+    "C": "Diamagnit xossa ko'rsatishi",
+    "D": "Elektr toki o'tkazmasligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Magnit singdiruvchanlik nimani tavsiflaydi?",
+    "A": "Moddaning magnit maydonni o'zida qanday kuchaytirishi yoki zaiflashtirishini",
+    "B": "Moddaning issiqlik sig'imini",
+    "C": "Moddaning zichligini",
+    "D": "Moddaning optik rangini",
+    "javob": "A"
+  },
+  {
+    "savol": "Vakuumdagi magnit induksiya birligi nima?",
+    "A": "Tesla",
+    "B": "Kulon",
+    "C": "Volt",
+    "D": "Om",
+    "javob": "A"
+  },
+  {
+    "savol": "Magnit maydon induksiyasi vektori qanday belgi bilan belgilanadi?",
+    "A": "B",
+    "B": "E",
+    "C": "R",
+    "D": "Q",
+    "javob": "A"
+  },
+  {
+    "savol": "Magnit induksiya chiziqlarining yo'nalishi qanday aniqlanadi?",
+    "A": "Shimoliy qutbdan janubiy qutb tomonga chiquvchi yo'nalish bilan",
+    "B": "Elektr maydon chiziqlari kabi musbat zaryaddan manfiy zaryadga",
+    "C": "Tok kuchiga qarshi yo'nalishda",
+    "D": "Jism harakati bo'yicha",
+    "javob": "A"
+  },
+  {
+    "savol": "Magnit maydon induksiyasi qanday kattalik?",
+    "A": "Vektor kattalik",
+    "B": "Skalyar kattalik",
+    "C": "O'lchamsiz son",
+    "D": "Statistik ehtimollik",
+    "javob": "A"
+  },
+  {
+    "savol": "Bir tesla qanday maydonga mos keladi?",
+    "A": "1 A tokli 1 m o'tkazgichga 1 N kuch ta'sir qiladigan maydonga",
+    "B": "1 C zaryadga 1 V kuchlanish beradigan maydonga",
+    "C": "1 kg massaga 1 m/s tezlik beradigan maydonga",
+    "D": "1 m uzunlikka 1 J issiqlik beradigan maydonga",
+    "javob": "A"
+  },
+  {
+    "savol": "Magnit maydon kuchlanganligi qaysi belgi bilan ifodalanadi?",
+    "A": "H",
+    "B": "U",
+    "C": "P",
+    "D": "S",
+    "javob": "A"
+  },
+  {
+    "savol": "Magnit qabulchanlik nimani ifodalaydi?",
+    "A": "Moddaning tashqi maydon ta'sirida magnitlanish darajasini",
+    "B": "Yorug'likning sinish ko'rsatkichini",
+    "C": "Tebranish chastotasini",
+    "D": "Elektr zanjir quvvatini",
+    "javob": "A"
+  },
+  {
+    "savol": "Qattiq magnit materiallar qayerda qo'llanadi?",
+    "A": "Doimiy magnitlar tayyorlashda",
+    "B": "Suyuqlikni isitishda",
+    "C": "Optik linzalarda",
+    "D": "Galvanik elementlarda",
+    "javob": "A"
+  },
+  {
+    "savol": "Yumshoq magnit materiallarning afzalligi nima?",
+    "A": "Oson magnitlanib, oson magnitsizlanishi",
+    "B": "Hech qachon magnitlanmasligi",
+    "C": "Yorug'likni to'liq yutishi",
+    "D": "Yuqori qarshilikka ega bo'lishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Magnit oqim qaysi formula bilan ifodalanadi?",
+    "A": "Φ = B S cosα",
+    "B": "Φ = q/t",
+    "C": "Φ = mgh",
+    "D": "Φ = U/I",
+    "javob": "A"
+  },
+  {
+    "savol": "Magnit oqimning SI birligi nima?",
+    "A": "Veber",
+    "B": "Tesla",
+    "C": "Nyuton",
+    "D": "Farad",
+    "javob": "A"
+  },
+  {
+    "savol": "To'g'ri uzun tokli o'tkazgich atrofidagi magnit maydon chiziqlari qanday shaklda bo'ladi?",
+    "A": "O'tkazgichni o'rab oluvchi konsentrik aylanalar shaklida",
+    "B": "O'tkazgichga parallel to'g'ri chiziqlar shaklida",
+    "C": "Radial nurlar shaklida",
+    "D": "Tekislikdagi ellipslar shaklida",
+    "javob": "A"
+  },
+  {
+    "savol": "Tokli o'tkazgich atrofidagi magnit maydon yo'nalishi qanday qoida bilan aniqlanadi?",
+    "A": "Parma qoidasi bilan",
+    "B": "Chap qo'lning kaft qoidasi bilan",
+    "C": "Arximed qonuni bilan",
+    "D": "Snell qonuni bilan",
+    "javob": "A"
+  },
+  {
+    "savol": "To'g'ri o'tkazgichda tok kuchi ikki marta ortsa, bir xil masofadagi B qanday o'zgaradi?",
+    "A": "Ikki marta ortadi",
+    "B": "Ikki marta kamayadi",
+    "C": "O'zgarmaydi",
+    "D": "Nolga teng bo'ladi",
+    "javob": "A"
+  },
+  {
+    "savol": "To'g'ri o'tkazgichdan masofa ikki marta ortsa, magnit induksiya qanday o'zgaradi?",
+    "A": "Ikki marta kamayadi",
+    "B": "Ikki marta ortadi",
+    "C": "To'rt marta ortadi",
+    "D": "O'zgarmaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "N ta o'ramli aylana g'altak markazidagi magnit maydon nimaga proporsional?",
+    "A": "O'ramlar soni va tok kuchiga",
+    "B": "G'altak rangiga",
+    "C": "Simning massasiga",
+    "D": "Havo bosimiga",
+    "javob": "A"
+  },
+  {
+    "savol": "Solenoid ichidagi magnit maydon ideal holatda qanday bo'ladi?",
+    "A": "Deyarli bir jinsli va o'q bo'ylab yo'nalgan",
+    "B": "Butunlay tartibsiz",
+    "C": "Tashqariga radial yo'nalgan",
+    "D": "Nolga teng",
+    "javob": "A"
+  },
+  {
+    "savol": "Solenoiddagi n nimani bildiradi?",
+    "A": "Birlik uzunlikka to'g'ri keladigan o'ramlar sonini",
+    "B": "Elektr zaryadlar sonini",
+    "C": "Yorug'lik sinish ko'rsatkichini",
+    "D": "Tebranish amplitudasini",
+    "javob": "A"
+  },
+  {
+    "savol": "Tokli halqa magnit maydoni qaysi magnitga o'xshaydi?",
+    "A": "Kichik magnit dipolga",
+    "B": "Elektr kondensatorga",
+    "C": "Yorug'lik prizmaga",
+    "D": "Issiqlik dvigateliga",
+    "javob": "A"
+  },
+  {
+    "savol": "Tokli o'tkazgichlarning magnit maydonlari qanday qo'shiladi?",
+    "A": "Vektorlar superpozitsiyasi bo'yicha",
+    "B": "Arifmetik modullar bo'yicha",
+    "C": "Eng katta maydon qoladi",
+    "D": "Maydonlar hech qachon qo'shilmaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Amperning to'la tok qonuni nimani bog'laydi?",
+    "A": "Yopiq kontur bo'yicha H ning aylanishini konturdan o'tuvchi tok bilan",
+    "B": "Yorug'lik tezligini bosim bilan",
+    "C": "Issiqlik miqdorini massa bilan",
+    "D": "Elektr zaryadni rang bilan",
+    "javob": "A"
+  },
+  {
+    "savol": "Magnit maydon hosil bo'lishining asosiy manbai nima?",
+    "A": "Harakatlanuvchi elektr zaryadlar yoki elektr toki",
+    "B": "Tinch turgan massa",
+    "C": "Issiq jismlar",
+    "D": "Yorug'lik manbalari",
+    "javob": "A"
+  },
+  {
+    "savol": "Tok yo'nalishi teskari o'zgarsa, magnit maydon yo'nalishi qanday bo'ladi?",
+    "A": "Teskari yo'nalishga o'zgaradi",
+    "B": "O'zgarmaydi",
+    "C": "Har doim yuqoriga yo'naladi",
+    "D": "Nolga aylanadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ikki parallel o'tkazgichdan toklar bir yo'nalishda oqsa, ular qanday ta'sirlashadi?",
+    "A": "Bir-birini tortadi",
+    "B": "Bir-birini itaradi",
+    "C": "Hech qanday kuch bo'lmaydi",
+    "D": "Qiziydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ikki parallel o'tkazgichdan toklar qarama-qarshi yo'nalishda oqsa, ular qanday ta'sirlashadi?",
+    "A": "Bir-birini itaradi",
+    "B": "Bir-birini tortadi",
+    "C": "Bir-biriga elektr zaryad beradi",
+    "D": "Har doim tinch qoladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Tokli g'altak ichiga temir o'zak kiritilsa, magnit maydon odatda qanday o'zgaradi?",
+    "A": "Kuchayadi",
+    "B": "Zaiflashadi",
+    "C": "Nolga tushadi",
+    "D": "Yo'nalishi tasodifiy bo'ladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Elektromagnitning asosiy qismlari qaysi?",
+    "A": "Tokli g'altak va ferromagnit o'zak",
+    "B": "Shisha prizma",
+    "C": "Rezistor",
+    "D": "Vakuum nay",
+    "javob": "A"
+  },
+  {
+    "savol": "Bio-Savar-Laplas qonuni nimani hisoblashda ishlatiladi?",
+    "A": "Tok elementining hosil qilgan magnit maydonini",
+    "B": "Atom yadrosining massasini",
+    "C": "Yorug'lik interferensiya rangini",
+    "D": "Issiqlik almashinish koeffitsiyentini",
+    "javob": "A"
+  },
+  {
+    "savol": "Elektromagnit induksiya hodisasi nimadan iborat?",
+    "A": "Konturdan o'tuvchi magnit oqim o'zgarganda induksion EYK hosil bo'lishidan",
+    "B": "Jism qiziganda massasining ortishidan",
+    "C": "Yorug'lik vakuumda tarqalmasligidan",
+    "D": "Tinch zaryad atrofida magnit maydon bo'lishidan",
+    "javob": "A"
+  },
+  {
+    "savol": "Faradey qonuni induksion EYKni qanday bog'laydi?",
+    "A": "Magnit oqimning vaqt bo'yicha o'zgarish tezligi bilan",
+    "B": "Kontur rangiga",
+    "C": "O'tkazgich massasiga",
+    "D": "Havo bosimiga",
+    "javob": "A"
+  },
+  {
+    "savol": "Faradey qonunining matematik ifodasi qaysi?",
+    "A": "ɛ = - Φ/t",
+    "B": "ɛ = IR",
+    "C": "ɛ = mv/2",
+    "D": "ɛ = h nu",
+    "javob": "A"
+  },
+  {
+    "savol": "Lens qoidasi nimani bildiradi?",
+    "A": "Induksion tok uni vujudga keltirgan o'zgarishga qarshilik qiladi",
+    "B": "Induksion tok doim tashqi tok bilan bir yo'naladi",
+    "C": "Magnit oqim har doim nol bo'ladi",
+    "D": "Tok faqat vakuumda hosil bo'ladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Faradey qonunidagi minus ishora nimani anglatadi?",
+    "A": "Lens qoidasiga muvofiq qarama-qarshi ta'sir yo'nalishini",
+    "B": "Tok kuchining manfiy bo'lishini",
+    "C": "Magnit oqimning doim manfiyligini",
+    "D": "EYKning o'lchamsizligini",
+    "javob": "A"
+  },
+  {
+    "savol": "Magnit oqim qanday hollarda o'zgaradi?",
+    "A": "B, S yoki kontur bilan maydon orasidagi burchak o'zgarganda",
+    "B": "jism rangi o'zgarganda",
+    "C": "Bosim o'zgarmaganda",
+    "D": "Kontur massasi o'zgarmaganda",
+    "javob": "A"
+  },
+  {
+    "savol": "O'tkazgich magnit maydonda harakatlanganda hosil bo'ladigan EYK nima deyiladi?",
+    "A": "Harakat induksion EYUK",
+    "B": "Termoelektr EYUK",
+    "C": "Kimyoviy EYUK",
+    "D": "Yadro EYUK",
+    "javob": "A"
+  },
+  {
+    "savol": "Induksion tokning kattaligi nimalarga bog'liq?",
+    "A": "Induksion EYK va zanjir qarshiligiga",
+    "B": "O'tkazgich rangiga",
+    "C": "Havoning hidiga",
+    "D": "Yorug'lik rangiga",
+    "javob": "A"
+  },
+  {
+    "savol": "O'zinduksiya hodisasi nima?",
+    "A": "Zanjirdagi tok o'zgarganda shu zanjirda induksion EYK hosil bo'lishi",
+    "B": "Tashqi yorug'likdan elektron chiqishi",
+    "C": "Moddaning magnitlanmasligi",
+    "D": "Yadro parchalanishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Induktivlikning SI birligi nima?",
+    "A": "Genri",
+    "B": "Farad",
+    "C": "Tesla",
+    "D": "Kulon",
+    "javob": "A"
+  },
+  {
+    "savol": "O'zinduksiya EYK ifodasi qaysi?",
+    "A": "ɛ = -L I/t",
+    "B": "ɛ = qU",
+    "C": "ɛ = BIl",
+    "D": "ɛ = h/t",
+    "javob": "A"
+  },
+  {
+    "savol": "O'zaro induksiya hodisasi nimani anglatadi?",
+    "A": "Bir konturdagi tok o'zgarishi ikkinchi konturda EYK hosil qilishi",
+    "B": "Bir jismning og'irligi kamayishi",
+    "C": "Yorug'likning qutblanishi",
+    "D": "Atom yadrosining bo'linishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Transformatorning ishlashi qaysi hodisaga asoslangan?",
+    "A": "Elektromagnit induksiya va o'zaro induksiyaga",
+    "B": "Fotoeffektga",
+    "C": "Difraksiyaga",
+    "D": "Termodiffuziyaga",
+    "javob": "A"
+  },
+  {
+    "savol": "Ideal transformatorda kuchlanishlar nisbati nimaga teng?",
+    "A": "O'ramlar soni nisbatiga",
+    "B": "Simlarning ranglari nisbatiga",
+    "C": "O'zak massasining kvadratiga",
+    "D": "Havo bosimi nisbatiga",
+    "javob": "A"
+  },
+  {
+    "savol": "Uyurma toklar qanday paydo bo'ladi?",
+    "A": "O'zgaruvchan magnit oqim ta'sirida yaxlit o'tkazgichlarda yopiq toklar hosil bo'lishidan",
+    "B": "Vakuumda zaryadlar yo'qolishidan",
+    "C": "Suyuqlik bug'lanishidan",
+    "D": "Yorug'likning qaytishidan",
+    "javob": "A"
+  },
+  {
+    "savol": "Uyurma toklarni kamaytirish uchun transformator o'zagi qanday tayyorlanadi?",
+    "A": "Yupqa izolyatsiyalangan plastinalardan",
+    "B": "Bitta yaxlit qalin misdan",
+    "C": "Shishadan",
+    "D": "Plastmassadan",
+    "javob": "A"
+  },
+  {
+    "savol": "Elektr generatorining asosiy ishlash prinsipi nima?",
+    "A": "Mexanik energiyani elektromagnit induksiya orqali elektr energiyaga aylantirish",
+    "B": "Elektr energiyani faqat issiqlikka aylantirish",
+    "C": "Yorug'likni yutish",
+    "D": "Yadro sintezini amalga oshirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Induksion EYKni oshirish usullaridan biri qaysi?",
+    "A": "Magnit oqimning o'zgarish tezligini oshirish",
+    "B": "Zanjirni butunlay uzish",
+    "C": "O'tkazgichni sovitmaslik",
+    "D": "Magnit maydonni doimiy nol qilish",
+    "javob": "A"
+  },
+  {
+    "savol": "Magnit oqim o'zgarmasa, yopiq konturda induksion EYK qanday bo'ladi?",
+    "A": "Nolga teng bo'ladi",
+    "B": "Cheksiz katta bo'ladi",
+    "C": "Doim manfiy bo'ladi",
+    "D": "chastotaga bog'liq bo'ladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Magnit maydonda harakatlanuvchi zaryadga ta'sir etuvchi kuch qanday ataladi?",
+    "A": "Lorens kuchi",
+    "B": "Arximed kuchi",
+    "C": "Kulon kuchi",
+    "D": "Elastiklik kuchi",
+    "javob": "A"
+  },
+  {
+    "savol": "Zaryadli zarra v tezlik bilan B maydonga perpendikulyar kirsa, Lorens kuchi moduli qaysi formula bilan topiladi?",
+    "A": "F = q v B",
+    "B": "F = qE/r",
+    "C": "F = mg",
+    "D": "F = IR",
+    "javob": "A"
+  },
+  {
+    "savol": "Umumiy holda magnit Lorens kuchi moduli qaysi formula bilan ifodalanadi?",
+    "A": "F = q v B sinα",
+    "B": "F = q v/B",
+    "C": "F = mgh",
+    "D": "F = h nu",
+    "javob": "A"
+  },
+  {
+    "savol": "Magnit maydon zaryadli zarraning tezligiga perpendikulyar bo'lsa, kuch qanday ish bajaradi?",
+    "A": "Ish bajarmaydi",
+    "B": "Maksimal musbat ish bajaradi",
+    "C": "Maksimal manfiy ish bajaradi",
+    "D": "Zarra energiyasini doim oshiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Magnit maydon faqat zaryadli zarraning qaysi kattaligini o'zgartiradi?",
+    "A": "Tezlik yo'nalishini",
+    "B": "Tezlik modulini har doim oshiradi",
+    "C": "Massasini",
+    "D": "Zaryad miqdorini",
+    "javob": "A"
+  },
+  {
+    "savol": "Zarra B maydonga perpendikulyar kirsa, trayektoriyasi qanday bo'ladi?",
+    "A": "Aylana",
+    "B": "To'g'ri chiziq",
+    "C": "Parabola",
+    "D": "Giperbola",
+    "javob": "A"
+  },
+  {
+    "savol": "Zarra magnit maydonga burchak ostida kirsa, harakati qanday bo'lishi mumkin?",
+    "A": "Vintsimon, ya'ni spiral trayektoriya bo'ylab",
+    "B": "To'g'ri chiziq bo'ylab",
+    "C": "Tinch holatda",
+    "D": "Tasodifiy sakrashlar bilan",
+    "javob": "A"
+  },
+  {
+    "savol": "Lorens kuchining yo'nalishi nimaga bog'liq?",
+    "A": "Zaryad ishorasi, tezlik va magnit induksiya yo'nalishiga",
+    "B": "Zarraning rangiga",
+    "C": "Haroratga",
+    "D": "Yadro massasiga",
+    "javob": "A"
+  },
+  {
+    "savol": "Musbat zaryad uchun Lorens kuchi yo'nalishi qanday qoida bilan aniqlanadi?",
+    "A": "Chap qo'l qoidasi bilan",
+    "B": "O'ng ko'z bilan qarash orqali",
+    "C": "Snell qonuni bilan",
+    "D": "Parma qoidasi orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Magnit maydon zaryadli zarra tezligiga parallel bo'lsa, Lorens kuchi qanday bo'ladi?",
+    "A": "Nolga teng",
+    "B": "Eng katta qiymatga teng",
+    "C": "Har doim mg ga teng",
+    "D": "Cheksiz katta",
+    "javob": "A"
+  },
+  {
+    "savol": "Magnit maydon elektron nuriga qanday ta'sir qilishi mumkin?",
+    "A": "Nur trayektoriyasini egrilaydi",
+    "B": "Elektronni zaryadsizlantiradi",
+    "C": "Elektronni proton qiladi",
+    "D": "Nur tezligini darhol nol qiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Magnit maydonda tokli o'tkazgichga ta'sir etuvchi kuch qanday ataladi?",
+    "A": "Amper kuchi",
+    "B": "Og'irlik kuchi",
+    "C": "Ishqalanish kuchi",
+    "D": "Arximed kuchi",
+    "javob": "A"
+  },
+  {
+    "savol": "Amper kuchining moduli qaysi formula bilan ifodalanadi?",
+    "A": "F = B I l sinα",
+    "B": "F = qE",
+    "C": "F = mv/t",
+    "D": "F = kx",
+    "javob": "A"
+  },
+  {
+    "savol": "Tokli o'tkazgich B maydonga perpendikulyar joylashsa, Amper kuchi qanday bo'ladi?",
+    "A": "F = B I l",
+    "B": "F = 0",
+    "C": "F = B/I",
+    "D": "F = mgh",
+    "javob": "A"
+  },
+  {
+    "savol": "Tokli o'tkazgich B maydonga parallel joylashsa, Amper kuchi qanday bo'ladi?",
+    "A": "Nolga teng",
+    "B": "Eng katta",
+    "C": "Doim manfiy",
+    "D": "Cheksiz",
+    "javob": "A"
+  },
+  {
+    "savol": "Amper kuchining yo'nalishi qanday aniqlanadi?",
+    "A": "Chap qo'l qoidasi bilan",
+    "B": "O'ng qo'l parmasi qoidasi bilan",
+    "C": "Malyus qonuni bilan",
+    "D": "Nyutonning birinchi qonuni bilan",
+    "javob": "A"
+  },
+  {
+    "savol": "Chap qo'l qoidasi qo'llanganda kaftga qaysi yo'nalish kirishi kerak?",
+    "A": "Magnit induksiya chiziqlari",
+    "B": "O'tkazgich uzunligi",
+    "C": "Elektr qarshilik",
+    "D": "Yorug'lik chastotasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Amper kuchi elektr motorida qanday vazifani bajaradi?",
+    "A": "Rotorni aylantiruvchi moment hosil qiladi",
+    "B": "Batareyani sovitadi",
+    "C": "Yorug'likni qutblaydi",
+    "D": "Atom yadrosini bo'ladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Tokli ramkaga magnit maydonda ta'sir etuvchi aylantiruvchi moment nimaga bog'liq?",
+    "A": "Tok, magnit induksiya, ramka yuzi va o'ramlar soniga",
+    "B": "Ramka rangiga",
+    "C": "Havo bosimiga",
+    "D": "Ramka massasiga",
+    "javob": "A"
+  },
+  {
+    "savol": "Tokli o'tkazgichga ta'sir etuvchi kuchni oshirish usuli qaysi?",
+    "A": "Tok kuchini yoki magnit induksiyani oshirish",
+    "B": "O'tkazgichni maydonga parallel qilish",
+    "C": "Tokni nol qilish",
+    "D": "Magnit maydonni yo'qotish",
+    "javob": "A"
+  },
+  {
+    "savol": "Qarama-qarshi yo'nalishli parallel toklar orasidagi kuch qanday bo'ladi?",
+    "A": "Itarish kuchi",
+    "B": "Tortishish kuchi",
+    "C": "Aylantiruvchi moment",
+    "D": "Elastiklik kuchi",
+    "javob": "A"
+  },
+  {
+    "savol": "Amper kuchi qaysi zarraviy kuchlarning yig'indisi sifatida qaraladi?",
+    "A": "O'tkazgichdagi harakatlanuvchi zaryadlarga ta'sir etuvchi Lorens kuchlari yig'indisi",
+    "B": "Protonlar orasidagi yadro kuchi",
+    "C": "Molekulalar issiqlik harakati",
+    "D": "Foton bosimi",
+    "javob": "A"
+  },
+  {
+    "savol": "Lorens kuchi qaysi zaryadlarga ta'sir qiladi?",
+    "A": "Harakatlanuvchi zaryadlarga",
+    "B": "Tinch turgan neytronlarga",
+    "C": "Zaryadsiz molekulalarga",
+    "D": "Massasi yo'q jismlarga",
+    "javob": "A"
+  },
+  {
+    "savol": "Amper kuchi o'tkazgich uzunligiga qanday bog'liq?",
+    "A": "Uzunlik ortsa, kuch proporsional ortadi",
+    "B": "Uzunlik ortsa, kuch kamayadi",
+    "C": "Uzunlikka bog'liq emas",
+    "D": "Uzunlik ortsa, kuch nol bo'ladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Magnit maydonda tok yo'nalishini teskari o'zgartirsak, Amper kuchi yo'nalishi qanday bo'ladi?",
+    "A": "Teskari tomonga o'zgaradi",
+    "B": "O'zgarmaydi",
+    "C": "Har doim yuqoriga qaraydi",
+    "D": "Yo'qolmaydi va yo'nalishsiz bo'ladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Magnit induksiya yo'nalishini teskari o'zgartirsak, Amper kuchi qanday o'zgaradi?",
+    "A": "Yo'nalishi teskari bo'ladi",
+    "B": "Moduli nolga tushadi",
+    "C": "Tok kuchi o'zgaradi",
+    "D": "O'tkazgich zaryadi yo'qoladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Magnit maydondagi tokli ramka qaysi qurilmalarning asosini tashkil etadi?",
+    "A": "Elektr dvigatel va galvanometrning",
+    "B": "Termometr va barometrning",
+    "C": "Mikroskop va prizmaning",
+    "D": "Akustik rezonatorning",
+    "javob": "A"
+  },
+  {
+    "savol": "Lorens kuchi va Amper kuchi orasidagi asosiy farq qaysi?",
+    "A": "Lorens kuchi alohida zaryadga, Amper kuchi tokli o'tkazgichga ta'sir qiladi",
+    "B": "Lorens kuchi faqat suyuqlikka ta'sir qiladi",
+    "C": "Amper kuchi faqat yorug'likka ta'sir qiladi",
+    "D": "Ular mazmunan mutlaqo bog'liq emas",
+    "javob": "A"
+  },
+  {
+    "savol": "Elektromagnit tebranishlar qaysi kattaliklarning davriy o'zgarishidan iborat?",
+    "A": "Elektr va magnit maydon energiyalarining almashinib turishidan",
+    "B": "Jismning mexanik siljishidan",
+    "C": "Gaz bosimi tebranishidan",
+    "D": "Haroratning ortishidan",
+    "javob": "A"
+  },
+  {
+    "savol": "Ideal LC kontur nimalardan tashkil topadi?",
+    "A": "Kondensator va induktiv g'altakdan",
+    "B": "Rezistor va kalitdan",
+    "C": "Prizma va linzadan",
+    "D": "Batareya va termometrdan",
+    "javob": "A"
+  },
+  {
+    "savol": "LC konturda kondensator zaryadi eng katta bo'lganda energiya qayerda to'plangan bo'ladi?",
+    "A": "Elektr maydonda",
+    "B": "Magnit maydonda to'liq",
+    "C": "Issiqlikda",
+    "D": "Mexanik ishda",
+    "javob": "A"
+  },
+  {
+    "savol": "LC konturda tok eng katta bo'lganda energiya qayerda to'plangan bo'ladi?",
+    "A": "G'altakning magnit maydonida",
+    "B": "Kondensator plastinalaridagi elektr maydonda to'liq",
+    "C": "Gravitatsion maydonda",
+    "D": "Kimyoviy energiyada",
+    "javob": "A"
+  },
+  {
+    "savol": "Tomson formulasi nimani ifodalaydi?",
+    "A": "LC kontur tebranish davrini",
+    "B": "Yorug'lik sinish burchagini",
+    "C": "Atom yadrosi massasini",
+    "D": "Gaz bosimini",
+    "javob": "A"
+  },
+  {
+    "savol": "Real tebranish konturida qarshilik bo'lsa, tebranishlar qanday bo'ladi?",
+    "A": "So'nuvchi tebranishlar",
+    "B": "Abadiy so'nmas tebranishlar",
+    "C": "mexanik tebranishlar",
+    "D": "Chastotasiz jarayon",
+    "javob": "A"
+  },
+  {
+    "savol": "Majburiy elektromagnit tebranishlar qachon yuzaga keladi?",
+    "A": "Tashqi davriy EYK ta'sirida",
+    "B": "Kontur butunlay uzilganda",
+    "C": "Zaryadlar harakatsiz bo'lganda",
+    "D": "Vakuum bo'lmaganda",
+    "javob": "A"
+  },
+  {
+    "savol": "Rezonans hodisasi qachon yuz beradi?",
+    "A": "Tashqi chastota kontur xususiy chastotasiga tenglashganda",
+    "B": "Qarshilik cheksiz bo'lganda",
+    "C": "Kondensator sig'imi nol bo'lganda",
+    "D": "Induktivlik yo'q bo'lganda",
+    "javob": "A"
+  },
+  {
+    "savol": "Rezonansda tebranish amplitudasi qanday o'zgaradi?",
+    "A": "Keskin ortadi",
+    "B": "Butunlay yo'qoladi",
+    "C": "Manfiy bo'ladi",
+    "D": "Chastotaga bog'liq bo'lmaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Tebranish konturidagi kondensator sig'imi oshirilsa, xususiy chastota qanday o'zgaradi?",
+    "A": "Kamayadi",
+    "B": "Ortadi",
+    "C": "O'zgarmaydi",
+    "D": "Cheksiz bo'ladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Induktivlik oshirilsa, LC kontur davri qanday o'zgaradi?",
+    "A": "Ortadi",
+    "B": "Kamayadi",
+    "C": "Nolga tenglashadi",
+    "D": "O'zgarmaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Elektromagnit tebranishlarda faza nimani bildiradi?",
+    "A": "Tebranish holatini davr ichida aniqlovchi kattalikni",
+    "B": "Zanjir uzunligini",
+    "C": "Maydon yo'nalishini",
+    "D": "Haroratni",
+    "javob": "A"
+  },
+  {
+    "savol": "Aktiv qarshilik tebranish konturida nimaga olib keladi?",
+    "A": "Energiya issiqlikka sarflanib, tebranishlar so'nishiga",
+    "B": "Chastota cheksiz ortishiga",
+    "C": "Induktivlik yo'qolishiga",
+    "D": "Kondensator zaryadsiz bo'lmasligiga",
+    "javob": "A"
+  },
+  {
+    "savol": "Elektromagnit to'lqin nima?",
+    "A": "O'zaro bog'langan o'zgaruvchi elektr va magnit maydonlarning fazoda tarqalishi",
+    "B": "Havo zarrachalarining bo'ylama tebranishi",
+    "C": "Suv yuzasidagi to'lqin",
+    "D": "Moddaning issiqlik kengayishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Elektromagnit to'lqin vakuumda qanday tezlik bilan tarqaladi?",
+    "A": "Yorug'lik tezligi c bilan",
+    "B": "Tovush tezligi bilan",
+    "C": "Yerning aylanish tezligi bilan",
+    "D": "Issiqlik diffuziyasi tezligi bilan",
+    "javob": "A"
+  },
+  {
+    "savol": "Elektromagnit to'lqinda E va B vektorlari bir-biriga qanday joylashgan?",
+    "A": "O'zaro perpendikulyar",
+    "B": "Har doim parallel",
+    "C": "Har doim qarama-qarshi yo'nalgan bir chiziqda",
+    "D": "Tasodifiy burchakda",
+    "javob": "A"
+  },
+  {
+    "savol": "Elektromagnit to'lqinda E va B vektorlari tarqalish yo'nalishiga qanday joylashadi?",
+    "A": "Ikkalasi ham perpendikulyar",
+    "B": "Ikkalasi ham parallel",
+    "C": "E parallel",
+    "D": "B parallel",
+    "javob": "A"
+  },
+  {
+    "savol": "Elektromagnit to'lqin qanday to'lqin turiga kiradi?",
+    "A": "Ko'ndalang to'lqin",
+    "B": "Bo'ylama mexanik to'lqin",
+    "C": "Sirt to'lqini",
+    "D": "Zarba to'lqini",
+    "javob": "A"
+  },
+  {
+    "savol": "Elektromagnit to'lqinlarning mavjudligini tajribada kim tasdiqlagan?",
+    "A": "Gerts",
+    "B": "Bor",
+    "C": "Rezerford",
+    "D": "Fermi",
+    "javob": "A"
+  },
+  {
+    "savol": "Elektromagnit spektrga qaysilar kiradi?",
+    "A": "Radio, mikroto'lqin, infraqizil, ko'rinadigan, ultrabinafsha, rentgen va gamma nurlar",
+    "B": "Tovush to'lqinlari",
+    "C": "Suv to'lqinlari",
+    "D": "Seysmik to'lqinlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Chastota ortsa, elektromagnit to'lqinning foton energiyasi qanday o'zgaradi?",
+    "A": "Ortadi",
+    "B": "Kamayadi",
+    "C": "O'zgarmaydi",
+    "D": "Nol bo'ladi",
+    "javob": "A"
+  },
+  {
+    "savol": "To'lqin uzunligi ortsa, bir xil muhitda chastota qanday o'zgaradi?",
+    "A": "Kamayadi",
+    "B": "Ortadi",
+    "C": "O'zgarmaydi",
+    "D": "Cheksiz ortadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Elektromagnit to'lqinlarni hosil qilish uchun nima kerak?",
+    "A": "Tezlanuvchan elektr zaryadlar",
+    "B": "Tinch neytronlar",
+    "C": "Sovuq jismlar",
+    "D": "Doimiy magnit",
+    "javob": "A"
+  },
+  {
+    "savol": "Antenna elektromagnit to'lqinlarni qanday hosil qiladi?",
+    "A": "O'zgaruvchan tok va tezlanuvchan zaryadlar orqali",
+    "B": "Mexanik bosim orqali",
+    "C": "Kimyoviy reaksiya bilan",
+    "D": "Yadro parchalanishi bilan",
+    "javob": "A"
+  },
+  {
+    "savol": "Elektromagnit to'lqinlar vakuumda tarqalishi uchun muhit kerakmi?",
+    "A": "Kerak emas",
+    "B": "Albatta havo kerak",
+    "C": "Suv kerak",
+    "D": "Metall kerak",
+    "javob": "A"
+  },
+  {
+    "savol": "Elektromagnit to'lqinlar qaysi hodisalarni ko'rsatishi mumkin?",
+    "A": "Qaytish, sinish, interferensiya, difraksiya va qutblanish",
+    "B": "Bug'lanish",
+    "C": "Erish",
+    "D": "Gravitatsion qulash",
+    "javob": "A"
+  },
+  {
+    "savol": "Yorug'likning elektromagnit to'lqin tabiati nimani anglatadi?",
+    "A": "Yorug'lik elektr va magnit maydon tebranishlarining tarqalishidir",
+    "B": "Yorug'lik faqat modda oqimidir",
+    "C": "Yorug'lik faqat tovushdir",
+    "D": "Yorug'lik faqat issiqlik o'tkazuvchanlikdir",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko'rinadigan yorug'lik elektromagnit spektrning qaysi qismi?",
+    "A": "Inson ko'zi sezadigan tor diapazon",
+    "B": "Radio to'lqinlar sohasi",
+    "C": "Gamma nurlar sohasi",
+    "D": "Mexanik to'lqinlar sohasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Yorug'lik vakuumda qanday tezlik bilan tarqaladi?",
+    "A": "Taxminan 300 000 km/s",
+    "B": "Taxminan 313 000 m/s",
+    "C": "Taxminan 9,8 m/s",
+    "D": "Taxminan 1 m/s",
+    "javob": "A"
+  },
+  {
+    "savol": "Muhitning sindirish ko'rsatkichi n qanday aniqlanadi?",
+    "A": "n = c/v",
+    "B": "n = v/c",
+    "C": "n = m/v",
+    "D": "n = q/t",
+    "javob": "A"
+  },
+  {
+    "savol": "Muhitda yorug'lik tezligi vakuumdagidan qanday bo'ladi?",
+    "A": "Kichik bo'ladi",
+    "B": "Katta bo'ladi",
+    "C": "Har doim teng bo'ladi",
+    "D": "Cheksiz bo'ladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Yorug'likning ko'ndalang to'lqin ekanligini qaysi hodisa isbotlaydi?",
+    "A": "Qutblanish",
+    "B": "Diffuziya",
+    "C": "Issiqlik kengayishi",
+    "D": "Elektroliz",
+    "javob": "A"
+  },
+  {
+    "savol": "Yorug'lik qaytish qonunida qaysi burchaklar teng?",
+    "A": "Tushish burchagi va qaytish burchagi",
+    "B": "Tushish burchagi va sinish ko'rsatkichi",
+    "C": "Faza va amplituda",
+    "D": "Chastota va davr",
+    "javob": "A"
+  },
+  {
+    "savol": "Yorug'lik sinishida chastota qanday o'zgaradi?",
+    "A": "O'zgarmaydi",
+    "B": "Ikki marta ortadi",
+    "C": "Nolga tushadi",
+    "D": "Tasodifiy o'zgaradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Yorug'lik sinishida to'lqin uzunligi qanday o'zgarishi mumkin?",
+    "A": "Muhitdagi tezlik o'zgargani uchun o'zgaradi",
+    "B": "Hech qachon o'zgarmaydi",
+    "C": "massaga bog'liq bo'ladi",
+    "D": "elektr zaryadga bog'liq bo'ladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Dispersiya hodisasi nima?",
+    "A": "Sindirish ko'rsatkichining yorug'lik chastotasiga bog'liqligi",
+    "B": "Zaryadning vaqt bo'yicha o'zgarishi",
+    "C": "Magnit maydonning yo'qolishi",
+    "D": "Atom yadrosining bo'linishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Prizma oq yorug'likni ranglarga ajratishining sababi nima?",
+    "A": "Turli ranglar turlicha sinadi",
+    "B": "Barcha ranglar bir xil yutiladi",
+    "C": "Prizma yorug'lik hosil qiladi",
+    "D": "Yorug'lik tovushga aylanadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Yorug'lik intensivligi to'lqin nazariyasida nimaga bog'liq?",
+    "A": "Elektr maydon amplitudasining kvadratiga",
+    "B": "Chastotaning ishorasiga",
+    "C": "Zaryad massasiga",
+    "D": "Linza shakliga",
+    "javob": "A"
+  },
+  {
+    "savol": "Yorug'likning to'lqin fronti nima?",
+    "A": "Bir xil fazada tebranayotgan nuqtalar sirtidir",
+    "B": "Nur uzunligi",
+    "C": "Linza markazi",
+    "D": "Manba harorati",
+    "javob": "A"
+  },
+  {
+    "savol": "Gyuygens prinsipi nimani ta'kidlaydi?",
+    "A": "To'lqin frontining har bir nuqtasi ikkilamchi to'lqinlar manbai bo'ladi",
+    "B": "Yorug'lik faqat to'g'ri chiziqda yutiladi",
+    "C": "Magnit maydon zaryadsiz bo'ladi",
+    "D": "Atomlar bo'linmaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Yorug'lik nuri to'lqin frontiga qanday yo'nalgan?",
+    "A": "Perpendikulyar",
+    "B": "Parallel",
+    "C": "Har doim 45 gradusda",
+    "D": "Tasodifiy",
+    "javob": "A"
+  },
+  {
+    "savol": "Vakuumda barcha rangdagi yorug'lik tezligi qanday?",
+    "A": "Bir xil",
+    "B": "Qizil nur eng tez, binafsha nol",
+    "C": "Har doim turlicha",
+    "D": "manbaga bog'liq",
+    "javob": "A"
+  },
+  {
+    "savol": "Yorug'likning elektromagnit nazariyasi kim nomi bilan bog'liq?",
+    "A": "Maksvell",
+    "B": "Mendeleyev",
+    "C": "Darvin",
+    "D": "Pifagor",
+    "javob": "A"
+  },
+  {
+    "savol": "Yorug'lik bosimi mavjudligi nimani ko'rsatadi?",
+    "A": "Yorug'lik impuls va energiya tashishini",
+    "B": "Yorug'lik massali suyuqlik ekanini",
+    "C": "Yorug'lik faqat tinch turganini",
+    "D": "Yorug'lik issiqlikni tashimasligini",
+    "javob": "A"
+  },
+  {
+    "savol": "Yorug'likning elektromagnit to'lqin modeli qaysi hodisalarni yaxshi tushuntiradi?",
+    "A": "Interferensiya, difraksiya va qutblanishni",
+    "B": "Gravitatsiyani",
+    "C": "Kimyoviy valentlikni",
+    "D": "Yadro sintezini",
+    "javob": "A"
+  },
+  {
+    "savol": "Yorug'lik interferensiyasi nima?",
+    "A": "Kogerent to'lqinlar qo'shilganda intensivlikning fazoda qayta taqsimlanishi",
+    "B": "Yorug'likning issiqlikka aylanishi",
+    "C": "Yorug'likning modda ichida to'xtashi",
+    "D": "Elektr zaryadlarning neytrallashishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Kogerent manbalar qanday manbalar?",
+    "A": "Chastotasi bir xil va fazalar farqi doimiy bo'lgan manbalar",
+    "B": "Yorqinligi katta manbalar",
+    "C": "Harorati past manbalar",
+    "D": "Rangi mutlaqo tasodifiy manbalar",
+    "javob": "A"
+  },
+  {
+    "savol": "Interferensiya minimumida fazalar farqi qanday bo'lishi mumkin?",
+    "A": "(2k+1)π",
+    "B": "2k π",
+    "C": "0",
+    "D": "π /4 har doim",
+    "javob": "A"
+  },
+  {
+    "savol": "Yung tajribasi nimani ko'rsatadi?",
+    "A": "Yorug'lik interferensiyasini",
+    "B": "Fotoeffektning qizil chegarasini",
+    "C": "Yadro bo'linishini",
+    "D": "Magnit domenlarni",
+    "javob": "A"
+  },
+  {
+    "savol": "Yung tajribasida tirqishlar orasidagi masofa kamaytirilsa, chiziqlar oralig'i qanday o'zgaradi?",
+    "A": "Ortadi",
+    "B": "Kamayadi",
+    "C": "O'zgarmaydi",
+    "D": "Nol bo'ladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Yung tajribasida ekran uzoqligi L ortsa, chiziqlar oralig'i qanday o'zgaradi?",
+    "A": "Ortadi",
+    "B": "Kamayadi",
+    "C": "O'zgarmaydi",
+    "D": "Manfiy bo'ladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Interferensiya kuzatilishi uchun yorug'lik manbalari qanday bo'lishi kerak?",
+    "A": "Kogerent bo'lishi kerak",
+    "B": "Juda issiq bo'lishi kerak",
+    "C": "Katta massali bo'lishi kerak",
+    "D": "Qora rangli bo'lishi kerak",
+    "javob": "A"
+  },
+  {
+    "savol": "Yupqa parda ranglarining paydo bo'lish sababi nima?",
+    "A": "Pardadan qaytgan nurlarning interferensiyasi",
+    "B": "Pigment mavjudligi",
+    "C": "Yorug'likning magnitlanishi",
+    "D": "Havo bosimining ortishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Interferensiya yorug'likning qaysi tabiatini isbotlaydi?",
+    "A": "To'lqin tabiatini",
+    "B": "Korpuskulyar tabiatini",
+    "C": "Mexanik tabiatini",
+    "D": "Yadro tabiatini",
+    "javob": "A"
+  },
+  {
+    "savol": "Yorug'lik difraksiyasi nima?",
+    "A": "Yorug'likning to'siq yoki tirqish chetida egilishi va tarqalishi",
+    "B": "Yorug'likning faqat yutilishi",
+    "C": "Yorug'likning elektr tokiga aylanishi",
+    "D": "Yadro zarralarining chiqishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Difraksiya qachon aniqroq kuzatiladi?",
+    "A": "To'siq yoki tirqish o'lchami to'lqin uzunligiga yaqin bo'lganda",
+    "B": "Tirqish cheksiz katta bo'lganda",
+    "C": "Yorug'lik faqat zarra bo'lganda",
+    "D": "Molekulalar harakatsiz bo'lganda",
+    "javob": "A"
+  },
+  {
+    "savol": "Difraksion panjara uchun asosiy maksimum sharti qaysi?",
+    "A": "d sinα = m λ",
+    "B": "d cosα = m λ",
+    "C": "d sinα = m/λ",
+    "D": "d = m λ",
+    "javob": "A"
+  },
+  {
+    "savol": "Difraksion panjarada d nimani bildiradi?",
+    "A": "Panjara doimiysi, ya'ni qo'shni tirqishlar oralig'i",
+    "B": "Ekrangacha masofa",
+    "C": "Yorug'lik tezligi",
+    "D": "Tirqish yoritilgan vaqt",
+    "javob": "A"
+  },
+  {
+    "savol": "Difraksiya yorug'likning qaysi xususiyatini tasdiqlaydi?",
+    "A": "To'lqin xususiyatini",
+    "B": "Zaryad xususiyatini",
+    "C": "Massa xususiyatini",
+    "D": "Yadro xususiyatini",
+    "javob": "A"
+  },
+  {
+    "savol": "Frenel difraksiyasi qaysi holatga tegishli?",
+    "A": "Manba yoki ekran cheksiz uzoqda bo'lmagan yaqin soha difraksiyasiga",
+    "B": "Uzoq soha difraksiyasiga",
+    "C": "Atom yadrosiga",
+    "D": "Radioaktivlikka",
+    "javob": "A"
+  }
+]
