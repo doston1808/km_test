@@ -1,0 +1,1034 @@
+[
+  {
+    "savol": "IX asr boshida barcha ma'lum moddalar kelib chiqishiga qarab .... va organik moddalarga bo'linadi. Nuqtalar o'rnida qoldirib keltilgan so'zni toping.",
+    "A": "anorganik",
+    "B": "noorganik",
+    "C": "mineral",
+    "D": "kompleks",
+    "javob": ""
+  },
+  {
+    "savol": "Quyidagi reaksiyalardan qaysi birini A.Butlerov amalga oshirgan",
+    "A": "Chumoli aldegiddan shakarsimon moddaning olinishi",
+    "B": "Ammoniy sianatdan mochavinani olinishi",
+    "C": "Benzoldan anilinning olinishi",
+    "D": "Disiandan oksalat kislotaning olinishi",
+    "javob": ""
+  },
+  {
+    "savol": "Quyidagi reaksiyalardan qaysi birini F.Vyoler amalga oshirgan",
+    "A": "Ammoniy sianatdan mochavinani olinishi",
+    "B": "Disiandan oksalat kislotaning olinishi",
+    "C": "Benzoldan anilinning olinishi",
+    "D": "Chumoli aldegiddan shakarsimon moddaning olinishi",
+    "javob": ""
+  },
+  {
+    "savol": "Quyidagi reaksiyalardan qaysi birini N.Zinin amalga oshirgan",
+    "A": "Benzoldan anilinning olinishi",
+    "B": "Ammoniy sianatdan mochavinani olinishi",
+    "C": "Disiandan oksalat kislotaning olinishi",
+    "D": "Chumoli aldegiddan shakarsimon moddaning olinishi",
+    "javob": ""
+  },
+  {
+    "savol": "Yog'ni birinchi bo'lib olgan olim kim?",
+    "A": "M.Bertlo",
+    "B": "E.Franklend",
+    "C": "A.Butlerov",
+    "D": "F.Vyoler",
+    "javob": ""
+  },
+  {
+    "savol": "Benzoldan anilinni olgan olimni aniqlang?",
+    "A": "N.Zinin",
+    "B": "M.Bertlo",
+    "C": "F.Vyoler",
+    "D": "A.Butlerov",
+    "javob": ""
+  },
+  {
+    "savol": "Sirka kislotani birinchi bo'lib olgan olimni aniqlang?",
+    "A": "A.Kolbe",
+    "B": "M.Bertlo",
+    "C": "F.Vyoler",
+    "D": "A.Butlerov",
+    "javob": ""
+  },
+  {
+    "savol": "Propion kislotasini birinchi bo'lib olgan olimni aniqlang?",
+    "A": "F.Vyoler",
+    "B": "A.Kolbe",
+    "C": "M.Bertlo",
+    "D": "A.Butlerov",
+    "javob": ""
+  },
+  {
+    "savol": "Birinchi bo'lib shakarsimon moddani ajratib olgan olimni aniqlang?",
+    "A": "A.Butlerov",
+    "B": "F.Vyoler",
+    "C": "A.Kolbe",
+    "D": "M.Bertlo",
+    "javob": ""
+  },
+  {
+    "savol": "Hayvon a'zosidan hosil bo'ladigan (NH2)2CO ni olgan olimni aniqlang?",
+    "A": "F.Vyoler",
+    "B": "A.Kolbe",
+    "C": "M.Bertlo",
+    "D": "A.Butlerov",
+    "javob": ""
+  },
+  {
+    "savol": "O'simlik a'zosida uchraydigan H2C2O4 ni qaysi olim olgan?",
+    "A": "F.Vyoler",
+    "B": "A.Kolbe",
+    "C": "M.Bertlo",
+    "D": "A.Butlerov",
+    "javob": ""
+  },
+  {
+    "savol": "C6H5NH2 ni ajratib olgan olimni aniqlang?",
+    "A": "N.Zinin",
+    "B": "F.Vyoler",
+    "C": "A.Kolbe",
+    "D": "I.Berseluis",
+    "javob": ""
+  },
+  {
+    "savol": "Karbomidni laboratoriyada sintez qilgan olimni aniqlang?",
+    "A": "F.Vyoler",
+    "B": "A.Kolbe",
+    "C": "M.Bertlo",
+    "D": "A.Butlerov",
+    "javob": ""
+  },
+  {
+    "savol": "Ammoniy sianatdan laboratoriyada qanday organik modda sintez qilingan?",
+    "A": "H2NCONH2",
+    "B": "CH3COOH",
+    "C": "H2C2O4",
+    "D": "C6H6",
+    "javob": ""
+  },
+  {
+    "savol": "Dissiandan qaysi organik moddani F.Vyoller ajratib olgan?",
+    "A": "H2C2O4",
+    "B": "H2NCONH2",
+    "C": "CH3COOH",
+    "D": "C6H6",
+    "javob": ""
+  },
+  {
+    "savol": "Chumoli aldegiddan qaysi moddani A.Butlerov olgan?",
+    "A": "C6H12O6",
+    "B": "H2C2O4",
+    "C": "H2NCONH2",
+    "D": "C6H6",
+    "javob": ""
+  },
+  {
+    "savol": "CH3COOH ni birinchi bo'lib olgan olimni aniqlang?",
+    "A": "A.Kolbe",
+    "B": "N.Zinin",
+    "C": "F.Vyoler",
+    "D": "I.Berselius",
+    "javob": ""
+  },
+  {
+    "savol": "Organik kimyo - ..... o'rganadi. Nuqtalar o'rnida tashlab ketilgan gapni aniqlang.",
+    "A": "Uglevodorodlar va ularning hosilalarining tuzilishi, olinish usullari, xossalari va amaliy ahamiyatini",
+    "B": "Uglevodlar va ularning hosilalarining tuzilishi, olinish usullari, xossalari va amaliy ahamiyatini",
+    "C": "anorganik va minerallar hosilalarining tuzilishi, olinish usullari, xossalari va amaliy ahamiyatini",
+    "D": "minerallarning tuzilishi, olinish usullari, xossalari va amaliy ahamiyatini",
+    "javob": ""
+  },
+  {
+    "savol": "Quydagi berilgan qaysi moddalar organik moddalarga kiradi 1) ammoniy sianat 2) disian 3) sirka kislota 4) yog' 5) oksalat kislota 6) benzol 7) metan",
+    "A": "2,3,5,6,7",
+    "B": "1,2,7",
+    "C": "3,4,5,6,7",
+    "D": "1,3,5,6,7",
+    "javob": ""
+  },
+  {
+    "savol": "Quyidagi berilgan strukturadan qanday xulosa qilish mumkin? (rasm)",
+    "A": "C har doim IV valentli bo'lishini",
+    "B": "Organik birikmalarda C va H dan tashkil topganini",
+    "C": "Organik birikmalarda C borligini, hamda boshqa C bilan kovalent bog' orqali birikishini",
+    "D": "Organik birikmalarda C borligini, hamda boshqa C bilan kovalent bog' orqali birikishini",
+    "javob": ""
+  },
+  {
+    "savol": "Quyidagi reaksiyadan qanday xulosa qilish mumkin? (rasm)",
+    "A": "Organik moddalar yonganda karbonat angidrid va suv hosil bo'lishini",
+    "B": "C har doim IV valent bo'lishini",
+    "C": "Organik birikmalarda C borligi",
+    "D": "Organik birikmalarda C va H dan tashkil topganini",
+    "javob": ""
+  },
+  {
+    "savol": "Organik birikmalarning tuzilish nazariyasini yaratgan olimni aniqlang.",
+    "A": "A.Butlerov",
+    "B": "F.Vyoler",
+    "C": "A.Kolbe",
+    "D": "I.Berselius",
+    "javob": ""
+  },
+  {
+    "savol": "Quyidagi ko'rinish izomeriyaning qaysi turiga mansub? (rasm zanjir)",
+    "A": "Zanjir",
+    "B": "Holat",
+    "C": "Geometrik",
+    "D": "Sinflararo",
+    "javob": ""
+  },
+  {
+    "savol": "Quyidagi ko'rinish izomeriyaning qaysi turiga mansub? (rasm holat)",
+    "A": "Holat",
+    "B": "Zanjir",
+    "C": "Geometrik",
+    "D": "Sinflararo",
+    "javob": ""
+  },
+  {
+    "savol": "Quyidagi ko'rinish izomeriyaning qaysi turiga mansub? (rasm geometrik)",
+    "A": "Holat",
+    "B": "Zanjir",
+    "C": "Geometrik",
+    "D": "Sinflararo",
+    "javob": ""
+  },
+  {
+    "savol": "Quyidagi ko'rinish izomeriyaning qaysi turiga mansub? (rasm sinflararo)",
+    "A": "Zanjir",
+    "B": "Geometrik",
+    "C": "Sinflararo",
+    "D": "Holat",
+    "javob": ""
+  },
+  {
+    "savol": "Quyidagi ko'rinish izomeriyaning qaysi turiga mansub? (rasm)",
+    "A": "Sinflararo",
+    "B": "Zanjir",
+    "C": "Geometrik",
+    "D": "Holat",
+    "javob": ""
+  },
+  {
+    "savol": "Quyidagi ko'rinish izomeriyaning qaysi turiga mansub? (rasm)",
+    "A": "Holat",
+    "B": "Zanjir",
+    "C": "Geometrik",
+    "D": "Sinflararo",
+    "javob": ""
+  },
+  {
+    "savol": "Quyidagi ko'rinish izomeriyaning qaysi turiga mansub? (rasm)",
+    "A": "Zanjir",
+    "B": "Geometrik",
+    "C": "Sinflararo",
+    "D": "Holat",
+    "javob": ""
+  },
+  {
+    "savol": "Quyidagi ko'rinish izomeriyaning qaysi turiga mansub? (rasm)",
+    "A": "Sinflararo",
+    "B": "Zanjir",
+    "C": "Geometrik",
+    "D": "Holat",
+    "javob": ""
+  },
+  {
+    "savol": "Quyidagi ko'rinish izomeriyaning qaysi turiga mansub? (rasm)",
+    "A": "Sinflararo",
+    "B": "Zanjir",
+    "C": "Geometrik",
+    "D": "Holat",
+    "javob": ""
+  },
+  {
+    "savol": "Quyidagi ko'rinish izomeriyaning qaysi turiga mansub? (rasm)",
+    "A": "Geometrik",
+    "B": "Sinflararo",
+    "C": "Zanjir",
+    "D": "Holat",
+    "javob": ""
+  },
+  {
+    "savol": "Burutto formulasi C5H12 bo'lgan moddaning nechta izomeri mavjud?",
+    "A": "3",
+    "B": "4",
+    "C": "5",
+    "D": "2",
+    "javob": ""
+  },
+  {
+    "savol": "Izomeriya tushunchasini kimyo faniga kim tomonidan kiritilgan?",
+    "A": "A.Butlerov",
+    "B": "N.Zinin",
+    "C": "I.Berselius",
+    "D": "F.Vyoller",
+    "javob": ""
+  },
+  {
+    "savol": "Organik birikmalarda molekuladagi atomlar soni ortib borishi bilan....?",
+    "A": "Izomer soni ortadi",
+    "B": "Izomerlar soni kamayadi",
+    "C": "Izomerlar soni o'zgarmaydi",
+    "D": "C ning oksidlanish darajasi ortadi",
+    "javob": ""
+  },
+  {
+    "savol": "CH3NH2 birikma tarkibidagi C ning oksidlanish darajasini toping.",
+    "A": "-2",
+    "B": "+3",
+    "C": "+4",
+    "D": "+2",
+    "javob": ""
+  },
+  {
+    "savol": "CCl4 tarkibidagi C atomining oksidlanish darajasini hisoblang.",
+    "A": "+4",
+    "B": "+2",
+    "C": "+3",
+    "D": "-1",
+    "javob": ""
+  },
+  {
+    "savol": "Sirka kislotadagi C atomlarining oksidlanish darajasi yig'indisini toping.",
+    "A": "-1",
+    "B": "+4",
+    "C": "+6",
+    "D": "-4",
+    "javob": ""
+  },
+  {
+    "savol": "C atomlari bir-biri bilan bog'lanib, tarmoqlangan yoki tarmoqlanmagan zanjirlarni hosil qilish xususiyati izomeriyaning qaysi turiga mansub?",
+    "A": "Zanjir",
+    "B": "Geometrik",
+    "C": "Sinflararo",
+    "D": "Holat",
+    "javob": ""
+  },
+  {
+    "savol": "Funksiyanal guruh holatiga bog'liq izomeriya qaysi turga mansub?",
+    "A": "Holat",
+    "B": "Zanjir",
+    "C": "Geometrik",
+    "D": "Sinflararo",
+    "javob": ""
+  },
+  {
+    "savol": "Geometrik sist yoki trans izomeriya hosil bo'lishi nima hisobiga hosil bo'ladi?",
+    "A": "C-C orasidagi π bog' hisobiga",
+    "B": "C-C orasidagi δ bog' hisobiga",
+    "C": "C-H orasidagi δ bog' hisobiga",
+    "D": "C-H orasidagi π bog' hisobiga",
+    "javob": ""
+  },
+  {
+    "savol": "Quyida berilganlardan qaysi biri uglevodorod sinfiga mansub emas?",
+    "A": "Nitrat kislota",
+    "B": "benzol",
+    "C": "sirka kislota",
+    "D": "propanol",
+    "javob": ""
+  },
+  {
+    "savol": "Quyida berilganlardan qaysi biri kislorod tutgan organik birikmalar sinfiga mansub?",
+    "A": "glyukoza",
+    "B": "benzol",
+    "C": "butadien",
+    "D": "purin",
+    "javob": ""
+  },
+  {
+    "savol": "Quyida berilganlardan qaysi biri azot tutgan organik birikmalar sinfiga mansub?",
+    "A": "purin",
+    "B": "propanol",
+    "C": "benzol",
+    "D": "sirka kislota",
+    "javob": ""
+  },
+  {
+    "savol": "Quyida berilganlardan qaysi biri alkan?",
+    "A": "oktan",
+    "B": "siklopropan",
+    "C": "okten",
+    "D": "meten",
+    "javob": ""
+  },
+  {
+    "savol": "Quyida berilganlardan qaysi biri sikloalkan?",
+    "A": "siklopropan",
+    "B": "oktan",
+    "C": "okten",
+    "D": "meten",
+    "javob": ""
+  },
+  {
+    "savol": "Quyida berilganlardan qaysi biri alken?",
+    "A": "okten",
+    "B": "siklopropan",
+    "C": "oktan",
+    "D": "meten",
+    "javob": ""
+  },
+  {
+    "savol": "Quyida berilganlardan qaysi biri alkadien?",
+    "A": "butadiyen",
+    "B": "oktan",
+    "C": "okten",
+    "D": "siklopropan",
+    "javob": ""
+  },
+  {
+    "savol": "Quyida berilganlardan qaysi biri alkin?",
+    "A": "atsitelen",
+    "B": "oktan",
+    "C": "okten",
+    "D": "buten",
+    "javob": ""
+  },
+  {
+    "savol": "Quyida berilganlardan qaysi biri aren?",
+    "A": "fenol",
+    "B": "oktan",
+    "C": "okten",
+    "D": "buten",
+    "javob": ""
+  },
+  {
+    "savol": "Berilgan struktura qaysi uglevodorod sinfiga kiradi? (rasm)",
+    "A": "alkadien",
+    "B": "alken",
+    "C": "alkan",
+    "D": "aren",
+    "javob": ""
+  },
+  {
+    "savol": "Berilgan struktura qaysi uglevodorod sinfiga kiradi? (rasm)",
+    "A": "alkin",
+    "B": "alkadien",
+    "C": "alken",
+    "D": "alkan",
+    "javob": ""
+  },
+  {
+    "savol": "Berilgan struktura qaysi uglevodorod sinfiga kiradi? (rasm)",
+    "A": "alken",
+    "B": "alkin",
+    "C": "alkadien",
+    "D": "alkan",
+    "javob": ""
+  },
+  {
+    "savol": "Quyida berilgan moddalardan qaysi biri ochiq zanjirli uglevodorod?",
+    "A": "glitserin",
+    "B": "anilin",
+    "C": "Stirol",
+    "D": "izopren",
+    "javob": ""
+  },
+  {
+    "savol": "Quyida berilgan moddalardan qaysi biri ochiq zanjirli uglevodorod? (ikkinchi)",
+    "A": "eten",
+    "B": "anilin",
+    "C": "Stirol",
+    "D": "toluol",
+    "javob": ""
+  },
+  {
+    "savol": "Quyida berilgan modda strukturasi qaysi sinfga mansub? (rasm yog')",
+    "A": "Yog'",
+    "B": "spirt",
+    "C": "uglevod",
+    "D": "aren",
+    "javob": ""
+  },
+  {
+    "savol": "Quyidagi berilgan funksional guruh qaysi sinfga tegishli? (rasm aldegid)",
+    "A": "aldegid",
+    "B": "spirt",
+    "C": "uglevod",
+    "D": "aren",
+    "javob": ""
+  },
+  {
+    "savol": "Quyidagi berilgan funksional guruh qaysi sinfga tegishli? (rasm karbon kislota)",
+    "A": "karbon kislota",
+    "B": "aldegid",
+    "C": "spirt",
+    "D": "uglevod",
+    "javob": ""
+  },
+  {
+    "savol": "Disaxaridlar qaysi sinfga kiradi?",
+    "A": "uglevodlar",
+    "B": "karbon kislota",
+    "C": "aldegid",
+    "D": "spirt",
+    "javob": ""
+  },
+  {
+    "savol": "Tarkibida --NO2 saqlagan birikmalar qanday nomlanadi?",
+    "A": "nitrobirikmalar",
+    "B": "aminokislotalar",
+    "C": "amino birikmalar",
+    "D": "aminlar",
+    "javob": ""
+  },
+  {
+    "savol": "Adipin kislota qaysi sinf vakili",
+    "A": "Karbon kislota",
+    "B": "Ko'p atomli spirt",
+    "C": "fenol",
+    "D": "Diaminlar",
+    "javob": ""
+  },
+  {
+    "savol": "Glutar kislota tarkibida nechta -COOH guruh bor",
+    "A": "2",
+    "B": "3",
+    "C": "4",
+    "D": "5",
+    "javob": ""
+  },
+  {
+    "savol": "Oksalat kislota tarkibida nechta -COOH guruh bor",
+    "A": "2",
+    "B": "3",
+    "C": "4",
+    "D": "5",
+    "javob": ""
+  },
+  {
+    "savol": "Malon kislota tarkibida -COOH guruh bor",
+    "A": "2",
+    "B": "3",
+    "C": "4",
+    "D": "5",
+    "javob": ""
+  },
+  {
+    "savol": "Oddiy efirlar HJ bilan reaksiyaga kirishsa nima hosil bo'ladi",
+    "A": "spirt",
+    "B": "aldegid",
+    "C": "keton",
+    "D": "Murakkab efirlar",
+    "javob": ""
+  },
+  {
+    "savol": "Etilenni havo kislorodi yordamida katalizatorlar yordamida oksidlansa nima hosil bo'ladi",
+    "A": "efir",
+    "B": "aldegid",
+    "C": "keton",
+    "D": "spirt",
+    "javob": ""
+  },
+  {
+    "savol": "Etilen oksidi 400 C da qizdirilsa nima hosil bo'ladi",
+    "A": "Sirka aldegid",
+    "B": "metanol",
+    "C": "etanol",
+    "D": "butan",
+    "javob": ""
+  },
+  {
+    "savol": "Karbon kislota va spirtlarning reaksiyaga kirishishidan nima hosil bo'ladi",
+    "A": "Murakkab efir",
+    "B": "Oddiy efir",
+    "C": "aldegid",
+    "D": "keton",
+    "javob": ""
+  },
+  {
+    "savol": "Murakkab efirlar gidrolizlansa nima hosil bo'ladi",
+    "A": "spirt",
+    "B": "aldegid",
+    "C": "keton",
+    "D": "Oddiy efir",
+    "javob": ""
+  },
+  {
+    "savol": "Suyuq yog'lar katalizatorlar ta'sirida qattiq yog'ga aylanishini kim o'rgangan?",
+    "A": "Fokin",
+    "B": "Kekule",
+    "C": "Kolbe",
+    "D": "Bertlo",
+    "javob": ""
+  },
+  {
+    "savol": "Furanda geteroatom nima",
+    "A": "Kislorod",
+    "B": "Azot",
+    "C": "Uglerod",
+    "D": "Vodorod",
+    "javob": ""
+  },
+  {
+    "savol": "Pirrolda geteroatom nima",
+    "A": "Azot",
+    "B": "Uglerod",
+    "C": "Vodorod",
+    "D": "Kislorod",
+    "javob": ""
+  },
+  {
+    "savol": "Tiofenda geteroatom nima",
+    "A": "Oltingugurt",
+    "B": "Azot",
+    "C": "Azot",
+    "D": "Azot",
+    "javob": ""
+  },
+  {
+    "savol": "Furan-2 karbon kislotani Cu ishtirokida dekarboksizlab nima olinadi?",
+    "A": "Furan",
+    "B": "Pirrol",
+    "C": "Tiofen",
+    "D": "Imidazol",
+    "javob": ""
+  },
+  {
+    "savol": "Furfurol kat. (Zn va Fe xromatlarini, Mn, Cr va Zn oksidini aralashmasi) bilan dekarboksillanib qanday modda hosil bo'ladi",
+    "A": "Furan",
+    "B": "Pirrol",
+    "C": "Tiofen",
+    "D": "Imidazol",
+    "javob": ""
+  },
+  {
+    "savol": "Sanoatda butan SO2 ni 550°C qizdirilgan naydan o'tkazib qanday modda olinadi",
+    "A": "Tiofen",
+    "B": "Furan",
+    "C": "Pirrol",
+    "D": "Imidazol",
+    "javob": ""
+  },
+  {
+    "savol": "Chichibabin reaksiyasi asosida qanday modda olinadi",
+    "A": "Geterosiklik",
+    "B": "Karbon kislota",
+    "C": "Aldegid",
+    "D": "Keton",
+    "javob": ""
+  },
+  {
+    "savol": "Qahrabo kislotaga amiak ta'sirida nima hosil bo'ladi?",
+    "A": "Pirrol",
+    "B": "Tiofen",
+    "C": "Furan",
+    "D": "Imidazol",
+    "javob": ""
+  },
+  {
+    "savol": "Aminokislotalar qanday sinf vakili bilan izomer",
+    "A": "Nitrobirikmalar",
+    "B": "Aldegid",
+    "C": "Keton",
+    "D": "Karbon kislota",
+    "javob": ""
+  },
+  {
+    "savol": "Aminokislotalar qanday xususiyatga ega?",
+    "A": "Amfoter",
+    "B": "Kislotali",
+    "C": "Asosli",
+    "D": "Neytral",
+    "javob": ""
+  },
+  {
+    "savol": "Aminokislotalarni belgilang (1)",
+    "A": "Glitsin",
+    "B": "Adipin",
+    "C": "oksalat",
+    "D": "glutar",
+    "javob": ""
+  },
+  {
+    "savol": "Aminokislotalarni belgilang (2)",
+    "A": "Leysin",
+    "B": "Adipin",
+    "C": "oksalat",
+    "D": "glutar",
+    "javob": ""
+  },
+  {
+    "savol": "Aminokislotalarni belgilang (3)",
+    "A": "Alanin",
+    "B": "Adipin",
+    "C": "oksalat",
+    "D": "glutar",
+    "javob": ""
+  },
+  {
+    "savol": "Aminokislotalar nitrit kislota ta'sirida qanday gazni hosil qiladi?",
+    "A": "N2",
+    "B": "NH3",
+    "C": "CO2",
+    "D": "CO",
+    "javob": ""
+  },
+  {
+    "savol": "Aminokislotalar nitrit kislota ta'sirida qanday moddani hosil qiladi?",
+    "A": "Gidrokislotalar",
+    "B": "Karbon kislotalar",
+    "C": "Aldegid",
+    "D": "Keton",
+    "javob": ""
+  },
+  {
+    "savol": "Aminokislotalarga formaldegid ta'sirida qanday hosilalari olinadi",
+    "A": "Metilen",
+    "B": "Aldegid",
+    "C": "Ketonlar",
+    "D": "Efirlar",
+    "javob": ""
+  },
+  {
+    "savol": "Mis tuzlari ishtirokida aminokislotalar nima hosil qiladi?",
+    "A": "xelat",
+    "B": "diollar",
+    "C": "efirlar",
+    "D": "spirtlar",
+    "javob": ""
+  },
+  {
+    "savol": "Dekarboksillash reaksiyasi natijasida CO2 ajralib chiqadi va nimaga aylanadi:",
+    "A": "Aminlar",
+    "B": "Karbon kislotalar",
+    "C": "Oddiy efirlar",
+    "D": "Murakkab efirlar",
+    "javob": ""
+  },
+  {
+    "savol": "Dezaminlanish reaksiyasida nima ajralib chiqadi",
+    "A": "NH3",
+    "B": "NO",
+    "C": "N2O",
+    "D": "CO",
+    "javob": ""
+  },
+  {
+    "savol": "α-aminokislotalar qizdirilganda osonlik bilan suv ajralib chiqadi va nima hosil qiladi",
+    "A": "Diketopiperazinlar",
+    "B": "Aminlar",
+    "C": "Siklik birikmalar",
+    "D": "Karbon kislotalar",
+    "javob": ""
+  },
+  {
+    "savol": "β-aminokislotalar qizdirilganda qanday karbon kislotalar hosil bo'ladi va ammiak ajralib chiqadi",
+    "A": "To'yinmagan",
+    "B": "Dikarbon",
+    "C": "Monokarbon",
+    "D": "Ketokislotalar",
+    "javob": ""
+  },
+  {
+    "savol": "γ-aminokislotalar bir molekula suv ajratib nima hosil qiladi:",
+    "A": "Laktamlar",
+    "B": "To'yinmagan",
+    "C": "Dikarbon",
+    "D": "Monokarbon",
+    "javob": ""
+  },
+  {
+    "savol": "α−aminopropion kislota bu-",
+    "A": "Alanin",
+    "B": "Leysin",
+    "C": "Gvayakol",
+    "D": "Valin",
+    "javob": ""
+  },
+  {
+    "savol": "aminosirka kislota bu-",
+    "A": "Glitsin",
+    "B": "Leysin",
+    "C": "Gvayakol",
+    "D": "Valin",
+    "javob": ""
+  },
+  {
+    "savol": "Oqsillarning asosi bu-",
+    "A": "Aminokislotalar",
+    "B": "Aldegid",
+    "C": "Karbon kislotalar",
+    "D": "Ketonlar",
+    "javob": ""
+  },
+  {
+    "savol": "oqsillarning asosini tashkil etuvchi, ikki yoki undan ortiq aminokislotalarni polikondensatlanishidan hosil bo'lgan moddalarga nima deb aytiladi.",
+    "A": "Peptidlar",
+    "B": "Fibrion",
+    "C": "Nukleotid",
+    "D": "Nuklein kislotalar",
+    "javob": ""
+  },
+  {
+    "savol": "Necha xil aminokislotalar mavjud?",
+    "A": "20",
+    "B": "25",
+    "C": "30",
+    "D": "35",
+    "javob": ""
+  },
+  {
+    "savol": "5 a'zoli 1 ta geteroatomli birikmalarni belgilang? (Tiofen)",
+    "A": "Tiofen",
+    "B": "Imidazol",
+    "C": "Oksazol",
+    "D": "Tiazol",
+    "javob": ""
+  },
+  {
+    "savol": "5 a'zoli 1 ta geteroatomli birikmalarni belgilang? (Pirrol)",
+    "A": "Pirrol",
+    "B": "Imidazol",
+    "C": "Oksazol",
+    "D": "Tiazol",
+    "javob": ""
+  },
+  {
+    "savol": "5 a'zoli 1 ta geteroatomli birikmalarni belgilang? (Furan)",
+    "A": "Furan",
+    "B": "Imidazol",
+    "C": "Oksazol",
+    "D": "Tiazol",
+    "javob": ""
+  },
+  {
+    "savol": "Furanga amiak ta'sirida nima hosil bo'ladi?",
+    "A": "Pirrol",
+    "B": "Tiofen",
+    "C": "Furan",
+    "D": "Imidazol",
+    "javob": ""
+  },
+  {
+    "savol": "Pirrolga H2S ta'sirida nima hosil bo'ladi?",
+    "A": "Tiofen",
+    "B": "Furan",
+    "C": "Pirrol",
+    "D": "Imidazol",
+    "javob": ""
+  },
+  {
+    "savol": "Tiofenga suv ta'sirida nima hosil bo'ladi?",
+    "A": "Furan",
+    "B": "Tiofen",
+    "C": "Pirrol",
+    "D": "Imidazol",
+    "javob": ""
+  },
+  {
+    "savol": "Pirrol kislorod va oltingugurt saqlaydigan besh a'zoli geterotsikllar bilan genetik bog'lanishlarini kim o'rgangan?",
+    "A": "Yuryev",
+    "B": "Kolbe",
+    "C": "Kekule",
+    "D": "Butlerov",
+    "javob": ""
+  },
+  {
+    "savol": "Birlamchi spirtlarni oksidlab nima hosil bo'ladi",
+    "A": "Karbon kislotalar",
+    "B": "Keton",
+    "C": "Efir",
+    "D": "Yog'",
+    "javob": ""
+  },
+  {
+    "savol": "Aldegidlarni oksidlab nima hosil bo'ladi",
+    "A": "Karbon kislotalar",
+    "B": "Keton",
+    "C": "Efir",
+    "D": "Yog'",
+    "javob": ""
+  },
+  {
+    "savol": "Nitrillarni gidrolizlab nima hosil bo'ladi",
+    "A": "Karbon kislotalar",
+    "B": "Keton",
+    "C": "Efir",
+    "D": "Yog'",
+    "javob": ""
+  },
+  {
+    "savol": "Fosforning galogenli birikmalariga karbon kislotalar ta'sirida nima hosil bo'ladi?",
+    "A": "Galogen angidridlar",
+    "B": "Karbon kislota angidridi",
+    "C": "Alkil galogenid",
+    "D": "Radikallar",
+    "javob": ""
+  },
+  {
+    "savol": "Tionil xlorid va karbon kislotalar ta'sirida nima hosil bo'ladi?",
+    "A": "Galogen angidridlar",
+    "B": "Karbon kislota angidridi",
+    "C": "Alkil galogenid",
+    "D": "Radikallar",
+    "javob": ""
+  },
+  {
+    "savol": "Karbon kislotalar nima ta'sirida kislota angidridini hosil qiladi?",
+    "A": "H2SO4",
+    "B": "CuO",
+    "C": "Cu",
+    "D": "HCl",
+    "javob": ""
+  },
+  {
+    "savol": "Propilenni kumush yordamida oksidlab nima hosil bo'ladi?",
+    "A": "efir",
+    "B": "aldegid",
+    "C": "keton",
+    "D": "spirt",
+    "javob": ""
+  },
+  {
+    "savol": "Etil atsetat gidrolizlansa nima hosil bo'ladi?",
+    "A": "Etil spirti",
+    "B": "Metal spirti",
+    "C": "Propil spirti",
+    "D": "Butil spirti",
+    "javob": ""
+  },
+  {
+    "savol": "Murakkab efirlar ammiak ta'sirida nimani hosil qiladi",
+    "A": "Kislota amidlarini",
+    "B": "Karbon kislota",
+    "C": "Spirtlar",
+    "D": "Aldegidlar",
+    "javob": ""
+  },
+  {
+    "savol": "Baliq moyini gidrogenlab qattiq yog' nima hosil qiladi?",
+    "A": "Salomas",
+    "B": "Sovunlar",
+    "C": "Aldegidlar",
+    "D": "Ketonlar",
+    "javob": ""
+  },
+  {
+    "savol": "Parafinlarni oksidlab hosil qilingan yog' kislotalarga ishqor ta'sir ettirib nima olinadi",
+    "A": "Sovun",
+    "B": "Karbon kislota",
+    "C": "Spirtlar",
+    "D": "Aldegidlar",
+    "javob": ""
+  },
+  {
+    "savol": "Tarkibida azot atomi tutgan, asos xossalariga ega bo'lgan, ayrim o'simliklar tarkibida uchraydigan murakkab organik birikmalar nima deyiladi",
+    "A": "Alkaloidlar",
+    "B": "Aminlar",
+    "C": "Aminokislotalar",
+    "D": "A'zo birikmalar",
+    "javob": ""
+  },
+  {
+    "savol": "Choy bargini qayta ishlash sanoatida choy barglari chiqindisidan nima olinadi?",
+    "A": "Kofein",
+    "B": "Nikotin",
+    "C": "Anabazin",
+    "D": "Morfin",
+    "javob": ""
+  },
+  {
+    "savol": "Dikarbon kislotalar yuqori temperaturada nima hosil qiladi?",
+    "A": "Monokarbon kislotalar",
+    "B": "CO",
+    "C": "Malon kislota",
+    "D": "Shavel kislota",
+    "javob": ""
+  },
+  {
+    "savol": "Sirka kislota yoki-",
+    "A": "Etan kislota",
+    "B": "Propan kislota",
+    "C": "Butan kislota",
+    "D": "Pentan kislota",
+    "javob": ""
+  },
+  {
+    "savol": "Oksalat kislota yoki-",
+    "A": "Shavel kislota",
+    "B": "Propan kislota",
+    "C": "Butan kislota",
+    "D": "Pentan kislota",
+    "javob": ""
+  },
+  {
+    "savol": "α-aminosirka kislota yoki qanday kislota deyiladi",
+    "A": "glitsin",
+    "B": "valil",
+    "C": "izovalerian",
+    "D": "leysin",
+    "javob": ""
+  },
+  {
+    "savol": "Oqsillarga sifat reaksiyasi bu- (1)",
+    "A": "Biuret",
+    "B": "Kanavalov",
+    "C": "Bertlo",
+    "D": "Dyuma",
+    "javob": ""
+  },
+  {
+    "savol": "Oqsillarga sifat reaksiyasi bu- (2)",
+    "A": "Ksantoprotein reaksiyasi",
+    "B": "Kanavalov",
+    "C": "Bertlo",
+    "D": "Dyuma",
+    "javob": ""
+  },
+  {
+    "savol": "Oqsillarga sifat reaksiyasi bu- (3)",
+    "A": "Milon reaksiyasi",
+    "B": "Kanavalov",
+    "C": "Bertlo",
+    "D": "Dyuma",
+    "javob": ""
+  },
+  {
+    "savol": "Ningidrin reaksiyasi --- ningidrin eritmasi bilan qo'shib qizdirilsa, qanday bo'yalish beradi.",
+    "A": "Ko'k",
+    "B": "Sariq",
+    "C": "Qizil",
+    "D": "Oq",
+    "javob": ""
+  },
+  {
+    "savol": "Molekulasidagi uglerod va boshqa element atomlaridan tuzilgan halqalar (sikllar) ni saqlagan birikmalarga nima birikmalar deb ataladi?",
+    "A": "Geterotsiklik",
+    "B": "Fenollar",
+    "C": "Karbon kislotalar",
+    "D": "Spirtlar",
+    "javob": ""
+  },
+  {
+    "savol": "qanday geterosiklik birikma hisoblanadi? (rasm 5 a'zoli 2 geteroatomli)",
+    "A": "5 a'zoli 2 ta geteroatomli",
+    "B": "5 a'zoli 1 ta geteroatomli",
+    "C": "6 a'zoli 2 ta geteroatomli",
+    "D": "6 a'zoli 1 ta geteroatomli",
+    "javob": ""
+  },
+  {
+    "savol": "qanday geterosiklik birikma hisoblanadi? (rasm 6 a'zoli 1 geteroatomli)",
+    "A": "6 a'zoli 1 ta geteroatomli",
+    "B": "5 a'zoli 1 ta geteroatomli",
+    "C": "6 a'zoli 2 ta geteroatomli",
+    "D": "5 a'zoli 2 ta geteroatomli",
+    "javob": ""
+  },
+  {
+    "savol": "qanday geterosiklik birikma hisoblanadi? (rasm 6 a'zoli 2 geteroatomli)",
+    "A": "6 a'zoli 2 ta geteroatomli",
+    "B": "5 a'zoli 1 ta geteroatomli",
+    "C": "6 a'zoli 1 ta geteroatomli",
+    "D": "5 a'zoli 2 ta geteroatomli",
+    "javob": ""
+  }
+]
