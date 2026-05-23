@@ -1,0 +1,1122 @@
+[
+  {
+    "savol": "Chiziqli fazoda qism fazo nima deb ataladi?",
+    "A": "Agar qism to‘plam qo‘shish va songa ko‘paytirishga nisbatan yopiq bo‘lsa",
+    "B": "Chekli bo‘lsa",
+    "C": "Bitta vektordan iborat bo‘lsa",
+    "D": "Nol vektorni o‘z ichiga olsa",
+    "javob": "A"
+  },
+  {
+    "savol": "Qism fazo bo‘lishi uchun qaysi shartlar yetarli?",
+    "A": "Qo‘shish va songa ko‘paytirishga nisbatan yopiq bo‘lishi",
+    "B": "Qo‘shishga yopiq bo‘lishi",
+    "C": "Songa ko‘paytirishga yopiq bo‘lishi",
+    "D": "Chekli o‘lchamli bo‘lishi",
+    "javob": "A"
+  },
+  {
+    "savol": "L₁ va L₂ qism fazolarning yig‘indisi qanday bo‘ladi?",
+    "A": "Qism fazo",
+    "B": "Affin fazo",
+    "C": "Bo‘sh to‘plam",
+    "D": "Oddiy to‘plam",
+    "javob": "A"
+  },
+  {
+    "savol": "Ortogonal proyeksiya tushunchasi nima?",
+    "A": "Vektorning qism fazoga perpendikulyar qismi",
+    "B": "Vektorning uzunligi",
+    "C": "Vektorning yo’nalishi",
+    "D": "Kopaytma",
+    "javob": "A"
+  },
+  {
+    "savol": "Ortogonal to’ldiruvchi nima?",
+    "A": "Vektorning proyeksiya qismidan qolgan qismi",
+    "B": "Normasi",
+    "C": "Bazis",
+    "D": "Ko’paytma",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar x ∈ V vektor V’ qism fazoga ortogonal bo’lsa, (x,ei)=?",
+    "A": "0",
+    "B": "4",
+    "C": "2",
+    "D": "3",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar z ∈ V, z=x+y, x ∈ V’, y ∈ V’, x ortogonal bo’lsa, y nima?",
+    "A": "Ortogonal proyeksiya",
+    "B": "To’ldiruvchi vektor",
+    "C": "Skalyar ko’paytma",
+    "D": "Yo’nalish vektori",
+    "javob": "A"
+  },
+  {
+    "savol": "z ∈ V vektorning V’ qism fazoga ortogonal proyeksiyasi mavjudligi qanday?",
+    "A": "Har doim mavjud va yagona",
+    "B": "Ba’zan mavjud",
+    "C": "Hech qachon mavjud emas",
+    "D": "O’lcham 1 da mavjud",
+    "javob": "A"
+  },
+  {
+    "savol": "z ∈ V vektorning ortogonal proyeksiyasini topish uchun qanday tenglama yechiladi?",
+    "A": "(z-y,e_i)=0",
+    "B": "(z+y,e_i)",
+    "C": "(z*e_i)",
+    "D": "(z+e_i)",
+    "javob": "A"
+  },
+  {
+    "savol": "λi qanday aniqlanadi ortonormal bazisda?",
+    "A": "λi=(z,e_i)",
+    "B": "z+e_i",
+    "C": "(z+e_i)/2",
+    "D": "(z-e_i)/2",
+    "javob": "A"
+  },
+  {
+    "savol": "Ortogonal to’ldiruvchi x qanday topiladi?",
+    "A": "x = z - y",
+    "B": "x = y + z",
+    "C": "x = z*y",
+    "D": "x = y/z",
+    "javob": "A"
+  },
+  {
+    "savol": "Gram determinant nima?",
+    "A": "Bazis vektorlarining skalyar ko’paytmalaridan tashkil topgan determinant",
+    "B": "Vektor uzunligi",
+    "C": "Skalyar ko’paytma",
+    "D": "Vektor yo’nalishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Yevklid fazolari izomorf bo’lishi uchun shart nima?",
+    "A": "Vektorlar o’rtasida moslik va skalyar ko’paytmalari saqlanishi",
+    "B": "Vektor uzunligi tengligi",
+    "C": "Qo’shish saqlanishi",
+    "D": "Ko’paytirish saqlanishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar W=span{u}, u=(1,1,0), x=(2,1,3), ortogonal proyeksiya qanday?",
+    "A": "(3/2,3/2,0)",
+    "B": "(1,1,1)",
+    "C": "(2,1,3)",
+    "D": "(0,0,0)",
+    "javob": "A"
+  },
+  {
+    "savol": "x ning W da ortogonal to’ldiruvchisi nima?",
+    "A": "(1/2,-1/2,3)",
+    "B": "(2,1,3)",
+    "C": "(0,0,0)",
+    "D": "(1,1,0)",
+    "javob": "A"
+  },
+  {
+    "savol": "span{u} deganda nima tushuniladi?",
+    "A": "u vektori orqali hosil qilingan barcha chiziqli kombinatsiyalar",
+    "B": "u vektori",
+    "C": "normali",
+    "D": "ortogonal vektor",
+    "javob": "A"
+  },
+  {
+    "savol": "span{u,v} nimani ifodalaydi?",
+    "A": "αu+βv ko’rinishidagi barcha vektorlar",
+    "B": "u+v",
+    "C": "αu",
+    "D": "βv",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar x^⊥ ∙ u=0 bo’lsa, x^⊥ qayerda joylashgan?",
+    "A": "W^⊥",
+    "B": "W",
+    "C": "V",
+    "D": "V’",
+    "javob": "A"
+  },
+  {
+    "savol": "Ortogonal proyeksiya va ortogonal to’ldiruvchi mavjudligi tasdiqlandi, bu nimani anglatadi?",
+    "A": "Har doim mavjud va yagona",
+    "B": "Ba’zan mavjud",
+    "C": "Hech qachon mavjud emas",
+    "D": "n=1 da mavjud",
+    "javob": "A"
+  },
+  {
+    "savol": "Ortogonal proyeksiyani topishda bazis nima rol o’ynaydi?",
+    "A": "λ_i yechimini aniqlash",
+    "B": "Vektor uzunligini oshirish",
+    "C": "Skalyar ko’paytmani kamaytirish",
+    "D": "Vektor yo’nalishini o’zgartirish",
+    "javob": "A"
+  },
+  {
+    "savol": "λ_i yechimi qanday tenglama orqali topiladi?",
+    "A": "(z, e_i) = Σ λ_j (e_j,e_i)",
+    "B": "λ_i = z+e_i",
+    "C": "λ_i = z*e_i",
+    "D": "λ_i = z-e_i",
+    "javob": "A"
+  },
+  {
+    "savol": "Yevklid fazolarining izomorfizmi nima?",
+    "A": "Vektorlar orasida moslik va skalyar ko’paytma saqlanadi",
+    "B": "Vektor uzunligi teng",
+    "C": "Yo’nalish saqlanadi",
+    "D": "Ko’paytirish saqlanadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Barcha n o’lchamli Yevklid fazolari o’zaro?",
+    "A": "O’zaro Izomorfdir",
+    "B": "Teng",
+    "C": "Noteng",
+    "D": "Perpendikulyar",
+    "javob": "A"
+  },
+  {
+    "savol": "Chiziqli funksiya f(x) uchun qaysi shart to‘g‘ri?",
+    "A": "f(x + y) = f(x) + f(y)",
+    "B": "f(x + y) = f(x) ⋅ f(y)",
+    "C": "f(x) = x2",
+    "D": "f(x) = sin(x)",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar f(mx) = m f(x), bu shart qaysi funksiyaga xos?",
+    "A": "Chiziqli funksiya",
+    "B": "Kvadratik funksiya",
+    "C": "Bichiziqli funksiya",
+    "D": "Musbat aniqlangan funksiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Chiziqli funksiya V fazoni K maydonga moslagan bo‘lsa, u:",
+    "A": "f : V → K",
+    "B": "f : K → V",
+    "C": "f : V × V → K",
+    "D": "f : R → V",
+    "javob": "A"
+  },
+  {
+    "savol": "n o‘lchamli fazoda chiziqli funksiya f(x) qanday ko‘rinishda yoziladi?",
+    "A": "f(x) = ε_1 x_1 + ε_2 x_2 + … + ε_n x_n",
+    "B": "f(x) = x_1^2 + … + x_n^2",
+    "C": "f(x) = x_1 ⋅ x_2",
+    "D": "f(x) = sin(x_1 + … + x_n)",
+    "javob": "A"
+  },
+  {
+    "savol": "Chiziqli funksiya koordinatalari ε_1, …, ε_n narsa?",
+    "A": "x vektorning bazisdagi koordinatalari",
+    "B": "Bazis vektorlari",
+    "C": "Kvadratik forma koeffitsiyentlari",
+    "D": "Nol element",
+    "javob": "A"
+  },
+  {
+    "savol": "Bichiziqli forma A(x, y) uchun qaysi shart o‘rinli?",
+    "A": "A(λx_1 + μx_2, y) = λ A(x_1, y) + μ A(x_2, y)",
+    "B": "A(x+y, z) = A(x,z) ⋅ A(y,z)",
+    "C": "A(x,x) = x^3",
+    "D": "A(x,y) = sin(x+y)",
+    "javob": "A"
+  },
+  {
+    "savol": "Bichiziqli forma simmetrik bo‘lsa, qaysi shart bajariladi?",
+    "A": "A(x, y) = A(y, x)",
+    "B": "A(x, y) = −A(y, x)",
+    "C": "A(x, y) = x^2 + y^2",
+    "D": "A(x, y) = 0",
+    "javob": "A"
+  },
+  {
+    "savol": "R^n fazoda bichiziqli forma matritsasi qaysi tarzda hosil qilinadi?",
+    "A": "a_(i,j) = A(e_i, e_j)",
+    "B": "a_(i,j) = e_i + e_j",
+    "C": "a_(i,j) = x_i x_j",
+    "D": "a_(i,j) = 0",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar A(x,y) bazisdan bazisga o‘zgarsa, yangi matritsa B qanday hosil bo‘ladi?",
+    "A": "B = C^T A C",
+    "B": "B = A + C",
+    "C": "B = A ⋅ C",
+    "D": "B = C A^T",
+    "javob": "A"
+  },
+  {
+    "savol": "A(x,y) bichiziqli forma bo‘lsa, qaysi shart doim to‘g‘ri?",
+    "A": "A(μx, y) = μ A(x,y)",
+    "B": "A(x+y, y) = A(x,y) ⋅ A(y,y)",
+    "C": "A(x,y) = x^3",
+    "D": "A(x,x) < 0",
+    "javob": "A"
+  },
+  {
+    "savol": "Kvadratik forma qaysi funksiyadan hosil bo‘ladi?",
+    "A": "A(x,x)",
+    "B": "f(x+y)",
+    "C": "A(x,y) = 0",
+    "D": "f(x) = sin(x)",
+    "javob": "A"
+  },
+  {
+    "savol": "Kvadratik forma simmetrik bichiziqli forma bilan bog‘liq bo‘lsa, u:",
+    "A": "A(x,x) = A(x,y) y = x",
+    "B": "A(x,x) = x^3",
+    "C": "A(x,x) = sin(x)",
+    "D": "A(x,x) = 0",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar A(x,x) > 0 barcha x ≠ 0 uchun, u:",
+    "A": "Musbat aniqlangan kvadratik forma",
+    "B": "Manfiy aniqlangan kvadratik forma",
+    "C": "Nol kvadratik forma",
+    "D": "Arbitrary forma",
+    "javob": "A"
+  },
+  {
+    "savol": "Musbat aniqlangan kvadratik forma misoli:",
+    "A": "A(x,x) = ε_1^2 + … + ε_n^2",
+    "B": "A(x,x) = −(ε_1^2 + … + ε_n^2)",
+    "C": "A(x,x) = ε_1 ε_2",
+    "D": "A(x,x) = 0",
+    "javob": "A"
+  },
+  {
+    "savol": "Kvadratik formani kanoni (normal) shaklga keltirish nima?",
+    "A": "Kvadratik formani kvadratlar yig‘indisi shakliga keltirish",
+    "B": "Chiziqli funksiya hosil qilish",
+    "C": "Matritsani nolga aylantirish",
+    "D": "Bichiziqli formani 0 ga keltirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Qutbiy bichiziqli forma uchun qaysi shart to‘g‘ri?",
+    "A": "A(x,x) < 0",
+    "B": "A(x,y) = 0",
+    "C": "A(x,x) ≤ −1",
+    "D": "1",
+    "javob": "A"
+  },
+  {
+    "savol": "Kvadratik forma A(x,x) musbat aniqlangan bo‘lsa, unga mos bichiziqli forma:",
+    "A": "Chiziqli funksiya",
+    "B": "Arbitrary funksiya",
+    "C": "Nol forma",
+    "D": "1",
+    "javob": "A"
+  },
+  {
+    "savol": "Bichiziqli forma simmetrik bo‘lmagan bo‘lsa, kvadratik formani hosil qiladimi?",
+    "A": "Ha",
+    "B": "Nolga teng",
+    "C": "Arbitrary",
+    "D": "1",
+    "javob": "A"
+  },
+  {
+    "savol": "Kvadratik forma nima?",
+    "A": "A(x,x) = ∑ a_ij x_i x_j ko‘rinishidagi ikki tomonlama polinom",
+    "B": "Skalyar ko‘paytma",
+    "C": "Vektor yig‘indisi",
+    "D": "Matritsa determinant",
+    "javob": "A"
+  },
+  {
+    "savol": "Kvadratik formani kanonik ko‘rinishga keltirish nima degani?",
+    "A": "Kvadratlar yig‘indisi ko‘rinishiga keltirish",
+    "B": "Vektor uzunligini topish",
+    "C": "Skalyar ko‘paytma hisoblash",
+    "D": "Bazis almashtirishni inkor etish",
+    "javob": "A"
+  },
+  {
+    "savol": "Bazis o‘zgartirish bilan nima qilinadi?",
+    "A": "Turli indeksli ko‘paytmalarni yo‘qotish",
+    "B": "Vektor normasi oshadi",
+    "C": "Skalyar ko‘paytma kamayadi",
+    "D": "Determinant o‘zgarmaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Lagranj usuli nima uchun ishlatiladi?",
+    "A": "Kvadratik formani kanonik shaklga keltirish",
+    "B": "Vektor uzunligini topish",
+    "C": "Skalyar ko‘paytma hisoblash",
+    "D": "Determinantni topish",
+    "javob": "A"
+  },
+  {
+    "savol": "Kanonik shaklda A(x,x) qanday ko‘rinishda bo‘ladi?",
+    "A": "A(x,x) = γ_1 ε_1^2 + γ_2 ε_2^2 + … + γ_n ε_n^2",
+    "B": "A(x,x) = x_1 + x_2 + … + x_n",
+    "C": "A(x,x) = ∑ x_i x_j",
+    "D": "A(x,x) = ∑ γ_i x_i",
+    "javob": "A"
+  },
+  {
+    "savol": "Musbat aniqlangan kvadratik forma uchun shart nima?",
+    "A": "∆_1>0, ∆_2>0, …, ∆_n>0",
+    "B": "γ_i <0",
+    "C": "Bazis determinant =0",
+    "D": "Barcha koeffitsientlar nol",
+    "javob": "A"
+  },
+  {
+    "savol": "Misolda A(x,x)=2μ1 μ2+4μ1 μ3-μ22-8μ32 kanonik shaklga qanday o‘tkaziladi?",
+    "A": "ε_1 = μ_1^, ε_2 = μ_2^+2μ_3^, ε_3 = μ_3^",
+    "B": "ε_1 = μ_1, ε_2 = μ_2, ε_3 = μ_3",
+    "C": "ε_1 = μ_2, ε_2 = μ_3, ε_3 = μ_1",
+    "D": "ε_1 = μ_3, ε_2 = μ_1, ε_3 = μ_2",
+    "javob": "A"
+  },
+  {
+    "savol": "Kanonik shakldagi kvadratik forma misolida natija qanday bo‘ladi?",
+    "A": "A(x,x)=-ε_1^2 + ε_2^2 -12 ε_3^2",
+    "B": "A(x,x)=ε_1^2+ε_2^2+ε_3^2",
+    "C": "A(x,x)=ε_1+ε_2+ε_3",
+    "D": "A(x,x)=0",
+    "javob": "A"
+  },
+  {
+    "savol": "A(x,x)=3μ_1 μ_2+6μ_1 μ_3-2μ_2^2-8μ_3^2 kanonik shaklga keltirilganda qaysi usul ishlatiladi?",
+    "A": "Lagranj usuli",
+    "B": "Gauss usuli",
+    "C": "Determinant usuli",
+    "D": "Cramer qoidasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar μ_1=μ_2^, μ_2=μ_1^, μ_3=μ_3^* almashtirish qilinsa, natija qanday bo‘ladi?",
+    "A": "Ko‘paytmalar o‘zgaradi va kanonik shaklga o‘tadi",
+    "B": "Hech narsa o‘zgarmaydi",
+    "C": "determinant o‘zgaradi",
+    "D": "Bazis o‘zgaradi lekin forma o‘zgarmaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Kvadratik formani kanonik shaklga keltirishning maqsadi nima?",
+    "A": "O‘zgaruvchilarni kvadrat yig‘indisi shakliga keltirish",
+    "B": "Vektor uzunligini oshirish",
+    "C": "Skalyar ko‘paytma kamaytirish",
+    "D": "determinant topish",
+    "javob": "A"
+  },
+  {
+    "savol": "Koordinatalarni almashtirishda noldan farqli a_ii koeffitsientning rolini nima?",
+    "A": "Kvadrat hosil qilishga imkon beradi",
+    "B": "Skalyar ko‘paytma oshadi",
+    "C": "Vektor uzunligi kamayadi",
+    "D": "Determinant 0 bo‘ladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Misolda A(x,x)=3μ_1 μ_2+7μ_1 μ_3-3μ_2^2-8μ_3^2 qanday kanonik shaklga keltiriladi?",
+    "A": "ε_1, ε_2, ε_3 orqali kvadratlar yig‘indisi",
+    "B": "ε_1+ε_2+ε_3",
+    "C": "μ_1+μ_2+μ_3",
+    "D": "0",
+    "javob": "A"
+  },
+  {
+    "savol": "Kanonik shaklda ε_1, ε_2, …, ε_n nima?",
+    "A": "Yangi o‘zgaruvchilar",
+    "B": "Eski ko‘rsatkichlar",
+    "C": "Vektor normasi",
+    "D": "Skalyar ko‘paytma",
+    "javob": "A"
+  },
+  {
+    "savol": "Lagranj usuli asosida kvadratik forma qaysi o‘zgaruvchilar orqali ifodalanadi?",
+    "A": "ε_1, ε_2, …, ε_n",
+    "B": "μ_1, μ_2, …, μ_n",
+    "C": "x_1, x_2, …, x_n",
+    "D": "γ_1, γ_2, …, γ_n",
+    "javob": "A"
+  },
+  {
+    "savol": "Teorema bo‘yicha musbat aniqlangan kvadratik forma qanday bo‘ladi?",
+    "A": "∆_1>0, ∆_2>0,…,∆_n>0",
+    "B": "Barcha koeffitsientlar <0",
+    "C": "Bazis determinant =0",
+    "D": "Hammasi nolga teng",
+    "javob": "A"
+  },
+  {
+    "savol": "Misolda 2μ_1 μ_2+4μ_1 μ_3-μ_2^2-8μ_3^2 natijasi kanonik shaklga qanday bo‘ladi?",
+    "A": "-ε_1^2+ε_2^2-12ε_3^2",
+    "B": "ε_1^2+ε_2^2+ε_3^2",
+    "C": "0",
+    "D": "ε_1+ε_2+ε_3",
+    "javob": "A"
+  },
+  {
+    "savol": "Bazis almashinuvi nima uchun zarur?",
+    "A": "Turli indeksli ko‘paytmalarni yo‘qotish va kvadrat yig‘indisi hosil qilish",
+    "B": "Vektor uzunligini oshirish",
+    "C": "Skalyar ko‘paytma kamaytirish",
+    "D": "Determinant o‘zgarmaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Kanonik shaklga keltirishda qaysi koeffitsientlar qoladi?",
+    "A": "γ_1, γ_2,…,γ_m (m≤n)",
+    "B": "γ_1",
+    "C": "γ_n",
+    "D": "Hammasi 0",
+    "javob": "A"
+  },
+  {
+    "savol": "n ta bazisga ega fazodagi nol qism fazoning o'lchami bazislar soniga qanday bogliq",
+    "A": "Nol qism fazo o‘lchami bazisga bog‘liq emas",
+    "B": "n",
+    "C": "n-1",
+    "D": "n-2",
+    "javob": "A"
+  },
+  {
+    "savol": "Kvadratik forma matritsasining rangi va bazislar o'rtasida qanday boglilik bor",
+    "A": "Hech qanday",
+    "B": "Miqdoran teng",
+    "C": "r=n",
+    "D": "r=2n",
+    "javob": "A"
+  },
+  {
+    "savol": "Yevklid fazosida skalyar ko‘paytma qaysi aksiomalarni qanoatlantirishi kerak?",
+    "A": "(x,y)=(y,x), (λx,y)=λ(x,y), (x₁+x₂,y)=(x₁,y)+(x₂,y), (x,x)≥0 va (x,x)=0 ↔ x=0",
+    "B": "(x,y)=0 faqat nol vektorlar uchun",
+    "C": "(x+y,y)=0 doimo",
+    "D": "(x,y)=x",
+    "javob": "A"
+  },
+  {
+    "savol": "Vektorlarning uzunligi Yevklid fazosida qanday aniqlanadi?",
+    "A": "|x|=√(x,x)",
+    "B": "|x|=√x",
+    "C": "|x|=√y",
+    "D": "x=√(x,x)",
+    "javob": "A"
+  },
+  {
+    "savol": "Vektorlar orasidagi burchak formula bilan qanday aniqlanadi?",
+    "A": "cosφ=(x,y)/|x||y|",
+    "B": "φ=(x+y)/",
+    "C": "φ=(x,x+y)",
+    "D": "cosφ=(x,x)+(y,y)",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar (x,y)=0 bo‘lsa, vektorlar qanday nomlanadi?",
+    "A": "Ortogonal",
+    "B": "Parallel",
+    "C": "Perpendikulyar emas",
+    "D": "Nol vektor",
+    "javob": "A"
+  },
+  {
+    "savol": "Yevklid fazosida o‘zaro ortogonal bo‘lgan nolga teng bo‘lmagan vektorlar qanday bo‘ladi?",
+    "A": "Chiziqli erkli",
+    "B": "Parallel",
+    "C": "Skalyar",
+    "D": "Nol",
+    "javob": "A"
+  },
+  {
+    "savol": "Vektorlar o‘zaro ortogonal va har biri uzunligi 1 ga teng bo‘lsa, ular qanday bazis hosil qiladi?",
+    "A": "Ortonormal",
+    "B": "Ortonormal emas",
+    "C": "Skalyar bazis",
+    "D": "Diagonal",
+    "javob": "A"
+  },
+  {
+    "savol": "Ortogonal proyeksiya va ortogonal to‘ldiruvchi tushunchasi qaysi holatda qo‘llaniladi?",
+    "A": "Vektor V’ qism fazoga ortogonal bo‘lsa",
+    "B": "Har qanday vektor uchun",
+    "C": "Nol vektorlar uchun",
+    "D": "Har doim 0 ga teng",
+    "javob": "A"
+  },
+  {
+    "savol": "Kvadratik forma qanday aniqlanadi?",
+    "A": "Q(x)=∑ aij xi xj",
+    "B": "Q(x)=x+y",
+    "C": "Q(x)=",
+    "D": "Q(x)=x-y",
+    "javob": "A"
+  },
+  {
+    "savol": "Kvadratik forma matritsasi qanday bo‘ladi?",
+    "A": "Simmetrik",
+    "B": "Diagonal emas",
+    "C": "Nol matritsa",
+    "D": "Har qanday matritsa",
+    "javob": "A"
+  },
+  {
+    "savol": "Kompleks fazoda Hermitian skalyar ko‘paytma qanday aniqlanadi?",
+    "A": "⟨z,w⟩=z*w=∑ z̅i wi",
+    "B": "⟨z,w⟩=z+w",
+    "C": "⟨z,w⟩=",
+    "D": "⟨z,w⟩=z_i w_i",
+    "javob": "A"
+  },
+  {
+    "savol": "Hermitian skalyar ko‘paytmaning xossalaridan biri qaysi?",
+    "A": "⟨z,w⟩=(⟨w,z⟩)̅",
+    "B": "⟨z,w⟩=⟨w,z⟩",
+    "C": "⟨z,w⟩=z+w",
+    "D": "⟨z,w⟩=0",
+    "javob": "A"
+  },
+  {
+    "savol": "Hermitian skalyar ko‘paytma qachon nol bo‘ladi?",
+    "A": "z=0 bo‘lsa",
+    "B": "w=0 bo‘lsa",
+    "C": "z≠0 bo‘lsa",
+    "D": "Har doim",
+    "javob": "A"
+  },
+  {
+    "savol": "Kompleks fazoda chiziqlilik qaysi ifoda bilan ifodalanadi?",
+    "A": "⟨αz+βu,w⟩=α⟨z,w⟩+β⟨u,w⟩",
+    "B": "⟨αz+βu,w⟩=⟨z,w⟩+⟨u,w⟩",
+    "C": "⟨αz+βu,w⟩=0",
+    "D": "⟨αz+βu,w⟩=⟨u,w⟩+⟨u,z⟩",
+    "javob": "A"
+  },
+  {
+    "savol": "Kompleks kvadratik formaning kanonik shakli qanday ifodalanadi?",
+    "A": "Q(y)=λ₁",
+    "B": "Q(y)=y₁+y₂+…+y_n",
+    "C": "Q(y)=",
+    "D": "Q(y)=y₁y₂",
+    "javob": "A"
+  },
+  {
+    "savol": "Kvadratik forma kanonik shaklga qanday keltiriladi?",
+    "A": "Matritsaning xos qiymatlari va xos vektorlar asosida",
+    "B": "Har qanday vektorga qo‘shish",
+    "C": "Nol vektor bilan ko‘paytirish",
+    "D": "Real sonlar bilan",
+    "javob": "A"
+  },
+  {
+    "savol": "Qanday matritsa Hermitian deb ataladi?",
+    "A": "A=A^*",
+    "B": "A=A^T",
+    "C": "A=0",
+    "D": "Har qanday matritsa",
+    "javob": "A"
+  },
+  {
+    "savol": "Yevklid fazosida o‘zaro ortogonal vektorlar yig‘indisi uzunligi qanday aniqlanadi?",
+    "A": "|x+y|2=|x|2+|y|2",
+    "B": "|x+y|=|x|+|y|",
+    "C": "|x+y|=|x|-|y|",
+    "D": "|x+y|=|x||y|",
+    "javob": "A"
+  },
+  {
+    "savol": "Ortogonal bazis har doim mavjudmi?",
+    "A": "Ha, har qanday n-o‘lchamli Yevklid fazosida mavjud",
+    "B": "Yo‘q, faqat 3-o‘lchamli fazoda",
+    "C": "2-o‘lchamli fazoda",
+    "D": "Har doim yo‘q",
+    "javob": "A"
+  },
+  {
+    "savol": "Xos qiymatlar qaysi jarayon bilan topiladi?",
+    "A": "Matritsani diagonalizatsiya qilish",
+    "B": "Vektorlarni yig‘ish",
+    "C": "Nol bilan ko‘paytirish",
+    "D": "Har doim 1 ga teng",
+    "javob": "A"
+  },
+  {
+    "savol": "Kompleks kvadratik formaning haqiqiyligini tekshirish uchun nima qilish kerak?",
+    "A": "Matritsa Hermitian bo‘lishi kerak",
+    "B": "Matritsa diagonal bo‘lishi kerak",
+    "C": "Vektorlar ortogonal bo‘lishi kerak",
+    "D": "Xos qiymatlar musbat bo‘lishi kerak",
+    "javob": "A"
+  },
+  {
+    "savol": "Chiziqli almashtirish uchun qaysi shart bajarilishi kerak?",
+    "A": "A(x1+x2)=A(x1)+A(x2) va A(λx)=λA(x)",
+    "B": "A(x+y)=A(x)A(y)",
+    "C": "A(x+y)=A(x)−A(y)",
+    "D": "A(λx)=A(x)+λA",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar Ae1=g1, Ae2=g2,…,Aen=gn bo‘lsa, qaysi xulosa to‘g‘ri?",
+    "A": "Bunday chiziqli almashtirish mavjud va yagona",
+    "B": "Hech qanday chiziqli almashtirish mavjud emas",
+    "C": "Ko‘p xil chiziqli almashtirish mavjud",
+    "D": "Nul almashtirish mavjud",
+    "javob": "A"
+  },
+  {
+    "savol": "Chiziqli almashtirishlarning yig‘indisi C=A+B bo‘lsa, C(x) qanday aniqlanadi?",
+    "A": "Cx = Ax + Bx",
+    "B": "Cx = Ax * Bx",
+    "C": "Cx = Ax - Bx",
+    "D": "Cx = Bx - Ax",
+    "javob": "A"
+  },
+  {
+    "savol": "λA chiziqli almashtirish uchun (λA)x=?",
+    "A": "λ(Ax)",
+    "B": "Ax + λ",
+    "C": "λ + x",
+    "D": "λ / Ax",
+    "javob": "A"
+  },
+  {
+    "savol": "Chiziqli almashtirishlarning ketma-ket ko‘paytmasi C = AB bo‘lsa, C(x) qanday aniqlanadi?",
+    "A": "Cx = A(Bx)",
+    "B": "Cx = B(Ax)",
+    "C": "Cx = Ax + Bx",
+    "D": "Cx = Ax - Bx",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar A chiziqli almashtirish va E birlik almashtirish berilgan bo‘lsa, qaysi xulosa to‘g‘ri?",
+    "A": "AE = EA = A",
+    "B": "AE = EA = E",
+    "C": "AE = A + E",
+    "D": "AE = 0",
+    "javob": "A"
+  },
+  {
+    "savol": "Chiziqli almashtirish A teskari bo‘lishi uchun qaysi shart kerak?",
+    "A": "AB = BA = E",
+    "B": "AB = 0",
+    "C": "A + B = E",
+    "D": "A * B = 0",
+    "javob": "A"
+  },
+  {
+    "savol": "Chiziqli almashtirishning matritsasi determinanti 0 bo‘lmasa, u nima bo‘ladi?",
+    "A": "Teskarilanuvchi",
+    "B": "Nul almashtirish",
+    "C": "Diagonal",
+    "D": "Simmetrik",
+    "javob": "A"
+  },
+  {
+    "savol": "Chiziqli almashtirishning obrazi nima?",
+    "A": "Ax ko‘rinishidagi barcha vektorlar jamlanmasi",
+    "B": "Ax = 0 bo‘lgan barcha vektorlar",
+    "C": "Bir vektor",
+    "D": "Hech qanday vektor",
+    "javob": "A"
+  },
+  {
+    "savol": "Ixtiyoriy chiziqli almashtirishning obrazi nima tashkil qiladi?",
+    "A": "Qism fazo",
+    "B": "Butun fazo",
+    "C": "Nol element",
+    "D": "Diagonal matritsa",
+    "javob": "A"
+  },
+  {
+    "savol": "A chiziqli almashtirishning rangi nima?",
+    "A": "Obraz qism fazosining o‘lchami",
+    "B": "Yadro qism fazosining o‘lchami",
+    "C": "Determinant",
+    "D": "Diagonal elementi",
+    "javob": "A"
+  },
+  {
+    "savol": "Chiziqli almashtirishning yadrosi nima?",
+    "A": "Ax = 0 bo‘lgan barcha vektorlar",
+    "B": "Ax = y bo‘lgan barcha vektorlar",
+    "C": "Bir vektor",
+    "D": "Hech qaysi vektor",
+    "javob": "A"
+  },
+  {
+    "savol": "Ixtiyoriy chiziqli almashtirishning yadrosi nima tashkil qiladi?",
+    "A": "Qism fazo",
+    "B": "Butun fazo",
+    "C": "Diagonal matritsa",
+    "D": "Nul element",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar A: P(x) = P’(x) differensiallash bo‘lsa, yadrosi nima?",
+    "A": "Konstantalar",
+    "B": "Noldan farqli vektorlar",
+    "C": "Hech qanday vektor",
+    "D": "Butun fazo",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar A: P(x) = P’(x), obrazi qanday?",
+    "A": "Darajasi n-1 dan oshmaydigan ko‘phadlar",
+    "B": "Konstanta",
+    "C": "Diagonal matritsa",
+    "D": "Butun fazo",
+    "javob": "A"
+  },
+  {
+    "savol": "Chiziqli almashtirishlarda ketma-ket ko‘paytma xossasi qanday?",
+    "A": "A(BC) = (AB)C",
+    "B": "A(BC) = AC + B",
+    "C": "A(BC) = AB + C",
+    "D": "A(BC) = B + C",
+    "javob": "A"
+  },
+  {
+    "savol": "Chiziqli almashtirishlarni qo‘shish distributivligi qanday?",
+    "A": "(A + B)C = AC + BC",
+    "B": "(A + B)C = A + B + C",
+    "C": "(A + B)C = AC * BC",
+    "D": "(A + B)C = C",
+    "javob": "A"
+  },
+  {
+    "savol": "Chiziqli almashtirishning darajasi qanday aniqlanadi?",
+    "A": "A² = A•A, A³ = A²•A …",
+    "B": "A² = 2A",
+    "C": "A² = 0",
+    "D": "A² = E + A",
+    "javob": "A"
+  },
+  {
+    "savol": "Polinom funksiyasi P(A) qanday aniqlanadi?",
+    "A": "P(A) = a₀ A^m + a₁ A^(m-1) + … + a_m E",
+    "B": "P(A) = A + a₀",
+    "C": "P(A) = A * E",
+    "D": "P(A) = A - E",
+    "javob": "A"
+  },
+  {
+    "savol": "Chiziqli almashtirish A teskari bo‘lsa, obrazi qanday?",
+    "A": "Butun fazo bilan ustma-ust tushadi",
+    "B": "Yadro bilan ustma-ust tushadi",
+    "C": "Nol element bilan ustma-ust tushadi",
+    "D": "Diagonal element bilan ustma-ust tushadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Kvadratik formaning kanonik ko‘rinishidagi 0, 1 va –1 koeffitsientlar soni nima bilan xarakterlanadi?",
+    "A": "Bazis tanlashga bog‘liq bo‘lmagan son",
+    "B": "Bazis tanlashga bog‘liq son",
+    "C": "Manfiy koeffitsientlar soni",
+    "D": "Musbat koeffitsientlar soni",
+    "javob": "A"
+  },
+  {
+    "savol": "Inersiya qonuni nimani ta’minlaydi?",
+    "A": "Kanonik ko‘rinishdagi musbat, manfiy va nol koeffitsientlar soni bir xil bo‘ladi",
+    "B": "Bazis tanlashni erkin qiladi",
+    "C": "Kvadratik forma rangini oshiradi",
+    "D": "Determinantni nolga teng qiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Kvadratik formaning rangi nimaga teng?",
+    "A": "Kanonik ko‘rinishdagi noldan farqli koeffitsientlar soniga",
+    "B": "Matritsaning determinantiga",
+    "C": "Bazis o‘lchamiga",
+    "D": "Nolga teng koeffitsientlar soniga",
+    "javob": "A"
+  },
+  {
+    "savol": "Nol qism fazosi V_0 nima?",
+    "A": "Barcha x∈V uchun A(x,y)=0 shartini qanoatlantiruvchi y vektorlar to‘plami",
+    "B": "A(x,x)=0 bo‘lgan vektorlar",
+    "C": "Musbat koeffitsientlar to‘plami",
+    "D": "Manfiy koeffitsientlar to‘plami",
+    "javob": "A"
+  },
+  {
+    "savol": "V_0 fazosi qanday xossaga ega?",
+    "A": "Chiziqli fazo (ya’ni vektorlar yig‘indisi va skalyar ko‘paytmaga yopiq)",
+    "B": "Determinant = 0",
+    "C": "Bazisga bog‘liq",
+    "D": "Nolga teng bo‘ladi",
+    "javob": "A"
+  },
+  {
+    "savol": "V_0 o‘lchami qanday aniqlanadi?",
+    "A": "n - rang(A)",
+    "B": "Rang(A)",
+    "C": "n",
+    "D": "0",
+    "javob": "A"
+  },
+  {
+    "savol": "Kvadratik forma matritsasining rangi nima bilan bog‘liq?",
+    "A": "Kvadratik forma rangiga",
+    "B": "Bazis tanlashga",
+    "C": "Musbat koeffitsientlar soniga",
+    "D": "Nolga teng koeffitsientlar soniga",
+    "javob": "A"
+  },
+  {
+    "savol": "Turli bazislarda kvadratik formaning matritsasi rangi qanday bo‘ladi?",
+    "A": "Har doim bir xil",
+    "B": "Bazisga bog‘liq",
+    "C": "Diagonal holatda",
+    "D": "Nolga teng",
+    "javob": "A"
+  },
+  {
+    "savol": "n-o‘lchamli V fazoda k va l o‘lchamli V_1 va V_2 qism fazolar berilgan bo‘lsa, agar k+l>n bo‘lsa nima mavjud?",
+    "A": "Ikkala qism fazoga tegishli noldan farqli vektor x",
+    "B": "Musbat vektor",
+    "C": "Manfiy vektor",
+    "D": "Determinant 0",
+    "javob": "A"
+  },
+  {
+    "savol": "Kvadratik forma rangi kanonik shakl orqali qanday topiladi?",
+    "A": "Noldan farqli koeffitsientlar soni orqali",
+    "B": "Matritsa determinantini hisoblash orqali",
+    "C": "Bazis o‘lchamidan",
+    "D": "Skalyar ko‘paytma orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar kvadratik forma ikki xil bazisda kanonik ko‘rinishga keltirilsa, musbat va manfiy koeffitsientlar soni qanday bo‘ladi?",
+    "A": "Ikkala holatda ham bir xil",
+    "B": "Turlicha bo‘ladi",
+    "C": "Nolga teng bo‘ladi",
+    "D": "Musbat bo‘ladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Bazis almashinuvi kvadratik formaga nima beradi?",
+    "A": "Kanonik shaklga o‘tkazish imkoniyati",
+    "B": "Determinant = 0",
+    "C": "Rangni oshiradi",
+    "D": "Skalyar ko‘paytma kamayadi",
+    "javob": "A"
+  },
+  {
+    "savol": "A(x,x) kanonik shaklida diagonal elementlar qanday bo‘ladi?",
+    "A": "0, 1 yoki –1",
+    "B": "Musbat har doim",
+    "C": "Manfiy har doim",
+    "D": "Arbitrary sonlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Kanonik shaklga keltirilganda nol koeffitsientlar soni nima bilan bog‘liq?",
+    "A": "V_0 o‘lchami bilan",
+    "B": "Musbat koeffitsientlar bilan",
+    "C": "Manfiy koeffitsientlar bilan",
+    "D": "Rang bilan bog‘liq emas",
+    "javob": "A"
+  },
+  {
+    "savol": "Matritsaning ∆_i minorlarining rolini nima tashkil qiladi?",
+    "A": "Manfiy koeffitsientlar sonini belgilaydi",
+    "B": "Musbat koeffitsientlar sonini oshiradi",
+    "C": "Rangni kamaytiradi",
+    "D": "Bazis o‘lchamini oshiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Kvadratik formaning rangini topish uchun nima yetarli?",
+    "A": "Uni biror bazisdagi matritsasining rangini hisoblash",
+    "B": "Musbat va manfiy koeffitsientlarni hisoblash",
+    "C": "Nol koeffitsientlarni qo‘shish",
+    "D": "Determinantni topish",
+    "javob": "A"
+  },
+  {
+    "savol": "Kvadratik formaning kanonik shakli nima bilan ifodalanadi?",
+    "A": "Diagonal elementlari 0, 1, –1 bo‘lgan shaklda",
+    "B": "Arbitrary sonlar bilan",
+    "C": "Bazis vektorlarining yig‘indisi bilan",
+    "D": "Skalyar ko‘paytma orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Rang va kanonik shakldagi noldan farqli koeffitsientlar soni orasidagi bog‘lanish qanday?",
+    "A": "Teng",
+    "B": "Farq qiladi",
+    "C": "Nolga teng",
+    "D": "Musbat bo‘ladi",
+    "javob": "A"
+  },
+  {
+    "savol": "dim(Im(A)) nima manoni anglatadi",
+    "A": "n o‘lchamli V chiziqli fazodagi ixtiyoriy A almashtirishning obrazining o'lchami",
+    "B": "n o‘lchamli V chiziqli fazodagi ixtiyoriy A almashtirishning yadrosining o'lchami",
+    "C": "A matritsaning tranponirlanganini",
+    "D": "A ga teskari matritsani",
+    "javob": "A"
+  },
+  {
+    "savol": "dim(Ker(A)) nima manoni anglatadi",
+    "A": "n o‘lchamli V chiziqli fazodagi ixtiyoriy A almashtirishning yadrosining o'lchami",
+    "B": "n o‘lchamli V chiziqli fazodagi ixtiyoriy A almashtirishning obrazining o'lchami",
+    "C": "A matritsaning tranponirlanganini",
+    "D": "A ga teskari matritsani",
+    "javob": "A"
+  },
+  {
+    "savol": "Qo‘shma chiziqli almashtirish nima?",
+    "A": "A(x,y)=(Ax,y) shartni qanoatlantiruvchi chiziqli A almashtirish",
+    "B": "(x,A*y) orqali ifodalanadigan chiziqli almashtirish",
+    "C": "Matritsasi diagonal bo‘lgan har qanday A",
+    "D": "O‘z-o‘ziga qo‘shma almashtirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Qo‘shma almashtirishning kanonik shakli qanday aniqlanadi?",
+    "A": "Ortogonal bazisda matritsasi diagonal va haqiqiy elementlardan iborat",
+    "B": "Bazis tanlovi bilan belgilanadi",
+    "C": "Matritsa skalyar ko‘paytmaga teng bo‘ladi",
+    "D": "Har doim 0, 1, -1 elementlardan iborat",
+    "javob": "A"
+  },
+  {
+    "savol": "Yevklid fazosida chiziqli almashtirish va bichiziqli forma orasidagi moslik qanday bo‘ladi?",
+    "A": "A(x,y)=(Ax,y)",
+    "B": "A(x,y)=(x,A^*y)",
+    "C": "A(x,y)=(x,y)",
+    "D": "Har doim diagonal matritsa orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Qo‘shma almashtirish A^* qanday aniqlanadi?",
+    "A": "Matritsa elementlarini transpoze qilib qo‘shma qilish orqali",
+    "B": "Bazis o‘lchamini oshirib",
+    "C": "Determinantni 0 ga tenglab",
+    "D": "Rangni oshirib",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘z-o‘ziga qo‘shma chiziqli almashtirishning ta’rifi nima?",
+    "A": "A^*=A bo‘lsa",
+    "B": "A^*=0 bo‘lsa",
+    "C": "Matritsa faqat diagonal bo‘lsa",
+    "D": "Rang o‘zgaruvchisi teng bo‘lsa",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘z-o‘ziga qo‘shma bo‘lishi uchun A(x,y) qanday shartni qanoatlantirishi kerak?",
+    "A": "A(x,y)=(A(y,x))̅",
+    "B": "A(x,y)=(x,y)",
+    "C": "A(x,y)=(Ax,y)",
+    "D": "A(x,y)=0",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘z-o‘ziga qo‘shma chiziqli almashtirishlarning juftlari qanday shart bilan o‘z-o‘ziga qo‘shma bo‘lishi mumkin?",
+    "A": "AB=BA",
+    "B": "AB=0",
+    "C": "A^2=B^2",
+    "D": "Rang(A)=Rang(B)",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘z-o‘ziga qo‘shma almashtirishning xos qiymatlari qanday?",
+    "A": "Haqiqiy sonlar",
+    "B": "Kompleks sonlar",
+    "C": "Nolga teng",
+    "D": "Musbat yoki manfiy",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘z-o‘ziga qo‘shma chiziqli almashtirishning xos vektorlari qanday xossaga ega?",
+    "A": "O‘zaro ortogonal",
+    "B": "Bazisga bog‘liq",
+    "C": "Nolga teng",
+    "D": "Arbitrary sonlar bilan",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar A o‘z-o‘ziga qo‘shma bo‘lsa, ortonormal bazisda matritsasi qanday bo‘ladi?",
+    "A": "Diagonal va haqiqiy elementlar bilan",
+    "B": "Diagonal va kompleks elementlar bilan",
+    "C": "Nol elementlardan iborat",
+    "D": "Arbitrary sonlar bilan",
+    "javob": "A"
+  },
+  {
+    "savol": "Turli xos qiymatga mos xos vektorlari qanday?",
+    "A": "O‘zaro ortogonal",
+    "B": "Bazisga bog‘liq",
+    "C": "Nolga teng",
+    "D": "Arbitrary sonlar bilan",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘z-o‘ziga qo‘shma almashtirishning turli xos qiymatlariga mos bo‘lgan xos vektorlari o‘zaro ……...",
+    "A": "Ortogonal",
+    "B": "Kolleniar",
+    "C": "Komplanar",
+    "D": "Teng",
+    "javob": "A"
+  },
+  {
+    "savol": "Aytaylik, A almashtirish n o‘lchamli fazoda o‘z o‘ziga qo‘shma chiziqli almashtirish bo‘lsin. U holda shunday ………….. bazis mavjudki, bu bazisda A almashtirishning matritsasi diagonal shaklga kelib, elementlari haqiqiy sonlardan iborat bo‘ladi",
+    "A": "Ortonormal",
+    "B": "Ortogonal",
+    "C": "Komplanar",
+    "D": "Kollenear",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar biror ortonormal bazisda A almashtirishning matritsasi diagonal shaklda va elementlari haqiqiy sonlar bo‘lsa, u holda A …….. chiziqli almashtirish bo‘ladi",
+    "A": "O‘z-o‘ziga qo‘shma",
+    "B": "Ortogonal",
+    "C": "Komplanar",
+    "D": "Kollenear",
+    "javob": "A"
+  },
+  {
+    "savol": "n o‘lchamli Yevklid fazosidagi o‘z-o‘ziga qo‘shma A chiziqli almashtirish ... ta juft-jufti bilan ortogonal bo‘lgan xos vektorlarga ega",
+    "A": "n",
+    "B": "n-1",
+    "C": "n-k",
+    "D": "n+1",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘z-o‘ziga qo‘shma almashtirishning xos qiymatlari ……. sonlardir",
+    "A": "Haqiqiy sonlar",
+    "B": "Kompleks sonlar",
+    "C": "Ratsional sonlar",
+    "D": "Irratsional sonlar",
+    "javob": "A"
+  },
+  {
+    "savol": "A va B o‘z-o‘ziga qo‘shma chiziqli almashtirishlar bo‘lsin. AB almashtirish ham o‘z-o‘ziga qo‘shma bo‘lishi uchun ….. tenglik bajarilishi zarur va yetarlidir",
+    "A": "AB=BA",
+    "B": "AB=B",
+    "C": "A=BA",
+    "D": "B=A",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar A chiziqli almashtirish uchun …. shart bajarilsa, u holda A o‘z-o‘ziga qo‘shma chiziqli almashtirish deyiladi",
+    "A": "A* =A",
+    "B": "A* =1",
+    "C": "A* =E",
+    "D": "A* =0",
+    "javob": "A"
+  }
+]
