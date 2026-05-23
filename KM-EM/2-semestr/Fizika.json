@@ -1,0 +1,1130 @@
+[
+  {
+    "savol": "Tabiatda necha xil zaryad mavjud?",
+    "A": "2",
+    "B": "3",
+    "C": "1",
+    "D": "4",
+    "javob": "A"
+  },
+  {
+    "savol": "“Tok”ni -lug’aviy ma’nosi?",
+    "A": "Oqim",
+    "B": "Magnit",
+    "C": "Qutb",
+    "D": "Zaryad",
+    "javob": "A"
+  },
+  {
+    "savol": "Zaryadli zarralarning tartibli harakati",
+    "A": "Elektr toki",
+    "B": "Maydon toki",
+    "C": "Magnit toki",
+    "D": "Fototok",
+    "javob": "A"
+  },
+  {
+    "savol": "Tok kuchini o’lchovchi asbob nomi",
+    "A": "Ampermetr",
+    "B": "Voltmeter",
+    "C": "Termometr",
+    "D": "Psixometr",
+    "javob": "A"
+  },
+  {
+    "savol": "Ampermetr elektr zanjiriga qanday ulanadi?",
+    "A": "Ketma-ket",
+    "B": "Parallel",
+    "C": "To’g’ri",
+    "D": "Tekis",
+    "javob": "A"
+  },
+  {
+    "savol": "Kuchlanishni o’lchovchi asbob nomi?",
+    "A": "Voltmetr",
+    "B": "Ampermetr",
+    "C": "Termometr",
+    "D": "Psixometr",
+    "javob": "A"
+  },
+  {
+    "savol": "Voltmetr elektr zanjiriga qanday ulanadi?",
+    "A": "Parallel",
+    "B": "Ketma-ket",
+    "C": "To’g’ri",
+    "D": "Tekis",
+    "javob": "A"
+  },
+  {
+    "savol": "Tabiatda qanday zaryad mavjud emas?",
+    "A": "Magnit zaryad",
+    "B": "Musbat zaryad",
+    "C": "Manfiy zaryad",
+    "D": "Musbat va magnit zaryad",
+    "javob": "A"
+  },
+  {
+    "savol": "Abu Rayxon Beruniy o’z asarida magnitni qanday nom bilan atagan?",
+    "A": "“ohanrabo” – “temirni tortuvchi”",
+    "B": "Tortishish kuchi",
+    "C": "Ishqalanish",
+    "D": "Elastik",
+    "javob": "A"
+  },
+  {
+    "savol": "Magnit maydonni nima hosil qiladi?",
+    "A": "Elektr toki",
+    "B": "Magnit oqim",
+    "C": "Lorens kuchu",
+    "D": "Amper kuchi",
+    "javob": "A"
+  },
+  {
+    "savol": "O’z atrofida magnit maydonni uzoq vaqt yo’qotmaydigan jism",
+    "A": "Magnit",
+    "B": "Rezistor",
+    "C": "Reostat",
+    "D": "Uyurma",
+    "javob": "A"
+  },
+  {
+    "savol": "Magnitni nechta qutbi mavjud?",
+    "A": "2",
+    "B": "3",
+    "C": "4",
+    "D": "5",
+    "javob": "A"
+  },
+  {
+    "savol": "Magnitning qanday qutblari mavjud?",
+    "A": "Shimоliу (N) va janubiу (S)",
+    "B": "Shimоliу (F) va janubiу (S)",
+    "C": "Shimоliу (N) va janubiу (D)",
+    "D": "Shimоliу (E) va janubiу (A)",
+    "javob": "A"
+  },
+  {
+    "savol": "Mаgnit mаydоn kuch chiziqlarining yo‘nalishi………",
+    "A": "Magnitning shimoliy qutbidan chiqib, uning janubiy qutbiga kiruvchi yopiq chiziqlardan iborat deb qabul qilingan",
+    "B": "Magnitning qutbidan chiqadi",
+    "C": "Qutbga kiruvchi  chiziq",
+    "D": "Yopiq chiziqlardan",
+    "javob": "A"
+  },
+  {
+    "savol": "Qanday maydonlar uyurmаviy mаydоn?",
+    "A": "Kuch chiziqlаri bеrk (yopiq) bo‘lgаn mаydоnlаr",
+    "B": "Ochiq maydon",
+    "C": "Berk toki",
+    "D": "Elektr zanjiri",
+    "javob": "A"
+  },
+  {
+    "savol": "Vakuum nima ?",
+    "A": "Havosiz bo’shliq",
+    "B": "Elektr zanjir",
+    "C": "Suv to’ldirilgan idish",
+    "D": "Havosi bor idish",
+    "javob": "A"
+  },
+  {
+    "savol": "Zaryad miqdorini birligi qaysi javobda to’g’ri berilgan?",
+    "A": "Kulon",
+    "B": "Nyuton",
+    "C": "Paskal",
+    "D": "Arxemed",
+    "javob": "A"
+  },
+  {
+    "savol": "Vakuumda elektr toki nimadan iborat?",
+    "A": "Elektronlar oqimining tartibli harakatidan",
+    "B": "Elektr toki",
+    "C": "Magnit toki",
+    "D": "Vakuum toki",
+    "javob": "A"
+  },
+  {
+    "savol": "Zaryad miqdori qaysi harf bilan belgilanadi?",
+    "A": "Q",
+    "B": "A",
+    "C": "V",
+    "D": "F",
+    "javob": "A"
+  },
+  {
+    "savol": "Kulon qaysi kattalik birligi?",
+    "A": "Zaryad miqdori",
+    "B": "Tok kuchi",
+    "C": "Vaqt",
+    "D": "Kuchlanish",
+    "javob": "A"
+  },
+  {
+    "savol": "Magnit maydon induksiyasi belgisi qaysi javobda to’g’ri berilgan?",
+    "A": "B",
+    "B": "F",
+    "C": "P",
+    "D": "A",
+    "javob": "A"
+  },
+  {
+    "savol": "Tesla qaysi vektor kattalik birligi?",
+    "A": "Magnit maydon induksiya",
+    "B": "Ish",
+    "C": "Kuch",
+    "D": "Bosim",
+    "javob": "A"
+  },
+  {
+    "savol": "Magnit induksiya  vektorining, yuzaga ko‘paytmasi      ?",
+    "A": "Magnit oqimi",
+    "B": "Magnit maydon",
+    "C": "Tasmasimon magnit",
+    "D": "Taqasimon magnit",
+    "javob": "A"
+  },
+  {
+    "savol": "Magnit oqim birligi?",
+    "A": "Veber",
+    "B": "Joul",
+    "C": "Kulon",
+    "D": "Amper",
+    "javob": "A"
+  },
+  {
+    "savol": "Chap qo‘l qоidasi ta’rifi qaysi javobda to’g’ri berilgan?",
+    "A": "Agar chap qo‘lning kaftiga magnit induksiyasi vеktоrini tik tushadigan va ko‘rsatkich barmоqlar yo‘nalishi musbat zaryadning yo‘nalishi bilan bir xil bo‘lsa, u hоlda 90° ga kerilgan bosh barmоq Lorens kuchining yo‘nalishini ko‘rsatadi",
+    "B": "Agar chap qo‘lning kaftiga magnit induksiyasi vеktоrini tik tushadigan va ko‘rsatkich barmоqlar yo‘nalishi musbat zaryadning yo‘nalishi bilan bir xil bo‘lsa, u hоlda 50° ga kerilgan bosh barmоq Lorens kuchining yo‘nalishini ko‘rsatadi",
+    "C": "Agar chap qo‘lning kaftiga magnit induksiyasi vеktоrini tik tushadigan va ko‘rsatkich barmоqlar yo‘nalishi musbat zaryadning yo‘nalishi bilan bir xil bo‘lsa, u hоlda 30° ga kerilgan bosh barmоq Lorens kuchining yo‘nalishini ko‘rsatadi",
+    "D": "Agar chap qo‘lning kaftiga magnit induksiyasi vеktоrini tik tushadigan va ko‘rsatkich barmоqlar yo‘nalishi musbat zaryadning yo‘nalishi bilan bir xil bo‘lsa, u hоlda 45° ga kerilgan bosh barmоq Lorens kuchining yo‘nalishini ko‘rsatadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Tashqimagnit maydon ta’sirida magnitlanib qoluvchi moddalar",
+    "A": "Magnetiklar",
+    "B": "Magnit oqimi",
+    "C": "Magnit maydon",
+    "D": "Tasmasimon magnit",
+    "javob": "A"
+  },
+  {
+    "savol": "Magnit singdiruvchanlik nimani anglatadi?",
+    "A": "Muhitning tabiatiga bog‘liq bo‘lib, muhit va vakuumdagi magnit maydon induksiyalarining nisbatini bildiradi",
+    "B": "Elektr maydonnni",
+    "C": "Magnit maydonni",
+    "D": "Zaryadni",
+    "javob": "A"
+  },
+  {
+    "savol": "Magnit singdiruvchanligi birdan kichik (μ < 1) bo‘lgan moddalar",
+    "A": "Diamagnetiklar",
+    "B": "Paramagnetiklar",
+    "C": "Ferromagnetiklar",
+    "D": "Magnetiklar",
+    "javob": "A"
+  },
+  {
+    "savol": "Magnit singdiruvchanligi birdan biroz katta (μ > 1) bo‘lgan moddalar",
+    "A": "Paramagnetiklar",
+    "B": "Diamagnetiklar",
+    "C": "Ferromagnetiklar",
+    "D": "Magnetiklar",
+    "javob": "A"
+  },
+  {
+    "savol": "Magnit singdiruvchanligi birdan juda katta (μ >> 1) bo‘lgan moddalar",
+    "A": "Ferromagnetiklar",
+    "B": "Paramagnetiklar",
+    "C": "Diamagnetiklar",
+    "D": "Magnetiklar",
+    "javob": "A"
+  },
+  {
+    "savol": "Fizikaning yorug’likning nurlanishi,yutilishi va tarqalish qonunlarini o’rganadigan bo’lim?",
+    "A": "Optika",
+    "B": "Mexanika",
+    "C": "Molekulyar fizika",
+    "D": "Termodinamika",
+    "javob": "A"
+  },
+  {
+    "savol": "Geometrik optika necha qonunga asoslanadi?",
+    "A": "4",
+    "B": "3",
+    "C": "5",
+    "D": "6",
+    "javob": "A"
+  },
+  {
+    "savol": "Yorug’lik to’g’ri chiziq bo’ylab tarqalishi, sinishi va qaytishi qonuni qaysi optikada o’rganiladi?",
+    "A": "Geometrik optika",
+    "B": "Termodinamik optika",
+    "C": "Molekulyar optika",
+    "D": "Atom optikasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Fiziologik optikada nima o’rganiladi?",
+    "A": "Yorug’likning rivojlanuvchi organizmga ta’siri",
+    "B": "Yorug’lik",
+    "C": "Nur",
+    "D": "Yorug’lik hodisasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Yorug’lik manbalari nechi turga bo’linadi?",
+    "A": "2",
+    "B": "3",
+    "C": "5",
+    "D": "6",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi javobda yorug’lik manbalari tog’ri berilgan?",
+    "A": "Tabiiy,sun’iy",
+    "B": "Tabiiy, tez",
+    "C": "Sun’iy sekin",
+    "D": "Quyosh, yulduz",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyosh, yulduzlar, chaqmoq qanday yorug’lik manbalariga kiradi?",
+    "A": "Tabiiy",
+    "B": "Sun’iy",
+    "C": "Yorug’lik dispersiyasi",
+    "D": "Yorug’lik dispersiyasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Inson aralashuvi bilan hosil qilinadigan yorug’lik manbalari?",
+    "A": "Sun’iy",
+    "B": "Tabiiy",
+    "C": "Yorug’lik dispersiyasi",
+    "D": "Yorug’lik dispersiyasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Yorug’lik ta’sirida ishlaydigan jismlar?",
+    "A": "Yorug’lik qabul qilgichlar",
+    "B": "Yorug’lik dispersiyasi",
+    "C": "Yorug’lik dispersiyasi",
+    "D": "Yorug’lik hodisasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyosh nuri yerga taxminan necha minutda yetib keladi?",
+    "A": "8,3",
+    "B": "9,3",
+    "C": "9,2",
+    "D": "9,1",
+    "javob": "A"
+  },
+  {
+    "savol": "Yorug’lik qanday to’lqin?",
+    "A": "Elektromagnit to’lqin",
+    "B": "Tekis to’lqin",
+    "C": "Magnit to’lqin",
+    "D": "Elektr to’lqin",
+    "javob": "A"
+  },
+  {
+    "savol": "Yo‘nalishlari fazoning ixtiyoriy nuqtasida yorug‘lik energiyasining ko‘chish yo‘nalishi bilan ustma-ust tushgan geometrik chiziq",
+    "A": "Yoruglik nuri",
+    "B": "Yorug’lik sinishi",
+    "C": "Yorug’lik qaytishi",
+    "D": "Oddiy chiziq",
+    "javob": "A"
+  },
+  {
+    "savol": "Geometrik optika nechta qonunga asoslangan?",
+    "A": "4",
+    "B": "6",
+    "C": "8",
+    "D": "10",
+    "javob": "A"
+  },
+  {
+    "savol": "Ikki tomoni sferik sirt bilan chegaralangan shaffof jism ?",
+    "A": "Linza",
+    "B": "Lupa",
+    "C": "Teleskop",
+    "D": "Ko’z",
+    "javob": "A"
+  },
+  {
+    "savol": "Linza deb nimaga aytiladi?",
+    "A": "Ikki tomoni sferik sirt bilan chegaralangan shaffof jism",
+    "B": "Shisha jism",
+    "C": "Qavariq jism",
+    "D": "Botiq jism",
+    "javob": "A"
+  },
+  {
+    "savol": "Linzaning optik markazidan fokusgacha bo’lgan masofa",
+    "A": "Linzaning fokusi",
+    "B": "Diopteriya",
+    "C": "Masofa",
+    "D": "Optik markazi",
+    "javob": "A"
+  },
+  {
+    "savol": "Fokus masofasiga teskari bo‘lgan kattalik?",
+    "A": "Linzaning optik kuchi",
+    "B": "Diopteriya",
+    "C": "Masofa",
+    "D": "Optik markazi",
+    "javob": "A"
+  },
+  {
+    "savol": "Optik kuchi qaysi harf bilan belgilanadi?",
+    "A": "D",
+    "B": "F",
+    "C": "O",
+    "D": "H",
+    "javob": "A"
+  },
+  {
+    "savol": "Optik kuchining birligi?",
+    "A": "Diopteriya",
+    "B": "Nyuton",
+    "C": "Metr",
+    "D": "Paskal",
+    "javob": "A"
+  },
+  {
+    "savol": "Diopteriya qaysi kattalik birligi?",
+    "A": "Optik kuchi",
+    "B": "Optik markaz",
+    "C": "Fokus masofa",
+    "D": "Linza",
+    "javob": "A"
+  },
+  {
+    "savol": "Interferensiya so’zining  lug’aviy ma’nosi?",
+    "A": "To’qnashaman",
+    "B": "Yoritaman",
+    "C": "Mustaqillik",
+    "D": "Tekis",
+    "javob": "A"
+  },
+  {
+    "savol": "Interferensiya-… ?",
+    "A": "Chastotalari bir xil, faza farqlari o’zgarmas bo’lgan to’lqinlar uchrashganda bir-birini kuchaytirishi yoki susaytirishi",
+    "B": "Chastotasi har xil",
+    "C": "Fazalar bir xil",
+    "D": "To’lqinlari bir xil",
+    "javob": "A"
+  },
+  {
+    "savol": "Chastotalari bir xil, faza farqlari o’zgarmas bo’lgan to’lqinlar uchrashganda bir-birini kuchaytirishi yoki susaytirishi?",
+    "A": "Interferensiya",
+    "B": "Yorug’lik",
+    "C": "Faza",
+    "D": "Chastota",
+    "javob": "A"
+  },
+  {
+    "savol": "Difraksiya soz’ining lug’aviy ma’nosi?",
+    "A": "Singan, egilgan",
+    "B": "Yorug’lik",
+    "C": "Nur",
+    "D": "Faza",
+    "javob": "A"
+  },
+  {
+    "savol": "Yorug’lik qanday tarqaladi?",
+    "A": "To’g’ri chiziq bo’ylab",
+    "B": "Tekis",
+    "C": "Aylana",
+    "D": "Tez",
+    "javob": "A"
+  },
+  {
+    "savol": "To’lqinlarning kichik teshik yoki tirqishga tushganda uning geometrik soya tomoniga tarqalish hodisasi",
+    "A": "Yorug’lik difraksiyasi",
+    "B": "Yoruglik fazasi",
+    "C": "Yorug’lik chastotasi",
+    "D": "Yorug’lik tezligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Difraksion panjara-?",
+    "A": "Bitta teshik, bitta tirqish navbatma-navbat joylashgan optik asbob",
+    "B": "Yoruglik fazasi",
+    "C": "Yorug’lik chastotasi",
+    "D": "Yorug’lik tezligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Bitta teshik, bitta tirqish navbatma-navbat joylashgan optik asbob?",
+    "A": "Difraksion panjara",
+    "B": "Yoruglik fazasi",
+    "C": "Yorug’lik chastotasi",
+    "D": "Yorug’lik tezligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Difraksion panjara tirqishlarining joylashishiga qarab necha turga bo’linadi?",
+    "A": "2",
+    "B": "3",
+    "C": "4",
+    "D": "5",
+    "javob": "A"
+  },
+  {
+    "savol": "Tartibli difraksion panjarada,tirqishlari qanday   joylashgan bo’ladi",
+    "A": "Ma’lum bir qat’iy tartibda",
+    "B": "Tekis tartibda",
+    "C": "Singan",
+    "D": "Og’gan",
+    "javob": "A"
+  },
+  {
+    "savol": "Difraksion panjarada tirqishning kengligi qaysi harf bilan ifodalanadi?",
+    "A": "A",
+    "B": "S",
+    "C": "G",
+    "D": "H",
+    "javob": "A"
+  },
+  {
+    "savol": "Panjara doimiysi qaysi harf bilan belgilanadi?",
+    "A": "D",
+    "B": "F",
+    "C": "H",
+    "D": "K",
+    "javob": "A"
+  },
+  {
+    "savol": "Dispersiya so’zining lug’aviy ma’nosi?",
+    "A": "Sochilish",
+    "B": "Tezlashish",
+    "C": "Sekinlashish",
+    "D": "Og’ish",
+    "javob": "A"
+  },
+  {
+    "savol": "Dispesiya nima?",
+    "A": "Muhit sindirish ko’rsatkichining yorug’lik to’lqin uzunligiga bog’liqligi",
+    "B": "Ma’lum bir qat’iy tartibda",
+    "C": "Tekis tartibda",
+    "D": "Yorug’lik chastotasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Optikada nima o’rganiladi?",
+    "A": "Fizikaning yorug’likning nurlanishi,yutilishi va tarqalish qonunlari",
+    "B": "Tezliklar",
+    "C": "Kuchlar",
+    "D": "Zaryadlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Geometrik optikada nima o’rganiladi?",
+    "A": "Yorug’lik to’g’ri chiziq bo’ylab tarqalishi, sinishi va qaytishi qonuni",
+    "B": "Tezliklar",
+    "C": "Kuchlar",
+    "D": "Zaryadlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Yorug’likning rivojlanuvchi organizmga ta’siri qaysi optikada o’rganiladi?",
+    "A": "Fiziologik optikada",
+    "B": "Ko’z optikasi",
+    "C": "Nur optikasi",
+    "D": "Kuch optikasida",
+    "javob": "A"
+  },
+  {
+    "savol": "Sun’iy manba nima?",
+    "A": "Inson aralashuvi bilan hosil qilinadigan yorug’lik manbalari",
+    "B": "Fiziologik optikada",
+    "C": "Ko’z optikasi",
+    "D": "Nur optikasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Yorug’lik qabul qilgichlar nima?",
+    "A": "Yorug’lik ta’sirida ishlaydigan jismlar",
+    "B": "Inson aralashuvi bilan hosil qilinadigan yorug’lik manbalari",
+    "C": "Fiziologik optikada",
+    "D": "Ko’z optikasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Yoruglik nuri nima?",
+    "A": "Yo‘nalishlari fazoning ixtiyoriy nuqtasida yorug‘lik energiyasining ko‘chish yo‘nalishi bilan ustma-ust tushgan geometrik chiziq",
+    "B": "Ikki tomoni sferik sirt bilan chegaralangan shaffof jism",
+    "C": "Inson aralashuvi bilan hosil qilinadigan yorug’lik manbalari",
+    "D": "Fiziologik optikada",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko’z optik Sistema sifatida qanday linzadan iborat?",
+    "A": "Yig’uvchi linza",
+    "B": "Sochuvchi linza",
+    "C": "Yassi botiq linza",
+    "D": "Tekis ko’zgu",
+    "javob": "A"
+  },
+  {
+    "savol": "Normal ko’zning eng yaxshi ko’rish masofasi necha sm?",
+    "A": "25",
+    "B": "69",
+    "C": "40",
+    "D": "50",
+    "javob": "A"
+  },
+  {
+    "savol": "Muhitning absolyut sindirish ko’rsatkichi qaysi harf bilan ifodalanadi?",
+    "A": "N",
+    "B": "B",
+    "C": "A",
+    "D": "S",
+    "javob": "A"
+  },
+  {
+    "savol": "To’lqin uzunligi birligi ?",
+    "A": "Metr",
+    "B": "Tesla",
+    "C": "Nyuton",
+    "D": "Paskal",
+    "javob": "A"
+  },
+  {
+    "savol": "Chastota birligi?",
+    "A": "Gers",
+    "B": "Metr",
+    "C": "Tesla",
+    "D": "Nyuton",
+    "javob": "A"
+  },
+  {
+    "savol": "Dioptriya qaysi kattalik birligi?",
+    "A": "Optik kuchi",
+    "B": "Linza",
+    "C": "Lupa",
+    "D": "Optik markaz",
+    "javob": "A"
+  },
+  {
+    "savol": "Oq yorug’likni tashkil qilgan hamma rangli nurlaning qo’shilishi qanday yorug’likni hosil qiladi?",
+    "A": "Oq yorug’likni",
+    "B": "Qizil yorug’likni",
+    "C": "Sariq yorug’likni",
+    "D": "Ko’k yorug’likni",
+    "javob": "A"
+  },
+  {
+    "savol": "Induktivlikning lug’aviy ma’nosi?",
+    "A": "Uyg’otmoq",
+    "B": "Tok",
+    "C": "Maydon",
+    "D": "Zaryad",
+    "javob": "A"
+  },
+  {
+    "savol": "Induktivlik birligi?",
+    "A": "Genri",
+    "B": "Paskal",
+    "C": "Nyuton",
+    "D": "Kulon",
+    "javob": "A"
+  },
+  {
+    "savol": "Chastotalari bir xil fazalar farqi vaqt o’tishi bilan o’zgarmaydigan to’lqinlar?",
+    "A": "Kogerent to’lqinlar",
+    "B": "Yorug’lik qabul qilgichlar",
+    "C": "Yorug’lik dispersiyasi",
+    "D": "Yorug’lik dispersiyasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Berk konturda hosil bo‘lgan induksion tok shunday yo‘nalganki, u o‘zining magnit maydoni bilan shu tokni hosil qilayotgan magnit oqimining o‘zgarishiga qarshilik ko‘rsatadi bu qaysi qoida?",
+    "A": "Lens",
+    "B": "Arxemed",
+    "C": "Nyuton",
+    "D": "Tesla",
+    "javob": "A"
+  },
+  {
+    "savol": "Tashqi magnit maydon ta’sirida magnitlanib qoluvchi moddalar?",
+    "A": "Magnetiklar",
+    "B": "Diamagnetiklar",
+    "C": "Paramagnetiklar",
+    "D": "Ferromagnetiklar",
+    "javob": "A"
+  },
+  {
+    "savol": "Diamagnetiklar nima?",
+    "A": "Magnit singdiruvchanligi birdan kichik bo‘lgan moddalar",
+    "B": "Tezligi  kichik bo‘lgan moddalar",
+    "C": "Tezlanishi kichik bo‘lgan moddalar",
+    "D": "Juda kichik bo‘lgan moddalar",
+    "javob": "A"
+  },
+  {
+    "savol": "Paramagnetiklar nima?",
+    "A": "Magnit singdiruvchanligi birdan biroz katta  bo‘lgan moddalar",
+    "B": "Tezligi  kichik bo‘lgan moddalar",
+    "C": "Tezlanishi katta bo‘lgan moddalar",
+    "D": "Juda kichik bo‘lgan moddalar",
+    "javob": "A"
+  },
+  {
+    "savol": "Ferromagnetiklar nima?",
+    "A": "Magnit singdiruvchanligi birdan juda katta bo‘lgan moddalar",
+    "B": "Tezligi  kichik bo‘lgan moddalar",
+    "C": "Tezlanishi kichik bo‘lgan moddalar",
+    "D": "Juda kichik bo‘lgan moddalar",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi moddani maydonni kuchaytirish xossasiga ega?",
+    "A": "Ferromagnetiklar nima?",
+    "B": "Paramagnetiklar nima?",
+    "C": "Diamagnetiklar nima?",
+    "D": "Magniteklar",
+    "javob": "A"
+  },
+  {
+    "savol": "Kinematika bo`limida nimalarni o`rganamiz?",
+    "A": "Jismlarning harakati va ularni vujudga keltiruvchi kuch sabablarisiz o`rganamiz",
+    "B": "Jismlarning harakati va ularni vujudga keltiruvchi kuch sabablari bilan bog`lab  o`rganamiz",
+    "C": "Molekulyar fizikani o`rganamiz",
+    "D": "Atom tuzilishini o`rganamiz",
+    "javob": "A"
+  },
+  {
+    "savol": "Dinamika bo`limida nimalarni o`rganamiz?",
+    "A": "Jismlarning harakati va ularni vujudga keltiruvchi kuch sabablari bilan bog`lab  o`rganamiz",
+    "B": "Muvozanat shartlarini o`rganamiz",
+    "C": "Elektrostatik maydon haqida o`rganamiz",
+    "D": "Molekulyar kinetik nazariyasini o`rganamiz",
+    "javob": "A"
+  },
+  {
+    "savol": "Statika bo`limida nimalarni o`rganamiz?",
+    "A": "Jismlarning muvozanat shartlarini o`rganamiz",
+    "B": "Tekis tezlanuvchan harakatni o`rganamiz",
+    "C": "Tekis harakatni grafik ravishda tasvirlashni o`rganamiz",
+    "D": "Atom tuzilishini o`rganamiz",
+    "javob": "A"
+  },
+  {
+    "savol": "Массаси 5 кг бўлган жисмга 20 Н куч таъсир этмоқда, у қандай тезланиш олади?",
+    "A": "4 м/с$^{2}$:",
+    "B": "14 м/с$^{2}$:",
+    "C": "114 м/с$^{2}$:",
+    "D": "24 м/с$^{2}$:",
+    "javob": "A"
+  },
+  {
+    "savol": "Dielektrik so’zining ma’nosi ?",
+    "A": "O’tkazmas",
+    "B": "O’tkazuvchi",
+    "C": "Sig’im",
+    "D": "Zaryad",
+    "javob": "A"
+  },
+  {
+    "savol": "Mexanik tebranishlar necha turga bo`linadi?",
+    "A": "2 turga",
+    "B": "3 turga",
+    "C": "4 turga",
+    "D": "5 turga",
+    "javob": "A"
+  },
+  {
+    "savol": "Mexanik tebranish turlari qaysi javobda to`g`ri ko`rsatilgan?",
+    "A": "Bo`ylama va ko`ndalang",
+    "B": "Tekis va notekis",
+    "C": "Tezlanuvchan va sekinlanuvchan",
+    "D": "Botiq va qavariq",
+    "javob": "A"
+  },
+  {
+    "savol": "Garmonik tebranishlar qaysi qonunlarga bo`y so`nadi?",
+    "A": "Sinus yoki cosinus",
+    "B": "Tg va ctg",
+    "C": "Sinus va tg",
+    "D": "Cosinus va ctg",
+    "javob": "A"
+  },
+  {
+    "savol": "Vaqt birligi ichida tebranishlar soniga nima deb ataladi?",
+    "A": "Tebranish chastotasi",
+    "B": "Tebranish davri",
+    "C": "Tebranish tezlanishi",
+    "D": "Tebranish amplitudasi",
+    "javob": "A"
+  },
+  {
+    "savol": "U yoki bu dаrаjаdа tаkrоrlаnuvchаnligi bilаn аjrаlib  turаdigаn prоsеsslаrgа  nimala dеb  аtаlаdi",
+    "A": "Tеbrаnishlаr",
+    "B": "Sunishlar",
+    "C": "Elektr toklari",
+    "D": "Quvvat",
+    "javob": "A"
+  },
+  {
+    "savol": "Qo`zg`almas zaryadning yoki zaryadlangan jismning maydoni nima deb ataladi?",
+    "A": "Elektrostatik maydon",
+    "B": "Magnit maydon",
+    "C": "Yadro maydoni",
+    "D": "Molekula maydoni",
+    "javob": "A"
+  },
+  {
+    "savol": "Elektr maydon kuch chiziqlari musbat zaryaddan boshlanib,……zaryadda tugaydi nuqtalar o`rniga mos so`zni toping?",
+    "A": "Manfiy",
+    "B": "Nol",
+    "C": "Elektr maydon",
+    "D": "Kuchli",
+    "javob": "A"
+  },
+  {
+    "savol": "Elektrolit nima?",
+    "A": "Suyuq o'tkazuvchi",
+    "B": "Qattiq o'tkazuvchi",
+    "C": "Gaz o'tkazuvchi",
+    "D": "O'tkazmaydigan",
+    "javob": "A"
+  },
+  {
+    "savol": "Kationlar qanday zaryadga ega?",
+    "A": "Musbat",
+    "B": "Manfiy",
+    "C": "Neytral",
+    "D": "Statik",
+    "javob": "A"
+  },
+  {
+    "savol": "Elektrolizda modda ajralib chiqishining asosiy sababi nima?",
+    "A": "Elektr toki",
+    "B": "Ionsizlanish",
+    "C": "Issiqlik",
+    "D": "Magnit maydon",
+    "javob": "A"
+  },
+  {
+    "savol": "Diod nima?",
+    "A": "Ikkita elektrodli qurilma",
+    "B": "Bir tomonga o'tkazuvchi qurilma",
+    "C": "O'zgaruvchan tokni o'zgarmasga aylantiruvchi",
+    "D": "Barchasi to'g'ri",
+    "javob": "A"
+  },
+  {
+    "savol": "Gazlarda elektr toki qanday zarrachalar tomonidan tashiladi?",
+    "A": "Musbat va manfiy ionlar",
+    "B": "Elektronlar",
+    "C": "Kationlar",
+    "D": "Anionlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Yarim o'tkazgichda qanday zarrachalar mavjud?",
+    "A": "Teshiklar va elektronlar",
+    "B": "Elektronlar",
+    "C": "Kationlar va anionlar",
+    "D": "Ikkilamchi zaryadlar",
+    "javob": "A"
+  },
+  {
+    "savol": "P-tur o’tkazuvchanlik nima?",
+    "A": "Teshik o’tkazuvchanlik",
+    "B": "Elektron o’tkazuvchanlik",
+    "C": "O'tkazuvchanlikni kamaytirish",
+    "D": "O'tkazuvchanlikni oshirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Tranzistor qanday qismlardan tashkil topgan?",
+    "A": "Baza, Emitter, Kollektor",
+    "B": "Anod, Katod",
+    "C": "Elektron, Proton",
+    "D": "Kation, Anion",
+    "javob": "A"
+  },
+  {
+    "savol": "Fotorezistorlar qanday xususiyatga ega?",
+    "A": "Yorug'lik ta'sirida qarshilik o'zgaradi",
+    "B": "Issiqlik ta'sirida qarshilik o'zgaradi",
+    "C": "Magnet ta'sirida qarshilik o'zgaradi",
+    "D": "Kimyoviy ta'sirda qarshilik o'zgaradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Elektr toki qanday zaryadlangan zarrachalarning tartibli harakati?",
+    "A": "Musbat zaryadlangan",
+    "B": "Manfiy zaryadlangan",
+    "C": "Neytral zaryadlangan",
+    "D": "O'tkazuvchi zaryadlangan",
+    "javob": "A"
+  },
+  {
+    "savol": "Elektr tokining kuchi qanday o'lchov birligi bilan o'lchanadi?",
+    "A": "Amper",
+    "B": "Volt",
+    "C": "Ohm",
+    "D": "Joule",
+    "javob": "A"
+  },
+  {
+    "savol": "Elektr tokining magnit ta'siri qanday zarrachalar tomonidan yaratiladi?",
+    "A": "Harakatlanuvchi zaryadlar",
+    "B": "Statik zaryadlar",
+    "C": "Neytronlar",
+    "D": "Protonlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Metallarda elektr tokini nima tashiydi?",
+    "A": "Elektronlar",
+    "B": "Ion",
+    "C": "Kationlar",
+    "D": "Anionlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Ampermetr qanday vazifani bajaradi?",
+    "A": "Tok kuchini o'lchaydi",
+    "B": "Kuchlanishni o'lchaydi",
+    "C": "Qarshilikni o'lchaydi",
+    "D": "Energiya o'lchaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Tebranish davri T nima?",
+    "A": "Jismning bir marta to'liq tebranishi uchun ketgan vaqt",
+    "B": "Jismning harakat tezligi",
+    "C": "Jismning kuch ta'siri",
+    "D": "Jismning og'irligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Matematik mayatnik nima?",
+    "A": "Vaznsiz ipga osilgan og'ir jism",
+    "B": "Og'irlik kuchiga ega bo'lmagan jism",
+    "C": "Elastik harakatda bo'lgan jism",
+    "D": "Tinch holatda turgan jism",
+    "javob": "A"
+  },
+  {
+    "savol": "Purijinali mayatnik nima?",
+    "A": "Prujinaga osilgan og'ir jism",
+    "B": "Statik jism",
+    "C": "Havo ichida harakatlanayotgan jism",
+    "D": "Tezlikka ega bo'lmagan jism",
+    "javob": "A"
+  },
+  {
+    "savol": "Mexanik to'lqinlar nima?",
+    "A": "Vaqt o'tishi bilan tarqaluvchi tebranishlar",
+    "B": "Nur to'lqinlari",
+    "C": "Statik to'lqinlar",
+    "D": "Harakatda bo'lmagan to'lqinlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Bo'ylama to'lqinlar nima?",
+    "A": "Tebranish va tarqalish yo'nalishi parallel bo'lgan to'lqinlar",
+    "B": "Tebranish va tarqalish yo'nalishi perpendikulyar bo'lgan to'lqinlar",
+    "C": "Suyuqlik ichida tarqaladigan to'lqinlar",
+    "D": "Elektromagnit to'lqinlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Tovush to'lqinlari qanday chastotaga ega?",
+    "A": "20 Gs dan 20000 Gs gacha",
+    "B": "0 Gs dan 20 Gs gacha",
+    "C": "20000 Gs dan yuqori",
+    "D": "17 Gs dan 50 Gs gacha",
+    "javob": "A"
+  },
+  {
+    "savol": "Mexanik ishning o’lchov birligi?",
+    "A": "Joul",
+    "B": "Nyuton",
+    "C": "Paskal",
+    "D": "Metr",
+    "javob": "A"
+  },
+  {
+    "savol": "Og'irlik kuchining bajargan ishi nima?",
+    "A": "Jism potensial energiyasining o'zgarishiga teng",
+    "B": "Jismning harakat energiyasiga teng",
+    "C": "Ish bajarishi bilan bog'liq",
+    "D": "Kinetik energiyaning o'zgarishiga teng",
+    "javob": "A"
+  },
+  {
+    "savol": "Jism gorizontal yo'nalishda harakatlanganda og'irlik kuchining bajargan ishi nima?",
+    "A": "0",
+    "B": "M * g",
+    "C": "M * a",
+    "D": "F * S",
+    "javob": "A"
+  },
+  {
+    "savol": "Quvvat nima?",
+    "A": "Vaqt ichida bajarilgan ishi",
+    "B": "Kuchning o'lchovi",
+    "C": "Energiyaning o'lchovi",
+    "D": "Harakat tezligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Mexanik energiya qanday ikki turga bo'linadi?",
+    "A": "Kinetik va potensial energiya",
+    "B": "Tovush va yorug'lik energiyasi",
+    "C": "Mexanik va termal energiya",
+    "D": "Kinetik va elektr energiyasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Kinetik energiya nima?",
+    "A": "Harakat energiyasi",
+    "B": "Tinchlik energiyasi",
+    "C": "Tezlik energiyasi",
+    "D": "Og'irlik energiyasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Potensial energiya nima?",
+    "A": "Jism qismlarining o'zaro joylashishiga bog'liq energiya",
+    "B": "Harakat energiyasi",
+    "C": "Issiqlik energiyasi",
+    "D": "Jismning tezligiga bog'liq energiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Mexanik tebranish nima?",
+    "A": "Muvozanat vaziyati atrofida takrorlanib turuvchi harakat",
+    "B": "Jismning to'liq harakati",
+    "C": "Statik harakat",
+    "D": "Jismning kuch ta'sirida harakati",
+    "javob": "A"
+  },
+  {
+    "savol": "Chiziqli tezlik nima?",
+    "A": "Yoy bo‘ylab bosib o‘tgan yo‘l",
+    "B": "Yoy bo‘ylab bosib o‘tgan  vaqt",
+    "C": "Yoy bo‘ylab bosib o‘tgan  kuch",
+    "D": "Yoy bo‘ylab bosib o‘tgan energiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Burchak tezlik nima?",
+    "A": "Burilish burchagining vaqtga nisbati",
+    "B": "Burilish burchagining kuchga nisbati",
+    "C": "Burilish burchagining massaga nisbati",
+    "D": "Burilish burchagining  energiyaga nisbati",
+    "javob": "A"
+  },
+  {
+    "savol": "Jismning aylanishi qachon sodir bo‘ladi?",
+    "A": "Aylana bo‘ylab harakatda",
+    "B": "To‘g‘ri chiziqda",
+    "C": "Pasayish",
+    "D": "Yuqoriga harakatda",
+    "javob": "A"
+  },
+  {
+    "savol": "Erkin tushish tezlanishining qiymati qanday?",
+    "A": "9 81 m/s²",
+    "B": "9 00 m/s²",
+    "C": "8 50 m/s²",
+    "D": "10 00 m/s²",
+    "javob": "A"
+  },
+  {
+    "savol": "Jism impulsi nima?",
+    "A": "Jism massasi va uning harakat tezligiga ko'paytmasi",
+    "B": "Jismning harakat yo'nalishi",
+    "C": "Jismga tasir etuvchi kuch",
+    "D": "Jismning og'irligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Kuch impulsi qanday aniqlanadi?",
+    "A": "Kuchning tasir vaqtiga ko'paytmasi",
+    "B": "Jismning energiyasiga ko'paytmasi",
+    "C": "Jismning tezligiga ko'paytmasi",
+    "D": "Jismning massasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Yopiq mexanik sistemada impulsning saqlanish qonuni nima?",
+    "A": "Barcha impulslar yig'indisi o'zgarishsiz saqlanadi",
+    "B": "Kinetik energiya saqlanadi",
+    "C": "Og'irlik kuchi ta'sirida saqlanadi",
+    "D": "Jismning harakat yo'nalishi saqlanadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Atomning planetar modeli qaysi javobda tog’ri berilgan ?",
+    "A": "Elektronlar yadro atrofida orbitalar, atomning elektron qobig‘i bo‘ylab harakatlanadi va ularning zaryadi yadro- dagi musbat zaryadga teng",
+    "B": "Aniq yo‘naltirilgan kogerent yorug‘- liknurining manbayi tushuniladi",
+    "C": "Statsionar (turg‘un) holatlar haqidagi postulat: atomda statsionar holatlar mavjud bo‘lib, bu odatlarga elektron- larning statsionar orbitalari mos keladi",
+    "D": "Elektron bir statsionar orbitadan ikkinchisiga o‘tgandagina energiyasi shu statsionar holatlardagi energiyalarning farqiga teng bo‘lgan bitta foton chiqaradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Α – nurlanish-?",
+    "A": "Geliy yadrosininig oqimi",
+    "B": "Magnit oqimi",
+    "C": "Tok oqimi",
+    "D": "Laminar oqim",
+    "javob": "A"
+  },
+  {
+    "savol": "Β – nurlanish-?",
+    "A": "Elektronlar oqimi",
+    "B": "Laminar oqim",
+    "C": "Turbulent oqim",
+    "D": "Magnit oqim",
+    "javob": "A"
+  },
+  {
+    "savol": "Γ – nurlanish-?",
+    "A": "Kvantlar (fotonlar) oqimi",
+    "B": "Laminar oqim",
+    "C": "Turbulent oqim",
+    "D": "Magnit oqim",
+    "javob": "A"
+  },
+  {
+    "savol": "Radioaktiv nurlar  qanday so’zdan olingan?",
+    "A": "Lotincha radius – nur so‘zidan olingan",
+    "B": "Lotincha radius – tomchi so‘zidan olingan",
+    "C": "Lotincha radius – diffuziya  so‘zidan olingan",
+    "D": "Lotincha radius – broun so‘zidan olingan",
+    "javob": "A"
+  },
+  {
+    "savol": "Yadro massasi qaysi asbob bilan o’lchanadi?",
+    "A": "Mass-spektrometrlar",
+    "B": "Ampermetr",
+    "C": "Voltmetr",
+    "D": "Dinamometr",
+    "javob": "A"
+  },
+  {
+    "savol": "Massa soni (A) bir xil, lekin tartib raqami (Z) turlicha bo‘lgan elementlar?",
+    "A": "Izobarlar",
+    "B": "Izoxorik",
+    "C": "Izotermik",
+    "D": "Izoxorik",
+    "javob": "A"
+  },
+  {
+    "savol": "Izobarlar deb nimaga aytiladi?",
+    "A": "Massa soni (A) bir xil, lekin tartib raqami (Z) turlicha bo‘lgan elementlar",
+    "B": "Massa soni har xil elementlar",
+    "C": "Tartib raqami har xil elementlar",
+    "D": "Massa soni va tartib raqami bir xil elementlar",
+    "javob": "A"
+  }
+]
