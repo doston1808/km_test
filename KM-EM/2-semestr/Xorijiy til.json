@@ -1,802 +1,842 @@
 [
   {
-    "savol": "I ____ visit my grandmother tomorrow.",
-    "A": "will",
-    "B": "visited",
-    "C": "visiting",
-    "D": "visits",
-    "javob": "A"
-  },
-  {
-    "savol": "She ____ watching TV at 8 pm tonight.",
-    "A": "will be",
+    "savol": "I ___ a student.",
+    "A": "am",
     "B": "is",
-    "C": "was",
+    "C": "are",
     "D": "be",
     "javob": "A"
   },
   {
-    "savol": "They ____ go to the park later.",
-    "A": "are going to",
-    "B": "went",
-    "C": "goes",
-    "D": "going",
+    "savol": "She ___ a teacher.",
+    "A": "is",
+    "B": "are",
+    "C": "am",
+    "D": "be",
     "javob": "A"
   },
   {
-    "savol": "I met him ____ Monday.",
-    "A": "on",
-    "B": "in",
-    "C": "at",
-    "D": "by",
+    "savol": "He ___ happy.",
+    "A": "is",
+    "B": "are",
+    "C": "am",
+    "D": "be",
     "javob": "A"
   },
   {
-    "savol": "We ____ dinner yesterday.",
-    "A": "had",
+    "savol": "We ___ friends.",
+    "A": "are",
+    "B": "is",
+    "C": "am",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "They ___ at school.",
+    "A": "are",
+    "B": "is",
+    "C": "am",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "It ___ a cat.",
+    "A": "is",
+    "B": "are",
+    "C": "am",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "She ___ my sister.",
+    "A": "is",
+    "B": "are",
+    "C": "am",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "He ___ a doctor.",
+    "A": "is",
+    "B": "are",
+    "C": "am",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "We ___ students.",
+    "A": "are",
+    "B": "is",
+    "C": "am",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "They ___ happy.",
+    "A": "are",
+    "B": "is",
+    "C": "am",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "It ___ a book.",
+    "A": "is",
+    "B": "are",
+    "C": "am",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "I ___ fine.",
+    "A": "am",
+    "B": "is",
+    "C": "are",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "She ___ at home.",
+    "A": "is",
+    "B": "are",
+    "C": "am",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "He ___ in the room.",
+    "A": "is",
+    "B": "are",
+    "C": "am",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "We ___ ready.",
+    "A": "are",
+    "B": "is",
+    "C": "am",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "They ___ busy.",
+    "A": "are",
+    "B": "is",
+    "C": "am",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "I ___ a boy.",
+    "A": "am",
+    "B": "is",
+    "C": "are",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "She ___ my friend.",
+    "A": "is",
+    "B": "are",
+    "C": "am",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "He ___ very tall.",
+    "A": "is",
+    "B": "are",
+    "C": "am",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "“a / an” qaysi gapda to‘g‘ri? ___ apple",
+    "A": "an",
+    "B": "a",
+    "C": "the",
+    "D": "-",
+    "javob": "A"
+  },
+  {
+    "savol": "I ___ 10 years old.",
+    "A": "am",
+    "B": "is",
+    "C": "are",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "She ___ 5 books.",
+    "A": "has",
     "B": "have",
-    "C": "will have",
+    "C": "had",
     "D": "having",
     "javob": "A"
   },
   {
-    "savol": "He ____ play football next week.",
-    "A": "will",
-    "B": "played",
-    "C": "plays",
-    "D": "playing",
+    "savol": "It ___ 3 o’clock.",
+    "A": "is",
+    "B": "are",
+    "C": "am",
+    "D": "be",
     "javob": "A"
   },
   {
-    "savol": "She ____ studying at 6 pm tomorrow.",
-    "A": "will be",
+    "savol": "We ___ in 2026.",
+    "A": "are",
     "B": "is",
-    "C": "was",
+    "C": "am",
     "D": "be",
     "javob": "A"
   },
   {
-    "savol": "I ____ buy a new phone soon.",
-    "A": "am going to",
-    "B": "bought",
-    "C": "buy",
-    "D": "buying",
+    "savol": "Today ___ Monday.",
+    "A": "is",
+    "B": "are",
+    "C": "am",
+    "D": "be",
     "javob": "A"
   },
   {
-    "savol": "The book is ____ the table.",
-    "A": "on",
-    "B": "in",
-    "C": "at",
-    "D": "under",
+    "savol": "Yesterday ___ Sunday.",
+    "A": "was",
+    "B": "were",
+    "C": "is",
+    "D": "are",
     "javob": "A"
   },
   {
-    "savol": "They ____ to school yesterday.",
-    "A": "went",
-    "B": "go",
-    "C": "will go",
-    "D": "going",
-    "javob": "A"
-  },
-  {
-    "savol": "I ____ call you later.",
-    "A": "will",
-    "B": "called",
-    "C": "calling",
-    "D": "calls",
-    "javob": "A"
-  },
-  {
-    "savol": "She ____ working at 9 tomorrow.",
-    "A": "will be",
+    "savol": "He ___ born in 2010.",
+    "A": "was",
     "B": "is",
-    "C": "was",
+    "C": "are",
     "D": "be",
     "javob": "A"
   },
   {
-    "savol": "We ____ travel this summer.",
-    "A": "are going to",
-    "B": "traveled",
-    "C": "travel",
-    "D": "traveling",
-    "javob": "A"
-  },
-  {
-    "savol": "He ____ his homework last night.",
-    "A": "did",
-    "B": "do",
-    "C": "will do",
-    "D": "doing",
-    "javob": "A"
-  },
-  {
-    "savol": "I ____ help you with that.",
-    "A": "will",
-    "B": "helped",
-    "C": "helping",
-    "D": "helps",
-    "javob": "A"
-  },
-  {
-    "savol": "She ____ sleeping at midnight.",
-    "A": "will be",
-    "B": "is",
-    "C": "was",
-    "D": "be",
-    "javob": "A"
-  },
-  {
-    "savol": "They ____ visit us soon.",
-    "A": "are going to",
-    "B": "visited",
-    "C": "visit",
-    "D": "visiting",
-    "javob": "A"
-  },
-  {
-    "savol": "We arrived ____ 5 pm.",
-    "A": "at",
-    "B": "on",
-    "C": "in",
-    "D": "by",
-    "javob": "A"
-  },
-  {
-    "savol": "He ____ a movie yesterday.",
-    "A": "watched",
-    "B": "watches",
-    "C": "will watch",
-    "D": "watching",
-    "javob": "A"
-  },
-  {
-    "savol": "I ____ finish this task later.",
-    "A": "will",
-    "B": "finished",
-    "C": "finishing",
-    "D": "finishes",
-    "javob": "A"
-  },
-  {
-    "savol": "She ____ cooking at 7 pm.",
-    "A": "will be",
-    "B": "is",
-    "C": "was",
-    "D": "be",
-    "javob": "A"
-  },
-  {
-    "savol": "They ____ build a house.",
-    "A": "are going to",
-    "B": "built",
-    "C": "build",
-    "D": "building",
-    "javob": "A"
-  },
-  {
-    "savol": "The dog is ____ the chair.",
-    "A": "under",
-    "B": "on",
-    "C": "in",
-    "D": "at",
-    "javob": "A"
-  },
-  {
-    "savol": "We ____ lunch an hour ago.",
-    "A": "ate",
-    "B": "eat",
-    "C": "will eat",
-    "D": "eating",
-    "javob": "A"
-  },
-  {
-    "savol": "I ____ see him tomorrow.",
-    "A": "will",
-    "B": "saw",
-    "C": "seeing",
-    "D": "sees",
-    "javob": "A"
-  },
-  {
-    "savol": "She ____ reading at 10 tonight.",
-    "A": "will be",
-    "B": "is",
-    "C": "was",
-    "D": "be",
-    "javob": "A"
-  },
-  {
-    "savol": "He ____ start a new job.",
-    "A": "is going to",
-    "B": "started",
-    "C": "starts",
-    "D": "starting",
-    "javob": "A"
-  },
-  {
-    "savol": "The keys are ____ my bag.",
-    "A": "in",
-    "B": "on",
-    "C": "at",
-    "D": "under",
-    "javob": "A"
-  },
-  {
-    "savol": "They ____ home late yesterday.",
-    "A": "came",
-    "B": "come",
-    "C": "will come",
-    "D": "coming",
-    "javob": "A"
-  },
-  {
-    "savol": "I ____ open the window.",
-    "A": "will",
-    "B": "opened",
-    "C": "opening",
-    "D": "opens",
-    "javob": "A"
-  },
-  {
-    "savol": "She ____ working all evening.",
-    "A": "will be",
-    "B": "is",
-    "C": "was",
-    "D": "be",
-    "javob": "A"
-  },
-  {
-    "savol": "We ____ have a party.",
-    "A": "are going to",
-    "B": "had",
-    "C": "have",
-    "D": "having",
-    "javob": "A"
-  },
-  {
-    "savol": "The picture is ____ the wall.",
-    "A": "on",
-    "B": "in",
-    "C": "at",
-    "D": "under",
-    "javob": "A"
-  },
-  {
-    "savol": "He ____ his friend last week.",
-    "A": "visited",
-    "B": "visits",
-    "C": "will visit",
-    "D": "visiting",
-    "javob": "A"
-  },
-  {
-    "savol": "I ____ send you a message.",
-    "A": "will",
-    "B": "sent",
-    "C": "sending",
-    "D": "sends",
-    "javob": "A"
-  },
-  {
-    "savol": "She ____ driving at 6 pm.",
-    "A": "will be",
-    "B": "is",
-    "C": "was",
-    "D": "be",
-    "javob": "A"
-  },
-  {
-    "savol": "They ____ buy a car.",
-    "A": "are going to",
-    "B": "bought",
-    "C": "buy",
-    "D": "buying",
-    "javob": "A"
-  },
-  {
-    "savol": "The ball is ____ the table.",
-    "A": "under",
-    "B": "on",
-    "C": "in",
-    "D": "at",
-    "javob": "A"
-  },
-  {
-    "savol": "We ____ to the beach last summer.",
-    "A": "went",
-    "B": "go",
-    "C": "will go",
-    "D": "going",
-    "javob": "A"
-  },
-  {
-    "savol": "I ____ meet him tonight.",
-    "A": "will",
-    "B": "met",
-    "C": "meeting",
-    "D": "meets",
-    "javob": "A"
-  },
-  {
-    "savol": "She ____ studying at 9 pm.",
-    "A": "will be",
-    "B": "is",
-    "C": "was",
-    "D": "be",
-    "javob": "A"
-  },
-  {
-    "savol": "He ____ learn English.",
-    "A": "is going to",
-    "B": "learned",
-    "C": "learns",
-    "D": "learning",
-    "javob": "A"
-  },
-  {
-    "savol": "The cat is ____ the chair.",
-    "A": "on",
-    "B": "in",
-    "C": "at",
-    "D": "under",
-    "javob": "A"
-  },
-  {
-    "savol": "They ____ dinner yesterday evening.",
-    "A": "had",
-    "B": "have",
-    "C": "will have",
-    "D": "having",
-    "javob": "A"
-  },
-  {
-    "savol": "I ____ help you tomorrow.",
-    "A": "will",
-    "B": "helped",
-    "C": "helping",
-    "D": "helps",
-    "javob": "A"
-  },
-  {
-    "savol": "She ____ sleeping at 11 pm.",
-    "A": "will be",
-    "B": "is",
-    "C": "was",
-    "D": "be",
-    "javob": "A"
-  },
-  {
-    "savol": "We ____ travel next year.",
-    "A": "are going to",
-    "B": "traveled",
-    "C": "travel",
-    "D": "traveling",
-    "javob": "A"
-  },
-  {
-    "savol": "The phone is ____ the table.",
-    "A": "on",
-    "B": "in",
-    "C": "at",
-    "D": "under",
-    "javob": "A"
-  },
-  {
-    "savol": "He ____ a letter yesterday.",
-    "A": "wrote",
-    "B": "writes",
-    "C": "will write",
-    "D": "writing",
-    "javob": "A"
-  },
-  {
-    "savol": "I ____ start my new course next week.",
-    "A": "will",
-    "B": "started",
-    "C": "starting",
-    "D": "starts",
-    "javob": "A"
-  },
-  {
-    "savol": "She ____ working at 5 pm tomorrow.",
-    "A": "will be",
-    "B": "is",
-    "C": "was",
-    "D": "be",
-    "javob": "A"
-  },
-  {
-    "savol": "They ____ visit their friends soon.",
-    "A": "are going to",
-    "B": "visited",
-    "C": "visit",
-    "D": "visiting",
-    "javob": "A"
-  },
-  {
-    "savol": "The cat is ____ the table.",
-    "A": "under",
-    "B": "on",
-    "C": "in",
-    "D": "at",
-    "javob": "A"
-  },
-  {
-    "savol": "We ____ TV last night.",
-    "A": "watched",
-    "B": "watch",
-    "C": "will watch",
-    "D": "watching",
-    "javob": "A"
-  },
-  {
-    "savol": "He ____ help you later.",
-    "A": "will",
-    "B": "helped",
-    "C": "helping",
-    "D": "helps",
-    "javob": "A"
-  },
-  {
-    "savol": "I ____ studying at 8 pm.",
-    "A": "will be",
-    "B": "am",
-    "C": "was",
-    "D": "be",
-    "javob": "A"
-  },
-  {
-    "savol": "She ____ buy a new dress.",
-    "A": "is going to",
-    "B": "bought",
-    "C": "buys",
-    "D": "buying",
-    "javob": "A"
-  },
-  {
-    "savol": "The keys are ____ the drawer.",
-    "A": "in",
-    "B": "on",
-    "C": "at",
-    "D": "under",
-    "javob": "A"
-  },
-  {
-    "savol": "They ____ to the cinema yesterday.",
-    "A": "went",
-    "B": "go",
-    "C": "will go",
-    "D": "going",
-    "javob": "A"
-  },
-  {
-    "savol": "I ____ call her tomorrow.",
-    "A": "will",
-    "B": "called",
-    "C": "calling",
-    "D": "calls",
-    "javob": "A"
-  },
-  {
-    "savol": "She ____ sleeping at midnight tonight.",
-    "A": "will be",
-    "B": "is",
-    "C": "was",
-    "D": "be",
-    "javob": "A"
-  },
-  {
-    "savol": "We ____ have a meeting later.",
-    "A": "are going to",
-    "B": "had",
-    "C": "have",
-    "D": "having",
-    "javob": "A"
-  },
-  {
-    "savol": "The book is ____ my bag.",
-    "A": "in",
-    "B": "on",
-    "C": "at",
-    "D": "under",
-    "javob": "A"
-  },
-  {
-    "savol": "He ____ his homework yesterday.",
-    "A": "finished",
-    "B": "finishes",
-    "C": "will finish",
-    "D": "finishing",
-    "javob": "A"
-  },
-  {
-    "savol": "I ____ send the email soon.",
-    "A": "will",
-    "B": "sent",
-    "C": "sending",
-    "D": "sends",
-    "javob": "A"
-  },
-  {
-    "savol": "She ____ cooking at 7 pm tonight.",
-    "A": "will be",
-    "B": "is",
-    "C": "was",
-    "D": "be",
-    "javob": "A"
-  },
-  {
-    "savol": "They ____ move to a new house.",
-    "A": "are going to",
-    "B": "moved",
-    "C": "move",
-    "D": "moving",
-    "javob": "A"
-  },
-  {
-    "savol": "The dog is ____ the bed.",
-    "A": "under",
-    "B": "on",
-    "C": "in",
-    "D": "at",
-    "javob": "A"
-  },
-  {
-    "savol": "We ____ lunch at 1 pm yesterday.",
-    "A": "had",
-    "B": "have",
-    "C": "will have",
-    "D": "having",
-    "javob": "A"
-  },
-  {
-    "savol": "I ____ meet my teacher later.",
-    "A": "will",
-    "B": "met",
-    "C": "meeting",
-    "D": "meets",
-    "javob": "A"
-  },
-  {
-    "savol": "He ____ working at 10 tomorrow.",
-    "A": "will be",
-    "B": "is",
-    "C": "was",
-    "D": "be",
-    "javob": "A"
-  },
-  {
-    "savol": "She ____ travel abroad.",
-    "A": "is going to",
-    "B": "traveled",
-    "C": "travels",
-    "D": "traveling",
-    "javob": "A"
-  },
-  {
-    "savol": "They ____ football yesterday.",
-    "A": "played",
-    "B": "play",
-    "C": "will play",
-    "D": "playing",
-    "javob": "A"
-  },
-  {
-    "savol": "I ____ help you with your project.",
-    "A": "will",
-    "B": "helped",
-    "C": "helping",
-    "D": "helps",
-    "javob": "A"
-  },
-  {
-    "savol": "She ____ reading at 6 pm tonight.",
-    "A": "will be",
-    "B": "is",
-    "C": "was",
-    "D": "be",
-    "javob": "A"
-  },
-  {
-    "savol": "We ____ buy some food.",
-    "A": "are going to",
-    "B": "bought",
-    "C": "buy",
-    "D": "buying",
-    "javob": "A"
-  },
-  {
-    "savol": "He ____ his friend last weekend.",
-    "A": "visited",
-    "B": "visits",
-    "C": "will visit",
-    "D": "visiting",
-    "javob": "A"
-  },
-  {
-    "savol": "I ____ open the door for you.",
-    "A": "will",
-    "B": "opened",
-    "C": "opening",
-    "D": "opens",
-    "javob": "A"
-  },
-  {
-    "savol": "She ____ studying at 9 tonight.",
-    "A": "will be",
-    "B": "is",
-    "C": "was",
-    "D": "be",
-    "javob": "A"
-  },
-  {
-    "savol": "They ____ start a new project.",
-    "A": "are going to",
-    "B": "started",
-    "C": "start",
-    "D": "starting",
-    "javob": "A"
-  },
-  {
-    "savol": "The cat is ____ the box.",
-    "A": "in",
-    "B": "on",
-    "C": "at",
-    "D": "under",
-    "javob": "A"
-  },
-  {
-    "savol": "We ____ dinner at 8 yesterday.",
-    "A": "had",
-    "B": "have",
-    "C": "will have",
-    "D": "having",
-    "javob": "A"
-  },
-  {
-    "savol": "He ____ write a letter later.",
-    "A": "will",
-    "B": "wrote",
-    "C": "writing",
-    "D": "writes",
-    "javob": "A"
-  },
-  {
-    "savol": "I ____ working all evening.",
-    "A": "will be",
-    "B": "am",
-    "C": "was",
-    "D": "be",
-    "javob": "A"
-  },
-  {
-    "savol": "She ____ learn French.",
-    "A": "is going to",
-    "B": "learned",
-    "C": "learns",
-    "D": "learning",
-    "javob": "A"
-  },
-  {
-    "savol": "The shoes are ____ the bed.",
-    "A": "under",
-    "B": "on",
-    "C": "in",
-    "D": "at",
-    "javob": "A"
-  },
-  {
-    "savol": "They ____ to school yesterday morning.",
-    "A": "went",
-    "B": "go",
-    "C": "will go",
-    "D": "going",
-    "javob": "A"
-  },
-  {
-    "savol": "I ____ see you tomorrow.",
-    "A": "will",
-    "B": "saw",
-    "C": "seeing",
-    "D": "sees",
-    "javob": "A"
-  },
-  {
-    "savol": "She ____ sleeping at 11 tonight.",
-    "A": "will be",
-    "B": "is",
-    "C": "was",
-    "D": "be",
-    "javob": "A"
-  },
-  {
-    "savol": "We ____ visit our grandparents.",
-    "A": "are going to",
-    "B": "visited",
-    "C": "visit",
-    "D": "visiting",
-    "javob": "A"
-  },
-  {
-    "savol": "The ball is ____ the chair.",
-    "A": "under",
-    "B": "on",
-    "C": "in",
-    "D": "at",
-    "javob": "A"
-  },
-  {
-    "savol": "He ____ breakfast at 7 yesterday.",
-    "A": "had",
+    "savol": "I ___ my birthday in May.",
+    "A": "have",
     "B": "has",
-    "C": "will have",
+    "C": "had",
     "D": "having",
     "javob": "A"
   },
   {
-    "savol": "I ____ clean my room later.",
-    "A": "will",
-    "B": "cleaned",
-    "C": "cleaning",
-    "D": "cleans",
-    "javob": "A"
-  },
-  {
-    "savol": "She ____ studying at 5 pm.",
-    "A": "will be",
+    "savol": "There ___ 7 days in a week.",
+    "A": "are",
     "B": "is",
-    "C": "was",
+    "C": "am",
     "D": "be",
     "javob": "A"
   },
   {
-    "savol": "They ____ go shopping.",
-    "A": "are going to",
-    "B": "went",
+    "savol": "There ___ 12 months in a year.",
+    "A": "are",
+    "B": "is",
+    "C": "am",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "What time ___ it?",
+    "A": "is",
+    "B": "are",
+    "C": "am",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "It ___ 6 o’clock.",
+    "A": "is",
+    "B": "are",
+    "C": "am",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "I ___ at school at 8 o’clock.",
+    "A": "am",
+    "B": "is",
+    "C": "are",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "She ___ late today.",
+    "A": "is",
+    "B": "are",
+    "C": "am",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "They ___ at home yesterday.",
+    "A": "were",
+    "B": "was",
+    "C": "are",
+    "D": "Is",
+    "javob": "A"
+  },
+  {
+    "savol": "He ___ not here now.",
+    "A": "is",
+    "B": "are",
+    "C": "am",
+    "D": "Be",
+    "javob": "A"
+  },
+  {
+    "savol": "I ___ ready now.",
+    "A": "am",
+    "B": "is",
+    "C": "are",
+    "D": "Be",
+    "javob": "A"
+  },
+  {
+    "savol": "We ___ in class yesterday.",
+    "A": "were",
+    "B": "was",
+    "C": "are",
+    "D": "Is",
+    "javob": "A"
+  },
+  {
+    "savol": "It ___ cold today.",
+    "A": "is",
+    "B": "are",
+    "C": "am",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "This ___ a pen.",
+    "A": "is",
+    "B": "are",
+    "C": "am",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "That ___ a book.",
+    "A": "is",
+    "B": "are",
+    "C": "am",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "These ___ books.",
+    "A": "are",
+    "B": "is",
+    "C": "am",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "Those ___ cars.",
+    "A": "are",
+    "B": "is",
+    "C": "am",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "This ___ my bag.",
+    "A": "is",
+    "B": "are",
+    "C": "am",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "That ___ your phone.",
+    "A": "is",
+    "B": "are",
+    "C": "am",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "These ___ apples.",
+    "A": "are",
+    "B": "is",
+    "C": "am",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "Those ___ houses.",
+    "A": "are",
+    "B": "is",
+    "C": "am",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "It ___ a table.",
+    "A": "is",
+    "B": "are",
+    "C": "am",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "This ___ a chair.",
+    "A": "is",
+    "B": "are",
+    "C": "am",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "That ___ a window.",
+    "A": "is",
+    "B": "are",
+    "C": "am",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "These ___ students.",
+    "A": "are",
+    "B": "is",
+    "C": "am",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "Those ___ teachers.",
+    "A": "are",
+    "B": "is",
+    "C": "am",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "It ___ a car.",
+    "A": "is",
+    "B": "are",
+    "C": "am",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "This ___ a door.",
+    "A": "is",
+    "B": "are",
+    "C": "am",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "That ___ a bag.",
+    "A": "is",
+    "B": "are",
+    "C": "am",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "These ___ desks.",
+    "A": "are",
+    "B": "is",
+    "C": "am",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "Those ___ pens.",
+    "A": "are",
+    "B": "is",
+    "C": "am",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "It ___ my house.",
+    "A": "is",
+    "B": "are",
+    "C": "am",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "I ___ the toy.",
+    "A": "make",
+    "B": "eat",
     "C": "go",
-    "D": "going",
+    "D": "run",
     "javob": "A"
   },
   {
-    "savol": "The pen is ____ the desk.",
-    "A": "on",
-    "B": "in",
-    "C": "at",
-    "D": "under",
+    "savol": "She ___ the box.",
+    "A": "opens",
+    "B": "eats",
+    "C": "runs",
+    "D": "sleeps",
     "javob": "A"
   },
   {
-    "savol": "We ____ a movie last night.",
-    "A": "watched",
-    "B": "watch",
-    "C": "will watch",
-    "D": "watching",
+    "savol": "They ___ the chair.",
+    "A": "make",
+    "B": "eat",
+    "C": "run",
+    "D": "sleep",
     "javob": "A"
   },
   {
-    "savol": "I ____ finish my homework later.",
-    "A": "will",
-    "B": "finished",
-    "C": "finishing",
-    "D": "finishes",
+    "savol": "He ___ the computer.",
+    "A": "fixes",
+    "B": "eats",
+    "C": "goes",
+    "D": "sleeps",
     "javob": "A"
   },
   {
-    "savol": "She ____ working at 7 pm tonight.",
-    "A": "will be",
+    "savol": "I ___ the parts.",
+    "A": "join",
+    "B": "eat",
+    "C": "run",
+    "D": "sleep",
+    "javob": "A"
+  },
+  {
+    "savol": "She ___ the toy car.",
+    "A": "makes",
+    "B": "drinks",
+    "C": "goes",
+    "D": "reads",
+    "javob": "A"
+  },
+  {
+    "savol": "We ___ the box.",
+    "A": "open",
+    "B": "eat",
+    "C": "run",
+    "D": "sleep",
+    "javob": "A"
+  },
+  {
+    "savol": "They ___ the toy.",
+    "A": "make",
+    "B": "drink",
+    "C": "read",
+    "D": "sleep",
+    "javob": "A"
+  },
+  {
+    "savol": "He ___ the bike.",
+    "A": "fixes",
+    "B": "eats",
+    "C": "goes",
+    "D": "sleeps",
+    "javob": "A"
+  },
+  {
+    "savol": "I ___ the model.",
+    "A": "make",
+    "B": "eat",
+    "C": "run",
+    "D": "sleep",
+    "javob": "A"
+  },
+  {
+    "savol": "She ___ the parts.",
+    "A": "joins",
+    "B": "drinks",
+    "C": "reads",
+    "D": "goes",
+    "javob": "A"
+  },
+  {
+    "savol": "We ___ the machine.",
+    "A": "start",
+    "B": "eat",
+    "C": "run",
+    "D": "sleep",
+    "javob": "A"
+  },
+  {
+    "savol": "They ___ the phone.",
+    "A": "fix",
+    "B": "drink",
+    "C": "read",
+    "D": "sleep",
+    "javob": "A"
+  },
+  {
+    "savol": "He ___ the toy.",
+    "A": "uses",
+    "B": "eats",
+    "C": "goes",
+    "D": "sleeps",
+    "javob": "A"
+  },
+  {
+    "savol": "I ___ the car.",
+    "A": "make",
+    "B": "eat",
+    "C": "run",
+    "D": "sleep",
+    "javob": "A"
+  },
+  {
+    "savol": "We ___ the toy.",
+    "A": "build",
+    "B": "eat",
+    "C": "run",
+    "D": "sleep",
+    "javob": "A"
+  },
+  {
+    "savol": "They ___ the parts.",
+    "A": "join",
+    "B": "drink",
+    "C": "read",
+    "D": "sleep",
+    "javob": "A"
+  },
+  {
+    "savol": "He ___ the machine.",
+    "A": "fixes",
+    "B": "eats",
+    "C": "goes",
+    "D": "sleeps",
+    "javob": "A"
+  },
+  {
+    "savol": "We ___ the table.",
+    "A": "build",
+    "B": "drink",
+    "C": "go",
+    "D": "sleep",
+    "javob": "A"
+  },
+  {
+    "savol": "__, my name is Ali.",
+    "A": "Hello",
+    "B": "Bye",
+    "C": "No",
+    "D": "Yes",
+    "javob": "A"
+  },
+  {
+    "savol": "I ___ Ali.",
+    "A": "am",
     "B": "is",
-    "C": "was",
+    "C": "are",
     "D": "be",
     "javob": "A"
   },
   {
-    "savol": "They ____ visit the museum tomorrow.",
-    "A": "are going to",
-    "B": "visited",
-    "C": "visit",
-    "D": "visiting",
+    "savol": "Nice to ___ you.",
+    "A": "meet",
+    "B": "eat",
+    "C": "run",
+    "D": "sleep",
+    "javob": "A"
+  },
+  {
+    "savol": "What is your ___?",
+    "A": "name",
+    "B": "car",
+    "C": "book",
+    "D": "pen",
+    "javob": "A"
+  },
+  {
+    "savol": "My ___ is Sara.",
+    "A": "name",
+    "B": "bag",
+    "C": "table",
+    "D": "door",
+    "javob": "A"
+  },
+  {
+    "savol": "I ___ from Uzbekistan.",
+    "A": "am",
+    "B": "is",
+    "C": "are",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "He ___ a student.",
+    "A": "is",
+    "B": "are",
+    "C": "am",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "We ___ in class.",
+    "A": "are",
+    "B": "is",
+    "C": "am",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "Hello, how ___ you?",
+    "A": "are",
+    "B": "is",
+    "C": "am",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "I ___ good.",
+    "A": "am",
+    "B": "is",
+    "C": "are",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "This ___ my teacher.",
+    "A": "is",
+    "B": "are",
+    "C": "am",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "That ___ my friend.",
+    "A": "is",
+    "B": "are",
+    "C": "am",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "I ___ new here.",
+    "A": "am",
+    "B": "is",
+    "C": "are",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "She ___ in class.",
+    "A": "is",
+    "B": "are",
+    "C": "am",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "He ___ my brother.",
+    "A": "is",
+    "B": "are",
+    "C": "am",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "A hammer is used to ___.",
+    "A": "hit",
+    "B": "eat",
+    "C": "drink",
+    "D": "sleep",
+    "javob": "A"
+  },
+  {
+    "savol": "A knife is used to ___.",
+    "A": "cut",
+    "B": "run",
+    "C": "sleep",
+    "D": "drink",
+    "javob": "A"
+  },
+  {
+    "savol": "A ruler is used to ___.",
+    "A": "measure",
+    "B": "eat",
+    "C": "run",
+    "D": "sleep",
+    "javob": "A"
+  },
+  {
+    "savol": "A drill is used to ___.",
+    "A": "make holes",
+    "B": "drink",
+    "C": "eat",
+    "D": "sleep",
+    "javob": "A"
+  },
+  {
+    "savol": "A brush is used to ___.",
+    "A": "paint",
+    "B": "run",
+    "C": "eat",
+    "D": "sleep",
+    "javob": "A"
+  },
+  {
+    "savol": "Scissors are used to ___.",
+    "A": "cut paper",
+    "B": "drink",
+    "C": "sleep",
+    "D": "run",
+    "javob": "A"
+  },
+  {
+    "savol": "A tape is used to ___.",
+    "A": "measure",
+    "B": "eat",
+    "C": "run",
+    "D": "sleep",
+    "javob": "A"
+  },
+  {
+    "savol": "A hammer helps to ___.",
+    "A": "hit nails",
+    "B": "drink",
+    "C": "run",
+    "D": "sleep",
+    "javob": "A"
+  },
+  {
+    "savol": "A knife helps to ___.",
+    "A": "cut food",
+    "B": "eat",
+    "C": "run",
+    "D": "sleep",
+    "javob": "A"
+  },
+  {
+    "savol": "A screwdriver helps to ___.",
+    "A": "turn screws",
+    "B": "drink",
+    "C": "eat",
+    "D": "sleep",
+    "javob": "A"
+  },
+  {
+    "savol": "There is ___ water in the bottle.",
+    "A": "some",
+    "B": "many",
+    "C": "a",
+    "D": "an",
+    "javob": "A"
+  },
+  {
+    "savol": "There are ___ apples on the table.",
+    "A": "some",
+    "B": "much",
+    "C": "a",
+    "D": "an",
+    "javob": "A"
+  },
+  {
+    "savol": "She has ___ books.",
+    "A": "many",
+    "B": "much",
+    "C": "a",
+    "D": "an",
     "javob": "A"
   }
 ]
