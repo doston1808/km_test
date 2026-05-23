@@ -1,0 +1,1202 @@
+[
+  {
+    "savol": "Xromatin nima?",
+    "A": "Yadro ichidagi DNK va oqsillar majmuasi",
+    "B": "Sitoplazmadagi oqsil",
+    "C": "Hujayra membranasi",
+    "D": "Ribosoma majmuasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Xromatinning asosiy tarkibiy qismlari qaysilar?",
+    "A": "DNK va oqsillar",
+    "B": "RNK va fermentlar",
+    "C": "Uglevodlar va oqsillar",
+    "D": "Oqsillar",
+    "javob": "A"
+  },
+  {
+    "savol": "Euxromatin qanday xususiyatga ega?",
+    "A": "Genetik faol",
+    "B": "Qattiq zichlashgan",
+    "C": "Mitozda ko‘rinadi",
+    "D": "Faol bo‘lmagan",
+    "javob": "A"
+  },
+  {
+    "savol": "Geteroxromatinning asosiy belgisi qaysi?",
+    "A": "Zich joylashgan va kam faol",
+    "B": "DNK sintezi faol",
+    "C": "Genetik jihatdan faol",
+    "D": "RNK ko‘p sintezlanadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Xromatinning qaysi turi yadroda doimo zich bo‘ladi?",
+    "A": "Konstitutiv geteroxromatin",
+    "B": "Yadrocha xromatini",
+    "C": "Fakultativ geteroxromatin",
+    "D": "Euxromatin",
+    "javob": "A"
+  },
+  {
+    "savol": "Xromatinning asosiy funksiyasi nima?",
+    "A": "Genetik axborotni saqlash va uzatish",
+    "B": "Modda almashinuvini boshqarish",
+    "C": "Energiya ishlab chiqarish",
+    "D": "Oqsil sintezi",
+    "javob": "A"
+  },
+  {
+    "savol": "Deletsiya nima?",
+    "A": "Xromosoma bo‘lagining yo‘qolishi",
+    "B": "Bo‘lakning joy almashishi",
+    "C": "Xromosoma sonining ortishi",
+    "D": "Bo‘lakning ikki barobar ortishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Duplikatsiya qanday mutatsiya?",
+    "A": "Bo‘lak ikki marta takrorlanadi",
+    "B": "Xromosoma qisqaradi",
+    "C": "Bo‘lak yo‘qoladi",
+    "D": "Bo‘lak teskari joylashadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Inversiya nimani anglatadi?",
+    "A": "Xromosoma bo‘lagi teskari joylashadi",
+    "B": "Xromosoma soni ortadi",
+    "C": "Gen mutatsiyasi yuz beradi",
+    "D": "Xromosoma bo‘lagi uziladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Inversiya nimani anglatadi?",
+    "A": "Xromosoma bo‘lagi teskari joylashadi",
+    "B": "Xromosoma bo‘lagi uziladi",
+    "C": "Gen mutatsiyasi yuz beradi",
+    "D": "Xromosoma bo‘lagi uziladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Translokatsiya nima?",
+    "A": "Xromosoma bo‘lagining boshqa xromosomaga o‘tishi",
+    "B": "Xromosoma bo‘lagining yo‘qolishi",
+    "C": "Xromosoma qisqarishi",
+    "D": "Xromosoma bo‘lagining yo‘qolishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi mutatsiya xromosomalar sonining o‘zgarishi bilan bog‘liq?",
+    "A": "Genom mutatsiyasi",
+    "B": "Punkt mutatsiya",
+    "C": "Gen mutatsiyasi",
+    "D": "Genom mutatsiyasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Aneuploidiyaga misol qaysi?",
+    "A": "Daun sindromi",
+    "B": "Triploidiya",
+    "C": "Tetraploidiya",
+    "D": "Inversiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Daun sindromida nechta xromosoma bo‘ladi?",
+    "A": "47",
+    "B": "45",
+    "C": "44",
+    "D": "43",
+    "javob": "A"
+  },
+  {
+    "savol": "Xromosoma mutatsiyalarining sababi nima bo‘lishi mumkin?",
+    "A": "Radiatsiya va kimyoviy moddalar",
+    "B": "Oqsil sintezi",
+    "C": "Radiatsiya va kimyoviy moddalar",
+    "D": "Vitamin yetishmasligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Xromatin holati nimaga bog‘liq?",
+    "A": "Genetik faollikka",
+    "B": "Hujayra hajmiga",
+    "C": "Membrana qalinligiga",
+    "D": "Sitoplazma bosimiga",
+    "javob": "A"
+  },
+  {
+    "savol": "Mushak to‘qimasi qanday asosiy xususiyatga ega?",
+    "A": "Qisqarish qobiliyati",
+    "B": "Himoyalash",
+    "C": "Sekresiya qilish",
+    "D": "O‘tkazuvchanlik",
+    "javob": "A"
+  },
+  {
+    "savol": "Mushak to‘qimasining asosiy vazifasi nima?",
+    "A": "Harakatni amalga oshirish",
+    "B": "Qon ishlab chiqarish",
+    "C": "Oqsil sintezi",
+    "D": "Modda almashinuvini ta’minlash",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi mushak turi ixtiyoriy boshqariladi?",
+    "A": "Skelet mushagi",
+    "B": "Ichki organ mushagi",
+    "C": "Ichki organ",
+    "D": "Silliq mushak",
+    "javob": "A"
+  },
+  {
+    "savol": "Yurak mushagi qaysi xususiyatga ega?",
+    "A": "Tarmoqlangan va avtomatik",
+    "B": "Silliq",
+    "C": "Ko‘p yadroli",
+    "D": "Ixtiyoriy",
+    "javob": "A"
+  },
+  {
+    "savol": "Teri necha qavatdan iborat?",
+    "A": "3",
+    "B": "2",
+    "C": "1",
+    "D": "5",
+    "javob": "A"
+  },
+  {
+    "savol": "Terining eng ustki qavati nima deb ataladi?",
+    "A": "Epiteliy to‘qimasi",
+    "B": "Biriktiruvchi to‘qima",
+    "C": "Mushak to‘qimasi",
+    "D": "Nerv to‘qimasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Dermis qavati qanday to‘qimadan tashkil topgan?",
+    "A": "Biriktiruvchi",
+    "B": "Mushak",
+    "C": "Yog‘",
+    "D": "Epiteliy",
+    "javob": "A"
+  },
+  {
+    "savol": "Teri osti yog‘ qavati qanday ataladi?",
+    "A": "Gipoderma",
+    "B": "Melanin",
+    "C": "Epidermis",
+    "D": "Dermis",
+    "javob": "A"
+  },
+  {
+    "savol": "Terining asosiy himoya funksiyasi nimadan iborat?",
+    "A": "Melanin",
+    "B": "Gemoglobin",
+    "C": "Kollagen",
+    "D": "Keratin",
+    "javob": "A"
+  },
+  {
+    "savol": "Ter orqali organizmdan nima ajraladi?",
+    "A": "Ortiqcha suv va tuzlar",
+    "B": "Oqsillar",
+    "C": "Vitaminlar",
+    "D": "Fermentlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Teri tana haroratini qanday boshqaradi?",
+    "A": "Terlash orqali",
+    "B": "Yurak urishi orqali",
+    "C": "Ovqat hazm qilish orqali",
+    "D": "Nafas olish orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi qavatda qon tomirlari mavjud?",
+    "A": "Dermis",
+    "B": "Epidermis",
+    "C": "Shox qavat",
+    "D": "Tirnoq",
+    "javob": "A"
+  },
+  {
+    "savol": "Teri sezgi organi sifatida nimani qabul qiladi?",
+    "A": "Harorat, og‘riq va bosimni",
+    "B": "Hidni",
+    "C": "Yorug‘likni",
+    "D": "Ovushni",
+    "javob": "A"
+  },
+  {
+    "savol": "Soch ildizi qaysi qavatda joylashgan?",
+    "A": "Dermis",
+    "B": "Gipoderma",
+    "C": "Shox qavat",
+    "D": "Epidermis",
+    "javob": "A"
+  },
+  {
+    "savol": "yog‘ bezlari qayerda joylashgan?",
+    "A": "Dermisda",
+    "B": "Gipodermada",
+    "C": "Tirnoqda",
+    "D": "Epidermisda",
+    "javob": "A"
+  },
+  {
+    "savol": "Ter bezlari qanday vazifani bajaradi?",
+    "A": "Ter ajratadi",
+    "B": "Qonni tozalaydi",
+    "C": "Yog‘ ishlab chiqaradi",
+    "D": "Oqartiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Teri organizmni nimadan himoya qiladi?",
+    "A": "Mikroorganizmlardan",
+    "B": "Radiodan",
+    "C": "Musiqadan",
+    "D": "Havo bosimidan",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyosh nuri ta’sirida qaysi vitamin hosil bo‘ladi?",
+    "A": "D vitamini",
+    "B": "A vitamini",
+    "C": "B vitamini",
+    "D": "C vitamini",
+    "javob": "A"
+  },
+  {
+    "savol": "Epidermisning eng ustki qavati qanday ataladi?",
+    "A": "Shox qavat",
+    "B": "Teri osti qavati",
+    "C": "Yog‘ qavati",
+    "D": "Qon qavati",
+    "javob": "A"
+  },
+  {
+    "savol": "Teri osti yog‘ qavatining asosiy vazifasi nima?",
+    "A": "Issiqlikni saqlash",
+    "B": "Nafas olish",
+    "C": "Qon aylanish",
+    "D": "Oziq hazm qilish",
+    "javob": "A"
+  },
+  {
+    "savol": "Teri qanday ajratish organi hisoblanadi?",
+    "A": "Ajratish ekskretor",
+    "B": "Tayanch",
+    "C": "Harakat",
+    "D": "Ichki sekretsiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Teri inson organizmidagi eng katta qanday a’zo hisoblanadi?",
+    "A": "Tashqi a’zo",
+    "B": "Hazm a’zosi",
+    "C": "Sezgi a’zosi",
+    "D": "Ichki a’zo",
+    "javob": "A"
+  },
+  {
+    "savol": "Jigarning struktur-funksional birligi nima?",
+    "A": "Lobula",
+    "B": "Alveola",
+    "C": "Sarkomer",
+    "D": "Plevra",
+    "javob": "A"
+  },
+  {
+    "savol": "Jigar bo‘lakchasining markazida nima joylashadi?",
+    "A": "Markaziy vena",
+    "B": "O‘t yo‘li",
+    "C": "Arteriya",
+    "D": "Portal triada",
+    "javob": "A"
+  },
+  {
+    "savol": "Portal triada tarkibiga kirmaydi:",
+    "A": "Limfa tuguni",
+    "B": "Arteriya",
+    "C": "Vena",
+    "D": "O‘t yo‘li",
+    "javob": "A"
+  },
+  {
+    "savol": "Gepatotsitlar qanday hujayralar?",
+    "A": "Jigar parenxima hujayralari",
+    "B": "Nerv hujayralari",
+    "C": "Yassi epiteliy",
+    "D": "Kubik epiteliy",
+    "javob": "A"
+  },
+  {
+    "savol": "Kupfer hujayralari qanday vazifani bajaradi?",
+    "A": "Fagotsitoz",
+    "B": "Kislorod tashish",
+    "C": "Gormon ishlab chiqaradi",
+    "D": "Ferment ajratish",
+    "javob": "A"
+  },
+  {
+    "savol": "Jigar o‘t suyuqligini qayerga ajratadi?",
+    "A": "O‘t kapillyarlariga",
+    "B": "Markaziy venaga",
+    "C": "Arteriyaga",
+    "D": "Sinusoidga",
+    "javob": "A"
+  },
+  {
+    "savol": "Jigar kapsulasi qanday to‘qimadan iborat?",
+    "A": "Biriktiruvchi",
+    "B": "Mushak",
+    "C": "Nerv",
+    "D": "Biriktiruvchi",
+    "javob": "A"
+  },
+  {
+    "savol": "Gepatotsitlar shakli:",
+    "A": "Ko‘p qirrali",
+    "B": "Dumaloq",
+    "C": "Yassi",
+    "D": "Silindrsimon",
+    "javob": "A"
+  },
+  {
+    "savol": "Biriktiruvchi to‘qimaning kelib chiqishi qaysi embrional qatlamga mansub?",
+    "A": "Mezoderma",
+    "B": "Neyroderma",
+    "C": "Ektoderma",
+    "D": "Entoderma",
+    "javob": "A"
+  },
+  {
+    "savol": "Biriktiruvchi to‘qimaning asosiy vazifasi:",
+    "A": "Tayanch va bog‘lovchi",
+    "B": "Qisqarish",
+    "C": "Impuls o‘tkazish",
+    "D": "Sekretsiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Biriktiruvchi to‘qimaning hujayralararo moddasi nimadan iborat?",
+    "A": "Asosiy modda va tolalardan",
+    "B": "Hujayralardan",
+    "C": "Qondan",
+    "D": "Tolalardan",
+    "javob": "A"
+  },
+  {
+    "savol": "Kollagen tolalar qanday xususiyatga ega?",
+    "A": "Mustahkam",
+    "B": "Elastik",
+    "C": "Suyuq",
+    "D": "Qisqaruvchan",
+    "javob": "A"
+  },
+  {
+    "savol": "Qon qanday to‘qima turiga kiradi?",
+    "A": "Suyuqlangan biriktiruvchi",
+    "B": "Epiteliy",
+    "C": "Mushak",
+    "D": "Nerv",
+    "javob": "A"
+  },
+  {
+    "savol": "Qonning shaklli elementlariga kirmaydi:",
+    "A": "Albumin",
+    "B": "trombosit",
+    "C": "Eritrotsit",
+    "D": "Leykotsit",
+    "javob": "A"
+  },
+  {
+    "savol": "Eritrotsitlarning asosiy vazifasi:",
+    "A": "Kislorod tashish",
+    "B": "Gormon ajratish",
+    "C": "Himoya",
+    "D": "Qon ivishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Eritrotsit tarkibidagi asosiy oqsil:",
+    "A": "Gemoglobin",
+    "B": "Kollagen",
+    "C": "Fibrin",
+    "D": "Aktin",
+    "javob": "A"
+  },
+  {
+    "savol": "Leykotsitlarning vazifasi:",
+    "A": "Immun himoya",
+    "B": "Gaz almashinuvi",
+    "C": "Qon ivishi",
+    "D": "Oziqlantirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Trombotsitlar qanday jarayonda ishtirok etadi?",
+    "A": "Qon ivishi",
+    "B": "Sekretsiya",
+    "C": "Filtratsiya",
+    "D": "Nafas olish",
+    "javob": "A"
+  },
+  {
+    "savol": "Limfa qanday suyuqlik?",
+    "A": "To‘qima suyuqligidan hosil bo‘lgan",
+    "B": "Hazm shirasi",
+    "C": "Serebrospinal suyuqlik",
+    "D": "Qon plazmasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Limfa tizimining asosiy vazifasi",
+    "A": "Immun himoya va drenaj",
+    "B": "Nafas olish",
+    "C": "Oziq hazm qilish",
+    "D": "Qon ishlab chiqarish",
+    "javob": "A"
+  },
+  {
+    "savol": "Limfa tugunlari vazifasi:",
+    "A": "Limfani filtrlash",
+    "B": "Siydik hosil qilish",
+    "C": "Qonni filtrlash",
+    "D": "Gormon ishlab chiqarish",
+    "javob": "A"
+  },
+  {
+    "savol": "Gemopoez nima?",
+    "A": "Qon hujayralarining hosil bo‘lishi",
+    "B": "Limfa aylanishi",
+    "C": "Nafas olish",
+    "D": "Qon ivishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Embrional davrda gemopoez dastlab qayerda sodir bo‘ladi?",
+    "A": "Sariqlik xaltasida",
+    "B": "Suyak ko‘migida",
+    "C": "Jigarda",
+    "D": "Taloqda",
+    "javob": "A"
+  },
+  {
+    "savol": "Fibrin nima hosil qiladi?",
+    "A": "Qon laxtasini",
+    "B": "Gormon",
+    "C": "Kislorod",
+    "D": "Limfa",
+    "javob": "A"
+  },
+  {
+    "savol": "Suyak ko‘migi qanday to‘qima turiga kiradi?",
+    "A": "Maxsus biriktiruvchi",
+    "B": "Nerv",
+    "C": "Muskul",
+    "D": "Epiteliy",
+    "javob": "A"
+  },
+  {
+    "savol": "Qon plazmasining asosiy qismi:",
+    "A": "Suv",
+    "B": "Ferment",
+    "C": "Oqsil",
+    "D": "Yog‘",
+    "javob": "A"
+  },
+  {
+    "savol": "Inson organizmida nechta asosiy to‘qima turi mavjud?",
+    "A": "4",
+    "B": "3",
+    "C": "2",
+    "D": "1",
+    "javob": "A"
+  },
+  {
+    "savol": "Asosiy to‘qima turlariga kirmaydi:",
+    "A": "Suyak iligi",
+    "B": "Mushak",
+    "C": "Biriktiruvchi",
+    "D": "Epiteliy",
+    "javob": "A"
+  },
+  {
+    "savol": "Biriktiruvchi to‘qimaning asosiy belgisi:",
+    "A": "Hujayralararo modda ko‘p",
+    "B": "Qisqaruvchanlik",
+    "C": "O’lik",
+    "D": "Epitelyar",
+    "javob": "A"
+  },
+  {
+    "savol": "Suyak to‘qimasi qaysi to‘qima turiga kiradi?",
+    "A": "Biriktiruvchi to‘qima",
+    "B": "Epiteliy to‘qima",
+    "C": "Mushak to‘qimasi",
+    "D": "Nerv to‘qimasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Suyak to‘qimasining asosiy hujayrasi:",
+    "A": "Osteotsit",
+    "B": "Kollagen",
+    "C": "Miofibrilla",
+    "D": "Osteon",
+    "javob": "A"
+  },
+  {
+    "savol": "Yangi suyak hosil qiluvchi hujayra:",
+    "A": "Osteoblast",
+    "B": "Osteoklast",
+    "C": "Osteoklast",
+    "D": "Osteotsit",
+    "javob": "A"
+  },
+  {
+    "savol": "Suyak to‘qimasini parchalovchi hujayra:",
+    "A": "Osteoklast",
+    "B": "Osteoblast",
+    "C": "Osteotsit",
+    "D": "Tog’ay",
+    "javob": "A"
+  },
+  {
+    "savol": "Suyak to‘qimasining organik moddasi:",
+    "A": "Kollagen tolalar",
+    "B": "Magniy tuzlari",
+    "C": "Kalsiy fosfat",
+    "D": "Natriy xlorid",
+    "javob": "A"
+  },
+  {
+    "savol": "Suyakning qattiqligini ta’minlaydi:",
+    "A": "Mineral tuzlar",
+    "B": "Vitaminlar",
+    "C": "Oqsillar",
+    "D": "Yog‘lar",
+    "javob": "A"
+  },
+  {
+    "savol": "Suyak to‘qimasining mikroskopik birligi:",
+    "A": "Osteon",
+    "B": "Sarkomer",
+    "C": "Alveola",
+    "D": "Nevron",
+    "javob": "A"
+  },
+  {
+    "savol": "Osteon markazidan nima o‘tadi?",
+    "A": "Qon tomiri",
+    "B": "Mushak tolasi",
+    "C": "Nerv",
+    "D": "Limfa tomiri",
+    "javob": "A"
+  },
+  {
+    "savol": "Suyak ustini qoplab turuvchi parda:",
+    "A": "Periost",
+    "B": "Endost",
+    "C": "Fasciya",
+    "D": "Fasciya",
+    "javob": "A"
+  },
+  {
+    "savol": "Suyak ichki qismini qoplovchi parda:",
+    "A": "Endost",
+    "B": "Plevra",
+    "C": "Perikard",
+    "D": "Periost",
+    "javob": "A"
+  },
+  {
+    "savol": "Suyaklarning o‘sishi qaysi hujayra hisobiga sodir bo‘ladi?",
+    "A": "Osteoblast",
+    "B": "Eritrotsit",
+    "C": "Osteotsit",
+    "D": "Osteoklast",
+    "javob": "A"
+  },
+  {
+    "savol": "G‘ovak suyak ko‘proq     qayerda joylashgan?",
+    "A": "Yassi suyaklarda",
+    "B": "Qisqa suyak tashqarisida",
+    "C": "Tog‘ay ichida",
+    "D": "Uzun suyak diafizida",
+    "javob": "A"
+  },
+  {
+    "savol": "Qizil suyak iligi qayerda joylashadi?",
+    "A": "G‘ovak suyak orasida",
+    "B": "Periost ostida",
+    "C": "Osteonda",
+    "D": "Diafiz bo‘shlig‘ida",
+    "javob": "A"
+  },
+  {
+    "savol": "Suyak hujayralari joylashgan bo‘shliq:",
+    "A": "Lakuna",
+    "B": "Sinaps",
+    "C": "Sarkoplazma",
+    "D": "Miozin",
+    "javob": "A"
+  },
+  {
+    "savol": "Suyakning elastikligini ta’minlaydi:",
+    "A": "Kollagen tolalar",
+    "B": "Kalsiy",
+    "C": "Fosfor",
+    "D": "Mineral tuzlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Osteoklastlar qanday hujayralar?",
+    "A": "Ko‘p yadroli",
+    "B": "Yadrosiz",
+    "C": "Ikkita yadroli",
+    "D": "Bir yadroli",
+    "javob": "A"
+  },
+  {
+    "savol": "Suyak to‘qimasi regeneratsiyasida muhim rol o‘ynaydi:",
+    "A": "Periost",
+    "B": "Dermis",
+    "C": "Epidermis",
+    "D": "Plevra",
+    "javob": "A"
+  },
+  {
+    "savol": "Suyak matriksining asosiy anorganik moddasi:",
+    "A": "Kalsiy fosfat",
+    "B": "Temir oksidi",
+    "C": "Natriy xlorid",
+    "D": "Kalsiy karbonat",
+    "javob": "A"
+  },
+  {
+    "savol": "Kompakt suyak ko‘proq qayerda joylashadi?",
+    "A": "Diafizda",
+    "B": "G‘ovak qismda",
+    "C": "Tog‘ayda",
+    "D": "Epifizda",
+    "javob": "A"
+  },
+  {
+    "savol": "Suyak hujayralari o‘zaro bog‘lanadi:",
+    "A": "Kanalchalar orqali",
+    "B": "Miofibrilla orqali",
+    "C": "Akson orqali",
+    "D": "Sinaps orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Suyak to‘qimasi tarkibidagi oqsil:",
+    "A": "Kollagen",
+    "B": "Keratin",
+    "C": "Miozin",
+    "D": "Elastin",
+    "javob": "A"
+  },
+  {
+    "savol": "Suyaklarning asosiy vazifasi:",
+    "A": "Yog‘ hujayralariga",
+    "B": "Mineral tuzlarga",
+    "C": "Nerv tolalariga",
+    "D": "Qon hujayralariga",
+    "javob": "A"
+  },
+  {
+    "savol": "Osteoblastlar qayerdan hosil bo‘ladi?",
+    "A": "Mezenximadan",
+    "B": "Epiteliydan",
+    "C": "Nerv to‘qimadan",
+    "D": "Mushakdan",
+    "javob": "A"
+  },
+  {
+    "savol": "Suyak to‘qimasining turlari:",
+    "A": "Kompakt va g‘ovak",
+    "B": "Epitelial va mushak",
+    "C": "Silliq va ko‘ndalang",
+    "D": "Qattiq va suyuq",
+    "javob": "A"
+  },
+  {
+    "savol": "Suyak to‘qimasida oziqlanish amalga oshadi:",
+    "A": "Diffuziya orqali",
+    "B": "Nafas olish orqali",
+    "C": "limfa orqali",
+    "D": "Gormon orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Suyaklarning kimyoviy tarkibida ko‘proq uchraydi:",
+    "A": "Kalsiy",
+    "B": "Kaloy",
+    "C": "Ftor",
+    "D": "Geliy",
+    "javob": "A"
+  },
+  {
+    "savol": "Suyak to‘qimasida kollagen tolalar joylashadi:",
+    "A": "Matriksda",
+    "B": "Yadroda",
+    "C": "Mitoxondriyada",
+    "D": "Ribosomada",
+    "javob": "A"
+  },
+  {
+    "savol": "Suyak to‘qimasi qattiqligi nimaga bog‘liq?",
+    "A": "Mineral tuzlarga",
+    "B": "Vitaminlarga",
+    "C": "Oqartiruvchi moddaga",
+    "D": "Suv miqdoriga",
+    "javob": "A"
+  },
+  {
+    "savol": "Suyaklarning sinishi tez bitishiga yordam beradi:",
+    "A": "Osteoblas",
+    "B": "Eritrotsit",
+    "C": "Osteoklast",
+    "D": "Trombosit",
+    "javob": "A"
+  },
+  {
+    "savol": "Suyak hujayralari o‘rtasidagi kanalchalar:",
+    "A": "Kanalikula",
+    "B": "Sinaps",
+    "C": "Havers kanali",
+    "D": "Lakuna",
+    "javob": "A"
+  },
+  {
+    "savol": "Suyak to‘qimasi organizmda yana qanday vazifa bajaradi?",
+    "A": "Qon hosil qiladi",
+    "B": "Oziq hazm qiladi",
+    "C": "Nafas oladi",
+    "D": "Gormon ishlab chiqaradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Nerv to‘qimasining asosiy vazifasi nima?",
+    "A": "Ta’sirotni qabul qilish va uzatish",
+    "B": "Qon aylanishini boshqarish",
+    "C": "Harakatni ta’minlash",
+    "D": "Nafas olishni boshqarish",
+    "javob": "A"
+  },
+  {
+    "savol": "Eksteroreseptorlar nimani sezadi?",
+    "A": "Tashqi muhitni",
+    "B": "Og‘riqni",
+    "C": "Haroratni",
+    "D": "Ichki muhitni",
+    "javob": "A"
+  },
+  {
+    "savol": "Interoreseptorlar qayerdan axborot oladi?",
+    "A": "Ichki organlardan",
+    "B": "Miyadan",
+    "C": "Tashqi muhitdan",
+    "D": "Mushaklardan",
+    "javob": "A"
+  },
+  {
+    "savol": "Afferent neyronlar vazifasi nima?",
+    "A": "Impulsni markazga olib boradi",
+    "B": "Himoya qiladi",
+    "C": "Qon ishlab chiqaradi",
+    "D": "Impulsni organlarga olib boradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Efferent neyronlar nima qiladi?",
+    "A": "Impulsni organlarga uzatadi",
+    "B": "Impulsni yo‘q qiladi",
+    "C": "Organ",
+    "D": "To’qima",
+    "javob": "A"
+  },
+  {
+    "savol": "Assotsiativ neyronlar vazifasi nima?",
+    "A": "Neyronlarni bog‘laydi",
+    "B": "Qon tashiydi",
+    "C": "Kislorod yetkazadi",
+    "D": "impuls hosil qiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Neyronning uzun o‘simtasi qanday ataladi?",
+    "A": "Akson",
+    "B": "Sinaps",
+    "C": "Dendrit",
+    "D": "Soma",
+    "javob": "A"
+  },
+  {
+    "savol": "Dendritlarning vazifasi nima?",
+    "A": "Impulsni qabul qiladi",
+    "B": "Qon ishlab chiqaradi",
+    "C": "Himoya qiladi",
+    "D": "Impulsni uzatadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Sinaps nima?",
+    "A": "Neyronlar tutashgan joy",
+    "B": "Mushak hujayrasi",
+    "C": "Bez",
+    "D": "Qon tomiri",
+    "javob": "A"
+  },
+  {
+    "savol": "Sinapsda nima ajraladi?",
+    "A": "Mediator",
+    "B": "Qon",
+    "C": "Kislorod",
+    "D": "Suv",
+    "javob": "A"
+  },
+  {
+    "savol": "Mediatorning vazifasi nima?",
+    "A": "Qo‘zg‘alishni uzatadi",
+    "B": "Nafasni boshqaradi",
+    "C": "Ovqat hazm qiladi",
+    "D": "Qon aylanishini tezlatadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Neyron nechta asosiy qismdan iborat?",
+    "A": "3",
+    "B": "2",
+    "C": "1",
+    "D": "5",
+    "javob": "A"
+  },
+  {
+    "savol": "Neyronning tanasi nima deb ataladi?",
+    "A": "Soma",
+    "B": "Dendrit",
+    "C": "Sinaps",
+    "D": "Akson",
+    "javob": "A"
+  },
+  {
+    "savol": "Markaziy nerv tizimiga nimalar kiradi?",
+    "A": "Miya va orqa miya",
+    "B": "Mushaklar",
+    "C": "Nervlar",
+    "D": "Bezlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Periferik nerv tizimi nimadan iborat?",
+    "A": "Nerv tolalari va tugunlar",
+    "B": "yurak",
+    "C": "Qon tomirlari",
+    "D": "miya",
+    "javob": "A"
+  },
+  {
+    "savol": "Sensor neyronlar yana qanday ataladi?",
+    "A": "Afferent",
+    "B": "Inter",
+    "C": "Motor",
+    "D": "Glial",
+    "javob": "A"
+  },
+  {
+    "savol": "Motor neyronlar yana qanday ataladi?",
+    "A": "Efferent",
+    "B": "Sensor",
+    "C": "Afferent",
+    "D": "Inter",
+    "javob": "A"
+  },
+  {
+    "savol": "Neyronlar qanday signal hosil qiladi?",
+    "A": "`Elektr",
+    "B": "Kimyoviy",
+    "C": "Issiqlik",
+    "D": "Kimyoviy",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi hujayralar yordamchi hisoblanadi?",
+    "A": "Neyroglia",
+    "B": "Leykotsitlar",
+    "C": "Neyronlar",
+    "D": "Eritrotsitlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Neyroglianing vazifasi nima?",
+    "A": "Neyronlarni qo‘llab-quvvatlash",
+    "B": "Qon ishlab chiqarish",
+    "C": "Ovqat hazm qilish",
+    "D": "impuls uzatish",
+    "javob": "A"
+  },
+  {
+    "savol": "Akson orqali nima uzatiladi?",
+    "A": "Nerv impulsi",
+    "B": "Kislorod",
+    "C": "Suv",
+    "D": "Qon",
+    "javob": "A"
+  },
+  {
+    "savol": "Bitta neyronda nechta sinaps bo‘lishi mumkin?",
+    "A": "1200–1800",
+    "B": "100–200",
+    "C": "100–300",
+    "D": "200–400",
+    "javob": "A"
+  },
+  {
+    "savol": "Sinaps nechta qavatdan iborat?",
+    "A": "2",
+    "B": "3",
+    "C": "4",
+    "D": "5",
+    "javob": "A"
+  },
+  {
+    "savol": "Nerv tizimi nimani muvofiqlashtiradi?",
+    "A": "Organlar faoliyatini",
+    "B": "Ovqat hazm qilishni",
+    "C": "Harakatni",
+    "D": "Qon aylanishini",
+    "javob": "A"
+  },
+  {
+    "savol": "Fotoretseptorlar qayerda joylashgan?",
+    "A": "Ko‘z",
+    "B": "Yurak",
+    "C": "O‘pka",
+    "D": "Teri",
+    "javob": "A"
+  },
+  {
+    "savol": "Teri retseptorlari nimani sezadi?",
+    "A": "Harorat va og‘riqni",
+    "B": "tovushni",
+    "C": "bosimni",
+    "D": "yorug‘likni",
+    "javob": "A"
+  },
+  {
+    "savol": "Motor neyronlar nimani boshqaradi?",
+    "A": "Harakatni",
+    "B": "Xotirani",
+    "C": "Sezgini",
+    "D": "Fikrni",
+    "javob": "A"
+  },
+  {
+    "savol": "Assotsiativ neyronlar nimada ishtirok etadi?",
+    "A": "Murakkab reflekslarda",
+    "B": "Qon aylanishida",
+    "C": "Ovqat hazm qilishda",
+    "D": "Neyronning qisqa o‘simtalari",
+    "javob": "A"
+  },
+  {
+    "savol": "Neyronning qisqa o‘simtalari nima deb ataladi?",
+    "A": "Dendrit",
+    "B": "Akson",
+    "C": "Neyron",
+    "D": "neyrogliya",
+    "javob": "A"
+  },
+  {
+    "savol": "Nerv impulsi qayerda hosil bo‘ladi?",
+    "A": "Neyronda",
+    "B": "Qonda",
+    "C": "Terida",
+    "D": "Mushakda",
+    "javob": "A"
+  },
+  {
+    "savol": "Sinapsdagi tirqish nima vazifa bajaradi?",
+    "A": "Signal o‘tishini ta’minlaydi",
+    "B": "Ovqat hazm qiladi",
+    "C": "Nafasni boshqaradi",
+    "D": "Qon o‘tkazadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Neyronlar qayerda joylashgan?",
+    "A": "Miya, orqa miya va nervlarda",
+    "B": "O‘pkada",
+    "C": "Mushakda",
+    "D": "Yurakda",
+    "javob": "A"
+  },
+  {
+    "savol": "Nerv tizimi qanday jarayonlarda ishtirok etadi?",
+    "A": "Barchasi",
+    "B": "Harakat",
+    "C": "Sezgi",
+    "D": "Fikrlash",
+    "javob": "A"
+  },
+  {
+    "savol": "Neyronlarning asosiy vazifasi nima?",
+    "A": "Axborotni qabul qilish va uzatish",
+    "B": "Kislorod tashish",
+    "C": "Ovqat hazm qilish",
+    "D": "Qon tashish",
+    "javob": "A"
+  },
+  {
+    "savol": "Jinsiy hujayralar qanday ataladi?",
+    "A": "Gametalar",
+    "B": "Neyronlar",
+    "C": "Somatik hujayralar",
+    "D": "Epiteliy hujayralar",
+    "javob": "A"
+  },
+  {
+    "savol": "Erkak jinsiy hujayrasi nima deyiladi?",
+    "A": "Spermatozoid",
+    "B": "Zigota",
+    "C": "Blastula",
+    "D": "Tuxum hujayra",
+    "javob": "A"
+  },
+  {
+    "savol": "Ayol jinsiy hujayrasi nima deyiladi?",
+    "A": "Tuxum hujayra",
+    "B": "Spermatozoid",
+    "C": "Blastula",
+    "D": "Zigota",
+    "javob": "A"
+  },
+  {
+    "savol": "Spermatozoid qayerda hosil bo‘ladi?",
+    "A": "Moyaklarda",
+    "B": "O‘pkada",
+    "C": "Jigarda",
+    "D": "Yurakda",
+    "javob": "A"
+  },
+  {
+    "savol": "Tuxum hujayra qayerda hosil bo‘ladi?",
+    "A": "Tuxumdonlarda",
+    "B": "Oshqozonda",
+    "C": "Buyrakda",
+    "D": "Bachadonda",
+    "javob": "A"
+  },
+  {
+    "savol": "Gametalar qanday bo‘linish orqali hosil bo‘ladi?",
+    "A": "Meyoz",
+    "B": "Amitoz",
+    "C": "Fragmentatsiya",
+    "D": "Amitoz",
+    "javob": "A"
+  },
+  {
+    "savol": "Spermatozoidning asosiy vazifasi nima?",
+    "A": "Tuxum hujayrani urug‘lantirish",
+    "B": "Himoya",
+    "C": "Oziqlanish",
+    "D": "Bo’linish",
+    "javob": "A"
+  },
+  {
+    "savol": "Tuxum hujayraning vazifasi nima?",
+    "A": "Urug‘lanish uchun moddalar saqlash",
+    "B": "Qon aylantirish",
+    "C": "Nerv impuls uzatish",
+    "D": "Harakat",
+    "javob": "A"
+  },
+  {
+    "savol": "Gametalar nechta xromosomaga ega?",
+    "A": "Gaploid",
+    "B": "Diploid",
+    "C": "Tiriploid",
+    "D": "Tetraploid",
+    "javob": "A"
+  },
+  {
+    "savol": "Urug‘lanish nima?",
+    "A": "Gametalarning qo‘shilishi",
+    "B": "Oziqlanish",
+    "C": "Hujayra bo‘linishi",
+    "D": "Oziqlanish",
+    "javob": "A"
+  },
+  {
+    "savol": "Meyoz natijasida nechta hujayra hosil bo‘ladi?",
+    "A": "4",
+    "B": "2",
+    "C": "3",
+    "D": "5",
+    "javob": "A"
+  },
+  {
+    "savol": "Spermatozoid tarkibida nima bor?",
+    "A": "DNK",
+    "B": "Qon",
+    "C": "Oqsil yo‘q",
+    "D": "Yog‘ yo‘q",
+    "javob": "A"
+  },
+  {
+    "savol": "Tuxum hujayra nimaga boy?",
+    "A": "Energiya va oziqa moddalarga",
+    "B": "Havo",
+    "C": "Qon",
+    "D": "Suvga emas",
+    "javob": "A"
+  },
+  {
+    "savol": "Gametalar qanday organizmlarda bo‘ladi?",
+    "A": "Barcha jinsiy ko‘payadigan organizmlarda",
+    "B": "Bakteriyalarda",
+    "C": "O‘simliklarda",
+    "D": "Hayvonlarda",
+    "javob": "A"
+  },
+  {
+    "savol": "Plasenta nima?",
+    "A": "Vaqtinchalik organ",
+    "B": "Suyak",
+    "C": "Mushak",
+    "D": "Ichki organ",
+    "javob": "A"
+  },
+  {
+    "savol": "Plasenta qachon hosil bo‘la boshlaydi?",
+    "A": "Urug‘lanishdan so‘ng",
+    "B": "Balog‘atda",
+    "C": "Qarilikda",
+    "D": "Tug‘ilgandan keyin",
+    "javob": "A"
+  },
+  {
+    "savol": "Plasenta qayerda joylashadi?",
+    "A": "Bachadonda",
+    "B": "Jigarda",
+    "C": "O‘pkada",
+    "D": "Yurakda",
+    "javob": "A"
+  },
+  {
+    "savol": "Plasenta nima bilan bog‘langan bo‘ladi?",
+    "A": "Kindik ichagi kindik yo‘li bilan",
+    "B": "Mushak",
+    "C": "Qon tomir",
+    "D": "Nerv",
+    "javob": "A"
+  }
+]
