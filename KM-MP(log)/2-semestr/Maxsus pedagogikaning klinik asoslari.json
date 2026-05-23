@@ -1,0 +1,1202 @@
+[
+  {
+    "savol": "Psixopatiya qanday holat sifatida ta’riflanadi?",
+    "A": "Shaxs xulq-atvorining patologik o‘zgarishi sifatida izohlanadi",
+    "B": "Mushak faoliyatining buzilishi sifatida qaraladi",
+    "C": "Yurak kasalligi sifatida tushuntiriladi",
+    "D": "Nafas tizimi muammosi sifatida baholanadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Psixopat shaxsga xos muhim xususiyatlardan biri nima?",
+    "A": "O‘zini boshqalardan ustun qo‘yishga moyillik kuzatiladi",
+    "B": "Doimiy uyquchanlik holati kuzatiladi",
+    "C": "Harakat sustligi kuzatiladi",
+    "D": "Eshitishning pasayishi kuzatiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Psixopatiya qachon shakllana boshlashi mumkin?",
+    "A": "O‘smirlik davrida kuchayib boradi",
+    "B": "Tug‘ilgandan keyin darhol yo‘qoladi",
+    "C": "Qarilikda paydo bo‘ladi",
+    "D": "Jismoniy kasallikda kuzatiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Psixopatiya rivojlanishiga qaysi omil ta’sir ko‘rsatadi?",
+    "A": "Oilaviy muhit va ruhiy jarohatlar ta’sir qiladi",
+    "B": "Ovqatlanish ta’sir qiladi",
+    "C": "Iqlim ta’sir qiladi",
+    "D": "Sport mashg‘ulotlari ta’sir qiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Antisotsial psixopatiya nimada namoyon bo‘ladi?",
+    "A": "Ijtimoiy qoidalarga rioya qilmaslik bilan ifodalanadi",
+    "B": "Harakatning sekinlashuvi bilan ifodalanadi",
+    "C": "Nutqning yo‘qolishi bilan ifodalanadi",
+    "D": "Ko‘rishning pasayishi bilan ifodalanadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Emotsional psixopatiyaning asosiy belgisi nima?",
+    "A": "Hissiy sovuqqonlik va empatiya yetishmasligi bilan ajraladi",
+    "B": "Ovoz balandligi ortishi bilan namoyon bo‘ladi",
+    "C": "Harakat tezlashuvi bilan kuzatiladi",
+    "D": "Nafas kuchayishi bilan ifodalanadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Genetik omillar psixopatiyada qanday rol o‘ynaydi?",
+    "A": "Shaxs xususiyatlariga ta’sir ko‘rsatadi",
+    "B": "Nutqni to‘liq yo‘q qiladi",
+    "C": "Harakatni to‘xtatadi",
+    "D": "Nafasni o‘zgartiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Psixopatlarning xulqida qanday qarama-qarshilik bo‘lishi mumkin?",
+    "A": "Mehribonlik va qahr birgalikda namoyon bo‘lishi mumkin",
+    "B": "Harakat va uyqu bir xil bo‘ladi",
+    "C": "Nafas va yurak bir xil ishlaydi",
+    "D": "Eshitish va ko‘rish bir xil bo‘ladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Karlik qanday holat sifatida izohlanadi?",
+    "A": "Eshitish qobiliyatining keskin pasayishi yoki yo‘qolishi sifatida tushuniladi",
+    "B": "Ko‘rishning yo‘qolishi sifatida qaraladi",
+    "C": "Nutqning yo‘qolishi sifatida baholanadi",
+    "D": "Harakatning to‘xtashi sifatida izohlanadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Zaif eshitish nimani bildiradi?",
+    "A": "Eshitishning pasaygan holati sifatida tushuniladi",
+    "B": "Ko‘rishning pasayishi sifatida qaraladi",
+    "C": "Nutqning buzilishi sifatida izohlanadi",
+    "D": "Harakatning susayishi sifatida baholanadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Nasliy omillar eshitish buzilishiga qanday ta’sir qiladi?",
+    "A": "Eshitish analizatori tuzilishiga zarar yetkazadi",
+    "B": "Yurak faoliyatini buzadi",
+    "C": "Nafasni kuchaytiradi",
+    "D": "Mushakni rivojlantiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Homiladorlik davridagi kasalliklar nimaga olib kelishi mumkin?",
+    "A": "Bolada eshitish nuqsoni paydo bo‘lishiga sabab bo‘ladi",
+    "B": "Mushak kuchayishiga olib keladi",
+    "C": "Nafas yaxshilanishiga olib keladi",
+    "D": "Harakat tezlashishiga olib keladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Tug‘ilgandan keyingi omillar qanday ta’sir ko‘rsatadi?",
+    "A": "Orttirilgan eshitish buzilishlarini keltirib chiqaradi",
+    "B": "Tug‘ma kasallikni yo‘q qiladi",
+    "C": "Nutqni kuchaytiradi",
+    "D": "Harakatni oshiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Eshitish analizatori nimani ta’minlaydi?",
+    "A": "Tovushlarni qabul qilish va qayta ishlashni amalga oshiradi",
+    "B": "Harakatni boshqaradi",
+    "C": "Nafasni tartiblaydi",
+    "D": "Ovqat hazm qiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Pavlov ta’limotiga ko‘ra analizatorlar qanday tizim?",
+    "A": "O‘zaro bog‘langan yagona tizim sifatida qaraladi",
+    "B": "Aloqasiz tizim sifatida qaraladi",
+    "C": "Mustaqil tizim sifatida qaraladi",
+    "D": "Tasodifiy tizim sifatida qaraladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Eshitish buzilishi tasnifining asosiy maqsadi nima?",
+    "A": "Ta’lim jarayonini to‘g‘ri tashkil etishga yordam beradi",
+    "B": "Nutqni kamaytiradi",
+    "C": "Harakatni buzadi",
+    "D": "Nafasni to‘xtatadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq rivoji eshitish bilan qanday bog‘liq?",
+    "A": "Eshitish darajasi past bo‘lsa nutq ham yomonlashadi",
+    "B": "Eshitish nutqqa ta’sir qilmaydi",
+    "C": "Eshitish nutqni to‘xtatadi",
+    "D": "Eshitish nutqni yo‘q qiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Neyrosensor eshitish buzilishi qayerda yuz beradi?",
+    "A": "Ichki quloq yoki eshitish nervi zararlanganda paydo bo‘ladi",
+    "B": "Yurak zararlanganda paydo bo‘ladi",
+    "C": "Mushak zararlanganda paydo bo‘ladi",
+    "D": "Nafas tizimi zararlanganda paydo bo‘ladi",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘tkazuvchi eshitish buzilishi nimaga bog‘liq?",
+    "A": "O‘rta quloqdagi muammolar bilan bog‘liq bo‘ladi",
+    "B": "Yurak kasalligi bilan bog‘liq bo‘ladi",
+    "C": "Mushak kasalligi bilan bog‘liq bo‘ladi",
+    "D": "Nafas kasalligi bilan bog‘liq bo‘ladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Auditiv agnoziya nimani bildiradi?",
+    "A": "Eshitilgan tovushni tanimaslik holatini bildiradi",
+    "B": "Ko‘rishni yo‘qotishni bildiradi",
+    "C": "Harakatni yo‘qotishni bildiradi",
+    "D": "Nafasni yo‘qotishni bildiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Tinnitus qanday holat?",
+    "A": "Quloqda shovqin yoki jiringlash sezilishi bilan ifodalanadi",
+    "B": "Ko‘rishning pasayishi bilan ifodalanadi",
+    "C": "Harakatning buzilishi bilan ifodalanadi",
+    "D": "Nafasning buzilishi bilan ifodalanadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Motor afaziya qanday namoyon bo‘ladi?",
+    "A": "So‘zlarni talaffuz qilishda qiyinchilik yuzaga keladi",
+    "B": "Eshitish yo‘qoladi",
+    "C": "Ko‘rish yo‘qoladi",
+    "D": "Harakat to‘xtaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Sensor afaziya nimani bildiradi?",
+    "A": "Nutqni tushunishda qiyinchilik kuzatiladi",
+    "B": "Harakatni tushunishda qiyinchilik",
+    "C": "Nafasni tushunishda qiyinchilik",
+    "D": "Ko‘rishni tushunishda qiyinchilik",
+    "javob": "A"
+  },
+  {
+    "savol": "Amnestik afaziya qanday belgi bilan ajraladi?",
+    "A": "So‘zlarni eslab qolish qiyinlashadi",
+    "B": "Harakatni eslab qolish qiyinlashadi",
+    "C": "Nafasni eslab qolish qiyinlashadi",
+    "D": "Ko‘rishni eslab qolish qiyinlashadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Dizartriya qanday buzilish hisoblanadi?",
+    "A": "Talaffuz bilan bog‘liq nutq buzilishi hisoblanadi",
+    "B": "Eshitish buzilishi hisoblanadi",
+    "C": "Ko‘rish buzilishi hisoblanadi",
+    "D": "Nafas buzilishi hisoblanadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Bradilaliya nimani bildiradi?",
+    "A": "Nutqning sekinlashuvi bilan namoyon bo‘ladi",
+    "B": "Nutqning tezlashuvi bilan namoyon bo‘ladi",
+    "C": "Nutqning yo‘qolishi bilan namoyon bo‘ladi",
+    "D": "Nutqning buzilmasligi bilan namoyon bo‘ladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Taxilaliya qanday holat?",
+    "A": "Nutqning haddan tashqari tezlashuvi bilan ifodalanadi",
+    "B": "Nutqning sekinlashuvi bilan ifodalanadi",
+    "C": "Nutqning yo‘qolishi bilan ifodalanadi",
+    "D": "Nutqning barqarorligi bilan ifodalanadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Demensiya nimani anglatadi?",
+    "A": "Kognitiv funksiyalarning pasayishi bilan bog‘liq holat hisoblanadi",
+    "B": "Mushak kuchayishi bilan bog‘liq holat hisoblanadi",
+    "C": "Nafas tezlashuvi bilan bog‘liq holat hisoblanadi",
+    "D": "Harakat kuchayishi bilan bog‘liq holat hisoblanadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Vaskulyar demensiya nimaga bog‘liq?",
+    "A": "Miya qon aylanishining buzilishi bilan bog‘liq",
+    "B": "Mushak rivoji bilan bog‘liq",
+    "C": "Nafas tizimi bilan bog‘liq",
+    "D": "Ovqat hazm qilish bilan bog‘liq",
+    "javob": "A"
+  },
+  {
+    "savol": "Eshitish qobiliyati pasaygan bola nutqini qanday rivojlantirish mumkin?",
+    "A": "Maxsus mashg‘ulotlar va eshitish apparatlari yordamida rivojlantiriladi",
+    "B": "Mustaqil o‘rganish orqali shakllanadi",
+    "C": "Nutq rivojlanmaydi",
+    "D": "O‘yin orqali yo‘qoladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Eshitish nuqsoni qanchalik erta yuzaga kelsa nima sodir bo‘ladi?",
+    "A": "Nutqni shakllantirish jarayoni murakkablashadi",
+    "B": "Nutq tez rivojlanadi",
+    "C": "Nutq o‘zgarmaydi",
+    "D": "Nutq mustaqil shakllanadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutqni erta rivojlantirish qanday natija beradi?",
+    "A": "Natijalar samaraliroq bo‘ladi",
+    "B": "Nutq susayadi",
+    "C": "Nutq buziladi",
+    "D": "Nutq yo‘qoladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Eshitish darajasi yuqori bo‘lgan bolalarda nutq qanday bo‘ladi?",
+    "A": "Aniq va tushunarli rivojlanadi",
+    "B": "Nutq shakllanmaydi",
+    "C": "Nutq yo‘qoladi",
+    "D": "Nutq buziladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Zaif eshituvchi bolalarda nutq qanday shakllanadi?",
+    "A": "Qiyinchilik bilan, lekin rivojlanadi",
+    "B": "Umuman shakllanmaydi",
+    "C": "Yozma shaklda bo‘ladi",
+    "D": "Harakat orqali ifodalanadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Karlikda nutqni qanday egallash kuzatiladi?",
+    "A": "Mustaqil nutq egallash juda qiyinlashadi",
+    "B": "Nutq tez rivojlanadi",
+    "C": "Nutq mukammal bo‘ladi",
+    "D": "Nutq o‘zgarmaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Eshitish apparatining vazifasi nimadan iborat?",
+    "A": "Tovushlarni kuchaytirib eshitishni yaxshilaydi",
+    "B": "Nutqni yozadi",
+    "C": "Harakatni boshqaradi",
+    "D": "Nafasni tartiblaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Audiometriya qanday tekshiruv?",
+    "A": "Eshitish darajasini aniqlash usuli hisoblanadi",
+    "B": "Ko‘rishni tekshirish usuli hisoblanadi",
+    "C": "Nafasni tekshirish usuli hisoblanadi",
+    "D": "Mushakni tekshirish usuli hisoblanadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Tympanometriya nimani aniqlaydi?",
+    "A": "O‘rta quloq holatini baholaydi",
+    "B": "Ko‘rish darajasini aniqlaydi",
+    "C": "Yurak faoliyatini tekshiradi",
+    "D": "Mushak faoliyatini o‘lchaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "BERA tekshiruvi nimaga xizmat qiladi?",
+    "A": "Eshitish nervi faoliyatini aniqlashga yordam beradi",
+    "B": "Yurak faoliyatini aniqlaydi",
+    "C": "Mushak kuchini o‘lchaydi",
+    "D": "Nafas tezligini aniqlaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Periferik eshitish buzilishida qaysi qism zararlanadi?",
+    "A": "Ichki quloq yoki eshitish nervi zararlanadi",
+    "B": "Yurak zararlanadi",
+    "C": "Mushak zararlanadi",
+    "D": "Nafas tizimi zararlanadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Markaziy eshitish buzilishida qanday muammo kuzatiladi?",
+    "A": "Tovush eshitiladi, lekin tushunish qiyinlashadi",
+    "B": "Tovush eshitilmaydi",
+    "C": "Ko‘rish yo‘qoladi",
+    "D": "Harakat to‘xtaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Eshitish yo‘llari zararlanganda nima yuz beradi?",
+    "A": "Tovush miyaga yetib borishi qiyinlashadi",
+    "B": "Nutq kuchayadi",
+    "C": "Ko‘rish yaxshilanadi",
+    "D": "Harakat ortadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Temporal soha shikastlanganda qanday oqibat bo‘ladi?",
+    "A": "Eshitish markazlari zararlanadi",
+    "B": "Ko‘rish markazlari zararlanadi",
+    "C": "Harakat markazlari zararlanadi",
+    "D": "Nafas markazi zararlanadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Eshitish nervi shikastlansa nima kuzatiladi?",
+    "A": "Tovushni qabul qilish buziladi",
+    "B": "Ko‘rish pasayadi",
+    "C": "Harakat buziladi",
+    "D": "Nafas buziladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Baraban parda zararlansa qanday muammo yuzaga keladi?",
+    "A": "O‘tkazuvchi eshitish buzilishi rivojlanadi",
+    "B": "Ko‘rish pasayadi",
+    "C": "Harakat buziladi",
+    "D": "Nafas kuchayadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Eshitish suyakchalari shikastlansa nima sodir bo‘ladi?",
+    "A": "Tovush uzatilishi buziladi",
+    "B": "Ko‘rish pasayadi",
+    "C": "Harakat buziladi",
+    "D": "Nafas kuchayadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Aralash eshitish buzilishi nimani bildiradi?",
+    "A": "Bir vaqtning o‘zida bir nechta tizim zararlanadi",
+    "B": "Eshitish yo‘qoladi",
+    "C": "Ko‘rish yo‘qoladi",
+    "D": "Harakat yo‘qoladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Bir tomonlama eshitish buzilishi qanday bo‘ladi?",
+    "A": "Bitta quloqda eshitish pasayadi",
+    "B": "Ikkala quloqda teng bo‘ladi",
+    "C": "Ko‘rish pasayadi",
+    "D": "Harakat buziladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Giperakuzis nimani anglatadi?",
+    "A": "Tovushga ortiqcha sezgirlik holatini bildiradi",
+    "B": "Tovushni eshitmaslik holatini bildiradi",
+    "C": "Ko‘rishning ortishi",
+    "D": "Harakatning ortishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq markazlari qayerda joylashgan?",
+    "A": "Peshona va chakka sohalarida joylashgan",
+    "B": "Qorin bo‘shlig‘ida joylashgan",
+    "C": "Oyoqlarda joylashgan",
+    "D": "Yurakda joylashgan",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutqning buzilishi nimaga bog‘liq?",
+    "A": "Miya markazlarining shikastlanishiga bog‘liq",
+    "B": "Mushak kuchiga bog‘liq",
+    "C": "Nafas tezligiga bog‘liq",
+    "D": "Ovqatlanishga bog‘liq",
+    "javob": "A"
+  },
+  {
+    "savol": "Motor afaziyada bemor qanday gapiradi?",
+    "A": "Gap tuzishda qiyinchilikka duch keladi",
+    "B": "Juda tez gapiradi",
+    "C": "Umuman gapirmaydi",
+    "D": "Harakat qiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Sensor afaziyada qanday holat kuzatiladi?",
+    "A": "Gapni tushunishda muammo paydo bo‘ladi",
+    "B": "Harakatni tushunmaydi",
+    "C": "Nafasni tushunmaydi",
+    "D": "Ko‘rishni tushunmaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘tkazuvchi afaziya nimani bildiradi?",
+    "A": "Takrorlash qobiliyati buziladi",
+    "B": "Eshitish yo‘qoladi",
+    "C": "Ko‘rish yo‘qoladi",
+    "D": "Harakat yo‘qoladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq markazlari zararlansa nima sodir bo‘ladi?",
+    "A": "Nutqni shakllantirish va tushunish qiyinlashadi",
+    "B": "Nafas kuchayadi",
+    "C": "Harakat tezlashadi",
+    "D": "Ko‘rish yaxshilanadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ochiq bosh miya jarohatida nima kuzatiladi?",
+    "A": "Miya to‘g‘ridan-to‘g‘ri shikastlanadi",
+    "B": "Mushak shikastlanadi",
+    "C": "Teri shikastlanadi",
+    "D": "Suyak o‘zgarmaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Yopiq bosh miya jarohati nimani bildiradi?",
+    "A": "Miya chayqalishi yoki ichki zararlanish holatini bildiradi",
+    "B": "Teri shikastlanadi",
+    "C": "Mushak shikastlanadi",
+    "D": "Suyak shikastlanadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Nevrologik tekshiruv nimaga xizmat qiladi?",
+    "A": "Jarohat darajasini aniqlashga yordam beradi",
+    "B": "Nutqni yozishga yordam beradi",
+    "C": "Harakatni o‘rgatadi",
+    "D": "Nafasni oshiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Logopedik testlar nimani baholaydi?",
+    "A": "Nutqning sifatini va darajasini aniqlaydi",
+    "B": "Mushak kuchini baholaydi",
+    "C": "Nafasni o‘lchaydi",
+    "D": "Yurakni tekshiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutqni idrok etish jarayoni nimadan boshlanadi?",
+    "A": "Tovush signalini qabul qilishdan boshlanadi",
+    "B": "So‘z yozishdan boshlanadi",
+    "C": "Harakatdan boshlanadi",
+    "D": "Nafasdan boshlanadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Fonematik eshituv nimani bildiradi?",
+    "A": "Tovushlarni farqlash qobiliyatini bildiradi",
+    "B": "Harakatni boshqarishni bildiradi",
+    "C": "Nafasni boshqarishni bildiradi",
+    "D": "Ko‘rishni bildiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutqni tushunish qaysi bosqichga kiradi?",
+    "A": "Analiz va sintez jarayoniga kiradi",
+    "B": "Nafas jarayoniga kiradi",
+    "C": "Harakat jarayoniga kiradi",
+    "D": "Uyqu jarayoniga kiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq faoliyati qaysi tizimga kiradi?",
+    "A": "Oliy nerv faoliyati tizimiga kiradi",
+    "B": "Mushak tizimiga kiradi",
+    "C": "Nafas tizimiga kiradi",
+    "D": "Ovqat hazm tizimiga kiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutqni boshqarishda qaysi markaz muhim rol o‘ynaydi?",
+    "A": "Broka markazi muhim hisoblanadi",
+    "B": "Yurak markazi muhim hisoblanadi",
+    "C": "Nafas markazi muhim hisoblanadi",
+    "D": "Mushak markazi muhim hisoblanadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutqni tushunishda qaysi markaz ishtirok etadi?",
+    "A": "Vernike markazi faol qatnashadi",
+    "B": "Yurak markazi qatnashadi",
+    "C": "Nafas markazi qatnashadi",
+    "D": "Mushak markazi qatnashadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutqni rejalashtirish qaysi faoliyatga tegishli?",
+    "A": "Ongli faoliyatga tegishli",
+    "B": "Tasodifiy faoliyatga tegishli",
+    "C": "Mexanik faoliyatga tegishli",
+    "D": "Reflektor faoliyatga tegishli",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutqni amalga oshirish qaysi bosqichda yuz beradi?",
+    "A": "Motor bosqichda yuz beradi",
+    "B": "Nafas bosqichida yuz beradi",
+    "C": "Uyqu bosqichida yuz beradi",
+    "D": "Harakat bosqichida yuz beradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutqni idrok etishda qaysi analizator muhim?",
+    "A": "Eshitish analizatori muhim rol o‘ynaydi",
+    "B": "Ko‘rish analizatori muhim rol o‘ynaydi",
+    "C": "Hid bilish analizatori muhim rol o‘ynaydi",
+    "D": "Ta’m bilish analizatori muhim rol o‘ynaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Fonetik tizim nimani o‘z ichiga oladi?",
+    "A": "Tovushlar va ularning xususiyatlarini o‘z ichiga oladi",
+    "B": "Harakatlarni o‘z ichiga oladi",
+    "C": "Nafasni o‘z ichiga oladi",
+    "D": "Ovqat hazm qilishni o‘z ichiga oladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Fonologiya nimani o‘rganadi?",
+    "A": "Tovushlarning funksional tomonini o‘rganadi",
+    "B": "Harakatni o‘rganadi",
+    "C": "Nafasni o‘rganadi",
+    "D": "Uyquni o‘rganadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Morfologiya nimani o‘rganadi?",
+    "A": "So‘z tuzilishini o‘rganadi",
+    "B": "Tovushni o‘rganadi",
+    "C": "Harakatni o‘rganadi",
+    "D": "Nafasni o‘rganadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Sintaksis nimani o‘rganadi?",
+    "A": "So‘zlarning gapdagi bog‘lanishini o‘rganadi",
+    "B": "Tovushlarni o‘rganadi",
+    "C": "Harakatni o‘rganadi",
+    "D": "Nafasni o‘rganadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Semantika nimani bildiradi?",
+    "A": "So‘z va gaplarning ma’nosini bildiradi",
+    "B": "Tovushni bildiradi",
+    "C": "Harakatni bildiradi",
+    "D": "Nafasni bildiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Pragmatika nimani o‘rganadi?",
+    "A": "Nutqning vaziyatga bog‘liq qo‘llanishini o‘rganadi",
+    "B": "Tovushni o‘rganadi",
+    "C": "Harakatni o‘rganadi",
+    "D": "Nafasni o‘rganadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq jarayonida kodlash nimani bildiradi?",
+    "A": "Fikrni nutq shakliga aylantirishni bildiradi",
+    "B": "Nutqni yo‘q qilishni bildiradi",
+    "C": "Harakatni oshirishni bildiradi",
+    "D": "Nafasni tezlashtirishni bildiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Dekodlash nimani anglatadi?",
+    "A": "Nutqni tushunish jarayonini bildiradi",
+    "B": "Nutqni yozishni bildiradi",
+    "C": "Harakatni bildiradi",
+    "D": "Nafasni bildiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq signali qanday xususiyatga ega?",
+    "A": "Akustik xususiyatga ega hisoblanadi",
+    "B": "Mexanik xususiyatga ega",
+    "C": "Kimyoviy xususiyatga ega",
+    "D": "Biologik xususiyatga ega",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutqni eshitish jarayoni qayerda boshlanadi?",
+    "A": "Quloqda boshlanadi",
+    "B": "Yurakda boshlanadi",
+    "C": "O‘pkada boshlanadi",
+    "D": "Mushakda boshlanadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Tovush to‘lqinlari qayerda qayta ishlanadi?",
+    "A": "Miya po‘stlog‘ida qayta ishlanadi",
+    "B": "Yurakda qayta ishlanadi",
+    "C": "O‘pkada qayta ishlanadi",
+    "D": "Mushakda qayta ishlanadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutqni ishlab chiqishda qaysi tizimlar hamkorlik qiladi?",
+    "A": "Nerv, nafas va artikulyatsiya tizimlari hamkorlik qiladi",
+    "B": "Mushak tizimi ishlaydi",
+    "C": "Qon aylanish tizimi ishlaydi",
+    "D": "Ovqat hazm tizimi ishlaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutqning motor komponenti nimani bildiradi?",
+    "A": "Artikulyatsiya harakatlarini bildiradi",
+    "B": "Nafasni bildiradi",
+    "C": "Ko‘rishni bildiradi",
+    "D": "Eshitishni bildiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutqning sensor komponenti nimaga bog‘liq?",
+    "A": "Eshitish va idrok bilan bog‘liq",
+    "B": "Harakat bilan bog‘liq",
+    "C": "Nafas bilan bog‘liq",
+    "D": "Uyqu bilan bog‘liq",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq rivojida feedback nima beradi?",
+    "A": "O‘z nutqini nazorat qilish imkonini beradi",
+    "B": "Nutqni yo‘q qiladi",
+    "C": "Harakatni to‘xtatadi",
+    "D": "Nafasni buzadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutqni avtomatlashtirish nimani anglatadi?",
+    "A": "Mashq orqali barqaror nutq ko‘nikmasini shakllantirishni bildiradi",
+    "B": "Nutqni yo‘q qilishni bildiradi",
+    "C": "Harakatni oshirishni bildiradi",
+    "D": "Nafasni tezlashtirishni bildiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq rivojida reflektor mexanizm qanday rol o‘ynaydi?",
+    "A": "Boshlang‘ich asos yaratadi",
+    "B": "Nutqni yo‘q qiladi",
+    "C": "Harakatni to‘xtatadi",
+    "D": "Nafasni buzadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutqni shakllantirishda takrorlash nimaga xizmat qiladi?",
+    "A": "Ko‘nikmani mustahkamlashga xizmat qiladi",
+    "B": "Nutqni buzadi",
+    "C": "Harakatni kamaytiradi",
+    "D": "Nafasni yo‘q qiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq rivojida nazorat mexanizmi nimani ta’minlaydi?",
+    "A": "Xatolarni tuzatish imkonini beradi",
+    "B": "Nutqni yo‘q qiladi",
+    "C": "Harakatni buzadi",
+    "D": "Nafasni to‘xtatadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq rivojida muloqot nimaga xizmat qiladi?",
+    "A": "Nutq faolligini oshirishga xizmat qiladi",
+    "B": "Nutqni kamaytiradi",
+    "C": "Harakatni buzadi",
+    "D": "Nafasni yo‘q qiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq rivojining umumiy natijasi nima?",
+    "A": "Tushunarli va izchil nutq shakllanishi hisoblanadi",
+    "B": "Nutqning yo‘qolishi hisoblanadi",
+    "C": "Nutqning buzilishi hisoblanadi",
+    "D": "Nutqning kamayishi hisoblanadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Demensiya qanday holat hisoblanadi?",
+    "A": "Miya faoliyatining progressiv buzilishi sifatida namoyon bo‘ladi",
+    "B": "Mushak faoliyatining kuchayishi sifatida baholanadi",
+    "C": "Nafas tizimi kasalligi sifatida qaraladi",
+    "D": "Yurak faoliyati buzilishi sifatida izohlanadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Demensiyada qaysi funksiyalar zararlanadi?",
+    "A": "Kognitiv jarayonlar zararlanadi",
+    "B": "Mushak harakatlari zararlanadi",
+    "C": "Ovqat hazm qilish zararlanadi",
+    "D": "Qon aylanish zararlanadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Demensiyaning eng asosiy belgisi nimada?",
+    "A": "Aqliy qobiliyatlarning pasayishi kuzatiladi",
+    "B": "Harakat tezlashadi",
+    "C": "Nafas kuchayadi",
+    "D": "Mushak rivojlanadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Altsgeymer kasalligi nimaga olib keladi?",
+    "A": "Neyronlar o‘rtasidagi aloqa buzilishiga olib keladi",
+    "B": "Mushak kuchayishiga olib keladi",
+    "C": "Nafas tezlashishiga olib keladi",
+    "D": "Ko‘rish yaxshilanishiga olib keladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Vaskulyar demensiya qanday yuzaga keladi?",
+    "A": "Miya qon ta’minoti buzilganda rivojlanadi",
+    "B": "Mushak ortishi natijasida yuzaga keladi",
+    "C": "Nafas buzilishi natijasida yuzaga keladi",
+    "D": "Ovqat hazm buzilganda yuzaga keladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Demensiyada xotira qanday o‘zgaradi?",
+    "A": "Yangi ma’lumotlarni eslab qolish qiyinlashadi",
+    "B": "Xotira kuchayadi",
+    "C": "Xotira o‘zgarmaydi",
+    "D": "Xotira tezlashadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Demensiyada nutq qanday bo‘ladi?",
+    "A": "Nutq sekinlashadi va chalkashadi",
+    "B": "Nutq tezlashadi",
+    "C": "Nutq mukammal bo‘ladi",
+    "D": "Nutq o‘zgarmaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Demensiya diagnostikasida qaysi test ishlatiladi?",
+    "A": "MMSE testi qo‘llaniladi",
+    "B": "Sport testi qo‘llaniladi",
+    "C": "Nafas testi qo‘llaniladi",
+    "D": "Mushak testi qo‘llaniladi",
+    "javob": "A"
+  },
+  {
+    "savol": "MRI tekshiruvi nimani aniqlaydi?",
+    "A": "Miya tuzilishidagi o‘zgarishlarni ko‘rsatadi",
+    "B": "Mushak kuchini ko‘rsatadi",
+    "C": "Nafas tezligini ko‘rsatadi",
+    "D": "Yurak urishini ko‘rsatadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Neyropsixologik tekshirish nimani o‘rganadi?",
+    "A": "Psixik jarayonlarning miya bilan bog‘liqligini o‘rganadi",
+    "B": "Mushak faoliyatini o‘rganadi",
+    "C": "Nafas jarayonini o‘rganadi",
+    "D": "Ovqat hazm qilishni o‘rganadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Kuzatish usuli nimaga xizmat qiladi?",
+    "A": "Shaxsning xatti-harakatlarini baholashga yordam beradi",
+    "B": "Mushakni rivojlantiradi",
+    "C": "Nafasni oshiradi",
+    "D": "Yurakni kuchaytiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Stroop testi nimani o‘lchaydi?",
+    "A": "Diqqat darajasini baholaydi",
+    "B": "Mushak kuchini o‘lchaydi",
+    "C": "Nafasni tekshiradi",
+    "D": "Yurakni tekshiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Benton testi nimani aniqlaydi?",
+    "A": "Xotira faoliyatini baholaydi",
+    "B": "Nafasni baholaydi",
+    "C": "Mushakni baholaydi",
+    "D": "Yurakni baholaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Chap yarim shar qanday vazifa bajaradi?",
+    "A": "Nutq va mantiqiy fikrlashni boshqaradi",
+    "B": "Nafasni boshqaradi",
+    "C": "Mushakni boshqaradi",
+    "D": "Yurakni boshqaradi",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘ng yarim shar qanday funksiyaga ega?",
+    "A": "Obrazli tafakkur va hissiyotlar bilan bog‘liq",
+    "B": "Nafasni boshqaradi",
+    "C": "Mushakni boshqaradi",
+    "D": "Yurakni boshqaradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Nerv tizimining asosiy vazifasi nimada?",
+    "A": "Axborotni qabul qilish va javob reaksiyasini shakllantirishda",
+    "B": "Nafasni boshqarishda",
+    "C": "Mushakni kuchaytirishda",
+    "D": "Ovqat hazm qilishda",
+    "javob": "A"
+  },
+  {
+    "savol": "Refleks nima hisoblanadi?",
+    "A": "Nerv tizimining javob reaksiyasi hisoblanadi",
+    "B": "Mushak harakati hisoblanadi",
+    "C": "Nafas jarayoni hisoblanadi",
+    "D": "Yurak faoliyati hisoblanadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Sensor tizim nimani baholaydi?",
+    "A": "Sezuvchanlikni aniqlaydi",
+    "B": "Mushakni aniqlaydi",
+    "C": "Nafasni aniqlaydi",
+    "D": "Yurakni aniqlaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Motor tizim nimaga javob beradi?",
+    "A": "Harakat va koordinatsiyani ta’minlaydi",
+    "B": "Nafasni boshqaradi",
+    "C": "Yurakni boshqaradi",
+    "D": "Ovqat hazm qiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Vegetativ tizim nimani boshqaradi?",
+    "A": "Ichki organlar faoliyatini boshqaradi",
+    "B": "Mushakni boshqaradi",
+    "C": "Ko‘rishni boshqaradi",
+    "D": "Nutqni boshqaradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko‘rish analizatori nimani bajaradi?",
+    "A": "Yorug‘likni nerv impulsiga aylantiradi",
+    "B": "Nafasni boshqaradi",
+    "C": "Mushakni boshqaradi",
+    "D": "Yurakni boshqaradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Retina qanday vazifani bajaradi?",
+    "A": "Yorug‘likni qabul qiladi",
+    "B": "Nafasni boshqaradi",
+    "C": "Mushakni boshqaradi",
+    "D": "Yurakni boshqaradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Tayoqchalar nimaga xizmat qiladi?",
+    "A": "Qorong‘ida ko‘rishni ta’minlaydi",
+    "B": "Ranglarni ajratadi",
+    "C": "Nafasni boshqaradi",
+    "D": "Mushakni boshqaradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Konuschalar nimani ta’minlaydi?",
+    "A": "Ranglarni farqlash imkonini beradi",
+    "B": "Nafasni boshqaradi",
+    "C": "Mushakni boshqaradi",
+    "D": "Yurakni boshqaradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Miopiya qanday holat?",
+    "A": "Yaqinni yaxshi ko‘rib uzoqni yomon ko‘rish bilan namoyon bo‘ladi",
+    "B": "Uzoqni yaxshi ko‘rish bilan namoyon bo‘ladi",
+    "C": "Nafas buzilishi bilan namoyon bo‘ladi",
+    "D": "Mushak buzilishi bilan namoyon bo‘ladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Gipermetropiya qanday ko‘rinishda bo‘ladi?",
+    "A": "Uzoqni yaxshi, yaqinni yomon ko‘rish bilan ifodalanadi",
+    "B": "Yaqinni yaxshi ko‘rish bilan ifodalanadi",
+    "C": "Nafas buzilishi bilan ifodalanadi",
+    "D": "Mushak buzilishi bilan ifodalanadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ruhiy kasallik nimani bildiradi?",
+    "A": "Psixik faoliyat buzilishi bilan tavsiflanadi",
+    "B": "Mushak buzilishi bilan tavsiflanadi",
+    "C": "Nafas buzilishi bilan tavsiflanadi",
+    "D": "Yurak buzilishi bilan tavsiflanadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Depressiya qanday holat?",
+    "A": "Tushkun kayfiyat bilan bog‘liq holat hisoblanadi",
+    "B": "Quvonch ortishi bilan bog‘liq",
+    "C": "Nafas tezlashishi bilan bog‘liq",
+    "D": "Mushak kuchayishi bilan bog‘liq",
+    "javob": "A"
+  },
+  {
+    "savol": "Gallyutsinatsiya nimani bildiradi?",
+    "A": "Mavjud bo‘lmagan narsalarni idrok etish holati hisoblanadi",
+    "B": "Real narsani to‘g‘ri ko‘rish",
+    "C": "Mushakni sezish",
+    "D": "Nafasni his qilish",
+    "javob": "A"
+  },
+  {
+    "savol": "Autizm qanday buzilish hisoblanadi?",
+    "A": "Ijtimoiy muloqot va nutq rivojining buzilishi bilan tavsiflanadi",
+    "B": "Mushak rivoji bilan tavsiflanadi",
+    "C": "Nafas rivoji bilan tavsiflanadi",
+    "D": "Yurak rivoji bilan tavsiflanadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Demensiyada vaqt va makonni anglash qanday o‘zgaradi?",
+    "A": "Odam qayerda ekanini va vaqtni aniqlashda adashadi",
+    "B": "Vaqtni aniq hisoblaydi",
+    "C": "Makonni mukammal anglaydi",
+    "D": "Vaqt va makon o‘zgarmaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Demensiyada qaror qabul qilish qanday bo‘ladi?",
+    "A": "Oddiy vazifalarni hal qilish qiyinlashadi",
+    "B": "Qaror tez qabul qilinadi",
+    "C": "Qaror mukammal bo‘ladi",
+    "D": "Qaror o‘zgarmaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Frontal-temporal demensiya nimasi bilan ajraladi?",
+    "A": "Xulq-atvor va shaxsiyat o‘zgarishi bilan ajraladi",
+    "B": "Mushak kuchayishi bilan ajraladi",
+    "C": "Nafas tezlashuvi bilan ajraladi",
+    "D": "Yurak urishi bilan ajraladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Demensiyada muvozanat qanday o‘zgaradi?",
+    "A": "Yurish va koordinatsiya buziladi",
+    "B": "Muvozanat kuchayadi",
+    "C": "Harakat tezlashadi",
+    "D": "Muvozanat o‘zgarmaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Demensiyada hissiy holat qanday bo‘ladi?",
+    "A": "Bezovtalik va asabiylik kuzatiladi",
+    "B": "Har doim quvonchli bo‘ladi",
+    "C": "Hissiyot yo‘qoladi",
+    "D": "Hissiyot o‘zgarmaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Neyropsixologik tekshiruv natijalari nimani ko‘rsatadi?",
+    "A": "Psixik rivojlanish darajasini aniqlaydi",
+    "B": "Mushak kuchini ko‘rsatadi",
+    "C": "Nafas tezligini ko‘rsatadi",
+    "D": "Yurak urishini ko‘rsatadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Neyropsixologik tekshiruv qayerda qo‘llaniladi?",
+    "A": "Reabilitatsiya va ta’lim jarayonida qo‘llaniladi",
+    "B": "Sportda qo‘llaniladi",
+    "C": "Ishlab chiqarishda qo‘llaniladi",
+    "D": "Musiqa sohasida qo‘llaniladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Luriya metodikasi nimani o‘rganadi?",
+    "A": "Miya faoliyati va psixik jarayonlar bog‘liqligini o‘rganadi",
+    "B": "Mushakni o‘rganadi",
+    "C": "Nafasni o‘rganadi",
+    "D": "Yurakni o‘rganadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Eksperimental usullar nimani tekshiradi?",
+    "A": "Kognitiv jarayonlar faoliyatini baholaydi",
+    "B": "Mushakni tekshiradi",
+    "C": "Nafasni tekshiradi",
+    "D": "Yurakni tekshiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Fiziologik tekshiruvlar nimani aniqlaydi?",
+    "A": "Miya faoliyatini apparatlar yordamida baholaydi",
+    "B": "Mushakni kuchaytiradi",
+    "C": "Nafasni oshiradi",
+    "D": "Yurakni tezlashtiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Refleks tekshiruvi nimani ko‘rsatadi?",
+    "A": "Nerv tizimi segmentlari holatini aniqlaydi",
+    "B": "Mushakni rivojlantiradi",
+    "C": "Nafasni oshiradi",
+    "D": "Yurakni tezlashtiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Tizza refleksi nimani baholaydi?",
+    "A": "Orqa miya faoliyatini baholaydi",
+    "B": "Yurak faoliyatini baholaydi",
+    "C": "Nafasni baholaydi",
+    "D": "Mushakni baholaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qorachiq refleksi nimani ko‘rsatadi?",
+    "A": "Miya faoliyati holatini bildiradi",
+    "B": "Mushak kuchini bildiradi",
+    "C": "Nafasni bildiradi",
+    "D": "Yurakni bildiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Sensor tekshiruv nimani aniqlaydi?",
+    "A": "Sezuvchanlik darajasini aniqlaydi",
+    "B": "Mushak kuchini aniqlaydi",
+    "C": "Nafasni aniqlaydi",
+    "D": "Yurakni aniqlaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Proprioretseptiv sezuvchanlik nimani bildiradi?",
+    "A": "Tana holatini his qilish qobiliyatini bildiradi",
+    "B": "Nafasni bildiradi",
+    "C": "Yurakni bildiradi",
+    "D": "Mushakni bildiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Motor tizim tekshiruvida nima o‘lchanadi?",
+    "A": "Mushak tonusi va koordinatsiya baholanadi",
+    "B": "Nafas tezligi o‘lchanadi",
+    "C": "Yurak urishi o‘lchanadi",
+    "D": "Ko‘rish o‘lchanadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Vegetativ tizim qanday baholanadi?",
+    "A": "Yurak urishi va nafas ritmi orqali baholanadi",
+    "B": "Mushak orqali baholanadi",
+    "C": "Ko‘rish orqali baholanadi",
+    "D": "Nutq orqali baholanadi",
+    "javob": "A"
+  },
+  {
+    "savol": "EEG tekshiruvi nimani ko‘rsatadi?",
+    "A": "Miya elektr faolligini aniqlaydi",
+    "B": "Mushak kuchini ko‘rsatadi",
+    "C": "Nafasni ko‘rsatadi",
+    "D": "Yurakni ko‘rsatadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Psixoz qanday holat?",
+    "A": "Chuqur ruhiy buzilish bilan tavsiflanadi",
+    "B": "Mushak kuchayishi bilan tavsiflanadi",
+    "C": "Nafas kuchayishi bilan tavsiflanadi",
+    "D": "Yurak tezlashuvi bilan tavsiflanadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Nevrozda reallikni idrok etish qanday bo‘ladi?",
+    "A": "Saqlanib qoladi",
+    "B": "Yo‘qoladi",
+    "C": "Kuchayadi",
+    "D": "O‘zgarmaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Psixozda reallikni idrok etish qanday o‘zgaradi?",
+    "A": "Keskin buziladi",
+    "B": "O‘zgarmaydi",
+    "C": "Kuchayadi",
+    "D": "Mukammal bo‘ladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Shizofreniya qanday kasallik hisoblanadi?",
+    "A": "Surunkali ruhiy buzilish hisoblanadi",
+    "B": "Mushak kasalligi hisoblanadi",
+    "C": "Nafas kasalligi hisoblanadi",
+    "D": "Yurak kasalligi hisoblanadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Psixopatologik simptom nima bilan tavsiflanadi?",
+    "A": "Ruhiy jarayonlardagi buzilish belgisi bilan tavsiflanadi",
+    "B": "Mushak faoliyati bilan tavsiflanadi",
+    "C": "Nafas jarayoni bilan tavsiflanadi",
+    "D": "Yurak faoliyati bilan tavsiflanadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Gallyutsinatsiya qanday hodisa hisoblanadi?",
+    "A": "Mavjud bo‘lmagan narsalarni idrok etish bilan bog‘liq hodisa",
+    "B": "Real narsani noto‘g‘ri ko‘rish bilan bog‘liq hodisa",
+    "C": "Nafasni noto‘g‘ri sezish bilan bog‘liq hodisa",
+    "D": "Mushakni noto‘g‘ri sezish bilan bog‘liq hodisa",
+    "javob": "A"
+  },
+  {
+    "savol": "Illyuziya nimani bildiradi?",
+    "A": "Haqiqiy narsani noto‘g‘ri qabul qilishni bildiradi",
+    "B": "Mavjud bo‘lmagan narsani ko‘rishni bildiradi",
+    "C": "Nafasni noto‘g‘ri sezishni bildiradi",
+    "D": "Mushakni noto‘g‘ri sezishni bildiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Amneziya qanday buzilish hisoblanadi?",
+    "A": "Xotiraning yo‘qolishi yoki pasayishi bilan bog‘liq",
+    "B": "Nafasning buzilishi bilan bog‘liq",
+    "C": "Mushakning buzilishi bilan bog‘liq",
+    "D": "Yurakning buzilishi bilan bog‘liq",
+    "javob": "A"
+  },
+  {
+    "savol": "Deluziya qanday fikr hisoblanadi?",
+    "A": "Asossiz va qat’iy ishonilgan fikr hisoblanadi",
+    "B": "Ilmiy asoslangan fikr hisoblanadi",
+    "C": "Tasodifiy fikr hisoblanadi",
+    "D": "Oddiy fikr hisoblanadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Depressiya qanday holatni bildiradi?",
+    "A": "Tushkun kayfiyat va qiziqishning pasayishi bilan ifodalanadi",
+    "B": "Haddan tashqari quvonch bilan ifodalanadi",
+    "C": "Nafas kuchayishi bilan ifodalanadi",
+    "D": "Mushak kuchayishi bilan ifodalanadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Eforiya qanday holat hisoblanadi?",
+    "A": "Asossiz quvonch va ko‘tarinkilik bilan ifodalanadi",
+    "B": "Tushkunlik bilan ifodalanadi",
+    "C": "Nafas susayishi bilan ifodalanadi",
+    "D": "Mushak zaifligi bilan ifodalanadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Apatiya nimani bildiradi?",
+    "A": "Hissiy befarqlik holatini bildiradi",
+    "B": "Hissiy ortiqcha faollikni bildiradi",
+    "C": "Nafas kuchayishini bildiradi",
+    "D": "Mushak kuchayishini bildiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Abuliya qanday buzilish hisoblanadi?",
+    "A": "Iroda sustligi bilan bog‘liq holat hisoblanadi",
+    "B": "Mushak kuchayishi bilan bog‘liq",
+    "C": "Nafas buzilishi bilan bog‘liq",
+    "D": "Yurak buzilishi bilan bog‘liq",
+    "javob": "A"
+  }
+]
