@@ -1,0 +1,1202 @@
+[
+  {
+    "savol": "Nomanfiy butun sonlar to’plamiga qaysi sonlar tegishli?",
+    "A": "0, 1, 2, 3, ...",
+    "B": "-1, 0, 1, 2, ...",
+    "C": "1, 2, 3, ...",
+    "D": "-3, -2, -1, 0",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi to’plamdan nomanfiy butun sonlarni tanlang: { -3, 0, 1, 4, -1 }",
+    "A": "0, 1, 4",
+    "B": "-3, -1",
+    "C": "1, 4",
+    "D": "0, -1",
+    "javob": "A"
+  },
+  {
+    "savol": "Nomanfiy butun sonlar to’plami qaysi belgilar bilan belgilanadi?",
+    "A": "N₀",
+    "B": "R",
+    "C": "Z",
+    "D": "Q",
+    "javob": "A"
+  },
+  {
+    "savol": "0 soni qaysi sonlar to’plamiga kiradi?",
+    "A": "Nomanfiy butun sonlar",
+    "B": "Manfiy sonlar",
+    "C": "Natural sonlar (iqtisodiy ta’rif)",
+    "D": "Rasional sonlar emas",
+    "javob": "A"
+  },
+  {
+    "savol": "Nomanfiy butun sonlarning eng kichik elementi:",
+    "A": "0",
+    "B": "1",
+    "C": "-1",
+    "D": "2",
+    "javob": "A"
+  },
+  {
+    "savol": "0 soni nomanfiy butun sonmi?",
+    "A": "Ha",
+    "B": "Yo’q",
+    "C": "Matematik hisoblarda",
+    "D": "Noto’g’ri savol",
+    "javob": "A"
+  },
+  {
+    "savol": "Ikkita nomanfiy butun sonning yig’indisi qanday turdagi son bo’ladi?",
+    "A": "Nomanfiy butun son",
+    "B": "Manfiy son",
+    "C": "Natural son",
+    "D": "Rasional son",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi sonlardan qaysisi nomanfiy butun son emas?",
+    "A": "-2",
+    "B": "0",
+    "C": "5",
+    "D": "10",
+    "javob": "A"
+  },
+  {
+    "savol": "N₀ to’plami qaysi sonlardan iborat?",
+    "A": "{ 0, 1, 2, 3, … }",
+    "B": "{ 1, 2, 3, … }",
+    "C": "{ −1, 0, 1, … }",
+    "D": "{ …, −2, −1, 0 }",
+    "javob": "A"
+  },
+  {
+    "savol": "Nomanfiy butun sonlar qaysi amallarga yopiq?",
+    "A": "Qo’shish va ko’paytirish",
+    "B": "Ayirish va bo’lish",
+    "C": "Ko’paytirish",
+    "D": "Ayirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Ikkita nomanfiy butun sonning ayirmasi doimo nomanfiy bo’ladimi?",
+    "A": "Yo’q",
+    "B": "Ha",
+    "C": "Agar biri 0 bo’lsa",
+    "D": "Bir xil sonlar uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "Nomanfiy butun sonlar haqiqiy sonlarga nisbatan qanday xususiyatga ega?",
+    "A": "Cheksiz va butun, manfiy emas",
+    "B": "Manfiy sonlar",
+    "C": "Bo’linadigan sonlar",
+    "D": "Hammasi rasional",
+    "javob": "A"
+  },
+  {
+    "savol": "{ 0, 2, 4, 6, 8, … } to’plami qanday toifaga kiradi?",
+    "A": "Nomanfiy juft butun sonlar",
+    "B": "Natural sonlar",
+    "C": "Tub sonlar",
+    "D": "Manfiy juft sonlar",
+    "javob": "A"
+  },
+  {
+    "savol": "{ 0, 1, 2, 3, 4 } to’plami nimaga misol?",
+    "A": "Nomanfiy butun sonlarning cheklangan to’plami",
+    "B": "Natural sonlar",
+    "C": "Manfiy sonlar",
+    "D": "Tub sonlar to’plami",
+    "javob": "A"
+  },
+  {
+    "savol": "Butun sonlar to’plamidan manfiy sonlarni olib tashlasak, nima qoladi?",
+    "A": "Nomanfiy butun sonlar",
+    "B": "Nol",
+    "C": "Rasional sonlar",
+    "D": "Natural sonlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Nomanfiy butun sonlar qaysi sohalarda ishlatiladi?",
+    "A": "Masofani o’lchash, yoshni hisoblash",
+    "B": "Ifodaviy manfiy o’zgarishlar",
+    "C": "Tasodifiy sanalar",
+    "D": "Geometrik burchaklar",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi to’plamda -5 soni mavjud emas?",
+    "A": "Nomanfiy butun sonlar",
+    "B": "Butun sonlar",
+    "C": "Rasional sonlar",
+    "D": "Haqiqiy sonlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Nomanfiy butun sonlar to’plamining asosiy xossasi",
+    "A": "Har ikki sonning yig’indisi ham to’plamada qoladi",
+    "B": "Ko’paytirilganda to’g’ri keladi",
+    "C": "Juft sonlardan iborat",
+    "D": "Hammasi tub sonlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Nomanfiy butun sonlar orasida necha ta tub son bor?",
+    "A": "Cheksiz ko’p",
+    "B": "2 ta",
+    "C": "Yo’q",
+    "D": "10 ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi ta’riflardan qaysi biri nomanfiy butun sonlarga mos keladi?",
+    "A": "Manfiy bo’lmagan va kasrsiz sonlar",
+    "B": "Musbat sonlar",
+    "C": "To’liq kvadratlar",
+    "D": "Ikkiga bo’linadigan sonlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Nomanfiy butun sonlar to’plami to’g’ri ko’rsatilgan qatorni belgilang.",
+    "A": "{ 0,1,2,3,… }",
+    "B": "{ 1,2,3,4,… }",
+    "C": "{ …,−2,−1,0,1,2,… }",
+    "D": "{ 0,1/2,1,3/2,… }",
+    "javob": "A"
+  },
+  {
+    "savol": "A=b tenglik munosabatining refleksivlik xossasi qaysi?",
+    "A": "A=a",
+    "B": "A=b ⇒ b=a",
+    "C": "A=b va b=c ⇒ a=c",
+    "D": "A≠b ⇒ b<a",
+    "javob": "A"
+  },
+  {
+    "savol": "A=b ⇒ b=a qaysi xossani ifodalaydi?",
+    "A": "Simmetriklik",
+    "B": "Tranzitivlik",
+    "C": "Refleksivlik",
+    "D": "Antisimmetriklik",
+    "javob": "A"
+  },
+  {
+    "savol": "A=b va b=c ⇒ a=c qaysi xossani anglatadi?",
+    "A": "Tranzitivlik",
+    "B": "Simmetriklik",
+    "C": "To’liqlik",
+    "D": "Refleksivlik",
+    "javob": "A"
+  },
+  {
+    "savol": "Nomanfiy butun sonlar to`plamida a<b ta’rifiga mos shartni toping.",
+    "A": "∃c∈N: b=a+c",
+    "B": "∃c∈N: a=b+c",
+    "C": "∃c∈Z: b=a−c",
+    "D": "∃c∈Z: a=b−c",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan qay biri a>b munosabatini to’g’ri ifodalaydi?",
+    "A": "B<a",
+    "B": "A=b",
+    "C": "A≤b",
+    "D": "A<b",
+    "javob": "A"
+  },
+  {
+    "savol": "Nomanfiy butun sonlar to`plamida “ to`liq tartib ” deganda nima tushuniladi?",
+    "A": "Har qanday a≠b uchun a<b yoki b<a",
+    "B": "Har qanday a,b uchun a+b=0",
+    "C": "Har qanday a uchun a<0",
+    "D": "Har qanday a,b uchun a=b",
+    "javob": "A"
+  },
+  {
+    "savol": "A<b va b<c bo’lsa, qanday xulosa chiqadi?",
+    "A": "A<c",
+    "B": "A=c",
+    "C": "C<a",
+    "D": "B=a",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi holda a<b va b<a bir vaqtda bo’lishi mumkin?",
+    "A": "Mumkin emas",
+    "B": "A=0 bo’lganda",
+    "C": "B=0 bo’lganda",
+    "D": "A=b bo’lganda",
+    "javob": "A"
+  },
+  {
+    "savol": "A=b va a<c bo’lsa, qanday xulosa to’g’ri?",
+    "A": "B<c",
+    "B": "C<b",
+    "C": "B=c",
+    "D": "B>a",
+    "javob": "A"
+  },
+  {
+    "savol": "Nolning qo’shishdagi roli to’g’ri berilgan javobni toping.",
+    "A": "A+0=a va 0+a=a",
+    "B": "A+0=0",
+    "C": "0+a=0",
+    "D": "A+0=a+1",
+    "javob": "A"
+  },
+  {
+    "savol": "Nomanfiy butun sonlar to’plamida eng kichik element qaysi?",
+    "A": "0",
+    "B": "1",
+    "C": "-1",
+    "D": "2",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi lardan qay biri nol haqida to’g’ri?",
+    "A": "0 barcha natural sonlardan kichik",
+    "B": "0 barcha sonlardan katta",
+    "C": "0 manfiy son",
+    "D": "0 natural sonlar to’plamida mavjud emas va qo’shilmaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "A≤b munosabatini to’g’ri ta’riflovchi variantni toping.",
+    "A": "A<b yoki a=b",
+    "B": "A<b va a=b",
+    "C": "A>b yoki a=b",
+    "D": "A=b",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi ifoda tenglik munosabatining “ekvivalentlik” ekanini ta’minlaydi?",
+    "A": "Refleksivlik, simmetriklik, tranzitivlik",
+    "B": "Simmetriklik, to’liqlik, ayrimlik",
+    "C": "Refleksivlik, antisimmetriklik, to’liqlik",
+    "D": "Tranzitivlik, to’liqlik, ixtiyoriylik",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar a<b bo’lsa, quyidagilardan qay biri har doim to’g’ri?",
+    "A": "A+c < b+c (c- nomanfiy butun son)",
+    "B": "A+c > b+c",
+    "C": "A+c = b+c",
+    "D": "A−c < b−c har doim",
+    "javob": "A"
+  },
+  {
+    "savol": "A=b bo’lsa, qaysi tenglik har doim to`g’ri?",
+    "A": "A+c = b+c",
+    "B": "A+c < b+c",
+    "C": "A·c < b·c",
+    "D": "A−c ≠ b−c",
+    "javob": "A"
+  },
+  {
+    "savol": "Nomanfiy butun sonlar to`plamida a<b ekanini anglatuvchi eng aniq belgi qaysi?",
+    "A": "B−a natural son",
+    "B": "A−b natural son",
+    "C": "A+b=0",
+    "D": "A=b+0",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi uch holdan bittasi bajarilishi qaysi qoidaga tegishli?",
+    "A": "A=b yoki a<b yoki a>b",
+    "B": "A=b va a<b bir vaqtda",
+    "C": "A<b va a>b bir vaqtda",
+    "D": "A=b bo’lsa, aniq emas",
+    "javob": "A"
+  },
+  {
+    "savol": "Nomanfiy butun sonlarda katta munosabati qanday orqali ta’riflanadi?",
+    "A": "A>b ⇔ b<a",
+    "B": "A>b ⇔ a=b",
+    "C": "A>b ⇔ a<b",
+    "D": "A>b ⇔ a≤b",
+    "javob": "A"
+  },
+  {
+    "savol": "Yig‘indining ta’rifi to‘g‘ri berilgan qatorni belgilang",
+    "A": "Ikkita sonning qo‘shilishi natijasi yig‘indi deyiladi",
+    "B": "Sonlarni ko‘paytirish natijasi yig‘indi deyiladi",
+    "C": "Sonlarni ayirish natijasi yig‘indi deyiladi",
+    "D": "Musbat sonlar yig‘indiga ega bo‘ladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ikkita sonning yig‘indisi nechta bo‘lishi mumkin?",
+    "A": "Bitta",
+    "B": "Ikki xil",
+    "C": "Uchtadan ortiq",
+    "D": "Belgilab bo‘lmaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Yig‘indi yagonaligi deganda nimani tushunasiz?",
+    "A": "Har qanday ikki sonning yagona qo‘shilish natijasi bo‘lishini",
+    "B": "Musbat sonlar yig‘ilishini",
+    "C": "Har bir sonni o‘ziga qo‘shishni",
+    "D": "Qo‘shishning bir yo‘nalishda bo‘lishini",
+    "javob": "A"
+  },
+  {
+    "savol": "Uchta sonning yig‘indisi nechta bo‘lishi mumkin?",
+    "A": "Ikkita",
+    "B": "Uch xil",
+    "C": "Uchtadan ortiq",
+    "D": "Belgilab bo‘lmaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qo‘shish amalida qanday qonunlar mavjud?",
+    "A": "Kommutativ va assosiativ qonunlar",
+    "B": "Ko‘paytirish va ayirish qonunlari",
+    "C": "Parallellik va perpendikulyarlik qonunlari",
+    "D": "Kvadrat va kub qonunlari",
+    "javob": "A"
+  },
+  {
+    "savol": "Kommutativ qonun nimani bildiradi?",
+    "A": "A+B=B +A",
+    "B": "A+B =A−B",
+    "C": "A + B = A × B",
+    "D": "A + B = A / B",
+    "javob": "A"
+  },
+  {
+    "savol": "Assosiativ qonun quyidagicha ifodalanadi",
+    "A": "(A + B) + C = A + (B + C)",
+    "B": "(A + B) + C = A − (B + C)",
+    "C": "(A + B) + C = A × (B + C)",
+    "D": "(A + B) + C = A / (B + C)",
+    "javob": "A"
+  },
+  {
+    "savol": "8:4·3 + 5 = ?",
+    "A": "11",
+    "B": "7",
+    "C": "6",
+    "D": "10",
+    "javob": "A"
+  },
+  {
+    "savol": "(4·2:8 + 3) + 4 = ?",
+    "A": "8",
+    "B": "7",
+    "C": "6",
+    "D": "9",
+    "javob": "A"
+  },
+  {
+    "savol": "(7:1·3 + 4)·0 = ?",
+    "A": "0",
+    "B": "10",
+    "C": "1",
+    "D": "14",
+    "javob": "A"
+  },
+  {
+    "savol": "(0 + 12-0)·1 = ?",
+    "A": "12",
+    "B": "0",
+    "C": "24",
+    "D": "1",
+    "javob": "A"
+  },
+  {
+    "savol": "Qo‘shishda 0 qanday son?",
+    "A": "Qo‘shishning neytral elementi",
+    "B": "Qo‘shishning nol elementi",
+    "C": "Ko‘paytirish elementi",
+    "D": "Ayirish elementi",
+    "javob": "A"
+  },
+  {
+    "savol": "(4 + 6) + 3 = 4 + (6 + 3) tenglik nima qonunni bildiradi?",
+    "A": "Assosiativ qonun",
+    "B": "Kommutativ qonun",
+    "C": "Distributiv qonun",
+    "D": "Kvadrat qonuni",
+    "javob": "A"
+  },
+  {
+    "savol": "1 + 2 = 2 + 1 bu qanday qonun?",
+    "A": "Kommutativ",
+    "B": "Assosiativ",
+    "C": "Distributiv",
+    "D": "Proporsional",
+    "javob": "A"
+  },
+  {
+    "savol": "Har qanday sonni 0 ga qo‘shsak natija nima bo‘ladi?",
+    "A": "O‘sha sonning o‘zi",
+    "B": "O‘sha sonning o‘zi",
+    "C": "1",
+    "D": "Belgilab bo‘lmaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi qaysi ifoda to‘g‘ri",
+    "A": "9 + 1+1-1+1-1 = 10",
+    "B": "9 + 1-1+1-1 = 11",
+    "C": "9 + 1-1+1-1 = 8",
+    "D": "9 + 1-1+1-1+1 = 9",
+    "javob": "A"
+  },
+  {
+    "savol": "5 + (2-2+2-2+3 + 3) = ?",
+    "A": "11",
+    "B": "9",
+    "C": "8",
+    "D": "10",
+    "javob": "A"
+  },
+  {
+    "savol": "Yig‘indi qanday sonlar bilan bajariladi?",
+    "A": "Istalgan sonlar bilan",
+    "B": "Musbat sonlar bilan",
+    "C": "Butun sonlar bilan",
+    "D": "Nol bilan",
+    "javob": "A"
+  },
+  {
+    "savol": "Yig‘indi amalining natijasi: 1!+0! + 15 = ?",
+    "A": "17",
+    "B": "20",
+    "C": "15",
+    "D": "30",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko‘paytirish amali nimaga asoslanadi?",
+    "A": "Takroriy qo‘shishga",
+    "B": "Ayirishga",
+    "C": "Bo‘lishga",
+    "D": "Taqqoslashga",
+    "javob": "A"
+  },
+  {
+    "savol": "A·b ifodasi qanday ma’noni anglatadi?",
+    "A": "A ni b marta qo‘shish",
+    "B": "B ni a marta ayirish",
+    "C": "A va b ni qo‘shish",
+    "D": "A ni b ga bo‘lish",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi holda ko‘paytma mavjud bo‘ladi?",
+    "A": "Har qanday ikki nomanfiy butun son uchun",
+    "B": "Juft sonlar uchun",
+    "C": "To‘q sonlar uchun",
+    "D": "Manfiy sonlar uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko‘paytmaning yagonaligi nimani bildiradi?",
+    "A": "Natija a va b ga bog‘liq",
+    "B": "Tanlangan to‘plamga bog‘liq",
+    "C": "Qo‘shish tartibiga bog‘liq",
+    "D": "Qavsga bog‘liq",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi qonun a·b=b·a ni ifodalaydi?",
+    "A": "O‘rin almashtirish",
+    "B": "Birlashtirish",
+    "C": "Taqsimlash",
+    "D": "Nol qonuni",
+    "javob": "A"
+  },
+  {
+    "savol": "(a·b)·c = a·(b·c) qaysi qonun?",
+    "A": "Birlashtirish",
+    "B": "O‘rin almashtirish",
+    "C": "Taqsimlash",
+    "D": "Birlik",
+    "javob": "A"
+  },
+  {
+    "savol": "A·(b+c)=?",
+    "A": "A·b+a·c",
+    "B": "A·b·c",
+    "C": "A+b·c",
+    "D": "A·b+c",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi son ko‘paytirishda neytral element?",
+    "A": "1",
+    "B": "0",
+    "C": "2",
+    "D": "-1",
+    "javob": "A"
+  },
+  {
+    "savol": "A·0 nimaga teng?",
+    "A": "0",
+    "B": "A",
+    "C": "1",
+    "D": "A²",
+    "javob": "A"
+  },
+  {
+    "savol": "1·a nimaga teng?",
+    "A": "A",
+    "B": "1",
+    "C": "0",
+    "D": "A+1",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko‘paytirish qonunlari nima uchun kerak?",
+    "A": "Hisobni soddalashtirish uchun",
+    "B": "Sonlarni solishtirish uchun",
+    "C": "Ayirishni bajarish uchun",
+    "D": "Bo‘lishni yo‘q qilish uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "Takroriy qo‘shish necha marta amalga oshiriladi?",
+    "A": "Ikkinchi ko‘paytiruvchi qadar",
+    "B": "Birinchi ko‘paytiruvchi qadar",
+    "C": "Har doim 2 marta",
+    "D": "Ixtiyoriy",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi amal ko‘paytirish bilan bog‘liq qonunga ega?",
+    "A": "Qo‘shish",
+    "B": "Ayirish",
+    "C": "Solishtirish",
+    "D": "Tenglash",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko‘paytirish amali qaysi to‘plamda ta’riflangan?",
+    "A": "Nomanfiy butun sonlar",
+    "B": "Manfiy sonlar",
+    "C": "Kasrlar",
+    "D": "Haqiqiy sonlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi ifoda to‘g‘ri?",
+    "A": "A·1=a",
+    "B": "A·1=1",
+    "C": "A·1=0",
+    "D": "A·1=a+1",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi qonun qavslarga bog‘liq emas?",
+    "A": "Birlashtirish",
+    "B": "O‘rin almashtirish",
+    "C": "Taqsimlash",
+    "D": "Nol",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko‘paytirish natijasi qanday son bo‘ladi?",
+    "A": "Nomanfiy butun son",
+    "B": "Manfiy son",
+    "C": "Kasr",
+    "D": "Irratsional",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi holda natija o‘zgarmaydi?",
+    "A": "Ko‘paytiruvchilar o‘rni almashsa",
+    "B": "Qo‘shiluvchilar ayirilsa",
+    "C": "Bo‘linuvchi o‘zgarsa",
+    "D": "Ayiruvchi oshsa",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko‘paytirish qonuni qo‘shish bilan qaysi orqali bog‘langan?",
+    "A": "Taqsimlash qonuni",
+    "B": "O‘rin almashtirish",
+    "C": "Birlashtirish",
+    "D": "Nol",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko‘paytirish amali qaysi tushunchaga tayanadi?",
+    "A": "Miqdoriy munosabatga",
+    "B": "Geometrik shaklga",
+    "C": "Tenglamaga",
+    "D": "Funksiyaga",
+    "javob": "A"
+  },
+  {
+    "savol": "A = b·q bo‘lsa, a ni b ga bo‘lish natijasi nima?",
+    "A": "Q",
+    "B": "R",
+    "C": "B",
+    "D": "A",
+    "javob": "A"
+  },
+  {
+    "savol": "Qoldiqli bo‘lish formulasi qaysi?",
+    "A": "A = b·q + r",
+    "B": "A = b + q·r",
+    "C": "A = q + b·r",
+    "D": "A = b·r + q",
+    "javob": "A"
+  },
+  {
+    "savol": "Qoldiq qanday shartni qanoatlantiradi?",
+    "A": "0 ≤ r < b",
+    "B": "R ≥ b",
+    "C": "R < 0",
+    "D": "R = b",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi holda bo‘lish mavjud?",
+    "A": "B natural son bo‘lsa",
+    "B": "B = 0 bo‘lsa",
+    "C": "A manfiy bo‘lsa",
+    "D": "A kasr bo‘lsa",
+    "javob": "A"
+  },
+  {
+    "savol": "Bo‘lishning yagonaligi nimani anglatadi?",
+    "A": "Q va r yagona",
+    "B": "Q ixtiyoriy",
+    "C": "R ixtiyoriy",
+    "D": "Natija o‘zgaruvchan",
+    "javob": "A"
+  },
+  {
+    "savol": "0 ni natural songa bo‘lganda natija?",
+    "A": "0",
+    "B": "1",
+    "C": "A",
+    "D": "Aniq emas",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi ifoda noto‘g‘ri?",
+    "A": "A : 0 mavjud",
+    "B": "A : b mavjud, b≠0",
+    "C": "0 : b = 0",
+    "D": "A=b·q+r",
+    "javob": "A"
+  },
+  {
+    "savol": "Qoldiqli bo‘lish qaysi amalga asoslanadi?",
+    "A": "Ko‘paytirish va ayirishga",
+    "B": "Qo‘shishga",
+    "C": "Solishtirishga",
+    "D": "Ayirishga",
+    "javob": "A"
+  },
+  {
+    "savol": "Bo‘lish qaysi amalga teskari?",
+    "A": "Ko‘paytirish",
+    "B": "Qo‘shish",
+    "C": "Ayirish",
+    "D": "Solishtirish",
+    "javob": "A"
+  },
+  {
+    "savol": "A=b·q bo‘lsa, a : b = ?",
+    "A": "Q",
+    "B": "B",
+    "C": "R",
+    "D": "A",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi son bo‘luvchi bo‘la olmaydi?",
+    "A": "0",
+    "B": "1",
+    "C": "2",
+    "D": "5",
+    "javob": "A"
+  },
+  {
+    "savol": "Qoldiqli bo‘lishda r nima? A = b·q + r",
+    "A": "Qoldiq",
+    "B": "Bo‘linma",
+    "C": "Bo‘luvchi",
+    "D": "Bo‘linuvchi",
+    "javob": "A"
+  },
+  {
+    "savol": "Bo‘lish amali qaysi to‘plamda qaraladi?",
+    "A": "Nomanfiy butun sonlar",
+    "B": "Manfiy sonlar",
+    "C": "Kasrlar",
+    "D": "Haqiqiy sonlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Bo‘linma qanday son bo‘ladi?",
+    "A": "Nomanfiy butun",
+    "B": "Manfiy",
+    "C": "Irratsional",
+    "D": "Haqiqiy",
+    "javob": "A"
+  },
+  {
+    "savol": "A = b·q + r da q nima?",
+    "A": "Bo‘linma",
+    "B": "Qoldiq",
+    "C": "Bo‘luvchi",
+    "D": "Bo‘linuvchi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi amal bo‘lishga tayanadi?",
+    "A": "Taqqoslash",
+    "B": "Ko‘paytirish",
+    "C": "Qo‘shish",
+    "D": "Ayirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Bo‘lish natijasi nimaga bog‘liq?",
+    "A": "A va b ga",
+    "B": "A ning B ga ko’paytmasiga",
+    "C": "B ga",
+    "D": "Qavsga",
+    "javob": "A"
+  },
+  {
+    "savol": "Bo‘lish amali qaysi tushunchani aniqlaydi?",
+    "A": "Nechta marta joylashishni",
+    "B": "Ayirmani",
+    "C": "Yig‘indini",
+    "D": "Ko‘paytmani",
+    "javob": "A"
+  },
+  {
+    "savol": "Peano aksiomalari qaysi sonlar to‘plamini asoslaydi?",
+    "A": "Natural sonlar",
+    "B": "Manfiy sonlar",
+    "C": "Haqiqiy sonlar",
+    "D": "Kasrlar",
+    "javob": "A"
+  },
+  {
+    "savol": "1 haqidagi aksioma qaysi?",
+    "A": "1- natural son",
+    "B": "1 - keyingi son",
+    "C": "1 - eng katta son",
+    "D": "1 - juft son",
+    "javob": "A"
+  },
+  {
+    "savol": "Peano aksiomalarida 1 qachon keyingi son bo‘la olmaydi?",
+    "A": "Har doim",
+    "B": "1 uchun",
+    "C": "2 uchun",
+    "D": "Ayrim hollarda",
+    "javob": "A"
+  },
+  {
+    "savol": "2 ga bo'linish alomati qaysi javobda to'g'ri berilgan?",
+    "A": "Oxirgi raqami juft bo'lsa, son 2 ga bo'linadi.",
+    "B": "Raqamlar yig'indisi 2 ga bo'linsa, son 2 ga bo'linadi.",
+    "C": "Oxirgi ikki raqami 2 ga bo'linsa, son 2 ga bo'linadi.",
+    "D": "0 bilan tugasa, son 2 ga bo'linadi.",
+    "javob": "A"
+  },
+  {
+    "savol": "3 ga bo'linish alomati qaysi?",
+    "A": "Raqamlar yig'indisi 3 ga bo'linsa, son 3 ga bo'linadi.",
+    "B": "Oxirgi raqami 3 bo'lsa, son 3 ga bo'linadi.",
+    "C": "Oxirgi ikki raqami 3 ga bo'linsa, son 3 ga bo'linadi.",
+    "D": "Juft bo'lsa, son 3 ga bo'linadi.",
+    "javob": "A"
+  },
+  {
+    "savol": "4 ga bo'linish alomati qaysi?",
+    "A": "Oxirgi ikki raqamidan hosil bo'lgan son 4 ga bo'linsa, son 4 ga bo'linadi.",
+    "B": "Raqamlar yig'indisi 4 ga bo'linsa, son 4 ga bo'linadi.",
+    "C": "Oxirgi raqami 4 bo'lsa, son 4 ga bo'linadi.",
+    "D": "Oxirgi uch raqami 4 ga bo'linsa, son 4 ga bo'linadi.",
+    "javob": "A"
+  },
+  {
+    "savol": "5 ga bo'linish alomati qaysi?",
+    "A": "Oxirgi raqami 0 yoki 5 bo'lsa, son 5 ga bo'linadi.",
+    "B": "Raqamlar yig'indisi 5 ga bo'linsa, son 5 ga bo'linadi.",
+    "C": "Oxirgi ikki raqami 5 ga bo'linsa, son 5 ga bo'linadi.",
+    "D": "Juft sonlar 5 ga bo'linadi.",
+    "javob": "A"
+  },
+  {
+    "savol": "6 ga bo'linish uchun son qanday shartni qanoatlantirishi kerak?",
+    "A": "Son bir vaqtda 2 ga ham, 3 ga ham bo'linishi kerak.",
+    "B": "Son bir vaqtda 2 ga ham, 5 ga ham bo'linishi kerak.",
+    "C": "Son bir vaqtda 3 ga ham, 9 ga ham bo'linishi kerak.",
+    "D": "Sonning oxirgi raqami 6 bo'lishi kerak.",
+    "javob": "A"
+  },
+  {
+    "savol": "8 ga bo'linish alomati qaysi?",
+    "A": "Oxirgi uch raqamidan hosil bo'lgan son 8 ga bo'linsa, son 8 ga bo'linadi.",
+    "B": "Raqamlar yig'indisi 8 ga bo'linsa, son 8 ga bo'linadi.",
+    "C": "Oxirgi raqami 8 bo'lsa, son 8 ga bo'linadi.",
+    "D": "Juft sonlar 8 ga bo'linadi.",
+    "javob": "A"
+  },
+  {
+    "savol": "9 ga bo'linish alomati qaysi?",
+    "A": "Raqamlar yig'indisi 9 ga bo'linsa, son 9 ga bo'linadi.",
+    "B": "Oxirgi raqami 9 bo'lsa, son 9 ga bo'linadi.",
+    "C": "Oxirgi ikki raqami 9 ga bo'linsa, son 9 ga bo'linadi.",
+    "D": "Toq sonlar 9 ga bo'linadi.",
+    "javob": "A"
+  },
+  {
+    "savol": "10 ga bo'linish alomati qaysi?",
+    "A": "Oxirgi raqami 0 bo'lsa, son 10 ga bo'linadi.",
+    "B": "Oxirgi raqami 5 bo'lsa, son 10 ga bo'linadi.",
+    "C": "Raqamlar yig'indisi 10 ga bo'linsa, son 10 ga bo'linadi.",
+    "D": "Oxirgi ikki raqami 10 bo'lishi kerak.",
+    "javob": "A"
+  },
+  {
+    "savol": "11 ga bo'linish alomati qaysi?",
+    "A": "Toq o'rindagi va juft o'rindagi raqamlar yig'indilari ayirmasi 11 ga bo'linsa, son 11 ga bo'linadi.",
+    "B": "Raqamlar yig'indisi 11 ga bo'linsa, son 11 ga bo'linadi.",
+    "C": "Oxirgi ikki raqami 11 bo'lsa, son 11 ga bo'linadi.",
+    "D": "Oxirgi raqami 1 bo'lsa, son 11 ga bo'linadi.",
+    "javob": "A"
+  },
+  {
+    "savol": "12 ga bo'linish uchun qanday shart bajarilishi kerak?",
+    "A": "Son bir vaqtda 3 ga ham, 4 ga ham bo'linishi kerak.",
+    "B": "Son bir vaqtda 2 ga ham, 6 ga ham bo'linishi kerak.",
+    "C": "Son bir vaqtda 4 ga ham, 8 ga ham bo'linishi kerak.",
+    "D": "Juft bo'lishi kifoya.",
+    "javob": "A"
+  },
+  {
+    "savol": "14 ga bo'linish uchun qanday shart kerak?",
+    "A": "Son bir vaqtda 2 ga ham, 7 ga ham bo'linishi kerak.",
+    "B": "Son bir vaqtda 2 ga ham, 5 ga ham bo'linishi kerak.",
+    "C": "Raqamlar yig'indisi 14 ga bo'linishi kerak.",
+    "D": "Oxirgi raqami 4 bo'lishi kerak.",
+    "javob": "A"
+  },
+  {
+    "savol": "15 ga bo'linish uchun qanday shart kerak?",
+    "A": "Son bir vaqtda 3 ga ham, 5 ga ham bo'linishi kerak.",
+    "B": "Son bir vaqtda 5 ga ham, 10 ga ham bo'linishi kerak.",
+    "C": "Son juft bo'lishi kerak.",
+    "D": "Oxirgi ikki raqami 15 bo'lishi kerak.",
+    "javob": "A"
+  },
+  {
+    "savol": "16 ga bo'linish alomati qaysi?",
+    "A": "Oxirgi to'rt raqamidan hosil bo'lgan son 16 ga bo'linsa, son 16 ga bo'linadi.",
+    "B": "Raqamlar yig'indisi 16 ga bo'linsa, son 16 ga bo'linadi.",
+    "C": "Oxirgi ikki raqami 16 bo'lsa, son 16 ga bo'linadi.",
+    "D": "Har qanday juft son 16 ga bo'linadi.",
+    "javob": "A"
+  },
+  {
+    "savol": "18 ga bo'linish uchun qanday shart kerak?",
+    "A": "Son bir vaqtda 2 ga ham, 9 ga ham bo'linishi kerak.",
+    "B": "Son bir vaqtda 3 ga ham, 6 ga ham bo'linishi kerak.",
+    "C": "Raqamlar yig'indisi 18 bo'lishi kerak.",
+    "D": "Oxirgi raqami 8 bo'lishi kerak.",
+    "javob": "A"
+  },
+  {
+    "savol": "20 ga bo'linish alomati qaysi?",
+    "A": "Oxirgi ikki raqami 00, 20, 40, 60 yoki 80 bo'lsa, son 20 ga bo'linadi.",
+    "B": "Raqamlar yig'indisi 20 bo'lsa, son 20 ga bo'linadi.",
+    "C": "Oxirgi raqami 0 bo'lsa yetarli.",
+    "D": "Har bir juft son 20 ga bo'linadi.",
+    "javob": "A"
+  },
+  {
+    "savol": "21 ga bo'linish uchun qanday shart kerak?",
+    "A": "Son bir vaqtda 3 ga ham, 7 ga ham bo'linishi kerak.",
+    "B": "Son bir vaqtda 7 ga ham, 14 ga ham bo'linishi kerak.",
+    "C": "Raqamlar yig'indisi 21 bo'lishi kerak.",
+    "D": "Oxirgi raqami 1 bo'lishi kerak.",
+    "javob": "A"
+  },
+  {
+    "savol": "22 ga bo'linish uchun qanday shart kerak?",
+    "A": "Son bir vaqtda 2 ga ham, 11 ga ham bo'linishi kerak.",
+    "B": "Son bir vaqtda 2 ga ham, 3 ga ham bo'linishi kerak.",
+    "C": "Raqamlar yig'indisi 22 bo'lishi kerak.",
+    "D": "Oxirgi raqami 2 bo'lishi kerak.",
+    "javob": "A"
+  },
+  {
+    "savol": "24 ga bo'linish uchun qanday shart kerak?",
+    "A": "Son bir vaqtda 3 ga ham, 8 ga ham bo'linishi kerak.",
+    "B": "Son bir vaqtda 4 ga ham, 6 ga ham bo'linishi kerak.",
+    "C": "Son juft bo'lishi kifoya.",
+    "D": "Raqamlar yig'indisi 24 bo'lishi kerak.",
+    "javob": "A"
+  },
+  {
+    "savol": "25 ga bo'linish alomati qaysi?",
+    "A": "Oxirgi ikki raqami 00, 25, 50 yoki 75 bo'lsa, son 25 ga bo'linadi.",
+    "B": "Oxirgi raqami 5 bo'lsa, son 25 ga bo'linadi.",
+    "C": "Raqamlar yig'indisi 25 bo'lsa, son 25 ga bo'linadi.",
+    "D": "100 ga karrali sonlar 25 ga bo'linadi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Tub son deb nimaga aytiladi?",
+    "A": "1 dan katta bo'lib, 1 ga va o'ziga bo'linadigan songa aytiladi.",
+    "B": "Juft sonlarga aytiladi.",
+    "C": "Ikki xonali sonlarga aytiladi.",
+    "D": "2 ga bo'linadigan sonlarga aytiladi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Murakkab son deb nimaga aytiladi?",
+    "A": "1 dan katta bo'lib, ikkitadan ortiq bo'luvchiga ega bo'lgan songa aytiladi.",
+    "B": "Toq sonlarga aytiladi.",
+    "C": "Juft sonlarga aytiladi.",
+    "D": "10 dan katta sonlarga aytiladi.",
+    "javob": "A"
+  },
+  {
+    "savol": "1 soni haqida qaysi fikr to'g'ri?",
+    "A": "1 soni tub ham emas, murakkab ham emas.",
+    "B": "1 soni tub son.",
+    "C": "1 soni murakkab son.",
+    "D": "1 soni manfiy butun son.",
+    "javob": "A"
+  },
+  {
+    "savol": "Eratosfen g'alviri nimaga xizmat qiladi?",
+    "A": "Berilgan oraliqdagi tub sonlarni topishga xizmat qiladi.",
+    "B": "EKUK ni topishga xizmat qiladi.",
+    "C": "Kasrlarni qisqartirishga xizmat qiladi.",
+    "D": "O'nli kasrlarni ko'paytirishga xizmat qiladi.",
+    "javob": "A"
+  },
+  {
+    "savol": "EKUK nimani bildiradi?",
+    "A": "Berilgan sonlarning eng kichik umumiy karralisini bildiradi.",
+    "B": "Berilgan sonlarning eng katta umumiy bo'luvchisini bildiradi.",
+    "C": "Natural bo'luvchilar sonini bildiradi.",
+    "D": "Natural bo'luvchilar yig'indisini bildiradi.",
+    "javob": "A"
+  },
+  {
+    "savol": "EKUB nimani bildiradi?",
+    "A": "Berilgan sonlarning eng katta umumiy bo'luvchisini bildiradi.",
+    "B": "Berilgan sonlarning eng kichik umumiy karralisini bildiradi.",
+    "C": "Natural bo'luvchilar sonini bildiradi.",
+    "D": "Juft sonlarning bo'luvchisini bildiradi.",
+    "javob": "A"
+  },
+  {
+    "savol": "EKUK va EKUB ni topishda eng qulay usullardan biri qaysi?",
+    "A": "Sonlarni tub ko'paytuvchilarga ajratish usuli.",
+    "B": "Qo'shish usuli.",
+    "C": "Ayirish usuli.",
+    "D": "Ko'paytirish usuli.",
+    "javob": "A"
+  },
+  {
+    "savol": "NBS nimani bildiradi?",
+    "A": "Sonning natural bo'luvchilari sonini bildiradi.",
+    "B": "Sonning natural bo'luvchilari yig'indisini bildiradi.",
+    "C": "Sonning natural karralilari sonini bildiradi.",
+    "D": "Sonning manfiy bo'luvchilari sonini bildiradi.",
+    "javob": "A"
+  },
+  {
+    "savol": "NBY nimani bildiradi?",
+    "A": "Sonning natural bo'luvchilari yig'indisini bildiradi.",
+    "B": "Sonning natural bo'luvchilari sonini bildiradi.",
+    "C": "Sonning natural karralilari yig'indisini bildiradi.",
+    "D": "Sonning manfiy bo'luvchilari yig'indisini bildiradi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Butun sonlar to'plamiga qaysilar kiradi?",
+    "A": "Manfiy butun sonlar, 0 va musbat butun sonlar kiradi.",
+    "B": "Musbat sonlar kiradi.",
+    "C": "Manfiy sonlar kiradi.",
+    "D": "Kasr sonlar kiradi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Butun manfiy sonlarga qaysi misol to'g'ri keladi?",
+    "A": "-1, -2, -3, ...",
+    "B": "1, 2, 3, ...",
+    "C": "1/2, 2/3, 3/4, ...",
+    "D": "0.1, 0.2, 0.3, ...",
+    "javob": "A"
+  },
+  {
+    "savol": "Ulush tushunchasi nimani anglatadi?",
+    "A": "Butunning teng qismlaridan bittasi yoki bir nechtasini anglatadi.",
+    "B": "Natural sonlarni anglatadi.",
+    "C": "Manfiy sonlarni anglatadi.",
+    "D": "O'nli kasrlarni anglatadi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Kasr nima?",
+    "A": "Butun bir sonning teng qismlaridan olingan miqdorni ifodalovchi son.",
+    "B": "Juft sonlarning yozilishi.",
+    "C": "Manfiy sonlarning yozilishi.",
+    "D": "O'nlik sanoq sistemasidagi son.",
+    "javob": "A"
+  },
+  {
+    "savol": "O'nli kasr deb nimaga aytiladi?",
+    "A": "Maxraji 10, 100, 1000 va hokazo bo'lgan kasrning yozuviga aytiladi.",
+    "B": "Surati 10 ga teng bo'lgan kasrga aytiladi.",
+    "C": "Cheksiz kasrga aytiladi.",
+    "D": "Natural songa aytiladi.",
+    "javob": "A"
+  },
+  {
+    "savol": "O'nli kasrlarni qo'shishda qaysi qoida to'g'ri?",
+    "A": "Vergullar bir xil ustunga qo'yilib qo'shiladi.",
+    "B": "Butun qismlar qo'shiladi.",
+    "C": "Vergul e'tiborga olinmaydi.",
+    "D": "Sonlar teskari yozilib qo'shiladi.",
+    "javob": "A"
+  },
+  {
+    "savol": "O'nli kasrlarni ko'paytirishda qaysi qoida to'g'ri?",
+    "A": "Avval vergulsiz ko'paytiriladi, so'ng umumiy o'nli xonalar sonicha vergul qo'yiladi.",
+    "B": "Butun qismlar ko'paytiriladi.",
+    "C": "Vergul umuman qo'yilmaydi.",
+    "D": "Maxrajlar ko'paytiriladi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Haqiqiy sonlar to'plamiga nimalar kiradi?",
+    "A": "Ratsional va irratsional sonlarning barchasi kiradi.",
+    "B": "Natural sonlar kiradi.",
+    "C": "Kasr sonlar kiradi.",
+    "D": "Irratsional sonlar kiradi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Irratsional son deb nimaga aytiladi?",
+    "A": "Oddiy kasr ko'rinishida ifodalanmaydigan sonlarga aytiladi.",
+    "B": "Manfiy sonlarga aytiladi.",
+    "C": "Juft sonlarga aytiladi.",
+    "D": "Natural sonlarga aytiladi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Davriy bo'lmagan cheksiz o'nli kasr qaysi sonlar turiga kiradi?",
+    "A": "Irratsional sonlarga kiradi.",
+    "B": "Butun sonlarga kiradi.",
+    "C": "Natural sonlarga kiradi.",
+    "D": "Davriy kasrlarga kiradi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Son tushunchasining kengaytirilishiga asosiy sabab nima?",
+    "A": "Amallarni har doim bajarish va yangi miqdorlarni ifodalash ehtiyoji.",
+    "B": "Sonlarni qisqartirish ehtiyoji.",
+    "C": "Yozuvni chiroyli qilish ehtiyoji.",
+    "D": "Juft sonlarni o'rganish ehtiyoji.",
+    "javob": "A"
+  },
+  {
+    "savol": "Kasrni qisqartirish deb nimaga aytiladi?",
+    "A": "Kasrning surat va maxrajini bir xil natural songa bo'lib teng qiymatli sodda kasr hosil qilishga aytiladi.",
+    "B": "Kasrni butun songa aylantirishga aytiladi.",
+    "C": "Kasrni o'nli kasrga aylantirishga aytiladi.",
+    "D": "Kasrning suratini kamaytirishga aytiladi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi son 2 ga bo'linadi?",
+    "A": "248",
+    "B": "357",
+    "C": "471",
+    "D": "569",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi son 3 ga bo'linadi?",
+    "A": "372",
+    "B": "451",
+    "C": "562",
+    "D": "701",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi son 4 ga bo'linadi?",
+    "A": "316",
+    "B": "318",
+    "C": "322",
+    "D": "334",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi son 5 ga bo'linadi?",
+    "A": "245",
+    "B": "246",
+    "C": "247",
+    "D": "248",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi son 6 ga bo'linadi?",
+    "A": "234",
+    "B": "235",
+    "C": "236",
+    "D": "237",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi son 7 ga bo'linadi?",
+    "A": "203",
+    "B": "205",
+    "C": "206",
+    "D": "208",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi son 8 ga bo'linadi?",
+    "A": "456",
+    "B": "454",
+    "C": "458",
+    "D": "462",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi son 9 ga bo'linadi?",
+    "A": "729",
+    "B": "728",
+    "C": "731",
+    "D": "734",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi son 10 ga bo'linadi?",
+    "A": "470",
+    "B": "472",
+    "C": "475",
+    "D": "478",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi son 11 ga bo'linadi?",
+    "A": "462",
+    "B": "463",
+    "C": "464",
+    "D": "465",
+    "javob": "A"
+  }
+]
