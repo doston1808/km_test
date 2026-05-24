@@ -1,0 +1,1202 @@
+[
+  {
+    "savol": "Maktabgacha ta’lim tashkilotiga to‘g’ri ta’rif berilgan javobni toping.",
+    "A": "Maktabgacha ta’lim va tarbiya sohasida ta’lim va tarbiya xizmatlari ko‘rsatuvchi davlat va nodavlat tashkiloti",
+    "B": "Bolalarni to‘g’ri ovqatlanishini tashkil etuvchi tashkilot",
+    "C": "Bolalarni sog’ligini himoya qiluvchi tashkilot",
+    "D": "Bolalarga milliy urf - odatlarni o‘–gatadigan tashkilot",
+    "javob": "A"
+  },
+  {
+    "savol": "“Ilk qadam” Davlat o‘quv dasturi qaysi dastur asosida ishlab chiqilgan?",
+    "A": "Maktabgacha ta’lim-tarbiyaning Davlat standartlari asosida",
+    "B": "“Ta’lim to‘g’risida”gi qonun asosida",
+    "C": "Davlat maktabgacha ta’lim muassasasi to‘g’risidagi Nizom asosida",
+    "D": "Kadrlar tayyorlash milliy dasturi asosida",
+    "javob": "A"
+  },
+  {
+    "savol": "Shaxs rivojlanishiga ta’sir etuvchi omillar qaysilar?",
+    "A": "Irsiyat, muhit, tarbiya",
+    "B": "Irsiyat",
+    "C": "Irsiyat,tarbiya",
+    "D": "Biogenetik omillar",
+    "javob": "A"
+  },
+  {
+    "savol": "Bolalar bog`chasi atamasini kim birinchi bo`lib keltirgan?",
+    "A": "Birinchi bo`lib Fredrix Frebel “Bolalar bog`chasi” deb atagan",
+    "B": "Birinchi bo`lib Altshuller “Bolalar bog`chasi” deb atagan",
+    "C": "Birinchi bo`lib Leonteva “Bolalar bog`chasi” deb atagan",
+    "D": "Birinchi bo`lib Voskobovich “Bolalar bog`chasi “deb atagan",
+    "javob": "A"
+  },
+  {
+    "savol": "Mashg’ulot qachon rejalashtiriladi?",
+    "A": "Mashg’ulot kunning birinchi yarmida rejalashtiriladi",
+    "B": "Mashg’ulot kunning ikkinchi yarmida tashkil qilinadi",
+    "C": "Mashg’ulot har oyda bir marta rejalashtiradi",
+    "D": "Mashg’ulot har haftada bir marta rejalashtiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Haftaning birinchi va oxirgi kunlarida qanday mashg’ulotlar rejalashtiriladi?",
+    "A": "Haftaning birinchi va oxirgi kunlarida boladan aqliy zo‘riqish talab qilmaydiga mashg’ulotlar rejalashtiriladi",
+    "B": "Haftaning birinchi va oxirgi kunida elementar matematika mashg’uloti rejalashtiradi",
+    "C": "Haftaning birinchi va oxirgi kunida nutq o‘stirish mashg’ulotlari rejalashtiriladi",
+    "D": "Haftaning birinchi va oxirgi kunida boladan aqliy zo‘riqish talab qiladigan mashg’ulotlar rejalashtiriladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Uzluksiz ta’limning bosh bo‘g’ini to‘g’ri ko‘rsatilgan javobni toping",
+    "A": "Maktabgacha ta’lim",
+    "B": "Profesional ta’lim",
+    "C": "Oliy ta’limdan keyingi ta’lim",
+    "D": "Maktabdan tashqari ta’lim",
+    "javob": "A"
+  },
+  {
+    "savol": "Uzluksiz ta’limning ikkinchisi ko’rsatilgan javobni toping",
+    "A": "Umumiy o‘rta va o‘rta maxsus ta’lim",
+    "B": "Profesional ta’lim",
+    "C": "Oliy ta’limdan keyingi ta’lim",
+    "D": "Maktabdan tashqari ta’lim",
+    "javob": "A"
+  },
+  {
+    "savol": "Uzluksiz ta’limning uchinchisi ko’rsatilgan javobni toping",
+    "A": "Professional ta’lim",
+    "B": "Oliy ta’limdan keyingi ta’lim",
+    "C": "Maktabdan tashqari ta’lim",
+    "D": "Umumiy o‘rta va o‘rta maxsus ta’lim",
+    "javob": "A"
+  },
+  {
+    "savol": "Uzluksiz ta’limning to’rtinchisi ko’rsatilgan javobni toping",
+    "A": "Oliy ta’lim",
+    "B": "Maktabdan tashqari ta’lim",
+    "C": "Umumiy o‘rta va o‘rta maxsus ta’lim",
+    "D": "Professional ta’lim;",
+    "javob": "A"
+  },
+  {
+    "savol": "Uzluksiz ta’limning beshinchisi ko’rsatilgan javobni toping",
+    "A": "Oliy ta’limdan keyingi ta’lim",
+    "B": "Maktabdan tashqari ta’lim",
+    "C": "Umumiy o‘rta va o‘rta maxsus ta’lim",
+    "D": "Professional ta’lim;",
+    "javob": "A"
+  },
+  {
+    "savol": "Uzluksiz ta’limning oltinchisi ko’rsatilgan javobni toping",
+    "A": "Kadrlarni qayta tayyorlash va ularning malakasini oshirish",
+    "B": "Oliy ta’limdan keyingi ta’lim",
+    "C": "Maktabdan tashqari ta’lim",
+    "D": "Umumiy o‘rta va o‘rta maxsus ta’lim",
+    "javob": "A"
+  },
+  {
+    "savol": "Uzluksiz ta’limning yettinchisi ko’rsatilgan javobni toping",
+    "A": "Maktabdan tashqari ta’lim",
+    "B": "Umumiy o‘rta va o‘rta maxsus ta’lim",
+    "C": "Profesional ta’lim",
+    "D": "Oliy ta’limdan keyingi ta’lim",
+    "javob": "A"
+  },
+  {
+    "savol": "Maktabgacha ta’lim tashkilotida guruhlar soni nimani hisobga olgan holatda belgilanadi?",
+    "A": "Maktabgacha ta’lim tashkilotida guruhlar soni tashkilotning quvvatidan kelib chiqib muassis tomonidan belgilanadi",
+    "B": "Maktabgacha ta’lim tashkilotida guruhlar soni",
+    "C": "Maktabgacha ta’lim tashkilotida guruhlar soni Direktorning ko‘rsatmasini hisobga olgan holatda belgilanadi",
+    "D": "Maktabgacha ta’lim tashkilotida guruhlar soni mahalla tomonidan belgilanadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Uslubchining 04-03 indeks bilan belgilangan hujjati bo’yicha uslubchi qanday ishni amalga oshiradi?",
+    "A": "Bolalarning rivojlanish xaritasi yuritilishini nazorat qiladi",
+    "B": "Uslubchi bolalarning davomatini nazorat qiladi",
+    "C": "Uslubchi boalarning darsdagi faolligini nazorat qiladi",
+    "D": "Uslubchi tarbiyachilarni davomatini qayd etib boradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Bolalarning rivojlanish xaritasi yuritilishini kim nazorat qiladi?",
+    "A": "Uslubchi",
+    "B": "Direktor",
+    "C": "Tarbiyachi",
+    "D": "Ota-onalr",
+    "javob": "A"
+  },
+  {
+    "savol": "MTTda o‘tkaziladigan pedagogik kengashga kim raislik qiladi?",
+    "A": "MTT direktori",
+    "B": "MTT hamshirasi",
+    "C": "Tarbiyachilar",
+    "D": "Tuman bo‘limlari",
+    "javob": "A"
+  },
+  {
+    "savol": "MTTda metodik ishlarga kim mas’ul?",
+    "A": "MTT uslubchisi",
+    "B": "Hamshira",
+    "C": "Tarbiyachilar",
+    "D": "Yordamchi tarbiyachilar",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi markazda tajribalar o‘tkaziladi?",
+    "A": "Fan va tabiat",
+    "B": "Syujetli rolli-o‘yinlar va sahnalashtirish",
+    "C": "San’at",
+    "D": "Til va nutq",
+    "javob": "A"
+  },
+  {
+    "savol": "Kompetensiya nima?",
+    "A": "Bilim, ko‘nikma, malaka ,qadriyatlar majmui",
+    "B": "Tarbiyachining talab darajasida kiyinishi",
+    "C": "Bolalarning o‘yinlarni qay darajada o‘zlashtirganligini aniqlovchi metodika",
+    "D": "Direktorning ish hujjatlari",
+    "javob": "A"
+  },
+  {
+    "savol": "MTT direktori...",
+    "A": "MTT direktori maktabgacha ta’lim tashkiloti umumiy faoliyatga rahbarlik qiladigan, malakali pedagog",
+    "B": "MTT direktori bolalarni oziq-ovqat bilan ta’minlaydigan shaxs",
+    "C": "MTT direktori bolalarning ruhiyatini o‘rganadi",
+    "D": "MTT direktori bolalarni sog`ligini har ertalab tekshirishi kerak",
+    "javob": "A"
+  },
+  {
+    "savol": "Maktabgacha ta’lim tashkilotlarida sayrni o‘tkazishdan maqsad...",
+    "A": "Bolaning harakat faolligini ta’minlash",
+    "B": "Bolaning vaqtini o‘tkazish uchun",
+    "C": "Yordamchi tarbiyachi guruh xonasini tozalashi uchun",
+    "D": "Bolalarni hojatxonaga olib borish uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "Maktabgacha ta’lim yoshi to’g’ri ko’rsatilgan javobni toping",
+    "A": "3-7 yoshgacha",
+    "B": "8-9 yoshgacha",
+    "C": "9-10 yoshgacha",
+    "D": "1-2 yoshgacha",
+    "javob": "A"
+  },
+  {
+    "savol": "Ilk yosh ko’rsatilgan javobni toping",
+    "A": "1 yoshdan 3 yoshgacha",
+    "B": "3-7 yoshgacha",
+    "C": "8-9 yoshgacha",
+    "D": "9-10 yoshgacha",
+    "javob": "A"
+  },
+  {
+    "savol": "Ushbu vazifani bajaruvchi lavozim egasini toping. Ilg'or pedagogik tajribani o'rganadi, umumlashtiradi va tarqatadi.",
+    "A": "Mtt uslubchisi",
+    "B": "MTThamshirasi",
+    "C": "Ota-onalar",
+    "D": "Nazorat kengashi a’zolari",
+    "javob": "A"
+  },
+  {
+    "savol": "Markazlardagi materiallarni oy mavzusiga qarab almashtiradi?Ushu vazifani MTTda kim bajaradi?",
+    "A": "Tarbiyachi",
+    "B": "Metodist",
+    "C": "Direktor",
+    "D": "Ota-onalar",
+    "javob": "A"
+  },
+  {
+    "savol": "Ta'lim jarayonining ishtirokchilari kimlar?",
+    "A": "Bolalar, pedagogik xodimlar, ota-onalar",
+    "B": "pedagoglar",
+    "C": "ota-onalar",
+    "D": "bolalar",
+    "javob": "A"
+  },
+  {
+    "savol": "Ijodiy rivojlanish sohasining kichik sohasi nechta?",
+    "A": "2 ta",
+    "B": "3ta",
+    "C": "5 ta",
+    "D": "6ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Maktabgacha ta’lim tashkilotlarida o‘quv yili qachon boshlanib qachon tugaydi?",
+    "A": "Maktabgacha ta`lim tashkilotlarida o‘quv yili 2 sentyabrdan 31 maygacha davom etadi",
+    "B": "Maktabgacha ta`lim tashkilotlarida o‘quv yili 3 sentayabrdan 25 maygacha davom etadi",
+    "C": "Maktabgacha ta`lim tashkilotlarida o‘quv yili 5 sentyabrdan 20 maygacha davom etadi",
+    "D": "Maktabgacha ta`lim tashkilotlarida o‘quv yili 2 sentyabrdan boshlanib 20 maygacha davom etadi",
+    "javob": "A"
+  },
+  {
+    "savol": "“Jismoniy rivojlanish va sog‘lom turmush tarzining shakllanishi” sohasining kichik sohalari to‘g’ri ko‘rsatilgan javobni toping",
+    "A": "Yirik motorika, mayda motorika, sensomotorika, sog‘lom turmush tarzi va xavfsizlik",
+    "B": "Yirik motorika, mayda motorika",
+    "C": "Qo‘l barmoqlari mayda motorikasi",
+    "D": "Sog‘lom turmush tarzi va xavfsizlik, nutq va til",
+    "javob": "A"
+  },
+  {
+    "savol": "O`zbekiston Respublikasining ilk va maktabgacha yoshdagi bolalar rivojlanishiga qo`yiladigan “Davlat talablari”ning sohalari nechta?",
+    "A": "5 ta",
+    "B": "4 ta",
+    "C": "3 ta",
+    "D": "6 ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Globus qaysi markazning materiali?",
+    "A": "Fan va tabiat",
+    "B": "San’at",
+    "C": "Til va nutq",
+    "D": "Syujetli rolli o‘yinlar va sahnalashtirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Tarbiyachining kasbiy sifatlari to‘g’ri yozilgan javobni toping.",
+    "A": "Kasbiy mahorat, bolalarning psixologik, induvidual xususiyatlarini hisobga olgan holda yondashish",
+    "B": "ota-onalar bilan hamkorlikda tashabbus ko‘rsatish",
+    "C": "bayram ertaliklarida faollik ko‘rsatish",
+    "D": "Ta’lim tarbiyaviy jarayonda ko‘proq harakatli o‘yinlardan foydalanishi",
+    "javob": "A"
+  },
+  {
+    "savol": "“Uchinchi ming yillikning bolasi” dasturi qachon yaratildi?",
+    "A": "2002-yilda “Uchinchi ming yillikning bolasi” dasturi o‘zbek olimlari tomonidan yaratiladi",
+    "B": "2018 yilda “Uchinchi ming yillikning bolasi” dasturi yaratildi",
+    "C": "2022 yilda “Uchinchi ming yillikning bolasi” dasturi yaratildi",
+    "D": "1999 yilda “Uchinchi ming yillikning bolasi” dasturi yaratildi",
+    "javob": "A"
+  },
+  {
+    "savol": "O’zbekiston Respublikasining ilk va maktabgacha yoshdagi bolalar rivojlanishiga qo‘yiladigan Davlat talablarida bolaning rivojlanish sohalarini belgilang",
+    "A": "Jismoniy rivojlanish va sog’lom turmush tarzini shakllantirish, ijtimoiy hissiy rivojlanish, nutq muloqot, o’qish va yozish malakalari, bilish jarayonining rivojlanishi, ijodiy rivojlanish",
+    "B": "Ijtimoiy hissiy rivojlanish, nutq o’qish va yozish malakalari, ijodiy rivojlanish",
+    "C": "Jismoniy rivojlanish sog’lom turmush tarzini shakllantirish, o’qish va yozish malakalari, bilish jarayonining rivojlanishi, ijodiy rivojlanish",
+    "D": "Sog’lom turmush tarzini shakllantirish, hissiy rivojlanish, muloqot, o’qish va yozish malakalari",
+    "javob": "A"
+  },
+  {
+    "savol": "Maktabgacha ta’lim tashkilotida ertalab bolalarni kim qabul qilib oladi?",
+    "A": "Tarbiyachi",
+    "B": "Metodist",
+    "C": "Ota-oanalardan vakil",
+    "D": "Qorovul",
+    "javob": "A"
+  },
+  {
+    "savol": "“Ta’lim to‘g’risida”gi qonun qachon qabul qilingan?",
+    "A": "Ta’lim to‘g’risidagi qonun 2020 yil 23 sentyabr",
+    "B": "Ta’lim to‘g’risidagi qonun 2019 yil 16 dekabr",
+    "C": "Ta’lim to‘g’risidagi qonun 1989 yil 21 oktabr",
+    "D": "Ta’lim to‘g’risidagi qonun 1992 yil 5 sentyabr",
+    "javob": "A"
+  },
+  {
+    "savol": "Bolajon o’quv dasturi qachon joriy qilindi?",
+    "A": "2010-yilda “Bolajon” o‘quv dasturi ta’sis etildi",
+    "B": "2022 yilda “Bolajon” o‘quv dasturi ta’sis etildi",
+    "C": "1999 yilda “Bolajon” o‘quv dasturi ta’sis etildi",
+    "D": "2024 yilda “Bolajon” o‘quv dasturi ta’sis etildi",
+    "javob": "A"
+  },
+  {
+    "savol": "Takomillashtirilgan “Ilk qadam ”Davlat o’quv dasturi qachon joriy qilindi?",
+    "A": "Takomillashtirilgan “Ilk qadam ”Davlat o’quv dasturi 2022 yil 4 fevraldan boshlab joriy qilindi",
+    "B": "Takomillashtirilgan “Ilk qadam ”Davlat o’quv dasturi 2018 yildan boshlab joriy qilindi",
+    "C": "Takomillashtirilgan “Ilk qadam ”Davlat o’quv dasturi 2003 yildan boshlab joriy qilindi",
+    "D": "Takomillashtirilgan “Ilk qadam ”Davlat o’quv dasturi 2001 yildan boshlab joriy qilindi",
+    "javob": "A"
+  },
+  {
+    "savol": "Bolalarni o’zi ochgan muassasada “Olloh ekinlari” deb atagan pedagog nomini toping",
+    "A": "Fredrix Frebel",
+    "B": "A.Altshuller",
+    "C": "L.S.Vigotskiy",
+    "D": "Ole Kirk Kristiansen",
+    "javob": "A"
+  },
+  {
+    "savol": "Samarqand 1-son pedagogika texnikumi qachon ochildi?",
+    "A": "Samarqand 1-son pedagogika texnikumi 1924 yilda ochildi",
+    "B": "Samarqand 1-son pedagogika texnikumi 1996 yilda ochildi",
+    "C": "Samarqand 1-son pedagogika texnikumi 2020 yilda ochildi",
+    "D": "Samarqand 1-son pedagogika texnikumi 1837 yilda ochildi",
+    "javob": "A"
+  },
+  {
+    "savol": "O`zbekiston Respublikasining ilk va maktabgacha yoshdagi bolalar rivojlanishiga qo`yiladigan “Davlat talablari”ning 4-sohasi qaysi javobda to`g`ri berilgan?",
+    "A": "Bilish jarayoning rivojlanishi",
+    "B": "Ijodiy rivojlanish",
+    "C": "Nutq va muloqot o`qish va yozish mamakalari",
+    "D": "Jismoniy rivojlanish",
+    "javob": "A"
+  },
+  {
+    "savol": "MTT da yozgi sog’lomlashtirish davri qachondan boshlanadi?",
+    "A": "1 iyundan 31 avgustgacha",
+    "B": "31 maydan 1 avgustgacha",
+    "C": "3 iyuldan 31 iyulgacha",
+    "D": "1 maydan 31 avgustgacha",
+    "javob": "A"
+  },
+  {
+    "savol": "Maktabgacha ta’lim tashkilotlarida ta’lim tarbiyaviy jarayon qaysi dastur asosida olib boriladi?",
+    "A": "Takomillashtirilgan “Ilk qadam” Davlat o‘quv dasturi asosida",
+    "B": "“Bolajon” o‘quv dasturi asosida",
+    "C": "“Uchinchi ming yillikning bolasi” dasturi asosida",
+    "D": "“Gulgina” o‘quv dasturi asosida",
+    "javob": "A"
+  },
+  {
+    "savol": "Huquqiy tarbiyaning tarkibiy qismlarini aniqlang?",
+    "A": "Huquqiy ong, huquqiy madaniyat, huquqiy savodxonlik,huquqiy bilim",
+    "B": "Huquqiy tashviqot, huquqiy me'yorlar, huquqiy himoya",
+    "C": "Huquqiy burch, huquqiy himoya qiluvchi tashkilotlar",
+    "D": "Huquqiy tenglik, huquqiy manfaatdorlik, huquqni mustaqil amalga oshirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Pedagogning kreativ potentsiali.....?",
+    "A": "Bir qolipda fikrlamaslik, yangi g‘oyalami yaratish qobiliyati",
+    "B": "Ananaviy mashg’ulotlarni tashkil qilishda",
+    "C": "Ertakni ifodali qilib aytishida",
+    "D": "MTTda sayrlarni to‘g’ri tashkil etishda",
+    "javob": "A"
+  },
+  {
+    "savol": "Bolalar jamoasi necha kishidan iborat bo'ladi?",
+    "A": "6-8 kishidan",
+    "B": "2-3 kishidan",
+    "C": "15 kishidan",
+    "D": "20 kishidan",
+    "javob": "A"
+  },
+  {
+    "savol": "Rahbarning axloqiy xislatlariga nimalar kiradi?",
+    "A": "Kamtarinlik, haqqoniylik, halollik, tog’rilik. insoflilik, mehr-oqibat, saxovat",
+    "B": "Kamtarinlik, haqqoniylik",
+    "C": "Kamtarinlik, sofdillik",
+    "D": "Mehr-oqibat, saxovat",
+    "javob": "A"
+  },
+  {
+    "savol": "Markazlardagi faoliyatlar kimning rahbarligida olib boriladi?",
+    "A": "Guruh tarbiyachisining",
+    "B": "Direktorning",
+    "C": "Ota-onaning",
+    "D": "Uslubchining",
+    "javob": "A"
+  },
+  {
+    "savol": "Maktabgacha ta’lim tashkilotlarida “Bola huquqlari to'g'risidagi Konvensiya\" ni o'rgatishdan maqsad - bu ...",
+    "A": "Bolaning yashay olish, rivojlanish, ishtirok etish, vijdon va din erkinliklari, barcha zo'ravonlik va qiynoqlardan muhofaza qilish huquqlari bilan ta'minlaydi",
+    "B": "Bola huquqlarini himoya qiladi va ishlab chiqadi",
+    "C": "Qonunga amal qilish huquqlari bilan ta'minlaydi",
+    "D": "Huquqi ong va boshqa tushunchalarni shakllantirish, qilish huquqlari bilan ta'minlaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Markazlardagi materiallar .......almashtiriladi",
+    "A": "Markazlardagi materiallar oy mavzusiga qarab almashtiriladi",
+    "B": "Markazlardagi materiallar almashtirilmaydi",
+    "C": "Markazlardagi materiallarni bir-biri bilan almashtirish mumkin",
+    "D": "Markazlardagi materiallar metodist ruxsati bilan almashtiriladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Maktabgacha yoshdagi bolalarni tarbiyalashda qaysi faoliyat turlaridan foydalaniladi?",
+    "A": "O'yin, mehnat, o'quv, muloqot, sport, sayr orqali",
+    "B": "Ekskursiya orqali",
+    "C": "Mashg'ulot orqali",
+    "D": "Sayr orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Ixtisoslashtirilgan maktabgacha ta’lim muassasalari bu….",
+    "A": "Aqliy va jismoniy rivojlanishida nuqsonlari bo’lgan bolalar uchun tashkil etiladi",
+    "B": "Sog’lom bolalar uchun tashkil etiladi",
+    "C": "Jismoniy rivojlanishida nuqsoni bo’lgan bolalar bolalar uchun tashkil etiladi",
+    "D": "Aqliy rivojlanishida nuqsoni bo’lgan bolalar uchun tashkil etiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "MTTda qo‘shimcha pullik xizmatlar kimning taklifi bilan yo‘lga qo‘yiladi?",
+    "A": "Ota-onalarning taklifi va talabi bilan",
+    "B": "Tuman, shahar maktabgacha bo‘limi tononidan takilf bilan chiqilganda",
+    "C": "MTTda qo‘shimcha pullik xizmatlar yo‘lga qo‘yilmaydi",
+    "D": "Direktorning taklifiga binoan",
+    "javob": "A"
+  },
+  {
+    "savol": "Tarbiyachiga mashg’ulotlarni o’tishda yo’l ko’rsatuvchi shaxs kim?",
+    "A": "Metodist",
+    "B": "Yordamchi tarbiyachi",
+    "C": "Ota-onalar",
+    "D": "Direktor",
+    "javob": "A"
+  },
+  {
+    "savol": "Maktabgacha yoshdagi bolalar rivojlanishiga qo'yilgan davlat standartlari asosida yaratilgan dastur nomi?",
+    "A": "Ilk qadam\" Davlat o’quv dasturi",
+    "B": "Kadrlar tayyorlash milliy dasturi",
+    "C": "Davlat maktabgacha ta’lim muassasasi to'g'risidagi nizom",
+    "D": "\"Ta'lim to'g'risida“gi qonun",
+    "javob": "A"
+  },
+  {
+    "savol": "“Metod “ atamasining ma’nosi nima?",
+    "A": "Lotincha so’zdan olingan bo’lib “Metodas” yo’l degan ma’noni bildiradi",
+    "B": "Yunoncha so’z bo’lib , “bola yetoklovchi” degan ma’noni anglatadi",
+    "C": "Lotin tilidan olingan bo’lib “tarbiyachi” degan ma’noni bildiradi",
+    "D": "Turk tilidan olingan bo’lib“Sensor tarbiya” degan ma’noni anglatadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Yosh xususiyatlari deb nimaga aytiladi?",
+    "A": "Maktabgacha yoshdagi bolalarning muayyan bir yosh davrga bo‘lgan anatomik ,fiziologik va psixologik xususiyatlarga aytiladi",
+    "B": "Maktabgacha yoshdagi bolalarning sog’ligini asrashga aytiladi",
+    "C": "Maktabgacha yoshdagi bolaning maktabga tayyorlik xaritasi tushuniladi",
+    "D": "Maktabgacha yoshdagi bolaning bilish faoliyati tushuniladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Rivojlanish markazlarining nomi to‘g’ri ko‘rsatilgan javobni toping.",
+    "A": "Qurish, konstruksiyalash va matematika, syujetli-rolli o‘yinlar va sahnalashtirish, til va nutq, fan va tabiat, san’at markazi",
+    "B": "Qurish, konstruksiyalash va matematika, san’at markazi,til va nutq",
+    "C": "Til va nutq, fan va tabiat, san’at markazi",
+    "D": "Qurish, konstruksiyalash va matematika, syujetli-rolli o‘yinlar va sahnalashtirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Markazlar kum tomonidan tashkil qilinadi?",
+    "A": "Guruh tarbiyachisi tomonidan",
+    "B": "Guruhning yordamchi tarbiyachisi tomonidan",
+    "C": "Mttning hamshirasi tomonidan",
+    "D": "Mttning uslubchisi tomonidan",
+    "javob": "A"
+  },
+  {
+    "savol": "Sayrni tarbiyachi nima asosida tashkil qiladi?",
+    "A": "Kun tartibi asosida",
+    "B": "MTTda kun tartibi bo‘lmaydi",
+    "C": "Direktorning ko‘rsatmasi asosida",
+    "D": "Uslubchining rejasi asosida",
+    "javob": "A"
+  },
+  {
+    "savol": "San’at markazidagi materiallar nomi to‘g’ri ko‘rsatilgan javobni toping.",
+    "A": "Rangli bo‘yoqlar ,rangli qalimlar,yelim, mo‘y qalamlar ,rangli va oq qog’ozlar noanaviy usuldagi tasviriy faoliyatlar uchun kerak bo‘ladigan turli gubkalar",
+    "B": "Kubiklar, buyuk siymolarning ramlari, qog’ozlar, kitoblar, turli gubkalar tashlandiq narsalar bo‘lishi mumkin",
+    "C": "Turli gubkalar tashlandiq narsalar bo‘lishi mumkin, buyuk siymolarning rasmlari",
+    "D": "Rangli bo‘yoqlar ,rangli qalimlar,har xil hajmdagi va kattalikdagi kubiklar",
+    "javob": "A"
+  },
+  {
+    "savol": "Oila turlari to‘g’ri ko‘rsatilgan javobni toping",
+    "A": "Tinch oilalar, yuzaki tinch oilalar, to‘liqmas oilalar",
+    "B": "To‘liqmas oilalar",
+    "C": "Oilada farzandlari 3tadan ortiq bo‘lgan oilalar",
+    "D": "To‘liqmas oilalar",
+    "javob": "A"
+  },
+  {
+    "savol": "Tinch oilalarga qanday oilalarni kiritish mumkin?",
+    "A": "Mehnat ijtimoiy, siyosiy va madaniy hayotda faol ishtrok etayotgan ko‘pchi1ik oilalar kiradi",
+    "B": "Oilada bolalarning imkoniyatlarining hisobga olinmasligi",
+    "C": "Oilada onaning o’rni balandligi",
+    "D": "Oilada otaning aytganing bo’lishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Mttda o’tkaziladigan ochiq eshiklar kuniga kim mas’ul?",
+    "A": "Mtt rahbari, uslubchi, ota-onalar, mtt nazorat kengashi a’zolari",
+    "B": "Tarbiyachi",
+    "C": "Hamshira",
+    "D": "metodist",
+    "javob": "A"
+  },
+  {
+    "savol": "To’liqmas oilalarga qanday oilalarni kiritish mumkin?",
+    "A": "Ota-onalardan birining bo’lmasligi",
+    "B": "Oilada bolalarning imkoniyatlarining hisobga olinmasligi",
+    "C": "Oilada onaning o’rni balandligi",
+    "D": "Oilada otaning aytganing bo’lishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Mo‘yqalam, akvarel,rangli qog’ozlar qaysi markazning materiallari ?",
+    "A": "San’at markazining",
+    "B": "Til va nutq markazining",
+    "C": "Syujetli rolli o‘yinlar markazining",
+    "D": "Qurish yasash va matematika",
+    "javob": "A"
+  },
+  {
+    "savol": "Tarbiyachining shaxsiy sifatlari to‘g’ri yozilgan javobni toping.",
+    "A": "Yuksak madaniyatlilik, keng dunyoqarash, pedagogik nazokat",
+    "B": "AKTdan o‘rinli foydalana olish",
+    "C": "Bolalar bilan birgalikda sher yodlash",
+    "D": "Didaktik o‘yinlarni faoliyatlar jarayonida qo‘llay bilish",
+    "javob": "A"
+  },
+  {
+    "savol": "Yuksak madaniyatlilik, keng dunyoqarash, pedagogik nazokat.Bu tarbiyachining qaysi sifatlariga kiradi?",
+    "A": "Tarbiyachining shaxsiy sifatlari",
+    "B": "Bolaning shaxsiy sifatlari",
+    "C": "Maktab o’quvchisining sifatlari",
+    "D": "O’smirlarning shaxsiy sifatlari",
+    "javob": "A"
+  },
+  {
+    "savol": "Guruh kun tartibini belgilashda nimaga e’tibor beriladi?",
+    "A": "Guruh yoshiga va MTTning ish vaqtiga qarab kun tartibi belgilanadi",
+    "B": "Guruh yoshi hisobga olingan holda kun tartibi belgilanadi",
+    "C": "Guruh ota-onalarning fikri hisobga olingan holda kun tartibi belgilanadi",
+    "D": "MTT direktorining fikrini hisobga olgan holda kun tartibi belgilanadi",
+    "javob": "A"
+  },
+  {
+    "savol": "2022 yil 4 fevraldan boshlab joriy qilingan dastur nomini toping",
+    "A": "Takomillashtirilgan “Ilk qadam ”Davlat o’quv dasturi",
+    "B": "Bolajon o’quv dasturi",
+    "C": "Qaqajon dasturi",
+    "D": "Gulgina to’plami",
+    "javob": "A"
+  },
+  {
+    "savol": "Umumiy o‘rta va o‘rta maxsus ta’lim. Ushbu talim turi ta’lim turlarining nechanchi turiga kiradi?",
+    "A": "2- turi",
+    "B": "5 turi",
+    "C": "6 -turi",
+    "D": "7-turi",
+    "javob": "A"
+  },
+  {
+    "savol": "San’at markazida qanday mashg’ulotlar o’tkaziladi ?",
+    "A": "Rasm, loy, applikasiya",
+    "B": "O’qish va yozish malakalari,rasm",
+    "C": "Harakatli o’yinlar,jismoniy mashqlar",
+    "D": "Son va sanoq haqida",
+    "javob": "A"
+  },
+  {
+    "savol": "Noanaviy usuldagi tasviriy faoliyatlar uchun kerak bo‘ladigan turli gubkalar.Qaysi markazning materiali?",
+    "A": "San’at",
+    "B": "Til va nutq",
+    "C": "Fan va tabiat",
+    "D": "Qurish yasash va matematika",
+    "javob": "A"
+  },
+  {
+    "savol": "Maktabgacha ta’lim tashkiloti metodistining bajaradigan ishlarini ko’rsating",
+    "A": "Maktabgacha ta'lim tashkilotidagi ta'lim-tarbiyaviy ishga metodik rahbarlikni amalga oshiradi, “Ilk qadam”dasturining bajarilishini ta'minlaydi va nazorat qiladi, ta'lim-tarbiyaviy ishning to‘g’ri uyushtirilishi uchun javobgar",
+    "B": "ota-onalar bilan hamkorlik uchun javobgar",
+    "C": "Ekskursiyalar tashkil qiladi",
+    "D": "Guruhda bolalarni sog’lom ovqatlantirishni tashkil etish, idish tovoqlarni va boshqa jihozlarni sanitar me’yorlari asosida tozalash va zararsizlantirish ishlarini sifatli amalga oshirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Maktabgacha talim tashkilotlarida harakatli o’yinlarni kim tashkil qiladi?",
+    "A": "Yosh guruhlari tarbiyachisi",
+    "B": "Metodist",
+    "C": "Ota-onalar",
+    "D": "Direktor",
+    "javob": "A"
+  },
+  {
+    "savol": "Maktabgacha ta’lim tashkilotlari .......turlar bo‘yicha tashkil etiladi.",
+    "A": "Umumiy turdagi maktabgacha ta’lim tashkiloti; Ko‘p tarmoqli ixtisoslashtirilgan maktabgacha ta’lim tashkiloti;Inklyuziv guruhlarga ega maktabgacha ta’lim tashkiloti;Qo‘shma turdagi maktabgacha ta’lim tashkiloti",
+    "B": "Umumiy turdagi maktabgacha ta’lim tashkiloti;Qo‘shma turdagi maktabgacha ta’lim tashkiloti",
+    "C": "Umumiy turdagi maktabgacha ta’lim tashkiloti; Ko‘p tarmoqli ixtisoslashtirilgan maktabgacha ta’lim tashkiloti",
+    "D": "Inklyuziv guruhlarga ega maktabgacha ta’lim tashkiloti;Qo‘shma turdagi maktabgacha ta’lim tashkiloti",
+    "javob": "A"
+  },
+  {
+    "savol": "“Ilk qadam” davlat o’quv dasturi necha bobdan iborat?",
+    "A": "8 bobdan iborat.",
+    "B": "2 bobdan iborat.",
+    "C": "5 bobdan iborat.",
+    "D": "7 bobdan iborat.",
+    "javob": "A"
+  },
+  {
+    "savol": "Bolaning rivojlanish xaritasi bir yilda necha marotaba to`ldiriladi?",
+    "A": "Uch marta dastlabki, oraliq va yakuniy",
+    "B": "2 ta maqsadli mazmunli",
+    "C": "13 ta ta’limiy, tarbiyaviy, rivojlantiruvchi",
+    "D": "2 ta ta’limiy tarbiyaviy",
+    "javob": "A"
+  },
+  {
+    "savol": "Frontal mashg’ulotlar qanday shakllarda tashkil qilinadi?",
+    "A": "An’anaviy, Noan’anaviy, Mujjassam",
+    "B": "An’anaviy",
+    "C": "Mujjassam",
+    "D": "Noan’anaviy",
+    "javob": "A"
+  },
+  {
+    "savol": "6-7 yoshdagi bolalar MTTning qaysi guruhiga to’g’ri keladi?",
+    "A": "Maktabga tayyorlov guruhi yoshi",
+    "B": "O’rta guruh",
+    "C": "Kichik guruh",
+    "D": "Katta guruh",
+    "javob": "A"
+  },
+  {
+    "savol": "Didaktika so’zining lu’gaviy ma’nosi nima?",
+    "A": "Yunoncha “didaktikos” „oʻrgatuvchi“, „taʼlim beruvchi” ma’nosini bildiradi",
+    "B": "”Bola yetaklovchi“ degan ma’noni anglatadi",
+    "C": "“Ijtimoiy hissiy rivojlanish” degan ma’noni anglatadi",
+    "D": "“Sensor tarbiya” degan ma’noni anglatadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Davlat talablarining asosiy vazifalari",
+    "A": "Maktabgacha yoshdagi bolalarning rivojlanishi,ta’lim tarbiyasi mazmuni va sifatiga qo’yiladigan talablarni belgilash",
+    "B": "Insonni ilgarigi tajribalari asosida faoliyat harakatini amalga oshirish",
+    "C": "Ta’lim sohasini tubdan isloh qilish",
+    "D": "Voqea va hodisalarning ifodalanishini o’rganish",
+    "javob": "A"
+  },
+  {
+    "savol": "Jismoniy madaniyat tushunchasi nima?",
+    "A": "Mehnat va turmushdagi batartiblik, ozodalik, chiniqtirish, jismoniy mashqlar",
+    "B": "Kun tartibiga rioya qilish",
+    "C": "Shaxsiy gigiyenaga rioya qilish",
+    "D": "Ovqatlantirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Sensor tarbiyaning asosiy usuli nima?",
+    "A": "Tekshirish",
+    "B": "so'zlash",
+    "C": "ko'rsatish",
+    "D": "tushuntirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Gigienik omillar necha turga bo‘linadi?",
+    "A": "Gigienik omillar ikki turga boʻlinadi",
+    "B": "Gigienik omillar 3 turga bo’linadi",
+    "C": "Gigienik omillar 4 turga bo’linadi",
+    "D": "Gigienik omillar turlarga ajratilmaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Gigienik omillar 2 turga bo’linadi .Ular qaysilar?",
+    "A": "Umumiy madaniy gigienik omillar. Shaxsiy madaniy gigiyenik omillar",
+    "B": "madaniy gigienik omillar",
+    "C": "shaxsiy madaniy gigiyenik omillar",
+    "D": "Bolaning 2 soat quyosh nuri ta’ sirida ushlab turish",
+    "javob": "A"
+  },
+  {
+    "savol": "Shaxsiy madaniy gigiyenik omillarga qanday omillar kiradi?",
+    "A": "Bolaning tirnoqlarining olinganligi, o‘zining shaxsiy sochiqlarining bo‘lishi",
+    "B": "Bolalarning umuminsoniy qadriyatlar bilan tanishtirilganligi",
+    "C": "Bolalarning bayramlardagi ishtirok etishlari",
+    "D": "Xonaning kengligi, yoritilishi,yorug’ligi, shkaflarning bolaning bo‘yiga mosligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Guruh ota-onalar majlislariga kim mas’ul?",
+    "A": "Guruh ota-onalar majlislariga guruh tarbiyachisi mas’ul",
+    "B": "Guruh ota-onalar majlislariga MTT hamshirasi mas’ul",
+    "C": "Guruh ota-onalar majlislariga MTT direktori mas’ul",
+    "D": "Guruh ota-onalar majlislariga yordamchi tarbiyachi mas’ul",
+    "javob": "A"
+  },
+  {
+    "savol": "Maktabgacha ta’lim tashkilotlarida umumiy ota-onalar majlislari yilda necha marta o‘tkaziladi?",
+    "A": "Umumiy ota-onalar majlislari yilda 2 marta o‘tkaziladi",
+    "B": "Umumiy ota-onalar majlislari yilda 3marta o‘tkaziladi",
+    "C": "Umumiy ota-onalar majlislari yilda 4marta o‘tkaziladi",
+    "D": "Umumiy ota-onalar majlislari har chorakda o‘tkaziladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ertalabki badantarbiya komplekslari kim tomonidan rejalshtiriladi?",
+    "A": "Ertalabki badantarbiya komplekslari tarbiyachi tomonidan rejalashtiriladi",
+    "B": "Ertalabki badantarbiya komplekslari jismoniy tarbiya yo‘riqchisi tomonidan rejalashtiriladi",
+    "C": "Ertalabki badantarbiya komplekslari hamshira tomonidan rejalashtiriladi",
+    "D": "Ertalabki badantarbiya komplekslari direktor tomonidan rejalashtiriladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Bola huquqlari to‘g’risidagi Konvensiya qachon qabul qilingan?",
+    "A": "1989-yil 20 noyabrda qabul qilingan",
+    "B": "1991yil 22 noyabrda qabul qilingan",
+    "C": "1993 yil 20 noyabrda qabul qilingan",
+    "D": "2022 yil 20 noyabrda qabul qilingan",
+    "javob": "A"
+  },
+  {
+    "savol": "Umumiy madaniy gigienik omillarga qanday omillar kiradi?",
+    "A": "Xonaning kengligi, yoritilishi,yorug’ligi, shkaflarning bolaning bo‘yiga mosligi",
+    "B": "Bolaning tirnoqlarining olinganligi, o‘zining shaxsiy sochiqlarining bo‘lishi",
+    "C": "Bolalarning qadriyatlar bilan tanishtirilishi",
+    "D": "Kun tartibiga qat’iy rioya qilinishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Xonaning kengligi, yoritilishi,yorug’ligi, shkaflarning bolaning bo‘yiga mosligi.Qanday omillarga kiradi?",
+    "A": "Umumiy madaniy gigienik omillarga",
+    "B": "Bolaning tirnoqlarining olinganligi, o‘zining shaxsiy sochiqlarining bo‘lishi",
+    "C": "Bolalarning qadriyatlar bilan tanishtirilishi",
+    "D": "Kun tartibiga qat’iy rioya qilinishi",
+    "javob": "A"
+  },
+  {
+    "savol": "3-4 yoshdagi bolalar MTTning qaysi guruhiga to’g’ri keladi?",
+    "A": "Kichik guruh",
+    "B": "O’rta guruh",
+    "C": "Maktabga tayyorlov guruh",
+    "D": "Katta guruh",
+    "javob": "A"
+  },
+  {
+    "savol": "“Maktabgacha ta’lim va tarbiya to‘g’risida”gi qonun nechta bobdan iborat?",
+    "A": "Maktabgacha ta’lim tarbiya to‘g’risidagi qonun 11 bobdan iborat",
+    "B": "Maktabgacha ta’lim tarbiya to‘g’risidagi qonun 9 bobdan iborat",
+    "C": "Maktabgacha ta’lim tarbiya to‘g’risidagi qonun 8 bobdan iborat",
+    "D": "Maktabgacha ta’lim tarbiya to‘g’risidagi qonun 5 bobdan iborat",
+    "javob": "A"
+  },
+  {
+    "savol": "1918-yilda Toshkentning sobiq eski shahar qismida o‘zbek bolalari uchun nechta bog’cha ochildi?",
+    "A": "4 ta bog‘cha ochildi",
+    "B": "2 ta bog’cha ochildi",
+    "C": "6 ta bog’cha ochildi",
+    "D": "3 ta bog’cha ochilgan",
+    "javob": "A"
+  },
+  {
+    "savol": "Bolalarning harakat faolligini ta’minlash maqsadida MTTlarda qanday ishlar amalga oshiriladi?",
+    "A": "Ikki marta sayrga olib chiqiladi, harakatli o‘yinlar o‘ynatiladi",
+    "B": "Bir marta sayrga olib chiqiladi, tushuntirish ishlari olib boriladi",
+    "C": "Qish faslida sayrga olb chiqilmaydi, guruh xonasida o’ynatiladi",
+    "D": "Kuz faslida olib chiqilmaydi,kuzga bolaning harakat faolligi hisobga olinmaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Direktorning kasbiy sifatlari qaysi bandda to'g'ri ko'rsatilgan?",
+    "A": "Aniqlilik, hamkorlik, demokratik",
+    "B": "Yakkaboshchilik, tabiiy-genetik, sofdil",
+    "C": "Ma'naviy-irodali, tashkilotchilik, pedagogik sifatlar",
+    "D": "Kadrlarni ilgari surish",
+    "javob": "A"
+  },
+  {
+    "savol": "11bobdan iborat qonun nomi ko’rsatilgan javobni toping",
+    "A": "Maktabgacha ta’lim tarbiya to‘g’risidagi qonun",
+    "B": "Bola huquqlari to’g’risidagi konvensiya",
+    "C": "Ta’lim to’g’risidagi qonun",
+    "D": "Tarbiyachining ish hujjatlari",
+    "javob": "A"
+  },
+  {
+    "savol": "Insonning rivojlanish davri qachondan boshlanadi?",
+    "A": "Insonning rivojlanish davri ona qornidan boshlanadi",
+    "B": "Insonning rivojlanish davri 3 yoshdan boshlanadi",
+    "C": "Insonning rivojlanish davri 5 yoshdan boshlanadi",
+    "D": "Insonning rivojlanish davri maktabga borgandan so‘ng boshlanadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Kompetensiya so’zining lug’aviy ma’nosi to’g’ri ko’rsatilgan javobni toping",
+    "A": "Lotincha “competo” so‘zidan olingan bo‘lib, “erishaman, muvofiqman” ma’nolarini beradi",
+    "B": "Inglizcha so’zdan olingan bo’lib “yaratish” degan ma’noni bildiradi",
+    "C": "Ruscha so’zdan olingan bo’lib “ijodkor shaxs “degan ma’noni bildiradi",
+    "D": "Lotincha so’zdan olingan bo’lib “harakat” degan ma’noni bildiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Sensor so'zi nimani anglatadi?",
+    "A": "Sezgi, idrokning rivojlanishi",
+    "B": "sezish qobiliyati",
+    "C": "Idrokning rivojlanishi",
+    "D": "hamma javoblar to'g'ri",
+    "javob": "A"
+  },
+  {
+    "savol": "Axloqiy tarbiyaning asosiy vositalari qaysilar?",
+    "A": "Bayramlar, ijtimoiy hayot voqealari, bolalar badiiy adabiyoti, musiqa, tasviriy san’at, radio, televideniye",
+    "B": "Madaniy xulq-atvor",
+    "C": "Axloqiy his-tuyg'ular",
+    "D": "Axloqiy ong",
+    "javob": "A"
+  },
+  {
+    "savol": "Qanday axloqiy sifatlar bolalarda shakllantiriladi?",
+    "A": "Insonparvarlik, kamtarlik, to'g'rilik, halollik, quvnoqlik",
+    "B": "Odoblilik",
+    "C": "Insonparvarlik, kamtarlik",
+    "D": "Madaniy gigiyenik malakalar",
+    "javob": "A"
+  },
+  {
+    "savol": "Bolaning his-tuyg'usi va munosabatlarini rag'batlantirish usullari qaysilar?",
+    "A": "Namuna ko'rsatish, rag'batlantirish",
+    "B": "Xulq madaniyatini tarbiyalash",
+    "C": "Ijobiy sifatlarni tarbiyalash",
+    "D": "Maqtash, ma'qullash",
+    "javob": "A"
+  },
+  {
+    "savol": "Bolalar muassasalarida navbatchilik qaysi guruhdan boshlanadi?",
+    "A": "O'rta guruhdan",
+    "B": "Kichik guruhdan",
+    "C": "Katta guruhdan",
+    "D": "Tayyorlov guruhdan",
+    "javob": "A"
+  },
+  {
+    "savol": "Maktabgacha yoshdagi bolalar qanday mehnat turlariga jalb qilinadi?",
+    "A": "O’z-o’ziga xizmat qilish, xo’jalik maishiy mehnat, tabiatdagi mehnat qo’l mehnati",
+    "B": "O'z-o'ziga xizmat qilish",
+    "C": "Bolalarni kattalar bilan birgalikdagi mehnati",
+    "D": "Tabiat qo'ynidagi mehnat",
+    "javob": "A"
+  },
+  {
+    "savol": "Mehnat jarayonini rejalashtirish nimalarni o'z ichiga oladi?",
+    "A": "Mehnat faoliyati uchun kerakli ish qurollarini tayyorlab olish,maqsad qo’yish",
+    "B": "Maqsad qo'yish",
+    "C": "Mehnat malakasini o'rgatish, mehnat faoliyati sabablarini shakllantirish",
+    "D": "Natijani aniqlab olish, ish joyini yig'ib qo'yish",
+    "javob": "A"
+  },
+  {
+    "savol": "Bir oy uchun nechta ertalabki badantarbiya komplekslari rejalashtiriladi?",
+    "A": "Bir oy uchun 2 ta ertalabki badantarbiya komplekslari rejalashtiriladi",
+    "B": "Bir oy uchun 4 ta ertalabki badantarbiya komplekslari rejalashtiriladi",
+    "C": "Bir oy uchun 3ta ertalabki badantarbiya komplekslari rejalashtiriladi",
+    "D": "Bir oy uchun 6 ta ertalabki badantarbiya komplekslari rejalashtiriladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Bolalarda kreativlikni rivojlantirish uchun tarbiyachi nimalarga amal qilishi kerak?",
+    "A": "Bolalarning savollariga javob berishi, realizm talab qilmasligi kerak",
+    "B": "Bola bergan savollarga mashg’ulot vaqtida javob berishi kerak",
+    "C": "Ikkinchi tilga o‘rgatishi kerak",
+    "D": "Guruh bo‘lib ishlashga jalb qilishi kerak",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi markazda tajribalar o‘tkaziladi?",
+    "A": "Fan va tabiat",
+    "B": "Syujetli rolli-o‘yinlar va sahnalashtirish",
+    "C": "San’at",
+    "D": "Til va nutq",
+    "javob": "A"
+  },
+  {
+    "savol": "Maktabgacha ta’lim tashkilotlarida birinchi sayr kunning qaysi qismida o‘tkaziladi?",
+    "A": "Maktabgacha ta’lim tashkilotlarida birinchi sayr kunning birinchi qismida o‘tkaziladi",
+    "B": "Maktabgacha ta’lim tashkilotlarida birinchi sayr kunning ikkinchi qismida o‘tkaziladi",
+    "C": "Maktabgacha ta’lim tashkilotlarida birinchi sayr tushlikdan so‘ng o‘tkaziladi",
+    "D": "Maktabgacha ta’lim tashkilotlarida birinchi sayr o‘tkazilmaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Maktabgacha ta’lim tashkilotlarida ikkinchi sayr qachon amalga oshiriladi?",
+    "A": "Ikkinchi sayr kunning ikkinchi yarmida amalga oshiriladi",
+    "B": "Ikkinchi sayr amalga oshirilmaydi",
+    "C": "Ikkinchi sayr bolalar ovqatlanib bo ‘lgandan so‘ng amalga oshiriladi",
+    "D": "Ikkinchi sayr kunning birinchi yarmida amalga oshiriladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Tarbiyachi tomonidan tashkil qilinadigan frontal mashg’ulotlar nomini toping",
+    "A": "Matematika, nutq o‘stirish, savodga o‘rgatish",
+    "B": "Badiiy adabiyot, jismoniy tarbiya, musiqa",
+    "C": "Jismoniy tarbiya,matematika",
+    "D": "Musiqa ,jismoniy tarbiya,ikkinchi tilga o‘rgatish",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq o‘stirish, elementar matematika, savodga o‘rgatish.Bu mashg’ulotlar qaysi shaklda o’tkaziladi?",
+    "A": "Frontal",
+    "B": "Markazlarga bo’lib",
+    "C": "Guruhlarga bo’lib",
+    "D": "Bola bilan yakka ishlanadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ochiq eshiklar kunida kimlar qatnashadi va yiliga necha marta o'tkaziladi?",
+    "A": "Ota-onalar uchun tashkil etiladi, yiliga 1-2 marta o'tkaziladi",
+    "B": "MTT uchun bir yilda bir marta",
+    "C": "Vazirlikdan vakil qatnashadi - bir oyda bir marta",
+    "D": "Mudiralar uchun tashkil etiladi, har oyda bir marta",
+    "javob": "A"
+  },
+  {
+    "savol": "Rangli qalam qaysi markazning materiali",
+    "A": "San’at",
+    "B": "Til va nutq",
+    "C": "Fan va tabiat",
+    "D": "Syujetli rolli o’yinlar va Sahnalashtirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Maktabgacha yoshdagi bolalarni tabiat bilan tanishtirish yo’llari qaysilar?",
+    "A": "Mashg’ulotlar o’tkazish, o’yinlar o’ynash,ekskursiya, mehnat",
+    "B": "Kundalik ishlar, mehnat",
+    "C": "Kundalik ishlar, mehnat",
+    "D": "Ta’lim-tarbiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Aqliy tarbiyaning vazifalari to‘g’ri ko‘rsatilgan javobni toping",
+    "A": "Sensor tarbiya, fikrlash faoliyatni rivojlantirish ,nutqni o‘stirish",
+    "B": "matematik tushunchalarni shakllantirish orqali bolalarni aqliy tarbiyalash",
+    "C": "Bolalarga odob va axloq qoidalarini o‘rgatish",
+    "D": "Bolaning atrof -muhitga nisbatan qiziqishini orttirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Birinchi sayr uchun kun tartibida necha minut ajratilgan?",
+    "A": "60 minut",
+    "B": "45 minut",
+    "C": "10 minut",
+    "D": "20 minut",
+    "javob": "A"
+  },
+  {
+    "savol": "“Creatio” – “yaratish”, “ijodkor” - degan ma'nolarni anglatadigan so’zni toping",
+    "A": "Kreativlik",
+    "B": "Fidokorlik",
+    "C": "Qobiliyat",
+    "D": "Ko’nikma",
+    "javob": "A"
+  },
+  {
+    "savol": "Mashg’ulot kim tomonidan tashkil qilinadi?",
+    "A": "Tarbiyachi tomonidan",
+    "B": "Yordamchi tarbiyachi tomonidan",
+    "C": "Hamshira tomonidan",
+    "D": "Metodist tomonidan",
+    "javob": "A"
+  },
+  {
+    "savol": "Bola kim?",
+    "A": "Butun dunyoda 0 yoshdan 18 yoshgacha bo‘lgan shaxslar bola deyiladi",
+    "B": "Bola individ bo‘lib hisoblanadi",
+    "C": "Maktabgacha ta’lim tashkilotlariga qatnaydigan bolalarga aytiladi",
+    "D": "1 yoshgacha bo‘lgan shaxslar bola deyiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq o‘stirish, elementar matematika, savodga o‘rgatish.Ushbu mashg’ulotlar qanday mashg’ulotlar?",
+    "A": "Frontal",
+    "B": "Markazlardagi faoliyat",
+    "C": "Mujassam",
+    "D": "An’anaviy",
+    "javob": "A"
+  },
+  {
+    "savol": "Aqliy tarbiya nima?",
+    "A": "Ta'lim oluvchining intellekti, bilish im koniyatlarini, iqtidor va qobiliyatlarini rivojlantirish tizimi tushuniladi",
+    "B": "Jismoniy tarbiya qonuniyatlari v a vazifalari bilan bog`liqlikda maxsus tashkil etiluvchi hamda ongli ravishda bajarishga qaratilgan harakatlar yig‘indisi tushuniladi",
+    "C": "Bolalarda tabiatdagi, san’atdagi go‘zallikni ko‘ra olish va his etish, go‘zallikni anglashga ehtiyojni tarbiyalash",
+    "D": "Xilma-xil sanat turlariga oid badiiy ko’nikmalarni shakllantirish",
+    "javob": "A"
+  },
+  {
+    "savol": "3-4 yoshli bolaning vazni va bo‘yi me’yori to‘g’ri ko‘rsatilgan javobni toping",
+    "A": "Bu davrda uning og‘irligi 14-15 kg, bo‘yi 90-95 sm. ga yetadi",
+    "B": "Bu davrda uning og’irligi 9-8 kg, bo‘yi 80-85 sm ga yetadi",
+    "C": "Bu davrda uning og’irligi 9-8 kg, bo ‘yi 90-95 sm ga yetadi",
+    "D": "Bu davrda uning og’irligi 14-15 kg 70-65 sm ga yetadi",
+    "javob": "A"
+  },
+  {
+    "savol": "6-7 yosh bolalarning rivojlanish xususiyatlari",
+    "A": "Bu davrda bolaning bo’yi 120 sm ga og’irligi 22-24 kg bo’ladi",
+    "B": "Bu davrda bolaning bo ‘yi 100 sm, 18-17 kg bo ‘ladi",
+    "C": "Bu davrda bolaning bo‘yi 80 sm, 18-17 kg bo‘ladi",
+    "D": "Bu davrda bolaning bo‘yi 70 sm, 15-16 kg bo‘ladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Bola huquqlari to’g’risidagi Konvensiyani bajarish uchun O’zbekistonda birinchi milliy ma’ruza qachon tayyorlandi?",
+    "A": "1997 yilda",
+    "B": "1998 yilda",
+    "C": "1978 yilda",
+    "D": "1956 yilda",
+    "javob": "A"
+  },
+  {
+    "savol": "Bola huquqlari to’g’risidagi Konvensiya necha qism va moddadan iborat?",
+    "A": "Konvensiya muqaddima, 3 qism, 54 moddadan iborat",
+    "B": "Konvensiya 11 bob 68 moddadan iborat",
+    "C": "Konvensiya 8 bob 78 moddadan iborat",
+    "D": "Konvensiya 3 bob 78 moddadan iborat",
+    "javob": "A"
+  },
+  {
+    "savol": "Bola huquqlari to’g’risidagi Konvensiyani saqlovchisi etib kim tayinlandi?",
+    "A": "Birlashgan Millatlar Tashkilotining Bosh kotibi ushbu Konvensiyaning saqlovchisi etib tayinlanadi",
+    "B": "YUNESKO Konvensiyaning saqlovchisi etib tayinlanadi",
+    "C": "AQSH Konvensiyaning saqlovchisi etib tayinlanadi",
+    "D": "YUNISEF Konvensiyaning saqlovchisi etib tayinlanadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Birlashgan Millatlar Tashkilotining Bosh kotibining ismi sharifi ko’rsatilgan javobni toping",
+    "A": "Antonio Guterish",
+    "B": "Fridrix Frebel",
+    "C": "L.S.Vigotskiy",
+    "D": "Ole Kirk Kristiansen",
+    "javob": "A"
+  },
+  {
+    "savol": "Maktabga tayyorlik xaritasi qaysi guruh bolalari uchun to ‘ldiriladi?",
+    "A": "Maktabga tayyorlov guruhi bolalari uchun to‘ldiriladi",
+    "B": "Maktabga tayyorlik xaritasi to‘ldirilmaydi, rivojlanish xaritasi to‘ldiriladi",
+    "C": "Maktabga tayyorlik xaritasi kichik guruh bolalari uchun to‘ldiriladi",
+    "D": "Maktabga tayyorlik xaritasi o ‘rta guruh bolalari uchun to‘ldiriladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ertalabki qabulni kim o`tkazadi?",
+    "A": "Guruh tarbiyachisi",
+    "B": "Ota onalar ishtirokida o`tkaziladi",
+    "C": "Hamshira ishtirokida o`tkaziladi",
+    "D": "Musiqa rahbarining rahbarligida",
+    "javob": "A"
+  },
+  {
+    "savol": "Bolaning maktabgacha ta’lim tashkilotiga o’z vaqtida kelib ketishini kim ta’minlaydi?",
+    "A": "Ota-ona",
+    "B": "MTT direktori",
+    "C": "Hamshira",
+    "D": "Metodist",
+    "javob": "A"
+  },
+  {
+    "savol": "Rangli qog’ozlar qaysi markazning materiali?",
+    "A": "San’at markazining",
+    "B": "Syujetli rolli o’yinlar va sahnalashtirish markazining",
+    "C": "Til va nutq markazining",
+    "D": "Fan va tabiat markazining",
+    "javob": "A"
+  },
+  {
+    "savol": "Syujetli-rolli o‘yin o‘z xususiyatiga ko‘ra qanday faoliyat?",
+    "A": "Syujetli-rolli o‘yin o‘z xususiyatiga ko‘ra aks ettiruvchi faoliyatdir",
+    "B": "Syujetli-rolli o‘yin faqt kichik guruh bolalari o`ynaydigan o`yin",
+    "C": "Syujetli-rolli o‘yin qoidalari bor o`yin",
+    "D": "Syujetli-rolli o‘yin kattalar o`ynaydigan o`yin",
+    "javob": "A"
+  },
+  {
+    "savol": "Maktabgacha yoshdagi bolalarning asosiy faoliyat turini ko`rsating",
+    "A": "O‘yin asosiy faoliyat turi bo’lib hisoblanadi",
+    "B": "Mehnat asosiy faoliyat turi bo’lib hisoblanadi",
+    "C": "Raqsga tushish asosiy faoliyat turi bo’lib hisoblanadi",
+    "D": "Qo`shiq aytish asosiy faoliyat turi bo’lib hisoblanadi",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘yin asosiy faoliyat turi bo’lib hisoblanadigan yosh davrini ko’rsating",
+    "A": "Maktabgacha yosh",
+    "B": "Maktab yoshi",
+    "C": "O’smirlik",
+    "D": "O’spirinlik",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘rta guruh yoshi to‘g’ri ko‘rsatilgan javobni toping",
+    "A": "4-5 yoshgacha",
+    "B": "6-7 yoshgacha",
+    "C": "5 yoshgacha",
+    "D": "5-6 yoshgacha",
+    "javob": "A"
+  },
+  {
+    "savol": "Kichik guruh yoshi to‘g’ri ko‘rsatilgan javobni toping",
+    "A": "3-4 yoshgacha",
+    "B": "5-6 yoshgacha",
+    "C": "4-5 yoshgacha",
+    "D": "6 7-yoshgacha",
+    "javob": "A"
+  },
+  {
+    "savol": "Katta guruh yoshi to‘g’ri ko‘rsatilgan javobni toping",
+    "A": "5-6 yoshgacha",
+    "B": "3-4 yoshgacha",
+    "C": "7-8 yoshgacha",
+    "D": "6-7 yoshgacha",
+    "javob": "A"
+  },
+  {
+    "savol": "Maktabga tayyorlov guruhi yoshi to‘g’ri ko‘rsatilgan javobni toping.",
+    "A": "6-7 yoshgacha",
+    "B": "5-6 yoshgacha",
+    "C": "4-5 yoshgacha",
+    "D": "3-4 yoshgacha",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘zbekistonda milliy pul so‘m qachon joriy etildi",
+    "A": "1994-yil 1-iyuldan boshlab O‘zbekistonda milliy pul so‘m joriy etildi",
+    "B": "1991 yil 1-sentabrdan boshlab O‘zbekistonda milliy pul so‘m joriy etildi",
+    "C": "1992 yil 2-avgustdan boshlab O‘zbekistonda milliy pul so‘m joriy etildi",
+    "D": "1997 yil 29 avgustdan boshlab O‘zbekistonda milliy pul so‘m joriy etildi",
+    "javob": "A"
+  },
+  {
+    "savol": "Yangi tahrirdagi O’zbekiston Respublikasining Konstitutsiyasi nechta moddadan iborat?",
+    "A": "155 moddadan iborat",
+    "B": "128 moddadan iborat",
+    "C": "155 moddadan iborat",
+    "D": "155 moddadan iborat",
+    "javob": "A"
+  },
+  {
+    "savol": "Yangi tahrirdagi O’zbekiston Respublikasining Konstitutsiyasi necha bo‘lim,necha bobdan iborat?",
+    "A": "6 bo‘lim, 27 bobdan iborat",
+    "B": "5 bo’lim, 13 bobdan iborat",
+    "C": "7 bo’lim,10 bobdan iborat",
+    "D": "3 bo’lim,11 bobdan iborat",
+    "javob": "A"
+  },
+  {
+    "savol": "Rivojlantiruvchi muhitning vazifasi…",
+    "A": "Shaxsga yo’naltirilgan ta’limni amalga oshirish",
+    "B": "Shaxsni shaxsiy sifatlarini shakllantirishga ko’maklashish",
+    "C": "Ta’limni yangi edagogic texnologiyalar bilan boyitish",
+    "D": "Ta’limni yaxshilash bo’yicha yangi tadqiqotlar olib borish",
+    "javob": "A"
+  },
+  {
+    "savol": "Konstitutsiya saboqlari qaysi guruhdan boshlab shakllantiriladi?",
+    "A": "Katta guruhdan boshlab",
+    "B": "Kichik guruhdan boshlab",
+    "C": "O’rta guruhdan boshlab",
+    "D": "Konstitutsiya saboqlari maktabgacha yoshdagi bolalarda shakllantirilmaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Mavzuli rejalashtirish qo’llanmasidan nima maqsadda foydalaniladi?",
+    "A": "Markazlardagi faoliyatlarni tashkil qilishda foydalaniladi",
+    "B": "Markazlar uchun hech narsa talab qilinmaydi",
+    "C": "Metodistning ko’rsatmasiga asosan",
+    "D": "Direktorning ko’rsatmasiga asosan",
+    "javob": "A"
+  },
+  {
+    "savol": "Frontal mashg’ulotlar uchun nima yoziladi?",
+    "A": "Faoliyat ishlanmasi",
+    "B": "Ishlanma yozilmaydi",
+    "C": "Markazlar bilan ishlaganda",
+    "D": "Kichik guruhlarda mashg’ulot o’tganda",
+    "javob": "A"
+  }
+]
