@@ -1,0 +1,1202 @@
+[
+  {
+    "savol": "Ontogenez tushunchasi nimani anglatadi?",
+    "A": "Insonning individual rivojlanish jarayoni",
+    "B": "Jamiyat tarixiy taraqqiyoti",
+    "C": "Tilning shakllanishi",
+    "D": "Fiziologik reflekslar yig‘indisi",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq ontogenezi nima?",
+    "A": "Bola nutqining tug‘ilgandan shakllanishi",
+    "B": "Yozma nutqni o‘rganish",
+    "C": "So‘zlarni yodlash jarayoni",
+    "D": "Talaffuz mashqlari tizimi",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq rivojlanishiga ta’sir etuvchi asosiy omillar qaysi?",
+    "A": "Biologik, psixologik va ijtimoiy omillar",
+    "B": "Iqlim va geografik omillar",
+    "C": "Ovqatlanish tartibi",
+    "D": "Genetik omillar",
+    "javob": "A"
+  },
+  {
+    "savol": "Gugullash bosqichining asosiy belgisi nima?",
+    "A": "Intonatsiyali tovush chiqarish",
+    "B": "Grammatik gap tuzish",
+    "C": "So‘z yozish",
+    "D": "Murakkab fikr bayoni",
+    "javob": "A"
+  },
+  {
+    "savol": "Lallalash davrida bola nima qiladi?",
+    "A": "Bo‘g‘inlarni takrorlaydi",
+    "B": "Matn tuzadi",
+    "C": "O‘qishni o‘rganadi",
+    "D": "Yozishni mashq qiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "So‘z davrining xususiyati nimada?",
+    "A": "Bir so‘z orqali ma’no ifodalanadi",
+    "B": "Murakkab gaplar tuziladi",
+    "C": "Hikoya yoziladi",
+    "D": "Nutq to‘xtaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Sodda gap davrida qanday o‘zgarish kuzatiladi?",
+    "A": "Ikki-uch so‘zli gaplar paydo bo‘ladi",
+    "B": "Tovush chiqariladi",
+    "C": "Nutq yo‘qoladi",
+    "D": "Yozuv shakllanadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Bog‘langan nutq nimani bildiradi?",
+    "A": "Fikrni izchil bayon qilish qobiliyati",
+    "B": "Tasodifiy so‘zlar yig‘indisi",
+    "C": "Tovushlar ketma-ketligi",
+    "D": "Harakat signallari",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq rivojida biologik omil nimani o‘z ichiga oladi?",
+    "A": "Asab tizimi va nutq apparatini",
+    "B": "O‘yin faoliyatini",
+    "C": "Ta’lim metodlarini",
+    "D": "Kitob o‘qishni",
+    "javob": "A"
+  },
+  {
+    "savol": "Psixologik omillar tarkibiga nima kiradi?",
+    "A": "Idrok, xotira va tafakkur",
+    "B": "Mushak harakati",
+    "C": "Nafas olish",
+    "D": "Ovqat hazm qilish",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq va idrok o‘rtasidagi bog‘liqlik nimada?",
+    "A": "Idrok nutq shakllanishiga asos bo‘ladi",
+    "B": "Nutq idrokni kamaytiradi",
+    "C": "Ular mustaqil rivojlanadi",
+    "D": "Ular qarama-qarshi",
+    "javob": "A"
+  },
+  {
+    "savol": "Tafakkur nutqda qanday rol o‘ynaydi?",
+    "A": "Fikrni shakllantiradi va ifodalaydi",
+    "B": "Tovush hosil qiladi",
+    "C": "Nafasni boshqaradi",
+    "D": "Harakatni kuchaytiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Xotira nutq jarayonida nima vazifa bajaradi?",
+    "A": "So‘zlarni eslab qolishni ta’minlaydi",
+    "B": "Ovoz chiqarishni kuchaytiradi",
+    "C": "Harakatni nazorat qiladi",
+    "D": "Uyquni boshqaradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Diqqat nutqqa qanday ta’sir qiladi?",
+    "A": "Nutqni aniqlik va izchillikka olib keladi",
+    "B": "Nutqni buzadi",
+    "C": "Nutqni sekinlashtiradi",
+    "D": "Nutqni yo‘q qiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq hosil bo‘lishining birinchi bosqichi nima?",
+    "A": "Nafas olish jarayoni",
+    "B": "So‘z tanlash",
+    "C": "Gap tuzish",
+    "D": "Matn yozish",
+    "javob": "A"
+  },
+  {
+    "savol": "Ovoz hosil bo‘lishi qayerda yuz beradi?",
+    "A": "Ovoz bog‘lamlarida",
+    "B": "Miya po‘stlog‘ida",
+    "C": "Tishlarda",
+    "D": "Burunda",
+    "javob": "A"
+  },
+  {
+    "savol": "Artikulyatsiya jarayonida qaysi organlar faol?",
+    "A": "Til, lab va tanglay",
+    "B": "Yurak va o‘pka",
+    "C": "Ko‘z va quloq",
+    "D": "Mushak va suyak",
+    "javob": "A"
+  },
+  {
+    "savol": "Broka markazining vazifasi nima?",
+    "A": "Nutq harakatlarini boshqarish",
+    "B": "Tovushni eshitish",
+    "C": "Rangni ajratish",
+    "D": "Harakatni tezlashtirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Vernike markazi nimaga javob beradi?",
+    "A": "So‘zlarni tushunishga",
+    "B": "Nafasga",
+    "C": "Harakatga",
+    "D": "Uyquga",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq apparati qanday tizim?",
+    "A": "Murakkab fiziologik tizim",
+    "B": "Psixologik tizim",
+    "C": "Mexanik tizim",
+    "D": "Tasodifiy tizim",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutqning psixofiziologik mohiyati nimada namoyon bo‘ladi?",
+    "A": "Miya, asab tizimi va nutq apparati hamkorligida",
+    "B": "Mushak faoliyatida",
+    "C": "Yozma belgilar orqali",
+    "D": "Tashqi harakatlarda",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutqning asosiy vazifasi nima?",
+    "A": "Fikr almashish va muloqot qilish",
+    "B": "Harakatni boshqarish",
+    "C": "Nafasni tartibga solish",
+    "D": "Uyquni yaxshilash",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq qaysi psixik faoliyat turiga kiradi?",
+    "A": "Oliy psixik faoliyatga",
+    "B": "Fiziologik refleksga",
+    "C": "Mexanik jarayonga",
+    "D": "Tasodifiy holatga",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq va tafakkur o‘rtasidagi munosabat qanday?",
+    "A": "O‘zaro bog‘liq va bir-birini to‘ldiradi",
+    "B": "Bir-biriga zid",
+    "C": "Aloqasiz",
+    "D": "Tasodifiy",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutqning ravonligi nimaga bog‘liq?",
+    "A": "Diqqatning jamlanganligiga",
+    "B": "Haroratga",
+    "C": "Mushak kuchiga",
+    "D": "Uyquga",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq jarayonida hissiyot qanday rol o‘ynaydi?",
+    "A": "Nutq ohangi va ifodasiga ta’sir qiladi",
+    "B": "Nutqni to‘xtatadi",
+    "C": "Nutqni kamaytiradi",
+    "D": "Nutqni buzmaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutqning irodaviy tomoni nimani bildiradi?",
+    "A": "Ongli nazorat va rejalashtirishni",
+    "B": "Nafasni boshqarishni",
+    "C": "Harakatni oshirishni",
+    "D": "Uyquni tartibga solishni",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq shaxs rivojiga qanday ta’sir qiladi?",
+    "A": "Ijtimoiy moslashuvni kuchaytiradi",
+    "B": "Harakatni kamaytiradi",
+    "C": "Nafasni o‘zgartiradi",
+    "D": "Uyquni oshiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq hosil bo‘lishida miya qanday vazifa bajaradi?",
+    "A": "Jarayonni boshqaradi va nazorat qiladi",
+    "B": "Tovush chiqaradi",
+    "C": "Nafasni to‘xtatadi",
+    "D": "Harakatni kamaytiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq jarayonida nafas qanday rol o‘ynaydi?",
+    "A": "Ovoz hosil bo‘lishining asosini yaratadi",
+    "B": "So‘z tanlaydi",
+    "C": "Gap tuzadi",
+    "D": "Fikr yaratadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ovoz balandligi nimaga bog‘liq?",
+    "A": "Ovoz bog‘lamlari holatiga",
+    "B": "Ko‘z faoliyatiga",
+    "C": "Mushak kuchiga",
+    "D": "Haroratga",
+    "javob": "A"
+  },
+  {
+    "savol": "Artikulyatsiya aniqligi nimani ta’minlaydi?",
+    "A": "Tovushlarning ravon chiqishini",
+    "B": "Nutqning tezlashishini",
+    "C": "Nutqning qisqarishini",
+    "D": "Nutqning buzilishini",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq rivojlanishida eshitishning ahamiyati nima?",
+    "A": "Tovushlarni farqlashga yordam beradi",
+    "B": "Nutqni kamaytiradi",
+    "C": "Nutqni to‘xtatadi",
+    "D": "Harakatni oshiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Eshitish analizatori nimani ta’minlaydi?",
+    "A": "Nutqni idrok etishni",
+    "B": "Nafasni boshqarishni",
+    "C": "Harakatni kuchaytirishni",
+    "D": "Uyquni yaxshilashni",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq rivojlanishida muloqotning o‘rni qanday?",
+    "A": "Asosiy rivojlantiruvchi omil",
+    "B": "Ikkinchi darajali omil",
+    "C": "Ahamiyatsiz",
+    "D": "Tasodifiy",
+    "javob": "A"
+  },
+  {
+    "savol": "Ona ovozining bola nutqiga ta’siri qanday?",
+    "A": "Ijobiy emotsional ta’sir ko‘rsatadi",
+    "B": "Nutqni kamaytiradi",
+    "C": "Nutqni buzadi",
+    "D": "Ta’sir qilmaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq rivojlanishida taqlid qanday ahamiyatga ega?",
+    "A": "So‘zlarni o‘zlashtirishga yordam beradi",
+    "B": "Nutqni sekinlashtiradi",
+    "C": "Nutqni yo‘q qiladi",
+    "D": "Nutqni buzadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq motivatsiyasi nimaga bog‘liq?",
+    "A": "Muloqot ehtiyojiga",
+    "B": "Haroratga",
+    "C": "Mushakka",
+    "D": "Uyquga",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq rivojlanishining eng muhim davri qaysi?",
+    "A": "Erta bolalik davri",
+    "B": "Katta yosh",
+    "C": "Qarilik",
+    "D": "O‘smirlik",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq qanday jarayon hisoblanadi?",
+    "A": "Murakkab va tizimli jarayon",
+    "B": "Oddiy refleks",
+    "C": "Tasodifiy holat",
+    "D": "Mexanik harakat",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq rivojlanishida ko‘rish analizatorining roli nimada?",
+    "A": "Mimika va harakatlarni kuzatish orqali nutqqa yordam beradi",
+    "B": "Ovoz chiqarishni boshqaradi",
+    "C": "So‘zlarni eslab qoladi",
+    "D": "Nafasni tartibga soladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Artikulyatsion apparat tarkibiga nimalar kiradi?",
+    "A": "Til, lab, tanglay va jag‘",
+    "B": "Yurak, o‘pka va miya",
+    "C": "Ko‘z, quloq va burun",
+    "D": "Mushak va suyaklar",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq rivojlanishida asab tizimining ahamiyati nimada?",
+    "A": "Nutq jarayonini muvofiqlashtiradi",
+    "B": "Nafasni tezlashtiradi",
+    "C": "Harakatni kamaytiradi",
+    "D": "Uyquni oshiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutqning fonetik tomoni nimani anglatadi?",
+    "A": "Tovushlarning talaffuzi va tizimi",
+    "B": "So‘z boyligi",
+    "C": "Gap tuzilishi",
+    "D": "Mazmun ifodasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutqning leksik tomoni nimani bildiradi?",
+    "A": "So‘zlar majmuasi va ularning ma’nosi",
+    "B": "Tovush tizimi",
+    "C": "Gap qurilishi",
+    "D": "Harakat",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutqning grammatik tomoni nimani o‘z ichiga oladi?",
+    "A": "So‘z va gap tuzilish qoidalarini",
+    "B": "Tovush chiqarishni",
+    "C": "Nafas jarayonini",
+    "D": "Harakatni",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutqning kommunikativ tomoni nimani bildiradi?",
+    "A": "Muloqot qilish qobiliyatini",
+    "B": "Ovoz chiqarishni",
+    "C": "So‘z yozishni",
+    "D": "Nafasni",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq rivojlanishida semantik tomon nimaga tegishli?",
+    "A": "Mazmun va ma’no ifodasiga",
+    "B": "Tovushga",
+    "C": "Harakatga",
+    "D": "Nafasga",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq rivojlanishi bosqichli jarayon bo‘lishi nimani anglatadi?",
+    "A": "Har bir davr o‘ziga xos xususiyatga ega",
+    "B": "Nutq birdan shakllanadi",
+    "C": "Nutq to‘xtab qoladi",
+    "D": "Nutq tasodifiy rivojlanadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq rivojlanishida muhitning boyligi nimaga olib keladi?",
+    "A": "So‘z boyligining ortishiga",
+    "B": "Nutqning kamayishiga",
+    "C": "Nutqning buzilishiga",
+    "D": "Nutqning to‘xtashiga",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutqni rivojlantirishda o‘yin qanday rol o‘ynaydi?",
+    "A": "Faollik va muloqotni kuchaytiradi",
+    "B": "Nutqni pasaytiradi",
+    "C": "Nutqni buzadi",
+    "D": "Nutqni sekinlashtiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq rivojlanishida pedagogik ta’sir nimani beradi?",
+    "A": "To‘g‘ri yo‘naltirilgan rivojlanish",
+    "B": "Nutqni kamaytirish",
+    "C": "Nutqni to‘xtatish",
+    "D": "Nutqni buzish",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq rivojlanishida individual yondashuv nimaga xizmat qiladi?",
+    "A": "Har bir bola imkoniyatini hisobga olishga",
+    "B": "Nutqni bir xil qilishga",
+    "C": "Nutqni kamaytirishga",
+    "D": "Nutqni cheklashga",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq rivojlanishida erta tashxisning ahamiyati nimada?",
+    "A": "Muammoni vaqtida aniqlashda",
+    "B": "Nutqni sekinlashtirishda",
+    "C": "Nutqni kamaytirishda",
+    "D": "Nutqni yo‘q qilishda",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq rivojlanishidagi nuqsonlarni bartaraf etish nimani talab qiladi?",
+    "A": "Kompleks yondashuvni",
+    "B": "Mashqlarni",
+    "C": "Dam olishni",
+    "D": "Kuzatishni",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq rivojlanishida logopedning vazifasi nima?",
+    "A": "Nutq kamchiliklarini tuzatish",
+    "B": "Harakatni boshqarish",
+    "C": "Nafasni kuchaytirish",
+    "D": "Uyquni yaxshilash",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq rivojlanishida oilaning roli nimada?",
+    "A": "Muloqot va qo‘llab-quvvatlashda",
+    "B": "Nutqni kamaytirishda",
+    "C": "Nutqni buzishda",
+    "D": "Nutqni to‘xtatishda",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq rivojlanishida bog‘cha muhiti nimani ta’minlaydi?",
+    "A": "Ijtimoiy muloqotni kengaytiradi",
+    "B": "Nutqni cheklaydi",
+    "C": "Nutqni buzadi",
+    "D": "Nutqni kamaytiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq rivojlanishida eshitish nuqsoni nimaga olib keladi?",
+    "A": "Nutq rivojining sekinlashishiga",
+    "B": "Nutqning tezlashishiga",
+    "C": "Nutqning kuchayishiga",
+    "D": "Nutqning aniq bo‘lishiga",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq rivojlanishida diqqatning pasayishi nimaga olib keladi?",
+    "A": "Nutqni noto‘g‘ri idrok qilishga",
+    "B": "Nutqni kuchaytirishga",
+    "C": "Nutqni tezlashtirishga",
+    "D": "Nutqni yaxshilashga",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq rivojlanishida xotiraning sustligi nimani keltirib chiqaradi?",
+    "A": "So‘zlarni eslab qolish qiyinlashadi",
+    "B": "Nutq tezlashadi",
+    "C": "Nutq kuchayadi",
+    "D": "Nutq osonlashadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq rivojlanishida tafakkurning rivoji nimaga olib keladi?",
+    "A": "Murakkab nutq shakllanishiga",
+    "B": "Nutq kamayishiga",
+    "C": "Nutq to‘xtashiga",
+    "D": "Nutq buzilishiga",
+    "javob": "A"
+  },
+  {
+    "savol": "Preverbal bosqichda nutqning asosiy xususiyati nima?",
+    "A": "Nutq elementlari hali shakllanmagan bo‘ladi",
+    "B": "Murakkab gaplar ishlatiladi",
+    "C": "Yozma nutq rivojlanadi",
+    "D": "Grammatik tizim to‘liq bo‘ladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Babbling jarayoni nimani bildiradi?",
+    "A": "Bo‘g‘inli tovushlarning takrorlanishi",
+    "B": "So‘zlarni ongli tanlash",
+    "C": "Matn tuzish",
+    "D": "Murakkab fikr ifodasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Birinchi so‘zlar bosqichida bola qanday so‘zlarni ishlatadi?",
+    "A": "Kundalik hayotga oid sodda so‘zlar",
+    "B": "Ilmiy terminlar",
+    "C": "Murakkab iboralar",
+    "D": "Rasmiy nutq birliklari",
+    "javob": "A"
+  },
+  {
+    "savol": "2–3 yosh davrida nutqda qanday o‘zgarish kuzatiladi?",
+    "A": "So‘z boyligi keskin ortadi",
+    "B": "Nutq to‘xtab qoladi",
+    "C": "Tovush chiqariladi",
+    "D": "Yozma nutq ustun bo‘ladi",
+    "javob": "A"
+  },
+  {
+    "savol": "“So‘z portlashi” tushunchasi nimani bildiradi?",
+    "A": "Leksikaning tez kengayishini",
+    "B": "Nutqning yo‘qolishini",
+    "C": "Nutqning buzilishini",
+    "D": "Nutqning sekinlashishini",
+    "javob": "A"
+  },
+  {
+    "savol": "3–5 yoshda nutqning qaysi jihati rivojlanadi?",
+    "A": "Grammatik murakkablik",
+    "B": "Tovush chiqarish",
+    "C": "Nafas olish",
+    "D": "Harakat",
+    "javob": "A"
+  },
+  {
+    "savol": "Maktab yoshida nutqda qanday yangilik paydo bo‘ladi?",
+    "A": "Abstrakt tushunchalarni ifodalash",
+    "B": "Nutqning yo‘qolishi",
+    "C": "Tovush chiqarish",
+    "D": "Nutqning kamayishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Leksik tizim nimani o‘z ichiga oladi?",
+    "A": "Faol va passiv lug‘atni",
+    "B": "Tovushlarni",
+    "C": "Harakatlarni",
+    "D": "Nafasni",
+    "javob": "A"
+  },
+  {
+    "savol": "Faol lug‘at qanday shakllanadi?",
+    "A": "Amaliy nutqda qo‘llash orqali",
+    "B": "Uyqu davomida",
+    "C": "Harakat orqali",
+    "D": "Tasodifan",
+    "javob": "A"
+  },
+  {
+    "savol": "Passiv lug‘at qanday namoyon bo‘ladi?",
+    "A": "Eshitilgan so‘zlarni tushunishda",
+    "B": "So‘z yozishda",
+    "C": "Harakat bajarishda",
+    "D": "Nafas olishda",
+    "javob": "A"
+  },
+  {
+    "savol": "So‘z boyligi ortishi nimaga olib keladi?",
+    "A": "Nutq aniqligi va ravonligiga",
+    "B": "Nutq yo‘qolishiga",
+    "C": "Nutq buzilishiga",
+    "D": "Nutq kamayishiga",
+    "javob": "A"
+  },
+  {
+    "savol": "Kontekstual tushuncha nimani bildiradi?",
+    "A": "So‘zlarni vaziyatga mos qo‘llashni",
+    "B": "Tovush chiqarishni",
+    "C": "Harakatni boshqarishni",
+    "D": "Nafasni",
+    "javob": "A"
+  },
+  {
+    "savol": "Tinglash orqali o‘rganish nimani ta’minlaydi?",
+    "A": "Yangi leksik birliklarni egallashni",
+    "B": "Nutqni kamaytirishni",
+    "C": "Harakatni oshirishni",
+    "D": "Uyquni yaxshilashni",
+    "javob": "A"
+  },
+  {
+    "savol": "Emotsional aloqa nutqqa qanday ta’sir qiladi?",
+    "A": "Nutq faolligini kuchaytiradi",
+    "B": "Nutqni pasaytiradi",
+    "C": "Nutqni buzadi",
+    "D": "Nutqni to‘xtatadi",
+    "javob": "A"
+  },
+  {
+    "savol": "So‘z hosil qilish jarayoni nimani anglatadi?",
+    "A": "Yangi so‘zlar yasashni",
+    "B": "Tovush chiqarishni",
+    "C": "Nafas olishni",
+    "D": "Harakatni",
+    "javob": "A"
+  },
+  {
+    "savol": "Derivatsiya nima?",
+    "A": "So‘z yasash jarayoni",
+    "B": "Gap tuzish",
+    "C": "Tovush chiqarish",
+    "D": "Nafas olish",
+    "javob": "A"
+  },
+  {
+    "savol": "Taqlid orqali nutq o‘zlashtirish nimani bildiradi?",
+    "A": "Eshitilgan nutqni qayta ishlashni",
+    "B": "Yozma nutqni",
+    "C": "Harakatni",
+    "D": "Nafasni",
+    "javob": "A"
+  },
+  {
+    "savol": "1–3 yoshda bola nutqi qanday shakllanadi?",
+    "A": "Taqlid asosida",
+    "B": "Grammatik tizim asosida",
+    "C": "Yozma shaklda",
+    "D": "Ilmiy asosda",
+    "javob": "A"
+  },
+  {
+    "savol": "3–5 yoshda bola nimani anglay boshlaydi?",
+    "A": "Morfemalarni",
+    "B": "Tovushlarni",
+    "C": "Harakatni",
+    "D": "Nafasni",
+    "javob": "A"
+  },
+  {
+    "savol": "Gipergeneralizatsiya nimani bildiradi?",
+    "A": "Qoidani noto‘g‘ri umumlashtirishni",
+    "B": "Nutqni to‘g‘ri ishlatishni",
+    "C": "Nutqni kamaytirishni",
+    "D": "Nutqni to‘xtatishni",
+    "javob": "A"
+  },
+  {
+    "savol": "Affiksatsiya nimani anglatadi?",
+    "A": "Qo‘shimcha orqali so‘z yasashni",
+    "B": "So‘zlarni qisqartirishni",
+    "C": "Tovushlarni o‘zgartirishni",
+    "D": "Harakatni",
+    "javob": "A"
+  },
+  {
+    "savol": "Kompozitsiya nima?",
+    "A": "So‘zlarni qo‘shish orqali yangi ma’no yaratish",
+    "B": "Tovushlarni ajratish",
+    "C": "Gapni qisqartirish",
+    "D": "Nafasni boshqarish",
+    "javob": "A"
+  },
+  {
+    "savol": "Konversiya nimani bildiradi?",
+    "A": "So‘z turkumini o‘zgartirishni",
+    "B": "So‘zlarni qisqartirishni",
+    "C": "Tovushni o‘zgartirishni",
+    "D": "Harakatni",
+    "javob": "A"
+  },
+  {
+    "savol": "Bog‘langan nutq qanday tuzilishga ega?",
+    "A": "Boshi, o‘rtasi va yakuni bo‘ladi",
+    "B": "Bosh qismi bo‘ladi",
+    "C": "Oxiri bo‘ladi",
+    "D": "Tartibsiz bo‘ladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Situativ nutq nimaga asoslanadi?",
+    "A": "Vaziyatga bog‘liq ifodaga",
+    "B": "Grammatikaga",
+    "C": "Tovushga",
+    "D": "Nafasga",
+    "javob": "A"
+  },
+  {
+    "savol": "Kontekstli nutq nimani talab qiladi?",
+    "A": "Mustaqil fikr bayonini",
+    "B": "Qisqa gapni",
+    "C": "Tovushni",
+    "D": "Harakatni",
+    "javob": "A"
+  },
+  {
+    "savol": "Egotsentrik nutq nimaga xizmat qiladi?",
+    "A": "O‘z faoliyatini boshqarishga",
+    "B": "Boshqalarni boshqarishga",
+    "C": "Yozishga",
+    "D": "Nafasga",
+    "javob": "A"
+  },
+  {
+    "savol": "Dialogik nutqning asosiy belgisi nima?",
+    "A": "Ikki tomonlama muloqot",
+    "B": "Yakka nutq",
+    "C": "Ichki nutq",
+    "D": "Yozma nutq",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq rivojlanishida ongning ahamiyati nimada?",
+    "A": "Nutq faoliyatini nazorat qilishda",
+    "B": "Harakatni tezlashtirishda",
+    "C": "Nafasni kuchaytirishda",
+    "D": "Uyquni tartibga solishda",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutqning rejalashtirilganligi nimani bildiradi?",
+    "A": "Oldindan fikrni tuzib ifodalashni",
+    "B": "Tasodifiy gapirishni",
+    "C": "Tovush chiqarishni",
+    "D": "Harakatni",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq rivojlanishida mantiqiy bog‘liqlik nimaga xizmat qiladi?",
+    "A": "Fikrning izchil bayoniga",
+    "B": "Nutqning buzilishiga",
+    "C": "Nutqning kamayishiga",
+    "D": "Nutqning to‘xtashiga",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutqning ifodaviyligi nimani anglatadi?",
+    "A": "Hissiyot bilan boyitilgan nutqni",
+    "B": "Sekin nutqni",
+    "C": "Qisqa nutqni",
+    "D": "Buzilgan nutqni",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq rivojlanishida ohang qanday rol o‘ynaydi?",
+    "A": "Ma’no va hissiyotlarni ajratadi",
+    "B": "Nutqni buzadi",
+    "C": "Nutqni kamaytiradi",
+    "D": "Nutqni yo‘q qiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq rivojlanishida pauzaning vazifasi nima?",
+    "A": "Fikr qismlarini ajratadi",
+    "B": "Nutqni to‘xtatadi",
+    "C": "Nutqni buzadi",
+    "D": "Nutqni kamaytiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq rivojlanishida ritm nimani bildiradi?",
+    "A": "Nutqning tartibli oqimini",
+    "B": "Nutqning buzilishini",
+    "C": "Nutqning yo‘qolishini",
+    "D": "Nutqning kamayishini",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq rivojlanishida intonatsiya nimaga xizmat qiladi?",
+    "A": "Mazmunni ifodalashga",
+    "B": "Harakatni oshirishga",
+    "C": "Nafasni boshqarishga",
+    "D": "Uyquni yaxshilashga",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq rivojlanishida temp nimani anglatadi?",
+    "A": "Nutq tezligini",
+    "B": "Nutq mazmunini",
+    "C": "Nutq hajmini",
+    "D": "Nutq shaklini",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq rivojlanishida aniqlik nimani bildiradi?",
+    "A": "So‘zlarning tushunarli bo‘lishini",
+    "B": "Nutqning buzilishini",
+    "C": "Nutqning kamayishini",
+    "D": "Nutqning yo‘qolishini",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq rivojlanishida muloqot samaradorligi nimaga bog‘liq?",
+    "A": "Tushunarli ifodaga",
+    "B": "Baland ovozga",
+    "C": "Tez nutqqa",
+    "D": "Qisqa gapga",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq rivojlanishida eshitish qobiliyati nimani ta’minlaydi?",
+    "A": "Tovushlarni farqlashni",
+    "B": "Nutqni kamaytirishni",
+    "C": "Nutqni buzishni",
+    "D": "Nutqni yo‘q qilishni",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq rivojlanishida nutqiy faoliyat nimani anglatadi?",
+    "A": "Fikr almashish jarayonini",
+    "B": "Nafas jarayonini",
+    "C": "Harakatni",
+    "D": "Uyquni",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq rivojlanishida tajriba nimani beradi?",
+    "A": "Nutq boyligini oshiradi",
+    "B": "Nutqni kamaytiradi",
+    "C": "Nutqni buzadi",
+    "D": "Nutqni to‘xtatadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Leksik rivojlanish qachondan boshlanadi?",
+    "A": "Tug‘ilgan kundan boshlab",
+    "B": "Maktab davridan",
+    "C": "O‘smirlikdan",
+    "D": "5 yoshdan",
+    "javob": "A"
+  },
+  {
+    "savol": "Dastlabki bosqichda bola nimani o‘rganadi?",
+    "A": "Tovushlarni eshitish va farqlashni",
+    "B": "So‘z yozishni",
+    "C": "Matn tuzishni",
+    "D": "Grammatik tahlilni",
+    "javob": "A"
+  },
+  {
+    "savol": "Bir yoshga yaqin bola qanday nutq namoyon qiladi?",
+    "A": "Sodda so‘zlarni talaffuz qiladi",
+    "B": "Murakkab gaplar tuzadi",
+    "C": "Matn yozadi",
+    "D": "Ilmiy nutq ishlatadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ikki yoshda nutqda qanday o‘zgarish bo‘ladi?",
+    "A": "Lug‘at keskin kengayadi",
+    "B": "Nutq to‘xtaydi",
+    "C": "Nutq kamayadi",
+    "D": "Nutq buziladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Maktabgacha yoshda bola nimani faol o‘zlashtiradi?",
+    "A": "Predmet va hodisalar nomlarini",
+    "B": "Yozma nutqni",
+    "C": "Ilmiy terminlarni",
+    "D": "Murakkab formulalarni",
+    "javob": "A"
+  },
+  {
+    "savol": "Savol berish faolligi nimaga olib keladi?",
+    "A": "Yangi so‘zlarni o‘rganishga",
+    "B": "Nutqni kamaytirishga",
+    "C": "Nutqni buzishga",
+    "D": "Nutqni to‘xtatishga",
+    "javob": "A"
+  },
+  {
+    "savol": "Boshlang‘ich maktab davrida leksika qanday rivojlanadi?",
+    "A": "Tizimli shaklda kengayadi",
+    "B": "Tasodifiy shaklda",
+    "C": "Sekinlashadi",
+    "D": "Yo‘qoladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko‘chma ma’noni tushunish qachon rivojlanadi?",
+    "A": "Maktab davrida",
+    "B": "Go‘daklikda",
+    "C": "1 yoshda",
+    "D": "Tug‘ilganda",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘smirlik davrida nutq qanday bo‘ladi?",
+    "A": "Mustaqil va asosli",
+    "B": "Qisqa va sodda",
+    "C": "Tovush darajasida",
+    "D": "Buzilgan",
+    "javob": "A"
+  },
+  {
+    "savol": "Oila muhiti nutqqa qanday ta’sir qiladi?",
+    "A": "Lug‘at boyligini oshiradi",
+    "B": "Nutqni kamaytiradi",
+    "C": "Nutqni buzadi",
+    "D": "Nutqni to‘xtatadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Kitob o‘qish nimaga yordam beradi?",
+    "A": "So‘z boyligini kengaytiradi",
+    "B": "Nutqni buzadi",
+    "C": "Nutqni kamaytiradi",
+    "D": "Nutqni yo‘q qiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Tayyorlov bosqichida (0–1 yosh) qanday nutqiy belgilar kuzatiladi?",
+    "A": "G‘udurlash va taqlidga moyillik",
+    "B": "Murakkab gap tuzish",
+    "C": "Yozma nutqdan foydalanish",
+    "D": "Ilmiy terminlarni qo‘llash",
+    "javob": "A"
+  },
+  {
+    "savol": "Dastlabki nutq bosqichida (1–3 yosh) qanday o‘zgarish sodir bo‘ladi?",
+    "A": "Birinchi so‘zlar va sodda gaplar paydo bo‘ladi",
+    "B": "Nutq butunlay yo‘qoladi",
+    "C": "Imo-ishora ishlatiladi",
+    "D": "Matn yozish boshlanadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Faol nutq bosqichida (3–6 yosh) qaysi jarayon kuchayadi?",
+    "A": "Qo‘shimchalar orqali so‘z yasash",
+    "B": "Nutqni qisqartirish",
+    "C": "Tovushlarni kamaytirish",
+    "D": "Harakatni cheklash",
+    "javob": "A"
+  },
+  {
+    "savol": "Ongli nutq bosqichida (7–17 yosh) qanday xususiyat shakllanadi?",
+    "A": "Grammatik qoidalarni ongli qo‘llash",
+    "B": "Nutqdan voz kechish",
+    "C": "Og‘zaki ifoda",
+    "D": "Tovush darajasida muloqot",
+    "javob": "A"
+  },
+  {
+    "savol": "So‘z hosil qilish dastlab qanday boshlanadi?",
+    "A": "Taqlid asosida",
+    "B": "Murakkab qoidalar orqali",
+    "C": "Yozma mashqlar bilan",
+    "D": "Nazariy tahlil bilan",
+    "javob": "A"
+  },
+  {
+    "savol": "0–2 yosh davrida so‘z yasash qanday bo‘ladi?",
+    "A": "Tayyor so‘zlarni takrorlash ustun",
+    "B": "Murakkab yasamalar keng qo‘llanadi",
+    "C": "Sintaktik tahlil amalga oshiriladi",
+    "D": "Matnli nutq rivojlanadi",
+    "javob": "A"
+  },
+  {
+    "savol": "2–3 yoshda so‘z yasashning asosiy belgisi nima?",
+    "A": "Sodda yasamalar hosil qilish",
+    "B": "Murakkab iboralar tuzish",
+    "C": "Ilmiy terminlar ishlatish",
+    "D": "Yozma nutqni kengaytirish",
+    "javob": "A"
+  },
+  {
+    "savol": "3–6 yoshda so‘z yasash qanday darajaga yetadi?",
+    "A": "Faol va mustaqil tus oladi",
+    "B": "To‘xtab qoladi",
+    "C": "Eshitish bilan cheklanadi",
+    "D": "Yozma shaklda bo‘ladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq rivojiga biologik omillar qanday ta’sir qiladi?",
+    "A": "Miya va asab tizimi faoliyatini belgilaydi",
+    "B": "Nutqni to‘xtatadi",
+    "C": "Nutqni kamaytiradi",
+    "D": "Nutqni buzadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ontogenez atamasi nimani anglatadi?",
+    "A": "Organizmning individual rivojlanishi",
+    "B": "Ijtimoiy taraqqiyot",
+    "C": "Ta’lim tizimi",
+    "D": "Nutq apparati",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq ontogenezi tushunchasi nima?",
+    "A": "Nutqning tug‘ilishdan boshlab shakllanish jarayoni",
+    "B": "Yozma nutq qoidalari",
+    "C": "Ovoz balandligi",
+    "D": "Eshitish buzilishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq rivojlanishiga ta’sir qiluvchi omillar guruhi qaysi?",
+    "A": "Biologik, psixologik, ijtimoiy",
+    "B": "Mexanik, kimyoviy",
+    "C": "Matematik, mantiqiy",
+    "D": "Tasodifiy omillar",
+    "javob": "A"
+  },
+  {
+    "savol": "Me’yor tushunchasi nimani bildiradi?",
+    "A": "Yoshga mos tabiiy rivojlanish holati",
+    "B": "Kasallik darajasi",
+    "C": "Tasodifiy o‘zgarish",
+    "D": "Nutq yo‘qligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Patologiya nima?",
+    "A": "Me’yoriy rivojlanishdan og‘ish",
+    "B": "Nutq boyligi",
+    "C": "Grammatik qoida",
+    "D": "Tovush tizimi",
+    "javob": "A"
+  },
+  {
+    "savol": "Gugullash davrining asosiy xususiyati qaysi?",
+    "A": "Tovush reaksiyalarining paydo bo‘lishi",
+    "B": "Murakkab gaplar",
+    "C": "Savod o‘rganish",
+    "D": "Yozma mashqlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Lallalash davrida bola qanday harakat qiladi?",
+    "A": "Bo‘g‘inlarni takrorlaydi",
+    "B": "Matn tahlil qiladi",
+    "C": "Gap yozadi",
+    "D": "O‘qishni o‘rganadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Bir so‘zli nutq qaysi davrga xos?",
+    "A": "Ilk yosh davri",
+    "B": "Go‘daklik oxiri",
+    "C": "Maktab davri",
+    "D": "O‘smirlik",
+    "javob": "A"
+  },
+  {
+    "savol": "Sodda gaplardan foydalanish qachon boshlanadi?",
+    "A": "Ilk bolalikda",
+    "B": "Tug‘ilish paytida",
+    "C": "Katta yoshda",
+    "D": "Yozma nutqda",
+    "javob": "A"
+  },
+  {
+    "savol": "Bog‘lanishli nutq nimani bildiradi?",
+    "A": "Izchil fikr bayoni",
+    "B": "Tovush chiqarish",
+    "C": "Eshitish qobiliyati",
+    "D": "Refleks faoliyati",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutqning fiziologik asosini qaysi tizim tashkil etadi?",
+    "A": "Markaziy asab tizimi",
+    "B": "Hazm tizimi",
+    "C": "Qon aylanish",
+    "D": "Skelet tizimi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ovoz hosil bo‘lishida qaysi tuzilma muhim?",
+    "A": "Ovoz bog‘lamlari",
+    "B": "Til mushagi",
+    "C": "Tishlar",
+    "D": "Lablar",
+    "javob": "A"
+  },
+  {
+    "savol": "Artikulyatsiya jarayonida qaysi a’zolar faol?",
+    "A": "Til, lab, tanglay",
+    "B": "Yurak",
+    "C": "Ko‘z",
+    "D": "O‘pka",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq uchun nafas jarayoni nima beradi?",
+    "A": "Havo oqimini",
+    "B": "So‘z ma’nosini",
+    "C": "Grammatik shaklni",
+    "D": "Xotirani",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutqni boshqaruvchi markaz qayerda joylashgan?",
+    "A": "Bosh miyada",
+    "B": "Yurakda",
+    "C": "O‘pkada",
+    "D": "Hiqildoqda",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq buzilishi deganda nima tushuniladi?",
+    "A": "Nutqning normal rivojlanishidagi og‘ish yoki nuqson",
+    "B": "Yozuvdagi xato",
+    "C": "Matematika muammosi",
+    "D": "Musiqa jarayoni",
+    "javob": "A"
+  },
+  {
+    "savol": "Logopediya fanining asosiy maqsadi nima?",
+    "A": "Nutq buzilishlarini o‘rganish va tuzatish",
+    "B": "Matematika o‘qitish",
+    "C": "Yozuvni o‘rgatish",
+    "D": "Musiqa chalish",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq buzilishlari necha turga bo‘linadi?",
+    "A": "Ikkiga: og‘zaki va yozma nutq buzilishlari",
+    "B": "Yettiga: barcha sezgilar asosida",
+    "C": "Birga: umumiy nutq",
+    "D": "Yuzta: barcha xatoliklar",
+    "javob": "A"
+  },
+  {
+    "savol": "Dislaliya nima?",
+    "A": "Tovushlarni noto‘g‘ri talaffuz qilish bilan bog‘liq nuqson",
+    "B": "Yozuvda xatolik",
+    "C": "Matematik hisobdagi xato",
+    "D": "Musiqa ohangidagi buzilish",
+    "javob": "A"
+  },
+  {
+    "savol": "Rinolaliya deganda nima tushuniladi?",
+    "A": "Ovozning burun orqali chiqishi bilan bog‘liq nuqson",
+    "B": "Matematika hisobida xato",
+    "C": "Yozuvdagi ifoda xatosi",
+    "D": "Musiqa ohangi",
+    "javob": "A"
+  },
+  {
+    "savol": "Afaziya deganda nima tushuniladi?",
+    "A": "Miya shikasti tufayli nutqning yo‘qolishi yoki buzilishi",
+    "B": "Matematika tushunchasi",
+    "C": "Yozuvdagi xato",
+    "D": "Musiqa tahlili",
+    "javob": "A"
+  },
+  {
+    "savol": "Duduqlanish qanday nutq buzilishiga kiradi?",
+    "A": "Nutq ritmi va tempining buzilishi bilan bog‘liq",
+    "B": "Matematika ritmi",
+    "C": "Yozuv tartibi",
+    "D": "Musiqa ohangi",
+    "javob": "A"
+  },
+  {
+    "savol": "Dizartriya nima?",
+    "A": "Nerv tizimi shikasti tufayli talaffuzdagi buzilish",
+    "B": "Matematika tahlili",
+    "C": "Yozuvdagi xato",
+    "D": "Musiqa turg‘unligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Alaliya deganda nima tushuniladi?",
+    "A": "Miya po‘stlog‘i shikasti tufayli nutq rivojlanmasligi",
+    "B": "Yozuv o‘rganilmasligi",
+    "C": "Matematika bilimi",
+    "D": "Musiqa o‘qitilishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq kamchiliklarini bartaraf etish kim tomonidan amalga oshiriladi?",
+    "A": "Logoped tomonidan",
+    "B": "Matematika o‘qituvchisi tomonidan",
+    "C": "Yozuvchi tomonidan",
+    "D": "Musiqa rahbari tomonidan",
+    "javob": "A"
+  },
+  {
+    "savol": "Logopedik ta’sir deganda nima tushuniladi?",
+    "A": "Nutqni tiklash va rivojlantirishga qaratilgan tizimli ish",
+    "B": "Matematika o‘qitish jarayoni",
+    "C": "Yozuv mashg‘ulotlari",
+    "D": "Musiqa darsi",
+    "javob": "A"
+  }
+]
