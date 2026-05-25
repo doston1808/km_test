@@ -1,0 +1,1202 @@
+[
+  {
+    "savol": "Qaysi so’z qоg`оzni buklаsh yo`li bilаn nаrsа yasаsh mа`nоsini bildirаdi?",
+    "A": "Origami",
+    "B": "Krigami",
+    "C": "Ksudama",
+    "D": "Skudama",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi so’z qоg`оzni yirtish yoki simmеtrik qirqish yo`li bilаn yasаsh yo`li  bilаn nаrsа yasаsh mа`nоsini bildirаdi?",
+    "A": "Ksudama",
+    "B": "Applikatsiya",
+    "C": "Qurish -yasash",
+    "D": "Origami",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi so’z qоg`оzni buklаsh yo`li bilаn gul yasаsh mа`nоsini bildirаdi?",
+    "A": "Kusudаmа",
+    "B": "Loy ishi",
+    "C": "Papye -mashi",
+    "D": "Applikatsiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Tasviriy faoliyat turlari necha qismga bo’linadi?",
+    "A": "4",
+    "B": "5",
+    "C": "7",
+    "D": "9",
+    "javob": "A"
+  },
+  {
+    "savol": "Applikatsiyada qirqish usullari necha qismga bo’linadi?",
+    "A": "6",
+    "B": "8",
+    "C": "2",
+    "D": "5",
+    "javob": "A"
+  },
+  {
+    "savol": "Geometrik shaklli applekatsiyalarning turlari qaysilar?",
+    "A": "Naqshli, predmetli, syujetli",
+    "B": "Tashlandiq va tabiiy ashyolar",
+    "C": "Mazmunli va bezakli mavzusida",
+    "D": "Matodan tayyorlanadigan ishlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi xalqlarda applikatsiya ishidan keng foydalanilgan?",
+    "A": "Qozoq, qalmoq, osetin, buryat",
+    "B": "Xantimansi, evenk va boshqa xalqlar",
+    "C": "Xitoy xalqi ,Yapon xalqi",
+    "D": "Markaziy Osiyo xalqlari o‘zbek, qozoq, qirg‘iz",
+    "javob": "A"
+  },
+  {
+    "savol": "Flaris rassomlar jamiyati qachon tashkil etilgan?",
+    "A": "1960-yilda",
+    "B": "1980-yilda",
+    "C": "1925-yilda",
+    "D": "1950-yil",
+    "javob": "A"
+  },
+  {
+    "savol": "Naqsh gullardan iborat bo‘lgan alohida tasvirlar nima deb ataladi?",
+    "A": "Dekorativ",
+    "B": "Predmetli",
+    "C": "Syujetli",
+    "D": "Applikatsion",
+    "javob": "A"
+  },
+  {
+    "savol": "…— bu bolalar kattalar hayotidagi turli kasb va ijtimoiy rollarni o‘zlashtirib, o‘yin jarayonida tasavvur, nutq va muloqot ko‘nikmalarini rivojlantiradigan faoliyat turidir.",
+    "A": "Rolli o‘yinlar",
+    "B": "Didaktik o’yinlar",
+    "C": "Musiqiy o’yinlar",
+    "D": "Harakatli o’yinlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Rorlli o‘yin turlari necha qismga bo’linadi?",
+    "A": "3",
+    "B": "5",
+    "C": "7",
+    "D": "9",
+    "javob": "A"
+  },
+  {
+    "savol": "Maishiy rolli o’yinlarga nimalar kiradi?",
+    "A": "“Oila” “Mehmon kutish” “Oshxona”",
+    "B": "“Shifokor”  “O‘qituvchi”  “Haydovchi”",
+    "C": "“Bog‘cha”  “Maktab”  “Do‘kon”",
+    "D": "“Qahramonlar” “Sehrgar” “Super qahramon”",
+    "javob": "A"
+  },
+  {
+    "savol": "Suhbatlashish, savol-javob qilish ko‘nikmalari nimalarni rivojlantiradi?",
+    "A": "Nutq rivojlanishi",
+    "B": "Aqliy rivojlanishi",
+    "C": "Jismoniy rivojlanishi",
+    "D": "Estetik rivojlanishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Tasavvur va fantaziya qaysi jarayonlarini kengayadi?",
+    "A": "Ijodiy rivojlanish",
+    "B": "Mustaqil faoliyat",
+    "C": "Nutqiy rivojlanish",
+    "D": "Aqliy  rivojlanish",
+    "javob": "A"
+  },
+  {
+    "savol": "Birinchi rasmlar qaysi g’ordan topilgan?",
+    "A": "Chauvet g’ori",
+    "B": "Altamira g’ori",
+    "C": "Misr ehronlari",
+    "D": "Beshiktosh g’ori",
+    "javob": "A"
+  },
+  {
+    "savol": "Qadimgi odamlar rasm chizishda ko‘mir, qizil va sariq rangli nimalardan tasvir tushurishda foydalanilgan?",
+    "A": "Oxra",
+    "B": "Qalam",
+    "C": "Rangli tosh",
+    "D": "O’yib ishlash",
+    "javob": "A"
+  },
+  {
+    "savol": "Mоdеllаshtirish- bu nima?",
+    "A": "Bаdiiy ijоdiyotning eng аniq shаklidir.",
+    "B": "Haqiqiy obyekt, jarayon yoki hodisa",
+    "C": "Qurilish materiallarini yig‘ish",
+    "D": "Tayyor o‘yinchoqlardan foydalanish jarayoni",
+    "javob": "A"
+  },
+  {
+    "savol": "Lоy ishidа qo‘llаnilаdigаn usullаr necha qismga bo‘linadi?",
+    "A": "5",
+    "B": "8",
+    "C": "7",
+    "D": "3",
+    "javob": "A"
+  },
+  {
+    "savol": "Loy ishida yumаlоqlikka ta’rif bering?",
+    "A": "bir bo`lаk lоydаn kаftdа аylаnа hаrаkаtlаr bilаn shаr yasаlаdi",
+    "B": "uzunаsigа hаrаkаtlаr bilаn uni tuхum, ustun kаbilаrgа аylаntirish.",
+    "C": "shаrikdаn yassi nоn yasаlаdi, qo`lning hоlаti dоimо o`zgаrib turаdi",
+    "D": "buyumning аyrim qismlаrini o`zаrо biriktirish.",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi davlat papye-mashe an’anaviy amaliy san’at turi sifatida rivojlandi?",
+    "A": "Koreya",
+    "B": "Finlandiya",
+    "C": "Fransiya",
+    "D": "Germaniya",
+    "javob": "A"
+  },
+  {
+    "savol": "Papye-mashening ilk ko‘rinishlari miloddan avvalgi nechanchi asrda Qadimgi Xitoyda uchraydi.",
+    "A": "II",
+    "B": "III",
+    "C": "IV",
+    "D": "V",
+    "javob": "A"
+  },
+  {
+    "savol": "Papye –pashe usulining necha turi mavjud?",
+    "A": "4",
+    "B": "6",
+    "C": "9",
+    "D": "8",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi usul qog‘oz bo‘laklari yelim yoki kraxmalli eritmaga botirilib, tayyor qolip (shar, idish, niqob shakli) ustiga bir necha qatlam qilib yopishtiriladi bu papye-mashening qaysi usuli",
+    "A": "Qog‘oz bo‘laklari (qatlamlab) usuli",
+    "B": "Qog‘oz massasi (xamir) usuli",
+    "C": "Kombinatsiyalashgan usul",
+    "D": "Applikatsiyalarni birlashtirish usuli",
+    "javob": "A"
+  },
+  {
+    "savol": "-bu texnikada suyuqroq qog‘oz massasi maxsus qoliplarga quyiladi va quritiladi",
+    "A": "qolipda quyish usuli",
+    "B": "Kombinatsiyalashgan usul",
+    "C": "Qog‘oz massasi (xamir) usuli",
+    "D": "Qog‘oz bo‘laklari (qatlamlab) usuli",
+    "javob": "A"
+  },
+  {
+    "savol": "Metall qopqoqlar alyuminiy bankalar yog‘och tayoqchalar muzqaymoq cho‘plari bu ashyalar sirasiga kiradi?",
+    "A": "Metall va yog‘och qoldiqlari",
+    "B": "Mato va to‘qimachilik qoldiqlari",
+    "C": "Plastik materiallar",
+    "D": "Qog‘oz va karton mahsulotlari",
+    "javob": "A"
+  },
+  {
+    "savol": "Hamma mashg’ulotlar necha qismga bo’linadi?",
+    "A": "3",
+    "B": "6",
+    "C": "8",
+    "D": "2",
+    "javob": "A"
+  },
+  {
+    "savol": "Qirqish, yopishtirish, bog‘lash, bo‘yash ishlari bajariladi. Bu bosqichda tarbiyachi yo‘naltiruvchi rolni bajaradi bu o‘yinchoq yasash jarayonining metodik bosqichlari qaysi biriga kiradi?",
+    "A": "Ijro bosqichi",
+    "B": "Rejalashtirish bosqichi",
+    "C": "Tahlil bosqichi",
+    "D": "Baholash bosqichi",
+    "javob": "A"
+  },
+  {
+    "savol": "Kognitiv rivojlanishga ta’rif qaysi variantda berilgan?",
+    "A": "Tahlil qilish, taqqoslash, umumlashtirish",
+    "B": "Fantaziya va obrazli tafakkur",
+    "C": "Hamkorlikda ishlash",
+    "D": "Atrof-muhitga ongli munosabat",
+    "javob": "A"
+  },
+  {
+    "savol": "2024-yilga kelib bu ko‘rsatkich Maktabgacha ta’lim tashkilotidagi bog’chalarni bolalar soni necha %ni egallaydi?",
+    "A": "74%",
+    "B": "45%",
+    "C": "27%",
+    "D": "67%",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi xorijiy davlatlarda kashtachilik muzeylari mavjud?",
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "javob": "A"
+  },
+  {
+    "savol": "Tayyor shakllarni biriktirish, oddiy yopishtirish ishlari qaysi guruh bolalarni amalga oshira olishidi?",
+    "A": "Kichik guruh",
+    "B": "O‘rta guruh",
+    "C": "Katta guruh",
+    "D": "Tayyorlov guruh",
+    "javob": "A"
+  },
+  {
+    "savol": "Qadimda qizlarga necha yoshidan boshlab kashta tikish o‘rgatilgan?",
+    "A": "7-9",
+    "B": "5-6",
+    "C": "4-5",
+    "D": "12-15",
+    "javob": "A"
+  },
+  {
+    "savol": "Kashtachilikning qaysi turi yangi tushgan kelinning uyiga, shiftiga yoki devoriga ilib ko‘yiladi?",
+    "A": "Zardevor",
+    "B": "Palak",
+    "C": "Kirpech",
+    "D": "So’zana",
+    "javob": "A"
+  },
+  {
+    "savol": "Qirqtacha oy ham tasvirlanadigan kashtachilikning turi nima deb ataladi?",
+    "A": "Palak",
+    "B": "Kirpech",
+    "C": "So’zana",
+    "D": "Zardevor",
+    "javob": "A"
+  },
+  {
+    "savol": "Tokchaga taxlab ko‘yilgan kiyim-kechak ustidan yoki devorning bo‘sh joylariga ilib, uyni bezatib turishi uchun ishlatiladigan badiiy buyum nima deb ataladi?",
+    "A": "Kirpech",
+    "B": "So’zana",
+    "C": "Zardevor",
+    "D": "Palak",
+    "javob": "A"
+  },
+  {
+    "savol": "Kashtachilikning qaysi turi igna bilan tikilgan degan ma’noni beradi?",
+    "A": "So’zana",
+    "B": "Paxtachilik",
+    "C": "Applikatsiya",
+    "D": "Zardevor",
+    "javob": "A"
+  },
+  {
+    "savol": "Choyshab qaysi so’zdan olingan?",
+    "A": "Forscha",
+    "B": "Turkcha",
+    "C": "Fransuzcha",
+    "D": "Ruscha",
+    "javob": "A"
+  },
+  {
+    "savol": "Mato, kigiz, charm, karton, zig‘ir, jun, sun’iy iplar, zar iplar, mayin sim, xom charm qaysi jarayonda ishlatiladi?",
+    "A": "Kashtachilikda",
+    "B": "Applikatsiyada",
+    "C": "Zardo’zlikda",
+    "D": "Haykaltaroshlikda",
+    "javob": "A"
+  },
+  {
+    "savol": "Samarqand, Buxoro, Nurota, Farg‘ona, Uratepa, Shaxrisabz, Toshkent va boshka joylardagi so‘zana turlaridan namunalar nechanchi asrlarda mavjud edi?",
+    "A": "XIX",
+    "B": "XX",
+    "C": "IX",
+    "D": "XII",
+    "javob": "A"
+  },
+  {
+    "savol": "Kashtachilikda ignalarning necha turi mavjud?",
+    "A": "2",
+    "B": "5",
+    "C": "7",
+    "D": "4",
+    "javob": "A"
+  },
+  {
+    "savol": "Naqshlar uchun o‘tkir uchli necha sm uzunlikdagi qaychilar ishlatiladi.",
+    "A": "10-12",
+    "B": "10-18",
+    "C": "10-14",
+    "D": "10-17",
+    "javob": "A"
+  },
+  {
+    "savol": "Tikish qulay bo‘lishi uchun qatim necha sm dan uzun bo‘lmasligi lozim?",
+    "A": "50-60",
+    "B": "60-70",
+    "C": "25-35",
+    "D": "80-90",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi olim oʻz ta’limotida tarbiyada bola tabiatini hisobga olish tamoyilini asoslab bergan?",
+    "A": "Demokrit",
+    "B": "Aflotun",
+    "C": "Arastu",
+    "D": "Komenskiy",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi olim ilk marotaba davlat va tarbiyaning oʻzaro munosabati gʻoyasini ilgari surgan. Uningcha, tarbiya ishi davlatning eng muhim vazifasi hisoblangan.",
+    "A": "Aflotun",
+    "B": "Arastu",
+    "C": "Komenskiy",
+    "D": "Demokrit",
+    "javob": "A"
+  },
+  {
+    "savol": "Aflotundan farqli oʻlaroq u inson tarbiyasida asosiy urgʻuni davlatga toʻliq boʻysundirishga emas, balki insonning oʻzini manfaatlariga qaratadi",
+    "A": "Arastu",
+    "B": "Komenskiy",
+    "C": "Demokrit",
+    "D": "Frebel",
+    "javob": "A"
+  },
+  {
+    "savol": "Predmetli, mazmunli, dekorativ bu nimaning tarkibiy tuzulmalari?",
+    "A": "Rasm",
+    "B": "Applikatsiya",
+    "C": "Qurish-yasash",
+    "D": "Tajribalar",
+    "javob": "A"
+  },
+  {
+    "savol": "Kichik guruhda bolalarda nechta rang o’rganishi lozim?",
+    "A": "5",
+    "B": "6",
+    "C": "8",
+    "D": "9",
+    "javob": "A"
+  },
+  {
+    "savol": "Qizil, ko‘k, yashil, sariq, qora va jigar rang qaysi guruhda o’rgatiladi?",
+    "A": "O‘rta guruh",
+    "B": "Katta guruh",
+    "C": "Tayyorlov guruh",
+    "D": "Kichik guruh",
+    "javob": "A"
+  },
+  {
+    "savol": "Qalamni ishlatishga tayyorlashda yog‘och qatlami necha mm bo‘lishi lozim?",
+    "A": "25-30",
+    "B": "10-15",
+    "C": "15-20",
+    "D": "20-40",
+    "javob": "A"
+  },
+  {
+    "savol": "Mo‘yqalamlarning turlari necha qismga bo’linadi?",
+    "A": "2",
+    "B": "3",
+    "C": "6",
+    "D": "8",
+    "javob": "A"
+  },
+  {
+    "savol": "Ingichka mo‘yqalamlarning uzunligi necha nomerda bo‘ladi?",
+    "A": "1-8",
+    "B": "3-4",
+    "C": "5-6",
+    "D": "8-10",
+    "javob": "A"
+  },
+  {
+    "savol": "Yo‘g‘on razmerli mo’yqalamlarning razmerlari necha?",
+    "A": "12-14",
+    "B": "15-16",
+    "C": "12-13",
+    "D": "10-12",
+    "javob": "A"
+  },
+  {
+    "savol": "Loy, mum, yog‘, bo‘yoq va boshqa qo‘shilmalardan tayyorlangan sun’iy plastik massa nima deb ataladi?",
+    "A": "Plastilin",
+    "B": "Guash",
+    "C": "Chinni xamir",
+    "D": "Loy ishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Katta qaychining uzunligi nega sm?",
+    "A": "14— 20",
+    "B": "15-18",
+    "C": "17-19",
+    "D": "20-25",
+    "javob": "A"
+  },
+  {
+    "savol": "Kichik qaychining uzunligi necha sm?",
+    "A": "8-10",
+    "B": "10-12",
+    "C": "14-15",
+    "D": "16-18",
+    "javob": "A"
+  },
+  {
+    "savol": "…-chiziqlarni to‘g‘rilash va ortiqcha qismlarni olib tashlash uchun kerak. Yumshoq o‘chirg‘ich qog‘ozni shikastlamaydi.",
+    "A": "O‘chirg‘ich",
+    "B": "Bo‘yoqlar",
+    "C": "Mo‘yqalamlar",
+    "D": "Qalamlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Ta’limning an’anaviy metodlari tasnifi necha guruhga bo‘linadi?",
+    "A": "3",
+    "B": "6",
+    "C": "9",
+    "D": "4",
+    "javob": "A"
+  },
+  {
+    "savol": "Bo‘yoqlarni aralashtirish uchun xizmat qiladigan narsa nima deb ataladi?",
+    "A": "Palitra",
+    "B": "Suv idishi",
+    "C": "Naturmort",
+    "D": "Yoritish",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘rta guruh necha yoshni o’z ichiga oladi?",
+    "A": "4-5",
+    "B": "5-6",
+    "C": "6-7",
+    "D": "3-4",
+    "javob": "A"
+  },
+  {
+    "savol": "Katta guruh necha yoshni o‘z ichiga oladi?",
+    "A": "5-6",
+    "B": "6-7",
+    "C": "3-4",
+    "D": "4-5",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilarning qaysi biri bola uchun juda qiziqarli bo’lib bolalar doim eshitgisi keladi?",
+    "A": "Ertak",
+    "B": "Roman",
+    "C": "Qissa",
+    "D": "Doston",
+    "javob": "A"
+  },
+  {
+    "savol": "Hindistonning qo’g’irchoq teatri bilan qanday bog’liqligi bor?",
+    "A": "Birinchi qo’girchoq teatr sahnasi bezatilgan",
+    "B": "Teatr qo’yilgan",
+    "C": "She’rxonlik bo’lgan",
+    "D": "Romannavislik bo’lgan",
+    "javob": "A"
+  },
+  {
+    "savol": "3-4yoshdan bolalarni nimaga o’rgatish mumkin?",
+    "A": "Sahna madaniyatiga",
+    "B": "Romanlarga",
+    "C": "Qissalarga",
+    "D": "Poemalarga",
+    "javob": "A"
+  },
+  {
+    "savol": "Teatrshunoslik qanday fan?",
+    "A": "Teatr tarixi va nazariyasini o’rganuvchi fan?",
+    "B": "Til nazariyasini o’rganuvchi fan",
+    "C": "Romanshunoslikni o’rganuvchi fan",
+    "D": "Qissashunoslikni o’rganuvchi fan",
+    "javob": "A"
+  },
+  {
+    "savol": "Bola 4 yoshidan erkin qila oladigan faoliyat nima?",
+    "A": "Hikoya tuzish",
+    "B": "Roman o’qish",
+    "C": "Qissa aytish",
+    "D": "Doston",
+    "javob": "A"
+  },
+  {
+    "savol": "Bolajonlarda ajdodlarga hurmatni kuchaytiradigan yo’nalish nima?",
+    "A": "Xalq og’zaki ijodi",
+    "B": "Poema",
+    "C": "Roman",
+    "D": "Qissa",
+    "javob": "A"
+  },
+  {
+    "savol": "Qo’g’irchoqlarning dastlab qanday ko’rinishlari bo’lgan?",
+    "A": "Turli xudolar ko’rinishida bo’lgan",
+    "B": "Buratino",
+    "C": "Moychechak",
+    "D": "Qo’g’oz",
+    "javob": "A"
+  },
+  {
+    "savol": "Sahnalashtirishning maqsadi nima?",
+    "A": "Bolalarning tasavvur olamini kengaytrish",
+    "B": "Bilim berish",
+    "C": "Ko’rsatish",
+    "D": "Do’stlashish",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi teatrga milliy teatr maqomi 2001-yilda berilgan?",
+    "A": "Hamza teatriga",
+    "B": "Amerika teatriga",
+    "C": "Xitoy teatriga",
+    "D": "Jizzax teatriga",
+    "javob": "A"
+  },
+  {
+    "savol": "Pape-masheda asosiy mahsulotlar nima?",
+    "A": "Qog’oz va yelim",
+    "B": "Qaychi",
+    "C": "Barg",
+    "D": "Yaproq",
+    "javob": "A"
+  },
+  {
+    "savol": "Ivititilgan qog’ozlar va kileyning qaysi faoliyatda ahamiyati katta?",
+    "A": "Pape-masheda",
+    "B": "Qo’g’irchoq teatrida",
+    "C": "Teatrda",
+    "D": "yumshoq o’yinchoqlarda",
+    "javob": "A"
+  },
+  {
+    "savol": "Bolalarning notiq bo’lishlari uchun ilk qadam nima orqali qo’yiladi?",
+    "A": "She’r yodlatish orqali",
+    "B": "Doston orqali",
+    "C": "Roman orqali",
+    "D": "Poema orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Kichik guruh bolalari nimani sevib tomosha qiladi?",
+    "A": "Qo’g’irchoq teatrini",
+    "B": "Filmlarni",
+    "C": "Operani",
+    "D": "Kinolarni",
+    "javob": "A"
+  },
+  {
+    "savol": "Xalq og’zaki ijodini yana nima deb nomlaymiz?",
+    "A": "Folklor",
+    "B": "Adabiyot",
+    "C": "Poema",
+    "D": "Qissa",
+    "javob": "A"
+  },
+  {
+    "savol": "Qirqib yopishtirishga asoslangan faoliyat turi nima?",
+    "A": "Applekatsiya",
+    "B": "Pape-mashe",
+    "C": "Origami",
+    "D": "Teatr",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilarning qaysi biri origami san’atining vujudga kelishi bilan bog’liq?",
+    "A": "Yaponiya",
+    "B": "O’zbekiston",
+    "C": "Turkiston",
+    "D": "Tojikiston",
+    "javob": "A"
+  },
+  {
+    "savol": "Nima tomoshagoh va ibratxona sifatida talqin etiladi?",
+    "A": "Teatr",
+    "B": "Adabiyot",
+    "C": "Mahorat",
+    "D": "Tarix",
+    "javob": "A"
+  },
+  {
+    "savol": "Tasviriy faoliyatning turiga mansub bo’lganini aniqlang",
+    "A": "Applekatsiya",
+    "B": "Teatr",
+    "C": "Tomosha",
+    "D": "Ertak",
+    "javob": "A"
+  },
+  {
+    "savol": "Maktabgacha ta’lim tashkilotida katta guruh bolalari yoshini belgilang?",
+    "A": "5-6 yosh",
+    "B": "6-7 yosh",
+    "C": "3-4 yosh",
+    "D": "4-5 yosh",
+    "javob": "A"
+  },
+  {
+    "savol": "Bolajonlarning psixologik holati va rivojlanishiga ijobiy ta’sir ko’rsatuvchi sohani aniqlang!",
+    "A": "Qo’g’irchoq teatri",
+    "B": "Doston",
+    "C": "Poema",
+    "D": "Roman",
+    "javob": "A"
+  },
+  {
+    "savol": "Ilk qadam davlat dasturidan oldin amal qilgan dastur nomi nima?",
+    "A": "Bolajon",
+    "B": "Qaqajon",
+    "C": "Shirintoy",
+    "D": "Erkatoy",
+    "javob": "A"
+  },
+  {
+    "savol": "Bolajonlar bilan mashg’ulot o’tkazuvchi shaxs kim?",
+    "A": "Tarbiyachi",
+    "B": "Pedagog",
+    "C": "Uslubchi",
+    "D": "Mudira",
+    "javob": "A"
+  },
+  {
+    "savol": "Personajlarni yasash juda qiziq bo’lgan yoshni belgilang?",
+    "A": "Mtt yoshi",
+    "B": "Maktab yoshi",
+    "C": "Kollej yoshi",
+    "D": "Oliy ta’lim yoshi",
+    "javob": "A"
+  },
+  {
+    "savol": "Bolalarga estetik tarbiya beruvchi faoliyat nima?",
+    "A": "Tasviriy faoliyat",
+    "B": "Nutq o’stirish",
+    "C": "Lug’at boyligi",
+    "D": "Ertak",
+    "javob": "A"
+  },
+  {
+    "savol": "Kichkintoylarga tarbiya berishning noodatiy usuli hisoblangan faoliyatni aniqlang.",
+    "A": "Qo’g’irchoq teatri",
+    "B": "Rasm",
+    "C": "Hikoya",
+    "D": "Doston",
+    "javob": "A"
+  },
+  {
+    "savol": "Q’og’irchoq teatrining asosiy elementi nima?",
+    "A": "Qo’g’irchoqlar",
+    "B": "Kitoblar",
+    "C": "Varaqlar",
+    "D": "Xiyobon",
+    "javob": "A"
+  },
+  {
+    "savol": "Yorug’lik,soya va shakllar qaysi teatrning elementlari hisoblanadi?",
+    "A": "Soya teatri",
+    "B": "Barmoq teatri",
+    "C": "Qo’lqop teatri",
+    "D": "Marionetka",
+    "javob": "A"
+  },
+  {
+    "savol": "Nimaning 200dan ortiq turi mavjud?",
+    "A": "Qog’ozning",
+    "B": "Matoning",
+    "C": "Kitobning",
+    "D": "Daftarning",
+    "javob": "A"
+  },
+  {
+    "savol": "Qurish-yasash faoliyati qaysi ijodiy turga mansub?",
+    "A": "Tasviriy faoliyat",
+    "B": "Matematika",
+    "C": "Tarix",
+    "D": "Siyosat",
+    "javob": "A"
+  },
+  {
+    "savol": "Tasviriy faoliyat turlaridan hisoblangan yo’nalishlar nimalar?",
+    "A": "Barchasi",
+    "B": "Qurish-yasash",
+    "C": "Loy ishi",
+    "D": "Applekatsiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Bo’rining aldash orqali hayvonchalarni yeyishi qaysi ertakda uchraydi?",
+    "A": "Echki va uning bolalari",
+    "B": "Tulki",
+    "C": "Sholg’om",
+    "D": "G’oz",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi ertakda tulkining ayyorligiga guvoh bo’lamiz?",
+    "A": "Bo’g’irsoq",
+    "B": "Sholg’om",
+    "C": "G’oz",
+    "D": "O’rdak",
+    "javob": "A"
+  },
+  {
+    "savol": "Ertakning mazmunida kattalar ruxsatisiz ko’chaga chiqmaslik mazmuni yotadi.Bu qaysi ertak?",
+    "A": "Bo’g’irsoq",
+    "B": "Sholg’om",
+    "C": "Echki",
+    "D": "Tulki",
+    "javob": "A"
+  },
+  {
+    "savol": "Bolalarni sahnalashtirish va ijodiy faoliyatga o`rgatish fanining vazifalarini belgilang?",
+    "A": "Bolalarni obrazli fikrlashga o`rgatish",
+    "B": "Bolalarni rivojlantirish",
+    "C": "Bolalarni jismoniy rivojlantirish",
+    "D": "Bolalarni aqliy rivojlantirish",
+    "javob": "A"
+  },
+  {
+    "savol": "O`zbek soya teatrining ilk qahramonlarini belgilang?",
+    "A": "Kachal polvon va Bichixon",
+    "B": "Zumrad va Qimmat",
+    "C": "Qobil va Hobil",
+    "D": "ayyor Hasan",
+    "javob": "A"
+  },
+  {
+    "savol": "Maktabgacha ta`lim tashkilotida sahnalashtirishning ahamiyatlarini belgilang?",
+    "A": "Ana’nalarga qadriyatlarga mehr uyg`otish",
+    "B": "milliy asarlarni tushinish",
+    "C": "Mehr uyg`otish",
+    "D": "komil shaxsni rivojlantirish",
+    "javob": "A"
+  },
+  {
+    "savol": "O`zbekistonda Respublika qo`g`irchoq teatrlari festivali ilk marta qayerda tashkil etilgan?",
+    "A": "Toshkent",
+    "B": "Andijon",
+    "C": "Samarqand",
+    "D": "Nukus",
+    "javob": "A"
+  },
+  {
+    "savol": "Xamza teatriga qachon ‘’milliy teatr’’ maqomi berildi?",
+    "A": "2001-yilda",
+    "B": "1991-yil",
+    "C": "2000-yil",
+    "D": "2005-yil",
+    "javob": "A"
+  },
+  {
+    "savol": "Yosh tomoshabinlar bir necha toifaga bo’linadi ular qaysilar?",
+    "A": "MT   bolalari, O’rta sinf o’quvchilari, o`smirlar",
+    "B": "Yoshlar va qarilar",
+    "C": "Ota onalar va bolalar",
+    "D": "To’g’ri javob yo’q",
+    "javob": "A"
+  },
+  {
+    "savol": "Qo’g’irchoq teatirini tuz ilishi va tashkil etilishiga ko’ra nechi xil turi mavjud",
+    "A": "5 xilda",
+    "B": "4 xil",
+    "C": "3xil",
+    "D": "2xil",
+    "javob": "A"
+  },
+  {
+    "savol": "MTT lari tarbiyachilari faoliyatini tashkil qilish uchun yordam berishi mumkin bo’lgan qo’llanmalarni belgilang?",
+    "A": "Ilk qadam",
+    "B": "Bolajon",
+    "C": "Aqlli bolakay",
+    "D": "Baxtli bolalik",
+    "javob": "A"
+  },
+  {
+    "savol": "Mustaqillikdan so’ng MTTlarda bolalar nutqini korreksiya qilish uchun keng qo’llanilayotgan metodni belgilang?",
+    "A": "Sahnalashtirish metodi",
+    "B": "Kuzatuv metodi",
+    "C": "Ekspriment metodi",
+    "D": "So’rov metodi",
+    "javob": "A"
+  },
+  {
+    "savol": "Sahnalashtirishning pedogagik ahamiyatlarini ko’rsating?",
+    "A": "Bolalar bilan bevosita erkin muloqatda bo’lish,tarbiya berish",
+    "B": "Fikr almashish",
+    "C": "Bolalarni ezgu mo’jizalarga ishontirish",
+    "D": "Jismonan baquvvat qilish",
+    "javob": "A"
+  },
+  {
+    "savol": "Bolalarda ijodkorlikni rivojlantirishda ularning qanday shaxsiy xislatlari hisobga olinadi?",
+    "A": "Yosh xususiyatlari",
+    "B": "Aqliy xususiyatlari",
+    "C": "Yashash xududi",
+    "D": "Ko’rish xususiyati",
+    "javob": "A"
+  },
+  {
+    "savol": "Rossiyadagi ilk qo’girchoq teatiri nomini ko’rsating",
+    "A": "Petrushka",
+    "B": "Ramashka",
+    "C": "Moychechak",
+    "D": "Lolajon",
+    "javob": "A"
+  },
+  {
+    "savol": "Ilk ko’rinishdagi qo’g’irchoqlar qanday ko’rinishda vujudga kelgan?",
+    "A": "Turli xudolar ko’rinishida",
+    "B": "Hayvonlar",
+    "C": "Afsonaviy qirollar",
+    "D": "Gul",
+    "javob": "A"
+  },
+  {
+    "savol": "Italiyada qo’g’irchoq teatirlari ilk davlarda qanday atala boshlangan ?",
+    "A": "Pulchinella",
+    "B": "Fontachina",
+    "C": "Buratino",
+    "D": "Gussi",
+    "javob": "A"
+  },
+  {
+    "savol": "Turkiyada yaratilgan ilk qo’girchoq teatrlari nomini ko’rsating?",
+    "A": "Qorago’z",
+    "B": "Buratino",
+    "C": "Mo’jiza",
+    "D": "Hayot",
+    "javob": "A"
+  },
+  {
+    "savol": "Turkiyada yaratilgan ilk qo’g’irchoq teatiri qahramonlarini ko’rsating?",
+    "A": "Hojivand va noshud Qorago’z",
+    "B": "Buratino",
+    "C": "Moychechak",
+    "D": "Ali bobo va qirq qaroqchi",
+    "javob": "A"
+  },
+  {
+    "savol": "Hozirgi kunda eng ko’p qaysi davlatda bolalar teatrlari faoliyat ko’rsatmoqda?",
+    "A": "Rim va Gretsiya",
+    "B": "Afina",
+    "C": "O’zbekiston",
+    "D": "Yaponiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Katta tarbiyaviy ahamiyatga ega bo’lgan ,bolalarning ichki kechinmalariga tasir etuvchi tarbiya vositasini toping?",
+    "A": "Teatrlar",
+    "B": "Ertaklar",
+    "C": "Teatr va ertaklar",
+    "D": "Bayram dasturlari",
+    "javob": "A"
+  },
+  {
+    "savol": "Sahna madaniyati ijodiy qobiliyatlar bolalarda necha yoshidan rivojlanadi?",
+    "A": "3-4 yoshdan",
+    "B": "5yoshdan",
+    "C": "2yoshdan",
+    "D": "6yoshdan",
+    "javob": "A"
+  },
+  {
+    "savol": "Teatr tarixi va nazaryasini o’rganuvchi fan?",
+    "A": "Teatrshunoslik",
+    "B": "Dramaturgiya",
+    "C": "Poema",
+    "D": "Epopeya",
+    "javob": "A"
+  },
+  {
+    "savol": "Qo’g’irchoq teatiri nazaryasi ilk bor kimning asarida o’z ifodasini topgan?",
+    "A": "Aristotelning Poetikasida",
+    "B": "Shekspirning asarida",
+    "C": "Gogolning Nemislar asarida",
+    "D": "Rafhonda",
+    "javob": "A"
+  },
+  {
+    "savol": "Musiqa bilan qadimda o’zbek teatrining qaysi turlaridagina foydalanilgan?",
+    "A": "Qo’girchoq teatri",
+    "B": "Masharabozlik",
+    "C": "Libretto",
+    "D": "Soya teatri",
+    "javob": "A"
+  },
+  {
+    "savol": "Tasviriy san’atning teatr bilan bog’liq sohasi?",
+    "A": "Stenografiya",
+    "B": "Rassomlik",
+    "C": "Haykaltaroshlik",
+    "D": "Milliy dizayn",
+    "javob": "A"
+  },
+  {
+    "savol": "Qo’girchoq teatri sahnasini bezash qaysi davlatlarda ilk marta qo’llana boshlangan?",
+    "A": "Hindiston",
+    "B": "Amerika",
+    "C": "Turkiya",
+    "D": "Angliya",
+    "javob": "A"
+  },
+  {
+    "savol": "Soya teatirining O’zbekistondagi ilk qahramonlari nomini qayd ayting?",
+    "A": "Kachal polvon",
+    "B": "Qora",
+    "C": "Norin",
+    "D": "Uzun Xasan",
+    "javob": "A"
+  },
+  {
+    "savol": "Qo’g’irchoq teatri mustaqil soha sifatida qachondan shakllangan?",
+    "A": "19-asr",
+    "B": "20-asr",
+    "C": "16-asr",
+    "D": "17-asr",
+    "javob": "A"
+  },
+  {
+    "savol": "Teatr –ibratxonadir jumlasi muallifi kim?",
+    "A": "Behbudiy",
+    "B": "A.Avloniy",
+    "C": "Bedil",
+    "D": "Umar Xayyom",
+    "javob": "A"
+  },
+  {
+    "savol": "Bolakaylarni sahnada o’zlarini bemalol tutishlari uchun tarbiyachi qanday munosabatda bo’lishi kerak?",
+    "A": "Mehribon",
+    "B": "Bilimdon",
+    "C": "Qattiqo’l",
+    "D": "Aqlli",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi yoshidan bolalar hikoya tuza oladilar?",
+    "A": "4 yosh",
+    "B": "3 yosh",
+    "C": "6-5 yosh",
+    "D": "2yosh",
+    "javob": "A"
+  },
+  {
+    "savol": "Noananaviy tarbiya vositasi?",
+    "A": "Sahnalashtirilgan tomoshalar",
+    "B": "Kitoblar",
+    "C": "Ertaklar",
+    "D": "Suhbat",
+    "javob": "A"
+  },
+  {
+    "savol": "Bolalarda qanday xususiyatlar kuchli bo’lgani uchun sahnalashtirish orqali tarbiyalash qulay?",
+    "A": "Eslab qolish",
+    "B": "Tanqid",
+    "C": "O’yinqaroqlik",
+    "D": "Hammasi to`g`ri",
+    "javob": "A"
+  },
+  {
+    "savol": "Bolalarga rollarni bo’lib berishda nimalar ahamiyatga ega?",
+    "A": "Bolalarning qiziqishlari va xohishlari",
+    "B": "Bolalarning qobilyatlari",
+    "C": "Bolalarning mehnatiga",
+    "D": "Xohishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Aplikatsiya san’at turi orqali bolalarda qanday xususiyatlarni rivojlantirish mumkin?",
+    "A": "Tejamkorlik",
+    "B": "Rassomlik",
+    "C": "O’zgalar va o’zlarining mehnatlarini qadrlash",
+    "D": "Donolik",
+    "javob": "A"
+  },
+  {
+    "savol": "Maktabgacha yoshdagi o’quvchilarga qanday usulda yasaladigan o’yinchoqlarni tayyorlatgan maqul?",
+    "A": "Qog’oz va kartondan",
+    "B": "Yumshoq matolardan",
+    "C": "simlardan",
+    "D": "Baklashkalar vayelim idishlardan",
+    "javob": "A"
+  },
+  {
+    "savol": "Bolalarda atrof muhitga bo’lgan munosabat o’zgaradi,hayot haqidagi tasavvurlari kengayadi bunday o’zgarishlar qachondan boshlanadi?",
+    "A": "Obrazli fikrlash boshlanishi bilan",
+    "B": "Ertaklar tinglashi bilan",
+    "C": "She’r yodlashi bilan",
+    "D": "Atrofni ko’rishi bilan",
+    "javob": "A"
+  },
+  {
+    "savol": "Bolarda axloqiy sifatlarni rivojlantirish uchun qaysi san’at turidan foydalanish muhim hisoblanadi?",
+    "A": "Sahnalashtirilgan tomoshalar",
+    "B": "Ertaklar",
+    "C": "Sheriy kechalar",
+    "D": "Afsonalar",
+    "javob": "A"
+  },
+  {
+    "savol": "Qo’girchoqlar bilan suhbat quramiz oyligi MTT da avval qachon o’tkazilgan?",
+    "A": "Mart oylarida",
+    "B": "Aprel",
+    "C": "Yanvar",
+    "D": "Dekabr",
+    "javob": "A"
+  },
+  {
+    "savol": "Badiiy asarlarni tanlashda qo’yiladigan talablarni belgilang?",
+    "A": "Mazmunining g’oyaviy ma’naviy barkamolligi",
+    "B": "badiiy jihat",
+    "C": "Asardagi qatnashchi va rollarning soni",
+    "D": "Asar qahramonlari",
+    "javob": "A"
+  },
+  {
+    "savol": "Ijodkorlar mustaqillik yillaridan so’ng qanday asarlar yaratishgan?",
+    "A": "Buyuk ipak yolidagi karvonsaroy",
+    "B": "Chodir hayol",
+    "C": "Chodir Jamol",
+    "D": "Buyukxon",
+    "javob": "A"
+  },
+  {
+    "savol": "Applekatsitsiya qachon paydo bo’lgan?",
+    "A": "2500 yil avval ko’chmanchi xalqlarda",
+    "B": "2700 yil avval chorvadorlarda",
+    "C": "2000 yil oldin dehqonlarda",
+    "D": "2300 yil oldin mahalliy xalqlarda",
+    "javob": "A"
+  },
+  {
+    "savol": "O`zbekiston Respublikasida bolalar san’atga qachondan boshlab yo’naltiriladi?",
+    "A": "MTTdan",
+    "B": "O’rta maktabdan",
+    "C": "San’at kollejlaridan",
+    "D": "Oliy ta’limdan",
+    "javob": "A"
+  },
+  {
+    "savol": "Birinchi qo’girchoqlar qanday tayyorlangan?",
+    "A": "Qo’l mehnati yordamida",
+    "B": "Tikuv mashinalarida",
+    "C": "Jamoa bo’lib",
+    "D": "Tabiiy materiallardan",
+    "javob": "A"
+  },
+  {
+    "savol": "Hindistondagi ilk qo’girchoq teatri nomini ko’rsating",
+    "A": "Mahayana",
+    "B": "Ramashka",
+    "C": "gullola",
+    "D": "Petrushka",
+    "javob": "A"
+  },
+  {
+    "savol": "Bolalarda aktyorlik mahoratini dastlab nima orqali shakllantira boshlash zarur?",
+    "A": "She’r yodlatish orqali",
+    "B": "Tez aytish orqali",
+    "C": "Maqol orqali",
+    "D": "Qo’shiq orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Pape mashe qanday usul?",
+    "A": "Ivigan va g’ijimlangan qog’ozdan buyum yasash",
+    "B": "Matodan buyum yasash",
+    "C": "Qog’ozni buklab yasash",
+    "D": "Tashlandiq buyumlardan narsalar yasash",
+    "javob": "A"
+  },
+  {
+    "savol": "O’yinchoq predmeti nima?",
+    "A": "Predmetning kichiklashtirilgan shartli tasviri umumlashtirilgan badiiy obraz",
+    "B": "Bolalarning o’ynashlari uchun yaratilgan maxsus predmet",
+    "C": "Real predmetning kichraytirilgan nusxasi",
+    "D": "Shakl,harakat o’ziga jalb qiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Applekatsiyaning asosiy materiallari nimalar?",
+    "A": "Qog’oz va mato,somon,quritilgan o’simlik barglari,urug’lar va danak po’choqlari",
+    "B": "Qog’oz,mato",
+    "C": "Somon parchalari",
+    "D": "Rangli qog’oz",
+    "javob": "A"
+  },
+  {
+    "savol": "Tasviriy faoliyat turlarini aniq ko’rsating?",
+    "A": "Loy ishi, aplikatsiya, qurish yasash, rasm chizish",
+    "B": "Aplikatsiya, qurish yasash, rasm chizish",
+    "C": "Loy ishi, qurish yasash, rasm chizish",
+    "D": "Loy ishi, aplikatsiya, qurish yasash,",
+    "javob": "A"
+  },
+  {
+    "savol": "Barmoqlarning to’g’ri harakatiga nima samarali hisoblanadi?",
+    "A": "Tasviriy faoliyat",
+    "B": "His-tuyg’u",
+    "C": "Eshitish",
+    "D": "Ko’rish",
+    "javob": "A"
+  },
+  {
+    "savol": "Eng katta guruh mttda qanday nomlanadi?",
+    "A": "Tayyorlov guruhi",
+    "B": "Katta guruh",
+    "C": "Yasli",
+    "D": "Shirintoy",
+    "javob": "A"
+  },
+  {
+    "savol": "Bir bor ekan,bir yo’q ekan deya boshlanuvchi janr nima?",
+    "A": "Ertak",
+    "B": "Roman",
+    "C": "Sizma",
+    "D": "Lira",
+    "javob": "A"
+  },
+  {
+    "savol": "Mtt uchun mukammal dastur qaysi?",
+    "A": "Ilk qadam dasturi",
+    "B": "Kamalak",
+    "C": "Qaqajon",
+    "D": "Jajjijon",
+    "javob": "A"
+  },
+  {
+    "savol": "Xitoy qaysi mahsulotning vatani?",
+    "A": "Qog’oz",
+    "B": "Ip",
+    "C": "Kashta",
+    "D": "Rang",
+    "javob": "A"
+  },
+  {
+    "savol": "Legolardan uylar qurish qaysi tasviriy faoliyat turi?",
+    "A": "Qurish-yasash",
+    "B": "Loy ishi",
+    "C": "Applekatsiya",
+    "D": "Rasm chizish",
+    "javob": "A"
+  },
+  {
+    "savol": "Rangli qalamlardan foydalanish qaysi tasviriy faoliyat turida bor?",
+    "A": "Rasm chizish",
+    "B": "Loy ishi",
+    "C": "Applekatsiya",
+    "D": "Qurish-yasash",
+    "javob": "A"
+  },
+  {
+    "savol": "Applikatsiya ishiga necha yoshdan boshlab o‘rgatiladi?",
+    "A": "3yoshdan",
+    "B": "5yoshdan",
+    "C": "10yoshdan",
+    "D": "11yoshdan",
+    "javob": "A"
+  },
+  {
+    "savol": "Naqshli applikatsiya nima asosida tuziladi?",
+    "A": "Takrorlanuvchi bezak elementlari asosida",
+    "B": "Takrorlanmas bezak elementlari yordamida",
+    "C": "Tasodifiy shakllar yordamida",
+    "D": "Chiziqlar va nashqshlar asosida",
+    "javob": "A"
+  }
+]
