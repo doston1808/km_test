@@ -1,0 +1,986 @@
+[
+  {
+    "savol": "Issiqlik texnikasida“Termodinamika” so‘zi qaysi tildan olingan?",
+    "A": "Yunon",
+    "B": "Lotincha",
+    "C": "Ruscha",
+    "D": "Arabcha",
+    "javob": "A"
+  },
+  {
+    "savol": "Issiqlik texnikasida “Termos” so‘zining ma’nosi nima?",
+    "A": "Issiqlik",
+    "B": "Sovuqlik",
+    "C": "Kuch",
+    "D": "Energiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Issiqlik texnikasida “Dinamikos” so‘zining ma’nosi nima?",
+    "A": "Kuch",
+    "B": "Harakat",
+    "C": "Issiqlik",
+    "D": "Sovuqlik",
+    "javob": "A"
+  },
+  {
+    "savol": "Kim tomonidan texnikaviy termodinamika fan sifatida asos solingan?",
+    "A": "M.V. Lomonosov",
+    "B": "D. Joule tomonidan",
+    "C": "S. Karno tomonidan",
+    "D": "R. Mayer tomonidan",
+    "javob": "A"
+  },
+  {
+    "savol": "“Issiqlik va sovuqlik sabablari” asari qachon yozilgan?",
+    "A": "1747 y.",
+    "B": "1746 y.",
+    "C": "1766 y.",
+    "D": "1824 y.",
+    "javob": "A"
+  },
+  {
+    "savol": "Universal bug‘ mashinasini kim yaratgan?",
+    "A": "I.I. Polzunov",
+    "B": "J. Watt yaratgan",
+    "C": "R. Mayer yaratgan",
+    "D": "Kelvin yaratgan",
+    "javob": "A"
+  },
+  {
+    "savol": "Universal bug‘ mashinasi qachon yaratilgan?",
+    "A": "1765 y.",
+    "B": "1748 y.",
+    "C": "1824 y.",
+    "D": "1844 y.",
+    "javob": "A"
+  },
+  {
+    "savol": "Issiqlik texnikasida termodinamikaning uchta asosiy qonuni mavjud. 1-qonun nima haqida?",
+    "A": "Energiya saqlanishi va o‘zgarishi",
+    "B": "Entropiya kamayishi haqida",
+    "C": "Mutlaq nol holati haqida",
+    "D": "Haroratni o‘lchash haqida",
+    "javob": "A"
+  },
+  {
+    "savol": "Issiqlik texnikasida termodinamikaning 2-qonuni nimani ta’kidlaydi?",
+    "A": "Ikkinchi tur abadiy dvigatel bo‘lishi mumkin emasligini",
+    "B": "Energiya saqlanishini ta’kidlaydi",
+    "C": "Mutlaq nolga intilishni ta’kidlaydi",
+    "D": "Harorat farqini ta’kidlaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Issiqlik texnikasida termodinamikaning 3-qonuni nima bilan bog‘liq?",
+    "A": "Mutlaq nol harorat holatini tushuntiradi",
+    "B": "Energiya saqlanishi bilan bog‘liq",
+    "C": "Entropiya kamayishi bilan bog‘liq",
+    "D": "Abadiy dvigatel bilan bog‘liq",
+    "javob": "A"
+  },
+  {
+    "savol": "Termodinamikada issiqlik qanday usullar bilan uzatiladi?",
+    "A": "O‘tkazuvchanlik, konveksiya, nurlanish",
+    "B": "Diffuziya, sath, bosim bilan",
+    "C": "Radiatsiya, elektr, magnit bilan",
+    "D": "Sovuqlik, zichlik, hajm bilan",
+    "javob": "A"
+  },
+  {
+    "savol": "Termodinamik jarayonlarda issiqlik dvigatellarida ishchi jism sifatida nimalar ishlatiladi?",
+    "A": "Gaz va bug‘",
+    "B": "Suv va havo ishlatiladi",
+    "C": "Neft va ko‘mir ishlatiladi",
+    "D": "Elektronlar ishlatiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Issiqlik texnikasida termodinamik tizim qanday bo‘lishi mumkin?",
+    "A": "Ochiq, yopiq, yakkalangan, adiabatik",
+    "B": "Faol, passiv bo‘lishi mumkin",
+    "C": "Qattiq, suyuq, gaz bo‘lishi mumkin",
+    "D": "Katta va kichik bo‘lishi mumkin",
+    "javob": "A"
+  },
+  {
+    "savol": "Jarayonlarda ochiq termodinamik tizim misoli qaysi?",
+    "A": "Gaz-turbina qurilmasi",
+    "B": "Ichki yonuv  dvigateli tizimi",
+    "C": "Porshenli silindr tizim",
+    "D": "Suv qozoni tizimi",
+    "javob": "A"
+  },
+  {
+    "savol": "Jarayonlarda yopiq termodinamik tizim misoli qaysi?",
+    "A": "Ichki yonuv dvigatellari",
+    "B": "Gaz-turbina qurilmasi tizimi",
+    "C": "Elektr generatori tizimi",
+    "D": "Suv turbinası tizimi",
+    "javob": "A"
+  },
+  {
+    "savol": "SI shkalasida temperaturaning birligiqaysi?",
+    "A": "Kelvin shkala",
+    "B": "Reomyur shkalasi",
+    "C": "Farengeyt shkalasi",
+    "D": "Rankin shkalasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Suvning qaynash temperaturasi stelsiy shkalasida necha gradusda olinadi?",
+    "A": "100 °C",
+    "B": "99 °C",
+    "C": "273 K",
+    "D": "31 °F",
+    "javob": "A"
+  },
+  {
+    "savol": "Absolyut temperatura bilan stelsiy temperaturasi orasidagi bog‘lanish ifodasi qaysi?",
+    "A": "T = 273,15 + t",
+    "B": "T = 100 + t",
+    "C": "T = 100-t",
+    "D": "T = 32 + t",
+    "javob": "A"
+  },
+  {
+    "savol": "Gaz bosimning SI dagi birligi nima?",
+    "A": "Paskal (Pa)",
+    "B": "Bar",
+    "C": "mm simob ustuni",
+    "D": "Atmosfera",
+    "javob": "A"
+  },
+  {
+    "savol": "Ortiqcha atmosfera va bosimlar yig‘indisi nima deyiladi?",
+    "A": "To‘la (absolyut) bosim",
+    "B": "Dinamik bosim",
+    "C": "Barometrik bosim",
+    "D": "Manometrik bosim",
+    "javob": "A"
+  },
+  {
+    "savol": "Qanday energiyani bug‘ turbinalari mexanik energiyaga aylantiradi?",
+    "A": "Issiqlik energiyasi",
+    "B": "Elektr energiya",
+    "C": "Yadro energiya",
+    "D": "Kimyoviy energiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Ishchi jism sifatida bug‘ turbinalarda nima ishlatiladi?",
+    "A": "Suv bug‘i",
+    "B": "Havo ishlatiladi",
+    "C": "Neft bug‘I ishlatiladi",
+    "D": "Gaz aralashmasi ishlatiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Katta quvvatli bug‘ turbinalar ko‘proq qayerda qo‘llaniladi?",
+    "A": "Elektr stansiyalarda",
+    "B": "Qishloq xo‘jaligida",
+    "C": "Tibbiyotda",
+    "D": "Avtomobillarda",
+    "javob": "A"
+  },
+  {
+    "savol": "Asosan bug‘ turbinasida energiya aylanish jarayoni qaysi qonunga asoslanadi?",
+    "A": "Termodinamika qonunlari asosida",
+    "B": "Elektrodinamika qonunlariga",
+    "C": "Mexanika qonunlariga",
+    "D": "Optika qonunlariga",
+    "javob": "A"
+  },
+  {
+    "savol": "Zamonaviy bug‘ turbinasining asosiy qismlaridan biri qaysi?",
+    "A": "Ishchi g‘ildiraklar",
+    "B": "Stol lampasi",
+    "C": "Akkumulyator",
+    "D": "Kondensator",
+    "javob": "A"
+  },
+  {
+    "savol": "An’anaviy bug‘ turbinasida ishchi g‘ildiraklar qaysi qism bilan biriktiriladi?",
+    "A": "Val orqali biriktiriladi",
+    "B": "Podshipnik orqali",
+    "C": "Nasos orqali",
+    "D": "Qozon orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Bug’-Gaz turbinalarda issiqlik almashinish uchun qanday qurilma ishlatiladi?",
+    "A": "Issiqlik almashinish apparatlari",
+    "B": "Transformator ishlatiladi",
+    "C": "Reaktor ishlatiladi",
+    "D": "Akkumulyator ishlatiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ideal gaz tenglamasi qanday yoziladi?",
+    "A": "pV = nRT",
+    "B": "p = F/S-1",
+    "C": "Q = mc-ΔT",
+    "D": "T = 273 + t",
+    "javob": "A"
+  },
+  {
+    "savol": "SI tizimida temperaturaning birligi qaysi?",
+    "A": "Kelvin (K)",
+    "B": "Gradus",
+    "C": "Farengeyt",
+    "D": "Rankin",
+    "javob": "A"
+  },
+  {
+    "savol": "Odatda suvning qaynash temperaturasi stelsiy shkalasida nechaga teng?",
+    "A": "100 °C",
+    "B": "0 °C",
+    "C": "373 K",
+    "D": "132 °F",
+    "javob": "A"
+  },
+  {
+    "savol": "Bug‘ turbinasida hosil bo‘lgan mexanik energiya qaysi qurilmada elektr energiyaga aylanadi?",
+    "A": "Generator",
+    "B": "Transformator",
+    "C": "Kompressor",
+    "D": "Kondensator",
+    "javob": "A"
+  },
+  {
+    "savol": "Bug‘ turbinalarida samaradorlik odatda necha foiz atrofida bo‘ladi?",
+    "A": "40–50 %",
+    "B": "82–99 %",
+    "C": "100 %",
+    "D": "15–25 %",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi qurilma yopiq termodinamik tizimga misol bo‘ladi?",
+    "A": "Ichki yonuv dvigateli",
+    "B": "Gaz-turbina qurilma",
+    "C": "Elektr generatori qurilma",
+    "D": "Suv turbinası qurilma",
+    "javob": "A"
+  },
+  {
+    "savol": "Quvvatli bug‘ turbinasining asosiy vazifasi nima?",
+    "A": "Issiqlik energiyasini mexanik energiyaga aylantirish",
+    "B": "Sovutish",
+    "C": "Saqlash",
+    "D": "Qizdirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Bugungi kunda bug‘ turbinalari qaysi transport vositalarida ham qo‘llaniladi?",
+    "A": "Kema",
+    "B": "Avtomobil",
+    "C": "Velosiped",
+    "D": "Samakat",
+    "javob": "A"
+  },
+  {
+    "savol": "Bug’ turbinalarda ishchi jismning issiqligi kamayganda qanday jarayon kuzatiladi?",
+    "A": "Entropiya ortadi",
+    "B": "Energiya saqlanadi",
+    "C": "Harorat saqlanadi",
+    "D": "Posim  saqlanadi",
+    "javob": "A"
+  },
+  {
+    "savol": "IESlarda bug‘ turbinalari ishlashi uchun zarur bo‘lgan asosiy manba nima?",
+    "A": "Qozondagi suv bug‘i",
+    "B": "Elektr tok",
+    "C": "Quyosh nuri",
+    "D": "Magnit maydon",
+    "javob": "A"
+  },
+  {
+    "savol": "Absolut, mutlaq nol harorat necha Kelvin?",
+    "A": "0 K",
+    "B": "–27 °C",
+    "C": "101 K",
+    "D": "73 K",
+    "javob": "A"
+  },
+  {
+    "savol": "Termodinamik jarayolarda issiqlik qanday usullar bilan uzatiladi?",
+    "A": "O‘tkazuvchanlik, konveksiya, nurlanish",
+    "B": "Bosim, kuch, massa bilan uzatiladi",
+    "C": "Tezlik, vaqt, tezlanish bilan uzatiladi",
+    "D": "Diffuziya, tarqalish bilan uzatiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Odatda atmosfera va ortiqcha bosimlar yig‘indisi nima deyiladi?",
+    "A": "To‘la (absolyut) bosim",
+    "B": "Dinamik bosim",
+    "C": "Manometrik bosim",
+    "D": "Barometrik bosim",
+    "javob": "A"
+  },
+  {
+    "savol": "Termodinamik jarayonlarda issiqlik uzatishning nechta asosiy turi mavjud?",
+    "A": "3 ta",
+    "B": "2 ta",
+    "C": "4 ta",
+    "D": "6 ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Yopiq va ochiq issiqlik uzatishning asosiy usullari qaysilar?",
+    "A": "O‘tkazuvchanlik, konveksiya, nurlanish",
+    "B": "Bug‘lanish, kondensatsiya",
+    "C": "Diffuziya, radiatsiya",
+    "D": "Konveksiya, sublimatsiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Faqat qaysi muhitlarda konveksiya kuzatiladi?",
+    "A": "Suyuqlik va gazlar",
+    "B": "Qattiq jismlarda",
+    "C": "Vakuumda",
+    "D": "Metallarda",
+    "javob": "A"
+  },
+  {
+    "savol": "Qanday jarayon orqali nurlanish amalga oshadi?",
+    "A": "Elektromagnit to‘lqinlar vositasida",
+    "B": "Molekula urilishi orqali",
+    "C": "Faqat havo orqali",
+    "D": "Suv bug‘lari orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Issiqlik almashinuvda temperatura farqi qanday sharti hisoblanadi?",
+    "A": "Zaruriy va yetarli",
+    "B": "Ikkinchi darajali shart",
+    "C": "Faqat zaruriy shart",
+    "D": "Faqat yetarli shart",
+    "javob": "A"
+  },
+  {
+    "savol": "Qanday birlikda issiqlik oqimi o‘lchanadi?",
+    "A": "Vatt (W)",
+    "B": "Joul",
+    "C": "Kaloriya",
+    "D": "Pascal",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi birlikda issiqlik oqimining zichligi o‘lchanadi?",
+    "A": "Vt/m²,  (q)",
+    "B": "Vt",
+    "C": "Joul/s",
+    "D": "Vt·s/m²",
+    "javob": "A"
+  },
+  {
+    "savol": "Kimni nomi bilan issiqlik o‘tkazuvchanlikning asosiy qonuni ataladi?",
+    "A": "Fure nomi",
+    "B": "Nyuton qonuni",
+    "C": "Stefan-Boltsman qonuni",
+    "D": "Ohm qonuni",
+    "javob": "A"
+  },
+  {
+    "savol": "Temperatura maydoni vaqtga bog‘liq bo‘lsa, qanday deyiladi?",
+    "A": "Nobarqaror deyiladi",
+    "B": "Barqaror",
+    "C": "Statsionar",
+    "D": "Izotermik",
+    "javob": "A"
+  },
+  {
+    "savol": "Temperatura maydoni faqat koordinataga bog‘liq bo‘lsa, qanday deyiladi?",
+    "A": "Barqaror deyiladi",
+    "B": "Nobarqaror",
+    "C": "Dinamik",
+    "D": "Aktiv",
+    "javob": "A"
+  },
+  {
+    "savol": "Qanday nuqtalar izotermik sirtlarda joylashadi?",
+    "A": "Bir xil temperaturali",
+    "B": "Har xil bosimli",
+    "C": "Yuqori bosimli",
+    "D": "Past issiqlik bosimli",
+    "javob": "A"
+  },
+  {
+    "savol": "Odatda temperatura gradienti qanday yo‘nalishda bo‘ladi?",
+    "A": "Izotermik sirtga normal",
+    "B": "Sirt bo‘ylab",
+    "C": "Vakuum bo‘ylab",
+    "D": "Molekula tezligi bo‘ylab",
+    "javob": "A"
+  },
+  {
+    "savol": "Termodinamik jarayonda issiqlik o‘tkazuvchanlik koeffitsienti nimaga bog‘liq?",
+    "A": "Modda tuzilishi, zichligi, namligi, bosimi, temperaturaga",
+    "B": "Faqat moddaning massasi va tezligiga",
+    "C": "Faqat gaz bosimiga hamda tezligiga",
+    "D": "Faqat elektr qarshiligiga va oqim tezligiga",
+    "javob": "A"
+  },
+  {
+    "savol": "Yoqori issiqlik o‘tkazuvchi moddalar qaysilar?",
+    "A": "Metallar",
+    "B": "Gazlar",
+    "C": "Dielektriklar",
+    "D": "Suv",
+    "javob": "A"
+  },
+  {
+    "savol": "Materiallarida issiqlik o‘tkazuvchanlik koeffitsienti qanday oraliqda bo‘ladi?",
+    "A": "0,02 – 3,0 Vt/(m·K)",
+    "B": "10 – 50 Vt/m·K",
+    "C": "100 – 200 Vt/m·K",
+    "D": "0,0001 – 0,001 Vt/m·K",
+    "javob": "A"
+  },
+  {
+    "savol": "Real gazlarda issiqlik qanday uzatiladi?",
+    "A": "Molekulalarning tartibsiz harakati",
+    "B": "Elektronlar orqali",
+    "C": "Kristall panjara orqali",
+    "D": "Nurlanish orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Qattiq metallarda issiqlik qanday uzatiladi?",
+    "A": "O‘tkazuvchi elektronlar bilan",
+    "B": "Molekulalar urilishi orqali",
+    "C": "Kristall panjara orqali",
+    "D": "Faqat konveksiya orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Barcha dielektriklarda issiqlik qanday uzatiladi?",
+    "A": "Kristall panjara tebranishlari bilan",
+    "B": "Elektronlar orqali",
+    "C": "Molekula zarbasi orqali",
+    "D": "Konveksiya orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Qanday hollarda konveksiya yuzaga keladi?",
+    "A": "Suyuqlik yoki gazning harakatlanishi natijasi",
+    "B": "Elektr tokida",
+    "C": "Qattiq jismlarda",
+    "D": "Faqat vakuumda",
+    "javob": "A"
+  },
+  {
+    "savol": "Nechta bosqichda nuriy issiqlik almashinuvi amalga oshadi?",
+    "A": "3 bosqichda",
+    "B": "2 bosqichda",
+    "C": "4 bosqichda",
+    "D": "6 bosqichda",
+    "javob": "A"
+  },
+  {
+    "savol": "Issiqlik texnikasida bosim qanday ta’riflanadi?",
+    "A": "Sirt yuzasiga normal bo‘yicha ta’sir etuvchi kuch",
+    "B": "Kuchning tangensial ta’siri",
+    "C": "Haroratning ta’siri",
+    "D": "Hajmning ta’siri",
+    "javob": "A"
+  },
+  {
+    "savol": "P bosimning SI birligi qaysi?",
+    "A": "Paskal (Pa)",
+    "B": "Bar",
+    "C": "Atmosfera",
+    "D": "N/m",
+    "javob": "A"
+  },
+  {
+    "savol": "1 Pa qanday aniqlanadi?",
+    "A": "1 N kuchning 1 m² yuzaga ta’siri",
+    "B": "1 J issiqlikning 1 m³ hajmga nisbati",
+    "C": "1 kg massaning 1 m/s tezlikda nisbati",
+    "D": "1 mol gazning bosimi tezlikda nisbati",
+    "javob": "A"
+  },
+  {
+    "savol": "1 fiz. atmosfera necha Pa ga teng?",
+    "A": "101325 Pa",
+    "B": "244682 Pa",
+    "C": "100000 Pa",
+    "D": "40440 Pa",
+    "javob": "A"
+  },
+  {
+    "savol": "1 bar necha Pa ga teng?",
+    "A": "105 Pa",
+    "B": "104 Pa",
+    "C": "133×10⁴ Pa",
+    "D": "9.81×10⁴ Pa",
+    "javob": "A"
+  },
+  {
+    "savol": "1 mm simob ustuni necha Pa ga teng?",
+    "A": "133,322 Pa",
+    "B": "201325 Pa",
+    "C": "4x10⁵ Pa",
+    "D": "8.88 N/m²",
+    "javob": "A"
+  },
+  {
+    "savol": "Bosim turlaridan biri atmosfera bosimi nimaga bog‘liq bo‘ladi?",
+    "A": "Geografik kenglik va ob-havoga",
+    "B": "Faqat balandlikka",
+    "C": "Faqat haroratga va balandlikka",
+    "D": "Suyuqlik zichligiga va balandlikka",
+    "javob": "A"
+  },
+  {
+    "savol": "Odatda ortiqcha bosim qanday aniqlanadi?",
+    "A": "Muhit bosimining atmosfera bosimidan ortiqchaligi",
+    "B": "Atmosfera bosimining kamayishi",
+    "C": "Faqat vakuum hosil bo‘lishi",
+    "D": "Suyuqlik ustunining balandligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Termodinamikada vakkummetrik bosim nima?",
+    "A": "Atmosfera bosimiga yetishmaydigan bosimdir",
+    "B": "Atmosfera bosimidan ortiqcha bosim",
+    "C": "Faqat absolyut bosim",
+    "D": "Differensial bosim",
+    "javob": "A"
+  },
+  {
+    "savol": "Absolyut bosimning formulasi qanday?",
+    "A": "Rabs = Ratm + Rort",
+    "B": "Rabs = Ratm – Rort",
+    "C": "Rabs = Ratm / Rort",
+    "D": "Rabs = Ratm × Rort",
+    "javob": "A"
+  },
+  {
+    "savol": "Mabodo ortiqcha va vakuum bosimlar nolga teng bo‘lsa, nimalar teng bo‘ladi?",
+    "A": "Atmosfera bosimi va absolyut bosim teng bo’ladi.",
+    "B": "Atmosfera va ortiqcha bosim",
+    "C": "Absolyut va vakuum bosim",
+    "D": "Ortacha va differensial bosim",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi asbob atmosfera bosimini o‘lchaydi?",
+    "A": "Barometr",
+    "B": "Manometr",
+    "C": "Vakuummetr",
+    "D": "Differensial manometr",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi asbob ortiqcha bosimni o‘lchaydi?",
+    "A": "Manometr",
+    "B": "Barometr",
+    "C": "Termometr",
+    "D": "Vakuummetr",
+    "javob": "A"
+  },
+  {
+    "savol": "Odatda siyraklikni o‘lchash uchun qaysi asbob qo‘llaniladi?",
+    "A": "Vakuummetr",
+    "B": "Manometr",
+    "C": "Termometr",
+    "D": "Barometr",
+    "javob": "A"
+  },
+  {
+    "savol": "Absolyut bosimni o‘lchash uchun asbob nomi?",
+    "A": "Absolyut bosim manometri",
+    "B": "Barometr",
+    "C": "Nanometr",
+    "D": "Termomanometr",
+    "javob": "A"
+  },
+  {
+    "savol": "Asboblardan atmosfera bosimini o‘lchash uchun ishlatiladigan barometrlar qanday bo‘ladi?",
+    "A": "Simobli va membranali",
+    "B": "Faqat elektron",
+    "C": "Faqat suyuqlikli",
+    "D": "Faqat deformatsion",
+    "javob": "A"
+  },
+  {
+    "savol": "Texnikada ikki bosim orasidagi farqni o‘lchash uchun qaysi asbob ishlatiladi?",
+    "A": "Differensial manometr",
+    "B": "Barometr",
+    "C": "Vakuummetr",
+    "D": "Termometr",
+    "javob": "A"
+  },
+  {
+    "savol": "Texnikada bosim o‘lchash asboblari qaysi ikki turga bo‘linadi?",
+    "A": "Suyuqlikli va deformatsion",
+    "B": "Gazli, diferentsial,  va suyuqlikli",
+    "C": "Elektron, gidravlik,  va mexanik",
+    "D": "Dinamik, molekukuar va statik",
+    "javob": "A"
+  },
+  {
+    "savol": "Nanometrlar va tyago qanday bosimlarni o‘lchash uchun ishlatiladi?",
+    "A": "Katta bo‘lmagan ortiqcha bosim",
+    "B": "Faqat atmosferani bosimini",
+    "C": "Faqat absolyut bosimni",
+    "D": "Elektr bosimni",
+    "javob": "A"
+  },
+  {
+    "savol": "Odatda atmosfera bosimi nimaning natijasida hosil bo‘ladi?",
+    "A": "Atmosfera havosi ustunining massasi",
+    "B": "Suyuqlik ustunining massasi ta’sirida",
+    "C": "Gaz molekulalari tezligining ta’sirida",
+    "D": "Qattiq jismlarning og‘irligi ta’sirida",
+    "javob": "A"
+  },
+  {
+    "savol": "Ideal gazning holat tenglamasi qaysi ko‘rinishda ifodalanadi?",
+    "A": "PV = nRT",
+    "B": "P = I·U+Q",
+    "C": "F =W-ma",
+    "D": "Q = cm+ΔT",
+    "javob": "A"
+  },
+  {
+    "savol": "Selsiy shkalasida T=0 °C ga teng bo‘lganda gazning temperaturasi Kelvin shkalasida nechaga teng?",
+    "A": "273 K",
+    "B": "0 K",
+    "C": "100 K",
+    "D": "484 K",
+    "javob": "A"
+  },
+  {
+    "savol": "Jarayonlarda politropa ko‘rsatkichini topishda qaysi parametrlar ishlatiladi?",
+    "A": "Bosim va temperatura",
+    "B": "Faqat hajm",
+    "C": "Faqat massa",
+    "D": "Faqat zichlik",
+    "javob": "A"
+  },
+  {
+    "savol": "Materialshunoslikda dielektrikning solishtirma qarshiligi qanday birlikda o‘lchanadi?",
+    "A": "Om·m",
+    "B": "V/m",
+    "C": "A/m²",
+    "D": "J/kg",
+    "javob": "A"
+  },
+  {
+    "savol": "Yaxshi dielektriklarda solishtirma qarshilik qanday qiymatga yetadi?",
+    "A": "10⁸ Om·m",
+    "B": "105 Om·m",
+    "C": "107 Om·m",
+    "D": "103 Om·m",
+    "javob": "A"
+  },
+  {
+    "savol": "Barcha gazning temperaturasi oshirilganda molekulalar qanday xususiyat namoyon qiladi?",
+    "A": "Tezroq harakatlanadi",
+    "B": "To‘xtab qoladi",
+    "C": "Sezilarli kamayadi",
+    "D": "O‘zgarishsiz qoladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Termodinamik jarayonlardagi Karno siklining asosiy diagrammalari qaysi?",
+    "A": "PV va TS",
+    "B": "VT va VT",
+    "C": "QS va QT",
+    "D": "PV va PT",
+    "javob": "A"
+  },
+  {
+    "savol": "Issiqlik texnikasi politropik jarayonda issiqlik miqdori qanday aniqlanadi?",
+    "A": "Q = ΔU + L",
+    "B": "Q = cmΔT",
+    "C": "Q = F·s",
+    "D": "Q = nRT",
+    "javob": "A"
+  },
+  {
+    "savol": "Odatda 1 kg havoning boshlang‘ich solishtirma hajmini topishda qaysi tenglama ishlatiladi?",
+    "A": "V = RT/P",
+    "B": "V = m·a+R",
+    "C": "V = P-F/S",
+    "D": "V =S+ ρ·g·h",
+    "javob": "A"
+  },
+  {
+    "savol": "Gaz balloni sig‘imi qaysi birlikda beriladi?",
+    "A": "Litr",
+    "B": "N·m",
+    "C": "Joule",
+    "D": "Pascal",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi harf bilan politropik jarayonda bajarilgan ish belgilanadi?",
+    "A": "L",
+    "B": "q",
+    "C": "d",
+    "D": "t",
+    "javob": "A"
+  },
+  {
+    "savol": "Jarayonlarda Karno siklining foydali ish koeffitsienti qanday aniqlanadi?",
+    "A": "η = 1 – T₃/T₁",
+    "B": "η = A/Q",
+    "C": "η = mgh/W",
+    "D": "η = R·T/P",
+    "javob": "A"
+  },
+  {
+    "savol": "Termodinamikada adiabatik jarayonda qaysi kattalik doimiy bo‘ladi?",
+    "A": "Q = 0",
+    "B": "P = const",
+    "C": "V = const",
+    "D": "T = const",
+    "javob": "A"
+  },
+  {
+    "savol": "Termodinamikada izoxor jarayonda qanday kattalik doimiy bo‘ladi?",
+    "A": "V = const",
+    "B": "p = const",
+    "C": "t = const",
+    "D": "q = const",
+    "javob": "A"
+  },
+  {
+    "savol": "Termodinamikada izobar jarayonida qaysi kattalik doimiy?",
+    "A": "P = const",
+    "B": "v = const",
+    "C": "q =const",
+    "D": "t = const",
+    "javob": "A"
+  },
+  {
+    "savol": "Izotermik jarayonda ichki energiya qanday o‘zgaradi?",
+    "A": "ΔU = 0",
+    "B": "ΔU > 0",
+    "C": "ΔU < 0",
+    "D": "ΔU << 0",
+    "javob": "A"
+  },
+  {
+    "savol": "Odatda 1 kmol gaz uchun gaz doimiysi R qiymati qancha?",
+    "A": "8,31 kJ/(kmol·K)",
+    "B": "1,38·10⁻²³ J/K",
+    "C": "4,18 J/gK",
+    "D": "9,81 m/s²",
+    "javob": "A"
+  },
+  {
+    "savol": "Gazlarda 1 mol uchun universal gaz doimiysi qaysi qiymatga teng?",
+    "A": "8,31 J/(mol·K)",
+    "B": "4,18 J/mol·K",
+    "C": "10 J/mol·K",
+    "D": "1 J/mol·K",
+    "javob": "A"
+  },
+  {
+    "savol": "Aksar adiabatik kengayishda temperatura qanday bo‘ladi?",
+    "A": "Temperature pasayadi",
+    "B": "O‘zgarmaydi",
+    "C": "Ortadi",
+    "D": "Cheksiz ortadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Gazning issiqlik almashinuvi politropik jarayonda n ga bog‘liq. Agar n = 1 bo‘lsa, qaysi jarayon hosil bo‘ladi?",
+    "A": "Izotermik",
+    "B": "Izobar  jarayon",
+    "C": "Izoxor jarayon",
+    "D": "Adiabatik jarayon",
+    "javob": "A"
+  },
+  {
+    "savol": "Gazlardan vodorodning boshlang‘ich temperaturasi nechaga teng?",
+    "A": "290 K",
+    "B": "300 K",
+    "C": "400 K",
+    "D": "500 K",
+    "javob": "A"
+  },
+  {
+    "savol": "Ideal gazlardan vodorodning issiqlik sig‘imi qancha?",
+    "A": "14,05 kJ/(kg·K)",
+    "B": "1,06 kJ/kg·K",
+    "C": "3,19 kJ/kg·K",
+    "D": "9,31 kJ/kg·K",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar barometrik bosim 743 mm.sim.ust. bo‘lsa, Pa da qiymati qancha chiqadi?",
+    "A": "≈ 10⁵ Pa",
+    "B": "101325 Pa",
+    "C": "9,81·10⁴ Pa",
+    "D": "133322 Pa",
+    "javob": "A"
+  },
+  {
+    "savol": "Gazlarning izoxorik jarayonida ish bajarilishi qanday bo‘ladi?",
+    "A": "L = 0",
+    "B": "L ≠ 0",
+    "C": "L ≠  Q",
+    "D": "L ≠  U",
+    "javob": "A"
+  },
+  {
+    "savol": "Issiqlik miqdori, izoxorik jarayonda nimaga teng?",
+    "A": "Q = ΔU",
+    "B": "Q = L+P",
+    "C": "Q = R-W",
+    "D": "Q = p-ΔV",
+    "javob": "A"
+  },
+  {
+    "savol": "Holat tenglamalardagi Sharl qonuni qaysi jarayonda qo‘llanadi?",
+    "A": "Izoxorik jarayoni",
+    "B": "Izobarik jarayon",
+    "C": "Adiabatik jarayon",
+    "D": "Politropik jarayon",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko’pincha holat tenglamasi orqali gaz massasini qanday aniqlash mumkin?",
+    "A": "m = (pV)/(RT)",
+    "B": "m = Q/c-t",
+    "C": "m = ΔU-1/R",
+    "D": "m = 1+V·ρ",
+    "javob": "A"
+  },
+  {
+    "savol": "Ichki energiya o‘zgarishi, izoxorik jarayonda qanday topiladi?",
+    "A": "ΔU = Q",
+    "B": "ΔU = R-t",
+    "C": "ΔU =W+ L",
+    "D": "ΔU = 1-R·T",
+    "javob": "A"
+  },
+  {
+    "savol": "Ideal gaz qonunlaridan biri bo‘yicha T/Р nisbatining o‘zgarmasligi qaysi holatda bo‘ladi?",
+    "A": "V = const",
+    "B": "p = const",
+    "C": "t = const",
+    "D": "q = const",
+    "javob": "A"
+  },
+  {
+    "savol": "Termik jarayonlarda azotning izobarik issiqlik sig‘imi berilgan qaysi qiymatga teng?",
+    "A": "1,03 kJ/(kg·K)",
+    "B": "14,05 kJ/kg·K",
+    "C": "4,18 kJ/kg·K",
+    "D": "0,84 kJ/kg·K",
+    "javob": "A"
+  },
+  {
+    "savol": "Odatda izobarik jarayonda bajarilgan ish qanday topiladi?",
+    "A": "L = R·ΔT·m",
+    "B": "L =W+ΔU",
+    "C": "L = Q-P",
+    "D": "L = ΔU+R",
+    "javob": "A"
+  },
+  {
+    "savol": "Q issiqlik miqdori izobarik jarayonda qanday aniqlanadi?",
+    "A": "Q = cp·m·ΔT",
+    "B": "Q = cp-ΔT",
+    "C": "Q = m+ΔT",
+    "D": "Q = cp+m",
+    "javob": "A"
+  },
+  {
+    "savol": "Izoxorik jarayonda hajm o’zgarmaydi, izobarik jarayonda hajm qanday o‘zgaradi?",
+    "A": "Hajm ortadi",
+    "B": "kamayadi",
+    "C": "o‘zgarmaydi",
+    "D": "nolga teng",
+    "javob": "A"
+  },
+  {
+    "savol": "Ma’lumotnomalarda yopiq idishdagi gaz aralashmasi bosimi qancha deb berilgan?",
+    "A": "0,8 MPa",
+    "B": "1,0 MPa",
+    "C": "1,2 MPa",
+    "D": "1,5 MPa",
+    "javob": "A"
+  },
+  {
+    "savol": "Ma’lumotnomalarda aralashmaning hajmi qancha deb berilgan?",
+    "A": "3 m³",
+    "B": "2 m³",
+    "C": "6 m³",
+    "D": "10 m³",
+    "javob": "A"
+  },
+  {
+    "savol": "Manbalarda aralashmaning massaviy tarkibi bo‘yicha azot ulushi nechaga teng?",
+    "A": "50 %",
+    "B": "25 %",
+    "C": "35 %",
+    "D": "45 %",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko’pincha aralashmaning massaviy tarkibi bo‘yicha kislorod ulushi nechaga teng?",
+    "A": "20 %",
+    "B": "35 %",
+    "C": "45 %",
+    "D": "55 %",
+    "javob": "A"
+  },
+  {
+    "savol": "Odatda aralashmaning massaviy tarkibi bo‘yicha karbonat angidrid ulushi nechaga teng?",
+    "A": "30 %",
+    "B": "25 %",
+    "C": "45 %",
+    "D": "55 %",
+    "javob": "A"
+  },
+  {
+    "savol": "Izoxorik jarayonda ΔU (ichki energiya o‘zgarishi) nimaga teng?",
+    "A": "ΔU=Q",
+    "B": "L",
+    "C": "R·ΔT",
+    "D": "0",
+    "javob": "A"
+  },
+  {
+    "savol": "Aralashmada karbonat angidrid (SO₂) necha % tashkil qiladi?",
+    "A": "30 %",
+    "B": "25 %",
+    "C": "55 %",
+    "D": "45 %",
+    "javob": "A"
+  },
+  {
+    "savol": "Bug‘ turbina qurilmasi qaysi sikl asosida ishlaydi?",
+    "A": "Renkin sikli",
+    "B": "Karno sikl",
+    "C": "Otto sikl",
+    "D": "Dizel sikl",
+    "javob": "A"
+  },
+  {
+    "savol": "Masala №1 da boshlang‘ich bug‘ bosimi qancha?",
+    "A": "5 MPa",
+    "B": "4,5 MPa",
+    "C": "1 MPa",
+    "D": "0,5 MPa",
+    "javob": "A"
+  },
+  {
+    "savol": "Kondensatordagi bosim qancha deb berilgan?",
+    "A": "4 kPa",
+    "B": "3 kPa",
+    "C": "5 kPa",
+    "D": "10 kPa",
+    "javob": "A"
+  }
+]
