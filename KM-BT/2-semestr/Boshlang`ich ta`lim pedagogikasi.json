@@ -1,0 +1,1202 @@
+[
+  {
+    "savol": "17-asrda Chex pedagogi Y A Komenskiy tomonidan nazariy asoslab berilgan tizim?",
+    "A": "Sinf dars tizimi",
+    "B": "Ma’ruza",
+    "C": "Bell-Lankaster ta’lim tizimi",
+    "D": "Dalton rejasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Sinf dars tizimida ta’limning asosiy birligi bu?",
+    "A": "Dars",
+    "B": "Ma’ruza",
+    "C": "Seminar",
+    "D": "Amaliy",
+    "javob": "A"
+  },
+  {
+    "savol": "Sinf dars tizimining mohiyati?",
+    "A": "Barcha javoblar to’g’ri",
+    "B": "Jadval bo’yicha yagona reja va dastur bo’yicha ishlangan",
+    "C": "Bir xil yoshdagi va rivojlanish darajasidagi o’quvchilar doimiy sinfni tashkil qilgan",
+    "D": "O’qituvchi sinfdagi ishlarni nazorat qilgan",
+    "javob": "A"
+  },
+  {
+    "savol": "Sinf dars tizimining kamchiliklari?",
+    "A": "O’quvchilarning individual xususiyatlarini hisobga olishdagi qiyinchiliklari",
+    "B": "Aniq tashkiliy tuzilmaning mavjudligi",
+    "C": "Katta guruh bilan ishlash",
+    "D": "Muammolarni jamoaviy muhokama qilish",
+    "javob": "A"
+  },
+  {
+    "savol": "Shakl so’zining ma’nosi ?",
+    "A": "Lotincha, “forma”-biror narsaning tashqi ko’rinishi, tuzilishi",
+    "B": "Inglizcha, “form” - biror narsaning xil-xususiyati",
+    "C": "Ruscha, “forma” - biror narsaning ichki ko’rinishi",
+    "D": "Yunoncha, “morfi” - biror narsa haqida ma’lumot",
+    "javob": "A"
+  },
+  {
+    "savol": "Ta’lim shakllari tasnifiga ko’ra…?",
+    "A": "Tuzilmaviy shakli, mavjudlilik shakli, tashkiliy shakli",
+    "B": "Tuzilmaviy shakli, mavjudlilik shakli",
+    "C": "Mavjudlilik shakli, tashkiliy shakli",
+    "D": "Tuzilmaviy shakli, tashkiliy shakli",
+    "javob": "A"
+  },
+  {
+    "savol": "Ta’limning tuzilmaviy shakliga ko’ra qanday shakllari mavjud?",
+    "A": "Individual, guruhli, jamoaviy, frontal, ommaviy",
+    "B": "Offline va online",
+    "C": "Asosiy va yordamchi",
+    "D": "Kunduzgi va kechki",
+    "javob": "A"
+  },
+  {
+    "savol": "Ta’limning tashkiliy shakliga ko’ra qanday shakllari mavjud?",
+    "A": "Asosiy (ma’ruza, seminar va amaliy mashg’ulotlar) va yordamchi (to’garak va konferensiyalar)",
+    "B": "Individual, guruhli, jamoaviy, frontal",
+    "C": "Offline va online",
+    "D": "Kunduzgi va masofaviy asosiy (ma’ruza, seminar va amaliy mashg’ulotlar) va yordamchi (to’garak va konferensiyalar)",
+    "javob": "A"
+  },
+  {
+    "savol": "Ishlab chiqarishdan ajralmagan holda oliy va o’rta maxsus ma’lumot olish shakli bu?",
+    "A": "Sirtqi ta’lim",
+    "B": "Kunduzgi ta’lim",
+    "C": "Jamoaviy ta’lim",
+    "D": "Individual ta’lim",
+    "javob": "A"
+  },
+  {
+    "savol": "Ta’limni tashkil etishning asosiy shakli bu?",
+    "A": "Dars",
+    "B": "Ma’ruza",
+    "C": "Seminar",
+    "D": "Laboratoriya",
+    "javob": "A"
+  },
+  {
+    "savol": "Har bir darsga qanday didaktik vazifa qo’yiladi?",
+    "A": "Ta’limiy, tarbiyaviy, rivojlantiruvchi",
+    "B": "Ta’limiy,rivojlantiruvchi",
+    "C": "Tarbiyaviy, rivojlantiruvchi",
+    "D": "Ta’limiy, tarbiyaviy,kompetensiyaviy",
+    "javob": "A"
+  },
+  {
+    "savol": "Tа’limning yordаmchi shаkllаriga nimalar kiradi?",
+    "A": "To‘gаrаk, kоnfеrеnsiya, mаslаhаt (kоnsultаtsiya), fаkultаtiv mаshg‘ulоt, o‘quv ekskursiyalаri, o‘quvchilаrning mustаqil uy ishlаri",
+    "B": "Ma’ruza, seminar, laboratoriya",
+    "C": "Turli didaktik o’yinlar",
+    "D": "Interfaol metodlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Didaktikaning “Oltin qoidasi” kim tomonidan yaratilgan ?",
+    "A": "Yan Amos Komenskiy tomonidan",
+    "B": "A Navoiy tomonidan",
+    "C": "Beruniy tomonidan",
+    "D": "Aristotel tomonidan",
+    "javob": "A"
+  },
+  {
+    "savol": "“Didaktika”atamasi ilk bor kim tomonidan fanga kiritilgan?",
+    "A": "Vol’fgang Ratke tomonidan “Didaktika, yoki ta’lim san’ati”",
+    "B": "Komenskiy tomonidan “o’qitish san’ati”",
+    "C": "K D  Ushinskiy tomonidan “Hammani hamma narsaga o’qitish”",
+    "D": "A Avloniy tomonidan",
+    "javob": "A"
+  },
+  {
+    "savol": "Didaktika so’zining ma’nosi",
+    "A": "Yunoncha o’qitish, o’rgatish",
+    "B": "Lotincha maqsadga erishish yo’li",
+    "C": "Ruscha ma’lumot",
+    "D": "Yunoncha “bola yetaklovchi”",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi olim sinf-dars tizimini ilmiy – nazariy va pedagogik jihatdan asoslab bergan?",
+    "A": "Ya A  Komenskiy",
+    "B": "Baungarten",
+    "C": "Beruniy",
+    "D": "K D  Ushinskiy",
+    "javob": "A"
+  },
+  {
+    "savol": "Ta’lim jarayonida egallangan bilim, ko’nikma, malaka va fikrlash usullari tizimi bu-",
+    "A": "Ta’lim",
+    "B": "Tarbiya",
+    "C": "Bilish jarayoni",
+    "D": "Anglash",
+    "javob": "A"
+  },
+  {
+    "savol": "…………… – yirik hajmdagi o‘quv materialini og‘zaki bayon qilish shakli",
+    "A": "Ma’ruza",
+    "B": "Bilim",
+    "C": "Ko’nikma",
+    "D": "Malaka",
+    "javob": "A"
+  },
+  {
+    "savol": "“Buyuk didaktika”asarining muallifi kim?",
+    "A": "Ya  A  Komenskiy",
+    "B": "K D  Ushinskiy",
+    "C": "A S  Makarenko",
+    "D": "A  Avloniy",
+    "javob": "A"
+  },
+  {
+    "savol": "Og‘ir nutq nuqsonlari bor bolalarning ta‘lim-tarbiyasi bilan qaysi fan shug‘ullanadi?",
+    "A": "Logopediya",
+    "B": "Tiflopedagogika",
+    "C": "Surdopedagogika",
+    "D": "Oligofrenopedagogika",
+    "javob": "A"
+  },
+  {
+    "savol": "Hozirgi kunda anomal bolalar qanday atamalar bilan nomlanmoqda?",
+    "A": "Barcha javoblar to‘g‘ri",
+    "B": "Imkoniyatlari cheklangan bolalar",
+    "C": "Alohida ehtiyojli bolalar",
+    "D": "Mahsus yordamga muhtoj bolalar",
+    "javob": "A"
+  },
+  {
+    "savol": "Oligofren bolalar-bu?",
+    "A": "Psixik rivojlanishi sust bolalar",
+    "B": "Zaif eshituvchi bolalar",
+    "C": "Bilish faoliyati turg‘un buzilgan bolalar",
+    "D": "Og‘ir nutqiy nuqsoni bor bolalar",
+    "javob": "A"
+  },
+  {
+    "savol": "Kelib chiqish sabablariga ko‘ra eshitish nuqsonlari?",
+    "A": "Tug‘ma va orttirilgan",
+    "B": "Tug‘ma",
+    "C": "Orttirilgan",
+    "D": "Organik va funksionallarga ajratib o‘rganiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "“Tarbiya biz uchun yo hayot yo mamot yo najot yo halokat yo saodat yo falokat masalasidir” Ushbu hikmat qaysi mutafakkir fikriga mansub?",
+    "A": "A Avloniy",
+    "B": "S Ayniy",
+    "C": "S Rajabov",
+    "D": "A Navoiy",
+    "javob": "A"
+  },
+  {
+    "savol": "Tarbiyaning yetakchi maqsadi?",
+    "A": "Shaxsni har tomonlama kamol toptirish",
+    "B": "Ijodkorlik va iqtidorni tarbiyalash",
+    "C": "Insonparvarlik va ahloqiy tarbiyalash",
+    "D": "Falsafiy va diniy dunyoqarashni tarbiyalash …",
+    "javob": "A"
+  },
+  {
+    "savol": "Tarbiya nima?",
+    "A": "Shаxsni shаkllаnishi vа rivojlаnishi uchun shаroit yаrаtishgа vа mаqsаdgа yo‘nаltirilgаn jаrаyon",
+    "B": "Bilim, ko‘nikmа vа mаlаkаlаrni o‘zlаshtirish mаqsаdigа yo‘nаltirilib, mаxsus tаshkil etilgаn jаrаyon bo‘lib, uning nаtijаsidа shаxsni tаbiiy qobiliyаtlаri rivojlаnishi hаmdа uning shаxsiy vа ijtimoiy sifаtlаri shаkllаnаdi",
+    "C": "Insondаgi sifаt vа miqdor o‘zgаrishi bo‘lib, uning mа’nаviy, ijtimoiy, ruhiy, jismoniy, аqliy turlаri mаvjud",
+    "D": "O‘quvchilаrni bilim, ko‘nikmа, mаlаkаlаrini o‘zlаshtirish nаtijаsi vа jаrаyoni, u аsosidа dunyoqаrаshni, аxloqiy vа boshqа shаxsiy fаzilаtlаrni shаkllаnishi, ijodiy qobiliyаtlаrini rivojlаnishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Xalq og’zaki ijodidan qaysilari boshlang’ich sinf o’quvchilarini tarbiyalashga mos keladi",
+    "A": "Xalq rivoyatlari va ertaklaridan foydalanish",
+    "B": "Dostonlardan foydalanish",
+    "C": "Maqol va matnlardan foydalanish",
+    "D": "Topishmoqlardan foydalanish",
+    "javob": "A"
+  },
+  {
+    "savol": "Oila tarbiyasida eng muhim yo’nalish?",
+    "A": "Axloqiy tarbiya",
+    "B": "Nafosat tarbiyasi",
+    "C": "Mehnat tarbiyasi",
+    "D": "Jismoniy tarbiyasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Fazilat tushunchasi",
+    "A": "Alohida shaxs o’z eli elatiga xalq ulusiga talluqli bo’lgan ijobiy axloqiy sifat majmuasi",
+    "B": "O’z oilasiga do’stiga ota-onasiga me’ribon bo’lishi",
+    "C": "Jamiyat taraqqiyotiga faol qatnashishi",
+    "D": "Axloqiy sifatlarni o’zida namoyon eta olishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Tarbiya metodi bu?",
+    "A": "(yunoncha: «metodos» – yo‘l, usul) – tarbiya maqsadiga erishishning yo‘li",
+    "B": "Umumiy metodning bir qismi, alohida harakati, yanada aniqlashuvini anglatadi",
+    "C": "Jamoa faolining har bir a’zosi zimmasiga muayyan vazifani yuklash",
+    "D": "Pedagogik muammolarni hal qilishda qo‘llaniladigan moddiy va ma’naviy madaniyat narsa va hodisalari",
+    "javob": "A"
+  },
+  {
+    "savol": "Qadr-qimmat nima?",
+    "A": "Insonni eng yuksakka ko‘taradigan, uning faoliyatiga, butun intilishlariga oliyjanoblik bag‘ishlaydigan narsadir",
+    "B": "Shaxsni hurmatlash, uning huquqlarini e’tirof etish",
+    "C": "Insonning o‘z-o‘ziga va qarindosh-urug‘lariga bo‘lgan munosabati",
+    "D": "Konstitutsiyalarda belgilangan insonning axloqiy normasi",
+    "javob": "A"
+  },
+  {
+    "savol": "…  -bu o‘quvchilar va o‘qituvchi hamda jamiyat o‘rtasidagi o‘zaro munosabatlar jarayonida pedagogik muammolarni hal qilish va tarbiya maqsadiga erishish uchun bolalarning ongi, his-tuyg‘ulari, xulq-atvoriga ta’sir qilishning o‘ziga xos usullari",
+    "A": "Tarbiya metodlari",
+    "B": "Tarbiya vositalari",
+    "C": "Tarbiya shakllari",
+    "D": "Tarbiya turlari",
+    "javob": "A"
+  },
+  {
+    "savol": "Shaxs ongini shakllantirish (ishontirish) metodlariga qaysi metodlar kiradi",
+    "A": "Hikoya, tushuntirish, izohlash, ma’ruza, etik suhbat, nasihat, o‘git, ko‘rsatma, munozara, namuna",
+    "B": "Mashq, pedagogik talab, ijtimoiy fikr, topshiriq, tarbiyalovchi vaziyat",
+    "C": "Rag‘batlantirish, tanbeh berish, uyaltirish",
+    "D": "O’z-o’zini tarbiyalash",
+    "javob": "A"
+  },
+  {
+    "savol": "Rag’batlantirish bu?",
+    "A": "Tarbiyalanuvchining xatti-harakati va faoliyatiga ijobiy baho berish asosida unga ishonch bildirish, ko‘ngilini ko‘tarish va uni qo‘llab-quvvatlash usulidir",
+    "B": "Eng muhim jazo chorasi  O‘qituvchi o‘quvchiga yuzma yuz turib tanbeh beradi, buni kundaligiga yozib qo‘yish mumkin",
+    "C": "O‘quvchining ma’lum xatti-harakatlariga jamoa yoki uning tarbiya uchun mas’ul bo‘lgan subyektlar (ota-onalar, vasiylar, jamoatchilik vakillari va boshqalar) oldida baho berish",
+    "D": "Mavjud fazilatlari, xatti-harakati, xulq-atvorini tahlil qilish asosida o‘z shaxsiga baho berishga yo‘naltirilgan faoliyat usuli",
+    "javob": "A"
+  },
+  {
+    "savol": "“Turkiy guliston yoxud axloq” asarining muallifi kim?",
+    "A": "A Avloniy",
+    "B": "Fitrat",
+    "C": "Hamza",
+    "D": "Forobiy",
+    "javob": "A"
+  },
+  {
+    "savol": "Bola tarbiyasi bilan birinchi navbatda kimlar shug’ullanishi kerak?",
+    "A": "Oilada birga yashovchi ota-onalar",
+    "B": "O’qituvchilar",
+    "C": "Qarindosh-urug’lar",
+    "D": "Mahalla",
+    "javob": "A"
+  },
+  {
+    "savol": "Tarbiya turlarini sanab o’ting",
+    "A": "Aqliy tarbiya, axloqiy tarbiya, fuqarolik tarbiyasi, mehnat tarbiyasi, jismoniy tarbiya, nafosat tarbiyasi, ekologik tarbiya, iqtisod tarbiyasi",
+    "B": "Jismoniy tarbiya, nafosat tarbiyasi, ekologik tarbiya, iqtisod tarbiyasi",
+    "C": "Aqliy tarbiya, axloqiy tarbiya, fuqarolik tarbiyasi, mehnat tarbiyasi, jismoniy tarbiya, nafosat tarbiyasi",
+    "D": "Fuqarolik tarbiyasi, mehnat tarbiyasi, jismoniy tarbiya, nafosat tarbiyasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Iqtisodiy tarbiya berish bu?",
+    "A": "Tejamkorlikka va ishbilarmolikka o’rgatish",
+    "B": "Ishlab chiqaruvchilar va ular o’rtasidagi munosabatlarni o’rgatish",
+    "C": "Saxiylikka o’rgatish",
+    "D": "Iqtisodiy tarbiya berish usullarini o’rgatish",
+    "javob": "A"
+  },
+  {
+    "savol": "Jismoniy tarbiyaning asosiy maqsadi –",
+    "A": "Barcha a`zolarni sog’lom o`sishini ta`minlash, ularni aqliy va jismoniy mehnatga shuningdek, vatan mudofaasiga tayyorlashdir",
+    "B": "Shaxsning psixo-fizologik rivojlanishni ta’minlash",
+    "C": "Shaxsni har tomonlama yetuk qilib tarbiyalash",
+    "D": "O’quvchi shaxsini fizologik jihatdan to’g’ri rivojlanishini ta’minlash",
+    "javob": "A"
+  },
+  {
+    "savol": "Estеtikа so‘zining ma’nosi nima",
+    "A": "Go‘zallikni his qilaman",
+    "B": "Xulq-atvor",
+    "C": "Donolikni sevaman",
+    "D": "O‘qitaman",
+    "javob": "A"
+  },
+  {
+    "savol": "Estetik tarbiyaning asosiy vositalarini aniqlang",
+    "A": "Tabiat, mehnat, badiiy adabiyot",
+    "B": "Konkurslar, viktorinalar, seminarlar",
+    "C": "To‘garaklar, ijodiy birlashmalar, maktab bayramlari",
+    "D": "Kitob, rasm, maket",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi qaysi so‘z “axloq” so‘zi bilan sinonim bo‘la oladi",
+    "A": "Etika",
+    "B": "Odat",
+    "C": "Estеtikа",
+    "D": "E’tiqod",
+    "javob": "A"
+  },
+  {
+    "savol": "“Kishilarning turmush tarzi, hayoti, aхloq odobi, madaniyatini yanada o‘zida mujassamlashtirgan tasavvurlar, bilimlar yig‘indisidir”deb nimaga ta’rif beramiz",
+    "A": "Dunyoqarash",
+    "B": "Fikr",
+    "C": "G’oya",
+    "D": "Hissiyot",
+    "javob": "A"
+  },
+  {
+    "savol": "Aqliy tarbiyaning asosiy vazifalari qaysilar?",
+    "A": "- belgilangan hajmdagi ilmiy bilimlarni egallash  -dunyoqarashni shakllantirish  - aql kuchi, iqtidor va qobiliyatlarini rivojlantirish  - bilishga oid qiziqishlarini rivojlantirish",
+    "B": "-Vatanga bo‘lgan mehr-muhabbat, unga sadoqat  -O‘zi mansub bo‘lgan millat o‘tmishi, urf-odatlari, an’analari va qadriyatlariga sodiqlik  -Vatan va millat tariхidan g‘ururlanish",
+    "C": "-o‘quvchilarni kasbga yo‘naltirish, ularni mehnat faoliyatining barcha turlari, shuningdek, ular yashayotgan hududda ehtiyoj mavjud bo‘lgan mutaхassisliklar bilan tanishtirish",
+    "D": "-tarbiyalanuvchilarni, atrofimizdagi go‘zallikni his qila olishga o‘rgatish  - voqelikka estetik munosabatni qaror toptirish  - estetik didni, go‘zallikni baholash qobiliyatini tarbiyalash",
+    "javob": "A"
+  },
+  {
+    "savol": "Fikrning tejamkorligi deganda nimani tushunasiz?",
+    "A": "Kam vaqt sarflab yetarlicha bilimlarni egallay olishda aks etadi",
+    "B": "Yangi bilimlarni, vazifalarni hal etishning yangi yo‘llarini faol izlashda namoyon bo‘ladi",
+    "C": "Maqsadga muvofiq o‘zgaruvchanlikni talab etadi",
+    "D": "Yangi materialni egallashda mavhumlashtira olishi mumkin bo‘lgan belgilarning muhimligi bosqichi va ularning umumlashganligi darajasida namoyon bo‘ladi",
+    "javob": "A"
+  },
+  {
+    "savol": "–fuqarolik tushunchasining mohiyatini anglatish orqali o‘quvchilarda yuksak darajadagi fuqarolik madaniyatini shakllantirish, ularni хalq, Vatan, jamiyat manfaatlari yo‘lida kurashuvchi fuqarolar etib tarbiyalashga yo‘naltirilgan pedagogik jarayon",
+    "A": "Fuqarolik tarbiyasi",
+    "B": "Jismoniy tarbiya",
+    "C": "Mehnat tarbiyasi",
+    "D": "Axloqiy tarbiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Huquqiy tarbiya orqali bolada nima shakllanadi?",
+    "A": "Huquqiy madaniyat",
+    "B": "Huquqiy faoliyat",
+    "C": "Fuqaro bo’lib shakllanadi",
+    "D": "Qonunlarni yod oladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Boshlang’ich sinf o’quvchilari mehnat faoliyatining qaysi turi bilan shug’ullanishadi?",
+    "A": "O’quv mehnati",
+    "B": "Ijtimoiy-foydali mehnat",
+    "C": "O’z-o’ziga xizmat ko’rsatish",
+    "D": "Ishlab chiqarish",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi maqollardan iqtisodiy tarbiya jarayonida qo’llasak bo’ladi?",
+    "A": "«Mendan ketguncha egasiga yetguncha», «Moling sara bo‘lmasa, bozoring sara bo‘lmas»",
+    "B": "«Achchiq til — zahri ilon, chuchuk tilga — jon qurbon » «Aytilgan so’z — otilgan o’q »",
+    "C": "«Аjalga davo yoʼq, Yomonga — balo » «Bast etgan oʼzar, Qasd etgan toʼzar »",
+    "D": "«Аdolat qilichi kesgan qoʼl ogʼrimas » «Аybsiz doʼst izlagan doʼstsiz qolar »",
+    "javob": "A"
+  },
+  {
+    "savol": "Axloq so’zining lug’aviy ma’nosi?",
+    "A": "Arabcha – хulq-atvor ma’nosini bildiradi",
+    "B": "Arabcha-ezgu ish, yaxshi xislat ma’nosini bildiradi",
+    "C": "Lotincha-erishaman degan ma’noni bildiradi",
+    "D": "Arabcha-parvarishlayman degan ma’noni bildiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ekologik tarbiya bu?",
+    "A": "O‘quvchi-yoshlarning atrofimizdagi olamga, atrof-muhitga nisbatan ongli munosabatini tarbiyalashdan iborat",
+    "B": "O‘quvchi-yoshlarga tabiat va inson orasidagi munosabatlarni ifodalovchi bilimlar tizimini berish jarayonidagi o‘qilishdan iborat",
+    "C": "Tabiatda tur yashashi mumkin bo‘lgan barcha muhit omillari majmui",
+    "D": "Kasbiy faoliyatda qaror qabul qilish uchun ekologik javobgarlikni his qilish va boshqalar",
+    "javob": "A"
+  },
+  {
+    "savol": "Bolalarda kun tartibiga rioya qilishni o’rgatishda qaysi tarbiya turi orqali shakllantiramiz",
+    "A": "Jismoniy tarbiya",
+    "B": "Ekologik tarbiya",
+    "C": "Mehnat tarbiyasi",
+    "D": "Aqliy tarbiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Estetik tarbiya orqali bolada nima shakllanadi?",
+    "A": "Estetik did",
+    "B": "Estetik ehtiyoj",
+    "C": "Estetik qiziqish",
+    "D": "Estetik mulohaza",
+    "javob": "A"
+  },
+  {
+    "savol": "San’at qaysi tarbiya turi vositasi?",
+    "A": "Estetik tarbiya",
+    "B": "Mehnat tarbiyasi",
+    "C": "Axloq tarbiyasi",
+    "D": "Ekologik tarbiya",
+    "javob": "A"
+  },
+  {
+    "savol": "“Iqtisod deb pul va mol kabi ne’matlarning qadrini bilmakka aytilur ” Bu fikr kimga tegishli?",
+    "A": "Abdulla Avloniy",
+    "B": "Alisher Navoiy",
+    "C": "Forobiy",
+    "D": "Z M Bobur",
+    "javob": "A"
+  },
+  {
+    "savol": "Inklyuziv ta’lim qanday ta’lim?",
+    "A": "Jismoniy, intellektual, ijtimoiy, hissiy, lingvistik va boshqa xususiyatlaridan qat’i nazar, har bir shaxsga umumiy ta’lim tizimida o‘qish imkoniyati beriladigan ta’lim shakli",
+    "B": "Anomal bolalarning aqliy va jismoniy rivojlanishidagi kamchiliklarni bartaraf etishga qaratilgan pedagogik va terapevtik choratadbirlar tizimi",
+    "C": "O‘quvchilarga tabiat va inson orasidagi munosabatlarni ifodalovchi bilimlar tizimini berish jarayonidagi o‘qilishdan iborat",
+    "D": "O‘zaro bog‘liq va uzviy tartibda bo‘lgan narsa, hodisalar birligi, majmui",
+    "javob": "A"
+  },
+  {
+    "savol": "Bilim, ko‘nikma, malaka va shaxsiy sifatlar majmui bu?",
+    "A": "Kompetensiya",
+    "B": "Malaka talablari",
+    "C": "O’quv reja",
+    "D": "Taksonomiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Shaxsni maqsadli shakllantirish jarayoni - bu?",
+    "A": "Tarbiya",
+    "B": "Ta’lim",
+    "C": "Maktab",
+    "D": "Oila",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘zbekiston Respublikasi «Ta’lim to‘grisida»gi Qonuni necha bob va moddadan tashkil topgan",
+    "A": "11 bob, 75 moddadan iborat",
+    "B": "10 bob, 57 moddadan iborat",
+    "C": "11 bob, 77 moddadan iborat",
+    "D": "6 bob, 60 moddadan iborat",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi qatorda rag’batlantirish va motivatsiyalash metodlari to’gri berilgan?",
+    "A": "Mukofotlash, tanbeh, musobaqa",
+    "B": "Mashq, musobaqa, nasihat",
+    "C": "Hikoya, tushuntirish, tanbeh",
+    "D": "Namuna, o‘rgatish, ma’ruza",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan qaysilari jazolash metodlariga kiradi?",
+    "A": "Tanbeh berish, uyaltirish, ogohlantirish",
+    "B": "O‘z-o‘zini baholash, uyaltirish, musobaqa",
+    "C": "Mashq, pedagogik talab, xayfsan berish",
+    "D": "Ma’ruza, o‘git, suhbat",
+    "javob": "A"
+  },
+  {
+    "savol": "Ta’lim metodlarining asosiy funktsiyalarini ko’rsating?",
+    "A": "Motivatsiyali, rivojlantiruvchi,ta’limiy, tashkiliy",
+    "B": "Rivojlantiruvchi,axboriy, kommunikativ",
+    "C": "Bashorat qilish, rivojlantiruvchi, ta’limiy, tashkiliy",
+    "D": "Tarbiyaviy, rivojlantiruvchi, kommunikativ, tashkiliy",
+    "javob": "A"
+  },
+  {
+    "savol": "O’qitish jarayoni nima?",
+    "A": "Bu ikki yoqlama boshqariladigan maqsadga muvofiq pedagogik jarayon",
+    "B": "Bu bilim,ko‘nikma,malaka hosil qilish jarayoni",
+    "C": "O‘quvchilarning mustaqil ishlarini boshqarishda o‘qituvchilarning rahbarligi",
+    "D": "O‘qituvchining tartiblangan faoliyati",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi so’z metod tushunchasining mohiyatini ochib beradi?",
+    "A": "Maqsadga erishish usuli",
+    "B": "Uslubiylik",
+    "C": "Tadqiq etish",
+    "D": "Birgalikdagi faoliyat",
+    "javob": "A"
+  },
+  {
+    "savol": "Sinf deb nimaga aytiladi?",
+    "A": "Yoshi va bilimi jihatidan bir xil bo’lgan muayyan o’quvchilar guruhiga aytiladi",
+    "B": "Bir guruh o’quvchilar yig’indisiga aytiladi",
+    "C": "Bir sinf o’quvchilar jamoasiga aytiladi",
+    "D": "O’quvchi boshchiligidagi jamoaga aytiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi olim tabiatda hayot bahordan boshlangani kabi ta’lim olish jarayoni uchun eng qulay davr bolalik ekanligini ta’kidlagan?",
+    "A": "Ya A Komenskiy",
+    "B": "Abdulla Avloniy",
+    "C": "Disterverg",
+    "D": "Gerbart",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri estetik tarbiyaning vazifasi bo’la olmaydi?",
+    "A": "Chiroyli so‘z, modaga ishqibozlikni shakllantirish",
+    "B": "Estetik didni, go‘zallikni baholash qobiliyatini tarbiyalash",
+    "C": "San’atdagi, atrofimizdagi go‘zallikni his qila olish",
+    "D": "O‘quvchilarda estetik ongni tarkib toptirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Axloqiy tarbiya nimaga xizmat qiladi?",
+    "A": "Insonning madaniy va ma`naviy ustunligini, faolligini ko`rsatishga",
+    "B": "Jamiyat hayotini yaxshilashga",
+    "C": "Xalq turmushini yaxshilashga",
+    "D": "Insonning faol mehnat qilishiga",
+    "javob": "A"
+  },
+  {
+    "savol": "Insonning jamiyatdagi o`rni, hatti – harakati, faoliyatini tanlashda nima yo`l – yo`riq ko`rsatadi?",
+    "A": "Huquqiy tarbiya",
+    "B": "Mehnat tarbiyasi",
+    "C": "Jismoniy tarbiya",
+    "D": "Estetik tarbiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Insonning voqelikdagi, san`atdagi, tabiatdagi, kishilarning ijtimoiy va mehnat munosabatlaridagi, turmushdagi go`zallikni idrok qilishi",
+    "A": "Estetik tarbiya",
+    "B": "Jismoniy tarbiya",
+    "C": "Mehnat tarbiyasi",
+    "D": "Axloqiy tarbiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Xulq – atvorni shakllantirish usullariga nimalar kiradi?",
+    "A": "Odatlantirish, o`rgatish, mashq qildirish, talab, ibrat- namuna",
+    "B": "Musobaqa, jazolash, rag’batlantirish",
+    "C": "Talab, ibrat – namuna, o`git – nasihat",
+    "D": "Barchasi to`g’ri",
+    "javob": "A"
+  },
+  {
+    "savol": "Shaxsda muayyan jismoniy, ruhiy, axloqiy, maʼnaviy sifatlarni shakllantirishga qaratilgan amaliy pedagogik jarayon bu?",
+    "A": "Tarbiya",
+    "B": "Metod",
+    "C": "Usul",
+    "D": "Qonun",
+    "javob": "A"
+  },
+  {
+    "savol": "Tor maʼnoda tarbiya bu?",
+    "A": "Shaxsning jismoniy rivoji, dunyoqarashi, maʼnaviy axloqiy qiyofasi, estetik didi oʻstirilishiga yoʻnaltirilgan pedagogik faoliyat",
+    "B": "Shaxsga jamiyatning ta’sir etishi, ijtimoiy hodisa sifatida qaraladi",
+    "C": "Bilim, ilm, malaka, ko’nikma  aql, ong, fahm",
+    "D": "Axloq, odob, xulq, yaxshilik, adolat, insof, diyonat, sharm, hayo",
+    "javob": "A"
+  },
+  {
+    "savol": "Keng ma’nodagi tarbiya bu?",
+    "A": "Shaxsga jamiyatning ta’sir etishi, ijtimoiy hodisa sifatida qaraladi",
+    "B": "Bilim, ilm, malaka, ko’nikma  aql, ong, fahm",
+    "C": "Axloq, odob, xulq, yaxshilik, adolat, insof, diyonat, sharm, hayo",
+    "D": "Shaxsning jismoniy rivoji, dunyoqarashi, maʼnaviy axloqiy qiyofasi, estetik didi oʻstirilishiga yoʻnaltirilgan pedagogik faoliyat",
+    "javob": "A"
+  },
+  {
+    "savol": "Tarbiya nazariyasi nimalarni o’rganadi?",
+    "A": "Tarbiyaviy jarayonning mazmuni, usuli va tashkil etilishi masalalarini o’rganadi",
+    "B": "Aniq maqsad hamda ijtimoiy tarixiy tajriba asosida shaxsni har tomonlama o'stirishni o‘rganadi",
+    "C": "Oila, maktab, bolalar va yoshlar tashkilotlarida olib boriladigan tarbiyaviy ishlarni o‘rganadi",
+    "D": "Yoshlarni dunyoqarashini kengaytirib, hayotga tayyorlaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Aqliy tarbiyaga nimalar kiradi?",
+    "A": "Bilim, ilm, malaka, ko’nikma, aql, ong, fahm",
+    "B": "Axloq, odob, xulq, yaxshilik, adolat, insof, diyonat, sharm, hayo",
+    "C": "Faollik, ishchanlik, tadbirkorlik, ishbilarmonlik  aqliy ish, jismoniy mehnat",
+    "D": "Go’zallik, kiyinish, tozalik, yurish-turish, saranjom-sarishtalik",
+    "javob": "A"
+  },
+  {
+    "savol": "Mehnat tarbiyasiyaga nimalar kiradi?",
+    "A": "Faollik, ishchanlik, tadbirkorlik, ishbilarmonlik  aqliy ish, jismoniy mehnat, foyda, maosh",
+    "B": "Go’zallik, kiyinish, tozalik, yurish-turish, saranjom-sarishtalik",
+    "C": "Chiniqish, sport, o’yinlar  sog’lom tan",
+    "D": "Tejamkorlik, bozor iqtisodiyoti, sarf, isrof  foyda, mulk, mulkka egalik",
+    "javob": "A"
+  },
+  {
+    "savol": "Axloqiy tarbiyaga nimalar kiradi?",
+    "A": "Axloq, odob, xulq, yaxshilik, adolat, insof, diyonat, sharm, hayo, vatanparvarlik",
+    "B": "Chiniqish, sport, o’yinlar, sog’lom tan",
+    "C": "Bilim, ilm, malaka, ko’nikma, aql, ong, fahm",
+    "D": "Go’zallik, kiyinish, tozalik, yurish-turish, saranjom-sarishtalik",
+    "javob": "A"
+  },
+  {
+    "savol": "Jismoniy tarbiyaga nimalar kiradi?",
+    "A": "Chiniqish, sport, o’yinlar, sog’lom tan",
+    "B": "Faollik, ishchanlik, tadbirkorlik, ishbilarmonlik  aqliy ish, jismoniy mehnat, foyda, maosh",
+    "C": "Axloq, odob, xulq, yaxshilik, adolat, insof, diyonat, sharm, hayo, vatanparvarlik",
+    "D": "Bilim, ilm, malaka, ko’nikma  aql, ong, fahm",
+    "javob": "A"
+  },
+  {
+    "savol": "Estetik tarbiyaga nimalar kiradi?",
+    "A": "Go’zallik, kiyinish, tozalik, yurish-turish, saranjom-sarishtalik",
+    "B": "Fuqaro, tenglik, to’g’rilik, halollik, jinoyat, jazo, huquq, burch",
+    "C": "Chiniqish, sport, o’yinlar, sog’lom tan",
+    "D": "Tejamkorlik, bozor iqtisodiyoti, sarf, isrof, foyda, mulk, mulkka egalik",
+    "javob": "A"
+  },
+  {
+    "savol": "Ekologik tarbiyaga nimalar kiradi?",
+    "A": "Tabiat, atrof-muhit, daraxtlar, qushlar, o’rmonlar",
+    "B": "Go’zallik, kiyinish, tozalik, yurish-turish, saranjom-sarishtalik",
+    "C": "Tejamkorlik, bozor iqtisodiyoti, sarf, isrof, foyda, mulk, mulkka egalik",
+    "D": "Fuqaro, tenglik, to’g’rilik, halollik, jinoyat, jazo, huquq, burch",
+    "javob": "A"
+  },
+  {
+    "savol": "Iqtisodiy tarbiyaga nimalar kiradi?",
+    "A": "Tejamkorlik, bozor iqtisodiyoti, sarf, isrof, foyda, mulk, mulkka egalik",
+    "B": "Tabiat, atrof-muhit, daraxtlar, qushlar, o’rmonlar",
+    "C": "Fuqaro, tenglik, to’g’rilik, halollik, jinoyat, jazo, huquq, burch",
+    "D": "Chiniqish, sport, o’yinlar, sog’lom tan",
+    "javob": "A"
+  },
+  {
+    "savol": "Huquqiy tarbiyaga nimalar kiradi?",
+    "A": "Fuqaro, tenglik, to’g’rilik, halollik, jinoyat, jazo, huquq, burch",
+    "B": "Tabiat, atrof-muhit, daraxtlar, qushlar, o’rmonlar",
+    "C": "Go’zallik, kiyinish, tozalik, yurish-turish, saranjom-sarishtalik",
+    "D": "Chiniqish, sport, o’yinlar, sog’lom tan",
+    "javob": "A"
+  },
+  {
+    "savol": "Maslahat berish, ma’lumotlarni eshitish orqali qabul qilish, hikoya, ma’ruza, suhbat qaysi metod turiga kiradi?",
+    "A": "So’z orqali ifodalash usuli",
+    "B": "Ko’rgazmalilik usuli",
+    "C": "Amaliy namuna usuli",
+    "D": "Rag’batlantirish va jazo usuli",
+    "javob": "A"
+  },
+  {
+    "savol": "Kinofilmlar, tasviriy san’at, badiiy san’at va boshqa ko’rish orqali tarbiyalash qaysi usulga mansub?",
+    "A": "Ko’rgazmalilik usuli",
+    "B": "So’z orqali ifodalash usuli",
+    "C": "Rag’batlantirish va jazo usuli",
+    "D": "Amaliy namuna usuli",
+    "javob": "A"
+  },
+  {
+    "savol": "Tarbiya jihatlarini amaliy mehnat harakatlari orqali berish, o’rnak ko’rsatish, boshqalar mehnatini misol tariqasida ko’rsatish qaysi usulga kiradi?",
+    "A": "Amaliy namuna usuli",
+    "B": "Ko’rgazmalilik usuli",
+    "C": "So’z orqali ifodalash usuli",
+    "D": "Rag’batlantirish va jazo usuli",
+    "javob": "A"
+  },
+  {
+    "savol": "Yaxshi bajarilgan ishlarni o’rtoqlari oldida ma’qullash, minnatdorchilik bildirish, iqtisodiy va ma’naviy rag’batlantirish yoki bolaning noto’g’ri qilgan ishiga o’zini iqror qildirish qaysi usulga tegishli?",
+    "A": "Rag’batlantirish va jazo usuli",
+    "B": "Amaliy namuna usuli",
+    "C": "Ko’rgazmalilik usuli",
+    "D": "So’z orqali ifodalash usuli",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko’rsatmali ko’nikmalar, kitoblar, radio,televideniye bular… ?",
+    "A": "Tarbiya vositalari",
+    "B": "Tarbiya nazariyasi",
+    "C": "Tarbiya metodi",
+    "D": "Tarbiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Ijtimoiy ongni shakllantiruvchi usullarga nima kiradi?",
+    "A": "Yoshlarning dunyoqarashini shakllantirish, hayot mazmunini tushunib olishlariga ko’maklashishish",
+    "B": "O’quvchilarni qalbidagi fikrlarini aytishga jasoratini uyg’otish",
+    "C": "O’quvchilar o’z atrofidagi kishilarda hamma yaqin axloqiy sifatlarni ko’rishlari va namuna olishlari",
+    "D": "Bolalarni axloq mezonlari va xulq- atvor qoidalarini bajarishga odatlantirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Suhbat va hikoya usulining mohiyati nima?",
+    "A": "O’quvchilarni qalbidagi fikrlarini aytishga jasoratini uyg’otish",
+    "B": "O’quvchilar o’z atrofidagi kishilarda hamma yaqin axloqiy sifatlarni ko’rishlari va namuna olishlari",
+    "C": "Bolalarni axloq mezonlari va xulq- atvor qoidalarini bajarishga odatlantirish",
+    "D": "Yoshlarning dunyoqarashini shakllantirish, hayot mazmunini tushunib olishlariga ko’maklashishish",
+    "javob": "A"
+  },
+  {
+    "savol": "Mashq va o’rgatish usullari orqali nima shakllanadi?",
+    "A": "Bolalarni axloq mezonlari va xulq- atvor qoidalarini bajarishga odatlantirish",
+    "B": "Yoshlarning dunyoqarashini shakllantirish, hayot mazmunini tushunib olishlariga ko’maklashishish",
+    "C": "O’quvchilarni qalbidagi fikrlarini aytishga jasoratini uyg’otish",
+    "D": "O’quvchilar o’z atrofidagi kishilarda hamma yaqin axloqiy sifatlarni ko’rishlari va namuna olishlari",
+    "javob": "A"
+  },
+  {
+    "savol": "Ma’naviyatning tarkibiy qismi sifatida shaxs kamolotining yuqori bosqichi",
+    "A": "Axloq",
+    "B": "Tarbiya",
+    "C": "Ta’lim",
+    "D": "Mafkura",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘quvchilarning badiiy didini o'stirish, ularda go'zallikka muhabbat uyg'otish, ular tomonidan go'zallikni yaratish qobiliyatlarini tarbiyalashga yo'naltirilgan pedagogik jarayon bu?",
+    "A": "Nafosat tarbiyasi",
+    "B": "Axloq tarbiyasi",
+    "C": "Mafkura",
+    "D": "Ta’lim",
+    "javob": "A"
+  },
+  {
+    "savol": "Shaxsning muayyan faoliyat turini muvaffaqiyatli bajarishga bo‘lgan layoqat darajasini ifodalaydigan, turmush jarayonida hosil qilingan individual xususiyatlari yig‘indisiga nima deyiladi?",
+    "A": "Qobiliyat",
+    "B": "Xarakter",
+    "C": "Malaka",
+    "D": "Ko‘nikma",
+    "javob": "A"
+  },
+  {
+    "savol": "Qobiliyatning eng yuqori darajasi bu… ?",
+    "A": "Talant",
+    "B": "Malaka",
+    "C": "Tajriba",
+    "D": "Ko‘nikma",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq yordamida, shuningdek imo - ishoralar vositasida o‘z fikr va tuyg‘ularini aniq va ravshan ifodalash qobiliyatiga nima deyiladi?",
+    "A": "O‘qituvchining nutq qobiliyati",
+    "B": "O‘qituvchining kuzatuvchanlik qobiliyati",
+    "C": "Pedagogning bilish qobiliyati",
+    "D": "Pedagogning o‘quv materialini bayon etish qobiliyati",
+    "javob": "A"
+  },
+  {
+    "savol": "Empatiya nima?",
+    "A": "Boshqa insonning ichki holatini to‘g‘ri baholash, unga hamdardlik bildirish, hamnafas bo‘lish qobiliyati",
+    "B": "O‘qituvchining obro‘ orttira olish qobiliyati",
+    "C": "O‘qituvchining diqqatni taqsimlash qobiliyati",
+    "D": "O‘qituvchining bashoratchilik (istiqbolni ko‘ra bilish) qobiliyati",
+    "javob": "A"
+  },
+  {
+    "savol": "Kreativlik nima?",
+    "A": "O‘z ishiga ijodiy yondashish, ta'lim-tarbiya jarayonida noan'anaviy yo‘l, metod, vositalardan foydalanish",
+    "B": "Tevarak-atrofdagilar bilan muloqatga kirishuvchanlik, shirinso‘xanlik, to‘g‘ri muomala qila bilish",
+    "C": "Rejalashtirilgan ta'lim-tarbiya jarayonidan kutiladigan natijani oldindan bilish",
+    "D": "Boshqa insonning ichki holatini to‘g‘ri baholash, unga hamdardlik bildirish, hamnafas bo‘lish qobiliyati",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘quv mаteriаli mаzmunini jonli, obrаzli, tа’sirli rаvishdа bаyon qilish qanday metod?",
+    "A": "Hikoya",
+    "B": "Tasvirli hikoya",
+    "C": "Suhbat",
+    "D": "Ko‘rgazmali metod",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘qituvchi vа o‘quvchining o‘zаro tа’siri shаklidа аmаl qilаdigаn tа’lim metodi bu… ?",
+    "A": "Suhbat",
+    "B": "Hikoya",
+    "C": "Tasviriy hikoya",
+    "D": "Ko‘rgazmali metod",
+    "javob": "A"
+  },
+  {
+    "savol": "Kuzаtish illyustrаtsiyа vа demonstrаtsiyа qanday metod?",
+    "A": "Ko‘rgazmali metod",
+    "B": "Tasviriy hikoya",
+    "C": "Suhbat",
+    "D": "Hikoya",
+    "javob": "A"
+  },
+  {
+    "savol": "Turli xildаgi ko‘rgаzmаlаr, nаmoyish qilish qurollаri, аxborot vositаlаri, elektron doskа, yozish vositаlаri, kompyuter bular nima?",
+    "A": "Ta’lim vositalari",
+    "B": "Ta’lim metodlari",
+    "C": "Ta’lim usullari",
+    "D": "Ta’lim shakli",
+    "javob": "A"
+  },
+  {
+    "savol": "Moddiy vositаlаriga nimalar kiradi?",
+    "A": "Dаrslik vа o‘quv qo‘llаnmаlаri, jаdvаllаr, modellаr, mаketlаr, аxborot vositаlаri, kompyuter, o‘quv-texnik vositаlаr, lаborаtoriyа аnjomlаri, mebellаr, mаshg‘ulot jаdvаli",
+    "B": "O‘qituvchi vа tаlаbаlаr yаngi mаvzuni o‘zlаshtirish vа tushuntirish uchun qo‘llаydigаn аvvаl o‘zlаshtirilgаn bilim, mаlаkаlаr",
+    "C": "Dаrslik vа o‘quv qo‘llаnmаlаri,",
+    "D": "Kompyuter, o‘quv-texnik vositаlаr",
+    "javob": "A"
+  },
+  {
+    "savol": "Tа’limning ideаl vositаlаriga nima kiradi?",
+    "A": "Bu o‘qituvchi vа tаlаbаlаr yаngi mаvzuni o‘zlаshtirish vа tushuntirish uchun qo‘llаydigаn аvvаl o‘zlаshtirilgаn bilim, mаlаkаlаr",
+    "B": "Dаrslik vа o‘quv qo‘llаnmаlаri",
+    "C": "Kompyuter, o‘quv-texnik vositаlаr",
+    "D": "Dаrslik vа o‘quv qo‘llаnmаlаri, jаdvаllаr, modellаr, mаketlаr, аxborot vositаlаri, kompyuter, o‘quv-texnik vositаlаr",
+    "javob": "A"
+  },
+  {
+    "savol": "Olam haqidagi yaxlit umumiylashtirilgan bilimlar to'plami bu?",
+    "A": "Dunyoqarash",
+    "B": "Bilim",
+    "C": "Ong",
+    "D": "Malaka",
+    "javob": "A"
+  },
+  {
+    "savol": "Dunyoqаrаshning qanday turlari mavjud?",
+    "A": "Mifologik, diniy, ilmiy",
+    "B": "Diniy, ilmiy",
+    "C": "Mifologik, ilmiy",
+    "D": "Diniy, mifologik",
+    "javob": "A"
+  },
+  {
+    "savol": "Borliqning ilohiy kuchgа, ilohiyotgа ishonish аsosidа qаbul qilinishini ifodаlovchi tаsаvvurlаr, urf-odаtlаr, mаrosimlаr mаjmui bu?",
+    "A": "Diniy bilim",
+    "B": "Mifologik bilim",
+    "C": "Ilmiy bilim",
+    "D": "Diniy, ilmiy",
+    "javob": "A"
+  },
+  {
+    "savol": "Ilmiy metodlаr yordаmidа ko‘p bor tekshirish, umumiy holdа insoniyаt tаjribаsi bilаn tаsdiqlаnish qonunlаrigа tаyаnuvchi dunyoqаrаsh?",
+    "A": "Ilmiy bilim",
+    "B": "Diniy bilim",
+    "C": "Diniy, ilmiy",
+    "D": "Mifologik bilim",
+    "javob": "A"
+  },
+  {
+    "savol": "Ta`lim-tarbiyaga oid bilimlarni mushtarak holda jamlab, ularni saralab sinovdan o`tkazuvchi va bir tartibga keltiruvchi, ularni boshqalarga o`rgatuvchi fan qaysi",
+    "A": "Pedagogika",
+    "B": "Falsafa",
+    "C": "Metodika",
+    "D": "Didaktika",
+    "javob": "A"
+  },
+  {
+    "savol": "Shaxs shakllanishiga ta’sir ko’rsatuvchi omillar qaysilar?",
+    "A": "Irsiyat, ta’lim va tarbiya, ijtimoiy muhit",
+    "B": "Ta’lim va tarbiya",
+    "C": "Irsiyat va ijtimoiy muhit",
+    "D": "Irsiyat, ta’lim va tarbiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Bu o‘qituvchi va o‘quvchi o‘zaro munosabatining shunday shakliki, unda o‘quvchi va o‘qituvchi mashg‘ulot jarayonida birgalikda harakat qiladi  Qaysi metod?",
+    "A": "Faol metod",
+    "B": "Ko’rgazmali",
+    "C": "Video darslar",
+    "D": "Didaktika",
+    "javob": "A"
+  },
+  {
+    "savol": "Bilimlаrni og‘zаki bаyon qilа turib rаsmlаr, chizmаlаr, jаdvаlgа o‘quvchi diqqаtini tortish qaysi metod?",
+    "A": "Illyustrаtsiyа metodi",
+    "B": "Suhbat",
+    "C": "Hikoyа",
+    "D": "Ma’ruza",
+    "javob": "A"
+  },
+  {
+    "savol": "Audiovizuаl ( ko‘rish-eshitish) vositalarga nimalar kiradi?",
+    "A": "Ovozli film, TV, video",
+    "B": "Kodoskop, diаproyektor",
+    "C": "Proigrivаtel, mаgnitofon, rаdio",
+    "D": "Dаrslik vа boshqа mаtnlаr",
+    "javob": "A"
+  },
+  {
+    "savol": "Multimediyаli kаbinetlаr, kompyuterlаr, аxborot tizimlаri, telekommunikаtsiyа tаrmog‘i qanday vositalarga kiradi?",
+    "A": "Tа’lim jаrаyonini аvtomаtlаshtiruv chi vositаlаr",
+    "B": "Mexаnik ko‘rish vositаlаr",
+    "C": "Oddiy ko‘rish vositаlаr",
+    "D": "Аudiovizuаl ( ko‘rish-eshitish) vositalar",
+    "javob": "A"
+  },
+  {
+    "savol": "Oʼqituvchi mustaqil ish daftarini tarqatar ekan, ilgari b oʼsh oʼzlashtiruvchilar safida boʼlgan Olimjonning muvaffaqiyatini alohida taʼkidladi  Q oʼllanilgan tarbiyaviy usulini aniqlang",
+    "A": "Ragʼbatlantirish",
+    "B": "Tanbex berish",
+    "C": "Jazolash",
+    "D": "Mukofotlash, maʼqullash",
+    "javob": "A"
+  },
+  {
+    "savol": "Suqrot qaysi ta’lim metodiga hissa qo’shgan",
+    "A": "“Evristik” og’zaki savol-javob",
+    "B": "Test, anketa, tarqatma material",
+    "C": "Kuzatish, so’rovnoma, adabiyotlar bilan ishlash",
+    "D": "Tajribalar va mashqlar (og‘zaki va yozma), laboratoriya ishlari, amaliy mashg‘ulotlar, o‘quv va ishlab chiqarish ishlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Ibn Sinoning fikricha bola tarbiyasi nimadan boshlanadi?",
+    "A": "Ism tanlashdan",
+    "B": "Yurishni o`rgatishdan",
+    "C": "Gapirishni o`rgatishdan",
+    "D": "Tilovat qilishdan",
+    "javob": "A"
+  },
+  {
+    "savol": "Bolani milliylik ruhida tarbiyalashda xalq og`zaki ijodining qaysisi muhim ahamiyatga ega?",
+    "A": "Ertak",
+    "B": "Lapar",
+    "C": "Tez aytish",
+    "D": "Doston",
+    "javob": "A"
+  },
+  {
+    "savol": "O`rinsiz jazolash usuli bolada qaysi hissiyotni kuchaytiradi?",
+    "A": "Nafratni",
+    "B": "E`tiborni",
+    "C": "Qo`rquvni",
+    "D": "Mas`uliyatni",
+    "javob": "A"
+  },
+  {
+    "savol": "Pedagogika iborasining lug’aviy ma’nosi aniq ko`rsatilgan javobni belgilang",
+    "A": "Bola yetaklamoq",
+    "B": "Ta’lim beruvchi",
+    "C": "Tarbiya beruvchi",
+    "D": "Murabbiylik qiluvchi –tarbiyachi",
+    "javob": "A"
+  },
+  {
+    "savol": "Lug‘aviy jihatdan “innovatsiya” tushunchasi qanday ma’noni ifodalaydi?",
+    "A": "Yangilik kiritish",
+    "B": "O‘zgartirish kiritish",
+    "C": "Qo‘shimcha kiritish",
+    "D": "Taklif kiritish",
+    "javob": "A"
+  },
+  {
+    "savol": "Yangi tahrirdagi Ta’lim to’grisidagi qonun qachondan kuchga kirdi?",
+    "A": "24-sentyabr 2020-yil",
+    "B": "19-may 2020-yil",
+    "C": "7-avgust 2020-yil",
+    "D": "21-oktyabr 1997-yil",
+    "javob": "A"
+  },
+  {
+    "savol": "Ta’lim turlari?",
+    "A": "-maktabgacha ta’lim va tarbiya  -umumiy o‘rta va o‘rta maxsus ta’lim  -professional ta’lim  -oliy ta’lim  -oliy ta’limdan keyingi ta’lim  -kadrlarni qayta tayyorlash va ularning malakasini oshirish  -maktabdan tashqari ta’lim",
+    "B": "-maktabgacha ta’lim va tarbiya  -umumiy o‘rta va o‘rta maxsus ta’lim  -oliy ta’lim  -oliy ta’limdan keyingi ta’lim  -kadrlarni qayta tayyorlash va ularning malakasini oshirish  -maktabdan tashqari ta’lim",
+    "C": "-maktabgacha ta’lim va tarbiya  -umumiy o‘rta va o‘rta maxsus ta’lim  -professional ta’lim  -oliy ta’lim  -kadrlarni qayta tayyorlash va ularning malakasini oshirish  -maktabdan tashqari ta’lim",
+    "D": "-maktabgacha ta’lim va tarbiya  -umumiy o‘rta va o‘rta maxsus ta’lim  -professional ta’lim  -oliy ta’lim  -oliy ta’limdan keyingi ta’lim  -maktabdan tashqari ta’lim",
+    "javob": "A"
+  },
+  {
+    "savol": "Masofaviy ta’lim nima?",
+    "A": "O‘quv rejalari va o‘quv dasturlariga muvofiq ta’lim oluvchilar tomonidan zarur bilim, malaka va ko‘nikmalarni axborot-kommunikatsiya texnologiyalaridan hamda internet jahon axborot tarmog‘idan foydalangan holda masofadan turib olishga qaratilgan",
+    "B": "Ta’lim oluvchilar tomonidan zarur bilim, malaka va ko‘nikmalarni olishga qaratilgan bo‘lib, ularning nazariy qismi ta’lim tashkiloti negizida, amaliy qismi esa ta’lim oluvchining ish joyida amalga oshiriladi",
+    "C": "Katta yoshdagilarni o‘qitish va ularga ta’lim berish butun umr davomida o‘qitishning markaziy tarkibiy qismi hisoblanadi",
+    "D": "Ta’lim ehtiyojlari va individual imkoniyatlarning xilma-xilligini hisobga olgan holda barcha ta’lim oluvchilar uchun ta’lim tashkilotlarida ta’lim olishga bo‘lgan teng imkoniyatlarni ta’minlashga qaratilgan",
+    "javob": "A"
+  },
+  {
+    "savol": "Dual ta’lim shakli  ?",
+    "A": "Ta’lim oluvchilar tomonidan zarur bilim, malaka va ko‘nikmalarni olishga qaratilgan bo‘lib, ularning nazariy qismi ta’lim tashkiloti negizida, amaliy qismi esa ta’lim oluvchining ish joyida amalga oshiriladi",
+    "B": "Katta yoshdagilarni o‘qitish va ularga ta’lim berish butun umr davomida o‘qitishning markaziy tarkibiy qismi hisoblanadi",
+    "C": "O‘quv rejalari va o‘quv dasturlariga muvofiq ta’lim oluvchilar tomonidan zarur bilim, malaka va ko‘nikmalarni axborot-kommunikatsiya texnologiyalaridan hamda internet jahon axborot tarmog‘idan foydalangan holda masofadan turib olishga qaratilgan",
+    "D": "Ta’lim ehtiyojlari va individual imkoniyatlarning xilma-xilligini hisobga olgan holda barcha ta’lim oluvchilar uchun ta’lim tashkilotlarida ta’lim olishga bo‘lgan teng imkoniyatlarni ta’minlashga qaratilgan",
+    "javob": "A"
+  },
+  {
+    "savol": "Bilim…?",
+    "A": "Tаbiаtdа, jаmiyаtdа, inson ongidа аmаl qilаdigаn qonuniyаtlаrning turli belgilаr vositаsidа moddiylаshtirilgаn ko‘rinishidir",
+    "B": "Kutilgаn, lekin erishilmаgаn nаtijа",
+    "C": "Ilgаri olingаn tаjribа аsosidа hаrаkаtni bаjаrа olish qobiliyаti",
+    "D": "Yuksаk dаrаjаdа o‘zlаshtirishni xаrаkterlovchi hаrаkаtdir",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko’nikma  ?",
+    "A": "Ilgаri olingаn tаjribа аsosidа hаrаkаtni bаjаrа olish qobiliyаti",
+    "B": "Yuksаk dаrаjаdа o‘zlаshtirishni xаrаkterlovchi hаrаkаtdir",
+    "C": "Tаbiаtdа, jаmiyаtdа, inson ongidа аmаl qilаdigаn qonuniyаtlаrning turli belgilаr vositаsidа moddiylаshtirilgаn ko‘rinishidir",
+    "D": "Kutilgаn, lekin erishilmаgаn nаtijа",
+    "javob": "A"
+  },
+  {
+    "savol": "Malaka  ?",
+    "A": "Yuksаk dаrаjаdа o‘zlаshtirishni xаrаkterlovchi hаrаkаtdir",
+    "B": "Tаbiаtdа, jаmiyаtdа, inson ongidа аmаl qilаdigаn qonuniyаtlаrning turli belgilаr vositаsidа moddiylаshtirilgаn ko‘rinishidir",
+    "C": "Kutilgаn, lekin erishilmаgаn nаtijа",
+    "D": "Ilgаri olingаn tаjribа аsosidа hаrаkаtni bаjаrа olish qobiliyаtidir",
+    "javob": "A"
+  },
+  {
+    "savol": "Tа’lim metodi nima?",
+    "A": "Tа’lim mаqsаdigа erishish yo‘li vа usuli",
+    "B": "O‘quvchilаr miqdori, joy vа vаqt bilаn bog‘liq bo‘lgаn tа’limni tаshqi ko‘rinishi",
+    "C": "Kutilgаn, lekin erishilmаgаn nаtijа",
+    "D": "O‘quvchini o‘rgаnuvchilik fаoliyаti",
+    "javob": "A"
+  },
+  {
+    "savol": "«Hаmmаni hаmmа nаrsаgа o‘rgаtuvchi universаl sаn’аt» deb didaktika atamasini keng ishlatgan pedagog?",
+    "A": "Ya A Komenskiy",
+    "B": "I  G  Pestаlotsi",
+    "C": "Abu Nasr Farobiy",
+    "D": "I  F  Gerbаrt",
+    "javob": "A"
+  },
+  {
+    "savol": "Pedagogika fani qaysi fanlar bilan aloqador",
+    "A": "Falsafa, estetika, etika, psixologiya, fiziologoya, sosiologiya",
+    "B": "Falsafa, tarix, fizika, kimyo, piziologiya, logopediya",
+    "C": "Falsafa, estetika, etika, psixologiya, fiziologoya, logopediya, kimyo",
+    "D": "Falsafa, estetika, etika, psixologiya, tarix, fizika, kimyo",
+    "javob": "A"
+  },
+  {
+    "savol": "Pedagogika fanlar tizimi qaysi qatorda ko’rsatilgan?",
+    "A": "Umumiy pedagogika, maktabgacha ta’lim pedagogikasi,korreksion pedagogika, metodika, pedagogika tarixi",
+    "B": "Umumiy pedagogika, qiyosiy pedagogika, algebra, pedagogika tarixi",
+    "C": "Umumiy pedagogika, qiyosiy pedagogika, matematika, pedagogika tarixi, ijtimoiy pedagogika",
+    "D": "Umumiy pedagogika, qiyosiy pedagogika, iqtisod, pedagogika tarixi, ijtimoiy pedagogika",
+    "javob": "A"
+  },
+  {
+    "savol": "…………– shaxsning muayyan harakat yoki faoliyatni tashkil eta olish qobiliyati",
+    "A": "Ko‘nikma",
+    "B": "Bilim",
+    "C": "O’zlashtirish",
+    "D": "Anglash",
+    "javob": "A"
+  },
+  {
+    "savol": "………– muayyan harakat yoki faoliyatni bajarishning avtomatlashtirilgan shakli",
+    "A": "Malaka",
+    "B": "Anglash",
+    "C": "Bilish",
+    "D": "Ko’nikma",
+    "javob": "A"
+  },
+  {
+    "savol": "Kategoriya",
+    "A": "Fanning mohiyatini ochib beruvchi eng muhim, asosiy tushuncha",
+    "B": "O’quv fanining xususiyatlari",
+    "C": "Hamma rioya qiluvchi xususiyat",
+    "D": "Asosiy tushuncha, mohiyat, mazmun, shakl",
+    "javob": "A"
+  },
+  {
+    "savol": "Bu o‘qituvchi va tinglovchi o‘zaro munosabatining shunday shakliki, unda o‘qituvchi harakatdagi asosiy shaxs bo‘lib, darsning borishini boshqaradi, tinglovchi esa o‘qituvchining ko‘rsatmalariga bo‘ysunuvchi darsning sust qatnashchisi rolida ishtirok etadi  Ta’lim jarayonida o‘qituvchi va tinglovchilar o‘zaro munosabatining qaysi shakliga aloqador",
+    "A": "Sust (passiv) metod",
+    "B": "Faol (aktiv) metod",
+    "C": "Interfaol metod",
+    "D": "Ko’rgazmali metod",
+    "javob": "A"
+  },
+  {
+    "savol": "Bu o‘qituvchi va tinglovchi o‘zaro munosabatining shunday shakliki, unda tinglovchi va o‘qituvchi mashg‘ulot jarayonida birgalikda harakat qiladi va tinglovchi bu yerda sust qatnashchi emas, balki faol ishtirokchidir   Ta’lim jarayonida o‘qituvchi va tinglovchilar o‘zaro munosabatining qaysi shakliga aloqador",
+    "A": "Faol (aktiv) metod",
+    "B": "Interfaol metod",
+    "C": "Ko’rgazmali metod",
+    "D": "Sust (passiv) metod",
+    "javob": "A"
+  },
+  {
+    "savol": "Tinglovchilarning nafaqat o‘qituvchi, balki o‘zaro faol faoliyatiga va tinglovchilarning mashg‘ulot jarayonida faolligini oshirishga yo‘naltirilgan bo‘ladi ta’lim jarayonida o‘qituvchi va tinglovchilar o‘zaro munosabatining qaysi shakliga aloqador",
+    "A": "Interfaol metod",
+    "B": "Ko’rgazmali metod",
+    "C": "Sust (passiv) metod",
+    "D": "Faol (aktiv) metod",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi ta’lim metodi («inter» – o‘zaro, «act»– harakat qilmoq ma’nosini bildiradi?",
+    "A": "Interfaol metod",
+    "B": "Ko’rgazmali metod",
+    "C": "Sust (passiv) metod",
+    "D": "Faol (aktiv) metod",
+    "javob": "A"
+  },
+  {
+    "savol": "Individuallik -",
+    "A": "Shaxsning o‘ziga xos xususiyatlari",
+    "B": "Shaxsning erkinligi",
+    "C": "Shaxsning temperamenti",
+    "D": "Shakllanganlik",
+    "javob": "A"
+  },
+  {
+    "savol": "………  xatti-harakatlarini shartli refleks yordamidagina tashkil eta oluvchi biologik mavjudot",
+    "A": "Individ",
+    "B": "O’smir",
+    "C": "O’spirin",
+    "D": "Bola",
+    "javob": "A"
+  },
+  {
+    "savol": "Ta’lim metodlari –",
+    "A": "Ta’lim jarayonida qo‘llanilib, uning samarasini ta’minlovchi usullar majmui",
+    "B": "U yoki bu holatda qo’llanilishi zarur bo’lgan usul",
+    "C": "O’qituvchiga xos xususiyat",
+    "D": "Ijtimoiy ong mahsuli",
+    "javob": "A"
+  },
+  {
+    "savol": "Shaxs shakllanishiga ta’sir etuvchi ichki omil……",
+    "A": "Irsiyat",
+    "B": "Ta’lim",
+    "C": "O’zaro munosabat",
+    "D": "Faoliyat",
+    "javob": "A"
+  },
+  {
+    "savol": "O’quvchlarda ilmiy dunyoqarashni shakllantirish, bilimlar tizimi bilan ta’minlash……",
+    "A": "Ilmiylik prinsipi",
+    "B": "Moslik prinsipi",
+    "C": "Onglilik prinsipi",
+    "D": "Tizimlilik prinsipi",
+    "javob": "A"
+  },
+  {
+    "savol": "Anketa metodi …  tadqiq etishga imkon beradi",
+    "A": "Tadqiq etilayotgan muammo holatini aniqlash, axborot yig’ishga",
+    "B": "O’quv materialini tahlil qilish usuli",
+    "C": "Dars haqida ma’lumot olish",
+    "D": "Baholashga",
+    "javob": "A"
+  },
+  {
+    "savol": "Ijtimoiy tajribani avlodlarga yetkazish zaruriyati………   Paydo bo’lgan",
+    "A": "Jamiyatning paydo bo’lishi bilan birga",
+    "B": "O’qitishning texnik vositalari paydo bo’lishi bilan birga",
+    "C": "Pedagogika fani paydo bo’lishi bilan birga",
+    "D": "Ta’lim mazmunini ishlab chiqilishi bilan birga",
+    "javob": "A"
+  },
+  {
+    "savol": "“Inson” tushunchasiga ta’rif bering",
+    "A": "tafakkur va nutq in’omiga, mehnat qurollarini yaratish va ulardan mehnat jarayonida foydalanish qobiliyatiga ega tirik mavjudotdir",
+    "B": "Ijtimoiy munosabatlar mahsuli bo’lib, ongli faoliyat bilan shug’ullanuvchi ijtimoiy mavjudot sifatida jamiyatda o’z o’rni ega",
+    "C": "Shaxsiy jihatlaridan biridir  Oʻzigagina xos, betakror, xususiy belgilar",
+    "D": "” lotincha \"individium\" so’zidan kelib chiqqan bo’lib, “bo’linmas”, “alohida”, \"yagona\" ma’nolarini anglatadi",
+    "javob": "A"
+  },
+  {
+    "savol": "“Shaxs” tushunchasiga ta’rif bering",
+    "A": "Ijtimoiy munosabatlar mahsuli bo’lib, ongli faoliyat bilan shug’ullanuvchi ijtimoiy mavjudot sifatida jamiyatda o’z o’rni ega",
+    "B": "lotincha \"individium\" so’zidan kelib chiqqan bo’lib, “bo’linmas”, “alohida”, \"yagona\" ma’nolarini anglatadi",
+    "C": "tafakkur va nutq in’omiga, mehnat qurollarini yaratish va ulardan mehnat jarayonida foydalanish qobiliyatiga ega tirik mavjudotdir",
+    "D": "Shaxsiy jihatlaridan biridir  Oʻzigagina xos, betakror, xususiy belgilar",
+    "javob": "A"
+  },
+  {
+    "savol": "Rivojlanish nima?",
+    "A": "Bu insonni orgаnizmidаgi, ruhiyаtidаgi, аqliy vа mа’nаviy sohаsidаgi tаshqi vа ichki, boshqаrilаdigаn vа boshqаrilmаydigаn omillаr tа’siridаgi miqdor vа sifаt o‘zgаrishlаridir",
+    "B": "Ma'lum bir jamiyatga, ijtimoiy hamjamiyatga, ma'lum bir davrda xos bo'lgan qadriyatlar, me'yorlar, munosabatlar, xulq-atvor namunalarini shaxs tomonidan o'zlashtirishi va u tomonidan ijtimoiy aloqalar va ijtimoiy tajribani takrorlash",
+    "C": "Sifat va miqdor o’zgarishi",
+    "D": "Shaxsning ijtimoiy muhitga integratsiyalashuvi, unga moslashishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Didaktik jarayon kechadigan barcha sharoitlarni oydinlashtirish, uning natijalarini belgilash deganda nima tushuniladi?",
+    "A": "Tashxis",
+    "B": "Nazorat qilish",
+    "C": "Hisobga olish",
+    "D": "Baholash",
+    "javob": "A"
+  }
+]
