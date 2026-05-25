@@ -1,0 +1,1202 @@
+[
+  {
+    "savol": "O’zini anglash nima?",
+    "A": "Bu o'zining kuchli va zaif tomonlarini, qobiliyatlarini, qadriyatlarini va hayotdagi maqsadlarini tushunish qobiliyatidir",
+    "B": "Bu o’zini boshqarish va ozor berish qobiliyati qadriyatlarni va hayotdagi maqsadlarini tushunish qobiliyatidir",
+    "C": "Bu o’zini himoya qilish va tushunish qobiliyati",
+    "D": "Bu o’zini kamsitish va past baholash qobiliyati",
+    "javob": "A"
+  },
+  {
+    "savol": "Shaxsda o’zini anglash jarayoni qaysi xususiyatlarga bog’liq?",
+    "A": "O’zini kuzatish, xatti-harakatlari va his-tuyg’ulari fikrlarini tahlil qilish",
+    "B": "O’zini bilish va sevish",
+    "C": "O’zini tushunish",
+    "D": "O’zini himoya qilish",
+    "javob": "A"
+  },
+  {
+    "savol": "Shaxsda “Men” konseptsiyasining rivojlanishi necha bosqichga ega?",
+    "A": "4 bosqich",
+    "B": "3 bosqich",
+    "C": "2 bosqich",
+    "D": "5 bosqich",
+    "javob": "A"
+  },
+  {
+    "savol": "Shaxsda “Men” konseptsiyasining bolalik bosqichida qanday xususiyatlar rivojlanadi?",
+    "A": "Ijtimoiy men, men va biz shakllanadi",
+    "B": "Munosabatlar shakllanadi",
+    "C": "So’rashni tushunadi",
+    "D": "Anglayda va bajaradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Identitiv inqiroz nima?",
+    "A": "O’smir shaxsinig “Men kimman?” Degan savolga javob izlashi",
+    "B": "O’spirindagi ma’lum holat",
+    "C": "Yetuklikdagi tushuncha",
+    "D": "Psixik buzilish",
+    "javob": "A"
+  },
+  {
+    "savol": "“Men” konseptsiyasi bo’yicha qadriyatlarni anglash qachon amalga oshadi?",
+    "A": "O’smirlik davrida",
+    "B": "Yoshlik davrida",
+    "C": "Yetuklik davrida",
+    "D": "Bolalaik davrida",
+    "javob": "A"
+  },
+  {
+    "savol": "Integrallashgan “Men” nima?",
+    "A": "Shaxs o’zining barcha tomonlarini uyg’unlikda tushunishi",
+    "B": "Shaxsdagi buzilish",
+    "C": "Shaxs xulqining buzilishi",
+    "D": "Shaxsning rivojlanishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Integrallashgan men tushunchasi qachon shaxsda ko’rinadi?",
+    "A": "Yetuklik davrida",
+    "B": "Bolalaik davrida",
+    "C": "Chaqaloqlik davrida",
+    "D": "Ilk bolalik davrida",
+    "javob": "A"
+  },
+  {
+    "savol": "Shaxsda jismoniy Men tushunchasi qachon shakllanadi?",
+    "A": "Go’daklikda",
+    "B": "Yetujlikda",
+    "C": "Yoshlikda",
+    "D": "Bolalaikda",
+    "javob": "A"
+  },
+  {
+    "savol": "Shaxs faoliyatida ongning asosiy vasifasi bu - …",
+    "A": "Anglash va tushunish",
+    "B": "Ko’rish",
+    "C": "Eshitish",
+    "D": "His qilish",
+    "javob": "A"
+  },
+  {
+    "savol": "Shaxsiy identitet nima?",
+    "A": "Bu shaxsning “Men kimman?” Degan savolga javob bera olishi",
+    "B": "Bu tushuncha",
+    "C": "Bu ulg’ashiy",
+    "D": "Bu o’sish va rivojlanish",
+    "javob": "A"
+  },
+  {
+    "savol": "Shaxsiy identitetning shakllanishidagi asosiy omillar qaysi?",
+    "A": "Oila, ta’lim, tengdoshllar, hayot tajribasi",
+    "B": "Oila va jamiyat",
+    "C": "Jamiyat, tarbiya, gurux",
+    "D": "Shaxs, imkoniyat, qadriyat",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri shaxsda “Men”likni shakllanishida muhim hisoblanadi?",
+    "A": "Madaniyat",
+    "B": "Holat",
+    "C": "Tajriba",
+    "D": "Sinov",
+    "javob": "A"
+  },
+  {
+    "savol": "Fanda g’arb madaniyati tushnchasi qanday izohlanadi?",
+    "A": "Individualist madaniyat",
+    "B": "Umumiy madaniyat",
+    "C": "Kollektivist madaniyat",
+    "D": "Shaxs madaniyati",
+    "javob": "A"
+  },
+  {
+    "savol": "R.Dekart ta’limotiga ko’ra Menning asosiy belgisi bu - …",
+    "A": "Ong",
+    "B": "Xayol",
+    "C": "Idrok",
+    "D": "Tafakkur",
+    "javob": "A"
+  },
+  {
+    "savol": "Kollektivist madaniyat qaysi mintaqaga xos?",
+    "A": "Osiyo, Afrika, Lotin amirikasi",
+    "B": "Evropa Osiyo",
+    "C": "Avsyraliya, Amerika",
+    "D": "Evropa va Amerika",
+    "javob": "A"
+  },
+  {
+    "savol": "Individualist madaniyatda qanday omillar muhim hisoblanadi?",
+    "A": "Shaxsiy tanlov, mustaqil fikr, shaxsiy yutuq",
+    "B": "Jamoa, oila, qadriyat",
+    "C": "Mustaqil fikr, oila",
+    "D": "Oila shaxsiy tanlov",
+    "javob": "A"
+  },
+  {
+    "savol": "“Men fikrlayapman, demak men mavjudman” ushbu fikr muallifi kim?",
+    "A": "Rene Dekart",
+    "B": "I.Pavlov",
+    "C": "A.Enshteyn",
+    "D": "I.Nyuton",
+    "javob": "A"
+  },
+  {
+    "savol": "Ibn Sino fikriga ko’ra Menning mohiyati nimada edi?",
+    "A": "O’zlikni anglashda",
+    "B": "O’qishda",
+    "C": "O’rganishda",
+    "D": "Ta’lim olishda",
+    "javob": "A"
+  },
+  {
+    "savol": "E.Erikson nazariyasiga ko’ra shaxs hayoti necha bosqichga bo’lingan?",
+    "A": "8 bosqich",
+    "B": "7 bosqich",
+    "C": "6 bosqich",
+    "D": "5 bosqich",
+    "javob": "A"
+  },
+  {
+    "savol": "E.Erikson nazariyasi bo’yicha shaxs hayotining har bosqichida unda kuzatiladigan jarayon bu - …",
+    "A": "Inqiroz",
+    "B": "Rivojlanish",
+    "C": "O’sish",
+    "D": "Ko’payish",
+    "javob": "A"
+  },
+  {
+    "savol": "Insonning haqiqiy holati K.Rojers nazariyasi bo’yicha nima deyiladi?",
+    "A": "Real men",
+    "B": "Ideal men",
+    "C": "Men",
+    "D": "Ego",
+    "javob": "A"
+  },
+  {
+    "savol": "E.Erikson shaxs hayotini davrlarga bo’lsih to’g’risidagi qarashlarini qaysi nazariyasida rivojlantirdi?",
+    "A": "Psixoijtimoiy rivojlanish nazariyasi",
+    "B": "Shaxs nazariyasi",
+    "C": "Bolalik nazariyasi",
+    "D": "Ontogenez nazariya",
+    "javob": "A"
+  },
+  {
+    "savol": "Z.Freyd nazariyasi bo’yicha shaxs necha qismga bo’linadi?",
+    "A": "3 qismga",
+    "B": "2 qismga",
+    "C": "4 qismga",
+    "D": "5 qismga",
+    "javob": "A"
+  },
+  {
+    "savol": "Z.Freyd nazariyasi bo’yicha “Super ego” nima?",
+    "A": "Jamiyat va meyorlar",
+    "B": "Xulq",
+    "C": "Buzilish",
+    "D": "Rivojlanish",
+    "javob": "A"
+  },
+  {
+    "savol": "Fanga “Real Men” va “Edeal Men”tushunchasi qaysi olim olib kirgan?",
+    "A": "Karl Rojers",
+    "B": "Z.Freyd",
+    "C": "E.Erikson",
+    "D": "A.Maslou",
+    "javob": "A"
+  },
+  {
+    "savol": "Kognitiv psixologiya nimani o‘rganadi?",
+    "A": "Insonning bilish jarayonlarini",
+    "B": "Jamiyatdagi ijtimoiy rollarni",
+    "C": "Shaxsning irodaviy sifatlarini",
+    "D": "Hayvonlarning refleks reaksiyalarini",
+    "javob": "A"
+  },
+  {
+    "savol": "Kognitiv yondashuv insonni qanday ko‘radi?",
+    "A": "Faol axborotni qayta ishlovchi sifatida",
+    "B": "Passiv rag‘batlarga javob beruvchi sifatida",
+    "C": "Emotsional mavjudot sifatida",
+    "D": "Instinktlar asosida harakat qiluvchi sifatida",
+    "javob": "A"
+  },
+  {
+    "savol": "George Kelly nazariyasiga ko‘ra, inson qanday mavjudot?",
+    "A": "Tajribasiga asoslangan “olim”",
+    "B": "Jamiyat ta’sirida shakllangan shaxs",
+    "C": "Genetik dastur asosida harakat qiluvchi mavjudot",
+    "D": "Ijtimoiy me’yorlarga to‘la bo‘ysunuvchi",
+    "javob": "A"
+  },
+  {
+    "savol": "Kelly nazariyasidagi 'konstrukt' tushunchasi nimani anglatadi?",
+    "A": "Dunyo haqidagi ikki qutbli talqin vositasi",
+    "B": "Ichki psixik energiya",
+    "C": "Muvaffaqiyatga erishish vositasi",
+    "D": "Tashqi muhitga nisbatan refleks",
+    "javob": "A"
+  },
+  {
+    "savol": "Asosiy konstruktlar qanday rol o‘ynaydi?",
+    "A": "Shaxsning dunyoqarashini shakllantiradi",
+    "B": "Ijtimoiy mavqeni belgilaydi",
+    "C": "Emotsional holatni boshqaradi",
+    "D": "Reflex xatti-harakatlarni o‘zgartiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Albert Ellisning ABC modelida “B” harfi nimani bildiradi?",
+    "A": "Ishonch",
+    "B": "Oqibat",
+    "C": "Hodisa",
+    "D": "Hissiyot",
+    "javob": "A"
+  },
+  {
+    "savol": "Ellis nazariyasida qanday fikr salbiy hissiyotlarga sabab bo‘ladi?",
+    "A": "Iratsional ishonchlar",
+    "B": "Biologik ehtiyojlar",
+    "C": "Genetik kodlar",
+    "D": "Realistik taxminlar",
+    "javob": "A"
+  },
+  {
+    "savol": "'Men har doim ideal bo‘lishim kerak' degan fikr Ellis nazariyasiga ko‘ra nima?",
+    "A": "Kategorik talab",
+    "B": "Realistik baho",
+    "C": "Emotsional refleksiya",
+    "D": "Konstruktiv fikr",
+    "javob": "A"
+  },
+  {
+    "savol": "Aaron Beckning nazariyasiga ko‘ra, avtomatik fikrlar qanday ta’sir qiladi?",
+    "A": "Ruhiy holatni yomonlashtiradi",
+    "B": "Xotirani kuchaytiradi",
+    "C": "Motivatsiyani oshiradi",
+    "D": "E'tiborni ijobiy jihatlarga qaratadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Beck nazariyasidagi 'oq-qora fikrlash' nima?",
+    "A": "Ikki ekstremal nuqtada tafakkur",
+    "B": "Ranglar orqali ifodalangan hissiyotlar",
+    "C": "Ob'ektiv tahlil qilish usuli",
+    "D": "Turli nuqtai nazarlarni qamrab olish",
+    "javob": "A"
+  },
+  {
+    "savol": "Walter Mischelning CAPS nazariyasida nimalar o‘zaro ta’sir qiladi?",
+    "A": "Fikrlar, hissiyotlar va maqsadlar",
+    "B": "Xulq va reflekslar",
+    "C": "Genlar va tashqi muhit",
+    "D": "Ijtimoiy rollar va madaniyat",
+    "javob": "A"
+  },
+  {
+    "savol": "'Marshmelov tajribasi' qaysi qobiliyatni o‘lchagan?",
+    "A": "O‘zini boshqarish",
+    "B": "Intellekt darajasi",
+    "C": "Ijtimoiy aloqalar",
+    "D": "Tez fikrlash",
+    "javob": "A"
+  },
+  {
+    "savol": "Jerome Bruner bilimlarni qanday taqdim etishni taklif qilgan?",
+    "A": "Uch bosqichli usulda",
+    "B": "Oddiy hikoyalar orqali",
+    "C": "Refleksiv reaktsiyalar orqali",
+    "D": "Eksperimental testlar orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Ulric Neisser qanday yondashuvni ilgari surgan?",
+    "A": "Ekologik yondashuv",
+    "B": "Analitik yondashuv",
+    "C": "Bihevioristik yondashuv",
+    "D": "Emotiv yondashuv",
+    "javob": "A"
+  },
+  {
+    "savol": "Kognitiv nazariyalar psixoterapiyada qanday ahamiyatga ega?",
+    "A": "Fikr va ishonchlarni o‘zgartirish orqali ruhiy sog‘lomlikka erishish",
+    "B": "Faoliyatni nazorat qilish orqali progressga erishish",
+    "C": "Ijtimoiy rollarni aniqlash orqali muammolarni bartaraf qilish",
+    "D": "Ichki energiya oqimini yo‘naltirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Freydning fikriga ko‘ra, shaxsning asosiy qismlaridan biri bu:",
+    "A": "Id – instinktiv ehtiyojlar",
+    "B": "Analitik fikr",
+    "C": "Superego – ijtimoiy norma",
+    "D": "Xotira",
+    "javob": "A"
+  },
+  {
+    "savol": "Adler nazariyasida ustunlikka intilish nimani bildiradi?",
+    "A": "To‘liqsizlikni yengish harakati",
+    "B": "Jamiyatga moslashish",
+    "C": "Ota-onaga bog‘liqlik",
+    "D": "Xavfsizlik izlash",
+    "javob": "A"
+  },
+  {
+    "savol": "Yungning 'kollektiv ongsizlik' tushunchasi nimaga asoslanadi?",
+    "A": "Arxetiplarga",
+    "B": "Bolalikdagi travmalarga",
+    "C": "Ijtimoiy nazoratga",
+    "D": "Fikrlash sxemalariga",
+    "javob": "A"
+  },
+  {
+    "savol": "Erikson nazariyasida o‘smirlik davrining markaziy muammosi bu:",
+    "A": "Identifikatsion inqiroz",
+    "B": "Xavfsizlik ehtiyoji",
+    "C": "Mustaqillik istagi",
+    "D": "Axloqiy me’yorlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Bixevioristlar nazarida inson xatti-harakati qanday shakllanadi?",
+    "A": "Tashqi stimullarga javoban",
+    "B": "Ong osti jarayonlari bilan",
+    "C": "Biologik ehtiyojlar asosida",
+    "D": "Axloqiy qadriyatlarga ko‘ra",
+    "javob": "A"
+  },
+  {
+    "savol": "“Kichik Albert” tajribasi nimani isbotladi?",
+    "A": "Qo‘rquv klassik shartlanish orqali shakllanishi mumkinligini",
+    "B": "Ego himoya mexanizmlarini",
+    "C": "Ego va superego ziddiyatini",
+    "D": "Mustaqil fikrlashni",
+    "javob": "A"
+  },
+  {
+    "savol": "Skinner nazariyasida ijobiy kuchaytirish nimani anglatadi?",
+    "A": "Xatti-harakatdan keyin ijobiy stimulyator berilishi",
+    "B": "Jazolash orqali motivatsiya",
+    "C": "Salbiy stimullarni olib tashlash",
+    "D": "Emotsional rag‘bat",
+    "javob": "A"
+  },
+  {
+    "savol": "Bandura nazariyasida asosiy o‘rganish usuli bu:",
+    "A": "Kuzatish orqali o‘rganish",
+    "B": "Jazolash orqali tuzatish",
+    "C": "Takrorlash orqali mustahkamlash",
+    "D": "Tush tahlili orqali anglash",
+    "javob": "A"
+  },
+  {
+    "savol": "Maslowning motivatsiya nazariyasida eng yuqori darajadagi ehtiyoj:",
+    "A": "O‘z-o‘zini aktuallashtirish",
+    "B": "Xavfsizlik",
+    "C": "Ijtimoiy aloqalar",
+    "D": "Fiziologik ehtiyojlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Rogers nazariyasida psixologik salomatlik nimaga bog‘liq?",
+    "A": "O‘z-o‘zini qadrlashga",
+    "B": "Superego faoliyatiga",
+    "C": "Ekstremal tajribalarga",
+    "D": "Atrof-muhit bosimiga",
+    "javob": "A"
+  },
+  {
+    "savol": "Vigotskiyga ko‘ra, “proksimal rivojlanish zonasi” nima?",
+    "A": "Bola yordam bilan bajara oladigan faoliyat sohasi",
+    "B": "Mustaqil bajarilgan vazifa",
+    "C": "O‘yin orqali anglanadigan qobiliyat",
+    "D": "Genetik jihatdan belgilanadigan o‘zgarishlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Piaje nazariyasiga ko‘ra, 2–7 yoshli bola qaysi bosqichda bo‘ladi?",
+    "A": "Operatsiyadan oldingi bosqich",
+    "B": "Sensomotor bosqich",
+    "C": "Aniq operatsiyalar bosqichi",
+    "D": "Formal fikrlash bosqichi",
+    "javob": "A"
+  },
+  {
+    "savol": "Allportga ko‘ra, shaxsni tavsiflaydigan asosiy sifat darajasi:",
+    "A": "Kardinal sifat",
+    "B": "Sekundar sifat",
+    "C": "Xarakterning shakli",
+    "D": "Rivojlanmagan motiv",
+    "javob": "A"
+  },
+  {
+    "savol": "Katta beshlik modelidagi 'nevrotizm' nimani bildiradi?",
+    "A": "Emotsional beqarorlik darajasi",
+    "B": "Ijtimoiy extrovertlik",
+    "C": "Ishchanlik va intizom",
+    "D": "Yangi tajribaga ochiqlik",
+    "javob": "A"
+  },
+  {
+    "savol": "Franklning logoterapiyasida asosiy tushuncha bu:",
+    "A": "Hayot ma’nosini izlash",
+    "B": "Egoni mustahkamlash",
+    "C": "Xotiralarni qayta ishlash",
+    "D": "Superego bilan kelishish",
+    "javob": "A"
+  },
+  {
+    "savol": "Faoliyat nazariyasining asoschisi kim hisoblanadi?",
+    "A": "A.N. Leontev",
+    "B": "Z. Freyd",
+    "C": "K. Yung",
+    "D": "A. Bandura",
+    "javob": "A"
+  },
+  {
+    "savol": "Vygotskiy nazariyasida “yaqin rivojlanish zonasi” degani nima?",
+    "A": "Bola kattalar yordami bilan bajara oladigan faoliyat sohasi",
+    "B": "Mustaqil faoliyatga tayyor bo‘lmagan bosqich",
+    "C": "Rivojlanish to‘xtagan bosqich",
+    "D": "Kognitiv rivojlanishga oid jarayon",
+    "javob": "A"
+  },
+  {
+    "savol": "Rubinshteyn nazariyasiga ko‘ra, ong qayerda shakllanadi?",
+    "A": "Faoliyatda",
+    "B": "Biologik ehtiyojlarda",
+    "C": "Orzular orqali",
+    "D": "Tashqi stimullarda",
+    "javob": "A"
+  },
+  {
+    "savol": "Ananev konsepsiyasiga ko‘ra, inson qanday to‘rt darajada o‘rganiladi?",
+    "A": "Individ, shaxs, sub’ekt, individuallik",
+    "B": "Bola, o‘spirin, kattalar, qariyalar",
+    "C": "Pastki, o‘rta, yuqori, ekstremal",
+    "D": "Bilish, emotsiya, ijtimoiylik, madaniyat",
+    "javob": "A"
+  },
+  {
+    "savol": "Rus psixologiyasida madaniy-tarixiy yondashuv asoschisi kim?",
+    "A": "L.S. Vygotskiy",
+    "B": "J. Watson",
+    "C": "E. Erikson",
+    "D": "A. Adler",
+    "javob": "A"
+  },
+  {
+    "savol": "Psixik jarayonlar Vygotskiy nazariyasiga ko‘ra qanday shakllanadi?",
+    "A": "Madaniy vositalar orqali",
+    "B": "Biologik instinktlar bilan",
+    "C": "Natural tajribalar bilan",
+    "D": "Tasodifiy jarayonlar bilan",
+    "javob": "A"
+  },
+  {
+    "savol": "Faoliyat tuzilmasida “operatsiya” nimani bildiradi?",
+    "A": "Amalga oshirish sharoitiga bog‘liq harakatlar",
+    "B": "Umumiy maqsadlar",
+    "C": "Emotsional reaksiya",
+    "D": "Ong osti instinktlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Rubinshteynning determinizm prinsipiga ko‘ra nima hisobga olinadi?",
+    "A": "Tashqi ta’sirlar ichki shartlar orqali namoyon bo‘ladi",
+    "B": "Tashqi muhit hal qiluvchi rol o‘ynaydi",
+    "C": "Har qanday reaktsiya oldindan belgilangan",
+    "D": "Ijtimoiy rollar instinktdan ustun",
+    "javob": "A"
+  },
+  {
+    "savol": "Motiv, maqsad va operatsiya ketma-ketligi nimani tashkil etadi?",
+    "A": "Faoliyat strukturasini",
+    "B": "Emotsional zanjirni",
+    "C": "Shaxs tipologiyasini",
+    "D": "Ijtimoiy motivatsiyani",
+    "javob": "A"
+  },
+  {
+    "savol": "Identifikatsiya bu:",
+    "A": "O‘zini boshqalar bilan aynanlashtirish",
+    "B": "O‘zini boshqalardan ajratish",
+    "C": "Ongni o‘rganish",
+    "D": "Ichki ehtiyojlarni inkor etish",
+    "javob": "A"
+  },
+  {
+    "savol": "Psixologik himoya mexanizmlaridan biri bu:",
+    "A": "Ratsionalizatsiya",
+    "B": "O‘rganish",
+    "C": "Identifikatsiya",
+    "D": "Rivojlanish zonasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Rus psixologiyasida shaxsning eng asosiy tarkibiy qismlaridan biri:",
+    "A": "Motivatsion sfera",
+    "B": "Iqlim",
+    "C": "Biologik fond",
+    "D": "Mehnat qurollari",
+    "javob": "A"
+  },
+  {
+    "savol": "Temperamentning kuchli tomoni sifatida sangvinikda nimani ko‘rish mumkin?",
+    "A": "Muloqotchanlik",
+    "B": "Sezuvchanlik",
+    "C": "Sekinlik",
+    "D": "Hissiyotlar beqarorligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Emotsional intellekt degani nima?",
+    "A": "Emotsiyalarni tushunish va boshqarish qobiliyati",
+    "B": "Oliy intellektning evolyutsiyasi",
+    "C": "Qiziqishning fiziologik ifodasi",
+    "D": "Qorquvga bo‘lgan chidamlilik",
+    "javob": "A"
+  },
+  {
+    "savol": "Rus psixologiyasida shaxs rivoji qanday omillar orqali belgilanadi?",
+    "A": "Biologik va ijtimoiy omillar birgalikda",
+    "B": "Biologik meros",
+    "C": "Tashqi muhit",
+    "D": "Intellekt darajasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Shaxs nima?",
+    "A": "Ijtimoiy hayot subyekti, ijtimoiy munosabatlarda shakllanadi",
+    "B": "Biologik mavjudot",
+    "C": "Insonning hayvonlardan farqi yo‘q",
+    "D": "Shaxsiyat tug‘ma bo‘ladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Shaxsning psixologik tuzilmasi nimani o‘z ichiga oladi?",
+    "A": "Qobiliyatlar, xarakter va temperament",
+    "B": "Biologik belgilar",
+    "C": "Tanlov huquqi",
+    "D": "Inson fiziologiyasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Shaxs taraqqiyotining asosiy qonuniyatlaridan biri nima?",
+    "A": "Bosqichma-bosqich rivojlanish",
+    "B": "Birdan yuzaga kelish",
+    "C": "Harakatsizlik",
+    "D": "Ijtimoiy ta’sir",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi omillar shaxs rivojlanishiga ta’sir ko‘rsatadi?",
+    "A": "Ijtimoiy muhit, ta’lim, tarbiya",
+    "B": "Genetik meros",
+    "C": "Shaxsiy intilish",
+    "D": "Moddiy sharoit",
+    "javob": "A"
+  },
+  {
+    "savol": "Qobiliyat nima?",
+    "A": "Muayyan faoliyatni muvaffaqiyatli bajarish imkoniyati",
+    "B": "O‘z-o‘zini boshqarish qobiliyati",
+    "C": "Biologik zarurat",
+    "D": "Ijtimoiy mavqe",
+    "javob": "A"
+  },
+  {
+    "savol": "Temperament nimalar bilan bog‘liq?",
+    "A": "Asab tizimi xususiyatlari",
+    "B": "Tashqi ko‘rinish",
+    "C": "Ta’lim darajasi",
+    "D": "Jismoniy kuch",
+    "javob": "A"
+  },
+  {
+    "savol": "Xarakter nimani ifodalaydi?",
+    "A": "O‘ziga va boshqalarga munosabat",
+    "B": "Biologik holat",
+    "C": "Moliyaviy qobiliyat",
+    "D": "Jismoniy chidamlilik",
+    "javob": "A"
+  },
+  {
+    "savol": "Shaxsning o‘zini anglash nima?",
+    "A": "O‘zini, imkoniyatlarini va qadriyatlarini tushunish",
+    "B": "Boshqalarni boshqarish",
+    "C": "Bilim olish",
+    "D": "Stressga bardoshlik",
+    "javob": "A"
+  },
+  {
+    "savol": "Shaxsning ijtimoiy tuzilmasi nima?",
+    "A": "Egallagan ijtimoiy rol va munosabatlar tizimi",
+    "B": "Qon bosimi darajasi",
+    "C": "Genetik xususiyatlari",
+    "D": "Ruhiy muvozanat",
+    "javob": "A"
+  },
+  {
+    "savol": "Shaxsiy qadriyatlar nimani belgilaydi?",
+    "A": "Hayot tamoyillari va qarashlar tizimini",
+    "B": "Moddiy manfaatlarni",
+    "C": "Ijtimoiy me’yorlarni",
+    "D": "Fizik kuchni",
+    "javob": "A"
+  },
+  {
+    "savol": "Motiv nima?",
+    "A": "Harakatga undovchi sabab",
+    "B": "Tashqi ko‘rinish",
+    "C": "Jismoniy qobiliyat",
+    "D": "Hissiy holat",
+    "javob": "A"
+  },
+  {
+    "savol": "Shaxsning faoliyati nimalarga qaratilgan?",
+    "A": "Ehtiyoj, qiziqish va maqsadlarni qondirishga",
+    "B": "Doimiy takrorlovga",
+    "C": "Harakatsizlikka",
+    "D": "Xavfsizlikni saqlashga",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘ziga bo‘lgan munosabat nimani anglatadi?",
+    "A": "O‘zini qadrlash darajasi",
+    "B": "Boshqalarni hurmat qilish",
+    "C": "Faoliyatga bo‘lgan qiziqish",
+    "D": "Emotsional holat",
+    "javob": "A"
+  },
+  {
+    "savol": "Shaxsning o‘zaro munosabatlari qayerda shakllanadi?",
+    "A": "Ijtimoiy hayot jarayonida",
+    "B": "Ta’lim muassasasida",
+    "C": "Oilada",
+    "D": "Shaxsiy hayotda",
+    "javob": "A"
+  },
+  {
+    "savol": "Shaxs tushunchasi qanday yondashuvlarni birlashtiradi?",
+    "A": "Biologik, ijtimoiy va psixologik jihatlarni",
+    "B": "Fiziologiyani",
+    "C": "Sotsiologiyani",
+    "D": "Diniy qadriyatlarni",
+    "javob": "A"
+  },
+  {
+    "savol": "Psixoanaliz nima?",
+    "A": "Freyd tomonidan ishlab chiqilgan psixoterapiya va psixologik ta’limot",
+    "B": "Nevrologik kasalliklarni davolash usuli",
+    "C": "Ijtimoiy nazariya",
+    "D": "Tushlarni talqin qilish metodi",
+    "javob": "A"
+  },
+  {
+    "savol": "Psixoanaliz asoschisi kim?",
+    "A": "Zigmund Freyd",
+    "B": "Erik Erikson",
+    "C": "Karl Gustav Jung",
+    "D": "Alfred Adler",
+    "javob": "A"
+  },
+  {
+    "savol": "Freyd nazariyasida inson xulqining asosiy omili nima?",
+    "A": "Jinsiy ehtiyoj (libido)",
+    "B": "Ongli fikrlash",
+    "C": "Jamiyatning bosimi",
+    "D": "Irsi xususiyatlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Ongsiz psixik jarayonlar nimaga ta'sir qiladi?",
+    "A": "Inson xulq-atvoriga",
+    "B": "Emotsiyalarga",
+    "C": "Fiziologik reaktsiyalarga",
+    "D": "Harakatsizlikka",
+    "javob": "A"
+  },
+  {
+    "savol": "Freydning psixoseksual rivojlanish nazariyasi nimalarga asoslanadi?",
+    "A": "Bolalik davridagi kechinmalarga",
+    "B": "Voyaga yetganlikdagi hodisalarga",
+    "C": "Atrof-muhitga",
+    "D": "Fiziologiyaga",
+    "javob": "A"
+  },
+  {
+    "savol": "Himoya mexanizmlari nima?",
+    "A": "Ongsiz ravishda stress va og‘riqdan himoyalanish vositalari",
+    "B": "Immun tizimi faoliyati",
+    "C": "Jismoniy reaksiya",
+    "D": "Ongli qaror qabul qilish",
+    "javob": "A"
+  },
+  {
+    "savol": "Tushlarni talqin qilishning maqsadi nima?",
+    "A": "Ongsizlikdagi istaklarni aniqlash",
+    "B": "Kelajakni bashorat qilish",
+    "C": "Dam olish uchun",
+    "D": "His-tuyg‘ularni yashirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Edip kompleksi nimani anglatadi?",
+    "A": "Qarama-qarshi jinsdagi ota-onaga nisbatan sevgi va raqobat hissi",
+    "B": "Ota-onani yo‘qotish qo‘rquvi",
+    "C": "Egizaklar o‘rtasidagi raqobat",
+    "D": "Ijtimoiy rol bilan bog‘liq muammo",
+    "javob": "A"
+  },
+  {
+    "savol": "Ego psixologiyasi nimani o‘rganadi?",
+    "A": "Ego’ning ongsizga ta’sirini",
+    "B": "Libidoni",
+    "C": "Xavfsizlik instinktini",
+    "D": "Hissiy barqarorlikni",
+    "javob": "A"
+  },
+  {
+    "savol": "Ob’ektiv munosabatlar nazariyasi nimani o‘rganadi?",
+    "A": "Odamlar o‘rtasidagi munosabatlar va ularning shaxs rivojiga ta’siri",
+    "B": "O‘z-o‘zini anglashni",
+    "C": "Tabiiy ehtiyojlar ierarxiyasini",
+    "D": "Qadriyatlar tizimini",
+    "javob": "A"
+  },
+  {
+    "savol": "Interpsixik psixoterapiya nima?",
+    "A": "O‘zaro munosabatlar orqali shaxsiy muammolarni hal qilish yondashuvi",
+    "B": "Meditatsiya usuli",
+    "C": "Jismoniy faollik terapiyasi",
+    "D": "Tushlar bilan ishlash",
+    "javob": "A"
+  },
+  {
+    "savol": "Freydning nazariyasiga ko‘ra, shaxs nimaning natijasi hisoblanadi?",
+    "A": "Bolalik davridagi ruhiy tajribalar",
+    "B": "Genetik omillar",
+    "C": "Ijtimoiy tarbiya",
+    "D": "Ongli fikr",
+    "javob": "A"
+  },
+  {
+    "savol": "Libido nima?",
+    "A": "Instinktiv energiya va ehtiyojlar manbai",
+    "B": "Aqliy fikr",
+    "C": "Bilim olishga intilish",
+    "D": "Jismoniy holat",
+    "javob": "A"
+  },
+  {
+    "savol": "Super-Ego nima?",
+    "A": "Axloqiy qadriyatlar va jamiyat me’yorlari tizimi",
+    "B": "Instinktlar to‘plami",
+    "C": "Biologik ehtiyojlar",
+    "D": "Ongli qarorlar markazi",
+    "javob": "A"
+  },
+  {
+    "savol": "Freyddan keyingi qaysi psixolog Erikson modifikatsiyasini ishlab chiqqan?",
+    "A": "Psixoijtimoiy rivojlanish nazariyasini ishlab chiqqan",
+    "B": "Bihevioristik yondashuv asoschisi bo‘lgan",
+    "C": "Ijtimoiy aloqalarni rad etgan",
+    "D": "Tabiiy reflekslarni o‘rganishga urg‘u bergan",
+    "javob": "A"
+  },
+  {
+    "savol": "Shaxsning asosiy funksiyalaridan biri nima?",
+    "A": "O‘zini-o‘zi anglash",
+    "B": "Boshqalarga taqlid qilish",
+    "C": "Qoidalarni buzish",
+    "D": "Tashqi ko‘rinishni nazorat qilish",
+    "javob": "A"
+  },
+  {
+    "savol": "Shaxsni o‘rganishning dolzarbligi nimada?",
+    "A": "Shaxsiy potentsialni ochishda",
+    "B": "Sog‘liqni yaxshilashda",
+    "C": "Tashqi ko‘rinishni yaxshilashda",
+    "D": "Biologik jihatlarni o‘rganishda",
+    "javob": "A"
+  },
+  {
+    "savol": "Shaxsni o‘rganish usullaridan biri nima?",
+    "A": "So‘rovnoma",
+    "B": "Elektrokardiogramma",
+    "C": "Rentgen tekshiruvi",
+    "D": "Ultrasonografiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Biheviorizmga ko‘ra, shaxs qanday o‘rganiladi?",
+    "A": "Xulq-atvor va tashqi kuzatuv asosida",
+    "B": "Ichki tuyg‘ular asosida",
+    "C": "Madaniy kontekstda",
+    "D": "Genetik tahlil orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Ivan Pavlovning klassik shartli refleksi asoslangan tajribasi nima?",
+    "A": "Itlarga qo‘ng‘iroq bilan ovqat berish",
+    "B": "Bolalarning o‘yinini kuzatish",
+    "C": "Uyqudagi odamlarni o‘lchash",
+    "D": "Ranglarni farqlash",
+    "javob": "A"
+  },
+  {
+    "savol": "Skinnerning operant shartli refleksi nimaga asoslangan?",
+    "A": "Mukofot va jazoga",
+    "B": "Shaxsiy fikrlashga",
+    "C": "Stressga chidamlilikka",
+    "D": "Fiziologik holatlarga",
+    "javob": "A"
+  },
+  {
+    "savol": "Biheviorizmning kamchiliklaridan biri nima?",
+    "A": "Insonning ichki dunyosini e’tiborsiz qoldiradi",
+    "B": "Fiziologiyani e’tiborsiz qoldiradi",
+    "C": "Sog‘liqni o‘rganadi",
+    "D": "Qiziqishni baholamaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Psixoanalitik yondashuv nima bilan bog‘liq?",
+    "A": "Ongsiz jarayonlar bilan",
+    "B": "Reflekslar bilan",
+    "C": "Hujayra darajasida",
+    "D": "Moliyaviy holat bilan",
+    "javob": "A"
+  },
+  {
+    "savol": "Himoya mexanizmlari nima qiladi?",
+    "A": "Ongsiz ravishda stressni kamaytiradi",
+    "B": "Tana haroratini pasaytiradi",
+    "C": "Xotirani oshiradi",
+    "D": "Faollikni cheklaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Libido nimani anglatadi?",
+    "A": "Instinktiv energiya va istaklar",
+    "B": "Bilim olish ehtiyoji",
+    "C": "Ijtimoiy mavqe",
+    "D": "Uyqu rejimi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ego nima?",
+    "A": "Haqiqat bilan aloqani boshqaruvchi tuzilma",
+    "B": "Irsiyat",
+    "C": "Bosh miya tuzilmasi",
+    "D": "Ijtimoiy me’yorlar majmuasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Super-ego nima?",
+    "A": "Axloqiy me’yorlar tizimi",
+    "B": "Istaklar markazi",
+    "C": "Tashqi muhit",
+    "D": "Fiziologik reaktsiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Adlerning yondashuvi nimani ta’kidlaydi?",
+    "A": "Ijtimoiy ustunlikka intilish",
+    "B": "Jinsiy energiyani",
+    "C": "Biologik evolyutsiyani",
+    "D": "Madaniy qadriyatlarni",
+    "javob": "A"
+  },
+  {
+    "savol": "Jungning nazariyasida qanday tushuncha muhim hisoblanadi?",
+    "A": "Arxetiplar",
+    "B": "Reflekslar",
+    "C": "Tushlar emasligi",
+    "D": "Biologik irsiyat",
+    "javob": "A"
+  },
+  {
+    "savol": "Gumanistik psixologiyada shaxs qanday talqin qilinadi?",
+    "A": "O‘zini anglovchi va o‘sishga intiluvchi mavjudot",
+    "B": "Ijtimoiy mahsulot",
+    "C": "Biologik organizm",
+    "D": "Atrof-muhitning qurboni",
+    "javob": "A"
+  },
+  {
+    "savol": "Gumanistik psixologiyaning asoschilari kimlar?",
+    "A": "Abraham Maslou va Karl Rojers",
+    "B": "Zigmund Freyd va Erikson",
+    "C": "Skinner va Pavlov",
+    "D": "Adler va Jung",
+    "javob": "A"
+  },
+  {
+    "savol": "Gumanistik psixologiyaning asosiy tamoyillaridan biri nima?",
+    "A": "Inson erkin tanlovga ega",
+    "B": "Insonning ongsiz istaklari asosiydir",
+    "C": "Xulq-atvor mukofot orqali shakllanadi",
+    "D": "Ijtimoiy me’yorlar hal qiluvchi omil",
+    "javob": "A"
+  },
+  {
+    "savol": "Abraham Maslou qaysi nazariyani ishlab chiqqan?",
+    "A": "Ehtiyojlar ierarxiyasi nazariyasi",
+    "B": "Psixoseksual rivojlanish nazariyasi",
+    "C": "Klassik reflekslar nazariyasi",
+    "D": "Rol nazariyasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Maslou nazariyasining eng yuqori bosqichi nima?",
+    "A": "O‘zini-o‘zi aktuallashtirish",
+    "B": "Xavfsizlik",
+    "C": "Hurmat va e’tibor",
+    "D": "Fiziologik ehtiyojlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Karl Rojers qaysi psixoterapiya usulini taklif qilgan?",
+    "A": "Mijozga yo‘naltirilgan terapiya",
+    "B": "Analitik terapiya",
+    "C": "Bihevioral davolash",
+    "D": "Kognitiv qayta ishlash",
+    "javob": "A"
+  },
+  {
+    "savol": "“Men” konsepsiyasi nima?",
+    "A": "Insonning o‘zi haqidagi tasavvurlari",
+    "B": "Shaxsning yashash joyi",
+    "C": "Tashqi muhitni anglash",
+    "D": "Ongsizlikdagi tajriba",
+    "javob": "A"
+  },
+  {
+    "savol": "“Real Men” nimani anglatadi?",
+    "A": "Insonning haqiqiy xususiyatlari va tajribalari",
+    "B": "Ideal orzulari",
+    "C": "Uydirma shaxsiyat",
+    "D": "Tushdagi obraz",
+    "javob": "A"
+  },
+  {
+    "savol": "“Ideal Men” nima?",
+    "A": "Insonning qanday bo‘lishni xohlashi",
+    "B": "Mavjud tajriba",
+    "C": "Jismoniy qobiliyatlar majmuasi",
+    "D": "Ongsiz hislar",
+    "javob": "A"
+  },
+  {
+    "savol": "Shaxsning o‘sishga intilishi nima bilan bog‘liq?",
+    "A": "Ichki potensialni ro‘yobga chiqarish bilan",
+    "B": "Moddiy ehtiyojlar bilan",
+    "C": "Jamiyat nazorati bilan",
+    "D": "Stress bilan kurashish",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘zini-o‘zi anglash nima?",
+    "A": "O‘z qobiliyatlarini, qadriyatlarini chuqur tushunish",
+    "B": "Boshqalarni baholash",
+    "C": "Hayotni kuzatish",
+    "D": "Muomala qilish",
+    "javob": "A"
+  },
+  {
+    "savol": "Gumanistik psixologiyaning asosiy qadriyati nima?",
+    "A": "Inson qadr-qimmati va yagonaligi",
+    "B": "Harakatlarni boshqarish",
+    "C": "Reflektor reaksiyalar",
+    "D": "Tashqi ta’sirni kuchaytirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Maslouga ko‘ra, ehtiyojlar qanday qondiriladi?",
+    "A": "Past darajadagilari avval qondiriladi",
+    "B": "Hammasi bir vaqtda",
+    "C": "Har biri bir xil darajada",
+    "D": "Tasodifiy ravishda",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘zini qabul qilish nima degani?",
+    "A": "Kuchli va zaif tomonlarini shartsiz tan olish",
+    "B": "Ijobiy hislar haqida o‘ylash",
+    "C": "Boshqalarni inkor qilish",
+    "D": "Atrofdagilarni nazorat qilish",
+    "javob": "A"
+  },
+  {
+    "savol": "“O‘zini anglash ehtiyoji” piramidaning qaysi bosqichida?",
+    "A": "Eng yuqori bosqichida",
+    "B": "O‘rtasida",
+    "C": "Eng quyi qatlamida",
+    "D": "Fiziologik ehtiyojlardan pastda",
+    "javob": "A"
+  },
+  {
+    "savol": "Egzistensial psixologiya nima?",
+    "A": "Insonning mavjudligi, erkinligi va ma’nosi haqida psixologik yondashuv",
+    "B": "Tana faoliyatini o‘rganadigan soha",
+    "C": "Genetik holatlar asosida tuzilgan nazariya",
+    "D": "Jamiyatdagi rollar tizimi",
+    "javob": "A"
+  },
+  {
+    "savol": "Egzistensial psixologiyaning asosiy maqsadi nima?",
+    "A": "Insonning o‘zini anglashiga va hayotni ma’noli yashashiga yordam berish",
+    "B": "Ijtimoiy rollarni mustahkamlash",
+    "C": "Ongsiz jarayonlarni anglash",
+    "D": "Hayvonlar xulqini tushuntirish",
+    "javob": "A"
+  },
+  {
+    "savol": "“Mavjudlik mohiyatdan oldin” degani nimani anglatadi?",
+    "A": "Inson avval mavjud bo‘ladi, keyin o‘z mohiyatini yaratadi",
+    "B": "Inson tug‘ma xususiyatlar bilan keladi",
+    "C": "Hayotdan ma’no yo‘q",
+    "D": "Jamiyat insonni shakllantiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Egzistensial psixologiyadagi asosiy qadriyatlardan biri nima?",
+    "A": "Erkinlik va mas’uliyat",
+    "B": "Nazorat va jazolash",
+    "C": "Biologik ustuvorlik",
+    "D": "Taqlid qilish",
+    "javob": "A"
+  },
+  {
+    "savol": "Shaxs o‘z hayotidagi tanlovlar uchun nima?",
+    "A": "To‘liq javobgardir",
+    "B": "Yashirin kuchlarga bo‘ysunadi",
+    "C": "Jamiyatga bog‘liq",
+    "D": "Onadan meros oladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ma’no izlash deganda nimani tushunamiz?",
+    "A": "Hayotga chuqur mazmun berishga intilish",
+    "B": "Harakatlarni ko‘paytirish",
+    "C": "Faoliyatni avtomatlashtirish",
+    "D": "Maqsadsiz yashash",
+    "javob": "A"
+  },
+  {
+    "savol": "Egzistensial psixologiya qanday hodisalarni muhim deb biladi?",
+    "A": "Dahshat, o‘lim, qo‘rquv, vijdon",
+    "B": "Ko‘nikma, refleks, reaktsiya",
+    "C": "Ongsizlik, tush, libido",
+    "D": "Tajriba, taassurot, mimika",
+    "javob": "A"
+  },
+  {
+    "savol": "Viktor Frankl qanday psixoterapiya yo‘nalishini taklif qilgan?",
+    "A": "Logoterapiya",
+    "B": "Transaksion tahlil",
+    "C": "Kognitiv terapiya",
+    "D": "Bihevioral terapiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Logoterapiya nima asosida qurilgan?",
+    "A": "Hayotdagi ma’no izlash",
+    "B": "Biologik kuchlar",
+    "C": "Shartli reflekslar",
+    "D": "Ijtimoiy nazorat",
+    "javob": "A"
+  },
+  {
+    "savol": "Jan Pol Sartr qaysi qadriyatni ustun qo‘yadi?",
+    "A": "Erkinlik",
+    "B": "Oila",
+    "C": "Motivatsiya",
+    "D": "Sabr",
+    "javob": "A"
+  },
+  {
+    "savol": "Egzistensial psixologiyada individ qanday qaraladi?",
+    "A": "Takrorlanmas va noyob mavjudot",
+    "B": "Jamiyat mahsuli",
+    "C": "Tashqi muhit aksidir",
+    "D": "Biologik organizm",
+    "javob": "A"
+  },
+  {
+    "savol": "Egzistensial muammolar asosan nimaga bog‘liq?",
+    "A": "Hayot, o‘lim, ma’no, yolg‘izlik",
+    "B": "Ijtimoiy maqom",
+    "C": "Genetik meros",
+    "D": "Jismoniy sog‘liq",
+    "javob": "A"
+  },
+  {
+    "savol": "Sharq psixologiyasi qaysi qadimgi madaniyatlarga asoslanadi?",
+    "A": "Xitoy, Hindiston, Eron, Markaziy Osiyo",
+    "B": "Gretsiya, Rim, Misr",
+    "C": "Fransiya, Angliya",
+    "D": "Lotin Amerikasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Sufizmda shaxsning asosiy rivojlanish yo‘li nima?",
+    "A": "Ruhiy kamolot va o‘zini anglash",
+    "B": "Biologik o‘sish",
+    "C": "Fikrlar o‘zgarishi",
+    "D": "Jismoniy kuchni oshirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Sharq mutafakkirlaridan qaysi biri psixologik qarashlari bilan tanilgan?",
+    "A": "Ibn Sino",
+    "B": "Aristotel",
+    "C": "Dekart",
+    "D": "Skinner",
+    "javob": "A"
+  },
+  {
+    "savol": "Sharq psixologiyasida temperament nazariyasi qanday shakllangan?",
+    "A": "To‘rt mizoj asosida: sangvinik, flegmatik, xolerik, melanxolik",
+    "B": "Hayvonlar xulqiga asoslangan",
+    "C": "Faoliyatga asoslangan",
+    "D": "Tashqi ko‘rinishga asoslangan",
+    "javob": "A"
+  },
+  {
+    "savol": "Flegmatik mizojli shaxs qanday bo‘ladi?",
+    "A": "Vazmin, barqaror, sabrli",
+    "B": "Tezkor, jizzaki",
+    "C": "Qiziquvchan, hayajonli",
+    "D": "Tashabbuskor, doimiy o‘zgaruvchan",
+    "javob": "A"
+  },
+  {
+    "savol": "Melanxolik shaxsning asosiy xususiyati nima?",
+    "A": "Sezgirlik va o‘ychanlik",
+    "B": "Tez qaror qabul qilish",
+    "C": "Tashqi faollik",
+    "D": "Boshqaruvga moyillik",
+    "javob": "A"
+  },
+  {
+    "savol": "Sharq psixologiyasida xarakter shakllanishida nima muhim?",
+    "A": "Ma’naviy va axloqiy komponentlar",
+    "B": "Jismoniy tarbiya",
+    "C": "Iqtisodiy omillar",
+    "D": "Genetik kod",
+    "javob": "A"
+  },
+  {
+    "savol": "Sharq psixologiyasida ong va ongosti munosabati qanday ko‘riladi?",
+    "A": "Yaxlit tizim sifatida",
+    "B": "Mustaqil ikki hodisa sifatida",
+    "C": "Ong muhim",
+    "D": "Instinkt asosida",
+    "javob": "A"
+  }
+]
