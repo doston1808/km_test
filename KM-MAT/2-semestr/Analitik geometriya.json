@@ -1,0 +1,1122 @@
+[
+  {
+    "savol": "Tekislikda berilgan nuqtadan bir xil uzoqlikdagi nuqtalar to‘plami nima deyiladi?",
+    "A": "Aylana",
+    "B": "Ellips",
+    "C": "Parabola",
+    "D": "Giperbola",
+    "javob": "A"
+  },
+  {
+    "savol": "Aylananing asosiy aniqlovchi elementi qaysi?",
+    "A": "Markaz va radius",
+    "B": "Fokuslar",
+    "C": "Direktrisa",
+    "D": "O‘qlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Aylananing markazi koordinatalar sistemasida qaysi nuqta bilan belgilanadi?",
+    "A": "(a; b)",
+    "B": "(x; y)",
+    "C": "(0; R)",
+    "D": "(R; 0)",
+    "javob": "A"
+  },
+  {
+    "savol": "Ellips deb nimaga aytiladi?",
+    "A": "Ikki nuqtagacha masofalar yig‘indisi o‘zgarmas bo‘lgan nuqtalar to‘plamiga",
+    "B": "Nuqtalar to‘plamiga",
+    "C": "To‘g‘ri chiziq bo‘ylab harakatga",
+    "D": "Egri chiziqning ixtiyoriy ko‘rinishiga",
+    "javob": "A"
+  },
+  {
+    "savol": "Ellipsda qo‘zg‘almas ikki nuqta nima deb ataladi?",
+    "A": "Fokuslar",
+    "B": "Markazlar",
+    "C": "Radiuslar",
+    "D": "O‘qlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Ellips markazi qayerda joylashadi?",
+    "A": "Fokuslarni tutashtiruvchi kesmaning o‘rtasida",
+    "B": "Fokuslardan birida",
+    "C": "Ordinata o‘qida",
+    "D": "Absissa o‘qining oxirida",
+    "javob": "A"
+  },
+  {
+    "savol": "Ellipsning katta o‘qi qanday aniqlanadi?",
+    "A": "Fokuslar orqali o‘tuvchi o‘q",
+    "B": "Ordinata o‘qi",
+    "C": "Ixtiyoriy chiziq",
+    "D": "Direktrisa",
+    "javob": "A"
+  },
+  {
+    "savol": "Ellipsning kichik o‘qi qaysi o‘qqa perpendikulyar bo‘ladi?",
+    "A": "Katta o‘qqa",
+    "B": "Ordinata o‘qiga",
+    "C": "Absissa o‘qiga",
+    "D": "Fokuslar chizig‘iga",
+    "javob": "A"
+  },
+  {
+    "savol": "Ellips ekssentrisiteti nimani ifodalaydi?",
+    "A": "Fokuslar orasidagi masofaning katta o‘qqa nisbatini",
+    "B": "Radius uzunligini",
+    "C": "Yuzani",
+    "D": "Perimetrni",
+    "javob": "A"
+  },
+  {
+    "savol": "Aylananing radiusi nimani bildiradi?",
+    "A": "Markazdan aylana ustidagi nuqtagacha masofani",
+    "B": "Fokuslar orasidagi masofani",
+    "C": "Diametrni",
+    "D": "O‘q uzunligini",
+    "javob": "A"
+  },
+  {
+    "savol": "Ellips direktrisalari qanday chiziqlar?",
+    "A": "Kichik o‘qqa parallel bo‘lgan to‘g‘ri chiziqlar",
+    "B": "Fokuslardan o‘tuvchi chiziqlar",
+    "C": "Katta o‘qning o‘zi",
+    "D": "Aylana ichidagi chiziqlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Markazi koordinatalar boshida bo‘lgan aylana qanday xususiyatga ega?",
+    "A": "Simmetrik joylashgan bo‘ladi",
+    "B": "Fokuslarga ega bo‘ladi",
+    "C": "Direktrisalari bo‘ladi",
+    "D": "Ekssentrisitetga ega bo‘ladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ellipsning asosiy geometrik xususiyati qaysi?",
+    "A": "Masofalar yig‘indisi doimiy bo‘lishi",
+    "B": "Bitta nuqtadan teng masofa",
+    "C": "To‘g‘ri chiziqqa teng masofa",
+    "D": "Radiusning o‘zgarmasligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Aylana va ellipsning umumiy jihati qaysi?",
+    "A": "Ikkalasi ham yopiq egri chiziq",
+    "B": "Ikkalasi ham fokusga ega",
+    "C": "Ikkalasi ham ochiq chiziq",
+    "D": "Ikkalasi ham to‘g‘ri chiziq",
+    "javob": "A"
+  },
+  {
+    "savol": "Ellips qaysi fan bo‘limida o‘rganiladi?",
+    "A": "Analitik geometriyada",
+    "B": "Algebra",
+    "C": "Matematika analizida",
+    "D": "Sonlar nazariyasida",
+    "javob": "A"
+  },
+  {
+    "savol": "Aylana tenglamasi nimaga asoslanib tuziladi?",
+    "A": "Masofa tushunchasiga",
+    "B": "Burchakka",
+    "C": "Yuza hisobiga",
+    "D": "Hajmga",
+    "javob": "A"
+  },
+  {
+    "savol": "Ellips fokuslari qayerda joylashadi?",
+    "A": "Katta o‘q ustida",
+    "B": "Kichik o‘q ustida",
+    "C": "Direktrisa ustida",
+    "D": "Aylana ichida",
+    "javob": "A"
+  },
+  {
+    "savol": "Aylananing diametri nima?",
+    "A": "Radiusning ikki baravari",
+    "B": "Fokuslar oralig‘i",
+    "C": "O‘qlar yig‘indisi",
+    "D": "Direktrisalar masofasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ellipsning markazi qanday aniqlanadi?",
+    "A": "Fokuslar o‘rtasi orqali",
+    "B": "Fokuslardan biri orqali",
+    "C": "Direktrisa kesishmasida",
+    "D": "Ixtiyoriy nuqtada",
+    "javob": "A"
+  },
+  {
+    "savol": "Ikkinchi tartibli chiziqlarga qaysilar kiradi?",
+    "A": "Aylana va ellips",
+    "B": "To‘g‘ri chiziq va kesma",
+    "C": "Sinus va kosinus",
+    "D": "Vektorlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Giperbola qanday chiziq turiga kiradi?",
+    "A": "Ikkinchi tartibli egri chiziq",
+    "B": "To‘g‘ri chiziq",
+    "C": "Sinusoid",
+    "D": "Kesma",
+    "javob": "A"
+  },
+  {
+    "savol": "Giperbola nechta fokusga ega?",
+    "A": "Ikkita",
+    "B": "Bitta",
+    "C": "Uchta",
+    "D": "Fokusga ega emas",
+    "javob": "A"
+  },
+  {
+    "savol": "Giperbola fokuslari qayerda joylashadi?",
+    "A": "Absissa o‘qi bo‘ylab",
+    "B": "Ordinata o‘qi bo‘ylab",
+    "C": "Direktrisa ustida",
+    "D": "Ixtiyoriy joyda",
+    "javob": "A"
+  },
+  {
+    "savol": "Giperbolada direktrisalar qanday bo‘ladi?",
+    "A": "Ikki parallel to‘g‘ri chiziq",
+    "B": "Bitta to‘g‘ri chiziq",
+    "C": "Kesishuvchi chiziqlar",
+    "D": "Egri chiziqlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Parabola qanday ta’riflanadi?",
+    "A": "Nuqtadan va to‘g‘ri chiziqdan bir xil uzoqlikdagi nuqtalar to‘plami",
+    "B": "Ikki nuqtaga masofalar yig‘indisi o‘zgarmas bo‘lgan nuqtalar to‘plami",
+    "C": "Markazdan teng masofadagi nuqtalar",
+    "D": "Fokuslar orasidagi masofa",
+    "javob": "A"
+  },
+  {
+    "savol": "Parabola nechta fokusga ega?",
+    "A": "Bitta",
+    "B": "Ikki",
+    "C": "Uch",
+    "D": "Fokusga ega emas",
+    "javob": "A"
+  },
+  {
+    "savol": "Parabolaning direktrisasi nima?",
+    "A": "Berilgan to‘g‘ri chiziq",
+    "B": "Absissa o‘qi",
+    "C": "Ordinata o‘qi",
+    "D": "Simmetriya o‘qi",
+    "javob": "A"
+  },
+  {
+    "savol": "Parabolaning simmetriya o‘qi qanday o‘tkaziladi?",
+    "A": "Fokusdan o‘tib direktrisaga perpendikulyar",
+    "B": "Fokuslar orqali",
+    "C": "Ordinata o‘qi bo‘ylab",
+    "D": "Ixtiyoriy chiziq",
+    "javob": "A"
+  },
+  {
+    "savol": "Giperbola qaysi xususiyati bilan ellipsdan farq qiladi?",
+    "A": "Masofalar ayirmasi doimiy bo‘lishi",
+    "B": "Masofalar yig‘indisi doimiy bo‘lishi",
+    "C": "Radiusning o‘zgarmasligi",
+    "D": "Markazga ega emasligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Parabola qanday egri chiziq hisoblanadi?",
+    "A": "Ochiq egri chiziq",
+    "B": "Yopiq egri chiziq",
+    "C": "Sinusoidal chiziq",
+    "D": "To‘g‘ri chiziq",
+    "javob": "A"
+  },
+  {
+    "savol": "Giperbolaning markazi qayerda joylashadi?",
+    "A": "Koordinatalar boshida",
+    "B": "Fokuslardan birida",
+    "C": "Direktrisa ustida",
+    "D": "Ordinata o‘qining oxirida",
+    "javob": "A"
+  },
+  {
+    "savol": "Parabola uchun qaysi tushuncha mavjud emas?",
+    "A": "Markaz",
+    "B": "Fokus",
+    "C": "Direktrisa",
+    "D": "Simmetriya o‘qi",
+    "javob": "A"
+  },
+  {
+    "savol": "Giperbolaning asosiy o‘qlari qanday joylashadi?",
+    "A": "O‘zaro perpendikulyar",
+    "B": "Parallel",
+    "C": "Ustma-ust",
+    "D": "Ixtiyoriy",
+    "javob": "A"
+  },
+  {
+    "savol": "Parabola qaysi shartga asoslanib quriladi?",
+    "A": "Masofalarning tengligi",
+    "B": "Masofalar yig‘indisi",
+    "C": "Masofalar ayirmasi",
+    "D": "Radius uzunligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Giperbolaning direktrisalari qayerda joylashadi?",
+    "A": "Markazdan ma’lum masofada",
+    "B": "Fokuslar orasida",
+    "C": "O‘qlar ustida",
+    "D": "Markazda",
+    "javob": "A"
+  },
+  {
+    "savol": "Parabolaning uch nuqtasi nimani bildiradi?",
+    "A": "Parabolaning eng yaqin nuqtasini",
+    "B": "Fokus joylashgan nuqtani",
+    "C": "Direktrisa markazini",
+    "D": "Koordinatalar boshini",
+    "javob": "A"
+  },
+  {
+    "savol": "Giperbola qaysi holatda simmetrik bo‘ladi?",
+    "A": "O‘qlariga nisbatan",
+    "B": "fokusga nisbatan",
+    "C": "Direktrisaga nisbatan",
+    "D": "Bitta nuqtaga nisbatan",
+    "javob": "A"
+  },
+  {
+    "savol": "Parabolada fokus bilan direktrisa orasidagi bog‘lanish nimani ta’minlaydi?",
+    "A": "Parabola shaklini",
+    "B": "Radiusni",
+    "C": "Markazni",
+    "D": "Perimetrni",
+    "javob": "A"
+  },
+  {
+    "savol": "Giperbola va parabola uchun umumiy jihat qaysi?",
+    "A": "Ikkinchi tartibli chiziqlar bo‘lishi",
+    "B": "Yopiq bo‘lishi",
+    "C": "Markazga ega bo‘lishi",
+    "D": "Radiusga ega bo‘lishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Parabola qaysi fan bo‘limida o‘rganiladi?",
+    "A": "Analitik geometriyada",
+    "B": "Algebra",
+    "C": "Matematika analizida",
+    "D": "Ehtimollar nazariyasida",
+    "javob": "A"
+  },
+  {
+    "savol": "Qutb koordinatalar sistemasining asosiy nuqtasi nima deb ataladi?",
+    "A": "Qutb",
+    "B": "Fokus",
+    "C": "Markaz",
+    "D": "Direktrisa",
+    "javob": "A"
+  },
+  {
+    "savol": "Qutb koordinatalar sistemasida asosiy o‘q qanday ataladi?",
+    "A": "Qutb o‘qi",
+    "B": "Ordinata o‘qi",
+    "C": "Absissa o‘qi",
+    "D": "Simmetriya o‘qi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qutb koordinatalar sistemasida nuqta o‘rni nimaga bog‘liq?",
+    "A": "Masofa va burchakka",
+    "B": "Ikki koordinataga",
+    "C": "Radius va diametrga",
+    "D": "Fokus va direktrisaga",
+    "javob": "A"
+  },
+  {
+    "savol": "Radius-vektor nimani bildiradi?",
+    "A": "Qutbdan nuqtagacha bo‘lgan masofani",
+    "B": "Fokuslar orasidagi masofani",
+    "C": "O‘qlar kesishmasini",
+    "D": "Direktrisa uzunligini",
+    "javob": "A"
+  },
+  {
+    "savol": "Qutb burchagi nimaga nisbatan o‘lchanadi?",
+    "A": "Qutb o‘qiga",
+    "B": "Ordinata o‘qiga",
+    "C": "Fokusga",
+    "D": "Markazga",
+    "javob": "A"
+  },
+  {
+    "savol": "Konus kesimi qanday hosil qilinadi?",
+    "A": "Konusni tekislik bilan kesish orqali",
+    "B": "Aylanani burish orqali",
+    "C": "To‘g‘ri chiziq chizish orqali",
+    "D": "Ellipsni aylantirish orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Konus kesimlariga qaysi chiziqlar kiradi?",
+    "A": "Ellips, parabola, giperbola",
+    "B": "To‘g‘ri chiziq va aylana",
+    "C": "Sinus va kosinus",
+    "D": "Vektor va kesma",
+    "javob": "A"
+  },
+  {
+    "savol": "Konus kesimidagi asosiy aniqlovchi elementlar qaysilar?",
+    "A": "Fokus va direktrisa",
+    "B": "Markaz va radius",
+    "C": "O‘qlar",
+    "D": "Diametrlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Konus kesimining ekssentrisiteti nimani bildiradi?",
+    "A": "Masofalar nisbatini",
+    "B": "Masofalar yig‘indisini",
+    "C": "Radius uzunligini",
+    "D": "O‘q uzunligini",
+    "javob": "A"
+  },
+  {
+    "savol": "Ekssentrisitet λ < 1 bo‘lsa, qanday chiziq hosil bo‘ladi?",
+    "A": "Ellips",
+    "B": "Parabola",
+    "C": "Giperbola",
+    "D": "Aylana",
+    "javob": "A"
+  },
+  {
+    "savol": "Ekssentrisitet λ = 1 bo‘lsa, qanday chiziq hosil bo‘ladi?",
+    "A": "Parabola",
+    "B": "Ellips",
+    "C": "Giperbola",
+    "D": "Aylana",
+    "javob": "A"
+  },
+  {
+    "savol": "Ekssentrisitet λ > 1 bo‘lsa, qanday chiziq hosil bo‘ladi?",
+    "A": "Giperbola",
+    "B": "Parabola",
+    "C": "Ellips",
+    "D": "Aylana",
+    "javob": "A"
+  },
+  {
+    "savol": "Ellips qanday konus kesimi hisoblanadi?",
+    "A": "Yopiq",
+    "B": "Ochiq",
+    "C": "To‘g‘ri",
+    "D": "Cheksiz",
+    "javob": "A"
+  },
+  {
+    "savol": "Parabola qanday konus kesimi hisoblanadi?",
+    "A": "Ochiq",
+    "B": "Yopiq",
+    "C": "Aylanasimon",
+    "D": "Simmetrik emas",
+    "javob": "A"
+  },
+  {
+    "savol": "Giperbola qanday konus kesimi hisoblanadi?",
+    "A": "Ochiq va ikki tarmoqli",
+    "B": "Yopiq",
+    "C": "Bitta tarmoqli",
+    "D": "Aylanasimon",
+    "javob": "A"
+  },
+  {
+    "savol": "Qutb koordinatalar sistemasi qaysi hollarda qulay?",
+    "A": "Egri chiziqlarni ifodalashda",
+    "B": "To‘g‘ri chiziqlar uchun",
+    "C": "Aylana uchun",
+    "D": "Algebraik masalalarda",
+    "javob": "A"
+  },
+  {
+    "savol": "Qutb koordinatalar sistemasida har bir nuqta nechta kattalik bilan aniqlanadi?",
+    "A": "Ikki",
+    "B": "Uch",
+    "C": "Bitta",
+    "D": "To‘rt",
+    "javob": "A"
+  },
+  {
+    "savol": "Konus kesimlari qaysi fan bo‘limida o‘rganiladi?",
+    "A": "Analitik geometriyada",
+    "B": "Algebra",
+    "C": "Sonlar nazariyasida",
+    "D": "Diskret matematika",
+    "javob": "A"
+  },
+  {
+    "savol": "Konus kesimlarida fokusning roli nimada?",
+    "A": "Chiziq shaklini aniqlashda",
+    "B": "Radiusni topishda",
+    "C": "Markazni belgilashda",
+    "D": "Perimetrni hisoblashda",
+    "javob": "A"
+  },
+  {
+    "savol": "Qutb koordinatalar sistemasi Dekart sistemasidan nimasi bilan farq qiladi?",
+    "A": "Masofa va burchak asosida aniqlanishi",
+    "B": "Ikki o‘q bo‘lishi",
+    "C": "To‘g‘ri burchakli bo‘lishi",
+    "D": "O‘qlar kesishishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ikkinchi tartibli chiziqlarga qaysilar kiradi?",
+    "A": "Ellips, parabola va giperbola",
+    "B": "Aylana va to‘g‘ri chiziq",
+    "C": "Sinus va kosinus",
+    "D": "Kesma va nur",
+    "javob": "A"
+  },
+  {
+    "savol": "Urinma deb nimaga aytiladi?",
+    "A": "Egri chiziqqa berilgan nuqtada eng yaqin to‘g‘ri chiziq",
+    "B": "Egri chiziqni kesib o‘tuvchi chiziq",
+    "C": "Fokusdan o‘tuvchi chiziq",
+    "D": "Direktrisa",
+    "javob": "A"
+  },
+  {
+    "savol": "Urinma egri chiziqning qaysi xossasini ifodalaydi?",
+    "A": "Lokal xossasini",
+    "B": "Global xossasini",
+    "C": "Yuzasini",
+    "D": "Hajmini",
+    "javob": "A"
+  },
+  {
+    "savol": "Ellipsning urinmasi qayerda aniqlanadi?",
+    "A": "Ellipsning berilgan nuqtasida",
+    "B": "Fokuslar orasida",
+    "C": "Direktrisa ustida",
+    "D": "Markazda",
+    "javob": "A"
+  },
+  {
+    "savol": "Parabolaning urinmasi nimani tavsiflaydi?",
+    "A": "Parabolaning shu nuqtadagi yo‘nalishini",
+    "B": "Fokuslar masofasini",
+    "C": "O‘q uzunligini",
+    "D": "Radiusni",
+    "javob": "A"
+  },
+  {
+    "savol": "Giperbolaning urinmasi qanday chiziq bo‘ladi?",
+    "A": "To‘g‘ri chiziq",
+    "B": "Egri chiziq",
+    "C": "Sinusoidal chiziq",
+    "D": "Aylana",
+    "javob": "A"
+  },
+  {
+    "savol": "Ellipsning optik xossasi nimadan iborat?",
+    "A": "Bir fokusdan chiqqan nur ikkinchi fokusdan o‘tishidan",
+    "B": "Nur o‘qiga parallel tarqalishidan",
+    "C": "Nur fokusda jamlanishidan",
+    "D": "Nur yo‘nalishi o‘zgarmasligidan",
+    "javob": "A"
+  },
+  {
+    "savol": "Ellipsning optik xossasi qayerda qo‘llaniladi?",
+    "A": "Optik asboblarda",
+    "B": "geometriyada",
+    "C": "Sonlar nazariyasida",
+    "D": "Algebra masalalarida",
+    "javob": "A"
+  },
+  {
+    "savol": "Parabolaning optik xossasiga ko‘ra, fokusdan chiqqan nur qanday tarqaladi?",
+    "A": "O‘qiga parallel bo‘lib",
+    "B": "Fokusga qaytib",
+    "C": "Ikkinchi fokusga",
+    "D": "Aylana bo‘ylab",
+    "javob": "A"
+  },
+  {
+    "savol": "Parabolaga o‘qiga parallel tushgan nurlar qayerda jamlanadi?",
+    "A": "Fokusda",
+    "B": "Markazda",
+    "C": "Direktrisada",
+    "D": "Ordinata o‘qida",
+    "javob": "A"
+  },
+  {
+    "savol": "Parabolaning optik xossasi qayerda keng qo‘llaniladi?",
+    "A": "Antenna va projektorlarda",
+    "B": "Kompyuter grafikada",
+    "C": "Sonlar nazariyasida",
+    "D": "Statistika fanida",
+    "javob": "A"
+  },
+  {
+    "savol": "Giperbolaning optik xossasi nimani ifodalaydi?",
+    "A": "Bir fokusga yo‘nalgan nur ikkinchi fokusdan chiqqandek aks etishini",
+    "B": "Nur fokusda jamlanishini",
+    "C": "Nur parallel tarqalishini",
+    "D": "Nur so‘nishini",
+    "javob": "A"
+  },
+  {
+    "savol": "Giperbolaning optik xossasi qaysi sohada muhim?",
+    "A": "Fizika va signal tarqalishida",
+    "B": "Matematikada",
+    "C": "Kimyoda",
+    "D": "Biologiyada",
+    "javob": "A"
+  },
+  {
+    "savol": "Urinma tenglamalari qaysi fan bo‘limida o‘rganiladi?",
+    "A": "Analitik geometriyada",
+    "B": "Algebra",
+    "C": "Sonlar nazariyasida",
+    "D": "Diskret matematika",
+    "javob": "A"
+  },
+  {
+    "savol": "Urinma tushunchasi qaysi turdagi chiziqlarga qo‘llaniladi?",
+    "A": "Egri chiziqlarga",
+    "B": "To‘g‘ri chiziqlarga",
+    "C": "Aylanalarga",
+    "D": "Kesmalarga",
+    "javob": "A"
+  },
+  {
+    "savol": "Ikkinchi tartibli chiziqlarning optik xossalari nimaga asoslanadi?",
+    "A": "Nur qaytish xossalariga",
+    "B": "Radius uzunligiga",
+    "C": "Yuzaga",
+    "D": "Hajmga",
+    "javob": "A"
+  },
+  {
+    "savol": "Ellips, parabola va giperbolaning umumiy jihati qaysi?",
+    "A": "Optik xossalarga ega bo‘lishi",
+    "B": "Yopiq bo‘lishi",
+    "C": "Markazga ega bo‘lishi",
+    "D": "Radiusga ega bo‘lishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Urinma yordamida asosan nima o‘rganiladi?",
+    "A": "Egri chiziqning xatti-harakati",
+    "B": "Chiziq yuzasi",
+    "C": "Fokuslar soni",
+    "D": "Direktrisa uzunligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Optik xossalar qaysi jarayonlarni tushuntiradi?",
+    "A": "Nurning aks etishini",
+    "B": "Sonlarning o‘zgarishini",
+    "C": "Tenglamalar yechimini",
+    "D": "O‘qlar joylashuvini",
+    "javob": "A"
+  },
+  {
+    "savol": "Ellips, parabola va giperbolaning urinmalari nimada muhim?",
+    "A": "Amaliy va texnik masalalarda",
+    "B": "nazariyada",
+    "C": "Hisob-kitobsiz ishlarda",
+    "D": "Sonlarni taqqoslashda",
+    "javob": "A"
+  },
+  {
+    "savol": "Konus sirtining asosiy belgisi qaysi?",
+    "A": "Barcha yasovchilari bitta nuqtadan chiqadi",
+    "B": "Barcha yasovchilari parallel",
+    "C": "tekislikdan iborat",
+    "D": "Egri chiziqlardan iborat",
+    "javob": "A"
+  },
+  {
+    "savol": "Silindr sirtida yasovchi chiziqlar qanday joylashadi?",
+    "A": "Bir-biriga parallel",
+    "B": "Bitta nuqtadan chiqadi",
+    "C": "O‘zaro kesishadi",
+    "D": "Egri chiziq bo‘ylab o‘tadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Konus sirtining uchi qayerda bo‘ladi?",
+    "A": "Bitta nuqtada",
+    "B": "To‘g‘ri chiziqda",
+    "C": "Tekislikda",
+    "D": "Egri chiziqda",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi sirt to‘g‘ri chiziqli sirt hisoblanadi?",
+    "A": "Konus",
+    "B": "Shar",
+    "C": "Ellipsoid",
+    "D": "Tor",
+    "javob": "A"
+  },
+  {
+    "savol": "Silindr sirtining hosil bo‘lishi nimaga asoslanadi?",
+    "A": "Tekislikdagi egri chiziqqa",
+    "B": "Bitta nuqtaga",
+    "C": "Fazoviy egri chiziqqa",
+    "D": "Kesishuvchi chiziqlarga",
+    "javob": "A"
+  },
+  {
+    "savol": "Konus sirtining kesimlari qaysi shakllarda bo‘lishi mumkin?",
+    "A": "Ellips, parabola, giperbola",
+    "B": "Aylana",
+    "C": "Ellips",
+    "D": "Parabola",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi sirtning barcha yasovchilari o‘zaro parallel?",
+    "A": "Silindr",
+    "B": "Konus",
+    "C": "Giperboloid",
+    "D": "Shar",
+    "javob": "A"
+  },
+  {
+    "savol": "To‘g‘ri chiziqli sirt deb nimaga aytiladi?",
+    "A": "Har bir nuqtasidan to‘g‘ri chiziq o‘tadigan sirt",
+    "B": "Egri chiziqlardan iborat sirt",
+    "C": "Yopiq sirt",
+    "D": "tekis sirt",
+    "javob": "A"
+  },
+  {
+    "savol": "Konus sirtidagi har bir yasovchi qayerdan o‘tadi?",
+    "A": "Konus uchidan",
+    "B": "Asos markazidan",
+    "C": "Tekislikdan",
+    "D": "O‘qdan",
+    "javob": "A"
+  },
+  {
+    "savol": "Silindr sirtining shakli nimaga bog‘liq?",
+    "A": "Asosdagi egri chiziqqa",
+    "B": "Burchakka",
+    "C": "Radiusga",
+    "D": "O‘lchov birligiga",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi sirt arxitektura va dizaynda keng qo‘llaniladi?",
+    "A": "To‘g‘ri chiziqli sirtlar",
+    "B": "Shar",
+    "C": "Ellipsoid",
+    "D": "Tor",
+    "javob": "A"
+  },
+  {
+    "savol": "Konus va silindr qaysi tur sirtlarga kiradi?",
+    "A": "To‘g‘ri chiziqli sirtlar",
+    "B": "Yopiq sirtlar",
+    "C": "Egri sirtlar",
+    "D": "Murakkab sirtlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Silindr sirtidagi yasovchilar qanday yo‘nalishda bo‘ladi?",
+    "A": "Bir xil yo‘nalishda",
+    "B": "Har xil yo‘nalishda",
+    "C": "Markazga qarab",
+    "D": "Egri yo‘nalishda",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi sirt qurilish va mexanikada ko‘p ishlatiladi?",
+    "A": "Konus va silindr",
+    "B": "Shar va tor",
+    "C": "Ellipsoid",
+    "D": "Paraboloid",
+    "javob": "A"
+  },
+  {
+    "savol": "Konus sirtining muhim xossasi qaysi?",
+    "A": "To‘g‘ri chiziqli sirt bo‘lishi",
+    "B": "Yopiq sirt bo‘lishi",
+    "C": "Tekis sirt bo‘lishi",
+    "D": "Egri sirt bo‘lishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Silindr sirtida yasovchilar qanday joylashadi?",
+    "A": "Kesishmaydi",
+    "B": "Bitta nuqtada kesishadi",
+    "C": "Ikki nuqtada kesishadi",
+    "D": "Cheksiz nuqtada kesishadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Quvurlar va texnik detallar qaysi sirt asosida yasaladi?",
+    "A": "Silindrik sirt",
+    "B": "Konus sirt",
+    "C": "Shar sirt",
+    "D": "Ellipsoid sirt",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri to‘g‘ri chiziqli sirt?",
+    "A": "Tekislik",
+    "B": "Shar",
+    "C": "Tor",
+    "D": "Ellipsoid",
+    "javob": "A"
+  },
+  {
+    "savol": "Konus va silindr qaysi bo‘limda o‘rganiladi?",
+    "A": "Analitik geometriyada",
+    "B": "Arifmetikada",
+    "C": "Algebrada",
+    "D": "Statistikada",
+    "javob": "A"
+  },
+  {
+    "savol": "Fazoviy sirtlarni o‘rganish nimani rivojlantiradi?",
+    "A": "Fazoviy tasavvurni",
+    "B": "Yod olishni",
+    "C": "Hisoblash tezligini",
+    "D": "O‘qish tezligini",
+    "javob": "A"
+  },
+  {
+    "savol": "Ikkinchi tartibli chiziqlar qanday tenglama orqali ifodalanadi?",
+    "A": "Umumiy tenglama orqali",
+    "B": "chiziqli tenglama orqali",
+    "C": "trigonometrik tenglama orqali",
+    "D": "eksponenta orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Ikkinchi tartibli chiziqlarga qaysilar kiradi?",
+    "A": "Ellips, parabola, giperbola, aylana",
+    "B": "Aylana",
+    "C": "Parabola",
+    "D": "Ellips",
+    "javob": "A"
+  },
+  {
+    "savol": "Aylana qaysi chiziqning maxsus holi hisoblanadi?",
+    "A": "Ellipsning",
+    "B": "Parabolaning",
+    "C": "Giperbolaning",
+    "D": "To‘g‘ri chiziqning",
+    "javob": "A"
+  },
+  {
+    "savol": "Ikkinchi tartibli chiziqlarni farqlashda nima asos bo‘ladi?",
+    "A": "Diskriminant",
+    "B": "Radius",
+    "C": "Perimetr",
+    "D": "Burchak",
+    "javob": "A"
+  },
+  {
+    "savol": "Chiziq markazi deganda nima tushuniladi?",
+    "A": "Simmetriya nuqtasi",
+    "B": "Ixtiyoriy nuqta",
+    "C": "Eng yuqori nuqta",
+    "D": "Eng past nuqta",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi chiziqlar markaziy chiziqlar deyiladi?",
+    "A": "Ellips, aylana va giperbola",
+    "B": "Parabola",
+    "C": "Ellips",
+    "D": "Aylana",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi chiziq nomarkaziy chiziq hisoblanadi?",
+    "A": "Parabola",
+    "B": "Ellips",
+    "C": "Giperbola",
+    "D": "Aylana",
+    "javob": "A"
+  },
+  {
+    "savol": "Markaziy chiziqlar qanday xossaga ega?",
+    "A": "Simmetriya markaziga ega",
+    "B": "Simmetriya o‘qiga ega emas",
+    "C": "Markazi yo‘q",
+    "D": "Bitta nuqtaga ega",
+    "javob": "A"
+  },
+  {
+    "savol": "Nomarkaziy chiziqlar qanday xossaga ega?",
+    "A": "Simmetriya o‘qi bor, lekin markazi yo‘q",
+    "B": "Markazi bor",
+    "C": "Umuman simmetriyasi yo‘q",
+    "D": "bitta nuqtasi bor",
+    "javob": "A"
+  },
+  {
+    "savol": "Fizikada parabola nimani ifodalaydi?",
+    "A": "Jism trayektoriyasini",
+    "B": "Tezlikni",
+    "C": "Bosimni",
+    "D": "Zaryadni",
+    "javob": "A"
+  },
+  {
+    "savol": "Astronomiyada ellips nimani ifodalaydi?",
+    "A": "Sayyora orbitasini",
+    "B": "Yorug‘lik tezligini",
+    "C": "Kuchni",
+    "D": "Haroratni",
+    "javob": "A"
+  },
+  {
+    "savol": "Optikada parabola qayerda qo‘llaniladi?",
+    "A": "Reflektor va antennalarda",
+    "B": "Generatorlarda",
+    "C": "Akkumulyatorlarda",
+    "D": "Dvigatellarda",
+    "javob": "A"
+  },
+  {
+    "savol": "Muhandislikda parabola nimani ifodalaydi?",
+    "A": "Ko‘prik shaklini",
+    "B": "Tok kuchini",
+    "C": "Kuchlanishni",
+    "D": "Massani",
+    "javob": "A"
+  },
+  {
+    "savol": "Iqtisodiyotda ikkinchi tartibli chiziqlar nimani modellashtiradi?",
+    "A": "Foyda va xarajat bog‘lanishini",
+    "B": "Valyuta kursini",
+    "C": "Aholi sonini",
+    "D": "Inflyatsiyani",
+    "javob": "A"
+  },
+  {
+    "savol": "Ikkinchi tartibli chiziqlar real jarayonlarni qanday ifodalaydi?",
+    "A": "Matematik model sifatida",
+    "B": "Rasm sifatida",
+    "C": "Jadval sifatida",
+    "D": "Matn sifatida",
+    "javob": "A"
+  },
+  {
+    "savol": "Ikkinchi tartibli chiziqlar nimani o‘rganishda ishlatiladi?",
+    "A": "Egri chiziqlarni tahlil qilishda",
+    "B": "Sonlarni qo‘shishda",
+    "C": "Harflarni sanashda",
+    "D": "Belgilarni ajratishda",
+    "javob": "A"
+  },
+  {
+    "savol": "Markazga ega bo‘lgan chiziq qanday ataladi?",
+    "A": "Markaziy chiziq",
+    "B": "Nomarkaziy chiziq",
+    "C": "O‘qiy chiziq",
+    "D": "To‘g‘ri chiziq",
+    "javob": "A"
+  },
+  {
+    "savol": "Markazga ega bo‘lmagan chiziq qanday ataladi?",
+    "A": "Nomarkaziy chiziq",
+    "B": "Markaziy chiziq",
+    "C": "Aylana",
+    "D": "Giperbola",
+    "javob": "A"
+  },
+  {
+    "savol": "Ikkinchi tartibli chiziqlarni o‘rganish nimaga xizmat qiladi?",
+    "A": "Amaliy masalalarni yechishga",
+    "B": "Chizma chizishga",
+    "C": "Formulani yodlashga",
+    "D": "Jadval tuzishga",
+    "javob": "A"
+  },
+  {
+    "savol": "Markazga ega bo‘lmagan ikkinchi tartibli chiziq qanday ataladi?",
+    "A": "Nomarkaziy chiziq",
+    "B": "Markaziy chiziq",
+    "C": "Aylana",
+    "D": "Ellips",
+    "javob": "A"
+  },
+  {
+    "savol": "Nomarkaziy ikkinchi tartibli chiziqning asosiy turi qaysi?",
+    "A": "Parabola",
+    "B": "Ellips",
+    "C": "Giperbola",
+    "D": "Aylana",
+    "javob": "A"
+  },
+  {
+    "savol": "Diskriminant orqali aniqlashda qaysi holatda parabola hosil bo‘ladi?",
+    "A": "Parabolani ifodalaganda",
+    "B": "Ellipsni ifodalaganda",
+    "C": "Giperbolani ifodalaganda",
+    "D": "Aylanani ifodalaganda",
+    "javob": "A"
+  },
+  {
+    "savol": "Parabolaning kanonik ko‘rinishi nimani aniqlaydi?",
+    "A": "Parabola cho‘qqisini",
+    "B": "Radiusni",
+    "C": "Burchakni",
+    "D": "Kesishish nuqtasini",
+    "javob": "A"
+  },
+  {
+    "savol": "Nomarkaziy tenglamani kanonik ko‘rinishga keltirishning birinchi qadami nima?",
+    "A": "Kvadrat hadlarni guruhlash",
+    "B": "Normallashtirish",
+    "C": "Integral olish",
+    "D": "Limit topish",
+    "javob": "A"
+  },
+  {
+    "savol": "Kvadratni to‘ldirish nima uchun bajariladi?",
+    "A": "Tenglamani qulay shaklga keltirish uchun",
+    "B": "Hosila olish uchun",
+    "C": "Integral olish uchun",
+    "D": "Tenglamani murakkablashtirish uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘zgaruvchilarni siljitish nimani ta’minlaydi?",
+    "A": "Parabola cho‘qqisini aniqlashni",
+    "B": "Radiusni topishni",
+    "C": "Burchakni topishni",
+    "D": "Yuza hisoblashni",
+    "javob": "A"
+  },
+  {
+    "savol": "Parabola cho‘qqisi nimani bildiradi?",
+    "A": "Eng past yoki eng yuqori nuqtani",
+    "B": "Eng uzoq nuqtani",
+    "C": "Eng yaqin nuqtani",
+    "D": "Kesishish nuqtasini",
+    "javob": "A"
+  },
+  {
+    "savol": "Simmetriya o‘qi nimani ko‘rsatadi?",
+    "A": "Parabola simmetriya yo‘nalishini",
+    "B": "To‘g‘ri chiziq uzunligini",
+    "C": "Doira markazini",
+    "D": "Uchburchak balandligini",
+    "javob": "A"
+  },
+  {
+    "savol": "Nomarkaziy chiziqning kanonik ko‘rinishi nimaga xizmat qiladi?",
+    "A": "Chizishni osonlashtirishga",
+    "B": "Chizishni qiyinlashtirishga",
+    "C": "Sonlarni ko‘paytirishga",
+    "D": "Formulani o‘zgartirishga",
+    "javob": "A"
+  },
+  {
+    "savol": "Nomarkaziy chiziqlarning amaliy ahamiyati qayerda ko‘rinadi?",
+    "A": "Fizik trayektoriyalarda",
+    "B": "Algebra masalalarida",
+    "C": "Matritsalarda",
+    "D": "Tenglamalarda",
+    "javob": "A"
+  },
+  {
+    "savol": "Otilgan jism trayektoriyasi qaysi chiziq bilan ifodalanadi?",
+    "A": "Parabola bilan",
+    "B": "Ellips bilan",
+    "C": "Giperbola bilan",
+    "D": "Aylana bilan",
+    "javob": "A"
+  },
+  {
+    "savol": "Parabola reflektori qaysi sohada qo‘llaniladi?",
+    "A": "Optikada",
+    "B": "Geografiyada",
+    "C": "Tarixda",
+    "D": "Adabiyotda",
+    "javob": "A"
+  },
+  {
+    "savol": "Arxitekturada parabola qayerda ishlatiladi?",
+    "A": "Yoy shakllarda",
+    "B": "To‘g‘ri chiziqda",
+    "C": "Doirada",
+    "D": "Kvadratda",
+    "javob": "A"
+  },
+  {
+    "savol": "Aviatsiyada parabola nimani ifodalaydi?",
+    "A": "Uchish yo‘lini",
+    "B": "Dvigatel kuchini",
+    "C": "Samolyot og‘irligini",
+    "D": "Havoning zichligini",
+    "javob": "A"
+  },
+  {
+    "savol": "Muhandislikda parabola nimaga qo‘llaniladi?",
+    "A": "Ko‘prik shakllarida",
+    "B": "Simlarda",
+    "C": "O‘lchovlarda",
+    "D": "Formulalarda",
+    "javob": "A"
+  },
+  {
+    "savol": "Nomarkaziy chiziqning kanonik ko‘rinishi nimani ko‘rsatadi?",
+    "A": "Simmetriya o‘qini",
+    "B": "Radiusni",
+    "C": "Yuzani",
+    "D": "Perimetrni",
+    "javob": "A"
+  },
+  {
+    "savol": "Kanonik ko‘rinishga keltirish orqali nimani aniqlash mumkin?",
+    "A": "Parabola turini",
+    "B": "Son qiymatini",
+    "C": "Burchakni",
+    "D": "Uzunlikni",
+    "javob": "A"
+  },
+  {
+    "savol": "Parabolaning kanonik ko‘rinishi nimaga qulay?",
+    "A": "Grafik chizishga",
+    "B": "Formulani yodlashga",
+    "C": "Hisobni qiyinlashtirishga",
+    "D": "Yozishga",
+    "javob": "A"
+  },
+  {
+    "savol": "Nomarkaziy ikkinchi tartibli chiziqlarni kanonik ko‘rinishga keltirish nimani ta’minlaydi?",
+    "A": "Hisoblashni va chizishni qulaylashtiradi",
+    "B": "Hisoblashni qiyinlashtiradi",
+    "C": "Formulani o‘zgartiradi",
+    "D": "Chizmani buzadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ikkinchi tartibli chiziq bilan to‘g‘ri chiziqning kesishishi nimani aniqlashga xizmat qiladi?",
+    "A": "Kesishish nuqtalarini topishga",
+    "B": "Radiusni topishga",
+    "C": "Burchakni topishga",
+    "D": "Perimetrni topishga",
+    "javob": "A"
+  }
+]
