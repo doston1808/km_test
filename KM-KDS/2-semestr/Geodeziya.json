@@ -1,0 +1,1074 @@
+[
+  {
+    "savol": "Poligon tomonlarining uzunligi va rumblari bo`yicha plan chizish qanday ataladi ?",
+    "A": "Rumb bo`yicha plan chizish",
+    "B": "Koordinatalar bo`yicha plan chizish",
+    "C": "Yo’nalish bo`yicha plan chizish",
+    "D": "Uzunlik bo`yicha plan chizish",
+    "javob": "A"
+  },
+  {
+    "savol": "Poligon burchak uchlarining koordinatalari bo`yicha plan chizish qanday ataladi ?",
+    "A": "Koordinatalar bo`yicha plan chizish",
+    "B": "Yo’nalish bo`yicha plan chizish",
+    "C": "Uzunlik bo`yicha plan chizish",
+    "D": "Rumb bo`yicha plan chizish",
+    "javob": "A"
+  },
+  {
+    "savol": "Poligon konturini tuzishning necha xil usuli mavjud ?",
+    "A": "2",
+    "B": "3",
+    "C": "4",
+    "D": "5",
+    "javob": "A"
+  },
+  {
+    "savol": "Togri burchakli koordinatalar sistemasida har zonaning oqiy meridiani qanday oq hisoblanadi",
+    "A": "X abstsissalar",
+    "B": "Y ordinatalar",
+    "C": "Y abstsissalar",
+    "D": "X ordinatalar",
+    "javob": "A"
+  },
+  {
+    "savol": "Togri burchakli koordinatalar sistemasida har bir ekvatorga parallel chiziqlar qanday o`q hisoblanadi",
+    "A": "Y ordinatalar",
+    "B": "Y abstsissalar",
+    "C": "X ordinatalar",
+    "D": "X abstsissalar",
+    "javob": "A"
+  },
+  {
+    "savol": "Tomon uzunligini rumb burchak kosinusiga ko'paytmasini nimani ko'rsatadi",
+    "A": "X o’qi bo’yicha koordinata orttirmasi",
+    "B": "Y o’qi bo’yicha koordinata orttirmasi",
+    "C": "Z o’qi bo’yicha koordinata orttirmasi",
+    "D": "Ixtiyoriy koordinata orttirmasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Koordinata orttirmasini, rumb burchak kosinusiga nisbati nimani ko'rsatadi ?",
+    "A": "Tomonning gorizantal qo’yilishi",
+    "B": "Direksion burchak",
+    "C": "Rumb burchak",
+    "D": "Azimut burchak",
+    "javob": "A"
+  },
+  {
+    "savol": "Tomon uzunligini rumb burchak sinusiga ko'paytmasini nimani ko'rsatadi",
+    "A": "Y o’qi bo’yicha koordinata orttirmasi",
+    "B": "X o’qi bo’yicha koordinata orttirmasi",
+    "C": "Z o’qi bo’yicha koordinata orttirmasi",
+    "D": "Ixtiyoriy koordinata orttirmasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Poligon konturlari tuzulish jihatidan necha turga bo'linadi",
+    "A": "2",
+    "B": "3",
+    "C": "4",
+    "D": "5",
+    "javob": "A"
+  },
+  {
+    "savol": "Rumb bo'yicha plan chizishda rumb burchaklar yo'nalishi nimaga qarab belgilanadi ?",
+    "A": "Rumb choragiga",
+    "B": "Chizma masshtabiga",
+    "C": "Minut aniqligiga",
+    "D": "Qog'oz o'lchamiga",
+    "javob": "A"
+  },
+  {
+    "savol": "To’g’ri burchakli koordinatalar sistemasining 1-choragida X koordinata orttirmasi ishorasi qanday ?",
+    "A": "Musbat",
+    "B": "Manfiy",
+    "C": "Nolga teng",
+    "D": "90 gradus",
+    "javob": "A"
+  },
+  {
+    "savol": "To’g’ri burchakli koordinatalar sistemasining 1-choragida Y koordinata orttirmasi ishorasi qanday ?",
+    "A": "Musbat",
+    "B": "Manfiy",
+    "C": "Nolga teng",
+    "D": "90 gradus",
+    "javob": "A"
+  },
+  {
+    "savol": "To’g’ri burchakli koordinatalar sistemasining 3-choragida X koordinata orttirmasi ishorasi qanday ?",
+    "A": "Manfiy",
+    "B": "Nolga teng",
+    "C": "270 gradus",
+    "D": "Musbat",
+    "javob": "A"
+  },
+  {
+    "savol": "To’g’ri burchakli koordinatalar sistemasining 2-choragida Y koordinata orttirmasi ishorasi qanday ?",
+    "A": "Musbat",
+    "B": "Manfiy",
+    "C": "Nolga teng",
+    "D": "180 gradus",
+    "javob": "A"
+  },
+  {
+    "savol": "X va Y koordinata orttirmasi ishoralari mos ravishta ikkalasi ham manfiy bo’lsa chiziq yo’nalishi qanday bo’ladi ?",
+    "A": "Janubiy-g’arbiy",
+    "B": "Shimoliy-sharqiy",
+    "C": "Janubiy-sharqiy",
+    "D": "Shimoliy-g’arbiy",
+    "javob": "A"
+  },
+  {
+    "savol": "X va Y koordinata orttirmasi ishoralari mos ravishta musbat va manfiy bo’lsa chiziq yo’nalishi qanday bo’ladi ?",
+    "A": "Shimoliy-g’arbiy",
+    "B": "Janubiy-g’arbiy",
+    "C": "Shimoliy-sharqiy",
+    "D": "Janubiy-sharqiy",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi chorakda X va Y koordinatalar orttirmalari ishorasi bir xilda manfiy ?",
+    "A": "III-chorakda",
+    "B": "II-chorakda",
+    "C": "I-chorakda",
+    "D": "IV-chorakda",
+    "javob": "A"
+  },
+  {
+    "savol": "Gorizontal syomkaning dalada olchab topilgan natijalarni matematik qoidalar boyicha ishlash va uni tog`rilab (tenglab) joy planini chizish bu-?",
+    "A": "Kameral ishlar",
+    "B": "Tasvirga olish ishlari",
+    "C": "Mexanik ishlar",
+    "D": "Topografik ishlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Kameral ishlar nechaga bo’linadi ?",
+    "A": "2",
+    "B": "3",
+    "C": "4",
+    "D": "5",
+    "javob": "A"
+  },
+  {
+    "savol": "….. Miqdorlarning o`lchab topilgan qiymatlari miqdorlar orasidagi matematik munosabat bilan taqqoslanadi.",
+    "A": "Hisoblash ishlarida",
+    "B": "Grafik ishlarda",
+    "C": "O’lchash ishlarida",
+    "D": "Kameral ishlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Teodalit yo’li poligonlari necha xil bo’ladi",
+    "A": "2",
+    "B": "3",
+    "C": "4",
+    "D": "5",
+    "javob": "A"
+  },
+  {
+    "savol": "Yopiq palegon ichki burchaklar yig’indisi qanday topiladi",
+    "A": "180*(n-2)",
+    "B": "180*(n-3)",
+    "C": "360*(n-3)",
+    "D": "360*(n-3)",
+    "javob": "A"
+  },
+  {
+    "savol": "Yopiq polegonimiz 5 burchak bo’lsa ichki burchaklar yig’indisi necha gradus bo’ladi",
+    "A": "540",
+    "B": "550",
+    "C": "360",
+    "D": "180",
+    "javob": "A"
+  },
+  {
+    "savol": "Teodolit yoli (poligon) ning yopiq va ochiq bolishiga qarab o`lchangan burchaklarni tenglashda turli matematik formulalar ishlatiladi.",
+    "A": "Poligon burchaklarini tenglash.",
+    "B": "Hisoblash ishlarida",
+    "C": "Grafik ishlarda",
+    "D": "O’lchash ishlarida",
+    "javob": "A"
+  },
+  {
+    "savol": "Rumb bu-",
+    "A": "Boshlangich yonalishning shimoliy va janubiy tomoni bilan chiziq yo`nalishi orasidagi burchak",
+    "B": "Yonalishining shimoli va garbi bilan chiziq yo`nalishi orasidagi burchak",
+    "C": "Yonalishning shimoli va sharqi bilan chiziq yonalishi orasidagi burchak",
+    "D": "Boshlangich yonalishning shimoliy va g`arbiy tomoni bilan gorizontal chiziq orasidagi burchak",
+    "javob": "A"
+  },
+  {
+    "savol": "Direksion burchak qiymati a=17º bo’lsa rumb burchak necha gradus bo’ladi",
+    "A": "R=17º",
+    "B": "R=163º",
+    "C": "R=73º",
+    "D": "R=107º",
+    "javob": "A"
+  },
+  {
+    "savol": "Direksion burchak qiymati a=56º bo’lsa chiziq yo’nalishi qanday bo’ladi",
+    "A": "Shimoliy sharqi tomonda",
+    "B": "Janubiy sharqi tomonda",
+    "C": "Shimoliy g’arbi tomonda",
+    "D": "Janubiy g’arbi tomonda",
+    "javob": "A"
+  },
+  {
+    "savol": "A-B chiziq Janubiy g’arbiy tomonda yotibdi uning direksion burchagi -?",
+    "A": "A=202º",
+    "B": "A=282º",
+    "C": "A=66º",
+    "D": "A=154º",
+    "javob": "A"
+  },
+  {
+    "savol": "To’g’ri burchakli koordinatalar sistemasi nechta chorakdan iborat ?",
+    "A": "4 ta",
+    "B": "2 ta",
+    "C": "3 ta",
+    "D": "8 ta",
+    "javob": "A"
+  },
+  {
+    "savol": "To’g’ri burchakli koordinatalar sistemasining 2-choragida x va y orttirmasining ishoralari qanday ?",
+    "A": "Musbat, manfiy",
+    "B": "Manfiy, musbat",
+    "C": "Ikkalasi ham musbat",
+    "D": "Ikkalasi ham manfiy",
+    "javob": "A"
+  },
+  {
+    "savol": "To’g’ri burchakli koordinatalar sistemasining 1-choragida x va y orttirmasining ishoralari qanday ?",
+    "A": "Ikkalasi ham musbat",
+    "B": "Musbat, manfiy",
+    "C": "Manfiy, musbat",
+    "D": "Ikkalasi ham manfiy",
+    "javob": "A"
+  },
+  {
+    "savol": "Teodolit yollari qanaqa korinishda bo`ladi",
+    "A": "Ochiq, yopiq",
+    "B": "Ochiq, aylanma",
+    "C": "Ochiq, vertikal",
+    "D": "Ochiq, gorizontal",
+    "javob": "A"
+  },
+  {
+    "savol": "Poligonning koordinatalrini ishoralarini hisobga olib qo'shganda noldan farqlanishi nimani ko'rsatadi ?",
+    "A": "Koordinata orttirmalarining bog`lanmaslik xatosi",
+    "B": "Absalyut xato",
+    "C": "Nisbiy xato",
+    "D": "Birlashmaslik xatosi",
+    "javob": "A"
+  },
+  {
+    "savol": "Burchak o’lchashda birinchi olingan sanoq qanday nomlanadi ?",
+    "A": "Nol o’rni",
+    "B": "Birinchi yarim priyom",
+    "C": "Ikkinchi yarim priyom",
+    "D": "To’liq priyom",
+    "javob": "A"
+  },
+  {
+    "savol": "Gorizontal s`yomka qilish ishlari necha bosqichda kichadi ?",
+    "A": "5",
+    "B": "4",
+    "C": "3",
+    "D": "6",
+    "javob": "A"
+  },
+  {
+    "savol": "Kameral ishlarga nimalar kiradi ?",
+    "A": "Hisoblash va grafikaviy ishlar",
+    "B": "Poligon va teodolit yo`lini belgilash",
+    "C": "Poligon va yo`lni punktga bog’lash",
+    "D": "Syomkaga tayyorgarlik korish",
+    "javob": "A"
+  },
+  {
+    "savol": "Tasvirga olish turlari-",
+    "A": "Gorizontal, vertikal, topografik",
+    "B": "Fazoviy, gorizontal, geografik",
+    "C": "Gorizontal, absolyut, matematik",
+    "D": "Vertikal, absolyut, gorizontal",
+    "javob": "A"
+  },
+  {
+    "savol": "Reper bu-",
+    "A": "Absolut balandligi malum, joyda mustahkam ornatilgan nuqta",
+    "B": "Togri burchakli koordinatasi ma`lum nuqta",
+    "C": "Geografik koordinatasi malum bolgan nuqta",
+    "D": "Astronomik koordinatasi malum bolgan nuqta",
+    "javob": "A"
+  },
+  {
+    "savol": "Tavsilotlarni syomka qilish qaysi usul bilan bajarilmaydi-",
+    "A": "Parallel usul",
+    "B": "Perpendikulyar usul",
+    "C": "Qutb usul",
+    "D": "Kestirma usul",
+    "javob": "A"
+  },
+  {
+    "savol": "Gorizontal va vertikal burchak o`lchovchi asbob -",
+    "A": "Teodolit",
+    "B": "Nivelir",
+    "C": "Vexa",
+    "D": "Reyka",
+    "javob": "A"
+  },
+  {
+    "savol": "Teodolit va transportir yordamida nima o`lchaniladi?",
+    "A": "Teodolit yordamida yer yuzasida burchak olchaniladi, transportir yordamida plan va kartada ichki burchak olchaniladi",
+    "B": "Teodolit va transportir yordamida uzunlik o`lchaniladi",
+    "C": "Teodolit va transportir yordamida balandlik o`lchaniladi",
+    "D": "Teodolit va transportir yordamida kengliki o`lchaniladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Koordinatalar orttirmasini hisoblash formulasida",
+    "A": "Nuqtalar orasidagi uzunlik",
+    "B": "Nuqtalar orasidagi ichki burchak",
+    "C": "Nuqtalar orasidagi qiyalik burchagi",
+    "D": "Nuqtalar orasidagi direksion burchak",
+    "javob": "A"
+  },
+  {
+    "savol": "Gorizontal tasvirga olishdan maqsad?",
+    "A": "Yer yuzasidagi nuqtalarning togri burchakli koordinatalarini aniqlash plan tuzish",
+    "B": "Yer yuzidagi nuqtalarni balandliklarini aniqlash",
+    "C": "Yer yuzidagi nuqtalar orasidagi uzunliklarni o`lchash va plan tuzish",
+    "D": "Yer yuzidagi joy kengligini aniqlash va plan tuzish",
+    "javob": "A"
+  },
+  {
+    "savol": "Kestirma usuli qaysilar ?",
+    "A": "Burchak, chizg’iy",
+    "B": "Aylanma, parallel",
+    "C": "Perpendikular, parallel",
+    "D": "Nuqta, balandlik",
+    "javob": "A"
+  },
+  {
+    "savol": "Teodolit yoli tomonlarining yunalishi tayanch tarmoq tomonlari yonalishi boyicha, yol burchak uchlarining koordinatalari tayanch tarmoq punktlarining koordinatalariga nisbatan aniqlansa, bu..",
+    "A": "Teodolit yo`lini tayanch punktlarga bog’lash",
+    "B": "Teodolit yo`lini nuqtaga bog’lash",
+    "C": "Teodolit yo`lini uzaytirish",
+    "D": "Teodolit yo`lini tugatish",
+    "javob": "A"
+  },
+  {
+    "savol": "Qanday ishlarda miqdorlarning o`lchab topilgan qiymatlari miqdorlar orasidagi matematik munosabat bilan taqqoslanadi.",
+    "A": "Hisoblash",
+    "B": "Grafik",
+    "C": "Tasvirga olish",
+    "D": "Reper ko’chirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Plan chizish nimalar bo’yicha amalga oshiriladi ?",
+    "A": "Rumb, koordinatalar",
+    "B": "Ichki burchaklar",
+    "C": "Direksion burchaklar",
+    "D": "Koordinata orttirmalari",
+    "javob": "A"
+  },
+  {
+    "savol": "Transportir, uchburchaklik va chizg’ich yordamida qanday usulda plan chiziladi.",
+    "A": "Rumb bo’yicha",
+    "B": "Koordinatalar bo’yicha",
+    "C": "Direksion burchaklar bo’yicha",
+    "D": "Koordinata orttirmalari bo’yicha",
+    "javob": "A"
+  },
+  {
+    "savol": "Koordinata orttirmalari nima yordamida aniqlanadi ?",
+    "A": "Tomon uzunligi, chiziq yo’nalishi",
+    "B": "Ichki burchaklar",
+    "C": "Direksion burchaklar bo’yicha",
+    "D": "Rumb bo’yicha",
+    "javob": "A"
+  },
+  {
+    "savol": "To’g’ri burchakli koordinatalar sistemasining 4-choragida chiziqni yotish yo’nalishi qanday ?",
+    "A": "Shimoliy-g’arbiy",
+    "B": "Shimoliy-sharqiy",
+    "C": "Janubiy-garbiy",
+    "D": "Janubiy-sharqiy",
+    "javob": "A"
+  },
+  {
+    "savol": "Boshlang’ich koordinataga koordinata orttirmasini qo’shib nima aniqlanadi ?",
+    "A": "Keying nuqta koordinatasi",
+    "B": "Tomon uzunligi",
+    "C": "Qiyalik burchak",
+    "D": "Nuqta balandligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Boshlang'ich koordinataga koordinata orttirmasi qo'shib keyingi koordinata aniqlashning bu usuli qanday masala ?",
+    "A": "Togri geodezik masala",
+    "B": "Teskari geodezik masala",
+    "C": "Qiyalik burchakni aniqlash",
+    "D": "Nuqta balandligini aniqlash",
+    "javob": "A"
+  },
+  {
+    "savol": "Geodezik masalalar necha turga bo'linadi ?",
+    "A": "2",
+    "B": "3",
+    "C": "4",
+    "D": "5",
+    "javob": "A"
+  },
+  {
+    "savol": "Delta X qanday nomlanadi ?",
+    "A": "X o’qi bo’yicha koordinata orttirmasi",
+    "B": "Y o’qi bo’yicha koordinata orttirmasi",
+    "C": "Z o’qi bo’yicha koordinata orttirmasi",
+    "D": "X o’qi bo’yicha koordinata kamayuvchisi",
+    "javob": "A"
+  },
+  {
+    "savol": "Delta Y qanday nomlanadi ?",
+    "A": "Y o’qi bo’yicha koordinata orttirmasi",
+    "B": "X o’qi bo’yicha koordinata orttirmasi",
+    "C": "Z o’qi bo’yicha koordinata orttirmasi",
+    "D": "X o’qi bo’yicha koordinata kamayuvchisi",
+    "javob": "A"
+  },
+  {
+    "savol": "X o'qi bo'yicha koordinata orttirmasini topishda qanday trigonometrik burchakdan foydalaniladi ?",
+    "A": "Cos",
+    "B": "Sin",
+    "C": "Tg",
+    "D": "Ctg",
+    "javob": "A"
+  },
+  {
+    "savol": "Y o'qi bo'yicha koordinata orttirmasini topishda qanday trigonometrik burchakdan foydalaniladi ?",
+    "A": "Sin",
+    "B": "Cos",
+    "C": "Tg",
+    "D": "Ctg",
+    "javob": "A"
+  },
+  {
+    "savol": "Koordinata orttirmasini rumb burchakning kosinusiga nisbati qanday qiymatni beradi ?",
+    "A": "Chiziq uzunligi",
+    "B": "Chiziq balandligi",
+    "C": "Chiziq o’rtacha vazni",
+    "D": "Chiziq yo’nalishi",
+    "javob": "A"
+  },
+  {
+    "savol": "2 nuqtaning koordinatasi ma'lum bo'lib, chiziq yo'nalishini topish qanday geodezik masala?",
+    "A": "Teskari geodezik masala",
+    "B": "Togri geodezik masala",
+    "C": "Qiyalik burchakni aniqlash",
+    "D": "Nuqta balandligini aniqlash",
+    "javob": "A"
+  },
+  {
+    "savol": "2 nuqtaning koordinatalari ayirmasi nimani ko'rsatadi ?",
+    "A": "Koordinata orttirmasi",
+    "B": "Direksion burchak",
+    "C": "Tomon uzunligi",
+    "D": "Rumb burchak",
+    "javob": "A"
+  },
+  {
+    "savol": "Y o'qi bo'yicha koordinatalar ayirmasi nimani aniqlaydi",
+    "A": "Y oqining koordinata orttirmasi",
+    "B": "Y oqining direksion burchagi",
+    "C": "Y oqining tomon uzunligi",
+    "D": "Y oqining rumb burchakgi",
+    "javob": "A"
+  },
+  {
+    "savol": "Y o'qi bo'yicha koordinata orttirmasini X o'qi bo'yicha koordina orttirmasiga nisbati qanday kattalikni ko'rsatadi ?",
+    "A": "Rumb burchak",
+    "B": "Radian",
+    "C": "Radisus",
+    "D": "Rumblar ayirmasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Rumb burchak qiymati necha gradusgacha qabul qiladi ?",
+    "A": "90",
+    "B": "180",
+    "C": "270",
+    "D": "360",
+    "javob": "A"
+  },
+  {
+    "savol": "Chiziq yo’nalishi shimaliy-sharq tomonda joylashgan bo’lsa koordinatalar orttirmalari ishoralari qanday ?",
+    "A": "X musbat, Y musbat",
+    "B": "X manfiy, Y musbat",
+    "C": "X musbat, Y manfiy",
+    "D": "X manfiy, Y manfiy",
+    "javob": "A"
+  },
+  {
+    "savol": "Chiziq yo’nalishi Janubiy-sharq tomonda joylashgan bo’lsa koordinatalar orttirmalari ishoralari qanday ?",
+    "A": "X manfiy, Y musbat",
+    "B": "X musbat, Y manfiy",
+    "C": "X manfiy, Y manfiy",
+    "D": "X musbat, Y musbat",
+    "javob": "A"
+  },
+  {
+    "savol": "Chiziq yo’nalishi Janubiy-g’arb tomonda joylashgan bo’lsa koordinatalar orttirmalari ishoralari qanday ?",
+    "A": "X manfiy, Y manfiy",
+    "B": "X musbat, Y musbat",
+    "C": "X manfiy, Y musbat",
+    "D": "X musbat, Y manfiy",
+    "javob": "A"
+  },
+  {
+    "savol": "Chiziq yo’nalishi shimoliy-g’arb tomonda joylashgan bo’lsa koordinatalar orttirmalari ishoralari qanday ?",
+    "A": "X musbat, Y manfiy",
+    "B": "X manfiy, Y manfiy",
+    "C": "X musbat, Y musbat",
+    "D": "X manfiy, Y musbat",
+    "javob": "A"
+  },
+  {
+    "savol": "Koordinata orttirmalarini kvadratlari yig'indisini kvadrat ildizdan chiqarsa nima hosil bo'ladi ?",
+    "A": "Direksion burchak",
+    "B": "Tomon uzunligi",
+    "C": "Rumb burchak",
+    "D": "Radian",
+    "javob": "A"
+  },
+  {
+    "savol": "Rumb burchak direksion burchakka qaysi chorakda teng bo'ladi ?",
+    "A": "I-chorakda",
+    "B": "II-chorakda",
+    "C": "III-chorakda",
+    "D": "IV-chorakda",
+    "javob": "A"
+  },
+  {
+    "savol": "Direksion burchak qiymati qanday oraliqda o’zgaradi",
+    "A": "0-360",
+    "B": "0-90",
+    "C": "0-180",
+    "D": "0-270",
+    "javob": "A"
+  },
+  {
+    "savol": "Oriyentirlash bu-",
+    "A": "Joydagi biror chiziqni boshlangich deb qabul qilingan chiziqqa nisbatan yonalishini aniqlash oriyentirlash deyiladi",
+    "B": "Boshlangich meridianga nisbatan yonalishini aniqlashga shu chiziqni oriyentirlash deyiladi",
+    "C": "Magnit meridianga nisbatan yo`nalishni aniqlash chiziqni oriyentirlash deyiladi",
+    "D": "Haqiqiy meridianga nisbatan yo`nalishini aniqlash chiziqni oriyentirlash deyiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Azimut A=270º40’ bo`lsa, rumb qiymatini qaysi formula orqali aniqlanadi",
+    "A": "R=360º-A",
+    "B": "R=180º-A",
+    "C": "R=270º-A",
+    "D": "R=A-180º",
+    "javob": "A"
+  },
+  {
+    "savol": "Direksion burchak qiymati a=294º bo’lsa chiziq yo’nalishi qanday bo’ladi",
+    "A": "Shimoliy g’arbi tomonda",
+    "B": "Shimoliy sharqi tomonda",
+    "C": "Janubiy sharqi tomonda",
+    "D": "Janubiy g’arbi tomonda",
+    "javob": "A"
+  },
+  {
+    "savol": "1º burchak necha sekundga teng ?",
+    "A": "3600”",
+    "B": "600”",
+    "C": "60”",
+    "D": "60’",
+    "javob": "A"
+  },
+  {
+    "savol": "Togri azimut va teskari azimutlari bular-",
+    "A": "Chiziqning togri yonalishi - togri azimut, chiziqni teskari yonalishi - teskari azimut deyiladi",
+    "B": "Chiziqning vertikal yonalishi togri azimuti, gorizontal yonalishi teskari azimut deyiladi",
+    "C": "Chiziqning gorizontal yonalishi togri azimut, vertikal yonalishi teskari azimut deyiladi",
+    "D": "Chiziq gorizontal yonalishi togri azimut, qiya yonalishi teskari azimut",
+    "javob": "A"
+  },
+  {
+    "savol": "Azimut qaysi burchaklar orasida o`lchaniladi?",
+    "A": "0º-360º gacha",
+    "B": "90º-270º gacha",
+    "C": "180º-360ºgacha",
+    "D": "270º-360º gacha",
+    "javob": "A"
+  },
+  {
+    "savol": "Haqiqiy azimut nima?",
+    "A": "Chiziq yo`nalishi haqiqiy yoki geografik meridiandan hisoblansa haqiqiy azimut deyiladi",
+    "B": "Chiziq nisbiy meridiandan hisoblansa haqiqiy azimut deyiladi",
+    "C": "Chiziq geodezik meridiandan hisoblansa haqiqiy azimut deyiladi",
+    "D": "Chiziq rumb meridiandan hisoblansa haqiqiy azimut deyiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar direksion burchagi qiymati α=159º59 bolsa, rumb qaysi ifoda boyicha aniqlaniladi?",
+    "A": "R=180º-α",
+    "B": "R=α-180º",
+    "C": "R=180º+α",
+    "D": "R=360º-α",
+    "javob": "A"
+  },
+  {
+    "savol": "To’g’ri burchakli koordinatalar sistemasining 3-choragida x va y orttirmasining ishoralari qanday ?",
+    "A": "Ikkalasi ham manfiy",
+    "B": "Ikkalasi ham musbat",
+    "C": "Musbat, manfiy",
+    "D": "Manfiy, musbat",
+    "javob": "A"
+  },
+  {
+    "savol": "To’g’ri burchakli koordinatalar sistemasining 4-choragida x va y orttirmasining ishoralari qanday ?",
+    "A": "Musbat, manfiy",
+    "B": "Ikkalasi ham manfiy",
+    "C": "Ikkalasi ham musbat",
+    "D": "Manfiy, musbat",
+    "javob": "A"
+  },
+  {
+    "savol": "Nechta qutb bor ?",
+    "A": "2",
+    "B": "3",
+    "C": "4",
+    "D": "1",
+    "javob": "A"
+  },
+  {
+    "savol": "Karta tushunchasi nimani anglatadi?",
+    "A": "Yer sirtining katta qismini yer egriligini hisobga olib, matematik qoidalar asosida kichraytirib tasvirlashni",
+    "B": "Yer yuzasini egriligini hisobga olmay tasvirlashni",
+    "C": "Koordinatalar asosida chizilgan sxemani",
+    "D": "Relyefni aks ettiruvchi rasmni",
+    "javob": "A"
+  },
+  {
+    "savol": "Yer sirtini tekislikka o‘tkazishda nima sababli o‘zgartirish talab qilinadi?",
+    "A": "Yer sirtining ellipsoid shaklga ega bo‘lishi tufayli",
+    "B": "Chizma qog‘ozi kichik bo‘lgani uchun",
+    "C": "Ranglar yetarli bo‘lmagani sababli",
+    "D": "Chiziqlar zich joylashgani uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "Karta qanday qoidalarga asoslanib tuziladi?",
+    "A": "Kartografik proekstiyalash qoidalariga asoslanib",
+    "B": "Trigonometrik tenglamalarga asoslanib",
+    "C": "Statistik baholashlarga asoslanib",
+    "D": "Vizual taxminlarga asoslanib",
+    "javob": "A"
+  },
+  {
+    "savol": "Karta va plan orasidagi asosiy farqlardan biri qaysi?",
+    "A": "Kartalarda yer egriligi hisobga olinadi, planlarda esa olinmaydi",
+    "B": "Kartalarda masshtab doimiy bo‘ladi",
+    "C": "Planlarda masshtab o‘zgarib turadi",
+    "D": "Kartalarda tafsilotlar berilmaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Yirik masshtabli kartalarga qaysi guruh kiradi?",
+    "A": "Masshtabi 1:100000 gacha bo‘lgan kartalar",
+    "B": "Masshtabi 1:1000000 dan kichik kartalar",
+    "C": "Masshtabi 1:5000000 bo‘lgan kartalar",
+    "D": "Masshtabi 1:1000000 dan katta kartalar",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘rta masshtabli kartalar qaysi oraliqqa to‘g‘ri keladi?",
+    "A": "1:100000 dan 1:1000000 gacha bo‘lgan kartalar",
+    "B": "1:10000 dan 1:50000 gacha",
+    "C": "1:1000000 dan kichik",
+    "D": "1:5000 dan 1:10000 gacha",
+    "javob": "A"
+  },
+  {
+    "savol": "Mayda masshtabli kartalar qanday tavsiflanadi?",
+    "A": "Masshtabi 1:1000000 dan kichik bo‘lgan kartalar",
+    "B": "Masshtabi 1:100000 dan katta",
+    "C": "Masshtabi 1:50000 gacha",
+    "D": "Masshtabi doimiy bo‘lgan",
+    "javob": "A"
+  },
+  {
+    "savol": "Plan deganda nimani tushunamiz?",
+    "A": "Yer egriligini hisobga olmay gorizontal tekislikka tushirilgan tasvirni",
+    "B": "Yer sirtining proekstiyalangan ko‘rinishini",
+    "C": "Raqamli model asosida yaratilgan tasvirni",
+    "D": "Relyefni ko‘rsatuvchi chizmalarni",
+    "javob": "A"
+  },
+  {
+    "savol": "Topografik plan qanday aniqlanadi?",
+    "A": "Tafsilot bilan birga relyef ham tasvirlangan plan",
+    "B": "Yo‘llar ko‘rsatilgan plan",
+    "C": "Raqamli ma’lumotlar asosidagi sxema",
+    "D": "Kartografik model",
+    "javob": "A"
+  },
+  {
+    "savol": "Kartalarda maydonlar nima sababli o‘zgaradi?",
+    "A": "Yer egriligi hisobga olingani uchun",
+    "B": "Ranglar turli bo‘lgani uchun",
+    "C": "Chiziqlar qalin bo‘lgani sababli",
+    "D": "Belgilar turli bo‘lgani uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "Planlarda masshtab qanday bo‘ladi?",
+    "A": "Doimiy va o‘zgarmas bo‘ladi",
+    "B": "Har nuqtada o‘zgaradi",
+    "C": "Burchakka bog‘liq bo‘ladi",
+    "D": "Konturga moslashadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Kartalarda joy tafsilotlari qanday ko‘rsatiladi?",
+    "A": "Shartli belgilar orqali",
+    "B": "Matematik formulalar orqali",
+    "C": "Jadval orqali",
+    "D": "Rangli matn orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Konturli shartli belgilar nimani ifodalaydi?",
+    "A": "Masshtabda kichraytirilgan obyekt shaklini",
+    "B": "Obyekt nomini",
+    "C": "Obyekt balandligini",
+    "D": "Obyekt yo‘nalishini",
+    "javob": "A"
+  },
+  {
+    "savol": "Masshtabsiz shartli belgilar qachon ishlatiladi?",
+    "A": "Obyekt o‘lchami plan masshtabida ko‘rsatib bo‘lmaganda",
+    "B": "Obyekt juda katta bo‘lganda",
+    "C": "Obyekt rangsiz bo‘lganda",
+    "D": "Obyekt joylashuvi noma’lum bo‘lganda",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi obyektlar masshtabsiz belgilar bilan ko‘rsatiladi?",
+    "A": "Quduqlar, geodezik belgilar, aloqa liniyalari",
+    "B": "Daryolar va o‘rmonlar",
+    "C": "Tog‘ tizmalari",
+    "D": "Qishloq hududlari",
+    "javob": "A"
+  },
+  {
+    "savol": "Tushuntirish yozuvlari nimani bildiradi?",
+    "A": "Obyektning qo‘shimcha xususiyatlarini",
+    "B": "Obyekt nomini",
+    "C": "Obyekt koordinatasini",
+    "D": "Obyekt rangini",
+    "javob": "A"
+  },
+  {
+    "savol": "Relyef kartalarda qanday tasvirlanadi?",
+    "A": "Gorizontallar orqali",
+    "B": "Nuqtalar orqali",
+    "C": "Rangli soyalar orqali",
+    "D": "Belgilar orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Gorizontallarning zichligi nimani bildiradi?",
+    "A": "Joyning tik yoki yotiqligini",
+    "B": "Joyning rangini",
+    "C": "Joyning nomini",
+    "D": "Joyning koordinatasini",
+    "javob": "A"
+  },
+  {
+    "savol": "Raqamli yer modeli nimaga asoslanadi?",
+    "A": "Geodezik dala o‘lchash ma’lumotlariga",
+    "B": "Taxminiy chizmalarga",
+    "C": "Sun’iy tasvirlarga",
+    "D": "Statistik jadvalga",
+    "javob": "A"
+  },
+  {
+    "savol": "Yerning raqamli modeli qanday saqlanadi?",
+    "A": "Ma’lumotlar bazasida balandliklar orqali",
+    "B": "Qog‘oz shaklida",
+    "C": "Diagramma sifatida",
+    "D": "Matn ko‘rinishida",
+    "javob": "A"
+  },
+  {
+    "savol": "1:25000 sonli masshtabda 4 sm uzunlik joyda necha metrga teng bo‘ladi?",
+    "A": "1000 m",
+    "B": "250 m",
+    "C": "400 m",
+    "D": "2500 m",
+    "javob": "A"
+  },
+  {
+    "savol": "Chiziqli masshtabda AB kesma nimani bildiradi?",
+    "A": "Masshtab asosi",
+    "B": "Eng kichik bo‘lak",
+    "C": "Aniqlik qiymati",
+    "D": "Ko‘ndalang bo‘lak",
+    "javob": "A"
+  },
+  {
+    "savol": "1:5000 masshtabda 0,1 mm xaritada joyda nimaga teng?",
+    "A": "0,5 m",
+    "B": "5 m",
+    "C": "0,05 m",
+    "D": "1 m",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi holatda ko‘ndalang masshtabdan foydalanish maqsadga muvofiq?",
+    "A": "Yuqori aniqlik talab qilinganda",
+    "B": "Yirik obyektlar uchun",
+    "C": "Kichik masshtablarda",
+    "D": "Balandlikni aniqlashda",
+    "javob": "A"
+  },
+  {
+    "savol": "1:10000 masshtabda 7,34 sm kesma joyda taxminan qancha masofaga teng?",
+    "A": "734 m",
+    "B": "73,4 m",
+    "C": "7340 m",
+    "D": "700 m",
+    "javob": "A"
+  },
+  {
+    "savol": "Sonli masshtab 1:2000 bo‘lsa, kichraytirish darajasi nimani anglatadi?",
+    "A": "1 birlik joyda 2000 birlikka teng",
+    "B": "2000 birlik xaritada",
+    "C": "1 sm = 2000 km",
+    "D": "Aniqlik yo‘q",
+    "javob": "A"
+  },
+  {
+    "savol": "1:2500 masshtabda eng kichik aniqlik (t) qancha?",
+    "A": "0,25 m",
+    "B": "2,5 m",
+    "C": "0,025 m",
+    "D": "1 m",
+    "javob": "A"
+  },
+  {
+    "savol": "Chiziqli masshtabda chap tomondagi bo‘laklar nimaga bo‘linadi?",
+    "A": "Teng kichik bo‘laklarga",
+    "B": "2 bo‘lakka",
+    "C": "Tasodifiy bo‘linadi",
+    "D": "Bo‘linmaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "1:5000 masshtabda 3 sm kesma joyda necha metr bo‘ladi?",
+    "A": "150 m",
+    "B": "15 m",
+    "C": "300 m",
+    "D": "500 m",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko‘ndalang masshtabda transversal chiziqlar nima uchun xizmat qiladi?",
+    "A": "Kichik aniqlikda o‘lchash uchun",
+    "B": "Relyefni ko‘rsatish uchun",
+    "C": "Koordinata aniqlash uchun",
+    "D": "Masshtab turini belgilash uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "1:1000 masshtabda 12,5 sm kesma joyda nimaga teng?",
+    "A": "12,5 m",
+    "B": "125 m",
+    "C": "1,25 m",
+    "D": "1250 m",
+    "javob": "A"
+  },
+  {
+    "savol": "Masshtab aniqligi t nimani bildiradi?",
+    "A": "Xarita 0,1 mm ga mos joy masofasi",
+    "B": "Xarita maksimal uzunligi",
+    "C": "Eng katta bo‘lak",
+    "D": "Xatolik foizi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi masshtab eng yirik hisoblanadi?",
+    "A": "1:1000",
+    "B": "1:5000",
+    "C": "1:25000",
+    "D": "1:100000",
+    "javob": "A"
+  },
+  {
+    "savol": "1:25000 masshtabda 2 sm kesma joyda qancha bo‘ladi?",
+    "A": "500 m",
+    "B": "50 m",
+    "C": "250 m",
+    "D": "2000 m",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko‘ndalang masshtab asosidagi AB kesma joyda nimani bildiradi?",
+    "A": "Asos bo‘lak uzunligini",
+    "B": "Kichik bo‘lakni",
+    "C": "Relyef balandligini",
+    "D": "Xatolikni",
+    "javob": "A"
+  },
+  {
+    "savol": "1:2000 masshtabda 4,6 sm kesma joyda necha metr?",
+    "A": "92 m",
+    "B": "9,2 m",
+    "C": "460 m",
+    "D": "46 m",
+    "javob": "A"
+  },
+  {
+    "savol": "Masshtabdan foydalanishda o‘lchagich oyoqlari nimani aniqlaydi?",
+    "A": "Haqiqiy masofani",
+    "B": "Burchakni",
+    "C": "Relyefni",
+    "D": "Koordinatani",
+    "javob": "A"
+  },
+  {
+    "savol": "1:500 masshtabda 8 sm kesma joyda necha metr?",
+    "A": "40 m",
+    "B": "4 m",
+    "C": "400 m",
+    "D": "80 m",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi masshtabda aniqlik eng katta bo‘ladi?",
+    "A": "1:10000",
+    "B": "1:1000000",
+    "C": "1:25000",
+    "D": "1:100000",
+    "javob": "A"
+  },
+  {
+    "savol": "Geografik koordinatalar qaysi kattaliklar bilan aniqlanadi?",
+    "A": "Kenglik (φ) va uzoqlik (λ) bilan",
+    "B": "X va Y bilan",
+    "C": "Balandlik va masofa bilan",
+    "D": "Radius va burchak bilan",
+    "javob": "A"
+  },
+  {
+    "savol": "Geografik koordinatalar sistemasida koordinata boshi qayerda joylashgan?",
+    "A": "Grinvich meridianining ekvator bilan kesishgan nuqtasida",
+    "B": "Shimoliy qutbda",
+    "C": "180° meridianda",
+    "D": "Ekvator o‘rtasida",
+    "javob": "A"
+  },
+  {
+    "savol": "Kartaning qaysi tomonlarida meridianlar joylashgan bo‘ladi?",
+    "A": "G‘arbiy va sharqiy ramkalarda",
+    "B": "Shimoliy va janubiy ramkalarda",
+    "C": "Burchaklarda",
+    "D": "Ichki ramkada",
+    "javob": "A"
+  },
+  {
+    "savol": "Kartaning qaysi tomonlarida parallellar joylashgan bo‘ladi?",
+    "A": "Shimoliy va janubiy ramkalarda",
+    "B": "G‘arbiy va sharqiy ramkalarda",
+    "C": "Diagonal bo‘ylab",
+    "D": "Ichki to‘rda",
+    "javob": "A"
+  },
+  {
+    "savol": "Kartada nuqtaning kengligini aniqlash uchun qaysi ramkadan foydalaniladi?",
+    "A": "G‘arbiy yoki sharqiy ramkadan",
+    "B": "Shimoliy ramkadan",
+    "C": "Janubiy ramkadan",
+    "D": "Ichki ramkadan",
+    "javob": "A"
+  },
+  {
+    "savol": "Kartada nuqtaning uzoqligini aniqlash uchun qaysi ramkadan foydalaniladi?",
+    "A": "Shimoliy yoki janubiy ramkadan",
+    "B": "G‘arbiy ramkadan",
+    "C": "Sharqiy ramkadan",
+    "D": "Ichki to‘rdan",
+    "javob": "A"
+  },
+  {
+    "savol": "Yassi to‘g‘ri burchakli koordinatalar qaysi kattaliklarda ifodalanadi?",
+    "A": "Chiziqli kattaliklarda",
+    "B": "Burchak kattaliklarda",
+    "C": "Foizlarda",
+    "D": "Radiuslarda",
+    "javob": "A"
+  },
+  {
+    "savol": "Yassi to‘g‘ri burchakli koordinatalar sistemasida X o‘qi nimani bildiradi?",
+    "A": "Zonaning o‘qiy meridianini",
+    "B": "Ekvatorni",
+    "C": "Parallelni",
+    "D": "Balandlik chizig‘ini",
+    "javob": "A"
+  },
+  {
+    "savol": "Yassi to‘g‘ri burchakli koordinatalar sistemasida Y o‘qi nimani bildiradi?",
+    "A": "Ekvatorni",
+    "B": "Meridianlarni",
+    "C": "Zona chegarasini",
+    "D": "Burchakni",
+    "javob": "A"
+  },
+  {
+    "savol": "Koordinatalar to‘ri kartada qanday chiziqlar orqali hosil qilinadi?",
+    "A": "Kilometr chiziqlari orqali",
+    "B": "Parallellar orqali",
+    "C": "Meridianlar orqali",
+    "D": "Diagonallar orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "1:25000 kartada geografik koordinatalarni o‘lchash aniqligi qancha?",
+    "A": "2\"",
+    "B": "5\"",
+    "C": "10\"",
+    "D": "20\"",
+    "javob": "A"
+  },
+  {
+    "savol": "Koordinata to‘ridagi gorizontal chiziqlar nimani bildiradi?",
+    "A": "Ordinata qiymatlarini",
+    "B": "Zona nomerini",
+    "C": "Absissa qiymatlarini",
+    "D": "Balandlikni",
+    "javob": "A"
+  },
+  {
+    "savol": "Koordinata to‘ridagi vertikal chiziqlar nimani bildiradi?",
+    "A": "Absissa qiymatlarini",
+    "B": "Ordinata qiymatlarini",
+    "C": "Parallellarni",
+    "D": "Meridianlarni",
+    "javob": "A"
+  },
+  {
+    "savol": "6740 yozuvi nimani anglatadi?",
+    "A": "6 – zona, 740 – km masofa",
+    "B": "67 – zona, 40 – km",
+    "C": "6 – km, 740 – zona",
+    "D": "To‘r raqami",
+    "javob": "A"
+  }
+]
