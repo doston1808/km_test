@@ -1,0 +1,1130 @@
+[
+  {
+    "savol": "Buyrakning medial qirg’og’idagi chuqurlik bo’lib, yog’ kletchatkasi bilan to’lgan qismi nima deyiladi?",
+    "A": "Sinus renalis",
+    "B": "Hilum renalis",
+    "C": "Cortex renalis",
+    "D": "medulla oblongata",
+    "javob": "A"
+  },
+  {
+    "savol": "Columnae renalis qanday qismlardan iborat?",
+    "A": "Pars radiata, pars convulata",
+    "B": "Sinus renalis, hilum renalis",
+    "C": "Basis renalis, apex renalis",
+    "D": "Pars radiata, pars renalis",
+    "javob": "A"
+  },
+  {
+    "savol": "Ureter bu?",
+    "A": "Siydik nayi",
+    "B": "Siydik pufagi",
+    "C": "Qovuq",
+    "D": "Buyrak",
+    "javob": "A"
+  },
+  {
+    "savol": "Nefronning sosiy qismlarini belgilang?",
+    "A": "Barcha javoblar to’g’ri",
+    "B": "Corpusculum renale (Malpigi)",
+    "C": "Tubulus renalis contortus proximalis et distalis",
+    "D": "Ansa nephroni",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘mrovosti va oldingi tishchali mushaklar qaysi guruh muskullarga kiradi?",
+    "A": "ko’krak muskullari",
+    "B": "Qorin muskullari",
+    "C": "Qo’lning erkin guruhi muskullari",
+    "D": "Gavdasning orqa muskullari",
+    "javob": "A"
+  },
+  {
+    "savol": "Yuz, bo’yin, ko’krak, qorin va chanoq bo’shliqlarida joylashgan, tashqi muhit bilan bog’langan va turli funksiyalarni bajaradigan ichki a’zolarni o’rganuvchi fan qaysi?",
+    "A": "Splanxnologiya",
+    "B": "Osteologiya",
+    "C": "Miologiya",
+    "D": "Angiologiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Og’iz tirqishini o’ragan muskullarni belgilang",
+    "A": "M. Orbicularis oris , m. Depressor labii inferioris",
+    "B": "M. Auricularis anterior, m. Auricularis posterior",
+    "C": "M. temporalis, m. serrator",
+    "D": "M. abdominalis serratus",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi guruh muskullar teri ostida yuza joylashib, fassiyalar bilan qoplanmaydi,suyaklardan boshlanib, teriga birikadi?",
+    "A": "Mimika muskullari",
+    "B": "Chaynov muskullari",
+    "C": "Gavdaning old guruhidagi muskullar",
+    "D": "Ko’krak sohasidagi muscular",
+    "javob": "A"
+  },
+  {
+    "savol": "Odam anatomiyasi nimani o‘rganadi?",
+    "A": "Odam organizmining shakli, tuzilishi va rivojlanishini",
+    "B": "Kasalliklarni",
+    "C": "Hujayralarni",
+    "D": "Tashqi muhitni",
+    "javob": "A"
+  },
+  {
+    "savol": "“Anatomiya” so‘zi qaysi tildan olingan va qanday ma’noni bildiradi?",
+    "A": "Yunoncha – kesaman",
+    "B": "Lotincha – tuzataman",
+    "C": "Arabcha – o‘rganaman",
+    "D": "Forscha – davolayman",
+    "javob": "A"
+  },
+  {
+    "savol": "Odam gavdasini sohalar bo‘yicha, a’zolarning o‘zaro munosabatini o‘rganadigan anatomiya?",
+    "A": "Topografik",
+    "B": "Sistematik",
+    "C": "Patologik",
+    "D": "Yosh anatomiyasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Tirık odamda a’zolarni paypaslab tekshirish usuli nima deb ataladi?",
+    "A": "Palpatsiya",
+    "B": "Perkussiya",
+    "C": "Auskultatsiya",
+    "D": "Inyeksiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Frontal sath gavdani qaysi qismlarga ajratadi?",
+    "A": "Oldingi va orqa",
+    "B": "O‘ng va chap",
+    "C": "Yuqori va pastki",
+    "D": "Medial va lateral",
+    "javob": "A"
+  },
+  {
+    "savol": "Tanaga yaqin joylashgan qism qanday ataladi?",
+    "A": "Proximalis",
+    "B": "Distalis",
+    "C": "Superficialis",
+    "D": "Lateralis",
+    "javob": "A"
+  },
+  {
+    "savol": "Patologik anatomiya normal anatomiyadan asosan nimasi bilan farqlanadi?",
+    "A": "Kasallik jarayonidagi morfologik o‘zgarishlarni o‘rganishi bilan",
+    "B": "Tadqiqot obyekti tirik organizm bo‘lishi bilan",
+    "C": "Mikroskopik usuldan foydalanishi bilan",
+    "D": "To‘qimalarni o‘rganishi bilan",
+    "javob": "A"
+  },
+  {
+    "savol": "Epiteliy to‘qimasining asosiy morfologik belgisi?",
+    "A": "Hujayralar orasida ko‘p modda bo‘lishi",
+    "B": "Bazal membranada joylashishi",
+    "C": "Qon tomirlarga boyligi",
+    "D": "Qisqarish xususiyatiga egaligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Sagittal sath gavdani qanday qismlarga ajratadi?",
+    "A": "O‘ng va chap",
+    "B": "Oldingi va orqa",
+    "C": "Yuqori va pastki",
+    "D": "Ichki va tashqi",
+    "javob": "A"
+  },
+  {
+    "savol": "Yurak va o‘pka tovushlarini eshitib tekshirish usuli?",
+    "A": "Auskultatsiya",
+    "B": "Palpatsiya",
+    "C": "Perkussiya",
+    "D": "Palmatsiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Turli kasalliklarda a’zo va to‘qimalarda yuz beradigan o‘zgarishlarni qaysi fan o‘rganadi?",
+    "A": "Patologik anatomiya",
+    "B": "Normal anatomiya",
+    "C": "Gistologiya",
+    "D": "Fiziologiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Suyaklarning tuzilishini o‘rganuvchi bo‘limi nima?",
+    "A": "Osteologiya",
+    "B": "Artrologiya",
+    "C": "Anatomiya",
+    "D": "Sindesmologiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilar orasidan tana suyaklarini aniqlang ?",
+    "A": "Umurtqa pog‘onasi, qovurg‘alar, to‘sh suyagi",
+    "B": "Qo‘l suyaklari",
+    "C": "Oyoq suyaklari",
+    "D": "Bosh suyaklari",
+    "javob": "A"
+  },
+  {
+    "savol": "Naysimon suyaklarning o‘rta qismi tanasi nima?",
+    "A": "Diafiz",
+    "B": "Epifiz",
+    "C": "Metafiz",
+    "D": "Periost",
+    "javob": "A"
+  },
+  {
+    "savol": "Suyaklar tuzilishiga ko‘ra qanday guruhlarga bo‘linadi?",
+    "A": "Naysimon, g‘ovak, yassi va aralash suyaklar",
+    "B": "Uzun va qisqa",
+    "C": "yassi",
+    "D": "g‘ovak",
+    "javob": "A"
+  },
+  {
+    "savol": "Uzun naysimon suyaklarni aniqlang",
+    "A": "Son suyagi, yelka suyagi",
+    "B": "Qovurg‘a",
+    "C": "Kurak",
+    "D": "Bosh suyagi",
+    "javob": "A"
+  },
+  {
+    "savol": "Erkaklarda tana massasining necha foizini skelet tashkil etadi?",
+    "A": "18%",
+    "B": "10%",
+    "C": "25%",
+    "D": "30%",
+    "javob": "A"
+  },
+  {
+    "savol": "Diafizning epifizga o‘tish joyi nima deyiladi?",
+    "A": "Metafiz",
+    "B": "Diafiz",
+    "C": "Epifiz",
+    "D": "Endost",
+    "javob": "A"
+  },
+  {
+    "savol": "Kalta g‘ovak suyaklarni belgilang",
+    "A": "Bilakuzuk suyaklari",
+    "B": "Son suyagi",
+    "C": "Yelka suyagi",
+    "D": "Qovurg‘a",
+    "javob": "A"
+  },
+  {
+    "savol": "Uzluksiz (harakatsiz) birlashmalar qanday nomlanadi?",
+    "A": "Sinartroz",
+    "B": "Diartroz",
+    "C": "Amfiartroz",
+    "D": "Bo‘g‘im",
+    "javob": "A"
+  },
+  {
+    "savol": "Sinartroz turlarini belgilang",
+    "A": "Sindesmoz, sinxondroz, sinostoz",
+    "B": "Diartroz",
+    "C": "Amfiartroz",
+    "D": "Bo‘g‘im",
+    "javob": "A"
+  },
+  {
+    "savol": "Tog‘ay orqali birlashish",
+    "A": "Sinxondroz",
+    "B": "Sindesmoz",
+    "C": "Sinostoz",
+    "D": "Diartroz",
+    "javob": "A"
+  },
+  {
+    "savol": "Sinxondroz qanday birlashadi?",
+    "A": "Tog‘ay yordamida",
+    "B": "Suyak orqali",
+    "C": "Mushak orqali",
+    "D": "Pay orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Harakatchan birlashmalar qanday?",
+    "A": "Diartroz",
+    "B": "Sinartroz",
+    "C": "Sinxondroz",
+    "D": "Sinostoz",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi suyak mustaqil (boshqalarga ulanmaydi)?",
+    "A": "Tilosti suyagi",
+    "B": "Umurtqa",
+    "C": "Qovurg‘a",
+    "D": "To‘sh suyagi",
+    "javob": "A"
+  },
+  {
+    "savol": "Yelka kamari suyaklarini aniqlang",
+    "A": "O‘mrov va kurak",
+    "B": "Son va boldir",
+    "C": "Qovurg‘a va to‘sh",
+    "D": "Umurtqa",
+    "javob": "A"
+  },
+  {
+    "savol": "Suyakdagi oziqlantiruvchi teshik nima deyiladi?",
+    "A": "Foramen nutricium",
+    "B": "Kanal",
+    "C": "Bo‘shliq",
+    "D": "Sinus",
+    "javob": "A"
+  },
+  {
+    "savol": "Parda orqali birlashish",
+    "A": "Sindesmoz",
+    "B": "Sinxondroz",
+    "C": "Sinostoz",
+    "D": "Diartroz",
+    "javob": "A"
+  },
+  {
+    "savol": "Suyaklar birlashuvini o‘rganuvchi bo‘lim nima deyiladi?",
+    "A": "Artrologiya",
+    "B": "Osteologiya",
+    "C": "Gistologiya",
+    "D": "Fiziologiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Sesamasimon suyaklarni aniqlang",
+    "A": "Tizza qopqog‘i patella",
+    "B": "Kurak",
+    "C": "Umurtqa",
+    "D": "Qovurg‘a",
+    "javob": "A"
+  },
+  {
+    "savol": "Tirik suyak to'qimada necha % yog' mavjud?",
+    "A": "15.75%",
+    "B": "50%",
+    "C": "28.15%",
+    "D": "21.85%",
+    "javob": "A"
+  },
+  {
+    "savol": "Suyakning elastikligini ta'minlovchi omilni tanlang?",
+    "A": "Xitin, ossein",
+    "B": "Kalsiy element",
+    "C": "Kremniy oksidi (SiO₂)",
+    "D": "Magniy elementi",
+    "javob": "A"
+  },
+  {
+    "savol": "Suyak tarkibida qaysi vitamin yetishmasa raxit kasalligi kelib chiqadi?",
+    "A": "D vitamini",
+    "B": "A vitamini",
+    "C": "C vitamini",
+    "D": "B vitamini",
+    "javob": "A"
+  },
+  {
+    "savol": "Suyakning kimyoviy tarkibiga nimalar kiradi?",
+    "A": "Barcha javoblar to'g'ri",
+    "B": "Anorganik moddalar",
+    "C": "Ossein, muguz",
+    "D": "Suv",
+    "javob": "A"
+  },
+  {
+    "savol": "Suyak tarkibidagi osteon plastinkalari va kanalchalari nimani hosil qiladi?",
+    "A": "Osteonni",
+    "B": "Osteoklastlarni",
+    "C": "Osteoblastlarni",
+    "D": "Osteotsitlarni",
+    "javob": "A"
+  },
+  {
+    "savol": "Suyakning tashqi yuzasi nima bilan qoplangan?",
+    "A": "Periosteum",
+    "B": "Cavitas medullaris",
+    "C": "Perichondros",
+    "D": "Endesmos",
+    "javob": "A"
+  },
+  {
+    "savol": "Suyakusti pardasi necha qavatdan iborat?",
+    "A": "2",
+    "B": "3",
+    "C": "4",
+    "D": "1",
+    "javob": "A"
+  },
+  {
+    "savol": "Yosh bola suyagi tarkibiga tegishli bo'lgan javobni aniqlang?",
+    "A": "Barcha javoblar to’g’ri",
+    "B": "Mineral tuzlar kam",
+    "C": "Suv va qon tomirlar ko'p",
+    "D": "G'ovak moddada qizil ilik mavjud",
+    "javob": "A"
+  },
+  {
+    "savol": "Necha yoshda suyak qirralarida ikkilamchi suyaklanish nuqtalari paydo bo'ladi?",
+    "A": "8-9",
+    "B": "3-5",
+    "C": "4-6",
+    "D": "9-10",
+    "javob": "A"
+  },
+  {
+    "savol": "Suyakusti pardasining tashqi yuzasini belgilang?",
+    "A": "Tolali fibroz qavati",
+    "B": "Suyak hosil qiluvchi kambial qavati",
+    "C": "Qon tomirlarga boy qavat",
+    "D": "Nerv tolalarga boy qavat",
+    "javob": "A"
+  },
+  {
+    "savol": "Suyaklanish jarayoni necha turga bo'linadi?",
+    "A": "4",
+    "B": "3",
+    "C": "2",
+    "D": "5",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi suyaklanish turida tog'ayusti pardasi suyakusti pardaga aylanadi?",
+    "A": "Periostal",
+    "B": "Perixondral",
+    "C": "Endesmal",
+    "D": "Endoxondral",
+    "javob": "A"
+  },
+  {
+    "savol": "Endesmal suyaklanishga xos xususiyatni aniqlang?",
+    "A": "Biriktiruvchi to'qima periostga aylanadi",
+    "B": "Gialin tog'ayga aylanadi",
+    "C": "Tog'ay ichida tog'ayusti pardasi hosil bo'ladi",
+    "D": "Tog'ay atrofida suyakusti pardasi hosil bo'ladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Suyak hosil qiluvchi hujayralarni belgilang?",
+    "A": "Osteoblastlar",
+    "B": "Osteoklastlar",
+    "C": "Osteonlar",
+    "D": "Osteotsitlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Suyak tarkibida necha foiz noorganik moddalar mavjud?",
+    "A": "21,85%",
+    "B": "50%",
+    "C": "30%",
+    "D": "40%",
+    "javob": "A"
+  },
+  {
+    "savol": "Suyakning tashqi kompakt qavati qalin bo'lgan sohani belgilang?",
+    "A": "Naysimon suyaklarning diafizlarida",
+    "B": "Naysimon suyaklarning epifizlarida",
+    "C": "Yassi suayklarning barcha qismida",
+    "D": "G'ovak suyaklarning epifizlarida",
+    "javob": "A"
+  },
+  {
+    "savol": "Miologiya bo`limi nimani o`rganadi?",
+    "A": "Muskullarni",
+    "B": "Suyaklarni",
+    "C": "Tog`aylarni",
+    "D": "Organlarni",
+    "javob": "A"
+  },
+  {
+    "savol": "Muskullar kelib chiqishiga ko`ra necha xil bo`ladi",
+    "A": "3 xil",
+    "B": "2 xil",
+    "C": "1 xil",
+    "D": "4 xil",
+    "javob": "A"
+  },
+  {
+    "savol": "Inson ixtiyoriga bo`ysunmaydigan muskullarga qaysi muskul kiradi",
+    "A": "Yurak muskuli",
+    "B": "Oyoq muskuli",
+    "C": "Qo`l muskuli",
+    "D": "Qorin muskuli",
+    "javob": "A"
+  },
+  {
+    "savol": "Muskullardan qaysi biri inson ixtiyoriga bo`ysunmaydi",
+    "A": "Qon-tomirlar devori",
+    "B": "Qorin muskullari",
+    "C": "Ko`krak muskullari",
+    "D": "Orqa muskullari",
+    "javob": "A"
+  },
+  {
+    "savol": "Jigar lotinchada qanday nomlanadi?",
+    "A": "Hepar",
+    "B": "Ren",
+    "C": "Oris",
+    "D": "Nasus",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilar orasidan qaysi biri nafas olish sistemasi a’zosi hisoblanmaydi?",
+    "A": "Ren",
+    "B": "Pulmones",
+    "C": "Trachea",
+    "D": "Nasus",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi muskul inson ixtiyoriga bo`ysunmaydi?",
+    "A": "Ichki organlar devori",
+    "B": "Ko`krak muskullari",
+    "C": "Orqa muskullari",
+    "D": "Yelka muskullari",
+    "javob": "A"
+  },
+  {
+    "savol": "Inson ixtiyoriga bo`ysunadigan muskullarni belgilang?",
+    "A": "Skelet mushaklari",
+    "B": "Ichki organlar devorlari",
+    "C": "Qon tomirlar devori",
+    "D": "Yurak muskuli",
+    "javob": "A"
+  },
+  {
+    "savol": "Muskullarda qo`l bosh barmog`i lotinchada qanday nomlanadi",
+    "A": "Pollix",
+    "B": "Challex",
+    "C": "Digitorum minimi",
+    "D": "Index",
+    "javob": "A"
+  },
+  {
+    "savol": "Yurak lotinchada qanday nomlanadi?",
+    "A": "Cor",
+    "B": "Ren",
+    "C": "Pulmones",
+    "D": "Trachea",
+    "javob": "A"
+  },
+  {
+    "savol": "Umurtqa pog'onasi nechta umurtqalardan hosil bo'lgan?",
+    "A": "B) 33-34",
+    "B": "56-57",
+    "C": "29-30",
+    "D": "45-46",
+    "javob": "A"
+  },
+  {
+    "savol": "Umurtqa pog’onasining o'rtacha uzunligi erkaklarda necha sm?",
+    "A": "73-75 sm",
+    "B": "69-72 sm",
+    "C": "80-81 sm",
+    "D": "45-46sm",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko'krak sohasi nechta umurtqalardan tashkil topgan?",
+    "A": "12",
+    "B": "7",
+    "C": "5",
+    "D": "33",
+    "javob": "A"
+  },
+  {
+    "savol": "Nechanchi bo'yin umurtqasi uyqu do'mboqchasi deyiladi?",
+    "A": "VI",
+    "B": "V",
+    "C": "VII",
+    "D": "III",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko'krak umurtqalarning boshqa umurtqalardan farqini belgilang?",
+    "A": "Bo’g’im yuzasi frontal sathda joylashgan.",
+    "B": "Bo’g’im yuzasi sagittal sathda joylashgan.",
+    "C": "Umurtqa yoyi mavjudligi",
+    "D": "5 ta umurtqadan iboratligi",
+    "javob": "A"
+  },
+  {
+    "savol": "I bo'yin umurtqasi qanday nomlanadi?",
+    "A": "Atlas",
+    "B": "Axis",
+    "C": "Dens",
+    "D": "Apex dentis",
+    "javob": "A"
+  },
+  {
+    "savol": "Nechanchi ko'krak umurtqasida fovea costales superior yarimta, inferior yo’q?",
+    "A": "X-ko'krak umurtqasida",
+    "B": "V-ko'krak umurtqasida",
+    "C": "VII-ko'krak umurtqasida",
+    "D": "II-ko'krak umurtqasida",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi umurtqalarga og'irlik ko'p tushgani uchun tanasi kattalashgan va loviyasimon shaklda bo'ladi?",
+    "A": "Bel umurtqalari",
+    "B": "Bo'yin umurtqalari",
+    "C": "Ko'krak umurtqalari",
+    "D": "Dumg'aza umurtqalari",
+    "javob": "A"
+  },
+  {
+    "savol": "Bel umurtqalarning ko'ndalang o'simtasi qanday nomlanadi?",
+    "A": "Processus costarius",
+    "B": "Processus mamillaris",
+    "C": "Processus axis",
+    "D": "Processus lumbales",
+    "javob": "A"
+  },
+  {
+    "savol": "Bel umurtqalarining bo'gim yuzalari qaysi sathda joylashgan?",
+    "A": "Sagittal",
+    "B": "Frontal",
+    "C": "Lateral",
+    "D": "Gorizontal",
+    "javob": "A"
+  },
+  {
+    "savol": "Umurtqa pog'onasi nechta dum umurtqalaridan tashkil topgan?",
+    "A": "3-5ta",
+    "B": "12ta",
+    "C": "7ta",
+    "D": "9ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi umurtqalarda so’rg’ichsimon o’siqlari mavjud?",
+    "A": "Bel umurtqalari",
+    "B": "Ko'krak umurtqalari",
+    "C": "Bo'yin umurtqalari",
+    "D": "Barcha javoblar to'g'ri",
+    "javob": "A"
+  },
+  {
+    "savol": "Dumg'aza umurtqalarining lotincha nomlanishini aniqlang?",
+    "A": "Vertebrae sacralis",
+    "B": "Vertebrae thoracicae",
+    "C": "Vertebrae lumbales",
+    "D": "Vertebra cervicales",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko'krak qafasi qaysi suyaklardan tashkil topgan?",
+    "A": "Barcha javoblar to'g'ri",
+    "B": "Ko'krak umurtqalari",
+    "C": "Qovurg'alar",
+    "D": "To'sh",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi umurtqalar odamda qoldiq (rudimentar) umurtqalar hisoblanadi?",
+    "A": "Dum umurtqalari",
+    "B": "Bel umurtqalari",
+    "C": "Bo'yin umurtqalari",
+    "D": "Dumg'aza umurtqalari",
+    "javob": "A"
+  },
+  {
+    "savol": "Dumg'aza umurtqa o'simtalarida nechta bo'ylama qirra mavjud?",
+    "A": "5ta",
+    "B": "2ta",
+    "C": "4ta",
+    "D": "3ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi umrtqalarda qirrali o'simtasi qisqa, yassi, uchi qalinlashgan va orqaga qaragan?",
+    "A": "Bel umurtqalari",
+    "B": "Bo'yin umurtqalari",
+    "C": "Dumg'aza umurtqalari",
+    "D": "Bo`yin suyaklari",
+    "javob": "A"
+  },
+  {
+    "savol": "Nechanchi bo'yin umurtqasi turtib chiqqan umurtqa ham deyiladi?",
+    "A": "7-bo'yin umurtqasi",
+    "B": "6-bo'yin umurtqasi",
+    "C": "3-bo'yin umurtqasi",
+    "D": "5-bo'yin umurtqasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qovurg'alar soni nechta?",
+    "A": "12 juft",
+    "B": "10 juft",
+    "C": "14 juft",
+    "D": "7 juft",
+    "javob": "A"
+  },
+  {
+    "savol": "Chin qovurg'alar nechta?",
+    "A": "7 juft",
+    "B": "12 ta",
+    "C": "10 ta",
+    "D": "8 ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Soxta qovurg'alar nechta?",
+    "A": "3 juft",
+    "B": "7 ta",
+    "C": "2 ta",
+    "D": "12 ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Yetim qovurg'alar nechta?",
+    "A": "2 juft",
+    "B": "5 ta",
+    "C": "7 ta",
+    "D": "3 ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Qovurg'aning oldingi qismi nimadan iborat?",
+    "A": "Tog'ay",
+    "B": "Biriktiruvchi to'qima",
+    "C": "Elastik to'qima",
+    "D": "Suyak",
+    "javob": "A"
+  },
+  {
+    "savol": "Qovurg'a boshchasining bo'g'im yuzasi qaysi tuzilma bilan birikadi?",
+    "A": "Ko'krak umurtqasi tanasi",
+    "B": "To'sh suyagi",
+    "C": "Elastik to'qima",
+    "D": "O'mrov suyagi",
+    "javob": "A"
+  },
+  {
+    "savol": "To'sh suyagi qanday suyak turiga kiradi?",
+    "A": "Yassi",
+    "B": "G'ovak",
+    "C": "Naysimon",
+    "D": "Aralash",
+    "javob": "A"
+  },
+  {
+    "savol": "Oshqozonning asosiy vazifasi?",
+    "A": "Ovqatni hazm qilish",
+    "B": "Qon ishlab chiqarish",
+    "C": "Nafas olish",
+    "D": "Harakat",
+    "javob": "A"
+  },
+  {
+    "savol": "Ingichka ichak uzunligi taxminan qancha?",
+    "A": "6–7 metr",
+    "B": "1 metr",
+    "C": "2 metr",
+    "D": "10 metr",
+    "javob": "A"
+  },
+  {
+    "savol": "Hazm qilish tizimiga qaysi organ kirmaydi?",
+    "A": "Yurak",
+    "B": "Oshqozon",
+    "C": "Ichak",
+    "D": "Jigar",
+    "javob": "A"
+  },
+  {
+    "savol": "Ovqat hazm qilish tizimining asosiy vazifasi?",
+    "A": "Oziq moddalarni o‘zlashtirish",
+    "B": "Nafas olish",
+    "C": "Harakat",
+    "D": "Qon aylantirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Oshqozon shirasi tarkibida nima bor?",
+    "A": "Kislota va fermentlar",
+    "B": "suv",
+    "C": "Yog‘",
+    "D": "Tuz",
+    "javob": "A"
+  },
+  {
+    "savol": "Qon aylanish tizimi vazifasi?",
+    "A": "Moddalarni tashish",
+    "B": "Ovqat hazm qilish",
+    "C": "Nafas olish",
+    "D": "Harakat",
+    "javob": "A"
+  },
+  {
+    "savol": "Mushaklar tayanch-harakat apparatining qaysi qismini tashkil qiladi?",
+    "A": "Faol qismini",
+    "B": "Skelet qismi",
+    "C": "Passiv qismini",
+    "D": "Nerv qismini",
+    "javob": "A"
+  },
+  {
+    "savol": "Tananing harakati nimaning qisqarishi natijasida yuzaga keladi?",
+    "A": "Ko‘ndalang-targ‘il mushak tolalarining",
+    "B": "Silliq mushak tolalarining",
+    "C": "Yurak mushaklarining",
+    "D": "Pay tolalarining",
+    "javob": "A"
+  },
+  {
+    "savol": "Kurakni ko‘taruvchi mushak (m. levator scapulae) qayerdan boshlanadi?",
+    "A": "To‘rtta yuqorigi bo‘yin umurtqalari ko‘ndalang o‘siqchasining orqa do‘mboqchasidan",
+    "B": "Ko‘krak umurtqalari o‘tkir qirrali o‘siqchalaridan",
+    "C": "Qovurg‘a burchaklaridan",
+    "D": "Kurakning pastki burchagidan",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko‘krak qafasidan boshlanib, yelka kamari va yelka suyagiga birikuvchi mushaklar qaysi guruhga kiradi?",
+    "A": "Ko‘krak qafasining autoxton mushaklariga",
+    "B": "Qorin mushaklariga",
+    "C": "Birinchi guruh mushaklariga",
+    "D": "Orqa mushaklariga",
+    "javob": "A"
+  },
+  {
+    "savol": "Yurakning qaysi bo‘lagida vena qoni oqadi?",
+    "A": "O‘ng bo‘lmacha va o‘ng qorincha",
+    "B": "Chap bo‘lmacha va chap qorincha",
+    "C": "O‘ng qorincha",
+    "D": "O‘ng bo‘lmacha",
+    "javob": "A"
+  },
+  {
+    "savol": "Yurakning tashqi qavati epikard nimadan iborat?",
+    "A": "Mezoteliy bilan qoplangan biriktiruvchi to‘qimadan",
+    "B": "Endoteliydan",
+    "C": "Skelet mushagidan",
+    "D": "Fibroz to‘qimadan",
+    "javob": "A"
+  },
+  {
+    "savol": "Yurak qayerda joylashgan?",
+    "A": "Ko‘krak qafasida",
+    "B": "Qorin bo‘shlig‘ida",
+    "C": "Boshda",
+    "D": "Oyoqda",
+    "javob": "A"
+  },
+  {
+    "savol": "Qonning immun funksiyasini nima bajaradi?",
+    "A": "Leykotsitlar",
+    "B": "Plazma",
+    "C": "Eritrotsitlar",
+    "D": "Trombotsitlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Qon tarkibida kislorod tashuvchi hujayra?",
+    "A": "Eritrotsit",
+    "B": "Leykotsit",
+    "C": "Trombotsit",
+    "D": "Plazma",
+    "javob": "A"
+  },
+  {
+    "savol": "Ichki sekretsiya bezlari nima ishlab chiqaradi?",
+    "A": "Gormonlar",
+    "B": "Qon",
+    "C": "Suv",
+    "D": "Tuz",
+    "javob": "A"
+  },
+  {
+    "savol": "Gormonlar qayerga o'tadi?",
+    "A": "Qon yoki limfaga",
+    "B": "Faqat suyaklarga",
+    "C": "Oshqozonga",
+    "D": "Teri ostiga",
+    "javob": "A"
+  },
+  {
+    "savol": "Qalqonsimon bez qayerda joylashgan?",
+    "A": "Bo‘yinning oldingi qismida",
+    "B": "Qorin bo‘shlig‘ida",
+    "C": "Boshda",
+    "D": "Oyoqda",
+    "javob": "A"
+  },
+  {
+    "savol": "Qalqonsimon bez nechta bo'lakdan iborat?",
+    "A": "2 ta",
+    "B": "1 ta",
+    "C": "3 ta",
+    "D": "4 ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Qalqonsimon orqa bezlari odatda nechta bo‘ladi?",
+    "A": "4 ta",
+    "B": "2 ta",
+    "C": "6 ta",
+    "D": "1 ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Qalqonsimon orqa bezlari qanday gormon ishlab chiqaradi?",
+    "A": "Paratgormon",
+    "B": "Insulin",
+    "C": "Adrenalin",
+    "D": "Testosteron",
+    "javob": "A"
+  },
+  {
+    "savol": "Paratgormon nima qiladi?",
+    "A": "Kalsiyni qonga chiqaradi",
+    "B": "Suvni kamaytiradi",
+    "C": "Qonni ivitadi",
+    "D": "Nafasni tezlashtiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Buyrak usti bezi qanday azo?",
+    "A": "Juft azo",
+    "B": "Toq azo",
+    "C": "Suyak",
+    "D": "Mushak",
+    "javob": "A"
+  },
+  {
+    "savol": "Buyrak usti bezlari qayerda joylashgan?",
+    "A": "Buyrak ustida",
+    "B": "Yurakda",
+    "C": "O'pkada",
+    "D": "Ichakda",
+    "javob": "A"
+  },
+  {
+    "savol": "Gipofiz qayerda joylashgan?",
+    "A": "Turk egarida",
+    "B": "Yurakda",
+    "C": "Ichakda",
+    "D": "Oyoqda",
+    "javob": "A"
+  },
+  {
+    "savol": "Gipofizning oldingi bolagi qanday ataladi?",
+    "A": "Adenogipofiz",
+    "B": "Neyrogipofiz",
+    "C": "Epifiz",
+    "D": "Gipotalamus",
+    "javob": "A"
+  },
+  {
+    "savol": "Gipofizning orqa bolagi qanday ataladi?",
+    "A": "Neyrogipofiz",
+    "B": "Adenogipofiz",
+    "C": "Endokrin",
+    "D": "Ekzokrin",
+    "javob": "A"
+  },
+  {
+    "savol": "Somatotropin nima qiladi?",
+    "A": "O’sishni boshqaradi",
+    "B": "Nafasni boshqaradi",
+    "C": "Qonni ivitadi",
+    "D": "Ovqat hazm qiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Somatotropin kam bolsa nima boladi?",
+    "A": "Karlikizm",
+    "B": "Semizlik",
+    "C": "Allergiya",
+    "D": "Isitma",
+    "javob": "A"
+  },
+  {
+    "savol": "Somatotropin kop bolsa nima bo’ladi?",
+    "A": "Gigantizm",
+    "B": "Ozish",
+    "C": "Uyqusizlik",
+    "D": "Yo’tal",
+    "javob": "A"
+  },
+  {
+    "savol": "Vazopressin nima qiladi?",
+    "A": "Suvni qayta so’rilishini oshiradi",
+    "B": "Qonni kamaytiradi",
+    "C": "Nafasni toxtatadi",
+    "D": "Ovqatni parchalaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Oksitotsin nima qiladi?",
+    "A": "Bachadon qisqarishini kuchaytiradi",
+    "B": "Qonni ivitadi",
+    "C": "Soch o’stiradi",
+    "D": "Nafasni tezlatadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Gormonlar organizmga qanday tasir qiladi?",
+    "A": "Juda oz miqdorda ham tasir qiladi",
+    "B": "Kop bolsa tasir qiladi",
+    "C": "Tasiri yoq",
+    "D": "Suvda ishlaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘rta miya (mesencephalon) qaysi miya pufagidan rivojlanadi?",
+    "A": "Uchinchi miya pufagi",
+    "B": "Oxirgi miya pufagi",
+    "C": "Orqa miya pufagi",
+    "D": "Rombsimon miya pufagi",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘rta miyani ikki asosiy qismga bo‘ladigan tuzilma qaysi?",
+    "A": "Tom to‘rt tepalik plastinkasi va miya oyoqchalari",
+    "B": "Piramida va oliva",
+    "C": "Ko‘prik va miyacha",
+    "D": "Ko‘ruv bo‘rtigi va pulvinar",
+    "javob": "A"
+  },
+  {
+    "savol": "Oraliq miyaning dorsal (orqa) sohasining asosiy vazifasi nima?",
+    "A": "Afferent yo‘llar markazi sifatida ishlash",
+    "B": "Vegetativ markazlarni boshqarish",
+    "C": "Harakatni boshqarish",
+    "D": "Nafas va qon aylanishini tartibga solish",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko‘ruv bo‘rtig‘ining (thalamus opticus) oldingi uchi nima hosil qiladi?",
+    "A": "Tuberculum anterius",
+    "B": "Stria medullaris thalami",
+    "C": "Ko‘ruv bo‘rtig‘ining",
+    "D": "Supraoptik o‘zak",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko‘ruv bo‘rtig‘ining o‘ng va chap qismlarining ichki yuzasi qanday birlashadi?",
+    "A": "Adhesio interthalamica orqali",
+    "B": "Commissura anterior orqali",
+    "C": "Stria medullaris orqali",
+    "D": "Foramen interventriculare orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Gipotalamusning oldingi sohasida joylashgan neyrosekretor o‘zaklar qaysilar?",
+    "A": "Nucleus supraopticus va nucleus paraventricularis",
+    "B": "Nucleus arcuatus va nucleus tuberalis",
+    "C": "Corpora mamillaria medial va lateral o‘zaklari",
+    "D": "Nucleus hypothalamicus dorsalis",
+    "javob": "A"
+  },
+  {
+    "savol": "Oraliq miyaning orqa hidlov sohasida joylashgan tuzilma nima?",
+    "A": "Corpora mamillaria",
+    "B": "Nucleus arcuatus",
+    "C": "Stria medullaris thalami",
+    "D": "Pulvinar",
+    "javob": "A"
+  },
+  {
+    "savol": "Oq modda asosiy vazifasi nima?",
+    "A": "Nerv tolalarini uzatish va bosh miyaning turli qismlarini bog‘lash",
+    "B": "Sekret ishlab chiqarish",
+    "C": "Kulrang moddaning o‘zaklarini himoya qilish",
+    "D": "Ko‘ruv markazini rivojlantirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Ekstrakortikal assotsiativ tolalar qaysi vazifani bajaradi?",
+    "A": "Po‘stloqdan tashqariga chiqib boshqa sohadagi po‘stloq hujayralari bilan bog‘lash",
+    "B": "Bitta pushtani bog‘lash",
+    "C": "Miyacha bilan bog‘lash",
+    "D": "O‘rta miya va oraliq miyaning afferent tolalarini uzatish",
+    "javob": "A"
+  },
+  {
+    "savol": "Proyeksion o'tkazuv yo‘llari qanday ishlaydi?",
+    "A": "Bosh miya po‘stlog‘i bilan miya pog‘onasi va orqa miya o‘zaklari o‘rtasida ikki tomonlama aloqa qiladi",
+    "B": "Afferent impulslarni markazga olib keladi",
+    "C": "Bitta yarimsharning turli qismlarini bog‘laydi",
+    "D": "Efferent impulslarni periferiyaga uzatadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Afferent o‘tkazuv yo‘llari qanday turga bo‘linadi?",
+    "A": "Ekstratseptiv, propriotseptiv, intratseptiv",
+    "B": "Proyeksion, komissural, assotsiativ",
+    "C": "Qisqa va uzun tolalar",
+    "D": "Po‘stloq va oq modda tolalari",
+    "javob": "A"
+  },
+  {
+    "savol": "Ekstratseptiv afferent yo‘llar qanday impulslarni olib keladi?",
+    "A": "Tashqi muhit ta’sirida hosil bo‘lgan sezgi impulslari",
+    "B": "Harakatlantiruvchi signal",
+    "C": "Neyrosekretor impulslar",
+    "D": "Miyacha chuvalchangining faoliyati",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘rta miyaning dorsal qismidan qaysi tuzilma hosil bo‘ladi?",
+    "A": "Toma to‘rt tepalik plastinkasi",
+    "B": "Miya oyoqchalari",
+    "C": "Oliva",
+    "D": "Piramida",
+    "javob": "A"
+  },
+  {
+    "savol": "Assotsiativ yo‘llarning tarkibi qanday?",
+    "A": "Har xil tuzilishdagi neyronlar zanjiri",
+    "B": "Uzun tolalardan",
+    "C": "Qisqa tolalardan",
+    "D": "Oq modda tolalaridan",
+    "javob": "A"
+  },
+  {
+    "savol": "Proyeksion yo‘llar impuls yo‘nalishiga qarab qanday bo‘linadi?",
+    "A": "Afferent markazga intiluvchi va efferent markazdan qochuvchi",
+    "B": "Efferent",
+    "C": "Afferent",
+    "D": "Assotsiativ va komissural",
+    "javob": "A"
+  },
+  {
+    "savol": "Oraliq miyaning III qorincha bo‘shlig‘i nima bilan bog‘lanadi?",
+    "A": "IV qorinchaga miya suv yo‘li orqali",
+    "B": "Stria medullaris thalami bilan",
+    "C": "Uzunchoq miyaga",
+    "D": "Piramida bilan",
+    "javob": "A"
+  },
+  {
+    "savol": "Nerv sistemasi nima vazifani bajaradi?",
+    "A": "Organizm faoliyatini boshqaradi va muvofiqlashtiradi",
+    "B": "hazm qilishda ishtirok etadi",
+    "C": "Qon aylanishini ta’minlaydi",
+    "D": "Nafas olishni boshqaradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Bosh miya qayerda joylashgan?",
+    "A": "Bosh suyagi ichida",
+    "B": "Ko‘krak qafasida",
+    "C": "Qorin bo‘shlig‘ida",
+    "D": "Orqa miya ichida",
+    "javob": "A"
+  },
+  {
+    "savol": "Bosh miya nechta yarim shardan iborat?",
+    "A": "2 ta",
+    "B": "3 ta",
+    "C": "4 ta",
+    "D": "1 ta",
+    "javob": "A"
+  }
+]
