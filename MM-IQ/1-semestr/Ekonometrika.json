@@ -1,0 +1,1410 @@
+[
+  {
+    "savol": "Determinatsiya koeffitsienti qanday qiymat qabul qilishi mumkin?",
+    "A": "0.8",
+    "B": "-2",
+    "C": "2",
+    "D": "-0.8",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar bir omilli tenglamaning omil oldidagi parametri 130 ga teng va ozod parametr 12 ga teng. Ta`sir etuvchi omil nolga teng bo`lsa, asosiy omil qanchaga o`zgaradi?",
+    "A": "12",
+    "B": "30",
+    "C": "0",
+    "D": "142",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar bir omilli tenglamaning omil oldidagi parametri 110 ga teng va ozod parametr 15 ga teng. Ta`sir etuvchi omil nolga teng bo`lsa, asosiy omil qanchaga o`zgaradi?",
+    "A": "15",
+    "B": "110",
+    "C": "30",
+    "D": "125",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar bir omilli tenglamaning omil oldidagi parametri 80 ga teng va ozod parametr 18 ga teng. Ta`sir etuvchi omil nolga teng bo`lsa, asosiy omil qanchaga o`zgaradi?",
+    "A": "18",
+    "B": "98",
+    "C": "80",
+    "D": "15",
+    "javob": "A"
+  },
+  {
+    "savol": "Xususiy korrelyatsiya koeffitsiyenti .. Bildiradi",
+    "A": "ikki omil o`rtasidagi bog`lanish zichligini",
+    "B": "bir nechta omillar o`rtasidagi bog`lanish zichligini",
+    "C": "asosiy va unga ta`sir etuvchi omillar o`rtasidagi bog`lanish zichligini",
+    "D": "ta`sir etuvchi omillar o`rtasidagi bog`lanish zichligini",
+    "javob": "A"
+  },
+  {
+    "savol": "Аgar X va Y omillar oʼrta zichlikdan kuchsizroq bogʼlansa, korrelyatsiya koeffitsienti rxy qaysi oraliqda oʼzgaradi?",
+    "A": "(0,2;0,4]",
+    "B": "(0;0,2]",
+    "C": "[0,6;0,8]",
+    "D": "(0,6;0,9)",
+    "javob": "A"
+  },
+  {
+    "savol": "Аgar X va Y omillar oʼrtacha bogʼlansa, korrelyatsiya koeffitsienti rxy qaysi oraliqda oʼzgaradi?",
+    "A": "(0,4;0,6]",
+    "B": "[0;0,2]",
+    "C": "[0,6;0,8]",
+    "D": "(0,6;0,9)",
+    "javob": "A"
+  },
+  {
+    "savol": "Аgar X va Y omillar oʼrtachadan zichroq bogʼlansa, korrelyatsiya koeffitsienti rxy qaysi oraliqda oʼzgaradi?",
+    "A": "(0,6;0,8]",
+    "B": "(0,4;0,6]",
+    "C": "(0,4;0,6)",
+    "D": "(0;1)",
+    "javob": "A"
+  },
+  {
+    "savol": "Аgar X va Y omillar zich bogʼlansa, korrelyatsiya koeffitsienti rxy qaysi oraliqda oʼzgaradi?",
+    "A": "(0,8;0,99]",
+    "B": "(0,6;0,8]",
+    "C": "(0,4;0,8)",
+    "D": "(0,4;0,6]",
+    "javob": "A"
+  },
+  {
+    "savol": "Аgar X va Y omillar kuchsiz bogʼlansa, korrelyatsiya koeffitsienti rxy qaysi oraliqda oʼzgaradi?",
+    "A": "(0;0,2]",
+    "B": "[0,4;0,6]",
+    "C": "[0,6;0,8]",
+    "D": "(0;0,4)",
+    "javob": "A"
+  },
+  {
+    "savol": "Korrelyatsiya koeffitsienti Rxy qanday intervaldi oʼzgaradi?",
+    "A": "[-1;1]",
+    "B": "(-1;0)",
+    "C": "(0;1)",
+    "D": "[0;1]",
+    "javob": "A"
+  },
+  {
+    "savol": "Determinasiya koeffisiyenti qaysi oraliqda o`zgaradi?",
+    "A": "0 va 1 oralig`ida",
+    "B": "-1 va 1 oralig`ida",
+    "C": "0 va 100 oralig`ida",
+    "D": "1 va 10 oralig`ida",
+    "javob": "A"
+  },
+  {
+    "savol": "Y=9,2-0,44X ko`rinishdagi regressiya tenglamasida Y-korxona foydasi, X-sotilgan mahsulot hajmi. Agar korxonada sotish hajmi 1 mln. so`mga oshsa, u holda korxonaning foydasi o`rtacha",
+    "A": "0,44 mln. so`mga kamayadi",
+    "B": "0,44 mln. so`mga ortadi",
+    "C": "0,56 mln. so`mga ortadi",
+    "D": "0,92 mln. so`mga kamayadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Y=9,2+0,44X ko`rinishdagi regressiya tenglamasida Y-korxona foydasi, X-sotilgan mahsulot hajmi. Agar korxonada sotish hajmi 1 mln. so`mga oshsa, u holda korxonaning foydasi o`rtacha",
+    "A": "0,44 mln. so`mga ortadi",
+    "B": "0,56 mln. so`mga ortadi",
+    "C": "0,44 mln. so`mga kamayadi",
+    "D": "0,92 mln. so`mga kamayadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Y=9,2+0,56X ko`rinishdagi regressiya tenglamasida Y-korxona foydasi, X-sotilgan mahsulot hajmi. Agar korxonada sotish hajmi 1 mln. so`mga oshsa, u holda korxonaning foydasi o`rtacha",
+    "A": "0,56 mln. so`mga ortadi",
+    "B": "0,56 mln. so`mga kamayadi",
+    "C": "0,44 mln. so`mga kamayadi",
+    "D": "0,54 mln. so`mga kamayadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Y=9,2-0,87X ko`rinishdagi regressiya tenglamasida Y-korxona foydasi, X-sotilgan mahsulot hajmi. Agar korxonada sotish hajmi 1 mln. so`mga oshsa, u holda korxonaning foydasi o`rtacha",
+    "A": "0,87 mln. so`mga kamayadi",
+    "B": "9,2 mln. so`mga ortad",
+    "C": "0,87 mln. so`mga ortadi",
+    "D": "0,83 mln. so`mga ortadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Y=9,2+0,87X ko`rinishdagi regressiya tenglamasida Y-korxona foydasi, X-sotilgan mahsulot hajmi. Agar korxonada sotish hajmi 1 mln. so`mga oshsa, u holda korxonaning foydasi o`rtacha",
+    "A": "0,87 mln. so`mga ortadi",
+    "B": "9,2 mln. so`mga ortadi",
+    "C": "0,13 mln. so`mga kamayadi",
+    "D": "0,87 mln. so`mga kamayadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Y=19,2-0,89X ko`rinishdagi regressiya tenglamasida Y-korxona foydasi, X-sotilgan mahsulot hajmi. Agar korxonada sotish hajmi 1 mln. so`mga oshsa, u holda korxonaning foydasi o`rtacha",
+    "A": "0,89 mln. so`mga kamayadi",
+    "B": "0,11 mln. so`mga kamayadi",
+    "C": "19,2 mln. so`mga kamayadi",
+    "D": "0,87 mln. so`mga ortadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Y=19,2+0,89X ko`rinishdagi regressiya tenglamasida Y-korxona foydasi, X-sotilgan mahsulot hajmi. Agar korxonada sotish hajmi 1 mln. so`mga oshsa, u holda korxonaning foydasi o`rtacha",
+    "A": "0,89 mln. so`mga ortadi",
+    "B": "0,89 mln. so`mga kamayadi",
+    "C": "0,11 mln. so`mga ortadi",
+    "D": "19,2 mln. so`mga kamayadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Y=9,2+0,93X ko`rinishdagi regressiya tenglamasida Y-korxona foydasi, X-sotilgan mahsulot hajmi. Agar korxonada sotish hajmi 1 mln. so`mga oshsa, u holda korxonaning foydasi o`rtacha",
+    "A": "0,93 mln. so`mga ortadi",
+    "B": "9,2 mln. so`mga ortadi",
+    "C": "0,07 mln. so`mga kamayadi",
+    "D": "0,93 mln. so`mga kamayadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ekonometrik model bo`yicha 18 yillik ma`lumot bo`lsa, u holda necha yil oldinga prognoz qilish mumkin?",
+    "A": "6 yil oldinga",
+    "B": "10 yil oldinga",
+    "C": "2 yil oldinga",
+    "D": "7 yil oldinga",
+    "javob": "A"
+  },
+  {
+    "savol": "Approksimatsiya o`rtacha xatosining mumkin bo`lgan qiymatlar chegarasi?",
+    "A": "8-10 foizdan katta bo`lmasligi kerak",
+    "B": "8-10 foizdan katta bo`lishi kerak",
+    "C": "10-20 foizdan katta bo`lmasligi kerak",
+    "D": "10-20 foizdan katta bo`lishi kerak",
+    "javob": "A"
+  },
+  {
+    "savol": "Chastota (m) – bu",
+    "A": "absolyut miqdor boʼlib, har variantning toʼplamda necha bor uchrashuvini koʼrsatadi",
+    "B": "avvaldan maʼlum boʼlgan va oldindan inobatga olib boʼlmaydigan tasodifiy sabablarga bogʼliq boʼlgan hamda sinash natijasida bitta mumkin boʼlgan qiymat qabul qiluvchi miqdorga aytiladi",
+    "C": "avvaldan nomaʼlum boʼlgan va oldindan inobatga olib boʼlmaydigan tasodifiy sabablarga bogʼliq boʼlmagan hamda sinash natijasida bitta mumkin boʼlgan qiymat qabul qiluvchi miqdorga aytiladi",
+    "D": "ayrim, ajralgan qiymatlarni maʼlum ehtimollar bilan qabul qiluvchi miqdorga aytiladi. Diskret tasodifiy miqdorning mumkin boʼlgan qiymatlari soni chekli yoki cheksiz boʼlishi mumkin",
+    "javob": "A"
+  },
+  {
+    "savol": "Modelning o`rganilayotgan jarayonga mos kelishi nima deb ataladi:",
+    "A": "Adekvatlik",
+    "B": "Multikollenearlik",
+    "C": "Optimallik",
+    "D": "Apriorlik",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi hollarda regressiya juft hisoblanadi?",
+    "A": "Agar regressiya tenglamasida bitta bog`liq va bitta erkli o`zgaruvchi qatnashsa",
+    "B": "Agar regressiya tenglamasida bitta bog`liq va ikkita erkli o`zgaruvchi qatnashsa",
+    "C": "Agar regressiya tenglamasida bitta bog`liq, bitta erkli va bitta oldindan aniqlangan o`zgaruvchi qatnashsa",
+    "D": "Agar regressiya tenglamasida bitta bog`liq va bitta erkli va bitta lagli o`zgaruvchi qatnashsa",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi holda ikki omil o`rtasida aloqa zich hisoblanadi?",
+    "A": "Agar ularning korrelyasiya koeffisenti modul bo`yicha 0,7 ga teng yoki katta bo`lsa",
+    "B": "Agar ularning korrelyasiya koeffisenti modul bo`yicha 0,5 va 0,7 orasida bo`lsa",
+    "C": "Agar ularning korrelyasiya koeffisenti 1,0 dan katta bo`lsa",
+    "D": "Agar ularning korrelyasiya koeffisenti 1,0 ga teng bo`lsa",
+    "javob": "A"
+  },
+  {
+    "savol": "Qachon regressiya koeffitsienti ahamiyatsiz hisoblanadi?",
+    "A": "Agar uning P-qiymati 5 foizdan katta bo`lsa",
+    "B": "Agar uning P-qiymati 5 foizdan kichik bo`lsa",
+    "C": "Agar uning hisoblangan t-statistikasi qiymati kritik qiymatdan kichik bo`lsa",
+    "D": "Agar uning P-qiymati 100 foizga kichik bo`lsa",
+    "javob": "A"
+  },
+  {
+    "savol": "\"EXCEL\" kompyuter tizimida ekonometrik izlanishlar qo`yidagi buyruqlar yordamida o`tkaziladilar:",
+    "A": "Analiz dannыx→Opisatelnaya statistika→Korrelyatsiya →Regressiya",
+    "B": "Poisk resheniya→Opisatelnaya statistika→Korrelyatsiya →Regressiya",
+    "C": "Servis→Opisatelnaya statistika→Korrelyatsiya →Regressiya",
+    "D": "Nadstroyka→Opisatelnaya statistika→Korrelyatsiya →Regressiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Ekonometrik modelni ahamijtini",
+    "A": "Approksimatsiya xatoligi va Fishеr mеzoni yordamida baholanadi",
+    "B": "Korrеlyatsiya koeffitsiеnti va dеtеrminatsiya koeffitsiеnti yordamida baholanadi",
+    "C": "Styudеnt mеzoni bo`yicha baholanadi",
+    "D": "Darbin-Uotson mеzoni yordamida baholanadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qoldiqlarning bog`liq emasligi to`g`risidagi farazning buzilishiga nima deb aytiladi?",
+    "A": "Avtokorrelyatsiya",
+    "B": "Multikollineralik",
+    "C": "Geteroskedastlik",
+    "D": "Gomoskedastlik",
+    "javob": "A"
+  },
+  {
+    "savol": "Variatsiya – bu:",
+    "A": "Belgining o`zgarishidir",
+    "B": "O`zgaruvchi belgining konkret ifodasi",
+    "C": "O`zgaruvchi belgining miqdorlari majmuasi",
+    "D": "Qatorning ekstremal qiymatlari farqi",
+    "javob": "A"
+  },
+  {
+    "savol": "Fiktiv o`zgaruvchi nima va u ekonometrik modelga qanady kiritladi?",
+    "A": "Binar ko`rinishdagi o`zgaruvchi bo`lib, ekonometrik modelga 1 yoki 0 qiymat bilan kiritiladi",
+    "B": "Ekspertlar tomonidan ekonometrik modelga kiritiladigan o`zgaruvchi bo`lib, ekonometrik modelga 0 va 1 oralig`idagi sonlar ko`rinishida kiritiladi",
+    "C": "Asosan o`lchov birligiga ega bo`lmagan o`zgaruvchilar bo`lib, 0 dan 100 gacha bo`lgan sonlar ko`rinishida kiritiladi",
+    "D": "Bunday o`zgaruvchi eksperementlar orqali olinadi va ekonometrik modelga manfiy sonlar ko`rinishida kiritiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Fuksional bog`lanish – bu .",
+    "A": "bir o`zgaruvchi belgining har qaysi qiymatiga boshqa o`zgaruvchi belgining aniq bitta qiymatiga mos kelishi",
+    "B": "bir o`zgaruvchi belgining har qaysi qiymatiga boshqa o`zgaruvchi belgining taqribiy bitta qiymatiga mos kelishi",
+    "C": "bir o`zgaruvchi belgining har qaysi qiymatiga boshqa o`zgaruvchi belgining aniq bitta qiymatiga mos kelmasligi",
+    "D": "bir o`zgaruvchi belgining har qaysi qiymatiga boshqa o`zgaruvchi belgining taxminiy bitta qiymatiga mos kelishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Elastiklik koeffitsiyenti – bu:",
+    "A": "Bog`liq bo`lmagan omilning 1 foizga o`zgarishi, natijaviy omilning qanchaga o`zgarishini ko`rsatadi",
+    "B": "Bog`liq bo`lmagan omilning 1 foizga o`zgarishini ko`rsatadi",
+    "C": "Bog`liq bo`lmagan omilning bir birlikka o`zgarishi, natijaviy omilning necha foizga o`zgarishini ko`rsatadi",
+    "D": "Natijaviy omilning vaqtga nisbatan qancha birlikka o`zgarishini ko`rsatadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Regressiya koeffitsiyenti ma`nosi:",
+    "A": "Bog`liq bo`lmagan omilning bir birlikka o`zgarishi, natijaviy omilning qanchaga o`zgarishini ko`rsatadi",
+    "B": "Bog`liq va natijaviy omil orasidagi bog`lanish zichligini ko`rsatadi",
+    "C": "Bog`liq bo`lmagan omilning bir foizga o`zgarishi, natijaviy omilning necha foizga o`zgarishini ko`rsatadi",
+    "D": "Natijaviy omilning bir birlikka o`zgarishi, bog`liq bo`lmagan omilning qanchaga o`zgarishini ko`rsatadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Regressiya tenglamasiga nimalar kiradi?",
+    "A": "Bog`liq o`zgaruvchi, erkli o`zgaruvchi va ular oldidagi koeffitsientlar hamda tasodifiy xato kiradi",
+    "B": "Bog`liq o`zgaruvchi, erkli o`zgaruvchi va ular oldidagi koeffitsientlar kiradi",
+    "C": "Bog`liq o`zgaruvchi, oldindan aniqlangan o`zgaruvchi hamda tasodifiy xato kiradi",
+    "D": "Endogen o`zgaruvchi, ekzogen o`zgaruvchi va tasodifiy xato kiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Regressiya tenglamasi:",
+    "A": "Bog`liq va bog`liq bo`lmagan omillar orasidagi munosabatni ko`rsatadi",
+    "B": "Bog`liq bo`lmagan omillar orasidagi munosabatni ko`rsatadi",
+    "C": "Bog`liq omillar orasidagi munosabatni ko`rsatadi",
+    "D": "Bog`liq va bog`liq bo`lmagan omillar orasidagi zich bog`lanishni ko`rsatadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar X va Y omillar o`rtasida korrelyatsiya koeffitsienti 0 ga teng bo`lsa omillar orasidagi bog`liqlik qanday?",
+    "A": "bog`liq mavjud emas",
+    "B": "Funktsional va to`g`ri bog`liq",
+    "C": "Funktsional va teskari bog`l",
+    "D": "Kuchsiz va teskari bog`liq",
+    "javob": "A"
+  },
+  {
+    "savol": "Tanlama to`plam – bu",
+    "A": "Bosh to`plamni bir qismini tashkil etuvchi kuzatuvlar to`plami",
+    "B": "Kuzatuv jarayonida qabul qilingan tasodifiy miqdor qiymatlari",
+    "C": "Kuzatuv shartlarini qondiruvchi tasodifiy miqdor qiymatlari",
+    "D": "Har qanday kuzatuvlar to`plami",
+    "javob": "A"
+  },
+  {
+    "savol": "Ekonometrik modellashtirish bosqichlaridan ikkinchi bosqichni aniqlang:",
+    "A": "Bosqichda izlanayotgan noma`lum o`zgaruvchilar nima, qanday maqsadni ko`zda tutadi, natija nimalarga olib keladi kabi savollar aniqlangan bo`lishi kerak",
+    "B": "Modellashtirilayotgan jarayonning ekonometrik modeli tenglamalari va tengsizliklar tizimi shaklida ifodalanishi kerak",
+    "C": "Tuzilgan ekonometrik modelning miqdoriy echimini aniqlaydigan usul tanlanadi",
+    "D": "Iqtisodiy jarayon har tomonlama nazariy, sifat jihatdan tahlil qilinadi va uning parametrlari, ichki va tashqi informatsion aloqalar, ishlab chiqarish resurslari, rejalashtirish davri kabi ko`rsatkichlar aniqlanadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar determinasiya koeffisiyenti nolga teng bo`lsa, unda:",
+    "A": "Chiziqli bog`lanish mavjud emas",
+    "B": "Funktsional va to`g`ri bog`liq emas",
+    "C": "Funktsional va teskari bog`liq",
+    "D": "Kuchsiz va teskari bog`liq",
+    "javob": "A"
+  },
+  {
+    "savol": "Trend modellari – bu:",
+    "A": "Dinamik model",
+    "B": "Statik model",
+    "C": "Balans modeli",
+    "D": "Tarmoqli model",
+    "javob": "A"
+  },
+  {
+    "savol": "Eng kichik kvadratlar usuli qanday maqsadda foydalaniladi:",
+    "A": "Dinamik qatorlarni tekislash uchun",
+    "B": "Omillar orasidagi bog`lanish zichligini aniqlash uchun",
+    "C": "Dinamik qatorlardagi o`rtacha qiymatlarni aniqlash uchun",
+    "D": "Omillarning o`rtacha kvadrat chetlanishini aniqlash uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "Oʼrtacha kvadratik farq qanday aniqlanadi?",
+    "A": "Dispersiyani kvadrat ildizdan chiqqan qiymati",
+    "B": "Dispersiyani uchinchi darajali ildizdan chiqqan qiymati",
+    "C": "Dispersiyani kvadratga oshirishdan chiqqan qiymati",
+    "D": "Dispersiyani uchinchi darajaga oshirishdan chiqqan qiymati",
+    "javob": "A"
+  },
+  {
+    "savol": "Moda deb, .",
+    "A": "eng katta chastotaga ega boʼlgan variantaga aytiladi",
+    "B": "eng kichik chastotaga ega boʼlgan variantaga aytiladi",
+    "C": "teng chastotaga ega boʼlgan variantaga aytiladi",
+    "D": "eng katta chastotaga ega boʼlmagan variantaga aytiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qoldiqlar kvadratini yig`indisini minimallashtirish usuli - bu",
+    "A": "Eng kichik kvadratlar usuli",
+    "B": "O`rtacha kvadratlar usuli",
+    "C": "Chegaraviy qiymatlar kvadratlari usuli",
+    "D": "Eng kichik xatolarni topish usuli",
+    "javob": "A"
+  },
+  {
+    "savol": "Ekonometrik modellashtirish quyidagi bosqichdan iborat:",
+    "A": "Etti bosqichdan",
+    "B": "Besh bosqichdan",
+    "C": "Ikki bosqichdan",
+    "D": "Bir bosqichdan",
+    "javob": "A"
+  },
+  {
+    "savol": "25 ta mamlakatning 2020 yildagi inflyasiya ko`rsatkichi bo`yicha ma`lumotlari - bu",
+    "A": "Fazoviy ma`lumot",
+    "B": "Panel ma`lumot",
+    "C": "Aralash ma`lumot",
+    "D": "Iqtisodiy ma`lumot",
+    "javob": "A"
+  },
+  {
+    "savol": "30 ta mamlakatning 2022 yildagi inflyasiya ko`rsatkichi bo`yicha ma`lumotlari - bu",
+    "A": "Fazoviy ma`lumot",
+    "B": "Panel ma`lumot",
+    "C": "Vaqtli qatorlar",
+    "D": "Iqtisodiy ma`lumot",
+    "javob": "A"
+  },
+  {
+    "savol": "30 ta mamlakatning 2023 yildagi inflyasiya ko`rsatkichi bo`yicha ma`lumotlari - bu",
+    "A": "Fazoviy ma`lumot",
+    "B": "Panel ma`lumot",
+    "C": "Aralash ma`lumot",
+    "D": "Iqtisodiy ma`lumot",
+    "javob": "A"
+  },
+  {
+    "savol": "35 ta mamlakatning 2023 yildagi inflyasiya ko`rsatkichi bo`yicha ma`lumotlari - bu",
+    "A": "Fazoviy ma`lumot",
+    "B": "Panel ma`lumot",
+    "C": "Aralash ma`lumot",
+    "D": "Iqtisodiy ma`lumot",
+    "javob": "A"
+  },
+  {
+    "savol": "Turli ob`yektlar bo`yicha vaqtning aniq bir davrida olingan ma`lumotlar - bu:",
+    "A": "Fazoviy ma`lumotlar",
+    "B": "Panel ma`lumotlar",
+    "C": "Vaqtli qatorlar",
+    "D": "Binar ma`lumotlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Panel ma`lumotlari - bu",
+    "A": "Fazoviy ma`lumotlar va vaqtli qatorlarning birlashmasidir",
+    "B": "Fazoviy ma`lumotlar va dinamik ma`lumotlarning kesishmasidir",
+    "C": "Vaqtli qatorlar va trend ma`lumotlarining birlashmasidir",
+    "D": "Vaqtli qatorlar va prognoz davridagi ma`lumotlarining birlashmasidir",
+    "javob": "A"
+  },
+  {
+    "savol": "Panel ma`lumotlariga ko`pincha qanday o`zgaruvchilar kiritiladi:",
+    "A": "Fiktiv o`zgaruvchi",
+    "B": "Oldindan aniqlangan o`zgaruvchi",
+    "C": "Dinamik o`zgaruvchi",
+    "D": "Endogen o`zgaruvchi",
+    "javob": "A"
+  },
+  {
+    "savol": "Asossiy fondlar bo`yicha yalpi mahsulotning elastiklik koeffitsienti quyidagini ko`rsatadi",
+    "A": "Fondlar qiymati bir foizga o`zgarganda, mahsulot ishlab chiqarish qiymati necha foizga o`zgarishini ko`rsatad",
+    "B": "Fondlar qiymati bir birlikka o`zgarganda, mahsulot ishlab chiqarish qiymati necha birlikka o`zgarishini ko`rsatad",
+    "C": "Fondlar qiymati bir foizga o`zgarganda, mahsulot ishlab chiqarish qiymati o`zgarmasligini ko`rsatadi",
+    "D": "Fondlar qiymati bir birlikka o`zgarganda, mahsulot ishlab chiqarish qiymati necha foizga o`zgarishini ko`rsatadi",
+    "javob": "A"
+  },
+  {
+    "savol": "O`rtacha fondlar qiymati nimani ko`rsatadi?",
+    "A": "Fondlar qiymati oshib borganda o`rtacha fondlar qiymati pasayib boradi",
+    "B": "Fondlar qiymati oshib borganda o`rtacha fondlar qiymati oshadi",
+    "C": "Fondlar qiymati oshib borganda o`rtacha fondlar qiymati o`zgarmaydi",
+    "D": "O`rtacha fondlar qiymati oshib borganda fondlar qiymati pasayib boradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Tasodifiy xatolik bo`lmagan modelni qanday atashadi?",
+    "A": "Funksional model",
+    "B": "Statik model",
+    "C": "Regression model",
+    "D": "O`sish modeli",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar X va Y omillar o`rtasida korrelyatsiya koeffitsienti -1 ga teng bo`lsa omillar orasidagi bog`liqlik qanday?",
+    "A": "Funktsional va teskari bog`liq",
+    "B": "bog`liq mavjud emas",
+    "C": "Funktsional va to`g`ri bog`liq",
+    "D": "Kuchisiz va teskari bog`liq",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar determinasiya koeffisiyenti +1ga teng bo`lsa, unda:",
+    "A": "Funktsional va to`g`ri bog`liq",
+    "B": "Funktsional va teskari bog`liq",
+    "C": "Bog`liq mavjud emas",
+    "D": "Kuchsiz va teskari bog`liq",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar X va Y omillar o`rtasida korrelyatsiya koeffitsienti +1 ga teng bo`lsa omillar orasidagi bog`liqlik qanday?",
+    "A": "Funktsional va to`g`ri bog`liq",
+    "B": "Funktsional va teskari bog`liq",
+    "C": "Bog`liq mavjud emas",
+    "D": "Kuchsiz va teskari bog`liq",
+    "javob": "A"
+  },
+  {
+    "savol": "Ekonometrik usullar va modellar ahamiyati quyidagilardan iborat:",
+    "A": "Hamma javoblar to`g`ri",
+    "B": "Hisoblash ishlarini mexanizatsiyalash va avtomatlashtirish bilan birga, aqliy mehnatni engillashtiradi va iqtisodiy soha xodimlarning mehnatini ilmiy asosda tashkil etadi va boshqaradi",
+    "C": "Iqtisodiyotning kelgusidagi rivojlanishini oldindan aytib berib tuzilgan prognozlarni umumiy amalga oshirish vaqtida ayrim tuzatishlarni kiritish imkonini beradi",
+    "D": "Iqtisodiy va tabiiy fanlarni rivojlantirishda etakchi vosita bo`lib xizmat qiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Juft korrelyatsiya koeffitsienti qiymatining 1,12 ga teng bo`lishi",
+    "A": "Hisob-kitoblardagi xatoliklarni ko`rsatadi",
+    "B": "Sust bog`lanishlarni ko`rsatadi",
+    "C": "Zich bog`lanishlarni ko`rsatadi",
+    "D": "Teskari bog`lanishlarni ko`rsatadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Juft korrelyatsiya koeffitsienti qiymatining -1,12 ga teng bo`lishi",
+    "A": "Hisob-kitoblardagi xatoliklarni ko`rsatadi",
+    "B": "Sust bog`lanishlarni ko`rsatadi",
+    "C": "Zich bog`lanishlarni ko`rsatadi",
+    "D": "Teskari bog`lanishlarni ko`rsatadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Juft korrelyatsiya koeffitsienti qiymatining 2,12 ga teng bo`lishi",
+    "A": "Hisob-kitoblardagi xatoliklarni ko`rsatadi",
+    "B": "Sust bog`lanishlarni ko`rsatadi",
+    "C": "Zich bog`lanishlarni ko`rsatadi",
+    "D": "Teskari bog`lanishlarni ko`rsatadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar korrelyatsiya koeffitsiyenti 0.5 teng bo`lsa, unda:",
+    "A": "Hisoblangan korrelyatsiya koeffitsiyentini ahamiyatini Styudent mezoni yordamida tekshirish lozim",
+    "B": "Omillararo bog`lanish yuqori darajali mezoni yordamida tekshirish lozim",
+    "C": "Omillararo bog`lanish o`rta darajali deb hisoblanadi",
+    "D": "Omillararo bog`lanish yo`q deb hisoblanadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Olingan modelning koeffisiyentlari ahamiyatli deb hisoblanadi",
+    "A": "Hisoblangan Styudent koeffisiyenti jadvaldagi qiymatidan ko`p bo`lsa",
+    "B": "Hisoblangan Styudent koeffisiyenti jadvaldagi qiymatidan kam bo`lsa",
+    "C": "Hisoblangan Styudent koeffisiyenti jadvaldagi qiymatiga teng bo`lsa",
+    "D": "Hisoblangan Styudent koeffisiyenti 0 ga teng bo`lsa",
+    "javob": "A"
+  },
+  {
+    "savol": "Juft regressiya parametrlarini aniqlashda normal tenglamalarda nechta tenglama qatnashadi?",
+    "A": "Ikkita tenglama",
+    "B": "Bitta tenglama",
+    "C": "Uchta tenglama",
+    "D": "Cheksiz ko`p tenglama",
+    "javob": "A"
+  },
+  {
+    "savol": "Ekonometrik modellashtirish bosqichlaridan birinchi bosqichni aniqlang",
+    "A": "Iqtisodiy jarayon har tomonlama nazariy, sifat jihatdan tahlil qilinadi va uning parametrlari, ichki va tashqi informatsion aloqalar, ishlab chiqarish resurslari, rejalashtirish davri kabi ko`rsatkichlar aniqlanadi",
+    "B": "Bosqichda izlanayotgan noma`lum o`zgaruvchilar nima, qanday maqsadni ko`zda tutadi, natija nimalarga olib keladi kabi savollar aniqlangan davri kabi ko`rsatkichlar aniqlanadigan bo`lishi kerak",
+    "C": "Modellashtirilayotgan jarayonning ekonometrik modeli tenglamalari va tengsizliklar tizimi shaklida ifodalanadi;",
+    "D": "Tuzilgan ekonometrik modelning miqdoriy echimini aniqlaydigan usul tanlanadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Kоrrеlyatsiоn bоg`lаnish оmillаr sоni bo`yichа:",
+    "A": "Juft, ko`p оmilli bo`lаdi",
+    "B": "To`g`ri chiziqli, egri chiziqli bo`lаdi",
+    "C": "Kuchsiz, o`rtаchа, zich bo`lаdi",
+    "D": "To`g`ri, tеskаri bo`lаdi",
+    "javob": "A"
+  },
+  {
+    "savol": "Korrelyatsiya koeffitsiyentlari necha xil turda bo`ladi?",
+    "A": "Juft, xususiy va ko`plikdagi",
+    "B": "Juft va doimiy ko`plikdagi",
+    "C": "Хususiy, ko`plikdagi, o`zgaruvchan",
+    "D": "Ko`plikdagi, doimiy, multikollinear",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi omillardan qaysi biri ekstensiv o`sishga mansub?",
+    "A": "Kapital qo`ymalarini ko`paytirish va ishlab chiqarishning shu asosda miqdoran o`sishi",
+    "B": "Fan – texnika yutuqlarining joriy qilinishi",
+    "C": "Mehnatni tashkil etishni takomillashtirishning shu asosda miqdoran o`sishi",
+    "D": "Mahsulotning iste`mol xususiyatini yaxshilash",
+    "javob": "A"
+  },
+  {
+    "savol": "Ikki va undan ortiq o`zgaruvchilar ishtirok etuvchi regressiya nima deb ataladi?",
+    "A": "Ko`plikdagi regressiya",
+    "B": "Aralash regressiya",
+    "C": "Tenglamalar tizimi ko`rinishidagi regressiya",
+    "D": "Ko`rsatkichli regressiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Natijaviy ko`rsatkich va unga ta`sir etuvchi omil o`rtasidagi bog`lanishning zichligini aniqlovchi koeffisiyenti:",
+    "A": "Korrelyasiya koeffisiyenti",
+    "B": "Styudent koeffisiyenti",
+    "C": "Elastik koeffisiyenti",
+    "D": "Doimiy koeffisiyent",
+    "javob": "A"
+  },
+  {
+    "savol": "Ekonometrik modelda qatnashadigan omillarni tanlashda qo`llanadigan usuli:",
+    "A": "Korrelyatsion tahlil usuli",
+    "B": "Regression tahlil usuli",
+    "C": "Ekstrapolyatsiya usuli",
+    "D": "Prognoz usuli",
+    "javob": "A"
+  },
+  {
+    "savol": "Oddiy regressiyada determinatsiya koeffisiyenti nimaga teng bo`ladi?",
+    "A": "Korrelyatsiya koeffisiyentining kvadratiga",
+    "B": "Tenglama parametrlari yig`indisiga",
+    "C": "Elastiklik koeffisiyentining kvadratiga",
+    "D": "Tenglama o`zgaruvchilari yig`indisiga",
+    "javob": "A"
+  },
+  {
+    "savol": "Ekonometrik modelni sifati",
+    "A": "Korrеlyatsiya koeffitsiеnti va dеtеrminatsiya koeffitsiеnti yordamida baholanadi",
+    "B": "Approksimatsiya xatoligi va Fishеr mеzoni yordamida baholanadi",
+    "C": "Styudеnt mеzoni bo`yicha baholanadi",
+    "D": "Darbin-Uotson mеzoni yordamida baholanadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar X va Y omillar o`rtasida korrelyatsiya koeffitsienti -0,95 ga teng bo`lsa omillar orasidagi bog`liqlik qanday?",
+    "A": "Kuchli va teskari bog`liq",
+    "B": "Kuchli va to`g`ri bog`liq",
+    "C": "Kuchsiz va to`ri bog`liq",
+    "D": "Kuchsiz va teskari bog`liq",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar X va Y omillar o`rtasida korrelyatsiya koeffitsienti +0,95 ga teng bo`lsa omillar orasidagi bog`liqlik qanday?",
+    "A": "Kuchli va to`g`ri bog`liq",
+    "B": "Kuchsiz va to`ri bog`liq",
+    "C": "Kuchli va teskari bog`liq",
+    "D": "Kuchsiz va teskari bog`liq",
+    "javob": "A"
+  },
+  {
+    "savol": "r=0.3 bo`lsa, chiziqli korrelatsion bog`liqlik qanday bo`ladi?",
+    "A": "kuchsiz",
+    "B": "o`rtachadan zichroq",
+    "C": "o`rta",
+    "D": "sust",
+    "javob": "A"
+  },
+  {
+    "savol": "Korrelyatsion bog`lanish zichligi bo`yicha:",
+    "A": "Kuchsiz, o`rtacha, zich bo`ladi",
+    "B": "Тo`g`ri chiziqli, egri chiziqli bo`ladi",
+    "C": "Тo`g`ri chiziqli, teskari chiziqli bo`ladi",
+    "D": "Juft, ko`p omilli bo`ladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Normal tenglamalar tizimida qanday parametrlar ishtirok etadi?",
+    "A": "Kuzatuvlar soni, natijaviy o`zgaruvchi, ta`sir etuvchi o`zgaruvchi",
+    "B": "Natijaviy o`zgaruvchi va ta`sir etuvchi o`zgaruvchi",
+    "C": "Kuzatuvlar soni va tenglamadagi ta`sir etuvchi o`zgaruvchilar",
+    "D": "Kuzatuvlar soni va ta`sir etuvchi o`zgaruvchilarning kvadrat qiymatlari",
+    "javob": "A"
+  },
+  {
+    "savol": "Fiktiv o`zgaruvchilar bilan qanday operatsiyalarni amalga oshirib bo`lmaydi?",
+    "A": "Logarifmlash operatsiyasini",
+    "B": "Modeldan chiqarib yuborishni",
+    "C": "Boshqa o`zgaruvchiga ko`paytirish",
+    "D": "Modelga kiritish",
+    "javob": "A"
+  },
+  {
+    "savol": "Model soʼzi –",
+    "A": "lotincha modulus soʼzidan olingan boʼlib, keyingi degan maʼnoni anglatadi",
+    "B": "lotincha modulus soʼzidan olingan boʼlib, oʼlchov, meʼyor degan maʼnoni anglatadi",
+    "C": ".lotincha modulus soʼzidan olingan boʼlib, oldingi, orqaga degan maʼnoni anglatadi",
+    "D": "lotincha modulus soʼzidan olingan boʼlib, nusxa degan maʼnoni anglatadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ekonometrik modellashtirish bosqichlaridan beshinchi bosqichni aniqlang",
+    "A": "Masalani echish uchun kerak bo`lgan barcha iqtisodiy ma`lumotlar to`planadi",
+    "B": "Olingan ma`lumotlar statistik tahlil qilinib, kompyuterda tanlangan usul va dastur orqali qo`yilgan vazifa echiladi",
+    "C": "Olingan natija iqtisodiy tahlil qilinadi va optimal variant tanlanadi",
+    "D": "Tuzilgan iqtisodiy-matematik modelning miqdoriy echimini aniqlaydigan usul tanlanadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Iqtisodiy jarayonlarni tenglamalar, tengsizliklar, funksional, logik sxemalar orqali ifodalash - bu:",
+    "A": "Matematik modellashtirish",
+    "B": "Mantiqiy modellashtirish",
+    "C": "Statistik modellashtirish",
+    "D": "Iqtisodiy modellashtirish deb ataladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ekonometrikaga kirish fani bu:",
+    "A": "Matematika, iqtisodiyot va statistika sintezi",
+    "B": "Matematika va iqtisodiyot sintezi",
+    "C": "Matematika va statistika sintezi",
+    "D": "Ehtimollar nazariyasi va iqtisodiyot sintezi",
+    "javob": "A"
+  },
+  {
+    "savol": "O`rtacha mehnat unumdorligi nimani ko`rsatadi?",
+    "A": "Mehnat xarajati oshib borganda o`rtacha mehnat unumdorligi pasayib boradi",
+    "B": "Mehnat xarajati oshib borganda o`rtacha mehnat unumdorligi oshadi",
+    "C": "Mehnat xarajati oshib borganda o`rtacha mehnat unumdorligi o`zgarmaydi",
+    "D": "O`rtacha mehnat unumdorligi oshib borganda mehnat xarajati pasayib boradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Mehnat xarajatlari bo`yicha yalpi mahsulotning elastiklik koeffitsienti",
+    "A": "Mehnat xarajatlari bir foizga o`zgarganda, mahsulot ishlab chiqarish qiymati necha foizga o`zgarishini ko`rsatadi",
+    "B": "Mehnat xarajatlari bir birlikka o`zgarganda, mahsulot ishlab chiqarish qiymati necha birlikka o`zgarishini ko`rsatadi",
+    "C": "Mehnat xarajatlari bir foizga o`zgarganda, mahsulot ishlab chiqarish qiymati o`zgarmasligini ko`rsatadi",
+    "D": "Mehnat xarajatlari bir birlikka o`zgarganda, mahsulot ishlab chiqarish qiymati necha foizga o`zgarishini ko`rsatadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ekonometrik modellar iqtisodiy jarayonlarini",
+    "A": "Miqdoriy jihatdan o`rganadi",
+    "B": "Psixologik jihatdan o`rganadi",
+    "C": "Analitik jihatdan o`rganadi",
+    "D": "Sifat jihatdan o`rganadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Endogen o`zgaruvchi – bu:",
+    "A": "Model ichida aniqlanadi",
+    "B": "Model tashqarisida aniqlanadi",
+    "C": "Modelga kiritiladigan qo`shimcha o`zgaruvchi",
+    "D": "Modelga ta`sir ko`rsatmaydigan o`zgaruvchi",
+    "javob": "A"
+  },
+  {
+    "savol": "Monandlik nima?",
+    "A": "Modellarning real obʼektga sifatli va miqdoriy mosligi",
+    "B": "Modellarning real obʼektga miqdoriy mosligi",
+    "C": "Modellarning real obʼektga sifatli mosligi",
+    "D": "Obʼekt xossalarini ideal aks ettirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Ekonometrik modellashtirish bosqichlaridan uchinchi bosqichni aniqlang:",
+    "A": "Modellashtirilayotgan jarayonning ekonometrik modeli tenglamalari va tengsizliklar tizimi shaklida ifodalanadi;",
+    "B": "Tuzilgan ekonometrik modelning miqdoriy echimini aniqlaydigan usul tanlanadi",
+    "C": "Bosqichda izlanayotgan noma`lum o`zgaruvchilar nima, qanday maqsadni ko`zda tutadi, natija nimalarga olib keladi kabi savollar aniqlangan bo`lishi kerak",
+    "D": "Iqtisodiy jarayon har tomonlama nazariy, sifat jihatdan tahlil qilinadi va uning parametrlari, ichki va tashqi informatsion aloqalar, ishlab chiqarish resurslari, rejalashtirish davri kabi ko`rsatkichlar aniqlanadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Modelni verifikatsiyalash - bu:",
+    "A": "Modelning adekvatligini va aniqligini tekshirish",
+    "B": "Kerakli statistik ma`lumotlarni yig`ish",
+    "C": "Modelning shaklini, tuzilishini va uning bog`lanishlar shaklini ta`riflash",
+    "D": "Modelning parametrlarni statistik baholash",
+    "javob": "A"
+  },
+  {
+    "savol": "Modelni idensifikatsiyalash-bu:",
+    "A": "Modelning parametrlarini statistik baholash",
+    "B": "Kerakli statistik ma`lumotlarni yig`ish",
+    "C": "Modelning ma`lumotlar aniqligini tekshirish",
+    "D": "Modelning shaklini, tuzilishini va uning bog`lanishlar shaklini ta`riflash",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar elastiklik koeffitsiyenti -0,16 ga teng bo`lsa:",
+    "A": "Natijaviy ko`rsatkich 16 foizga kamayadi",
+    "B": "Natijaviy ko`rsatkich 160 foizga kamayad",
+    "C": "Ta`sir etuvchi ko`rsatkichni 16 foizga kamaytirish kerak",
+    "D": "Ta`sir etuvchi ko`rsatkichni 16 foizga oshirish kerak",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar elastiklik koeffitsiyenti + 0,16 ga teng bo`ls",
+    "A": "Natijaviy ko`rsatkich 16 foizga ortadi",
+    "B": "Natijaviy ko`rsatkich 160 foizga ortadi",
+    "C": "Ta`sir etuvchi ko`rsatkichni 16 foizga kamaytirish kerak",
+    "D": "Ta`sir etuvchi ko`rsatkichni 16 foizga oshirish kerak",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar elastiklik koeffitsiyenti -0,05 ga teng bo`ls",
+    "A": "Natijaviy ko`rsatkich 5 foizga kamayadi",
+    "B": "Natijaviy ko`rsatkich 50 foizga ortadi",
+    "C": "Ta`sir etuvchi ko`rsatkichni 15 foizga kamaytirish kerak",
+    "D": "Ta`sir etuvchi ko`rsatkichni 15 foizga oshirish kerak",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar elastiklik koeffitsiyenti + 0,05 ga teng bo`ls",
+    "A": "Natijaviy ko`rsatkich 5 foizga ortadi",
+    "B": "Natijaviy ko`rsatkich 50 foizga ortadi",
+    "C": "Ta`sir etuvchi ko`rsatkichni 15 foizga kamaytirish kerak",
+    "D": "Ta`sir etuvchi ko`rsatkichni 15 foizga oshirish kerak",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar elastiklik koeffitsiyenti -0,08 ga teng bo`lsa:",
+    "A": "Natijaviy ko`rsatkich 8 foizga kamayad",
+    "B": "Natijaviy ko`rsatkich 80 foizga kamayad",
+    "C": "Ta`sir etuvchi ko`rsatkichni 8 foizga kamaytirish kerak",
+    "D": "Ta`sir etuvchi ko`rsatkichni 8 foizga oshirish kerak",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar elastiklik koeffitsiyenti -0,09 ga teng bo`lsa:",
+    "A": "Natijaviy ko`rsatkich 9 foizga kamayadi",
+    "B": "Natijaviy ko`rsatkich 90 foizga kamayadi",
+    "C": "Ta`sir etuvchi ko`rsatkichni 9 foizga kamaytirish kerak",
+    "D": "Ta`sir etuvchi ko`rsatkichni 9 foizga oshirish kerak",
+    "javob": "A"
+  },
+  {
+    "savol": "Elastiklik koeffitsiyenti 0,02 ga teng bo`lsa:",
+    "A": "Natijaviy ko`rsatkich o`rtacha 2 foizga oshadi",
+    "B": "Ta`sir etuvchi omil o`rtacha 2 foizga oshadi",
+    "C": "Natijaviy omil o`rtacha 2 foizga kamayadi",
+    "D": "Ta`sir etuvchi omilni o`zgartirmasdan natijaviy omilni 2 foizga oshirish kerak",
+    "javob": "A"
+  },
+  {
+    "savol": "Elastiklik koeffitsiyenti 0,03 ga teng bo`lsa:",
+    "A": "Natijaviy ko`rsatkich o`rtacha 3 foizga oshadi",
+    "B": "Ta`sir etuvchi omil o`rtacha 3 foizga oshadi",
+    "C": "Natijaviy omil o`rtacha 3 foizga kamayadi",
+    "D": "Ta`sir etuvchi omilni o`zgartirmasdan natijaviy omilni 3 foizga oshirish kera",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko`plik korrelyatsiya koeffitsiyenti:",
+    "A": "Natijaviy ko`rsatkich va bir necha ta`sir etuvchi omil o`rtasidagi bog`lanish zichligini o`lchaydi",
+    "B": "Natijaviy ko`rsatkich va bitta ta`sir etuvchi omil o`rtasidagi bog`lanish zichligini o`lchaydi",
+    "C": "Bir necha natijaviy ko`rsatkich va bir necha ta`sir etuvchi omil o`rtasidagi bog`lanish zichligini o`lchaydi",
+    "D": "Bir necha natijaviy ko`rsatkich va bitta ta`sir etuvchi omil o`rtasidagi bog`lanish zichligini o`lchaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Determinatsiya koeffitsiyenti quyidagini aniqlaydi:",
+    "A": "Natijaviy ko`rsatkichning necha foizga modelga kiritilgan omillardan tashkil topishini",
+    "B": "Omillarning zich bog`langanligini",
+    "C": "Omillar orasidagi to`g`ri yoki teskari aloqa mavjudligini",
+    "D": "Regressiya tenglamasida natijaviy ko`rsatkichga eng kuchli ta`sir etuvchi omilni",
+    "javob": "A"
+  },
+  {
+    "savol": "Darbin-Uotson mezoni nimani ko`rsatadi?",
+    "A": "Natijaviy omil qatorida avtokorrelyatsiya mavjudligini",
+    "B": "Natijaviy omil qatorida avtoregressiyaning mavjudligini",
+    "C": "Omillar regression modelga to`g`ri kiritilganligini",
+    "D": "Regressiya tenglamasining real jarayonga mos kelishini",
+    "javob": "A"
+  },
+  {
+    "savol": "Regressiya tenglamasi – bu:",
+    "A": "Natijaviy omil va unga ta`sir etuvchi omillar orasidagi bog`lanishning shakli",
+    "B": "Тa`sir etuvchi omillar orasidagi munosabati",
+    "C": "Asosiy omil va unga ta`sir etuvchi omillar orasidagi bog`lanish zichligi",
+    "D": "Omillar orasidagi munosabatni ko`rsatmaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ekonometrik modelda ko`rsatkichlar va omillarni o`lchov birligini ifodalash shakllaritanlang",
+    "A": "Natural ifodalangan miqdorlar, pulda ifodalangan miqdorlar, dinamika va tuzilmalarning nisbiy miqdorlari, fiktiv o`zgaruvchilar",
+    "B": "Natural ifodalangan miqdorlar, dinamika va tuzilmalarning nisbiy miqdorlari, fiktiv o`zgaruvchilar",
+    "C": "Natural ifodalangan miqdorlar va fiktiv o`zgaruvchilar",
+    "D": "Pulda ifodalangan miqdorlar hamda dinamika va tuzilmalarning nisbiy miqdorlari ko`rinishidagi o`zgaruvchilar",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar determinasiya koeffisiyenti nolga teng bo`lsa, u holda Fisher mezoni qiymati:",
+    "A": "Nolga teng bo`ladi",
+    "B": "Birga teng bo`ladi",
+    "C": "Birga teng yoki birdan katta bo`ladi",
+    "D": "Manfiy qiymat qabul qiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Regressiya koeffitsientlari qanday aniqlandi?",
+    "A": "Normal tenglamalar sistemasi yordamida",
+    "B": "O`zaro bog`liq tengamalar sistemasi yordamida",
+    "C": "Rekursiv tenglamalar sistemasi yordamida",
+    "D": "Bog`liq bo`lmagan tenglamalar sistemasi yordamida",
+    "javob": "A"
+  },
+  {
+    "savol": "r=0,5 bo`lsa, chiziqli korrelatsion bog`liqlik qanday?",
+    "A": "o`rta",
+    "B": "kuchsiz",
+    "C": "o`rtachadan zichroq",
+    "D": "sust",
+    "javob": "A"
+  },
+  {
+    "savol": "r=0.8 bo`lsa, chiziqli korrelatsion bog`liqlik qanday?",
+    "A": "o`rtachadan zichroq",
+    "B": "o`rta",
+    "C": "sust",
+    "D": "ixtiyoriy",
+    "javob": "A"
+  },
+  {
+    "savol": "Matematik statistika usullarini qanday hollarda qo`llash mumkin?",
+    "A": "O`zgarishi tasodifiy jarayon sifatida deb tasavvur qilinadi",
+    "B": "Jarayon ilmiy abstraksiya yordamida ifodalanadi",
+    "C": "Jadval shaklida ifodalash",
+    "D": "Eng yaxshilarini tanlab olish",
+    "javob": "A"
+  },
+  {
+    "savol": "Chiziqsiz modellar - bu:",
+    "A": "O`zgaruvchilarning daraja ko`rsatkichlari 1 dan farqli modellar",
+    "B": "Chiziqli tenglamalar ko`rinishida ifodalangan modellar",
+    "C": "Maqsad funksiyasi chiziqli funksiya ko`rinishidagi modellar",
+    "D": "O`zgaruvchilarning daraja ko`rsatkichlari 1 ga teng modellar",
+    "javob": "A"
+  },
+  {
+    "savol": "Chiziqli modellar - bu:",
+    "A": "O`zgaruvchilarning daraja ko`rsatkichlari 1 ga teng modellar",
+    "B": "O`zgaruvchilarning daraja ko`rsatkichlari 1 dan farqli modellar",
+    "C": "O`zgaruvchilarning daraja ko`rsatkichlari 0 ga teng modellar",
+    "D": "O`zgaruvchilarning daraja ko`rsatkichlari kasr ko`rinishidagi modellar",
+    "javob": "A"
+  },
+  {
+    "savol": "Additiv funksiya qanday ko`rinishda bo`ladi?",
+    "A": "O`zgaruvchilarning yig`indisi ko`rinishida",
+    "B": "O`zgaruvchilarning ko`paytmasi ko`rinishida",
+    "C": "O`zgaruvchilarning ayirmasi ko`rinishida",
+    "D": "O`zgaruvchilarning bo`linmasi ko`rinishida",
+    "javob": "A"
+  },
+  {
+    "savol": "Variant – bu:",
+    "A": "O`zgaruvchi belgining konkret ifodasi",
+    "B": "Belgining o`zgarishidir",
+    "C": "O`zgaruvchi belgining miqdorlari majmuasi",
+    "D": "Qatorning ekstremal qiymatlari farqi",
+    "javob": "A"
+  },
+  {
+    "savol": "Model yordamida nima o`rganiladi?",
+    "A": "Ob`ektning xossalari",
+    "B": "Ob`ektning o`lchami va hajmi",
+    "C": "Ob`ektning massasi",
+    "D": "Ob`ektning joylashuvi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ekonometrik modellashtirish bosqichlaridan oltinchi bosqichni aniqlang:",
+    "A": "Olingan ma`lumotlar statistik tahlil qilinib, kompyuterda tanlangan usul va dastur orqali qo`yilgan vazifa echiladi",
+    "B": "Masalani echish uchun kerak bo`lgan barcha iqtisodiy ma`lumotlar to`planadi",
+    "C": "Olingan natija iqtisodiy tahlil qilinadi va optimal variant tanlanadi",
+    "D": "Tuzilgan ekonometrik modelning miqdoriy echimini aniqlaydigan usul tanlanadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Styudent mezoni nimani aniqlaydi:",
+    "A": "Olingan modeldagi koeffisiyentlarning ahamiyatliligini, korrelyasiya koeffisiyentining ishonchliligini",
+    "B": "Olingan modelning o`rganilayotgan jarayonga mosligini",
+    "C": "Omillar orasidagi bog`lanish zichligini",
+    "D": "Korrelyasiya koeffisiyentining ishonchliligini",
+    "javob": "A"
+  },
+  {
+    "savol": "Fisher mezoni quyidagini ko`rsatadi:",
+    "A": "Olingan modelning o`rganilayotgan jarayonga mosligini",
+    "B": "Omillar orasidagi bog`lanish zichligini",
+    "C": "Olingan modeldagi koeffitsiyentlarning ahamiyatliligini",
+    "D": "Korrelyatsiya koeffitsiyentining ishonchliligini",
+    "javob": "A"
+  },
+  {
+    "savol": "Ekonometrik modellashtrish bosqichlaridan ettinchi bosqichni aniqlang",
+    "A": "Olingan natija iqtisodiy tahlil qilinadi va optimal variant tanlanadi",
+    "B": "Masalani echish uchun kerak bo`lgan barcha iqtisodiy ma`lumotlar to`planadi",
+    "C": "Olingan ma`lumotlar statistik tahlil qilinib, kompyuterda tanlangan usul va dastur orqali qo`yilgan vazifa echiladi",
+    "D": "Tuzilgan iqtisodiy-matematik modelning miqdoriy echimini aniqlaydigan usul tanlanadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ikki omil o`rtasida korrelyasiya koeffisiyenti -0,037 ga teng bo`lsa, u holda",
+    "A": "Omillar o`rtasida sust teskari bog`lanish mavjud",
+    "B": "Omillar o`rtasida sust bog`lanish mavjud",
+    "C": "Omillar o`rtasida o`rtacha teskari bog`lanish mavjud",
+    "D": "Omillar o`rtasida zich teskari bog`lanish mavjud",
+    "javob": "A"
+  },
+  {
+    "savol": "Ikki omil o`rtasida korrelyasiya koeffisiyenti 0,037 ga teng bo`lsa, u holda",
+    "A": "Omillar o`rtasida sust to`g`ri bog`lanish mavjud",
+    "B": "Omillar o`rtasida sust bog`lanish mavjud",
+    "C": "Omillar o`rtasida o`rtacha teskari bog`lanish mavjud",
+    "D": "Omillar o`rtasida zich teskari bog`lanish mavjud",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar ikkita omil o`rtasida korrelyatsiya koeffitsienti noldan kichik bo`lsa, u holda",
+    "A": "Omillar o`rtasida teskari bog`lanish mavjud",
+    "B": "Omillar o`rtasida to`g`ri bog`lanish mavjud",
+    "C": "Omillar o`rtasida bog`lanish mavjud emas",
+    "D": "Omillar o`rtasida zich bog`lanish mavjud",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar ikkita omil o`rtasida korrelyatsiya koeffitsienti noldan katta bo`lsa, u holda",
+    "A": "Omillar o`rtasida to`g`ri bog`lanish mavjud",
+    "B": "Omillar o`rtasida teskari bog`lanish mavjud",
+    "C": "Omillar o`rtasida bog`lanish mavjud emas",
+    "D": "Omillar o`rtasida zich bog`lanish mavjud",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar korrelyatsiya koeffitsiyenti birga teng bo`lsa, unda:",
+    "A": "Omillararo bog`lanish funksional deb hisoblanadi",
+    "B": "Omillararo bog`lanish kuchsiz deb hisoblanadi",
+    "C": "Omillararo bog`lanish o`rta darajali deb hisoblanadi",
+    "D": "Omillararo bog`lanish yo`q deb hisoblanadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Approksimatsiya o`rtacha xatosi nolga teng bo`lsa, unda:",
+    "A": "Omillararo bog`lanish funksional deb hisoblanadi",
+    "B": "Omillararo bog`lanish kuchsiz deb hisoblanadi",
+    "C": "Omillararo bog`lanish o`rta darajali deb hisoblanadi",
+    "D": "Omillararo bog`lanish yo`q deb hisoblanadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ekonometrikani asosiy maqsadi?",
+    "A": "Omillararo bog`lanishlarni, o`zgarish qonuniyatlarni va tendensiyalarni o`rganish",
+    "B": "Optimallashtirish masalalarni o`rganish",
+    "C": "Тarmoqlararo modellarni o`rganish",
+    "D": "Ehtimollarni o`rganish",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi hollarda korrеlyatsiya indеksi hisoblanadi?",
+    "A": "Omillararo chiziqsiz bog`lanishlarni baholash uchun",
+    "B": "Avtokorrеlyatsiya mavjudligini baholash uchun",
+    "C": "Avtorеgrеssiya mavjudligini baholash uchun",
+    "D": "Omillararo chiziqli bog`lanishlarni baholash uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "Ekonometrik model qo`yidagilarni tavsif qiladi:",
+    "A": "Omillararo stoxastik bog`lanishlarni",
+    "B": "Omillararo funksional bog`lanishlarni",
+    "C": "Raqamli ma`lumotlar to`plamini",
+    "D": "O`zgaruvchilarning tuzilmasini",
+    "javob": "A"
+  },
+  {
+    "savol": "Matematik statistika usullariga qaysi usullar kirmaydi:",
+    "A": "Optimallashtirish usuli",
+    "B": "Regression tahlil usuli",
+    "C": "Korrelyatsion tahlil usuli",
+    "D": "Dispersion tahlil usuli",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar tumanda 18 ta fermer xo`jaligining 3 yillik asosiy ko`rsatkichlari bo`yicha ma`lumotlari olingan bo`lsa – bu",
+    "A": "Panel ma`lumotlar",
+    "B": "Vaqtli qatorlar ma`lumotlari",
+    "C": "3 yillik fazoviy ma`lumotlar",
+    "D": "Oddiy ma`lumotla",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar tumanda 20 ta fermer xo`jaligining 5 yillik asosiy ko`rsatkichlari bo`yicha ma`lumotlari olingan bo`lsa – bu",
+    "A": "Panel ma`lumotlar",
+    "B": "Vaqtli qatorlar ma`lumotlari",
+    "C": "5 yillik fazoviy ma`lumotlar",
+    "D": "Oddiy ma`lumotlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar tumanda 24 ta fermer xo`jaligining 6 yillik asosiy ko`rsatkichlari bo`yicha ma`lumotlari olingan bo`lsa – bu",
+    "A": "Panel ma`lumotlar",
+    "B": "Vaqtli qatorlar ma`lumotlari",
+    "C": "6 yillik fazoviy ma`lumotlar",
+    "D": "Oddiy ma`lumotlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Chiziqsiz ko`rinishda ekonometrik model",
+    "A": "Parabola, giperbola, darajali funksiya, ko`rsatkichli funksiya, trigonometrik funksiya ko`rinishida bo`lishi mumkin",
+    "B": "Chiziqli, parabola, giperbola, darajali funksiya ko`rinishida bo`lishi mumkin",
+    "C": "Fure qatorlari, chiziqli, parabola, giperbola, darajali funksiya ko`rinishida bo`lishi mumkin",
+    "D": "Fure qatorlari, chiziqli, parabola ko`rinishida bo`lishi mumkin",
+    "javob": "A"
+  },
+  {
+    "savol": "Variatsiya chegarasi – bu:",
+    "A": "Qatorning ekstremal qiymatlari farqi",
+    "B": "O`zgaruvchi belgining miqdorlari majmuasi",
+    "C": "O`zgaruvchi belgining konkret ifodasi",
+    "D": "Belgining o`zgarishidir",
+    "javob": "A"
+  },
+  {
+    "savol": "Kobba-Duglas ishlab chiqarish funktsiyasida chekli fondlar qaytimi – bu:",
+    "A": "Qo`shimcha mahsulot ishlab chiqarishga ketadigan qo`shimcha fondlar qiymati",
+    "B": "Bir birlik mahsulot ishlab chiqarishga ketadigan o`rtacha fondlar qiymati",
+    "C": "Bir-birlik mahsulotni ishlab chiqarishga ketadigan to`liq xarajatlar",
+    "D": "Reja ko`rsatkichlarini bajarmaslik bilan bog`liq xarajatlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Y ning tanlanmadagi qiymati va regressiya tenglamasi yordamida topilgan qiymati orasidagi farq nima deb ataladi?",
+    "A": "Qoldiq",
+    "B": "Xatolik",
+    "C": "Elastiklik",
+    "D": "Ekzogen",
+    "javob": "A"
+  },
+  {
+    "savol": "“Ekonometrika” atamasini fanga kiritgan olimning nomini ko`rsating?",
+    "A": "R.Frish",
+    "B": "S.Fisher",
+    "C": "K.Grenjer",
+    "D": "P.Duglas",
+    "javob": "A"
+  },
+  {
+    "savol": "Ekonometrik modelning shaklini tanlashda qo`llanadigan usul:",
+    "A": "Regression tahlil usuli",
+    "B": "Korrelyatsion tahlil usuli",
+    "C": "Ekstrapolyatsiya usuli",
+    "D": "Prognoz usuli",
+    "javob": "A"
+  },
+  {
+    "savol": "Regressiya tahlilining mohiyati nimadan iborat?",
+    "A": "Regressiya tenglamalarining noma`lum parametrlarini aniqlashdan",
+    "B": "Regressiya tenglamalariga qancha o`zgaruvchini kiritishni aniqlashdan",
+    "C": "Regressiya tenglamalarida kuzatuvlar sonini aniqlashdan",
+    "D": "Regressiya tenglamalarining umumiy ahamiyatini aniqlashdan",
+    "javob": "A"
+  },
+  {
+    "savol": "Kobba-Duglas ishlab chiqarish funktsiyasida elastiklik koeffitsientlarning yig`indisi A=1 bo`lsa:",
+    "A": "Resurslarning m martaga ko`payishi, ishlab chiqarish hajmini ham m martaga ko`payishini ko`rsatadi",
+    "B": "Resurslarning m martaga ko`payishi, ishlab chiqarish hajmini m martadan oshiq ko`payishini ko`rsatadi",
+    "C": "Resurslarning m martaga ko`payishi, ishlab chiqarish hajmini m martadan kamroq ko`payishini ko`rsatadi",
+    "D": "Resurslarning m martaga ko`payishi, ishlab chiqarish hajmi o`zgarmasligini ko`rsatadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Kobba-Duglas ishlab chiqarish funktsiyasida elastiklik koeffitsientlarining yig`indisi A<1 bo`lsa:",
+    "A": "Resurslarning m martaga ko`payishi, ishlab chiqarish hajmini m martadan kamroq ko`payishini ko`rsatadi",
+    "B": "Resurslarning m martaga ko`payishi, ishlab chiqarish hajmi o`zgarmasligini ko`rsatadi",
+    "C": "Resurslarning m martaga ko`payishi, ishlab chiqarish hajmini m martadan ortiq ko`payishini ko`rsatadi",
+    "D": "Resurslarning m martaga ko`payishi, ishlab chiqarish hajmini ham m martaga ko`payishini ko`rsatadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Kobba-Duglas ishlab chiqarish funktsiyasida elastiklik koeffitsientlarining yig`indisi A>1 bo`lsa:",
+    "A": "Resurslarning m martaga ko`payishi, ishlab chiqarish hajmini m martadan ortiq ko`payishini ko`rsatadi",
+    "B": "Resurslarning m martaga ko`payishi, ishlab chiqarish hajmi o`zgarmasligini ko`rsatadi",
+    "C": "Resurslarning m martaga ko`payishi, ishlab chiqarish hajmini m martadan kamroq ko`payishini ko`rsatadi",
+    "D": "Resurslarning m martaga ko`payishi, ishlab chiqarish hajmini ham m martaga ko`payishini ko`rsatadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Hodisalar bo`yicha matematik model tuzishda nimaga e`tibor berish kerak?",
+    "A": "Sabab-oqibat bog`lanishlarga",
+    "B": "Tasodifiy bog`lanishlarga",
+    "C": "Ob`ekt faoliyatining yo`nalishlariga",
+    "D": "Diskret bog`lanishlarga",
+    "javob": "A"
+  },
+  {
+    "savol": "Fiktiv ko`rsatkichlar – bu",
+    "A": "Sifatli ko`rsatkichlardan miqdoriy ko`rsatkichlarga o`tkazilgan ko`rsatkichlar",
+    "B": "Asosiy endogen ko`rsatkichlar",
+    "C": "Ta`sir etuvchi ekzogen ko`rsatkichlar",
+    "D": "Ekonometrik modelda qatnashadigan miqdoriy ko`rsatkichlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Nima sababdan regressiya modeliga binar o`zgaruvchilar kiritiladi?",
+    "A": "Sifatli o`zgaruvchilarning ta`sirini hisobga olish uchun",
+    "B": "Tasodifiy o`zgaruvchilarning ta`sirini hisobga olish uchun",
+    "C": "Oldindan aniqlangan o`zgaruvchilarning ta`sirini hisobga olish uchun",
+    "D": "Natijaviy o`zgaruvchini prognoz qiymatlarini hisoblash uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "Regressiya koeffitsiyenti ishonchliligini aniqlash:",
+    "A": "Styudent mezoni orqali",
+    "B": "Korrelyatsiya koeffitsiyenti orqali",
+    "C": "Fisher mezoni orqali",
+    "D": "Determinatsiya koeffitsiyenti orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "To`g`ri javobni toping:",
+    "A": "Styudent mezoni regressiya koeffitsientlarining ishonchliligini aniqlaydi",
+    "B": "Fisher mezoni omillar o`rtasida zichlikni aniqlaydi",
+    "C": "Darbin-Uotson mezoni multikollinearlikni aniqlaydi",
+    "D": "Determinatsiya koeffitsienti modelning adekvatligini aniqlaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Regressiya koeffitsientlarining ishonchliligini baholash uchun",
+    "A": "Styudentning t-mezoni hisob-kitob qilinadi",
+    "B": "Fisherning F-mezoni hisob-kitob qilinadi",
+    "C": "Determinatsiya koeffitsienti hisob-kitob qilinadi",
+    "D": "Elastiklik koeffitsienti hisob-kitob qilinadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qachon korrelyatsion tahlil o`tkaziladi:",
+    "A": "Ta`sir etuvchi omillar guruhidan ekonometrik modelda qatnashadigan omillarni tanlash uchun",
+    "B": "Endogen ko`rsatkichlararo bog`lanish zichligini tekshirish uchun",
+    "C": "Fiktiv ko`rsatkichlararo bog`lanish zichligini tekshirish uchun",
+    "D": "Ekonometrik modelni ahamiyatini tekshirish uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "Ekonometrik modellashtirish bosqichlaridan to`rtinchi bosqichni aniqlang",
+    "A": "Tuzilgan ekonometrik modelning miqdoriy echimini aniqlaydigan usul tanlanadi",
+    "B": "Iqtisodiy jarayon har tomonlama nazariy, sifat jihatdan tahlil qilinadi va uning parametrlari, ichki va tashqi informatsion aloqalar, ishlab chiqarish resurslari, rejalashtirish davri kabi ko`rsatkichlar aniqlanadi",
+    "C": "Bosqichda izlanayotgan noma`lum o`zgaruvchilar nima, qanday maqsadni ko`zda tutadi, natija nimalarga olib keladi kabi savollar aniqlangan bo`lishi kerak",
+    "D": "Modellashtirilayotgan jarayonning ekonometrik modeli tenglamalari va tengsizliklar tizimi shaklida ifodalanadi;",
+    "javob": "A"
+  },
+  {
+    "savol": "Diskret tasodifiy miqdorning matematik kutilishi deb, .",
+    "A": "uning barcha mumkin boʼlgan qiymatlarini mos ehtimollariga koʼpaytmalari yigʼindisiga aytiladi",
+    "B": "uning barcha mumkin boʼlgan qiymatlarini mos ehtimollariga boʼlinmalari ayirmasiga aytiladi",
+    "C": "uning barcha mumkin boʼlmagan qiymatlarini mos ehtimollariga koʼpaytmalari ayirmasiga aytiladi",
+    "D": "uning barcha mumkin boʼlgan qiymatlarini mos ehtimollariga boʼlinmalari yigʼindisiga aytiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar biror bir mahsulotga taklifning baho bo`yicha elastikligi 1 ga teng bo`lsa",
+    "A": "Ushbu mahsulot birga teng elastik bo`ladi",
+    "B": "Ushbu mahsulotni kamroq ishlab chiqarish kerak",
+    "C": "Ushbu mahsulot noelastik bo`ladi",
+    "D": "Ushbu mahsulot birga teng elastik bo`lmaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar biror bir mahsulotga taklifning baho bo`yicha elastikligi -1 ga teng bo`lsa",
+    "A": "Ushbu mahsulot birga teng elastik bo`ladi",
+    "B": "Ushbu mahsulot elastik bo`ladi",
+    "C": "Ushbu mahsulot noelastik bo`ladi",
+    "D": "Ushbu mahsulotni kamroq ishlab chiqarish kerak",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar biror bir mahsulotga taklifning baho bo`yicha elastikligi - 2,1 ga teng bo`lsa",
+    "A": "Ushbu mahsulot elastik bo`ladi",
+    "B": "Ushbu mahsulot noelastik bo`ladi",
+    "C": "Ushbu mahsulot birga teng elastik bo`ladi",
+    "D": "Ushbu mahsulotni kamroq ishlab chiqarish kerak",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar biror bir mahsulotga taklifning baho bo`yicha elastikligi 1,2 ga teng bo`lsa",
+    "A": "Ushbu mahsulot elastik bo`ladi",
+    "B": "Ushbu mahsulot noelastik bo`ladi",
+    "C": "Ushbu mahsulot birga teng elastik bo`ladi",
+    "D": "Ushbu mahsulotni kamroq ishlab chiqarish kerak",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar biror bir mahsulotga taklifning baho bo`yicha elastikligi 2,1 ga teng bo`lsa",
+    "A": "Ushbu mahsulot elastik bo`ladi",
+    "B": "Ushbu mahsulot noelastik bo`ladi",
+    "C": "Ushbu mahsulot birga teng elastik bo`ladi",
+    "D": "Ushbu mahsulotni kamroq ishlab chiqarish kerak",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar biror bir mahsulotga taklifning baho bo`yicha elastikligi 0,6ga teng bo`lsa",
+    "A": "Ushbu mahsulot noelastik bo`ladi",
+    "B": "Ushbu mahsulot elastik bo`ladi",
+    "C": "Ushbu mahsulotni kamroq ishlab chiqarish kerak",
+    "D": "Ushbu mahsulot birga teng elastik bo`ladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar biror bir mahsulotga taklifning baho bo`yicha elastikligi 0,8 ga teng bo`lsa",
+    "A": "Ushbu mahsulot noelastik bo`ladi",
+    "B": "Ushbu mahsulot elastik bo`ladi",
+    "C": "Ushbu mahsulotni kamroq ishlab chiqarish kerak",
+    "D": "Ushbu mahsulot birga teng elastik bo`ladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar biror bir mahsulotga taklifning baho bo`yicha elastikligi -0,8 ga teng bo`lsa",
+    "A": "Ushbu mahsulot noelastik bo`ladi",
+    "B": "Ushbu mahsulot elastik bo`ladi",
+    "C": "Ushbu mahsulotni kamroq ishlab chiqarish kerak",
+    "D": "Ushbu mahsulot birga teng elastik bo`ladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ekonometrik modellar qanday turlarga bo`linadi?",
+    "A": "Vaqtli qatorlar ko`rishida, ko`p omilli va tenglamalar tizimi ko`rinishida ekonometrik modellar",
+    "B": "Ko`p omilli, maqsad funksiyali va tenglamalar tizimi ko`rinishida ekonometrik modellar",
+    "C": "Faqat tenglamalar tizimi ko`rinishida ekonometrik modellar",
+    "D": "Vaqtli qatorlar ko`rishida, to`plamlar shaklidagi, ko`p omilli va tenglamalar tizimi ko`rinishida ekonometrik modellar",
+    "javob": "A"
+  },
+  {
+    "savol": "O`zavto korxonasi aksiyalari narxi dinamikasi qaysi ma`lumotlar turkumiga kiradi?",
+    "A": "Vaqtli qatorlar ma`lumotlari",
+    "B": "Tarkibiy ma`lumotlari",
+    "C": "Panel ma`lumotlari",
+    "D": "Fazoviy ma`lumotlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Mediana deb, .",
+    "A": "variatsion qatorni variantalar soni teng boʼlgan ikki qismga ajratadigan variantaga aytiladi",
+    "B": "variatsion qatorni soni teng boʼlgan ikki qismga ajratadigan variantaga aytiladi",
+    "C": "variatsion qatorni variantalar soni teng boʼlgan ikki qismga aytiladi",
+    "D": "variatsion qatorni variantalar soni teng boʼlgan uch qismga ajratadigan variantaga aytiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Eng katta va eng kichik variantalar orasidagi ayirma nima deyiladi?",
+    "A": "Variatsion qatorning kengligi",
+    "B": "Tanlanma medianasi",
+    "C": "O`rtacha kvadratik og`ishi",
+    "D": "Nisbiy chastota",
+    "javob": "A"
+  },
+  {
+    "savol": "Korrelyasiya matrisasida qaysi turdagi korrelyasiya koeffisiyentlari keltiriladi?",
+    "A": "Xususiy va juft",
+    "B": "Xususiy va ko`plik",
+    "C": "Ko`plikdagi va juft",
+    "D": "Xususiy va individual",
+    "javob": "A"
+  },
+  {
+    "savol": "Giperbola ko`rinishda ekonomеtrik modеl tanlang",
+    "A": "y=a+b/x",
+    "B": "y=a+bx+cx^2",
+    "C": "y=a+bx",
+    "D": "y=a+bx+cx",
+    "javob": "A"
+  },
+  {
+    "savol": "Parabola ko`rinishda ekonomеtrik modеl tanlang",
+    "A": "y=a+bx+cx^2",
+    "B": "y=a+bx",
+    "C": "y=a+b/x",
+    "D": "y=a+bx+cx",
+    "javob": "A"
+  },
+  {
+    "savol": "Kobba-Duglas ishlab chiqarish funktsiyasida quyidagi omillar qatnashishi shart:",
+    "A": "Yalpi mahsulot, mehnat harajati, asosiy fondlar",
+    "B": "Asosiy fondlar",
+    "C": "Mehnat harajati, asosiy fondlar",
+    "D": "Yalpi mahsulot, asosiy fondlar",
+    "javob": "A"
+  },
+  {
+    "savol": "r=0,85 bo`lsa, chiziqli korrelatsion bog`liqlik qanday?",
+    "A": "zich",
+    "B": "kuchsiz",
+    "C": "o`rtacha",
+    "D": "o`rtachadan kuchli",
+    "javob": "A"
+  },
+  {
+    "savol": "Multikollinearlik - bu:",
+    "A": "Тa`sir etuvchi omillar orasida zich aloqaning mavjudligi",
+    "B": "Natijaviy omil bilan ta`sir etuvchi omillar orasidagi aloqaning mavjud emasligi",
+    "C": "Natijaviy omil bilan ta`sir etuvchi omillar orasidagi aloqaning 0 va 0,5 oraliqdaligi",
+    "D": "Хususiy korrelyatsiya koeffitsiyenti -1 va 0 oralig`ida bo`lishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Statistikada to`plamning quyidagi turlari mavjud:",
+    "A": "Тanlama, asosiy, cheklangan, cheksiz",
+    "B": "Asosiy, cheklangan",
+    "C": "Тanlama, cheklangan",
+    "D": "Cheksiz, asosiy, mustaqil, qo`shimcha",
+    "javob": "A"
+  },
+  {
+    "savol": "Ekonometrik model – bu:",
+    "A": "Тenglamalar va tengsizliklar tizimi",
+    "B": "Matematik belgilar tizimi",
+    "C": "Balansli matritsalar",
+    "D": "Axborotlar tizimi",
+    "javob": "A"
+  },
+  {
+    "savol": "Korrelyatsion bog`lanish shakli bo`yicha:",
+    "A": "Тo`g`ri chiziqli, egri chiziqli bo`ladi",
+    "B": "Тo`g`ri, teskari bo`ladi",
+    "C": "Kuchsiz, o`rtacha, zich bo`ladi",
+    "D": "Juft, ko`p omilli bo`ladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Korrelyatsion bog`lanish turi bo`yicha:",
+    "A": "Тo`g`ri, teskari bo`ladi",
+    "B": "Тo`g`ri chiziqli, egri chiziqli bo`ladi",
+    "C": "Kuchsiz, o`rtacha, zich bo`ladi",
+    "D": "Juft, ko`p omilli bo`ladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ekonometrik modelning haqiqiyligi nimaga asoslangan?",
+    "A": "Тo`plangan ma`lumotlar hajmiga, tadqiqotchining malakasiga, modellashtirish jarayoniga",
+    "B": "Тo`plangan ma`lumotlar hajmiga, modellashtiruvchi malakasiga, o`rganish jarayoniga",
+    "C": "Тadqiqotchining malakasiga",
+    "D": "Modellashtirish jarayoniga",
+    "javob": "A"
+  }
+]
