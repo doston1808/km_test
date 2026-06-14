@@ -1,0 +1,1602 @@
+[
+  {
+    "savol": "Darslikda o‘quv faoliyati qanday jarayon sifatida talqin qilinadi?",
+    "A": "Insonni o‘qitish va tarbiyalashga qaratilgan maqsadli faoliyat",
+    "B": "Nazariy bilimlarni yodlashga qaratilgan faoliyat",
+    "C": "Kasbiy ko‘nikmalarni tekshirish jarayoni",
+    "D": "O‘qituvchining yakka tartibdagi nazorat faoliyati",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘quv faoliyatining keng ma’nodagi tarkibiga nimalar kiradi?",
+    "A": "Ta’lim berish va tarbiyalash jarayonlari",
+    "B": "Bilimlarni nazorat qilish jarayoni",
+    "C": "Ma’ruza va seminar mashg‘ulotlari",
+    "D": "Mustaqil o‘qish va imtihon topshirish jarayonlari",
+    "javob": "A"
+  },
+  {
+    "savol": "“Kadrlar tayyorlash milliy dasturi”ning asosiy tarkibiy qismlari qaysi javobda to‘g‘ri berilgan?",
+    "A": "Shaxs, davlat va jamiyat, uzluksiz ta’lim, fan, ishlab chiqarish",
+    "B": "O‘qituvchi, darslik, baholash, reja, imtihon",
+    "C": "Maktab, kollej, litsey, universitet, akademiya",
+    "D": "Dars, mashg‘ulot, nazorat, reyting, attestatsiya, ishlab chiqarish",
+    "javob": "A"
+  },
+  {
+    "savol": "Darslikda o‘qituvchining jamiyatdagi asosiy ijtimoiy vazifasi qanday ko‘rsatiladi?",
+    "A": "Har tomonlama yetuk mutaxassis va barkamol avlodni tayyorlash",
+    "B": "O‘quvchilarga tayyor ma’lumotlarni yetkazish",
+    "C": "Dars jadvalini bajarish",
+    "D": "Har tomonlama yetuk mutaxassis va barkamol avlodga ko`maklashish",
+    "javob": "A"
+  },
+  {
+    "savol": "Zamonaviy o‘qituvchi qanday kasbiy sifatlarga ega bo‘lishi zarur?",
+    "A": "Ilmiy tafakkur, kasbiy bilim, pedagogik muloqot va metodik mahoratga",
+    "B": "Qat’iy intizom talab qilish qobiliyatiga",
+    "C": "Darslik matnini o‘qib berish malakasiga",
+    "D": "Ma’muriy topshiriqlarni bajarish ko‘nikmasiga va metodik mahoratga",
+    "javob": "A"
+  },
+  {
+    "savol": "Pedagogik mahorat egasi bo‘lgan o‘qituvchi avvalo nimani bilishi kerak?",
+    "A": "Pedagogika fanining metodologik asoslari va shaxs rivojlanishi qonuniyatlarini",
+    "B": "Kompyuter dasturlarini ishlatishni",
+    "C": "Iqtisodiy hisob-kitoblarni bajarishni",
+    "D": "Pedagogika fanining metodologik asoslari va baholash jurnali yuritish qonuniyatlarini",
+    "javob": "A"
+  },
+  {
+    "savol": "“Kadrlar tayyorlash milliy dasturi”da ilgari surilgan pedagogik g‘oyaning markazida nima turadi?",
+    "A": "Yuksak madaniyatli, ijodiy va ijtimoiy faol kadrlar avlodini shakllantirish",
+    "B": "O‘quv yuklamasini kamaytirish",
+    "C": "Darsliklar sonini ko‘paytirish",
+    "D": "Ta’lim va kadrlar tayyorlash tizimini jamiyatdagi yangilanishlarga moslashtirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Ta’lim tizimini isloh qilishning muhim vazifalaridan biri qaysi?",
+    "A": "Ta’lim va kadrlar tayyorlash tizimini jamiyatdagi yangilanishlarga moslashtirish",
+    "B": "Ta’limni faqat nazariy ma’lumotlar bilan cheklash",
+    "C": "O‘quvchilar faolligini kamaytirish",
+    "D": "Yuksak madaniyatli, ijodiy va ijtimoiy faol kadrlar avlodini shakllantirish",
+    "javob": "A"
+  },
+  {
+    "savol": "“Texnologiya” atamasining yunoncha mazmuni qaysi javobda to‘g‘ri berilgan?",
+    "A": "“Techne” — mahorat, san’at; “logos” — tushuncha, o‘rganish",
+    "B": "“Techne” — nazorat; “logos” — baholash",
+    "C": "“Techne” — kitob; “logos” — o‘quvchi",
+    "D": "“Techne” — jadval; “logos” — reja",
+    "javob": "A"
+  },
+  {
+    "savol": "Pedagogik texnologiyaga qiziqish kuchayishining sabablaridan biri nima?",
+    "A": "Ta’lim samaradorligini oshirish va zamonaviy texnologiyalardan foydalanish zarurati",
+    "B": "An’anaviy darslarni butunlay bekor qilish zarurati",
+    "C": "O‘qituvchini ta’lim jarayonidan chiqarib tashlash zarurati",
+    "D": "Talabalarni faqat mustaqil ta`lim olish va raqamli texnologiyadan foydalanishga majbur qilish zarurati",
+    "javob": "A"
+  },
+  {
+    "savol": "Pedagogik texnologiya darslikda qanday umumiy mazmunda izohlanadi?",
+    "A": "O‘qitish jarayonlarini optimal tashkil etish tizimi sifatida",
+    "B": "Texnik vositalardan foydalanish usuli sifatida",
+    "C": "Kompyuterda test tuzish jarayoni sifatida",
+    "D": "Darslikni qayta nashr qilish jarayoni sifatida",
+    "javob": "A"
+  },
+  {
+    "savol": "Pedagogik texnologiya ta’lim-tarbiyada nimaga asoslanadi?",
+    "A": "Obyektiv qonuniyatlar va diagnostik maqsadlarga",
+    "B": "Tasodifiy tajriba va shaxsiy taxminlarga",
+    "C": "Imtihon natijalariga",
+    "D": "Dars davomiyligiga",
+    "javob": "A"
+  },
+  {
+    "savol": "Darslikda zamonaviy pedagogik texnologiya natijani to‘la kafolatlaydi degan qarashga qanday munosabat bildiriladi?",
+    "A": "Uni mutlaq haqiqat deb qabul qilib bo‘lmasligi ta’kidlanadi",
+    "B": "U hech qanday shartsiz to‘liq tasdiqlanadi",
+    "C": "U faqat texnik fanlarda qo‘llanadi deyiladi",
+    "D": "U faqat boshlang‘ich ta’limga tegishli deyiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Pedagogik texnologiyani joriy etishda ko‘zlangan maqsadga erishishning bosh kafolatchisi kim deb qaraladi?",
+    "A": "O‘qituvchi",
+    "B": "Darslik muallifi",
+    "C": "Ta’lim muassasasi binosi",
+    "D": "Texnik vositalar",
+    "javob": "A"
+  },
+  {
+    "savol": "Yangi pedagogik va axborot texnologiyalarini joriy etishda muhim vazifa qaysi?",
+    "A": "Darslik, dastur va ma’ruza matnlarini elektron shaklda tayyorlash va qo‘llash",
+    "B": "O‘qituvchining tayyorgarlik darajasini birinchi o‘ringa qo‘yish",
+    "C": "Axborot vositalaridan foydalanishni cheklash",
+    "D": "Talabalarning mustaqil ishlashini kamaytirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Axborot-kommunikatsiya texnologiyalarini ta’limga kiritish nimani talab qiladi?",
+    "A": "O‘qituvchining tayyorgarlik darajasini birinchi o‘ringa qo‘yishni",
+    "B": "O‘qituvchining rolini butunlay bekor qilishni",
+    "C": "Test nazoratini kuchaytirishni",
+    "D": "Darslik, dastur va ma’ruza matnlarini elektron shaklda tayyorlash va qo‘llashni",
+    "javob": "A"
+  },
+  {
+    "savol": "“Yangi tartib-qoida” va “innovatsion jarayon” tushunchalari darslikda qanday talqin qilinadi?",
+    "A": "Mazmunan bir-biriga yaqin, yangilik kiritish jarayonlari sifatida",
+    "B": "Mutlaqo qarama-qarshi tushunchalar sifatida",
+    "C": "Ishlab chiqarishga oid atamalar sifatida",
+    "D": "Yangi metodlar, vositalar, konsepsiyalar va o‘quv dasturlari sifatida",
+    "javob": "A"
+  },
+  {
+    "savol": "Pedagogik yangilik ko‘pincha nimalarni kiritish va qo‘llash bilan bog‘liq?",
+    "A": "Yangi metodlar, vositalar, konsepsiyalar va o‘quv dasturlarini",
+    "B": "Eski darsliklarni ko‘paytirishni",
+    "C": "Sinf xonalarini bezashni",
+    "D": "Mazmunan bir-biriga yaqin, yangilik kiritish jarayonlari yangilashni",
+    "javob": "A"
+  },
+  {
+    "savol": "Milliy dasturni amalga oshirishning birinchi bosqichi qaysi yillarni qamrab oladi?",
+    "A": "1997–2001-yillar",
+    "B": "2001–2005-yillar",
+    "C": "2005–2010-yillar",
+    "D": "1991–1995-yillar",
+    "javob": "A"
+  },
+  {
+    "savol": "Milliy dasturning uchinchi bosqichi mazmuni nimaga qaratilgan?",
+    "A": "To‘plangan tajribani tahlil qilish asosida tizimni takomillashtirish va rivojlantirishga",
+    "B": "Ta’lim tizimini vaqtincha to‘xtatishga",
+    "C": "Eski o‘quv rejalarini saqlashga",
+    "D": "O‘qituvchining o‘quvchi bilan ta’lim-tarbiyaviy maqsadga yo‘naltirilgan professional muloqotini qisqartirishga",
+    "javob": "A"
+  },
+  {
+    "savol": "Pedagogik muloqot darslikda qanday tushuniladi?",
+    "A": "O‘qituvchining o‘quvchi bilan ta’lim-tarbiyaviy maqsadga yo‘naltirilgan professional muloqoti",
+    "B": "O‘qituvchining buyruq berish faoliyati",
+    "C": "O‘quvchining yozma javobi",
+    "D": "To‘plangan tajribani tahlil qilish asosida tizimni takomillashtirish jarayoni",
+    "javob": "A"
+  },
+  {
+    "savol": "Pedagogik texnologiyaning metodologik jihatdan to‘g‘ri tashkil qilinishi nimaga yordam beradi?",
+    "A": "O‘quvchida mas’uliyat, mustaqil bilim olish va erkin fikrlashni shakllantirishga",
+    "B": "O‘quvchini faqat tayyor javoblarni yodlashga o‘rgatishga",
+    "C": "Talabaning ijodiy faolligini cheklashga",
+    "D": "To‘plangan tajribani tahlil qilish asosida tizimni takomillashtirish va rivojlantirishga",
+    "javob": "A"
+  },
+  {
+    "savol": "Pedagogik texnologiyaning darajalari qaysi javobda to‘g‘ri ko‘rsatilgan?",
+    "A": "Umumpedagogik, xususiy metodik va lokal-modul darajalar",
+    "B": "Boshlang‘ich, o‘rta va yakuniy baholash darajalari",
+    "C": "Nazariy, rasmiy va ma’muriy darajalar",
+    "D": "Dars, tanaffus va imtihon darajalari",
+    "javob": "A"
+  },
+  {
+    "savol": "Umumpedagogik texnologiya nimani qamrab oladi?",
+    "A": "O‘quv-tarbiya jarayonining yaxlit tizimini",
+    "B": "Bitta topshiriqni bajarish usulini",
+    "C": "Bitta o‘quvchining bahosini",
+    "D": "Laboratoriya jihozlarini",
+    "javob": "A"
+  },
+  {
+    "savol": "Xususiy metodik texnologiya nimaga tegishli?",
+    "A": "Muayyan fan, mavzu yoki ta’lim yo‘nalishi bo‘yicha metodlar va shakllar majmuasiga",
+    "B": "Maktab binosining tuzilishiga",
+    "C": "Dars jadvaliga",
+    "D": "O‘zaro aloqador va bir-birini taqozo etuvchi tizimli xususiyatga",
+    "javob": "A"
+  },
+  {
+    "savol": "Lokal yoki modul darajadagi texnologiya nimaga qaratiladi?",
+    "A": "O‘quv-tarbiya jarayonining alohida qismi yoki didaktik vazifasini hal etishga",
+    "B": "Butun ta’lim tizimini davlat darajasida boshqarishga",
+    "C": "O‘quv yili yakunini belgilashga",
+    "D": "Darslik muqovasini tayyorlashga",
+    "javob": "A"
+  },
+  {
+    "savol": "Pedagogik texnologiyaning asosiy tamoyillari qanday xususiyatga ega?",
+    "A": "O‘zaro aloqador va bir-birini taqozo etuvchi tizimli xususiyatga",
+    "B": "Bir-biridan butunlay ajralgan tasodifiy xususiyatga",
+    "C": "Ma’muriy nazoratga bog‘liq xususiyatga",
+    "D": "Muayyan fan, mavzu yoki ta’lim yo‘nalishi bo‘yicha metodlar va shakllar majmuasiga",
+    "javob": "A"
+  },
+  {
+    "savol": "Pedagogik texnologiya va o‘qitish texnologiyasi o‘rtasidagi nisbat qanday?",
+    "A": "Pedagogik texnologiya kengroq, o‘qitish texnologiyasi esa ma’lum fan yoki jarayonga xosdir",
+    "B": "O‘qitish texnologiyasi pedagogik texnologiyadan doimo kengroqdir",
+    "C": "Ular bir-biriga mutlaqo aloqasiz tushunchalardir",
+    "D": "Pedagogik texnologiya faqat texnik jihozlarni bildiradi yoki ma’lum fan jarayonga xosdir",
+    "javob": "A"
+  },
+  {
+    "savol": "Motivatsiya texnologik vazifa sifatida nimani anglatadi?",
+    "A": "O‘quvchilar diqqatini tortish, ichki istak va qiziqishni uyg‘otishni",
+    "B": "Darsni yakunlashni",
+    "C": "Baho qo‘yishni",
+    "D": "O‘qituvchining nutqini qisqartirish, ichki istak va qiziqishni uyg‘otishni",
+    "javob": "A"
+  },
+  {
+    "savol": "Ta’lim-tarbiyaga texnologik yondashuv nimani nazarda tutadi?",
+    "A": "O‘quv jarayonini bosqichlarga ajratib, natijaga erishish harakatlarini muvofiqlashtirishni",
+    "B": "O‘quv jarayonini tasodifiy tashkil qilishni",
+    "C": "Darslikni ovoz chiqarib o‘qishni",
+    "D": "Xotirada saqlangan, qayta esga olishga asoslangan ma’lumot xarakterini",
+    "javob": "A"
+  },
+  {
+    "savol": "Og‘zaki-ko‘rgazmali yondashuvning asosiy belgisi nima?",
+    "A": "O‘qituvchi axborot beradi, talaba uni qabul qiladi va xotirada saqlaydi",
+    "B": "Talaba faqat mustaqil tadqiqot olib boradi",
+    "C": "O‘qituvchi jarayonga umuman aralashmaydi",
+    "D": "Talabada muammoni yechish va yangi bilimni mustaqil o‘zlashtirish qobiliyatini rivojlantiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Og‘zaki-ko‘rgazmali yondashuvda bilim ko‘pincha qanday xarakterga ega bo‘ladi?",
+    "A": "Xotirada saqlangan, qayta esga olishga asoslangan ma’lumot xarakteriga",
+    "B": "Ijodiy kashfiyot xarakteriga",
+    "C": "Amaliy ishlab chiqarish xarakteriga",
+    "D": "Talabada muammoni yechish va yangi bilimni mustaqil o‘zlashtirish qobiliyatiga",
+    "javob": "A"
+  },
+  {
+    "savol": "Tadqiqiy-ijodiy yondashuvning asosiy maqsadi nima?",
+    "A": "Talabada muammoni yechish va yangi bilimni mustaqil o‘zlashtirish qobiliyatini rivojlantirish",
+    "B": "Talabani faqat yodlashga majbur qilish",
+    "C": "O‘qituvchining monologini kuchaytirish",
+    "D": "Xotirada saqlangan, qayta esga olishga asoslangan ma’lumotni nazoratdan ozod qilish",
+    "javob": "A"
+  },
+  {
+    "savol": "Tadqiqiy-ijodiy yondashuvda pedagog qanday rol bajaradi?",
+    "A": "Talabaning tashabbusini qo‘llab-quvvatlovchi va hamkorlik qiluvchi rahbar rolini",
+    "B": "Jazolovchi nazoratchi rolini",
+    "C": "Ma’lumotlarni nusxa ko‘chiruvchi rolini",
+    "D": "Muammoni hal etish, yangi tajribani o‘zlashtirish va shaxsiy idrokni rivojlantirish rolini",
+    "javob": "A"
+  },
+  {
+    "savol": "Izlanuvchan yondashuv qanday qobiliyatlarni rivojlantirishga qaratilgan?",
+    "A": "Muammoni hal etish, yangi tajribani o‘zlashtirish va shaxsiy idrokni rivojlantirish qobiliyatlarini",
+    "B": "Matnni tez ko‘chirish qobiliyatini",
+    "C": "Test javobini taxmin qilish qobiliyatini",
+    "D": "O‘qituvchi va talabaning birgalikda ta’lim vazifalarini hal etish qobiliyatlarini",
+    "javob": "A"
+  },
+  {
+    "savol": "Tizimli yondashuvda obyekt qanday o‘rganiladi?",
+    "A": "Yaxlit tizim, uning qismlari va aloqadorliklari asosida",
+    "B": "Bitta tashqi belgisi asosida",
+    "C": "Statistik raqamlar orqali",
+    "D": "O‘qituvchi tajribasi va o`zaro aloqadorliklari asosida",
+    "javob": "A"
+  },
+  {
+    "savol": "Texnologik yondashuvda ta’lim jarayoni qanday tashkil qilinadi?",
+    "A": "Oldindan loyihalashtirilgan natijaga erishishga qaratilgan amallar tizimi sifatida",
+    "B": "Ilhomga bog‘liq ijodiy suhbat sifatida",
+    "C": "Baholash mezonlarini yashirish orqali",
+    "D": "Oldindan loyihalashtirilgan mavzularni tartibsiz tanlashga qaratilgan amallar tizimi sifatida",
+    "javob": "A"
+  },
+  {
+    "savol": "Hamkorlik pedagogikasining mohiyati nimada?",
+    "A": "O‘qituvchi va talabaning birgalikda ta’lim vazifalarini hal etishida",
+    "B": "O‘qituvchining mutlaq hukmronligida",
+    "C": "Talabaning butunlay nazoratsiz qolishida",
+    "D": "O‘qituvchi va talabaning birgalikda ma’muriy topshiriqlarni hal etishida",
+    "javob": "A"
+  },
+  {
+    "savol": "Insonparvarlashtirish va demokratlashtirishga asoslangan texnologiya nimaga qarshi turadi?",
+    "A": "Yakka hokimlikka asoslangan pedagogik munosabatlarga",
+    "B": "Talabaning faolligiga",
+    "C": "Hamkorlikka asoslangan ta’limga",
+    "D": "Shaxsga hurmat bilan yondashishga asoslangan pedagogik munosabatlarga",
+    "javob": "A"
+  },
+  {
+    "savol": "Hamkorlik pedagogikasida o‘quvchi-talaba qanday maqomda qaraladi?",
+    "A": "O‘z o‘quv faoliyatining subyekti sifatida",
+    "B": "Ta’sir qabul qiluvchi obyekt sifatida",
+    "C": "Baho oluvchi shaxs sifatida",
+    "D": "Intizom nazorati obyekti sifatida",
+    "javob": "A"
+  },
+  {
+    "savol": "Pedagogik texnologiya asosida dars o‘tishdagi asosiy talab nima?",
+    "A": "Talabaning faol ishtirokini ta’minlab, bilimni ongli o‘zlashtirishga yo‘naltirish",
+    "B": "O‘qituvchining uzoq ma’ruzasini tashkil etish",
+    "C": "Darslik matnini ko‘chirtirish",
+    "D": "O‘quv predmetining maqsadiga erishishni kafolatlaydigan ta’lim jarayonini loyihalashi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ta’lim texnologiyasining asosiy maqsadi nimadan iborat?",
+    "A": "O‘quv predmetining maqsadiga erishishni kafolatlaydigan ta’lim jarayonini loyihalashdan",
+    "B": "Baholar sonini ko‘paytirishdan",
+    "C": "Dars vaqtini qisqartirishdan",
+    "D": "Talabaning faol ishtirokini ta’minlab, bilimni ongli o‘zlashtirishga yo‘naltirishdan",
+    "javob": "A"
+  },
+  {
+    "savol": "Ta’lim boshqariladigan jarayon deb qaralganda, uning natijasi nimaga bog‘liq bo‘ladi?",
+    "A": "Didaktik loyiha asosida o‘quvchi-talabalar bilish faoliyatini boshqarishga",
+    "B": "Auditoriya hajmiga",
+    "C": "O‘qituvchining ish stajiga",
+    "D": "Maqsad, mazmun, metod, vosita va nazoratni oldindan rejalashtirishga",
+    "javob": "A"
+  },
+  {
+    "savol": "Ta’lim loyihasini tayyorlash nimani anglatadi?",
+    "A": "Maqsad, mazmun, metod, vosita va nazoratni oldindan rejalashtirishni",
+    "B": "Dars mavzusini e’lon qilishni",
+    "C": "Imtihon kunini belgilashni",
+    "D": "Didaktik loyiha asosida o‘quvchi-talabalar bilish faoliyatini boshqarishni",
+    "javob": "A"
+  },
+  {
+    "savol": "Ta’lim loyihasini amalga oshirish bosqichida o‘qituvchi nima qiladi?",
+    "A": "Talabalarni maqsad va vazifalar bilan tanishtirib, faol mustaqil faoliyatga rag‘batlantiradi",
+    "B": "Talabalarga hech qanday maqsad bildirmaydi",
+    "C": "Mavzu nomini yozdiradi",
+    "D": "Talabalarning bo‘lim yoki mavzu bo‘yicha egallagan bilimlarini aniqlaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Yakuniy nazoratning asosiy vazifasi nima?",
+    "A": "Talabalarning bo‘lim yoki mavzu bo‘yicha egallagan bilimlarini aniqlash",
+    "B": "Dars davomida jim o‘tirishni tekshirish",
+    "C": "Davomatni hisoblash",
+    "D": "Talabalarni maqsad va vazifalar bilan tanishtirib, faol mustaqil faoliyatga rag‘batlantirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Zamonaviy pedagogik texnologiyada ta’lim maqsadi qanday bo‘lishi kerak?",
+    "A": "Aniq, tashxislanuvchan va o‘lchab baholanadigan",
+    "B": "Noaniq, umumiy va tekshirib bo‘lmaydigan",
+    "C": "Og‘zaki aytiladigan",
+    "D": "Dars oxirida aniqlanadigan",
+    "javob": "A"
+  },
+  {
+    "savol": "Tashxislanuvchan maqsad nimani bildiradi?",
+    "A": "O‘quvchi-talabaning erishadigan natijasi oldindan aniq belgilanib, baholanishi mumkinligini",
+    "B": "Maqsadning faqat o‘qituvchiga ma’lum bo‘lishini",
+    "C": "Maqsadning darsdan keyin tasodifan aniqlanishini",
+    "D": "Talabalar imkoniyati, o‘zlashtirish xususiyati va didaktik maqsadga mos holda bo`lganligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ta’lim texnologiyasida o‘quv materiali qanday tayyorlanadi?",
+    "A": "Talabalar imkoniyati, o‘zlashtirish xususiyati va didaktik maqsadga mos holda",
+    "B": "Darslikdagi tartibni o‘zgartirmasdan",
+    "C": "Eng murakkab shaklda",
+    "D": "O‘quvchi-talabaning erishadigan natijasi oldindan aniq belgilanib, baholangan holda",
+    "javob": "A"
+  },
+  {
+    "savol": "Ta’limda axborot texnologiyalaridan foydalanishning afzalligi qaysi?",
+    "A": "Ma’lumotni qayta chaqirish, takrorlash va obyektiv yetkazish imkoniyatini beradi",
+    "B": "Talabaning mustaqil fikrlashini butunlay yo‘qotadi",
+    "C": "O‘qituvchining barcha vazifalarini bekor qiladi",
+    "D": "Obrazli xotirani jonlantirish va eslab qolishni kuchaytiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Kompyuter va axborot vositalari baholashdagi qaysi muammoni kamaytirishi mumkin?",
+    "A": "Subyektivizmni",
+    "B": "Bilim olish ehtiyojini",
+    "C": "O‘quv materialini",
+    "D": "Dars jarayonini",
+    "javob": "A"
+  },
+  {
+    "savol": "Axborot texnologiyalari yordamida sxema, rasm, jadval va grafiklardan foydalanish nimaga xizmat qiladi?",
+    "A": "Obrazli xotirani jonlantirish va eslab qolishni kuchaytirishga",
+    "B": "Matn hajmini ko‘paytirishga",
+    "C": "Baholashni murakkablashtirishga",
+    "D": "Mafkuraviy immunitet va tanqidiy saralash qobiliyatini shakllantirishga",
+    "javob": "A"
+  },
+  {
+    "savol": "Axborot asrida yoshlar uchun muhim tarbiyaviy vazifa qaysi?",
+    "A": "Mafkuraviy immunitet va tanqidiy saralash qobiliyatini shakllantirish",
+    "B": "Har qanday axborotni tanqidsiz qabul qilish",
+    "C": "Milliy qadriyatlardan voz kechish",
+    "D": "Obrazli xotirani jonlantirish va eslab qolishni kuchaytirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Pedagogik texnologiyada qo‘llaniladigan usul va vositalar qanday tanlanishi kerak?",
+    "A": "Ta’lim maqsadi, mazmuni, talaba faolligi va kutilgan natijaga muvofiq",
+    "B": "O‘qituvchining kayfiyatiga qarab",
+    "C": "Auditoriyadagi jihozlar soniga qarab",
+    "D": "Talabalarni faol fikrlash, muloqot va hamkorlikka muvofiq",
+    "javob": "A"
+  },
+  {
+    "savol": "Interfaol usullar pedagogik texnologiyada qanday ahamiyatga ega?",
+    "A": "Talabalarni faol fikrlash, muloqot va hamkorlikka jalb qiladi",
+    "B": "Talabalarni faqat tinglovchi holatida qoldiradi",
+    "C": "Darsni faqat nazorat jarayoniga aylantiradi",
+    "D": "O‘qituvchining barcha faoliyatini bekor qiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ta’lim texnologiyasida metod va vositalar nimaga xizmat qiladi?",
+    "A": "O‘quv maqsadiga erishish jarayonini tashkil etish va boshqarishga",
+    "B": "Darslik hajmini oshirishga",
+    "C": "Baholarni yashirishga",
+    "D": "Mavzu nomini o‘zgartirishga",
+    "javob": "A"
+  },
+  {
+    "savol": "Pedagogik texnologiya o‘quv jarayonini qanday jarayon sifatida ko‘radi?",
+    "A": "Loyihalanadigan, boshqariladigan va natijasi baholanadigan jarayon sifatida",
+    "B": "Tasodifiy, nazoratsiz va natijasiz jarayon sifatida",
+    "C": "Ma’ruza bilan cheklangan jarayon sifatida",
+    "D": "O‘quv maqsadiga erishish jarayonini tashkil etish va boshqarish sifatida",
+    "javob": "A"
+  },
+  {
+    "savol": "Texnologik xarita ta’lim jarayonida nimaga xizmat qiladi?",
+    "A": "Darsning maqsad, bosqich, metod, vosita va natijalarini tizimli rejalashtirishga",
+    "B": "Auditoriya joylashuvini belgilashga",
+    "C": "Talabalar ro‘yxatini yozishga",
+    "D": "O‘quvchi-talabaning maqsadli bilim, ko‘nikma va malakalarni egallashiga",
+    "javob": "A"
+  },
+  {
+    "savol": "Pedagogik texnologiyada nazoratning vazifasi qaysi?",
+    "A": "O‘zlashtirish darajasini aniqlash va jarayonni tuzatishga asos yaratish",
+    "B": "Talabalarni qo‘rqitish",
+    "C": "Dars vaqtini to‘ldirish",
+    "D": "O‘quvchi-talabaning maqsadli bilim, ko‘nikma va malakalarni egallash",
+    "javob": "A"
+  },
+  {
+    "savol": "Ta’lim texnologiyasi samaradorligi nimada namoyon bo‘ladi?",
+    "A": "O‘quvchi-talabaning maqsadli bilim, ko‘nikma va malakalarni egallashida",
+    "B": "Darsning tashqi bezagida",
+    "C": "Ma’ruza matnining uzunligida",
+    "D": "O‘zlashtirish darajasini aniqlash va jarayonni tuzatishga asos yaratishida",
+    "javob": "A"
+  },
+  {
+    "savol": "Muammoli ta’lim texnologiyasining asosiy maqsadi nima?",
+    "A": "Talabani muammoni anglash, tahlil qilish va yechim topishga yo‘naltirish",
+    "B": "Talabaga faqat tayyor javobni yodlatish",
+    "C": "O‘qituvchining monologini kuchaytirish",
+    "D": "Muammoli vaziyat yaratish, izlanishga yo‘naltirish va fikrlashni boshqarish",
+    "javob": "A"
+  },
+  {
+    "savol": "Muammoli vaziyat ta’lim jarayonida qanday vazifani bajaradi?",
+    "A": "Bilishga ehtiyoj va izlanish faolligini yuzaga keltiradi",
+    "B": "Talabaning qiziqishini butunlay susaytiradi",
+    "C": "Davomatni tekshiradi",
+    "D": "Muammoli vaziyat yaratish, izlanishga yo‘naltirib va fikrlashni boshqaradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Muammoli ta’limda o‘qituvchining vazifasi qaysi?",
+    "A": "Muammoli vaziyat yaratish, izlanishga yo‘naltirish va fikrlashni boshqarish",
+    "B": "Har bir javobni oldindan aytib berish",
+    "C": "Talabalarni savol bermaslikka o‘rgatish",
+    "D": "Talabani muammoni anglash, tahlil qilish va yechim topishga yo‘naltirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Muammoli ta’lim talabalarda qaysi sifatni rivojlantiradi?",
+    "A": "Mustaqil va ijodiy fikrlashni",
+    "B": "Passiv tinglashni",
+    "C": "Mexanik yodlashni",
+    "D": "Ko‘r-ko‘rona itoatli yondashuvni",
+    "javob": "A"
+  },
+  {
+    "savol": "Muammoli ta’lim texnologiyasida savol qanday bo‘lishi kerak?",
+    "A": "Talabani fikrlashga, dalillashga va yechim izlashga undaydigan",
+    "B": "“Ha” yoki “yo‘q” bilan tugaydigan",
+    "C": "Javobi darslik sarlavhasida turgan",
+    "D": "Nazariy bilimni amaliy vaziyat, tahlil va mustaqil qaror bilan bog‘laydigan",
+    "javob": "A"
+  },
+  {
+    "savol": "Innovatsion texnologiyalar asosida iqtisodiy fanlarni o‘qitish nimani talab qiladi?",
+    "A": "Nazariy bilimni amaliy vaziyat, tahlil va mustaqil qaror bilan bog‘lashni",
+    "B": "Iqtisodiy bilimlarni faqat yodlashni",
+    "C": "Amaliy topshiriqlardan voz kechishni",
+    "D": "Talabalarni real iqtisodiy jarayonlarni tahlil qilishga tayyorlashni",
+    "javob": "A"
+  },
+  {
+    "savol": "Iqtisodiy fanlarni o‘qitishda innovatsion yondashuvning ahamiyati nimada?",
+    "A": "Talabalarni real iqtisodiy jarayonlarni tahlil qilishga tayyorlaydi",
+    "B": "Iqtisodiy tafakkurni cheklaydi",
+    "C": "Fan mazmunini faqat tarixiy ma’lumotga aylantiradi",
+    "D": "Nazariy bilimni amaliy vaziyat, tahlil va mustaqil qaror bilan bog‘laydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Pedagogik texnologiyani joriy etishdagi muhim shart qaysi?",
+    "A": "O‘qituvchining kasbiy tayyorgarligi va metodik mahorati",
+    "B": "Auditoriya eshigining kattaligi",
+    "C": "Darslik muqovasining rangli bo‘lishi",
+    "D": "Dars jadvalining qisqaligi va metodik mahorati",
+    "javob": "A"
+  },
+  {
+    "savol": "Pedagogik texnologiyani amaliyotga kiritishda qaysi holat hisobga olinishi kerak?",
+    "A": "Ta’lim oluvchining ehtiyoji, qiziqishi, imkoniyati va faoliyati",
+    "B": "O‘qituvchining shaxsiy qulayligi",
+    "C": "Ma’muriy buyruqlar soni",
+    "D": "Auditoriya sig‘imi",
+    "javob": "A"
+  },
+  {
+    "savol": "Muammoli ta’limning samarasi qanday holatda ortadi?",
+    "A": "Talaba savolni o‘zi hal qilish jarayonida faol ishtirok etganda",
+    "B": "Talaba faqat tayyor javobni ko‘chirib olganda",
+    "C": "O‘qituvchi barcha fikrlarni taqiqlaganda",
+    "D": "Ta’lim oluvchining ehtiyoji, qiziqishi, imkoniyati va faoliyati qisqarganda",
+    "javob": "A"
+  },
+  {
+    "savol": "Pedagogik texnologiyani joriy etishdagi asosiy muammolardan biri qaysi?",
+    "A": "Metodik, tashkiliy va kadrlar tayyorgarligini ta’minlash zarurati",
+    "B": "Ta’lim mazmunini butunlay yo‘qotish zarurati",
+    "C": "Talabalarning faolligini kamaytirish zarurati",
+    "D": "Ta’lim sifatini oshiruvchi yangi metod, vosita va yondashuvlarni joriy etish zarurati",
+    "javob": "A"
+  },
+  {
+    "savol": "Innovatsion pedagogik texnologiya qanday mazmunga ega?",
+    "A": "Ta’lim sifatini oshiruvchi yangi metod, vosita va yondashuvlarni joriy etish mazmuniga",
+    "B": "Eski metodlarni takrorlash mazmuniga",
+    "C": "Dars vaqtini qisqartirish mazmuniga",
+    "D": "Ta’lim oluvchining ehtiyoji, qiziqishi, imkoniyati va faoliyatini joriy etish mazmuniga",
+    "javob": "A"
+  },
+  {
+    "savol": "Iqtisodiy fanlarni innovatsion o‘qitishda talabaning roli qanday bo‘lishi kerak?",
+    "A": "Faol tahlilchi, izlanuchi va qaror qabul qiluvchi subyekt",
+    "B": "Tinglovchi va ko‘chiruvchi shaxs",
+    "C": "Davomat ro‘yxatidagi raqam",
+    "D": "Baho oluvchi, tinglovchi va ko‘chiruvchi obyekt",
+    "javob": "A"
+  },
+  {
+    "savol": "Pedagogik texnologiyani joriy etishda dars maqsadi qanday belgilanadi?",
+    "A": "Aniq, o‘lchanadigan va kutilgan natija bilan bog‘liq tarzda",
+    "B": "Noaniq, tasodifiy va faqat og‘zaki tarzda",
+    "C": "Dars oxirida belgilanadi",
+    "D": "Talabalar tomonidan yashirin natija bilan bog‘liq tarzda",
+    "javob": "A"
+  },
+  {
+    "savol": "Muammoli ta’limda talabaning bilish faoliyati qanday rivojlanadi?",
+    "A": "Savol, ziddiyat, tahlil va izlanish orqali",
+    "B": "Tayyor formulani yodlash orqali",
+    "C": "Sukut saqlash orqali",
+    "D": "O‘qituvchi javobini kutish va izlanish orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Innovatsion texnologiyalar ta’limda nimani kuchaytiradi?",
+    "A": "Faollik, mustaqillik, ijodkorlik va amaliy yo‘naltirilganlikni",
+    "B": "Passivlik, befarqlik va faqat yodlashni",
+    "C": "O‘quvchilar o‘rtasidagi aloqasizlikni",
+    "D": "O‘qituvchi va talaba hamkorligini susaytirishni",
+    "javob": "A"
+  },
+  {
+    "savol": "Pedagogik texnologiyani muvaffaqiyatli qo‘llash uchun o‘qituvchi nimani bilishi zarur?",
+    "A": "Maqsad, mazmun, metod, vosita va nazoratni uyg‘unlashtirishni",
+    "B": "Darslik sahifalarini sanashni",
+    "C": "Yakuniy bahoni oldindan belgilashni",
+    "D": "Talabani mavjud bilim yetishmasligini anglab, yangi bilim izlashga undashni",
+    "javob": "A"
+  },
+  {
+    "savol": "Muammoli ta’limda “muammo” qanday pedagogik vazifani bajaradi?",
+    "A": "Talabani mavjud bilim yetishmasligini anglab, yangi bilim izlashga undaydi",
+    "B": "Talabani mavzudan chalg‘itadi",
+    "C": "O‘qituvchini darsdan ozod qiladi",
+    "D": "Texnologiya samarasi o‘qituvchining uni mahorat bilan qo‘llashga undaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Innovatsion texnologiya va pedagogik mahorat o‘rtasidagi bog‘liqlik qanday?",
+    "A": "Texnologiya samarasi o‘qituvchining uni mahorat bilan qo‘llashiga bog‘liq",
+    "B": "Texnologiya o‘qituvchi mahoratini butunlay keraksiz qiladi",
+    "C": "Mahorat faqat texnik jihozlarga bog‘liq",
+    "D": "Talabani mavjud bilim yetishmasligini anglab, yangi bilim izlashiga bog`liq",
+    "javob": "A"
+  },
+  {
+    "savol": "Pedagogik texnologiyani joriy etishdan kutiladigan asosiy natija nima?",
+    "A": "Ta’lim sifati, samaradorligi va o‘quvchi faolligini oshirish",
+    "B": "Ta’lim mazmunini kamaytirish",
+    "C": "O‘qituvchi va talaba muloqotini yo‘qotish",
+    "D": "Nazoratni butunlay bekor qilish",
+    "javob": "A"
+  },
+  {
+    "savol": "Didaktik o‘yinli mashg‘ulotlarning asosiy maqsadi nima?",
+    "A": "Ta’lim mazmunini o‘yin faoliyati orqali faol o‘zlashtirishga erishish",
+    "B": "Darsni faqat ko‘ngilochar tadbirga aylantirish",
+    "C": "Nazariy bilimni butunlay bekor qilish",
+    "D": "Talabaning faolligi, qiziqishi va mustaqil fikrlashini oshirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Didaktik o‘yin ta’lim jarayonida qanday ahamiyatga ega?",
+    "A": "Talabaning faolligi, qiziqishi va mustaqil fikrlashini oshiradi",
+    "B": "Talabani o‘quv jarayonidan chetlashtiradi",
+    "C": "O‘qituvchining maqsadini yo‘qotadi",
+    "D": "Ta’lim mazmunini o‘yin faoliyati orqali faol o‘zlashtirishga erishadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Didaktik o‘yinli mashg‘ulotda o‘yin qoidalari nimaga xizmat qiladi?",
+    "A": "O‘quv faoliyatini tartibga solish va maqsadga yo‘naltirishga",
+    "B": "Talabalarning bilimini yashirishga",
+    "C": "Dars mavzusini almashtirishga",
+    "D": "O‘yin maqsadi o‘quv maqsadi bilan bog‘lashga",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘yinli texnologiyada o‘qituvchi qanday rol bajaradi?",
+    "A": "Tashkilotchi, yo‘naltiruvchi va natijani tahlil qiluvchi rolini",
+    "B": "Kuzatuvchisiz tomoshabin rolini",
+    "C": "Baho qo‘yuvchi ma’mur rolini",
+    "D": "O‘yin maqsadi o‘quv maqsadi bilan bog‘lash rolini",
+    "javob": "A"
+  },
+  {
+    "savol": "Didaktik o‘yinlar qaysi holatda ta’limiy ahamiyatga ega bo‘ladi?",
+    "A": "O‘yin maqsadi o‘quv maqsadi bilan bog‘langanda",
+    "B": "O‘yin dars mavzusidan butunlay ajralganda",
+    "C": "O‘yin faqat vaqt o‘tkazish uchun tashkil etilganda",
+    "D": "O‘yin natijasi tahlil qilinmaganda",
+    "javob": "A"
+  },
+  {
+    "savol": "Didaktik o‘yinli texnologiyalar talabada qaysi ko‘nikmalarni shakllantiradi?",
+    "A": "Muloqot, qaror qabul qilish, tahlil va hamkorlik ko‘nikmalarini",
+    "B": "Sukut saqlash ko‘nikmasini",
+    "C": "Matnni ko‘chirish ko‘nikmasini",
+    "D": "Talabalarni o‘quv jarayonining faol ishtirokchisiga aylantirish ko‘nikmalarini",
+    "javob": "A"
+  },
+  {
+    "savol": "Faol pedagogik texnologiyalarning asosiy belgisi nima?",
+    "A": "Talabalarni o‘quv jarayonining faol ishtirokchisiga aylantirish",
+    "B": "O‘quvchini faqat tinglovchi sifatida qoldirish",
+    "C": "O‘qituvchining monologini mutlaq ustun qilish",
+    "D": "Talabaning mustaqil harakati, fikrlashi va muloqotini kuchaytirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Faol metodlar an’anaviy yondashuvdan nimasi bilan farqlanadi?",
+    "A": "Talabaning mustaqil harakati, fikrlashi va muloqotini kuchaytirishi bilan",
+    "B": "Matn yodlashni talab qilishi bilan",
+    "C": "O‘qituvchini yagona axborot manbaiga aylantirishi bilan",
+    "D": "Talabalarni o‘quv jarayonining faol ishtirokchisiga aylantirishi bilan",
+    "javob": "A"
+  },
+  {
+    "savol": "Didaktik o‘yin darsida tahlil bosqichi nima uchun zarur?",
+    "A": "O‘yin natijasini o‘quv xulosasi bilan bog‘lash uchun",
+    "B": "O‘yinni mavzudan ajratish uchun",
+    "C": "Talabalarning faolligini kamaytirish uchun",
+    "D": "Ijtimoiy vaziyatni tushunish, muloqot va kasbiy xulqni bog`lash uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "Rolli o‘yinlar pedagogik jarayonda nimani rivojlantiradi?",
+    "A": "Ijtimoiy vaziyatni tushunish, muloqot va kasbiy xulqni",
+    "B": "Mexanik yozishni",
+    "C": "Nazariy qoidalarni ovoz chiqarib o‘qishni",
+    "D": "Faol harakat, muloqot, muammo va tajriba va kasbiy xulqni",
+    "javob": "A"
+  },
+  {
+    "savol": "Didaktik o‘yinli mashg‘ulotda bilim qanday o‘zlashtiriladi?",
+    "A": "Faol harakat, muloqot, muammo va tajriba orqali",
+    "B": "Passiv tinglash orqali",
+    "C": "Nazorat varag‘ini to‘ldirish orqali",
+    "D": "Darslik sahifasini ko‘chirish orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘yinli texnologiyani tanlashda o‘qituvchi nimani hisobga olishi kerak?",
+    "A": "Mavzu, maqsad, guruh xususiyati va kutilgan natijani",
+    "B": "O‘yin nomining qiziqarli bo‘lishini",
+    "C": "Tanaffus vaqtini",
+    "D": "Hamkorlik, mas’uliyat va o‘zaro fikr almashishni",
+    "javob": "A"
+  },
+  {
+    "savol": "Didaktik o‘yinlar ta’lim jarayonida qaysi jihatni kuchaytiradi?",
+    "A": "Motivatsiya va o‘quv faoliyatiga qiziqishni",
+    "B": "Befarqlik va sustlikni",
+    "C": "Nazoratsizlik va tartibsizlikni",
+    "D": "Mavzudan uzoqlashishni",
+    "javob": "A"
+  },
+  {
+    "savol": "Faol pedagogik texnologiyalar talaba shaxsiga qanday ta’sir ko‘rsatadi?",
+    "A": "Uni mustaqil fikrlovchi va ijodiy faol subyekt sifatida rivojlantiradi",
+    "B": "Uni faqat buyruq bajaruvchiga aylantiradi",
+    "C": "Uning bilish ehtiyojini kamaytiradi",
+    "D": "Mavzu, maqsad, guruh xususiyati va kutilgan natijani rivojlantiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Didaktik o‘yinli mashg‘ulotlarda guruh bilan ishlash nimaga yordam beradi?",
+    "A": "Hamkorlik, mas’uliyat va o‘zaro fikr almashishni rivojlantirishga",
+    "B": "Talabalarni bir-biridan ajratishga",
+    "C": "O‘qituvchi nazoratini butunlay bekor qilishga",
+    "D": "O‘yin mazmuni o‘quv maqsadi va baholash mezonlari bilan mos bo‘lishiga",
+    "javob": "A"
+  },
+  {
+    "savol": "Didaktik o‘yin samaradorligining muhim sharti qaysi?",
+    "A": "O‘yin mazmuni o‘quv maqsadi va baholash mezonlari bilan mos bo‘lishi",
+    "B": "O‘yinning faqat qiziqarli nomga ega bo‘lishi",
+    "C": "O‘yinning mavzuga aloqador bo‘lmasligi",
+    "D": "Muloqotga, hamkorlikka va mustaqil izlanishga asoslangan bo`lishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Faol pedagogik texnologiyalar darsda qanday muhit yaratadi?",
+    "A": "Muloqotga, hamkorlikka va mustaqil izlanishga asoslangan muhit",
+    "B": "Jimlik va passivlikka asoslangan muhit",
+    "C": "O‘qituvchi hukmronligiga asoslangan muhit",
+    "D": "O‘yin mazmuni o‘quv maqsadi va baholash mezonlari bilan mos muhit",
+    "javob": "A"
+  },
+  {
+    "savol": "Didaktik o‘yin natijasida olingan bilimning afzalligi nimada?",
+    "A": "U amaliy faoliyat va shaxsiy tajriba bilan bog‘lanadi",
+    "B": "U faqat qisqa muddatli xotirada qoladi",
+    "C": "U hech qanday amaliy ahamiyatga ega bo‘lmaydi",
+    "D": "U faqat o‘qituvchi uchun muhim bo‘ladi",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘yinli texnologiyalarda raqobat qanday pedagogik maqsadga xizmat qilishi kerak?",
+    "A": "O‘quv faolligi va mas’uliyatni oshirishga",
+    "B": "Talabalar o‘rtasida ziddiyatni kuchaytirishga",
+    "C": "O‘qituvchi rolini kamaytirishga",
+    "D": "Bilimni baholashdan voz kechishga",
+    "javob": "A"
+  },
+  {
+    "savol": "Didaktik o‘yinli texnologiyaning asosiy natijasi nima?",
+    "A": "Bilimni faol, qiziqarli va maqsadli o‘zlashtirish",
+    "B": "Mavzuni unutish",
+    "C": "Vaqtni o‘tkazish",
+    "D": "Nazariyani amaliyotdan ajratish",
+    "javob": "A"
+  },
+  {
+    "savol": "Ta’lim jarayonida o‘zlashtirish darajalari nima uchun aniqlanadi?",
+    "A": "Talabaning bilim, ko‘nikma va malakani qay darajada egallaganini baholash uchun",
+    "B": "Davomatni tekshirish uchun",
+    "C": "Dars vaqtini qisqartirish uchun",
+    "D": "Jarayonni boshqarish, tuzatish va natijani obyektiv baholash uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘zlashtirish darajalarini aniqlash ta’lim texnologiyasida nimaga xizmat qiladi?",
+    "A": "Jarayonni boshqarish, tuzatish va natijani obyektiv baholashga",
+    "B": "Talabalarni baholamaslikka",
+    "C": "O‘qituvchi mas’uliyatini kamaytirishga",
+    "D": "Talabaning bilim, ko‘nikma va malakani qay darajada egallaganini baholashga",
+    "javob": "A"
+  },
+  {
+    "savol": "Ta’lim sifati qanday ko‘rsatkich bilan bog‘liq?",
+    "A": "O‘quv maqsadiga mos natijaga erishish darajasi bilan",
+    "B": "Auditoriya kattaligi bilan",
+    "C": "Darslik soni bilan",
+    "D": "Kamroq resurs bilan yuqori o‘quv natijasi bilan",
+    "javob": "A"
+  },
+  {
+    "savol": "Samaradorlik pedagogik texnologiyada nimani anglatadi?",
+    "A": "Kamroq resurs bilan yuqori o‘quv natijasiga erishishni",
+    "B": "Darsni uzoq davom ettirishni",
+    "C": "Nazorat sonini kamaytirishni",
+    "D": "O‘quv maqsadiga mos natijaga erishish darajasiga erishishni",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘zlashtirish darajasini baholashda obyektivlik nima uchun muhim?",
+    "A": "Talaba bilimini adolatli aniqlash va ta’lim jarayonini to‘g‘ri boshqarish uchun",
+    "B": "Talabaga tasodifiy baho qo‘yish uchun",
+    "C": "O‘qituvchi fikrini yashirish uchun",
+    "D": "Talabaning bilim, ko‘nikma va malakani qay darajada egallaganini baholash uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "Talabalarning tanqidiy fikrini rivojlantirishda interfaol metodlarning roli qanday?",
+    "A": "Dalil keltirish, solishtirish, tahlil qilish va xulosa chiqarishni faollashtiradi",
+    "B": "Talabalarni faqat yodlashga majbur qiladi",
+    "C": "Savol berishni cheklaydi",
+    "D": "Ma’lumotni tahlil qilish, baholash va asoslangan xulosa chiqarishni faollashtiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Tanqidiy fikrlashning muhim belgisi qaysi?",
+    "A": "Ma’lumotni tahlil qilish, baholash va asoslangan xulosa chiqarish",
+    "B": "Har qanday fikrni tekshirmasdan qabul qilish",
+    "C": "O‘qituvchi gapini takrorlash",
+    "D": "Dalil keltirish, solishtirish, tahlil qilish va xulosa chiqarishni faollashtirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Interfaol metodlar talaba faoliyatida qanday o‘zgarish yaratadi?",
+    "A": "Uni faol muloqot, mustaqil fikr va hamkorlikka jalb etadi",
+    "B": "Uni faqat tinglovchi holatida qoldiradi",
+    "C": "Uni darsdan chetlashtiradi",
+    "D": "Muammoni chuqurroq tushunish va dalillangan fikr bildirishga yordam beradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Tanqidiy fikrni rivojlantirishda savol-javobning ahamiyati nimada?",
+    "A": "Muammoni chuqurroq tushunish va dalillangan fikr bildirishga yordam beradi",
+    "B": "Vaqtni to‘ldirish uchun xizmat qiladi",
+    "C": "Mavzuni unutishga olib keladi",
+    "D": "Uni faol muloqot, mustaqil fikr va hamkorlikka jalb etadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Pedagogik texnologiyada sifat va samaradorlikni oshirish uchun nima zarur?",
+    "A": "Maqsad, mazmun, metod, vosita va nazorat uyg‘unligi",
+    "B": "Dars jadvalini ko‘paytirish",
+    "C": "Nazariy ma’ruza bilan cheklanish",
+    "D": "Muammoni chuqurroq tushunish va dalillangan fikr bildirishga uyg`unligi",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘quvchi-talabaning yuqori o‘zlashtirishiga nimalar ta’sir qiladi?",
+    "A": "Motivatsiya, faol metodlar, aniq maqsad va muntazam nazorat",
+    "B": "Tasodifiy savollar",
+    "C": "Qat’iy jazolash",
+    "D": "Maqsad, mazmun, metod, vosita va nazorat",
+    "javob": "A"
+  },
+  {
+    "savol": "Ta’lim jarayonida monitoring nima uchun zarur?",
+    "A": "O‘quv natijalarini doimiy kuzatish va takomillashtirish uchun",
+    "B": "Rasmiy hujjatlarni ko‘paytirish uchun",
+    "C": "Talabalar faolligini yashirish uchun",
+    "D": "O‘qituvchi ishini butunlay bekor qilish uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "Interfaol metodlar orqali o‘qitishda guruhli ish nimani kuchaytiradi?",
+    "A": "Hamkorlik, muloqot va birgalikda muammo yechish ko‘nikmalarini",
+    "B": "Talabalar o‘rtasida aloqasizlikni",
+    "C": "Individual yodlashni",
+    "D": "Keyingi ta’lim jarayonini tuzatish va takomillashtirish ko‘nikmalarini",
+    "javob": "A"
+  },
+  {
+    "savol": "Tanqidiy fikrlashda dalilning vazifasi nima?",
+    "A": "Fikrni asoslash va xulosaning ishonchliligini oshirish",
+    "B": "Fikrni mavzudan uzoqlashtirish",
+    "C": "Savolni murakkablashtirib yuborish",
+    "D": "Keyingi ta’lim jarayonini tuzatish va takomillashtirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Pedagogik texnologiyada o‘zlashtirish natijalarini tahlil qilish nimaga olib keladi?",
+    "A": "Keyingi ta’lim jarayonini tuzatish va takomillashtirishga",
+    "B": "Natijalarni e’tiborsiz qoldirishga",
+    "C": "Maqsadlarni yashirishga",
+    "D": "Maqsad, metod va baholash o‘rtasidagi nomuvofiqlikka",
+    "javob": "A"
+  },
+  {
+    "savol": "Ta’lim samaradorligining pasayishiga qaysi holat sabab bo‘lishi mumkin?",
+    "A": "Maqsad, metod va baholash o‘rtasidagi nomuvofiqlik",
+    "B": "Talabaning faol ishtiroki",
+    "C": "O‘qituvchining metodik tayyorgarligi",
+    "D": "O‘quv jarayonining rejalashtirilishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Interfaol metodlar yordamida tanqidiy fikr qanday shakllanadi?",
+    "A": "Muammoli savol, bahs, tahlil va xulosa chiqarish orqali",
+    "B": "Jim tinglash orqali",
+    "C": "Darslik matnini yodlash orqali",
+    "D": "O‘qituvchining texnologiyani maqsadli va mahorat bilan qo‘llashi orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Talabaning bilimini obyektiv baholashda test topshiriqlari qanday bo‘lishi kerak?",
+    "A": "Maqsadga mos, aniq, tushunarli va o‘lchanadigan",
+    "B": "Noaniq, chalkash va tasodifiy",
+    "C": "Juda oson",
+    "D": "Ma’lumotni shubha bilan tekshiradi, asoslaydi va mustaqil xulosa chiqaradigan",
+    "javob": "A"
+  },
+  {
+    "savol": "Pedagogik texnologiyada sifatni oshirishning asosiy omili qaysi?",
+    "A": "O‘qituvchining texnologiyani maqsadli va mahorat bilan qo‘llashi",
+    "B": "Texnik vositaning mavjudligi",
+    "C": "Auditoriya jihozlarining ko‘pligi",
+    "D": "Pedagogik bilim, metodik mahorat va shaxsiy mas’uliyat uyg‘unligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Tanqidiy fikrlovchi talaba qanday xususiyatga ega bo‘ladi?",
+    "A": "Ma’lumotni shubha bilan tekshiradi, asoslaydi va mustaqil xulosa chiqaradi",
+    "B": "Har qanday fikrni dalilsiz qabul qiladi",
+    "C": "O‘qituvchi so‘zini yodlaydi",
+    "D": "Pedagogik bilim, metodik mahorat va shaxsiy mas’uliyatli bo`ladi",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘qituvchining kasbiy xususiyatlari ichida eng muhimlaridan biri qaysi?",
+    "A": "Pedagogik bilim, metodik mahorat va shaxsiy mas’uliyat uyg‘unligi",
+    "B": "Tashqi ko‘rinish",
+    "C": "Dars jadvalini bilish",
+    "D": "O‘qituvchining texnologiyani maqsadli va mahorat bilan qo‘llashi",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘qituvchi shaxsiy fazilatlari ta’lim jarayoniga qanday ta’sir qiladi?",
+    "A": "Talaba bilan muloqot, ishonch va tarbiyaviy ta’sir samaradorligini belgilaydi",
+    "B": "Ta’lim jarayoniga umuman ta’sir qilmaydi",
+    "C": "Rasmiy hujjatlarga ta’sir qiladi",
+    "D": "Pedagogik vaziyatni sezish, baholash va maqbul ta’sir vositasini tanlashda ta`sir qiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Pedagogik kasbda mas’uliyat nimani anglatadi?",
+    "A": "O‘quvchi shaxsining shakllanishiga ongli va javobgar munosabatda bo‘lishni",
+    "B": "Darsni vaqtida boshlashni",
+    "C": "Jurnalni to‘ldirishni",
+    "D": "O‘qituvchining texnologiyani maqsadli va mahorat bilan qo‘llashni",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘qituvchi uchun pedagogik kuzatuvchanlik nima uchun zarur?",
+    "A": "O‘quvchi rivojlanishi, ehtiyoji va holatini anglash uchun",
+    "B": "Intizom buzilishini yozib qo‘yish uchun",
+    "C": "Sinf jihozlarini sanash uchun",
+    "D": "Pedagogik vaziyatni sezish, baholash va maqbul ta’sir vositasini tanlash uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘qituvchining kasbiy mahorati nimada namoyon bo‘ladi?",
+    "A": "Pedagogik vaziyatni sezish, baholash va maqbul ta’sir vositasini tanlashda",
+    "B": "Baland ovozda gapirishda",
+    "C": "Darslikni yoddan bilishda",
+    "D": "O‘quvchi rivojlanishi, ehtiyoji va holatini anglashda",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘qituvchining nutq madaniyati nima uchun muhim?",
+    "A": "Ta’lim mazmunini aniq, ta’sirli va tushunarli yetkazish uchun",
+    "B": "Dars vaqtini cho‘zish uchun",
+    "C": "Rasmiy tadbirlarda so‘zlash uchun",
+    "D": "Fikrlarning izchil va tushunarli qabul qilinishi uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "Pedagogik nutq qanday bo‘lishi kerak?",
+    "A": "Aniq, mantiqli, ravon, madaniy va ta’sirchan",
+    "B": "Chalkash, uzun va mavzudan uzoq",
+    "C": "Buyruq shaklida",
+    "D": "Hazil-mutoyibadan iborat",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘qituvchi nutqining mantiqiyligi nimani ta’minlaydi?",
+    "A": "Fikrlarning izchil va tushunarli qabul qilinishini",
+    "B": "Talabalarning mavzudan chalg‘ishini",
+    "C": "Darsda tartibsizlikni",
+    "D": "O‘z fanini chuqur bilish, pedagogik-psixologik va metodik tayyorgarlikka ega bo‘lishini",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘qituvchi kasbiy faoliyatida pedagogik takt nima?",
+    "A": "O‘quvchi shaxsini hurmat qilgan holda ta’sir ko‘rsatish me’yori",
+    "B": "Talabani tanqid qilish usuli",
+    "C": "Jazoni kuchaytirish vositasi",
+    "D": "O‘z fanini chuqur bilish, pedagogik-psixologik va metodik tayyorgarlikka ega bo‘lish me`yori",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘qituvchi shaxsiga qo‘yiladigan zamonaviy talab qaysi?",
+    "A": "O‘z fanini chuqur bilish, pedagogik-psixologik va metodik tayyorgarlikka ega bo‘lish",
+    "B": "Darslikni ovoz chiqarib o‘qish",
+    "C": "Nazorat ishlarini tekshirish",
+    "D": "Fikrlarning izchil va tushunarli qabul qilinishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Pedagogik muloqotda ishonch muhitining ahamiyati nimada?",
+    "A": "O‘quvchi faolligi, ochiqligi va hamkorligini oshiradi",
+    "B": "Talabani muloqotdan uzoqlashtiradi",
+    "C": "O‘qituvchining ta’sirini kamaytiradi",
+    "D": "Bilim, madaniyat, adolat, talabchanlik va insoniy fazilatlar uyg‘unligini oshiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘qituvchining kasbiy nufuzi nimaga bog‘liq?",
+    "A": "Bilim, madaniyat, adolat, talabchanlik va insoniy fazilatlar uyg‘unligiga",
+    "B": "Lavozim nomiga",
+    "C": "Dars soati miqdoriga",
+    "D": "Tarbiyaviy ta’sir va qadriyatlarni shakllantirish manbaiga",
+    "javob": "A"
+  },
+  {
+    "savol": "Pedagogik jarayonda o‘qituvchi shaxsiy namunasi qanday vazifani bajaradi?",
+    "A": "Tarbiyaviy ta’sir va qadriyatlarni shakllantirish manbai bo‘ladi",
+    "B": "Ta’lim natijasiga aloqador bo‘lmaydi",
+    "C": "Tashqi intizomni buzadi",
+    "D": "Fikrni noaniqliksiz, tushunarli va maqsadga mos ifodalaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘qituvchi nutqidagi aniqlik nimani bildiradi?",
+    "A": "Fikrni noaniqliksiz, tushunarli va maqsadga mos ifodalashni",
+    "B": "Fikrni ataylab murakkablashtirishni",
+    "C": "Mavzudan chetga chiqishni",
+    "D": "Yangi vaziyatga mos metod, usul va yondashuv topa olishni",
+    "javob": "A"
+  },
+  {
+    "savol": "Pedagogik faoliyatda ijodkorlik nimani anglatadi?",
+    "A": "Yangi vaziyatga mos metod, usul va yondashuv topa olishni",
+    "B": "Eski matnni ko‘chirishni",
+    "C": "Darsni bekor qilishni",
+    "D": "Tayyor topshiriqni takrorlashni",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘qituvchi uchun psixologik bilim nima uchun zarur?",
+    "A": "O‘quvchi shaxsini, motivini va rivojlanish xususiyatlarini tushunish uchun",
+    "B": "Fan terminlarini yodlash uchun",
+    "C": "Laboratoriya jihozlarini ishlatish uchun",
+    "D": "Ta’lim mazmuni noto‘g‘ri yoki ta’sirsiz qabul qilinishi uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "Nutq madaniyati past bo‘lgan o‘qituvchida qanday muammo yuzaga kelishi mumkin?",
+    "A": "Ta’lim mazmuni noto‘g‘ri yoki ta’sirsiz qabul qilinishi mumkin",
+    "B": "Talabalar avtomatik ravishda yaxshiroq o‘zlashtiradi",
+    "C": "Dars jarayoni o‘z-o‘zidan samarali bo‘ladi",
+    "D": "O‘quvchi shaxsini, motivini va rivojlanish xususiyatlarini tushunishi mumkin",
+    "javob": "A"
+  },
+  {
+    "savol": "Pedagogik mahoratning asosiy mezonlaridan biri qaysi?",
+    "A": "O‘qituvchining murakkab pedagogik vaziyatlarda to‘g‘ri yechim topishi",
+    "B": "Darsni bir xil usulda o‘tishi",
+    "C": "Nazariy ma’lumotlarni ko‘paytirishi",
+    "D": "O‘quvchining e’tibori va qiziqishini kuchaytirishi",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘qituvchi nutqida emotsional ta’sirchanlik qanday vazifani bajaradi?",
+    "A": "O‘quvchining e’tibori va qiziqishini kuchaytiradi",
+    "B": "Mavzuni tushunishni to‘xtatadi",
+    "C": "O‘quv jarayonini faqat rasmiylashtiradi",
+    "D": "Nazorat zaruratini yo‘qotadi",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘qituvchi kasb egasi sifatida qanday rivojlanishi kerak?",
+    "A": "O‘z bilim va mahoratini uzluksiz oshirib borishi kerak",
+    "B": "Bir marta o‘rgangan bilim bilan cheklanib qolishi kerak",
+    "C": "Ma’muriy topshiriqlarni kutishi kerak",
+    "D": "Darslikdan tashqariga chiqmasligi kerak",
+    "javob": "A"
+  },
+  {
+    "savol": "Masofaviy o‘qitishning asosiy xususiyati nima?",
+    "A": "O‘qituvchi va talabaning masofa orqali axborot-kommunikatsiya vositalari yordamida o‘zaro ta’siri",
+    "B": "O‘qituvchi va talabaning doimo bir xonada bo‘lishi",
+    "C": "Yozma imtihonlardan foydalanish",
+    "D": "Maslahatchilik funksiyasi va telekommunikatsiya vositalaridan foydalanish",
+    "javob": "A"
+  },
+  {
+    "savol": "Masofaviy o‘qitishda o‘qituvchi faoliyatining muhim tomoni qaysi?",
+    "A": "Maslahatchilik funksiyasi va telekommunikatsiya vositalaridan foydalanish",
+    "B": "Talabani butunlay nazoratsiz qoldirish",
+    "C": "Dars jadvalini e’lon qilish",
+    "D": "O‘qituvchi va talabaning masofa orqali axborot-kommunikatsiya vositalari yordamida o‘zaro ta’siri",
+    "javob": "A"
+  },
+  {
+    "savol": "Masofaviy o‘qitish qaysi didaktik usullarni qamrab oladi?",
+    "A": "Informatsion-retseptiv, reproduktiv, muammoviy bayon, evristik va tadqiqot usullarini",
+    "B": "Diktant va ko‘chirish usullarini",
+    "C": "Og‘zaki so‘rov usulini",
+    "D": "O‘qituvchi va talabaning masofa orqali axborot-kommunikatsiya vositalari yordamida o‘zaro ta’siri",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘qitish usuli darslikda qanday tushuniladi?",
+    "A": "O‘qituvchi va o‘quvchi-talabalar o‘zaro ta’sirining me’yoriy didaktik tizimi",
+    "B": "Darslik sahifalarining ketma-ketligi",
+    "C": "Baholash jadvali",
+    "D": "O‘quv axboroti, topshiriqlar, mashg‘ulotlar va metodik jarayonlar majmuasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Masofaviy o‘qitish mazmuni nimani aks ettiradi?",
+    "A": "O‘quv axboroti, topshiriqlar, mashg‘ulotlar va metodik jarayonlar majmuasini",
+    "B": "Talabalar ro‘yxatini",
+    "C": "O‘qituvchi xonasini",
+    "D": "O‘qituvchi va o‘quvchi-talabalar o‘zaro ta’sirining me’yoriy didaktik tizimini",
+    "javob": "A"
+  },
+  {
+    "savol": "Masofaviy o‘qitish vositalari nimaga asoslanadi?",
+    "A": "Axborot-kommunikatsiya texnologiyalari va zamonaviy ta’minot vositalariga",
+    "B": "Doska va bo‘rga",
+    "C": "Og‘zaki xabar berishga",
+    "D": "O‘quv dasturi, texnik vositalar, qo‘llanmalar va metodik materiallarga",
+    "javob": "A"
+  },
+  {
+    "savol": "Masofaviy ta’limda o‘quv-ilmiy va moddiy asos nimani o‘z ichiga oladi?",
+    "A": "O‘quv dasturi, texnik vositalar, qo‘llanmalar va metodik materiallarni",
+    "B": "Auditoriya kalitini",
+    "C": "O‘qituvchi familiyasini",
+    "D": "Axborot-kommunikatsiya texnologiyalari va zamonaviy ta’minot vositalarini",
+    "javob": "A"
+  },
+  {
+    "savol": "Modulli o‘qitishning mohiyati nimada?",
+    "A": "O‘quv mazmunini mustaqil, tugallangan va maqsadli modullar asosida tashkil etishda",
+    "B": "Dars mazmunini tasodifiy bo‘laklarga ajratishda",
+    "C": "Baholarni modullarga bo‘lishda",
+    "D": "Talabaga maqsad, mazmun, topshiriq va nazoratni yaxlit o‘zlashtirish imkonini beradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Modulning didaktik ahamiyati nimada?",
+    "A": "Talabaga maqsad, mazmun, topshiriq va nazoratni yaxlit o‘zlashtirish imkonini beradi",
+    "B": "Mavzular o‘rtasidagi aloqani yo‘qotadi",
+    "C": "Dars vaqtini qisqartiradi",
+    "D": "O‘quv mazmunini mustaqil, tugallangan va maqsadli modullar asosida tashkil etadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Masofaviy va modulli o‘qitish nimani kuchaytiradi?",
+    "A": "Mustaqil ta’lim, individual sur’at va axborotdan foydalanish imkoniyatini",
+    "B": "Talabaning o‘qishga ehtiyojini kamaytiradi",
+    "C": "O‘quv jarayonini faqat og‘zaki bayonga aylantiradi",
+    "D": "Axborotni uzatish, qabul qilish, saqlash va qayta ishlashni ta’minlash imkoniyatini",
+    "javob": "A"
+  },
+  {
+    "savol": "Masofaviy o‘qitishda talabaning mustaqil ishlashi nima uchun muhim?",
+    "A": "O‘quv axborotini o‘zlashtirish va topshiriqlarni mas’uliyat bilan bajarish uchun",
+    "B": "O‘qituvchi bilan aloqani butunlay uzish uchun",
+    "C": "O‘quv maqsadlarini yashirish uchun",
+    "D": "Axborotni uzatish, qabul qilish, saqlash va qayta ishlashni ta’minlash uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "Masofaviy ta’lim tizimida texnik vositalar qanday vazifa bajaradi?",
+    "A": "Axborotni uzatish, qabul qilish, saqlash va qayta ishlashni ta’minlaydi",
+    "B": "Ta’lim maqsadini bekor qiladi",
+    "C": "Talabani o‘qishdan ozod qiladi",
+    "D": "O‘quv axborotini o‘zlashtirish va topshiriqlarni mas’uliyat bilan bajaradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Masofaviy o‘qitishda aloqa vositalari nima uchun zarur?",
+    "A": "O‘qituvchi va talaba o‘rtasida muntazam muloqot va teskari aloqani ta’minlash uchun",
+    "B": "Talabalar bilan aloqani uzish uchun",
+    "C": "Hujjatlarni yashirish uchun",
+    "D": "Mazmun, texnik vosita, metodik ta’minot va o‘zaro aloqa sifatini kuchaytirish uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "Modulli o‘qitishda nazorat qanday vazifa bajaradi?",
+    "A": "Har bir modul bo‘yicha o‘zlashtirish darajasini aniqlaydi",
+    "B": "Semestr oxirida tasodifiy baho qo‘yadi",
+    "C": "Talabaning mustaqil ishini e’tiborsiz qoldiradi",
+    "D": "Mazmun, texnik vosita, metodik ta’minot va o‘zaro aloqa sifatiga ta`sir qiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Masofaviy ta’limning samarasi nimaga bog‘liq?",
+    "A": "Mazmun, texnik vosita, metodik ta’minot va o‘zaro aloqa sifatiga",
+    "B": "Kompyuter markasiga",
+    "C": "Auditoriya bezagiga",
+    "D": "O‘qituvchi va talaba o‘rtasida muntazam muloqot va teskari aloqani ta’minlashga",
+    "javob": "A"
+  },
+  {
+    "savol": "Modulli o‘qitish talabaning qaysi sifatini rivojlantiradi?",
+    "A": "Mustaqillik, rejalilik va o‘z-o‘zini nazorat qilishni",
+    "B": "Passiv tinglashni",
+    "C": "Yodlashga qaramlikni",
+    "D": "Mazmun, texnik vosita, metodik ta’minot va o‘zaro aloqa sifatini",
+    "javob": "A"
+  },
+  {
+    "savol": "Masofaviy o‘qitishda o‘qituvchi faqat axborot beruvchi emas, balki kim sifatida namoyon bo‘ladi?",
+    "A": "Maslahatchi, tashkilotchi va yo‘naltiruvchi sifatida",
+    "B": "Nazoratchi sifatida",
+    "C": "Texnik xodim sifatida",
+    "D": "Modulli texnologiya pedagogik texnologiyaning o‘quv mazmunini loyihalash shakllaridan biri sifatida",
+    "javob": "A"
+  },
+  {
+    "savol": "Masofaviy ta’lim tizimida metodik materiallar qanday bo‘lishi kerak?",
+    "A": "Mustaqil o‘rganishga qulay, izchil va tushunarli",
+    "B": "Chalkash, tartibsiz va mavzudan uzoq",
+    "C": "O‘qituvchi uchun yozilgan",
+    "D": "Imtihon javoblaridan iborat",
+    "javob": "A"
+  },
+  {
+    "savol": "Modulli texnologiya va pedagogik texnologiya o‘rtasidagi bog‘liqlik qanday?",
+    "A": "Modulli texnologiya pedagogik texnologiyaning o‘quv mazmunini loyihalash shakllaridan biridir",
+    "B": "Modulli texnologiya pedagogik texnologiyaga mutlaqo aloqador emas",
+    "C": "Modulli texnologiya faqat sport mashg‘ulotlariga tegishli",
+    "D": "Ta’limni moslashuvchan, individuallashtirilgan va texnologik tashkil etadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Masofaviy va modulli o‘qitishning umumiy pedagogik natijasi nima?",
+    "A": "Ta’limni moslashuvchan, individuallashtirilgan va texnologik tashkil etish",
+    "B": "Ta’limni nazoratsiz va maqsadsiz qilish",
+    "C": "O‘quvchi faolligini pasaytirish",
+    "D": "O‘qituvchi va talaba muloqotini to‘liq yo‘qotish",
+    "javob": "A"
+  },
+  {
+    "savol": "Pedagogik tajriba nima uchun tashkil etiladi?",
+    "A": "Yangi metod, texnologiya yoki yondashuv samaradorligini tekshirish uchun",
+    "B": "Rasmiy hisobot tayyorlash uchun",
+    "C": "Dars jarayonini to‘xtatish uchun",
+    "D": "Ta’limni moslashuvchan, individuallashtirilgan va texnologik tashkil etish uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "Pedagogik-psixologik tajribada obyekt nimani bildiradi?",
+    "A": "Tajriba ta’siri yo‘naltirilgan pedagogik jarayon, jamoa yoki o‘quvchilar guruhini",
+    "B": "Tajriba o‘tkazilgan xona raqamini",
+    "C": "Darslik nomini",
+    "D": "O‘rganilayotgan aniq pedagogik hodisa, metod yoki texnologik jihatni",
+    "javob": "A"
+  },
+  {
+    "savol": "Tajriba predmeti nimani anglatadi?",
+    "A": "O‘rganilayotgan aniq pedagogik hodisa, metod yoki texnologik jihatni",
+    "B": "Auditoriya jihozini",
+    "C": "Maktab binosini",
+    "D": "Tajriba ta’siri yo‘naltirilgan pedagogik jarayon, jamoa yoki o‘quvchilar guruhini",
+    "javob": "A"
+  },
+  {
+    "savol": "Tajriba-sinov dasturini tayyorlashda avvalo nima asoslanadi?",
+    "A": "Taklif qilinayotgan pedagogik texnologiyaning dolzarbligi",
+    "B": "Sinf xonasining kattaligi",
+    "C": "O‘qituvchi familiyasi",
+    "D": "Tajriba jarayoniga ilmiy-metodik yo‘l-yo‘riq berish dolzarbligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Tajriba-sinov ishlarini tashkil qilishning dastlabki bosqichi qaysi?",
+    "A": "Pedagogik texnologiyaning tajriba-sinov dasturini tayyorlash",
+    "B": "Natijalarni rasmiylashtirish",
+    "C": "Yakuniy hisobotni chop etish",
+    "D": "Moddiy baza, boshqaruv vazifalari va kadrlarni tayyorlash",
+    "javob": "A"
+  },
+  {
+    "savol": "Tajriba-sinov uchun shart-sharoit yaratish nimalarni o‘z ichiga oladi?",
+    "A": "Moddiy baza, boshqaruv vazifalari va kadrlarni tayyorlashni",
+    "B": "Auditoriyani yopib qo‘yishni",
+    "C": "Talabalar sonini kamaytirishni",
+    "D": "Pedagogik texnologiyaning tajriba-sinov dasturini tayyorlashni",
+    "javob": "A"
+  },
+  {
+    "savol": "Tajriba-sinovda ilmiy rahbar yoki konsultantning vazifasi nima?",
+    "A": "Tajriba jarayoniga ilmiy-metodik yo‘l-yo‘riq berish",
+    "B": "Darsni butunlay bekor qilish",
+    "C": "Talabalarni baholamaslik",
+    "D": "Umumiy va xususiy maqsadlar bo‘yicha aniq belgilash",
+    "javob": "A"
+  },
+  {
+    "savol": "Tajriba-sinov maqsadi qanday belgilanadi?",
+    "A": "Yangi metodika, dastur, reja yoki texnologik variantni tekshirishga mos tarzda",
+    "B": "Noaniq va tekshirib bo‘lmaydigan tarzda",
+    "C": "Rasmiy so‘zlar bilan",
+    "D": "Tadqiqot maqsadi, predmeti va kutilayotgan natijalari tarzida",
+    "javob": "A"
+  },
+  {
+    "savol": "Tajriba-sinov vazifalari qanday belgilanadi?",
+    "A": "Umumiy va xususiy maqsadlar bo‘yicha aniq belgilanadi",
+    "B": "Yakunda taxmin qilinadi",
+    "C": "Og‘zaki aytiladi",
+    "D": "Tadqiqot maqsadi, predmeti va kutilayotgan natijalari belgilanmaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Tajriba-sinov metodlarini tanlash nimaga bog‘liq?",
+    "A": "Tadqiqot maqsadi, predmeti va kutilayotgan natijalariga",
+    "B": "Auditoriya bezagiga",
+    "C": "Darslik rangiga",
+    "D": "Jarayonni rejalashtirish va natijalarni izchil kuzatishga",
+    "javob": "A"
+  },
+  {
+    "savol": "Tajriba-sinov muddatini belgilash nima uchun zarur?",
+    "A": "Jarayonni rejalashtirish va natijalarni izchil kuzatish uchun",
+    "B": "Tajribani nazoratsiz qoldirish uchun",
+    "C": "Natijalarni yashirish uchun",
+    "D": "Dastur ilmiy-metodik jihatdan asoslanganligini tekshirish uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "Tajriba-sinovda baholash mezonlari nima uchun kerak?",
+    "A": "Kutilgan natijalarni obyektiv aniqlash va solishtirish uchun",
+    "B": "Natijani tasodifan belgilash uchun",
+    "C": "Talabalarni jarayondan chiqarish uchun",
+    "D": "Dastur ilmiy-metodik jihatdan asoslanganligini tekshirish uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "Tajriba-sinov dasturini ekspertiza qilish nimani ta’minlaydi?",
+    "A": "Dastur ilmiy-metodik jihatdan asoslanganligini tekshirishni",
+    "B": "Tajribani mavzudan ajratishni",
+    "C": "Baholashni bekor qilishni",
+    "D": "Uzluksiz kuzatish — monitoring qilishni",
+    "javob": "A"
+  },
+  {
+    "savol": "Pedagogik texnologiya samaradorligini baholash uchun nima tashkil etilishi lozim?",
+    "A": "Uzluksiz kuzatish — monitoring",
+    "B": "Bir martalik tasodifiy savol",
+    "C": "Davomat ro‘yxati",
+    "D": "Dastur ilmiy-metodik jihatdan asoslanganligini tekshirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Monitoring pedagogik texnologiyada qanday vazifani bajaradi?",
+    "A": "Jarayon va natijalarni muntazam kuzatib, takomillashtirishga yordam beradi",
+    "B": "Natijalarni yashirishga xizmat qiladi",
+    "C": "Talaba faolligini kamaytiradi",
+    "D": "Olingan ilmiy-amaliy xulosalarni hujjatlashtirish va umumlashtirish uchun yordam beradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Tajriba-sinov natijalarini rasmiylashtirish nima uchun zarur?",
+    "A": "Olingan ilmiy-amaliy xulosalarni hujjatlashtirish va umumlashtirish uchun",
+    "B": "Natijani e’tiborsiz qoldirish uchun",
+    "C": "Tajriba jarayonini mavhumlashtirish uchun",
+    "D": "Yangi texnologiya natijasini odatiy ta’lim natijasi bilan solishtirish uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "Pedagogik tajribada nazorat guruhi nima uchun ishlatilishi mumkin?",
+    "A": "Yangi texnologiya natijasini odatiy ta’lim natijasi bilan solishtirish uchun",
+    "B": "Barcha talabalarni baholamaslik uchun",
+    "C": "Tajribani to‘xtatish uchun",
+    "D": "Olingan ilmiy-amaliy xulosalarni hujjatlashtirish va umumlashtirish uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "Tajriba-sinovda rag‘batlantirish qanday ahamiyatga ega?",
+    "A": "Ishtirok etgan pedagoglarning faolligi va mas’uliyatini oshiradi",
+    "B": "Jarayonni nazoratsiz qoldiradi",
+    "C": "Tajriba maqsadini o‘zgartiradi",
+    "D": "Texnologiyaning amaliy samaradorligini aniqlash va takomillashtiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Pedagogik-psixologik tajribalar qanday yondashuvni talab qiladi?",
+    "A": "Ilmiy asoslangan, rejalashtirilgan va nazorat qilinadigan yondashuvni",
+    "B": "Tasodifiy va hujjatsiz yondashuvni",
+    "C": "Og‘zaki kelishuvni",
+    "D": "Ishtirok etgan pedagoglarning faolligi va mas’uliyatini",
+    "javob": "A"
+  },
+  {
+    "savol": "Pedagogik texnologiyaning tajriba-sinovlari qanday natijaga xizmat qiladi?",
+    "A": "Texnologiyaning amaliy samaradorligini aniqlash va takomillashtirishga",
+    "B": "Ta’lim jarayonini butunlay bekor qilishga",
+    "C": "O‘qituvchi va talabani ajratishga",
+    "D": "Malakali mutaxassislar tayyorlashning muhim bo‘g‘ini sifatini oshirishga",
+    "javob": "A"
+  },
+  {
+    "savol": "Oliy ta’limning uzluksiz ta’lim tizimidagi o‘rni qanday talqin qilinadi?",
+    "A": "Malakali mutaxassislar tayyorlashning muhim bo‘g‘ini sifatida",
+    "B": "Maktabdan tashqari mashg‘ulot sifatida",
+    "C": "Nazorat muassasasi sifatida",
+    "D": "Ta’lim mazmuni, sifati va amaliy yo‘naltirilganligini kuchaytirish sifatida",
+    "javob": "A"
+  },
+  {
+    "savol": "Oliy ta’limda zamonaviy pedagogik texnologiyalarni qo‘llash nima uchun muhim?",
+    "A": "Ta’lim mazmuni, sifati va amaliy yo‘naltirilganligini kuchaytirish uchun",
+    "B": "Talabalarni o‘quv jarayonidan uzoqlashtirish uchun",
+    "C": "O‘qituvchi mas’uliyatini bekor qilish uchun",
+    "D": "Bilim, ko‘nikma, malaka bilan birga ijodiy faoliyat va ijobiy munosabatni shakllantirish uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "Oliy ta’lim mazmunini takomillashtirishda qaysi jihat muhim?",
+    "A": "Bilim, ko‘nikma, malaka bilan birga ijodiy faoliyat va ijobiy munosabatni shakllantirish",
+    "B": "Ta’lim mazmuni, sifati va amaliy yo‘naltirilganligini kuchaytirish",
+    "C": "Amaliy mashg‘ulotlardan voz kechish",
+    "D": "Talabaning shaxsiy rivojlanishini e’tiborsiz qoldirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Kadrlar tayyorlash tizimining yangi modelida shaxs qanday maqomga ega?",
+    "A": "Bosh subyekt va ta’lim xizmatlarining iste’molchisi hamda yaratuvchisi",
+    "B": "Nazorat obyekti",
+    "C": "Hujjatdagi raqam",
+    "D": "Yuqori malakali mutaxassislarni tayyorlovchi va ulardan foydalanuvchi soha yaratuvchisi",
+    "javob": "A"
+  },
+  {
+    "savol": "Uzluksiz ta’lim yangi modelda qanday vazifa bajaradi?",
+    "A": "Kadrlar tayyorlashning poydevori vazifasini",
+    "B": "Yakuniy imtihon vazifasini",
+    "C": "Ma’muriy nazorat vazifasini",
+    "D": "Darslik tarqatish vazifasini",
+    "javob": "A"
+  },
+  {
+    "savol": "Fan yangi modelda qanday rolga ega?",
+    "A": "Yuqori malakali mutaxassislarni tayyorlovchi va ulardan foydalanuvchi soha",
+    "B": "Dars jadvali",
+    "C": "Baholash qoidasi",
+    "D": "Bosh subyekt va ta’lim xizmatlarining iste’molchisi hamda yaratuvchi soha",
+    "javob": "A"
+  },
+  {
+    "savol": "Ishlab chiqarish kadrlar tayyorlash tizimida qanday vazifani bajaradi?",
+    "A": "Kadrlarga ehtiyojni belgilovchi va sifat talablarini qo‘yuvchi asosiy buyurtmachi",
+    "B": "Darslik yozuvchi tashkilot",
+    "C": "Nazariy ma’lumotlar manbai",
+    "D": "Bosh subyekt va ta’lim xizmatlarining iste’molchisi hamda yaratuvchisi",
+    "javob": "A"
+  },
+  {
+    "savol": "Davlat va jamiyat yangi modelda qanday vazifani bajaradi?",
+    "A": "Kadrlar tayyorlash sifatini nazorat qiluvchi va kafolatlovchi tomon",
+    "B": "Dars jadvalini tuzuvchi tomon",
+    "C": "Auditoriya bezagini tanlovchi tomon",
+    "D": "Test savollarini yozuvchi tomon",
+    "javob": "A"
+  },
+  {
+    "savol": "Rivojlangan mamlakatlar tajribasida raqobatbardosh kadrlar tayyorlashning muhim sharti qaysi?",
+    "A": "Ta’lim, fan va ishlab chiqarishning samarali aloqadorligi",
+    "B": "Ta’limni ishlab chiqarishdan ajratish",
+    "C": "Nazariy darslarni ko‘paytirish",
+    "D": "Talabalarning amaliy faoliyatini cheklash",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘quv jarayonini axborotlashtirish va kompyuterlashtirish qanday vazifa hisoblanadi?",
+    "A": "Professional ta’lim sifatini oshirishga xizmat qiluvchi muhim vazifa",
+    "B": "Ta’lim mazmunini yo‘qotuvchi jarayon",
+    "C": "O‘qituvchini butunlay keraksiz qiluvchi holat",
+    "D": "Rasmiy hisobot uchun kerakli jarayon",
+    "javob": "A"
+  },
+  {
+    "savol": "Zamonaviy pedagogik texnologiyalarni oliy ta’limda qo‘llash uchun pedagog nimani bilishi kerak?",
+    "A": "Pedagogik texnologiyalarning ilmiy-nazariy asoslari va didaktik qonuniyatlarini",
+    "B": "Dars jadvalini",
+    "C": "Talabalar familiyasini",
+    "D": "Talabalar o‘rtasida birgalikda faoliyat, muloqot va mas’uliyatni",
+    "javob": "A"
+  },
+  {
+    "savol": "Oliy ta’lim pedagogi test topshiriqlarini qanday tuzishi kerak?",
+    "A": "Talaba faoliyat darajalariga mos holda",
+    "B": "Tasodifiy va mavzudan tashqari holda",
+    "C": "Juda oson shaklda",
+    "D": "Bir xil javob variantida",
+    "javob": "A"
+  },
+  {
+    "savol": "Hamkorlikda o‘qitish texnologiyasi oliy ta’limda nimani ta’minlaydi?",
+    "A": "Talabalar o‘rtasida birgalikda faoliyat, muloqot va mas’uliyatni",
+    "B": "Talabalarni butunlay ajratib qo‘yishni",
+    "C": "Pedagogik texnologiyalarning ilmiy-nazariy asoslari va didaktik qonuniyatlarini",
+    "D": "Yakka tartibdagi yodlashni",
+    "javob": "A"
+  },
+  {
+    "savol": "Modulli ta’lim texnologiyalarining o‘ziga xos jihati nimada?",
+    "A": "O‘rganiladigan mazmunni mustaqil bloklar orqali tizimli o‘zlashtirishda",
+    "B": "Ta’lim maqsadini yashirishda",
+    "C": "Darslarni tasodifiy tashkil etishda",
+    "D": "Talaba ongli subyekt bo‘lgani uchun texnologiya o‘qituvchi mahorati bilan boshqarishda",
+    "javob": "A"
+  },
+  {
+    "savol": "Zamonaviy pedagogik texnologiyalarni joriy etishda inson omili nima uchun muhim?",
+    "A": "Talaba ongli subyekt bo‘lgani uchun texnologiya o‘qituvchi mahorati bilan boshqarilishi zarur",
+    "B": "Texnologiya inson ishtirokisiz doimo bir xil natija beradi",
+    "C": "Talabaning fikri hech qanday ahamiyatga ega emas",
+    "D": "O‘rganiladigan mazmunni mustaqil bloklar orqali tizimli o‘zlashtirishi kerak",
+    "javob": "A"
+  },
+  {
+    "savol": "Ilmiy-texnik taraqqiyot ta’lim jarayoniga qanday ta’sir ko‘rsatadi?",
+    "A": "Ta’limni texnologiyalashtirish va yangi metodikalarni talab qiladi",
+    "B": "Ta’lim texnologiyalariga ehtiyojni yo‘qotadi",
+    "C": "Pedagogik mahoratni keraksiz qiladi",
+    "D": "Ta’lim mazmunini faqat tarixga aylantiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Metodika va zamonaviy pedagogik texnologiya o‘rtasidagi farq nimada?",
+    "A": "Metodika tavsiyalar majmuasi bo‘lsa, texnologiya oldindan loyihalangan natijaga yo‘naltirilgan tizimdir",
+    "B": "Metodika texnologiyadan doimo kengroq va aniqroqdir",
+    "C": "Ular mutlaqo farqsiz atamalardir",
+    "D": "U ilmiy asoslangan g‘oyalarni real o‘quv jarayonida qo‘llashni birlashtiradigan tizimdir",
+    "javob": "A"
+  },
+  {
+    "savol": "Pedagogik texnologiyaning nazariya va amaliyot birligi sifatida qaralishi nimani bildiradi?",
+    "A": "U ilmiy asoslangan g‘oyalarni real o‘quv jarayonida qo‘llashni birlashtiradi",
+    "B": "U faqat nazariy tushuncha bo‘lib qoladi",
+    "C": "U faqat amaliy tajribadan iborat bo‘ladi",
+    "D": "Metodika tavsiyalar majmuasi bo‘lsa, texnologiya oldindan loyihalangan natijaga yo‘naltiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Pedagogik faoliyatning asosiy yo‘li sifatida darslikda nima ta’kidlanadi?",
+    "A": "Faoliyat, ya’ni o‘quvchi va o‘qituvchi mehnatining uyg‘unlashuvi",
+    "B": "Passiv tinglash",
+    "C": "Nazorat varaqalarini to‘ldirish",
+    "D": "Ta’lim jarayonining sifati, samaradorligi va insonparvarlik mazmunini oshirilishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Pedagogik texnologiya va pedagogik mahorat uyg‘unlashuvining istiqboliy natijasi nima?",
+    "A": "Ta’lim jarayonining sifati, samaradorligi va insonparvarlik mazmunini oshirish",
+    "B": "Ta’lim mazmunini qisqartirish va talabani passivlashtirish",
+    "C": "O‘qituvchi va talaba hamkorligini yo‘qotish",
+    "D": "Pedagogik jarayonni faqat texnik nazoratga aylantirish",
+    "javob": "A"
+  }
+]

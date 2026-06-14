@@ -1,0 +1,1634 @@
+[
+  {
+    "savol": "Bank tizimi nechta darajadan iborat?",
+    "A": "2",
+    "B": "1",
+    "C": "3",
+    "D": "4",
+    "javob": "A"
+  },
+  {
+    "savol": "To‘lov balansining nechta asosiy bo‘limi mavjud?",
+    "A": "4",
+    "B": "2",
+    "C": "3",
+    "D": "5",
+    "javob": "A"
+  },
+  {
+    "savol": "Ochiq bozor operatsiyalari orqali nima boshqariladi?",
+    "A": "Pul massasi",
+    "B": "Ishsizlik darajasi",
+    "C": "Savdo balansi",
+    "D": "Aholi soni",
+    "javob": "A"
+  },
+  {
+    "savol": "2-4 yil mobaynida takrorlanib turadigan tsikl qanday nomlanadi va uning asoschisi kim?",
+    "A": "\"Kitchin tsikli\", asoschisi Jozef Kitchin",
+    "B": "\"Kondratev tsikli\", asoschisi Kuznets Kitchin",
+    "C": "\"Kitchin tsikli\", asoschisi Kitchin De Kaprio",
+    "D": "\"Kuznets tsikli\", asoschisi Leonid Kitchin",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar nominal foiz stavkasi yiliga 10% bo'lsa va inflyatsiya darajasi yiliga 4% bo'lsa, real foiz stavkasi quyidagicha bo'ladi:",
+    "A": "6%",
+    "B": "14%",
+    "C": "2,5%",
+    "D": "0,1%",
+    "javob": "A"
+  },
+  {
+    "savol": "XX asrning eng uzoq va eng dahshatli inqirozi sodir bo'lgan yillar:",
+    "A": "1929-1933",
+    "B": "981-1982",
+    "C": "1980-1986 yillar",
+    "D": "1928-1932 yillar",
+    "javob": "A"
+  },
+  {
+    "savol": "MHTning takomillashgan yangi standarti qachon tasdiqlagan",
+    "A": "1993 yil",
+    "B": "1968 yil",
+    "C": "1947 yil",
+    "D": "1953 yil",
+    "javob": "A"
+  },
+  {
+    "savol": "Yalpi milliy mahsulotni o‘lchashning necha va qanday usullari bor",
+    "A": "3 ta–qo’shilgan qiymat, xarajat va daromad bo‘yicha",
+    "B": "4ta-tarmoq xarajat daromad region bo‘yicha",
+    "C": "2ta-tarmoq va hudud bo‘yicha",
+    "D": "3 ta -tarmoq xarajat va daromad bo‘yicha",
+    "javob": "A"
+  },
+  {
+    "savol": "Davlat byudjeti nechta qismga bo‘linadi?",
+    "A": "2 та",
+    "B": "1 та",
+    "C": "3 та",
+    "D": "4 та",
+    "javob": "A"
+  },
+  {
+    "savol": "Iqtisodiy sikl nechta fazadan iborat?",
+    "A": "4 ta",
+    "B": "3 ta",
+    "C": "2ta",
+    "D": "5 ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Iste'molchining daromadi 10000 so'm, iste'moli - 7000 so'm. Jamg'arma miqdori qancha?",
+    "A": "3000",
+    "B": "17,000",
+    "C": "10000",
+    "D": "7000",
+    "javob": "A"
+  },
+  {
+    "savol": "Agregat talab qaysi formulaga asosan hisoblanadi?",
+    "A": "AD = C + I + G + (X – M)",
+    "B": "AD = C + I - G - (X + M)",
+    "C": "AD = (C × I) + G + (X - M)",
+    "D": "AD = C + I + G",
+    "javob": "A"
+  },
+  {
+    "savol": "Milliy hisob tizimida iqtisodiyot rivojlanishi xarakterlovchi asosiy ko‘rsatkichni belgilang?",
+    "A": "yalpi milliy mahsulot",
+    "B": "milliy daromad",
+    "C": "ishlab chiqarish kuchlarining rivojlangan darajasi",
+    "D": "aholi daromadlarining oshishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Milliy iqtisodiyotning xalqaro savdoda ishtirok etish darajasini eng yaxshi ta'riflovchi ko'rsatkichni aniqlang:",
+    "A": "eksportning YaIMga nisbati",
+    "B": "aholi jon boshiga to’g’ri keladigan yalpi ichki mahsulot (YaIM) darajasi",
+    "C": "eksport va importning umumiy hajmi",
+    "D": "aholi jon boshiga to'g'ri keladigan xorijiy investitsiyalar ko'rsatkichi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ishsizlik va inflyatsiya o`rtasidagi teskari bog’liqlikni aniqlagan iqtisodchi olim",
+    "A": "ingliz olimi A.Fillips",
+    "B": "amerikalik olim P. Samuelson",
+    "C": "ingliz olimi Dj.M. Keyns",
+    "D": "amerikalik olim M. Fridmen",
+    "javob": "A"
+  },
+  {
+    "savol": "YaIM=T+W+R formula YaIM ni hisoblashning qaysi usuliga asoslanadi?",
+    "A": "Daromadlar usuli",
+    "B": "Xarajatlar usuli",
+    "C": "Ishlab chiqarish usuli",
+    "D": "Amortizatsiya usuli",
+    "javob": "A"
+  },
+  {
+    "savol": "Pul aylanmasi sohasi bo‘yicha hukumat siyosati bu",
+    "A": "Monetar siyosat",
+    "B": "Fiskal siyosat",
+    "C": "Daromadlarni taqsimlash siyosati",
+    "D": "Antiinflyatsion siyosat",
+    "javob": "A"
+  },
+  {
+    "savol": "Iste’mol krediti qanday maqsadlarga beriladi?",
+    "A": "Asosan jismoniy shaxslarga kundalik ehtiyojga zarur bo‘lgan tovar va buyumlarni sotib olishga",
+    "B": "Yuridik va jismoniy shaxslarga kundalik ehtiyojga zarur bo‘lgan tovar va buyumlarni sotib olishga",
+    "C": "Asosan jismoniy shaxslarga ishlab chiqarishni rivojlantirishga",
+    "D": "Asosan yuridik shaxslarga ishlab chiqarishni rivojlantirishga",
+    "javob": "A"
+  },
+  {
+    "savol": "C = a + b (Y-T) iste'mol funktsiyasidagi b koeffitsiyenti nimani bildiradi?",
+    "A": "Iste'molga chekli moyillikni",
+    "B": "Soliq stavkasi",
+    "C": "Ish haqi darajasi",
+    "D": "Avtonom iste'mol",
+    "javob": "A"
+  },
+  {
+    "savol": "Laffer egri chizig’i:",
+    "A": "Davlat byudjeti daromadlari va soliq stavkasi o`rtasidagi bog’liqlikni ifodalaydi",
+    "B": "Ishsizlik va inflyatsiya o`rtasidagi teskari bog’lanishni ifodalaydi",
+    "C": "Baho bilan taklif o`rtasidagi to`g’ri bog’lanishni ifodalaydi",
+    "D": "Baho bilan taklif o`rtasidagi teskari bog’lanishni ifodalaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Antinflyatsion siyosat tushunchasiga to`g’ri javobni belgilang?",
+    "A": "Baholar umumiy darajasini barqarorlashtirish, inflyatsion keskinlikni yumshatishga yo`naltirilgan makroiqtisodiy siyosat",
+    "B": "Ishsizlik va inflyatsion keskinlikni yumshatishga yo`naltirilgan makroiqtisodiy siyosat",
+    "C": "Monetar organlari tomonidan soliq tushumlari ustidan nazoratni o`rnatishga qaratilgan makroiqtisodiy siyosat",
+    "D": "Baholar umumiy darajasini barqarorlashtirish, ishsizlikni yumshatishga yo`naltirilgan makroiqtisodiy siyosat",
+    "javob": "A"
+  },
+  {
+    "savol": "Shiddatli inflyatsiya",
+    "A": "Baholarning o‘rtacha yillik o‘sishi 10-100 foiz (ba’zida 200 foiz)gacha bo‘lishi mumkin",
+    "B": "Baholarning o‘rtacha yillik o‘sishi 5-10 foizdan oshmaydi",
+    "C": "Baholarning o‘sish sur’atlari yiliga 300 foizdan oshib ketadi",
+    "D": "Baholarning o‘sish sur’atlari yiliga 200 foizdan oshib ketadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Sudraluvchi inflyatsiya",
+    "A": "Baholarning o‘rtacha yillik o‘sishi 5-10 foizdan oshmaydi",
+    "B": "Baholarning o‘rtacha yillik o‘sishi 10-100 foiz (ba’zida 200 foiz)gacha bo‘lishi mumkin",
+    "C": "Baholarning o‘sish sur’atlari yiliga 200 foizdan oshib ketadi",
+    "D": "Baholarning o‘sish sur’atlari yiliga 300 foizdan oshib ketadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Pul muomalasi deganda",
+    "A": "Pulning o‘z vazifalarini bajarishdagi to‘xtovsiz harakati tushuniladi",
+    "B": "Pulning barcha turdagi korxonalar o‘rtasidagi harakati tushuniladi",
+    "C": "Pulning tovar va xizmatlarni xarid etishdagi harakati tushuniladi",
+    "D": "Barcha pul massalari va tarkibi tushuniladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Importga boj tariflari:",
+    "A": "Mahsulotni mamlakatga olib kirish uchun olinadigan yig'imlar",
+    "B": "Mahsulotni milliy chegaralar tashqarisida tashish bilan bog'liq bo'lgan yig'imlar",
+    "C": "Chet el mulkidan foydalanish uchun to'lov",
+    "D": "Bojxona siyosatini muvofiqlashtirish uchun yig'im",
+    "javob": "A"
+  },
+  {
+    "savol": "Monetarizm maktabining asosiy g’oyasi nima?",
+    "A": "Pul iqtisodiyotda asosiy vosita",
+    "B": "Qo`shimcha qiymat nazariyasini ilgari surish",
+    "C": "Iqtisodiyotni davlat tomonidan tartibga solish",
+    "D": "Boylik to`plash, savdo qilish",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyida ko`rsatilganlardan qaysi biri YaIM tarkibiga kiradi?",
+    "A": "Kitob magazinidan yangi darslik sotib olish",
+    "B": "Uy xo`jaligi xizmatlari",
+    "C": "Qo`shnidan eski avtomobil sotib olish",
+    "D": "Brokerdan yangi aktsiyalar sotib olish",
+    "javob": "A"
+  },
+  {
+    "savol": "Iqtisodiy o`sish sur`ati bilan bog’liq holda YaIMni necha yilda 2 barobarga ortishini iqtisodchilar tomonidan qo`llaniluvchi qoidani nomini toping",
+    "A": "70 miqdor qoidasi",
+    "B": "90 sifat qoidasi",
+    "C": "50 talab qoidasi",
+    "D": "Bunday qoida mavjud emas",
+    "javob": "A"
+  },
+  {
+    "savol": "Pul bazasi quyidagilardan iborat:",
+    "A": "C + R",
+    "B": "C + D + R",
+    "C": "D + R",
+    "D": "C + D",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri M2 agregatiga kirmaydi?",
+    "A": "Qisqa muddatli davlat obligatsiyalari",
+    "B": "Bank tizimidan tashqaridagi naqd pullar",
+    "C": "Kichik miqdordagi jamg'arma depozitlari",
+    "D": "Chek ko’rinishidagi depozitlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Qiyosiy ustunlik qonuni kim tomonidan yaratildi?",
+    "A": "D. Rikardo",
+    "B": "A.Smit",
+    "C": "A Marshall",
+    "D": "D. D. Kene",
+    "javob": "A"
+  },
+  {
+    "savol": "Mutlaq ustunlik tamoyili kim tomonidan shakllantirildi?",
+    "A": "A. Smit",
+    "B": "K. Marks",
+    "C": "J.M. Keyns",
+    "D": "D. D. Rikardo",
+    "javob": "A"
+  },
+  {
+    "savol": "\"Ishlab chiqarishning uch omili\" g’oyasini ilgari surgan iqtisodchi olim - ..",
+    "A": "J.B.Sey",
+    "B": "J.M.Keyns",
+    "C": "J.B.Klark",
+    "D": "D. Rikardo",
+    "javob": "A"
+  },
+  {
+    "savol": "Ilk marotaba XII asrda “Xalqaro savdo” termini qaysi iqtisodchi-olim tomonidan ishlatilgan?",
+    "A": "Antonio Margaretti",
+    "B": "Xeksher-Olin",
+    "C": "Styuart Mil’",
+    "D": "David Rikardo",
+    "javob": "A"
+  },
+  {
+    "savol": "Milliy hisoblar tizimi",
+    "A": "Ikki tomonlama yozuv qoidasiga asoslangan balanslashgan jadvallar to’plami bo’lib, unda makro darajadagi bir iqtisodiy bitim natijalari ham xarajatlar va ham daromadlar sifatida aks etadi",
+    "B": "Pul harakati qonuni",
+    "C": "Yalpi investitsiyalar",
+    "D": "Davlat budjetiga soliq tushumlarini ko`paytirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Moliya nima?",
+    "A": "Pul resurslarining maxsus fondlarda to‘planishi va kerakli yo‘nalishlarda sarflanishi",
+    "B": "Davlat korxonalari ixtiyoridagi barcha maxsus fondlardagi pul mablag‘lari",
+    "C": "Tadbirkorlik faoliyati bilan shug‘ullanuvchi korxonalar va aholining pul daromadlari",
+    "D": "Davlat ixtiyoridagi barcha pul mablag‘lari",
+    "javob": "A"
+  },
+  {
+    "savol": "Eng ko'p likvid aktiv:",
+    "A": "Naqd pul",
+    "B": "Jamg'arma depoziti",
+    "C": "Neft kompaniyasining aktsiyalari",
+    "D": "Davlat obligatsiyalari",
+    "javob": "A"
+  },
+  {
+    "savol": "Pul kredit siyosati kim tomonidan belgilanadi va amalga oshiradi?",
+    "A": "Davlat tomonidan belgilanadi va uni Markaziy Bank amalga oshiradi",
+    "B": "Markaziy Bank tomonidan belgilanadi va uni davlat amalga oshiradi",
+    "C": "Markaziy Bank tomonidan belgilanadi va uni Markaziy Bank t amalga oshiradi",
+    "D": "davlat tomonidan belgilanadi va uni davlat amalga oshiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Mamlakatda soliqlarning o`zgarishi va milliy daromadning o`zgarishi o`rtasidagi munosabat qanday nomlanadi?",
+    "A": "Soliq multiplikatori",
+    "B": "Akselerator samarasi",
+    "C": "Laffer egri chizig’i",
+    "D": "Davlat xaridlarining mul’tiplikativ samarasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Pulning xarid qobiliyati:",
+    "A": "Inflyatsiya davrida pasayadi",
+    "B": "Inflyatsiya darajasiga qarab o'zgarishi mumkin emas",
+    "C": "Deflyatsiyaga qarab o'zgarishi mumkin emas",
+    "D": "Deflyatsiya davrida pasayadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Jahon xo’jaligini moddiy asosini tashkil etuvchi omil?",
+    "A": "Xalqaro mehnat taqsimoti",
+    "B": "Geografik muhit",
+    "C": "Shartnomalar",
+    "D": "Do’stona munosabatlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Davlat tomonidan moliyaviy yordamlar qanday nomlanadi?",
+    "A": "Dotatsiya, subventsiya, subsidiya",
+    "B": "Dotatsiya, investitsiya, subsidiya",
+    "C": "Dotatsiya, demonopolizatsiya, subsidiya",
+    "D": "Dotatsiya, inflyatsiya, deflyatsiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Mamlakatda import qilinadigan avtomobil importiga boj to'lovlari ko'paydi. Bu …siyosatining namunasidir:",
+    "A": "Protektsionizm",
+    "B": "Erkin savdo",
+    "C": "Monetarizm",
+    "D": "Ekspansionizm",
+    "javob": "A"
+  },
+  {
+    "savol": "Transferlar deganda nima tushuniladi?",
+    "A": "Xorijdan qaytarilmas asosda yuboriladigan pul mablag‘lari",
+    "B": "Soliq to‘lovlari",
+    "C": "Davlat kreditlari",
+    "D": "Eksport daromadlari",
+    "javob": "A"
+  },
+  {
+    "savol": "Tashqi savdo balansi bu ma’lum bir vaqt mobaynidagi (bir oy kvartal yil)?",
+    "A": "Eksport va import o‘rtasidagi nisbat",
+    "B": "Importning salmog‘i",
+    "C": "Eksportning salmog‘i",
+    "D": "Eksport va import miqdori",
+    "javob": "A"
+  },
+  {
+    "savol": "Foiz nisbati darajasidagi o'zgarishlar YaIMning qaysi elementi miqdoriga eng ko'p ta'sir ko'rsatadi?",
+    "A": "Investitsiyaga",
+    "B": "Iste'mol xarajatlariga",
+    "C": "Davlat xarajatlariga",
+    "D": "Eksportga",
+    "javob": "A"
+  },
+  {
+    "savol": "Pul-kredit siyosatining maqsadi nima?",
+    "A": "Iqtisodiy barqarorlikka erishish",
+    "B": "Mahsulot ishlab chiqarish",
+    "C": "Inflyatsiyani oshirish",
+    "D": "Eksportni kamaytirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Keynes modelida davlat aralashuvi nima uchun muhim?",
+    "A": "Iqtisodiyotni barqarorlashtirish uchun",
+    "B": "Narxlarni pasaytirish uchun",
+    "C": "Ishsizlikni ko‘paytirish uchun",
+    "D": "Eksportni kamaytirish uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "Dastlabki pullar -",
+    "A": "Tovar pullari",
+    "B": "Metall pul",
+    "C": "Qog'oz pul",
+    "D": "Elektron pul",
+    "javob": "A"
+  },
+  {
+    "savol": "To‘lov balansi nima?",
+    "A": "Mamlakatning boshqa davlatlar bilan bo‘lgan iqtisodiy munosabatlar hisoboti",
+    "B": "Soliq tushumlari hisoboti",
+    "C": "Eksport va import hisoboti",
+    "D": "Tashqi qarz hisoboti",
+    "javob": "A"
+  },
+  {
+    "savol": "Inflyatsiyani o’lchashda qaysi usuldan foydalanilmaydi?",
+    "A": "Lerner indeksi",
+    "B": "Paashe indeksi",
+    "C": "“70 miqdor qoidasi”",
+    "D": "Fisher indeksi",
+    "javob": "A"
+  },
+  {
+    "savol": "Biror mamlakatda tovar va xizmatlarning ichki narxlar tashqi narxlarga nisbatan oshib borsa, bu mamlakatning tovarlariga talab kamayishini qaysi ko'rsatkich ifodalaydi?",
+    "A": "Import xaridlar samarasi",
+    "B": "Real kassa qoldiqlari samarasi",
+    "C": "Boylik samarasi",
+    "D": "Foiz stavkasi samarasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Keyns nazariyasi bo`yicha pulga bo`lgan talabning transaktsion sababini to`g’ri belgilang?",
+    "A": "Joriy bitimlar uchun naqd pulga talab",
+    "B": "Ko`zda tutilmagan holatlar uchun ma`lum miqdorda naqd pullarni saqlash",
+    "C": "Foyda olish maqsadida qimmatli qog’ozlar sotib olish uchun pulga talab",
+    "D": "Foyda olish maqsadida pulga bo`lgan talab",
+    "javob": "A"
+  },
+  {
+    "savol": "\"Ish bilan bandlik, foiz va pulning umumiy nazariyasi\" nomli kitobning muallifi kim?",
+    "A": "Jon Meynard Keyns",
+    "B": "Adam Smit",
+    "C": "Antuan Monkret'en",
+    "D": "Fransua Kene",
+    "javob": "A"
+  },
+  {
+    "savol": "….ishlab chiqarishning pasayishi natijasida ishchi kuchiga bo‘lgan talabning kamayishi va ishsizlarning paydo bo‘lishi tushuniladi",
+    "A": "Davriy ishsizlik",
+    "B": "Tarkibiy ishsizlik",
+    "C": "ishchi kuchining 100 % ish bilan bandligi",
+    "D": "Friksion ishsizlik, Tarkibiy ishsizlik",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi mamlakatlarning qaysi biri so'nggi 40 yil ichida iqtisodiy o'sishning yuqori sur'atlariga erishdi?",
+    "A": "Yaponiya",
+    "B": "Buyuk Britaniya",
+    "C": "Italiya",
+    "D": "Germaniya",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri inflyasiyaning shakliga kirmaydi?",
+    "A": "Monopol inflyasiya",
+    "B": "Sudraluvchan inflyasiya",
+    "C": "Shiddatli inflyasiya",
+    "D": "Giperinflyasiya",
+    "javob": "A"
+  },
+  {
+    "savol": "YaIM=C+I+G+Xn formula YaIM ni hisoblashning qaysi usuliga asoslanadi?",
+    "A": "Xarajatlar usuli",
+    "B": "Ishlab chiqarish usuli",
+    "C": "Daromadlar usuli",
+    "D": "Guruhlash usuli",
+    "javob": "A"
+  },
+  {
+    "savol": "Oraliq mahsulot",
+    "A": "Qayta ishlash va qayta sotish maqsadida sotib olingan moddiy qimmatliklar hamda tugallanmagan ishlab chiqarishning moddiy buyumlashgan qismi",
+    "B": "Shaxsiy iste’mol uchun tayyor bo’lgan mahsulot",
+    "C": "Chekli xarajatlar asosida yaratilgan mahsulot",
+    "D": "Hajmi hisoblab chiqilgan tayyor mahsulot",
+    "javob": "A"
+  },
+  {
+    "savol": "Transfert to`lovlar bu",
+    "A": "Tovarlar va xizmatlarni sotib olishga hukumat tomonidan qilingan xarajatlar",
+    "B": "Milliy daromadga qo`shilmaydigan daromad turi",
+    "C": "Mahsulot va xizmatlarga uy xo`jaliklari tomonidan to`lovlar",
+    "D": "Hamma javoblar noto`g’ri",
+    "javob": "A"
+  },
+  {
+    "savol": "Pul-kredit siyosatining asosiy vositalarini ajratib ko`rsating",
+    "A": "Hisob stavkasi, majburiy zahiralar normasi, ochiq bozordagi operatsiyalar",
+    "B": "Soliq stavkasi majburiy zahiralar normasi ochiq bozordagi operatsiyalar",
+    "C": "Hisob stavkasi minimal ish haqi ochiq bozordagi operatsiyalar",
+    "D": "Hisob stavkasi ihtiyoriy zahiralar normasi yopiq bozordagi operatsiyalar",
+    "javob": "A"
+  },
+  {
+    "savol": "Markaziy bank nimadan ozod qilingan?",
+    "A": "Soliq va boj to’lashdan",
+    "B": "Hisobot olishdan",
+    "C": "Pulni emissiya qilishdan",
+    "D": "Hisobot berishdan",
+    "javob": "A"
+  },
+  {
+    "savol": "Monetarizm tenglamasi:",
+    "A": "MV = PY",
+    "B": "C + I + Xn = SMM",
+    "C": "S = T-G",
+    "D": "I = S",
+    "javob": "A"
+  },
+  {
+    "savol": "Markaziy bank tomonidan tijorat banklariga beriladigan ssudaning foiz stavkasi bu",
+    "A": "Hisob stavkasi",
+    "B": "Majburiy zahiralar",
+    "C": "Ochiq bozordagi operatsiyalar",
+    "D": "Ihtiyoriy zahiralar normasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Yalpi taklif chizig`ining keyns kesmasi?",
+    "A": "Gorizontal chiziq sifatida berilgan",
+    "B": "Salbiy og‘ishlikka ega",
+    "C": "Vertikal chiziq sifatida berilgan",
+    "D": "Ijobiy og‘ishlikka ega",
+    "javob": "A"
+  },
+  {
+    "savol": "Tashqi savdo oboroti bu - ?",
+    "A": "Eksport va importdagi farq",
+    "B": "Eksport hissasi",
+    "C": "Eksport va importning miqdori",
+    "D": "Import hissasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Yopiq iqtisodiyotda sof eksport nimaga teng?",
+    "A": "Nol",
+    "B": "Davlat jamg'armalari",
+    "C": "Aholi jamg'armalari",
+    "D": "Import qilinadigan tovarlar qiymati",
+    "javob": "A"
+  },
+  {
+    "savol": "Keynes modeliga ko‘ra iqtisodiy o‘sish nima bilan bog‘liq?",
+    "A": "Agregat talab",
+    "B": "Agregat taklif",
+    "C": "Ishsizlik darajasi",
+    "D": "Inflyatsiya darajasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ouken qonuni qaysi bog‘liqlikni ifodalaydi?",
+    "A": "Ishsizlik va ishlab chiqarish o‘rtasidagi bog‘liqlikni",
+    "B": "Inflyatsiya va ishsizlik o‘rtasidagi bog‘liqlikni",
+    "C": "Pul massasi va ishlab chiqarish o‘rtasidagi bog‘liqlikni",
+    "D": "Inflyatsiya va ishlab chiqarish o‘rtasidagi bog‘liqlikni",
+    "javob": "A"
+  },
+  {
+    "savol": "Xalqaro iqtisodiy munosabatlarning asosiy shakllariga kiritilmaydi?",
+    "A": "Mamlakatlarning iqtisodiy tashkilotlariga a`zo bo’lishlari",
+    "B": "Savdo-sotiq",
+    "C": "Xalqaro kredit",
+    "D": "Integratsiya aloqalari",
+    "javob": "A"
+  },
+  {
+    "savol": "Iste`molga o`rtacha moyillik nima?",
+    "A": "Shaxsiy daromadning iste`molga ketadigan ulushi",
+    "B": "Shaxsiy daromadning jamg’arishga ketadigan ulushи",
+    "C": "Asosiy va aylanma kapitalni qayta tiklash",
+    "D": "Investitsion resurslar",
+    "javob": "A"
+  },
+  {
+    "savol": "Qimmat pullar siyosati quyidagilarni nazarda tutadi:",
+    "A": "Zaxira stavkasini oshirish",
+    "B": "Ochiq bozorda davlat tomonidan qimmatli qog'ozlarni sotib olish",
+    "C": "Zaxira stavkasini pasaytirish",
+    "D": "Investitsiya xarajatlarini oshirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Iqtisodiy davrlar bir-biridan qanday farqlanadi?",
+    "A": "O`tish davrining davomiyligi va faolligi bilan",
+    "B": "Bosqichlar bilan",
+    "C": "O`tish davrining davomiyligi va hukumatning siyosati bilan",
+    "D": "Iqtisodiy davrlar bir-biridan farqlanmaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Makroiqtisodiy tahlil",
+    "A": "Inflyatsiyani eng kam darajaga keltirish, ishsizlikni kamaytirish orqali makroiqtisodiy muvozanatlikni ta’minlash",
+    "B": "Korxonaning iqtisodiy ko`rsatkichlarni alohida o`rganish va tahlil etish",
+    "C": "Ishlab chiqarish omillarining bir-biriga bog’liqligini o’rganish",
+    "D": "Iqtisodiy ko`rsatkichlar va kategoriyalarni alohida o`rganish va tahlil etish",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan qay biri makroiqtisodiy muammo hisoblanmaydi?",
+    "A": "Narxni kamsitish (diskrinimatsiyа)",
+    "B": "Inflyatsiya",
+    "C": "Ishsizlik",
+    "D": "Iqtisodiy o'sish",
+    "javob": "A"
+  },
+  {
+    "savol": "Hozirgi vaqtda BMT rivojlanish darajasining asosiy umumlashtiruvchi o'lchovi sifatida quyidagilarni qo'llaydi:",
+    "A": "Inson taraqqiyoti indeksi",
+    "B": "Aholi jon boshiga YaIM",
+    "C": "Milliy daromadi",
+    "D": "Iqtisodiy o'sish sur'ati",
+    "javob": "A"
+  },
+  {
+    "savol": "Makroiqtisodiy nazariyaning ko’rinishlari to'gri ko'rsatilgan javobni toping",
+    "A": "Pozitiv, Normativ",
+    "B": "Makro, Mikro",
+    "C": "Yalpi talab, Yalpi taklif",
+    "D": "Iqtisodiy o'sish, Milliy boylik",
+    "javob": "A"
+  },
+  {
+    "savol": "YAlpi taklif egri chizig’ining Keyns kesmasida ?",
+    "A": "Iqtisodiyotni qisqa muddatda amal qilishini xarakterlaydi",
+    "B": "Iqtisodiyotni uzoq muddatda amal qilishini xarakterlaydi",
+    "C": "Iqtisodiyotni davlat aralashuvisiz uzoq muddatda amal qilishini xarakterlaydi",
+    "D": "Iqtisodiyotni davlat aralashuvisiz qisqa muddatda amal qilishini xarakterlaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi omil aholi iste`moli va pul jamg’armalari darajasini belgilaydi?",
+    "A": "Milliy daromad",
+    "B": "Soliqlar darajasi",
+    "C": "Foiz stavkasi",
+    "D": "Ish haqi",
+    "javob": "A"
+  },
+  {
+    "savol": "Davriy ishsizlik deganda:",
+    "A": "Ishlab chiqarishning pasayishi natijasida ishchi kuchiga bo‘lgan talabning kamayishi va ishsizlarning paydo bo‘lishi tushuniladi",
+    "B": "Turli hududlarda ishchi kuchining talab va taklifga nomuvofiqligi natijasida vujudga kelgan ishsizlik tushuniladi",
+    "C": "Turli tarmoqlarda ishchi kuchining talab va taklifga nomuvofiqligi natijasida vujudga kelgan ishsizlik tushuniladi",
+    "D": "Ish qidirayotgan yoki yaqin vaqt ichida ish bilan ta’minlanishini kutayotgan ishchi kuchlari tushuniladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Intensiv o‘sishning asosiy manbai nima?",
+    "A": "Texnologik yangiliklar va mehnat unumdorligi",
+    "B": "Ishchilar sonining ko‘payishi",
+    "C": "Yer maydonlarining kengayishi",
+    "D": "Ish vaqtining uzaytirilishi",
+    "javob": "A"
+  },
+  {
+    "savol": "ishlab chiqarish strukturasining o‘zgarishi natijasida ishchi kuchiga talab tarkibining o‘zgarishi natijasida ishsiz qolganlar ishsizlikning qaysi turiga kiritiladi?",
+    "A": "Tarkibiy ishsizlik",
+    "B": "Davriy ishsizlik",
+    "C": "Friksion ishsizlik, Tarkibiy ishsizlik",
+    "D": "Ishchi kuchining 100 % ish bilan bandligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Rivojlangan mamlakatlarda iqtisodiy o'sishning eng muhim sabablari quyidagilardir:",
+    "A": "Ishlab chiqarishdagi texnologik o'zgarishlar",
+    "B": "Ish vaqti miqdorining ko'payishi",
+    "C": "Foydalaniladigan kapital miqdorining ortishi",
+    "D": "Ishchi kuchining malakasini oshirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Vertikal yoki klassik kesmada iqtisodiyot ?",
+    "A": "To`liq bandlik sharoitiga erishgan vaziyatni xarakterlaydi",
+    "B": "Iqtisodiy inqiroz sharoitidagi vaziyatni xarakterlaydi",
+    "C": "Iqtisodiyotni qisqa muddatda amal qilishini xarakterlaydi",
+    "D": "Ishlab chiqarish real hajmining pasayishidagi holatni xarakterlaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Taklif inflyatsiyasi bu…",
+    "A": "Mamlakat iqtisodiyotida tovar va xizmatlar taklifining kamayishi natijasida tovar va xizmatlar baholarining oshishidan paydo bo'ladigan inflyatsiya turi",
+    "B": "Iqtisodiyotda talab keskin oshib ketishi va uni ishlab chiqarishning real hajmi bilan qondirish mumkin bo'lmay qolgan qismi",
+    "C": "Mamlakat rezidentlari tomonidan ma’lum muddat davomida ishlab chiqarilgan pirovard tovarlar va xizmatlar bozor baholarining umumiy yig’indisidan iborat",
+    "D": "Ishlab chiqarish strukturasining o‘zgarishi natijasida ishchi kuchiga talab tarkibining o‘zgarishi natijasida ishsiz qolganlar kiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Iqtisodiy davr tushunchasiga to`g’ri javobni belgilang",
+    "A": "Ishlab chiqarish, bandlilik va inflyatsiya darajasining davriy tebranishga iqtisodiy davrlar deyiladi",
+    "B": "Pul, kredit va inflyatsiya darajasining davriy tebranishga iqtisodiy davrlar deyiladi",
+    "C": "Ishlab chiqarish, monetar siyosat va inflyatsiya darajasining davriy tebranishga iqtisodiy davrlar deyiladi",
+    "D": "Ishlab chiqarish, fiskal siyosat va inflyatsiya darajasining davriy tebranishga iqtisodiy davrlar deyiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Nullifikasiya:",
+    "A": "Pulning yuridik kuchini bеkоr qilish va yangi pul chiqarish",
+    "B": "Milliy pul birligi kursining chеt- el valyutalariga nisbatan rasmiy tartibda davlat tоmоnidan pasaytirilishi",
+    "C": "Iqtisоdiyotdagi mоnоpоliyadan erkin raqоbatga asоslangan sоhibkоrlik faоliyatiga qaytishi",
+    "D": "Ishlab chiqarishni jоnlantirish va оrtiqcha pulni tоvar bоzоridan chiqarish",
+    "javob": "A"
+  },
+  {
+    "savol": "Pozitiv makroiqtisodiyot",
+    "A": "Real iqtisodiy hodisalarni va ularning aloqadorliklarini o’rganadi",
+    "B": "Qaysi sharoitlar yoki jihatlar maqbul yoki nomaqbul ekanligini belgilaydi, harakatning aniq yo’nalishlarini taklif etadi",
+    "C": "Iqtisodiyotdagi umumiy xatti-harakatlarni yoki uning yirik jamlanmalarini o’rganuvchi fandir",
+    "D": "Ishlab chiqarishning pasayishi natijasida ishchi kuchiga bo‘lgan talabning kamayishi va ishsizlarning paydo bo‘lishi tushuniladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Friktsion ishsizlik deganda:",
+    "A": "Ish qidirayotgan yoki yaqin vaqt ichida ish bilan ta’minlanishini kutayotgan ishchi kuchlari tushuniladi",
+    "B": "Ortiqcha ishlab chiqarish natijasida vujudga kelgan ishsizlik tushuniladi",
+    "C": "Turli hududlarda, turli soha va ish turlariga ishchi kuchining talab va taklifning nomuvofiqligi natijasida vujudga kelgan ishsizlik tushuniladi",
+    "D": "Ishlab chiqarishning pasayishi natijasida ishchi kuchiga bo‘lgan talabning kamayishi va ishsizlarning paydo bo‘lishi tushuniladi",
+    "javob": "A"
+  },
+  {
+    "savol": "“Inflation” – so‘zining lug‘aviy ma’nosi to'g'ri ko'rsatilgan javobni toping",
+    "A": "Bo‘rtish, ko‘pirish, shishish",
+    "B": "Katta, kichik",
+    "C": "Mayin, yumshoq",
+    "D": "Ishsiz inson",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar ixiyordagi daromad hajmi kamaysa, unda:",
+    "A": "Iste`mol xarajatlari ham, jamg`armalar ham kamayadi",
+    "B": "Iste`mol xarajatlari ham, jamg`armalar ham o`sadi",
+    "C": "Iste`mol xarajatlari oshadi, jamg`armalar kamayadi",
+    "D": "Iste`mol xarajatlari kamayadi, jamg`armalar oshadi",
+    "javob": "A"
+  },
+  {
+    "savol": "YaIMni hisoblashda quyidagi ko‘rsatkichlardan qaysi biri hisobga olinmaydi?",
+    "A": "Mamlakatdagi aholi soni",
+    "B": "Davlat xarajatlari",
+    "C": "Investitsiya",
+    "D": "Iste’mol xarajatlari",
+    "javob": "A"
+  },
+  {
+    "savol": "Iste'mol baholari indeksi nimani ko'rsatadi?",
+    "A": "Tovarlar va xizmatlar muayyan to'plamining narx darajasi",
+    "B": "YaIMning narx darajasi",
+    "C": "Iste'molchilarning afzal ko’rishlarini",
+    "D": "Iste'mol savatining tarkibi",
+    "javob": "A"
+  },
+  {
+    "savol": "Y = C + I + G + NX identifikatorida NX omilini bildiradi:",
+    "A": "Sof eksport",
+    "B": "Davlat xarajatlari",
+    "C": "Investitsiya xarajatlari",
+    "D": "Iste'mol xarajatlari",
+    "javob": "A"
+  },
+  {
+    "savol": "Davlat budjet siyosatining asosiy dastagi bo‘lib nima xizmat qiladi?",
+    "A": "Soliq stavkalari",
+    "B": "Hisob stavkalari",
+    "C": "Ayirboshlash kurslari",
+    "D": "Jadallashgan amortizasiya ajratmalari",
+    "javob": "A"
+  },
+  {
+    "savol": "Jahon bozori bu - ?",
+    "A": "Xalqaro mehnat taqsimoti orqali bir-biriga bog‘langan mamlakatlar o‘rtasidagi oldi-sotdi munosabatlari",
+    "B": "Rivojlangan mamlakatlar o‘rtasidagi oldi-sotdi munosabatlari",
+    "C": "Rivojlangan va rivojlanayotgan mamlakatlar o‘rtasidagi oldi-sotdi munosabatlari",
+    "D": "Jahondagi barcha mamlakatlar o‘rtasidagi oldi-sotdi munosabatlari",
+    "javob": "A"
+  },
+  {
+    "savol": "Tashqi savdo deganda ?",
+    "A": "Xalqaro mehnat taqsimotiga asoslangan holda chet mamlakatlar bilan savdo-sotiq qilish",
+    "B": "Ma’lum mamlakatning tashqariga tovar olib chiqib sotishi tushuniladi",
+    "C": "Bir mamlakatning chetdan tovar olib kelish jarayoni tushuniladi",
+    "D": "Jahondagi barcha mamlakatlar o‘rtasidagi savdo-sotiq ishlari tushuniladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Daromad tarkibida iste’mol sarflari ulushi qanchalik yuqori bo‘lsa.........",
+    "A": "Jamg‘arma hajmi shunchalik kam bo‘ladi",
+    "B": "Jamg‘arma hajmi shunchalik ko‘p bo‘ladi",
+    "C": "Jamg‘arma hajmi o‘zgarmaydi",
+    "D": "Jamg‘arma hajmi 0 darajada bo‘ladi",
+    "javob": "A"
+  },
+  {
+    "savol": "YAlpi talabga ta`sir etuvchi omillarni to`g’ri belgilang",
+    "A": "Investitsiya, davlat xaridlari, ist`emol va sof eksport xarajatlaridagi o`zgarishlar",
+    "B": "Jamg’arish, davlat xaridlari, ist`emol va sof eksport xarajatlaridagi o`zgarishlar",
+    "C": "Jamg’arish, davlat xaridlari, ist`emol va sof import xarajatlaridagi o`zgarishlar",
+    "D": "Jamg’arish, soliqlar, ist`emol va sof eksport xarajatlaridagi o`zgarishlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Iqtisodiy o'sishni oshiruvchi omilni toping",
+    "A": "Texnologik taraqqiyot",
+    "B": "Kapital jamg'arilishi",
+    "C": "Aholi sonining o'sishi",
+    "D": "Jamg'arma normasini oshirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Makroiqtisodiyot fanining asoschisi sifatida tan olinadi",
+    "A": "Djon Meynard Keyns",
+    "B": "Jan Batist Sey",
+    "C": "Leon Valras",
+    "D": "Karl Marks",
+    "javob": "A"
+  },
+  {
+    "savol": "Qisqa muddatli davrga ham tovarlar ham pul bozorida birgalikda muvozanat o`rnatilishi mexanizmini tavsiflovchi model bu",
+    "A": "IS - LM modeli",
+    "B": "AD - AS modeli",
+    "C": "IS – AD modeli",
+    "D": "Kengaytirilgan takror ishlab chiqarish modeli",
+    "javob": "A"
+  },
+  {
+    "savol": "Kompaniya 200 dollarlik mahsulot ishlab chiqarish uchun materiallar sotib oldi. Mahsulotni ishlab chiqardi va uni 260 dollarga sotdi. Yalpi ichki mahsulotni hisoblash uchun 260-200 = 60 dollar nimani bildiradi?",
+    "A": "Qo'shilgan qiymat",
+    "B": "Narx indeksi",
+    "C": "Iste'mol qiymati",
+    "D": "Kompaniyaning foydasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Mamlakatda pul tizimining asosini nima tashkil etadi?",
+    "A": "Milliy valyuta",
+    "B": "Markaziy bank",
+    "C": "Tijorat banklari",
+    "D": "Kredit muassasalari",
+    "javob": "A"
+  },
+  {
+    "savol": "Iste'molchining daromadi qaysi qismlarga bo'linadi:",
+    "A": "Iste'mol va jamg'arma",
+    "B": "Iste'mol va investitsiyalar",
+    "C": "Investitsiyalar va kreditlar",
+    "D": "Kreditlash va investitsiyalar",
+    "javob": "A"
+  },
+  {
+    "savol": "40-60 yil mobaynida takrorlanib turadigan tsikl qanday nomlanadi?",
+    "A": "Kondratev tsikli",
+    "B": "Kitchin tsikli",
+    "C": "Juglar tsikli",
+    "D": "Kuznets tsikli",
+    "javob": "A"
+  },
+  {
+    "savol": "Davlat xarajatlarining o`sishi va milliy daromad o`sishi o`rtasidagi bog’liqlik qanday nomlanadi?",
+    "A": "Davlat xaridlarining multiplikativ samarasi",
+    "B": "Soliq mul’tiplikatori",
+    "C": "Akselerator samarasi",
+    "D": "Laffer egri chizig’i",
+    "javob": "A"
+  },
+  {
+    "savol": "Trast – bu …?",
+    "A": "Inglizcha so`zidan olingan bo`lib «ishonch» ma`nosini anglatadi",
+    "B": "Fransuzcha so`zidan olingan bo`lib «to’g’ri» degan ma`noni anglatadi",
+    "C": "Nemischa so’zdan olingan bo’lib «bank» degan ma`noni anglatadi",
+    "D": "Lotincha so’zdan olingan bo’lib «boylik» degan ma`noni anglatadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Eng likvid pul agregati ..",
+    "A": "M0",
+    "B": "M1",
+    "C": "M3",
+    "D": "M2",
+    "javob": "A"
+  },
+  {
+    "savol": "Makroiqtisodiy tahlilda ko`proq qaysi pul agregatlariga e`tibor qaratiladi?",
+    "A": "M1 va M2 agregatlariga",
+    "B": "M2 va M3 agregatlariga",
+    "C": "M3 agregatiga",
+    "D": "M3 va L agregatlariga",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko`rsatilgan omillardan qaysi biri intensiv o`sish deyiladi?",
+    "A": "Fan-texnika yutuqlarini joriy qilinishi asosida mehnat unumdorligini oshirish",
+    "B": "Ishlab chiqarish natijasini miqdoran o`sishi",
+    "C": "Kapital qo`yilmalarining ko`paytirish va ishlab chiqarishning miqdoran o`sishiga erishish",
+    "D": "Mahsulotni iste`mol xususiyatlarini yaxshilash",
+    "javob": "A"
+  },
+  {
+    "savol": "Bir necha yillar davomida bir-biridan davomiyligi va intensivligi bilan ajralib turadigan iqtisodiy faoliyat darajasining ko'tarilishi va pasayishi ______deyiladi",
+    "A": "Iqtisodiy sikl",
+    "B": "Iqtisodiy rivojlanish",
+    "C": "Iqtisodiy o'sish",
+    "D": "Makroiqtisodiy muvozanat",
+    "javob": "A"
+  },
+  {
+    "savol": "Talab inflyatsiyasi bu…",
+    "A": "Iqtisodiyotda talab keskin oshib ketishi va uni ishlab chiqarishning real hajmi bilan qondirish mumkin bo'lmay qolgan qismi",
+    "B": "Mamlakat iqtisodiyotida tovar va xizmatlar taklifining kamayishi natijasida tovar va xizmatlar baholarining oshishidan paydo bo'ladigan inflyatsiya turi",
+    "C": "Ishlab chiqarish strukturasining o‘zgarishi natijasida ishchi kuchiga talab tarkibining o‘zgarishi natijasida ishsiz qolganlar kiradi",
+    "D": "Mamlakat rezidentlari tomonidan ma’lum muddat davomida ishlab chiqarilgan pirovard tovarlar va xizmatlar bozor baholarining umumiy yig’indisidan iborat",
+    "javob": "A"
+  },
+  {
+    "savol": "Rezident-bu…",
+    "A": "Milliy tegishliligi va fuqaroligidan qat’iy nazar, mazkur mamlakatning iqtisodiy hududida iqtisodiy manfaat markaziga ega bo’lgan (ishlab chiqarish faoliyati bilan shug’ullanadigan, yoki mamlakat hududida bir yildan ortiq yashayotgan) barcha iqtisodiy birliklar",
+    "B": "Mamlakat rezidentlari tomonidan ma’lum muddat davomida ishlab chiqarilgan pirovard tovarlar va xizmatlar bozor baholarining umumiy yig’indisidan iborat",
+    "C": "Ishlab chiqarishning pasayishi natijasida ishchi kuchiga bo‘lgan talabning kamayishi va ishsizlarning paydo bo‘lishi tushuniladi",
+    "D": "Mamlakat rezidentlari tomonidan mamlakatda va mamlakat tashqarisida ishlab chiqarishda ishtirok etish va mulkdan olgan boshlang’ich daromadlari yig’indisidir",
+    "javob": "A"
+  },
+  {
+    "savol": "XX asr boshida Angliya qaysi sohada dunyoda 1-o’rinda turadi?",
+    "A": "Kemasozlik bo’yicha",
+    "B": "Harbiy sohada",
+    "C": "To’qimachilik bo’yicha",
+    "D": "Mashinasozlik bo’yicha",
+    "javob": "A"
+  },
+  {
+    "savol": "Ishchi o`z xoxishi bilan ishdan bo`shagan, ish kuchi tarkibiga kiradi, lekin hali ish topmagan bo`lsa, qaysi kategoriyaga talluqli?",
+    "A": "Friktsion ishsizlik formasi",
+    "B": "Strukturaviy ishsizlik formasi",
+    "C": "Davriy ishsizlik formasi",
+    "D": "Mavsumiy ishsizlik",
+    "javob": "A"
+  },
+  {
+    "savol": "\"Qayta moliyalashtirish stavkasi\" atamasi nimani bildiradi?",
+    "A": "MB ning TBlariga taqdim etadigan kreditlarning foiz stavkasi",
+    "B": "MBning ochiq bozorda sotib olgan davlat obligatsiyalari kursini",
+    "C": "Tijorat bank zaxiralari umumiy miqdorining o'sishini",
+    "D": "MBning pul massasi va YaIM hajmining o'sishiga ta'sirini",
+    "javob": "A"
+  },
+  {
+    "savol": "…. qaysi sharoitlar yoki jihatlar maqbul yoki nomaqbul ekanligini belgilaydi, harakatning aniq yo’nalishlarini taklif etadi",
+    "A": "Normativ makroiqtisodiyot",
+    "B": "Pozitiv makroiqtisodiyot",
+    "C": "Agregatlash",
+    "D": "Megaiqtisodiyot",
+    "javob": "A"
+  },
+  {
+    "savol": "Ekstensiv iqtisodiy o‘sish qanday omillarga asoslanadi?",
+    "A": "Resurslar miqdorining ortishi",
+    "B": "Innovatsiyalar va yangi texnologiyalar",
+    "C": "Boshqaruv tizimining samaradorligi",
+    "D": "Mehnat unumdorligining oshishi",
+    "javob": "A"
+  },
+  {
+    "savol": "….. bir qancha iqtisodiy ko’rsatkichlar va kategoriyalarni yagona makroiqtisodiy ko’rsatkich yoki kategoriyaga umumlashtirish orqali milliy iqtisodiyotdagi makroiqtisodiy jarayonlarni tadqiq qilish imkoniyati yuzaga keladi",
+    "A": "Agregatlash",
+    "B": "Makroiqtisodiyot",
+    "C": "Mikroiqtisodiyot",
+    "D": "Mezoiqtisodiyot",
+    "javob": "A"
+  },
+  {
+    "savol": "Tashqi savdo bilan shug'ullanadigan har qanday mamlakat qanday tovarlarni sotish orqali katta foyda ko'rishlari mumkin:",
+    "A": "Ishlab chiqarishda past muqobil xarajatli tovarlarni",
+    "B": "Ishlab chiqarishda muqobil qiymati yuqori bo'lgan tovarni",
+    "C": "Millat kamroq zavq oladigan tovarlarni",
+    "D": "Millat ko'proq zavq oladigan tovarlarni",
+    "javob": "A"
+  },
+  {
+    "savol": "Ma’lum davr mobaynida jamiyatda yaratilgan mahsulotni qaysi ko‘rsatkich aniqroq ifodalaydi?",
+    "A": "Yalpi ichki mahsulot",
+    "B": "Jami ijtimoiy mahsulot",
+    "C": "Aholi daromadi va davlat byudjeti mablag‘lari miqdori",
+    "D": "Milliy daromad",
+    "javob": "A"
+  },
+  {
+    "savol": "Keyns ta’kidlagandek mamlakatda iste’mol xarajatlar hajmi birinchi navbat quyidagiga bog‘liq?",
+    "A": "Mavjud daromad darajasiga",
+    "B": "Iste’molchining yashash joyiga",
+    "C": "Pul taklifi o‘sishi sur’atiga",
+    "D": "Milliy daromad darajasiga",
+    "javob": "A"
+  },
+  {
+    "savol": "…..iqtisodiyotdagi umumiy xatti-harakatlarni yoki uning yirik jamlanmalarini o’rganuvchi fandir",
+    "A": "Makroiqtisodiyot",
+    "B": "Mikroiqtisodiyot",
+    "C": "Mezoiqtisodiyot",
+    "D": "Miniiqtisodiyot",
+    "javob": "A"
+  },
+  {
+    "savol": "Davlat milliy daromadni qayta taqsimlashni qanday amalga oshiradi?",
+    "A": "Soliqlar va transfert to‘lovlari orqali",
+    "B": "Transfert to‘lovlari orqali",
+    "C": "Daromadlar siyosati orqali",
+    "D": "Monopoliyalarga qarshi olib boradigan siyosati orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar ixiyordagi daromad hajmi ko’paysa, unda:",
+    "A": "MPC kamayadi, MPS oshadi",
+    "B": "Iste’mol va jamg’armaga chekli moyillik oshadi",
+    "C": "Iste’molga chekli moyillik oshadi, MPS kamayadi",
+    "D": "MPC va MPS pasayadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qimmatli qog‘oz bu?",
+    "A": "Daromad yoki divident olish huquqini beruvchi hujjat",
+    "B": "Hisob-kitob operatsiyalarini o‘tkazuvchi hujjat",
+    "C": "Mablag‘lari borligini bildiruvchi hujjat",
+    "D": "Mulk huquqini bildiruvchi hujjat",
+    "javob": "A"
+  },
+  {
+    "savol": "Naqd pul muomalasining asosiy vazifasi nimadan iborat ?",
+    "A": "Muomalaga chiqarilishi yoki olinishi lozim bo‘lgan naqd pul miqdorini aniqlashdan iborat",
+    "B": "Banklar va aholi o‘rtasidagi o‘zaro aloqalarni ta’minlashdan iborat",
+    "C": "Muomaladagi naqdsiz pullar hajmini oshirish",
+    "D": "Muomaladagi yaroqsiz pullarni qaytarib olish",
+    "javob": "A"
+  },
+  {
+    "savol": "Ishsizlik darajasi bilan YaIM o`rtasidagi bog’liqlikni ifodalovchi qonun qanday nomlanadi?",
+    "A": "Ouken qonuni",
+    "B": "Fillips qonuni",
+    "C": "Laffer qonuni",
+    "D": "Nufus qonuni",
+    "javob": "A"
+  },
+  {
+    "savol": "Nominal YaIM nima?",
+    "A": "Joriy narxlarda hisoblangan YaIM",
+    "B": "Nisbiy narxlarda hisoblangan YaIM",
+    "C": "O`zgaruvchan va nisbiy narxlarda hisoblangan YaIM",
+    "D": "O`zgaruvchan narxlarda hisoblangan YaIM",
+    "javob": "A"
+  },
+  {
+    "savol": "Pirovard mahsulotlarga quyidagilar kiradi:",
+    "A": "Qayta ishlashga va qayta sotishga muhtoj bo'lmagan mahsulotlar",
+    "B": "Yarim tayyor mahsulot",
+    "C": "Bir sexning boshqa sex uchun ishlab chiqarishi",
+    "D": "Omborlarda materiallar zaxiralari",
+    "javob": "A"
+  },
+  {
+    "savol": "MD uy xo'jaliklarining daromadlaridan quyidagicha miqdorda farq qiladi:",
+    "A": "Davlatning aholiga transfert to'lovlari",
+    "B": "Amortizatsiya",
+    "C": "Chet eldan olingan aholi daromadi",
+    "D": "O'zini o'zi ish bilan ta'minlashdan olingan daromad",
+    "javob": "A"
+  },
+  {
+    "savol": "Jahon iqtisodiyoti bu -?",
+    "A": "Milliy xo‘jaliklar va ularning munosabatlarini",
+    "B": "Turli davlatlarning bir tekisda rivojlanishini",
+    "C": "Rivojlangan davlatlarning rivojlanishini",
+    "D": "Past rivojlangan davlatlarning rivojlanish majmuasidir",
+    "javob": "A"
+  },
+  {
+    "savol": "\"Bank\" so‘zining lug‘aviy ma’nosi nima?",
+    "A": "Pullik stol",
+    "B": "Pul saqlanadigan maxsus joy",
+    "C": "Qarz beriladigan maxsus joy",
+    "D": "Pul almashtiriladigan maxsus joy",
+    "javob": "A"
+  },
+  {
+    "savol": "Pulning mohiyati nimada aniq namoyon bo‘ladi?",
+    "A": "Pulning funksiyalarida",
+    "B": "Pulning ayirboshlash jarayonida",
+    "C": "Hisob-kitob jarayonida",
+    "D": "Pul aylanmasida",
+    "javob": "A"
+  },
+  {
+    "savol": "Byudjet - soliq siyosatining vositalariga nimalar kiradi?",
+    "A": "Davlat xarajatlari va soliqlar",
+    "B": "Soliqlar va investitsiya xarajatlar",
+    "C": "Investitsiya va davlat xarajatlar",
+    "D": "Pul massasi va soliqlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar …., pul taklifi oshadi",
+    "A": "Pul bazasi oshsa",
+    "B": "Zahiralash me’yori oshsa",
+    "C": "\"Naqd - depozit\" darajasi oshsa",
+    "D": "Pul multiplikatori kamaysa",
+    "javob": "A"
+  },
+  {
+    "savol": "Giperinflyasiya sharoitida pul muomalasi qanday holatda bo‘ladi?",
+    "A": "Pul muomalasi, izdan chiqadi",
+    "B": "Pul muomalasi barqarorlash",
+    "C": "Pul muomalasini tartibga solish mumkin",
+    "D": "Pul muomalasida o‘zgarish",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri Markaziy bankning funksiyasiga kirmaydi?",
+    "A": "Soliqlarni yig‘ish",
+    "B": "Milliy valyutani muomalaga chiqarish",
+    "C": "Tijorat banklariga litsenziya berish",
+    "D": "Pul-kredit siyosatini yuritish",
+    "javob": "A"
+  },
+  {
+    "savol": "Pul taklifi va iqtisodiyotdagi baholarning umumiy darajasi o`rtasidagi to`g’ridan-to`g’ri bog’liqlikni o`rnatuvchi nazariya",
+    "A": "Pulning miqdoriy nazariyasi",
+    "B": "Pulning nisbiy nazariyasi",
+    "C": "Pulning chegaraviy nazariyasi",
+    "D": "Pulning absoluyt nazariyasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Bank bu - ?",
+    "A": "Pul mablag‘larini to‘plash joylashtirish va ularning-harakatini tartibga solish bilan shugullanuvchi iqtisodiy muassasa",
+    "B": "Pul mablag‘larini yig‘ish va pulga muhtoj shaxslarga qarzga berish bilan shugullanuvchi iqtisodiy muassasa",
+    "C": "Pul mablag‘larini yig‘ish va joylashtirish bilan shugullanuvchi iqtisodiy muassasa",
+    "D": "Pulning harakatini nazorat kiluvchi iqtisodiy muassasa",
+    "javob": "A"
+  },
+  {
+    "savol": "Deflyatsiya - bu:",
+    "A": "Iqtisodiyotda umumiy narx darajasini pasayishi",
+    "B": "Inflyatsiya darajasini pasaytirish",
+    "C": "Milliy valyutaning qadrsizlanishi",
+    "D": "Pulning sotib olish qobiliyatini qisqartirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Pul tizimining elementlari qaysi biri noto‘g‘ri keltirilgan?",
+    "A": "Valyuta kursi",
+    "B": "Pul birligi",
+    "C": "Baho masshtabi",
+    "D": "pulning turlari",
+    "javob": "A"
+  },
+  {
+    "savol": "Yopiq iqtisodiyotda investitsiyalar",
+    "A": "Jamg'armaga",
+    "B": "Firmalarning daromadlariga",
+    "C": "Aniq foizga",
+    "D": "Qarzlar miqdoriga teng",
+    "javob": "A"
+  },
+  {
+    "savol": "YAlpi taklif deganda.....",
+    "A": "Muayyan baholar darajasida ishlab chiqarilishi va taklif qilinishi mumkin bo`lgan tovar va xizmatlarning real hajmi tushuniladi",
+    "B": "Muayyan baholar darajasida ishlab chiqarilishi va taklif qilinishi mumkin bo`lgan tovar va xizmatlarning nominal hajmi tushuniladi",
+    "C": "Qat`iy baholar darajasida ishlab chiqarilishi va taklif qilinishi mumkin bo`lgan tovar va xizmatlarning nominal hajmi tushuniladi",
+    "D": "Qat`iy baholar darajasida ishlab chiqarilishi va talab qilinishi mumkin bo`lgan tovar va xizmatlarning hajmi tushuniladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Agregatlash bu.",
+    "A": "Bir qancha iqtisodiy ko’rsatkichlar va kategoriyalarni yagona makroiqtisodiy ko’rsatkich yoki kategoriyaga umumlashtirish orqali milliy iqtisodiyotdagi makroiqtisodiy jarayonlarni tadqiq qilish imkoniyati yuzaga keladi",
+    "B": "Iqtisodiyotdagi umumiy xatti-harakatlarni yoki uning yirik jamlanmalarini o’rganuvchi fandir",
+    "C": "Real iqtisodiy hodisalarni va ularning aloqadorliklarini o’rganadi",
+    "D": "Qaysi sharoitlar yoki jihatlar maqbul yoki nomaqbul ekanligini belgilaydi, harakatning aniq yo’nalishlarini taklif etadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Tijorat banklarining faol faoliyatiga kiradi:",
+    "A": "Kredit berish",
+    "B": "Kreditni moliyalashtirish",
+    "C": "Depozitlarni qabul qilish",
+    "D": "Qimmatli qog'ozlarni chiqarish",
+    "javob": "A"
+  },
+  {
+    "savol": "Vaqtincha foydalanilmayotgan pullar qanday vazifani bajaradi?",
+    "A": "Jamg‘arma vositasi funksiyasini",
+    "B": "To‘lov vositasi funksiyasini",
+    "C": "Muomala vositasi funksiyasini",
+    "D": "Qiymat o‘lchovi funksiyasini",
+    "javob": "A"
+  },
+  {
+    "savol": "Intensiv o‘sish nima?",
+    "A": "Yangi texnika va texnologiyani qo‘llash orqali mavjud resurslardan samarali foydalanish",
+    "B": "Ko‘proq ish kuchini jalb etish vositasida ishlab chiqarishni rivojlantirish",
+    "C": "Yangi korxonalar qurish",
+    "D": "Qo‘shimcha pul resurslarini jalb etish",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi misol intensiv o‘sishga tegishli?",
+    "A": "Zavodda robototexnika joriy qilinib, mahsuldorlik oshdi",
+    "B": "Yangi ishlab chiqarish sexi qurildi",
+    "C": "Ishchilarning ish vaqti uzaytirildi",
+    "D": "Qo‘shimcha xom ashyo olib kelindi",
+    "javob": "A"
+  },
+  {
+    "savol": "Yalpi talabning egri chiziq bo'yicha surilishi narxlar darajasi o'zgarishining foiz stavkasiga bo'lgan ta'sirini qaysi ko'rsatkich ifodalaydi?",
+    "A": "Foiz stavkasi samarasi",
+    "B": "Boylik samarasi",
+    "C": "Import xaridlar amarasi",
+    "D": "Real kassa qoldiqlari samarasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Makroiqtisodiyotdagi MD:",
+    "A": "Pulga bo'lgan talab",
+    "B": "Pul tezligi",
+    "C": "Pul miqdori",
+    "D": "Real pul mablag'lariga bo'lgan talab",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi ko‘rsatkich intensiv o‘sishga bog‘liq?",
+    "A": "Ishlab chiqarish samaradorligi",
+    "B": "Ishchilarning umumiy soni",
+    "C": "Ish vaqti davomiyligi",
+    "D": "Resurslar narxi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ekstensiv o‘sishda qanday tendensiya kuzatiladi?",
+    "A": "Qo‘shimcha resurslar jalb qilinadi",
+    "B": "Innovatsion faoliyat kuchayadi",
+    "C": "Yangi mahsulotlar ishlab chiqiladi",
+    "D": "Samaradorlik oshadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Insoniy kapital nima?",
+    "A": "Odamlarning bilim va ko'nikmalarini",
+    "B": "Xodimlarning soni",
+    "C": "Aholi jon boshiga to’g’ri keladigan YaIM",
+    "D": "Samarasiz ish",
+    "javob": "A"
+  },
+  {
+    "savol": "Jismoniy kapital",
+    "A": "Asbob-uskunalar va jihozlar",
+    "B": "Tabiiy resurslar",
+    "C": "Mehnatga layoqatli aholining soni",
+    "D": "Samarasiz ish",
+    "javob": "A"
+  },
+  {
+    "savol": ".....milliy tegishliligi va fuqaroligidan qat’iy nazar, mazkur mamlakatning iqtisodiy hududida iqtisodiy manfaat markaziga ega bo’lgan (ishlab chiqarish faoliyati bilan shug’ullanadigan, yoki mamlakat hududida bir yildan ortiq yashayotgan) barcha iqtisodiy birliklar",
+    "A": "Rezident",
+    "B": "YaIM",
+    "C": "YaMM",
+    "D": "SMM",
+    "javob": "A"
+  },
+  {
+    "savol": "Xarajatlar bo'yicha milliy daromad (MD) qanday aniqlanadi?",
+    "A": "SMM - bilvosita soliqlar",
+    "B": "SMM + bilvosita soliqlar",
+    "C": "SMM + subsidiyalar",
+    "D": "SMM + amortizatsiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Yalpi talab qaysi birini o'z ichiga olmaydi?",
+    "A": "Sof import",
+    "B": "Iste'molchi talabi",
+    "C": "Davlat talab",
+    "D": "Sof eksport",
+    "javob": "A"
+  },
+  {
+    "savol": "Y = C + I + G + NX identifikatorida I omilini bildiradi:",
+    "A": "Investitsiya xarajatlari",
+    "B": "Iste'mol xarajatlari",
+    "C": "Davlat xarajatlari",
+    "D": "Sof eksport",
+    "javob": "A"
+  },
+  {
+    "savol": "Y = C + I + G + NX identifikatorida G omilini bildiradi:",
+    "A": "Davlat xarajatlari",
+    "B": "Investitsiya xarajatlari",
+    "C": "Iste'mol xarajatlari",
+    "D": "Sof eksport",
+    "javob": "A"
+  },
+  {
+    "savol": "Milliy daromad darajasiga bog’liq bo`lmagan investitsiyalar-bu?",
+    "A": "Avtonom investitsiyalar",
+    "B": "Investitsiyalarga bo`lgan chegaraviy moyillik",
+    "C": "Nisbiy investitsiyalar",
+    "D": "Sof investitsiyalar",
+    "javob": "A"
+  },
+  {
+    "savol": "Amortizatsiya ajratmasi",
+    "A": "Asosiy kapitalning yil davomida ishlab chiqapish jarayonida iste’mol qilingan va yaratilayotgan mahsulotga ko’chgan qiymati",
+    "B": "Mahsulot va xizmatlarga uy xo`jaliklari tomonidan to`lovlar",
+    "C": "Oila butun aktivlarining umumiy yig’indisidir",
+    "D": "Sof milliy daromaddan biznesga egri soliqlar chiqarib tashlangandan keyin qolgan qismi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ekspansion pul-kredit siyosati qachon qo‘llaniladi?",
+    "A": "Iqtisodiy o‘sishni rag‘batlantirish kerak bo‘lsa",
+    "B": "Inflyatsiya yuqori bo‘lsa",
+    "C": "Narxlar barqaror bo‘lsa",
+    "D": "Soliq tushumi ko‘paysa",
+    "javob": "A"
+  },
+  {
+    "savol": "Markaziy bankning asosiy vazifasi qaysi?",
+    "A": "Pul siyosatini yuritish",
+    "B": "Kredit berish",
+    "C": "Savdo qilish",
+    "D": "Soliq yig‘ish",
+    "javob": "A"
+  },
+  {
+    "savol": "Makroiqtisodiyotda aholiga beriladigan nafaqalar, stipendiyalar qanday termin bilan ataladi?",
+    "A": "Transfert",
+    "B": "Subsidiyalar",
+    "C": "Vazifalar",
+    "D": "Soliqlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Davlat xarajatlari multiplikatori qanday nisbatni ifodalaydi:",
+    "A": "Daromadlar o’sishining davlat xarajatlari o'sishiga nisbatini",
+    "B": "Daromadning investitsiyalar o'sishiga nisbatini",
+    "C": "Pul massasining daromadlarning o’zgarishiga nisbatini",
+    "D": "Soliqlarning daromadlar o’sishiga nsbatini",
+    "javob": "A"
+  },
+  {
+    "savol": "Moliya munosabatlari nima?",
+    "A": "Maxsus fondlar orqali harakat qiluvchi pul munosabatlari",
+    "B": "Jismoniy va huquqiy sub’ektlar o‘rtasidagi munosabatlar",
+    "C": "Davlat bilan jamoa o‘rtasida iqtisodiy munosabatlar",
+    "D": "Sotuvchi bilan xaridor o‘rtasidagi munosabatlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Valyuta operatsiyalari bu?",
+    "A": "Xorijiy mamlakatlar milliy valyutasini, oldi-sotdisi bilan bo’g’liq operatsiyasi",
+    "B": "Qimmatli qog’ozlar oldi-sotdisi bilab operatsiyalar",
+    "C": "Milliy valyutani muomalada bo’lish",
+    "D": "Ssuda operatsiyalar",
+    "javob": "A"
+  },
+  {
+    "savol": "Byudjet taqchilligini qoplash uchun davlat qaysi mexanizmdan foydalanadi?",
+    "A": "Markaziy bank kreditlari",
+    "B": "Korxona byudjet daromadi",
+    "C": "Mahalliy byudjet daromadi",
+    "D": "Subventsiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Inflyatsiyadan kimlar yutishi mumkin?",
+    "A": "Qarz olgan insonlar",
+    "B": "Qarz bergan insonlar va qat’iy belgilangan daromad (nafaqa, stipendiya, ish haqi) hisobiga yashovchi insonlar",
+    "C": "Omonat kassalariga pul qo‘ygan insonlar",
+    "D": "Sug‘urta egalari, o‘z hayotlarini sug‘urta qilganlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Xalqaro mehnat taqsimotiga sabab nima?",
+    "A": "Davlatlarda ishchi kuchi malakasining notekisligi",
+    "B": "Davlatlarda foydali qazilmalarning o’zlashtirilmayotganligi",
+    "C": "Hayot tarzidagi farqlar",
+    "D": "Tabiiy resurslarning taqchilligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar MB pul taklifini kamaytirishga qaror qilsa:",
+    "A": "Majburiy zahiralash normasini oshiradi",
+    "B": "Ochiq bozorda davlat obligatsiyalarini sotib oladi",
+    "C": "Qayta moliyalshtirish stavkasini kamaytiradi",
+    "D": "Tadbirkorlikni moliyalashtirishni kengaytiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "……….-ishsizlarni ishchi kuchi soniga nisbatiga (% hisobida) aytiladi",
+    "A": "Ishsizlik darajasi",
+    "B": "Ishsizlar soni",
+    "C": "Friksion ishsizlik",
+    "D": "Tarkibiy ishsizlik",
+    "javob": "A"
+  },
+  {
+    "savol": "Iste`mol va jamg’arish hajmini belgilovchi asosiy omil ?",
+    "A": "Uy xo`jaliklarining daromadlari",
+    "B": "Pul bozorida foiz stavkasi",
+    "C": "Mamlakatning ochiqlik darajasi",
+    "D": "Tashqi qarz hajmi",
+    "javob": "A"
+  },
+  {
+    "savol": "Iqtisodiy siklning inqiroz fazasida yuzaga keladigan ishsizlik qanday nomlanadi?",
+    "A": "Siklik ishsizlik",
+    "B": "Turg‘un ishsizlik",
+    "C": "Tabiiy ishsizlik",
+    "D": "Texnologik ishsizlik",
+    "javob": "A"
+  },
+  {
+    "savol": "“Ochiq bozordagi operatsiyalar” atamasi nimani anglatadi?",
+    "A": "MB ning davlat qimmatli qog’ozlarini sotish yoki sotib olish bo’yicha operatsiyalari",
+    "B": "Tijorat banklarining aholi va firmalarga kredit berish faoliyati",
+    "C": "MBning tijorat banklariga qarz berish faoliyati",
+    "D": "Tijorat banklari tomonidan taqdim etiladigan mumiy qarz hajmini oshirish yoki pasaytirish orqali foiz stavkalari darajasiga ta’sir o’tkazish",
+    "javob": "A"
+  },
+  {
+    "savol": "MB tijorat banklariga davlat qimmatli qog'ozlarini sotganda:",
+    "A": "Tijorat banklarining ortiqcha zahiralari kamayadi",
+    "B": "Davlat qarzi ko'payadi",
+    "C": "Joriy foiz stavkasi pasayadi",
+    "D": "Tijorat banklarining kreditlari ko'payadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Pul massasini aniqlashda",
+    "A": "Pul agregatlaridan foydalaniladi",
+    "B": "Pulga bo`lgan talabdan foydalaniladi",
+    "C": "Pul bajaradigan vazifalardan foydalaniladi",
+    "D": "To`g’ri javob berilmagan",
+    "javob": "A"
+  },
+  {
+    "savol": "Yaqin orada yana ish topishga umid qilayotgan kishi:",
+    "A": "Ishsizlar toifasiga kiradi",
+    "B": "Bandlar toifasiga kiradi",
+    "C": "Ish kuchi tarkibida hisobga olinmaydi",
+    "D": "To`la band emas deb hisoblanadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Pulning muomala vositasi funksiyasi qachon namoyon bo‘ladi?",
+    "A": "Sotuvchi va sotib oluvchi o‘rtasida ayirboshlash bir vaqtda bajarilsa",
+    "B": "Tovar va xizmatlar uchun to‘lov malum muddatdan keyin amalga oshirilsa",
+    "C": "Sotilgan tovar va ko‘rsatilgan xizmatlar uchun to‘lov oldindan amalga oshirilsa",
+    "D": "To‘lov malum muddatga kechirtirilsa",
+    "javob": "A"
+  },
+  {
+    "savol": "Makroiqtisodiyotning asosiy sub’yektlari:",
+    "A": "Uy xo'jaliklari",
+    "B": "Markaziy bank",
+    "C": "Sanoat",
+    "D": "Tovarlar va xizmatlar bozori",
+    "javob": "A"
+  },
+  {
+    "savol": "Tovarlar va xizmatlar bozoridagi muvozanat modeli bildiradiki, muvozanatni …… belgilaydi:",
+    "A": "Real foiz stavkasi",
+    "B": "Olinadigan daromad",
+    "C": "Nominal foiz stavkasi",
+    "D": "Tovarlar va xizmatlar bozorida ishlab chiqarish texnologiyasi",
+    "javob": "A"
+  },
+  {
+    "savol": "YaIM ni xarajatlar bo’yicha hisoblashda quyidagilardan qaysi birining qiymati hisobga olinmaydi?",
+    "A": "Ish haqi",
+    "B": "Investitsiyalar",
+    "C": "Sof eksport",
+    "D": "Tovarlar va xizmatlarni davlat tomonidan xarid qilish",
+    "javob": "A"
+  },
+  {
+    "savol": "Kapital va moliyaviy hisobda nimalar qayd etiladi?",
+    "A": "Investitsiyalar va kreditlar",
+    "B": "Ish haqi va dividendlar",
+    "C": "Tovar eksporti",
+    "D": "Transferlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Makroiqtisodiyot atamasini birinchi bo’lib kim qo’llagan?",
+    "A": "Ragnar Frish",
+    "B": "Aleksandr Fayol",
+    "C": "Adam Smit",
+    "D": "Uilyam Petti",
+    "javob": "A"
+  },
+  {
+    "savol": "Ml, M2, M3 pul agregatlarini ajratish nimaga asoslanadi?",
+    "A": "Ularning likvidlik darajasiga",
+    "B": "Ularning aylanish tezligiga",
+    "C": "Inflyatsiyaga uchrash darajasiga",
+    "D": "Ular bajaradigan vazifalarga",
+    "javob": "A"
+  },
+  {
+    "savol": "Iste`molga va jamg`armaga cheklangan moyillik o`rtasidagi bog`liqlik nimada ifodalanadi?",
+    "A": "Ularning yig`indisi 1 ga teng",
+    "B": "Ular o`rtasidagi nisbat iste`molga o`rtacha moyillikni ifodalaydi",
+    "C": "Ularning yig`indisi ixtiyoriy daromadga teng",
+    "D": "Ularning yig`indisi nolga teng",
+    "javob": "A"
+  },
+  {
+    "savol": "Jahon xo‘jaligi nima?",
+    "A": "Xalqaro mehnat taqsimotida ishtirok etuvchi alohida mamlakatlarning milliy xo‘jalik yaxlitligi",
+    "B": "Xalqaro iqtisodiy munosabatlar tizimi",
+    "C": "Ishab chiqarish kooperatsiyasi chetga tovar chiqarish va kadrlar ayirboshlash bilan shug‘ullanuvchi xo‘jalik",
+    "D": "Xalqaro mehnat taqsimotiga bog‘lik bo‘lmagan xo‘jalik",
+    "javob": "A"
+  },
+  {
+    "savol": "Jahon infrastrukturasi nima?",
+    "A": "Jahon bozoridagi tovarlarni ishlab chiqaruvchi va iste’molchilarga etkazib beruvchi sohalar",
+    "B": "Xalqaro axborot",
+    "C": "Jahon savdosi",
+    "D": "Xalqaro valyuta tizimi",
+    "javob": "A"
+  },
+  {
+    "savol": "YaIM ni hisoblashda quyidagi daromad yoki xarajatlarning qaysi hisobga olinmaydi:",
+    "A": "Avtomobil kompaniyasining obligatsiyalarini sotib olish",
+    "B": "Kvartira uchun ijara haqi",
+    "C": "Kompaniyaning zaxiralari o'sishi",
+    "D": "Xizmatchilarning ish haqi",
+    "javob": "A"
+  },
+  {
+    "savol": "Yangi asbob-uskunalar tufayli zavoddagi mehnat unumdorligi 2 barobar ortdi. Ushbu misolning o'sish omili nima?",
+    "A": "Ilmiy-texnik taraqqiyot",
+    "B": "Xodimlarni rivojlantirish",
+    "C": "Resurslarni oqilona taqsimlash (Rational resource allocation)",
+    "D": "Xodimlarning ish haqini tejash",
+    "javob": "A"
+  },
+  {
+    "savol": "Real kassa qoldiqlari samarasi ekvivalenti……",
+    "A": "Boylik samarasi",
+    "B": "Import tovarlar xaridi samarasi",
+    "C": "Foiz stavkasi samarasi",
+    "D": "Xrapovik samara",
+    "javob": "A"
+  },
+  {
+    "savol": "Pul emissiya qilish huquqi qaysi tashkilotlarga berilgan?",
+    "A": "Markaziy bank",
+    "B": "Tijorat banklar",
+    "C": "Moliya tashkilotlari",
+    "D": "Xususiy banklar",
+    "javob": "A"
+  },
+  {
+    "savol": "Shaxsiy daromad -bu:",
+    "A": "Uy xo’jaliklari tomonidan yil davomida olingan daromad",
+    "B": "Yil davomida ishlab chiqarilgan tovar va xizmatldar qiymati",
+    "C": "Soliqlar to’langandan keyin shaxsiy xarajatlarga mo’ljallangan daromad",
+    "D": "YAIM minus amortizatsiyasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Sof investitsiyalar:",
+    "A": "Yalpi investitsiya - amortizatsiya",
+    "B": "Yalpi investitsiya + amortizatsiya",
+    "C": "Asosiy kapitalning qiymatini oshirish",
+    "D": "Yalpi investitsiyalar - subsidiyalar",
+    "javob": "A"
+  },
+  {
+    "savol": "YAlpi taklif egri chizig’i nechta kesmalardan iborat ?",
+    "A": "3 ta",
+    "B": "2 ta",
+    "C": "4 ta",
+    "D": "Yalpi taklif egri chizig’i bir butun sifatida o`rganiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Tadbirkorlikka solinadigan soliq miqdori ortib ketsa, unda:",
+    "A": "Yalpi taklif kamayadi va yalpi talabning hajmi o'zgarmaydi",
+    "B": "Yalpi talab qisqartirildi va umumiy taklif hajmi o'zgarmay qoldi",
+    "C": "Yalpi talab va yalpi taklif qisqartirildi",
+    "D": "Yalpi talab va yalpi taklifni ko'paytirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Namoyon bo'lish darajasiga ko'ra inflyatsiya turlari to'g'ri ko'rsatilgan javobni toping",
+    "A": "Yashirin, Oshkora",
+    "B": "Kutilmagan, Kutilayotgan",
+    "C": "Bir mamlakat doirasida, Jahon xo'jaligi doirasida",
+    "D": "Yalpi talab, Yalpi taklif",
+    "javob": "A"
+  },
+  {
+    "savol": "Birinchi makroiqtisodiy model sifatida .................. qayd etilgan",
+    "A": "“Kene jadvali”",
+    "B": "“Keyns xochi”",
+    "C": "Fillips egri chizig’i",
+    "D": "yalpi talab-yalpi taklif (AD-AS) modeli",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan qay biri YaIM tarkibiga qo‘shilmaydi?",
+    "A": "Uy bekalarining xizmatlari",
+    "B": "Yangi uyali telefon sotib olish",
+    "C": "Yangi darslik sotib olinishi",
+    "D": "Yangi avtomobilni sotib olish",
+    "javob": "A"
+  },
+  {
+    "savol": "Uy xo`jaliklari resurslar bozoridan olinadigan pul daromadlari tarkibiga nimalar kiradi?",
+    "A": "Ish haqi, renta, foiz",
+    "B": "Subsidiya va sof soliqlar",
+    "C": "Transfertlar va sof soliqlar",
+    "D": "Yer mehnat kapital foyda",
+    "javob": "A"
+  },
+  {
+    "savol": "Erkin tashqi savdodan ko’p hollarda qaysi sub’ektlar foyda ko'rishadi:",
+    "A": "Iste'molchilar",
+    "B": "Import bilan raqobatlashadigan sanoat",
+    "C": "Rivojlanayotgan mamlakatlar",
+    "D": "Yosh sanoat",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri joriy hisobga kiradi?",
+    "A": "Tovar va xizmatlar savdosi",
+    "B": "Tashqi qarzlar",
+    "C": "Investitsiyalar",
+    "D": "Zaxira aktivlari",
+    "javob": "A"
+  }
+]

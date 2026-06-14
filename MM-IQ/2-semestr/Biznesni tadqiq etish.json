@@ -1,0 +1,1570 @@
+[
+  {
+    "savol": "“Biznes” so‘zi qanday ma’noni bildiradi?",
+    "A": "Ish-mashg‘ulot",
+    "B": "Dam olish",
+    "C": "Sayohat",
+    "D": "O‘yin-kulgi",
+    "javob": "A"
+  },
+  {
+    "savol": "“Biznesmen” atamasi qayerda paydo bo‘lgan?",
+    "A": "Angliyada",
+    "B": "Fransiyada",
+    "C": "Germaniyada",
+    "D": "Rossiyada",
+    "javob": "A"
+  },
+  {
+    "savol": "“Shodlik” kafesi misolida oylik daromad qancha bo‘lgan?",
+    "A": "75 000 000 so‘m",
+    "B": "40 000 000 so‘m",
+    "C": "76 000 000 so‘m",
+    "D": "25 000 000 so‘m",
+    "javob": "A"
+  },
+  {
+    "savol": "“Shodlik” kafesining foydasi qanday bo‘lgan?",
+    "A": "Zarar bilan yakunlangan",
+    "B": "Katta foyda bilan yakunlangan",
+    "C": "Soliqsiz qolgan",
+    "D": "Kredit bilan yopilgan",
+    "javob": "A"
+  },
+  {
+    "savol": "“Strategiya” so‘zi qaysi tildan olingan?",
+    "A": "Grek tilidan",
+    "B": "Arab tilidan",
+    "C": "Lotin tilidan",
+    "D": "Ingliz tilidan",
+    "javob": "A"
+  },
+  {
+    "savol": "“Strategos” qanday ma’noni anglatadi?",
+    "A": "General san’ati",
+    "B": "Savdo markazi",
+    "C": "Ombor tizimi",
+    "D": "Soliq siyosati",
+    "javob": "A"
+  },
+  {
+    "savol": "“Yagona davlat nazorati” tizimi qachon ishga tushirilgan?",
+    "A": "2022-yil 1-aprelda",
+    "B": "2021-yil 1-aprelda",
+    "C": "2020-yil 1-aprelda",
+    "D": "2023-yil 1-aprelda",
+    "javob": "A"
+  },
+  {
+    "savol": "2022-yil 11-yanvarda qabul qilingan qonun nima bilan bog‘liq?",
+    "A": "Biznes-ombudsman vakolatlari bilan",
+    "B": "Ta’lim tizimi bilan",
+    "C": "Sog‘liqni saqlash bilan",
+    "D": "Qishloq xo‘jaligi bilan",
+    "javob": "A"
+  },
+  {
+    "savol": "241-1-modda nimaga oid?",
+    "A": "Xususiy mulk huquqini buzishga",
+    "B": "Soliq to‘lashga",
+    "C": "Kredit olishga",
+    "D": "Reklama joylashtirishga",
+    "javob": "A"
+  },
+  {
+    "savol": "Adam Smith tadbirkorni qanday ta’riflagan?",
+    "A": "Tijorat g‘oyasini amalga oshiruvchi shaxs",
+    "B": "Davlat xizmatchisi",
+    "C": "Soliq yig‘uvchi",
+    "D": "Bank xodimi",
+    "javob": "A"
+  },
+  {
+    "savol": "AJ nimani anglatadi?",
+    "A": "Aksiyadorlik jamiyati",
+    "B": "Aholi jamg‘armasi",
+    "C": "Axborot jamiyati",
+    "D": "Avtomobil jamiyati",
+    "javob": "A"
+  },
+  {
+    "savol": "Amaliy strategiya kimlar uchun ishlab chiqiladi?",
+    "A": "Asosiy tuzilmalar uchun",
+    "B": "banklar uchun",
+    "C": "Soliq organlari uchun",
+    "D": "Sug‘urta kompaniyalari uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "Axborotdan foydalanishning iqtisodiy samarasi nimadan katta bo‘lishi kerak?",
+    "A": "Uni olish xarajatlaridan",
+    "B": "Reklama xarajatidan",
+    "C": "Ish haqi xarajatidan",
+    "D": "Transport xarajatidan",
+    "javob": "A"
+  },
+  {
+    "savol": "Balanslangan ko‘rsatkichlar tizimi nimani kuzatadi?",
+    "A": "Tashkilot faoliyatining turli jihatlarini",
+    "B": "Ombor hajmini",
+    "C": "Soliq miqdorini",
+    "D": "Reklama sonini",
+    "javob": "A"
+  },
+  {
+    "savol": "Bankda vaqtinchalik raqam nima uchun ochiladi?",
+    "A": "Ustav fondining bir qismini qo‘yish uchun",
+    "B": "Ishchilarni ro‘yxatga olish uchun",
+    "C": "Soliqni kamaytirish uchun",
+    "D": "Reklama qilish uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "Barqaror raqobat ustunligi nimaga asoslanadi?",
+    "A": "Taqlid qilish qiyinligiga",
+    "B": "Ombor kengligiga",
+    "C": "Soliq imtiyoziga",
+    "D": "Kredit foiziga",
+    "javob": "A"
+  },
+  {
+    "savol": "Bashoratlashning birinchi pog‘onasida qanday usullar mavjud?",
+    "A": "Faktografik, aralash va ekspert",
+    "B": "Matematik va fizik",
+    "C": "Huquqiy va siyosiy",
+    "D": "Geografik va tarixiy",
+    "javob": "A"
+  },
+  {
+    "savol": "Bashoratlashning ikkinchi pog‘onasiga nima kiradi?",
+    "A": "Statistik va analogik usullar",
+    "B": "Soliq va kredit usullari",
+    "C": "Qurilish va transport usullari",
+    "D": "Tibbiy va biologik usullar",
+    "javob": "A"
+  },
+  {
+    "savol": "Bill Geyts qanday tizimni taklif etgan?",
+    "A": "Elektron asab tizimini",
+    "B": "Ombor boshqaruv tizimini",
+    "C": "Soliq tizimini",
+    "D": "Kredit tizimini",
+    "javob": "A"
+  },
+  {
+    "savol": "Birlamchi axborot usullaridan biri qaysi?",
+    "A": "Kuzatuv",
+    "B": "Hisobot",
+    "C": "Patent",
+    "D": "Arxiv",
+    "javob": "A"
+  },
+  {
+    "savol": "Birlamchi axborot yig‘ishning yana bir usuli qaysi?",
+    "A": "Tajriba",
+    "B": "Ombor nazorati",
+    "C": "Kreditlash",
+    "D": "Audit",
+    "javob": "A"
+  },
+  {
+    "savol": "Biznes huquqi subyekti qanday imkoniyatga ega?",
+    "A": "Sudga murojaat qilish imkoniyatiga",
+    "B": "Soliq to‘lamaslik imkoniyatiga",
+    "C": "Kreditni qaytarmaslik imkoniyatiga",
+    "D": "Jarimani bekor qilish imkoniyatiga",
+    "javob": "A"
+  },
+  {
+    "savol": "Biznes huquqida munosabatlar nechta guruhga ajratiladi?",
+    "A": "Uch guruhga",
+    "B": "Ikki guruhga",
+    "C": "To‘rt guruhga",
+    "D": "Besh guruhga",
+    "javob": "A"
+  },
+  {
+    "savol": "Biznes huquqiy munosabatlar nima uchun muhim?",
+    "A": "Huquqiy aniqlikni ta’minlash uchun",
+    "B": "Jarimalarni oshirish uchun",
+    "C": "Soliqni bekor qilish uchun",
+    "D": "Importni cheklash uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "Biznes huquqiy munosabatlar nima?",
+    "A": "Huquq normalari bilan tartibga solinadigan ijtimoiy munosabatlar",
+    "B": "Davlat qarorlari",
+    "C": "Soliq to‘lovlari",
+    "D": "Sud hukmlari",
+    "javob": "A"
+  },
+  {
+    "savol": "Biznes huquqiy munosabatlar subyektlariga kimlar kiradi?",
+    "A": "Tadbirkorlik subyektlari",
+    "B": "O‘qituvchilar",
+    "C": "Shifokorlar",
+    "D": "Talabalar",
+    "javob": "A"
+  },
+  {
+    "savol": "Biznes modeli nimani belgilaydi?",
+    "A": "Qiymat yaratish usulini",
+    "B": "Ombor hajmini",
+    "C": "Soliq stavkasini",
+    "D": "Kredit miqdorini",
+    "javob": "A"
+  },
+  {
+    "savol": "Biznes munosabatlarining eng keng tarqalgan asosi nima?",
+    "A": "Shartnomalar",
+    "B": "Reklama",
+    "C": "Jarima",
+    "D": "Kredit",
+    "javob": "A"
+  },
+  {
+    "savol": "Biznes reja nechta asosiy funksiyani bajaradi?",
+    "A": "4 ta",
+    "B": "2 ta",
+    "C": "6 ta",
+    "D": "8 ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Biznes reja nima?",
+    "A": "Tijorat faoliyatini asoslovchi hujjat",
+    "B": "Reklama vositasi",
+    "C": "Soliq deklaratsiyasi",
+    "D": "Ombor hisoboti",
+    "javob": "A"
+  },
+  {
+    "savol": "Biznes reja nimani aniqlash uchun tuziladi?",
+    "A": "Korxona faoliyat darajasini",
+    "B": "Ombor hajmini",
+    "C": "Ishchilar sonini",
+    "D": "Reklama narxini",
+    "javob": "A"
+  },
+  {
+    "savol": "Biznes rejaning maqsadlaridan biri nima?",
+    "A": "Investorlarni jalb qilish",
+    "B": "Ombor ijarasi",
+    "C": "Patent olish",
+    "D": "Soliqni kamaytirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Biznesda axborot nimaning aks ettirilishi hisoblanadi?",
+    "A": "Bozor ko‘rsatkichlarining",
+    "B": "ishlab chiqarishning",
+    "C": "Siyosiy tizimning",
+    "D": "Bank tizimining",
+    "javob": "A"
+  },
+  {
+    "savol": "Blue Ocean strategiyasi nimani taklif qiladi?",
+    "A": "Yangi bozor yaratishni",
+    "B": "Ombor kengaytirishni",
+    "C": "Soliqni oshirishni",
+    "D": "Kreditni kamaytirishni",
+    "javob": "A"
+  },
+  {
+    "savol": "Boshqariladigan ko‘rsatkich nimaga bog‘liq holda o‘zgaradi?",
+    "A": "Omillarning o‘zgarishiga",
+    "B": "Reklama soniga",
+    "C": "Ombor maydoniga",
+    "D": "Kredit muddatiga",
+    "javob": "A"
+  },
+  {
+    "savol": "Boshqaruvga oid biznes munosabatlari kimlar o‘rtasida bo‘ladi?",
+    "A": "Davlat va biznes subyektlari o‘rtasida",
+    "B": "Ishchilar o‘rtasida",
+    "C": "Talabalar o‘rtasida",
+    "D": "Fermerlar o‘rtasida",
+    "javob": "A"
+  },
+  {
+    "savol": "Bozor jozibadorligi nima?",
+    "A": "Bozorning foydalilik darajasi",
+    "B": "Ombor hajmi",
+    "C": "Soliq miqdori",
+    "D": "Reklama narxi",
+    "javob": "A"
+  },
+  {
+    "savol": "Bozor kon’yunkturasi nima?",
+    "A": "Talab, taklif va narxlarning holati",
+    "B": "Ombor maydoni",
+    "C": "Sug‘urta summasi",
+    "D": "Kredit stavkasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Bozor talabi qaysi bo‘limda ko‘rsatiladi?",
+    "A": "Biznesni ifodalash bo‘limida",
+    "B": "Moliyaviy rejada",
+    "C": "Tavakkalchilikda",
+    "D": "Sug‘urtada",
+    "javob": "A"
+  },
+  {
+    "savol": "Bozorni kompleks o‘rganishning maqsadi nima?",
+    "A": "Xaridor talabini aniqlash",
+    "B": "Soliqni oshirish",
+    "C": "Ombor qurish",
+    "D": "Kreditni kamaytirish",
+    "javob": "A"
+  },
+  {
+    "savol": "CAGR nimani bildiradi?",
+    "A": "Yillik o‘rtacha o‘sish sur’atini",
+    "B": "Ombor xarajatini",
+    "C": "Sug‘urta summasini",
+    "D": "Kredit stavkasini",
+    "javob": "A"
+  },
+  {
+    "savol": "Cirque du Soleil qaysi strategiyaga misol bo‘ladi?",
+    "A": "Ko‘k okean strategiyasiga",
+    "B": "Narx liderligiga",
+    "C": "Fokus strategiyasiga",
+    "D": "Sug‘urta strategiyasiga",
+    "javob": "A"
+  },
+  {
+    "savol": "Davlat subyektlariga nima kiradi?",
+    "A": "Davlat unitar korxonalari",
+    "B": "Oilaviy korxonalar",
+    "C": "Fermer xo‘jaliklari",
+    "D": "Xususiy firmalar",
+    "javob": "A"
+  },
+  {
+    "savol": "Dehqon xo‘jaligi qanday mehnat asosida yuritiladi?",
+    "A": "Oila mehnati asosida",
+    "B": "Davlat mehnati asosida",
+    "C": "Xorijiy mehnat asosida",
+    "D": "Bank krediti asosida",
+    "javob": "A"
+  },
+  {
+    "savol": "Delphi usuli qaysi turdagi usulga kiradi?",
+    "A": "Bashoratlash usuliga",
+    "B": "Soliq usuliga",
+    "C": "Kredit usuliga",
+    "D": "Qurilish usuliga",
+    "javob": "A"
+  },
+  {
+    "savol": "Differensiatsiya strategiyasi nimaga asoslanadi?",
+    "A": "Mahsulotning noyobligiga",
+    "B": "Ombor hajmiga",
+    "C": "Soliq stavkasiga",
+    "D": "Kredit foiziga",
+    "javob": "A"
+  },
+  {
+    "savol": "Differentsiatsiya strategiyasi nimani ta’minlaydi?",
+    "A": "Mahsulotning noyobligini",
+    "B": "Ombor kengligini",
+    "C": "Soliq oshishini",
+    "D": "Kredit kamayishini",
+    "javob": "A"
+  },
+  {
+    "savol": "Dinamik qobiliyatlar nimani anglatadi?",
+    "A": "O‘zgaruvchan muhitga moslashishni",
+    "B": "Ombor kengayishini",
+    "C": "Kredit berishni",
+    "D": "Sug‘urtalashni",
+    "javob": "A"
+  },
+  {
+    "savol": "Diqqatni jamlash strategiyasi nimaga qaratiladi?",
+    "A": "Muayyan xaridorlar guruhiga",
+    "B": "Ombor tizimiga",
+    "C": "Sug‘urtaga",
+    "D": "Soliqqa",
+    "javob": "A"
+  },
+  {
+    "savol": "Ekotizim asosidagi ustunlikka misol qaysi?",
+    "A": "Apple",
+    "B": "Ombor markazi",
+    "C": "Soliq inspeksiyasi",
+    "D": "Sug‘urta kompaniyasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Faoliyat yo‘nalishi bo‘yicha korxonalar qanday bo‘ladi?",
+    "A": "Ishlab chiqarish yo‘nalishidagi",
+    "B": "Siyosiy yo‘nalishdagi",
+    "C": "Diplomatik yo‘nalishdagi",
+    "D": "Harbiy yo‘nalishdagi",
+    "javob": "A"
+  },
+  {
+    "savol": "Fermer xo‘jaligi nima bilan shug‘ullanadi?",
+    "A": "Qishloq xo‘jaligi mahsulotlarini yetishtirish bilan",
+    "B": "Qurilish bilan",
+    "C": "Sanoat ishlab chiqarishi bilan",
+    "D": "Sug‘urta faoliyati bilan",
+    "javob": "A"
+  },
+  {
+    "savol": "Fokus strategiyasi nimaga qaratiladi?",
+    "A": "Tor segmentga",
+    "B": "Omborga",
+    "C": "Sug‘urtaga",
+    "D": "Soliqqa",
+    "javob": "A"
+  },
+  {
+    "savol": "Foyda formulasi qanday yoziladi?",
+    "A": "D-UX=F",
+    "B": "UX-D=F",
+    "C": "F+UX=D",
+    "D": "SF-F=D",
+    "javob": "A"
+  },
+  {
+    "savol": "Foyda solig‘ining asosiy stavkasi qancha?",
+    "A": "15%",
+    "B": "12%",
+    "C": "20%",
+    "D": "25%",
+    "javob": "A"
+  },
+  {
+    "savol": "Funksional strategiyalar nimani aniqlashtiradi?",
+    "A": "Bo‘limlar harakatlarini",
+    "B": "Reklama byudjetini",
+    "C": "Ombor xarajatini",
+    "D": "Sug‘urta stavkasini",
+    "javob": "A"
+  },
+  {
+    "savol": "Gorizontal munosabatlar qanday bo‘ladi?",
+    "A": "Tadbirkorlarning tenglik asosidagi munosabatlari",
+    "B": "Davlat nazoratidagi munosabatlar",
+    "C": "Sud jarayonlari",
+    "D": "Soliq tekshiruvlari",
+    "javob": "A"
+  },
+  {
+    "savol": "Govcontrol.uz nima uchun xizmat qiladi?",
+    "A": "Tekshiruvlarni ro‘yxatga olish va monitoring qilish uchun",
+    "B": "Kredit berish uchun",
+    "C": "Ombor boshqarish uchun",
+    "D": "Valyuta sotish uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "HHI nimani o‘lchaydi?",
+    "A": "Bozor konsentratsiyasini",
+    "B": "Ombor hajmini",
+    "C": "Soliq stavkasini",
+    "D": "Reklama xarajatini",
+    "javob": "A"
+  },
+  {
+    "savol": "Huquq va majburiyatlarning asosiy manbalaridan biri nima?",
+    "A": "Qonun hujjatlari",
+    "B": "Reklama",
+    "C": "Ombor",
+    "D": "Transport",
+    "javob": "A"
+  },
+  {
+    "savol": "Huquqbuzarlik natijasida nima yuzaga keladi?",
+    "A": "Javobgarlik",
+    "B": "Dividend",
+    "C": "Subsidiyalar",
+    "D": "Bonuslar",
+    "javob": "A"
+  },
+  {
+    "savol": "Huquqiy munosabatlarning ishtirokchilari nimaga ega bo‘ladi?",
+    "A": "Subyektiv huquq va majburiyatlarga",
+    "B": "kreditga",
+    "C": "soliq imtiyoziga",
+    "D": "Omborga",
+    "javob": "A"
+  },
+  {
+    "savol": "Ichki bozordagi keskin raqobat firmalarni nimaga undaydi?",
+    "A": "Faoliyatni takomillashtirishga",
+    "B": "Ombor yopishga",
+    "C": "Soliq oshirishga",
+    "D": "Kredit kamaytirishga",
+    "javob": "A"
+  },
+  {
+    "savol": "Ikkilamchi axborotning ichki manbalari nima?",
+    "A": "Firma statistik ma’lumotlari",
+    "B": "Reklama bannerlari",
+    "C": "Tashqi savdo bitimlari",
+    "D": "Patentlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Ilmiy tadqiqot faoliyati nima uchun tashkil qilinadi?",
+    "A": "Yangi mahsulot yaratish uchun",
+    "B": "Soliq yig‘ish uchun",
+    "C": "Jarima to‘lash uchun",
+    "D": "Kredit olish uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "Innovatsiya rejasi nimani o‘z ichiga oladi?",
+    "A": "Yangi mahsulotlarni",
+    "B": "Ombor qurilishini",
+    "C": "Kredit siyosatini",
+    "D": "Soliq hisobotini",
+    "javob": "A"
+  },
+  {
+    "savol": "Ishbilarmon strategiya nimaga yo‘naltiriladi?",
+    "A": "Raqobat ustunligiga erishishga",
+    "B": "Ombor qurishga",
+    "C": "Soliqni kamaytirishga",
+    "D": "Kredit olishga",
+    "javob": "A"
+  },
+  {
+    "savol": "Ishlab chiqarish quvvati qaysi rejaga kiradi?",
+    "A": "Ishlab chiqarish rejasiga",
+    "B": "Marketing rejasiga",
+    "C": "Sug‘urta rejasiga",
+    "D": "Audit rejasiga",
+    "javob": "A"
+  },
+  {
+    "savol": "Ishlab chiqarish vositalarini ishlab chiqaruvchilar nimaga kiradi?",
+    "A": "Tayyor mahsulot maqsadiga ko‘ra",
+    "B": "Soliq tizimiga ko‘ra",
+    "C": "Kredit tizimiga ko‘ra",
+    "D": "Sud tizimiga ko‘ra",
+    "javob": "A"
+  },
+  {
+    "savol": "Jismoniy shaxslardan olinadigan daromad solig‘i stavkasi qancha?",
+    "A": "12%",
+    "B": "15%",
+    "C": "20%",
+    "D": "25%",
+    "javob": "A"
+  },
+  {
+    "savol": "Kichik biznesning afzalligi nimada?",
+    "A": "Tez o‘zgaruvchan bozorga moslashishda",
+    "B": "Soliqdan ozod bo‘lishida",
+    "C": "Kreditni qaytarmasligida",
+    "D": "Jarima to‘lamasligida",
+    "javob": "A"
+  },
+  {
+    "savol": "Kichik tadbirkorlik subyektlariga nimalar kiradi?",
+    "A": "Yakka tartibdagi tadbirkorlar, mikrofirmalar va kichik korxonalar",
+    "B": "Davlat korxonalari va konsernlar",
+    "C": "Banklar va sug‘urta kompaniyalari",
+    "D": "Vazirlik va idoralar",
+    "javob": "A"
+  },
+  {
+    "savol": "Korporativ munosabatlar kimlar o‘rtasida bo‘ladi?",
+    "A": "Muassislar va aksiyadorlar o‘rtasida",
+    "B": "O‘quvchilar o‘rtasida",
+    "C": "Shifokorlar o‘rtasida",
+    "D": "Talabalar o‘rtasida",
+    "javob": "A"
+  },
+  {
+    "savol": "Korporativ strategiya nimani ko‘rsatadi?",
+    "A": "Korxonaning umumiy rivojlanishini",
+    "B": "Ombor joylashuvini",
+    "C": "Soliq miqdorini",
+    "D": "Reklama narxini",
+    "javob": "A"
+  },
+  {
+    "savol": "Korporativ strategiya nimani qamrab oladi?",
+    "A": "Kompaniyaning umumiy strategiyasini",
+    "B": "Ombor rejasini",
+    "C": "Sug‘urta siyosatini",
+    "D": "Kredit tizimini",
+    "javob": "A"
+  },
+  {
+    "savol": "Korrelatsiya va omilli modellar qaysi pog‘onaga kiradi?",
+    "A": "Uchinchi pog‘onaga",
+    "B": "Birinchi pog‘onaga",
+    "C": "Ikkinchi pog‘onaga",
+    "D": "To‘rtinchi pog‘onaga",
+    "javob": "A"
+  },
+  {
+    "savol": "Korxona faoliyatida nimaga yo‘l qo‘ymaslik kerak?",
+    "A": "To‘xtab qolishga",
+    "B": "Ishlab chiqarishga",
+    "C": "Reklamaga",
+    "D": "Savdoga",
+    "javob": "A"
+  },
+  {
+    "savol": "Korxona foydasini taqsimlash qaysi rejaga kiradi?",
+    "A": "Moliyaviy rejaga",
+    "B": "Marketing rejasiga",
+    "C": "Innovatsiya rejasiga",
+    "D": "Ombor rejasiga",
+    "javob": "A"
+  },
+  {
+    "savol": "Korxona ijtimoiy munosabatlarda nimani anglatadi?",
+    "A": "Mehnat jamoasini",
+    "B": "Direktor faoliyatini",
+    "C": "Kredit tizimini",
+    "D": "Savdo markazini",
+    "javob": "A"
+  },
+  {
+    "savol": "Korxona ishlab chiqarish va texnikaviy munosabatlarda nimani anglatadi?",
+    "A": "Mashina va mexanizmlar tizimini",
+    "B": "Ishchilar jamoasini",
+    "C": "Soliq tizimini",
+    "D": "Marketing bo‘limini",
+    "javob": "A"
+  },
+  {
+    "savol": "Korxona kreditorlar oldida nima bilan javob beradi?",
+    "A": "O‘z mulki bilan",
+    "B": "Davlat mulki bilan",
+    "C": "Ishchilar bilan",
+    "D": "Sug‘urta bilan",
+    "javob": "A"
+  },
+  {
+    "savol": "Korxona moliyaviy-iqtisodiy munosabatlarda nima hisoblanadi?",
+    "A": "Mustaqil bozor subyekti",
+    "B": "Davlat idorasi",
+    "C": "Sug‘urta markazi",
+    "D": "Xayriya tashkiloti",
+    "javob": "A"
+  },
+  {
+    "savol": "Korxona sudda qanday qatnashishi mumkin?",
+    "A": "Da’vogar va javobgar sifatida",
+    "B": "Kuzatuvchi sifatida",
+    "C": "Eksportchi sifatida",
+    "D": "Investor sifatida",
+    "javob": "A"
+  },
+  {
+    "savol": "Korxona tashkil qilishning asosiy maqsadi nima?",
+    "A": "Foyda olish",
+    "B": "Jarima to‘lash",
+    "C": "Kredit yopish",
+    "D": "Soliqni kamaytirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Korxona tashkiliy-huquqiy munosabatlarda qanday faoliyat yuritadi?",
+    "A": "Yuridik shaxs sifatida",
+    "B": "Jismoniy shaxs sifatida",
+    "C": "Davlat organi sifatida",
+    "D": "Fond sifatida",
+    "javob": "A"
+  },
+  {
+    "savol": "Korxonaga firma nomi berish jarayoni qanday ataladi?",
+    "A": "Identifikatsiya qilish",
+    "B": "Taqsimlash",
+    "C": "Kodlash",
+    "D": "Rejalashtirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Korxonalar faoliyatining asosiy vazifalaridan biri nima?",
+    "A": "Ish joylari yaratish",
+    "B": "Eksport qilish",
+    "C": "Valyuta sotib olish",
+    "D": "Import qilish",
+    "javob": "A"
+  },
+  {
+    "savol": "Korxonani davlat ro‘yxatidan o‘tkazish uchun nima to‘lanadi?",
+    "A": "Yig‘im",
+    "B": "Dividend",
+    "C": "Kredit",
+    "D": "Subsidiyalar",
+    "javob": "A"
+  },
+  {
+    "savol": "Korxonani tashkil etishning birinchi bosqichi nima?",
+    "A": "Ta’sischilar majlisini o‘tkazish",
+    "B": "Soliq to‘lash",
+    "C": "Ombor qurish",
+    "D": "Aksiyalarni sotish",
+    "javob": "A"
+  },
+  {
+    "savol": "Korxonaning birinchi asosiy xususiyati nima?",
+    "A": "Alohida mulkka ega bo‘lishi",
+    "B": "Reklama bilan shug‘ullanishi",
+    "C": "Kredit olishi",
+    "D": "eksport qilishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Korxonaning huquqiy statusi qaysi rejaga kiradi?",
+    "A": "Huquqiy rejaga",
+    "B": "Marketing rejasiga",
+    "C": "Innovatsiya rejasiga",
+    "D": "Sug‘urta rejasiga",
+    "javob": "A"
+  },
+  {
+    "savol": "Litsenziyalar qanday hujjatlar turiga kiradi?",
+    "A": "Ma’muriy hujjatlarga",
+    "B": "Moliyaviy hujjatlarga",
+    "C": "Xususiy hujjatlarga",
+    "D": "Oilaviy hujjatlarga",
+    "javob": "A"
+  },
+  {
+    "savol": "LTV/CAC nisbati nimani ko‘rsatadi?",
+    "A": "Biznes modelining barqarorligini",
+    "B": "Ombor sig‘imini",
+    "C": "Soliq hajmini",
+    "D": "Kredit muddatini",
+    "javob": "A"
+  },
+  {
+    "savol": "Ma’lumotlarni yig‘ish qaysi bosqichga kiradi?",
+    "A": "Tadqiqot rejasini amalga oshirishga",
+    "B": "Rejalashtirishga",
+    "C": "Auditga",
+    "D": "Sug‘urtaga",
+    "javob": "A"
+  },
+  {
+    "savol": "Marketing faoliyatida yangi mahsulotlarni yaratish qaysi funksiya orqali amalga oshiriladi?",
+    "A": "Mahsulot yaratish funksiyasi",
+    "B": "Sotish funksiyasi",
+    "C": "Reklama funksiyasi",
+    "D": "Audit funksiyasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Marketing tadqiqotlari jarayonining birinchi bosqichi nima?",
+    "A": "Muammo va maqsadni aniqlash",
+    "B": "Reklama tayyorlash",
+    "C": "Kredit olish",
+    "D": "Ombor qurish",
+    "javob": "A"
+  },
+  {
+    "savol": "Marketing tadqiqotlari qaysi yo‘nalishda olib boriladi?",
+    "A": "Bozorni o‘rganish",
+    "B": "Qurilish ishlari",
+    "C": "Sug‘urta ishlari",
+    "D": "Soliq nazorati",
+    "javob": "A"
+  },
+  {
+    "savol": "Marketingni boshqarish va nazorat qilish bilan shug‘ullanuvchi funksiya qaysi?",
+    "A": "Marketing-menejment funksiyasi",
+    "B": "Sotish funksiyasi",
+    "C": "Tovar funksiyasi",
+    "D": "Transport funksiyasi",
+    "javob": "A"
+  },
+  {
+    "savol": "MAT qisqartmasi nimani anglatadi?",
+    "A": "Marketing axborot tizimlari",
+    "B": "Moliyaviy axborot texnologiyasi",
+    "C": "Marketing audit tizimi",
+    "D": "Menejment axborot tahlili",
+    "javob": "A"
+  },
+  {
+    "savol": "MChJ nimani anglatadi?",
+    "A": "Mas’uliyati cheklangan jamiyat",
+    "B": "Mahalliy chorvachilik jamiyati",
+    "C": "Moliyaviy choralar jamiyati",
+    "D": "Markaziy jamg‘arma",
+    "javob": "A"
+  },
+  {
+    "savol": "McKinsey matritsasi nimani baholaydi?",
+    "A": "Bozor jozibadorligi va raqobat kuchini",
+    "B": "Ombor sig‘imini",
+    "C": "Sug‘urta miqdorini",
+    "D": "Kredit foizini",
+    "javob": "A"
+  },
+  {
+    "savol": "Mehnatga oid biznes munosabatlari nimaga asoslanadi?",
+    "A": "Mehnat shartnomalariga",
+    "B": "Kredit shartlariga",
+    "C": "Soliq qarorlariga",
+    "D": "Reklama kampaniyasiga",
+    "javob": "A"
+  },
+  {
+    "savol": "Menejerlarning asosiy funksiyalaridan biri qaysi?",
+    "A": "Rejalashtirish",
+    "B": "Ombor qurish",
+    "C": "Soliq yig‘ish",
+    "D": "Sug‘urtalash",
+    "javob": "A"
+  },
+  {
+    "savol": "Mexanika va metallurgiya sohasida kichik korxona xodimlari soni nechagacha bo‘ladi?",
+    "A": "50 yoki kamroq",
+    "B": "200 yoki kamroq",
+    "C": "500 yoki kamroq",
+    "D": "10 yoki kamroq",
+    "javob": "A"
+  },
+  {
+    "savol": "Mikrofirma qanday belgilanadi?",
+    "A": "Xodimlar soni mezoni bilan",
+    "B": "Foyda miqdori bilan",
+    "C": "Kredit hajmi bilan",
+    "D": "Soliq summasi bilan",
+    "javob": "A"
+  },
+  {
+    "savol": "Milliy iqtisodiyotning raqobatbardoshligi nima?",
+    "A": "Jahon bozori talabini qondirish qobiliyati",
+    "B": "Ombor tizimi",
+    "C": "Sug‘urta hajmi",
+    "D": "Kredit siyosati",
+    "javob": "A"
+  },
+  {
+    "savol": "Minimal ish haqi prognozlashning qanday elementiga kiradi?",
+    "A": "Instrumental o‘zgaruvchilarga",
+    "B": "Tovar siyosatiga",
+    "C": "Reklama siyosatiga",
+    "D": "Ombor tizimiga",
+    "javob": "A"
+  },
+  {
+    "savol": "Miqdoriy tahlil nimaga asoslanadi?",
+    "A": "Statistik ma’lumotlarga",
+    "B": "Reklama bannerlariga",
+    "C": "Ombor hujjatlariga",
+    "D": "Sug‘urta polislariga",
+    "javob": "A"
+  },
+  {
+    "savol": "Miqdoriy usullarga qaysi biri kiradi?",
+    "A": "Ekonometrik usul",
+    "B": "Huquqiy tahlil",
+    "C": "Marketing reklama",
+    "D": "Sud ekspertizasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Mission nimani bildiradi?",
+    "A": "Vazifani",
+    "B": "Omborni",
+    "C": "Reklamani",
+    "D": "Sug‘urtani",
+    "javob": "A"
+  },
+  {
+    "savol": "Modellashtirish usuli nimani o‘rganadi?",
+    "A": "Ob’ektning kutilayotgan holatini",
+    "B": "Narxlarni",
+    "C": "Soliq stavkalarini",
+    "D": "Savdo hajmini",
+    "javob": "A"
+  },
+  {
+    "savol": "Moliyaviy institutlarga nimalar kiradi?",
+    "A": "Banklar va sug‘urta kompaniyalari",
+    "B": "Maktab va bog‘chalar",
+    "C": "Kasalxonalar",
+    "D": "Kutubxonalar",
+    "javob": "A"
+  },
+  {
+    "savol": "Muhrni tayyorlash qaysi tashkilot orqali amalga oshiriladi?",
+    "A": "O‘zbekiston Respublikasi IIV tashkilotlari orqali",
+    "B": "Soliq qo‘mitasi orqali",
+    "C": "Bank orqali",
+    "D": "Hokimiyat orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Mulkiy biznes munosabatlari nimaga bog‘liq?",
+    "A": "Mulkni egallash va foydalanishga",
+    "B": "Reklama qilishga",
+    "C": "Soliq yig‘ishga",
+    "D": "Jarima to‘lashga",
+    "javob": "A"
+  },
+  {
+    "savol": "Narx liderligi strategiyasi nimani anglatadi?",
+    "A": "Eng past xarajat bilan ishlab chiqarishni",
+    "B": "Ombor kengayishini",
+    "C": "Sug‘urtani oshirishni",
+    "D": "Soliqni ko‘paytirishni",
+    "javob": "A"
+  },
+  {
+    "savol": "Narx strategiyasi va taktikasini ishlab chiqish qaysi funksiyada amalga oshiriladi?",
+    "A": "Narxni tashkil etish funksiyasi",
+    "B": "Sotish funksiyasi",
+    "C": "Reklama funksiyasi",
+    "D": "Innovatsiya funksiyasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Niyatijorat tashkilotlari foydani nimaga sarflaydi?",
+    "A": "Ustav maqsadlariga",
+    "B": "Dividendlarga",
+    "C": "Jarimalarga",
+    "D": "Kreditlarga",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘rta muddatli rejalashtirish necha yilni qamrab oladi?",
+    "A": "5 yilni",
+    "B": "2 yilni",
+    "C": "1 yilni",
+    "D": "15 yilni",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘zbekiston Respublikasining “Kichik biznes va xususiy tadbirkorlikni rivojlantirish to‘g‘risida”gi Qonuni qachondan boshlab amal qiladi?",
+    "A": "2004-yil 1-yanvardan",
+    "B": "2005-yil 1-yanvardan",
+    "C": "2003-yil 1-yanvardan",
+    "D": "2006-yil 1-yanvardan",
+    "javob": "A"
+  },
+  {
+    "savol": "Oilaviy korxona kamida nechta kishidan iborat bo‘lishi kerak?",
+    "A": "2 nafar",
+    "B": "5 nafar",
+    "C": "10 nafar",
+    "D": "20 nafar",
+    "javob": "A"
+  },
+  {
+    "savol": "Oilaviy tadbirkorlik kimlar tomonidan amalga oshiriladi?",
+    "A": "Oila a’zolari tomonidan",
+    "B": "Davlat xizmatchilari tomonidan",
+    "C": "Bank xodimlari tomonidan",
+    "D": "investorlar tomonidan",
+    "javob": "A"
+  },
+  {
+    "savol": "PEST tahlili nimani hisobga oladi?",
+    "A": "Siyosiy, iqtisodiy, madaniy va texnologik jihatlarni",
+    "B": "Ombor xarajatlarini",
+    "C": "Kredit miqdorini",
+    "D": "Sug‘urta stavkalarini",
+    "javob": "A"
+  },
+  {
+    "savol": "PESTEL modelidagi “E” nimani anglatadi?",
+    "A": "Iqtisodiy omillarni",
+    "B": "Ombor tizimini",
+    "C": "Kredit miqdorini",
+    "D": "Sug‘urta turini",
+    "javob": "A"
+  },
+  {
+    "savol": "Peter Drucker kim hisoblanadi?",
+    "A": "Zamonaviy menejment otasi",
+    "B": "Fizika olimi",
+    "C": "Shifokor",
+    "D": "Quruvchi",
+    "javob": "A"
+  },
+  {
+    "savol": "Peter Druckerning fikricha biznesning asosiy maqsadi nima?",
+    "A": "Mijoz yaratish",
+    "B": "Jarima yig‘ish",
+    "C": "Soliqni oshirish",
+    "D": "Kredit berish",
+    "javob": "A"
+  },
+  {
+    "savol": "Porter tahlili odatda necha yilda bir marta amalga oshiriladi?",
+    "A": "3–5 yilda bir marta",
+    "B": "Har oy",
+    "C": "Har hafta",
+    "D": "Har kuni",
+    "javob": "A"
+  },
+  {
+    "savol": "Porterning beshta kuchi nimani baholaydi?",
+    "A": "Raqobat kuchlarini",
+    "B": "Ombor sig‘imini",
+    "C": "Kredit foizini",
+    "D": "Sug‘urta summasini",
+    "javob": "A"
+  },
+  {
+    "savol": "Prognoz nima asosida amalga oshiriladi?",
+    "A": "Statistik axborot asosida",
+    "B": "Reklama roliklari asosida",
+    "C": "Internet sharhlari asosida",
+    "D": "Ombor hisobi asosida",
+    "javob": "A"
+  },
+  {
+    "savol": "Prognozlashda boshqarilmaydigan axborot qanday axborot hisoblanadi?",
+    "A": "Ekzogen axborot",
+    "B": "Ichki axborot",
+    "C": "Reklama axboroti",
+    "D": "Tijorat axboroti",
+    "javob": "A"
+  },
+  {
+    "savol": "Prognozlashning ekspert usuli nimaga asoslanadi?",
+    "A": "Mutaxassis fikriga",
+    "B": "Tasodifiy hisob-kitoblarga",
+    "C": "Reklama ma’lumotlariga",
+    "D": "Ombor hisobiga",
+    "javob": "A"
+  },
+  {
+    "savol": "Prognozlashning instrumental o‘zgaruvchilari nima hisoblanadi?",
+    "A": "Boshqaruvchi ko‘rsatkichlar",
+    "B": "Ombor xarajatlari",
+    "C": "Ish haqi fondi",
+    "D": "Transport xarajatlari",
+    "javob": "A"
+  },
+  {
+    "savol": "Qishloq xo‘jaligiga mo‘ljallangan yerlar uchun yer solig‘i stavkasi qancha?",
+    "A": "0.95%",
+    "B": "0.5%",
+    "C": "0.25%",
+    "D": "15%",
+    "javob": "A"
+  },
+  {
+    "savol": "Qiymat zanjiri modeli kim tomonidan ishlab chiqilgan?",
+    "A": "Porter tomonidan",
+    "B": "Kotler tomonidan",
+    "C": "Keynes tomonidan",
+    "D": "Fayol tomonidan",
+    "javob": "A"
+  },
+  {
+    "savol": "QMJ ishtirokchilari nimaga javob beradi?",
+    "A": "Ulushidan tashqari qo‘shimcha majburiyat bilan",
+    "B": "Foyda bilan",
+    "C": "Kredit foizi bilan",
+    "D": "Soliq stavkasi bilan",
+    "javob": "A"
+  },
+  {
+    "savol": "Qo‘shimcha resurslarni ishlab chiqarishga jalb qilish nimaga xizmat qiladi?",
+    "A": "Ishlab chiqarishni rivojlantirishga",
+    "B": "Ishchilarni kamaytirishga",
+    "C": "Kreditni yopishga",
+    "D": "Soliqni bekor qilishga",
+    "javob": "A"
+  },
+  {
+    "savol": "Qo‘shma korxonalar qanday mulk shakliga kiradi?",
+    "A": "Aralash mulkchilik shakliga",
+    "B": "Davlat mulkiga",
+    "C": "Xususiy mulkka",
+    "D": "Bank mulkiga",
+    "javob": "A"
+  },
+  {
+    "savol": "Qurilish sohasidagi kichik korxonalarda xodimlar soni nechagacha bo‘ladi?",
+    "A": "50 nafargacha",
+    "B": "25 nafargacha",
+    "C": "100 nafargacha",
+    "D": "10 nafargacha",
+    "javob": "A"
+  },
+  {
+    "savol": "Raqobat tahlilining muhim vazifalaridan biri nima?",
+    "A": "Raqobatchilar strategiyasini aniqlash",
+    "B": "Ombor hajmini oshirish",
+    "C": "Soliqni kamaytirish",
+    "D": "Kredit berish",
+    "javob": "A"
+  },
+  {
+    "savol": "Raqobat ustunligi nima?",
+    "A": "Raqobatchilarga nisbatan ustunlik",
+    "B": "Ombor maydoni",
+    "C": "Soliq chegirmasi",
+    "D": "Kredit imtiyozi",
+    "javob": "A"
+  },
+  {
+    "savol": "Raqobatchini baholash mezonlaridan biri qaysi?",
+    "A": "Kompaniya hajmi",
+    "B": "Ombor rangi",
+    "C": "Sug‘urta turi",
+    "D": "Kredit muddati",
+    "javob": "A"
+  },
+  {
+    "savol": "RBV yondashuvi nimani asos qiladi?",
+    "A": "Ichki resurslarni",
+    "B": "Ombor tizimini",
+    "C": "Kredit siyosatini",
+    "D": "Sug‘urta xizmatini",
+    "javob": "A"
+  },
+  {
+    "savol": "Reja mablag‘ topish quroli bo‘lib hisoblanishi qaysi funksiyaga tegishli?",
+    "A": "Biznes reja funksiyasiga",
+    "B": "Ombor funksiyasiga",
+    "C": "Reklama funksiyasiga",
+    "D": "Audit funksiyasiga",
+    "javob": "A"
+  },
+  {
+    "savol": "Rejalashtirish nimaning shakli hisoblanadi?",
+    "A": "Ijtimoiy-iqtisodiy jarayonlarni boshqarishning",
+    "B": "Ombor tizimining",
+    "C": "Sug‘urtalashning",
+    "D": "Soliq yig‘ishning",
+    "javob": "A"
+  },
+  {
+    "savol": "Rezidentlar kimlar hisoblanadi?",
+    "A": "O‘zbekistonda ro‘yxatdan o‘tgan subyektlar",
+    "B": "Chet el fuqarolari",
+    "C": "Turistlar",
+    "D": "Diplomatik vakillar",
+    "javob": "A"
+  },
+  {
+    "savol": "Rezyume biznes rejaning nimasi hisoblanadi?",
+    "A": "Qisqacha mazmuni",
+    "B": "Xarajat qismi",
+    "C": "Reklama rejasi",
+    "D": "Soliq hisoboti",
+    "javob": "A"
+  },
+  {
+    "savol": "SAM nimani bildiradi?",
+    "A": "Xizmat ko‘rsatish mumkin bo‘lgan bozorni",
+    "B": "Ombor xarajatini",
+    "C": "Kredit stavkasini",
+    "D": "Reklama hajmini",
+    "javob": "A"
+  },
+  {
+    "savol": "Sanoat ishlab chiqarishida mikrofirma uchun xodimlar soni nechagacha bo‘ladi?",
+    "A": "20 nafargacha",
+    "B": "50 nafargacha",
+    "C": "100 nafargacha",
+    "D": "10 nafargacha",
+    "javob": "A"
+  },
+  {
+    "savol": "Shartnomaviy biznes munosabatlari qanday amalga oshiriladi?",
+    "A": "O‘zaro tenglik asosida",
+    "B": "Davlat nazorati ostida",
+    "C": "Sud orqali",
+    "D": "Bank orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Sifat usullariga qaysi biri kiradi?",
+    "A": "Bozorni o‘rganish",
+    "B": "Soliq hisoblash",
+    "C": "Kredit ajratish",
+    "D": "Ombor qurish",
+    "javob": "A"
+  },
+  {
+    "savol": "Sifatiy tahlil nimani o‘rganadi?",
+    "A": "Mijozlarning motivatsiyasini",
+    "B": "Soliq stavkalarini",
+    "C": "Ombor maydonini",
+    "D": "Kredit tarixini",
+    "javob": "A"
+  },
+  {
+    "savol": "Sof foyda qanday topiladi?",
+    "A": "F-FS=SF",
+    "B": "D-F=SF",
+    "C": "UX-SF=F",
+    "D": "SF+F=D",
+    "javob": "A"
+  },
+  {
+    "savol": "Sohani chegaralash qoidasi nimani anglatadi?",
+    "A": "O‘xshash o‘zgaruvchilarni agregatlashni",
+    "B": "Narxni kamaytirishni",
+    "C": "Reklamani oshirishni",
+    "D": "Soliqni kamaytirishni",
+    "javob": "A"
+  },
+  {
+    "savol": "SOM nima?",
+    "A": "Qo‘lga kiritish mumkin bo‘lgan bozor",
+    "B": "Ombor sig‘imi",
+    "C": "Sug‘urta turi",
+    "D": "Soliq tizimi",
+    "javob": "A"
+  },
+  {
+    "savol": "Sotishni rag‘batlantirish va reklama siyosatini ishlab chiqish nimaga tegishli?",
+    "A": "Tovarni siljitish funksiyasi",
+    "B": "Boshqaruv funksiyasi",
+    "C": "Rejalashtirish funksiyasi",
+    "D": "Moliyaviy funksiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Strategik rejalashtirish nima beradi?",
+    "A": "Aniq yo‘nalish va maqsad",
+    "B": "Ombor xarajatlari",
+    "C": "Soliq imtiyozi",
+    "D": "Kredit foizi",
+    "javob": "A"
+  },
+  {
+    "savol": "Strategik rejalashtirish odatda necha yildan ortiq muddatga ishlab chiqiladi?",
+    "A": "5 yildan ortiq",
+    "B": "1 yil",
+    "C": "2 yil",
+    "D": "3 yil",
+    "javob": "A"
+  },
+  {
+    "savol": "Strategik rejalashtirish qaysi savolga javob beradi?",
+    "A": "Biz nima qilishimiz kerak?",
+    "B": "Ombor qayerda?",
+    "C": "Soliq qancha?",
+    "D": "Kredit muddati qancha?",
+    "javob": "A"
+  },
+  {
+    "savol": "Strategik rejalashtirishning bosh maqsadi nima?",
+    "A": "Tashkilotning bozordagi holatini aniqlash",
+    "B": "Ombor maydonini kengaytirish",
+    "C": "Ish haqi fondini oshirish",
+    "D": "Kredit miqdorini kamaytirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Strategik tahlil nimaga yo‘naltiriladi?",
+    "A": "Kuchli va zaif tomonlarni aniqlashga",
+    "B": "Jarima to‘lashga",
+    "C": "Kredit olishga",
+    "D": "Soliq kamaytirishga",
+    "javob": "A"
+  },
+  {
+    "savol": "Strategiya odatda nechta darajada ishlab chiqiladi?",
+    "A": "4 ta",
+    "B": "2 ta",
+    "C": "5 ta",
+    "D": "6 ta",
+    "javob": "A"
+  },
+  {
+    "savol": "SWOT tahlili nimani anglatadi?",
+    "A": "Kuchli va zaif tomonlar, imkoniyat va tahdidlar",
+    "B": "Ombor va savdo tizimini",
+    "C": "Soliq va kredit tizimini",
+    "D": "Transport tizimini",
+    "javob": "A"
+  },
+  {
+    "savol": "Tadbirkorlar tekshiruv haqida qancha oldin xabardor qilinadi?",
+    "A": "Kamida 10 ish kuni oldin",
+    "B": "Kamida 1 kun oldin",
+    "C": "30 kun oldin",
+    "D": "1 oy oldin",
+    "javob": "A"
+  },
+  {
+    "savol": "Tadbirkorlik faoliyati qanday faoliyat hisoblanadi?",
+    "A": "Tavakkal qilib foyda olishga qaratilgan faoliyat",
+    "B": "Davlat topshirig‘i",
+    "C": "Ijtimoiy yordam qilib foyda olishga qaratilgan faoliyat",
+    "D": "Xayriya qilib foyda olishga qaratilgan faoliyat",
+    "javob": "A"
+  },
+  {
+    "savol": "Tadbirkorlik subyektlari faoliyatidagi barcha tekshiruvlar qachondan tizimda ro‘yxatga olinadi?",
+    "A": "2022-yil 1-noyabrdan",
+    "B": "2021-yil 1-yanvardan",
+    "C": "2020-yil 1-maydan",
+    "D": "2023-yil 1-martdan",
+    "javob": "A"
+  },
+  {
+    "savol": "Tadqiqot rejasini ishlab chiqishda nima aniqlanadi?",
+    "A": "Tadqiqot turi",
+    "B": "Ish haqi miqdori",
+    "C": "Ombor hajmi",
+    "D": "Soliq stavkasi",
+    "javob": "A"
+  },
+  {
+    "savol": "TAM nimani anglatadi?",
+    "A": "Umumiy yo‘naltirilgan bozorni",
+    "B": "Ombor tizimini",
+    "C": "Sug‘urta xizmatini",
+    "D": "Soliq siyosatini",
+    "javob": "A"
+  },
+  {
+    "savol": "Tannarx va foyda qaysi bo‘limda ko‘rsatiladi?",
+    "A": "Korxona xarajatlarida",
+    "B": "Reklama rejasida",
+    "C": "Sug‘urtada",
+    "D": "Auditda",
+    "javob": "A"
+  },
+  {
+    "savol": "Taqsimlanmagan foyda qanday aniqlanadi?",
+    "A": "SF-Div=TF",
+    "B": "TF+SF=Div",
+    "C": "F-UX=TF",
+    "D": "D-F=TF",
+    "javob": "A"
+  },
+  {
+    "savol": "Tarmoq tarkibi bo‘yicha korxonalar qaysi sohaga ajratiladi?",
+    "A": "Sanoat sohasidagi",
+    "B": "Diplomatik sohadagi",
+    "C": "Harbiy sohadagi",
+    "D": "Sud tizimidagi",
+    "javob": "A"
+  },
+  {
+    "savol": "Tashqi manbalarga nima kiradi?",
+    "A": "Xalqaro hisobotlar",
+    "B": "Korxona buyruqlari",
+    "C": "Ish haqi ro‘yxati",
+    "D": "Ombor kartochkalari",
+    "javob": "A"
+  },
+  {
+    "savol": "Tavakkalchilikni baholash bo‘limida nima o‘rganiladi?",
+    "A": "Xatar turlari",
+    "B": "Reklama usullari",
+    "C": "Ombor xarajatlari",
+    "D": "Soliq imtiyozlari",
+    "javob": "A"
+  },
+  {
+    "savol": "Tekshirish tartibini buzish qaysi modda bilan belgilanadi?",
+    "A": "241-2-modda",
+    "B": "43-modda",
+    "C": "200-2-modda",
+    "D": "241-8-modda",
+    "javob": "A"
+  },
+  {
+    "savol": "Tekshiruv natijalari tizimga necha kun ichida kiritiladi?",
+    "A": "3 kun ichida",
+    "B": "10 kun ichida",
+    "C": "30 kun ichida",
+    "D": "1 kun ichida",
+    "javob": "A"
+  },
+  {
+    "savol": "Tezkor tahlil nimaga xizmat qiladi?",
+    "A": "Faoliyat natijalarini baholashga",
+    "B": "Soliqni oshirishga",
+    "C": "Kreditni yopishga",
+    "D": "Importni kamaytirishga",
+    "javob": "A"
+  },
+  {
+    "savol": "Tezkor tahlil tarkibiga nima kiradi?",
+    "A": "Ishlab chiqarish xarajatlari tahlili",
+    "B": "Sud qarorlari",
+    "C": "Bank krediti",
+    "D": "Eksport bojxonalari",
+    "javob": "A"
+  },
+  {
+    "savol": "Tijoratchi bo‘lmagan tashkilotning maqsadi nima?",
+    "A": "Ijtimoiy samara olish",
+    "B": "Soliq yig‘ish",
+    "C": "Kredit berish",
+    "D": "Valyuta sotish",
+    "javob": "A"
+  },
+  {
+    "savol": "Tizimda ro‘yxatga olinmagan tekshiruv qanday hisoblanadi?",
+    "A": "Noqonuniy",
+    "B": "Qonuniy",
+    "C": "Ixtiyoriy",
+    "D": "Soliqsiz",
+    "javob": "A"
+  },
+  {
+    "savol": "Tovarni taqsimlash va sotish siyosatini ishlab chiqish qaysi funksiyaga kiradi?",
+    "A": "Sotish funksiyasi",
+    "B": "Narxni tashkil etish funksiyasi",
+    "C": "Innovatsiya funksiyasi",
+    "D": "Prognozlash funksiyasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Trend ekstrapolyatsiyasi usuli nimani o‘rganadi?",
+    "A": "O‘tmish va hozirgi rivojlanishni",
+    "B": "Reklama xarajatlarini",
+    "C": "Ombor hajmini",
+    "D": "Kredit foizlarini",
+    "javob": "A"
+  },
+  {
+    "savol": "Ulgurji savdoda mikrofirma xodimlari soni nechagacha bo‘ladi?",
+    "A": "5 nafargacha",
+    "B": "10 nafargacha",
+    "C": "20 nafargacha",
+    "D": "50 nafargacha",
+    "javob": "A"
+  },
+  {
+    "savol": "Unitar korxona nima?",
+    "A": "Mulkdor tomonidan biriktirilgan mulkka ega bo‘lmagan korxona",
+    "B": "Bank tomonidan boshqariladigan korxona",
+    "C": "Sug‘urta korxonasi tomonidan biriktirilgan mulkka ega bo‘lgan korxona",
+    "D": "Oila korxonasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Vertikal munosabatlar nimani bildiradi?",
+    "A": "Tadbirkor va davlat organi o‘rtasidagi munosabatlarni",
+    "B": "Ishchi va mijoz o‘rtasidagi munosabatlarni",
+    "C": "Oila a’zolari munosabatini",
+    "D": "Do‘stlik aloqalarini",
+    "javob": "A"
+  },
+  {
+    "savol": "Vision nimani anglatadi?",
+    "A": "Kelajakni ko‘rish",
+    "B": "Ombor rejasi",
+    "C": "Soliq nazorati",
+    "D": "Kredit siyosati",
+    "javob": "A"
+  },
+  {
+    "savol": "VRIN mezonidagi “Rare” nimani bildiradi?",
+    "A": "Kam uchraydiganlikni",
+    "B": "Ombor tizimini",
+    "C": "Reklama usulini",
+    "D": "Soliq siyosatini",
+    "javob": "A"
+  },
+  {
+    "savol": "VRIO modeli nimani aniqlashga yordam beradi?",
+    "A": "Raqobat ustunligini",
+    "B": "Ombor hajmini",
+    "C": "Reklama narxini",
+    "D": "Soliq stavkasini",
+    "javob": "A"
+  },
+  {
+    "savol": "X. Meffert MATni nechta guruhga bo‘lgan?",
+    "A": "2 ta",
+    "B": "3 ta",
+    "C": "4 ta",
+    "D": "5 ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Xaridorlarning savdolashish kuchi nimaga ta’sir qiladi?",
+    "A": "Soha rentabelligiga",
+    "B": "Ombor sig‘imiga",
+    "C": "Sug‘urta summasiga",
+    "D": "Kredit muddatiga",
+    "javob": "A"
+  },
+  {
+    "savol": "Xizmat ko‘rsatish sohasidagi kichik korxona xodimlari soni nechagacha bo‘ladi?",
+    "A": "25 nafargacha",
+    "B": "15 nafargacha",
+    "C": "50 nafargacha",
+    "D": "100 nafargacha",
+    "javob": "A"
+  },
+  {
+    "savol": "Xodimlar soni qaysi bo‘limda ko‘rsatiladi?",
+    "A": "Xodimlar bo‘limida",
+    "B": "Marketing bo‘limida",
+    "C": "Moliyaviy rejada",
+    "D": "Innovatsiya rejasida",
+    "javob": "A"
+  },
+  {
+    "savol": "Xususiy korxonalar nimaga asoslanadi?",
+    "A": "Jismoniy shaxslarning xususiy mulkiga",
+    "B": "Davlat byudjetiga",
+    "C": "Sug‘urta tizimiga",
+    "D": "Tashqi qarzlarga",
+    "javob": "A"
+  },
+  {
+    "savol": "Yakka tartibdagi tadbirkor kim hisoblanadi?",
+    "A": "Jismoniy shaxs",
+    "B": "Davlat organi",
+    "C": "Sug‘urta tashkiloti",
+    "D": "Bank",
+    "javob": "A"
+  },
+  {
+    "savol": "Yakka tartibdagi tadbirkorlik qanday amalga oshiriladi?",
+    "A": "Yuridik shaxs tashkil etmasdan",
+    "B": "Davlat korxonasi sifatida",
+    "C": "Vazirlik nazorati ostida",
+    "D": "Xalqaro tashkilot orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Yakuniy hisobot qaysi bosqichda tayyorlanadi?",
+    "A": "Natijalarni talqin qilish bosqichida",
+    "B": "Ombor nazoratida",
+    "C": "Kreditlashda",
+    "D": "Ishlab chiqarishni talqin qilish bosqichida",
+    "javob": "A"
+  },
+  {
+    "savol": "Yengil sanoatda kichik korxona xodimlari soni nechagacha bo‘ladi?",
+    "A": "200 yoki kamroq",
+    "B": "50 yoki kamroq",
+    "C": "25 yoki kamroq",
+    "D": "500 yoki kamroq",
+    "javob": "A"
+  },
+  {
+    "savol": "Zararsizlik nuqtasi nimani ko‘rsatadi?",
+    "A": "Xarajatlarni qoplash uchun zarur minimal tushumni",
+    "B": "Xarajatlarni qoplash uchun zarur soliq stavkasini",
+    "C": "Kredit miqdorini",
+    "D": "Dividend hajmini",
+    "javob": "A"
+  },
+  {
+    "savol": "Zararsizlik nuqtasi yana qanday ataladi?",
+    "A": "O‘lik nuqta",
+    "B": "Foyda markazi",
+    "C": "Kredit nuqtasi",
+    "D": "Soliq nuqtasi",
+    "javob": "A"
+  }
+]

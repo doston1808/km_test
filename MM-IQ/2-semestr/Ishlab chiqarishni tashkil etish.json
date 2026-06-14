@@ -1,0 +1,1530 @@
+[
+  {
+    "savol": "Taktik rejalashtirish qaysi muddatga mo‘ljallanadi?",
+    "A": "1–3 yil",
+    "B": "10–13 yil",
+    "C": "6 oy",
+    "D": "1 hafta",
+    "javob": "A"
+  },
+  {
+    "savol": "Strategik rejalashtirish qaysi muddatni qamrab oladi?",
+    "A": "5–10 yil yoki undan ortiq",
+    "B": "1 yil",
+    "C": "6 oy yoki undan ortiq",
+    "D": "1 oy",
+    "javob": "A"
+  },
+  {
+    "savol": "Doimiy xarajatlarga qaysi misol kiradi?",
+    "A": "Amortizatsiya xarajatlari",
+    "B": "Xomashyo xarajatlari",
+    "C": "Energiya xarajatlari",
+    "D": "Transport xarajatlari",
+    "javob": "A"
+  },
+  {
+    "savol": "Innovatsion faoliyatni boshqarishda nima muhim hisoblanadi?",
+    "A": "Aniq boshqaruv tizimini tashkil etish",
+    "B": "Ombor hajmini kengaytirish",
+    "C": "Mahsulot narxini oshirish",
+    "D": "Ishlab chiqarishni kamaytirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Ma’muriy boshqaruv nazariyasining asoschisi kim?",
+    "A": "Anri Fayol",
+    "B": "Frederick Taylor",
+    "C": "Elton Mayo",
+    "D": "Karl Boulding",
+    "javob": "A"
+  },
+  {
+    "savol": "Yordamchi jarayonlarning vazifasi nima?",
+    "A": "Asosiy ishlab chiqarish jarayonlarini qo‘llab-quvvatlash",
+    "B": "Mahsulotni eksport qilish jarayonlarini qo‘llab-quvvatlash",
+    "C": "Bozorni tahlil qilish",
+    "D": "Korxonani moliyalashtirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Raqamli iqtisodiyot sharoitida ishlab chiqarishni tashkil etishda qaysi yondashuv muhim?",
+    "A": "Avtomatlashtirish va raqamlashtirish",
+    "B": "Qo‘l mehnatini ko‘paytirish",
+    "C": "Omborlarni qisqartirish",
+    "D": "Mahsulot tannarxini oshirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Ishlab chiqarish samaradorligini oshirishning zamonaviy yo‘llaridan biri qaysi?",
+    "A": "Avtomatlashtirish va robotlashtirishni joriy etish",
+    "B": "Jarayonlarni qo‘lda bajarishni ko‘paytirish",
+    "C": "Tanaffus vaqtini uzaytirishni joriy etish",
+    "D": "Uskunalardan foydalanishni kamaytirish",
+    "javob": "A"
+  },
+  {
+    "savol": "ERP va CRM tizimlarini joriy etishning asosiy maqsadi nima?",
+    "A": "Axborot oqimini tezlashtirish va boshqaruvni samarali tashkil etish",
+    "B": "Omborlarni qisqartirish va boshqaruvni samarali tashkil etish",
+    "C": "Mahsulot ishlab chiqarishni kamaytirish",
+    "D": "Tanaffus vaqtini ko‘paytirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Ishlab chiqarishni rejalashtirish samaradorligini oshirishning muhim yo‘nalishlaridan biri qaysi?",
+    "A": "Axborot texnologiyalarini joriy etish (ERP, MRP tizimlari)",
+    "B": "Rejalashtirishdan voz kechish",
+    "C": "Ishlab chiqarishni to‘xtatish",
+    "D": "Reklama va marketing bilan shug‘ullanish (Marketing, Menejment tizimlari)",
+    "javob": "A"
+  },
+  {
+    "savol": "Seriyali ishlab chiqarish nimani anglatadi?",
+    "A": "Bir xil mahsulotlarni ketma-ket ishlab chiqarish",
+    "B": "Har xil mahsulotlarni alohida ishlab chiqarish",
+    "C": "Qo‘l mehnatini",
+    "D": "Bir xil mahsulotlarni alohida ishlab chiqarish",
+    "javob": "A"
+  },
+  {
+    "savol": "Korxonalarda boshqaruv strukturalari nimani ifodalaydi?",
+    "A": "Bo‘limlar va boshqaruv bo‘g‘inlari o‘rtasidagi bog‘liqlikni",
+    "B": "Ombor maydonlarini",
+    "C": "Bo‘limlar boshqaruvi va mahsulot reklamasini",
+    "D": "Soliq va hisobotlari o‘rtasidagi bog‘liqlikni",
+    "javob": "A"
+  },
+  {
+    "savol": "Moddiy motivatsiyaga qaysi misol kiradi?",
+    "A": "Bonus va mukofotlar",
+    "B": "Korporativ tadbirlar",
+    "C": "Ochiq muloqot",
+    "D": "Jamoaviy uchrashuvlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Boshqaruv obyekti nimani anglatadi?",
+    "A": "Boshqariladigan jarayonlar",
+    "B": "Boshqaradigan rahbarlar",
+    "C": "Direktorlar",
+    "D": "Boshqariladigan marketing jarayonlari",
+    "javob": "A"
+  },
+  {
+    "savol": "Tashkiliy tuzilma nima?",
+    "A": "Boshqaruv elementlari o‘rtasidagi o‘zaro bog‘liqlik tizimi",
+    "B": "Ishlab chiqarish rejasi",
+    "C": "Moliyaviy hisobot",
+    "D": "Marketing strategiyasi elementlari o‘rtasidagi o‘zaro bog‘liqlik tizimi",
+    "javob": "A"
+  },
+  {
+    "savol": "Funktsional tashkiliy tuzilmaning mohiyati nimada?",
+    "A": "Boshqaruv funksiyalar bo‘yicha ajratiladi",
+    "B": "Barcha qarorlar bitta rahbar tomonidan qabul qilinadi",
+    "C": "Marketing bo‘limi mavjud bo‘ladi",
+    "D": "Ishlab chiqarish bo‘limi mavjud bo‘ladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Tashkiliy strukturani takomillashtirish natijasida qanday samaraga erishiladi?",
+    "A": "Boshqaruv samaradorligi va raqobatbardoshlik oshadi",
+    "B": "Ishlab chiqarish hajmi kamayadi",
+    "C": "Xarajatlar nazoratsiz oshadi",
+    "D": "Barcha qarorlar bitta rahbar tomonidan qabul qilinadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Chiziqli strukturaning asosiy xususiyati nima?",
+    "A": "Boshqaruv yagona rahbar orqali amalga oshirilishi",
+    "B": "Bir nechta rahbar mavjudligi",
+    "C": "Bo‘limlarning mustaqil ishlashi",
+    "D": "Barcha qarorlar bitta rahbar tomonidan qabul qilinishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Moslashuvchan tashkiliy struktura qanday afzallik beradi?",
+    "A": "Bozor o‘zgarishlariga tez moslashish imkonini beradi",
+    "B": "Ishlab chiqarishni sekinlashtiradi",
+    "C": "Xarajatlarni oshiradi va bozorga moslashish imkonini beradi",
+    "D": "Qaror qabul qilishni murakkablashtiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Marketing ishlab chiqarishni tashkil etishda qanday rol o‘ynaydi?",
+    "A": "Bozor talabi asosida ishlab chiqarish hajmini shakllantiradi",
+    "B": "Bozor talabi asosida kredit berish hajmini shakllantiradi",
+    "C": "Transportni boshqaradi",
+    "D": "Moliyaviy nazorat qiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Chiziqli boshqaruv strukturasining asosiy xususiyati nima?",
+    "A": "Buyruqlar yagona rahbar orqali berilishi",
+    "B": "Bir nechta rahbarlarning mavjudligi",
+    "C": "Barcha bo‘limlarning mustaqil ishlashi",
+    "D": "Reklama faoliyatiga yo‘naltirilishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Iste’molchi xulq-atvoriga ta’sir etuvchi iqtisodiy omillardan biri qaysi?",
+    "A": "Daromad darajasi",
+    "B": "Ob-havo sharoiti",
+    "C": "Tabiiy resurslar hajmi",
+    "D": "Davlat chegaralari",
+    "javob": "A"
+  },
+  {
+    "savol": "Asosiy ishlab chiqarish jarayonlariga qaysi misol bo‘ladi?",
+    "A": "Detallarni qayta ishlash va yig‘ish",
+    "B": "Omborni tozalash",
+    "C": "Reklama tayyorlash",
+    "D": "Hisobotlarni yozish va yig‘ish",
+    "javob": "A"
+  },
+  {
+    "savol": "Kaizen usuli nimaga asoslanadi?",
+    "A": "Doimiy takomillashtirish tamoyiliga",
+    "B": "Ishlab chiqarishni qisqartirishga",
+    "C": "Ombor xarajatlarini oshirishga",
+    "D": "Soliq stavkalarini ko‘paytirishga",
+    "javob": "A"
+  },
+  {
+    "savol": "Insoniy munosabatlar nazariyasining vakili kim?",
+    "A": "Elton Mayo",
+    "B": "Taylor",
+    "C": "Fayol",
+    "D": "Wiener",
+    "javob": "A"
+  },
+  {
+    "savol": "Ilmiy boshqaruv maktabining asoschisi kim?",
+    "A": "Frederick Winslow Taylor",
+    "B": "Anri Fayol",
+    "C": "Elton Winslow Mayo",
+    "D": "Peter Drucker",
+    "javob": "A"
+  },
+  {
+    "savol": "Innovatsion faoliyatni tashkil etishning birinchi bosqichi qaysi?",
+    "A": "G‘oya shakllantirish",
+    "B": "Natijani baholash",
+    "C": "Loyiha yopilishi",
+    "D": "Kredit qaytarish",
+    "javob": "A"
+  },
+  {
+    "savol": "Davlat innovatsion faoliyatni qanday qo‘llab-quvvatlaydi?",
+    "A": "Grantlar va subsidiyalar orqali",
+    "B": "Mahsulot ishlab chiqarishni cheklash orqali",
+    "C": "Korxonalarni yopish orqali",
+    "D": "Eksportni qisqartirish orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Chiziqli tashkiliy tuzilmaning asosiy xususiyati nima?",
+    "A": "Har bir xodim faqat bitta rahbarga bo‘ysunadi",
+    "B": "Har bir xodim ikki rahbarga bo‘ysunadi",
+    "C": "Boshqaruv funksiyalar bo‘yicha taqsimlanadi",
+    "D": "Boshqaruv hududlar bo‘yicha taqsimlanadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Matritsali strukturaning asosiy xususiyati nimada?",
+    "A": "Ikki tomonlama bo‘ysunish mavjudligi",
+    "B": "Yagona rahbar orqali boshqarilishi",
+    "C": "Marketing faoliyatiga yo‘naltirilishi",
+    "D": "Resurslardan foydalanish mavjudligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Matritsali tashkiliy tuzilmaning asosiy kamchiligi nimada?",
+    "A": "Ikki tomonlama bo‘ysunish sababli ziddiyatlar yuzaga kelishi",
+    "B": "Rahbarlar sonining kamligi",
+    "C": "Ishlab chiqarish hajmining kamayishi",
+    "D": "Resurslarning yetishmasligi sababli ziddiyatlar yuzaga kelishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Boshqaruv mexanizmi nimani o‘z ichiga oladi?",
+    "A": "Iqtisodiy, tashkiliy va ijtimoiy usullarni",
+    "B": "Moliyaviy usullarni",
+    "C": "Texnologik usullarni",
+    "D": "Marketing, menejment va pedagogik usullarni",
+    "javob": "A"
+  },
+  {
+    "savol": "Ishlab chiqarishni tashkil etishda rejalashtirishning vazifasi nima?",
+    "A": "Ish jarayonlarini oldindan belgilash va muvofiqlashtirish",
+    "B": "Omborlarni inventarizatsiya qilish",
+    "C": "Reklama faoliyatini boshqarish",
+    "D": "Soliq hisobotlarini tayyorlash va muvofiqlashtirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Ish kunini kuzatish usulining asosiy vazifasi nima?",
+    "A": "Ish vaqtining qanday sarflanishini aniqlash",
+    "B": "Mahsulot narxining qanday belgilashini aniqlash",
+    "C": "Omborlarni inventarizatsiya qilish",
+    "D": "Soliq hisobotlarini tayyorlash",
+    "javob": "A"
+  },
+  {
+    "savol": "Mehnat unumdorligi nimani ko‘rsatadi?",
+    "A": "Ishchi kuchidan foydalanish samaradorligini",
+    "B": "Ishchilar sonining ko‘pligini",
+    "C": "Ishchilarning ish vaqtini",
+    "D": "Korxona hududini",
+    "javob": "A"
+  },
+  {
+    "savol": "Mehnat unumdorligi nima bilan o‘lchanadi?",
+    "A": "Ishlab chiqarilgan mahsulot hajmi bilan",
+    "B": "Ombordagi mahsulot miqdori bilan",
+    "C": "Reklama xarajatlari bilan",
+    "D": "Transport vositalari soni bilan",
+    "javob": "A"
+  },
+  {
+    "savol": "Sanoat iste’molchilari qanday maqsadda mahsulot xarid qiladi?",
+    "A": "Ishlab chiqarish jarayonida foydalanish uchun",
+    "B": "Shaxsiy ehtiyojlarni qondirish uchun",
+    "C": "Reklama faoliyati uchun",
+    "D": "Sayohat qilish uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "Ishlab chiqarishni rejalashtirish nimani ta’minlaydi?",
+    "A": "Ishlab chiqarish jarayonining tartibli tashkil etilishini",
+    "B": "Savdo hajmini oshirish jarayonining tartibli tashkil etilishini",
+    "C": "Marketing faoliyatini",
+    "D": "Reklama faoliyatini",
+    "javob": "A"
+  },
+  {
+    "savol": "Tashkiliy strukturaning muhim vazifalaridan biri nima?",
+    "A": "Ishlab chiqarish jarayonlarini muvofiqlashtirish",
+    "B": "Mahsulot tannarxini oshirish jarayonlarini muvofiqlashtirish",
+    "C": "Ombor xarajatlarini ko‘paytirish",
+    "D": "Tanaffus vaqtini uzaytirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Raqamli texnologiyalarni joriy etish qanday samara beradi?",
+    "A": "Ishlab chiqarish jarayonlarini optimallashtiradi",
+    "B": "Xarajatlarni oshiradi",
+    "C": "Ish unumdorligini pasaytiradi",
+    "D": "Mahsulot sifatini yomonlashtiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ishlab chiqarishni tashkil etish fanining asosiy vazifalaridan biri nima?",
+    "A": "Ishlab chiqarish jarayonlarini samarali tashkil etish",
+    "B": "Eksport salohiyatini oshirish",
+    "C": "Marketingni rivojlantirish",
+    "D": "Moliyaviy operatsiyalarni samarali tashkil etish va yuritish",
+    "javob": "A"
+  },
+  {
+    "savol": "“Ishlab chiqarishni tashkil etish” fanining asosiy mazmuni nima?",
+    "A": "Ishlab chiqarish jarayonlarini samarali tashkil etish va boshqarish",
+    "B": "Soliq tizimini o‘rganish",
+    "C": "Reklama faoliyatini rivojlantirish",
+    "D": "Moliyaviy operatsiyalarni samarali tashkil etish va yuritish",
+    "javob": "A"
+  },
+  {
+    "savol": "Statistik tahlil usuli nimaga xizmat qiladi?",
+    "A": "Ishlab chiqarish ko‘rsatkichlarini miqdoriy baholashga",
+    "B": "Marketingni o‘rganishga",
+    "C": "Logistika jarayonlariga",
+    "D": "Tashqi savdo ko‘rsatkichlarini miqdoriy baholashga",
+    "javob": "A"
+  },
+  {
+    "savol": "Rejalashtirish samaradorligi qanday baholanadi?",
+    "A": "Ishlab chiqarish natijalari orqali",
+    "B": "Reklama hajmi orqali",
+    "C": "Korxona nomi orqali",
+    "D": "Ishchilar kiyimi orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Innovatsion texnologiyalarni joriy etish natijasida nima yuz beradi?",
+    "A": "Ishlab chiqarish samaradorligi oshadi",
+    "B": "Ishlab chiqarish nisbatan oshadi",
+    "C": "Savdo mo‘tadil bo‘ladi",
+    "D": "Marketing samaradorligi yo‘qoladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Faning asosiy maqsadi nima?",
+    "A": "Ishlab chiqarish samaradorligini oshirish",
+    "B": "Mahsulot hajmini kamaytirish",
+    "C": "Soliq yukini oshirish",
+    "D": "Omborlarni kengaytirish va hajmini oshirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Ishlab chiqarishni rejalashtirishning muhim vazifalaridan biri qaysi?",
+    "A": "Ishlab chiqarish uzluksizligini таъминlash",
+    "B": "Xarajatlarni nazoratsiz oshirish",
+    "C": "Mahsulot ishlab chiqarishni to‘xtatish",
+    "D": "Mehnat unumdorligini kamaytirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Iqtisodiy-matematik usulning asosiy maqsadi nima?",
+    "A": "Ishlab chiqarishni optimallashtirish va resurslardan maksimal foydalanish",
+    "B": "Mahsulot narxini oshirish",
+    "C": "Ishchilar sonini kamaytirish va resurslardan minimal foydalanish",
+    "D": "Marketingni rivojlantirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Mehnatni me’yorlashtirish nima?",
+    "A": "Ishni bajarish uchun zarur vaqt va mehnat sarfini ilmiy asosda belgilash jarayoni",
+    "B": "Mahsulotlarni reklama qilish faoliyati",
+    "C": "Omborlarni boshqarish tizimi",
+    "D": "Soliq stavkalarini aniqlashni ilmiy asosda belgilash jarayoni",
+    "javob": "A"
+  },
+  {
+    "savol": "Sog‘lom ijtimoiy-psixologik muhit qanday natija beradi?",
+    "A": "Jamoaviy hamkorlik va mehnat samaradorligini oshiradi",
+    "B": "Xarajatlarni ko‘paytiradi va mehnat samaradorligini kamaytiradi",
+    "C": "Ish unumdorligini pasaytiradi",
+    "D": "Kadrlar qo‘nimsizligini kuchaytiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Tahlil va sintez usuli nimani anglatadi?",
+    "A": "Jarayonlarni qismlarga ajratib va umumlashtirib o‘rganish",
+    "B": "Hisob-kitobni qismlarga ajratib va umumlashtirib o‘rganish",
+    "C": "Rejalashtirish",
+    "D": "Nazorat qilish",
+    "javob": "A"
+  },
+  {
+    "savol": "Raqamli texnologiyalar asosida rejalashtirishning afzalligi nimada?",
+    "A": "Jarayonlarni tezkor va aniq boshqarishda",
+    "B": "Mahsulot hajmini kamaytirishda",
+    "C": "Xarajatlarni oshirishda",
+    "D": "Ish vaqtini qisqartirishda",
+    "javob": "A"
+  },
+  {
+    "savol": "Ishlab chiqarish jarayonida uzluksizlik tamoyili nimani bildiradi?",
+    "A": "Jarayonlarning to‘xtovsiz amalga oshirilishini",
+    "B": "Ishchilar almashinuvini",
+    "C": "Mahsulot narxining to‘xtovsiz oshishini",
+    "D": "Ombor hajmining kamayishini",
+    "javob": "A"
+  },
+  {
+    "savol": "SPC usuli nimani anglatadi?",
+    "A": "Jarayonni nazorat grafiklari orqali kuzatishni",
+    "B": "Omborlarni boshqarishni",
+    "C": "Kreditlarni taqsimlashni",
+    "D": "Reklama faoliyatini rivojlantirishni",
+    "javob": "A"
+  },
+  {
+    "savol": "Innovatsiyani iqtisodiy rivojlanishning asosiy omili sifatida izohlagan iqtisodchi kim?",
+    "A": "Joseph Schumpeter",
+    "B": "Adam Smith",
+    "C": "David Ricardo",
+    "D": "Alfred Marshall",
+    "javob": "A"
+  },
+  {
+    "savol": "Prognozlash usuli nimaga qaratilgan?",
+    "A": "Kelajakdagi bozor talabi va ishlab chiqarish hajmini aniqlashga",
+    "B": "Ishchilar sonini kamaytirishga",
+    "C": "Korxona yopilishiga",
+    "D": "Mahsulot narxini oshirish va ishlab chiqarish hajmini aniqlashga",
+    "javob": "A"
+  },
+  {
+    "savol": "Ishlab chiqarishni rejalashtirishda prognozlash nima uchun kerak?",
+    "A": "Kelajakdagi ehtiyojlarni aniqlash uchun",
+    "B": "Ish vaqtini qisqartirish uchun",
+    "C": "Omborni yopish uchun",
+    "D": "Soliqni bekor qilish uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "Xarajatlarni rejalashtirish nima?",
+    "A": "Kelgusidagi xarajatlarni oldindan hisoblash jarayoni",
+    "B": "Omborlarni boshqarish faoliyati",
+    "C": "Mahsulotlarni sotish usuli",
+    "D": "Kelgusidagi soliq tizimini oldindan hisoblash va ishlab chiqish jarayoni",
+    "javob": "A"
+  },
+  {
+    "savol": "Frederick Taylor tomonidan ishlab chiqilgan nazariya qaysi?",
+    "A": "Klassik menejment nazariyasi",
+    "B": "Klassik bozor nazariyasi",
+    "C": "Innovatsion nazariya",
+    "D": "Demografik nazariya",
+    "javob": "A"
+  },
+  {
+    "savol": "Funktsional struktura qanday korxonalarda samarali hisoblanadi?",
+    "A": "Ko‘p tarmoqli ishlab chiqarishda",
+    "B": "Kichik savdo korxonalarida",
+    "C": "Ombor xo‘jaligida",
+    "D": "Transport xizmatlarida",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaror qabul qilish jarayoni nimaga xizmat qiladi?",
+    "A": "Korxona maqsadlariga erishishga",
+    "B": "Omborlarni qisqartirishga",
+    "C": "Mahsulot tannarxini oshirishga",
+    "D": "Reklama hajmini kamaytirishga",
+    "javob": "A"
+  },
+  {
+    "savol": "Zamonaviy boshqaruv tizimlarini joriy etishning asosiy natijasi nima?",
+    "A": "Korxona raqobatbardoshligini oshirish",
+    "B": "Ishlab chiqarishni sekinlashtirish",
+    "C": "Xarajatlarni ko‘paytirish",
+    "D": "Mehnat unumdorligini kamaytirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Mahsulot sifatining iqtisodiy ahamiyati nimada?",
+    "A": "Korxona raqobatbardoshligini oshirishda",
+    "B": "Ombor xarajatlarini ko‘paytirishda",
+    "C": "Ishlab chiqarishni qisqartirishda",
+    "D": "Tanaffus vaqtini uzaytirishda",
+    "javob": "A"
+  },
+  {
+    "savol": "ERP tizimlari nimaga yordam beradi?",
+    "A": "Korxona resurslarini samarali boshqarishga",
+    "B": "Ishlab chiqarishni kamaytirishga",
+    "C": "Xarajatlarni oshirishga",
+    "D": "Mahsulot sifatini pasaytirishga",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri strategik rejalashtirishga kiradi?",
+    "A": "Korxona rivojlanish yo‘nalishini belgilash",
+    "B": "Kundalik topshiriq berish",
+    "C": "Ishchilarga dam berish",
+    "D": "Mahsulotni omborga joylash yo‘nalishini belgilash",
+    "javob": "A"
+  },
+  {
+    "savol": "Boshqaruv tizimining iqtisodiy mohiyati nimada?",
+    "A": "Korxona samaradorligini oshirishda",
+    "B": "Mahsulot ishlab chiqarishni kamaytirishda",
+    "C": "Xarajatlarni nazoratsiz oshirishda",
+    "D": "Omborlarni qisqartirishda",
+    "javob": "A"
+  },
+  {
+    "savol": "Ushbu fan iqtisodiyotda qanday o‘rin tutadi?",
+    "A": "Korxona samaradorligini oshirishga xizmat qiladi",
+    "B": "Ishlab chiqarishni qisqartiradi",
+    "C": "Ombor xarajatlarini oshiradi",
+    "D": "Tashqi savdoni cheklashga xizmat qiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Tashkiliy struktura nima?",
+    "A": "Korxonadagi boshqaruv tizimi va bo‘limlar o‘rtasidagi bog‘liqlik shakli",
+    "B": "Mahsulotlarni reklama qilish usuli",
+    "C": "Omborlarni qurish jarayoni",
+    "D": "Soliq tizimini tashkil etish va mahsulotlar o‘rtasidagi bog‘liqlik shakli",
+    "javob": "A"
+  },
+  {
+    "savol": "“Ishlab chiqarishni tashkil etish” fanining obyekti nima?",
+    "A": "Korxonalarda amalga oshiriladigan ishlab chiqarish jarayonlari",
+    "B": "Marketing faoliyati jarayonlari",
+    "C": "Korxonalarda amalga oshiriladigan moliyaviy operatsiyalar jarayonlari",
+    "D": "Savdo jarayonlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Rentabellik nimani bildiradi?",
+    "A": "Korxonaning foyda darajasini",
+    "B": "Ishchilar sonini",
+    "C": "Ishlab chiqarish quvvatini",
+    "D": "Mahsulot hajmini",
+    "javob": "A"
+  },
+  {
+    "savol": "Sifatni oshirish strategiyalarining asosiy natijasi nima?",
+    "A": "Korxonaning global bozorda raqobatbardoshligini oshirish",
+    "B": "Ishlab chiqarishni kamaytirish",
+    "C": "Xarajatlarni nazoratsiz oshirish",
+    "D": "Mahsulot assortimentini qisqartirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Ishlab chiqarishni rejalashtirish nima?",
+    "A": "Korxonaning ishlab chiqarish hajmi va resurslarini oldindan belgilash jarayoni",
+    "B": "Mahsulot sotishni tashkil etish jarayoni",
+    "C": "Ishchilar sonini aniqlash jarayoni",
+    "D": "Marketing faoliyati va mahsulot sotishni tashkil etish jarayoni",
+    "javob": "A"
+  },
+  {
+    "savol": "Operativ rejalashtirishning asosiy vazifasi nima?",
+    "A": "Kundalik ishlab chiqarish jarayonini tashkil etish",
+    "B": "Korxonani yopish",
+    "C": "Reklama qilish",
+    "D": "Kredit olish jarayonini tashkil etish",
+    "javob": "A"
+  },
+  {
+    "savol": "Operativ rejalashtirishning vazifasi nima?",
+    "A": "Kundalik ishlab chiqarish jarayonlarini boshqarish",
+    "B": "Omborlarni qisqartirish",
+    "C": "Mahsulot tannarxini oshirish",
+    "D": "Reklama xarajatlarini ko‘paytirish jarayonlarini boshqarish",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri ishlab chiqarishni operativ rejalashtirishga misol bo‘ladi?",
+    "A": "Kunlik ishlab chiqarish topshirig‘ini belgilash",
+    "B": "10 yillik strategiya ishlab chiqish",
+    "C": "Yangi korxona qurish",
+    "D": "Aksiya chiqarish topshirig‘ini belgilash",
+    "javob": "A"
+  },
+  {
+    "savol": "Ishlab chiqarish hajmi nimani ifodalaydi?",
+    "A": "Ma’lum davrda ishlab chiqarilgan mahsulot miqdorini",
+    "B": "Korxona foydasini",
+    "C": "Ishchilar sonini",
+    "D": "Ma’lum davrdagi marketing xarajatlari miqdorini",
+    "javob": "A"
+  },
+  {
+    "savol": "Mehnat unumdorligi nimani ifodalaydi?",
+    "A": "Ma’lum vaqt ichida ishlab chiqarilgan mahsulot hajmini",
+    "B": "Ombordagi mahsulot miqdorini",
+    "C": "Korxonaning reklama xarajatlarini",
+    "D": "Ma’lum vaqt ichida joriy etilgan soliq hajmini",
+    "javob": "A"
+  },
+  {
+    "savol": "Ishlab chiqarish rejasida nimalar belgilanadi?",
+    "A": "Mahsulot hajmi va resurslar ehtiyoji",
+    "B": "Xodimlar soni",
+    "C": "Korxona nomi",
+    "D": "Soliq stavkalari va resurslar ehtiyoji",
+    "javob": "A"
+  },
+  {
+    "savol": "Korxonalarda ishlab chiqarish rejalari nimani belgilaydi?",
+    "A": "Mahsulot hajmi va resurslar ehtiyojini",
+    "B": "Reklama kampaniyalarini",
+    "C": "Soliq miqdorini",
+    "D": "Ombor maydonini va resurslar ehtiyojini",
+    "javob": "A"
+  },
+  {
+    "savol": "Savdo oldi servisiga qaysi xizmat kiradi?",
+    "A": "Mahsulot haqida axborot berish",
+    "B": "Kafolatli ta’mirlash",
+    "C": "Omborlarni inventarizatsiya qilish",
+    "D": "Soliq hisobotini tayyorlash",
+    "javob": "A"
+  },
+  {
+    "savol": "Ishlab chiqarish xarajatlari nima?",
+    "A": "Mahsulot ishlab chiqarish jarayonida sarflanadigan resurslarning puldagi ifodasi",
+    "B": "Mahsulotni reklama qilish xarajatlari",
+    "C": "Ombor qurilishi bilan bog‘liq xarajatlar",
+    "D": "Soliq to‘lovlari yig‘indisi",
+    "javob": "A"
+  },
+  {
+    "savol": "Vaqt me’yori nimani anglatadi?",
+    "A": "Mahsulot ishlab chiqarish uchun sarflanadigan vaqt miqdorini",
+    "B": "Xodimlarning dam olish vaqtini",
+    "C": "Ombor ishlash muddatini",
+    "D": "Mahsulot ishlab chiqarish uchun sarflangan barcha xarajatlar yig‘indisi",
+    "javob": "A"
+  },
+  {
+    "savol": "Mahsulot tannarxi nima?",
+    "A": "Mahsulot ishlab chiqarish uchun sarflangan barcha xarajatlar yig‘indisi",
+    "B": "Mahsulot sotish narxi",
+    "C": "Korxona daromadi",
+    "D": "Mahsulot ishlab chiqarish uchun sarflanadigan vaqt miqdorini",
+    "javob": "A"
+  },
+  {
+    "savol": "Material sig‘imi nimani ifodalaydi?",
+    "A": "Mahsulot ishlab chiqarishga sarflangan xomashyo miqdorini",
+    "B": "Mahsulotning bozor narxini",
+    "C": "Ishlab chiqarish hajmini",
+    "D": "Mahsulot ishlab chiqarish uchun sarflanadigan vaqt miqdorini",
+    "javob": "A"
+  },
+  {
+    "savol": "Resurslardan samarali foydalanish nimaga olib keladi?",
+    "A": "Mahsulot tannarxining pasayishiga",
+    "B": "Xarajatlarning ortishiga",
+    "C": "Ishlab chiqarish hajmining kamayishiga",
+    "D": "Ombor xarajatlarining oshishiga",
+    "javob": "A"
+  },
+  {
+    "savol": "Tovar iste’molchilari kimlar?",
+    "A": "Mahsulot va xizmatlarni xarid qiluvchi iqtisodiy subyektlar",
+    "B": "Mahsulot ishlab chiqaruvchi korxonalar",
+    "C": "Soliq organlari vakillari",
+    "D": "Ombor boshqaruvchilari va xizmatlarni xarid qiluvchi ijtimoiy subyektlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Divizion tuzilma qanday tashkil etiladi?",
+    "A": "Mahsulot, hudud yoki mijoz bo‘yicha bo‘linmalar asosida",
+    "B": "Ishlab chiqarish yoki savdo talabi bo‘yicha",
+    "C": "Marketing, tovar hajmi yoki bo`linmalar asosida",
+    "D": "Moliya bo‘yicha",
+    "javob": "A"
+  },
+  {
+    "savol": "Servis xizmatlari nima?",
+    "A": "Mahsulotni yaratish va undan foydalanishda qo‘shimcha qiymat yaratuvchi xizmatlar",
+    "B": "Soliq hisoblash jarayoni",
+    "C": "Omborlarni boshqarish tizimi",
+    "D": "Reklama faoliyatini yaratish va undan foydalanishda qo‘shimcha qiymat yaratuvchi xizmatlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Mahsulot sifati nima?",
+    "A": "Mahsulotning iste’molchi ehtiyojlarini qondirish darajasi",
+    "B": "Mahsulotning og‘irligi",
+    "C": "Mahsulotning narxi",
+    "D": "Mahsulotning reklama hajmi va ehtiyojlarini qondirish darajasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ishonchlilik ko‘rsatkichlari nimani ifodalaydi?",
+    "A": "Mahsulotning xizmat muddati va buzilmasdan ishlashi",
+    "B": "Mahsulotning reklama darajasini",
+    "C": "Korxonaning joylashuvini",
+    "D": "Xodimlar soni va mahsulot ishlab chiqarishni",
+    "javob": "A"
+  },
+  {
+    "savol": "Iste’molchilarning iqtisodiy xulq-atvorining asosiy maqsadi nima?",
+    "A": "Maksimal foydalilikka erishish",
+    "B": "Xarajatlarni oshirish",
+    "C": "Omborlarni kengaytirish",
+    "D": "Mahsulot ishlab chiqarishni kamaytirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Innovatsion rivojlanish strategiyalarini samarali amalga oshirish omillaridan biri qaysi?",
+    "A": "Malakali kadrlar va bilimlar bazasi",
+    "B": "Ishlab chiqarish hajmini kamaytirish",
+    "C": "Tanaffus vaqtini uzaytirish",
+    "D": "Xarajatlarni nazoratsiz oshirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Jamoani samarali tashkil etish tamoyillaridan biri nima?",
+    "A": "Maqsad birligi",
+    "B": "Xarajatlarni oshirish",
+    "C": "Omborlarni kengaytirish",
+    "D": "Ish vaqtini qisqartirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Boshqaruv tizimining asosiy elementlaridan biri qaysi?",
+    "A": "Maqsad va strategiya",
+    "B": "Reklama",
+    "C": "Texnologiya",
+    "D": "Ishlab chiqarish hajmi",
+    "javob": "A"
+  },
+  {
+    "savol": "Boshqaruv tizimining samarali ishlashi uchun qaysi elementlar muhim?",
+    "A": "Maqsad, tuzilma, funksiyalar, axborot oqimlari va nazorat",
+    "B": "Marketing strategiyasi",
+    "C": "Moliyaviy resurslar",
+    "D": "Ishlab chiqarish quvvati, resurslari va xarajatlari",
+    "javob": "A"
+  },
+  {
+    "savol": "Inkremental innovatsion strategiya nimani anglatadi?",
+    "A": "Mavjud mahsulot yoki texnologiyani bosqichma-bosqich takomillashtirishni",
+    "B": "Korxonani yopishni",
+    "C": "Ishlab chiqarishni to‘liq to‘xtatishni",
+    "D": "Yangi soliq tizimini joriy etish va bosqichma-bosqich takomillashtirishni",
+    "javob": "A"
+  },
+  {
+    "savol": "Ishlab chiqarish quvvatidan foydalanish darajasi nimani ko‘rsatadi?",
+    "A": "Mavjud quvvatdan foydalanish samaradorligini",
+    "B": "Ishchilar sonini",
+    "C": "Mahsulot narxini",
+    "D": "Marketing strategiyasidan foydalanish samaradorligini",
+    "javob": "A"
+  },
+  {
+    "savol": "ERP va CRM tizimlari nimaga yordam beradi?",
+    "A": "Mehnat jarayonlarini boshqarish va monitoring qilishga",
+    "B": "Ishlab chiqarishni qisqartirishga",
+    "C": "Omborlarni yopishga",
+    "D": "Soliq stavkalarini oshirishga va monitoring qilishga",
+    "javob": "A"
+  },
+  {
+    "savol": "ERP, CRM va HRM tizimlari nimaga xizmat qiladi?",
+    "A": "Mehnat jarayonlarini samarali boshqarishga",
+    "B": "Mahsulot ishlab chiqarishni kamaytirishga",
+    "C": "Xarajatlarni nazoratsiz oshirishga",
+    "D": "Omborlarni yopishga",
+    "javob": "A"
+  },
+  {
+    "savol": "Mehnatni me’yorlashtirishning asosiy maqsadi nima?",
+    "A": "Mehnat sarfini optimallashtirish va unumdorlikni oshirish",
+    "B": "Ishlab chiqarishni kamaytirish",
+    "C": "Ombor xarajatlarini oshirish",
+    "D": "Reklama faoliyatini kengaytirish va unumdorlikni oshirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Ishlab chiqarish samaradorligini baholovchi ko‘rsatkichlardan biri qaysi?",
+    "A": "Mehnat unumdorligi",
+    "B": "Korxona manzili",
+    "C": "Ombor hajmi",
+    "D": "Reklama soni",
+    "javob": "A"
+  },
+  {
+    "savol": "Mehnatni normativlashning asosiy maqsadi nima?",
+    "A": "Mehnat unumdorligini oshirish",
+    "B": "Savdoni oshirish",
+    "C": "Importni ko‘paytirish",
+    "D": "Reklama hajmini oshirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Korxonalarda ishlab chiqarish jarayonlarini samarali tashkil etish nimaga yordam beradi?",
+    "A": "Mehnat unumdorligini oshirishga",
+    "B": "Mahsulot hajmini kamaytirishga",
+    "C": "Reklama xarajatlarini ko‘paytirishga",
+    "D": "Soliq stavkalarini oshirishga",
+    "javob": "A"
+  },
+  {
+    "savol": "Normativ usul nimaga asoslanadi?",
+    "A": "Mehnat va resurs sarfi me’yorlariga",
+    "B": "Tasodifiy hisob-kitoblarga",
+    "C": "rahbar qaroriga",
+    "D": "Marketing ma’lumotlariga",
+    "javob": "A"
+  },
+  {
+    "savol": "Rejalashtirishda resurslarga nimalar kiradi?",
+    "A": "Mehnat, moddiy va moliyaviy resurslar",
+    "B": "Binolar",
+    "C": "Ishchilar",
+    "D": "Elektr energiyasi va resurslar",
+    "javob": "A"
+  },
+  {
+    "savol": "Ishlab chiqarish jarayonlarini tashkil etishda resurslar nimani anglatadi?",
+    "A": "Mehnat, moddiy va moliyaviy vositalarni",
+    "B": "Ombor maydonini",
+    "C": "Reklama vositalarini",
+    "D": "Transport, texnika va ombor vositalarini",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri ishlab chiqarish tizimining elementi hisoblanadi?",
+    "A": "Mehnat, texnika va texnologiya uyg‘unligi",
+    "B": "Reklama faoliyati",
+    "C": "Savdo tizimi",
+    "D": "Transport, texnika va rivojlanish tizimi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ishlab chiqarishni tashkil qilishning asosiy elementlaridan biri qaysi?",
+    "A": "Mehnatni tashkil etish",
+    "B": "Soliq yig‘ish",
+    "C": "Marketing tadqiqoti",
+    "D": "Kredit berishni tashkil etish",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri “Ishlab chiqarishni tashkil etish” fani bilan bog‘liq?",
+    "A": "Menejment",
+    "B": "Astronomiya",
+    "C": "Biologiya",
+    "D": "Geografiya",
+    "javob": "A"
+  },
+  {
+    "savol": "CRM tizimlarining asosiy vazifasi nima?",
+    "A": "Mijozlar bilan munosabatlarni boshqarish",
+    "B": "Ishlab chiqarishni kamaytirish",
+    "C": "Mahsulot narxini oshirish",
+    "D": "Omborlarni yopish va tovar hajmini kamaytirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Jamoa samaradorligiga ta’sir etuvchi asosiy omillardan biri nima?",
+    "A": "Motivatsiya tizimi",
+    "B": "Binolar soni",
+    "C": "Reklama hajmi",
+    "D": "Ombor maydoni",
+    "javob": "A"
+  },
+  {
+    "savol": "Xronometraj usuli nimaga xizmat qiladi?",
+    "A": "Muayyan operatsiyani bajarish vaqtini aniq o‘lchashga",
+    "B": "Ombor xarajatlarini hisoblashga",
+    "C": "Reklama samaradorligini baholashga",
+    "D": "Mahsulot sifati nazoratiga",
+    "javob": "A"
+  },
+  {
+    "savol": "Rejalashtirish korxona boshqaruvining qanday qismi hisoblanadi?",
+    "A": "Muhim tarkibiy qismi",
+    "B": "Keraksiz qismi",
+    "C": "Ikkinchi darajali qismi",
+    "D": "Nazorat bilan bog‘liq emas",
+    "javob": "A"
+  },
+  {
+    "savol": "Six Sigma metodologiyasining asosiy maqsadi nima?",
+    "A": "Nuqsonlarni kamaytirish",
+    "B": "Mahsulot hajmini kamaytirish",
+    "C": "Ish vaqtini qisqartirish",
+    "D": "Ombor zaxirasini oshirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Jarayon davomida nazorat qilishning asosiy maqsadi nima?",
+    "A": "Nuqsonlarning oldini olish",
+    "B": "Omborlarni kengaytirish",
+    "C": "Mahsulot narxini oshirish",
+    "D": "Xodimlarni qisqartirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Boshqaruv tizimi qanday tizim hisoblanadi?",
+    "A": "Ochiq tizim",
+    "B": "Yopiq tizim",
+    "C": "Statik tizim",
+    "D": "Mustaqil tizim",
+    "javob": "A"
+  },
+  {
+    "savol": "Yakka iste’molchilarga qaysi misol kiradi?",
+    "A": "Oilaning oziq-ovqat mahsulotlarini xarid qilishi",
+    "B": "Qurilish kompaniyasining sement xarid qilishi",
+    "C": "Zavodning metall sotib olishi",
+    "D": "Universitetning laboratoriya jihozlari xarid qilishi",
+    "javob": "A"
+  },
+  {
+    "savol": "KPI usuli nimaga asoslanadi?",
+    "A": "Oldindan belgilangan samaradorlik ko‘rsatkichlariga",
+    "B": "Tasodifiy qarorlar qabul qilishga",
+    "C": "Ombor xarajatlarini oshirishga",
+    "D": "Soliq stavkalarini belgilashga",
+    "javob": "A"
+  },
+  {
+    "savol": "Xarajatlarni rejalashtirishning asosiy vazifalaridan biri qaysi?",
+    "A": "Ortiqcha sarf-xarajatlarni kamaytirish",
+    "B": "Ombor hajmini kengaytirish",
+    "C": "Kredit stavkalarini oshirish",
+    "D": "Tanaffus vaqtini ko‘paytirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Lean management konsepsiyasining asosiy maqsadi nima?",
+    "A": "Ortiqcha xarajat va yo‘qotishlarni kamaytirish",
+    "B": "Ishlab chiqarishni sekinlashtirish",
+    "C": "Mahsulot sifatini pasaytirish",
+    "D": "Tanaffus vaqtini uzaytirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Operativ rejalashtirish qaysi muddatga mo‘ljallangan?",
+    "A": "Oylik, choraklik yoki yillik",
+    "B": "10 yil",
+    "C": "5 yil",
+    "D": "15 yil",
+    "javob": "A"
+  },
+  {
+    "savol": "Axborot almashinuvi boshqaruv tizimida qanday ahamiyatga ega?",
+    "A": "Qaror qabul qilish samaradorligini oshiradi",
+    "B": "Ishlab chiqarishni sekinlashtiradi",
+    "C": "Ombor xarajatlarini oshiradi",
+    "D": "Mehnat unumdorligini kamaytiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Boshqaruv subyekti nima?",
+    "A": "Qaror qabul qiluvchi shaxslar va organlar",
+    "B": "Ishlab chiqaruvchi shaxslar va organlar",
+    "C": "Xomashyo resurslari",
+    "D": "Mahsulot bozori",
+    "javob": "A"
+  },
+  {
+    "savol": "ERP va CRM tizimlarini joriy etishning asosiy afzalligi nima?",
+    "A": "Qarorlarni tez va aniq qabul qilish imkonini beradi",
+    "B": "Mahsulot ishlab chiqarishni kamaytiradi",
+    "C": "Mehnat unumdorligini pasaytiradi",
+    "D": "Ombor xarajatlarini oshiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Zamonaviy boshqaruv tizimlarini takomillashtirishning asosiy yo‘nalishlaridan biri qaysi?",
+    "A": "Raqamlashtirish va avtomatlashtirish",
+    "B": "Qo‘l mehnatini ko‘paytirish",
+    "C": "Ish vaqtini qisqartirish",
+    "D": "Omborlarni yopish va kamaytirish",
+    "javob": "A"
+  },
+  {
+    "savol": "“Sanoat 4.0” konsepsiyasi nimaga asoslanadi?",
+    "A": "Raqamli texnologiyalar va avtomatlashtirishga",
+    "B": "Qo‘l mehnatini kengaytirishga",
+    "C": "Omborlarni kamaytirishga",
+    "D": "Mahsulot hajmini va ishlab chiqarishni qisqartirishga",
+    "javob": "A"
+  },
+  {
+    "savol": "Zamonaviy rejalashtirish tizimlari korxonaga qanday samara beradi?",
+    "A": "Raqobatbardoshlik va samaradorlikni oshiradi",
+    "B": "Ombor xarajatlarini oshiradi",
+    "C": "Mahsulot sifatini pasaytiradi",
+    "D": "Ishlab chiqarish hajmini kamaytiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Servis xizmatlarining korxona uchun ahamiyati nimada?",
+    "A": "Raqobatbardoshlikni oshirishda",
+    "B": "Ishlab chiqarishni qisqartirishda",
+    "C": "Xarajatlarni nazoratsiz oshirishda",
+    "D": "Mahsulot sifatini pasaytirishda",
+    "javob": "A"
+  },
+  {
+    "savol": "Korxonada ishlab chiqarishni samarali tashkil etishning asosiy natijasi nima?",
+    "A": "Raqobatbardoshlikning oshishi",
+    "B": "Ombor xarajatlarining ortishi",
+    "C": "Mahsulot sifatining pasayishi",
+    "D": "Ishlab chiqarish hajmining kamayishi",
+    "javob": "A"
+  },
+  {
+    "savol": "IoT texnologiyasi sifatni oshirishda qanday vazifani bajaradi?",
+    "A": "Real vaqt rejimida monitoring olib boradi",
+    "B": "Omborlarni yopadi",
+    "C": "Soliq stavkalarini hisoblaydi",
+    "D": "Mahsulot tannarxini oshiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Xarajatlar nazorati nima?",
+    "A": "Rejalashtirilgan va haqiqiy xarajatlarni taqqoslash jarayoni",
+    "B": "Mahsulot sifatini nazorat qilish usuli",
+    "C": "Omborlarni inventarizatsiya qilish",
+    "D": "Reklama faoliyatini tahlil qilish jarayoni",
+    "javob": "A"
+  },
+  {
+    "savol": "Boshqaruv tizimining asosiy funksiyalaridan biri qaysi?",
+    "A": "Rejalashtirish",
+    "B": "Omborlarni yopish",
+    "C": "Soliq stavkalarini belgilash",
+    "D": "Reklama xarajatlarini oshirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Rejalashtirish jarayonining uzluksizlik tamoyili nimani bildiradi?",
+    "A": "Rejalashtirish doimiy ravishda yangilanib boradi",
+    "B": "Rejalashtirish faqat bir marta tuziladi",
+    "C": "Rejalashtirish faqat yilda bir marta amalga oshiriladi",
+    "D": "Rejalashtirish ishlab chiqarishga ta’sir qilmaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Rejalashtirishning ilmiylik tamoyili nimani anglatadi?",
+    "A": "Rejalashtirish iqtisodiy qonuniyatlarga asoslanishi",
+    "B": "Rejalashtirish faqat tajribaga asoslanishi",
+    "C": "Rejalashtirish tasodifiy bo‘lishi",
+    "D": "Rejalashtirish faqat rahbar qaroriga bog‘liq bo‘lishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Boshqaruvning umumiy funksiyalariga qaysi kiradi?",
+    "A": "Rejalashtirish, tashkil etish, motivatsiya, nazorat",
+    "B": "marketing",
+    "C": "reklama",
+    "D": "logistika",
+    "javob": "A"
+  },
+  {
+    "savol": "Korxonada ishlab chiqarish hajmini belgilash qaysi jarayonning vazifasidir?",
+    "A": "Rejalashtirishning",
+    "B": "Nazoratning",
+    "C": "Marketingning",
+    "D": "Reklamaning",
+    "javob": "A"
+  },
+  {
+    "savol": "Ishlab chiqarish samaradorligini baholashda qaysi ko‘rsatkich ishlatiladi?",
+    "A": "Rentabellik",
+    "B": "Reklama",
+    "C": "Marketing",
+    "D": "Savdo hajmi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ishlab chiqarishni rejalashtirishda balans usuli nimani anglatadi?",
+    "A": "Resurslar va ehtiyojlar muvozanatini ta’minlash",
+    "B": "Ishchilarni almashtirish",
+    "C": "Omborni kengaytirish",
+    "D": "Foydani hisoblash",
+    "javob": "A"
+  },
+  {
+    "savol": "Balans usulining asosiy vazifasi nima?",
+    "A": "Resurslar va ehtiyojlar o‘rtasidagi muvozanatni aniqlash",
+    "B": "Mahsulot reklamasini oshirish",
+    "C": "Ishchilarni rag‘batlantirish",
+    "D": "Marketing tadqiqotini o‘tkazish",
+    "javob": "A"
+  },
+  {
+    "savol": "Normativlashning asosiy vazifasi nima?",
+    "A": "Resurslardan foydalanish me’yorlarini belgilash",
+    "B": "Ishchilar sonini qisqartirish",
+    "C": "Mahsulot hajmini kamaytirish",
+    "D": "Reklama xarajatlarini oshirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Ishlab chiqarishni rejalashtirishda samaradorlikni oshirishning muhim omili qaysi?",
+    "A": "Resurslardan oqilona foydalanish",
+    "B": "Xarajatlarni nazoratsiz oshirish",
+    "C": "Ishlab chiqarishni sekinlashtirish",
+    "D": "Omborda ortiqcha zaxira yig‘ish",
+    "javob": "A"
+  },
+  {
+    "savol": "Ishlab chiqarishni tashkil etishning muhim vazifalaridan biri qaysi?",
+    "A": "Resurslardan oqilona foydalanishni ta’minlash",
+    "B": "Xarajatlarni nazoratsiz oshirish",
+    "C": "Ishlab chiqarishni to‘xtatish",
+    "D": "Mahsulot sifatini pasaytirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Ishlab chiqarishni tashkil qilish nima?",
+    "A": "Resurslardan samarali foydalanish orqali ishlab chiqarish jarayonlarini boshqarish tizimi",
+    "B": "Mahsulotlarni sotish faoliyati",
+    "C": "Omborlarni qurish jarayoni",
+    "D": "Reklama faoliyatini tashkil etish",
+    "javob": "A"
+  },
+  {
+    "savol": "Ishlab chiqarishni rejalashtirishning asosiy maqsadi nima?",
+    "A": "Resurslardan samarali foydalanishni ta’minlash",
+    "B": "ishlab chiqarish hajmini kamaytirish",
+    "C": "Soliq to‘lashni nazorat qilish",
+    "D": "Ishchilar sonini oshirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Rejalashtirishda resurslardan foydalanishni optimallashtirish nimani anglatadi?",
+    "A": "Resurslardan samarali va tejamkor foydalanishni",
+    "B": "Ishlab chiqarishni kamaytirishni",
+    "C": "Xarajatlarni ko‘paytirishni",
+    "D": "Omborlarni yopishni",
+    "javob": "A"
+  },
+  {
+    "savol": "Rejalashtirishning asosiy vazifalaridan biri qaysi?",
+    "A": "Resurslarga bo‘lgan ehtiyojni aniqlash",
+    "B": "mahsulot narxini oshirish",
+    "C": "Ishchilarni qisqartirish",
+    "D": "Bozor va omborlarni yopish",
+    "javob": "A"
+  },
+  {
+    "savol": "ERP tizimlari ishlab chiqarishni rejalashtirishda qanday vazifani bajaradi?",
+    "A": "Resurslarni boshqarish va nazorat qilishni ta’minlaydi",
+    "B": "Omborlarni yopadi",
+    "C": "Mahsulot sifatini pasaytiradi",
+    "D": "Reklama faoliyati va nazorat qilishni cheklaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Resurslarni boshqarishning asosiy vazifalaridan biri qaysi?",
+    "A": "Resurslarni optimal taqsimlash",
+    "B": "Omborlarni yopish",
+    "C": "Reklama xarajatlarini oshirish",
+    "D": "Soliq stavkalarini belgilash",
+    "javob": "A"
+  },
+  {
+    "savol": "Servis xizmatlari samaradorligini baholashning asosiy maqsadi nima?",
+    "A": "Servis sifatini oshirish va xarajatlarni optimallashtirish",
+    "B": "Ombor hajmini kengaytirish",
+    "C": "Ishlab chiqarishni sekinlashtirish",
+    "D": "Xodimlar sonini va ishlab chiqarish hajmini kamaytirish",
+    "javob": "A"
+  },
+  {
+    "savol": "ISO 9001 standarti nimaga xizmat qiladi?",
+    "A": "Sifatni boshqarish tizimini takomillashtirishga",
+    "B": "Ishlab chiqarishni to‘xtatishga",
+    "C": "Kredit foizlarini oshirishga",
+    "D": "Reklama xarajatlarini ko‘paytirishga",
+    "javob": "A"
+  },
+  {
+    "savol": "Sifat menejmentining asosiy vazifalaridan biri qaysi?",
+    "A": "Sifatni rejalashtirish va nazorat qilish",
+    "B": "Soliq stavkalarini belgilash",
+    "C": "Omborlarni yopish",
+    "D": "Mahsulot hajmini kamaytirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Innovatsion faoliyatning moliyaviy manbalaridan biri qaysi?",
+    "A": "Sof foyda va amortizatsiya ajratmalari",
+    "B": "Jarima mablag‘lari",
+    "C": "Ombor xarajatlari",
+    "D": "Reklama xarajatlari",
+    "javob": "A"
+  },
+  {
+    "savol": "Ratsional tashkiliy strukturaning maqsadga yo‘naltirilganlik tamoyili nimani anglatadi?",
+    "A": "Struktura korxona strategik maqsadlariga mos bo‘lishini",
+    "B": "Xodimlar sonini kamaytirishni",
+    "C": "Omborlarni kengaytirishni",
+    "D": "Reklama faoliyatini kuchaytirishni",
+    "javob": "A"
+  },
+  {
+    "savol": "Tarif tizimining asosiy elementlaridan biri qaysi?",
+    "A": "Tarif stavkasi",
+    "B": "Reklama hajmi",
+    "C": "Ombor maydoni",
+    "D": "Transport xarajatlari",
+    "javob": "A"
+  },
+  {
+    "savol": "Jamoa shakllanishining birinchi bosqichi qaysi?",
+    "A": "Tashkil etish bosqichi",
+    "B": "Hamkorlik bosqichi",
+    "C": "Barqaror faoliyat bosqichi",
+    "D": "Nazorat bosqichi",
+    "javob": "A"
+  },
+  {
+    "savol": "Boshqaruv funksiyalari nimani ifodalaydi?",
+    "A": "Tashkilot maqsadlariga erishish uchun bajariladigan faoliyat yo‘nalishlarini",
+    "B": "Ishlab chiqarish jarayoni uchun bajariladigan faoliyat yo‘nalishlarini",
+    "C": "Marketing faoliyatini",
+    "D": "Moliyaviy hisobotni",
+    "javob": "A"
+  },
+  {
+    "savol": "Tashkilotni boshqarish tizimi nima?",
+    "A": "Tashkilot maqsadlariga erishish uchun resurslarni muvofiqlashtirish tizimi",
+    "B": "Ishlab chiqarish jarayonini nazorat qilish tizimi",
+    "C": "Moliyaviy nazorat tizimi",
+    "D": "Marketing faoliyati",
+    "javob": "A"
+  },
+  {
+    "savol": "“Lean production” nima?",
+    "A": "Tejamkor ishlab chiqarish tamoyili",
+    "B": "Savdo strategiyasi tamoyili",
+    "C": "Reklama tizimi",
+    "D": "Kredit mexanizmi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ishlab chiqarish xarajatlarini kamaytirishning samarali usullaridan biri nima?",
+    "A": "Texnologik jarayonlarni takomillashtirish",
+    "B": "Ishlab chiqarishni sekinlashtirish",
+    "C": "Resurs sarfini oshirish",
+    "D": "Qo‘shimcha tanaffuslar joriy etish",
+    "javob": "A"
+  },
+  {
+    "savol": "Ishlab chiqarishni tashkil etishning zamonaviy yondashuvlari nimaga xizmat qiladi?",
+    "A": "Tezkor boshqaruv va samaradorlikni oshirishga",
+    "B": "Ishlab chiqarishni sekinlashtirishga",
+    "C": "Xarajatlarni nazoratsiz oshirishga",
+    "D": "Mehnat unumdorligini kamaytirishga",
+    "javob": "A"
+  },
+  {
+    "savol": "Taqqoslash usuli nimani anglatadi?",
+    "A": "Turli korxonalar va modellarni solishtirish",
+    "B": "Turli korxonalar va modellarni statistik hisoblash",
+    "C": "Grafik chizish",
+    "D": "Moliyaviy tahlil",
+    "javob": "A"
+  },
+  {
+    "savol": "Jamoa nima?",
+    "A": "Umumiy maqsad yo‘lida birgalikda ishlovchi xodimlar guruhi",
+    "B": "Mahsulot ishlab chiqaruvchi uskunalar majmuasi",
+    "C": "Omborlarni boshqaruvchi tizim",
+    "D": "Soliq nazorati organi",
+    "javob": "A"
+  },
+  {
+    "savol": "Tizimli yondashuv qaysi nazariyaga asoslanadi?",
+    "A": "Umumiy tizimlar nazariyasiga",
+    "B": "Marketing nazariyasiga",
+    "C": "Moliya nazariyasiga",
+    "D": "Ishlab chiqarish nazariyasiga",
+    "javob": "A"
+  },
+  {
+    "savol": "Funktsional ko‘rsatkichlarga qaysi misol kiradi?",
+    "A": "Unumdorlik va aniqlik",
+    "B": "Mahsulot rangi",
+    "C": "Ombor hajmi",
+    "D": "Reklama turi",
+    "javob": "A"
+  },
+  {
+    "savol": "Kaizen falsafasi nimaga asoslanadi?",
+    "A": "Uzluksiz takomillashtirishga",
+    "B": "Ishlab chiqarishni to‘xtatishga",
+    "C": "Reklama xarajatlarini oshirishga",
+    "D": "Mahsulot narxini kamaytirishga",
+    "javob": "A"
+  },
+  {
+    "savol": "Ishlab chiqarishni tashkil etish tamoyillaridan biri nima?",
+    "A": "Uzluksizlik tamoyili",
+    "B": "Xarajatlarni oshirish tamoyili",
+    "C": "Omborlarni yopish tamoyili",
+    "D": "Ish vaqtini qisqartirish tamoyili",
+    "javob": "A"
+  },
+  {
+    "savol": "Strategik rejalashtirish qanday muddatga mo‘ljallanadi?",
+    "A": "Uzoq muddatga",
+    "B": "Bir kunga",
+    "C": "Bir haftaga",
+    "D": "Yaqin muddatga",
+    "javob": "A"
+  },
+  {
+    "savol": "Boshqaruv funksiyalarining strategik darajasi nimani bildiradi?",
+    "A": "Uzoq muddatli qarorlar va rivojlanish yo‘nalishlarini",
+    "B": "Kunlik ish jarayonlari va rivojlanish yo‘nalishlarini",
+    "C": "Nazoratni",
+    "D": "Marketingni",
+    "javob": "A"
+  },
+  {
+    "savol": "Strategik rejalashtirish qanday davrni qamrab oladi?",
+    "A": "Uzoq muddatli rivojlanish davrini",
+    "B": "Yaqin muddatli rivojlanish davrini",
+    "C": "Haftalik ishlab chiqarishni",
+    "D": "Bir smenalik ishni",
+    "javob": "A"
+  },
+  {
+    "savol": "Vakolat va javobgarlik birligi tamoyili nimani bildiradi?",
+    "A": "Vakolat mavjud joyda javobgarlik ham bo‘lishini",
+    "B": "Xodimlarning rahbarsiz ishlashini",
+    "C": "Bo‘limlarning mustaqil faoliyat yuritishini",
+    "D": "Nazoratning bekor qilinishini",
+    "javob": "A"
+  },
+  {
+    "savol": "Xarajatlar rentabelligi nimani ko‘rsatadi?",
+    "A": "Xarajatlar evaziga olingan foyda darajasini",
+    "B": "Mahsulot soni evaziga olingan foyda darajasini",
+    "C": "Ombor hajmini",
+    "D": "Ishchilar sonini",
+    "javob": "A"
+  },
+  {
+    "savol": "Servis xizmatlarini raqamlashtirish natijasida qanday samaraga erishiladi?",
+    "A": "Xizmat ko‘rsatish tezligi va mijozlar qoniqishi oshadi",
+    "B": "Xarajatlar hajmi va raqobatbardoshlik darajasi ortadi",
+    "C": "Mahsulot sifati pasayadi",
+    "D": "Raqobatbardoshlik kamayadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Matritsali tashkiliy tuzilmaning asosiy xususiyati nima?",
+    "A": "Xodim ikki rahbarga bo‘ysunadi",
+    "B": "Xodim faqat bitta rahbarga bo‘ysunadi",
+    "C": "Rahbarlar mavjud emas",
+    "D": "Boshqaruv faqat avtomatlashtirilgan",
+    "javob": "A"
+  },
+  {
+    "savol": "Mehnat resurslarini boshqarish yo‘nalishlaridan biri qaysi?",
+    "A": "Xodimlarni o‘qitish va malakasini oshirish",
+    "B": "Mahsulot tannarxini oshirish",
+    "C": "Omborlarni qisqartirish",
+    "D": "Transport xarajatlarini ko‘paytirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Ish haqining rag‘batlantiruvchi funksiyasi nimani anglatadi?",
+    "A": "Xodimlarni samarali ishlashga undashni",
+    "B": "Ombor xarajatlarini kamaytirishni",
+    "C": "Ishlab chiqarishni sekinlashtirishni",
+    "D": "Mahsulot narxini oshirishni",
+    "javob": "A"
+  },
+  {
+    "savol": "Mehnat resurslari nima?",
+    "A": "Xodimlarning bilim, malaka va tajribalari majmui",
+    "B": "Ombor uskunalari yig‘indisi",
+    "C": "Soliq mablag‘lari",
+    "D": "Reklama vositalari",
+    "javob": "A"
+  },
+  {
+    "savol": "Psixologik rag‘batlantirishning asosiy maqsadi nima?",
+    "A": "Xodimlarning ichki qiziqishini kuchaytirish",
+    "B": "Ishlab chiqarishni kamaytirish",
+    "C": "Omborlarni kengaytirish",
+    "D": "Soliq xarajatlarini oshirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Psixologik yondashuv nimaga asoslanadi?",
+    "A": "Xodimlarning individual xususiyatlari va motivatsiyasiga",
+    "B": "Soliq stavkalarini belgilashga",
+    "C": "Omborlarni boshqarishga",
+    "D": "Xodimlarning umumiy imkoniyatlari va qiziqishiga",
+    "javob": "A"
+  },
+  {
+    "savol": "Jamoa shakllanishida muhim omillardan biri qaysi?",
+    "A": "Xodimlarning kasbiy malakasi",
+    "B": "Ombor hajmi",
+    "C": "Reklama xarajatlari",
+    "D": "Transport vositalari soni",
+    "javob": "A"
+  },
+  {
+    "savol": "Ishlab chiqarish sikli nima?",
+    "A": "Xomashyo ishlab chiqarishga kirganidan tayyor mahsulot bo‘lguncha o‘tadigan vaqt",
+    "B": "Mahsulotni tayyor bo`lganidan bozorga chiqarilguncha o`tadigan muddat",
+    "C": "Kredit to‘lash davri",
+    "D": "Reklama kampaniyasi davomiyligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Logistika ishlab chiqarish jarayonida nimani optimallashtiradi?",
+    "A": "Xomashyo ta’minoti va mahsulot yetkazib berishni",
+    "B": "Reklama tizimini",
+    "C": "Moliyaviy operatsiyalarni",
+    "D": "Marketing, menejment va yetkazib berish tadqiqotini",
+    "javob": "A"
+  },
+  {
+    "savol": "Moddiy xarajatlarga qaysilar kiradi?",
+    "A": "Xomashyo va materiallar",
+    "B": "Reklama xarajatlari",
+    "C": "Kredit foizlari",
+    "D": "Sug‘urta badallari",
+    "javob": "A"
+  },
+  {
+    "savol": "Ishlab chiqarish jarayoni nimani anglatadi?",
+    "A": "Xomashyoni tayyor mahsulotga aylantirish jarayoni",
+    "B": "Mahsulotni reklama qilish",
+    "C": "Omborga mahsulot joylashtirish",
+    "D": "Tayyor mahsulotni bozorga olib chiqish jarayoni",
+    "javob": "A"
+  },
+  {
+    "savol": "Ishlab chiqarishni tashkil etish fanining evolyutsiyasida qaysi bosqichda ilmiy boshqaruv shakllandi?",
+    "A": "XX asr boshlarida",
+    "B": "XVIII asrda",
+    "C": "XXI asrda",
+    "D": "XVII asr boshlarida",
+    "javob": "A"
+  },
+  {
+    "savol": "Raqamli va integratsiyalashgan ishlab chiqarish davri qaysi asrga to‘g‘ri keladi?",
+    "A": "XXI asr",
+    "B": "XIX asr",
+    "C": "XVIII asr",
+    "D": "XX asr boshlari",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri ishlab chiqarishni tashkil etish shakli hisoblanadi?",
+    "A": "Yakka ishlab chiqarish",
+    "B": "Marketing tizimi",
+    "C": "Savdo tizimi",
+    "D": "Kredit tizimi",
+    "javob": "A"
+  },
+  {
+    "savol": "Innovatsion faoliyat nima?",
+    "A": "Yangi g‘oya va texnologiyalarni yaratish hamda joriy etish jarayoni",
+    "B": "Mahsulotlarni omborga joylashtirish faoliyati",
+    "C": "Soliq hisoblash tizimi",
+    "D": "Xodimlarni ishga qabul qilish hamda qulay ish sharoitini tashkil etish jarayoni",
+    "javob": "A"
+  },
+  {
+    "savol": "Mahsulot innovatsiyasi nimani anglatadi?",
+    "A": "Yangi yoki sezilarli yangilangan mahsulot yaratishni",
+    "B": "Kredit olish jarayonini",
+    "C": "Ombor tizimini kengaytirishni",
+    "D": "Soliq stavkalarini kamaytirishni",
+    "javob": "A"
+  },
+  {
+    "savol": "Divizion struktura qanday korxonalar uchun mos?",
+    "A": "Yirik korxonalar uchun",
+    "B": "Oilaviy korxonalar uchun",
+    "C": "Yakka tartibdagi tadbirkorlar uchun",
+    "D": "Kichik ustaxonalar uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "Korxona hajmi tashkiliy struktura tanlashga qanday ta’sir qiladi?",
+    "A": "Yirik korxonalarda murakkab struktura talab etiladi",
+    "B": "Kichik korxonalarda matritsali struktura zarur bo‘ladi",
+    "C": "Korxona hajmi struktura tanlashga ta’sir qilmaydi",
+    "D": "Har doim bir xil struktura qo‘llaniladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Venchur kapitalning asosiy xususiyati nimada?",
+    "A": "Yuqori risk evaziga katta daromad olishga intilishi",
+    "B": "Mahsulot tannarxini oshirishi",
+    "C": "Omborlarni kengaytirishi",
+    "D": "Soliq stavkalarini belgilashi",
+    "javob": "A"
+  }
+]
