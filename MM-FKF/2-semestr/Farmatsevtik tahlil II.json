@@ -1,0 +1,1490 @@
+[
+  {
+    "savol": "YUqori samarali yupqa qatlamli xromatografiya nimani ifodalaydi?",
+    "A": "Yaxshilangan xususiyatlarga ega yupqa qatlamli xromatografiyaning zamonaviy varianti",
+    "B": "Gaz xromatografiyasining modifikatsiyasi",
+    "C": "Ustunli xromatografiya usuli",
+    "D": "TSentrifugalash usuli",
+    "javob": "A"
+  },
+  {
+    "savol": "YUSYUQXning anъanaviy YUQXdan asosiy farqi",
+    "A": "Mayda dispersli sorbentlar va tekis qatlamdan foydalanish",
+    "B": "YUqori haroratlarda ishlash",
+    "C": "Plastinkalar o‘rniga qog‘ozdan foydalanish",
+    "D": "Kapillyar naychalarni qo‘llash",
+    "javob": "A"
+  },
+  {
+    "savol": "YUSYUQXda sorbent sifatida ko‘pincha qaysi material ishlatiladi?",
+    "A": "Silikagel",
+    "B": "Qog‘oz",
+    "C": "Faollashtirilgan ko‘mir",
+    "D": "TSellyuloza",
+    "javob": "A"
+  },
+  {
+    "savol": "YUSYUQX uchun sorbent zarrachalarining qaysi o‘lchami xos?",
+    "A": "5–10 mkm",
+    "B": "50–100 mkm",
+    "C": ">100 mkm",
+    "D": "1–2 mm",
+    "javob": "A"
+  },
+  {
+    "savol": "YUSYUQXda to‘yintirish kamerasi nima uchun ishlatiladi?",
+    "A": "Elyuent bug‘lari bilan atmosferani to‘yintirish va takrorlanishni yaxshilash uchun",
+    "B": "Erituvchini olib tashlash uchun",
+    "C": "Plastinkalarni quritish uchun",
+    "D": "Plastinkalarni saqlash uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "Xromatografiyadan keyin dog‘larni vizualizatsiya qilish uchun qaysi usul qo‘llaniladi?",
+    "A": "Ultrabinafsha lampa",
+    "B": "Kristallanish",
+    "C": "Elektroforez",
+    "D": "Distillash",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri YUSYUQXning YUQXga nisbatan afzalligi EMAS?",
+    "A": "Uskunaning yuqori narxi",
+    "B": "YAxshiroq takrorlanuvchanlik",
+    "C": "Miqdoriy tahlil qilish imkoniyati",
+    "D": "YUqori sezgirlik",
+    "javob": "A"
+  },
+  {
+    "savol": "YUSYUQX plastinkasidagi dog‘larni miqdoriy tahlil qilish uchun qaysi usul qo‘llaniladi?",
+    "A": "Densitometriya",
+    "B": "Vizual ko‘rik",
+    "C": "Mass-spektroskopiya",
+    "D": "TSentrifugalash",
+    "javob": "A"
+  },
+  {
+    "savol": "YUSYUQXda samarali ajratish uchun elyuentning qaysi xususiyati muhim?",
+    "A": "Qutblilik",
+    "B": "Qaynash harorati",
+    "C": "Rang",
+    "D": "Qovushqoqlik",
+    "javob": "A"
+  },
+  {
+    "savol": "YUSYUQXda standartlarni qo‘llashdan maqsad nima?",
+    "A": "Moddalarni aniqlash va miqdoriy tahlilni kalibrlash",
+    "B": "Haroratni nazorat qilish",
+    "C": "Erituvchini almashtirish",
+    "D": "Rf qiymatini o‘zgartirish",
+    "javob": "A"
+  },
+  {
+    "savol": "YUSYUQXda ajratish samaradorligini baholash uchun qaysi parametrdan foydalanish mumkin?",
+    "A": "Ajratish qobiliyati (Rs)",
+    "B": "Plastinkaning rangi",
+    "C": "Namunani saqlash vaqti",
+    "D": "Kislorod kontsentratsiyasi",
+    "javob": "A"
+  },
+  {
+    "savol": "YUSYUQXda detektorlarning qaysi turi qo‘llanilmaydi?",
+    "A": "Alangali ionlashtirish detektori",
+    "B": "Xromogen reagentlar yordamida vizualizatsiya",
+    "C": "UF-densitometr",
+    "D": "Fotometr",
+    "javob": "A"
+  },
+  {
+    "savol": "Murakkab aralashmalarni tahlil qilishda YUSYUQX nimani ta’minlaydi?",
+    "A": "Komponentlarni tez va aniq ajratish va identifikatsiyalash",
+    "B": "sifat tahlili",
+    "C": "miqdoriy aniqlash",
+    "D": "moddalar massasini aniqlash",
+    "javob": "A"
+  },
+  {
+    "savol": "\"Densitometriya\" termini nimani anglatadi?",
+    "A": "Plastinkadagi dog‘larning optik zichligini o‘lchash",
+    "B": "Komponentlarni tortish",
+    "C": "Bosimni hisoblash",
+    "D": "Elyuent hajmini tahlil qilish",
+    "javob": "A"
+  },
+  {
+    "savol": "YUSYUQXning qaysi afzalligi ushbu usulni farmatsiyada ayniqsa foydali qiladi?",
+    "A": "Bir vaqtning o‘zida bir nechta namunani tahlil qilish imkoniyati",
+    "B": "Oddiy vizual nazorat",
+    "C": "YUqori kristallanish tezligi",
+    "D": "Standartlarga ehtiyojning yo‘qligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Xromatografik usulga kim asos solgan?",
+    "A": "Mixail TSvet",
+    "B": "Archer Martin",
+    "C": "Dmitriy Mendeleev",
+    "D": "Robert Boyl",
+    "javob": "A"
+  },
+  {
+    "savol": "Mixail TSvet xromatografiyani birinchi marta qaysi yilda qo‘llagan?",
+    "A": "1906",
+    "B": "1918",
+    "C": "1935",
+    "D": "1899",
+    "javob": "A"
+  },
+  {
+    "savol": "\"Xromatografiya\" termini yunon tilidan tarjima qilinganda nimani anglatadi?",
+    "A": "Rangni qayd etish",
+    "B": "Zichlik bo‘yicha ajratish",
+    "C": "Haroratni qayd etish",
+    "D": "Massani o‘lchash",
+    "javob": "A"
+  },
+  {
+    "savol": "Xromatografiyaning qaysi turi birinchi bo‘lib ishlab chiqilgan?",
+    "A": "Adsorbtsion ustunli xromatografiya",
+    "B": "Ion almashinish xromatografiyasi",
+    "C": "YUpqa qatlamli xromatografiya",
+    "D": "Gaz xromatografiyasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Adsorbtsion xromatografiyada harakatsiz faza nima?",
+    "A": "Qattiq modda",
+    "B": "Suyuqlik",
+    "C": "Gaz",
+    "D": "Bug‘",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi usul moddaning ikki suyuq faza o‘rtasida taqsimlanishiga asoslangan?",
+    "A": "Taqsimlanish xromatografiyasi",
+    "B": "Adsorbtsion xromatografiya",
+    "C": "Ion almashinish xromatografiyasi",
+    "D": "Gaz xromatografiyasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Gaz xromatografiyasida harakatlanuvchi faza rolini nima o‘ynaydi?",
+    "A": "Tashuvchi gaz",
+    "B": "Kukun",
+    "C": "Suyuqlik",
+    "D": "Sorbent",
+    "javob": "A"
+  },
+  {
+    "savol": "Modda va harakatsiz faza o‘rtasida ion almashinuvi sodir bo‘ladigan xromatografiya qanday nomlanadi?",
+    "A": "Ion almashinish",
+    "B": "Adsorbtsion",
+    "C": "Gazli",
+    "D": "Qog‘ozli",
+    "javob": "A"
+  },
+  {
+    "savol": "Xromatografik tizimda aralashma komponentlari bilan nima sodir bo‘ladi?",
+    "A": "Fazalar bilan o‘zaro ta’sir darajasiga ko‘ra ajratiladi",
+    "B": "Komponentlar ajratilmaydi",
+    "C": "Kristallanish sodir bo‘ladi",
+    "D": "Barcha komponentlar bir vaqtda chiqadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Uchuvchi birikmalarni tahlil qilish uchun qaysi xromatografiya ko‘pincha qo‘llaniladi?",
+    "A": "Gaz",
+    "B": "Ion almashinish",
+    "C": "Qog‘ozli",
+    "D": "Gel-filtrlash",
+    "javob": "A"
+  },
+  {
+    "savol": "Oqsillar va aminokislotalarni tahlil qilish uchun qaysi xromatografiya qo‘llaniladi?",
+    "A": "Ion almashinish",
+    "B": "Qog‘ozli",
+    "C": "Gel-filtrlash",
+    "D": "Gaz",
+    "javob": "A"
+  },
+  {
+    "savol": "Xromatografik tahlilda qanday fazalar qo‘llaniladi?",
+    "A": "Qattiq va suyuq",
+    "B": "Gaz va bug‘",
+    "C": "Elektron va ion",
+    "D": "Kimyoviy va fizikaviy",
+    "javob": "A"
+  },
+  {
+    "savol": "Xromatografiyada ajratish samaradorligini qaysi parametr belgilaydi?",
+    "A": "Ajratish qobiliyati",
+    "B": "Harakatlanuvchi fazaning zichligi",
+    "C": "Komponentlarning rangi",
+    "D": "Saqlash vaqti",
+    "javob": "A"
+  },
+  {
+    "savol": "Xromatografiyaning qaysi turida qog‘oz harakatsiz faza sifatida qo‘llaniladi?",
+    "A": "Qog‘ozli",
+    "B": "Gazli",
+    "C": "Ion almashinishi",
+    "D": "Gel-filtrlash",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi xromatografiya moddalarning sorbentdan turli tezlikda o‘tishiga asoslangan?",
+    "A": "Adsorbtsion",
+    "B": "Eksklyuzion",
+    "C": "Qog‘ozli",
+    "D": "Elektroforez",
+    "javob": "A"
+  },
+  {
+    "savol": "YUpqa qatlamli xromatografiyada harakatlanuvchi faza nima?",
+    "A": "Suyuq erituvchi",
+    "B": "Sorbent",
+    "C": "Gaz",
+    "D": "Gel",
+    "javob": "A"
+  },
+  {
+    "savol": "YUqori samarali suyuqlik xromatografiya (YUSSX) xromatografiyaning qaysi turiga kiradi?",
+    "A": "Taqsimlanish",
+    "B": "Gazli",
+    "C": "Ion almashinish",
+    "D": "Suyuq",
+    "javob": "A"
+  },
+  {
+    "savol": "Xromatografiyaning qaysi tasnifi fazalarning agregat holatiga asoslangan?",
+    "A": "Fiziko-kimyoviy",
+    "B": "Tarixiy",
+    "C": "Detektlash usuli bo‘yicha",
+    "D": "Kalibrovka usuli bo‘yicha",
+    "javob": "A"
+  },
+  {
+    "savol": "Suyuqlik xromatografiyada elyuentni etkazib berish uchun qaysi asbob ishlatiladi?",
+    "A": "Nasos",
+    "B": "Barometr",
+    "C": "Kompressor",
+    "D": "Termostat",
+    "javob": "A"
+  },
+  {
+    "savol": "Xromatografik jarayonlarning asosida qanday fiziko-kimyoviy hodisa yotadi?",
+    "A": "Adsorbtsiya",
+    "B": "Osmos",
+    "C": "Elektroliz",
+    "D": "Kondensatsiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Xromatografiyada moddalarning ajralishini baholash uchun qaysi asosiy parametr ishlatiladi?",
+    "A": "Rf qiymati",
+    "B": "Moddaning massasi",
+    "C": "Moddalarning rangi",
+    "D": "Qaynash harorati",
+    "javob": "A"
+  },
+  {
+    "savol": "Moddaning harakatsiz faza bilan o‘zaro ta’sir darajasini qaysi omil belgilaydi?",
+    "A": "Moddaning qutbliligi",
+    "B": "Agregat holati",
+    "C": "Molekulaning rangi",
+    "D": "Kislorodning mavjudligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qog‘ozli xromatografiyada qanday harakatsiz faza ishlatiladi?",
+    "A": "Qog‘oz",
+    "B": "Gaz",
+    "C": "Gel",
+    "D": "Silikagel",
+    "javob": "A"
+  },
+  {
+    "savol": "Qog‘ozli xromatografiyada harakatlanuvchi faza sifatida ko‘pincha nima ishlatiladi?",
+    "A": "Organik erituvchi yoki suv-spirtli aralashma",
+    "B": "Gaz",
+    "C": "Gelli tashuvchi",
+    "D": "Faollashtirilgan ko‘mir",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi xromatografiya turi elyuentning qog‘oz bo‘ylab kapillyar ko‘tarilishiga asoslangan?",
+    "A": "Yuqoriga harakatlanuvchi",
+    "B": "Pastga harakatlanuvchi",
+    "C": "Radial",
+    "D": "Desorbtsion",
+    "javob": "A"
+  },
+  {
+    "savol": "Qog‘ozli xromatografiyaning qaysi turida erituvchi yuqoridan pastga harakatlanadi?",
+    "A": "Pastga harakatlanuvchi",
+    "B": "Radial",
+    "C": "YUqoriga harakatlanuvchi",
+    "D": "Teskari",
+    "javob": "A"
+  },
+  {
+    "savol": "Xromatografiyada Rf qiymati nima?",
+    "A": "Modda bosib o‘tgan yo‘lning erituvchi bosib o‘tgan yo‘lga nisbati",
+    "B": "Tahlil vaqti",
+    "C": "Erituvchining harorati erituvchi bosib o‘tgan yo‘lga nisbati",
+    "D": "Moddaning cho‘kish tezligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qog‘ozli xromatografiyada ajratish jarayoniga qanday o‘zaro ta’sirlar ta’sir qiladi?",
+    "A": "Vodorod bog‘lari va qutbli o‘zaro ta’sirlar",
+    "B": "Ion dissotsiatsiyasi",
+    "C": "Kovalent bog‘lanish",
+    "D": "YAdro kuchlari",
+    "javob": "A"
+  },
+  {
+    "savol": "Nima uchun qog‘oz qog‘ozli xromatografiyada suvni ushlab turadi?",
+    "A": "Tsellyuloza strukturasi va vodorod bog‘lari tufayli",
+    "B": "Kapillyar effekt tufayli",
+    "C": "Tashqi yuzada adsorbtsiyalanish tufayli",
+    "D": "Qog‘oz suvni ushlab turmaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qog‘ozli xromatografiyaning asosiy maqsadi nima?",
+    "A": "Aralashmadagi moddalarni ajratish va aniqlash",
+    "B": "Kristallar olish",
+    "C": "Zichlikni o‘lchash",
+    "D": "Haroratni aniqlash",
+    "javob": "A"
+  },
+  {
+    "savol": "Qog‘ozli xromatografiyaning qaysi varianti qog‘oz markazidagi dumaloq dog‘larni tahlil qilish uchun ishlatiladi?",
+    "A": "Radial aylana",
+    "B": "Pastga harakatlanuvchi",
+    "C": "YUqoriga harakatlanuvchi",
+    "D": "Gradientli",
+    "javob": "A"
+  },
+  {
+    "savol": "Qog‘ozli xromatografiya yordamida ko‘pincha qanday moddalar tahlil qilinadi?",
+    "A": "Aminokislotalar, qandlar, pigmentlar",
+    "B": "Anorganik tuzlar",
+    "C": "Plastmassalar",
+    "D": "Metallar",
+    "javob": "A"
+  },
+  {
+    "savol": "Kameraning erituvchi bug‘lari bilan to‘yinganligi nima uchun muhim?",
+    "A": "Harakatlanuvchi fazaning bir xil va takrorlanuvchan harakati uchun",
+    "B": "Bug‘lanishni tezlashtirish uchun",
+    "C": "Zonalarni bo‘yash uchun",
+    "D": "Bosimni pasaytirish uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "Qog‘oz bo‘ylab komponentlarning harakat tezligini qaysi fizik xossa belgilaydi?",
+    "A": "Eruvchanlik va adsorbtsiya darajasi",
+    "B": "Zichlik",
+    "C": "Rang",
+    "D": "Massa",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi holatda ikkita modda bir xil Rf qiymatiga ega bo‘ladi?",
+    "A": "Fazalar bilan o‘zaro ta’siri bir xil bo‘lganda",
+    "B": "Rangi bir xil bo‘lganda",
+    "C": "Qaynash harorati bir xil bo‘lganda",
+    "D": "Molekulyar massasi bir xil bo‘lganda",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar erituvchi haddan tashqari qutbli bo‘lsa, nima sodir bo‘ladi?",
+    "A": "Barcha moddalar juda tez o‘tib ketishi va ajralmasligi mumkin",
+    "B": "Xromatogramma yanada aniq bo‘ladi",
+    "C": "Ajratish umuman sodir bo‘lmaydi",
+    "D": "Erituvchi to‘xtaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qog‘ozli xromatografiyaning qaysi modifikatsiyasi ajratish samaradorligini oshirishga imkon beradi?",
+    "A": "Ikki o‘lchamli xromatografiya",
+    "B": "Qalin qog‘oz ishlatish",
+    "C": "Suv qatlamining qalinligini oshirish",
+    "D": "Haroratni pasaytirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Qog‘ozli xromatografiyaning qaysi afzalligi uchun uni o‘quv amaliyotida ko‘p qo‘llaniladi?",
+    "A": "Usulning oddiyligi va ko‘rgazmaliligi",
+    "B": "YUqori sezgirlik",
+    "C": "Gazdan foydalanish",
+    "D": "YUqori unumdorlik",
+    "javob": "A"
+  },
+  {
+    "savol": "Qog‘ozli xromatografiyada komponentlarning ajralish darajasini qaysi parametr belgilaydi?",
+    "A": "Rf qiymatlarining farqi",
+    "B": "Dog‘ning rangi",
+    "C": "Bug‘lanish harorati",
+    "D": "Boshlang‘ich aralashmaning massasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Xromatografiyada sorbent nima?",
+    "A": "Moddalarning ajralishi sodir bo‘ladigan yuzadagi harakatsiz faza",
+    "B": "Moddalarni ajratish uchun sorbent bilan to‘ldirilgan idish",
+    "C": "Tashuvchi gaz",
+    "D": "Bo‘yash uchun reaktiv",
+    "javob": "A"
+  },
+  {
+    "savol": "Xromatografik ajratish uchun sorbentning qaysi xossasi eng muhim?",
+    "A": "Yuza maydoni",
+    "B": "Rang",
+    "C": "Qaynash nuqtasi",
+    "D": "Issiqlik o‘tkazuvchanligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Xromatografiyaning asosida ko‘pincha sorbtsiyaning qaysi turi yotadi?",
+    "A": "Fizik adsorbtsiya",
+    "B": "Kimyoviy reaktsiya",
+    "C": "Osmos",
+    "D": "Kapillyar effekt",
+    "javob": "A"
+  },
+  {
+    "savol": "YUpqa qatlamli xromatografiyada ko‘pincha qaysi sorbent ishlatiladi?",
+    "A": "Silikagel (SiO₂)",
+    "B": "Alyuminiy",
+    "C": "Faollashtirilgan ko‘mir",
+    "D": "Shakar",
+    "javob": "A"
+  },
+  {
+    "savol": "Sorbentning solishtirma yuzasi oshganda nima sodir bo‘ladi?",
+    "A": "Sorbtsiya qobiliyati oshadi",
+    "B": "Samaradorlik pasayadi",
+    "C": "Sorbtsiya to‘xtaydi",
+    "D": "Sorbent eriydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi sorbent eng qutbli hisoblanadi?",
+    "A": "Silikagel",
+    "B": "Sefadeks",
+    "C": "TSellyuloza",
+    "D": "Alyumooksid",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar modda sorbent bilan kuchliroq ta’sirlashsa, nima sodir bo‘ladi?",
+    "A": "U sorbentda uzoqroq ushlanib qoladi",
+    "B": "U tizimdan tezroq chiqadi",
+    "C": "U yo‘qoladi",
+    "D": "U bug‘lanadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Fizik adsorbtsiyaning asosida qanday kuchlar yotadi?",
+    "A": "Van-der-vaal’s kuchlari",
+    "B": "Kovalent bog‘lar",
+    "C": "Ion bog‘lar",
+    "D": "YAdro kuchlari",
+    "javob": "A"
+  },
+  {
+    "savol": "Sorbentning qaysi xossasi ajratish selektivligini belgilaydi?",
+    "A": "Yuzaning kimyoviy tabiati",
+    "B": "Elektr o‘tkazuvchanligi",
+    "C": "Massa",
+    "D": "Rang",
+    "javob": "A"
+  },
+  {
+    "savol": "Ion almashinish xromatografiyasida qaysi sorbent ishlatiladi?",
+    "A": "Ion almashinish smolasi",
+    "B": "Silikagel",
+    "C": "TSellyuloza",
+    "D": "Kraxmal",
+    "javob": "A"
+  },
+  {
+    "savol": "Xromatografik ustun nima?",
+    "A": "Moddalarni ajratish uchun sorbent bilan to‘ldirilgan idish",
+    "B": "Moddalarning ajralishi sodir bo‘ladigan yuzadagi harakatsiz faza",
+    "C": "Erituvchi solingan trubka",
+    "D": "Detektor",
+    "javob": "A"
+  },
+  {
+    "savol": "Xromatografik jarayonda frontal zona nima?",
+    "A": "Ajralayotgan modda zonasining old qismi",
+    "B": "Erituvchining birinchi tomchisi",
+    "C": "Plastinkaning orqa tomoni",
+    "D": "Gazning chiqish vaqti",
+    "javob": "A"
+  },
+  {
+    "savol": "\"Sorbentning ushlab qolish qobiliyati\" termini nimani anglatadi?",
+    "A": "Komponentlarni yuzada ushlab qolish qobiliyati",
+    "B": "Namlik miqdori",
+    "C": "Bug‘lanish tezligi",
+    "D": "Materialning massasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Eksklyuzion xromatografiyada qaysi sorbent ishlatiladi?",
+    "A": "Gel (masalan, sefadeks)",
+    "B": "Silikagel (masalan, sefadeks)",
+    "C": "Ko‘mir",
+    "D": "Smola (masalan, sefadeks)",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar sorbent ifloslangan bo‘lsa, nima sodir bo‘ladi?",
+    "A": "Ajratish qobiliyati pasayadi va ajratish yomonlashadi",
+    "B": "Sezgirlik oshadi",
+    "C": "Sorbtsiya yaxshilanadi",
+    "D": "Jarayonga ta’sir qilmaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Sorbtsiyaning qaysi turida kimyoviy bog‘lar hosil bo‘lishi mumkin?",
+    "A": "Xemosorbtsiya (kimyoviy sorbtsiya)",
+    "B": "Fizik",
+    "C": "Kapillyar",
+    "D": "Gazli",
+    "javob": "A"
+  },
+  {
+    "savol": "Xromatografik ustunning samaradorligini nima oshiradi?",
+    "A": "Nazariy tarelkalar sonining oshishi",
+    "B": "Qisqa uzunlik",
+    "C": "To‘g‘ridan-to‘g‘ri issiqlik berish",
+    "D": "Trubkani burish",
+    "javob": "A"
+  },
+  {
+    "savol": "Sorbtsiyani tavsiflash uchun ko‘pincha qaysi parametr ishlatiladi?",
+    "A": "Taqsimlash koeffitsienti (K)",
+    "B": "Eritmaning rangi",
+    "C": "Molekulyar massa",
+    "D": "Ustun hajmi",
+    "javob": "A"
+  },
+  {
+    "savol": "Xromatografiyada \"teskari faza\" termini nimani anglatadi?",
+    "A": "Qutbsiz sorbent va qutbli elyuentdan foydalanish",
+    "B": "Gaz holatiga o‘tish",
+    "C": "Oqim yo‘nalishini o‘zgartirish",
+    "D": "Ustunni detektorga almashtirish",
+    "javob": "A"
+  },
+  {
+    "savol": "YUpqa qatlamli xromatografiya (YUQX) nima?",
+    "A": "Substratdagi yupqa sorbent qatlamida moddalarni ajratish usuli",
+    "B": "Moddalarni molekulyar massasi bo‘yicha ajratish usuli",
+    "C": "Moddalarni erish harorati bo‘yicha ajratish usuli",
+    "D": "Moddalarni zichligi bo‘yicha ajratish usuli",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi sorbentlardan qaysi biri YUQXda eng ko‘p ishlatiladi?",
+    "A": "Silikagel",
+    "B": "Faollashtirilgan ko‘mir",
+    "C": "Kisel’gur",
+    "D": "Alyuminiy oksidi",
+    "javob": "A"
+  },
+  {
+    "savol": "YUQX uchun substrat sifatida ko‘pincha qaysi material ishlatiladi?",
+    "A": "SHisha",
+    "B": "Plastik",
+    "C": "YOg‘och",
+    "D": "Metall",
+    "javob": "A"
+  },
+  {
+    "savol": "YUQXda Rf koeffitsienti nima?",
+    "A": "Modda bosib o‘tgan masofaning erituvchi bosib o‘tgan masofaga nisbati",
+    "B": "Moddaning ustundan o‘tishi uchun zarur bo‘lgan vaqt",
+    "C": "Ajratish sodir bo‘ladigan harorat",
+    "D": "Xromatografiyani o‘tkazish uchun zarur bo‘lgan bosim",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi erituvchilardan qaysi biri YUQXda ko‘pincha ishlatiladi?",
+    "A": "Organik erituvchilarning aralashmasi",
+    "B": "Suv",
+    "C": "Etanol",
+    "D": "Tuz",
+    "javob": "A"
+  },
+  {
+    "savol": "YUQXda moddalarning ajralishiga qaysi omil ta’sir qiladi?",
+    "A": "Moddalarning sorbent bilan o‘zaro ta’siri",
+    "B": "Moddalarning molekulyar massasi",
+    "C": "Atrof-muhit harorati",
+    "D": "Havoning namligi",
+    "javob": "A"
+  },
+  {
+    "savol": "YUQXda dog‘larni vizualizatsiya qilish uchun qaysi usul qo‘llaniladi?",
+    "A": "Bo‘yash yoki fluorestsentsiya",
+    "B": "Elektroforez",
+    "C": "Spektroskopiya",
+    "D": "Mikroskopiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi omillardan qaysi biri Rf qiymatiga ta’sir qiladi?",
+    "A": "Moddaning harakatlanuvchi va harakatsiz fazalar bilan o‘zaro ta’siri",
+    "B": "Moddaning molekulyar massasi",
+    "C": "Atrof-muhit harorati",
+    "D": "Havoning namligi",
+    "javob": "A"
+  },
+  {
+    "savol": "YUQXda miqdoriy tahlil qilish uchun qaysi usul qo‘llaniladi?",
+    "A": "Dog‘larning maydoni yoki intensivligini o‘lchash",
+    "B": "Mikroskopiya",
+    "C": "Elektroforez",
+    "D": "Spektroskopiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Aminokislotalarni ajratish uchun YUQXda qaysi sorbent ishlatiladi?",
+    "A": "TSellyuloza",
+    "B": "Silikagel",
+    "C": "Kisel’gur",
+    "D": "Alyuminiy oksidi",
+    "javob": "A"
+  },
+  {
+    "savol": "Turli qutblilikdagi moddalarni ajratish uchun YUQXning qaysi turi ishlatiladi?",
+    "A": "Teskari fazali YUQX",
+    "B": "Qog‘ozli xromatografiya",
+    "C": "Gaz xromatografiyasi",
+    "D": "Suyuq xromatografiya",
+    "javob": "A"
+  },
+  {
+    "savol": "YUQX uchun plastinkalarni tayyorlash uchun qaysi usul qo‘llaniladi?",
+    "A": "Sorbent qatlamini bir xilda surtish",
+    "B": "Qizdirish",
+    "C": "Muzlatish",
+    "D": "Artish",
+    "javob": "A"
+  },
+  {
+    "savol": "YUQXda ajratish tezligiga qaysi omil ta’sir qiladi?",
+    "A": "Harakatlanuvchi fazaning qovushqoqligi",
+    "B": "Moddaning molekulyar massasi",
+    "C": "Atrof-muhit harorati",
+    "D": "Havoning namligi",
+    "javob": "A"
+  },
+  {
+    "savol": "YUQX uchun substratni tayyorlash uchun quyidagi usullardan qaysi biri qo‘llaniladi?",
+    "A": "YUzani tozalash va tayyorlash",
+    "B": "Qizdirish",
+    "C": "Artish",
+    "D": "Muzlatish",
+    "javob": "A"
+  },
+  {
+    "savol": "YUQXda ajratish samaradorligiga quyidagi omillardan qaysi biri ta’sir qiladi?",
+    "A": "Sorbent qatlamining bir xilligi",
+    "B": "Moddaning molekulyar massasi",
+    "C": "Atrof-muhit harorati",
+    "D": "Havoning namligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Gel xromatografiya nima?",
+    "A": "Gelni harakatsiz faza sifatida ishlatib, moddalarni molekula o‘lchami bo‘yicha ajratish usuli",
+    "B": "Moddalarni kimyoviy faolligi bo‘yicha ajratish usuli",
+    "C": "Moddalarni erish harorati bo‘yicha ajratish usuli",
+    "D": "Moddalarni eruvchanligi bo‘yicha ajratish usuli",
+    "javob": "A"
+  },
+  {
+    "savol": "Gel xromatografiyaning asosida qanday printsip yotadi?",
+    "A": "Molekulalarning o‘lchami bo‘yicha ajratish",
+    "B": "Molekulalarning qutbliligi bo‘yicha ajratish",
+    "C": "Molekulalarning zaryad holati bo‘yicha ajratish",
+    "D": "Moddalarning uchuvchanligi bo‘yicha ajratish",
+    "javob": "A"
+  },
+  {
+    "savol": "Gel xromatografiya jarayonida gel qanday rol o‘ynaydi?",
+    "A": "Molekulalar o‘tadigan harakatsiz faza hisoblanadi",
+    "B": "Erituvchi vazifasini bajaradi",
+    "C": "Ajratish jarayonini tezlashtiradi",
+    "D": "Muhim rol o‘ynamaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Gel xromatografiyada ustundan birinchi bo‘lib qaysi turdagi molekulalar chiqadi?",
+    "A": "Katta molekulyar massaga ega molekulalar",
+    "B": "YUqori qutblilikdagi molekulalar",
+    "C": "Past eruvchanlikdagi molekulalar",
+    "D": "YUqori uchuvchanlikdagi molekulalar",
+    "javob": "A"
+  },
+  {
+    "savol": "Gelli xromatografiyada oxirgi bo‘lib qaysi turdagi molekulalar chiqadi?",
+    "A": "Kichik molekulyar massaga ega molekulalar",
+    "B": "YUqori uchuvchanlikdagi molekulalar",
+    "C": "Past eruvchanlikdagi molekulalar",
+    "D": "YUqori qutblilikdagi molekulalar",
+    "javob": "A"
+  },
+  {
+    "savol": "Gaz-suyuq xromatografiyada qanday harakatsiz faza ishlatiladi?",
+    "A": "Qattiq tashuvchiga surtilgan suyuqlik",
+    "B": "Qattiq sorbent",
+    "C": "Gaz",
+    "D": "Bug‘",
+    "javob": "A"
+  },
+  {
+    "savol": "Gaz xromatografiyasi yordamida dori vositalarini tahlil qilishda qaysi detektor eng ko‘p tarqalgan?",
+    "A": "Alangali ionlashtirish detektori",
+    "B": "Ultrabinafsha detektor",
+    "C": "Fluorestsent detektor",
+    "D": "Elektrokimyoviy detektor",
+    "javob": "A"
+  },
+  {
+    "savol": "YUqori issiqlik o‘tkazuvchanligiga ega moddalarni aniqlash uchun qaysi detektor ishlatiladi?",
+    "A": "Issiqlik o‘tkazuvchanligi detektori (katarometr)",
+    "B": "Alangali ionlashtirish detektori",
+    "C": "Mass-spektrometr",
+    "D": "Elektron tutish detektori",
+    "javob": "A"
+  },
+  {
+    "savol": "Gaz xromatografiyasida miqdoriy tahlil qilish uchun quyidagi usullardan qaysi biri qo‘llaniladi?",
+    "A": "Barcha sanab o‘tilgan usullar",
+    "B": "Tashqi standart usuli",
+    "C": "Ichki standart usuli",
+    "D": "Vizualizatsiya usuli",
+    "javob": "A"
+  },
+  {
+    "savol": "YUSSXda miqdoriy tahlil uchun ko‘pincha qaysi detektor ishlatiladi?",
+    "A": "Ulьtrabinafsha",
+    "B": "Ionlashtirish",
+    "C": "Elektron",
+    "D": "Issiqlik o‘tkazuvchanligi",
+    "javob": "A"
+  },
+  {
+    "savol": "YUSSXda kalibrovka grafigi nima?",
+    "A": "Pik maydonining modda kontsentratsiyasiga bog‘liqligi",
+    "B": "Bosimning o‘zgarish grafigi",
+    "C": "To‘lqin uzunligining vaqtga bog‘liqligi",
+    "D": "Haroratning o‘zgarish grafigi",
+    "javob": "A"
+  },
+  {
+    "savol": "YUSSXda kalibrovka odatda qaysi usul bilan amalga oshiriladi?",
+    "A": "Ichki standart usuli",
+    "B": "Ekstraktsiya usuli",
+    "C": "Titrlash usuli",
+    "D": "Mass-spektrometriya usuli",
+    "javob": "A"
+  },
+  {
+    "savol": "\"Ushlab turish vaqti\" nima?",
+    "A": "Namuna kiritilgan vaqtdan komponent ustundan chiqqan vaqtgacha bo‘lgan vaqt",
+    "B": "Ustunni qizdirish uchun zarur bo‘lgan vaqt",
+    "C": "Elyuentni tayyorlash vaqti",
+    "D": "Eritmani spektrofotometrda tahlil qilish vaqti",
+    "javob": "A"
+  },
+  {
+    "savol": "YUSSXda aniqlash chegarasi (LOD) nima?",
+    "A": "Maqbul ishonchlilik bilan aniqlanadigan minimal kontsentratsiya",
+    "B": "Maksimal ruxsat etilgan kontsentratsiya",
+    "C": "Namunadagi o‘rtacha kontsentratsiya",
+    "D": "Kalibrovka grafigini qurish uchun zarur bo‘lgan kontsentratsiya",
+    "javob": "A"
+  },
+  {
+    "savol": "YUSSX usulining selektivligi nima bilan belgilanadi?",
+    "A": "Aralashma komponentlarini ajratish qobiliyati bilan",
+    "B": "Harorat bilan",
+    "C": "To‘lqin uzunligi bilan",
+    "D": "Elyuent hajmi bilan",
+    "javob": "A"
+  },
+  {
+    "savol": "Ichki standart nima?",
+    "A": "Xatolarni hisobga olish uchun namunaga kiritiladigan komponent",
+    "B": "Doimiy tarkibli elyuent",
+    "C": "Standart uskunalar",
+    "D": "YUqori tozalikdagi erituvchi",
+    "javob": "A"
+  },
+  {
+    "savol": "YUSSX natijalarining takrorlanishiga qaysi parametr ta’sir qiladi?",
+    "A": "Kiritiladigan namuna miqdori",
+    "B": "Atrof-muhit harorati",
+    "C": "Eritmaning rangi",
+    "D": "Atmosfera bosimi",
+    "javob": "A"
+  },
+  {
+    "savol": "Nima uchun ma’lum kontsentratsiyadagi standartlarni ishlatish muhim?",
+    "A": "Aniq kalibrovka bog‘liqligini qurish uchun",
+    "B": "Xromatogrammani bezash uchun",
+    "C": "Ustun sifatini yaxshilash uchun",
+    "D": "Tahlilni tezlashtirish uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "Yupqa qatlamli xromatografiya (YuQX) usulini ilk bor kimlar taklif qilgan?",
+    "A": "N.A. Izmailov va M.S. Shrayber",
+    "B": "M. Svet va A. Martin",
+    "C": "R. Sinj va I. Djeyms",
+    "D": "L. Sellik va V. Braun",
+    "javob": "A"
+  },
+  {
+    "savol": "YuQX usuli nechanchi yilda taklif qilingan?",
+    "A": "1938-yilda",
+    "B": "1945-yilda",
+    "C": "1952-yilda",
+    "D": "1960-yilda",
+    "javob": "A"
+  },
+  {
+    "savol": "YuQXda qo'zg'aluvchi fazaning harakatlanishi qaysi hodisaga bog'liq?",
+    "A": "Kapillyar effekt yoki kuchga",
+    "B": "Gravitatsiya kuchiga",
+    "C": "Elektr maydoniga yoki kuchga",
+    "D": "Markazdan qochma kuchga",
+    "javob": "A"
+  },
+  {
+    "savol": "Planar xromatografiyaning necha xil turi bor?",
+    "A": "3 xil",
+    "B": "2 xil",
+    "C": "4 xil",
+    "D": "5 xil",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi xromatografiya turi planar xromatografiyaga kirmaydi?",
+    "A": "Gaz xromatografiyasi",
+    "B": "Qog'oz xromatografiyasi",
+    "C": "Yupqa qatlam xromatografiyasi",
+    "D": "Yuqori samarali yupqa qatlam xromatografiyasi",
+    "javob": "A"
+  },
+  {
+    "savol": "YuQX usuli asosan qanday usul hisoblanadi?",
+    "A": "Analitik usul",
+    "B": "Preparativ usul",
+    "C": "sifat tahlili usuli",
+    "D": "miqdoriy tahlil usuli",
+    "javob": "A"
+  },
+  {
+    "savol": "YuQX plastinkalari tayanchi uchun qaysi material ishlatilishi mumkin?",
+    "A": "Shisha, alyuminiy yoki sellyuloza",
+    "B": "polietilen",
+    "C": "yog'och plyonka",
+    "D": "Mis yoki rux plastinkalar",
+    "javob": "A"
+  },
+  {
+    "savol": "Sorbent qatlami plastinkaga qanday joylashtirilgan bo'lishi mumkin?",
+    "A": "Mustahkamlanmagan yoki mustahkam o'rnatilgan",
+    "B": "yopishtirilgan",
+    "C": "suyuq holda",
+    "D": "kukun holda",
+    "javob": "A"
+  },
+  {
+    "savol": "Sorbentni plastinkaga mustahkamlash uchun qanday qovushtiruvchi moddalar ishlatiladi?",
+    "A": "Tibbiyot gipsi yoki tozalangan kraxmal",
+    "B": "Yelim yoki smola",
+    "C": "Mum yoki kerosin",
+    "D": "Shakar yoki tuz",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi turdagi plastinkalar erituvchilar va reagentlar ta'siriga chidamliligi tufayli universal hisoblanadi?",
+    "A": "Shishadan yasalgan plastinkalar",
+    "B": "Plastmassa plastinkalar",
+    "C": "Alyuminiy zarqog'ozlar",
+    "D": "Poliefir plyonkalar",
+    "javob": "A"
+  },
+  {
+    "savol": "Egiluvchan bo'lgani sababli turli shakllarga kiritish mumkin bo'lgan plastinka turi qaysi?",
+    "A": "Alyuminiy va plastmassadan yasalgan plastinkalar",
+    "B": "Shisha plastinkalar",
+    "C": "Keramika plastinkalar",
+    "D": "poliefir plyonkalar",
+    "javob": "A"
+  },
+  {
+    "savol": "Xromatografiyalash jarayonida o'zgarishlar bosqichma-bosqich amalga oshirilsa, bu qanday xromatografiya deyiladi?",
+    "A": "Bosqichli xromatografiya",
+    "B": "Gradiyentli xromatografiya",
+    "C": "Uzluksiz xromatografiya",
+    "D": "Suyuqlik xromatografiyasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Xromatografiyalashda o'zgarishlar (erituvchi, sorbent) uzluksiz davom etsa, bu nima deyiladi?",
+    "A": "Gradiyentli xromatografiya",
+    "B": "Statsionar xromatografiya",
+    "C": "Adsorbsion xromatografiya",
+    "D": "Bosqichli xromatografiya",
+    "javob": "A"
+  },
+  {
+    "savol": "YuQXda moddalar aralashmasini ajratishda eng muhim omillardan biri nima?",
+    "A": "Sorbentni to'g'ri tanlash",
+    "B": "Plastinkaning og'irligi",
+    "C": "Xonaning yoritilishi",
+    "D": "Erituvchining rangi",
+    "javob": "A"
+  },
+  {
+    "savol": "YuQXning adsorbsion variantida ko'pincha qaysi sorbent ishlatiladi?",
+    "A": "Alyuminiy oksid yoki sellyuloza",
+    "B": "faollashtirilgan ko'mir",
+    "C": "qum",
+    "D": "Osh tuzi",
+    "javob": "A"
+  },
+  {
+    "savol": "F254 indikatorli silikagel 60 plastinkasining qatlam qalinligi odatda qancha bo'ladi?",
+    "A": "200–250 mkm",
+    "B": "100–150 mkm",
+    "C": "500–600 mkm",
+    "D": "10–20 mkm",
+    "javob": "A"
+  },
+  {
+    "savol": "YuQXda sorbat elyuentda qancha miqdorda erishi lozim?",
+    "A": "To'liq (1–2%)",
+    "B": "Erimasligi kerak",
+    "C": "50% erishi kerak",
+    "D": "Kamida 10% erishi kerak",
+    "javob": "A"
+  },
+  {
+    "savol": "Xromatogrammada hosil qilingan dog' diametri qancha bo'lishi tavsiya etiladi?",
+    "A": "1–3 mm",
+    "B": "5–10 mm",
+    "C": "15 mm dan ortiq",
+    "D": "0,1 mm dan kam",
+    "javob": "A"
+  },
+  {
+    "savol": "YuQX plastinkasini ishlatishda qat'iy taqiq nima?",
+    "A": "Plastinkani qo'l bilan ushlash mumkin emas",
+    "B": "Plastinkani kesish mumkin emas",
+    "C": "Plastinkani quritish mumkin emas",
+    "D": "Plastinkani kameraga qo'yish mumkin emas",
+    "javob": "A"
+  },
+  {
+    "savol": "YuQXda ajratish samaradorligi o'lchovi nima deb ataladi?",
+    "A": "Nazariy plastinkaning ekvivalent balandligi (H)",
+    "B": "Dog'ning rangi",
+    "C": "Elyuentning yopishqoqligi",
+    "D": "Plastinkaning yuzasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Rf qiymati deganda nima tushuniladi?",
+    "A": "Modda bosib o'tgan masofaning front masofasiga nisbati",
+    "B": "Moddaning eruvchanlik darajasi",
+    "C": "Sorbentning qalinligi",
+    "D": "Plastinkaning umumiy uzunligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Guvoh modda xromatografiyada nima uchun ishlatiladi?",
+    "A": "Namuna tarkibidagi moddani identifikatsiyalash uchun",
+    "B": "Sorbentni yuvish uchun",
+    "C": "Elyuentni rangli qilish uchun",
+    "D": "Kamerani to'ldirish uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar guvoh va tahlil qilinayotgan moddaning Rf qiymatlari mos kelsa nima xulosa qilinadi?",
+    "A": "Bu moddalar bir xil bo'lishi mumkin",
+    "B": "Moddalar mutlaqo har xil",
+    "C": "Tahlil xato o'tkazilgan",
+    "D": "Sorbent yaroqsiz",
+    "javob": "A"
+  },
+  {
+    "savol": "YuQX usuli yordamida miqdoriy tahlil qanday amalga oshiriladi?",
+    "A": "Dog'larning diametri va o'lchamiga ko'ra",
+    "B": "plastinkaning rangi bilan",
+    "C": "Elyuentning hidi bilan",
+    "D": "Kameraning bosimi bilan",
+    "javob": "A"
+  },
+  {
+    "savol": "YuQX usulining afzalliklaridan biri nima?",
+    "A": "Texnikasi sodda va tez bajariladi",
+    "B": "Juda qimmat uskunalar talab qiladi",
+    "C": "bitta namunani tahlil qiladi",
+    "D": "Jarayon bir necha kun davom etadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Bir plastinkada bir vaqtning o'zida nechta namunani tahlil qilish mumkin?",
+    "A": "Bir nechta namunani",
+    "B": "bitta namunani",
+    "C": "ikkita namunani",
+    "D": "Namuna tahlil qilib bo'lmaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Farmatsevtikada YuQX nima uchun qo'llaniladi?",
+    "A": "Dori vositalarining chinligi va tozaligini tekshirishda",
+    "B": "dori rangini o'zgartirishda",
+    "C": "Dorilarni qadoqlashda",
+    "D": "Dorilarni saqlash muddatini aniqlashda",
+    "javob": "A"
+  },
+  {
+    "savol": "Xromatogrammadagi zonalarni aniqlash uchun qanday UB nurlar ishlatiladi?",
+    "A": "254 va 365 nm",
+    "B": "100 va 200 nm",
+    "C": "500 va 800 nm",
+    "D": "infraqizil nurlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Rangsiz dog'larni ko'rish uchun qaysi bug' ishlatiladi?",
+    "A": "Yod bug'i",
+    "B": "Suv bug'i",
+    "C": "Azot bug'i",
+    "D": "Spirt bug'i",
+    "javob": "A"
+  },
+  {
+    "savol": "Ningidrin reagenti qaysi birikmalarni aniqlaydi?",
+    "A": "Aminokislotalar",
+    "B": "Alkaloidlar",
+    "C": "Lipidlar",
+    "D": "Aldegidlar",
+    "javob": "A"
+  },
+  {
+    "savol": "2,4-dinitrofenilgidrazin qaysi moddalar uchun reagent?",
+    "A": "Aldegid va ketonlar",
+    "B": "Aminokislotalar",
+    "C": "Lipidlar",
+    "D": "Saponinlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Alkaloidlarni aniqlashda qaysi reagent ishlatiladi?",
+    "A": "Xloroplatin kislota",
+    "B": "Bromtimol ko'ki",
+    "C": "Ningidrin",
+    "D": "Yod eritmasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Lipidlarni aniqlashda qaysi reagent qo'llaniladi?",
+    "A": "Bromtimol ko'ki",
+    "B": "Ningidrin",
+    "C": "Xloroplatin kislota",
+    "D": "Fenolftalein",
+    "javob": "A"
+  },
+  {
+    "savol": "Poliefir plyonkalar necha nm gacha UB nurlarni o'tkazadi?",
+    "A": "320 nm gacha",
+    "B": "100 nm gacha",
+    "C": "800 nm gacha",
+    "D": "O'tkazmaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "YuQXda dog' hosil qilish texnikasiga qaysi biri kirmaydi?",
+    "A": "Dog'ni plastinkadan qirib olish",
+    "B": "Tabiiy rangni kuzatish",
+    "C": "Reagentlar bilan reaksiya",
+    "D": "UB chiroqda ko'rish",
+    "javob": "A"
+  },
+  {
+    "savol": "Gaz xromatografiyasi qaysi turdagi moddalarga qo‘llaniladi?",
+    "A": "Uchuvchan va termostabil moddalar",
+    "B": "Yuqori molekulali polimerlar",
+    "C": "qattiq moddalar",
+    "D": "suyuq moddalar",
+    "javob": "A"
+  },
+  {
+    "savol": "Gaz xromatografiyasida mobil faza sifatida nima ishlatiladi?",
+    "A": "Gaz",
+    "B": "Qattiq modda",
+    "C": "Suyuqlik",
+    "D": "Eritma",
+    "javob": "A"
+  },
+  {
+    "savol": "Xromatografiya usulining asoschisi kim?",
+    "A": "M.S. Tsvet",
+    "B": "James Watson",
+    "C": "Newton",
+    "D": "Lavoisier",
+    "javob": "A"
+  },
+  {
+    "savol": "Taqsimlanish xromatografiyasi uchun Nobel mukofoti olgan olimlar:",
+    "A": "Martin va Synge",
+    "B": "Curie va Becquerel",
+    "C": "Einstein va Bohr",
+    "D": "Rutherford va Thomson",
+    "javob": "A"
+  },
+  {
+    "savol": "Birinchi tijoriy gaz xromatografi qaysi kompaniya tomonidan ishlab chiqarilgan?",
+    "A": "Perkin-Elmer",
+    "B": "Siemens",
+    "C": "Philips",
+    "D": "Shimadzu",
+    "javob": "A"
+  },
+  {
+    "savol": "Gaz adsorbsion xromatografiyasida statsionar faza nima?",
+    "A": "Qattiq adsorbent",
+    "B": "Suyuqlik",
+    "C": "Gaz",
+    "D": "Erituvchi",
+    "javob": "A"
+  },
+  {
+    "savol": "Gaz-suyuqlik xromatografiyasida ajralish mexanizmi nimaga asoslangan?",
+    "A": "Taqsimlanish",
+    "B": "Erishiga",
+    "C": "Adsorbsiyaga",
+    "D": "Elektrolizga",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri inert tashuvchi gaz hisoblanadi?",
+    "A": "Geliy",
+    "B": "Kislorod",
+    "C": "Xlor",
+    "D": "Ammiak",
+    "javob": "A"
+  },
+  {
+    "savol": "Azot tashuvchi gaz sifatida qanday xususiyatga ega?",
+    "A": "Iqtisodiy, lekin tezligi sekinroq",
+    "B": "Qimmat",
+    "C": "Juda tez ajratadi",
+    "D": "Yonuvchan",
+    "javob": "A"
+  },
+  {
+    "savol": "Vodorod tashuvchi gazning kamchiligi:",
+    "A": "Yonuvchan va xavfsizlik talab qiladi",
+    "B": "Qimmat",
+    "C": "Ajratmaydi",
+    "D": "Inert emas",
+    "javob": "A"
+  },
+  {
+    "savol": "Split inyeksiyada nima sodir bo‘ladi?",
+    "A": "Namunaning bir qismi chiqindiga chiqariladi",
+    "B": "Barcha namuna ustunga kiradi",
+    "C": "Namuna muzlatiladi",
+    "D": "Namuna filtrlanadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Splitless inyeksiya qaysi holatda qo‘llaniladi?",
+    "A": "Past konsentratsiya",
+    "B": "Yuqori konsentratsiya",
+    "C": "gaz",
+    "D": "suv",
+    "javob": "A"
+  },
+  {
+    "savol": "On-column inyeksiya qaysi moddalarga mos?",
+    "A": "Termolabil",
+    "B": "Termostabil",
+    "C": "gaz",
+    "D": "metall",
+    "javob": "A"
+  },
+  {
+    "savol": "kold inyeksiya nimaga mo‘ljallangan?",
+    "A": "Issiqlikka sezgir moddalarga",
+    "B": "Yuqori haroratli moddalarga",
+    "C": "Gaz aralashmalariga",
+    "D": "Polimerlarga",
+    "javob": "A"
+  },
+  {
+    "savol": "Dozatorning asosiy talabi:",
+    "A": "Namuna hajmini aniq takroriy olish",
+    "B": "Haroratni oshirish",
+    "C": "Rangni aniqlash",
+    "D": "Gazni sovutish",
+    "javob": "A"
+  },
+  {
+    "savol": "To‘ldirilgan kolonkalar uzunligi odatda:",
+    "A": "1–5 m",
+    "B": "10–100 m",
+    "C": "50–200 m",
+    "D": "0,1–0,5 m",
+    "javob": "A"
+  },
+  {
+    "savol": "Kapillyar kolonkalar uzunligi:",
+    "A": "10–100 m",
+    "B": "1–2 m",
+    "C": "3–5 m",
+    "D": "0,5 m",
+    "javob": "A"
+  },
+  {
+    "savol": "FID detektori qaysi moddalarga sezgir?",
+    "A": "Organik C-H birikmalarga",
+    "B": "Metallarga",
+    "C": "Suvga",
+    "D": "Azotga",
+    "javob": "A"
+  },
+  {
+    "savol": "TCD detektori qanday detektor?",
+    "A": "Universal",
+    "B": "Selektiv",
+    "C": "galogenlar uchun",
+    "D": "metall uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "ECD detektori qaysi moddalarga sezgir?",
+    "A": "Halogenli birikmalar",
+    "B": "Uglevodorodlar",
+    "C": "Metall oksidlari",
+    "D": "Oqsillar",
+    "javob": "A"
+  },
+  {
+    "savol": "MS detektori nimani aniqlaydi?",
+    "A": "Mass-spektr",
+    "B": "Rang",
+    "C": "Qovushqoqlik",
+    "D": "pH",
+    "javob": "A"
+  },
+  {
+    "savol": "Gaz xromatografiyasining afzalligi:",
+    "A": "Yuqori aniqlik",
+    "B": "Sekin ishlaydi",
+    "C": "bitta modda",
+    "D": "Qimmat va noaniq",
+    "javob": "A"
+  },
+  {
+    "savol": "Gaz xromatografiyasining cheklovi:",
+    "A": "uchuvchan moddalar",
+    "B": "Har qanday modda",
+    "C": "suyuqlik",
+    "D": "metall",
+    "javob": "A"
+  },
+  {
+    "savol": "Namuna hajmi odatda:",
+    "A": "0,001–20 mkl",
+    "B": "100 ml",
+    "C": "1 litr",
+    "D": "50 ml",
+    "javob": "A"
+  },
+  {
+    "savol": "Bug‘latkich harorati qanday belgilanadi?",
+    "A": "Eng kam uchuvchi komponentdan 30–50°C yuqori",
+    "B": "Eng uchuvchi komponentdan past",
+    "C": "Qaynashdan past",
+    "D": "Eng kam uchuvchi komponentdan 10–20°C yuqori",
+    "javob": "A"
+  },
+  {
+    "savol": "Ushlanish vaqti nimaga bog‘liq?",
+    "A": "Kolonka uzunligiga",
+    "B": "Rangga",
+    "C": "Bosimga emas",
+    "D": "Shpritsga",
+    "javob": "A"
+  },
+  {
+    "savol": "Gaz adsorbsion xromatografiyasida sorbent misoli:",
+    "A": "Silikagel",
+    "B": "Suv",
+    "C": "Spirt",
+    "D": "Efir",
+    "javob": "A"
+  },
+  {
+    "savol": "Gaz-suyuqlik xromatografiyasida faza turi:",
+    "A": "Qutbsiz, o‘rtacha qutbli, qutbli",
+    "B": "qattiq",
+    "C": "gaz",
+    "D": "metall",
+    "javob": "A"
+  },
+  {
+    "savol": "Kolonka materiali:",
+    "A": "Shisha",
+    "B": "Yog‘och",
+    "C": "Qog‘oz",
+    "D": "Plastik",
+    "javob": "A"
+  },
+  {
+    "savol": "Detektor signali nimaga aylantiriladi?",
+    "A": "Elektr signaliga",
+    "B": "Mexanik harakat",
+    "C": "Rangga",
+    "D": "Gazga",
+    "javob": "A"
+  },
+  {
+    "savol": "Farmatsevtikada GX nima uchun ishlatiladi?",
+    "A": "Identifikatsiya va miqdor aniqlash",
+    "B": "Rang berish",
+    "C": "Filtrlash",
+    "D": "Qadoqlash",
+    "javob": "A"
+  },
+  {
+    "savol": "GX qaysi molekulyar og‘irlikkacha qo‘llaniladi?",
+    "A": "400 g/mol gacha",
+    "B": "1000 g/mol",
+    "C": "2000 g/mol",
+    "D": "5000 g/mol",
+    "javob": "A"
+  },
+  {
+    "savol": "Kapillyar kolonkaning ichki diametri:",
+    "A": "0,1–0,8 mm",
+    "B": "3–8 mm",
+    "C": "10 mm",
+    "D": "5 cm",
+    "javob": "A"
+  },
+  {
+    "savol": "To‘ldirilgan kolonka diametri:",
+    "A": "3–8 mm",
+    "B": "0,1 mm",
+    "C": "10 cm",
+    "D": "0,01 mm",
+    "javob": "A"
+  },
+  {
+    "savol": "PID detektor qaysi hodisaga asoslangan?",
+    "A": "Alanganing ionlanishi",
+    "B": "Issiqlik o‘tkazuvchanlik",
+    "C": "Mexanik bosim",
+    "D": "Sovish",
+    "javob": "A"
+  },
+  {
+    "savol": "Katarometr nimani o‘lchaydi?",
+    "A": "Issiqlik o‘tkazuvchanlik",
+    "B": "Rang",
+    "C": "Elektr tok",
+    "D": "pH",
+    "javob": "A"
+  },
+  {
+    "savol": "Fotoionizatsion detektorda ionizatsiya manbai:",
+    "A": "UB nurlanish",
+    "B": "Rentgen",
+    "C": "Infraqizil",
+    "D": "Mikroto‘lqin",
+    "javob": "A"
+  },
+  {
+    "savol": "Termionik detektor qaysi elementlarga sezgir?",
+    "A": "P va N",
+    "B": "C-H",
+    "C": "Fe va Cu",
+    "D": "NaCl",
+    "javob": "A"
+  },
+  {
+    "savol": "GC-MS nimani birlashtiradi?",
+    "A": "Gaz xromatografiya va mass-spektrometriya",
+    "B": "Gaz va suyuqlik",
+    "C": "Filtr va quritish",
+    "D": "Adsorbsiya va kristallanish",
+    "javob": "A"
+  },
+  {
+    "savol": "Kolonka nima uchun termostatlanadi?",
+    "A": "Harorat adsorbsiyaga ta’sir qiladi",
+    "B": "Rangni saqlash",
+    "C": "Gazni sovutish",
+    "D": "Bosimni oshirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Split usuli qaysi namuna uchun?",
+    "A": "Yuqori konsentratsiya",
+    "B": "Past konsentratsiya",
+    "C": "suv",
+    "D": "gaz",
+    "javob": "A"
+  },
+  {
+    "savol": "Splitless usuli qaysi namuna uchun?",
+    "A": "Past konsentratsiya",
+    "B": "Yuqori konsentratsiya",
+    "C": "metall",
+    "D": "tuz",
+    "javob": "A"
+  },
+  {
+    "savol": "GXning asosiy bosqichi emas:",
+    "A": "Kristallanish",
+    "B": "Inyeksiya",
+    "C": "Ajratish",
+    "D": "Deteksiya",
+    "javob": "A"
+  },
+  {
+    "savol": "GX qaysi sohada qo‘llaniladi?",
+    "A": "Barchasi",
+    "B": "Sud-tibbiyot",
+    "C": "Geokimyo",
+    "D": "Tibbiyot",
+    "javob": "A"
+  },
+  {
+    "savol": "Gaz xromatografiyasining asosiy maqsadi:",
+    "A": "Sifat va miqdoriy tahlil",
+    "B": "Rang o‘lchash",
+    "C": "Filtrlash",
+    "D": "Sovutish",
+    "javob": "A"
+  }
+]
