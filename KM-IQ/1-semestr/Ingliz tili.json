@@ -1,1502 +1,1282 @@
 [
   {
-    "question": "I ___ happy.",
-    "options": [
-      "am",
-      "is",
-      "are",
-      "be"
-    ],
-    "answer": "am"
-  },
-  {
-    "question": "You ___ my friend.",
-    "options": [
-      "are",
-      "am",
-      "is",
-      "be"
-    ],
-    "answer": "are"
-  },
-  {
-    "question": "He ___ a teacher.",
-    "options": [
-      "is",
-      "am",
-      "are",
-      "be"
-    ],
-    "answer": "is"
-  },
-  {
-    "question": "She ___ at home.",
-    "options": [
-      "is",
-      "am",
-      "are",
-      "be"
-    ],
-    "answer": "is"
-  },
-  {
-    "question": "It ___ cold today.",
-    "options": [
-      "is",
-      "am",
-      "are",
-      "be"
-    ],
-    "answer": "is"
-  },
-  {
-    "question": "They ___ at school.",
-    "options": [
-      "are",
-      "is",
-      "am",
-      "be"
-    ],
-    "answer": "are"
-  },
-  {
-    "question": "I ___ your classmate.",
-    "options": [
-      "am",
-      "is",
-      "are",
-      "be"
-    ],
-    "answer": "am"
-  },
-  {
-    "question": "You ___ clever.",
-    "options": [
-      "are",
-      "am",
-      "is",
-      "be"
-    ],
-    "answer": "are"
-  },
-  {
-    "question": "He ___ my brother.",
-    "options": [
-      "is",
-      "are",
-      "am",
-      "be"
-    ],
-    "answer": "is"
-  },
-  {
-    "question": "I ___ not tired.",
-    "options": [
-      "am",
-      "is",
-      "are is",
-      "not be"
-    ],
-    "answer": "am"
-  },
-  {
-    "question": "You ___ busy.",
-    "options": [
-      "are not",
-      "am not",
-      "is not",
-      "not be"
-    ],
-    "answer": "are not"
-  },
-  {
-    "question": "He ___ my father.",
-    "options": [
-      "is not",
-      "am not",
-      "are not",
-      "not be"
-    ],
-    "answer": "is not"
-  },
-  {
-    "question": "She ___ at work.",
-    "options": [
-      "is not",
-      "are not",
-      "am not",
-      "not be"
-    ],
-    "answer": "is not"
-  },
-  {
-    "question": "It ___ cold.",
-    "options": [
-      "is not",
-      "am not",
-      "are not",
-      "not be"
-    ],
-    "answer": "is not"
-  },
-  {
-    "question": "We ___ ready.",
-    "options": [
-      "are not",
-      "is not",
-      "am not",
-      "not be"
-    ],
-    "answer": "are not"
-  },
-  {
-    "question": "They ___ at school.",
-    "options": [
-      "are not",
-      "is not",
-      "am not",
-      "not be"
-    ],
-    "answer": "are not"
-  },
-  {
-    "question": "I ___ a student.",
-    "options": [
-      "am not",
-      "is not",
-      "are not",
-      "not be"
-    ],
-    "answer": "am not"
-  },
-  {
-    "question": "He ___ my friend.",
-    "options": [
-      "is not",
-      "am not",
-      "are not",
-      "not be"
-    ],
-    "answer": "is not"
-  },
-  {
-    "question": "She ___ tired.",
-    "options": [
-      "is not",
-      "are not",
-      "am not",
-      "not be"
-    ],
-    "answer": "is not"
-  },
-  {
-    "question": "___ I late?",
-    "options": [
-      "Am",
-      "Is",
-      "Are",
-      "Be"
-    ],
-    "answer": "Am"
-  },
-  {
-    "question": "___ you ready?",
-    "options": [
-      "Are",
-      "Is",
-      "Am",
-      "Be"
-    ],
-    "answer": "Are"
-  },
-  {
-    "question": "___ he your teacher?",
-    "options": [
-      "Is",
-      "Are",
-      "Am",
-      "Be"
-    ],
-    "answer": "Is"
-  },
-  {
-    "question": "___ she at school?",
-    "options": [
-      "Is",
-      "Are",
-      "Am",
-      "Be"
-    ],
-    "answer": "Is"
-  },
-  {
-    "question": "___ it cold today?",
-    "options": [
-      "Is",
-      "Are",
-      "Am",
-      "Be"
-    ],
-    "answer": "Is"
-  },
-  {
-    "question": "___ we on time?",
-    "options": [
-      "Are",
-      "Is",
-      "Am",
-      "Be"
-    ],
-    "answer": "Are"
-  },
-  {
-    "question": "___ they your friends?",
-    "options": [
-      "Are",
-      "Is",
-      "Am",
-      "Be"
-    ],
-    "answer": "Are"
-  },
-  {
-    "question": "___ I correct?",
-    "options": [
-      "Am",
-      "Is",
-      "Are",
-      "Be"
-    ],
-    "answer": "Am"
-  },
-  {
-    "question": "___ he happy?",
-    "options": [
-      "Is",
-      "Are",
-      "Am",
-      "Be"
-    ],
-    "answer": "Is"
-  },
-  {
-    "question": "___ you my classmate?",
-    "options": [
-      "Are",
-      "Is",
-      "Am",
-      "Be"
-    ],
-    "answer": "Are"
-  },
-  {
-    "question": "I ___ to school every day.",
-    "options": [
-      "go",
-      "goes",
-      "going",
-      "goed"
-    ],
-    "answer": "go"
-  },
-  {
-    "question": "He ___ football on weekends.",
-    "options": [
-      "plays",
-      "play",
-      "playing",
-      "played"
-    ],
-    "answer": "plays"
-  },
-  {
-    "question": "We ___ English every Monday.",
-    "options": [
-      "study",
-      "studies",
-      "studying",
-      "studied"
-    ],
-    "answer": "study"
-  },
-  {
-    "question": "They ___ to music every day.",
-    "options": [
-      "listen",
-      "listens",
-      "listening",
-      "listened"
-    ],
-    "answer": "listen"
-  },
-  {
-    "question": "I ___ like coffee.",
-    "options": [
-      "do",
-      "does",
-      "am",
-      "is"
-    ],
-    "answer": "do"
-  },
-  {
-    "question": "He ___ play basketball.",
-    "options": [
-      "does not",
-      "do not",
-      "am not",
-      "is not"
-    ],
-    "answer": "does not"
-  },
-  {
-    "question": "She ___ eat meat.",
-    "options": [
-      "does not",
-      "do not",
-      "am not",
-      "is not"
-    ],
-    "answer": "does not"
-  },
-  {
-    "question": "We ___ watch TV in the morning.",
-    "options": [
-      "do not",
-      "does not",
-      "am not",
-      "is not"
-    ],
-    "answer": "do not"
-  },
-  {
-    "question": "They ___ go to the park on Sunday.",
-    "options": [
-      "do not",
-      "does not",
-      "am not",
-      "is not"
-    ],
-    "answer": "do not"
-  },
-  {
-    "question": "___ I play the piano?",
-    "options": [
-      "Do",
-      "Does",
-      "Doing",
-      "Did"
-    ],
-    "answer": "Do"
-  },
-  {
-    "question": "___ he like pizza?",
-    "options": [
-      "Does",
-      "Do",
-      "Doing",
-      "Did"
-    ],
-    "answer": "Does"
-  },
-  {
-    "question": "___ she go to school by bus?",
-    "options": [
-      "Does",
-      "Do",
-      "Doing",
-      "Did"
-    ],
-    "answer": "Does"
-  },
-  {
-    "question": "___ we have a test today?",
-    "options": [
-      "Do",
-      "Does",
-      "Doing",
-      "Did"
-    ],
-    "answer": "Do"
-  },
-  {
-    "question": "___ they study English?",
-    "options": [
-      "Do",
-      "Does",
-      "Doing",
-      "Did"
-    ],
-    "answer": "Do"
-  },
-  {
-    "question": "I ___ my homework every day.",
-    "options": [
-      "do",
-      "does",
-      "doing",
-      "did"
-    ],
-    "answer": "do"
-  },
-  {
-    "question": "He ___ his room on Saturdays.",
-    "options": [
-      "cleans",
-      "clean",
-      "cleaning",
-      "cleaned"
-    ],
-    "answer": "cleans"
-  },
-  {
-    "question": "She ___ water every morning.",
-    "options": [
-      "drinks",
-      "drink",
-      "drinking",
-      "drank"
-    ],
-    "answer": "drinks"
-  },
-  {
-    "question": "We ___ TV in the evening.",
-    "options": [
-      "watch",
-      "watches",
-      "watching",
-      "watched"
-    ],
-    "answer": "watch"
-  },
-  {
-    "question": "They ___ soccer after school every day.",
-    "options": [
-      "play",
-      "plays",
-      "playing",
-      "played"
-    ],
-    "answer": "play"
-  },
-  {
-    "question": "I ___ TV every day.",
-    "options": [
-      "watch",
-      "watches",
-      "watching",
-      "watched"
-    ],
-    "answer": "watch"
-  },
-  {
-    "question": "She ___ breakfast at 7 a.m.",
-    "options": [
-      "eats",
-      "eat",
-      "eating",
-      "ate"
-    ],
-    "answer": "eats"
-  },
-  {
-    "question": "He ___ football on Sundays.",
-    "options": [
-      "plays",
-      "play",
-      "playing",
-      "played"
-    ],
-    "answer": "plays"
-  },
-  {
-    "question": "We ___ English at school.",
-    "options": [
-      "study",
-      "studies",
-      "studying",
-      "studied"
-    ],
-    "answer": "study"
-  },
-  {
-    "question": "They ___ music every evening.",
-    "options": [
-      "listen",
-      "listens",
-      "listening",
-      "listened"
-    ],
-    "answer": "listen"
-  },
-  {
-    "question": "I ___ coffee in the morning.",
-    "options": [
-      "drink",
-      "drinks",
-      "drinking",
-      "drank"
-    ],
-    "answer": "drink"
-  },
-  {
-    "question": "She ___ her homework every day.",
-    "options": [
-      "does",
-      "do",
-      "doing",
-      "did"
-    ],
-    "answer": "does"
-  },
-  {
-    "question": "He ___ water every morning.",
-    "options": [
-      "drinks",
-      "drink",
-      "drinking",
-      "drank"
-    ],
-    "answer": "drinks"
-  },
-  {
-    "question": "They ___ soccer after school.",
-    "options": [
-      "play",
-      "plays",
-      "playing",
-      "played"
-    ],
-    "answer": "play"
-  },
-  {
-    "question": "I ___ TV now.",
-    "options": [
-      "am watching",
-      "watch",
-      "watches",
-      "watched"
-    ],
-    "answer": "am watching"
-  },
-  {
-    "question": "She ___ breakfast at the moment.",
-    "options": [
-      "is eating",
-      "eats",
-      "ate",
-      "eating"
-    ],
-    "answer": "is eating"
-  },
-  {
-    "question": "They ___ English now.",
-    "options": [
-      "are studying",
-      "study",
-      "studied",
-      "studying"
-    ],
-    "answer": "are studying"
-  },
-  {
-    "question": "He ___ to music right now.",
-    "options": [
-      "is listening",
-      "listens",
-      "listened",
-      "listen"
-    ],
-    "answer": "is listening"
-  },
-  {
-    "question": "We ___ in the park now.",
-    "options": [
-      "are walking",
-      "walk",
-      "walked",
-      "walking"
-    ],
-    "answer": "are walking"
-  },
-  {
-    "question": "My mother ___ the house now.",
-    "options": [
-      "is cleaning",
-      "cleans",
-      "cleaned",
-      "clean"
-    ],
-    "answer": "is cleaning"
-  },
-  {
-    "question": "The students ___ the teacher now.",
-    "options": [
-      "are listening to",
-      "listen to",
-      "listened to",
-      "listening to"
-    ],
-    "answer": "are listening to"
-  },
-  {
-    "question": "The baby ___ now.",
-    "options": [
-      "is sleeping",
-      "sleeps",
-      "slept",
-      "sleeping"
-    ],
-    "answer": "is sleeping"
-  },
-  {
-    "question": "You ___ too fast now.",
-    "options": [
-      "are running",
-      "run",
-      "ran",
-      "running"
-    ],
-    "answer": "are running"
-  },
-  {
-    "question": "I ___ with my friend now.",
-    "options": [
-      "am talking",
-      "talk",
-      "talked",
-      "talking"
-    ],
-    "answer": "am talking"
-  },
-  {
-    "question": "She ___ her homework now.",
-    "options": [
-      "is doing",
-      "does",
-      "did",
-      "doing"
-    ],
-    "answer": "is doing"
-  },
-  {
-    "question": "The dog ___ loudly now.",
-    "options": [
-      "is barking",
-      "barks",
-      "barked",
-      "barking"
-    ],
-    "answer": "is barking"
-  },
-  {
-    "question": "They ___ a movie now.",
-    "options": [
-      "are watching",
-      "watch",
-      "watched",
-      "watching"
-    ],
-    "answer": "are watching"
-  },
-  {
-    "question": "We ___ coffee at the moment.",
-    "options": [
-      "are drinking",
-      "drink",
-      "drank",
-      "drinking"
-    ],
-    "answer": "are drinking"
-  },
-  {
-    "question": "He ___ a book now.",
-    "options": [
-      "is reading",
-      "reads",
-      "read",
-      "reading"
-    ],
-    "answer": "is reading"
-  },
-  {
-    "question": "I ___ for my keys now.",
-    "options": [
-      "am looking",
-      "look",
-      "looked",
-      "looking"
-    ],
-    "answer": "am looking"
-  },
-  {
-    "question": "She ___ to school now.",
-    "options": [
-      "is going",
-      "goes",
-      "went",
-      "going"
-    ],
-    "answer": "is going"
-  },
-  {
-    "question": "They ___ football now.",
-    "options": [
-      "are playing",
-      "play",
-      "played",
-      "playing"
-    ],
-    "answer": "are playing"
-  },
-  {
-    "question": "The children ___ now.",
-    "options": [
-      "are smiling",
-      "smile",
-      "smiled",
-      "smiling"
-    ],
-    "answer": "are smiling"
-  },
-  {
-    "question": "My brother ___ lunch right now.",
-    "options": [
-      "is making",
-      "makes",
-      "made",
-      "making"
-    ],
-    "answer": "is making"
-  },
-  {
-    "question": "I ___ football yesterday.",
-    "options": [
-      "played",
-      "play",
-      "playing",
-      "plays"
-    ],
-    "answer": "played"
-  },
-  {
-    "question": "He ___ to school last week.",
-    "options": [
-      "went",
-      "go",
-      "goes",
-      "going"
-    ],
-    "answer": "went"
-  },
-  {
-    "question": "We ___ a book yesterday.",
-    "options": [
-      "read",
-      "reads",
-      "reading",
-      "readed"
-    ],
-    "answer": "read"
-  },
-  {
-    "question": "She ___ dinner last night.",
-    "options": [
-      "cooked",
-      "cook",
-      "cooking",
-      "cooks"
-    ],
-    "answer": "cooked"
-  },
-  {
-    "question": "I ___ my phone yesterday.",
-    "options": [
-      "did not use",
-      "use",
-      "using",
-      "uses"
-    ],
-    "answer": "did not use"
-  },
-  {
-    "question": "He ___ TV yesterday.",
-    "options": [
-      "did not watch",
-      "watches",
-      "watch",
-      "watching"
-    ],
-    "answer": "did not watch"
-  },
-  {
-    "question": "___ you go to school yesterday?",
-    "options": [
-      "Did",
-      "Do",
-      "Does",
-      "Are"
-    ],
-    "answer": "Did"
-  },
-  {
-    "question": "___ she go to work yesterday?",
-    "options": [
-      "Did",
-      "Do",
-      "Does",
-      "Is"
-    ],
-    "answer": "Did"
-  },
-  {
-    "question": "We ___ late yesterday.",
-    "options": [
-      "did not arrive",
-      "arrive",
-      "arriving",
-      "arrives"
-    ],
-    "answer": "did not arrive"
-  },
-  {
-    "question": "They ___ the game yesterday.",
-    "options": [
-      "did not play",
-      "play",
-      "playing",
-      "plays"
-    ],
-    "answer": "did not play"
-  },
-  {
-    "question": "I ___ my homework last night.",
-    "options": [
-      "did",
-      "do",
-      "does",
-      "doing"
-    ],
-    "answer": "did"
-  },
-  {
-    "question": "She ___ her keys yesterday.",
-    "options": [
-      "lost",
-      "lose",
-      "losing",
-      "loses"
-    ],
-    "answer": "lost"
-  },
-  {
-    "question": "He ___ the movie last week.",
-    "options": [
-      "watched",
-      "watch",
-      "watches",
-      "watching"
-    ],
-    "answer": "watched"
-  },
-  {
-    "question": "They ___ the museum last month.",
-    "options": [
-      "visited",
-      "visit",
-      "visits",
-      "visiting"
-    ],
-    "answer": "visited"
-  },
-  {
-    "question": "We ___ early yesterday.",
-    "options": [
-      "woke up",
-      "wake up",
-      "wakes up",
-      "waking up"
-    ],
-    "answer": "woke up"
-  },
-  {
-    "question": "I ___ breakfast this morning.",
-    "options": [
-      "ate",
-      "eat",
-      "eating",
-      "eats"
-    ],
-    "answer": "ate"
-  },
-  {
-    "question": "He ___ a letter yesterday.",
-    "options": [
-      "wrote",
-      "write",
-      "writes",
-      "writing"
-    ],
-    "answer": "wrote"
-  },
-  {
-    "question": "She ___ coffee yesterday morning.",
-    "options": [
-      "drank",
-      "drink",
-      "drinks",
-      "drinking"
-    ],
-    "answer": "drank"
-  },
-  {
-    "question": "They ___ to music yesterday.",
-    "options": [
-      "listened",
-      "listen",
-      "listens",
-      "listening"
-    ],
-    "answer": "listened"
-  },
-  {
-    "question": "We ___ shopping last weekend.",
-    "options": [
-      "went",
-      "go",
-      "goes",
-      "going"
-    ],
-    "answer": "went"
-  },
-  {
-    "question": "I ___ my friend last night.",
-    "options": [
-      "called",
-      "call",
-      "calls",
-      "calling"
-    ],
-    "answer": "called"
-  },
-  {
-    "question": "He ___ his homework yesterday.",
-    "options": [
-      "did",
-      "do",
-      "does",
-      "doing"
-    ],
-    "answer": "did"
-  },
-  {
-    "question": "She ___ to the party last week.",
-    "options": [
-      "went",
-      "go",
-      "goes",
-      "going"
-    ],
-    "answer": "went"
-  },
-  {
-    "question": "They ___ a song yesterday.",
-    "options": [
-      "sang",
-      "sing",
-      "sings",
-      "singing"
-    ],
-    "answer": "sang"
-  },
-  {
-    "question": "We ___ TV last night.",
-    "options": [
-      "watched",
-      "watch",
-      "watches",
-      "watching"
-    ],
-    "answer": "watched"
-  },
-  {
-    "question": "I ___ lunch at 1 p.m. yesterday.",
-    "options": [
-      "had",
-      "have",
-      "has",
-      "having"
-    ],
-    "answer": "had"
-  },
-  {
-    "question": "He ___ a bicycle last year.",
-    "options": [
-      "bought",
-      "buy",
-      "buys",
-      "buying"
-    ],
-    "answer": "bought"
-  },
-  {
-    "question": "She ___ her room yesterday.",
-    "options": [
-      "cleaned",
-      "clean",
-      "cleans",
-      "cleaning"
-    ],
-    "answer": "cleaned"
-  },
-  {
-    "question": "They ___ football last Sunday.",
-    "options": [
-      "played",
-      "play",
-      "plays",
-      "playing"
-    ],
-    "answer": "played"
-  },
-  {
-    "question": "We ___ to the park yesterday.",
-    "options": [
-      "went",
-      "go",
-      "goes",
-      "going"
-    ],
-    "answer": "went"
-  },
-  {
-    "question": "I ___ a new book last week.",
-    "options": [
-      "bought",
-      "buy",
-      "buys",
-      "buying"
-    ],
-    "answer": "bought"
-  },
-  {
-    "question": "He ___ a cake yesterday.",
-    "options": [
-      "made",
-      "make",
-      "makes",
-      "making"
-    ],
-    "answer": "made"
-  },
-  {
-    "question": "She ___ a song yesterday.",
-    "options": [
-      "sang",
-      "sing",
-      "sings",
-      "singing"
-    ],
-    "answer": "sang"
-  },
-  {
-    "question": "They ___ late yesterday.",
-    "options": [
-      "arrived",
-      "arrive",
-      "arrives",
-      "arriving"
-    ],
-    "answer": "arrived"
-  },
-  {
-    "question": "We ___ the homework yesterday.",
-    "options": [
-      "did",
-      "do",
-      "does",
-      "doing"
-    ],
-    "answer": "did"
-  },
-  {
-    "question": "I ___ my room last weekend.",
-    "options": [
-      "cleaned",
-      "clean",
-      "cleans",
-      "cleaning"
-    ],
-    "answer": "cleaned"
-  },
-  {
-    "question": "He ___ a movie yesterday.",
-    "options": [
-      "watched",
-      "watch",
-      "watches",
-      "watching"
-    ],
-    "answer": "watched"
-  },
-  {
-    "question": "She ___ tea yesterday morning.",
-    "options": [
-      "drank",
-      "drink",
-      "drinks",
-      "drinking"
-    ],
-    "answer": "drank"
-  },
-  {
-    "question": "They ___ English last year.",
-    "options": [
-      "studied",
-      "study",
-      "studies",
-      "studying"
-    ],
-    "answer": "studied"
-  },
-  {
-    "question": "We ___ to the beach last summer.",
-    "options": [
-      "went",
-      "go",
-      "goes",
-      "going"
-    ],
-    "answer": "went"
-  },
-  {
-    "question": "I ___ the answer yesterday.",
-    "options": [
-      "knew",
-      "know",
-      "knows",
-      "knowing"
-    ],
-    "answer": "knew"
-  },
-  {
-    "question": "He ___ a song yesterday.",
-    "options": [
-      "sang",
-      "sing",
-      "sings",
-      "singing"
-    ],
-    "answer": "sang"
-  },
-  {
-    "question": "She ___ a letter yesterday.",
-    "options": [
-      "wrote",
-      "write",
-      "writes",
-      "writing"
-    ],
-    "answer": "wrote"
-  },
-  {
-    "question": "They ___ home late yesterday.",
-    "options": [
-      "came",
-      "come",
-      "comes",
-      "coming"
-    ],
-    "answer": "came"
-  },
-  {
-    "question": "We ___ a new car last month.",
-    "options": [
-      "bought",
-      "buy",
-      "buys",
-      "buying"
-    ],
-    "answer": "bought"
-  },
-  {
-    "question": "I ___ breakfast yesterday morning.",
-    "options": [
-      "ate",
-      "eat",
-      "eats",
-      "eating"
-    ],
-    "answer": "ate"
-  },
-  {
-    "question": "He ___ his bike yesterday.",
-    "options": [
-      "rode",
-      "ride",
-      "rides",
-      "riding"
-    ],
-    "answer": "rode"
-  },
-  {
-    "question": "She ___ the window yesterday.",
-    "options": [
-      "opened",
-      "open",
-      "opens",
-      "opening"
-    ],
-    "answer": "opened"
-  },
-  {
-    "question": "They ___ TV last night.",
-    "options": [
-      "watched",
-      "watch",
-      "watches",
-      "watching"
-    ],
-    "answer": "watched"
-  },
-  {
-    "question": "We ___ to school yesterday.",
-    "options": [
-      "went",
-      "go",
-      "goes",
-      "going"
-    ],
-    "answer": "went"
-  },
-  {
-    "question": "I ___ a new phone.",
-    "options": [
-      "have",
-      "has",
-      "is",
-      "are"
-    ],
-    "answer": "have"
-  },
-  {
-    "question": "She ___ a cat.",
-    "options": [
-      "has",
-      "have",
-      "is",
-      "are"
-    ],
-    "answer": "has"
-  },
-  {
-    "question": "They ___ many books.",
-    "options": [
-      "have",
-      "has",
-      "is",
-      "are"
-    ],
-    "answer": "have"
-  },
-  {
-    "question": "He ___ two sisters.",
-    "options": [
-      "has",
-      "have",
-      "is",
-      "are"
-    ],
-    "answer": "has"
-  },
-  {
-    "question": "We ___ a garden.",
-    "options": [
-      "have",
-      "has",
-      "is",
-      "are"
-    ],
-    "answer": "have"
-  },
-  {
-    "question": "There ___ a park near my house.",
-    "options": [
-      "is",
-      "are",
-      "have",
-      "has"
-    ],
-    "answer": "is"
-  },
-  {
-    "question": "There ___ many students in the class.",
-    "options": [
-      "are",
-      "is",
-      "have",
-      "has"
-    ],
-    "answer": "are"
-  },
-  {
-    "question": "There ___ a supermarket in my street.",
-    "options": [
-      "is",
-      "are",
-      "have",
-      "has"
-    ],
-    "answer": "is"
-  },
-  {
-    "question": "There ___ several trees in the garden.",
-    "options": [
-      "are",
-      "is",
-      "has",
-      "have"
-    ],
-    "answer": "are"
-  },
-  {
-    "question": "I ___ some money in my wallet.",
-    "options": [
-      "have",
-      "has",
-      "is",
-      "are"
-    ],
-    "answer": "have"
-  },
-  {
-    "question": "She ___ a lot of homework.",
-    "options": [
-      "has",
-      "have",
-      "is",
-      "are"
-    ],
-    "answer": "has"
-  },
-  {
-    "question": "They ___ many friends.",
-    "options": [
-      "have",
-      "has",
-      "is",
-      "are"
-    ],
-    "answer": "have"
-  },
-  {
-    "question": "He ___ a new bike.",
-    "options": [
-      "has",
-      "have",
-      "is",
-      "are"
-    ],
-    "answer": "has"
-  },
-  {
-    "question": "There ___ a dog in the yard.",
-    "options": [
-      "is",
-      "are",
-      "have",
-      "has"
-    ],
-    "answer": "is"
-  },
-  {
-    "question": "There ___ many chairs in the room.",
-    "options": [
-      "are",
-      "is",
-      "have",
-      "has"
-    ],
-    "answer": "are"
-  },
-  {
-    "question": "There ___ a big tree in the park.",
-    "options": [
-      "is",
-      "are",
-      "have",
-      "has"
-    ],
-    "answer": "is"
-  },
-  {
-    "question": "There ___ two cats on the roof.",
-    "options": [
-      "are",
-      "is",
-      "has",
-      "have"
-    ],
-    "answer": "are"
-  },
-  {
-    "question": "I ___ some sugar in the kitchen.",
-    "options": [
-      "have",
-      "has",
-      "is",
-      "are"
-    ],
-    "answer": "have"
-  },
-  {
-    "question": "She ___ a little milk in the fridge.",
-    "options": [
-      "has",
-      "have",
-      "is",
-      "are"
-    ],
-    "answer": "has"
-  },
-  {
-    "question": "They ___ some bread.",
-    "options": [
-      "have",
-      "has",
-      "is",
-      "are"
-    ],
-    "answer": "have"
-  },
-  {
-    "question": "He ___ a glass of water.",
-    "options": [
-      "has",
-      "have",
-      "is",
-      "are"
-    ],
-    "answer": "has"
-  },
-  {
-    "question": "We ___ some rice.",
-    "options": [
-      "have",
-      "has",
-      "is",
-      "are"
-    ],
-    "answer": "have"
-  },
-  {
-    "question": "There ___ a car in front of the house.",
-    "options": [
-      "is",
-      "are",
-      "have",
-      "has"
-    ],
-    "answer": "is"
+    "savol": "……. Jill and Tom study at university?",
+    "A": "do",
+    "B": "does",
+    "C": "doing",
+    "D": "done",
+    "javob": "A"
+  },
+  {
+    "savol": "… Jack know that you work?",
+    "A": "does",
+    "B": "doing",
+    "C": "done",
+    "D": "having",
+    "javob": "A"
+  },
+  {
+    "savol": "… Bill teach maths?",
+    "A": "does",
+    "B": "doing",
+    "C": "have",
+    "D": "done",
+    "javob": "A"
+  },
+  {
+    "savol": "……. Paul work in the shop?",
+    "A": "does",
+    "B": "doing",
+    "C": "has",
+    "D": "do",
+    "javob": "A"
+  },
+  {
+    "savol": "….. they ask so many questions ?",
+    "A": "do",
+    "B": "doing",
+    "C": "has",
+    "D": "does",
+    "javob": "A"
+  },
+  {
+    "savol": "……. he wash his car?",
+    "A": "does",
+    "B": "doing",
+    "C": "having",
+    "D": "do",
+    "javob": "A"
+  },
+  {
+    "savol": "……. you have any brothers or sisters?",
+    "A": "do",
+    "B": "doing",
+    "C": "having",
+    "D": "does",
+    "javob": "A"
+  },
+  {
+    "savol": "……. they live in London?",
+    "A": "do",
+    "B": "done",
+    "C": "does",
+    "D": "have",
+    "javob": "A"
+  },
+  {
+    "savol": "……. you play a musical instrument?",
+    "A": "do",
+    "B": "done",
+    "C": "does",
+    "D": "doing",
+    "javob": "A"
+  },
+  {
+    "savol": "………your mother like chocolate?",
+    "A": "does",
+    "B": "done",
+    "C": "do",
+    "D": "doing",
+    "javob": "A"
+  },
+  {
+    "savol": "……you live in a flat?",
+    "A": "do",
+    "B": "done",
+    "C": "does",
+    "D": "doing",
+    "javob": "A"
+  },
+  {
+    "savol": "……it rain a lot in Africa?",
+    "A": "does",
+    "B": "doing",
+    "C": "do",
+    "D": "done",
+    "javob": "A"
+  },
+  {
+    "savol": "……they know the answers ?",
+    "A": "do",
+    "B": "doing",
+    "C": "does",
+    "D": "done",
+    "javob": "A"
+  },
+  {
+    "savol": ". ...... she take her dog for a walk ?",
+    "A": "does",
+    "B": "doing",
+    "C": "do",
+    "D": "done",
+    "javob": "A"
+  },
+  {
+    "savol": "… you go to the coast in summer?",
+    "A": "do",
+    "B": "done",
+    "C": "does",
+    "D": "doing",
+    "javob": "A"
+  },
+  {
+    "savol": "……. you doing your homework every day?",
+    "A": "are",
+    "B": "had",
+    "C": "does",
+    "D": "done",
+    "javob": "A"
+  },
+  {
+    "savol": "……. she work hard?",
+    "A": "does",
+    "B": "done",
+    "C": "do",
+    "D": "doing",
+    "javob": "A"
+  },
+  {
+    "savol": "Are you …. TV a lot?",
+    "A": "watching",
+    "B": "done",
+    "C": "is",
+    "D": "does",
+    "javob": "A"
+  },
+  {
+    "savol": "……. you going to the cinema?",
+    "A": "are",
+    "B": "done",
+    "C": "have",
+    "D": "had",
+    "javob": "A"
+  },
+  {
+    "savol": "…….your father working?",
+    "A": "is",
+    "B": "being",
+    "C": "done",
+    "D": "do",
+    "javob": "A"
+  },
+  {
+    "savol": "My classmate is … to class right now",
+    "A": "going",
+    "B": "done",
+    "C": "go",
+    "D": "do",
+    "javob": "A"
+  },
+  {
+    "savol": "We … swimming , jogging , and playing sports",
+    "A": "like",
+    "B": "known",
+    "C": "done",
+    "D": "having",
+    "javob": "A"
+  },
+  {
+    "savol": "He …….in Rio de Janeiro",
+    "A": "lives",
+    "B": "living",
+    "C": "live",
+    "D": "doing",
+    "javob": "A"
+  },
+  {
+    "savol": "I …. in a small apartment near my college",
+    "A": "live",
+    "B": "doing",
+    "C": "lives",
+    "D": "living",
+    "javob": "A"
+  },
+  {
+    "savol": "She … three languages",
+    "A": "speaks",
+    "B": "spoken",
+    "C": "speaking",
+    "D": "speaked",
+    "javob": "A"
+  },
+  {
+    "savol": "My friend doesn`t … English",
+    "A": "know",
+    "B": "are",
+    "C": "am",
+    "D": "had",
+    "javob": "A"
+  },
+  {
+    "savol": "My mother …. English at a high school.",
+    "A": "teaches",
+    "B": "teaching",
+    "C": "teach",
+    "D": "teachem",
+    "javob": "A"
+  },
+  {
+    "savol": "I …. my job.",
+    "A": "love",
+    "B": "loving",
+    "C": "loves",
+    "D": "lovely",
+    "javob": "A"
+  },
+  {
+    "savol": "I usually … very early in the morning",
+    "A": "get up",
+    "B": "sleep",
+    "C": "getting up",
+    "D": "sleeping",
+    "javob": "A"
+  },
+  {
+    "savol": "My brother ….. his favorite TV program every evening.",
+    "A": "watches",
+    "B": "didn`t",
+    "C": "done",
+    "D": "did",
+    "javob": "A"
+  },
+  {
+    "savol": "There ….. two bags in the room",
+    "A": "are",
+    "B": "were",
+    "C": "was",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "There …. a mouse in the box",
+    "A": "is",
+    "B": "am",
+    "C": "are",
+    "D": "have",
+    "javob": "A"
+  },
+  {
+    "savol": "There … a flower in the garden",
+    "A": "is",
+    "B": "were",
+    "C": "am",
+    "D": "do",
+    "javob": "A"
+  },
+  {
+    "savol": "There …. some milk in the bottle",
+    "A": "is",
+    "B": "are",
+    "C": "am",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "There ….. pencils in the pencilcase.",
+    "A": "are",
+    "B": "is",
+    "C": "be",
+    "D": "do",
+    "javob": "A"
+  },
+  {
+    "savol": "There ….. a pen in my bag",
+    "A": "is",
+    "B": "am",
+    "C": "be",
+    "D": "do",
+    "javob": "A"
+  },
+  {
+    "savol": "There ….. many tigers in the garden",
+    "A": "are",
+    "B": "is",
+    "C": "am",
+    "D": "do",
+    "javob": "A"
+  },
+  {
+    "savol": "There …… a tiger",
+    "A": "is",
+    "B": "are",
+    "C": "do",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "There ….. books on the shelf",
+    "A": "are",
+    "B": "is",
+    "C": "be",
+    "D": "do",
+    "javob": "A"
+  },
+  {
+    "savol": "There ….. a book on the desk",
+    "A": "is",
+    "B": "am",
+    "C": "are",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "Translate the word (tarjima qiling ) Present simple tense",
+    "A": "hozirgi oddiy zamon",
+    "B": "o`tgan zamon",
+    "C": "davomli zamon",
+    "D": "kelajak zamon",
+    "javob": "A"
+  },
+  {
+    "savol": "Translate the word (tarjima qiling ) Verbs",
+    "A": "fellar",
+    "B": "otlar",
+    "C": "egalar",
+    "D": "birlik",
+    "javob": "A"
+  },
+  {
+    "savol": "Translate the word (tarjima qiling ) Nouns",
+    "A": "otlar",
+    "B": "fellar",
+    "C": "sifatlar",
+    "D": "ko`plik",
+    "javob": "A"
+  },
+  {
+    "savol": "Translate the word (tarjima qiling ) Uncountable",
+    "A": "sanalmaydigan",
+    "B": "sanaladigan",
+    "C": "sanalish",
+    "D": "sanash",
+    "javob": "A"
+  },
+  {
+    "savol": "Translate the word (tarjima qiling ) Countable",
+    "A": "sanaladigan",
+    "B": "sanalmaydigan",
+    "C": "sanash",
+    "D": "sanalish",
+    "javob": "A"
+  },
+  {
+    "savol": "Find plural form of the given word (ko`plik shaklini toping ?) Tomato",
+    "A": "tomatoes",
+    "B": "potatoes",
+    "C": "tomatoing",
+    "D": "tomat",
+    "javob": "A"
+  },
+  {
+    "savol": "Find plural form of the given word (ko`plik shaklini toping ?) Potato",
+    "A": "potatoes",
+    "B": "tomatoes",
+    "C": "potatoed",
+    "D": "potato",
+    "javob": "A"
+  },
+  {
+    "savol": "Find plural form of the given word (ko`plik shaklini toping ?) Dress",
+    "A": "dresses",
+    "B": "dressing",
+    "C": "dress",
+    "D": "dressed",
+    "javob": "A"
+  },
+  {
+    "savol": "Find plural form of the given word (ko`plik shaklini toping?) Doctor",
+    "A": "doctors",
+    "B": "doc",
+    "C": "doctoring",
+    "D": "doctoral",
+    "javob": "A"
+  },
+  {
+    "savol": "Find plural form of the given word (ko`plik shaklini toping?) Dog",
+    "A": "dogs",
+    "B": "dogging",
+    "C": "dogged",
+    "D": "dog",
+    "javob": "A"
+  },
+  {
+    "savol": "Find plural form of the given word (ko`plik shaklini toping ?) Cat",
+    "A": "cats",
+    "B": "catting",
+    "C": "catted",
+    "D": "cat",
+    "javob": "A"
+  },
+  {
+    "savol": "Find plural form of the given word (ko`plik shaklini toping ?) Cap",
+    "A": "caps",
+    "B": "capping",
+    "C": "capped",
+    "D": "cap",
+    "javob": "A"
+  },
+  {
+    "savol": "Find plural form of the given word (ko`plik shaklini toping ?) Table",
+    "A": "tables",
+    "B": "tabling",
+    "C": "table",
+    "D": "tabled",
+    "javob": "A"
+  },
+  {
+    "savol": "Find plural form of the given word (ko`plik shaklini toping ?) Box",
+    "A": "boxes",
+    "B": "boxing",
+    "C": "boxed",
+    "D": "box",
+    "javob": "A"
+  },
+  {
+    "savol": "Find plural form of the given word (ko`plik shaklini toping ?) Person",
+    "A": "people",
+    "B": "personel",
+    "C": "persones",
+    "D": "personed",
+    "javob": "A"
+  },
+  {
+    "savol": "Find plural form of the given word (ko`plik shaklini toping ?) Day",
+    "A": "days",
+    "B": "dayed",
+    "C": "day",
+    "D": "daying",
+    "javob": "A"
+  },
+  {
+    "savol": "Find plural form of the given word (ko`plik shaklini toping ?) Flower",
+    "A": "flowers",
+    "B": "flowering",
+    "C": "flower",
+    "D": "flowered",
+    "javob": "A"
+  },
+  {
+    "savol": "Find plural form of the given word (ko`plik shaklini toping ?) Sandwich",
+    "A": "sandwiches",
+    "B": "sandwich",
+    "C": "sandwiching",
+    "D": "sandwiched",
+    "javob": "A"
+  },
+  {
+    "savol": "Find plural form of the given word (ko`plik shaklini toping ?) Pencil",
+    "A": "pencils",
+    "B": "penning",
+    "C": "pens",
+    "D": "penciling",
+    "javob": "A"
+  },
+  {
+    "savol": "Find plural form of the given word (ko`plik shaklini toping ?) Foot",
+    "A": "feet",
+    "B": "foots",
+    "C": "fet",
+    "D": "footing",
+    "javob": "A"
+  },
+  {
+    "savol": "Find plural form of the given word (ko`plik shaklini toping ?) Mouse",
+    "A": "mice",
+    "B": "mices",
+    "C": "mouse",
+    "D": "mousing",
+    "javob": "A"
+  },
+  {
+    "savol": "Find plural form of the given word (ko`plik shaklini toping ?) Notebook",
+    "A": "notebooks",
+    "B": "notebooking",
+    "C": "notebook",
+    "D": "booked",
+    "javob": "A"
+  },
+  {
+    "savol": "Find plural form of the given word (ko`plik shaklini toping ?) Phone",
+    "A": "phones",
+    "B": "airs",
+    "C": "phoned",
+    "D": "phoning",
+    "javob": "A"
+  },
+  {
+    "savol": "Find plural form of the given word (ko`plik shaklini toping ?) Stone",
+    "A": "stones",
+    "B": "stonning",
+    "C": "stonned",
+    "D": "stone",
+    "javob": "A"
+  },
+  {
+    "savol": "Find plural form of the given word (ko`plik shaklini toping ?) Apple",
+    "A": "apples",
+    "B": "appled",
+    "C": "apple",
+    "D": "appling",
+    "javob": "A"
+  },
+  {
+    "savol": "Find plural form of the given word (ko`plik shaklini toping ?) Baby",
+    "A": "babies",
+    "B": "babys",
+    "C": "baby`s",
+    "D": "child",
+    "javob": "A"
+  },
+  {
+    "savol": "Find plural form of the given word (ko`plik shaklini toping ?) Door",
+    "A": "doors",
+    "B": "deer",
+    "C": "door",
+    "D": "doored",
+    "javob": "A"
+  },
+  {
+    "savol": "Find plural form of the given word (ko`plik shaklini toping ?) Book",
+    "A": "books",
+    "B": "booking",
+    "C": "book",
+    "D": "booked",
+    "javob": "A"
+  },
+  {
+    "savol": "Find plural form of the given word (ko`plik shaklini toping ?) Pen",
+    "A": "pens",
+    "B": "penning",
+    "C": "pen",
+    "D": "penned",
+    "javob": "A"
+  },
+  {
+    "savol": "Find plural form of the given word (ko`plik shaklini toping ?) Bed",
+    "A": "beds",
+    "B": "the bed",
+    "C": "a bed",
+    "D": "bedded",
+    "javob": "A"
+  },
+  {
+    "savol": "Find plural form of the given word (ko`plik shaklini toping ?) Window",
+    "A": "windows",
+    "B": "windowed",
+    "C": "window",
+    "D": "windowing",
+    "javob": "A"
+  },
+  {
+    "savol": "Find plural form of the given word (ko`plik shaklini toping ?) Boy",
+    "A": "boys",
+    "B": "boying",
+    "C": "boy",
+    "D": "boyed",
+    "javob": "A"
+  },
+  {
+    "savol": "Find plural form of the given word (ko`plik shaklini toping ?) Child",
+    "A": "children",
+    "B": "childrens",
+    "C": "childing",
+    "D": "child",
+    "javob": "A"
+  },
+  {
+    "savol": "These books ….. beautiful.",
+    "A": "are",
+    "B": "is",
+    "C": "am",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "We … friends.",
+    "A": "are",
+    "B": "do",
+    "C": "am",
+    "D": "is",
+    "javob": "A"
+  },
+  {
+    "savol": "Ahmed … a football player",
+    "A": "is",
+    "B": "have",
+    "C": "are",
+    "D": "is",
+    "javob": "A"
+  },
+  {
+    "savol": "My sisters … English teachers.",
+    "A": "are",
+    "B": "is",
+    "C": "am",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "A cat … a dangerous animal.",
+    "A": "is not",
+    "B": "am",
+    "C": "do",
+    "D": "have",
+    "javob": "A"
+  },
+  {
+    "savol": "The chairs … old.",
+    "A": "are",
+    "B": "is",
+    "C": "am",
+    "D": "done",
+    "javob": "A"
+  },
+  {
+    "savol": "Susan … a good singer.",
+    "A": "is",
+    "B": "am",
+    "C": "are",
+    "D": "been",
+    "javob": "A"
+  },
+  {
+    "savol": "Betty .... at home.",
+    "A": "is",
+    "B": "are",
+    "C": "do",
+    "D": "am",
+    "javob": "A"
+  },
+  {
+    "savol": "We .... interested in music.",
+    "A": "are",
+    "B": "is",
+    "C": "be",
+    "D": "do",
+    "javob": "A"
+  },
+  {
+    "savol": "The books .... on the desk.",
+    "A": "are",
+    "B": "am",
+    "C": "do",
+    "D": "has",
+    "javob": "A"
+  },
+  {
+    "savol": "It ……my book.",
+    "A": "is",
+    "B": "am",
+    "C": "do",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "The weather … hot today.",
+    "A": "is",
+    "B": "be",
+    "C": "done",
+    "D": "are",
+    "javob": "A"
+  },
+  {
+    "savol": "We… French",
+    "A": "are",
+    "B": "is",
+    "C": "be",
+    "D": "am",
+    "javob": "A"
+  },
+  {
+    "savol": "She …….a teacher.",
+    "A": "is",
+    "B": "am",
+    "C": "are",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "Our family is not big. We …. four people.",
+    "A": "are",
+    "B": "is",
+    "C": "am",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "Mahmud and I ... friends.",
+    "A": "are",
+    "B": "is",
+    "C": "be",
+    "D": "am",
+    "javob": "A"
+  },
+  {
+    "savol": "An online lesson ... more helpful than offline one.",
+    "A": "is",
+    "B": "are",
+    "C": "am",
+    "D": "do",
+    "javob": "A"
+  },
+  {
+    "savol": "There are ……. apples on the table.",
+    "A": "some",
+    "B": "any",
+    "C": "an",
+    "D": "a",
+    "javob": "A"
+  },
+  {
+    "savol": "There is ……milk in the cup.",
+    "A": "some",
+    "B": "a",
+    "C": "an",
+    "D": "any",
+    "javob": "A"
+  },
+  {
+    "savol": "There are not ……..students in the room",
+    "A": "any",
+    "B": "a",
+    "C": "some",
+    "D": "an",
+    "javob": "A"
+  },
+  {
+    "savol": "There are not ….. cookies left.",
+    "A": "any",
+    "B": "an",
+    "C": "some",
+    "D": "a",
+    "javob": "A"
+  },
+  {
+    "savol": "There aren`t ….. cars in the street.",
+    "A": "any",
+    "B": "some",
+    "C": "much",
+    "D": "an",
+    "javob": "A"
+  },
+  {
+    "savol": "There is ……honey in the cup.",
+    "A": "some",
+    "B": "any",
+    "C": "an",
+    "D": "a",
+    "javob": "A"
+  },
+  {
+    "savol": "There is ……. salt in my soup.",
+    "A": "some",
+    "B": "any",
+    "C": "an",
+    "D": "a",
+    "javob": "A"
+  },
+  {
+    "savol": "There aren`t ……. eggs in the fridge.",
+    "A": "any",
+    "B": "some",
+    "C": "a",
+    "D": "an",
+    "javob": "A"
+  },
+  {
+    "savol": "There are ….. bananas in my cake.",
+    "A": "some",
+    "B": "any",
+    "C": "an",
+    "D": "a",
+    "javob": "A"
+  },
+  {
+    "savol": "There is …. salad on the table.",
+    "A": "some",
+    "B": "an",
+    "C": "a",
+    "D": "any",
+    "javob": "A"
+  },
+  {
+    "savol": "There are ……coconuts in the cookies.",
+    "A": "some",
+    "B": "any",
+    "C": "a",
+    "D": "an",
+    "javob": "A"
+  },
+  {
+    "savol": "There aren`t …..dogs in the zoo.",
+    "A": "any",
+    "B": "some",
+    "C": "an",
+    "D": "a",
+    "javob": "A"
+  },
+  {
+    "savol": "There are ……videos in my phone.",
+    "A": "some",
+    "B": "any",
+    "C": "an",
+    "D": "a",
+    "javob": "A"
+  },
+  {
+    "savol": "There are not ….. teachers in the school.",
+    "A": "any",
+    "B": "some",
+    "C": "an",
+    "D": "this",
+    "javob": "A"
+  },
+  {
+    "savol": "There are …..onions in the fridge.",
+    "A": "some",
+    "B": "any",
+    "C": "a",
+    "D": "an",
+    "javob": "A"
+  },
+  {
+    "savol": "There is …..sugar in the coffee.",
+    "A": "some",
+    "B": "any",
+    "C": "an",
+    "D": "a",
+    "javob": "A"
+  },
+  {
+    "savol": "There aren`t …… computers in the classroom.",
+    "A": "any",
+    "B": "some",
+    "C": "an",
+    "D": "a",
+    "javob": "A"
+  },
+  {
+    "savol": "Ann and I … very good friends.",
+    "A": "are",
+    "B": "be",
+    "C": "am",
+    "D": "is",
+    "javob": "A"
+  },
+  {
+    "savol": "It … 10 o`clock.",
+    "A": "is",
+    "B": "are",
+    "C": "do",
+    "D": "am",
+    "javob": "A"
+  },
+  {
+    "savol": "You … late again.",
+    "A": "are",
+    "B": "is",
+    "C": "be",
+    "D": "am",
+    "javob": "A"
+  },
+  {
+    "savol": "John … afraid of dogs.",
+    "A": "is",
+    "B": "am",
+    "C": "are",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "He … very tall.",
+    "A": "is",
+    "B": "are",
+    "C": "am",
+    "D": "do",
+    "javob": "A"
+  },
+  {
+    "savol": "My sister .… 29 years old.",
+    "A": "is",
+    "B": "am",
+    "C": "be",
+    "D": "are",
+    "javob": "A"
+  },
+  {
+    "savol": "I …. 32 years old.",
+    "A": "am",
+    "B": "is",
+    "C": "are",
+    "D": "be",
+    "javob": "A"
+  },
+  {
+    "savol": "… you speak French?",
+    "A": "can",
+    "B": "are",
+    "C": "is",
+    "D": "am",
+    "javob": "A"
+  },
+  {
+    "savol": "… she play the guitar?",
+    "A": "can",
+    "B": "cans",
+    "C": "are",
+    "D": "is",
+    "javob": "A"
+  },
+  {
+    "savol": "I … dance very well.",
+    "A": "can",
+    "B": "cans",
+    "C": "am",
+    "D": "is",
+    "javob": "A"
+  },
+  {
+    "savol": "… your brother ride a bike?",
+    "A": "can",
+    "B": "cans",
+    "C": "is",
+    "D": "are",
+    "javob": "A"
+  },
+  {
+    "savol": "No, I … play the piano.",
+    "A": "cannot",
+    "B": "cans",
+    "C": "is",
+    "D": "are",
+    "javob": "A"
+  },
+  {
+    "savol": "… they cook Chinese food?",
+    "A": "can",
+    "B": "cans",
+    "C": "are",
+    "D": "are not",
+    "javob": "A"
+  },
+  {
+    "savol": "… we watch TV in the living room?",
+    "A": "can",
+    "B": "cans",
+    "C": "are",
+    "D": "are not",
+    "javob": "A"
+  },
+  {
+    "savol": "-Can they play basketball? -No, they … play basketball.",
+    "A": "cannot",
+    "B": "are",
+    "C": "is",
+    "D": "were not",
+    "javob": "A"
+  },
+  {
+    "savol": "… she ride a horse?",
+    "A": "can",
+    "B": "cans",
+    "C": "do",
+    "D": "is",
+    "javob": "A"
+  },
+  {
+    "savol": "… they swim in the lake?",
+    "A": "can",
+    "B": "cans",
+    "C": "does",
+    "D": "does not",
+    "javob": "A"
+  },
+  {
+    "savol": "-… you draw pictures? -Yes, I can.",
+    "A": "can",
+    "B": "is",
+    "C": "do",
+    "D": "does",
+    "javob": "A"
+  },
+  {
+    "savol": "… I have a glass of water?",
+    "A": "can",
+    "B": "cans",
+    "C": "does",
+    "D": "is",
+    "javob": "A"
+  },
+  {
+    "savol": "-… she ride a bike? -Yes, She can.",
+    "A": "can",
+    "B": "cans",
+    "C": "do",
+    "D": "do not",
+    "javob": "A"
+  },
+  {
+    "savol": "I … cook spaghetti.",
+    "A": "can",
+    "B": "cans",
+    "C": "does not",
+    "D": "does",
+    "javob": "A"
+  },
+  {
+    "savol": "… you sing? – Yes, I can",
+    "A": "can",
+    "B": "does",
+    "C": "is",
+    "D": "are",
+    "javob": "A"
+  },
+  {
+    "savol": "You … cook dinner tonight",
+    "A": "can",
+    "B": "does",
+    "C": "is",
+    "D": "are",
+    "javob": "A"
+  },
+  {
+    "savol": "... you play the guitar?",
+    "A": "can",
+    "B": "does",
+    "C": "is",
+    "D": "are",
+    "javob": "A"
+  },
+  {
+    "savol": "Choose countable noun:",
+    "A": "oranges",
+    "B": "water",
+    "C": "rice",
+    "D": "love",
+    "javob": "A"
+  },
+  {
+    "savol": "Choose countable noun:",
+    "A": "mother",
+    "B": "water",
+    "C": "rice",
+    "D": "love",
+    "javob": "A"
+  },
+  {
+    "savol": "Choose uncountable noun:",
+    "A": "rain",
+    "B": "oranges",
+    "C": "apples",
+    "D": "pens",
+    "javob": "A"
+  },
+  {
+    "savol": "Choose uncountable noun:",
+    "A": "snow",
+    "B": "oranges",
+    "C": "apples",
+    "D": "pens",
+    "javob": "A"
+  },
+  {
+    "savol": "Choose countable noun:",
+    "A": "relatives",
+    "B": "milk",
+    "C": "sugar",
+    "D": "love",
+    "javob": "A"
+  },
+  {
+    "savol": "Choose uncountable noun:",
+    "A": "water",
+    "B": "boys",
+    "C": "toys",
+    "D": "keys",
+    "javob": "A"
+  },
+  {
+    "savol": "Choose uncountable noun:",
+    "A": "beauty",
+    "B": "books",
+    "C": "keys",
+    "D": "house",
+    "javob": "A"
+  },
+  {
+    "savol": "Choose countable noun",
+    "A": "books",
+    "B": "water",
+    "C": "milk",
+    "D": "love",
+    "javob": "A"
+  },
+  {
+    "savol": "Choose countable noun:",
+    "A": "boys",
+    "B": "rice",
+    "C": "water",
+    "D": "air",
+    "javob": "A"
+  },
+  {
+    "savol": "Choose uncountable noun:",
+    "A": "milk",
+    "B": "toys",
+    "C": "park",
+    "D": "an apple",
+    "javob": "A"
+  },
+  {
+    "savol": "Choose uncountable noun",
+    "A": "money",
+    "B": "boys",
+    "C": "girls",
+    "D": "people",
+    "javob": "A"
+  },
+  {
+    "savol": "Choose countable noun:",
+    "A": "rooms",
+    "B": "water",
+    "C": "rice",
+    "D": "love",
+    "javob": "A"
+  },
+  {
+    "savol": "Choose countable noun:",
+    "A": "pens",
+    "B": "courage",
+    "C": "oil",
+    "D": "sugar",
+    "javob": "A"
+  },
+  {
+    "savol": "Choose uncountable noun:",
+    "A": "salt",
+    "B": "oranges",
+    "C": "apples",
+    "D": "pens",
+    "javob": "A"
+  },
+  {
+    "savol": "I don`t have … friends",
+    "A": "many",
+    "B": "so",
+    "C": "a little",
+    "D": "lots",
+    "javob": "A"
+  },
+  {
+    "savol": "She has … things to do",
+    "A": "many",
+    "B": "so",
+    "C": "such",
+    "D": "little",
+    "javob": "A"
+  },
+  {
+    "savol": "Mary has … cats",
+    "A": "many",
+    "B": "so",
+    "C": "a little",
+    "D": "such",
+    "javob": "A"
+  },
+  {
+    "savol": "I don`t have … money",
+    "A": "much",
+    "B": "such",
+    "C": "a",
+    "D": "an",
+    "javob": "A"
+  },
+  {
+    "savol": "Sorry but I don`t have … time",
+    "A": "much",
+    "B": "such",
+    "C": "a",
+    "D": "fall",
+    "javob": "A"
+  },
+  {
+    "savol": "He has … money. He is a millionaire.",
+    "A": "much",
+    "B": "so",
+    "C": "a lot",
+    "D": "an",
+    "javob": "A"
+  },
+  {
+    "savol": "I have … time to have dinner",
+    "A": "much",
+    "B": "so",
+    "C": "not",
+    "D": "a",
+    "javob": "A"
+  },
+  {
+    "savol": "Tom has … friends in his town. He is not a newcomer",
+    "A": "many",
+    "B": "such",
+    "C": "not",
+    "D": "a",
+    "javob": "A"
+  },
+  {
+    "savol": "Choose the right answer.",
+    "A": "many friends",
+    "B": "such friends",
+    "C": "friends",
+    "D": "a friends",
+    "javob": "A"
+  },
+  {
+    "savol": "Choose the right answer.",
+    "A": "much water",
+    "B": "watering",
+    "C": "too water",
+    "D": "a water",
+    "javob": "A"
+  },
+  {
+    "savol": "Choose countable noun:",
+    "A": "pencils",
+    "B": "milk",
+    "C": "water",
+    "D": "rice",
+    "javob": "A"
+  },
+  {
+    "savol": "Choose the correct answer",
+    "A": "many books",
+    "B": "such books",
+    "C": "too books",
+    "D": "a books",
+    "javob": "A"
+  },
+  {
+    "savol": "Choose. the correct answer.",
+    "A": "much milk",
+    "B": "so milk",
+    "C": "such books",
+    "D": "a books",
+    "javob": "A"
+  },
+  {
+    "savol": "Choose the correct answer.",
+    "A": "many people",
+    "B": "a people",
+    "C": "such people",
+    "D": "too people",
+    "javob": "A"
+  },
+  {
+    "savol": "I … working now.",
+    "A": "am",
+    "B": "is",
+    "C": "are",
+    "D": "were",
+    "javob": "A"
   }
 ]
