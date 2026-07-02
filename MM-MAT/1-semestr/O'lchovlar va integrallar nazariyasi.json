@@ -1,0 +1,1890 @@
+[
+  {
+    "savol": "$$\\lim_{n→∞} lim\\sum_{[0,1]}^{} 0,1=?$$",
+    "A": "0",
+    "B": "1",
+    "C": "$$\\frac{1}{2}$$",
+    "D": "$$\\frac{1}{4}$$",
+    "javob": "A"
+  },
+  {
+    "savol": "$$\\lim_{n→∞} lim\\sum_{[0,1]}^{} 0,1=?$$",
+    "A": "$$1$$",
+    "B": "0",
+    "C": "$$\\frac{1}{2}$$",
+    "D": "$$\\frac{1}{4}$$",
+    "javob": "A"
+  },
+  {
+    "savol": "$$\\lim_{n→∞} lim\\sum_{[0,1]}^{} 0,1=?$$",
+    "A": "$$1$$",
+    "B": "0",
+    "C": "$$\\frac{1}{2}$$",
+    "D": "$$\\frac{1}{4}$$",
+    "javob": "A"
+  },
+  {
+    "savol": "$$\\lim_{n→∞} lim\\sum_{[0,1]}^{} 0,1=?$$",
+    "A": "$$\\frac{1}{3}$$",
+    "B": "0",
+    "C": "$$\\frac{1}{2}$$",
+    "D": "$$\\frac{1}{4}$$",
+    "javob": "A"
+  },
+  {
+    "savol": "$$\\lim_{n→∞} lim\\sum_{[0,1]}^{} 0,1=?$$",
+    "A": "0",
+    "B": "1",
+    "C": "$$\\frac{1}{2}$$",
+    "D": "$$\\frac{1}{4}$$",
+    "javob": "A"
+  },
+  {
+    "savol": "$$\\lim_{n→∞} lim\\sum_{[0,π]}^{} 0,π=?$$",
+    "A": "0",
+    "B": "1",
+    "C": "$$π$$",
+    "D": "$$2π$$",
+    "javob": "A"
+  },
+  {
+    "savol": "$$\\lim_{n→∞} lim\\sum_{[0,∞)}^{} \\sqrt{x}e^{-nx}dμ=?$$",
+    "A": "0",
+    "B": "1",
+    "C": "$$2$$",
+    "D": "$$\\frac{1}{4}$$",
+    "javob": "A"
+  },
+  {
+    "savol": "$$\\lim_{n→∞} lim\\sum_{[0,∞)}^{} x^{2}e^{-nx}dμ=?$$",
+    "A": "0",
+    "B": "1",
+    "C": "$$2$$",
+    "D": "$$\\frac{1}{3}$$",
+    "javob": "A"
+  },
+  {
+    "savol": "$$\\lim_{n→∞} lim\\sum_{R}^{} \\frac{cosx}{n+|x|}dμ=?$$",
+    "A": "0",
+    "B": "1",
+    "C": "$$π$$",
+    "D": "$$2π$$",
+    "javob": "A"
+  },
+  {
+    "savol": "$$\\lim_{n→∞} lim\\sum_{R}^{} (1-\\frac{1}{n})\\frac{1}{1+x^{2}} dμ=?$$",
+    "A": "$$π$$",
+    "B": "1",
+    "C": "$$0$$",
+    "D": "$$2π$$",
+    "javob": "A"
+  },
+  {
+    "savol": "$$\\sum_{[0,∞)}^{} e^{-[3x]}dμ=?$$",
+    "A": "$$\\frac{1}{1-e^{-3}}$$",
+    "B": "$$\\frac{1}{1-e^{-2}}$$",
+    "C": "$$\\frac{1}{1-e}$$",
+    "D": "$$\\frac{1}{1-e}$$",
+    "javob": "A"
+  },
+  {
+    "savol": "$$\\sum_{[0,∞)}^{} e^{-[x+1]}dμ=?$$",
+    "A": "$$\\frac{1}{1-e}$$",
+    "B": "$$\\frac{1}{1-e}$$",
+    "C": "$$2$$",
+    "D": "$$\\frac{1}{4}$$",
+    "javob": "A"
+  },
+  {
+    "savol": "$(0,1)$ va $(0,∞)$ to’plamlar orasidagi bir qiymatli moslikni ko’rsating.",
+    "A": "$$f(x)=\\frac{x}{1-x}$$",
+    "B": "$$f(x)=\\frac{x}{x-1}$$",
+    "C": "$$f(x)=\\frac{x-1}{x}$$",
+    "D": "$$f(x)=\\frac{1}{x}$$",
+    "javob": "A"
+  },
+  {
+    "savol": "$(0,∞)$ va $R$ to’plamlar orasidagi bir qiymatli moslikni ko’rsating.",
+    "A": "$$f(x)=lnx$$",
+    "B": "$$f(x)=ln\\frac{1}{x}$$",
+    "C": "$$f(x)=\\frac{lnx}{x}$$",
+    "D": "$$f(x)=\\frac{1}{x}$$",
+    "javob": "A"
+  },
+  {
+    "savol": "$sin:R→R$ akslantirish berilgan bo’lsin. $b=0$ sonining proobrazini toping.",
+    "A": "$$f^{-1}(B_{1})={kπ:k∈Z}$$",
+    "B": "$$f^{-1}(B_{1})={2kπ:k∈Z}$$",
+    "C": "$$f^{-1}(B_{1})={\\frac{π}{2}+kπ:k∈Z}$$",
+    "D": "$$f^{-1}(B_{1})={(2k+1)π:k∈Z}$$",
+    "javob": "A"
+  },
+  {
+    "savol": "$∑_{k=1}^{n} |f(x_{k})-f(x_{k-1})|<C$ yig’indining barcha chekli bo’linishlar bo’yicha olingan aniq yuqori chegarasi $f$ funksiyaning $[a,b]$ kesmadagi … deyiladi.",
+    "A": "to’la o’zgarishi",
+    "B": "kiritik nuqtasi",
+    "C": "maksimumi",
+    "D": "minimumi",
+    "javob": "A"
+  },
+  {
+    "savol": "$∅∈N$; 2) ixtiyoriy $A,B∈N$ uchun $A∩B∈N;$ 3) agar $A_{1}⊆A$ va $A_{1},A∈N$ bo’lsa, u holda $N$ da o’zaro kesishmaydigan chekli sondagi $A_{2},A_{3},…,A_{n}$ elementlar topiladiki, $A\\A_{1}=A_{2}∪A_{3}∪…∪A_{n}$ tenglik o’rinli bo’ladi. 1)-3) xossalarni qanoatlantiruvchi $N$ to’plamlar sistemasiga … deyiladi.",
+    "A": "Yarim halqa",
+    "B": "Halqa",
+    "C": "Minimal halqa",
+    "D": "To’plamlar sistemasi",
+    "javob": "A"
+  },
+  {
+    "savol": "$1<p,q<∞,  \\frac{1}{p}+\\frac{1}{q}=1$ va $a,b>0$ bo’lsin. Quyidagilardan qaysi biri Yung tengsizligini ifodalaydi.",
+    "A": "$$ab≤\\frac{a^{p}}{p}+\\frac{a^{q}}{q}$$",
+    "B": "$$ab≥\\frac{a^{p}}{p}+\\frac{a^{q}}{q}$$",
+    "C": "$$ab<\\frac{a^{p}}{p}+\\frac{a^{q}}{q}$$",
+    "D": "$$ab>\\frac{a^{p}}{p}+\\frac{a^{q}}{q}$$",
+    "javob": "A"
+  },
+  {
+    "savol": "$1≤p,q≤∞,  \\frac{1}{p}+\\frac{1}{q}=1$ va $u∈L^{p}(Ω), v∈L^{q}(Ω)$ bo’lsin. Quyidagilardan qaysi biri Gyolder tengsizligini ifodalaydi.",
+    "A": "$$\\sum_{Ω}^{} |uv|dx≤||u||_{L^{p}(Ω)}||v||_{L^{q}(Ω)}$$",
+    "B": "$$\\sum_{Ω}^{} |uv|dx≥||u||_{L^{p}(Ω)}||v||_{L^{q}(Ω)}$$",
+    "C": "$$\\sum_{Ω}^{} |uv|dx=||u||_{L^{p}(Ω)}||v||_{L^{q}(Ω)}$$",
+    "D": "$$\\sum_{Ω}^{} |uv|dx<||u||_{L^{p}(Ω)}||v||_{L^{q}(Ω)}$$",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar ${f_{n}}$ ketma-ketlik $A$ to’plamning har bir nuqtasida $f$ funksiyaga yaqinlashsa va barcha $n∈N$ lar uchun $|f_{n}(x)|≤φ$ tengsizlik bajarilib, $φ$ funksiya $A$ to’plamda Lebeg ma’nosida integrallanuvchi bo’lsa, u holda $f$ funksiya ham $A$ da Lebeg ma’nosida integrallanuvchi bo’ladi va … tenglik o’rinli.",
+    "A": "$$\\lim_{n→∞} lim\\sum_{A}^{} f_{n}(x)dμ=\\sum_{A}^{} f(x)dμ$$",
+    "B": "$$(\\sum_{A}^{} f_{n}(x)dμ)^{}=\\sum_{A}^{} f(x)dμ$$",
+    "C": "$$\\lim_{n→∞} lim\\sum_{A}^{} f_{n}(x)dμ>\\sum_{A}^{} f(x)dμ$$",
+    "D": "$$\\lim_{n→∞} lim\\sum_{A}^{} f_{n}(x)dμ≤\\sum_{A}^{} f(x)dμ$$",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar $A_{1}⊂A$ bo’lsa, u holda $A_{1}$ qism to’plam elementlarining obrazlari to’plami quyidagi javoblardan qaysi birida to’g’ri ko’ratilgan.",
+    "A": "$$f(A_{1})={f(x):x∈A_{1}}$$",
+    "B": "$$f(A_{1})={f(x):x∈A}$$",
+    "C": "$$f(A_{1})={f(x):x∈A\\A_{1}}$$",
+    "D": "$$f(A_{1})={f(x):x∈A_{1}\\A}$$",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar $B_{1}⊂B$ bo’lsa, u holda $B_{1}$ qism to’plam elementlarining proobrazlari to’plami quyidagi javoblardan qaysi birida to’g’ri ko’ratilgan.",
+    "A": "$$f^{-1}(B_{1})={x:f(x)∈B_{1}}$$",
+    "B": "$$f(B_{1})={f(x):x∈B_{1}}$$",
+    "C": "$$f(B_{1})={f(x):x∈B}$$",
+    "D": "$$f(A_{1})={f(x):x∈A_{1}}$$",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar $[a,b]$ kesmada aniqlangan monoton $f$ funksiyaning to’la o’zgarishi nimaga teng?",
+    "A": "$$|f(b)-f(a)|$$",
+    "B": "$$f(b)-f(a)$$",
+    "C": "$$f(a)-f(b)$$",
+    "D": "0",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar $[a,b]$ kesmada aniqlangan va $(a,b)$ da monoton $f$ funksiyaning to’la o’zgarishi nimaga teng?",
+    "A": "$$|f(a+0)-f(a)|+|f(b-0)-f(a+0)|+|f(b)-f(b-0)|$$",
+    "B": "$$f(a+0)-f(a)+|f(b)-f(a+0)|$$",
+    "C": "$$|f(a+0)-f(a)|+f(b)-f(a+0)$$",
+    "D": "$$f(b)-f(a+0)$$",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar $[a,b]$ kesmada aniqlangan va $[a,b)$ da monoton $f$ funksiyaning to’la o’zgarishi nimaga teng?",
+    "A": "$$|f(b-0)-f(a)|+|f(b)-f(b-0)|$$",
+    "B": "$$f(a+0)-f(a)+|f(b)-f(a+0)|$$",
+    "C": "$$|f(a+0)-f(a)|+f(b)-f(a+0)$$",
+    "D": "$$f(b)-f(a+0)$$",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar $ψ_{n}(x)≥0$ bo’lib, $∑_{n=1}^{∞} \\sum_{A}^{} ψ_{n}(x)dμ<+∞$ bo’lsa, u holda $A$ to’plamning deyarli barcha nuqtalarida $∑_{i=1}^{∞} ψ_{n}(x)$ qator yaqinlashuvchi bo’ladi va … tenglik o’rinli.",
+    "A": "$$\\sum_{A}^{} (∑_{n=1}^{∞} ψ_{n}(x))dμ=∑_{n=1}^{∞} \\sum_{A}^{} ψ_{n}dμ$$",
+    "B": "$$\\sum_{A}^{} (∑_{n=1}^{∞} ψ_{n}(x))dμ≤∑_{n=1}^{∞} \\sum_{A}^{} ψ_{n}dμ$$",
+    "C": "$$\\sum_{A}^{} (∑_{n=1}^{∞} ψ_{n}(x))dμ≥∑_{n=1}^{∞} \\sum_{A}^{} ψ_{n}dμ$$",
+    "D": "$$\\sum_{A}^{} (∑_{n=1}^{∞} ψ_{n}(x))dμ>∑_{n=1}^{∞} \\sum_{A}^{} ψ_{n}dμ$$",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar har qanday musbat $σ$ son uchun $m{{x∈E:|f_{n}(x)-f(x)|≥σ}}→0,   n→∞$ musbat o’rinli bo’lsa, u holda ${f_{n}(x)}$ ketma-ketlik $f$ funksiyaga … bo’yicha yaqinlashadi deyiladi.",
+    "A": "o’lchov",
+    "B": "deyarli",
+    "C": "nuqtali",
+    "D": "to’g’ri javob berilmagan",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar ixtiyoriy $ε>0$ son uchun shunday $n_{0}=n_{0}(ε)$ nomer topilib, barcha $n>n_{0}$ va barcha $x∈E$ uchun $|f_{n}(x)-f(x)|<ε$ tengsizlik bajarilsa, u holda $E$ to’plamda aniqlangan ${f_{n}(x)}_{n}$  funksiyalar ketma-ketligi shuto‘plamda $f(x)$ funksiyaga …. yaqinlashuvchi deyiladi.",
+    "A": "tekis",
+    "B": "deyarli",
+    "C": "nuqtali",
+    "D": "o’lchov bo’yicha",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar nomanfiy o’lchovli ${f_{n}}$ funksiyalar ketma-ketligi $A$ to’plamning deyarli barcha nuqtalarida $f$ funksiyaga yaqinlashsa va $\\sum_{A}^{} f_{n}(x)dμ≤K$ bo’lsa, u holda $f$ funksiya $A$ to’plamda integrallanuvchi va … tengsizlik o’rinli.",
+    "A": "$$\\sum_{A}^{} f(x)dμ≤K$$",
+    "B": "$$\\sum_{A}^{} f(x)dμ≥K$$",
+    "C": "$$\\sum_{A}^{} f(x)dμ=K$$",
+    "D": "$$\\sum_{A}^{} f(x)dμ>K$$",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar o’lchovli $E$ to’plamda $f_{n}(x)$ o’lchovli funksiyalar ketma-ketligi $f(x)$ funksiyaga deyarli yaqinlashsa, u holda $f(x)$ funksiya $E$ to’plamda … bo’ladi.",
+    "A": "o’lchovli",
+    "B": "o’lchovsiz",
+    "C": "teng",
+    "D": "to’g’ri javob berilmagan",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar o’lchovli $E$ to’plamda berilgan $f$ funksiya uchun $E{f>a}≔{x∈E:f(x)>a}$ to’plam har bir $a∈R$ uchun o’lchovli bo’lsa, u holda $f$ funksiya … funksiya deyiladi.",
+    "A": "o’lchovli",
+    "B": "o’lchovsiz",
+    "C": "uzluksiz",
+    "D": "to’g’ri javob berilmagan",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar $A$ to’plamning har bir $a$ elementiga biror $f$ qoida bo’yicha $B$ to’plamning aniq bitta $b$ elementi mos qo’yilgan bo’lsa, u holda $A$ to’plam $B$ to’plamga …. deyiladi.",
+    "A": "akslantiradi",
+    "B": "ustiga mos qo’yadi",
+    "C": "ichiga mos qo’yadi",
+    "D": "to’g’ri javob berilmagan",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar $A$ va $B$ to’plamlarning birini ikkinchisiga biyektiv akslantirish mumkin bo’lsa, ular …. to'plamlar deyiladi.",
+    "A": "teng quvvatli",
+    "B": "bir xil",
+    "C": "inyektiv",
+    "D": "teng",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar $A,B∈E$ va $B⊂A$ bo’lsa, u holda … bo’ladi.",
+    "A": "$$m(B)≤m(A)$$",
+    "B": "$$m(A)≤m(B)$$",
+    "C": "$$m(B)=m(A)$$",
+    "D": "$$m(B)<m(A)$$",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar $A⊆⋃_{i=1}^{n} A_{i}$ yoki $A⊆⋃_{i=1}^{∞} A_{i}$ bo’lsa, u holda … bo’ladi.",
+    "A": "$$m(A)≤∑_{i}^{} m(A_{i})$$",
+    "B": "$$m(A)≥∑_{i}^{} m(A_{i})$$",
+    "C": "$$m(A)=∑_{i}^{} m(A_{i})$$",
+    "D": "$$m(A)<∑_{i}^{} m(A_{i})$$",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar $E$ to’plamda aniqlangan haqiqiy qiymatli $f$ funksiya o’lchovli bo’lib, uning qiymatlar to’plami chekli yoki sanoqli bo’lsa, u holda bu funksiya … funksiya deyiladi.",
+    "A": "sodda",
+    "B": "O’lchovli",
+    "C": "chegaralanmagan",
+    "D": "to’g’ri javob berilmagan",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar $E$ to’plamda o’lchovli va chegaralangan $f$ funksiya uchun $m≤f(x)≤M$ tengsizlik bajarilsa, u holda …. tengsizlik o’rinli.",
+    "A": "$$mμ(E)≤\\sum_{E}^{} f(x)dμ≤Mμ(E)$$",
+    "B": "$$mμ(E)>\\sum_{E}^{} f(x)dμ>Mμ(E)$$",
+    "C": "$$mμ(E)≥\\sum_{E}^{} f(x)dμ≥Mμ(E)$$",
+    "D": "to’g’ri javob berilmagan",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar $E$ to’plamda o’lchovli va nomanfiy $f$ funksiya uchun $0≤f(x)$ tengsizlik bajarilsa, u holda …. tengsizlik o’rinli.",
+    "A": "$$\\sum_{E}^{} f(x)dμ≥0$$",
+    "B": "$$\\sum_{E}^{} f(x)dμ<0$$",
+    "C": "$$\\sum_{E}^{} f(x)dμ=0$$",
+    "D": "$$\\sum_{E}^{} f(x)dμ≤0$$",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar $E$ to’plamda $f$ va $g$ o’lchovli funksiyalar uchun $g(x)≤f(x)$ tengsizlik bajarilsa, u holda …. tengsizlik o’rinli.",
+    "A": "$$\\sum_{E}^{} f(x)dμ≥\\sum_{E}^{} g(x)dμ$$",
+    "B": "$$\\sum_{E}^{} f(x)dμ≤\\sum_{E}^{} g(x)dμ$$",
+    "C": "$$\\sum_{E}^{} f(x)dμ=\\sum_{E}^{} g(x)dμ$$",
+    "D": "$$\\sum_{E}^{} f(x)dμ<\\sum_{E}^{} g(x)dμ$$",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar $f:A→B$ akslantirish ham inyektiv, ham syur’yektiv akslantirish bo’lsa, u holda $f$ … akslantirish deyiladi.",
+    "A": "biyektiv",
+    "B": "inyektiv",
+    "C": "ustiga",
+    "D": "ichiga",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar $f:A→B$ akslantirish uchun $f(x_{1})=f(x_{2})$ dan $x_{1}=x_{2}$ bo’lishi kelib chiqsa, u holda $f$ …. akslantirish deyiladi.",
+    "A": "inyektiv",
+    "B": "syur’yektiv",
+    "C": "biyektiv",
+    "D": "to’g’ri javob berilmagan",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar $m{{x:f_{n}(x)≠f(x)}}=0$ bo’lsa, u holda ${f_{n}(x)}_{n}$ ketma-ketlik $f$ ga …. yaqinlashadi deyiladi.",
+    "A": "deyarli",
+    "B": "tekis",
+    "C": "nuqtali",
+    "D": "o’lchov bo’yicha",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar $m{{x∈E:f(x)≠g(x)}}=0$ bo’lsa, u holda $f(x)$ va $g(x)$ funksiyalar $E$ to’plamda … deyiladi.",
+    "A": "ekvivalent",
+    "B": "teng",
+    "C": "teng emas",
+    "D": "to’g’ri javob berilmagan",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar $μ(E)=0$ bo’lsa, u holda $\\sum_{E}^{} f(x)dμ=?$",
+    "A": "0",
+    "B": "1",
+    "C": "-1",
+    "D": "2",
+    "javob": "A"
+  },
+  {
+    "savol": "Ayniy akslantirishni ko’rsating.",
+    "A": "$$I:A→A$$",
+    "B": "$$I:A→B$$",
+    "C": "$$I:B→A$$",
+    "D": "$$I:A→I$$",
+    "javob": "A"
+  },
+  {
+    "savol": "Barcha natural sonlarni barcha butun sonlarga akslantiruvchi moslik qaysi qatorda to’g’ri berilgan.",
+    "A": "$$f:n→(-1)^{n}[\\frac{n}{2}]$$",
+    "B": "$$f:n→(-1)^{n}[n]$$",
+    "C": "$$f:n→[\\frac{n}{2}]$$",
+    "D": "$$f:n→[n]$$",
+    "javob": "A"
+  },
+  {
+    "savol": "Barcha natural sonlarni barcha juft natural sonlarga akslantiruvchi moslik qaysi qatorda to’g’ri berilgan.",
+    "A": "$$f:n→2n$$",
+    "B": "$$f:n→3n$$",
+    "C": "$$f:2n→n$$",
+    "D": "$$f:n→\\frac{n}{2}$$",
+    "javob": "A"
+  },
+  {
+    "savol": "Bo’sh  $∅$ to’plamning o’lchovini ko’rsating.",
+    "A": "0",
+    "B": "1",
+    "C": "-1",
+    "D": "2",
+    "javob": "A"
+  },
+  {
+    "savol": "Faraz qilaylik, $A$ to’plamda Lebeg ma’nosida integrallanuvchi ${f_{n}}$ funksiyalar ketma-ketligi berilgan va $f_{1}(x)≤…≤f_{n}(x)≤…$ bo’lsin. Undan tashqari, barcha $n∈N$ lar uchun $\\sum_{A}^{} f_{n}(x)dμ≤K$ tengsizlik bajarilsin. U holda $A$ to’plamning deyarli nuqtalarida $\\lim_{n→∞} limf_{n}(x)=f(x)$ chekli limit mavjud, $f$ funksiya $A$ da Lebeg ma’nosida integrallanuvchi va … tenglik o’rinli.",
+    "A": "$$\\lim_{n→∞} lim\\sum_{A}^{} f_{n}(x)dμ=\\sum_{A}^{} f(x)dμ$$",
+    "B": "$$(\\sum_{A}^{} f_{n}(x)dμ)^{}=\\sum_{A}^{} f(x)dμ$$",
+    "C": "$$\\lim_{n→∞} lim\\sum_{A}^{} f_{n}(x)dμ>\\sum_{A}^{} f(x)dμ$$",
+    "D": "$$\\lim_{n→∞} lim\\sum_{A}^{} f_{n}(x)dμ≤\\sum_{A}^{} f(x)dμ$$",
+    "javob": "A"
+  },
+  {
+    "savol": "Faraz qilaylik, $A$ to’plamda Lebeg ma’nosida integrallanuvchi ${f_{n}}$ funksiyalar ketma-ketligi berilgan va $f_{1}(x)≥…≥f_{n}(x)≥…$ bo’lsin. Undan tashqari, barcha $n∈N$ lar uchun $\\sum_{A}^{} f_{n}(x)dμ≥L$ tengsizlik bajarilsin. U holda $A$ to’plamning deyarli nuqtalarida $\\lim_{n→∞} limf_{n}(x)=f(x)$ chekli limit mavjud, $f$ funksiya $A$ da Lebeg ma’nosida integrallanuvchi va … tenglik o’rinli.",
+    "A": "$$\\lim_{n→∞} lim\\sum_{A}^{} f_{n}(x)dμ=\\sum_{A}^{} f(x)dμ$$",
+    "B": "$$(\\sum_{A}^{} f_{n}(x)dμ)^{}=\\sum_{A}^{} f(x)dμ$$",
+    "C": "$$\\lim_{n→∞} lim\\sum_{A}^{} f_{n}(x)dμ>\\sum_{A}^{} f(x)dμ$$",
+    "D": "$$\\lim_{n→∞} lim\\sum_{A}^{} f_{n}(x)dμ≤\\sum_{A}^{} f(x)dμ$$",
+    "javob": "A"
+  },
+  {
+    "savol": "Koshining $ε$ tengsizligini ko’rsating.",
+    "A": "$$ab≤εa^{2}+\\frac{b^{2}}{4ε},   a,b,ε>0$$",
+    "B": "$$2ab≤εa^{2}+\\frac{b^{2}}{4ε},   a,b,ε>0$$",
+    "C": "$$ab>εa^{2}+\\frac{b^{2}}{4ε},   a,b,ε>0$$",
+    "D": "$$ab≤εa^{2}+\\frac{b^{2}}{4ε},   a,b≤ε$$",
+    "javob": "A"
+  },
+  {
+    "savol": "O’lchovli $E$ to’plamda aniqlangan $f$ funksiya biror o’lchovli $g$ funksiyaga ekvivalent bo’lsa, u holda $f$ funksiya ham … bo’ladi.",
+    "A": "o’lchovli",
+    "B": "o’lchovsiz",
+    "C": "teng",
+    "D": "to’g’ri javob berilmagan",
+    "javob": "A"
+  },
+  {
+    "savol": "Parallelopipedga berilgan to’g’ri ta’rifni ko’rsating.",
+    "A": "$$Π={x∈R^{N}:a_{i}≤x_{i}≤b_{i},i=1,…,n}$$",
+    "B": "$$Π={x∈R^{N}:a_{i}≤x_{i}≤a_{i},i=1,…,n}$$",
+    "C": "$$Π={x∈R^{N}:a_{i}≤x_{i},i=1,…,n}$$",
+    "D": "$$Π={x∈R^{N}:a_{i}=x_{i},i=1,…,n}$$",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi javoblarning qaysi birida Gilbert fazosi keltirilgan?",
+    "A": "$$L^{2}$$",
+    "B": "$$L^{1}$$",
+    "C": "$$L^{3}$$",
+    "D": "$$L^{∞}$$",
+    "javob": "A"
+  },
+  {
+    "savol": "Ushbu $\\sum_{[0,1]}^{} 0,1=?$ Bu yerda $f(x)={\\begin{pmatrix}0,      x∈Q∩[0,1],          & 0,1 \\\\ \\begin{pmatrix}x^{3},    x∈[0,1]\\Q,  x<\\frac{1}{3} & x & 0,1 \\\\ x^{2},    x∈[0,1]\\Q,  x>\\frac{1}{3} & x & 0,1\\end{pmatrix} & x^{3},    x∈[0,1]\\Q,  x<\\frac{1}{3} & x & 0,1 & x^{2},    x∈[0,1]\\Q,  x>\\frac{1}{3} & x & 0,1 \\\\ x^{3},    x∈[0,1]\\Q,  x<\\frac{1}{3} & x & 0,1 \\\\ x^{2},    x∈[0,1]\\Q,  x>\\frac{1}{3} & x & 0,1\\end{pmatrix})$",
+    "A": "$$\\frac{35}{108}$$",
+    "B": "$$\\frac{33}{107}$$",
+    "C": "$$1$$",
+    "D": "$$0$$",
+    "javob": "A"
+  },
+  {
+    "savol": "Ushbu $\\sum_{[0,1]}^{} 0,1=?$ Bu yerda $f(x)={\\begin{pmatrix}1,  x∈Q∩[0,1], & 0,1 \\\\ x^{3},    x∈[0,1]\\Q & x & 0,1\\end{pmatrix})$",
+    "A": "$$\\frac{1}{4}$$",
+    "B": "$$\\frac{1}{2}$$",
+    "C": "$$1$$",
+    "D": "$$0$$",
+    "javob": "A"
+  },
+  {
+    "savol": "Ushbu $\\sum_{[0,1]}^{} 0,1=?$ Bu yerda $f(x)={\\begin{pmatrix}1,  x∈Q∩[0,1], & 0,1 \\\\ 0,    x∈[0,1]\\Q & 0,1\\end{pmatrix})$",
+    "A": "0",
+    "B": "1",
+    "C": "1.5",
+    "D": "2",
+    "javob": "A"
+  },
+  {
+    "savol": "Ushbu $\\sum_{[0,1]}^{} 0,1=?$ Bu yerda $f(x)={\\begin{pmatrix}2,      x∈[0,\\frac{1}{2}) ,           & 0,\\frac{1}{2} \\\\ 2,      x∈[\\frac{1}{2}, 1),           & \\frac{1}{2}, 1\\end{pmatrix})$",
+    "A": "2",
+    "B": "1",
+    "C": "0",
+    "D": "4",
+    "javob": "A"
+  },
+  {
+    "savol": "Ushbu $\\sum_{[0,3]}^{} 0,3=?$ Bu yerda $f(x)={\\begin{pmatrix}1,      x∈[0,1),          & 0,1 \\\\ \\begin{pmatrix}2,    x∈[1,2) & 1,2 \\\\ 4,    x∈[2,3) & 2,3\\end{pmatrix}          & 2,    x∈[1,2) & 1,2 & 4,    x∈[2,3) & 2,3 \\\\ 2,    x∈[1,2) & 1,2 \\\\ 4,    x∈[2,3) & 2,3\\end{pmatrix})$",
+    "A": "7",
+    "B": "8",
+    "C": "1",
+    "D": "3",
+    "javob": "A"
+  },
+  {
+    "savol": "Ushbu $\\sum_{[0,3]}^{} 0,3=?$ Bu yerda $f(x)={\\begin{pmatrix}3,      x∈[0,1),          & 0,1 \\\\ \\begin{pmatrix}2,    x∈[1,2) & 1,2 \\\\ 4,    x∈[2,3) & 2,3\\end{pmatrix}          & 2,    x∈[1,2) & 1,2 & 4,    x∈[2,3) & 2,3 \\\\ 2,    x∈[1,2) & 1,2 \\\\ 4,    x∈[2,3) & 2,3\\end{pmatrix})$",
+    "A": "9",
+    "B": "7",
+    "C": "8",
+    "D": "1",
+    "javob": "A"
+  },
+  {
+    "savol": "Ushbu $\\sum_{[0,3]}^{} 0,3=?$ Bu yerda $f(x)={\\begin{pmatrix}3,      x∈[0,1]∪[2,3],          & 0,1 \\\\ 0,      x∈(1,2)                        & 1,2\\end{pmatrix})$",
+    "A": "6",
+    "B": "7",
+    "C": "3",
+    "D": "1",
+    "javob": "A"
+  },
+  {
+    "savol": "Ushbu …. yig'indi $f(x)$ funksiyaning integral yig’indisi deb ataladi.",
+    "A": "$$∑_{k=1}^{n-1} f(ξ_{k})Δx_{k}$$",
+    "B": "$$∑_{k=1}^{n+1} f(ξ_{k})x_{k}$$",
+    "C": "$$∑_{k=0}^{n-1} f(ξ_{k})x_{k}$$",
+    "D": "$$∑_{k=1}^{n-1} f(ξ_{k})x_{k}$$",
+    "javob": "A"
+  },
+  {
+    "savol": "Ushbu $f(x)={\\begin{pmatrix}1,      x∈[0,1]{1/2} ,           & 0,1 \\\\ 1000,          x=\\frac{1}{2},                          \\end{pmatrix})$funksiyaning $L^{∞}[0,1]$ dagi normasini ko’rsating.",
+    "A": "1",
+    "B": "0",
+    "C": "$$\\frac{1}{2}$$",
+    "D": "1000",
+    "javob": "A"
+  },
+  {
+    "savol": "Ushbu $f(x)={\\begin{pmatrix}3cosx,      x∈(0,\\frac{π}{2}],                  & 0,\\frac{π}{2} \\\\ 0,          x=0,                          \\end{pmatrix})$uzluksiz funksiyaning  $[0,\\frac{π}{2}]$ dagi variatsiyasini ko’rsating.",
+    "A": "6",
+    "B": "1",
+    "C": "2",
+    "D": "3",
+    "javob": "A"
+  },
+  {
+    "savol": "Ushbu $f(x)={\\begin{pmatrix}x-1,   x∈[0,1),                      & 0,1 \\\\ x^{2}-3,   x∈[1,2],                           & x & 1,2\\end{pmatrix})$ funksiyaning  $[0,2]$ dagi variatsiyasini ko’rsating.",
+    "A": "6",
+    "B": "0",
+    "C": "2",
+    "D": "3",
+    "javob": "A"
+  },
+  {
+    "savol": "Ushbu $f(x)={\\begin{pmatrix}xcos\\frac{π}{2x},      x≠0,                  \\\\ 0,          x=0,                          \\end{pmatrix})$uzluksiz funksiyaning  $[0,1]$ dagi variatsiyasini ko’rsating.",
+    "A": "$$∞$$",
+    "B": "1",
+    "C": "0",
+    "D": "2",
+    "javob": "A"
+  },
+  {
+    "savol": "$A$ to’plamning $b$ elementga akslanuvchi barcha elementlaridan iborat qismi $b$ elementning … deyiladi.",
+    "A": "proobrazi",
+    "B": "obrazi (tasviri)",
+    "C": "aksi",
+    "D": "to’g’ri javob berilmagan",
+    "javob": "A"
+  },
+  {
+    "savol": "$A⊂[0,1]$ – shunday sonlar to’plamiki, undagi cheksiz o’nli kasr yoyilmasida $5$ raqami ishtirok etmaydi. $m(A)=?$",
+    "A": "0",
+    "B": "1",
+    "C": "$$\\frac{1}{2}$$",
+    "D": "$$0.1$$",
+    "javob": "A"
+  },
+  {
+    "savol": "$A⊂[0,1]$ – shunday sonlar to’plamiki, undagi cheksiz o’nli kasr yoyilmasida $6$ raqami ishtirok etmaydi. $m(A)=?$",
+    "A": "0",
+    "B": "1",
+    "C": "$$\\frac{1}{3}$$",
+    "D": "$$0.1$$",
+    "javob": "A"
+  },
+  {
+    "savol": "$A⊂[0,1]$ – shunday sonlar to’plamiki, undagi cheksiz o’nli kasr yoyilmasida $3$ raqami ishtirok etmaydi. $m(A)=?$",
+    "A": "0",
+    "B": "1",
+    "C": "$$\\frac{1}{4}$$",
+    "D": "$$0.1$$",
+    "javob": "A"
+  },
+  {
+    "savol": "$A⊂[0,1]$ – shunday sonlar to’plamiki, undagi cheksiz o’nli kasr yoyilmasida $1$ raqami ishtirok etmaydi. $m(A)=?$",
+    "A": "0",
+    "B": "1",
+    "C": "$$\\frac{1}{7}$$",
+    "D": "$$0.1$$",
+    "javob": "A"
+  },
+  {
+    "savol": "$A⊂[0,1]$ – shunday sonlar to’plamiki, undagi cheksiz o’nli kasr yoyilmasida 4 raqami ishtirok etmaydi. $m(A)=?$",
+    "A": "0",
+    "B": "1",
+    "C": "$$\\frac{1}{2}$$",
+    "D": "$$0.3$$",
+    "javob": "A"
+  },
+  {
+    "savol": "$A⊂[0,1]$ – shunday sonlar to’plamiki, undagi cheksiz o’nli kasr yoyilmasida $7$ raqami ishtirok etmaydi. $m(A)=?$",
+    "A": "0",
+    "B": "1",
+    "C": "$$\\frac{1}{2}$$",
+    "D": "$$0.4$$",
+    "javob": "A"
+  },
+  {
+    "savol": "$A⊂[0,1]$ – shunday sonlar to’plamiki, undagi cheksiz o’nli kasr yoyilmasida $8$ raqami ishtirok etmaydi. $m(A)=?$",
+    "A": "0",
+    "B": "1",
+    "C": "$$\\frac{1}{2}$$",
+    "D": "$$0.7$$",
+    "javob": "A"
+  },
+  {
+    "savol": "$A⊂[0,1]$ – shunday sonlar to’plamiki, undagi cheksiz o’nli kasr yoyilmasida $9$ raqami ishtirok etmaydi. $m(A)=?$",
+    "A": "0",
+    "B": "1",
+    "C": "$$\\frac{1}{2}$$",
+    "D": "$$0.8$$",
+    "javob": "A"
+  },
+  {
+    "savol": "$A⊂[0,1]$ – shunday sonlar to’plamiki, undagi cheksiz o’nli kasr yoyilmasida 1  raqami qatnashadigan sonlar to’plamini belgilaymiz . $m(A)=?$",
+    "A": "1",
+    "B": "0",
+    "C": "$$\\frac{1}{2}$$",
+    "D": "$$0.1$$",
+    "javob": "A"
+  },
+  {
+    "savol": "$A⊂[0,1]$ – shunday sonlar to’plamiki, undagi cheksiz o’nli kasr yoyilmasida $2$  raqami qatnashadigan sonlar to’plamini belgilaymiz . $m(A)=?$",
+    "A": "1",
+    "B": "0",
+    "C": "$$\\frac{1}{2}$$",
+    "D": "$$0.1$$",
+    "javob": "A"
+  },
+  {
+    "savol": "$A⊂[0,1]$ – shunday sonlar to’plamiki, undagi cheksiz o’nli kasr yoyilmasida $3$  raqami qatnashadigan sonlar to’plamini belgilaymiz . $m(A)=?$",
+    "A": "1",
+    "B": "0",
+    "C": "$$\\frac{1}{2}$$",
+    "D": "$$0.1$$",
+    "javob": "A"
+  },
+  {
+    "savol": "$A⊂[0,1]$ – shunday sonlar to’plamiki, undagi cheksiz o’nli kasr yoyilmasida $4$  raqami qatnashadigan sonlar to’plamini belgilaymiz . $m(A)=?$",
+    "A": "1",
+    "B": "0",
+    "C": "$$\\frac{1}{2}$$",
+    "D": "$$0.1$$",
+    "javob": "A"
+  },
+  {
+    "savol": "$A⊂[0,1]$ – shunday sonlar to’plamiki, undagi cheksiz o’nli kasr yoyilmasida $5$  raqami qatnashadigan sonlar to’plamini belgilaymiz . $m(A)=?$",
+    "A": "1",
+    "B": "0",
+    "C": "$$\\frac{1}{2}$$",
+    "D": "$$0.1$$",
+    "javob": "A"
+  },
+  {
+    "savol": "$A⊂[0,1]$ – shunday sonlar to’plamiki, undagi cheksiz o’nli kasr yoyilmasida 6  raqami qatnashadigan sonlar to’plamini belgilaymiz . $m(A)=?$",
+    "A": "1",
+    "B": "0",
+    "C": "$$\\frac{1}{2}$$",
+    "D": "$$0.1$$",
+    "javob": "A"
+  },
+  {
+    "savol": "$A⊂[0,1]$ – shunday sonlar to’plamiki, undagi cheksiz o’nli kasr yoyilmasida $7$  raqami qatnashadigan sonlar to’plamini belgilaymiz . $m(A)=?$",
+    "A": "1",
+    "B": "0",
+    "C": "$$\\frac{1}{2}$$",
+    "D": "$$0.1$$",
+    "javob": "A"
+  },
+  {
+    "savol": "$A⊂[0,1]$ – shunday sonlar to’plamiki, undagi cheksiz o’nli kasr yoyilmasida $8$  raqami qatnashadigan sonlar to’plamini belgilaymiz . $m(A)=?$",
+    "A": "1",
+    "B": "0",
+    "C": "$$\\frac{1}{2}$$",
+    "D": "$$0.1$$",
+    "javob": "A"
+  },
+  {
+    "savol": "$A⊂[0,1]$ – shunday sonlar to’plamiki, undagi cheksiz o’nli kasr yoyilmasida 1 dan $9$ gacha raqamlarning barchasi qatnashadi $m(A)=?$",
+    "A": "$$\\frac{1}{2}$$",
+    "B": "1",
+    "C": "0",
+    "D": "$$0.1$$",
+    "javob": "A"
+  },
+  {
+    "savol": "$A⊂[0,1]$ – shunday sonlar to’plamiki, undagi cheksiz o’nli kasr yoyilmasida $2$  raqami $3$ raqamidan oldin uchraydi. $m(A)=?$",
+    "A": "$$\\frac{1}{2}$$",
+    "B": "1",
+    "C": "0",
+    "D": "$$0.1$$",
+    "javob": "A"
+  },
+  {
+    "savol": "$A⊂[0,1]$ – shunday sonlar to’plamiki, undagi cheksiz o’nli kasr yoyilmasida $3$  raqami $4$ raqamidan oldin uchraydi. $m(A)=?$",
+    "A": "$$\\frac{1}{2}$$",
+    "B": "1",
+    "C": "$$0$$",
+    "D": "$$0.1$$",
+    "javob": "A"
+  },
+  {
+    "savol": "$A⊂[0,1]$ – shunday sonlar to’plamiki, undagi cheksiz o’nli kasr yoyilmasida $4$  raqami $5$ raqamidan oldin uchraydi. $m(A)=?$",
+    "A": "$$\\frac{1}{2}$$",
+    "B": "1",
+    "C": "$$0$$",
+    "D": "$$0.1$$",
+    "javob": "A"
+  },
+  {
+    "savol": "$A⊂[0,1]$ – shunday sonlar to’plamiki, undagi cheksiz o’nli kasr yoyilmasida $5$  raqami 6 raqamidan oldin uchraydi. $m(A)=?$",
+    "A": "$$\\frac{1}{2}$$",
+    "B": "1",
+    "C": "$$0$$",
+    "D": "$$0.1$$",
+    "javob": "A"
+  },
+  {
+    "savol": "$A⊂[0,1]$ – shunday sonlar to’plamiki, undagi cheksiz o’nli kasr yoyilmasida $6$  raqami $7$ raqamidan oldin uchraydi. $m(A)=?$",
+    "A": "$$\\frac{1}{2}$$",
+    "B": "1",
+    "C": "$$2$$",
+    "D": "$$0.1$$",
+    "javob": "A"
+  },
+  {
+    "savol": "$A⊂[0,1]$ – shunday sonlar to’plamiki, undagi cheksiz o’nli kasr yoyilmasida $7$  raqami $8$ raqamidan oldin uchraydi. $m(A)=?$",
+    "A": "$$\\frac{1}{2}$$",
+    "B": "1",
+    "C": "$$\\frac{1}{3}$$",
+    "D": "$$0.1$$",
+    "javob": "A"
+  },
+  {
+    "savol": "$A⊂[0,1]$ – shunday sonlar to’plamiki, undagi cheksiz o’nli kasr yoyilmasida $8$  raqami $9$ raqamidan oldin uchraydi. $m(A)=?$",
+    "A": "$$\\frac{1}{2}$$",
+    "B": "1",
+    "C": "$$\\frac{1}{4}$$",
+    "D": "$$0.1$$",
+    "javob": "A"
+  },
+  {
+    "savol": "$A⊂[0,1]$ – shunday sonlar to’plamiki, undagi cheksiz o’nli kasr yoyilmasida 1 dan $9$ gacha raqamlarning barchasi qatnashadi . $m(A)=?$",
+    "A": "$$\\frac{1}{2}$$",
+    "B": "1",
+    "C": "0",
+    "D": "$$0.1$$",
+    "javob": "A"
+  },
+  {
+    "savol": "$D(f)=[a,b]$ va $a=x_{0}<….<x_{n-1}<x_{n}=b$ nuqtalar yordamida ixtiyoriy $n$ qismga bo’lganimizda $x_{i} (i=1,…,n)$ nuqtalarning tanlab olinishiga bog’liq bo’lmagan holda, ushbu $∑_{k=1}^{n} |f(x_{k})-f(x_{k-1})|<C$ tengsizlikni qanoatlantiruvchi o’zgarmas $C$ son mavjud bo’lsa, u holda $f$ funksiya $[a,b]$ da …. funksiya deyiladi.",
+    "A": "o'zgarishi chegaralangan",
+    "B": "uzluksiz",
+    "C": "o’lchovli",
+    "D": "o’lchovsiz",
+    "javob": "A"
+  },
+  {
+    "savol": "$E$ o’lchovli to’plam va $m(E)>0$ bo’lsin. Agar biror xossa o’chovi nolga teng $A⊂E$ to’plamda bajarilmay, $E\\A$ da bajarilsa, u holda bu xossa $E$ to’plamda …. bajariladi deyiladi",
+    "A": "deyarli",
+    "B": "har doim",
+    "C": "hech qachon",
+    "D": "to’g’ri javob berilmagan",
+    "javob": "A"
+  },
+  {
+    "savol": "$X$ ixtiyoriy to’plam, uning qism to’plamlaridan tuzilgan biror $E$ to’plamlar algebrasi berilgan bo’lsin. Aytaylik $E$ da aniqlangan $m(A)$ to’plam funksiyasi: 1) har bir $A∈E$ uchun $m(A)≥0;$ 2) $m(A)-$sanoqli additive shartlarni qanoatlantirsin. U holda $m$ funksiyasi $X$ da … deyiladi.",
+    "A": "chekli o’lchov",
+    "B": "akslantirish",
+    "C": "inyektiv",
+    "D": "to’g’ri javob berilmagan",
+    "javob": "A"
+  },
+  {
+    "savol": "$b$ element $a$ elementning $f$ akslantirishdagi obrazi …  kabi belgilanadi.",
+    "A": "$$f(a)$$",
+    "B": "$$f(b)$$",
+    "C": "$$f^{-1}(a)$$",
+    "D": "$$f(ab)$$",
+    "javob": "A"
+  },
+  {
+    "savol": "$f(x)=x$ funksiyaning $[a,b]$ kesmadagi integral yig’indisini ko’rsating.",
+    "A": "$$∑_{k=1}^{n-1} ξ_{k}Δx_{k}$$",
+    "B": "$$∑_{k=1}^{n-1} ξ_{k}x_{k}$$",
+    "C": "$$∑_{k=0}^{n-1} ξ_{k}Δx_{k}$$",
+    "D": "$$∑_{k=1}^{n-1} Δx_{k}$$",
+    "javob": "A"
+  },
+  {
+    "savol": "$$m((a,b))=?$$",
+    "A": "$$b-a$$",
+    "B": "$$b+a$$",
+    "C": "$$-b+a$$",
+    "D": "$$-b-a$$",
+    "javob": "A"
+  },
+  {
+    "savol": "$$m((a,b])=?$$",
+    "A": "$$b-a$$",
+    "B": "$$b+a$$",
+    "C": "$$-b+a$$",
+    "D": "$$-b-a$$",
+    "javob": "A"
+  },
+  {
+    "savol": "$$m((\\frac{a+1}{3},1] ]=?$$",
+    "A": "$$\\frac{2-a}{3}$$",
+    "B": "$$\\frac{2+a}{3}$$",
+    "C": "$$\\frac{4+a}{3}$$",
+    "D": "$$\\frac{a-2}{3}$$",
+    "javob": "A"
+  },
+  {
+    "savol": "$$m((a,b] ]=?$$",
+    "A": "$$b-a$$",
+    "B": "$$b+a$$",
+    "C": "$$-b+a$$",
+    "D": "$$-b-a$$",
+    "javob": "A"
+  },
+  {
+    "savol": "$$m[[a,b]]=?$$",
+    "A": "$$b-a$$",
+    "B": "$$b+a$$",
+    "C": "$$-b+a$$",
+    "D": "$$-b-a$$",
+    "javob": "A"
+  },
+  {
+    "savol": "$$lim⁡_{n→∞}\\sum_{[0]}^{} 0dμ$$",
+    "A": "0",
+    "B": "1",
+    "C": "1/2",
+    "D": "1/4",
+    "javob": "A"
+  },
+  {
+    "savol": "$$lim⁡_{n→∞}\\sum_{[0]}^{} 0\\frac{1}{n})dμ$$",
+    "A": "1",
+    "B": "0",
+    "C": "1/2",
+    "D": "1/4",
+    "javob": "A"
+  },
+  {
+    "savol": "$$lim⁡_{n→∞}\\sum_{[0]}^{} 0dμ$$",
+    "A": "0",
+    "B": "1",
+    "C": "1/2",
+    "D": "1/4",
+    "javob": "A"
+  },
+  {
+    "savol": "$$lim⁡_{n→∞}\\sum_{[0]}^{} 0x^{n})dμ$$",
+    "A": "1",
+    "B": "0",
+    "C": "1/2",
+    "D": "1/4",
+    "javob": "A"
+  },
+  {
+    "savol": "$$lim⁡_{n→∞}\\sum_{[0]}^{} 0dμ$$",
+    "A": "0",
+    "B": "1",
+    "C": "1/2",
+    "D": "1/4",
+    "javob": "A"
+  },
+  {
+    "savol": "$$lim⁡_{n→∞}\\sum_{[0]}^{} 0(1-\\frac{1}{n})dμ$$",
+    "A": "1/3",
+    "B": "0",
+    "C": "1/2",
+    "D": "1",
+    "javob": "A"
+  },
+  {
+    "savol": "$$lim⁡_{n→∞}\\sum_{[0]}^{} 0dμ$$",
+    "A": "0",
+    "B": "1",
+    "C": "1/2",
+    "D": "∞",
+    "javob": "A"
+  },
+  {
+    "savol": "$$lim⁡_{n→∞}\\sum_{[0]}^{} 0dμ$$",
+    "A": "0",
+    "B": "1",
+    "C": "π",
+    "D": "2π",
+    "javob": "A"
+  },
+  {
+    "savol": "$$lim⁡_{n→∞}\\sum_{[0,∞)}^{} xe^{-nx}dμ$$",
+    "A": "0",
+    "B": "1",
+    "C": "1/2",
+    "D": "2",
+    "javob": "A"
+  },
+  {
+    "savol": "$$lim⁡_{n→∞}\\sum_{[0,∞)}^{} x^{2}e^{-nx}dμ$$",
+    "A": "0",
+    "B": "1",
+    "C": "2",
+    "D": "1/3",
+    "javob": "A"
+  },
+  {
+    "savol": "$$lim⁡_{n→∞}\\sum_{R}^{} (1-\\frac{1}{n})\\frac{1}{1+x^{2}}dμ$$",
+    "A": "π",
+    "B": "0",
+    "C": "1",
+    "D": "2π",
+    "javob": "A"
+  },
+  {
+    "savol": "$$\\sum_{[0]}^{} 0$$",
+    "A": "1/2",
+    "B": "1",
+    "C": "0",
+    "D": "1/3",
+    "javob": "A"
+  },
+  {
+    "savol": "$$\\sum_{[0]}^{} 0dμ$$",
+    "A": "1/3",
+    "B": "1/2",
+    "C": "1",
+    "D": "0",
+    "javob": "A"
+  },
+  {
+    "savol": "$$\\sum_{[0]}^{} 0$$",
+    "A": "1/2",
+    "B": "1",
+    "C": "0",
+    "D": "1/3",
+    "javob": "A"
+  },
+  {
+    "savol": "$$lim⁡_{n→∞}\\sum_{[0]}^{} 0dμ$$",
+    "A": "0",
+    "B": "1",
+    "C": "1/2",
+    "D": "∞",
+    "javob": "A"
+  },
+  {
+    "savol": "$$lim⁡_{n→∞}\\sum_{[0]}^{} 0\\frac{x}{n})dμ$$",
+    "A": "0",
+    "B": "1",
+    "C": "ln2",
+    "D": "1/2",
+    "javob": "A"
+  },
+  {
+    "savol": "$$\\sum_{[0,∞)}^{} e^{-[x]}dμ$$",
+    "A": "$$\\frac{1}{1-e^{-1}}$$",
+    "B": "$$\\frac{1}{1-e^{-2}}$$",
+    "C": "$$\\frac{1}{1-e}$$",
+    "D": "e",
+    "javob": "A"
+  },
+  {
+    "savol": "$$\\sum_{[0,∞)}^{} e^{-[2x]}dμ$$",
+    "A": "$$\\frac{1}{1-e^{-2}}$$",
+    "B": "$$\\frac{1}{1-e}$$",
+    "C": "1",
+    "D": "2",
+    "javob": "A"
+  },
+  {
+    "savol": "$$lim⁡_{n→∞}\\sum_{[0]}^{} 0dμ$$",
+    "A": "0",
+    "B": "1",
+    "C": "1/2",
+    "D": "1/4",
+    "javob": "A"
+  },
+  {
+    "savol": "$$lim⁡_{n→∞}\\sum_{[0]}^{} 0\\frac{1}{n})dμ$$",
+    "A": "1/2",
+    "B": "1",
+    "C": "0",
+    "D": "1/3",
+    "javob": "A"
+  },
+  {
+    "savol": "$$lim⁡_{n→∞}\\sum_{[0]}^{} 0e^{-nx}dμ$$",
+    "A": "0",
+    "B": "1",
+    "C": "1/2",
+    "D": "1/4",
+    "javob": "A"
+  },
+  {
+    "savol": "$$\\sum_{[0]}^{} 0$$",
+    "A": "1",
+    "B": "0",
+    "C": "1/2",
+    "D": "2",
+    "javob": "A"
+  },
+  {
+    "savol": "$$lim⁡_{n→∞}\\sum_{[0]}^{} 0\\frac{1}{n})dμ$$",
+    "A": "1/2",
+    "B": "1",
+    "C": "0",
+    "D": "1/3",
+    "javob": "A"
+  },
+  {
+    "savol": "$$lim⁡_{n→∞}\\sum_{[0]}^{} 0\\frac{x}{n})dμ$$",
+    "A": "0",
+    "B": "1",
+    "C": "1/2",
+    "D": "π",
+    "javob": "A"
+  },
+  {
+    "savol": "$$lim⁡_{n→∞}\\sum_{[0]}^{} 0\\frac{x}{n})dμ$$",
+    "A": "1",
+    "B": "0",
+    "C": "1/2",
+    "D": "π",
+    "javob": "A"
+  },
+  {
+    "savol": "$$lim⁡_{n→∞}\\sum_{[0]}^{} 0dμ$$",
+    "A": "0",
+    "B": "1",
+    "C": "π",
+    "D": "2π",
+    "javob": "A"
+  },
+  {
+    "savol": "$$lim⁡_{n→∞}\\sum_{[0,∞)}^{} e^{-n^{2}x}dμ$$",
+    "A": "0",
+    "B": "1",
+    "C": "1/2",
+    "D": "∞",
+    "javob": "A"
+  },
+  {
+    "savol": "$$\\sum_{[0]}^{} 0dμ$$",
+    "A": "1/4",
+    "B": "1/3",
+    "C": "1/2",
+    "D": "0",
+    "javob": "A"
+  },
+  {
+    "savol": "$$\\sum_{[0]}^{} 0$$",
+    "A": "1",
+    "B": "1/2",
+    "C": "0",
+    "D": "2",
+    "javob": "A"
+  },
+  {
+    "savol": "$$lim⁡_{n→∞}\\sum_{[0]}^{} 0(1-x)dμ$$",
+    "A": "0",
+    "B": "1",
+    "C": "1/2",
+    "D": "1/4",
+    "javob": "A"
+  },
+  {
+    "savol": "$$lim⁡_{n→∞}\\sum_{[0]}^{} 0dμ$$",
+    "A": "0",
+    "B": "1",
+    "C": "1/2",
+    "D": "1/4",
+    "javob": "A"
+  },
+  {
+    "savol": "$$\\sum_{[0]}^{} 0x^{2})dμ$$",
+    "A": "5/6",
+    "B": "1/2",
+    "C": "1",
+    "D": "1/3",
+    "javob": "A"
+  },
+  {
+    "savol": "$$lim⁡_{n→∞}\\sum_{[0]}^{} 0dμ$$",
+    "A": "1",
+    "B": "0",
+    "C": "1/2",
+    "D": "e",
+    "javob": "A"
+  },
+  {
+    "savol": "$$lim⁡_{n→∞}\\sum_{[0]}^{} 0e^{-nx})dμ$$",
+    "A": "1",
+    "B": "0",
+    "C": "1/2",
+    "D": "1/4",
+    "javob": "A"
+  },
+  {
+    "savol": "$$lim⁡_{n→∞}\\sum_{[0,∞)}^{} ne^{-nx}dμ$$",
+    "A": "1",
+    "B": "0",
+    "C": "∞",
+    "D": "1/2",
+    "javob": "A"
+  },
+  {
+    "savol": "$$\\sum_{[0]}^{} 0)^{2}dμ$$",
+    "A": "1/3",
+    "B": "1/2",
+    "C": "1",
+    "D": "0",
+    "javob": "A"
+  },
+  {
+    "savol": "$$lim⁡_{n→∞}\\sum_{[0]}^{} 0dμ$$",
+    "A": "0",
+    "B": "1",
+    "C": "1/2",
+    "D": "1/4",
+    "javob": "A"
+  },
+  {
+    "savol": "$$\\sum_{[0]}^{} 0x^{2}dμ$$",
+    "A": "1",
+    "B": "1/2",
+    "C": "1/3",
+    "D": "0",
+    "javob": "A"
+  },
+  {
+    "savol": "$$\\sum_{[0]}^{} 0dμ$$",
+    "A": "2/3",
+    "B": "1/2",
+    "C": "1",
+    "D": "1/3",
+    "javob": "A"
+  },
+  {
+    "savol": "$$lim⁡_{n→∞}\\sum_{[0]}^{} 0\\frac{1}{n})dμ$$",
+    "A": "0",
+    "B": "1",
+    "C": "ln2",
+    "D": "1/2",
+    "javob": "A"
+  },
+  {
+    "savol": "$$\\sum_{[0]}^{} 0$$",
+    "A": "2",
+    "B": "0",
+    "C": "π",
+    "D": "1",
+    "javob": "A"
+  },
+  {
+    "savol": "$$\\sum_{[0]}^{} 0$$",
+    "A": "0",
+    "B": "1",
+    "C": "π",
+    "D": "2",
+    "javob": "A"
+  },
+  {
+    "savol": "$$\\sum_{R}^{} \\frac{1}{1+x^{2}}dμ$$",
+    "A": "π",
+    "B": "1",
+    "C": "0",
+    "D": "2π",
+    "javob": "A"
+  },
+  {
+    "savol": "$$lim⁡_{n→∞}\\sum_{R}^{} \\frac{1}{n^{2}+x^{2}}dμ$$",
+    "A": "0",
+    "B": "π",
+    "C": "1",
+    "D": "2π",
+    "javob": "A"
+  },
+  {
+    "savol": "$$\\sum_{[0]}^{} 0$$",
+    "A": "1",
+    "B": "0",
+    "C": "1/2",
+    "D": "2",
+    "javob": "A"
+  },
+  {
+    "savol": "$$\\sum_{[0]}^{} 0$$",
+    "A": "1/2",
+    "B": "1",
+    "C": "0",
+    "D": "1/3",
+    "javob": "A"
+  },
+  {
+    "savol": "$$\\sum_{[0]}^{} 0 dμ$$",
+    "A": "1/3",
+    "B": "1/2",
+    "C": "1",
+    "D": "0",
+    "javob": "A"
+  },
+  {
+    "savol": "$$\\sum_{[0]}^{} 0$$",
+    "A": "1/2",
+    "B": "1",
+    "C": "0",
+    "D": "1/3",
+    "javob": "A"
+  },
+  {
+    "savol": "$$\\sum_{[0]}^{} 0$$",
+    "A": "1",
+    "B": "1/2",
+    "C": "0",
+    "D": "2",
+    "javob": "A"
+  },
+  {
+    "savol": "$$\\sum_{[0]}^{} 0x^{2} dμ$$",
+    "A": "1",
+    "B": "1/3",
+    "C": "1/2",
+    "D": "0",
+    "javob": "A"
+  },
+  {
+    "savol": "$$\\sum_{[0]}^{} 0 dμ$$",
+    "A": "1/4",
+    "B": "1/3",
+    "C": "1/2",
+    "D": "0",
+    "javob": "A"
+  },
+  {
+    "savol": "$$\\sum_{[0]}^{} 0$$",
+    "A": "3/2",
+    "B": "1",
+    "C": "1/2",
+    "D": "2",
+    "javob": "A"
+  },
+  {
+    "savol": "$$\\sum_{[0]}^{} 0$$",
+    "A": "3/2",
+    "B": "1",
+    "C": "2",
+    "D": "1/2",
+    "javob": "A"
+  },
+  {
+    "savol": "$$\\sum_{[0]}^{} 0x^{2})dμ$$",
+    "A": "5/6",
+    "B": "1/2",
+    "C": "1",
+    "D": "1/3",
+    "javob": "A"
+  },
+  {
+    "savol": "$$lim⁡_{n→∞}\\frac{1}{n}$$",
+    "A": "0",
+    "B": "1",
+    "C": "∞",
+    "D": "1/2",
+    "javob": "A"
+  },
+  {
+    "savol": "$$lim⁡_{n→∞}\\frac{n}{n+1}$$",
+    "A": "1",
+    "B": "0",
+    "C": "∞",
+    "D": "1/2",
+    "javob": "A"
+  },
+  {
+    "savol": "$$lim⁡_{n→∞}\\frac{1}{n^{2}}$$",
+    "A": "0",
+    "B": "1",
+    "C": "∞",
+    "D": "1/2",
+    "javob": "A"
+  },
+  {
+    "savol": "$$lim⁡_{n→∞}(1+\\frac{1}{n})$$",
+    "A": "1",
+    "B": "0",
+    "C": "2",
+    "D": "∞",
+    "javob": "A"
+  },
+  {
+    "savol": "$$lim⁡_{n→∞}\\frac{2n}{n}$$",
+    "A": "2",
+    "B": "1",
+    "C": "0",
+    "D": "∞",
+    "javob": "A"
+  },
+  {
+    "savol": "$$lim⁡_{n→∞}\\frac{n+1}{n}$$",
+    "A": "1",
+    "B": "0",
+    "C": "2",
+    "D": "∞",
+    "javob": "A"
+  },
+  {
+    "savol": "$$lim⁡_{n→∞}\\frac{5}{n}$$",
+    "A": "0",
+    "B": "5",
+    "C": "1",
+    "D": "∞",
+    "javob": "A"
+  },
+  {
+    "savol": "$$lim⁡_{n→∞}(1-\\frac{1}{n})$$",
+    "A": "1",
+    "B": "0",
+    "C": "1/2",
+    "D": "∞",
+    "javob": "A"
+  },
+  {
+    "savol": "$$lim⁡_{n→∞}\\frac{n}{n^{2}}$$",
+    "A": "0",
+    "B": "1",
+    "C": "∞",
+    "D": "1/2",
+    "javob": "A"
+  },
+  {
+    "savol": "$$lim⁡_{n→∞}\\frac{n^{2}}{n^{2}+1}$$",
+    "A": "1",
+    "B": "0",
+    "C": "∞",
+    "D": "1/2",
+    "javob": "A"
+  },
+  {
+    "savol": "$$\\sum_{[0]}^{} 0$$",
+    "A": "0",
+    "B": "1",
+    "C": "1/2",
+    "D": "−1",
+    "javob": "A"
+  },
+  {
+    "savol": "$$\\sum_{[0]}^{} 0$$",
+    "A": "5",
+    "B": "1",
+    "C": "0",
+    "D": "1/2",
+    "javob": "A"
+  },
+  {
+    "savol": "$$\\sum_{[0]}^{} 0$$",
+    "A": "0",
+    "B": "1",
+    "C": "1/2",
+    "D": "−1",
+    "javob": "A"
+  },
+  {
+    "savol": "$$\\sum_{[0]}^{} 0$$",
+    "A": "2",
+    "B": "1",
+    "C": "3",
+    "D": "1/2",
+    "javob": "A"
+  },
+  {
+    "savol": "$$\\sum_{[0]}^{} 0$$",
+    "A": "5/2",
+    "B": "3",
+    "C": "2",
+    "D": "1",
+    "javob": "A"
+  },
+  {
+    "savol": "$$\\sum_{[0]}^{} 0 dμ$$",
+    "A": "1/5",
+    "B": "1/4",
+    "C": "1/3",
+    "D": "0",
+    "javob": "A"
+  },
+  {
+    "savol": "$$\\sum_{[0]}^{} 0x^{3} dμ$$",
+    "A": "1",
+    "B": "1/2",
+    "C": "1/4",
+    "D": "0",
+    "javob": "A"
+  },
+  {
+    "savol": "$$\\sum_{[0]}^{} 0x^{2})dμ$$",
+    "A": "4/3",
+    "B": "1",
+    "C": "3/2",
+    "D": "1/2",
+    "javob": "A"
+  },
+  {
+    "savol": "$$\\sum_{[0]}^{} 0x^{2})dμ$$",
+    "A": "2/3",
+    "B": "1/3",
+    "C": "1",
+    "D": "0",
+    "javob": "A"
+  },
+  {
+    "savol": "$$\\sum_{[0]}^{} 0x^{2}-x)dμ$$",
+    "A": "−1/6",
+    "B": "1/6",
+    "C": "0",
+    "D": "−1",
+    "javob": "A"
+  },
+  {
+    "savol": "(0,1) → (0,∞) moslik",
+    "A": "$$x/(1-x)$$",
+    "B": "$$1/x$$",
+    "C": "x",
+    "D": "ln x",
+    "javob": "A"
+  },
+  {
+    "savol": "(0,∞) → (0,1) moslik",
+    "A": "$$1/(1+x)$$",
+    "B": "x",
+    "C": "ln x",
+    "D": "x+1",
+    "javob": "A"
+  },
+  {
+    "savol": "(0,1) → (0,1) moslik",
+    "A": "$$x^{2}$$",
+    "B": "$$1/x$$",
+    "C": "x+1",
+    "D": "ln x",
+    "javob": "A"
+  },
+  {
+    "savol": "(0,∞) → (0,∞) moslik",
+    "A": "x",
+    "B": "ln x",
+    "C": "1/x",
+    "D": "x−1",
+    "javob": "A"
+  },
+  {
+    "savol": "(1,∞) → (0,1) moslik",
+    "A": "1/x",
+    "B": "x",
+    "C": "ln x",
+    "D": "x−1",
+    "javob": "A"
+  },
+  {
+    "savol": "$$lim⁡_{n→∞}\\sum_{[0]}^{} 0dμ$$",
+    "A": "0",
+    "B": "1",
+    "C": "1/2",
+    "D": "∞",
+    "javob": "A"
+  },
+  {
+    "savol": "$$lim⁡_{n→∞}\\sum_{[0]}^{} 0\\frac{1}{n})dμ$$",
+    "A": "1",
+    "B": "0",
+    "C": "1/2",
+    "D": "2",
+    "javob": "A"
+  },
+  {
+    "savol": "$$lim⁡_{n→∞}\\sum_{[0]}^{} 0dμ$$",
+    "A": "0",
+    "B": "1/2",
+    "C": "1",
+    "D": "1/4",
+    "javob": "A"
+  },
+  {
+    "savol": "$$lim⁡_{n→∞}\\sum_{[0]}^{} 0\\frac{1}{n})dμ$$",
+    "A": "1/2",
+    "B": "1",
+    "C": "0",
+    "D": "1",
+    "javob": "A"
+  },
+  {
+    "savol": "$$lim⁡_{n→∞}\\sum_{[0]}^{} 0dμ$$",
+    "A": "0",
+    "B": "1",
+    "C": "2",
+    "D": "∞",
+    "javob": "A"
+  },
+  {
+    "savol": "(\\int_{[0,1]}",
+    "A": "x",
+    "B": "d\\mu)",
+    "C": "1/2",
+    "D": "1",
+    "javob": "A"
+  },
+  {
+    "savol": "(\\int_{[0,1]}",
+    "A": "x-1",
+    "B": "d\\mu)",
+    "C": "1/2",
+    "D": "1",
+    "javob": "A"
+  },
+  {
+    "savol": "(\\int_{[0,1]}",
+    "A": "2x-1",
+    "B": "d\\mu)",
+    "C": "1/2",
+    "D": "1",
+    "javob": "A"
+  },
+  {
+    "savol": "$$\\sum_{[0]}^{} 0)^{2}dμ$$",
+    "A": "1/3",
+    "B": "1/2",
+    "C": "1",
+    "D": "0",
+    "javob": "A"
+  },
+  {
+    "savol": "$$\\sum_{[0]}^{} 0$$",
+    "A": "5/2",
+    "B": "2",
+    "C": "3",
+    "D": "1",
+    "javob": "A"
+  },
+  {
+    "savol": "$$lim⁡_{n→∞}\\sum_{[0]}^{} 0dμ$$",
+    "A": "0",
+    "B": "1",
+    "C": "1/2",
+    "D": "∞",
+    "javob": "A"
+  },
+  {
+    "savol": "$$\\sum_{[0]}^{} 0x^{2})dμ$$",
+    "A": "11/6",
+    "B": "2",
+    "C": "3/2",
+    "D": "1",
+    "javob": "A"
+  },
+  {
+    "savol": "$$\\sum_{[0]}^{} 0x^{2}+1)dμ$$",
+    "A": "5/3",
+    "B": "1",
+    "C": "2",
+    "D": "1/2",
+    "javob": "A"
+  },
+  {
+    "savol": "$$lim⁡_{n→∞}\\sum_{[0]}^{} 0\\frac{1}{n})dμ$$",
+    "A": "1",
+    "B": "0",
+    "C": "2",
+    "D": "1/2",
+    "javob": "A"
+  },
+  {
+    "savol": "$$\\sum_{[0]}^{} 0x^{2}+2x)dμ$$",
+    "A": "4/3",
+    "B": "1",
+    "C": "2",
+    "D": "1/2",
+    "javob": "A"
+  },
+  {
+    "savol": "A⊂[0,1], cheksiz o‘nli kasrda 0 raqami qatnashadi. m(A)=?",
+    "A": "1",
+    "B": "0",
+    "C": "1/2",
+    "D": "0.1",
+    "javob": "A"
+  },
+  {
+    "savol": "A⊂[0,1], cheksiz o‘nli kasrda 1 raqami qatnashadi. m(A)=?",
+    "A": "1",
+    "B": "0",
+    "C": "1/2",
+    "D": "0.1",
+    "javob": "A"
+  },
+  {
+    "savol": "A⊂[0,1], cheksiz o‘nli kasrda 2 raqami qatnashadi. m(A)=?",
+    "A": "1",
+    "B": "0",
+    "C": "1/2",
+    "D": "0.1",
+    "javob": "A"
+  },
+  {
+    "savol": "A⊂[0,1], cheksiz o‘nli kasrda 3 raqami qatnashadi. m(A)=?",
+    "A": "1",
+    "B": "0",
+    "C": "1/2",
+    "D": "0.1",
+    "javob": "A"
+  },
+  {
+    "savol": "A⊂[0,1], cheksiz o‘nli kasrda 4 raqami qatnashadi. m(A)=?",
+    "A": "1",
+    "B": "0",
+    "C": "1/2",
+    "D": "0.1",
+    "javob": "A"
+  },
+  {
+    "savol": "A⊂[0,1], cheksiz o‘nli kasrda 5 raqami qatnashadi. m(A)=?",
+    "A": "1",
+    "B": "0",
+    "C": "1/2",
+    "D": "0.1",
+    "javob": "A"
+  },
+  {
+    "savol": "A⊂[0,1], cheksiz o‘nli kasrda 6 raqami qatnashadi. m(A)=?",
+    "A": "1",
+    "B": "0",
+    "C": "1/2",
+    "D": "0.1",
+    "javob": "A"
+  },
+  {
+    "savol": "A⊂[0,1], cheksiz o‘nli kasrda 7 raqami qatnashadi. m(A)=?",
+    "A": "1",
+    "B": "0",
+    "C": "1/2",
+    "D": "0.1",
+    "javob": "A"
+  },
+  {
+    "savol": "A⊂[0,1], cheksiz o‘nli kasrda 8 raqami qatnashadi. m(A)=?",
+    "A": "1",
+    "B": "0",
+    "C": "1/2",
+    "D": "0.1",
+    "javob": "A"
+  },
+  {
+    "savol": "A⊂[0,1], cheksiz o‘nli kasrda 9 raqami qatnashadi. m(A)=?",
+    "A": "1",
+    "B": "0",
+    "C": "1/2",
+    "D": "0.1",
+    "javob": "A"
+  },
+  {
+    "savol": "A⊂[0,1], 1 dan 9 gacha barcha raqamlar qatnashadi. m(A)=?",
+    "A": "1",
+    "B": "0",
+    "C": "1/2",
+    "D": "0.1",
+    "javob": "A"
+  },
+  {
+    "savol": "A⊂[0,1], 0 va 1 raqamlari qatnashadi. m(A)=?",
+    "A": "1",
+    "B": "0",
+    "C": "1/2",
+    "D": "0.1",
+    "javob": "A"
+  },
+  {
+    "savol": "A⊂[0,1], faqat 0 va 1 raqamlaridan iborat sonlar. m(A)=?",
+    "A": "0",
+    "B": "1",
+    "C": "1/2",
+    "D": "0.1",
+    "javob": "A"
+  },
+  {
+    "savol": "A⊂[0,1], 2 va 3 raqamlari qatnashadi. m(A)=?",
+    "A": "1",
+    "B": "0",
+    "C": "1/2",
+    "D": "0.1",
+    "javob": "A"
+  },
+  {
+    "savol": "A⊂[0,1], 4 va 5 raqamlari qatnashadi. m(A)=?",
+    "A": "1",
+    "B": "0",
+    "C": "1/2",
+    "D": "0.1",
+    "javob": "A"
+  },
+  {
+    "savol": "A⊂[0,1], 6 va 7 raqamlari qatnashadi. m(A)=?",
+    "A": "1",
+    "B": "0",
+    "C": "1/2",
+    "D": "0.1",
+    "javob": "A"
+  },
+  {
+    "savol": "A⊂[0,1], 8 va 9 raqamlari qatnashadi. m(A)=?",
+    "A": "1",
+    "B": "0",
+    "C": "1/2",
+    "D": "0.1",
+    "javob": "A"
+  },
+  {
+    "savol": "A⊂[0,1], faqat 0 dan 4 gacha raqamlar ishlatiladi. m(A)=?",
+    "A": "0",
+    "B": "1",
+    "C": "1/2",
+    "D": "0.1",
+    "javob": "A"
+  },
+  {
+    "savol": "A⊂[0,1], faqat 5 dan 9 gacha raqamlar ishlatiladi. m(A)=?",
+    "A": "0",
+    "B": "1",
+    "C": "1/2",
+    "D": "0.1",
+    "javob": "A"
+  },
+  {
+    "savol": "A⊂[0,1], har bir raqam cheksiz ko‘p marta qatnashadi. m(A)=?",
+    "A": "1",
+    "B": "0",
+    "C": "1/2",
+    "D": "0.1",
+    "javob": "A"
+  },
+  {
+    "savol": "A⊂[0,1], faqat bitta raqamdan iborat o‘nli kasrlar. m(A)=?",
+    "A": "0",
+    "B": "1",
+    "C": "1/2",
+    "D": "0.1",
+    "javob": "A"
+  },
+  {
+    "savol": "A⊂[0,1], chekli o‘nli kasrlar. m(A)=?",
+    "A": "0",
+    "B": "1",
+    "C": "1/2",
+    "D": "0.1",
+    "javob": "A"
+  },
+  {
+    "savol": "A⊂[0,1], periodik o‘nli kasrlar. m(A)=?",
+    "A": "0",
+    "B": "1",
+    "C": "1/2",
+    "D": "0.1",
+    "javob": "A"
+  },
+  {
+    "savol": "A⊂[0,1], irratsional sonlar. m(A)=?",
+    "A": "1",
+    "B": "0",
+    "C": "1/2",
+    "D": "0.1",
+    "javob": "A"
+  },
+  {
+    "savol": "A⊂[0,1], ratsional sonlar. m(A)=?",
+    "A": "0",
+    "B": "1",
+    "C": "1/2",
+    "D": "0.1",
+    "javob": "A"
+  },
+  {
+    "savol": "A⊂[0,1], 3 raqami kamida bir marta qatnashadi. m(A)=?",
+    "A": "1",
+    "B": "0",
+    "C": "1/2",
+    "D": "0.1",
+    "javob": "A"
+  },
+  {
+    "savol": "A⊂[0,1], 5 raqami kamida bir marta qatnashadi. m(A)=?",
+    "A": "1",
+    "B": "0",
+    "C": "1/2",
+    "D": "0.1",
+    "javob": "A"
+  },
+  {
+    "savol": "A⊂[0,1], 7 raqami kamida bir marta qatnashadi. m(A)=?",
+    "A": "1",
+    "B": "0",
+    "C": "1/2",
+    "D": "0.1",
+    "javob": "A"
+  },
+  {
+    "savol": "A⊂[0,1], 9 raqami kamida bir marta qatnashadi. m(A)=?",
+    "A": "1",
+    "B": "0",
+    "C": "1/2",
+    "D": "0.1",
+    "javob": "A"
+  },
+  {
+    "savol": "A⊂[0,1], barcha raqamlar cheksiz ko‘p qatnashadi. m(A)=?",
+    "A": "1",
+    "B": "0",
+    "C": "1/2",
+    "D": "0.1",
+    "javob": "A"
+  },
+  {
+    "savol": "A⊂[0,1], hech bo‘lmaganda bitta raqam qatnashadi. m(A)=?",
+    "A": "1",
+    "B": "0",
+    "C": "1/2",
+    "D": "0.1",
+    "javob": "A"
+  },
+  {
+    "savol": "A⊂[0,1], 0 raqami cheksiz ko‘p qatnashadi. m(A)=?",
+    "A": "1",
+    "B": "0",
+    "C": "1/2",
+    "D": "0.1",
+    "javob": "A"
+  },
+  {
+    "savol": "A⊂[0,1], 1 raqami cheksiz ko‘p qatnashadi. m(A)=?",
+    "A": "1",
+    "B": "0",
+    "C": "1/2",
+    "D": "0.1",
+    "javob": "A"
+  },
+  {
+    "savol": "A⊂[0,1], 2 raqami cheksiz ko‘p qatnashadi. m(A)=?",
+    "A": "1",
+    "B": "0",
+    "C": "1/2",
+    "D": "0.1",
+    "javob": "A"
+  },
+  {
+    "savol": "A⊂[0,1], 3 raqami cheksiz ko‘p qatnashadi. m(A)=?",
+    "A": "1",
+    "B": "0",
+    "C": "1/2",
+    "D": "0.1",
+    "javob": "A"
+  },
+  {
+    "savol": "A⊂[0,1], 4 raqami cheksiz ko‘p qatnashadi. m(A)=?",
+    "A": "1",
+    "B": "0",
+    "C": "1/2",
+    "D": "0.1",
+    "javob": "A"
+  },
+  {
+    "savol": "A⊂[0,1], 5 raqami cheksiz ko‘p qatnashadi. m(A)=?",
+    "A": "1",
+    "B": "0",
+    "C": "1/2",
+    "D": "0.1",
+    "javob": "A"
+  },
+  {
+    "savol": "A⊂[0,1], 6 raqami cheksiz ko‘p qatnashadi. m(A)=?",
+    "A": "1",
+    "B": "0",
+    "C": "1/2",
+    "D": "0.1",
+    "javob": "A"
+  },
+  {
+    "savol": "A⊂[0,1], 7 raqami cheksiz ko‘p qatnashadi. m(A)=?",
+    "A": "1",
+    "B": "0",
+    "C": "1/2",
+    "D": "0.1",
+    "javob": "A"
+  },
+  {
+    "savol": "A⊂[0,1], 8 raqami cheksiz ko‘p qatnashadi. m(A)=?",
+    "A": "1",
+    "B": "0",
+    "C": "1/2",
+    "D": "0.1",
+    "javob": "A"
+  }
+]
