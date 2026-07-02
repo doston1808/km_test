@@ -1,0 +1,1450 @@
+[
+  {
+    "savol": "Chiziqli operator qachon chegaralangan deyiladi?",
+    "A": "‖Tx‖ ≤ C‖x‖ barcha x uchun",
+    "B": "T yopiq bo`lsa",
+    "C": "T kompakt bo`lsa",
+    "D": "T injektiv bo`lsa",
+    "javob": "A"
+  },
+  {
+    "savol": "Chiziqli operator uzluksizligi nimaga ekvivalent?",
+    "A": "Chegaralanganlikka",
+    "B": "Kompaktlikka",
+    "C": "Yopiq bo`lishga",
+    "D": "Injektivlikka",
+    "javob": "A"
+  },
+  {
+    "savol": "Operator normasi qanday aniqlanadi?",
+    "A": "sup‖x‖=1 ‖Tx‖",
+    "B": "inf‖Tx‖",
+    "C": "lim‖Tx‖",
+    "D": "‖Tx‖",
+    "javob": "A"
+  },
+  {
+    "savol": "Qachon B(X,Y) Banax fazo bo`ladi?",
+    "A": "Y Banax bo`lsa",
+    "B": "X Banax bo`lsa",
+    "C": "X chekli bo`lsa",
+    "D": "Har doim",
+    "javob": "A"
+  },
+  {
+    "savol": "Operator normasi xossalaridan qaysi biri noto`g`ri?",
+    "A": "‖T+S‖=‖T‖+‖S‖",
+    "B": "‖T‖≥0",
+    "C": "‖αT‖=",
+    "D": "α",
+    "javob": "A"
+  },
+  {
+    "savol": "Banax–Shteynxaus teoremasi nimani ta`minlaydi?",
+    "A": "Operatorlar normasi chegaralangan",
+    "B": "Operatorlar kompakt",
+    "C": "Operatorlar yopiq",
+    "D": "Operatorlar teskari",
+    "javob": "A"
+  },
+  {
+    "savol": "Ochiq tasvir teoremasi qaysi shartda bajariladi?",
+    "A": "Operator sur`ektiv bo`lsa",
+    "B": "Operator injektiv bo`lsa",
+    "C": "Operator kompakt bo`lsa",
+    "D": "Operator nol bo`lsa",
+    "javob": "A"
+  },
+  {
+    "savol": "Yopiq grafik teoremasi nimani bildiradi?",
+    "A": "Yopiq grafik chegaralangan",
+    "B": "Har operator kompakt",
+    "C": "Har operator izometriya",
+    "D": "Har operator teskari",
+    "javob": "A"
+  },
+  {
+    "savol": "Kompakt operator ta`rifi qaysi?",
+    "A": "Cheklangan to`plamni nisbatan kompaktga o`tkazadi",
+    "B": "Har to`plamni yopiq qiladi",
+    "C": "Har ketma-ketlikni yaqinlashtiradi",
+    "D": "Faqat ℝⁿ da aniqlanadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Chekli o`lchamli fazoda har qanday chiziqli operator qanday?",
+    "A": "Kompakt",
+    "B": "Chegaralanmagan",
+    "C": "Yopiq emas",
+    "D": "Uzluksiz emas",
+    "javob": "A"
+  },
+  {
+    "savol": "Teskari operator qachon chegaralangan bo`ladi?",
+    "A": "Bijektiv va uzluksiz bo`lsa",
+    "B": "Faqat injektiv bo`lsa",
+    "C": "Kompakt bo`lsa",
+    "D": "Nol bo`lsa",
+    "javob": "A"
+  },
+  {
+    "savol": "Izometriya nima?",
+    "A": "Normani saqlovchi operator",
+    "B": "Kompakt operator",
+    "C": "Nol operator",
+    "D": "Chegaralanmagan operator",
+    "javob": "A"
+  },
+  {
+    "savol": "Izomorfizm deganda nimani tushunamiz?",
+    "A": "Uzluksiz va teskari mavjud operator",
+    "B": "Faqat algebraik moslik",
+    "C": "Kompakt operator",
+    "D": "Chekli rangli operator",
+    "javob": "A"
+  },
+  {
+    "savol": "Banax fazoning duali qanday belgilanadi?",
+    "A": "X*",
+    "B": "X**",
+    "C": "L(X)",
+    "D": "C(X)",
+    "javob": "A"
+  },
+  {
+    "savol": "Funktsional nima?",
+    "A": "Skalyar qiymatli chiziqli operator",
+    "B": "Matritsa",
+    "C": "Norma",
+    "D": "Integral",
+    "javob": "A"
+  },
+  {
+    "savol": "Hahn–Banach teoremasi nimani ta`minlaydi?",
+    "A": "Funktsionalni kengaytirishni",
+    "B": "Operatorni yopishni",
+    "C": "Kompaktlikni",
+    "D": "Refleksivlikni",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi fazo refleksiv deyiladi?",
+    "A": "X = X**",
+    "B": "X = X*",
+    "C": "X chekli",
+    "D": "X normallangan",
+    "javob": "A"
+  },
+  {
+    "savol": "ℓᵖ (p≥1) fazo qanday fazo?",
+    "A": "Banax fazo",
+    "B": "Hilbert fazo",
+    "C": "To`liq emas",
+    "D": "Kompakt fazo",
+    "javob": "A"
+  },
+  {
+    "savol": "ℓ² fazoning asosiy xossasi qaysi?",
+    "A": "Hilbert fazo",
+    "B": "Kompakt fazo",
+    "C": "Chekli fazo",
+    "D": "Yopiq fazo",
+    "javob": "A"
+  },
+  {
+    "savol": "Operatorlar fazosi L(X,Y) qaysi norma bilan aniqlanadi?",
+    "A": "Operator normasi",
+    "B": "Integral normasi",
+    "C": "Sup normasi",
+    "D": "p-norma",
+    "javob": "A"
+  },
+  {
+    "savol": "Zaif yaqinlashuv nimaga asoslanadi?",
+    "A": "Funktsionallar bo`yicha",
+    "B": "Norma bo`yicha",
+    "C": "Operator bo`yicha",
+    "D": "Ketma-ketlik bo`yicha",
+    "javob": "A"
+  },
+  {
+    "savol": "Zaif-* topologiya qayerda aniqlanadi?",
+    "A": "X* da",
+    "B": "X da",
+    "C": "L(X) da",
+    "D": "X** da",
+    "javob": "A"
+  },
+  {
+    "savol": "Nol operator qanday operator hisoblanadi?",
+    "A": "Kompakt",
+    "B": "Izometriya",
+    "C": "Injektiv",
+    "D": "Sur`ektiv",
+    "javob": "A"
+  },
+  {
+    "savol": "Kompakt va chegaralangan operatorlar kompozitsiyasi qanday bo`ladi?",
+    "A": "Kompakt",
+    "B": "Ochiq",
+    "C": "Yopiq",
+    "D": "Izometriya",
+    "javob": "A"
+  },
+  {
+    "savol": "Operator normasi nol bo`lsa, operator qanday?",
+    "A": "Nol operator",
+    "B": "Izometriya",
+    "C": "Kompakt emas",
+    "D": "Teskari",
+    "javob": "A"
+  },
+  {
+    "savol": "Chegaralangan operatorlar fazosi qanday fazo?",
+    "A": "Banax fazo",
+    "B": "Hilbert fazo",
+    "C": "Chekli fazo",
+    "D": "Kompakt fazo",
+    "javob": "A"
+  },
+  {
+    "savol": "Chiziqli operatorning asosiy algebraik xossasi qaysi?",
+    "A": "Qo`shiluvchanlik",
+    "B": "Kompaktlik",
+    "C": "Yopiq bo`lish",
+    "D": "Chegaralanganlik",
+    "javob": "A"
+  },
+  {
+    "savol": "Sup normasi asosan qaysi fazoda qo`llaniladi?",
+    "A": "C[a,b]",
+    "B": "ℓ²",
+    "C": "L²",
+    "D": "ℝⁿ",
+    "javob": "A"
+  },
+  {
+    "savol": "Kompakt operator spektri qanday xossaga ega?",
+    "A": "0 ga yig`iladi",
+    "B": "Cheksiz yoyiladi",
+    "C": "Bo`sh bo`ladi",
+    "D": "Uzluksiz",
+    "javob": "A"
+  },
+  {
+    "savol": "Chekli rangli operator qanday operator?",
+    "A": "Kompakt",
+    "B": "Chegaralanmagan",
+    "C": "Izometriya",
+    "D": "Yopiq emas",
+    "javob": "A"
+  },
+  {
+    "savol": "Operator yopiq deyiladi, agar…",
+    "A": "grafigi yopiq bo`lsa",
+    "B": "normasi saqlansa",
+    "C": "kompakt bo`lsa",
+    "D": "injektiv bo`lsa",
+    "javob": "A"
+  },
+  {
+    "savol": "Banax fazosi ta`rifini ko`rsating",
+    "A": "Normallangan va to`liq",
+    "B": "Normallangan",
+    "C": "Faqat metrik",
+    "D": "Chekli o`lchamli",
+    "javob": "A"
+  },
+  {
+    "savol": "Operator uzluksizligi qaysi nuqtada tekshiriladi?",
+    "A": "0 nuqtada",
+    "B": "Har nuqtada",
+    "C": "Cheksizlikda",
+    "D": "Biror nuqtada",
+    "javob": "A"
+  },
+  {
+    "savol": "Identik operator qanday operator?",
+    "A": "Izometriya",
+    "B": "Kompakt",
+    "C": "Nol",
+    "D": "Chegaralanmagan",
+    "javob": "A"
+  },
+  {
+    "savol": "Kompakt operator qaysi fazoda doim mavjud?",
+    "A": "Chekli o`lchamli fazoda",
+    "B": "Har Banax fazoda",
+    "C": "Faqat Hilbert fazoda",
+    "D": "ℓ∞ da",
+    "javob": "A"
+  },
+  {
+    "savol": "Banax–Shteynxaus teoremasining sharti qaysi?",
+    "A": "Nuqtaviy chegaralanganlik",
+    "B": "Kompaktlik",
+    "C": "Yopiq grafik",
+    "D": "Refleksivlik",
+    "javob": "A"
+  },
+  {
+    "savol": "Funksional normasi qanday aniqlanadi?",
+    "A": "sup",
+    "B": "inf",
+    "C": "integral",
+    "D": "limit",
+    "javob": "A"
+  },
+  {
+    "savol": "Operator normasi nimani o`lchaydi?",
+    "A": "Eng katta cho`zish",
+    "B": "O`rtacha qiymat",
+    "C": "Minimal ta`sir",
+    "D": "Integral",
+    "javob": "A"
+  },
+  {
+    "savol": "Lᵖ fazo (p≥1) qanday fazo?",
+    "A": "Banax fazo",
+    "B": "Hilbert fazo",
+    "C": "Kompakt",
+    "D": "Chekli",
+    "javob": "A"
+  },
+  {
+    "savol": "Hilbert fazoning asosiy farqi nimada?",
+    "A": "Skalyar ko`paytma mavjud",
+    "B": "Kompaktlik",
+    "C": "Chekli o`lcham",
+    "D": "Yopiq bo`lish",
+    "javob": "A"
+  },
+  {
+    "savol": "Zaif topologiya normaga nisbatan qanday?",
+    "A": "Kuchsizroq",
+    "B": "Kuchliroq",
+    "C": "Teng",
+    "D": "Bog`liq emas",
+    "javob": "A"
+  },
+  {
+    "savol": "Operator spektri nimaga tegishli tushuncha?",
+    "A": "Operatorga",
+    "B": "Fazoga",
+    "C": "Normaga",
+    "D": "Ketma-ketlikka",
+    "javob": "A"
+  },
+  {
+    "savol": "Chegaralangan operatorlar yig`indisi qanday?",
+    "A": "Chegaralangan",
+    "B": "Kompakt",
+    "C": "Izometriya",
+    "D": "Nol",
+    "javob": "A"
+  },
+  {
+    "savol": "Banax fazoning to`liqligi nimani anglatadi?",
+    "A": "Cauchy ketma-ketliklar yaqinlashadi",
+    "B": "Har ketma-ketlik yaqinlashadi",
+    "C": "Har funksiya uzluksiz",
+    "D": "Har to`plam yopiq",
+    "javob": "A"
+  },
+  {
+    "savol": "Norma qaysi xossani qanoatlantiradi?",
+    "A": "Uchburchak tengsizlik",
+    "B": "Kompaktlik",
+    "C": "Differensiallanuvchanlik",
+    "D": "Chekli o`lchamlilik",
+    "javob": "A"
+  },
+  {
+    "savol": "Banax fazoda yopiq ostfazo qanday fazo bo`ladi?",
+    "A": "Banax fazo",
+    "B": "Kompakt fazo",
+    "C": "Ochiq fazo",
+    "D": "Chegaralanmagan",
+    "javob": "A"
+  },
+  {
+    "savol": "Operator normasi chekli bo`lsa, operator qanday?",
+    "A": "Chegaralangan",
+    "B": "Kompakt",
+    "C": "Izometriya",
+    "D": "Nol",
+    "javob": "A"
+  },
+  {
+    "savol": "Chegaralangan chiziqli operatorning yadrosi qanday?",
+    "A": "Yopiq chiziqli fazo",
+    "B": "Ochiq to`plam",
+    "C": "Kompakt to`plam",
+    "D": "Diskret to`plam",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi operator har doim uzluksiz bo`ladi?",
+    "A": "Chekli rangli operator",
+    "B": "Har qanday operator",
+    "C": "Yopiq operator",
+    "D": "Differensial operator",
+    "javob": "A"
+  },
+  {
+    "savol": "Kompakt operator ketma-ketliklarga nisbatan nima qiladi?",
+    "A": "Yaqqol yaqinlashuvchi ostketma-ketlik hosil qiladi",
+    "B": "Normani saqlaydi",
+    "C": "Har doim nolga o`tkazadi",
+    "D": "Ochiq tasvir beradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Chekli o`lchamli Banax fazoda yopiq birlik shari qanday?",
+    "A": "Kompakt",
+    "B": "Cheksiz",
+    "C": "Ochiq",
+    "D": "Zich",
+    "javob": "A"
+  },
+  {
+    "savol": "Norma ekvivalentligi nimani saqlab qoladi?",
+    "A": "To`liqlikni",
+    "B": "Kompaktlikni",
+    "C": "Spektrni",
+    "D": "Dual fazoni",
+    "javob": "A"
+  },
+  {
+    "savol": "Operator tasviri qachon ochiq bo`ladi?",
+    "A": "Ochiq tasvir teoremasi shartlarida",
+    "B": "Har doim",
+    "C": "Kompakt bo`lsa",
+    "D": "Nol bo`lsa",
+    "javob": "A"
+  },
+  {
+    "savol": "Banax fazoda zaif yaqinlashuv nimaga asoslanadi?",
+    "A": "Funktsionallarga",
+    "B": "Normaga",
+    "C": "Operator normaga",
+    "D": "Nuqtaviy qiymatga",
+    "javob": "A"
+  },
+  {
+    "savol": "Zaif yaqinlashuvda norma qanday bo`lishi mumkin?",
+    "A": "Saqlanmasligi mumkin",
+    "B": "Doim saqlanadi",
+    "C": "Nolga teng",
+    "D": "Cheksiz bo`ladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Zaif-* yaqinlashuv qayerda aniqlanadi?",
+    "A": "Dual fazoda",
+    "B": "Asosiy fazoda",
+    "C": "Operatorlar fazosida",
+    "D": "ℓ² fazoda",
+    "javob": "A"
+  },
+  {
+    "savol": "Refleksiv Banax fazoning birlik shari qanday?",
+    "A": "Zaif kompakt",
+    "B": "Ochiq",
+    "C": "Chegaralanmagan",
+    "D": "Diskret",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi fazo refleksiv emas?",
+    "A": "ℓ¹",
+    "B": "ℓ²",
+    "C": "L²",
+    "D": "ℝⁿ",
+    "javob": "A"
+  },
+  {
+    "savol": "Chekli rangli operator spektri qanday bo`ladi?",
+    "A": "Chekli",
+    "B": "Uzluksiz",
+    "C": "Zich",
+    "D": "Bo`sh",
+    "javob": "A"
+  },
+  {
+    "savol": "Kompakt operatorning nolga teng bo`lmagan spektri qanday?",
+    "A": "Diskret",
+    "B": "Uzluksiz",
+    "C": "Cheksiz",
+    "D": "Zich",
+    "javob": "A"
+  },
+  {
+    "savol": "Operator spektrida 0 bo`lishi nimani bildiradi?",
+    "A": "Teskari mavjud emas",
+    "B": "Operator nol",
+    "C": "Operator kompakt",
+    "D": "Norma nol",
+    "javob": "A"
+  },
+  {
+    "savol": "Banax fazoda kuchli yaqinlashuv nimani bildiradi?",
+    "A": "Norma bo`yicha yaqinlashuv",
+    "B": "Zaif yaqinlashuv",
+    "C": "Nuqtaviy yaqinlashuv",
+    "D": "Spektral yaqinlashuv",
+    "javob": "A"
+  },
+  {
+    "savol": "Qisqaruvchi operator qanday xossaga ega?",
+    "A": "Yagona fiksatsiya nuqta",
+    "B": "Kompaktlik",
+    "C": "Refleksivlik",
+    "D": "Izometriya",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi teorema fiksatsiya nuqtani kafolatlaydi?",
+    "A": "Banax fiksatsiya teoremasi",
+    "B": "Hahn–Banach",
+    "C": "Ochiq tasvir",
+    "D": "Yopiq grafik",
+    "javob": "A"
+  },
+  {
+    "savol": "Operatorlar ketma-ketligi qachon normada yaqinlashadi?",
+    "A": "Operator normasi bo`yicha",
+    "B": "Zaif yaqinlashganda",
+    "C": "Har doim",
+    "D": "Nuqtaviy",
+    "javob": "A"
+  },
+  {
+    "savol": "Normada yaqinlashuv nimani saqlaydi?",
+    "A": "Uzluksizlikni",
+    "B": "Kompaktlikni",
+    "C": "Spektrni",
+    "D": "Refleksivlikni",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi operator yopiq, lekin chegaralanmagan bo`lishi mumkin?",
+    "A": "Differensial operator",
+    "B": "Nol operator",
+    "C": "Izometriya",
+    "D": "Kompakt operator",
+    "javob": "A"
+  },
+  {
+    "savol": "Banax fazoda ochiq shar qanday to`plam?",
+    "A": "Ochiq",
+    "B": "Yopiq",
+    "C": "Kompakt",
+    "D": "Diskret",
+    "javob": "A"
+  },
+  {
+    "savol": "Hilbert fazoni Banax fazodan farqlovchi xossa qaysi?",
+    "A": "Skalyar ko`paytma",
+    "B": "Norma",
+    "C": "To`liqlik",
+    "D": "Yopiq bo`lish",
+    "javob": "A"
+  },
+  {
+    "savol": "Hilbert fazoda ortogonal proeksiya qanday operator?",
+    "A": "Chegaralangan",
+    "B": "Chegaralanmagan",
+    "C": "Nol",
+    "D": "Kompakt emas",
+    "javob": "A"
+  },
+  {
+    "savol": "Ortogonal proeksiya operatorining normasi nechaga teng?",
+    "A": "1",
+    "B": "0",
+    "C": "∞",
+    "D": "2",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi operator normal deyiladi?",
+    "A": "TT* = T*T",
+    "B": "T kompakt",
+    "C": "T injektiv",
+    "D": "T nol",
+    "javob": "A"
+  },
+  {
+    "savol": "Normal operator spektri qayerda joylashadi?",
+    "A": "Kompleks tekislikda",
+    "B": "Faqat haqiqiy o`qda",
+    "C": "Nol atrofida",
+    "D": "Diskret nuqtalarda",
+    "javob": "A"
+  },
+  {
+    "savol": "O`z-o`ziga qo`shma operator spektri qanday?",
+    "A": "Haqiqiy",
+    "B": "Kompleks",
+    "C": "Bo`sh",
+    "D": "Zich",
+    "javob": "A"
+  },
+  {
+    "savol": "Operator adjointi qayerda aniqlanadi?",
+    "A": "Hilbert fazoda",
+    "B": "Har Banax fazoda",
+    "C": "ℓ¹ fazoda",
+    "D": "C[a,b] da",
+    "javob": "A"
+  },
+  {
+    "savol": "Banax fazoda proeksiya operatori qachon uzluksiz?",
+    "A": "Chegaralangan bo`lsa",
+    "B": "Har doim",
+    "C": "Hech qachon",
+    "D": "Faqat ℝⁿ da",
+    "javob": "A"
+  },
+  {
+    "savol": "Chegaralangan proeksiya nimani beradi?",
+    "A": "To`g`ri yig`indi",
+    "B": "Kompaktlik",
+    "C": "Refleksivlik",
+    "D": "Izometriya",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi operatorlar spektri faqat {0} dan iborat?",
+    "A": "Kvazinilpotent",
+    "B": "Izometriya",
+    "C": "Proeksiya",
+    "D": "Teskari operator",
+    "javob": "A"
+  },
+  {
+    "savol": "Kvazinilpotent operator nimani qanoatlantiradi?",
+    "A": "Spektr radiusi 0",
+    "B": "Norma 0",
+    "C": "Operator nol",
+    "D": "Kompaktlik",
+    "javob": "A"
+  },
+  {
+    "savol": "Operator spektr radiusi nimani o`lchaydi?",
+    "A": "Spektrning maksimal modulini",
+    "B": "Norma qiymatini",
+    "C": "Minimumni",
+    "D": "Integralni",
+    "javob": "A"
+  },
+  {
+    "savol": "Chegaralangan operatorlar yig`indisi qanday operator?",
+    "A": "Chegaralangan",
+    "B": "Kompakt",
+    "C": "Nol",
+    "D": "Izometriya",
+    "javob": "A"
+  },
+  {
+    "savol": "Chegaralangan operatorlar kompozitsiyasi qanday?",
+    "A": "Chegaralangan",
+    "B": "Ochiq",
+    "C": "Diskret",
+    "D": "Cheksiz",
+    "javob": "A"
+  },
+  {
+    "savol": "Kompakt operator yopiqmi?",
+    "A": "Ha",
+    "B": "Yo`q",
+    "C": "Hilbert fazoda",
+    "D": "Faqat chekli fazoda",
+    "javob": "A"
+  },
+  {
+    "savol": "Operator grafigining yopiq bo`lishi nimani bildiradi?",
+    "A": "Uzluksizlikni",
+    "B": "Kompaktlikni",
+    "C": "Injektivlikni",
+    "D": "Sur`ektivlikni",
+    "javob": "A"
+  },
+  {
+    "savol": "Refleksiv Banax fazoda qaysi xossa bajariladi?",
+    "A": "Zaif kompaktlik",
+    "B": "Chekli o`lcham",
+    "C": "Norma yo`qligi",
+    "D": "Ochiqlik",
+    "javob": "A"
+  },
+  {
+    "savol": "Banax fazoda dual operator nimaga tegishli?",
+    "A": "Dual fazoga",
+    "B": "Asosiy fazoga",
+    "C": "Spektrga",
+    "D": "Normaga",
+    "javob": "A"
+  },
+  {
+    "savol": "Chegaralangan operator normasi nimani ifodalaydi?",
+    "A": "Eng katta cho`zish darajasini",
+    "B": "O`rtacha qiymatni",
+    "C": "Minimal ta`sirni",
+    "D": "Integralni",
+    "javob": "A"
+  },
+  {
+    "savol": "Operator normasi uzluksizmi?",
+    "A": "Ha",
+    "B": "Yo`q",
+    "C": "Faqat ℝⁿ da",
+    "D": "Hilbert fazoda",
+    "javob": "A"
+  },
+  {
+    "savol": "Banax fazoda kuchli topologiya nimaga asoslanadi?",
+    "A": "Normaga",
+    "B": "Funktsionalga",
+    "C": "Spektrga",
+    "D": "Operatorga",
+    "javob": "A"
+  },
+  {
+    "savol": "$l^{1}$ fazoga qo`shma fazoni ko`rsating?",
+    "A": "$$l^{∞}$$",
+    "B": "$$l^{q}, q>2$$",
+    "C": "$$l^{2} $$",
+    "D": "$$l^{q}, q<1$$",
+    "javob": "A"
+  },
+  {
+    "savol": "$l^{p}, 1<p<∞$ fazoga qo`shma fazoni ko`rsating?",
+    "A": "$$l^{q}, q=\\frac{p}{p-1}$$",
+    "B": "$$l^{q}, q>2$$",
+    "C": "$$l^{2} $$",
+    "D": "$$l^{q}, q<1$$",
+    "javob": "A"
+  },
+  {
+    "savol": "$c_{0}$ fazoga qo`shma fazoni ko`rsating?",
+    "A": "$$l^{1}$$",
+    "B": "$$l^{2}$$",
+    "C": "$$l^{3}$$",
+    "D": "$$l^{∞}$$",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar ${A_{n}}⊂L(X,Y)$ operatorlar ketma-ketligi uchun shunday $A∈L(X,Y)$ operator mavjud bo`lib, $\\lim_{n ∞} lim||A_{n}-A||=0$ bo`lsa, ${A_{n}}$ operatorlar ketma-ketligi $A$ ga … bo`yicha yaqinlashadi deyiladi.",
+    "A": "tekis",
+    "B": "kuchsiz",
+    "C": "kuchli",
+    "D": "nuqtali",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar $(x,y)=0$ bo`lsa, u holda $x$ va $y$ vektorlar … deyiladi.",
+    "A": "ortogonal",
+    "B": "ortonomal",
+    "C": "parallel",
+    "D": "teng",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar $∀x∈X$ uchun $\\lim_{n ∞} lim||A_{n}x-Ax||=0$ bo`lsa, ${A_{n}}$ operatorlar ketma-ketligi $A$ ga … bo`yicha yaqinlashadi deyiladi.",
+    "A": "kuchli",
+    "B": "kuchsiz",
+    "C": "tekis",
+    "D": "norma",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar $∀ε>0$ uchun shunday $δ(ε)>0$ mavjud bo`lib, $||x-x_{0}||<δ$ tengsizlikni qanoatlantiruvchi barcha $x∈D(f)$ lar uchun $|f(x)-f(x_{0})|<ε$ tengsizlik bajarilsa, $f$ funksional $x=x_{0}$ nuqtada … deyiladi.",
+    "A": "uzluksiz",
+    "B": "nolga teng",
+    "C": "hosilaga ega",
+    "D": "o`suvchi",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar Gilbert fazosida olingan $∀x∈H$ uchun $\\lim_{n ∞} lim(A_{n}x,y)=(Ax,y)$ bo`lsa, ${A_{n}}$ operatorlar ketma-ketligi $A$ ga … bo`yicha yaqinlashadi deyiladi.",
+    "A": "kuchsiz",
+    "B": "tekis",
+    "C": "kuchli",
+    "D": "nuqtali",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar ixtiyoriy $x_{1},x_{2}∈X$ elementlar va $α,β∈X$ sonlar uchun $A(αx_{1}+βx_{2})=αAx_{1}+βAx_{2}$ tenglik o`rinli bo`lsa, $A:X Y$ akslantirish … operator deyiladi.",
+    "A": "chiziqli",
+    "B": "nochiziqli",
+    "C": "birilik",
+    "D": "nol",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar ixtiyoriy $y∈ImA$ uchun $Ax=y$ tenglama yagona yechimga ega bo`lsa, u holda $A$ operator … operator deyiladi.",
+    "A": "teskarilanuvchan",
+    "B": "birlik",
+    "C": "nol",
+    "D": "to`g`ri javob berilmagan",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar qavariq to`plamning yadrosi bo`sh bo`lmasa, u holda bu to`plam … deyiladi.",
+    "A": "Qavariq jism",
+    "B": "qavariq",
+    "C": "botiq",
+    "D": "Bo`sh",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar shunday $c>0$ topilib, barcha $x∈M$ uchun $||x||≤c$ tengsizlik bajarilsa, $(X,||⋅||)$ normallangan fazoda berilgan $M⊂X$ to`plam … deyiladi.",
+    "A": "chegaralangan",
+    "B": "chegaralanmagan",
+    "C": "yopiq",
+    "D": "qavariq",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar $A$ operator uchun bir vaqtda ham o`ng teskari, ham chap teskari operatorlar mavjud bo`lsa, u holda $A$ teskarilanuvchan bo`ladi va … tenglik o`rinli.",
+    "A": "$$A^{-1}=B=S$$",
+    "B": "$$A^{-1}>B=S$$",
+    "C": "$$A^{-1}=B<S$$",
+    "D": "$$||A^{-1}||=||B||=||S||$$",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar $B∈L(X,Y)$ operator uchun $BA=I_{X}$ bo`lsa, $B$ operator $A$ operatorga … operator deyiladi.",
+    "A": "chap teskari",
+    "B": "o`ng teskari",
+    "C": "teskari",
+    "D": "qo`shma",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar $L$ chiziqli fazoda ixtiyoriy $n$ uchun $n$ elementli chiziqli erkli sistema mavjud bo`lsa, u holda $L$ fazo … fazo deyiladi.",
+    "A": "cheksiz o`lchamli",
+    "B": "$n+1$-o`lchamli",
+    "C": "$n-1$-o`lchamli",
+    "D": "$n$-o`lchamli",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar $L$ chiziqli fazoda $n$ ta elementli chiziqli erkli sistema mavjud bo`lib, bu fazoning ixtiyoriy $n+1$ ta elementdan iborat sistemasi chiziqli bog`langan bo`lsa, u holda $L$ fazo … fazo deyiladi.",
+    "A": "$n$-o`lchamli",
+    "B": "$n+1$-o`lchamli",
+    "C": "$n-1$-o`lchamli",
+    "D": "cheksiz o`lchamli",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar $M$ to`plam o`zining ixtiyoriy $x_{1},x_{2}∈M$ nuqtalarini tutashtiruvchi kesmani ham o`z ichiga olsa, u holda $M$ ga …. To`plam deyiladi.",
+    "A": "qavariq",
+    "B": "botiq",
+    "C": "bo`sh",
+    "D": "sanoqli",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar $S∈L(X,Y)$ operator uchun $AS=I_{Y}$ bo`lsa, $S$ operator $A$ operatorga … operator deyiladi.",
+    "A": "o`ng teskari",
+    "B": "chap teskari",
+    "C": "teskari",
+    "D": "qo`shma",
+    "javob": "A"
+  },
+  {
+    "savol": "Koshi-Bunyakovskiy tengsizligini ko`rsating",
+    "A": "$$|(x,y)|≤||x||⋅||y||$$",
+    "B": "$$|(x,y)|≥||x||⋅||y||$$",
+    "C": "$$(x,y)≤||x||⋅||y||$$",
+    "D": "$$(x,y)≥||x||⋅||y||$$",
+    "javob": "A"
+  },
+  {
+    "savol": "Ushbu $f:R^{2} R, f(x,y)=3x-6y$ funksionalning yadrosi qaysi javobda to`g`ri ko`rsatilgan.",
+    "A": "$$Kerf={(2t,t):t∈R}$$",
+    "B": "$$Kerf={(t,t):t∈R}$$",
+    "C": "$$Kerf={(t,2t):t∈R}$$",
+    "D": "$$Kerf={0}$$",
+    "javob": "A"
+  },
+  {
+    "savol": "$A$ operatorning qiymatlar sohasi qaysi javobda to`g`ri ko`rsatilgan?",
+    "A": "$$ImA={Ax:x∈X}$$",
+    "B": "$$ImA={x:Ax∈X}$$",
+    "C": "$$ImA={x:x∈X}$$",
+    "D": "$$ImA={Ax+x:x∈X}$$",
+    "javob": "A"
+  },
+  {
+    "savol": "$A:l^{1} l^{2}, Ax=(0,\\frac{1}{2}x_{1}, \\frac{2}{3}x_{2},…,\\frac{n-1}{n}x_{n-1},…) $operatorga qo`shma operatorni ko`rsating.",
+    "A": "$$A^{*}y=(\\frac{1}{2}y_{2}, \\frac{2}{3}y_{3},…) $$",
+    "B": "$$A^{*}y=(\\frac{1}{2}y_{1}, \\frac{2}{3}y_{2},…) $$",
+    "C": "$$A^{*}y=(y_{2}, \\frac{2}{3}y_{3},…) $$",
+    "D": "$$A^{*}y=(\\frac{1}{2}y_{2}, y_{3},…) $$",
+    "javob": "A"
+  },
+  {
+    "savol": "$A:l^{∞} l^{∞}, A(x_{1},x_{2},…)=(0,x_{1},x_{2},…)$ operatorning normasi qaysi javobda to`g`ri ko`rsatilgan?",
+    "A": "$$1$$",
+    "B": "2",
+    "C": "5",
+    "D": "4",
+    "javob": "A"
+  },
+  {
+    "savol": "$A:L^{2}[0,1] L^{2}[0,1], (Ax)(t)=t\\sum_{0}^{1} x(s)ds$ operatorning normasi qaysi javobda to`g`ri ko`rsatilgan?",
+    "A": "$$\\frac{1}{\\sqrt{3}}$$",
+    "B": "2",
+    "C": "3",
+    "D": "$$\\frac{1}{2}$$",
+    "javob": "A"
+  },
+  {
+    "savol": "$A:L^{2}[0,1] L^{2}[0,1], (Ax)(t)=t⋅x(t)$ operatorning normasi qaysi javobda to`g`ri ko`rsatilgan?",
+    "A": "$$1$$",
+    "B": "2",
+    "C": "3",
+    "D": "$$\\frac{1}{2}$$",
+    "javob": "A"
+  },
+  {
+    "savol": "$A:L^{2}[0,1] L^{2}[0,1], (Ax)(t)=x(\\sqrt{t})$ operatorning normasi qaysi javobda to`g`ri ko`rsatilgan?",
+    "A": "$$2$$",
+    "B": "1",
+    "C": "3",
+    "D": "$$\\frac{1}{2}$$",
+    "javob": "A"
+  },
+  {
+    "savol": "$A:L^{2}[-π,π] L^{2}[-π,π], Af=\\sum_{-π}^{π} cos(x-t)f(t)dt$ operatorning qiymatlar sohasi qaysi javobda to`g`ri ko`rsatilgan?",
+    "A": "$$ImA=span{cosx,sinx}$$",
+    "B": "$$ImA=span{cosx}$$",
+    "C": "$$ImA=span{sinx}$$",
+    "D": "$$ImA=∅$$",
+    "javob": "A"
+  },
+  {
+    "savol": "$A:R^{2} R^{2}, A(x,y)=(2x,3y)$ operatorning normasi qaysi javobda to`g`ri ko`rsatilgan?",
+    "A": "3",
+    "B": "2",
+    "C": "5",
+    "D": "4",
+    "javob": "A"
+  },
+  {
+    "savol": "$A:R^{2} R^{2}, A(x,y)=(x+y,x-y)$ operatorning qiymatlar sohasi qaysi javobda to`g`ri ko`rsatilgan?",
+    "A": "$$ImA=R^{2}$$",
+    "B": "$$ImA=R$$",
+    "C": "$$ImA=R^{4}$$",
+    "D": "$$ImA=R^{3}$$",
+    "javob": "A"
+  },
+  {
+    "savol": "$A:R^{2} R^{2}, A(x,y)=(x+y,x-y)$ operatorning yadrosi qaysi javobda to`g`ri ko`rsatilgan?",
+    "A": "$$KerA={(0,0)}$$",
+    "B": "$$KerA={(x,y):x,y∈R}$$",
+    "C": "$$KerA={(0,x=y):x,y∈R}$$",
+    "D": "$$KerA={(0,y):y∈R}$$",
+    "javob": "A"
+  },
+  {
+    "savol": "$A:C[0,1] C[0,1], (Ax)(t)=\\sum_{0}^{t} x(s)ds$ operatorning normasi qaysi javobda to`g`ri ko`rsatilgan?",
+    "A": "$$1$$",
+    "B": "2",
+    "C": "3",
+    "D": "$$\\frac{1}{2}$$",
+    "javob": "A"
+  },
+  {
+    "savol": "$A:C[0,1] C[0,1], Af=\\sum_{0}^{x} f(t)dt$ operatorning qiymatlar sohasi qaysi javobda to`g`ri ko`rsatilgan?",
+    "A": "$$ImA={g∈C^{1}[0,1]:g(0)=0}$$",
+    "B": "$$ImA={g∈C^{1}[0,1]:g(0)=1}$$",
+    "C": "$$ImA={g∈C[0,1]:g(0)=0}$$",
+    "D": "$$ImA={g∈C[0,1]:g(0)=1}$$",
+    "javob": "A"
+  },
+  {
+    "savol": "$A:C[0,1] C[0,1], Af=\\sum_{0}^{x} f(t)dt$ operatorning yadrosi qaysi javobda to`g`ri ko`rsatilgan?",
+    "A": "$$KerA={0}$$",
+    "B": "$$KerA={(x,y):x,y∈R}$$",
+    "C": "$$KerA={(0,x=y):x,y∈R}$$",
+    "D": "$$KerA={(0,y):y∈R}$$",
+    "javob": "A"
+  },
+  {
+    "savol": "$A:X Y$ chiziqli chegaralangan operator bo`lsin. U holda $||A||=inf{C>0:||Ax||_{Y}≤c||x||_{X}, ∀x∈X }$ son $A$ operatorning … deyiladi.",
+    "A": "normasi",
+    "B": "ildizi",
+    "C": "darajasi",
+    "D": "to`g`ri javob berilmagan",
+    "javob": "A"
+  },
+  {
+    "savol": "$A:X Y$ chiziqli operator teskarilanuvchan bo`lishi uchun $Ax=θ$ tenglama faqat … yechimga ega bo`lishi zarur va yetarli.",
+    "A": "$$x=θ$$",
+    "B": "$$x=1$$",
+    "C": "$$x=I$$",
+    "D": "$$x=-1$$",
+    "javob": "A"
+  },
+  {
+    "savol": "$A:X Y$ chiziqli va chegaralangan operator va $x∈D(A), ||x||=1$ uchun quyidagi javoblarda keltirilgan tengsizlikdan qaysi biri o`rinli?",
+    "A": "$$||Ax||_{Y}≤||A||$$",
+    "B": "$$||Ax||_{Y}≥||A||$$",
+    "C": "$$||Ax||_{Y}<||A||$$",
+    "D": "$$||Ax||_{Y}>||A||$$",
+    "javob": "A"
+  },
+  {
+    "savol": "$A∈L(X,Y)$ bo`lsa, u holda $A^{*}∈L(Y^{*},X^{*})$ bo`ladi va … tenglik o`rinli.",
+    "A": "$$||A||=||A^{*}||$$",
+    "B": "$$||A||≥||A^{*}||$$",
+    "C": "$$||A||≤||A^{*}||$$",
+    "D": "$$||A||≠||A^{*}||$$",
+    "javob": "A"
+  },
+  {
+    "savol": "$A∈L(X,Y)$ bo`lsin. Agar biror $A^{*}:Y^{*} X^{*}$ operator va ixtiyoriy $x∈X,y∈Y^{*}$ lar uchun $(g,Ax)=(A^{*}g,x)$ tenglik o`rinli bo`lsa, $A^{*}$ operator $A$ ga … operator deyiladi.",
+    "A": "qo`shma",
+    "B": "izomorf",
+    "C": "teng",
+    "D": "to`g`ri javob berilmagan",
+    "javob": "A"
+  },
+  {
+    "savol": "$Ax=0$ tenglamani qanoatlantiruvchi barcha $x$ lar to`plami operatorning … deb ataladi.",
+    "A": "yadrosi",
+    "B": "hosilasi",
+    "C": "limitik nuqtasi",
+    "D": "to`g`ri javob berilmagan",
+    "javob": "A"
+  },
+  {
+    "savol": "$H$ Gilbert fazosi va $A∈L(H)$ operator berilgan bo`lsin. Agar biror $A^{*}:H H$ operator va ixtiyoriy $x,y∈H$ lar uchun $(Ax,y)=(x,A^{*}y)$ tenglik o`rinli bo`lsa, $A^{*}$ operator $A$ ga … deyiladi.",
+    "A": "qo`shma",
+    "B": "teng",
+    "C": "kengaytma",
+    "D": "to`g`ri javob berilmagan",
+    "javob": "A"
+  },
+  {
+    "savol": "$H$ Gilbert fazosida skalyar ko`paytma yordamida norma qanday aniqlanadi?",
+    "A": "$$||x||^{2}=(x,x)$$",
+    "B": "$$||x||^{2}≥(x,y)$$",
+    "C": "$$||x||=(x,x)$$",
+    "D": "$$||x||^{2}=\\sqrt{(x,x)}$$",
+    "javob": "A"
+  },
+  {
+    "savol": "$V$ chiziqli fazo va $f:V R$ nolga teng bo`lmagan chiziqli funksional bo`lsin. Bu funksionalning yadrosi qaysi javobda to`g`ri ko`rsatilgan.",
+    "A": "$$Kerf={x∈V:f(x)=0}$$",
+    "B": "$$Kerf={x∈V:f(x)>0}$$",
+    "C": "$$Kerf={x∈V:f(x)<0}$$",
+    "D": "$$Kerf={x∈V:f(x)≥0}$$",
+    "javob": "A"
+  },
+  {
+    "savol": "$X$ chiziqli normallangan fazoda aniqlangan chiziqli $f$ funksional uzluksiz bo`lishi uchun uning … bo`lishi zarur va yetarli.",
+    "A": "chegaralangan",
+    "B": "chegaralanmagan",
+    "C": "nolga teng",
+    "D": "to`g`ri javob berilmagan",
+    "javob": "A"
+  },
+  {
+    "savol": "$X$ fazodan olingan har bir $x∈X$ elementga $Y$ fazoning yagona $y∈Y$ elementini mos qo`yuvchi akslantirish … deyiladi.",
+    "A": "operator",
+    "B": "funksional",
+    "C": "funksiya",
+    "D": "invektiv akslantirish",
+    "javob": "A"
+  },
+  {
+    "savol": "$X$ normallangan chiziqli fazoda aniqlangan barcha chiziqli uzluksiz funksionallar to`plami $X$ fazosining … deyiladi",
+    "A": "qo`shma fazosi",
+    "B": "kengaytmasi",
+    "C": "biri",
+    "D": "to`g`ri javob berilmagan",
+    "javob": "A"
+  },
+  {
+    "savol": "$x∈D(A)∩D(B)$ elementga $y=Ax+Bx∈Y$ elementni mos qo`yuvchi $C=A+B$ operatorga $A$ va $B$ operatorlarning … deyiladi.",
+    "A": "yig`indisi",
+    "B": "ayirmasi",
+    "C": "ko`paytmasi",
+    "D": "to`g`ri javob berilmagan",
+    "javob": "A"
+  },
+  {
+    "savol": "Normallangan fazo qachon Banax fazo bo`ladi?",
+    "A": "To`liq bo`lsa",
+    "B": "Chekli bo`lsa",
+    "C": "Kompakt bo`lsa",
+    "D": "Separabel bo`lsa",
+    "javob": "A"
+  },
+  {
+    "savol": "Banax fazoda Cauchy ketma-ketlikning xossasi qaysi?",
+    "A": "Chegaralangan",
+    "B": "Kompakt",
+    "C": "Ochiq",
+    "D": "Diskret",
+    "javob": "A"
+  },
+  {
+    "savol": "Norma yordamida qanday topologiya aniqlanadi?",
+    "A": "Kuchli topologiya",
+    "B": "Zaif topologiya",
+    "C": "Zaif-* topologiya",
+    "D": "Spektral topologiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi fazo Banax bo`lmasligi mumkin?",
+    "A": "Normallangan fazo",
+    "B": "ℓᵖ (p≥1)",
+    "C": "Lᵖ (p≥1)",
+    "D": "C[a,b]",
+    "javob": "A"
+  },
+  {
+    "savol": "Operator normasi nimaga teng?",
+    "A": "sup ‖Tx‖, ‖x‖≤1",
+    "B": "inf ‖Tx‖",
+    "C": "lim ‖Tx‖",
+    "D": "∫‖Tx‖",
+    "javob": "A"
+  },
+  {
+    "savol": "Chegaralangan operator qaysi nuqtada uzluksizligi bilan aniqlanadi?",
+    "A": "0 nuqtada",
+    "B": "1 nuqtada",
+    "C": "Har nuqtada alohida",
+    "D": "∞ da",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi operator normani oshirmaydi?",
+    "A": "Qisqaruvchi operator",
+    "B": "Izometriya",
+    "C": "Nol operator",
+    "D": "Kompakt operator",
+    "javob": "A"
+  },
+  {
+    "savol": "Qisqaruvchi operator normasi qanday bo`ladi?",
+    "A": "< 1",
+    "B": "= 1",
+    "C": "> 1",
+    "D": "∞",
+    "javob": "A"
+  },
+  {
+    "savol": "Banax fiksatsiya teoremasi nimaga oid?",
+    "A": "Qisqaruvchi operatorlarga",
+    "B": "Kompakt operatorlarga",
+    "C": "Normal operatorlarga",
+    "D": "Proeksiyalarga",
+    "javob": "A"
+  },
+  {
+    "savol": "Chegaralangan operator tasviri qanday bo`ladi?",
+    "A": "Chegaralangan",
+    "B": "Kompakt",
+    "C": "Ochiq",
+    "D": "Zich",
+    "javob": "A"
+  },
+  {
+    "savol": "Operatorning yadro va tasviri qanday bog`langan?",
+    "A": "Faktor fazo orqali",
+    "B": "Norma orqali",
+    "C": "Spektr orqali",
+    "D": "Integral orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Birlik operator spektri qanday?",
+    "A": "{1}",
+    "B": "{0}",
+    "C": "ℝ",
+    "D": "ℂ",
+    "javob": "A"
+  },
+  {
+    "savol": "Izometriya spektri qaysi to`plamda yotadi?",
+    "A": "Birlik aylana",
+    "B": "Nol atrofida",
+    "C": "Haqiqiy o`q",
+    "D": "Diskret",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi operatorning normasi 1 ga teng?",
+    "A": "Ortogonal proeksiya",
+    "B": "Nol operator",
+    "C": "Qisqaruvchi",
+    "D": "Kvazinilpotent",
+    "javob": "A"
+  },
+  {
+    "savol": "Hilbert fazoda adjoint operator nimani ifodalaydi?",
+    "A": "Skalyar ko`paytma orqali aniqlanadi",
+    "B": "Integral orqali",
+    "C": "Limit orqali",
+    "D": "Norma orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Banax fazoda adjoint operator har doim mavjudmi?",
+    "A": "Yo`q",
+    "B": "Ha",
+    "C": "Faqat ℓ² da",
+    "D": "Chekli fazoda",
+    "javob": "A"
+  },
+  {
+    "savol": "Operator o`z-o`ziga qo`shma bo`lsa, u qanday?",
+    "A": "Normal",
+    "B": "Kvazinilpotent",
+    "C": "Kompakt emas",
+    "D": "Injektiv",
+    "javob": "A"
+  },
+  {
+    "savol": "O`z-o`ziga qo`shma operator normasi nimaga teng?",
+    "A": "Spektr radiusiga",
+    "B": "Nolga",
+    "C": "1 ga",
+    "D": "∞ ga",
+    "javob": "A"
+  },
+  {
+    "savol": "Normal operator uchun qaysi tenglik o`rinli?",
+    "A": "‖T‖ = spektr radiusi",
+    "B": "‖T‖ = 0",
+    "C": "‖T‖ = 1",
+    "D": "‖T‖ = ∞",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi operatorlar spektr teoremasiga ega?",
+    "A": "Normal operatorlar",
+    "B": "Barcha operatorlar",
+    "C": "Kompakt operatorlar",
+    "D": "Qisqaruvchilar",
+    "javob": "A"
+  },
+  {
+    "savol": "Kompakt operatorning spektrida 0 qanday rol o`ynaydi?",
+    "A": "Yig`ilish nuqtasi",
+    "B": "Ajratilgan nuqta emas",
+    "C": "Yo`qoladi",
+    "D": "Maksimum",
+    "javob": "A"
+  },
+  {
+    "savol": "Operator resolventi nima?",
+    "A": "(λI − T)⁻¹",
+    "B": "T⁻¹",
+    "C": "λT",
+    "D": "I − T",
+    "javob": "A"
+  },
+  {
+    "savol": "Resolvent to`plami qanday to`plam?",
+    "A": "Ochiq",
+    "B": "Yopiq",
+    "C": "Diskret",
+    "D": "Chegaralangan",
+    "javob": "A"
+  },
+  {
+    "savol": "Spektr to`plami qanday?",
+    "A": "Yopiq",
+    "B": "Ochiq",
+    "C": "Diskret",
+    "D": "Cheksiz ochiq",
+    "javob": "A"
+  },
+  {
+    "savol": "Operator spektr radiusi formulasi qaysi?",
+    "A": "lim ‖Tⁿ‖¹⁄ⁿ",
+    "B": "sup ‖Tx‖",
+    "C": "inf ‖Tx‖",
+    "D": "∫‖T‖",
+    "javob": "A"
+  },
+  {
+    "savol": "Kvazinilpotent operator normasi haqida nima deyish mumkin?",
+    "A": "Nolga yaqinlashadi",
+    "B": "Doim nol",
+    "C": "1 ga teng",
+    "D": "∞",
+    "javob": "A"
+  },
+  {
+    "savol": "Chekli rangli operatorlar fazosi qanday?",
+    "A": "Zich emas",
+    "B": "Banax",
+    "C": "Hilbert",
+    "D": "Refleksiv",
+    "javob": "A"
+  },
+  {
+    "savol": "Kompakt operatorlar fazosi yopiqmi?",
+    "A": "Yo`q",
+    "B": "Ha",
+    "C": "Faqat ℓ² da",
+    "D": "Faqat ℝⁿ da",
+    "javob": "A"
+  },
+  {
+    "savol": "Operator normada yaqinlashsa, u qanday yaqinlashadi?",
+    "A": "Kuchli",
+    "B": "Zaif",
+    "C": "Zaif-*",
+    "D": "Spektral",
+    "javob": "A"
+  },
+  {
+    "savol": "Zaif yaqinlashuv kuchli yaqinlashuvni anglatadimi?",
+    "A": "Yo`q",
+    "B": "Ha",
+    "C": "Har doim",
+    "D": "Chekli fazoda",
+    "javob": "A"
+  },
+  {
+    "savol": "Refleksiv fazoda zaif va zaif-* topologiya qanday?",
+    "A": "Mos tushadi",
+    "B": "Farq qilmaydi",
+    "C": "Teng emas",
+    "D": "Aniqlanmagan",
+    "javob": "A"
+  },
+  {
+    "savol": "Banax fazoda birlik shar qanday to`plam?",
+    "A": "Yopiq va cheklangan",
+    "B": "Ochiq",
+    "C": "Kompakt",
+    "D": "Diskret",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi shartda birlik shar kompakt bo`ladi?",
+    "A": "Chekli o`lchamda",
+    "B": "Har doim",
+    "C": "Refleksivlikda",
+    "D": "Hilbertlikda",
+    "javob": "A"
+  },
+  {
+    "savol": "Banax fazoda separabellik nimani bildiradi?",
+    "A": "Zich sanoqli to`plam bor",
+    "B": "Kompaktlik",
+    "C": "To`liqlik",
+    "D": "Chegaralanganlik",
+    "javob": "A"
+  },
+  {
+    "savol": "ℓ∞ fazoning asosiy xossasi qaysi?",
+    "A": "Dual fazo sifatida chiqadi",
+    "B": "Hilbert",
+    "C": "Refleksiv",
+    "D": "Kompakt",
+    "javob": "A"
+  },
+  {
+    "savol": "ℓ¹ fazoning duali qaysi?",
+    "A": "ℓ∞",
+    "B": "ℓ²",
+    "C": "ℓ¹",
+    "D": "c₀",
+    "javob": "A"
+  },
+  {
+    "savol": "c₀ fazoning duali qaysi?",
+    "A": "ℓ¹",
+    "B": "ℓ∞",
+    "C": "c₀",
+    "D": "ℓ²",
+    "javob": "A"
+  },
+  {
+    "savol": "Refleksivlik qaysi fazoda bajariladi?",
+    "A": "ℓᵖ (1<p<∞)",
+    "B": "ℓ¹",
+    "C": "ℓ∞",
+    "D": "c₀",
+    "javob": "A"
+  },
+  {
+    "savol": "Banax fazoda zaif kompaktlik nimaga bog`liq?",
+    "A": "Refleksivlikka",
+    "B": "Separabellikka",
+    "C": "Kompaktlikka",
+    "D": "Norma tanlashga",
+    "javob": "A"
+  },
+  {
+    "savol": "Operator normasi ostida L(X,Y) qanday fazo?",
+    "A": "Banax",
+    "B": "Hilbert",
+    "C": "Kompakt",
+    "D": "Refleksiv",
+    "javob": "A"
+  },
+  {
+    "savol": "Operator normasi bilan yopiq shar qanday?",
+    "A": "Yopiq",
+    "B": "Ochiq",
+    "C": "Kompakt",
+    "D": "Diskret",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi operator doim kompakt emas?",
+    "A": "Identik operator (∞ o`lchamda)",
+    "B": "Nol operator",
+    "C": "Chekli rangli",
+    "D": "Integral operator",
+    "javob": "A"
+  },
+  {
+    "savol": "Banax fazoda kuchli topologiya qaysi?",
+    "A": "Norma topologiyasi",
+    "B": "Zaif topologiya",
+    "C": "Zaif-*",
+    "D": "Spektral",
+    "javob": "A"
+  },
+  {
+    "savol": "Operator normasi ostida yaqinlashuv nimani bildiradi?",
+    "A": "Bir xilda yaqinlashuv",
+    "B": "Nuqtaviy",
+    "C": "Integral",
+    "D": "Zaif",
+    "javob": "A"
+  },
+  {
+    "savol": "Banax fazoda yopiq grafik teoremasi qachon qo`llanadi?",
+    "A": "Banax Banax",
+    "B": "Har fazoda",
+    "C": "Chekli fazoda",
+    "D": "Hilbert fazoda",
+    "javob": "A"
+  },
+  {
+    "savol": "Operatorlar nazariyasida “yadro” nimani anglatadi?",
+    "A": "T(x)=0 bo`lgan x lar",
+    "B": "Spektr",
+    "C": "Tasvir",
+    "D": "Norma",
+    "javob": "A"
+  }
+]
