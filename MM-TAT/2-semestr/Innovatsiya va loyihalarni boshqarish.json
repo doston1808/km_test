@@ -1,0 +1,1602 @@
+[
+  {
+    "savol": "Python tilining tipizatsiyasi qanday?",
+    "A": "Dinamik (dynamically typed)",
+    "B": "Statik (statically typed)",
+    "C": "Kuchsiz (weakly typed)",
+    "D": "Kompilyatsiyadan oldin tekshiriladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Java dasturlari qaysi virtual mashinada ishlaydi?",
+    "A": "JVM (Java Virtual Machine)",
+    "B": "CLR (Common Language Runtime)",
+    "C": "V8",
+    "D": "Node.js runtime",
+    "javob": "A"
+  },
+  {
+    "savol": "JavaScript ning brauzerda eng keng tarqalgan dvigateli (engine) qaysi?",
+    "A": "V8 (Chrome)",
+    "B": "JVM (Java Virtual Machine)",
+    "C": "CLR",
+    "D": "Mono",
+    "javob": "A"
+  },
+  {
+    "savol": "C# tili Microsoft tomonidan qaysi platforma uchun yaratilgan?",
+    "A": ".NET",
+    "B": "JVM",
+    "C": "Node.js",
+    "D": "LLVM",
+    "javob": "A"
+  },
+  {
+    "savol": "Go tilini kim ishlab chiqqan?",
+    "A": "Google",
+    "B": "Microsoft",
+    "C": "Oracle",
+    "D": "Mozilla",
+    "javob": "A"
+  },
+  {
+    "savol": "Go tilida konkurrensiya qaysi tushuncha orqali amalga oshiriladi?",
+    "A": "Goroutine va channel",
+    "B": "Thread va lock",
+    "C": "Process va pipe",
+    "D": "Promise va async",
+    "javob": "A"
+  },
+  {
+    "savol": "Python da GIL nimani anglatadi?",
+    "A": "Global Interpreter Lock",
+    "B": "General Indexing Layer",
+    "C": "Generic Iterator Loop",
+    "D": "Garbage Initialization Lock",
+    "javob": "A"
+  },
+  {
+    "savol": "Java va C# da xotira boshqaruvi qanday amalga oshiriladi?",
+    "A": "Garbage Collection (avtomatik)",
+    "B": "Qo’lda free()/delete bilan (automatics)",
+    "C": "Stack-only",
+    "D": "Hech qanday boshqaruv yo’q",
+    "javob": "A"
+  },
+  {
+    "savol": "JavaScript bir tarmoqli (single-threaded) bo’lishiga qaramay, asinxron operatsiyalarni qanday boshqaradi?",
+    "A": "Event loop orqali",
+    "B": "Bir necha tarmoq orqali",
+    "C": "OS process’lari orqali",
+    "D": "Sleep funksiyasi orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi tillardan qaysi biri kompilyatsiya qilinmaydigan, izohlanadigan (interpreted) til?",
+    "A": "Python",
+    "B": "Java (mahalliy kodga to’liq)",
+    "C": "C#",
+    "D": "Go",
+    "javob": "A"
+  },
+  {
+    "savol": "Python da paket boshqaruvchisi sifatida nima ishlatiladi?",
+    "A": "pip",
+    "B": "npm",
+    "C": "maven",
+    "D": "nuget",
+    "javob": "A"
+  },
+  {
+    "savol": "Java da paket/loyiha boshqaruvchilari qaysilar?",
+    "A": "Maven va Gradle",
+    "B": "Pip va conda",
+    "C": "Npm va yarn",
+    "D": "Nuget va dotnet",
+    "javob": "A"
+  },
+  {
+    "savol": "JavaScript Node.js muhitida paketlar qaysi tizim orqali boshqariladi?",
+    "A": "npm yoki yarn",
+    "B": "pip yoki yarn",
+    "C": "maven",
+    "D": "nuget",
+    "javob": "A"
+  },
+  {
+    "savol": "Go tilining asosiy afzalliklaridan biri nimada?",
+    "A": "Tez kompilyatsiya va statik bog’lash (single binary)",
+    "B": "Hech qanday tipi yo’qligi",
+    "C": "Brauzerda ishlashi yoki statistik bog’lash (singley binarys)",
+    "D": "Sun’iy intellekt uchun mo’ljallanganligi",
+    "javob": "A"
+  },
+  {
+    "savol": "HTML hujjatining birinchi qatorida nima yoziladi?",
+    "A": "<!DOCTYPE html>",
+    "B": "<html>",
+    "C": "<head>",
+    "D": "<meta>",
+    "javob": "A"
+  },
+  {
+    "savol": "Semantik HTML teglariga qaysi misol mos keladi?",
+    "A": "<header>, <nav>, <article>",
+    "B": "<div>, <span>",
+    "C": "<b>, <i>, <span>",
+    "D": "<table>, <tr>, <span>",
+    "javob": "A"
+  },
+  {
+    "savol": "CSS box model qaysi qismlardan iborat?",
+    "A": "content, padding, border, margin",
+    "B": "header, body, footer",
+    "C": "tag, class, id",
+    "D": "selector, property, value, footer",
+    "javob": "A"
+  },
+  {
+    "savol": "CSS Flexbox qaysi yo’nalishda elementlarni joylashtiradi?",
+    "A": "Asosiy va ko’ndalang o’qlar bo’yicha",
+    "B": "Asosiy va vertikal o’qlar orqali",
+    "C": "Gorizontal o’qlar bo’yicha",
+    "D": "Tasodifiy o’qlar bo’yicha",
+    "javob": "A"
+  },
+  {
+    "savol": "CSS Grid va Flexbox o’rtasidagi farq qaysi?",
+    "A": "Grid 2D layout, Flexbox 1D layout uchun",
+    "B": "Hech qanday farqi yo’q",
+    "C": "Grid faqat vertikal, Flexbox gorizontal",
+    "D": "Grid eskirgan, Flexbox yangi",
+    "javob": "A"
+  },
+  {
+    "savol": "Responsive dizayn uchun CSS da qaysi xususiyat ishlatiladi?",
+    "A": "@media queries",
+    "B": "@import",
+    "C": "@charset",
+    "D": "@keyframes",
+    "javob": "A"
+  },
+  {
+    "savol": "JavaScript da let va const o’rtasidagi asosiy farq?",
+    "A": "const qiymati o’zgartirilmaydi (immutable binding)",
+    "B": "let global, const lokal",
+    "C": "Hech qanday farqi yo’q",
+    "D": "let faqat sonlar uchun (innutable binding)",
+    "javob": "A"
+  },
+  {
+    "savol": "DOM nimani anglatadi?",
+    "A": "Document Object Model",
+    "B": "Data Object Manager",
+    "C": "Dynamic Output Method",
+    "D": "Document Online Module",
+    "javob": "A"
+  },
+  {
+    "savol": "JavaScript da Promise qaysi holatlarda bo’ladi?",
+    "A": "Pending, Fulfilled, Rejected",
+    "B": "Active, Inactive",
+    "C": "True, False",
+    "D": "Open, Closed, Paused",
+    "javob": "A"
+  },
+  {
+    "savol": "async/await qaysi mexanizm ustida ishlaydi?",
+    "A": "Promise",
+    "B": "Callback",
+    "C": "setTimeout",
+    "D": "Event listener",
+    "javob": "A"
+  },
+  {
+    "savol": "Event delegation tushunchasi nimani anglatadi?",
+    "A": "Ota elementga listener qo’yib, bolalar voqealarini ushlash",
+    "B": "Voqea o’chirish",
+    "C": "Bir voqeani bir necha marta chaqirish",
+    "D": "Voqealarga list qo`yib, elementlarni bekor qilish",
+    "javob": "A"
+  },
+  {
+    "savol": "CSS preprocessorlariga qaysi misollar mos keladi?",
+    "A": "Sass, LESS, Stylus",
+    "B": "React, Vue",
+    "C": "npm, yarn",
+    "D": "Webpack, Rollup, Vue",
+    "javob": "A"
+  },
+  {
+    "savol": "BEM nomlash konventsiyasi nimadan iborat?",
+    "A": "Block, Element, Modifier",
+    "B": "Browser, Element, Method",
+    "C": "Big, Element, Mini",
+    "D": "Box, Edge, Margin",
+    "javob": "A"
+  },
+  {
+    "savol": "CSS specificity (xususiylik) qaysi tartibda ortadi?",
+    "A": "Tag → Class → ID → Inline",
+    "B": "ID → Class → Tag",
+    "C": "Inline → ID → Class → Tag",
+    "D": "Hammasi teng",
+    "javob": "A"
+  },
+  {
+    "savol": "Django qaysi tilda yozilgan?",
+    "A": "Python",
+    "B": "Java",
+    "C": "JavaScript",
+    "D": "C#",
+    "javob": "A"
+  },
+  {
+    "savol": "Django ning arxitekturasi qaysi shaklda?",
+    "A": "MTV (Model-Template-View)",
+    "B": "MVC (Model-View-Controller)",
+    "C": "MVP (Model-View-Presenter)",
+    "D": "MVVM (Model-Vemplate-View Made)",
+    "javob": "A"
+  },
+  {
+    "savol": "Flask qanday framework hisoblanadi?",
+    "A": "Mikro-framework (yengil va minimal)",
+    "B": "Full-stack framework",
+    "C": "Ma’lumotlar bazasi vositasi (yengil va maksimal)",
+    "D": "Frontend kutubxonasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Spring Boot qaysi tilda ishlaydi?",
+    "A": "Java",
+    "B": "Python",
+    "C": "C#",
+    "D": "JavaScript",
+    "javob": "A"
+  },
+  {
+    "savol": "Spring va Spring Boot ning farqi nimada?",
+    "A": "Spring Boot avtomatik konfiguratsiya va embedded server bilan ishni soddalashtiradi",
+    "B": "Hech qanday farqi yo’q",
+    "C": "Spring Boot eskirgan",
+    "D": "Spring faqat veb uchun va dembedded servering bilan ishni soddalashtiradi",
+    "javob": "A"
+  },
+  {
+    "savol": ".NET Core (yoki keyingi versiyalari) qaysi xususiyat bilan ajralib turadi?",
+    "A": "Kross-platforma (Linux, Windows, macOS)",
+    "B": "Windows da ishlashi (Apple, EZ APK, App Installer, VPN Plus)",
+    "C": "veb uchun mo’ljallanganligi",
+    "D": "Yopiq manbali bo’lishi",
+    "javob": "A"
+  },
+  {
+    "savol": "React kutubxonasini kim ishlab chiqqan?",
+    "A": "Facebook (Meta)",
+    "B": "Google (KIMI)",
+    "C": "Microsoft (OFFICE)",
+    "D": "Oracle",
+    "javob": "A"
+  },
+  {
+    "savol": "React ning Virtual DOM ning afzalligi nimada?",
+    "A": "Real DOM ga o’zgarishlarni samarali qo’llash uchun farq hisoblash",
+    "B": "Brauzerni almashtirish",
+    "C": "Tarmoq tezligi oshirish",
+    "D": "Real DOM hech qanday afzalligi yo’qligini isbotlash",
+    "javob": "A"
+  },
+  {
+    "savol": "Angular kutubxonasini kim qo’llab-quvvatlaydi?",
+    "A": "Google",
+    "B": "Facebook",
+    "C": "Microsoft",
+    "D": "Apple",
+    "javob": "A"
+  },
+  {
+    "savol": "Vue.js ning asosiy xususiyati qanday?",
+    "A": "Reaktiv ma’lumot bog’lanishi (two-way data binding)",
+    "B": "Backend uchun",
+    "C": "Statik saytlar uchun (one-way date building)",
+    "D": "Mobil ilovalar uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "React Hooks qachon qo’shilgan?",
+    "A": "React 16.8 versiyasidan boshlab",
+    "B": "React 1.5 ning birinchi versiyasidan",
+    "C": "Hech qachon qo’shilmagan",
+    "D": "Eksperimental",
+    "javob": "A"
+  },
+  {
+    "savol": "useState va useEffect qaysi hook lar?",
+    "A": "React Hooks",
+    "B": "Vue lifecycle hooks",
+    "C": "Angular services",
+    "D": "Spring Beans",
+    "javob": "A"
+  },
+  {
+    "savol": "Single Page Application (SPA) ning xususiyati qaysi?",
+    "A": "Bir HTML sahifa yuklanib, kontent dinamik yangilanadi",
+    "B": "Har bir o’tish uchun yangi sahifa yuklanadi",
+    "C": "Statik sahifalar",
+    "D": "Backend kerak",
+    "javob": "A"
+  },
+  {
+    "savol": "Server-Side Rendering (SSR) qaysi afzallikni beradi?",
+    "A": "Tezroq dastlabki yuklanish va SEO uchun yaxshiroq",
+    "B": "Sekinroq ishlash",
+    "C": "Hech qanday afzallik yo’q",
+    "D": "Statik sahifalar dastlabki yuklanish va NEO uchun yaxshiroq",
+    "javob": "A"
+  },
+  {
+    "savol": "PostgreSQL ning eng muhim xususiyati qaysi?",
+    "A": "Ochiq manbali, ACID-compliant, kengaytiriladigan",
+    "B": "Yopiq manbali",
+    "C": "NoSQL",
+    "D": "Windows da ACID-compliant, ishlaydigan",
+    "javob": "A"
+  },
+  {
+    "savol": "MySQL ni kim sotib olgan?",
+    "A": "Oracle (Sun Microsystems orqali)",
+    "B": "Microsoft (Office Book orqali)",
+    "C": "Google",
+    "D": "IBM",
+    "javob": "A"
+  },
+  {
+    "savol": "ACID nimani anglatadi?",
+    "A": "Atomicity, Consistency, Isolation, Durability",
+    "B": "Active, Centralized, Indexed, Distributed",
+    "C": "Asynchronous, Cached, Indexed, Decoupled",
+    "D": "Atomic, Concurrent, Independent, Direct",
+    "javob": "A"
+  },
+  {
+    "savol": "PRIMARY KEY ning vazifasi nima?",
+    "A": "Jadvaldagi har bir qatorni noyob aniqlash",
+    "B": "Tezlikni oshirish",
+    "C": "Ma’lumotlarni shifrlash",
+    "D": "Joyni tejash",
+    "javob": "A"
+  },
+  {
+    "savol": "FOREIGN KEY qaysi vazifani bajaradi?",
+    "A": "Boshqa jadval kalitiga referens",
+    "B": "Birlamchi kalit",
+    "C": "Indeks yaratish",
+    "D": "Tranzaksiya yopish",
+    "javob": "A"
+  },
+  {
+    "savol": "INNER JOIN qaysi natijani qaytaradi?",
+    "A": "ikki jadvalda ham mos keladigan qatorlarni",
+    "B": "Barcha qatorlarni",
+    "C": "chap jadval qatorlarini",
+    "D": "o’ng jadval qatorlarini",
+    "javob": "A"
+  },
+  {
+    "savol": "LEFT JOIN qaysi qatorlarni o’z ichiga oladi?",
+    "A": "Chap jadvalning barcha qatorlari + mos kelgan o’ng jadval qatorlari",
+    "B": "Mos kelganlar + o’ng jadval qatorlariga qarama`qarshi qatorlar",
+    "C": "O’ng jadval qatorlari",
+    "D": "Hech qanday qator",
+    "javob": "A"
+  },
+  {
+    "savol": "Indeks ning asosiy maqsadi nimada?",
+    "A": "Qidiruv tezligini oshirish",
+    "B": "Joyni tejash",
+    "C": "Ma’lumotlarni shifrlash",
+    "D": "Tranzaksiyalarni boshqarish",
+    "javob": "A"
+  },
+  {
+    "savol": "Tranzaksiya nima?",
+    "A": "Bir nechta amalni yakka mantiqiy birlik sifatida bajarish",
+    "B": "Bitta SELECT so’rovi",
+    "C": "Indeks yaratish",
+    "D": "Hujjatni saralash va yakka mantiqiy birlik sifatida bajarish",
+    "javob": "A"
+  },
+  {
+    "savol": "ROLLBACK buyrug’i nima qiladi?",
+    "A": "Tranzaksiyada qilingan o’zgarishlarni bekor qiladi",
+    "B": "Tranzaksiyani saqlaydi",
+    "C": "Yangi tranzaksiya boshlaydi",
+    "D": "Hech narsa qilmaydi faqat tranzaksiyani saqlaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "1NF (Birinchi Normal Forma) qoidasi nima?",
+    "A": "Har bir ustun atomik qiymatga ega va takrorlanmaydi",
+    "B": "Bitta jadval bo’lishi kerak",
+    "C": "Hech qanday kalit yo’q",
+    "D": "Indekslar majburiy qiymatga ega va takrorlanmaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Stored Procedure va Function farqi nimada?",
+    "A": "Function qiymat qaytaradi va SQL ifodada ishlatiladi, Procedure - yo’q",
+    "B": "Hech qanday farqi yo’q",
+    "C": "Procedure faqat SELECT uchun",
+    "D": "Function ma’lumotni o’zgartira olmaydi, Procedure - SQL ifodada ishlatiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "PostgreSQL JSONB ma’lumot turi qaysi xususiyatga ega?",
+    "A": "Binar formatda saqlangan, indekslanadigan JSON",
+    "B": "Matn",
+    "C": "Sonlar",
+    "D": "Yopiq formatda saqlangan, indekslanadigan JNOS",
+    "javob": "A"
+  },
+  {
+    "savol": "MongoDB qanday turdagi NoSQL ma’lumotlar bazasi?",
+    "A": "Document-oriented (hujjatga asoslangan)",
+    "B": "Key-value (kalitga asoslangan)",
+    "C": "Wide-column",
+    "D": "Graph",
+    "javob": "A"
+  },
+  {
+    "savol": "MongoDB da ma’lumotlar qanday formatda saqlanadi?",
+    "A": "BSON (Binary JSON)",
+    "B": "XML (EXCEL)",
+    "C": "CSV",
+    "D": "Plain text",
+    "javob": "A"
+  },
+  {
+    "savol": "Redis qaysi turdagi ma’lumotlar bazasi?",
+    "A": "In-memory key-value store",
+    "B": "Disk-based document",
+    "C": "Relational",
+    "D": "Graph",
+    "javob": "A"
+  },
+  {
+    "savol": "Redis ning asosiy qo’llanish sohalaridan biri qaysi?",
+    "A": "Caching va sessiya saqlash",
+    "B": "Murakkab JOIN so’rovlari",
+    "C": "Veb-server sifatida",
+    "D": "Operatsion tizim sifatida",
+    "javob": "A"
+  },
+  {
+    "savol": "Cassandra qanday model asosida ishlaydi?",
+    "A": "Wide-column store",
+    "B": "Document store",
+    "C": "Graph store",
+    "D": "Object store",
+    "javob": "A"
+  },
+  {
+    "savol": "CAP teoremasi qanday tushunchani tavsiflaydi?",
+    "A": "Consistency, Availability, Partition tolerance — uchidan ikkitasi tanlanadi",
+    "B": "Cache, API, Performance",
+    "C": "Code, Architecture, Production",
+    "D": "Compile, Assemble, Package",
+    "javob": "A"
+  },
+  {
+    "savol": "Cassandra qaysi xususiyatga moyil?",
+    "A": "AP (Availability + Partition tolerance)",
+    "B": "CA (Consistency + Availability)",
+    "C": "CP Consistency + Partition Tolerance",
+    "D": "Hech biri",
+    "javob": "A"
+  },
+  {
+    "savol": "Redis da TTL nimani anglatadi?",
+    "A": "Time To Live - kalit yashash vaqti",
+    "B": "Total Time Limit",
+    "C": "Transaction Time Lock",
+    "D": "Type Translation Layer",
+    "javob": "A"
+  },
+  {
+    "savol": "MongoDB Aggregation Framework qanday ishlaydi?",
+    "A": "Pipeline orqali ma’lumotlarni bosqichma-bosqich qayta ishlash",
+    "B": "SELECT so’rovlari",
+    "C": "INSERT",
+    "D": "Hech qanday tarzda",
+    "javob": "A"
+  },
+  {
+    "savol": "Redis Pub/Sub mexanizmi nima?",
+    "A": "Xabar nashr qilish va obuna bo’lish (publisher-subscriber)",
+    "B": "Xabarni o’qish va yodda saqlash (reader subscriber)",
+    "C": "yozish",
+    "D": "Diskka saqlash",
+    "javob": "A"
+  },
+  {
+    "savol": "Eventual consistency tushunchasi nimani anglatadi?",
+    "A": "Vaqt o’tishi bilan barcha tugunlar bir xil holatga keladi",
+    "B": "Hech qachon mos kelmaydi",
+    "C": "bitta nusxa bo’ladi",
+    "D": "Doimo darhol mos keladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Cassandra da Partition Key vazifasi qanday?",
+    "A": "Ma’lumotni tugunlar bo’yicha taqsimlash uchun",
+    "B": "Ma’lumotni tugunlar bo’yicha saralash uchun",
+    "C": "Birlamchi kalit emas",
+    "D": "Hech qanday vazifasi yo’q",
+    "javob": "A"
+  },
+  {
+    "savol": "MongoDB va PostgreSQL ni asosiy farqlanishi nimada?",
+    "A": "MongoDB schema-less hujjatlar, PostgreSQL strict schema relational",
+    "B": "Hech qanday farqi yo’q",
+    "C": "MongoDB tezroq har doim va PostgreSQL faqat NoSQL",
+    "D": "PostgreSQL faqat NoSQL",
+    "javob": "A"
+  },
+  {
+    "savol": "REST nimani anglatadi?",
+    "A": "Representational State Transfer",
+    "B": "Remote Execution Service Type",
+    "C": "Reactive State Engine Tool",
+    "D": "Relational Service Transport",
+    "javob": "A"
+  },
+  {
+    "savol": "RESTful API da resursni o’qish uchun qaysi HTTP metodi ishlatiladi?",
+    "A": "GET",
+    "B": "POST",
+    "C": "DELETE",
+    "D": "PATCH",
+    "javob": "A"
+  },
+  {
+    "savol": "RESTful API da resurs yaratish uchun qaysi metod?",
+    "A": "POST",
+    "B": "GET",
+    "C": "DELETE",
+    "D": "OPTIONS",
+    "javob": "A"
+  },
+  {
+    "savol": "PUT va PATCH metodlari farqi qanday?",
+    "A": "PUT to’liq, PATCH qisman yangilash",
+    "B": "Hech qanday farqi yo’q",
+    "C": "PUT - o’qish, PATCH - yozish",
+    "D": "PATCH eskirgan",
+    "javob": "A"
+  },
+  {
+    "savol": "GraphQL kim tomonidan yaratilgan?",
+    "A": "Facebook (Meta)",
+    "B": "Google (Account)",
+    "C": "Microsoft (Office)",
+    "D": "Oracle",
+    "javob": "A"
+  },
+  {
+    "savol": "GraphQL da Query, Mutation va Subscription o’rtasidagi farq?",
+    "A": "Query - o’qish, Mutation - yozish, Subscription - real-time",
+    "B": "Hech qanday farqi yo’q",
+    "C": "Hammasi bir xil ishlaydi",
+    "D": "Query – yozish, Mutation - o’qish ishlatiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "GraphQL ning REST dan asosiy afzalligi nimada?",
+    "A": "Mijoz aynan kerakli ma’lumotni so’rab oladi (over-fetching yo’q)",
+    "B": "Tezroq tarmoq",
+    "C": "Mijoz aynan kerakli ma’lumotni JSON orqali oladi (over-fetching)",
+    "D": "Hech qanday afzalligi yo’q",
+    "javob": "A"
+  },
+  {
+    "savol": "gRPC ning aloqa formati qaysi?",
+    "A": "Protocol Buffers (protobuf)",
+    "B": "JSON Buffers (prototip)",
+    "C": "XML",
+    "D": "YAML",
+    "javob": "A"
+  },
+  {
+    "savol": "gRPC qaysi protokol asosida ishlaydi?",
+    "A": "HTTP/2",
+    "B": "HTTP/1.0",
+    "C": "FTP",
+    "D": "WebSocket",
+    "javob": "A"
+  },
+  {
+    "savol": "gRPC da bidirectional streaming nimani anglatadi?",
+    "A": "Mijoz va server bir vaqtda xabar yuborishi mumkin",
+    "B": "Server yoki mijoz birinchi bo`lib xabar yuboradi",
+    "C": "Mijoz xabar yuboradi",
+    "D": "Aloqa yo’q",
+    "javob": "A"
+  },
+  {
+    "savol": "API versiyalashning eng keng tarqalgan usuli qaysi?",
+    "A": "URL da versiya (/api/v1/users)",
+    "B": "Cookie da versiya",
+    "C": "Versiya kerak emas",
+    "D": "Header da (/api/v2/users1)",
+    "javob": "A"
+  },
+  {
+    "savol": "Idempotent so’rov nima?",
+    "A": "Bir necha marta bajarilsa ham natija o’zgarmaydi",
+    "B": "Bir martagina bajarilishi mumkin",
+    "C": "Har safar boshqa natija beradi",
+    "D": "Bir necha marta bajarilsa ham hech qachon ishlamaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "GET metodi idempotentmi?",
+    "A": "Ha",
+    "B": "Yo’q",
+    "C": "ma’lumotlar bazasida",
+    "D": "HTTP/2 da",
+    "javob": "A"
+  },
+  {
+    "savol": "API Gateway ning vazifasi nimada?",
+    "A": "Bir necha mikroservislarga so’rovlarni yo’naltirish, autentifikatsiya, monitoring",
+    "B": "Ma’lumotlar bazasi sifatida",
+    "C": "Statik fayllar va so’rovlarni yo’naltirish, autentifikatsiya, monitoring",
+    "D": "Hech qanday vazifa",
+    "javob": "A"
+  },
+  {
+    "savol": "Git qaysi turdagi versiyalarni boshqarish tizimi?",
+    "A": "Distributed (taqsimlangan)",
+    "B": "Centralized (markazlashgan)",
+    "C": "Cloud-only",
+    "D": "Hech qanday tizim emas",
+    "javob": "A"
+  },
+  {
+    "savol": "git commit buyrug’i nima qiladi?",
+    "A": "Staging area dagi o’zgarishlarni mahalliy repozitoriyaga saqlaydi",
+    "B": "Faylni o’chiradi",
+    "C": "Branch yaratadi",
+    "D": "Staging area dagi o’zgarishlarni mahalliy repozitoriyaga Pull qiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "git pull va git fetch farqi nimada?",
+    "A": "git pull = git fetch + git merge",
+    "B": "Hech qanday farqi yo’q",
+    "C": "git fetch yangiroq",
+    "D": "git pull faqat o’qiydi",
+    "javob": "A"
+  },
+  {
+    "savol": "git branch buyrug’i nima qiladi?",
+    "A": "Branch larni ko’rsatadi yoki yaratadi",
+    "B": "Faylni o’chiradi",
+    "C": "Push qiladi",
+    "D": "Pull qiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Merge conflict qachon yuzaga keladi?",
+    "A": "Ikkita branch bir xil qatorni o’zgartirganda",
+    "B": "Push qilganda har doim",
+    "C": "Branch yaratilganda",
+    "D": "Hech qachon",
+    "javob": "A"
+  },
+  {
+    "savol": "Pull Request (Merge Request) ning asosiy maqsadi nima?",
+    "A": "Kod o’zgarishlarini main branchga qo’shishdan oldin ko’rib chiqish",
+    "B": "Kod o’zgarishlarini repozitoriya yaratish uchun",
+    "C": "Branch o’chirish uchun",
+    "D": "Hech qanday maqsadi yo’q",
+    "javob": "A"
+  },
+  {
+    "savol": "git rebase va git merge farqi qanday?",
+    "A": "Rebase chiziqli tarix yaratadi, merge - merge commit qoldiradi",
+    "B": "Hech qanday farqi yo’q",
+    "C": "Rebase faqat fayl o’chiradi, merge - merge commit qoldirmaydi",
+    "D": "Merge tezroq",
+    "javob": "A"
+  },
+  {
+    "savol": ".gitignore faylining vazifasi nima?",
+    "A": "Git tomonidan kuzatilmasligi kerak bo’lgan fayllarni ko’rsatish",
+    "B": "Branch nomlarini sanash",
+    "C": "Foydalanuvchilarni ro’yxatga olish uchun kerak bo’lgan fayllarni ko’rsatish",
+    "D": "Commit message yozish",
+    "javob": "A"
+  },
+  {
+    "savol": "git tag nima uchun ishlatiladi?",
+    "A": "Maxsus commit’larni belgilash (versiya relizlari uchun)",
+    "B": "Branch yaratish uchun",
+    "C": "Faylni o’chirish uchun belgilash (versiya realizlari uchun)",
+    "D": "Push uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "GitHub va GitLab o’rtasidagi farqlardan biri qaysi?",
+    "A": "GitLab CI/CD ichki built-in, GitHub uchun GitHub Actions",
+    "B": "Hech qanday farqi yo’q",
+    "C": "GitHub yopiq manba",
+    "D": "GitLab faqat tijoratda mavjud",
+    "javob": "A"
+  },
+  {
+    "savol": "Bitbucket platformasini kim taqdim etadi?",
+    "A": "Atlassian",
+    "B": "Microsoft",
+    "C": "Google",
+    "D": "Oracle",
+    "javob": "A"
+  },
+  {
+    "savol": "git stash buyrug’i nima qiladi?",
+    "A": "Hozirgi o’zgarishlarni vaqtincha saqlab, ish katalogini tozalaydi",
+    "B": "O’zgarishlarni butunlay o’chiradi, ish katalogidagi o`zgarishlarni saqlaydi",
+    "C": "Push qiladi",
+    "D": "Branch yaratadi",
+    "javob": "A"
+  },
+  {
+    "savol": "HEAD nima Git da?",
+    "A": "Hozirgi commit ga ko’rsatkich",
+    "B": "Birinchi commit",
+    "C": "Repozitoriya nomi",
+    "D": "Foydalanuvchi nomi",
+    "javob": "A"
+  },
+  {
+    "savol": "Docker container va virtual machine farqi qanday?",
+    "A": "Container OS ni baham ko’radi, VM o’z OS iga ega",
+    "B": "Hech qanday farqi yo’q",
+    "C": "VM yengilroq",
+    "D": "Container faqat Windows ni baham ko’radi, VM o’z OS iga ega emas",
+    "javob": "A"
+  },
+  {
+    "savol": "Docker image nima?",
+    "A": "Container ni yaratish uchun shablon (read-only)",
+    "B": "Ishlayotgan dastur",
+    "C": "Fayl",
+    "D": "Operatsion tizim ni yaratish uchun shablon (write-online)",
+    "javob": "A"
+  },
+  {
+    "savol": "Dockerfile da FROM ko’rsatmasi nima qiladi?",
+    "A": "Asosiy (base) image ni ko’rsatadi",
+    "B": "Fayl (base)ni nusxalaydi write ni ko`rsatadi",
+    "C": "Buyruq bajaradi",
+    "D": "Port ochadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Dockerfile da CMD va ENTRYPOINT farqi nimada?",
+    "A": "ENTRYPOINT majburiy bajariladi, CMD - default argumentlar (qayta yozilishi mumkin)",
+    "B": "Hech qanday farqi yo’q",
+    "C": "CMD eskirgan",
+    "D": "ENTRYPOINT eskirgan - default argumentlar (qayta yozilmaydi)",
+    "javob": "A"
+  },
+  {
+    "savol": "Docker Compose ning asosiy vazifasi nima?",
+    "A": "Bir nechta containerni YAML fayl orqali boshqarish",
+    "B": "Bitta container",
+    "C": "Container o’chirish",
+    "D": "Image yuklash YAML conrainer orqali boshqarish",
+    "javob": "A"
+  },
+  {
+    "savol": "Kubernetes da Pod nima?",
+    "A": "Bir yoki bir nechta containerni o’z ichiga olgan eng kichik joylashtiriladigan birlik",
+    "B": "Foydalanuvchi",
+    "C": "Server",
+    "D": "Bir yoki bir nechta klasterni o’z ichiga olgan eng kichik joylashtiriladigan birlik",
+    "javob": "A"
+  },
+  {
+    "savol": "Kubernetes Service nimani ta’minlaydi?",
+    "A": "Pod larga doimiy IP va DNS orqali kirish",
+    "B": "Pod larni doimiy ID va PNS orqali saqlash",
+    "C": "Tarmoq",
+    "D": "Hech narsa",
+    "javob": "A"
+  },
+  {
+    "savol": "Deployment va ReplicaSet farqi qanday?",
+    "A": "Deployment ReplicaSet ni boshqaradi va rolling update qila oladi",
+    "B": "Hech qanday farqi yo’q",
+    "C": "ReplicaSet eskirgan",
+    "D": "Deployment faqat bitta podni rolling update orqali boshqaradi",
+    "javob": "A"
+  },
+  {
+    "savol": "CI/CD nimani anglatadi?",
+    "A": "Continuous Integration / Continuous Delivery (or Deployment)",
+    "B": "Code Integration / Code Delivery",
+    "C": "Cyber Infrastructure / Cyber Defense",
+    "D": "Customer Interface / Customer Data  (or Deployment)",
+    "javob": "A"
+  },
+  {
+    "savol": "Jenkins Pipeline nima?",
+    "A": "CI/CD jarayonini kod sifatida tavsiflash",
+    "B": "Foydalanuvchi interfeysini kod sifatida tavsiflash",
+    "C": "Ma’lumotlar bazasi",
+    "D": "Dokumentatsiya",
+    "javob": "A"
+  },
+  {
+    "savol": "GitLab CI/CD da konfiguratsiya fayli qaysi?",
+    "A": ".gitlab-ci.yml",
+    "B": "Jenkinsfile",
+    "C": "Dockerfile",
+    "D": ".env",
+    "javob": "A"
+  },
+  {
+    "savol": "Blue-green deployment strategiyasining mohiyati nima?",
+    "A": "Ikki muhit ishlaydi, trafik bir-biriga almashtiriladi",
+    "B": "Bitta muhit ishlaydi, trafik bir-biriga almashtirilmaydi",
+    "C": "Test muhiti",
+    "D": "Production yo’q",
+    "javob": "A"
+  },
+  {
+    "savol": "Canary deployment nima?",
+    "A": "Yangi versiyani avval kichik foiz foydalanuvchilarga chiqarish",
+    "B": "Hammasini birdan chiqarish",
+    "C": "Yangi versiyani avval kichik foiz foydalanuvchilar orqali eskini ishlatish",
+    "D": "Test qilmaslik",
+    "javob": "A"
+  },
+  {
+    "savol": "Helm Kubernetes da nima qiladi?",
+    "A": "Paket boshqaruvchi (chart) sifatida ishlaydi",
+    "B": "Paket boshqaruvchi (chart) container yaratadi",
+    "C": "Tarmoqni boshqaradi",
+    "D": "O’chiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "IaaS, PaaS, SaaS modellari farqi nimada?",
+    "A": "Infratuzilma, Platforma va SaaS xizmatlarining mavhumlik darajasi",
+    "B": "Hech qanday farqi yo’q",
+    "C": "IaaS eskirgan",
+    "D": "SaaS faqat veb sayt mavhumlik darajasi",
+    "javob": "A"
+  },
+  {
+    "savol": "AWS EC2 nima?",
+    "A": "Virtual mashinalar (Compute) xizmati",
+    "B": "Ob’ektlar saqlash",
+    "C": "Ma’lumotlar bazasi",
+    "D": "Tarmoq xizmati (Compute) mashinalar",
+    "javob": "A"
+  },
+  {
+    "savol": "AWS S3 nima?",
+    "A": "Ob’ektga asoslangan saqlash xizmati",
+    "B": "Virtual mashinalar",
+    "C": "DNS xizmati",
+    "D": "Email ga asoslangan mashinalar xizmati",
+    "javob": "A"
+  },
+  {
+    "savol": "Microsoft Azure Functions qaysi modelga kiradi?",
+    "A": "Serverless (FaaS - Function as a Service)",
+    "B": "IaaS",
+    "C": "PaaS to’liq",
+    "D": "SaaS (Servering - Function as a Service)",
+    "javob": "A"
+  },
+  {
+    "savol": "Google Cloud da Compute Engine nima?",
+    "A": "Virtual mashinalar xizmati (IaaS)",
+    "B": "Ma’lumotlar bazasi xizmati (CaaS)",
+    "C": "DNS",
+    "D": "Email",
+    "javob": "A"
+  },
+  {
+    "savol": "Yandex Cloud platformasi qaysi mintaqada keng tarqalgan?",
+    "A": "Rossiya va MDH mamlakatlari",
+    "B": "Yevropa va Sharq mamlakatlari",
+    "C": "AQSh",
+    "D": "Osiyo",
+    "javob": "A"
+  },
+  {
+    "savol": "Auto-scaling nima?",
+    "A": "Yuk asosida resurslar sonini avtomatik o’zgartirish",
+    "B": "Qo’lda resurslarni qo’shish",
+    "C": "Yuk asosida resurslar sonini avtomatik o’chirish",
+    "D": "Hech qanday o’zgartirmaslik",
+    "javob": "A"
+  },
+  {
+    "savol": "Horizontal va vertical masshtablash farqi qanday?",
+    "A": "Horizontal — ko’proq mashina, Vertical — kuchliroq mashina",
+    "B": "Hech qanday farqi yo’q",
+    "C": "Horizontal — kamayadi, Vertical — ko`proq, kuchliroq mashina",
+    "D": "Vertical — ko’payadi",
+    "javob": "A"
+  },
+  {
+    "savol": "CDN ning asosiy vazifasi nima?",
+    "A": "Mazmunni foydalanuvchiga geografik jihatdan yaqin serverdan yetkazib berish",
+    "B": "Saqlash",
+    "C": "Mazmunni foydalanuvchiga gemetrik jihatdan yaqin serverdan shifrlash",
+    "D": "Hech qanday vazifasi yo’q",
+    "javob": "A"
+  },
+  {
+    "savol": "Load Balancer ning vazifasi nimada?",
+    "A": "So’rovlarni bir nechta server orasida muvozanatli taqsimlash",
+    "B": "So’rovlarni bir nechta server orasida muvozanatli shifrlash",
+    "C": "Saqlash",
+    "D": "O’chirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Multi-cloud strategiyasi nimani anglatadi?",
+    "A": "Bir necha bulut provayderlardan foydalanish",
+    "B": "Bitta bulut provayderdan foydalanish",
+    "C": "Shaxsiy bulut",
+    "D": "Bulut yo’q",
+    "javob": "A"
+  },
+  {
+    "savol": "Vendor lock-in muammosi nima?",
+    "A": "Bitta bulut provayderga juda bog’lanib qolish va boshqasiga o’tish qiyinligi",
+    "B": "Foydalanuvchi paroli yo’qotish",
+    "C": "Tarmoq xatosi",
+    "D": "Bug provayderga juda bog’lanib qolish va boshqasiga o’tish qiyinligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Disaster Recovery (DR) nima?",
+    "A": "Falokat holatida tizimni tiklash strategiyasi va texnologiyalari",
+    "B": "Backup holatida tizimni tiklash strategiyasi va texnologiyalari",
+    "C": "Monitoring holatida tizimni tiklash strategiyasi va texnologiyalari",
+    "D": "Hech qanday rol o’ynamaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Linux va Windows Server o’rtasidagi asosiy farqlardan biri qaysi?",
+    "A": "Linux ochiq manbali, Windows Server tijoratdan licenziyalanadi",
+    "B": "Hech qanday farqi yo’q",
+    "C": "Linux faqat shaxsiy uchun",
+    "D": "Windows Server faqat web uchun Server tijoratdan licenziyalanadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ubuntu va CentOS o’rtasidagi farq qanday?",
+    "A": "Ubuntu Debian asosida, CentOS RHEL asosida",
+    "B": "Hech qanday farqi yo’q",
+    "C": "Ubuntu yopiq manba",
+    "D": "CentOS faqat virtual",
+    "javob": "A"
+  },
+  {
+    "savol": "Linux da chmod 755 qaysi ruxsatlarni belgilaydi?",
+    "A": "Egasiga rwx, guruh va boshqalarga r-x",
+    "B": "Hammasi rwx",
+    "C": "Hech qanday ruxsat",
+    "D": "Guruh va boshqalarga rwx, egasiga r-x",
+    "javob": "A"
+  },
+  {
+    "savol": "Linux da systemd ning vazifasi qaysi?",
+    "A": "Tizim va xizmatlarni boshqaruvchi (init system)",
+    "B": "Fayl tizimi va tarmoqlarni boshqaruvchi (finit system)",
+    "C": "Tarmoq",
+    "D": "Foydalanuvchilar",
+    "javob": "A"
+  },
+  {
+    "savol": "SSH protokoli qaysi portda ishlaydi (default)?",
+    "A": "22",
+    "B": "80",
+    "C": "443",
+    "D": "21",
+    "javob": "A"
+  },
+  {
+    "savol": "SSH da kalit asosida autentifikatsiya nima beradi?",
+    "A": "Parolsiz va xavfsizroq kirish",
+    "B": "Sekinroq kirish",
+    "C": "Hech qanday afzalligi yo’q",
+    "D": "audit uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "Ubuntu da paket boshqaruvchi qaysi?",
+    "A": "apt (Advanced Package Tool)",
+    "B": "Yum",
+    "C": "Dnf (deleted number found)",
+    "D": "pacman",
+    "javob": "A"
+  },
+  {
+    "savol": "CentOS / RHEL da paket boshqaruvchi qaysi?",
+    "A": "yum yoki dnf",
+    "B": "apt yoki dnf",
+    "C": "pacman",
+    "D": "zypper",
+    "javob": "A"
+  },
+  {
+    "savol": "Linux da cron ning vazifasi qanday?",
+    "A": "Vazifalarni rejalashtirilgan vaqtda bajarish",
+    "B": "Fayl o’chirishni vaqtidan oldin bajarish",
+    "C": "Tarmoqni boshqarish",
+    "D": "Foydalanuvchi yaratish",
+    "javob": "A"
+  },
+  {
+    "savol": "Windows Server da Active Directory nima?",
+    "A": "Foydalanuvchilar va resurslarni markazlashgan boshqarish xizmati",
+    "B": "Foydalanuvchilar va resurslarni markazlashgan fayl ichiga saqlash xizmati",
+    "C": "veb-server",
+    "D": "Hech qanday xizmat emas",
+    "javob": "A"
+  },
+  {
+    "savol": "Linux da journalctl buyrug’i nima qiladi?",
+    "A": "Systemd journal log larini ko’rsatadi",
+    "B": "Faylni o’chiradi log larini ko’rsatmaydi",
+    "C": "Foydalanuvchi qo’shadi",
+    "D": "Disk formatlaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "PowerShell qaysi platformada ishlaydi?",
+    "A": "Windows va kross-platforma (PowerShell Core)",
+    "B": "Linux",
+    "C": "macOS va kiross-platforma (HowerWelt Score)",
+    "D": "Hech qaerda",
+    "javob": "A"
+  },
+  {
+    "savol": "iptables Linux da nima qiladi?",
+    "A": "Tarmoq paketlarini filtrlash (firewall)",
+    "B": "foydalanuvchi paketlarini yaratish (filewalt)",
+    "C": "fayl o’chirish",
+    "D": "Hech narsa",
+    "javob": "A"
+  },
+  {
+    "savol": "SSL va TLS o’rtasidagi farq qanday?",
+    "A": "TLS — SSL ning yangiroq, xavfsizroq versiyasi",
+    "B": "Hech qanday farqi yo’q",
+    "C": "SSL – LLS ning eskiroq va xavfsiz versiyasi",
+    "D": "TLS faqat veb uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "TLS handshake jarayonida nima sodir bo’ladi?",
+    "A": "Sertifikat almashinuvi va sessiya kalitlari yaratiladi",
+    "B": "Ma’lumot almashinuvi va sessiya kalitlari uzatiladi",
+    "C": "Hech narsa",
+    "D": "Shifr buziladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Sertifikat markazi (CA) nima qiladi?",
+    "A": "Raqamli sertifikatlarni chiqaradi va tasdiqlaydi",
+    "B": "Raqamli sertifikatlarni yaratadi va shifrlaydi",
+    "C": "Foydalanuvchi yaratadi",
+    "D": "Hech qanday vazifasi yo’q",
+    "javob": "A"
+  },
+  {
+    "savol": "OAuth 2.0 ning maqsadi nima?",
+    "A": "Foydalanuvchi resurslariga uchinchi taraf ilovalariga avtorizatsiya berish",
+    "B": "Foydalanuvchi resurslariga parol saqlash uchinchi taraf ilovalarini shifrlash",
+    "C": "Hech qanday vazifasi yo’q",
+    "D": "Veb-sayt yaratish",
+    "javob": "A"
+  },
+  {
+    "savol": "OAuth 2.0 da Authorization Code Flow qachon ishlatiladi?",
+    "A": "Server-side ilovalar uchun (xavfsizroq)",
+    "B": "Mobil-side ilovalar uchun (xavfli)",
+    "C": "Hech qachon",
+    "D": "Statik saytlar",
+    "javob": "A"
+  },
+  {
+    "savol": "JWT (JSON Web Token) tuzilmasi qanday qismlardan iborat?",
+    "A": "Header, Payload, Signature",
+    "B": "Login, Password, Email",
+    "C": "ID, Name, Role",
+    "D": "Subject, Body, Footer",
+    "javob": "A"
+  },
+  {
+    "savol": "JWT va sessiya farqi qanday?",
+    "A": "JWT serverda saqlanmaydi (stateless), sessiya — saqlanadi (stateful)",
+    "B": "Hech qanday farqi yo’q",
+    "C": "JWT faqat brauzerda saqlaydi (stating), list – saqlanadi (stateling)",
+    "D": "Sessiya yangiroq",
+    "javob": "A"
+  },
+  {
+    "savol": "RBAC nimani anglatadi?",
+    "A": "Role-Based Access Control",
+    "B": "Random Base Access Code",
+    "C": "Remote Backend Access Channel",
+    "D": "Restricted Block Access Center",
+    "javob": "A"
+  },
+  {
+    "savol": "RBAC va ABAC farqi qanday?",
+    "A": "RBAC rolga, ABAC atributlarga (qoidalarga) asoslangan",
+    "B": "Hech qanday farqi yo’q",
+    "C": "RBAC eskirgan, ABAC yangilangan (qoidalarga) asoslanadi",
+    "D": "ABAC kerak emas",
+    "javob": "A"
+  },
+  {
+    "savol": "Authentication va Authorization farqi qanday?",
+    "A": "Authentication — kim ekanligini tasdiqlash, Authorization — nimaga ruxsat",
+    "B": "Hech qanday farqi yo’q",
+    "C": "Authorization – birinchi, Authentication – ruxsat kerak emas",
+    "D": "Authentication kerak emas",
+    "javob": "A"
+  },
+  {
+    "savol": "MITM (Man-in-the-Middle) hujumi nima?",
+    "A": "Hujumchi ikki taraf orasiga kirib trafikni o’qish/o’zgartirish",
+    "B": "Virus ikki taraf orasiga kirib ma`lumotni o’chirish/o’zgartirish",
+    "C": "Parol o’g’irlash",
+    "D": "Hech qanday hujum",
+    "javob": "A"
+  },
+  {
+    "savol": "Refresh Token nima uchun ishlatiladi?",
+    "A": "Access tokenni yangilash uchun (qayta login qilmasdan)",
+    "B": "Access tokenni saqlash uchun (qayta shifrlamasdan)",
+    "C": "Shifrlash",
+    "D": "Hech qanday vazifa",
+    "javob": "A"
+  },
+  {
+    "savol": "HTTPS qaysi protokol ustida qurilgan?",
+    "A": "HTTP + TLS/SSL",
+    "B": "HTTP",
+    "C": "FTP + TLS/SSL",
+    "D": "SSH",
+    "javob": "A"
+  },
+  {
+    "savol": "Unit test nima?",
+    "A": "Dasturning eng kichik birligini (funksiya/metod) tekshirish",
+    "B": "Butun ilovaning kichik birligini (funksiya+metod) tekshirish",
+    "C": "UI tekshirish",
+    "D": "ma’lumotlar bazasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Test piramidasi qaysi tartibda?",
+    "A": "Ko’p Unit, kamroq Integration, eng kam E2E",
+    "B": "Ko’p E2E, kam Unit, Integration, eng kam E8E",
+    "C": "E2E",
+    "D": "Unit",
+    "javob": "A"
+  },
+  {
+    "savol": "TDD nimani anglatadi?",
+    "A": "Test-Driven Development",
+    "B": "Tool-Driven Design",
+    "C": "Type-Defined Data",
+    "D": "Total Development Design",
+    "javob": "A"
+  },
+  {
+    "savol": "TDD ning bosqichlari qaysi?",
+    "A": "Red — Green — Refactor",
+    "B": "Plan — Code — Test",
+    "C": "Build — Run — Deploy",
+    "D": "Yozish — Yashirish — Yo’qotish",
+    "javob": "A"
+  },
+  {
+    "savol": "Mocking texnikasi nima qiladi?",
+    "A": "Tashqi bog’liqliklarni soxta ob’ektlar bilan almashtiradi",
+    "B": "Kodni o’chirib soxta ob’ektlar bilan almashtiradi",
+    "C": "saralash",
+    "D": "ma’lumotlar bazasi",
+    "javob": "A"
+  },
+  {
+    "savol": "JUnit qaysi til uchun framework?",
+    "A": "Java",
+    "B": "Python",
+    "C": "C#",
+    "D": "JavaScript",
+    "javob": "A"
+  },
+  {
+    "savol": "PyTest qaysi til uchun framework?",
+    "A": "Python",
+    "B": "Java",
+    "C": "C#",
+    "D": "Go",
+    "javob": "A"
+  },
+  {
+    "savol": "Selenium WebDriver qaysi sohada qo’llaniladi?",
+    "A": "Brauzer asosidagi UI testlarini avtomatlashtirish",
+    "B": "Database testlari",
+    "C": "Performance asosidagi UI testlarini avtomatlashtirish",
+    "D": "unit testlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Headless brauzer nima?",
+    "A": "Grafik interfeyssiz ishlaydigan brauzer (CI/CD da qulay)",
+    "B": "Brauzersiz dastur",
+    "C": "Grafik interfeysda ishlaydigan mobil brauzer (SI/SD da qulay)",
+    "D": "Hech qanday brauzer",
+    "javob": "A"
+  },
+  {
+    "savol": "Code coverage nima?",
+    "A": "Testlar tomonidan qoplangan kod ulushi",
+    "B": "Kodning umumiy hajmi qoplangan ulushi",
+    "C": "Bug soni",
+    "D": "Hech qanday ko’rsatkich",
+    "javob": "A"
+  },
+  {
+    "savol": "Regression testing nima?",
+    "A": "Yangi o’zgarishlar mavjud funksionallikni buzmaganligini tekshirish",
+    "B": "Yangi xususiyatlar mavjud funksionallikni buzganligini tekshirish",
+    "C": "Performance",
+    "D": "Hech qanday tekshirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Smoke testing nima?",
+    "A": "Asosiy funksionallikning ishlashini tezkor tekshirish (sanity check)",
+    "B": "Performance testining ishlashini tezkor tekshirish (fanity checking)",
+    "C": "Security test",
+    "D": "UI dizayn test",
+    "javob": "A"
+  },
+  {
+    "savol": "Page Object Model (POM) Selenium da nima beradi?",
+    "A": "Sahifalarni alohida sinflarga ajratib, kodni qayta foydalanish",
+    "B": "Tezroq browser ochish",
+    "C": "Sahifalarni alohida sinflarga ajratib, XPath ishlatish",
+    "D": "Hech qanday afzalligi yo’q",
+    "javob": "A"
+  },
+  {
+    "savol": "Loyiha boshqaruv vositalarining asosiy maqsadi qaysi?",
+    "A": "Vazifalarni rejalashtirish, kuzatish va jamoaviy ishni tashkillashtirish",
+    "B": "Vazifalarni rejalashtirish, kuzatish va jamoaviy faylni saqlash",
+    "C": "Email yuborish",
+    "D": "Hech qanday maqsad",
+    "javob": "A"
+  },
+  {
+    "savol": "Jira ni qaysi kompaniya ishlab chiqqan?",
+    "A": "Atlassian",
+    "B": "Microsoft",
+    "C": "Google",
+    "D": "Oracle",
+    "javob": "A"
+  },
+  {
+    "savol": "Jira da Epic, Story, Task farqi qanday?",
+    "A": "Epic katta vazifa, Story orta hajmli, Task — kichik mantiqiy birlik",
+    "B": "Hech qanday farqi yo’q",
+    "C": "Hammasi bir xil",
+    "D": "Vazifalar va loyiha boshqaruvi platformasi — kichik mantiqiy birlik",
+    "javob": "A"
+  },
+  {
+    "savol": "Trello qaysi ko’rinishda ishlaydi?",
+    "A": "Kanban board (kartalar va ustunlar)",
+    "B": "Gantt chart",
+    "C": "Kalendar (xaritalar va ustunchalar)",
+    "D": "Hech qanday ko’rinish yo’q",
+    "javob": "A"
+  },
+  {
+    "savol": "Asana qaysi platformaga to’g’ri keladi?",
+    "A": "Vazifalar va loyiha boshqaruvi platformasi",
+    "B": "Epic katta vazifa, Story orta hajmli, Task — kichik mantiqiy birlik",
+    "C": "Ma’lumotlar bazasi",
+    "D": "Brauzer",
+    "javob": "A"
+  },
+  {
+    "savol": "MS Project ning kuchli tomoni qaysi?",
+    "A": "Gantt chart va manbalarni rejalashtirish",
+    "B": "Trello chart",
+    "C": "Kanban",
+    "D": "Hech qanday kuchli tomoni yo’q",
+    "javob": "A"
+  },
+  {
+    "savol": "Kanban board ning standart ustunlari qanday?",
+    "A": "To Do, In Progress, Done",
+    "B": "Open, Closed",
+    "C": "Done",
+    "D": "Yangi, Eski, Open, Closed",
+    "javob": "A"
+  },
+  {
+    "savol": "Sprint planning qachon o’tkaziladi?",
+    "A": "Sprint boshida (rejalashtirish uchun)",
+    "B": "Sprint oxirida (rejalashtirish uchun)",
+    "C": "Har kuni  (rejalashtirish uchun)",
+    "D": "Hech qachon",
+    "javob": "A"
+  },
+  {
+    "savol": "Daily Standup yig’ilishi qancha davom etadi (taxminan)?",
+    "A": "15 daqiqa",
+    "B": "1 soat",
+    "C": "1 kun",
+    "D": "1 daqiqa",
+    "javob": "A"
+  },
+  {
+    "savol": "Burn-down chart nimani ko’rsatadi?",
+    "A": "Sprint davomida qolgan ishlarning kamayishini",
+    "B": "bug sonini",
+    "C": "Sprint davomida qolgan foydalanuvchi soni kamayishini",
+    "D": "Hech qanday ma’lumot",
+    "javob": "A"
+  },
+  {
+    "savol": "Vazifa ustuvorligini belgilash uchun MoSCoW metodi qanday?",
+    "A": "Must, Should, Could, Won’t have",
+    "B": "raqamlar 1-10",
+    "C": "A, B, C, D",
+    "D": "High, Low, Will, Don`t",
+    "javob": "A"
+  },
+  {
+    "savol": "Jira Workflow nima?",
+    "A": "Vazifaning holatlardan o’tish ketma-ketligi",
+    "B": "Foydalanuvchining holatlardan o’tish profili ketma-ketligi",
+    "C": "Dashboard",
+    "D": "Hech qanday ahamiyat yo’q",
+    "javob": "A"
+  },
+  {
+    "savol": "Loyiha boshqaruv vositasini tanlashda asosiy mezon qaysi?",
+    "A": "Jamoa hajmi, metodologiya va integratsiya imkoniyatlari",
+    "B": "Hajm, narx, narx, tizim, asos, imkoniyatlar, metodlashtirish",
+    "C": "Rang",
+    "D": "Hech qanday mezon",
+    "javob": "A"
+  },
+  {
+    "savol": "Agile manifesti qachon yaratilgan?",
+    "A": "2001 yil",
+    "B": "1991 yil",
+    "C": "2011 yil",
+    "D": "1981 yil",
+    "javob": "A"
+  },
+  {
+    "savol": "Agile ning asosiy qadriyatlaridan biri qaysi?",
+    "A": "Individuals and interactions over processes and tools",
+    "B": "Jamoaga Scrum ni qo’llashda yordam berish va to’siqlarni olib tashlash",
+    "C": "shartnoma",
+    "D": "Mahsulot backlog ni boshqarish va ustuvorliklarni belgilash",
+    "javob": "A"
+  },
+  {
+    "savol": "Scrum da Product Owner ning vazifasi nima?",
+    "A": "Mahsulot backlog ni boshqarish va ustuvorliklarni belgilash",
+    "B": "Jamoaga Scrum ni qo’llashda yordam berish va to’siqlarni olib tashlash",
+    "C": "Dizayn",
+    "D": "Hech qanday vazifa",
+    "javob": "A"
+  },
+  {
+    "savol": "Scrum da Scrum Master ning vazifasi nima?",
+    "A": "Jamoaga Scrum ni qo’llashda yordam berish va to’siqlarni olib tashlash",
+    "B": "Boshliq sifatida buyurish",
+    "C": "Kod yozish",
+    "D": "Mahsulot backlog ni boshqarish va ustuvorliklarni belgilash",
+    "javob": "A"
+  },
+  {
+    "savol": "Sprint odatda qancha davom etadi?",
+    "A": "1-4 hafta (eng ko’p 2 hafta)",
+    "B": "1 kun",
+    "C": "1-4 yil (eng ko`p 2 yil)",
+    "D": "Cheksiz",
+    "javob": "A"
+  },
+  {
+    "savol": "Backlog Grooming (Refinement) nima?",
+    "A": "Backlog elementlarini aniqlashtirish va baholash",
+    "B": "Backlog ni o’chirish va baholash",
+    "C": "sprint planning elementlarini aniqlashtirish va baholash",
+    "D": "Hech qanday faoliyat",
+    "javob": "A"
+  },
+  {
+    "savol": "Kanban ning asosiy printsipi qaysi?",
+    "A": "Visualize, Limit WIP, Manage Flow",
+    "B": "Saralash, Design, Implementatio, Model Flow",
+    "C": "Sprint",
+    "D": "Hech qanday printsip",
+    "javob": "A"
+  },
+  {
+    "savol": "WIP (Work In Progress) limiti nima beradi?",
+    "A": "Bir vaqtda jamoa olib boradigan ishlar sonini cheklab, oqimni yaxshilaydi",
+    "B": "Tezlikni pasaytiradi",
+    "C": "Hech qanday foyda yo’q",
+    "D": "Bir vaqtda jamoa olib boradigan ishlar vaqtini cheklab, bug ko’paytiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Waterfall modelining bosqichlari qaysi?",
+    "A": "Requirements → Design → Implementation → Testing → Maintenance",
+    "B": "Tezlik → Sifat → Narx",
+    "C": "Coding → Sliding → Cuting → Flowing → Maintenance",
+    "D": "Testing",
+    "javob": "A"
+  },
+  {
+    "savol": "Waterfall va Agile farqi qanday?",
+    "A": "Waterfall ketma-ket, Agile iterativ va moslashuvchan",
+    "B": "Hech qanday farqi yo’q",
+    "C": "Waterfall yangiroq, Agile integratsiyalashgan va egiluvchan",
+    "D": "Agile faqat hujjat",
+    "javob": "A"
+  },
+  {
+    "savol": "Velocity Scrum da nimani ko’rsatadi?",
+    "A": "Bir sprintda jamoa bajara oladigan story point miqdori",
+    "B": "Bir sprintda jamoa bajara oladigan bug miqdori",
+    "C": "Foydalanuvchi sonini",
+    "D": "Hech narsa",
+    "javob": "A"
+  },
+  {
+    "savol": "Definition of Done (DoD) nima?",
+    "A": "Vazifa tugagan deb hisoblanishi uchun bajarilishi kerak bo’lgan mezonlar",
+    "B": "Vazifa tugagan deb hisoblanishi uchun bajarilishi kerak bo’lgan boshqarish rejalari",
+    "C": "dizayn standarti",
+    "D": "Hech qanday qoida",
+    "javob": "A"
+  },
+  {
+    "savol": "Scrumban metodologiyasi qaysi ikki yondashuvni birlashtiradi?",
+    "A": "Scrum va Kanban",
+    "B": "Waterfall va Scrum",
+    "C": "Agile va Waterfall",
+    "D": "XP",
+    "javob": "A"
+  },
+  {
+    "savol": "Tizim monitoringining asosiy maqsadi nima?",
+    "A": "Tizim holatini real vaqt rejimida kuzatish va muammolarni aniqlash",
+    "B": "Backup holatini real vaqt rejimida kuzatish va muammolarni aniqlash",
+    "C": "Kod yozish holatini real vaqt rejimida kuzatish va muammolarni aniqlash",
+    "D": "Hech qanday maqsad",
+    "javob": "A"
+  },
+  {
+    "savol": "Prometheus qaysi modelda ma’lumot yig’adi?",
+    "A": "Pull-based (server o’zi metrikani yig’adi)",
+    "B": "Push-based (klient yuboradi)",
+    "C": "Hech qanday model yo’q",
+    "D": "Manual-based (server o’zi metrikani yig’adi)",
+    "javob": "A"
+  },
+  {
+    "savol": "Prometheus da metric va label nima?",
+    "A": "Metric — o’lchov, Label — metricni tasniflash uchun teg",
+    "B": "Hech qanday farqi yo’q",
+    "C": "Raqam — o’lchov, Matn — metricni tasniflash uchun tegsiz",
+    "D": "Matn",
+    "javob": "A"
+  },
+  {
+    "savol": "Grafana ning asosiy vazifasi nima?",
+    "A": "Metriklarni vizualizatsiya qilish (dashboard)",
+    "B": "Ma’lumot yig’ish",
+    "C": "Loglarni vizualizatsiya qilish (cashboard)",
+    "D": "Hech qanday vazifa",
+    "javob": "A"
+  },
+  {
+    "savol": "Grafana qaysi ma’lumot manbalari bilan ishlaydi?",
+    "A": "Prometheus, InfluxDB, Elasticsearch va boshqalar",
+    "B": "Prometheus",
+    "C": "MySQL, Elasticsearch va boshqalar",
+    "D": "Hech biri",
+    "javob": "A"
+  },
+  {
+    "savol": "ELK Stack komponentlari qaysilar?",
+    "A": "Elasticsearch, Logstash, Kibana",
+    "B": "Express, Linux, Kafka",
+    "C": "Email, Logger, Kernel, Kibana",
+    "D": "Erlang, Lua, Kotlin",
+    "javob": "A"
+  },
+  {
+    "savol": "Elasticsearch nima qiladi?",
+    "A": "Tez to’liq matnli qidiruv va analitika",
+    "B": "Fayl saqlash, matnli qidiruv va analitika",
+    "C": "Email yuborish",
+    "D": "Hech narsa",
+    "javob": "A"
+  },
+  {
+    "savol": "Logstash ning vazifasi nima?",
+    "A": "Loglarni qabul qilish, qayta ishlash va Elasticsearch ga uzatish",
+    "B": "Dashboardni qabul qilish, qayta ishlash va Log ga uzatish",
+    "C": "Saqlash",
+    "D": "Hech qanday vazifa",
+    "javob": "A"
+  },
+  {
+    "savol": "Kibana ning vazifasi nima?",
+    "A": "Elasticsearch ma’lumotlarini vizualizatsiya qilish",
+    "B": "Loglarni qabul qilish, qayta ishlash va Elasticsearch ga uzatish",
+    "C": "saqlash",
+    "D": "Hech qanday vazifa",
+    "javob": "A"
+  },
+  {
+    "savol": "Prometheus Alertmanager nima qiladi?",
+    "A": "Ogohlantirishlarni qayta ishlaydi va kanallarga (email, Slack) yuboradi",
+    "B": "Loglarni qabul qilish, qayta ishlash va Elasticsearch ga uzatish (gmail, Slaks)",
+    "C": "dashboard",
+    "D": "Hech qanday vazifa",
+    "javob": "A"
+  },
+  {
+    "savol": "SLI, SLO, SLA o’rtasidagi farq qanday?",
+    "A": "SLI — ko’rsatkich, SLO — maqsad, SLA — kelishuv",
+    "B": "Hech qanday farqi yo’q",
+    "C": "SLI — muhim, SLO — kelishuv, SLA — maqsad",
+    "D": "SLA muhim",
+    "javob": "A"
+  },
+  {
+    "savol": "Distributed tracing nima beradi?",
+    "A": "Mikroservislararo so’rov yo’lini va kechikishni kuzatish",
+    "B": "Ilova samaradorligini real vaqtda monitoring qilish",
+    "C": "log",
+    "D": "Hech qanday foyda yo’q",
+    "javob": "A"
+  },
+  {
+    "savol": "APM (Application Performance Monitoring) nima qiladi?",
+    "A": "Ilova samaradorligini real vaqtda monitoring qiladi",
+    "B": "Database monitor",
+    "C": "Tarmoq monitor",
+    "D": "Hech qanday monitoring",
+    "javob": "A"
+  }
+]
