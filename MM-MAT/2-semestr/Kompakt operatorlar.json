@@ -1,0 +1,1962 @@
+[
+  {
+    "savol": "Metrik fazo tushunchasi nimani anglatadi?",
+    "A": "Metrik fazo elementlari orasida masofa tushunchasi aniqlangan to‘plamdir.",
+    "B": "Metrik fazo sonlardan iborat to‘plamdir.",
+    "C": "Metrik fazo chiziqli tenglamalar to‘plamidir.",
+    "D": "Metrik fazo chekli elementlardan tuzilgan fazodir.",
+    "javob": "A"
+  },
+  {
+    "savol": "Metrik fazoda metrika qanday vazifani bajaradi?",
+    "A": "Metrika fazodagi ikki element orasidagi masofani aniqlaydi.",
+    "B": "Metrika elementlarning tartibini aniqlaydi.",
+    "C": "Metrika fazoning o‘lchamini hisoblaydi.",
+    "D": "Metrika elementlarni ko‘paytirish amalini bildiradi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Metrik fazoda ikki nuqta orasidagi masofa qanday bo‘lishi kerak?",
+    "A": "Masofa har doim manfiy bo‘lmagan son bo‘lishi kerak.",
+    "B": "Masofa har doim manfiy son bo‘lishi kerak.",
+    "C": "Masofa butun son bo‘lishi kerak.",
+    "D": "Masofa har doim nolga teng bo‘lishi kerak.",
+    "javob": "A"
+  },
+  {
+    "savol": "Metrik fazoda bir nuqtadan o‘zigacha bo‘lgan masofa qanday bo‘ladi?",
+    "A": "Bir nuqtadan o‘zigacha bo‘lgan masofa nolga teng bo‘ladi.",
+    "B": "Bir nuqtadan o‘zigacha bo‘lgan masofa doim birga teng bo‘ladi.",
+    "C": "Bir nuqtadan o‘zigacha bo‘lgan masofa manfiy bo‘ladi.",
+    "D": "Bir nuqtadan o‘zigacha bo‘lgan masofa cheksiz bo‘ladi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Metrik fazoda simmetriya xossasi nimani bildiradi?",
+    "A": "Birinchi nuqtadan ikkinchi nuqtagacha masofa ikkinchi nuqtadan birinchi nuqtagacha masofaga teng bo‘ladi.",
+    "B": "Masofa bir tomonga qarab aniqlanadi.",
+    "C": "Har doim birinchi masofa ikkinchisidan katta bo‘ladi.",
+    "D": "Masofa nol qiymat qabul qiladi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Uchburchak tengsizligi metrik fazoda nimani ifodalaydi?",
+    "A": "Ikki nuqta orasidagi to‘g‘ridan-to‘g‘ri masofa uchinchi nuqta orqali o‘tgan masofadan katta bo‘lmaydi.",
+    "B": "Har qanday ikki nuqta orasidagi masofa doim teng bo‘ladi.",
+    "C": "Uchta nuqta orasidagi masofalar doim nolga teng bo‘ladi.",
+    "D": "Masofa uchburchak shaklidagi to‘plamlarda aniqlanadi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Metrik fazoga oddiy misol sifatida qaysi fazoni olish mumkin?",
+    "A": "Haqiqiy sonlar to‘plami odatdagi masofa bilan metrik fazoga misol bo‘ladi.",
+    "B": "Bo‘sh to‘plam metrik fazoga misol bo‘ladi.",
+    "C": "Har qanday algebraik ifoda metrik fazoga misol bo‘ladi.",
+    "D": "Matritsalar to‘plami metrik fazo bo‘la oladi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Diskret metrika qanday g‘oyaga asoslanadi?",
+    "A": "Turli nuqtalar orasidagi masofa bir xil, bir xil nuqtalar orasidagi masofa esa nol deb olinadi.",
+    "B": "Barcha nuqtalar orasidagi masofa nol deb olinadi.",
+    "C": "Turli nuqtalar orasidagi masofa manfiy deb olinadi.",
+    "D": "Har bir nuqta orasidagi masofa cheksiz deb olinadi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Metrik fazoda ochiq shar qanday tushuniladi?",
+    "A": "Markaz nuqtadan berilgan radiusdan kichik masofada joylashgan barcha nuqtalar to‘plamidir.",
+    "B": "Markaz nuqtaning o‘zidan iborat to‘plamdir.",
+    "C": "Berilgan radiusdan katta masofadagi nuqtalar to‘plamidir.",
+    "D": "Har doim butun fazoga teng bo‘lgan to‘plamdir.",
+    "javob": "A"
+  },
+  {
+    "savol": "Metrik fazoda yaqinlashish tushunchasi nimaga asoslanadi?",
+    "A": "Ketma-ketlik hadlarining ma’lum nuqtaga masofa bo‘yicha tobora yaqinlashishiga asoslanadi.",
+    "B": "Ketma-ketlik hadlarining ortib borishiga asoslanadi.",
+    "C": "Ketma-ketlik hadlarining kamayib borishiga asoslanadi.",
+    "D": "Ketma-ketlikda natural sonlar qatnashishiga asoslanadi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Metrik fazoda ochiq to‘plam qanday ta’riflanadi?",
+    "A": "To‘plamning har bir nuqtasi bilan birga shu nuqtaning yetarlicha kichik ochiq shari ham to‘plam ichida yotsa, u ochiq to‘plam deyiladi. Ya’ni: ∀x∈A, ∃r>0: B(x,r)⊂A.",
+    "B": "To‘plam chekli sondagi nuqtalardan iborat bo‘lsa, u ochiq to‘plam deyiladi.",
+    "C": "To‘plamning barcha nuqtalari chegarada yotsa, u ochiq to‘plam deyiladi.",
+    "D": "To‘plamning to‘ldiruvchisi bo‘sh bo‘lmasa, u ochiq to‘plam deyiladi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Metrik fazoda yopiq to‘plam qanday ta’riflanadi?",
+    "A": "Agar to‘plamning to‘ldiruvchisi ochiq bo‘lsa yoki to‘plam barcha limit nuqtalarini o‘z ichiga olsa, u yopiq to‘plam deyiladi. Ya’ni: X\\A ochiq.",
+    "B": "Agar to‘plamning barcha nuqtalari bir-biridan teng masofada joylashsa, u yopiq to‘plam deyiladi.",
+    "C": "Agar to‘plam ichki nuqtalardan iborat bo‘lsa, u yopiq to‘plam deyiladi.",
+    "D": "Agar to‘plam bitta nuqtadan iborat bo‘lmasa, u yopiq to‘plam deyiladi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Ochiq shar tushunchasi nimani bildiradi?",
+    "A": "Ochiq shar markaz deb olingan nuqtadan berilgan radiusdan kichik masofada joylashgan barcha nuqtalar to‘plamidir: B(a,r)={x∈X: d(x,a)<r}.",
+    "B": "Ochiq shar markazdan radiusga aynan teng masofadagi nuqtalar to‘plamidir.",
+    "C": "Ochiq shar har doim butun metrik fazoga teng bo‘ladi.",
+    "D": "Ochiq shar markaz nuqtaning o‘zidan iborat bo‘ladi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Yopiq shar tushunchasi qanday izohlanadi?",
+    "A": "Yopiq shar markazdan berilgan radiusdan katta bo‘lmagan masofada joylashgan nuqtalar to‘plamidir: B̄(a,r)={x∈X: d(x,a)≤r}.",
+    "B": "Yopiq shar markazdan radiusdan katta masofada joylashgan nuqtalar to‘plamidir.",
+    "C": "Yopiq shar ochiq to‘plamlarning birlashmasidan iborat bo‘ladi.",
+    "D": "Yopiq shar chegaraviy nuqtalarsiz aniqlanadi.",
+    "javob": "A"
+  },
+  {
+    "savol": "To‘plamning ichki nuqtasi deganda nima tushuniladi?",
+    "A": "Agar nuqtaning biror ochiq shari to‘liq A to‘plam ichida yotsa, bu nuqta A ning ichki nuqtasi deyiladi.",
+    "B": "Agar nuqta to‘plamdan tashqarida joylashgan bo‘lsa, u ichki nuqta deyiladi.",
+    "C": "Agar nuqtaning har bir atrofi to‘plam tashqarisini kesib o‘tsa, u ichki nuqta deyiladi.",
+    "D": "Agar nuqta yopiq shar markazi bo‘lsa, u ichki nuqta deyiladi.",
+    "javob": "A"
+  },
+  {
+    "savol": "To‘plamning ichi qanday aniqlanadi?",
+    "A": "To‘plamning ichi A ichida yotuvchi barcha ichki nuqtalar to‘plamidir va odatda Int(A) bilan belgilanadi.",
+    "B": "To‘plamning ichi A dan tashqarida yotuvchi barcha nuqtalar to‘plamidir.",
+    "C": "To‘plamning ichi chegaraviy nuqtalardan iborat bo‘ladi.",
+    "D": "To‘plamning ichi har doim bo‘sh to‘plam bo‘ladi.",
+    "javob": "A"
+  },
+  {
+    "savol": "To‘plamning yopilmasi qanday tushuniladi?",
+    "A": "To‘plamning yopilmasi A ni o‘z ichiga oluvchi eng kichik yopiq to‘plam bo‘lib, odatda Ā bilan belgilanadi.",
+    "B": "To‘plamning yopilmasi A ning ichki nuqtalaridan iborat bo‘ladi.",
+    "C": "To‘plamning yopilmasi A dan barcha limit nuqtalarni olib tashlash orqali hosil qilinadi.",
+    "D": "To‘plamning yopilmasi har doim butun fazodan farqli bo‘ladi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Chegaraviy nuqta qanday tavsiflanadi?",
+    "A": "Agar nuqtaning har qanday ochiq shari A to‘plamni ham, uning to‘ldiruvchisini ham kesib o‘tsa, u chegaraviy nuqta deyiladi.",
+    "B": "Agar nuqta A to‘plam ichida joylashsa, u har doim chegaraviy nuqta bo‘ladi.",
+    "C": "Agar nuqta A dan tashqarida bo‘lsa, u hech qachon chegaraviy nuqta bo‘la olmaydi.",
+    "D": "Agar nuqtaning biror atrofi A ichida yotsa, u chegaraviy nuqta deyiladi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Ochiq to‘plamlar ustida qaysi amal ochiqlikni saqlaydi?",
+    "A": "Ixtiyoriy sondagi ochiq to‘plamlarning birlashmasi ochiq bo‘ladi, chekli sondagi ochiq to‘plamlarning kesishmasi ham ochiq bo‘ladi.",
+    "B": "Har qanday ochiq to‘plamlarning ixtiyoriy kesishmasi doimo ochiq bo‘ladi.",
+    "C": "Ikkita ochiq to‘plamning birlashmasi ochiq bo‘ladi, undan ko‘pi ochiq bo‘lmaydi.",
+    "D": "Ochiq to‘plamlarning birlashmasi har doim yopiq to‘plam bo‘ladi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Yopiq to‘plamlar ustida qaysi amal yopiqlikni saqlaydi?",
+    "A": "Ixtiyoriy sondagi yopiq to‘plamlarning kesishmasi yopiq bo‘ladi, chekli sondagi yopiq to‘plamlarning birlashmasi ham yopiq bo‘ladi.",
+    "B": "Har qanday yopiq to‘plamlarning ixtiyoriy birlashmasi doimo yopiq bo‘ladi.",
+    "C": "Yopiq to‘plamlarning kesishmasi har doim ochiq to‘plam bo‘ladi.",
+    "D": "Bo‘sh to‘plam yopiq to‘plam bo‘lishi mumkin.",
+    "javob": "A"
+  },
+  {
+    "savol": "Kompakt to‘plam deb qanday to‘plamga aytiladi?",
+    "A": "Har qanday ochiq qoplamasidan chekli qismqoplama ajratib olish mumkin bo‘lgan to‘plamga kompakt to‘plam deyiladi.",
+    "B": "bitta nuqtadan iborat bo‘lgan to‘plamga kompakt to‘plam deyiladi.",
+    "C": "Ochiq to‘plam bo‘lgan har qanday to‘plamga kompakt to‘plam deyiladi.",
+    "D": "Cheksiz elementli har qanday to‘plamga kompakt to‘plam deyiladi.",
+    "javob": "A"
+  },
+  {
+    "savol": "R fazoda K = [0,1] to‘plam kompaktmi?",
+    "A": "Ha, K = [0,1] yopiq va chegaralangan bo‘lgani uchun kompakt to‘plamdir.",
+    "B": "Yo‘q, chunki [0,1] cheksiz elementli to‘plamdir.",
+    "C": "Yo‘q, chunki [0,1] ochiq to‘plam bo‘lsa kompakt bo‘ladi.",
+    "D": "Ha, chunki R dagi har qanday to‘plam kompakt bo‘ladi.",
+    "javob": "A"
+  },
+  {
+    "savol": "R fazoda A = (0,1) to‘plam nima uchun kompakt emas?",
+    "A": "A = (0,1) yopiq emas; R da kompaktlik uchun yopiq va chegaralanganlik zarur.",
+    "B": "A = (0,1) chegaralangan emasligi uchun kompakt emas.",
+    "C": "A = (0,1) bitta nuqtadan iborat bo‘lgani uchun kompakt emas.",
+    "D": "A = (0,1) har doim kompakt bo‘ladi.",
+    "javob": "A"
+  },
+  {
+    "savol": "R fazoda B = {1/n : n∈N} ∪ {0} to‘plam kompaktmi?",
+    "A": "Ha, bu to‘plam yopiq va chegaralangan; 0 uning limit nuqtasi sifatida to‘plamga kiritilgan.",
+    "B": "Yo‘q, chunki to‘plamda cheksiz ko‘p element bor.",
+    "C": "Yo‘q, chunki 0 limit nuqta bo‘lsa ham to‘plamga tegishli emas.",
+    "D": "Yo‘q, chunki R dagi cheksiz to‘plamlar kompakt bo‘ladi.",
+    "javob": "A"
+  },
+  {
+    "savol": "R fazoda C = {1/n : n∈N} to‘plam kompaktmi?",
+    "A": "Yo‘q, chunki uning limit nuqtasi 0 to‘plamga kirmaydi, ya’ni C yopiq emas.",
+    "B": "Ha, chunki C chegaralangan to‘plamdir.",
+    "C": "Ha, chunki C cheksiz to‘plamdir.",
+    "D": "Yo‘q, chunki C da hech qanday ketma-ketlik tanlab bo‘lmaydi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Metrik fazoda chekli to‘plam kompakt bo‘ladimi?",
+    "A": "Ha, metrik fazodagi har qanday chekli to‘plam kompakt bo‘ladi.",
+    "B": "Yo‘q, chekli to‘plam hech qachon kompakt bo‘lmaydi.",
+    "C": "R fazodagi chekli to‘plamlar kompakt bo‘ladi.",
+    "D": "Ochiq bo‘lgan chekli to‘plamlar kompakt bo‘ladi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Kompakt to‘plamdagi ketma-ketliklar uchun qaysi mulohaza to‘g‘ri?",
+    "A": "Kompakt metrik fazodagi har qanday ketma-ketlikdan yaqinlashuvchi qismketma-ketlik ajratib olish mumkin.",
+    "B": "Kompakt to‘plamdagi har qanday ketma-ketlik o‘zgarmas bo‘ladi.",
+    "C": "Kompakt to‘plamdagi ketma-ketliklar hech qachon yaqinlashmaydi.",
+    "D": "Kompakt to‘plamda chekli ketma-ketliklar qaraladi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar K kompakt to‘plam bo‘lsa va F yopiq bo‘lib, F⊂K bo‘lsa, F haqida nima deyish mumkin?",
+    "A": "F ham kompakt bo‘ladi, chunki kompakt to‘plamning yopiq qismi kompakt bo‘ladi.",
+    "B": "F har doim ochiq bo‘ladi.",
+    "C": "F kompakt bo‘lmaydi, chunki u K ning qismi.",
+    "D": "F chekli bo‘lsa kompakt bo‘ladi.",
+    "javob": "A"
+  },
+  {
+    "savol": "$K_{1}$ va $K_{2}$ kompakt to‘plamlar bo‘lsa, $K_{1}$∪$K_{2}$ haqida qaysi javob to‘g‘ri?",
+    "A": "$K_{1}$∪$K_{2}$ kompakt bo‘ladi, chunki chekli sondagi kompakt to‘plamlar birlashmasi kompakt.",
+    "B": "$K_{1}$∪$K_{2}$ kompakt bo‘lmaydi.",
+    "C": "$K_{1}$∪$K_{2}$faqat $K_{1}=K_{2}$bo‘lganda kompakt bo‘ladi.",
+    "D": "$K_{1}$∪$K_{2}$faqat ochiq bo‘lsa kompakt bo‘ladi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Uzluksiz $f $funksiyaning kompakt to‘plamdagi obrazi haqida qaysi mulohaza to‘g‘ri?",
+    "A": "Agar $K$ kompakt va $f$ uzluksiz bo‘lsa, $f(K)$ ham kompakt bo‘ladi.",
+    "B": "Agar $K$ kompakt bo‘lsa, $f(K)$ har doim ochiq bo‘ladi.",
+    "C": "Uzluksiz funksiya kompakt to‘plamni har doim cheksiz to‘plamga o‘tkazadi.",
+    "D": "$f(K)$ kompakt bo‘lishi uchun f albatta chiziqli bo‘lishi kerak.",
+    "javob": "A"
+  },
+  {
+    "savol": "R haqiqiy sonlar fazosida [−1,3] yopiq oraliq kompaktmi?",
+    "A": "Ha, [−1,3] kompakt, chunki u R da yopiq va chegaralangan to‘plamdir.",
+    "B": "Yo‘q, chunki har qanday yopiq oraliq kompakt bo‘lmaydi.",
+    "C": "Yo‘q, chunki [−1,3] chegaralanmagan to‘plamdir.",
+    "D": "Ha, bitta nuqtadan iborat bo‘lgani uchun kompakt.",
+    "javob": "A"
+  },
+  {
+    "savol": "Heine-Borel teoremasiga ko‘ra R da to‘plam qachon kompakt bo‘ladi?",
+    "A": "To‘plam yopiq va chegaralangan bo‘lsa, u kompakt bo‘ladi.",
+    "B": "To‘plam ochiq bo‘lsa, u kompakt bo‘ladi.",
+    "C": "To‘plam chegaralanmagan bo‘lsa, u kompakt bo‘ladi.",
+    "D": "To‘plam bitta elementdan iborat bo‘lmasa, kompakt bo‘lmaydi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi to‘plamlardan qaysi biri R da kompakt to‘plamga misol bo‘ladi?",
+    "A": "[0,1] to‘plami kompakt, chunki u yopiq va chegaralangan.",
+    "B": "(0,1) to‘plami kompakt, chunki u ochiq va chegaralangan.",
+    "C": "R to‘plami kompakt, chunki u yopiq.",
+    "D": "[0,∞) to‘plami kompakt, chunki u yopiq.",
+    "javob": "A"
+  },
+  {
+    "savol": "R da (−1,3) ochiq oraliq kompakt bo‘ladimi?",
+    "A": "Yo‘q, chunki (−1,3) yopiq emas, ya’ni chekka nuqtalarini o‘z ichiga olmaydi.",
+    "B": "Ha, chunki (−1,3) chegaralangan bo‘lsa, albatta kompakt bo‘ladi.",
+    "C": "Ha, chunki ochiq to‘plamlar har doim kompakt bo‘ladi.",
+    "D": "Yo‘q, chunki (−1,3) bo‘sh to‘plam hisoblanadi.",
+    "javob": "A"
+  },
+  {
+    "savol": "[−1,3] to‘plamining chegaralanganligi nimani bildiradi?",
+    "A": "Uning barcha nuqtalari −1 va 3 sonlari orasida joylashganligini bildiradi.",
+    "B": "Uning barcha nuqtalari musbat sonlardan iboratligini bildiradi.",
+    "C": "Uning ichida cheksiz katta sonlar borligini bildiradi.",
+    "D": "Uning hech qanday chegarasi yo‘qligini bildiradi.",
+    "javob": "A"
+  },
+  {
+    "savol": "[−1,3] to‘plamining yopiq ekanligi nimani bildiradi?",
+    "A": "Bu to‘plam o‘zining chegaraviy nuqtalarini, ya’ni −1 va 3 ni ham o‘z ichiga oladi.",
+    "B": "Bu to‘plam ichki nuqtalardan iborat bo‘lib, chekka nuqtalarni olmaydi.",
+    "C": "Bu to‘plamning uzunligi nolga tengligini bildiradi.",
+    "D": "Bu to‘plam natural sonlardan iboratligini bildiradi.",
+    "javob": "A"
+  },
+  {
+    "savol": "[−1,3] kompaktligining ketma-ketliklar orqali ifodasi qanday tushuniladi?",
+    "A": "Bu oraliqdagi har qanday ketma-ketlikdan shu oraliqda yaqinlashuvchi qism ketma-ketlik ajratish mumkin.",
+    "B": "Bu oraliqdagi har qanday ketma-ketlik albatta o‘suvchi bo‘ladi.",
+    "C": "Bu oraliqdagi har qanday ketma-ketlik cheksizlikka intiladi.",
+    "D": "Bu oraliqdagi ketma-ketliklarning hech biri limitga ega bo‘lmaydi.",
+    "javob": "A"
+  },
+  {
+    "savol": "[−1,3] kompaktligining ochiq qoplama orqali ta’rifi qaysi javobda berilgan?",
+    "A": "Bu to‘plamning har qanday ochiq qoplamasidan chekli qism qoplama ajratish mumkin.",
+    "B": "Bu to‘plamni bitta ochiq to‘plam bilan qoplash mumkin.",
+    "C": "Bu to‘plamning hech qanday ochiq qoplamasi mavjud emas.",
+    "D": "Bu to‘plamning har qanday qoplamasi albatta cheksiz bo‘lishi shart.",
+    "javob": "A"
+  },
+  {
+    "savol": "R da [0,∞) to‘plami kompakt bo‘ladimi?",
+    "A": "Yo‘q, chunki [0,∞) yopiq bo‘lsa ham, chegaralanmagan to‘plamdir.",
+    "B": "Ha, chunki [0,∞) yopiq to‘plam bo‘lgani uchun kompakt.",
+    "C": "Ha, chunki cheksiz to‘plamlarning hammasi kompakt bo‘ladi.",
+    "D": "Yo‘q, chunki [0,∞) da nol soni qatnashadi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Kompakt to‘plamga sodda misol sifatida qaysi javob to‘g‘ri?",
+    "A": "R da [2,5] yopiq oraliq kompakt to‘plamga misol bo‘ladi.",
+    "B": "R da (2,5) ochiq oraliq kompakt to‘plamga misol bo‘ladi.",
+    "C": "R da barcha haqiqiy sonlar to‘plami kompakt to‘plamga misol bo‘ladi.",
+    "D": "R da [1,∞) to‘plami kompakt to‘plamga misol bo‘ladi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Banax fazosi deb qanday fazoga aytiladi?",
+    "A": "Norma berilgan chiziqli fazo to‘liq bo‘lsa, ya’ni undagi har bir fundamental ketma-ketlik shu fazoning o‘zida limitga ega bo‘lsa, u Banax fazosi deyiladi.",
+    "B": "Chekli elementlardan iborat har qanday to‘plam Banax fazosi deyiladi.",
+    "C": "Skalyar ko‘paytma berilgan fazo Banax fazosi deyiladi.",
+    "D": "Ochiq to‘plamlardan tuzilgan fazo Banax fazosi deyiladi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Banax fazosida to‘liqlik tushunchasi nimani bildiradi?",
+    "A": "Har bir fundamental ketma-ketlikning limiti shu fazoning ichida mavjud bo‘lishini bildiradi.",
+    "B": "Har bir ketma-ketlik albatta nolga intilishini bildiradi.",
+    "C": "Fazodagi har bir to‘plam yopiq bo‘lishini bildiradi.",
+    "D": "Fazoda chekli sondagi vektorlar mavjud bo‘lishini bildiradi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Normallangan fazoda metrika qanday formula orqali kiritiladi?",
+    "A": "Norma yordamida masofa d(x,y) = ||x-y|| formula bilan aniqlanadi.",
+    "B": "Masofa d(x,y) = ||x+y|| formula bilan aniqlanadi.",
+    "C": "Masofa d(x,y) = ||x|| + ||y|| formula bilan aniqlanadi.",
+    "D": "Masofa d(x,y) = ||x|| ||y|| formula bilan aniqlanadi.",
+    "javob": "A"
+  },
+  {
+    "savol": "$R^{n}$fazosi odatdagi norma bilan Banax fazosimi?",
+    "A": "Ha, $R^{n}$ odatdagi norma bilan Banax fazosidir, chunki chekli o‘lchovli normallangan fazolar to‘liq bo‘ladi.",
+    "B": "Yo‘q, $R^{n}$hech qachon Banax fazosi bo‘lmaydi.",
+    "C": "n=1 bo‘lganda $R^{n}$Banax fazosi bo‘ladi.",
+    "D": "$R^{n}$faqat diskret metrika bilan Banax fazosi bo‘ladi.",
+    "javob": "A"
+  },
+  {
+    "savol": "C[a,b] fazosi sup-norma bilan Banax fazosimi?",
+    "A": "Ha, C[a,b] uzluksiz funksiyalar fazosi $‖f‖_{∞}$= max |f(x)| norma bilan Banax fazosidir.",
+    "B": "Yo‘q, C[a,b] sup-norma bilan to‘liq bo‘lmaydi.",
+    "C": "C[a,b] nol funksiyadan iborat bo‘lsa Banax fazosi bo‘ladi.",
+    "D": "C[a,b] da norma aniqlab bo‘lmaydi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Banax fazosiga oddiy misol qaysi?",
+    "A": "Haqiqiy sonlar to‘plami R odatdagi norma ||x|| = |x| bilan Banax fazosidir.",
+    "B": "Ratsional sonlar to‘plami Q odatdagi norma bilan har doim Banax fazosidir.",
+    "C": "Bo‘sh to‘plam Banax fazosiga misol bo‘ladi.",
+    "D": "Har qanday topologik fazo avtomatik ravishda Banax fazosi bo‘ladi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Q ratsional sonlar fazosi odatdagi norma bilan nima uchun Banax fazosi emas?",
+    "A": "Chunki Q da fundamental ketma-ketlikning limiti irratsional son bo‘lib qolishi mumkin va u Q ga tegishli bo‘lmaydi.",
+    "B": "Chunki Q da qo‘shish amali aniqlanmagan.",
+    "C": "Chunki Q da hech qanday ketma-ketlik mavjud emas.",
+    "D": "Chunki Q kompleks sonlardan iborat.",
+    "javob": "A"
+  },
+  {
+    "savol": "$l^{p}$fazosi uchun asosiy formula qaysi ko‘rinishda yoziladi?",
+    "A": "$l^{p}={x=(x_{n}):∑_{}^{} |x_{n}|^{p}<∞}, 1≤p<∞,$ va bu fazo Banax fazosidir.",
+    "B": "$l^{p}={x=(x_{n}):∑_{}^{} |x_{n}|=∞}, $ bo‘lsa Banax fazosi bo‘ladi.",
+    "C": "$l^{p}$ chekli ketma-ketliklardan iborat bo‘lsa Banax fazosi bo‘lmaydi.",
+    "D": "$l^{p}$fazosida norma umuman aniqlanmaydi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Banax fazosida norma qanday asosiy xossalarga ega?",
+    "A": "Norma manfiy bo‘lmaydi, nol vektor uchun nol bo‘ladi, bir jinsli va uchburchak tengsizligini qanoatlantiradi.",
+    "B": "Norma har doim manfiy qiymat qabul qiladi.",
+    "C": "Norma vektorlarning tartibini aniqlaydi.",
+    "D": "Norma chekli o‘lchovli fazolarda mavjud bo‘ladi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Banax fazosi bilan Gilbert fazosi orasidagi asosiy farq nimada?",
+    "A": "Banax fazosi norma va to‘liqlikka asoslanadi, Gilbert fazosi esa skalyar ko‘paytma keltirib chiqaradigan norma bilan to‘liq bo‘ladi.",
+    "B": "Har qanday Banax fazosi albatta Gilbert fazosi bo‘ladi.",
+    "C": "Gilbert fazosida norma umuman ishlatilmaydi.",
+    "D": "Banax fazosida ketma-ketliklar tushunchasi bo‘lmaydi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Gilbert fazosi deb qanday fazoga aytiladi?",
+    "A": "Gilbert fazosi skalyar ko‘paytma kiritilgan va shu skalyar ko‘paytmadan hosil bo‘lgan norma bo‘yicha to‘la bo‘lgan chiziqli fazodir.",
+    "B": "Gilbert fazosi chekli elementlardan iborat ixtiyoriy to‘plamdir.",
+    "C": "Gilbert fazosi metrika kiritilmagan oddiy chiziqli fazodir.",
+    "D": "Gilbert fazosi ochiq to‘plamlardan tashkil topgan topologik fazodir.",
+    "javob": "A"
+  },
+  {
+    "savol": "Gilbert fazosida norma qanday hosil qilinadi?",
+    "A": "Norma skalyar ko‘paytma orqali aniqlanadi: $‖x‖=\\sqrt{(x,x)}$",
+    "B": "Norma har doim $‖x‖=(x,x)$formula bilan aniqlanadi.",
+    "C": "Norma elementlarning tartibiga qarab aniqlanadi.",
+    "D": "Norma fazodagi barcha elementlar uchun doim 1 ga teng bo‘ladi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Gilbert fazosida skalyar ko‘paytma qanday ma’noni bildiradi?",
+    "A": "Skalyar ko‘paytma ikki vektor orasidagi burchak, uzunlik va ortogonallik tushunchalarini ifodalashga xizmat qiladi.",
+    "B": "Skalyar ko‘paytma ikki sonni qo‘shish amalini bildiradi.",
+    "C": "Skalyar ko‘paytma har doim manfiy qiymat qabul qiladigan funksiya hisoblanadi.",
+    "D": "Skalyar ko‘paytma kompakt to‘plamlarda aniqlanadi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi fazo Gilbert fazosiga oddiy misol bo‘ladi?",
+    "A": "$R^{n} $fazosi odatdagi skalyar ko‘paytma bilan Gilbert fazosiga misol bo‘ladi.",
+    "B": "Har qanday normallashmagan to‘plam Gilbert fazosi bo‘ladi.",
+    "C": "Bo‘sh to‘plam Gilbert fazosiga misol bo‘ladi.",
+    "D": "Har qanday topologik fazo avtomatik ravishda Gilbert fazosi bo‘ladi.",
+    "javob": "A"
+  },
+  {
+    "savol": "$R^{n}$ fazosida odatdagi skalyar ko‘paytma qanday yoziladi?",
+    "A": "$x=(x_{1},…,x_{n}), y=(y_{1},…,y_{n}$) bo‘lsa, $(x,y) = x_{1}y_{1} + ... + x_{n}y_{n}.$",
+    "B": "$(x,y) = x_{1}+y_{1}$ formula har qanday $R^{n}$ uchun yetarli bo‘ladi.",
+    "C": "$(x,y) = x_{1}-y_{1}$ ko‘rinishidagi ifoda skalyar ko‘paytma bo‘ladi.",
+    "D": "$(x,y) = 0$ barcha x va y uchun odatdagi skalyar ko‘paytma hisoblanadi.",
+    "javob": "A"
+  },
+  {
+    "savol": "$l^{2}$fazosi qanday ketma-ketliklardan tuziladi?",
+    "A": "$l^{2}$ fazosi kvadratlari yig‘indisi chekli bo‘lgan ketma-ketliklardan tuziladi: $∑_{}^{} |x_{n}|^{2}<∞$",
+    "B": "$l^{2}$ fazosi barcha ixtiyoriy ketma-ketliklardan tuziladi.",
+    "C": "$l^{2}$fazosi o‘suvchi ketma-ketliklardan tuziladi.",
+    "D": "$l^{2}$fazosi chekli uzunlikdagi ketma-ketliklardan iborat bo‘ladi.",
+    "javob": "A"
+  },
+  {
+    "savol": "$L^{2}[a,b]$ fazosi nima uchun Gilbert fazosiga misol bo‘ladi?",
+    "A": "Chunki $L^{2}[a,b]$ da skalyar ko‘paytma integral orqali aniqlanadi va fazo shu norma bo‘yicha to‘ladir.",
+    "B": "Chunki $L^{2}[a,b]$ da har bir funksiya uzluksiz bo‘lishi shart.",
+    "C": "Chunki $L^{2}[a,b]$ chekli sondagi funksiyalardan iborat.",
+    "D": "Chunki $L^{2}[a,b]$ da masofa tushunchasi umuman ishlatilmaydi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Gilbert fazosida ortogonallik qanday aniqlanadi?",
+    "A": "Agar (x,y) = 0 bo‘lsa, x va y vektorlar ortogonal deyiladi.",
+    "B": "Agar ||x|| = ||y|| bo‘lsa, x va y har doim ortogonal deyiladi.",
+    "C": "Agar x+y=0 bo‘lsa, x va y har doim ortogonal deyiladi.",
+    "D": "Agar x va y bir xil yo‘nalishda bo‘lsa, ular ortogonal deyiladi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Gilbert fazosida Koshi ketma-ketligi haqida qaysi fikr to‘g‘ri?",
+    "A": "Gilbert fazosida har bir Koshi ketma-ketligi shu fazoning o‘zida limitga ega bo‘ladi.",
+    "B": "Gilbert fazosida Koshi ketma-ketligi hech qachon yaqinlashmaydi.",
+    "C": "Gilbert fazosida chekli ketma-ketliklar Koshi bo‘la oladi.",
+    "D": "Gilbert fazosida har bir ketma-ketlik avtomatik ravishda Koshi bo‘ladi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Gilbert fazosida ortonormal sistema qanday tushuniladi?",
+    "A": "Har bir vektor normasi 1 ga teng va turli vektorlar o‘zaro ortogonal bo‘lgan sistema ortonormal sistema deyiladi.",
+    "B": "Nol vektorlardan iborat sistema ortonormal sistema deyiladi.",
+    "C": "Barcha vektorlari bir-biriga teng bo‘lgan sistema ortonormal sistema deyiladi.",
+    "D": "Har qanday chiziqli bog‘liq sistema ortonormal sistema bo‘ladi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Kompakt operator deb qanday operatorga aytiladi?",
+    "A": "Chegaralangan to‘plamni nisbiy kompakt to‘plamga akslantiruvchi chiziqli operatorga kompakt operator deyiladi. Ya’ni B chegaralangan bo‘lsa, T(B) ning yopig‘i kompakt bo‘ladi.",
+    "B": "Har qanday to‘plamni ochiq to‘plamga akslantiruvchi operatorga kompakt operator deyiladi.",
+    "C": "Nol qiymat qabul qiluvchi operatorlargina kompakt operator deyiladi.",
+    "D": "Teskari operatori mavjud bo‘lgan operatorga kompakt operator deyiladi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Kompakt operator ta’rifida qaysi to‘plamlar muhim rol o‘ynaydi?",
+    "A": "Chegaralangan to‘plamlar va ularning obrazlari muhim: agar ||x|| ≤ M bo‘lgan elementlar obrazi nisbiy kompakt bo‘lsa, operator kompakt bo‘ladi.",
+    "B": "Ochiq to‘plamlar muhim, chegaralanganlik sharti kerak emas.",
+    "C": "Bo‘sh to‘plamlar muhim, chunki kompaktlik bo‘sh to‘plamga bog‘liq.",
+    "D": "Cheksiz to‘plamlar muhim, chekli to‘plamlar hisobga olinmaydi.",
+    "javob": "A"
+  },
+  {
+    "savol": "T:X→Y operator kompakt bo‘lishi uchun ketma-ketliklar orqali qanday shart bajariladi?",
+    "A": "X dagi har bir chegaralangan ${x_{n}}$ketma-ketlik uchun ${T(x_{n})}$ ketma-ketlikdan Y da yaqinlashuvchi qismiy ketma-ketlik ajratish mumkin.",
+    "B": "X dagi har bir ketma-ketlik T ta’sirida albatta nolga aylanadi.",
+    "C": "Yaqinlashuvchi ketma-ketliklargina T ta’sirida yaqinlashuvchi bo‘lishi kerak.",
+    "D": "Har bir chegaralangan ketma-ketlik T ta’sirida cheksizlikka intilishi kerak.",
+    "javob": "A"
+  },
+  {
+    "savol": "Chekli o‘lchovli obrazga ega operator kompakt bo‘ladimi?",
+    "A": "Ha, agar T operatorning obrazi chekli o‘lchovli fazoda yotsa, u kompakt operator bo‘ladi.",
+    "B": "Yo‘q, chekli o‘lchovli obrazga ega operator hech qachon kompakt bo‘lmaydi.",
+    "C": "Operator teskari bo‘lsa, chekli o‘lchovli obraz kompaktlik beradi.",
+    "D": "Bunday operator metrik fazoda aniqlansa kompakt bo‘ladi, Banax fazosida emas.",
+    "javob": "A"
+  },
+  {
+    "savol": "Cheksiz o‘lchovli Banax fazosida birlik operator I kompaktmi?",
+    "A": "Yo‘q. Cheksiz o‘lchovli Banax fazosida I(x)=x birlik operator odatda kompakt emas, chunki birlik shar nisbiy kompakt bo‘lmaydi.",
+    "B": "Ha, birlik operator har doim kompakt bo‘ladi.",
+    "C": "Ha, chunki I operator barcha elementlarni nolga o‘tkazadi.",
+    "D": "X fazo cheksiz o‘lchovli bo‘lsa, birlik operator kompakt bo‘ladi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Integral operatorga doir qaysi misol kompakt operatorga misol bo‘la oladi?",
+    "A": "Agar K(x,t) uzluksiz yadro bo‘lsa, $(Tf)(x)=\\sum_{a}^{b} K(x,t)f(t)dt$ ko‘rinishidagi integral operator ko‘pincha kompakt operatorga misol bo‘ladi.",
+    "B": "(Tf)(x)=f(x) birlik operator har qanday cheksiz o‘lchovli fazoda doim kompakt bo‘ladi.",
+    "C": "(Tf)(x)=x+f(x) operator har doim kompakt bo‘ladi, shartlar kerak emas.",
+    "D": "Har qanday differensial operator avtomatik ravishda kompakt operator bo‘ladi.",
+    "javob": "A"
+  },
+  {
+    "savol": "ℓ² fazoda diagonal operator qachon kompakt bo‘lishi mumkin?",
+    "A": "Agar T(x₁,x₂,...)=(λ₁x₁,λ₂x₂,...) va$ λ_{n}→0$ bo‘lsa, bunday diagonal operator kompakt bo‘lishi mumkin.",
+    "B": "Agar $λ_{n}→∞$ bo‘lsa, operator albatta kompakt bo‘ladi.",
+    "C": "Agar barcha $λ_{n}=1$bo‘lsa, operator cheksiz o‘lchovli ℓ² da kompakt bo‘ladi.",
+    "D": "Diagonal operator hech qachon kompakt bo‘lmaydi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Kompakt operator bilan chegaralangan operator orasidagi bog‘lanish qaysi?",
+    "A": "Har bir kompakt chiziqli operator chegaralangan bo‘ladi. Shuning uchun u uzluksiz operator ham hisoblanadi.",
+    "B": "Har bir chegaralangan operator avtomatik ravishda kompakt bo‘ladi.",
+    "C": "Kompakt operator chegaralangan bo‘lishi shart emas.",
+    "D": "Chegaralangan operator nol operator bo‘lsa kompakt bo‘ladi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Kompakt operatorlar yig‘indisi haqida qaysi mulohaza to‘g‘ri?",
+    "A": "Agar T va S kompakt operatorlar bo‘lsa, ularning yig‘indisi T+S ham kompakt operator bo‘ladi.",
+    "B": "Ikkita kompakt operator yig‘indisi hech qachon kompakt bo‘lmaydi.",
+    "C": "T+S kompakt bo‘lishi uchun T va S albatta nol operator bo‘lishi kerak.",
+    "D": "Kompakt operatorlar yig‘indisi chekli to‘plamlarda aniqlanganda kompakt bo‘ladi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Kompakt operatorlar nazariyasida eng muhim misollardan biri qaysi?",
+    "A": "Chekli rangli operatorlar, uzluksiz yadroli integral operatorlar va $λ_{n}→0$ bo‘lgan diagonal operatorlar kompakt operatorlarga muhim misollardir.",
+    "B": "Birlik operatorlar kompakt operatorlarning asosiy misolidir.",
+    "C": "Teskari operatori mavjud bo‘lmagan barcha operatorlar kompakt bo‘ladi.",
+    "D": "Algebraik ko‘phadlar kompakt operatorlarga misol bo‘ladi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Chiziqli operator deb nimaga aytiladi?",
+    "A": "Vektor fazolar orasidagi T:X→Y akslantirish chiziqli deyiladi, agar u qo‘shish va songa ko‘paytirish amallarini saqlasa: T(αx+βy)=αT(x)+βT(y).",
+    "B": "Har qanday akslantirish chiziqli operator deyiladi, hatto u amallarni saqlamasa ham.",
+    "C": "Chekli o‘lchovli fazoda aniqlangan akslantirish chiziqli operator deyiladi.",
+    "D": "Har doim T(x)=x+1 ko‘rinishdagi akslantirish chiziqli operator bo‘ladi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Chiziqli operatorning qo‘shishga nisbatan xossasi qaysi?",
+    "A": "Har qanday x,y∈X uchun T(x+y)=T(x)+T(y) tenglik bajarilishi kerak.",
+    "B": "Har qanday x,y∈X uchun T(x+y)=T(x)−T(y) tenglik bajarilishi kerak.",
+    "C": "Har qanday x,y∈X uchun T(x+y)=T(x)T(y) tenglik bajarilishi kerak.",
+    "D": "Har qanday x,y∈X uchun T(x+y)=0 bo‘lishi kerak.",
+    "javob": "A"
+  },
+  {
+    "savol": "Chiziqli operatorning songa ko‘paytirishga nisbatan xossasi qaysi?",
+    "A": "Har qanday λ son va x∈X uchun T(λx)=λT(x) tenglik bajariladi.",
+    "B": "Har qanday λ son va x∈X uchun T(λx)=T(x)+λ tenglik bajariladi.",
+    "C": "Har qanday λ son va x∈X uchun T(λx)=T(x)−λ tenglik bajariladi.",
+    "D": "Har qanday λ son va x∈X uchun T(λx)=λ+x tenglik bajariladi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Chiziqli operator nol elementni qayerga akslantiradi?",
+    "A": "Chiziqli operator nol elementni nol elementga akslantiradi, ya’ni T(0)=0.",
+    "B": "Chiziqli operator nol elementni doim 1 ga akslantiradi.",
+    "C": "Chiziqli operator nol elementni ixtiyoriy musbat songa akslantiradi.",
+    "D": "Chiziqli operator uchun T(0) qiymati aniqlanmaydi.",
+    "javob": "A"
+  },
+  {
+    "savol": "R fazoda T(x)=2x operatori chiziqlimi?",
+    "A": "Ha, bu chiziqli operator, chunki qo‘shish va songa ko‘paytirish xossalarini saqlaydi.",
+    "B": "Yo‘q, bu chiziqli emas, chunki T(0)=0 bo‘ladi.",
+    "C": "Yo‘q, bu yopiq operatorga misol bo‘ladi.",
+    "D": "Ha, lekin x musbat bo‘lganda chiziqli bo‘ladi.",
+    "javob": "A"
+  },
+  {
+    "savol": "R fazoda T(x)=x+1 operatori chiziqlimi?",
+    "A": "Yo‘q, bu chiziqli emas, chunki T(0)=1 bo‘lib, chiziqli operator uchun T(0)=0 bo‘lishi kerak.",
+    "B": "Ha, bu chiziqli operator, chunki formulada x qatnashgan.",
+    "C": "Ha, har qanday x ga bog‘liq funksiya chiziqli operator bo‘ladi.",
+    "D": "Yo‘q, chunki bu operator manfiy sonlarda aniqlanadi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Matritsa orqali berilgan T(x)=Ax operatori qanday operator hisoblanadi?",
+    "A": "T(x)=Ax ko‘rinishidagi operator chiziqli operatorga misol bo‘ladi.",
+    "B": "T(x)=Ax ko‘rinishidagi operator hech qachon chiziqli bo‘lmaydi.",
+    "C": "T(x)=Ax A=0 bo‘lganda chiziqli bo‘ladi.",
+    "D": "T(x)=Ax x natural son bo‘lganda chiziqli bo‘ladi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Differensiallash operatori D(f)=f′ qachon chiziqli operator bo‘ladi?",
+    "A": "Hosilasi mavjud funksiyalar fazosida D(αf+βg)=αD(f)+βD(g) tenglik bajarilsa, D chiziqli operator bo‘ladi.",
+    "B": "Differensiallash operatori chiziqli emas, chunki hosila olish har doim funksiya qiymatini o‘zgartiradi.",
+    "C": "Differensiallash operatori nol funksiyada chiziqli bo‘ladi.",
+    "D": "Differensiallash operatori o‘zgarmas funksiyalar uchun chiziqli bo‘ladi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Integral operator $(Tf)(x)=\\sum_{a}^{x} f(t)dt$ qanday operatorga misol bo‘lishi mumkin?",
+    "A": "Bu chiziqli operatorga misol bo‘ladi, chunki integral qo‘shish va songa ko‘paytirish amallarini saqlaydi.",
+    "B": "Bu chiziqli emas, chunki integral belgisi qatnashgan.",
+    "C": "Bu a=x bo‘lganda chiziqli bo‘ladi.",
+    "D": "Bu operator musbat funksiyalar uchun chiziqli bo‘ladi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Ikki chiziqli operator yig‘indisi haqida qaysi mulohaza to‘g‘ri?",
+    "A": "Agar S va T chiziqli operatorlar bo‘lsa, ularning yig‘indisi ham chiziqli operator bo‘ladi: (S+T)(x)=S(x)+T(x).",
+    "B": "Ikki chiziqli operator yig‘indisi hech qachon chiziqli bo‘lmaydi.",
+    "C": "Ikki chiziqli operator yig‘indisi nol fazoda chiziqli bo‘ladi.",
+    "D": "Ikki chiziqli operator yig‘indisi operatorlar teng bo‘lsa chiziqli bo‘ladi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Integral operatorning sodda ko‘rinishi qaysi formula bilan beriladi?",
+    "A": "$$(Tf)(x)=\\sum_{a}^{b} K(x,t)f(t)dt$$",
+    "B": "(Tf)(x) = f'(x)",
+    "C": "(Tf)(x) = x + f(x)",
+    "D": "(Tf)(x) =$\\frac{ K(x,t) }{f(t)}$",
+    "javob": "A"
+  },
+  {
+    "savol": "Integral operator formulasidagi K(x,t) qanday nomlanadi?",
+    "A": "K(x,t) integral operatorning yadrosi deyiladi.",
+    "B": "K(x,t) operatorning normasi deyiladi.",
+    "C": "K(x,t) boshlang‘ich shart deyiladi.",
+    "D": "K(x,t) radius tushunchasini bildiradi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Integral operator formulasidagi f(t) nimani bildiradi?",
+    "A": "f(t) operator ta’sir qilayotgan berilgan funksiyani bildiradi.",
+    "B": "f(t) har doim nolga teng funksiya bo‘ladi.",
+    "C": "f(t) o‘zgarmas sonni bildiradi.",
+    "D": "f(t) integral chegarasini bildiradi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar K(x,t) = 1 bo‘lsa, integral operator qanday ko‘rinishda bo‘ladi?",
+    "A": "$$(Tf)(x)=\\sum_{a}^{b} f(t)dt$$",
+    "B": "(Tf)(x) = f'(x)",
+    "C": "(Tf)(x) = f(x) + 1",
+    "D": "$$(Tf)(x)=\\sum_{a}^{b} f(x)xdt$$",
+    "javob": "A"
+  },
+  {
+    "savol": "Chiziqli integral operator uchun asosiy xossa qaysi?",
+    "A": "T(αf + βg) = αTf + βTg",
+    "B": "T(fg) = Tf · Tg har doim bajariladi.",
+    "C": "T(f+g) = Tf - Tg bo‘ladi.",
+    "D": "T(αf) = α + Tf bo‘ladi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Integral operator qaysi hollarda chiziqli operator bo‘ladi?",
+    "A": "Agar operator integral ostida f ga nisbatan chiziqli qatnashsa, u chiziqli operator bo‘ladi.",
+    "B": "Agar operator bitta nuqtada aniqlansa, u chiziqli operator bo‘ladi.",
+    "C": "Agar operator har doim manfiy qiymat bersa, u chiziqli operator bo‘ladi.",
+    "D": "Agar operator yadroga ega bo‘lmasa, u chiziqli operator bo‘ladi.",
+    "javob": "A"
+  },
+  {
+    "savol": "C[a,b] fazosida integral operator qanday funksiyalar ustida qaraladi?",
+    "A": "[a,b] kesmada uzluksiz bo‘lgan funksiyalar ustida qaraladi.",
+    "B": "Natural sonlar ustida qaraladi.",
+    "C": "Matritsalar ustida qaraladi.",
+    "D": "chekli to‘plam elementlari ustida qaraladi.",
+    "javob": "A"
+  },
+  {
+    "savol": "K(x,t) uzluksiz bo‘lsa, integral operatorning muhim xossasi qaysi?",
+    "A": "U odatda uzluksiz funksiyani uzluksiz funksiyaga o‘tkazadi.",
+    "B": "U har doim uzluksiz funksiyani uziluvchan funksiyaga o‘tkazadi.",
+    "C": "U nol funksiyani beradi.",
+    "D": "U sonli ketma-ketliklarda aniqlanadi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Integral operatorga oddiy misol qaysi?",
+    "A": "$$(Tf)(x)=\\sum_{0}^{x} f(t)dt$$",
+    "B": "(Tf)(x) = f'(x)",
+    "C": "(Tf)(x) = 2f(x)",
+    "D": "(Tf)(x) = f(x)+3",
+    "javob": "A"
+  },
+  {
+    "savol": "Fredgolm tipidagi integral operator qanday ko‘rinishga ega?",
+    "A": "$$(Tf)(x)=\\sum_{a}^{b} K(x,t)f(t)dt$$",
+    "B": "$$(Tf)(x)=\\sum_{a}^{x} K(x,t)f(t)dt$$",
+    "C": "$$(Tf)(x)=\\sum_{0}^{x} K(x,t)f(t)dt$$",
+    "D": "(Tf)(x) = K(x,x)",
+    "javob": "A"
+  },
+  {
+    "savol": "Volterra tipidagi integral operator qanday ko‘rinishga ega?",
+    "A": "$$(Tf)(x)=\\sum_{a}^{x} K(x,t)f(t)dt$$",
+    "B": "$$(Tf)(x)=\\sum_{a}^{b} K(x,t)f(t)dt$$",
+    "C": "(Tf)(x) = f(x) - f(a)",
+    "D": "(Tf)(x) = xK(x,t)",
+    "javob": "A"
+  },
+  {
+    "savol": "Fredgolm va Volterra operatorlari orasidagi asosiy farq nimada?",
+    "A": "Fredgolm operatorida integral chegaralari odatda o‘zgarmas, Volterra operatorida yuqori chegara x ga bog‘liq bo‘ladi.",
+    "B": "Fredgolm operatorida hosila olinadi, Volterra operatorida ko‘paytma olinadi.",
+    "C": "Fredgolm operatori chekli o‘lchovli fazoda aniqlanadi.",
+    "D": "Volterra operatorida integral belgisi qatnashmaydi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Integral operatorning chegaralanganligi nimani bildiradi?",
+    "A": "Kirish funksiyasi chegaralangan nazoratda bo‘lsa, chiqish funksiyasi ham normada nazorat qilinadi.",
+    "B": "Operator bitta qiymat qabul qiladi.",
+    "C": "Operator har qanday funksiyani cheksizlikka olib boradi.",
+    "D": "Operator manfiy funksiyalarni nolga o‘tkazadi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Integral operator deb nimaga aytiladi?",
+    "A": "Funksiyani integral ifoda orqali boshqa funksiyaga akslantiruvchi operator integral operator deyiladi.",
+    "B": "Har qanday funksiyani songa aylantiruvchi operator integral operator deyiladi.",
+    "C": "Hosila olish orqali aniqlanadigan operator integral operator deyiladi.",
+    "D": "Matritsani transponirlovchi akslantirish integral operator deyiladi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Integral operator normasini baholashda qaysi ifoda uchrashi mumkin?",
+    "A": "||Tf|| ≤ M(b-a)||f||",
+    "B": "||Tf|| = ||f'|| har doim",
+    "C": "||Tf|| ≥ ∞",
+    "D": "||Tf|| = 0 har qanday f uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "Integral operatorning kompakt bo‘lishi nimani anglatadi?",
+    "A": "U chegaralangan to‘plamlarni nisbiy kompakt to‘plamlarga akslantiradi.",
+    "B": "U har qanday funksiyani o‘ziga akslantiradi.",
+    "C": "U chekli sondagi nuqtada aniqlanadi.",
+    "D": "U har doim teskarilanuvchi bo‘ladi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Uzluksiz yadroli integral operator ko‘pincha qanday operatorga misol bo‘ladi?",
+    "A": "Kompakt operatorga misol bo‘ladi.",
+    "B": "Identik operatorga misol bo‘ladi.",
+    "C": "Nol operatorga misol bo‘ladi.",
+    "D": "Cheksiz normali operatorga misol bo‘ladi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Integral tenglamalarda integral operator qanday rol o‘ynaydi?",
+    "A": "Noma’lum funksiyani integral orqali ifodalash va tenglamani operator shakliga keltirish imkonini beradi.",
+    "B": "Tenglamadagi sonlarni tartiblash uchun ishlatiladi.",
+    "C": "Differensial tenglamalarni yo‘q qilish uchun ishlatiladi.",
+    "D": "Hech qanday matematik ma’noga ega emas.",
+    "javob": "A"
+  },
+  {
+    "savol": "Integral operator yordamida Ax = y ko‘rinishidagi tenglama qanday tushuniladi?",
+    "A": "Bu yerda A integral operator, x noma’lum funksiya, y esa berilgan funksiya sifatida qaraladi.",
+    "B": "Bu yerda A oddiy son, x esa radius bo‘ladi.",
+    "C": "Bu yerda y har doim nolga teng bo‘lishi shart.",
+    "D": "Bu tenglama integral operatorlarga aloqador emas.",
+    "javob": "A"
+  },
+  {
+    "savol": "Integral operatorlarni o‘rganish nima uchun muhim?",
+    "A": "Ular integral tenglamalar, differensial tenglamalar va amaliy modellarni operatorlar yordamida tahlil qilishda muhim ahamiyatga ega.",
+    "B": "Ular arifmetik amallarni tezlashtirish uchun kerak.",
+    "C": "Ular geometriyada burchak o‘lchash uchun ishlatiladi.",
+    "D": "Ular chekli sonli misollar uchun ma’noga ega.",
+    "javob": "A"
+  },
+  {
+    "savol": "Fredgolm integral tenglamasi deb qanday tenglamaga aytiladi?",
+    "A": "Noma’lum funksiya integral belgisi ostida qatnashadigan va integrallash chegaralari o‘zgarmas bo‘lgan integral tenglamaga aytiladi.",
+    "B": "Noma’lum funksiya hosila ko‘rinishida qatnashadigan tenglamaga aytiladi.",
+    "C": "Integrallash chegarasi x ga bog‘liq bo‘lgan har qanday tenglamaga aytiladi.",
+    "D": "Algebraik noma’lumlardan tuzilgan tenglamaga aytiladi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Fredgolm integral tenglamasida K(x,t) nimani bildiradi?",
+    "A": "K(x,t) tenglamaning yadrosi deyiladi.",
+    "B": "K(x,t) tenglamaning boshlang‘ich sharti deyiladi.",
+    "C": "K(x,t) tenglamaning yechimi deyiladi.",
+    "D": "K(x,t) tenglamaning chegaraviy nuqtasi deyiladi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Fredgolm integral tenglamasida f(x) qanday ataladi?",
+    "A": "f(x) ozod had yoki berilgan funksiya deyiladi.",
+    "B": "f(x) integral yadrosi deyiladi.",
+    "C": "f(x) noma’lum funksiya deyiladi.",
+    "D": "f(x) xarakteristik son deyiladi.",
+    "javob": "A"
+  },
+  {
+    "savol": "$φ(x)=f(x)+λ\\sum_{a}^{b} K(x,t)φ(t)dt$ ko‘rinishidagi tenglama qaysi turga kiradi?",
+    "A": "Fredgolm integral tenglamasining ikkinchi turiga kiradi.",
+    "B": "Fredgolm integral tenglamasining birinchi turiga kiradi.",
+    "C": "Oddiy differensial tenglamaga kiradi.",
+    "D": "Volterra tenglamasining birinchi turiga kiradi.",
+    "javob": "A"
+  },
+  {
+    "savol": "$\\sum_{a}^{b} K(x,t)φ(t)dt=f(x)$ko‘rinishidagi tenglama qaysi turga kiradi?",
+    "A": "Fredgolm integral tenglamasining birinchi turiga kiradi.",
+    "B": "Fredgolm integral tenglamasining ikkinchi turiga kiradi.",
+    "C": "Algebraik tenglamaga kiradi.",
+    "D": "Chiziqsiz differensial tenglamaga kiradi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Fredgolm tenglamasini Volterra tenglamasidan ajratib turuvchi asosiy belgi qaysi?",
+    "A": "Fredgolm tenglamasida integrallash chegaralari odatda o‘zgarmas bo‘ladi.",
+    "B": "Fredgolm tenglamasida noma’lum funksiya qatnashmaydi.",
+    "C": "Fredgolm tenglamasida integral belgisi bo‘lmaydi.",
+    "D": "Fredgolm tenglamasida hosila qatnashadi.",
+    "javob": "A"
+  },
+  {
+    "savol": "$φ(x)=x+λ\\sum_{0}^{1} (x+t)φ(t)dt$ tenglamaning yadrosi qaysi?",
+    "A": "K(x,t)=x+t",
+    "B": "K(x,t)=x",
+    "C": "K(x,t)=φ(t)",
+    "D": "K(x,t)=1",
+    "javob": "A"
+  },
+  {
+    "savol": "$φ(x)=x+λ\\sum_{0}^{1} (x+t)φ(t)dt$ tenglamada ozod had qaysi?",
+    "A": "f(x)=x",
+    "B": "f(x)=x+t",
+    "C": "f(x)=φ(t)",
+    "D": "f(x)=0",
+    "javob": "A"
+  },
+  {
+    "savol": "$φ(x)=x+2\\sum_{0}^{1} xtφ(t)dt$ tenglamada λ parametr qaysi qiymatga teng?",
+    "A": "λ=2",
+    "B": "λ=x",
+    "C": "λ=t",
+    "D": "λ=0",
+    "javob": "A"
+  },
+  {
+    "savol": "$φ(x)=\\sum_{0}^{1} K(x,t)φ(t)dt$tenglama qanday tenglama hisoblanadi?",
+    "A": "Bir jinsli Fredgolm integral tenglamasi hisoblanadi.",
+    "B": "Bir jinsli bo‘lmagan Fredgolm tenglamasi hisoblanadi.",
+    "C": "Algebraik tenglama hisoblanadi.",
+    "D": "Volterra tipidagi tenglama hisoblanadi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Fredgolm tenglamasi qachon bir jinsli bo‘lmagan deyiladi?",
+    "A": "Tenglamada ozod had f(x) nolga teng bo‘lmasa.",
+    "B": "Yadro K(x,t) nolga teng bo‘lsa.",
+    "C": "Noma’lum funksiya integralda qatnashmasa.",
+    "D": "Integrallash chegaralari bir xil bo‘lsa.",
+    "javob": "A"
+  },
+  {
+    "savol": "Fredgolm tenglamasi qachon bir jinsli deyiladi?",
+    "A": "Ozod had f(x)=0 bo‘lsa.",
+    "B": "Yadro K(x,t)=1 bo‘lsa.",
+    "C": "λ parametr mavjud bo‘lmasa.",
+    "D": "Tenglamada integral qatnashmasa.",
+    "javob": "A"
+  },
+  {
+    "savol": "$\\sum_{0}^{1} (x^{2}+t)φ(t)dt=sinx$tenglamaning tipi qanday?",
+    "A": "Fredgolm integral tenglamasining birinchi turi.",
+    "B": "Fredgolm integral tenglamasining ikkinchi turi.",
+    "C": "Volterra integral tenglamasining ikkinchi turi.",
+    "D": "Oddiy algebraik tenglama.",
+    "javob": "A"
+  },
+  {
+    "savol": "$φ(x)=cosx+\\sum_{0}^{π} sin(x+t)φ(t)dt$ tenglamaning tipi qanday?",
+    "A": "Fredgolm integral tenglamasining ikkinchi turi.",
+    "B": "Fredgolm integral tenglamasining birinchi turi.",
+    "C": "Trigonometrik tenglama.",
+    "D": "Chiziqsiz integral tenglama.",
+    "javob": "A"
+  },
+  {
+    "savol": "$φ(x)=3+\\sum_{0}^{1} (x-t)^{2}φ(t)dt$tenglamada yadro qaysi?",
+    "A": "K(x,t)= $(x-t)^{2}$",
+    "B": "K(x,t)=3",
+    "C": "K(x,t)=φ(t)",
+    "D": "K(x,t)=x",
+    "javob": "A"
+  },
+  {
+    "savol": "$\\sum_{0}^{1} xtφ(t)dt=x^{2}$tenglamada yadro qaysi?",
+    "A": "K(x,t)=xt",
+    "B": "K(x,t)= $x^{2}$",
+    "C": "K(x,t)=φ(t)",
+    "D": "K(x,t)=1",
+    "javob": "A"
+  },
+  {
+    "savol": "$φ(x)=1+=λ\\sum_{0}^{1} K(x,t)φ(t)dt$tenglamada noma’lum funksiya qaysi?",
+    "A": "φ(x)",
+    "B": "K(x,t)",
+    "C": "λ",
+    "D": "1",
+    "javob": "A"
+  },
+  {
+    "savol": "K(x,t)=x+t ko‘rinishidagi yadro qanday turdagi yadroga misol bo‘la oladi?",
+    "A": "Ajraladigan yoki degeneratsiyalangan yadroga misol bo‘la oladi.",
+    "B": "Nol yadroga misol bo‘ladi.",
+    "C": "Simmetrik bo‘lmagan chiziqsiz yadroga misol bo‘ladi.",
+    "D": "Integral tenglamada yadro bo‘la olmaydi.",
+    "javob": "A"
+  },
+  {
+    "savol": "K(x,t)=xt+sin x cos t yadro haqida qaysi mulohaza to‘g‘ri?",
+    "A": "Bu yadro chekli sondagi $a_{i}(x)b_{i}(t)$ko‘paytmalar yig‘indisi shaklida yoziladi.",
+    "B": "Bu yadroda x va t umuman qatnashmaydi.",
+    "C": "Bu yadro nol funksiyadan iborat.",
+    "D": "Bu yadro har doim chiziqsiz tenglama hosil qiladi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Ajralgan yadro qanday ko‘rinishda bo‘ladi?",
+    "A": "$K(x,t)=Σ a_{i}(x)b_{i}(t)$ ko‘rinishida chekli yig‘indi bilan ifodalanadi.",
+    "B": "K(x,t) cheksiz hosilalar orqali yoziladi.",
+    "C": "K(x,t) har doim nolga teng bo‘ladi.",
+    "D": "K(x,t) x ga bog‘liq bo‘lmaydi.",
+    "javob": "A"
+  },
+  {
+    "savol": "K(x,t)=K(t,x) shart bajarilsa, yadro qanday ataladi?",
+    "A": "Simmetrik yadro deyiladi.",
+    "B": "Nol yadro deyiladi.",
+    "C": "Ozod had deyiladi.",
+    "D": "Xarakteristik funksiya deyiladi.",
+    "javob": "A"
+  },
+  {
+    "savol": "K(x,t)=xt yadrosi [0,1] oraliqda simmetrikmi?",
+    "A": "Ha, chunki K(x,t)=xt va K(t,x)=tx bir xil.",
+    "B": "Yo‘q, chunki xt har doim nolga teng.",
+    "C": "Yo‘q, chunki yadro x ga bog‘liq.",
+    "D": "Ha, λ=0 bo‘lganda.",
+    "javob": "A"
+  },
+  {
+    "savol": "K(x,t)=x−t yadrosi simmetrikmi?",
+    "A": "Yo‘q, chunki K(t,x)=t−x bo‘lib, odatda K(x,t) ga teng emas.",
+    "B": "Ha, chunki x−t har doim musbat.",
+    "C": "Ha, chunki yadroda ikkita o‘zgaruvchi bor.",
+    "D": "Yo‘q, chunki u integralda qatnashmaydi.",
+    "javob": "A"
+  },
+  {
+    "savol": "$φ(x)=f(x)+=λ\\sum_{0}^{1} K(x,t)φ(t)dt$tenglama qachon chiziqli hisoblanadi?",
+    "A": "Noma’lum funksiya φ birinchi darajada va chiziqli ko‘rinishda qatnashsa.",
+    "B": "Noma’lum funksiya kvadrat ko‘rinishda qatnashsa.",
+    "C": "Tenglamada sin(φ(t)) qatnashsa.",
+    "D": "Noma’lum funksiya ko‘paytma φ(x)φ(t) shaklida qatnashsa.",
+    "javob": "A"
+  },
+  {
+    "savol": "$φ(x)=x+=\\sum_{0}^{1} K(x,t)φ^{2}(t)dt$ tenglama qanday?",
+    "A": "Chiziqsiz integral tenglama.",
+    "B": "Chiziqli Fredgolm tenglamasi.",
+    "C": "Bir jinsli algebraik tenglama.",
+    "D": "Yadrosi bo‘lmagan tenglama.",
+    "javob": "A"
+  },
+  {
+    "savol": "$φ(x)=x+=\\sum_{0}^{1} K(x,t)sin(φ(t))dt$tenglama qanday tenglama hisoblanadi?",
+    "A": "Chiziqsiz integral tenglama.",
+    "B": "Chiziqli ikkinchi tur Fredgolm tenglamasi.",
+    "C": "Birinchi tartibli differensial tenglama.",
+    "D": "Algebraik tenglama.",
+    "javob": "A"
+  },
+  {
+    "savol": "$φ(x)=x+\\sum_{0}^{1} tφ(t)dt$tenglamada K(x,t) qanday?",
+    "A": "K(x,t)=t",
+    "B": "K(x,t)=x",
+    "C": "K(x,t)=φ(t)",
+    "D": "K(x,t)=x+t",
+    "javob": "A"
+  },
+  {
+    "savol": "$φ(x)=5+=\\sum_{0}^{2} (t^{3}+x)φ(t)dt$tenglamada integrallash chegaralari qaysi?",
+    "A": "0 va 2",
+    "B": "x va 2",
+    "C": "0 va x",
+    "D": "−∞ va ∞",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi tenglama Fredgolm integral tenglamasiga misol bo‘ladi?",
+    "A": "$$φ(x)=x+\\sum_{0}^{1} (x+t)φ(t)dt$$",
+    "B": "$$φ(x)=x+\\sum_{0}^{x} (x+t)φ(t)dt$$",
+    "C": "φ'(x)+φ(x)=0",
+    "D": "$x^{2}$+3x−1=0",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi tenglama Volterra integral tenglamasiga yaqin ko‘rinishga ega?",
+    "A": "$$φ(x)=x+\\sum_{0}^{x} (x+t)φ(t)dt$$",
+    "B": "$$φ(x)=x+\\sum_{0}^{1} (x+t)φ(t)dt$$",
+    "C": "$$f(x)=\\sum_{0}^{1} (x+t)φ(t)dt$$",
+    "D": "φ(x)=f(x)+λφ(x)",
+    "javob": "A"
+  },
+  {
+    "savol": "Fredgolm integral operatori odatda qanday yoziladi?",
+    "A": "$$(Aφ)(x)=\\sum_{a}^{b} K(x,t)φ(t)dt$$",
+    "B": "(Aφ)(x)=φ'(x)",
+    "C": "(Aφ)(x)=xφ$x^{2}$",
+    "D": "(Aφ)(x)=K(x,x)",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar K(x,t) uzluksiz bo‘lsa, integral operator haqida qaysi fikr odatda to‘g‘ri?",
+    "A": "U ko‘p hollarda kompakt operator sifatida qaraladi.",
+    "B": "U har doim chiziqsiz operator bo‘ladi.",
+    "C": "U chekli to‘plamda aniqlanadi.",
+    "D": "U hech qachon chegaralangan bo‘lmaydi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Fredgolm tenglamasini operator ko‘rinishida qanday yozish mumkin?",
+    "A": "φ = f + λAφ",
+    "B": "φ' = f + λAφ",
+    "C": "Aφ = 0 faqat",
+    "D": "$φ^{2}$= f",
+    "javob": "A"
+  },
+  {
+    "savol": "φ = f + λAφ tenglamada A nimani bildiradi?",
+    "A": "Integral operatorni bildiradi.",
+    "B": "Sonli koeffitsiyentni bildiradi.",
+    "C": "Boshlang‘ich qiymatni bildiradi.",
+    "D": "Tenglamaning ildizini bildiradi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Ikkinchi tur Fredgolm tenglamasida λ qanday rol bajaradi?",
+    "A": "Integral operator oldidagi parametr rolini bajaradi.",
+    "B": "Integrallash chegarasini bildiradi.",
+    "C": "Yadro nomini bildiradi.",
+    "D": "Noma’lum funksiya o‘rnini bosadi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Fredgolm tenglamasida λ=0 bo‘lsa, $φ(x)=f(x)+λ\\sum_{a}^{b} K(x,t)φ(t)dt$tenglama nimaga aylanadi?",
+    "A": "φ(x)=f(x) ko‘rinishidagi oddiy tenglikka aylanadi.",
+    "B": "φ(x)=0 tenglamaga aylanadi.",
+    "C": "$\\sum_{a}^{b} K(x,t)φ(t)dt=f(x)$ tenglamaga aylanadi.",
+    "D": "Yadro yo‘qolib, f(x)=0 bo‘ladi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Fredgolm tenglamasida K(x,t)=0 bo‘lsa, $φ(x)=f(x)+λ\\sum_{a}^{b} K(x,t)φ(t)dt$nimaga aylanadi?",
+    "A": "φ(x)=f(x) tenglamaga aylanadi.",
+    "B": "φ(x)=λφ(x) tenglamaga aylanadi.",
+    "C": "Integral cheksiz bo‘ladi.",
+    "D": "Tenglama birinchi turga aylanadi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Fredgolm alternativasi nimani ifodalaydi?",
+    "A": "Ikkinchi tur tenglamaning yechilishi bir jinsli tenglama yechimlari bilan bog‘liqligini ifodalaydi.",
+    "B": "Har qanday Fredgolm tenglamaning doim cheksiz ko‘p yechimi borligini bildiradi.",
+    "C": "Algebraik tenglamalarni yechish qoidasidir.",
+    "D": "Yadro doim nol bo‘lishi kerakligini bildiradi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar bir jinsli tenglama nol yechimga ega bo‘lsa, ikkinchi tur Fredgolm tenglamasi haqida odatda nima deyiladi?",
+    "A": "Mos bir jinsli bo‘lmagan tenglama yagona yechimga ega bo‘ladi.",
+    "B": "Hech qanday yechimga ega bo‘lmaydi.",
+    "C": "Har doim cheksiz ko‘p yechimga ega bo‘ladi.",
+    "D": "Yadro majburiy ravishda nol bo‘ladi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Bir jinsli Fredgolm tenglamasining nol bo‘lmagan yechimi qanday ataladi?",
+    "A": "Xos funksiya deb ataladi.",
+    "B": "Ozod had deb ataladi.",
+    "C": "Yadro deb ataladi.",
+    "D": "Chegara sharti deb ataladi.",
+    "javob": "A"
+  },
+  {
+    "savol": "λ ning qaysi qiymatlari uchun bir jinsli tenglama nol bo‘lmagan yechimga ega bo‘lsa, ular qanday ataladi?",
+    "A": "Xarakteristik qiymatlar deb ataladi.",
+    "B": "Boshlang‘ich qiymatlar deb ataladi.",
+    "C": "Integrallash chegaralari deb ataladi.",
+    "D": "Oddiy konstantalar deb ataladi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Neyman qatori usuli qachon qo‘llanishi mumkin?",
+    "A": "|λ| yetarlicha kichik bo‘lganda yoki λA operator normasi kichik bo‘lganda qo‘llanishi mumkin.",
+    "B": "Yadro nol bo‘lganda qo‘llanadi.",
+    "C": "Tenglamada integral bo‘lmaganda qo‘llanadi.",
+    "D": "Chiziqsiz tenglamalar uchun qo‘llanadi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Ketma-ket yaqinlashish usulida boshlang‘ich yaqinlashish sifatida ko‘pincha nima olinadi?",
+    "A": "φ₀(x)=f(x) olinadi.",
+    "B": "φ₀(x)=K(x,t) olinadi.",
+    "C": "φ₀(x)=λ olinadi.",
+    "D": "φ₀(x)=a+b olinadi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Rezolventa yadrosi nima uchun kerak?",
+    "A": "Ikkinchi tur Fredgolm tenglamasining yechimini ozod had orqali ifodalash uchun kerak.",
+    "B": "Integrallash chegaralarini almashtirish uchun kerak.",
+    "C": "Tenglamani differensial tenglamaga aylantirish uchun har doim kerak.",
+    "D": "Noma’lum funksiyani yo‘q qilish uchun kerak emas.",
+    "javob": "A"
+  },
+  {
+    "savol": "$φ(x)=1+\\sum_{0}^{1} xtφ(t)dt$tenglamada yadro aynigan hisoblanadimi?",
+    "A": "Ha, chunki K(x,t)=x t = a(x)b(t) ko‘rinishida ajraladi.",
+    "B": "Yo‘q, chunki yadroda x va t bor.",
+    "C": "Yo‘q, chunki integral chegaralari o‘zgarmas.",
+    "D": "Ha, λ=0 bo‘lsa.",
+    "javob": "A"
+  },
+  {
+    "savol": "$φ(x)=1+\\sum_{0}^{1} (x+t)φ(t)dt$ tenglamani yechishda degeneratsiyalangan yadro usuli nimaga olib keladi?",
+    "A": "Masala chekli sondagi algebraik tenglamalar sistemasiga keltiriladi.",
+    "B": "Masala har doim differensial tenglamaga aylanadi.",
+    "C": "Yadro avtomatik ravishda nolga aylanadi.",
+    "D": "Noma’lum funksiya tenglamadan butunlay yo‘qoladi.",
+    "javob": "A"
+  },
+  {
+    "savol": "$\\sum_{0}^{1} (x+t)φ(t)dt=x+1$ tenglama haqida qaysi fikr to‘g‘ri?",
+    "A": "Bu birinchi tur Fredgolm integral tenglamasidir.",
+    "B": "Bu ikkinchi tur Fredgolm integral tenglamasidir.",
+    "C": "Bu oddiy hosilali tenglamadir.",
+    "D": "Bu integral operatorga ega emas.",
+    "javob": "A"
+  },
+  {
+    "savol": "$φ(x)=sinx+3\\sum_{0}^{π} cos(x-t)φ(t)dt$tenglamada λ parametr qaysi qiymatga teng?",
+    "A": "λ=3",
+    "B": "λ=1+x",
+    "C": "λ=t",
+    "D": "λ=φ(t)",
+    "javob": "A"
+  },
+  {
+    "savol": "$φ(x)=sinx+3\\sum_{0}^{π} cos(x-t)φ(t)dt$tenglamada ozod had qaysi?",
+    "A": "f(x)=sin x",
+    "B": "f(x)=cos(x−t)",
+    "C": "f(x)=φ(t)",
+    "D": "f(x)=π",
+    "javob": "A"
+  },
+  {
+    "savol": "Fredgolm integral tenglamalarining amaliy ahamiyati nimada?",
+    "A": "Fizika, mexanika, potensiallar nazariyasi va matematik modellarda uchraydigan masalalarni yechishda qo‘llanadi.",
+    "B": "Natural sonlarni sanashda qo‘llanadi.",
+    "C": "Geometriyada burchak o‘lchash uchun ishlatiladi.",
+    "D": "Algebraik ko‘paytmalarni hisoblashda ishlatiladi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Volterra integral tenglamasi uchun asosiy belgi nima?",
+    "A": "Integralning yuqori chegarasi o‘zgaruvchi x ga bog‘liq bo‘ladi.",
+    "B": "Integral har doim sonlar ustida olinadi.",
+    "C": "Integral chegaralari doimiy a va b bo‘ladi.",
+    "D": "Noma’lum funksiya integralda qatnashmaydi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Volterra integral tenglamasining ikkinchi turdagi umumiy ko‘rinishi qaysi?",
+    "A": "$$y(x)=f(x)+λ\\sum_{a}^{x} K(x,t)y(t)dt$$",
+    "B": "$$\\sum_{a}^{b} K(x,t)y(t)dt=f(x)$$",
+    "C": "$$y(x)=f(x)+λ\\sum_{a}^{b} K(x,t)y(t)dt$$",
+    "D": "K(x,t)=f(x)y(t)",
+    "javob": "A"
+  },
+  {
+    "savol": "Volterra integral tenglamasining birinchi turdagi ko‘rinishi qaysi?",
+    "A": "$$\\sum_{a}^{x} K(x,t)y(t)dt=f(x)$$",
+    "B": "$$y(x)=f(x)+λ\\sum_{a}^{x} K(x,t)y(t)dt$$",
+    "C": "y′(x)=K(x,t)y(t)",
+    "D": "$$\\sum_{a}^{b} K(x,t)y(t)dt=0$$",
+    "javob": "A"
+  },
+  {
+    "savol": "Volterra tenglamasida K(x,t) qanday nomlanadi?",
+    "A": "Integral tenglamaning yadrosi.",
+    "B": "Tenglamaning chegaraviy sharti.",
+    "C": "Tenglamaning boshlang‘ich qiymati.",
+    "D": "Tenglamaning xususiy yechimi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Volterra tenglamasida f(x) odatda nimani bildiradi?",
+    "A": "Berilgan ozod hadni bildiradi.",
+    "B": "Noma’lum funksiyani bildiradi.",
+    "C": "Integral yadrosini bildiradi.",
+    "D": "Operator normasini bildiradi.",
+    "javob": "A"
+  },
+  {
+    "savol": "$y(x)=1+\\sum_{a}^{x} (x-t)y(t)dt$tenglamasi qaysi turga kiradi?",
+    "A": "Ikkinchi turdagi Volterra integral tenglamasi.",
+    "B": "Birinchi turdagi Fredgolm integral tenglamasi.",
+    "C": "Algebraik tenglama.",
+    "D": "Oddiy chiziqsiz tenglama.",
+    "javob": "A"
+  },
+  {
+    "savol": "$\\sum_{a}^{x} (x+t)y(t)dt=x^{2}$ tenglamasi qaysi turga kiradi?",
+    "A": "Birinchi turdagi Volterra integral tenglamasi.",
+    "B": "Ikkinchi turdagi Fredgolm integral tenglamasi.",
+    "C": "Differensial tenglama.",
+    "D": "Chegaraviy masala.",
+    "javob": "A"
+  },
+  {
+    "savol": "$y(x)=sinx+2\\sum_{a}^{x} ty(t)dt$ tenglamasida λ nechaga teng?",
+    "A": "λ=2",
+    "B": "λ=0",
+    "C": "λ=-1",
+    "D": "λ=x",
+    "javob": "A"
+  },
+  {
+    "savol": "$y(x)=x+\\sum_{a}^{x} (x-t)y(t)dt$ tenglamasida yadro qaysi?",
+    "A": "K(x,t)=x-t",
+    "B": "K(x,t)=x",
+    "C": "K(x,t)=t",
+    "D": "K(x,t)=y(t)",
+    "javob": "A"
+  },
+  {
+    "savol": "$y(x)=3+\\sum_{a}^{x} y(t)dt$tenglamasida yadro?",
+    "A": "K(x,t)=1",
+    "B": "K(x,t)=x+t",
+    "C": "K(x,t)=0",
+    "D": "K(x,t)=3",
+    "javob": "A"
+  },
+  {
+    "savol": "Bir jinsli Volterra integral tenglamasi qanday bo‘ladi?",
+    "A": "Ozod had f(x) nolga teng bo‘ladi.",
+    "B": "Integral belgisi qatnashmaydi.",
+    "C": "Yadro K(x,t) har doim nol bo‘ladi.",
+    "D": "Noma’lum funksiya kvadratda keladi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Bir jinsli bo‘lmagan Volterra tenglamasida nima mavjud bo‘ladi?",
+    "A": "Ozod had f(x) mavjud bo‘ladi.",
+    "B": "Nol yechim mavjud bo‘ladi.",
+    "C": "Integral chegaralari mavjud bo‘lmaydi.",
+    "D": "Yadro har doim simmetrik bo‘ladi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Chiziqli Volterra integral tenglamasida noma’lum funksiya qanday qatnashadi?",
+    "A": "Noma’lum funksiya birinchi darajada qatnashadi.",
+    "B": "Noma’lum funksiya kvadrat ko‘rinishda qatnashadi.",
+    "C": "Noma’lum funksiya eksponenta ichida qatnashadi.",
+    "D": "Noma’lum funksiya qatnashmaydi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Volterra tenglamasining Fredgolm tenglamasidan asosiy farqi nimada?",
+    "A": "Volterra tenglamasida integralning yuqori chegarasi x bo‘ladi.",
+    "B": "Volterra tenglamasida integral chegaralari doim a va b bo‘ladi.",
+    "C": "Volterra tenglamasida yadro bo‘lmaydi.",
+    "D": "Volterra tenglamasida ozod had bo‘lmaydi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Volterra tenglamasining integrallash sohasi odatda qanday soha bo‘ladi?",
+    "A": "Uchburchaksimon soha: a≤t≤x≤b.",
+    "B": "To‘rtburchaksimon soha: a≤t≤b.",
+    "C": "Bitta nuqtadan iborat soha.",
+    "D": "Butun tekislik.",
+    "javob": "A"
+  },
+  {
+    "savol": "K(x,t) uzluksiz bo‘lsa, ikkinchi turdagi Volterra tenglamasi uchun odatda qanday natija olinadi?",
+    "A": "Yechimning mavjudligi va yagonaligi ta’minlanadi.",
+    "B": "Yechim hech qachon mavjud bo‘lmaydi.",
+    "C": "Cheksiz ko‘p yechim bo‘ladi.",
+    "D": "Tenglama algebraik tenglamaga aylanadi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Volterra tenglamasini yechishda ketma-ket yaqinlashish usuli nimaga asoslanadi?",
+    "A": "Yechimni takroriy integral formulalar orqali topishga asoslanadi.",
+    "B": "Matritsa determinantini hisoblashga asoslanadi.",
+    "C": "Grafik chizishga asoslanadi.",
+    "D": "Integral chegaralarini almashtirishga asoslanadi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Neyman qatori Volterra tenglamasida nimani ifodalaydi?",
+    "A": "Yechimni operator darajalari orqali ketma-ket qator ko‘rinishida ifodalaydi.",
+    "B": "Yadro simmetriyasini aniqlaydi.",
+    "C": "Integral chegaralarini o‘zgartiradi.",
+    "D": "X ning qiymatini topadi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Volterra integral operatori C[a,b] da qanday ko‘rinishda yoziladi?",
+    "A": "$$(Ty)(x)=\\sum_{a}^{x} K(x,t)y(t)dt$$",
+    "B": "$$(Ty)(x)=K(x,x)y(x)$$",
+    "C": "$$(Ty)(x)=y'(x)$$",
+    "D": "$$(Ty)(x)=\\sum_{a}^{b} y(x)dt$$",
+    "javob": "A"
+  },
+  {
+    "savol": "$(Ty)(x)=\\sum_{a}^{x} y(t)dt$operatorida K(x,t) qaysi?",
+    "A": "K(x,t)=1",
+    "B": "K(x,t)=x",
+    "C": "K(x,t)=t",
+    "D": "K(x,t)=0",
+    "javob": "A"
+  },
+  {
+    "savol": "$\\sum_{0}^{x} y(t)dt=x^{2}$tenglamaning yechimi qaysi?",
+    "A": "y(x)=2x",
+    "B": "y(x)= $x^{2}$",
+    "C": "y(x)=x",
+    "D": "y(x)=0",
+    "javob": "A"
+  },
+  {
+    "savol": "$\\sum_{0}^{x} ty(t)dt=x^{3}$tenglama uchun x>0 da y(x) qaysi?",
+    "A": "y(x)=3x",
+    "B": "y(x)= $x^{2}$",
+    "C": "y(x)=3",
+    "D": "y(x)=x",
+    "javob": "A"
+  },
+  {
+    "savol": "$\\sum_{0}^{x} (x-t)y(t)dt=\\frac{x^{3}}{6}$ tenglamaning yechimi qaysi?",
+    "A": "y(x)=x",
+    "B": "y(x)= $x^{2}$",
+    "C": "y(x)=1",
+    "D": "y(x)=0",
+    "javob": "A"
+  },
+  {
+    "savol": "$y(x)=1+\\sum_{0}^{x} y(t)dt$ tenglamaning yechimi qaysi?",
+    "A": "y(x)= $e^{x}$",
+    "B": "y(x)=x",
+    "C": "y(x)=1-x",
+    "D": "y(x)=0",
+    "javob": "A"
+  },
+  {
+    "savol": "$y(x)=x+\\sum_{0}^{x} y(t)dt$tenglamaning yechimi qaysi?",
+    "A": "y(x)= $e^{x}$-1",
+    "B": "y(x)= $x^{2}$",
+    "C": "y(x)=1",
+    "D": "y(x)= $e^{-x}$",
+    "javob": "A"
+  },
+  {
+    "savol": "$y(x)=f(x)+λ\\sum_{0}^{x} K(x,t)y(t)dt$tenglamasida λ nimani bildiradi?",
+    "A": "Berilgan parametr yoki sonli koeffitsiyentni bildiradi.",
+    "B": "Noma’lum funksiyaning argumentini bildiradi.",
+    "C": "Integralning yuqori chegarasini bildiradi.",
+    "D": "Yadroning nol qiymatini bildiradi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar λ=0 bo‘lsa, $y(x)=f(x)+λ\\sum_{0}^{x} K(x,t)y(t)dt$tenglamaning yechimi qanday bo‘ladi?",
+    "A": "y(x)=f(x)",
+    "B": "y(x)=0",
+    "C": "y(x)=K(x,t)",
+    "D": "y(x)=λ",
+    "javob": "A"
+  },
+  {
+    "savol": "Agar K(x,t)=0 bo‘lsa, ikkinchi turdagi Volterra tenglamasi nimaga aylanadi?",
+    "A": "y(x)=f(x)",
+    "B": "$$\\sum_{a}^{x} y(t)dt=0$$",
+    "C": "y′(x)=f(x)",
+    "D": "K(x,t)=y(x)",
+    "javob": "A"
+  },
+  {
+    "savol": "Volterra tenglamasida K(x,t)=k(x-t) bo‘lsa, bu qanday yadro deyiladi?",
+    "A": "Ayirma argumentli yoki konvolyutsion yadro.",
+    "B": "Diskret yadro.",
+    "C": "Chegaraviy yadro.",
+    "D": "Doimiy nol yadro.",
+    "javob": "A"
+  },
+  {
+    "savol": "Konvolyutsion Volterra tenglamasini yechishda qaysi usul qulay?",
+    "A": "Laplas almashtirish usuli.",
+    "B": "Gauss eliminatsiyasi.",
+    "C": "Trigonometrik almashtirish.",
+    "D": "Koordinata almashtirish.",
+    "javob": "A"
+  },
+  {
+    "savol": "$y(x)=f(x)+\\sum_{0}^{x} cos(x-t)y(t)dt$tenglamasi qanday yadroga ega?",
+    "A": "Konvolyutsion yadroga ega.",
+    "B": "Algebraik yadroga ega.",
+    "C": "Simmetrik Fredgolm yadrosiga ega.",
+    "D": "Nol yadroga ega.",
+    "javob": "A"
+  },
+  {
+    "savol": "Volterra tenglamalari amaliy jihatdan ko‘pincha nimani ifodalaydi?",
+    "A": "O‘tgan holatlarga bog‘liq jarayonlarni ifodalaydi.",
+    "B": "Statik sonli tenglamalarni ifodalaydi.",
+    "C": "Geometriyadagi uchburchaklarni ifodalaydi.",
+    "D": "Chekli to‘plamlarni ifodalaydi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Volterra operatorining “xotira” xossasi nimani anglatadi?",
+    "A": "y(x) qiymati oldingi t≤x qiymatlar orqali aniqlanishini bildiradi.",
+    "B": "y(x) qiymati kelajakdagi t>x qiymatlarga bog‘liq bo‘ladi.",
+    "C": "Operator bitta nuqtada ishlaydi.",
+    "D": "Operator nol funksiyaga ta’sir qiladi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Volterra tenglamasini sonli yechishda nima qulaylik beradi?",
+    "A": "Har bir yangi x nuqtada oldingi qiymatlardan foydalanish mumkin.",
+    "B": "Barcha noma’lumlar bir vaqtda yo‘qoladi.",
+    "C": "Integral chegaralari cheksiz bo‘ladi.",
+    "D": "Yadro har doim nol bo‘ladi.",
+    "javob": "A"
+  },
+  {
+    "savol": "C[a,b] da uzluksiz yadroli Volterra integral operatori odatda qanday operator bo‘ladi?",
+    "A": "Kompakt operator bo‘ladi.",
+    "B": "Har doim teskari operator bo‘lmaydi.",
+    "C": "Nol operator bo‘ladi.",
+    "D": "Identik operator bo‘ladi.",
+    "javob": "A"
+  },
+  {
+    "savol": "$(Vf)(x)=\\sum_{0}^{x} f(t)dt$ operatori qanday operatorga misol bo‘ladi?",
+    "A": "Volterra integral operatoriga.",
+    "B": "Differensial operatorga.",
+    "C": "Fredgolm ikkinchi tur operatoriga.",
+    "D": "Matritsaviy determinantga.",
+    "javob": "A"
+  },
+  {
+    "savol": "$(Vf)(x)=\\sum_{0}^{x} f(t)dt$ operatorining yadro funksiyasi kengaytirilsa qanday bo‘ladi?",
+    "A": "K(x,t)=1, agar 0≤t≤x; K(x,t)=0, agar t>x.",
+    "B": "K(x,t)=0 barcha joyda.",
+    "C": "K(x,t)=x+t barcha joyda.",
+    "D": "K(x,t)=f(x) barcha joyda.",
+    "javob": "A"
+  },
+  {
+    "savol": "Volterra operatorining yadrosi K(x,t)=1 (t≤x) bo‘lsa, u simmetrikmi?",
+    "A": "Umuman olganda simmetrik emas.",
+    "B": "Har doim simmetrik bo‘ladi.",
+    "C": "K=0 bo‘lganda simmetrik emas.",
+    "D": "Simmetriya tushunchasi bu yerda mutlaqo taqiqlangan.",
+    "javob": "A"
+  },
+  {
+    "savol": "$\\sum_{0}^{x} y(t)dt=f(x)$tenglamada yechimni topish uchun odatda nima qilinadi?",
+    "A": "Ikkala tomon x bo‘yicha differensiallanadi.",
+    "B": "Ikkala tomon x ga ko‘paytiriladi.",
+    "C": "Integral chegaralari o‘chirib tashlanadi.",
+    "D": "f(x) nol deb olinadi.",
+    "javob": "A"
+  },
+  {
+    "savol": "$\\sum_{0}^{x} y(t)dt=f(x)$ tenglamada yechim qaysi shartda y(x)=f′(x) bo‘ladi?",
+    "A": "f differensiallanuvchi va f(0)=0 bo‘lsa.",
+    "B": "f manfiy bo‘lsa.",
+    "C": "K(x,t)=0 bo‘lsa.",
+    "D": "x doimiy bo‘lsa.",
+    "javob": "A"
+  },
+  {
+    "savol": "Birinchi turdagi Volterra tenglamasida f(0)=0 sharti nima uchun tabiiy?",
+    "A": "Chunki x=0 da integralning uzunligi nol bo‘ladi.",
+    "B": "Chunki yadro har doim nol bo‘ladi.",
+    "C": "Chunki y(0) har doim 1 bo‘ladi.",
+    "D": "Chunki tenglama differensial emas.",
+    "javob": "A"
+  },
+  {
+    "savol": "$y(x)=λ\\sum_{0}^{x} K(x,t)y(t)dt$ bir jinsli Volterra tenglamasi uchun uzluksiz yadroda odatda qanday yechim olinadi?",
+    "A": "Nol yechim olinadi.",
+    "B": "Har doim cheksiz ko‘p yechim olinadi.",
+    "C": "Har doim y(x)=1 yechim bo‘ladi.",
+    "D": "Hech qanday yechim bo‘lmaydi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Volterra tenglamasining yechimi ko‘pincha qaysi oraliqda izlanadi?",
+    "A": "Berilgan [a,b] oraliqda.",
+    "B": "Butun sonlar to‘plamida.",
+    "C": "Kompleks tekislikda.",
+    "D": "Bitta nuqtada.",
+    "javob": "A"
+  },
+  {
+    "savol": "Volterra integral tenglamasida noma’lum funksiya odatda qayerda qatnashadi?",
+    "A": "Integral ostida va ba’zan integral tashqarisida qatnashadi.",
+    "B": "Limit belgisi ichida qatnashadi.",
+    "C": "Integral chegarasida qatnashadi.",
+    "D": "Umuman qatnashmaydi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Volterra tenglamasida yadro K(x,t)=xt bo‘lsa, u qanday yadroga misol bo‘ladi?",
+    "A": "Ajraluvchi yadroga misol bo‘ladi.",
+    "B": "Singulyar Abel yadrosiga misol bo‘ladi.",
+    "C": "Nol yadroga misol bo‘ladi.",
+    "D": "diskret yadroga misol bo‘ladi.",
+    "javob": "A"
+  },
+  {
+    "savol": "$y(x)=f(x)+\\sum_{0}^{x} xty(t)dt$ tenglamada yadro qaysi?",
+    "A": "K(x,t)=xt",
+    "B": "K(x,t)=f(x)",
+    "C": "K(x,t)=y(t)",
+    "D": "K(x,t)=x+t+y",
+    "javob": "A"
+  },
+  {
+    "savol": "Volterra tenglamasida rezolventa yadro nimaga xizmat qiladi?",
+    "A": "Yechimni integral ko‘rinishda ifodalashga xizmat qiladi.",
+    "B": "Integral chegarasini yo‘qotishga xizmat qiladi.",
+    "C": "Yadroni nolga tenglashtiradi.",
+    "D": "Tenglamani doim chiziqsiz qiladi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Volterra tenglamalarida yechimni bosqichma-bosqich topish nima bilan bog‘liq?",
+    "A": "Integrallash chegarasi x gacha bo‘lgani bilan bog‘liq.",
+    "B": "Integralning doim a dan b gacha bo‘lgani bilan bog‘liq.",
+    "C": "Yadroning har doim nol bo‘lgani bilan bog‘liq.",
+    "D": "Ozod hadning yo‘qligi bilan bog‘liq.",
+    "javob": "A"
+  },
+  {
+    "savol": "$y(x)=x^{2}+\\sum_{0}^{x} (t+1)y(t)dt$tenglama qaysi sinfga kiradi?",
+    "A": "Ikkinchi turdagi chiziqli Volterra integral tenglamasi.",
+    "B": "Birinchi turdagi Abel tenglamasi.",
+    "C": "Fredgolm birinchi tur tenglamasi.",
+    "D": "Chiziqsiz differensial tenglama.",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi tenglama Volterra integral tenglamasiga misol bo‘ladi?",
+    "A": "$$y(x)=1+\\sum_{0}^{x} (x-t)y(t)dt$$",
+    "B": "$$y(x)=1+\\sum_{0}^{1} (x-t)y(t)dt$$",
+    "C": "y′(x)+y(x)=0",
+    "D": "$$x^{2}+y^{2}=1$$",
+    "javob": "A"
+  },
+  {
+    "savol": "Abel integral tenglamasi qanday tenglamalarning maxsus ko‘rinishi hisoblanadi?",
+    "A": "Singulyar yadroli Volterra integral tenglamasining maxsus ko‘rinishi.",
+    "B": "Algebraik tenglamaning maxsus ko‘rinishi.",
+    "C": "Matritsaviy tenglamaning maxsus ko‘rinishi.",
+    "D": "Chekli ayirmali tenglamaning maxsus ko‘rinishi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Abel integral tenglamasining klassik ko‘rinishi qaysi?",
+    "A": "$\\sum_{0}^{x} \\frac{φ(t)}{(x-t)^{α}}dt=f(x), $ 0<α<1",
+    "B": "$$\\sum_{0}^{1} K(x,t)φ(t)dt=f(x)$$",
+    "C": "$$y(x)=1+\\sum_{0}^{1} (x-t)y(t)dt$$",
+    "D": "φ′(x)=f(x)",
+    "javob": "A"
+  },
+  {
+    "savol": "Abel tenglamasida α parametr odatda qaysi oraliqda bo‘ladi?",
+    "A": "0<α<1",
+    "B": "α=0 har doim",
+    "C": "α>2 har doim",
+    "D": "α<0 har doim",
+    "javob": "A"
+  },
+  {
+    "savol": "Abel tenglamasining eng ko‘p uchraydigan yadrosi qaysi?",
+    "A": "K(x,t)=1/√(x-t)",
+    "B": "K(x,t)=x+t",
+    "C": "K(x,t)=xt",
+    "D": "K(x,t)=0",
+    "javob": "A"
+  },
+  {
+    "savol": "Abel tenglamasidagi singulyarlik qayerda yuz beradi?",
+    "A": "t=x nuqtada.",
+    "B": "t=0 nuqtada har doim.",
+    "C": "x=0 va t=0 dan tashqarida.",
+    "D": "Hech qayerda yuz bermaydi.",
+    "javob": "A"
+  },
+  {
+    "savol": "$\\sum_{0}^{x} \\frac{φ(t)}{(x-t)^{0,5}}dt=f(x), $ tenglamasi qaysi tenglama?",
+    "A": "Abel integral tenglamasi.",
+    "B": "Oddiy algebraik tenglama.",
+    "C": "Fredgolm ikkinchi tur tenglamasi.",
+    "D": "To‘liq differensial tenglama.",
+    "javob": "A"
+  },
+  {
+    "savol": "$\\sum_{0}^{x} \\frac{φ(t)}{(x-t)^{0,5}}dt=f(x), $ tenglamasida yadro qaysi?",
+    "A": "K(x,t)=1/√(x-t)",
+    "B": "K(x,t)=√x",
+    "C": "K(x,t)=φ(t)",
+    "D": "K(x,t)=f(x)",
+    "javob": "A"
+  },
+  {
+    "savol": "Abel tenglamasi nima sababli singulyar integral tenglama deyiladi?",
+    "A": "Yadro t=x da cheksizga intilishi mumkin.",
+    "B": "Integral chegaralari doimiy bo‘lgani uchun.",
+    "C": "Noma’lum funksiya yo‘qligi uchun.",
+    "D": "Yechim har doim nol bo‘lgani uchun.",
+    "javob": "A"
+  },
+  {
+    "savol": "Abel tenglamasida yadro singulyar bo‘lsa ham integral qachon ma’noga ega bo‘ladi?",
+    "A": "0<α<1 bo‘lganda singulyarlik integrallanuvchi bo‘ladi.",
+    "B": "α=1 bo‘lganda har doim.",
+    "C": "α>10 bo‘lganda har doim.",
+    "D": "K(x,t)=0 bo‘lgandagina.",
+    "javob": "A"
+  },
+  {
+    "savol": "Abel tenglamasi birinchi turga kirishi uchun noma’lum funksiya qayerda qatnashadi?",
+    "A": "Integral ostida qatnashadi.",
+    "B": "Integral tashqarisida qatnashadi.",
+    "C": "Hosila ichida qatnashadi.",
+    "D": "Umuman qatnashmaydi.",
+    "javob": "A"
+  },
+  {
+    "savol": "$φ(x)=f(x)+λ\\sum_{0}^{x} \\frac{φ(t)}{\\sqrt{x-t}}dt$tenglamasi qanday ataladi?",
+    "A": "Abel tipidagi ikkinchi turdagi Volterra tenglamasi.",
+    "B": "Fredgolm birinchi tur tenglamasi.",
+    "C": "Oddiy algebraik tenglama.",
+    "D": "Chiziqsiz kvadrat tenglama.",
+    "javob": "A"
+  },
+  {
+    "savol": "Abel tenglamasini yechish ko‘pincha qaysi tushuncha bilan bog‘liq?",
+    "A": "Kasr tartibli integral va kasr tartibli hosila bilan.",
+    "B": "Determinantlar nazariyasi bilan.",
+    "C": "Kompleks ildizlar bilan.",
+    "D": "Geometriyadagi aylana bilan.",
+    "javob": "A"
+  },
+  {
+    "savol": "$\\sum_{0}^{x} \\frac{φ(t)}{\\sqrt{x-t}}dt=f(x)$ uchun Abel inversiya formulasi qaysi g‘oyaga asoslanadi?",
+    "A": "Yechimni f(x) dan maxsus integral va differensiallash orqali tiklashga.",
+    "B": "Yechimni f(0) qiymati orqali topishga.",
+    "C": "Yadroni nolga tenglashtirishga.",
+    "D": "Integral chegaralarini a va b bilan almashtirishga.",
+    "javob": "A"
+  },
+  {
+    "savol": "Klassik Abel tenglamasi $\\sum_{0}^{x} \\frac{φ(t)}{\\sqrt{x-t}}dt=f(x)$uchun yechim formulasi qaysi?",
+    "A": "$$φ(x)=\\frac{1}{π}\\frac{d}{dx}(\\sum_{0}^{x} \\frac{f(t)}{\\sqrt{x-t}}dt)$$",
+    "B": "φ(x)=π$\\sum_{0}^{x} \\frac{f(t)}{\\sqrt{x-t}}dt$",
+    "C": "φ(x)=f(x)",
+    "D": "φ(x)=0 har doim",
+    "javob": "A"
+  },
+  {
+    "savol": "Abel tenglamasida f(0)=0 sharti nima uchun tabiiy hisoblanadi?",
+    "A": "x=0 da integral nolga teng bo‘lgani uchun.",
+    "B": "Yadro doim nol bo‘lgani uchun.",
+    "C": "φ(0) har doim nol bo‘lishi shart emasligi uchun.",
+    "D": "Integral yuqori chegarasi doim 1 bo‘lgani uchun.",
+    "javob": "A"
+  },
+  {
+    "savol": "$\\sum_{0}^{x} \\frac{φ(t)}{\\sqrt{x-t}}dt=2\\sqrt{x}$ tenglamaning yechimi qaysi?",
+    "A": "φ(x)=1",
+    "B": "φ(x)=x",
+    "C": "φ(x)=2x",
+    "D": "φ(x)=0",
+    "javob": "A"
+  },
+  {
+    "savol": "$\\sum_{0}^{x} \\frac{φ(t)}{\\sqrt{x-t}}dt=\\sqrt{x}$ tenglamaning yechimi qaysi?",
+    "A": "φ(x)=0,5",
+    "B": "φ(x)=√x",
+    "C": "φ(x)=x",
+    "D": "φ(x)=2",
+    "javob": "A"
+  },
+  {
+    "savol": "$\\sum_{0}^{x} \\frac{φ(t)}{\\sqrt{x-t}}dt=x$ tenglamaning yechimi qaysi?",
+    "A": "$$φ(x)=\\frac{2\\sqrt{x}}{π}$$",
+    "B": "φ(x)=x",
+    "C": "φ(x)=πx",
+    "D": "φ(x)=1",
+    "javob": "A"
+  },
+  {
+    "savol": "$\\sum_{0}^{x} \\frac{φ(t)}{\\sqrt{x-t}}dt=$x² tenglamaning yechimi qaysi?",
+    "A": "$$φ(x)=\\frac{8}{3π}x^{\\frac{3}{2}}$$",
+    "B": "φ(x)=√x",
+    "C": "φ(x)=2x",
+    "D": "φ(x)=0",
+    "javob": "A"
+  },
+  {
+    "savol": "$\\sum_{0}^{x} \\frac{1}{\\sqrt{x-t}}dt$ integral qiymati qaysi?",
+    "A": "2√x",
+    "B": "√x/2",
+    "C": "x^2",
+    "D": "0",
+    "javob": "A"
+  },
+  {
+    "savol": "Abel tenglamasida α=1/2 bo‘lsa, yadro qanday yoziladi?",
+    "A": "1/√(x-t)",
+    "B": "1/(x-t)",
+    "C": "√(x-t)",
+    "D": "x-t",
+    "javob": "A"
+  },
+  {
+    "savol": "Abel tenglamasida α=0 bo‘lsa, tenglama nimaga yaqinlashadi?",
+    "A": "Oddiy Volterra birinchi tur tenglamasiga: $\\sum_{0}^{x} φ(t)dt=f(x)$",
+    "B": "Fredgolm ikkinchi tur tenglamasiga.",
+    "C": "Algebraik tenglamaga: φ(x)=0.",
+    "D": "Cheksiz qatorga.",
+    "javob": "A"
+  },
+  {
+    "savol": "α=0 holatda $\\sum_{0}^{x} φ(t)dt=f(x)$uchun yechim qaysi?",
+    "A": "φ(x)=f′(x)",
+    "B": "φ(x)=f(x)",
+    "C": "$$\\sum_{0}^{x} f(t)dt=φ(x)$$",
+    "D": "φ(x)=0 har doim",
+    "javob": "A"
+  },
+  {
+    "savol": "α=1 holat nega Abel tenglamasida odatda olinmaydi?",
+    "A": "Yadro 1/(x-t) integrallanuvchi oddiy singulyarlik bermaydi.",
+    "B": "Yadro doim nol bo‘lib qoladi.",
+    "C": "Integral chegarasi x bo‘lmaydi.",
+    "D": "Noma’lum funksiya yo‘qolib ketadi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Abel tenglamasining Volterra tenglamasidan farqlovchi muhim belgisi qaysi?",
+    "A": "Yadroning t=x da singulyar bo‘lishi.",
+    "B": "Integralning umuman bo‘lmasligi.",
+    "C": "Yechimning butun son bo‘lishi.",
+    "D": "Ozod hadning doim nol bo‘lishi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Abel tenglamasi qaysi turdagi amaliy masalalarda uchraydi?",
+    "A": "Teskari masalalar va fizik jarayonlarni tiklash masalalarida.",
+    "B": "Arifmetik progressiyada.",
+    "C": "Matritsa ko‘paytmasida.",
+    "D": "Kombinatorik sanashda.",
+    "javob": "A"
+  },
+  {
+    "savol": "$\\sum_{0}^{x} \\frac{φ(t)}{\\sqrt{x-t}}dt=f(x)$tenglamada noma’lum funksiya qaysi?",
+    "A": "φ(t)",
+    "B": "f(x)",
+    "C": "α",
+    "D": "x-t",
+    "javob": "A"
+  },
+  {
+    "savol": "$\\sum_{0}^{x} \\frac{φ(t)}{\\sqrt{x-t}}dt=f(x)$ tenglamada berilgan funksiya qaysi?",
+    "A": "f(x)",
+    "B": "φ(t)",
+    "C": "dt",
+    "D": "0<α<1",
+    "javob": "A"
+  },
+  {
+    "savol": "Abel tenglamasida $(x-t)^{-α}$yadro qanday xususiyatga ega?",
+    "A": "Zaif singulyar yadrodir.",
+    "B": "Doimiy nol yadrodir.",
+    "C": "Chekli o‘lchamli matritsadir.",
+    "D": "Chiziqsiz had hisoblanadi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Zaif singulyar yadro deganda nima tushuniladi?",
+    "A": "Yadro bir nuqtada cheksizlashsa ham integral mavjud bo‘lishi mumkin.",
+    "B": "Yadro har doim nolga teng bo‘ladi.",
+    "C": "Yadro natural sonlarda aniqlanadi.",
+    "D": "Yadro kompleks qiymatli bo‘ladi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Abel tenglamasida f(x) yetarlicha silliq bo‘lsa, yechim qanday usulda tiklanadi?",
+    "A": "Abel inversiya formulasi yordamida.",
+    "B": "Kvadrat tenglama formulasi bilan.",
+    "C": "Determinantni nolga tenglashtirish bilan.",
+    "D": "Grafikdan taxmin qilish bilan.",
+    "javob": "A"
+  },
+  {
+    "savol": "Abel tenglamasi birinchi turdagi Volterra tenglamasidan nimasi bilan murakkabroq?",
+    "A": "Yadrosida singulyarlik mavjudligi bilan.",
+    "B": "Integral chegarasi bo‘lmagani bilan.",
+    "C": "Noma’lum funksiya yo‘qligi bilan.",
+    "D": "Har doim chiziqsiz bo‘lgani bilan.",
+    "javob": "A"
+  },
+  {
+    "savol": "$\\sum_{0}^{x} \\frac{φ(t)}{\\sqrt{x-t}}dt=0$tenglamaning odatdagi yechimi qaysi?",
+    "A": "φ(x)=0",
+    "B": "φ(x)=1",
+    "C": "φ(x)=x",
+    "D": "φ(x)=√x",
+    "javob": "A"
+  },
+  {
+    "savol": "Abel tenglamasida x=0 da integral nima bo‘ladi?",
+    "A": "Integral nolga teng bo‘ladi.",
+    "B": "Integral doim birga teng bo‘ladi.",
+    "C": "Integral cheksiz bo‘ladi.",
+    "D": "Integral yadroga teng bo‘ladi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Abel integral tenglamasining yadrosi K(x,t)=1/√(x−t) bo‘lsa, u qaysi nuqtada uzluksiz emas?",
+    "A": "t=x nuqtada.",
+    "B": "t=0 nuqtada har doim.",
+    "C": "x=1 nuqtada har doim.",
+    "D": "Barcha nuqtalarda uzluksiz.",
+    "javob": "A"
+  },
+  {
+    "savol": "Abel tenglamasini sonli yechishda qanday qiyinchilik paydo bo‘ladi?",
+    "A": "Yadro singulyarligi sababli maxsus kvadratura talab qilinadi.",
+    "B": "Yadro nol bo‘lgani uchun yechim yo‘qoladi.",
+    "C": "Integral chegaralari noaniq bo‘lmaydi.",
+    "D": "Noma’lum funksiya matritsa bo‘ladi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Abel tenglamasida α qancha kichik bo‘lsa, singulyarlik odatda qanday bo‘ladi?",
+    "A": "Singulyarlik kuchsizroq bo‘ladi.",
+    "B": "Singulyarlik har doim kuchliroq bo‘ladi.",
+    "C": "Yadro nolga teng bo‘ladi.",
+    "D": "Tenglama Fredgolmga aylanadi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Abel tenglamasida α 1 ga yaqinlashsa, yadro qanday bo‘ladi?",
+    "A": "Singulyarlik kuchliroq bo‘ladi.",
+    "B": "Yadro doimiy nolga aylanadi.",
+    "C": "Integral yo‘qoladi.",
+    "D": "Noma’lum funksiya yo‘qoladi.",
+    "javob": "A"
+  },
+  {
+    "savol": "$\\sum_{0}^{x} \\frac{φ(t)}{(x-t)^{\\frac{1}{3}}}dt=f(x)$ tenglamasi qaysi sinfga kiradi?",
+    "A": "Abel tipidagi integral tenglama.",
+    "B": "Fredgolm ikkinchi tur tenglamasi.",
+    "C": "Algebraik tenglama.",
+    "D": "Oddiy differensial tenglama.",
+    "javob": "A"
+  },
+  {
+    "savol": "Abel tenglamasi yadro ko‘rinishi bo‘yicha qaysi integral operatorga olib keladi?",
+    "A": "Zaif singulyar Volterra integral operatoriga.",
+    "B": "Chekli o‘lchamli identik operatorga.",
+    "C": "Differensial operatorga.",
+    "D": "Nol operatorga.",
+    "javob": "A"
+  },
+  {
+    "savol": "Abel tenglamasida integralning yuqori chegarasi x bo‘lishi nimani bildiradi?",
+    "A": "Tenglama Volterra tipida ekanini bildiradi.",
+    "B": "Tenglama Fredgolm tipida ekanini bildiradi.",
+    "C": "Tenglama algebraik ekanini bildiradi.",
+    "D": "Tenglama matritsaviy ekanini bildiradi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Abel tenglamasida yadro x-t ga bog‘liq bo‘lsa, u qanday xususiyatga ega?",
+    "A": "Konvolyutsion xususiyatga ega.",
+    "B": "Diskret xususiyatga ega.",
+    "C": "Simmetrik Fredgolm xususiyatiga ega.",
+    "D": "Noma’lumsiz xususiyatga ega.",
+    "javob": "A"
+  },
+  {
+    "savol": "Abel tenglamasi bilan oddiy Volterra birinchi tur tenglamasining o‘xshashligi nimada?",
+    "A": "Ikkalasida ham yuqori integral chegarasi x bo‘ladi.",
+    "B": "Ikkalasida ham integral chegaralari doim 0 va 1 bo‘ladi.",
+    "C": "Ikkalasida ham yadro har doim uzluksiz bo‘ladi.",
+    "D": "Ikkalasida ham noma’lum funksiya integral tashqarisida qatnashadi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Abel tenglamasining asosiy nazariy vazifasi nimadan iborat?",
+    "A": "Integral orqali berilgan f(x) dan noma’lum φ(x) ni tiklashdan iborat.",
+    "B": "x va t ni almashtirib yozishdan iborat.",
+    "C": "Yadro nomini topishdan iborat.",
+    "D": "Grafigini bo‘yashdan iborat.",
+    "javob": "A"
+  },
+  {
+    "savol": "Abel tenglamasida yechimni topishda differensiallash nima uchun paydo bo‘ladi?",
+    "A": "Inversiya formulasi integral ifodani differensiallashni talab qiladi.",
+    "B": "Yadro doimiy bo‘lgani uchun.",
+    "C": "Noma’lum funksiya hosila bilan berilgani uchun.",
+    "D": "Ozod had yo‘qligi uchun.",
+    "javob": "A"
+  }
+]
