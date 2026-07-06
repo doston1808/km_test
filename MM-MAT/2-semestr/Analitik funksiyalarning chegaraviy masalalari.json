@@ -16,7 +16,7 @@
     "javob": "A"
   },
   {
-    "savol": "Koshi masalasi uchun quyidagi mulohazalardan qaysi biri o'rinli? $y^{\\prime}=\frac{y}{x}$, $y(0) = 0$",
+    "savol": "Koshi masalasi uchun quyidagi mulohazalardan qaysi biri o'rinli? $y^{\\prime}=\\frac{y}{x}$, $y(0) = 0$",
     "A": "$x=0$ nuqtada uzluksizlik sharti buzilgani uchun teorema shartlari bajarilmaydi va masala cheksiz ko'p yechimga ega $(y=Cx)$.",
     "B": "Peano teoremasiga koʻra yagona yechim mavjud.",
     "C": "Yechim mavjud emas.",
