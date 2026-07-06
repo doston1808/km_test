@@ -1,0 +1,1594 @@
+[
+  {
+    "savol": "Stek qaysi prinsip bo’yicha ishlaydi?",
+    "A": "LIFO (Last In First Out)",
+    "B": "FIFO (First In First Out)",
+    "C": "Tasodifiy tartibda",
+    "D": "Saralangan tartibda",
+    "javob": "A"
+  },
+  {
+    "savol": "Navbat qaysi prinsip bo’yicha ishlaydi?",
+    "A": "FIFO (First In First Out)",
+    "B": "LIFO (Last In First Out)",
+    "C": "Tasodifiy tartibda",
+    "D": "Ustuvorlik bo’yicha",
+    "javob": "A"
+  },
+  {
+    "savol": "Stekning push operatsiyasining vaqt murakkabligi qanday?",
+    "A": "O(1)",
+    "B": "O(n)",
+    "C": "O(log n)",
+    "D": "O(n²)",
+    "javob": "A"
+  },
+  {
+    "savol": "Navbatning enqueue operatsiyasining vaqt murakkabligi qanday?",
+    "A": "O(1)",
+    "B": "O(n)",
+    "C": "O(log n)",
+    "D": "O(n²)",
+    "javob": "A"
+  },
+  {
+    "savol": "Deque (Double-ended queue) qanday tuzilma?",
+    "A": "Ikki tomondan ham qo’shish/o’chirish mumkin bo’lgan navbat",
+    "B": "Oxiridan qo’shish/o’chirish mumkin bo’lgan navbat",
+    "C": "Boshidan qo’shish/o’chirish mumkin bo’lgan navbat",
+    "D": "Aylanma navbatning bir turi",
+    "javob": "A"
+  },
+  {
+    "savol": "Aylanma navbat (Circular Queue) ning afzalligi nimada?",
+    "A": "Xotiradan samarali foydalanish",
+    "B": "Tezroq qidirish",
+    "C": "Saralangan ma’lumotlarni saqlash",
+    "D": "Tasodifiy kirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Stek yordamida qavslarning to’g’riligi qanday tekshiriladi?",
+    "A": "Ochiluvchi qavslarni stekka qo’yib, yopiluvchilar bilan moslashtirib",
+    "B": "Har qavsni alohida sanab",
+    "C": "Qavslarni o’chirib",
+    "D": "Qavslarni saralash orqali stekka qo’yib, yopiluvchilar bilan moslashtirib",
+    "javob": "A"
+  },
+  {
+    "savol": "Postfiks ifodani hisoblash uchun qaysi tuzilma ishlatiladi?",
+    "A": "Stek",
+    "B": "Navbat",
+    "C": "Daraxt",
+    "D": "Graf",
+    "javob": "A"
+  },
+  {
+    "savol": "BFS algoritmida qaysi ma’lumot tuzilmasi ishlatiladi?",
+    "A": "Navbat (Queue)",
+    "B": "Stek (Stack)",
+    "C": "Heap",
+    "D": "Hash table",
+    "javob": "A"
+  },
+  {
+    "savol": "DFS algoritmida qaysi ma’lumot tuzilmasi ishlatiladi?",
+    "A": "Stek (Stack)",
+    "B": "Navbat (Queue)",
+    "C": "Heap",
+    "D": "Hash table",
+    "javob": "A"
+  },
+  {
+    "savol": "Ikkita stek yordamida nima qurish mumkin?",
+    "A": "Navbatni simulyatsiya qilish",
+    "B": "Daraxtni qurish",
+    "C": "Grafni qurish",
+    "D": "Heapni simulyatsiya qilish",
+    "javob": "A"
+  },
+  {
+    "savol": "Stek to’lib qolishi (overflow) qachon yuzaga keladi?",
+    "A": "Stekning maksimal hajmidan ortiq element qo’shilganda",
+    "B": "Stek bo’sh bo’lganda pop qilinsa",
+    "C": "Push amaliyotining maksimal hajmidan ortiq element qo’shilganda",
+    "D": "Hech qachon",
+    "javob": "A"
+  },
+  {
+    "savol": "Navbatning bo’shligini tekshirish uchun nima qilinadi?",
+    "A": "Front va rear ko’rsatkichlari tengligi tekshiriladi",
+    "B": "Hajm hisoblanadi va ko’rsatkichlar tengligi tekshiriladi",
+    "C": "Hamma elementlar olib tashlanadi",
+    "D": "Birinchi element olinadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ustunlik navbati (Priority Queue) oddiy navbatdan qanday farq qiladi?",
+    "A": "Elementlar ustunlikka qarab olinadi, kelish tartibi bo’yicha emas",
+    "B": "Hech qanday farqi yo’q",
+    "C": "Sonlar bilan ishlaydi, kelish tartibi bo’yicha emas",
+    "D": "FIFO prinsipi qat’iy bajariladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Bir tomonlama bog’langan ro’yxatda har tugun nimani saqlaydi?",
+    "A": "Ma’lumot va keyingi tugunga ko’rsatkich",
+    "B": "ma’lumot",
+    "C": "Ma’lumot va indeks",
+    "D": "Oldingi va keyingi tugun ko’rsatkichlari",
+    "javob": "A"
+  },
+  {
+    "savol": "Ikki tomonlama bog’langan ro’yxatda har tugun nimani saqlaydi?",
+    "A": "Ma’lumot, oldingi va keyingi tugun ko’rsatkichlari",
+    "B": "Ma’lumot va keyingi ko’rsatkich",
+    "C": "Oldingi va keyingi tugun ko’rsatkichlari",
+    "D": "Indeks va ma’lumot",
+    "javob": "A"
+  },
+  {
+    "savol": "Bog’langan ro’yxatda boshiga element qo’shish vaqt murakkabligi?",
+    "A": "O(1)",
+    "B": "O(n)",
+    "C": "O(log n)",
+    "D": "O(n²)",
+    "javob": "A"
+  },
+  {
+    "savol": "Bog’langan ro’yxatda i-indeksdagi elementga kirish vaqt murakkabligi?",
+    "A": "O(n)",
+    "B": "O(1)",
+    "C": "O(log n)",
+    "D": "O(n²)",
+    "javob": "A"
+  },
+  {
+    "savol": "Aylanma bog’langan ro’yxatning xususiyati qanday?",
+    "A": "Oxirgi tugun birinchi tugunga ko’rsatadi",
+    "B": "Boshlang’ich tugundan oxirgisigacha bir tomonlama",
+    "C": "Hech qanday ko’rsatkich yo’q",
+    "D": "Orqaga ko’rsatadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Bog’langan ro’yxat va massivni xotirada solishtirsak?",
+    "A": "Bog’langan ro’yxat tugun uchun qo’shimcha xotira talab qiladi",
+    "B": "Massiv ko’proq xotira talab qiladi",
+    "C": "Bir xil xotira",
+    "D": "Bog’langan ro’yxat xotira ishlatmaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Floyd algoritmi bog’langan ro’yxatda nimani aniqlaydi?",
+    "A": "Tsiklning mavjudligini",
+    "B": "Eng katta elementni",
+    "C": "Ro’yxat uzunligini",
+    "D": "Saralanganligini",
+    "javob": "A"
+  },
+  {
+    "savol": "Bog’langan ro’yxatda o’rta elementni topish uchun samarali usul?",
+    "A": "Ikki ko’rsatkich (slow va fast) yordamida",
+    "B": "Hamma elementlarni sanab",
+    "C": "Hash ko`rsatkich (slow va high) yordamida",
+    "D": "Oxiridan boshlab",
+    "javob": "A"
+  },
+  {
+    "savol": "Bog’langan ro’yxatni teskari aylantirishning vaqt murakkabligi qanday?",
+    "A": "O(n)",
+    "B": "O(1)",
+    "C": "O(log n)",
+    "D": "O(n²)",
+    "javob": "A"
+  },
+  {
+    "savol": "Sentinel (qo’riqchi) tugun nima uchun ishlatiladi?",
+    "A": "Chegara holatlarini soddalashtirish uchun",
+    "B": "Ma’lumot saqlash uchun",
+    "C": "Tezlikni oshirish uchun",
+    "D": "Oldingi tugunning ko’rsatkichi keyingi tugunga o’zgartirish uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "Bog’langan ro’yxatdan tugunni o’chirishda nima qilinadi?",
+    "A": "Oldingi tugunning ko’rsatkichi keyingi tugunga o’zgartiriladi",
+    "B": "Massivdek shift amalga oshiriladi",
+    "C": "Tugun nolga tenglashtiriladi",
+    "D": "Chegara holatlarini soddalashtirish uchun keyingi tugunga o’zgartiriladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ikkita saralangan bog’langan ro’yxatni birlashtirish vaqt murakkabligi?",
+    "A": "O(n+m)",
+    "B": "O(n×m)",
+    "C": "O(log(n+m))",
+    "D": "O((n+m)²)",
+    "javob": "A"
+  },
+  {
+    "savol": "Bog’langan ro’yxat asosida stek qurishda push qaerga qo’shiladi?",
+    "A": "Ro’yxat boshiga",
+    "B": "Ro’yxat oxiriga",
+    "C": "O’rtaga",
+    "D": "Tasodifiy joyga",
+    "javob": "A"
+  },
+  {
+    "savol": "Bog’langan ro’yxatning massivga nisbatan asosiy afzalligi nimada?",
+    "A": "Dinamik o’lchamlilik va tez qo’shish/o’chirish",
+    "B": "Tasodifiy kirish tezligi",
+    "C": "Kamroq xotira ishlatishi",
+    "D": "Saralangan tartibda saqlash",
+    "javob": "A"
+  },
+  {
+    "savol": "Rekursiya nima?",
+    "A": "Funksiyaning o’z-o’zini chaqirishi",
+    "B": "Tsikl orqali takrorlash",
+    "C": "Ko’p sonli funksiyalar chaqirilishi",
+    "D": "Ma’lumotlarni saralash",
+    "javob": "A"
+  },
+  {
+    "savol": "Rekursiyaning bazaviy holati (base case) nima uchun kerak?",
+    "A": "Rekursiyani to’xtatish va cheksiz tsiklni oldini olish",
+    "B": "Tezlikni oshirish uchun",
+    "C": "Xotirani tejash uchun",
+    "D": "Iteratsiyaga aylantirish orqali stek o’sishini oldini oladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyruqli rekursiya (tail recursion) qanday optimallashtiriladi?",
+    "A": "Iteratsiyaga aylantirish orqali stek o’sishini oldini olish",
+    "B": "Memoization orqali",
+    "C": "Saralash orqali",
+    "D": "Rekursiyani to’xtatish va cheksiz tsiklni oldini olish mumkin",
+    "javob": "A"
+  },
+  {
+    "savol": "Memoization texnikasi nima qiladi?",
+    "A": "Hisoblangan natijalarni saqlab, takroriy hisoblashni oldini oladi",
+    "B": "Massivni saralaydi",
+    "C": "Rekursiyani o’chiradi",
+    "D": "Rekursiyani to’xtatadi va cheksiz xotirani o’chiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Rekursiv algoritmda stack overflow qachon yuzaga keladi?",
+    "A": "Rekursiya chuqurligi haddan oshganda",
+    "B": "Bazaviy holat bo’lmasa",
+    "C": "Memoization ishlatilmasa",
+    "D": "A va B variantlar to’g’ri",
+    "javob": "A"
+  },
+  {
+    "savol": "Bo’lish va hukmronlik (Divide and Conquer) usuli nimaga asoslangan?",
+    "A": "Masalani kichik qismlarga bo’lib, ularni alohida hal qilib, birlashtirish",
+    "B": "ochko’z tanlovlar qilish",
+    "C": "Iteratsiya bo’yicha hisoblash",
+    "D": "Iteratsiyaga aylantirish orqali stek o’sishini oldini olish",
+    "javob": "A"
+  },
+  {
+    "savol": "Master teoremasi nima uchun ishlatiladi?",
+    "A": "Rekursiv algoritm vaqt murakkabligini hisoblash",
+    "B": "Saralash algoritmlarini taqqoslash",
+    "C": "Heap qurish",
+    "D": "Masalani kichik qismlarga bo’lib, ularni alohida hal qilib, birlashtirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Hanoy minoralari masalasining rekursiv yechimi murakkabligi?",
+    "A": "O(2^n)",
+    "B": "O(n)",
+    "C": "O(n²)",
+    "D": "O(log n)",
+    "javob": "A"
+  },
+  {
+    "savol": "Fibonachchi sonlarini oddiy rekursiv hisoblash murakkabligi qanday?",
+    "A": "O(2^n)",
+    "B": "O(n)",
+    "C": "O(n log n)",
+    "D": "O(log n)",
+    "javob": "A"
+  },
+  {
+    "savol": "Fibonachchi sonlarini memoization bilan hisoblash murakkabligi?",
+    "A": "O(n)",
+    "B": "O(2^n)",
+    "C": "O(n²)",
+    "D": "O(log n)",
+    "javob": "A"
+  },
+  {
+    "savol": "Rekursiyani iterativga o’tkazish uchun ko’pincha nimadan foydalaniladi?",
+    "A": "Stek (Stack)",
+    "B": "Navbat (Queue)",
+    "C": "Heap",
+    "D": "Graf",
+    "javob": "A"
+  },
+  {
+    "savol": "Bilvosita rekursiya (mutual recursion) nima?",
+    "A": "Bir necha funksiyaning bir-birini chaqirishi",
+    "B": "Bir funksiyaning o’zini chaqirishi",
+    "C": "Tsiklik chaqiruv",
+    "D": "Funksiyaning hech qachon chaqirilmasligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Rekursiv algoritmlarning kamchiligi nimada?",
+    "A": "Funksiya chaqiruvlari xotira sarf qiladi",
+    "B": "Tezligi past",
+    "C": "Raqamlar bilan ishlaydi",
+    "D": "Saralanmagan ma’lumotlar bilan ishlamaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Rekursiya orqali hisoblanishi qulay bo’lgan masalalar?",
+    "A": "Daraxtlar, bo’lib hisoblash, tabiiy rekursiv tuzilmalar",
+    "B": "Saralash",
+    "C": "Qidirish",
+    "D": "Arifmetik amallar, saralanma ma`lumotlar, xotira sarfi",
+    "javob": "A"
+  },
+  {
+    "savol": "Massiv elementiga kirish vaqt murakkabligi qanday?",
+    "A": "O(1)",
+    "B": "O(n)",
+    "C": "O(log n)",
+    "D": "O(n²)",
+    "javob": "A"
+  },
+  {
+    "savol": "Ikki o’lchovli massiv xotirada qanday saqlanadi?",
+    "A": "Bir o’lchovli massiv shaklida (row-major yoki column-major)",
+    "B": "Daraxt shaklida",
+    "C": "Bir o’lchovli bog’langan tugunlar shaklida (crow-major yoki colum-majors)",
+    "D": "Hash jadvalda",
+    "javob": "A"
+  },
+  {
+    "savol": "Row-major joylashish nima?",
+    "A": "Qatorlar ketma-ket xotiraga joylashtiriladi",
+    "B": "Ustunlar ketma-ket joylashtiriladi",
+    "C": "Tasodifiy joylashtiriladi",
+    "D": "Birinchi ketma-ket xotiraga qator saqlanadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Klassik matritsalar ko’paytirish algoritmining murakkabligi?",
+    "A": "O(n³)",
+    "B": "O(n²)",
+    "C": "O(n log n)",
+    "D": "O(n)",
+    "javob": "A"
+  },
+  {
+    "savol": "Strassen algoritmining matritsalar ko’paytmasidagi murakkabligi taxminan?",
+    "A": "O(n^2.81)",
+    "B": "O(n³)",
+    "C": "O(n²)",
+    "D": "O(n log n)",
+    "javob": "A"
+  },
+  {
+    "savol": "Siyrak matritsa qanday samarali saqlanadi?",
+    "A": "CSR yoki CSC formatida (faqat nol bo’lmagan elementlar)",
+    "B": "Oddiy ikki o’lchovli massivda (faqat nol bo’lgan elementlar)",
+    "C": "Bog’langan ro’yxatda",
+    "D": "Daraxtda (faqat nol bo’lmagan elementlar)",
+    "javob": "A"
+  },
+  {
+    "savol": "Massivda ikkita elementni almashtirish (swap) uchun nima kerak?",
+    "A": "Vaqtinchalik o’zgaruvchi (yoki XOR usuli)",
+    "B": "Yangi massiv",
+    "C": "Saralovchi o`zgaruvchi (yoki XOR usuli)",
+    "D": "Hech qanday qo’shimcha xotira kerak emas",
+    "javob": "A"
+  },
+  {
+    "savol": "Dinamik massivning amortized vaqt murakkabligi push uchun qanday?",
+    "A": "O(1) amortized",
+    "B": "O(n) har doim",
+    "C": "O(log n)",
+    "D": "O(n²)",
+    "javob": "A"
+  },
+  {
+    "savol": "Massivni k pozitsiyaga aylantirishning samarali algoritmi?",
+    "A": "Reverse usuli (3 ta reverse)",
+    "B": "Har element bo’yicha shift (3 ta reverse)",
+    "C": "Tasodifiy almashtirish",
+    "D": "Saralash",
+    "javob": "A"
+  },
+  {
+    "savol": "Cache locality nima?",
+    "A": "Yaqin xotira manzillariga kirish tezroq bo’lishi",
+    "B": "Cache fayllarning joylashuvi",
+    "C": "Dasturchining qulayligi",
+    "D": "Disk operatsiyalari",
+    "javob": "A"
+  },
+  {
+    "savol": "Matritsani transpoz qilishning vaqt murakkabligi?",
+    "A": "O(n×m)",
+    "B": "O(n)",
+    "C": "O(log n)",
+    "D": "O(1)",
+    "javob": "A"
+  },
+  {
+    "savol": "Massivda ikkilik qidiruv qaysi shartda ishlaydi?",
+    "A": "Massiv saralangan bo’lishi kerak",
+    "B": "Massiv tartibsiz",
+    "C": "Massiv katta bo’lishi kerak",
+    "D": "Hech qanday shart yo’q",
+    "javob": "A"
+  },
+  {
+    "savol": "Massivda eng katta va eng kichik elementni topish minimal taqqoslashlar soni?",
+    "A": "3n/2 - 2",
+    "B": "2n",
+    "C": "n²",
+    "D": "n log n",
+    "javob": "A"
+  },
+  {
+    "savol": "Ochko’z algoritm nima?",
+    "A": "Har qadamda mahalliy optimal tanlovni qiluvchi algoritm",
+    "B": "Hamma yechimlarni sinab ko’radigan",
+    "C": "Har qadamda rekursiv ishlovchi algoritm",
+    "D": "Tasodifiy tanlov qiladigan",
+    "javob": "A"
+  },
+  {
+    "savol": "Ochko’z algoritm har doim global optimum beradimi?",
+    "A": "Yo’q, faqat ma’lum sharoitlarda",
+    "B": "Ha, har doim",
+    "C": "Yo’q, faqat saralash uchun",
+    "D": "Hech qachon",
+    "javob": "A"
+  },
+  {
+    "savol": "Optimal pastki tuzilma (optimal substructure) nimani anglatadi?",
+    "A": "Masalaning optimal yechimi pastki masalalarning optimal yechimlaridan iborat",
+    "B": "Masala kichikroq qismlarga bo’linmaydi",
+    "C": "Yechim har doim noyob",
+    "D": "Masalaning tasodifiy yechimi pastki masalalarning kichikroq yechimlaridan iborat",
+    "javob": "A"
+  },
+  {
+    "savol": "Activity Selection masalasini ochko’z usul bilan yechishda nima bo’yicha saralanadi?",
+    "A": "Tugash vaqti bo’yicha",
+    "B": "Boshlanish vaqti bo’yicha",
+    "C": "Davomiyligi bo’yicha",
+    "D": "Tasodifiy tartibda",
+    "javob": "A"
+  },
+  {
+    "savol": "Huffman kodlash algoritmi qaysi g’oyaga asoslangan?",
+    "A": "Tez-tez uchraydigan belgilarga qisqaroq kod",
+    "B": "Hamma belgilarga teng kod",
+    "C": "Tasodifiy uzunlikdagi belgilarga uzunroq kod",
+    "D": "Lug’at asosida kodlash",
+    "javob": "A"
+  },
+  {
+    "savol": "Fractional Knapsack masalasi qaysi usul bilan yechiladi?",
+    "A": "Ochko’z (Greedy) algoritm",
+    "B": "Dinamik (Dynamic) dasturlash",
+    "C": "Brute force",
+    "D": "Backtracking",
+    "javob": "A"
+  },
+  {
+    "savol": "0/1 Knapsack masalasi ochko’z algoritm bilan yechiladimi?",
+    "A": "Yo’q, dinamik dasturlash kerak",
+    "B": "Ha, oson yechiladi",
+    "C": "Yo`q, backtracking bilan",
+    "D": "Hech qanday usul yo’q",
+    "javob": "A"
+  },
+  {
+    "savol": "Tangalarni qaytarish (Coin Change) ochko’z usul bilan qachon ishlaydi?",
+    "A": "Tangalar to’plami canonical (kanonik) bo’lganda",
+    "B": "Har doim",
+    "C": "Hech qachon",
+    "D": "Juft sonli tangalar bilan (ceramyc) bo`lganda",
+    "javob": "A"
+  },
+  {
+    "savol": "Ochko’z va DP o’rtasidagi asosiy farq nimada?",
+    "A": "Ochko’z hozirgi tanlovni qiladi, DP barcha variantlarni hisobga oladi",
+    "B": "Hech qanday farqi yo’q",
+    "C": "DP doimo sekinroq",
+    "D": "Ochko’z faqat saralash varianlatini jisobga oladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Dijkstra algoritmi qaysi turdagi algoritmga kiradi?",
+    "A": "Ochko’z algoritm",
+    "B": "DP algoritm",
+    "C": "Backtracking",
+    "D": "Brute force",
+    "javob": "A"
+  },
+  {
+    "savol": "Job Sequencing with Deadlines masalasi qanday yechiladi?",
+    "A": "Ochko’z usul bilan, daromad bo’yicha saralash",
+    "B": "Brute force",
+    "C": "Backtracking",
+    "D": "Random tanlov bilan, daromad bo’yicha saralash",
+    "javob": "A"
+  },
+  {
+    "savol": "Ochko’z algoritmlar qachon tezroq ishlaydi DP ga nisbatan?",
+    "A": "Vaqt murakkabligi odatda kichikroq",
+    "B": "Hech qachon",
+    "C": "Vaqt murakkabligi odatda kattaroq",
+    "D": "Sonlar bilan",
+    "javob": "A"
+  },
+  {
+    "savol": "MST topishda Prim algoritmi qaysi turga kiradi?",
+    "A": "Ochko’z algoritm",
+    "B": "DP",
+    "C": "Backtracking",
+    "D": "Bo’lish va hukmronlik",
+    "javob": "A"
+  },
+  {
+    "savol": "Dinamik dasturlash (DP) qaysi ikki shart bo’lganda qo’llaniladi?",
+    "A": "Optimal substructure va overlapping subproblems",
+    "B": "Saralangan ma’lumotlar",
+    "C": "Optimal subprobleming va overlapping substructured",
+    "D": "Hech qanday shart kerak emas",
+    "javob": "A"
+  },
+  {
+    "savol": "Memoization (top-down) yondashuvi qanday ishlaydi?",
+    "A": "Rekursiv hisoblab, natijalarni saqlaydi",
+    "B": "Iteratsiya orqali quyidan yuqoriga",
+    "C": "Tasodifiy hisoblash natijalarni saqlaydi",
+    "D": "Baza holatini hisoblaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Tabulation (bottom-up) yondashuvi qanday ishlaydi?",
+    "A": "Iteratsiya orqali kichik qismlardan boshlab",
+    "B": "Rekursiv chaqiruvlar bilan",
+    "C": "Tasodifiy iteratsiya orqali kichik tartibdan boshlab",
+    "D": "oxirgi qiymatni hisoblaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Fibonachchi sonlarini DP bilan hisoblash xotira murakkabligi?",
+    "A": "O(1) optimallashtirilgan holatda",
+    "B": "O(n²) optimallashtirilmagan holatda",
+    "C": "O(2^n)",
+    "D": "O(n!)",
+    "javob": "A"
+  },
+  {
+    "savol": "0/1 Knapsack masalasining DP murakkabligi?",
+    "A": "O(n×W)",
+    "B": "O(n)",
+    "C": "O(2^n)",
+    "D": "O(n!)",
+    "javob": "A"
+  },
+  {
+    "savol": "LCS (Longest Common Subsequence) DP murakkabligi?",
+    "A": "O(n×m)",
+    "B": "O(n+m)",
+    "C": "O(n)",
+    "D": "O(2^n)",
+    "javob": "A"
+  },
+  {
+    "savol": "LIS (Longest Increasing Subsequence) ning eng yaxshi DP murakkabligi?",
+    "A": "O(n log n)",
+    "B": "O(n²)",
+    "C": "O(n!)",
+    "D": "O(2^n)",
+    "javob": "A"
+  },
+  {
+    "savol": "Edit Distance (Levenshtein) DP murakkabligi?",
+    "A": "O(n×m)",
+    "B": "O(n)",
+    "C": "O(n+m)",
+    "D": "O(2^n)",
+    "javob": "A"
+  },
+  {
+    "savol": "Matrix Chain Multiplication DP murakkabligi?",
+    "A": "O(n³)",
+    "B": "O(n²)",
+    "C": "O(n)",
+    "D": "O(2^n)",
+    "javob": "A"
+  },
+  {
+    "savol": "Coin Change (minimal tangalar) DP murakkabligi?",
+    "A": "O(n×amount)",
+    "B": "O(n)",
+    "C": "O(2^n)",
+    "D": "O(amount²)",
+    "javob": "A"
+  },
+  {
+    "savol": "DP da pastki masalalar takrorlanishi (overlapping subproblems) nima?",
+    "A": "Bir xil pastki masala bir necha marta hisoblanadi",
+    "B": "Pastki masalalar har xil bo’ladi",
+    "C": "Pastki masala yo’q",
+    "D": "Bitta pastki masala bo’ladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Travelling Salesman Problem (TSP) DP bilan murakkabligi?",
+    "A": "O(2^n × n²)",
+    "B": "O(n²)",
+    "C": "O(n!)",
+    "D": "O(n³)",
+    "javob": "A"
+  },
+  {
+    "savol": "DP yondashuvini qachon qo’llab bo’lmaydi?",
+    "A": "Optimal substructure xususiyati bo’lmasa",
+    "B": "Massivda ko’p xususiyatli element bo’lmasa",
+    "C": "Saralangan massivlarda substructure xususiyati bo’lmasa",
+    "D": "Hech qachon",
+    "javob": "A"
+  },
+  {
+    "savol": "Bellman-Ford algoritmi qaysi turdagi algoritm?",
+    "A": "Dinamik dasturlash",
+    "B": "Ochko’z dasturlash",
+    "C": "Brute force dasturlash",
+    "D": "Backtracking",
+    "javob": "A"
+  },
+  {
+    "savol": "CSP (Constraint Satisfaction Problem) nimadan iborat?",
+    "A": "O’zgaruvchilar, domenlar va cheklovlar to’plami",
+    "B": "O’zgaruvchilar to’plami",
+    "C": "Cheklovlar, cheksizlar, substructure to`plami",
+    "D": "Domenlar",
+    "javob": "A"
+  },
+  {
+    "savol": "AC-3 (Arc Consistency) algoritmi qanday ishlaydi?",
+    "A": "Cheklovlarga zid qiymatlarni domenlardan olib tashlaydi",
+    "B": "Yangi qiymatlar qo’shadi",
+    "C": "Hamma yechimlarni topadi",
+    "D": "Cheklovlarni yangilaydi va domenlarga qo`shadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Forward checking texnikasi nima qiladi?",
+    "A": "Tanlovdan keyin keyingi o’zgaruvchilar domenini yangilaydi",
+    "B": "Orqaga qaytadi va oldingi o’zgaruvchilar domenini yangilaydi",
+    "C": "Hamma cheklovlarni o’chiradi",
+    "D": "Hech narsa qilmaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "MRV (Minimum Remaining Values) evristikasi qanday tanlov qiladi?",
+    "A": "Eng kam qiymatli o’zgaruvchini birinchi tanlaydi",
+    "B": "Eng ko’p qiymatli o’zgaruvchini oxirida tanlaydi",
+    "C": "Tasodifiy tanlovda bo`ladi",
+    "D": "Alfavit tartibida tanlaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "LCV (Least Constraining Value) qanday qiymatni afzal ko’radi?",
+    "A": "Boshqa o’zgaruvchilarga eng kam ta’sir qiluvchi qiymatni",
+    "B": "Eng cheklovli qiymatni",
+    "C": "Tasodifiy o’zgaruvchilarga eng kam ta’sir qiluvchi qiymatni",
+    "D": "Birinchi mavjud qiymatni",
+    "javob": "A"
+  },
+  {
+    "savol": "Sudoku qaysi turdagi masala?",
+    "A": "CSP (Constraint Satisfaction Problem)",
+    "B": "Saralash masalasi",
+    "C": "Graf qidiruv",
+    "D": "DP (Diesel Piston) masala",
+    "javob": "A"
+  },
+  {
+    "savol": "Local Search (mahalliy qidiruv) CSP da qanday ishlaydi?",
+    "A": "Yechimni o’zgartirib, yaxshilab boradi",
+    "B": "Boshidan boshlab qayta hisoblaydi",
+    "C": "Hech qanday rol o’ynamaydi",
+    "D": "Tasodifiy yechimni o’zgartirmaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Min-conflicts evristikasi nima?",
+    "A": "Eng kam ziddiyatga olib keluvchi qiymatni tanlaydi",
+    "B": "Eng ko’p ziddiyatga olib keluvchi qiymatni tanlaydi",
+    "C": "Tasodifiy qiymatni",
+    "D": "Birinchi qiymatni",
+    "javob": "A"
+  },
+  {
+    "savol": "CSP da binar cheklov nima?",
+    "A": "Ikkita o’zgaruvchi orasidagi cheklov",
+    "B": "Ikki qiymatli cheklov",
+    "C": "Bir o’zgaruvchili cheklov",
+    "D": "Cheksiz cheklov",
+    "javob": "A"
+  },
+  {
+    "savol": "N-Queens masalasi nima?",
+    "A": "N×N shahmat doskasiga N ta malikani urilmaydigan qilib joylash",
+    "B": "N×N shahmat doskasida eng qisqa yo’lni topish va joylash",
+    "C": "Saralash masalasi",
+    "D": "Graf bo’yash",
+    "javob": "A"
+  },
+  {
+    "savol": "Graph Coloring (graf bo’yash) muammosi qaysi turga kiradi?",
+    "A": "CSP",
+    "B": "Saralash",
+    "C": "Hash qidiruv",
+    "D": "Heap operatsiyalari",
+    "javob": "A"
+  },
+  {
+    "savol": "CSP backtracking algoritmida nima qilinadi?",
+    "A": "Ziddiyat bo’lsa, oldingi tanlovga qaytib, boshqa qiymat sinaladi",
+    "B": "To’xtatadi",
+    "C": "Tasodifiy o’zgartiriladi",
+    "D": "Hech narsa qilmaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Constraint propagation (cheklov tarqalishi) nima beradi?",
+    "A": "Qidiruv maydonini qisqartiradi",
+    "B": "Yechim sonini ko’paytiradi",
+    "C": "Hech narsa o’zgartirmaydi",
+    "D": "Cheklovlar sonini oshiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Minimal Spanning Tree (MST) nima?",
+    "A": "Grafning barcha tugunlarini qamrab, minimal og’irlikka ega bo’lgan daraxt",
+    "B": "Grafdagi eng katta daraxtni qamrab, maksimal og’irlikka ega bo’lgan daraxt",
+    "C": "Grafdagi tsikl",
+    "D": "Eng qisqa yo’l",
+    "javob": "A"
+  },
+  {
+    "savol": "Kraskal algoritmi qaysi prinsipga asoslangan?",
+    "A": "Qirralarni og’irligi bo’yicha saralab, tsikl yaratmasdan tanlash",
+    "B": "Tugunlarni alfavit tartibida tanlash",
+    "C": "Tasodifiy qirra tanlash",
+    "D": "Qirralarni bir tugundan boshlab, eng arzon qirra orqali kengaytirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Prim algoritmi MSTni qanday quradi?",
+    "A": "Bir tugundan boshlab, eng arzon qirra orqali kengaytiradi",
+    "B": "Hamma qirralarni saralab tanlaydi",
+    "C": "Tasodifiy qirra qo’shadi",
+    "D": "Bir tugundan boshlab, eng uzun qirralarni qo’shadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Kraskal algoritmida tsiklni aniqlash uchun qaysi tuzilma ishlatiladi?",
+    "A": "Union-Find (Disjoint Set Union)",
+    "B": "Stek",
+    "C": "Navbat",
+    "D": "Hash jadval (Hash Table Option)",
+    "javob": "A"
+  },
+  {
+    "savol": "Kraskal algoritmining vaqt murakkabligi qanday?",
+    "A": "O(E log E)",
+    "B": "O(V²)",
+    "C": "O(V³)",
+    "D": "O(E)",
+    "javob": "A"
+  },
+  {
+    "savol": "Prim algoritmining priority queue bilan vaqt murakkabligi?",
+    "A": "O(E log V)",
+    "B": "O(V²)",
+    "C": "O(E²)",
+    "D": "O(V³)",
+    "javob": "A"
+  },
+  {
+    "savol": "Zich (dense) grafda qaysi algoritm tezroq?",
+    "A": "Prim (matritsa bilan O(V²))",
+    "B": "Kraskal",
+    "C": "Bellman-Ford",
+    "D": "Floyd-Warshall (diagramma bilan O(W²))",
+    "javob": "A"
+  },
+  {
+    "savol": "Siyrak (sparse) grafda qaysi algoritm tezroq?",
+    "A": "Kraskal",
+    "B": "Prim (oddiy implementatsiya)",
+    "C": "Floyd-Warshall",
+    "D": "DFS",
+    "javob": "A"
+  },
+  {
+    "savol": "Union-Find ning path compression optimallashtirishi nima beradi?",
+    "A": "Find operatsiyasini deyarli O(1) ga olib keladi",
+    "B": "Hech qanday yaxshilash bermaydi",
+    "C": "Xotirani tejaydi",
+    "D": "Algoritmni sekinlashtiradi, ya`ni O(2) ga olib keladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Borůvka algoritmi nima qiladi?",
+    "A": "MSTni parallel qurish uchun ishlatiladi",
+    "B": "Eng qisqa yo’lni topadi",
+    "C": "Saralaydi",
+    "D": "MSTni parallel qurish uchun tsikl topadi",
+    "javob": "A"
+  },
+  {
+    "savol": "MST yagona bo’lishi uchun qanday shart kerak?",
+    "A": "Barcha qirra og’irliklari noyob bo’lishi",
+    "B": "Graf bog’liq emasligi",
+    "C": "Tugunlar soni juft bo’lishi",
+    "D": "Qirralar og’irligi nol bo’lishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Kraskal algoritmida qaysi qadamda qirralar saralanadi?",
+    "A": "Algoritmning birinchi qadamida",
+    "B": "Algoritmning oxirida",
+    "C": "Saralash kerak emas",
+    "D": "Algoritmning o’rta qadamida",
+    "javob": "A"
+  },
+  {
+    "savol": "MST topishda manfiy og’irlikli qirralar bilan ishlay oladimi?",
+    "A": "Ha, Kraskal va Prim manfiy og’irliklarda ham ishlaydi",
+    "B": "Yo’q, Kraskal va Prim manfiy og’irliklarda ishlay olmaydi",
+    "C": "Kraskal ishlaydi",
+    "D": "Prim ishlaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Brute Force string search algoritmi qanday ishlaydi?",
+    "A": "Naqshni har pozitsiyada ketma-ket tekshirib chiqadi",
+    "B": "Naqshni har pozitsiyada boshini tekshiradi",
+    "C": "Oxirini tekshiradi",
+    "D": "Hash jadvaldan qidiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Brute Force string search ning eng yomon vaqt murakkabligi?",
+    "A": "O(n×m)",
+    "B": "O(n+m)",
+    "C": "O(log n)",
+    "D": "O(n²)",
+    "javob": "A"
+  },
+  {
+    "savol": "KMP algoritmi qaysi g’oyaga asoslangan?",
+    "A": "Naqshning prefix funksiyasidan foydalanib, takroriy taqqoslashlardan saqlanish",
+    "B": "Naqshning prefix funksiyasidan foydalanib, tasodifiy taqqoslashlardan iborat",
+    "C": "Hash jadvaldan qidirish",
+    "D": "Saralash",
+    "javob": "A"
+  },
+  {
+    "savol": "KMP algoritmining vaqt murakkabligi qanday?",
+    "A": "O(n+m)",
+    "B": "O(n×m)",
+    "C": "O(n²)",
+    "D": "O(log n)",
+    "javob": "A"
+  },
+  {
+    "savol": "KMP da prefix funksiya (failure function) nima?",
+    "A": "Naqshning har prefiksi uchun eng uzun mos prefiks-suffiks uzunligi",
+    "B": "Naqshdagi belgilar soni",
+    "C": "Naqshning hash qiymati uchun eng uzun mos qiymat-belgi uzunligi",
+    "D": "Tasodifiy son",
+    "javob": "A"
+  },
+  {
+    "savol": "Rabin-Karp algoritmi qaysi tushunchaga asoslangan?",
+    "A": "Rolling hash (aylanma xesh)",
+    "B": "Prefix funksiyasi (aylanma funksiya)",
+    "C": "Suffix daraxti",
+    "D": "BFS",
+    "javob": "A"
+  },
+  {
+    "savol": "Rabin-Karp ning eng yomon holatdagi vaqt murakkabligi?",
+    "A": "O(n×m)",
+    "B": "O(n+m)",
+    "C": "O(log n)",
+    "D": "O(n²m)",
+    "javob": "A"
+  },
+  {
+    "savol": "Rabin-Karp ning o’rtacha vaqt murakkabligi?",
+    "A": "O(n+m)",
+    "B": "O(n×m)",
+    "C": "O(log n)",
+    "D": "O(n²)",
+    "javob": "A"
+  },
+  {
+    "savol": "Rolling hash texnikasi nima beradi?",
+    "A": "Har keyingi oynani xeshlashni O(1) vaqtda hisoblash",
+    "B": "Hash to’qnashuvini xeshlashni O(1) vaqtda bartaraf etish",
+    "C": "Sonlar bilan ishlaydi",
+    "D": "Saralashni tezlashtiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Rabin-Karp da xesh to’qnashuvi bo’lganda nima qilinadi?",
+    "A": "Belgi-belgi taqqoslash o’tkaziladi",
+    "B": "Yangi xesh hisoblanadi",
+    "C": "Algoritm to’xtatiladi",
+    "D": "Tasodifiy javob beriladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Boyer-Moore algoritmining KMP dan farqi nimada?",
+    "A": "Naqshni o’ngdan chapga taqqoslaydi va ko’proq belgini sakraydi",
+    "B": "Hech qanday farqi yo’q",
+    "C": "Naqshni o’ngdan chapga ko`paytiradi va belgini sakraydi",
+    "D": "Sonlar uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "KMP algoritmida prefix funksiyani hisoblash murakkabligi?",
+    "A": "O(m)",
+    "B": "O(n)",
+    "C": "O(n×m)",
+    "D": "O(m²)",
+    "javob": "A"
+  },
+  {
+    "savol": "Bir nechta naqshni bir vaqtda qidirish uchun qaysi algoritm samarali?",
+    "A": "Aho-Corasick",
+    "B": "KMP",
+    "C": "Brute Force",
+    "D": "Rabin-Karp",
+    "javob": "A"
+  },
+  {
+    "savol": "String search da naqsh uzunligi m, matn uzunligi n bo’lsa, qaysi munosabat to’g’ri?",
+    "A": "m ≤ n bo’lishi kerak",
+    "B": "m ≥ n bo’lishi kerak",
+    "C": "m = n bo’lishi shart",
+    "D": "Munosabat ahamiyatsiz",
+    "javob": "A"
+  },
+  {
+    "savol": "Priority Queue ning asosiy operatsiyalari qaysilar?",
+    "A": "insert va extract-max/min",
+    "B": "push va pop (LIFO)",
+    "C": "enqueue va dequeue (FIFO)",
+    "D": "find va delete",
+    "javob": "A"
+  },
+  {
+    "savol": "Min-heap da ildiz qanday qiymatga ega?",
+    "A": "Eng kichik qiymatga",
+    "B": "Eng katta qiymatga",
+    "C": "O’rtacha qiymatga",
+    "D": "Tasodifiy qiymatga",
+    "javob": "A"
+  },
+  {
+    "savol": "Max-heap xususiyati qanday?",
+    "A": "Har bir ota tugun farzandlaridan katta yoki teng",
+    "B": "Har bir ota farzandlaridan kichik yoki teng",
+    "C": "Hamma tugunlar teng",
+    "D": "Tasodifiy joylashish",
+    "javob": "A"
+  },
+  {
+    "savol": "Binar uyumga element qo’shish vaqt murakkabligi?",
+    "A": "O(log n)",
+    "B": "O(1)",
+    "C": "O(n)",
+    "D": "O(n log n)",
+    "javob": "A"
+  },
+  {
+    "savol": "Max-heap dan eng katta elementni olib tashlash murakkabligi?",
+    "A": "O(log n)",
+    "B": "O(1)",
+    "C": "O(n)",
+    "D": "O(n log n)",
+    "javob": "A"
+  },
+  {
+    "savol": "Heapify operatsiyasi nima qiladi?",
+    "A": "Tugunni heap xususiyatiga mos joyga tushiradi",
+    "B": "Tugunni o’chiradi",
+    "C": "Heapni tugun xususiyatiga mos joyga quradi",
+    "D": "Heapni saralaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Build-Heap algoritmining vaqt murakkabligi qanday?",
+    "A": "O(n)",
+    "B": "O(n log n)",
+    "C": "O(log n)",
+    "D": "O(n²)",
+    "javob": "A"
+  },
+  {
+    "savol": "Heap Sort algoritmining vaqt murakkabligi qanday?",
+    "A": "O(n log n)",
+    "B": "O(n)",
+    "C": "O(n²)",
+    "D": "O(log n)",
+    "javob": "A"
+  },
+  {
+    "savol": "Massiv asosidagi heapda i indeksli tugunning chap farzandi qaerda?",
+    "A": "2i+1",
+    "B": "i/2",
+    "C": "i+1",
+    "D": "2i-1",
+    "javob": "A"
+  },
+  {
+    "savol": "Massiv asosidagi heapda i indeksli tugunning otasi qaerda?",
+    "A": "(i-1)/2",
+    "B": "2i",
+    "C": "i-1",
+    "D": "2i+1",
+    "javob": "A"
+  },
+  {
+    "savol": "Fibonacci heap ning amortized insert murakkabligi?",
+    "A": "O(1)",
+    "B": "O(log n)",
+    "C": "O(n)",
+    "D": "O(n log n)",
+    "javob": "A"
+  },
+  {
+    "savol": "Dijkstra algoritmida heap qaysi ko’rinishida ishlatiladi?",
+    "A": "Min-heap (priority queue) sifatida",
+    "B": "Max-heap (privaty quees) sifatida",
+    "C": "Heap kerak emas",
+    "D": "AVL daraxti",
+    "javob": "A"
+  },
+  {
+    "savol": "K ta saralangan ro’yxatni heap bilan birlashtirish murakkabligi?",
+    "A": "O(N log k), N - jami elementlar",
+    "B": "O(Nk)",
+    "C": "O(N²) jami elementlar",
+    "D": "O(N)",
+    "javob": "A"
+  },
+  {
+    "savol": "Substring va subsequence o’rtasidagi farq qanday?",
+    "A": "Substring uzluksiz, subsequence uzluksiz emas bo’lishi mumkin",
+    "B": "Hech qanday farqi yo’q",
+    "C": "Substring kichikroq bo’ladi har doim uzluksiz bo`lishi mumkin",
+    "D": "Subsequence faqat sonlar uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "Z-algoritmi nimani hisoblaydi?",
+    "A": "Har pozitsiya uchun matn boshlanishi bilan mos kelish uzunligi",
+    "B": "Hash qiymatlarni",
+    "C": "Eng katta elementning boshlanishi bilan mos kelish uzunligi",
+    "D": "Saralangan tartibni",
+    "javob": "A"
+  },
+  {
+    "savol": "Z-algoritmining vaqt murakkabligi qanday?",
+    "A": "O(n)",
+    "B": "O(n²)",
+    "C": "O(n log n)",
+    "D": "O(2^n)",
+    "javob": "A"
+  },
+  {
+    "savol": "Suffix daraxt (Suffix Tree) qaerda ishlatiladi?",
+    "A": "Tez substring qidiruv va matn analizida",
+    "B": "Saralashda",
+    "C": "Heap qurishda",
+    "D": "Graf algoritmlarida va matn analizida",
+    "javob": "A"
+  },
+  {
+    "savol": "Suffix daraxtini qurish murakkabligi (Ukkonen algoritmi)?",
+    "A": "O(n)",
+    "B": "O(n²)",
+    "C": "O(n log n)",
+    "D": "O(2^n)",
+    "javob": "A"
+  },
+  {
+    "savol": "Suffix array nima?",
+    "A": "Saralangan suffikslar boshlanish indekslari massivi",
+    "B": "Suffikslarni saqlovchi daraxt",
+    "C": "Hash jadval",
+    "D": "Bog’langan ro’yxat boshlanish indekslari massivi",
+    "javob": "A"
+  },
+  {
+    "savol": "LCP (Longest Common Prefix) array nima uchun ishlatiladi?",
+    "A": "Suffix array bilan birga substring qidiruvini tezlashtirish",
+    "B": "Saralash uchun bilan birga substring qidiruvini tezlashtirish",
+    "C": "Heap qurish uchun",
+    "D": "BFS uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "Aho-Corasick algoritmi qaysi muammoni yechadi?",
+    "A": "Bir nechta naqshni bitta matnda bir vaqtda qidirish",
+    "B": "Bitta naqshni bitta matnda bir vaqtda qidirish",
+    "C": "Saralash",
+    "D": "Heap qurish",
+    "javob": "A"
+  },
+  {
+    "savol": "Boyer-Moore ning bad character heuristic-i nima beradi?",
+    "A": "Mos kelmagan belgi asosida sakrash",
+    "B": "Hash qiymati asosida sakrash",
+    "C": "Saralash tartibi",
+    "D": "Tugunlar soni asosida sakrash",
+    "javob": "A"
+  },
+  {
+    "savol": "Manacher algoritmi nimani topadi?",
+    "A": "Eng uzun palindromik substringni O(n) vaqtda",
+    "B": "Eng uzun ortib boruvchi qism",
+    "C": "Saralangan tartibni",
+    "D": "Eng katta hash palindromik qiymatni O(1) vaqtda",
+    "javob": "A"
+  },
+  {
+    "savol": "Approximate string matching nimani topadi?",
+    "A": "Naqshga yaqin (taxminiy) mos keluvchi substringlarni",
+    "B": "aniq mosligini",
+    "C": "Hash to’qnashuvlarini",
+    "D": "Naqshga aniq saralangan substringlarni",
+    "javob": "A"
+  },
+  {
+    "savol": "Eng uzun takrorlanuvchi substringni topish uchun qaysi tuzilma qulay?",
+    "A": "Suffix daraxti yoki suffix array",
+    "B": "Heap",
+    "C": "Bog’langan ro’yxat",
+    "D": "Stek daraxti yoki stek array",
+    "javob": "A"
+  },
+  {
+    "savol": "Substring qidiruvni xeshlash bilan tezlashtirish qaysi algoritmga xos?",
+    "A": "Rabin-Karp",
+    "B": "KMP",
+    "C": "Brute Force",
+    "D": "Boyer-Moore",
+    "javob": "A"
+  },
+  {
+    "savol": "Backtracking algoritmining asosiy g’oyasi qanday?",
+    "A": "Yechim qurish va ziddiyat bo’lganda orqaga qaytish",
+    "B": "oldinga harakatlanish",
+    "C": "Tasodifiy yechim qabul qilish",
+    "D": "Hech qachon orqaga qaytmaslik",
+    "javob": "A"
+  },
+  {
+    "savol": "N-Queens masalasi backtracking bilan qanday yechiladi?",
+    "A": "Har qatorga bittadan malika qo’yib, urilishni tekshirib",
+    "B": "Hamma o’rinlarni hisoblash",
+    "C": "Birinchi qatorga malika qo’yib, urilishni tekshirib",
+    "D": "Tasodifiy joylashtirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Backtracking va Brute Force o’rtasidagi farq nimada?",
+    "A": "Backtracking erta ziddiyat aniqlanganda kesib (prune) tashlaydi",
+    "B": "Hech qanday farqi yo’q",
+    "C": "Brute Force tezroq ziddiyat aniqlanganda kesib (pruns) tashlaydi",
+    "D": "Backtracking faqat saralash uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "Pruning (kesish) texnikasi nima beradi?",
+    "A": "Yaroqsiz yo’llarni kesib, tezlashtiradi",
+    "B": "Yaroqsiz yo’llarni kesib, sekinlashtiradi",
+    "C": "Yechim sonini ko’paytiradi",
+    "D": "Hech narsa o’zgartirmaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Sudoku backtracking bilan qanday yechiladi?",
+    "A": "Bo’sh kataklarga 1-9 raqamlarini sinab, ziddiyatda orqaga qaytish",
+    "B": "Hamma kataklarga tasodifiy raqam qo’yish",
+    "C": "Bo’sh kataklarga 1-9 raqamlarini sinab, oldinga harakatlanish",
+    "D": "Saralash usuli bilan kataklarga 1-2 raqamlarini sinab, ziddiyatda oldinga yurish",
+    "javob": "A"
+  },
+  {
+    "savol": "Hamiltonian Cycle masalasi nima?",
+    "A": "Grafda har tugundan bir marta o’tuvchi tsikl topish",
+    "B": "Eng qisqa yo’lda bir tugundan bir marta o’tuvchi tsikl topish",
+    "C": "MST topish",
+    "D": "Saralash",
+    "javob": "A"
+  },
+  {
+    "savol": "Subset Sum masalasi backtracking bilan qanday yechiladi?",
+    "A": "Har elementni qo’shish/qo’shmaslik variantlarini sinash",
+    "B": "Hamma elementlarni qo’shish",
+    "C": "Har elementni ayirish/ayirmaslik variantlarini sinash",
+    "D": "Tasodifiy elementlarni",
+    "javob": "A"
+  },
+  {
+    "savol": "Backtracking algoritmlarining vaqt murakkabligi odatda qanday?",
+    "A": "Eksponensial (lekin pruning bilan kamayadi)",
+    "B": "Esponensitial (doim O(1) bilan kamayadi)",
+    "C": "Doim O(log n)",
+    "D": "Doim O(1)",
+    "javob": "A"
+  },
+  {
+    "savol": "Graph Coloring masalasi backtracking bilan qanday yechiladi?",
+    "A": "Har tugunga rang qo’yib, ziddiyatda boshqasini sinash",
+    "B": "Hamma rangni bir vaqtda qo’yish",
+    "C": "Har tugunga ikki rang ishlatib, ziddiyatda boshqasini sinash",
+    "D": "Tasodifiy rang qo’yish",
+    "javob": "A"
+  },
+  {
+    "savol": "Backtracking va DP qanday birlashtirish mumkin?",
+    "A": "Memoization bilan (takroriy holatlarni saqlash)",
+    "B": "Birlashtirib bo’lmaydi",
+    "C": "Meomizatsiya bilan (takroriy holatlarni saralash)",
+    "D": "Heap bilan",
+    "javob": "A"
+  },
+  {
+    "savol": "Maze solving (labirintdan chiqish) backtracking bilan qanday ishlaydi?",
+    "A": "Har bir yo’lni sinab, boshi berkdan orqaga qaytib",
+    "B": "To’g’ri harakatlanib, boshi berkdan orqaga qaytib",
+    "C": "Tasodifiy harakatlanish",
+    "D": "Saralash bo’yicha",
+    "javob": "A"
+  },
+  {
+    "savol": "Permutation generation backtracking bilan qanday amalga oshiriladi?",
+    "A": "Har pozitsiyaga turli elementni qo’yib o’rin almashtirish bilan",
+    "B": "Hash jadval bilan",
+    "C": "Har pozitsiya saralangan elementlarni jadval tartibida qo`yish bilan",
+    "D": "Hech qanday usul yo’q",
+    "javob": "A"
+  },
+  {
+    "savol": "Backtracking yechim qoniqarli bo’lganda nima qiladi?",
+    "A": "Yechimni qaytaradi yoki saqlab, davom etadi",
+    "B": "To’xtatadi",
+    "C": "Boshidan boshlaydi",
+    "D": "Tasodifiy o’zgartiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Parallel algoritm nima?",
+    "A": "Bir vaqtda bir nechta protsessorda ishlaydigan algoritm",
+    "B": "Tezroq sekvensial algoritm",
+    "C": "Saralash uchun protsessorda ishlaydigan algoritm",
+    "D": "Tarmoqda ishlaydigan",
+    "javob": "A"
+  },
+  {
+    "savol": "Speedup nima?",
+    "A": "Sekvensial vaqt / parallel vaqt",
+    "B": "Parallel vaqt / sekvensial vaqt",
+    "C": "Protsessorlar soni",
+    "D": "Xotira hajmi",
+    "javob": "A"
+  },
+  {
+    "savol": "Amdahl qonuni nimani tavsiflaydi?",
+    "A": "Parallel qismning maksimal tezlanish chegarasini",
+    "B": "Eng kichik element topishni",
+    "C": "Parallel qismning saralash murakkabligini",
+    "D": "Heap balandligini",
+    "javob": "A"
+  },
+  {
+    "savol": "Gustafson qonuni Amdahl qonunidan qanday farq qiladi?",
+    "A": "Masala hajmini protsessorlar soniga mos ravishda kattalashtiradi",
+    "B": "Hech qanday farqi yo’q",
+    "C": "Masala hajmini sekvensial qism uchun mos ravishda kichiklashtiradi",
+    "D": "Kichik masalalar uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "Race condition (poyga shartlari) nima?",
+    "A": "Bir nechta thread bir resursga bir vaqtda kirish natijasidagi xato",
+    "B": "Tarmoq xatosi",
+    "C": "Bir vaqtda faqat bitta thread kritik bo’limga kirish natijasidagi xato",
+    "D": "Xotira to’lib qolishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Mutex (mutual exclusion) nima beradi?",
+    "A": "Bir vaqtda faqat bitta thread kritik bo’limga kira oladi",
+    "B": "Bir nechta thread bir resursga bir vaqtda kira oladi",
+    "C": "Xotirani tejash",
+    "D": "Saralash",
+    "javob": "A"
+  },
+  {
+    "savol": "Shared memory parallel modelida threadlar nima orqali bog’lanadi?",
+    "A": "Umumiy xotira orqali",
+    "B": "Tarmoq xabarlari orqali",
+    "C": "Diskdagi fayllar orqali",
+    "D": "Hech qanday bog’lanish yo’q",
+    "javob": "A"
+  },
+  {
+    "savol": "Distributed memory modelida nima ishlatiladi?",
+    "A": "Xabar uzatish (message passing)",
+    "B": "Umumiy xotira",
+    "C": "Disk fayllar (disk passing)",
+    "D": "Keshlar (kesh passing)",
+    "javob": "A"
+  },
+  {
+    "savol": "MapReduce ning Map fazasi nima qiladi?",
+    "A": "Ma’lumotlarni mustaqil kichik qismlarga aylantiradi",
+    "B": "Birlashtiradi",
+    "C": "Ma’lumotlarni mustaqil katta qismlardan saralaydi",
+    "D": "O’chiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "MapReduce ning Reduce fazasi nima qiladi?",
+    "A": "Map natijalarini birlashtirib, yakuniy natija beradi",
+    "B": "Ma’lumotlarni bo’ladi",
+    "C": "Yangi ma’lumotlarni birlashtirib, yakuniy natija yaratadi",
+    "D": "Hech narsa qilmaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Bitonic Sort qanday algoritm?",
+    "A": "Parallel saralash algoritmi",
+    "B": "Sekvensial  saralash qidiruvi",
+    "C": "Heap algoritmi",
+    "D": "Graf algoritmi",
+    "javob": "A"
+  },
+  {
+    "savol": "Task parallelism nima?",
+    "A": "Turli vazifalarni alohida protsessorlarda parallel bajarish",
+    "B": "Bir vazifani har joyda takrorlash",
+    "C": "Turli vazifalarni alohida protsessorlarda saralash",
+    "D": "sekvensial bajarish",
+    "javob": "A"
+  },
+  {
+    "savol": "Data parallelism nima?",
+    "A": "Bir xil amalni katta ma’lumotlarning turli qismlariga parallel qo’llash",
+    "B": "Bir xil amalni katta ma’lumotlarning bir xil qismlariga parallel saralash",
+    "C": "Ma’lumotlarni o’chirish",
+    "D": "Tasodifiy bajarish",
+    "javob": "A"
+  },
+  {
+    "savol": "Yo’qotishsiz (lossless) siqish nima?",
+    "A": "Asl ma’lumotni to’liq tiklash mumkin bo’lgan siqish",
+    "B": "Qo`shimcha ma’lumotni to’liq tiklash mumkin bo’lgan siqish",
+    "C": "Tasodifiy siqish",
+    "D": "sonlar uchun siqish",
+    "javob": "A"
+  },
+  {
+    "savol": "Yo’qotishli (lossy) siqish qaerda ishlatiladi?",
+    "A": "Audio, video, rasm fayllarda (JPEG, MP3, MP4)",
+    "B": "Matn, tekst, slayd fayllarda, (TXT, PPTX)",
+    "C": "Dasturlarda",
+    "D": "Hujjatlar tarkibida",
+    "javob": "A"
+  },
+  {
+    "savol": "Huffman kodlashda eng tez-tez uchraydigan belgi qanday kod oladi?",
+    "A": "Eng qisqa kod",
+    "B": "Eng uzun kod",
+    "C": "Tasodifiy kod",
+    "D": "Bir xil kod",
+    "javob": "A"
+  },
+  {
+    "savol": "Huffman daraxtini qurishda qaysi tuzilma ishlatiladi?",
+    "A": "Min-heap (Priority Queue)",
+    "B": "Max-heap (Privaty Queuert)",
+    "C": "Bog’langan ro’yxat",
+    "D": "Stek",
+    "javob": "A"
+  },
+  {
+    "savol": "Run-Length Encoding (RLE) qanday ishlaydi?",
+    "A": "Takroriy belgilarni bitta belgi va takrorlanish soni bilan kodlaydi",
+    "B": "Har belgini hash qiladi",
+    "C": "Belgilarni saralaydi",
+    "D": "Tasodifiy belgilarni bitta belgi va takrorlanish soni bilan yaratadi",
+    "javob": "A"
+  },
+  {
+    "savol": "RLE qachon eng samarali?",
+    "A": "Ma’lumotda uzun takrorlanishlar bo’lganda",
+    "B": "Tasodifiy ma’lumotda",
+    "C": "Saralangan ma’lumotda",
+    "D": "Ma’lumotda qisqa takrorlanishlar bo’lganda",
+    "javob": "A"
+  },
+  {
+    "savol": "LZ77 algoritmi qaysi g’oyaga asoslangan?",
+    "A": "O’tmishdagi takrorlanishlarga ko’rsatkich (offset, length)",
+    "B": "Belgilar chastotasi",
+    "C": "Hash funksiya",
+    "D": "Kelajakdagi takrorlanishlarga ko’rsatkich (onset, lengthy)",
+    "javob": "A"
+  },
+  {
+    "savol": "LZW algoritmi qanday ishlaydi?",
+    "A": "Dinamik lug’at qurib, unga kodlar beradi",
+    "B": "belgilar chastotasi bilan",
+    "C": "takroriy bloklar bilan",
+    "D": "Tasodifiy ko’rsatkichlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Shannon entropiyasi nima?",
+    "A": "Ma’lumotning nazariy minimal kodlanish chegarasi",
+    "B": "Ma’lumot o’lchami",
+    "C": "Ma’lumotning nazariy minimal belgilash soni",
+    "D": "Hash qiymat",
+    "javob": "A"
+  },
+  {
+    "savol": "Burrows-Wheeler Transform (BWT) qanday yordam beradi?",
+    "A": "Ma’lumotni bir xil belgilarni guruhlab, siqishga qulayroq qiladi",
+    "B": "To’g’ridan-to’g’ri siqadi",
+    "C": "Ma’lumotni bir xil belgilarni guruhlab, siqish uchun saralaydi",
+    "D": "Tasodifiy aralashtiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Deflate algoritmi (gzip, zlib) qaysi usullarni birlashtiradi?",
+    "A": "LZ77 va Huffman kodlash",
+    "B": "RLE",
+    "C": "LZ77 va Arithmetic coding",
+    "D": "BWT va RLE",
+    "javob": "A"
+  },
+  {
+    "savol": "Siqish koeffitsienti (compression ratio) qanday hisoblanadi?",
+    "A": "Asl hajm / siqilgan hajm",
+    "B": "Siqilgan hajm / asl hajm",
+    "C": "Belgilar soni / fayl o’lchami",
+    "D": "Bitlar soni",
+    "javob": "A"
+  },
+  {
+    "savol": "Algoritm eksperimental tahlilining maqsadi nima?",
+    "A": "Real ish vaqti va resurs ishlatilishini o’lchash",
+    "B": "nazariy isbot qilish",
+    "C": "Real ish vaqti va resurs algoritmini o’zgartirish",
+    "D": "Yangi algoritm yaratish",
+    "javob": "A"
+  },
+  {
+    "savol": "Nazariy va eksperimental tahlilning farqi nimada?",
+    "A": "Nazariy umumiy bashorat, eksperimental aniq o’lchash",
+    "B": "Hech qanday farqi yo’q",
+    "C": "Nazariy umumiy bashorat, eksperimental nomi aniq farqlanadi",
+    "D": "Eksperimental aniqroq emas",
+    "javob": "A"
+  },
+  {
+    "savol": "Profiling nima?",
+    "A": "Dasturning qaysi qismlari ko’p vaqt sarflashini o’lchash",
+    "B": "Dasturni saralash",
+    "C": "Dasturni saqlash",
+    "D": "Dasturning qaysi qismlari ko’p vaqt sarflashini o’chirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Microbenchmarking nima?",
+    "A": "Kichik kod qismlarini izolyatsiyalangan holda o’lchash",
+    "B": "Butun ilovani o’lchash",
+    "C": "Tarmoq tezligini o’lchash",
+    "D": "Diskni o’lchash",
+    "javob": "A"
+  },
+  {
+    "savol": "Big-O notatsiyasi va real ish vaqti o’rtasidagi munosabat?",
+    "A": "Big-O kattalik tartibini bashorat qiladi, lekin konstantalar muhim bo’lishi mumkin",
+    "B": "Ular har doim teng",
+    "C": "Hech qanday bog’liqligi yo’q",
+    "D": "Big-O kattalik tartibini saralashda mos keladi, lekin konstantalar muhim bo’lmaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Cache miss algoritm tezligiga qanday ta’sir qiladi?",
+    "A": "Sekinlashtiradi, chunki RAM ga murojaat asosiy keshdan sekinroq",
+    "B": "Tezlashtiradi",
+    "C": "Hech qanday ta’siri yo’q",
+    "D": "Turli kirish ma’lumotlari uchun algoritm xatti-harakatidan sekinroq",
+    "javob": "A"
+  },
+  {
+    "savol": "Eksperimental ma’lumotlarda statistik tahlilning roli nimada?",
+    "A": "Natijalarning ishonchliligini baholash",
+    "B": "Hech qanday roli yo’q",
+    "C": "formulalar uchun",
+    "D": "saralash uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "Eng yomon, eng yaxshi va o’rtacha holat tahlilining farqi qanday?",
+    "A": "Turli kirish ma’lumotlari uchun algoritm xatti-harakati",
+    "B": "Bir xil natijalar",
+    "C": "eng yomon kerak",
+    "D": "Sekinlashtiradi, chunki RAM ga murojaat asosiy kesh",
+    "javob": "A"
+  },
+  {
+    "savol": "Tasodifiy kirish ma’lumotlarini ishlatishning sababi nima?",
+    "A": "Algoritmni turli holatlarda tekshirish",
+    "B": "o’rtacha holatni topish",
+    "C": "Algoritmni yashirish",
+    "D": "Hech qanday sabab yo’q",
+    "javob": "A"
+  },
+  {
+    "savol": "Algoritm taqqoslashda kontrol o’zgaruvchilar nima uchun muhim?",
+    "A": "Tahlil ishonchli bo’lishi uchun (bir xil sharoit)",
+    "B": "Tezlashtirish uchun",
+    "C": "Xotirani tejash uchun",
+    "D": "Hech qanday rol o’ynamaydi (bir xil sharoit)",
+    "javob": "A"
+  },
+  {
+    "savol": "Asimptotik tahlil va eksperimental natijalar tafovuti nimadan?",
+    "A": "Konstantalar, cache, hardware xususiyatlari",
+    "B": "Asimptotik tahlil noto’g’ri",
+    "C": "Eksperimental noto’g’ri",
+    "D": "Hech qanday tafovut bo’lmaydigan xususiyatlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Algoritm grafikasi (chart) qaysi turdagi tahlilda ishlatiladi?",
+    "A": "Eksperimental natijalarni vizual tahlil qilishda",
+    "B": "Eksperimental natijalarni individual saralashda",
+    "C": "Eksperimental natijalarni heap qurishda",
+    "D": "Hech qachon",
+    "javob": "A"
+  },
+  {
+    "savol": "Eksperimental tahlilda ko’p marta o’lchashning sababi?",
+    "A": "Tasodifiy o’zgarishlarni hisobga olib, o’rtacha qiymat olish",
+    "B": "Vaqtni isrof qilish",
+    "C": "Algoritmni murakkablashtirish",
+    "D": "Takroriy o’zgarishlarni hisobga olib, eng katta qiymat olish",
+    "javob": "A"
+  }
+]
