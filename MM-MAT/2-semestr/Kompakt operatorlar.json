@@ -227,12 +227,12 @@
     "savol": "$K_{1}$ va $K_{2}$ kompakt to‘plamlar bo‘lsa, $K_{1}$∪$K_{2}$ haqida qaysi javob to‘g‘ri?",
     "A": "$K_{1}$∪$K_{2}$ kompakt bo‘ladi, chunki chekli sondagi kompakt to‘plamlar birlashmasi kompakt.",
     "B": "$K_{1}$∪$K_{2}$ kompakt bo‘lmaydi.",
-    "C": "$K_{1}$∪$K_{2}$faqat $K_{1}=K_{2}$bo‘lganda kompakt bo‘ladi.",
-    "D": "$K_{1}$∪$K_{2}$faqat ochiq bo‘lsa kompakt bo‘ladi.",
+    "C": "$K_{1}$∪$K_{2}$ faqat $K_{1}=K_{2}$ bo‘lganda kompakt bo‘ladi.",
+    "D": "$K_{1}$∪$K_{2}$ faqat ochiq bo‘lsa kompakt bo‘ladi.",
     "javob": "A"
   },
   {
-    "savol": "Uzluksiz $f $funksiyaning kompakt to‘plamdagi obrazi haqida qaysi mulohaza to‘g‘ri?",
+    "savol": "Uzluksiz $f$ funksiyaning kompakt to‘plamdagi obrazi haqida qaysi mulohaza to‘g‘ri?",
     "A": "Agar $K$ kompakt va $f$ uzluksiz bo‘lsa, $f(K)$ ham kompakt bo‘ladi.",
     "B": "Agar $K$ kompakt bo‘lsa, $f(K)$ har doim ochiq bo‘ladi.",
     "C": "Uzluksiz funksiya kompakt to‘plamni har doim cheksiz to‘plamga o‘tkazadi.",
@@ -344,16 +344,16 @@
     "javob": "A"
   },
   {
-    "savol": "$R^{n}$fazosi odatdagi norma bilan Banax fazosimi?",
+    "savol": "$R^{n}$ fazosi odatdagi norma bilan Banax fazosimi?",
     "A": "Ha, $R^{n}$ odatdagi norma bilan Banax fazosidir, chunki chekli o‘lchovli normallangan fazolar to‘liq bo‘ladi.",
-    "B": "Yo‘q, $R^{n}$hech qachon Banax fazosi bo‘lmaydi.",
-    "C": "n=1 bo‘lganda $R^{n}$Banax fazosi bo‘ladi.",
-    "D": "$R^{n}$faqat diskret metrika bilan Banax fazosi bo‘ladi.",
+    "B": "Yo‘q, $R^{n}$ hech qachon Banax fazosi bo‘lmaydi.",
+    "C": "n=1 bo‘lganda $R^{n}$ Banax fazosi bo‘ladi.",
+    "D": "$R^{n}$ faqat diskret metrika bilan Banax fazosi bo‘ladi.",
     "javob": "A"
   },
   {
     "savol": "C[a,b] fazosi sup-norma bilan Banax fazosimi?",
-    "A": "Ha, C[a,b] uzluksiz funksiyalar fazosi $‖f‖_{∞}$= max |f(x)| norma bilan Banax fazosidir.",
+    "A": "Ha, C[a,b] uzluksiz funksiyalar fazosi $‖f‖_{\\infty}$= max |f(x)| norma bilan Banax fazosidir.",
     "B": "Yo‘q, C[a,b] sup-norma bilan to‘liq bo‘lmaydi.",
     "C": "C[a,b] nol funksiyadan iborat bo‘lsa Banax fazosi bo‘ladi.",
     "D": "C[a,b] da norma aniqlab bo‘lmaydi.",
@@ -376,11 +376,11 @@
     "javob": "A"
   },
   {
-    "savol": "$l^{p}$fazosi uchun asosiy formula qaysi ko‘rinishda yoziladi?",
-    "A": "$l^{p}={x=(x_{n}):∑_{}^{} |x_{n}|^{p}<∞}, 1≤p<∞,$ va bu fazo Banax fazosidir.",
-    "B": "$l^{p}={x=(x_{n}):∑_{}^{} |x_{n}|=∞}, $ bo‘lsa Banax fazosi bo‘ladi.",
+    "savol": "$l^{p}$ fazosi uchun asosiy formula qaysi ko‘rinishda yoziladi?",
+    "A": "$l^{p}=\\{x=(x_{n}):\\sum_{n=1}^{\\infty} |x_{n}|^{p}<\\infty\\}, 1\\leq p<\\infty$ va bu fazo Banax fazosidir.",
+    "B": "$l^{p}=\\{x=(x_{n}):\\sum_{n=1}^{\\infty} |x_{n}|=\\infty\\}$ bo‘lsa Banax fazosi bo‘ladi.",
     "C": "$l^{p}$ chekli ketma-ketliklardan iborat bo‘lsa Banax fazosi bo‘lmaydi.",
-    "D": "$l^{p}$fazosida norma umuman aniqlanmaydi.",
+    "D": "$l^{p}$ fazosida norma umuman aniqlanmaydi.",
     "javob": "A"
   },
   {
@@ -410,7 +410,7 @@
   {
     "savol": "Gilbert fazosida norma qanday hosil qilinadi?",
     "A": "Norma skalyar ko‘paytma orqali aniqlanadi: $‖x‖=\\sqrt{(x,x)}$",
-    "B": "Norma har doim $‖x‖=(x,x)$formula bilan aniqlanadi.",
+    "B": "Norma har doim $‖x‖=(x,x)$ formula bilan aniqlanadi.",
     "C": "Norma elementlarning tartibiga qarab aniqlanadi.",
     "D": "Norma fazodagi barcha elementlar uchun doim 1 ga teng bo‘ladi.",
     "javob": "A"
@@ -425,7 +425,7 @@
   },
   {
     "savol": "Qaysi fazo Gilbert fazosiga oddiy misol bo‘ladi?",
-    "A": "$R^{n} $fazosi odatdagi skalyar ko‘paytma bilan Gilbert fazosiga misol bo‘ladi.",
+    "A": "$R^{n}$ fazosi odatdagi skalyar ko‘paytma bilan Gilbert fazosiga misol bo‘ladi.",
     "B": "Har qanday normallashmagan to‘plam Gilbert fazosi bo‘ladi.",
     "C": "Bo‘sh to‘plam Gilbert fazosiga misol bo‘ladi.",
     "D": "Har qanday topologik fazo avtomatik ravishda Gilbert fazosi bo‘ladi.",
@@ -433,18 +433,18 @@
   },
   {
     "savol": "$R^{n}$ fazosida odatdagi skalyar ko‘paytma qanday yoziladi?",
-    "A": "$x=(x_{1},…,x_{n}), y=(y_{1},…,y_{n}$) bo‘lsa, $(x,y) = x_{1}y_{1} + ... + x_{n}y_{n}.$",
+    "A": "$x=(x_{1},\\dots,x_{n}), y=(y_{1},\\dots,y_{n})$ bo‘lsa, $(x,y) = x_{1}y_{1} + \\dots + x_{n}y_{n}.$",
     "B": "$(x,y) = x_{1}+y_{1}$ formula har qanday $R^{n}$ uchun yetarli bo‘ladi.",
     "C": "$(x,y) = x_{1}-y_{1}$ ko‘rinishidagi ifoda skalyar ko‘paytma bo‘ladi.",
     "D": "$(x,y) = 0$ barcha x va y uchun odatdagi skalyar ko‘paytma hisoblanadi.",
     "javob": "A"
   },
   {
-    "savol": "$l^{2}$fazosi qanday ketma-ketliklardan tuziladi?",
-    "A": "$l^{2}$ fazosi kvadratlari yig‘indisi chekli bo‘lgan ketma-ketliklardan tuziladi: $∑_{}^{} |x_{n}|^{2}<∞$",
+    "savol": "$l^{2}$ fazosi qanday ketma-ketliklardan tuziladi?",
+    "A": "$l^{2}$ fazosi kvadratlari yig‘indisi chekli bo‘lgan ketma-ketliklardan tuziladi: $\\sum_{n=1}^{\\infty} |x_{n}|^{2}<\\infty$",
     "B": "$l^{2}$ fazosi barcha ixtiyoriy ketma-ketliklardan tuziladi.",
-    "C": "$l^{2}$fazosi o‘suvchi ketma-ketliklardan tuziladi.",
-    "D": "$l^{2}$fazosi chekli uzunlikdagi ketma-ketliklardan iborat bo‘ladi.",
+    "C": "$l^{2}$ fazosi o‘suvchi ketma-ketliklardan tuziladi.",
+    "D": "$l^{2}$ fazosi chekli uzunlikdagi ketma-ketliklardan iborat bo‘ladi.",
     "javob": "A"
   },
   {
@@ -497,7 +497,7 @@
   },
   {
     "savol": "T:X→Y operator kompakt bo‘lishi uchun ketma-ketliklar orqali qanday shart bajariladi?",
-    "A": "X dagi har bir chegaralangan ${x_{n}}$ketma-ketlik uchun ${T(x_{n})}$ ketma-ketlikdan Y da yaqinlashuvchi qismiy ketma-ketlik ajratish mumkin.",
+    "A": "X dagi har bir chegaralangan ${x_{n}}$ ketma-ketlik uchun ${T(x_{n})}$ ketma-ketlikdan Y da yaqinlashuvchi qismiy ketma-ketlik ajratish mumkin.",
     "B": "X dagi har bir ketma-ketlik T ta’sirida albatta nolga aylanadi.",
     "C": "Yaqinlashuvchi ketma-ketliklargina T ta’sirida yaqinlashuvchi bo‘lishi kerak.",
     "D": "Har bir chegaralangan ketma-ketlik T ta’sirida cheksizlikka intilishi kerak.",
@@ -521,7 +521,7 @@
   },
   {
     "savol": "Integral operatorga doir qaysi misol kompakt operatorga misol bo‘la oladi?",
-    "A": "Agar K(x,t) uzluksiz yadro bo‘lsa, $(Tf)(x)=\\sum_{a}^{b} K(x,t)f(t)dt$ ko‘rinishidagi integral operator ko‘pincha kompakt operatorga misol bo‘ladi.",
+    "A": "Agar K(x,t) uzluksiz yadro bo‘lsa, $(Tf)(x)=\\int_{a}^{b} K(x,t)f(t)dt$ ko‘rinishidagi integral operator ko‘pincha kompakt operatorga misol bo‘ladi.",
     "B": "(Tf)(x)=f(x) birlik operator har qanday cheksiz o‘lchovli fazoda doim kompakt bo‘ladi.",
     "C": "(Tf)(x)=x+f(x) operator har doim kompakt bo‘ladi, shartlar kerak emas.",
     "D": "Har qanday differensial operator avtomatik ravishda kompakt operator bo‘ladi.",
@@ -529,9 +529,9 @@
   },
   {
     "savol": "ℓ² fazoda diagonal operator qachon kompakt bo‘lishi mumkin?",
-    "A": "Agar T(x₁,x₂,...)=(λ₁x₁,λ₂x₂,...) va$ λ_{n}→0$ bo‘lsa, bunday diagonal operator kompakt bo‘lishi mumkin.",
-    "B": "Agar $λ_{n}→∞$ bo‘lsa, operator albatta kompakt bo‘ladi.",
-    "C": "Agar barcha $λ_{n}=1$bo‘lsa, operator cheksiz o‘lchovli ℓ² da kompakt bo‘ladi.",
+    "A": "Agar T(x₁,x₂,...)=(λ₁x₁,λ₂x₂,...) va $\\lambda_{n}\\to 0$ bo‘lsa, bunday diagonal operator kompakt bo‘lishi mumkin.",
+    "B": "Agar $\\lambda_{n}\\to \\infty$ bo‘lsa, operator albatta kompakt bo‘ladi.",
+    "C": "Agar barcha $\\lambda_{n}=1$ bo‘lsa, operator cheksiz o‘lchovli ℓ² da kompakt bo‘ladi.",
     "D": "Diagonal operator hech qachon kompakt bo‘lmaydi.",
     "javob": "A"
   },
@@ -553,7 +553,7 @@
   },
   {
     "savol": "Kompakt operatorlar nazariyasida eng muhim misollardan biri qaysi?",
-    "A": "Chekli rangli operatorlar, uzluksiz yadroli integral operatorlar va $λ_{n}→0$ bo‘lgan diagonal operatorlar kompakt operatorlarga muhim misollardir.",
+    "A": "Chekli rangli operatorlar, uzluksiz yadroli integral operatorlar va $\\lambda_{n}\\to 0$ bo‘lgan diagonal operatorlar kompakt operatorlarga muhim misollardir.",
     "B": "Birlik operatorlar kompakt operatorlarning asosiy misolidir.",
     "C": "Teskari operatori mavjud bo‘lmagan barcha operatorlar kompakt bo‘ladi.",
     "D": "Algebraik ko‘phadlar kompakt operatorlarga misol bo‘ladi.",
@@ -624,7 +624,7 @@
     "javob": "A"
   },
   {
-    "savol": "Integral operator $(Tf)(x)=\\sum_{a}^{x} f(t)dt$ qanday operatorga misol bo‘lishi mumkin?",
+    "savol": "Integral operator $(Tf)(x)=\\int_{a}^{x} f(t)dt$ qanday operatorga misol bo‘lishi mumkin?",
     "A": "Bu chiziqli operatorga misol bo‘ladi, chunki integral qo‘shish va songa ko‘paytirish amallarini saqlaydi.",
     "B": "Bu chiziqli emas, chunki integral belgisi qatnashgan.",
     "C": "Bu a=x bo‘lganda chiziqli bo‘ladi.",
@@ -641,10 +641,10 @@
   },
   {
     "savol": "Integral operatorning sodda ko‘rinishi qaysi formula bilan beriladi?",
-    "A": "$$(Tf)(x)=\\sum_{a}^{b} K(x,t)f(t)dt$$",
+    "A": "$$(Tf)(x)=\\int_{a}^{b} K(x,t)f(t)dt$$",
     "B": "(Tf)(x) = f'(x)",
     "C": "(Tf)(x) = x + f(x)",
-    "D": "(Tf)(x) =$\\frac{ K(x,t) }{f(t)}$",
+    "D": "(Tf)(x) =$\\frac{ K(x,t)}{f(t)}$",
     "javob": "A"
   },
   {
@@ -665,10 +665,10 @@
   },
   {
     "savol": "Agar K(x,t) = 1 bo‘lsa, integral operator qanday ko‘rinishda bo‘ladi?",
-    "A": "$$(Tf)(x)=\\sum_{a}^{b} f(t)dt$$",
+    "A": "$$(Tf)(x)=\\int_{a}^{b} f(t)dt$$",
     "B": "(Tf)(x) = f'(x)",
     "C": "(Tf)(x) = f(x) + 1",
-    "D": "$$(Tf)(x)=\\sum_{a}^{b} f(x)xdt$$",
+    "D": "$$(Tf)(x)=\\int_{a}^{b} f(x)xdt$$",
     "javob": "A"
   },
   {
@@ -705,7 +705,7 @@
   },
   {
     "savol": "Integral operatorga oddiy misol qaysi?",
-    "A": "$$(Tf)(x)=\\sum_{0}^{x} f(t)dt$$",
+    "A": "$$(Tf)(x)=\\int_{0}^{x} f(t)dt$$",
     "B": "(Tf)(x) = f'(x)",
     "C": "(Tf)(x) = 2f(x)",
     "D": "(Tf)(x) = f(x)+3",
@@ -713,16 +713,16 @@
   },
   {
     "savol": "Fredgolm tipidagi integral operator qanday ko‘rinishga ega?",
-    "A": "$$(Tf)(x)=\\sum_{a}^{b} K(x,t)f(t)dt$$",
-    "B": "$$(Tf)(x)=\\sum_{a}^{x} K(x,t)f(t)dt$$",
-    "C": "$$(Tf)(x)=\\sum_{0}^{x} K(x,t)f(t)dt$$",
+    "A": "$$(Tf)(x)=\\int_{a}^{b} K(x,t)f(t)dt$$",
+    "B": "$$(Tf)(x)=\\int_{a}^{x} K(x,t)f(t)dt$$",
+    "C": "$$(Tf)(x)=\\int_{0}^{x} K(x,t)f(t)dt$$",
     "D": "(Tf)(x) = K(x,x)",
     "javob": "A"
   },
   {
     "savol": "Volterra tipidagi integral operator qanday ko‘rinishga ega?",
-    "A": "$$(Tf)(x)=\\sum_{a}^{x} K(x,t)f(t)dt$$",
-    "B": "$$(Tf)(x)=\\sum_{a}^{b} K(x,t)f(t)dt$$",
+    "A": "$$(Tf)(x)=\\int_{a}^{x} K(x,t)f(t)dt$$",
+    "B": "$$(Tf)(x)=\\int_{a}^{b} K(x,t)f(t)dt$$",
     "C": "(Tf)(x) = f(x) - f(a)",
     "D": "(Tf)(x) = xK(x,t)",
     "javob": "A"
@@ -824,7 +824,7 @@
     "javob": "A"
   },
   {
-    "savol": "$φ(x)=f(x)+λ\\sum_{a}^{b} K(x,t)φ(t)dt$ ko‘rinishidagi tenglama qaysi turga kiradi?",
+    "savol": "$\\varphi(x)=f(x)+\\lambda \\int_{a}^{b} K(x,t)\\varphi(t)dt$ ko‘rinishidagi tenglama qaysi turga kiradi?",
     "A": "Fredgolm integral tenglamasining ikkinchi turiga kiradi.",
     "B": "Fredgolm integral tenglamasining birinchi turiga kiradi.",
     "C": "Oddiy differensial tenglamaga kiradi.",
@@ -832,7 +832,7 @@
     "javob": "A"
   },
   {
-    "savol": "$\\sum_{a}^{b} K(x,t)φ(t)dt=f(x)$ko‘rinishidagi tenglama qaysi turga kiradi?",
+    "savol": "$\\int_{a}^{b} K(x,t)\\varphi(t)dt=f(x)$ ko‘rinishidagi tenglama qaysi turga kiradi?",
     "A": "Fredgolm integral tenglamasining birinchi turiga kiradi.",
     "B": "Fredgolm integral tenglamasining ikkinchi turiga kiradi.",
     "C": "Algebraik tenglamaga kiradi.",
@@ -848,7 +848,7 @@
     "javob": "A"
   },
   {
-    "savol": "$φ(x)=x+λ\\sum_{0}^{1} (x+t)φ(t)dt$ tenglamaning yadrosi qaysi?",
+    "savol": "$\\varphi(x)=x+\\lambda \\int_{0}^{1}(x+t)\\varphi(t)dt$ tenglamaning yadrosi qaysi?",
     "A": "K(x,t)=x+t",
     "B": "K(x,t)=x",
     "C": "K(x,t)=φ(t)",
@@ -856,7 +856,7 @@
     "javob": "A"
   },
   {
-    "savol": "$φ(x)=x+λ\\sum_{0}^{1} (x+t)φ(t)dt$ tenglamada ozod had qaysi?",
+    "savol": "$\\varphi(x)=x+\\lambda \\int_{0}^{1}(x+t)\\varphi(t)dt$ tenglamada ozod had qaysi?",
     "A": "f(x)=x",
     "B": "f(x)=x+t",
     "C": "f(x)=φ(t)",
@@ -864,7 +864,7 @@
     "javob": "A"
   },
   {
-    "savol": "$φ(x)=x+2\\sum_{0}^{1} xtφ(t)dt$ tenglamada λ parametr qaysi qiymatga teng?",
+    "savol": "$\\varphi(x)=x+2\\int_{0}^{1} xt\\varphi(t)dt$ tenglamada λ parametr qaysi qiymatga teng?",
     "A": "λ=2",
     "B": "λ=x",
     "C": "λ=t",
@@ -872,7 +872,7 @@
     "javob": "A"
   },
   {
-    "savol": "$φ(x)=\\sum_{0}^{1} K(x,t)φ(t)dt$tenglama qanday tenglama hisoblanadi?",
+    "savol": "$\\varphi(x)=\\int_{0}^{1} K(x,t)\\varphi(t)dt$ tenglama qanday tenglama hisoblanadi?",
     "A": "Bir jinsli Fredgolm integral tenglamasi hisoblanadi.",
     "B": "Bir jinsli bo‘lmagan Fredgolm tenglamasi hisoblanadi.",
     "C": "Algebraik tenglama hisoblanadi.",
@@ -896,7 +896,7 @@
     "javob": "A"
   },
   {
-    "savol": "$\\sum_{0}^{1} (x^{2}+t)φ(t)dt=sinx$tenglamaning tipi qanday?",
+    "savol": "$\\int_{0}^{1}(x^{2}+t)\\varphi(t)dt=\\sin x$ tenglamaning tipi qanday?",
     "A": "Fredgolm integral tenglamasining birinchi turi.",
     "B": "Fredgolm integral tenglamasining ikkinchi turi.",
     "C": "Volterra integral tenglamasining ikkinchi turi.",
@@ -904,7 +904,7 @@
     "javob": "A"
   },
   {
-    "savol": "$φ(x)=cosx+\\sum_{0}^{π} sin(x+t)φ(t)dt$ tenglamaning tipi qanday?",
+    "savol": "$\\varphi(x)=\\cos x+\\int_{0}^{\\pi} \\sin(x+t)\\varphi(t)dt$ tenglamaning tipi qanday?",
     "A": "Fredgolm integral tenglamasining ikkinchi turi.",
     "B": "Fredgolm integral tenglamasining birinchi turi.",
     "C": "Trigonometrik tenglama.",
@@ -912,7 +912,7 @@
     "javob": "A"
   },
   {
-    "savol": "$φ(x)=3+\\sum_{0}^{1} (x-t)^{2}φ(t)dt$tenglamada yadro qaysi?",
+    "savol": "$\\varphi(x)=3+\\int_{0}^{1}(x-t)^{2}\\varphi(t)dt$ tenglamada yadro qaysi?",
     "A": "K(x,t)= $(x-t)^{2}$",
     "B": "K(x,t)=3",
     "C": "K(x,t)=φ(t)",
@@ -920,7 +920,7 @@
     "javob": "A"
   },
   {
-    "savol": "$\\sum_{0}^{1} xtφ(t)dt=x^{2}$tenglamada yadro qaysi?",
+    "savol": "$\\int_{0}^{1} xt\\varphi(t)dt=x^{2}$ tenglamada yadro qaysi?",
     "A": "K(x,t)=xt",
     "B": "K(x,t)= $x^{2}$",
     "C": "K(x,t)=φ(t)",
@@ -928,7 +928,7 @@
     "javob": "A"
   },
   {
-    "savol": "$φ(x)=1+=λ\\sum_{0}^{1} K(x,t)φ(t)dt$tenglamada noma’lum funksiya qaysi?",
+    "savol": "$\\varphi(x)=1+\\lambda \\int_{0}^{1} K(x,t)\\varphi(t)dt$ tenglamada noma’lum funksiya qaysi?",
     "A": "φ(x)",
     "B": "K(x,t)",
     "C": "λ",
@@ -945,7 +945,7 @@
   },
   {
     "savol": "K(x,t)=xt+sin x cos t yadro haqida qaysi mulohaza to‘g‘ri?",
-    "A": "Bu yadro chekli sondagi $a_{i}(x)b_{i}(t)$ko‘paytmalar yig‘indisi shaklida yoziladi.",
+    "A": "Bu yadro chekli sondagi $a_{i}(x)b_{i}(t)$ ko‘paytmalar yig‘indisi shaklida yoziladi.",
     "B": "Bu yadroda x va t umuman qatnashmaydi.",
     "C": "Bu yadro nol funksiyadan iborat.",
     "D": "Bu yadro har doim chiziqsiz tenglama hosil qiladi.",
@@ -953,7 +953,7 @@
   },
   {
     "savol": "Ajralgan yadro qanday ko‘rinishda bo‘ladi?",
-    "A": "$K(x,t)=Σ a_{i}(x)b_{i}(t)$ ko‘rinishida chekli yig‘indi bilan ifodalanadi.",
+    "A": "$K(x,t)=\\Sigma a_{i}(x)b_{i}(t)$ ko‘rinishida chekli yig‘indi bilan ifodalanadi.",
     "B": "K(x,t) cheksiz hosilalar orqali yoziladi.",
     "C": "K(x,t) har doim nolga teng bo‘ladi.",
     "D": "K(x,t) x ga bog‘liq bo‘lmaydi.",
@@ -984,7 +984,7 @@
     "javob": "A"
   },
   {
-    "savol": "$φ(x)=f(x)+=λ\\sum_{0}^{1} K(x,t)φ(t)dt$tenglama qachon chiziqli hisoblanadi?",
+    "savol": "$\\varphi(x)=f(x)+\\lambda \\int_{0}^{1} K(x,t)\\varphi(t)dt$ tenglama qachon chiziqli hisoblanadi?",
     "A": "Noma’lum funksiya φ birinchi darajada va chiziqli ko‘rinishda qatnashsa.",
     "B": "Noma’lum funksiya kvadrat ko‘rinishda qatnashsa.",
     "C": "Tenglamada sin(φ(t)) qatnashsa.",
@@ -992,7 +992,7 @@
     "javob": "A"
   },
   {
-    "savol": "$φ(x)=x+=\\sum_{0}^{1} K(x,t)φ^{2}(t)dt$ tenglama qanday?",
+    "savol": "$\\varphi(x)=x+\\int_{0}^{1} K(x,t)\\varphi^{2}(t)dt$ tenglama qanday?",
     "A": "Chiziqsiz integral tenglama.",
     "B": "Chiziqli Fredgolm tenglamasi.",
     "C": "Bir jinsli algebraik tenglama.",
@@ -1000,7 +1000,7 @@
     "javob": "A"
   },
   {
-    "savol": "$φ(x)=x+=\\sum_{0}^{1} K(x,t)sin(φ(t))dt$tenglama qanday tenglama hisoblanadi?",
+    "savol": "$\\varphi(x)=x+\\int_{0}^{1} K(x,t)\\sin(\\varphi(t))dt$ tenglama qanday tenglama hisoblanadi?",
     "A": "Chiziqsiz integral tenglama.",
     "B": "Chiziqli ikkinchi tur Fredgolm tenglamasi.",
     "C": "Birinchi tartibli differensial tenglama.",
@@ -1008,7 +1008,7 @@
     "javob": "A"
   },
   {
-    "savol": "$φ(x)=x+\\sum_{0}^{1} tφ(t)dt$tenglamada K(x,t) qanday?",
+    "savol": "$\\varphi(x)=x+\\int_{0}^{1} t\\varphi(t)dt$ tenglamada K(x,t) qanday?",
     "A": "K(x,t)=t",
     "B": "K(x,t)=x",
     "C": "K(x,t)=φ(t)",
@@ -1016,7 +1016,7 @@
     "javob": "A"
   },
   {
-    "savol": "$φ(x)=5+=\\sum_{0}^{2} (t^{3}+x)φ(t)dt$tenglamada integrallash chegaralari qaysi?",
+    "savol": "$\\varphi(x)=5+\\int_{0}^{2}(t^{3}+x)\\varphi(t)dt$ tenglamada integrallash chegaralari qaysi?",
     "A": "0 va 2",
     "B": "x va 2",
     "C": "0 va x",
@@ -1025,23 +1025,23 @@
   },
   {
     "savol": "Qaysi tenglama Fredgolm integral tenglamasiga misol bo‘ladi?",
-    "A": "$$φ(x)=x+\\sum_{0}^{1} (x+t)φ(t)dt$$",
-    "B": "$$φ(x)=x+\\sum_{0}^{x} (x+t)φ(t)dt$$",
+    "A": "$$\\varphi(x)=x+\\int_{0}^{1}(x+t)\\varphi(t)dt$$",
+    "B": "$$\\varphi(x)=x+\\int_{0}^{x}(x+t)\\varphi(t)dt$$",
     "C": "φ'(x)+φ(x)=0",
     "D": "$x^{2}$+3x−1=0",
     "javob": "A"
   },
   {
     "savol": "Qaysi tenglama Volterra integral tenglamasiga yaqin ko‘rinishga ega?",
-    "A": "$$φ(x)=x+\\sum_{0}^{x} (x+t)φ(t)dt$$",
-    "B": "$$φ(x)=x+\\sum_{0}^{1} (x+t)φ(t)dt$$",
-    "C": "$$f(x)=\\sum_{0}^{1} (x+t)φ(t)dt$$",
+    "A": "$$\\varphi(x)=x+\\int_{0}^{x}(x+t)\\varphi(t)dt$$",
+    "B": "$$\\varphi(x)=x+\\int_{0}^{1}(x+t)\\varphi(t)dt$$",
+    "C": "$$f(x)=\\int_{0}^{1}(x+t)\\varphi(t)dt$$",
     "D": "φ(x)=f(x)+λφ(x)",
     "javob": "A"
   },
   {
     "savol": "Fredgolm integral operatori odatda qanday yoziladi?",
-    "A": "$$(Aφ)(x)=\\sum_{a}^{b} K(x,t)φ(t)dt$$",
+    "A": "$$(A\\varphi)(x)=\\int_{a}^{b} K(x,t)\\varphi(t)dt$$",
     "B": "(Aφ)(x)=φ'(x)",
     "C": "(Aφ)(x)=xφ$x^{2}$",
     "D": "(Aφ)(x)=K(x,x)",
@@ -1060,7 +1060,7 @@
     "A": "φ = f + λAφ",
     "B": "φ' = f + λAφ",
     "C": "Aφ = 0 faqat",
-    "D": "$φ^{2}$= f",
+    "D": "$\\varphi^{2}$= f",
     "javob": "A"
   },
   {
@@ -1080,15 +1080,15 @@
     "javob": "A"
   },
   {
-    "savol": "Fredgolm tenglamasida λ=0 bo‘lsa, $φ(x)=f(x)+λ\\sum_{a}^{b} K(x,t)φ(t)dt$tenglama nimaga aylanadi?",
+    "savol": "Fredgolm tenglamasida λ=0 bo‘lsa, $\\varphi(x)=f(x)+\\lambda \\int_{a}^{b} K(x,t)\\varphi(t)dt$ tenglama nimaga aylanadi?",
     "A": "φ(x)=f(x) ko‘rinishidagi oddiy tenglikka aylanadi.",
     "B": "φ(x)=0 tenglamaga aylanadi.",
-    "C": "$\\sum_{a}^{b} K(x,t)φ(t)dt=f(x)$ tenglamaga aylanadi.",
+    "C": "$\\int_{a}^{b} K(x,t)\\varphi(t)dt=f(x)$ tenglamaga aylanadi.",
     "D": "Yadro yo‘qolib, f(x)=0 bo‘ladi.",
     "javob": "A"
   },
   {
-    "savol": "Fredgolm tenglamasida K(x,t)=0 bo‘lsa, $φ(x)=f(x)+λ\\sum_{a}^{b} K(x,t)φ(t)dt$nimaga aylanadi?",
+    "savol": "Fredgolm tenglamasida K(x,t)=0 bo‘lsa, $\\varphi(x)=f(x)+\\lambda \\int_{a}^{b} K(x,t)\\varphi(t)dt$ nimaga aylanadi?",
     "A": "φ(x)=f(x) tenglamaga aylanadi.",
     "B": "φ(x)=λφ(x) tenglamaga aylanadi.",
     "C": "Integral cheksiz bo‘ladi.",
@@ -1152,7 +1152,7 @@
     "javob": "A"
   },
   {
-    "savol": "$φ(x)=1+\\sum_{0}^{1} xtφ(t)dt$tenglamada yadro aynigan hisoblanadimi?",
+    "savol": "$\\varphi(x)=1+\\int_{0}^{1} xt\\varphi(t)dt$ tenglamada yadro aynigan hisoblanadimi?",
     "A": "Ha, chunki K(x,t)=x t = a(x)b(t) ko‘rinishida ajraladi.",
     "B": "Yo‘q, chunki yadroda x va t bor.",
     "C": "Yo‘q, chunki integral chegaralari o‘zgarmas.",
@@ -1160,7 +1160,7 @@
     "javob": "A"
   },
   {
-    "savol": "$φ(x)=1+\\sum_{0}^{1} (x+t)φ(t)dt$ tenglamani yechishda degeneratsiyalangan yadro usuli nimaga olib keladi?",
+    "savol": "$\\varphi(x)=1+\\int_{0}^{1}(x+t)\\varphi(t)dt$ tenglamani yechishda degeneratsiyalangan yadro usuli nimaga olib keladi?",
     "A": "Masala chekli sondagi algebraik tenglamalar sistemasiga keltiriladi.",
     "B": "Masala har doim differensial tenglamaga aylanadi.",
     "C": "Yadro avtomatik ravishda nolga aylanadi.",
@@ -1168,7 +1168,7 @@
     "javob": "A"
   },
   {
-    "savol": "$\\sum_{0}^{1} (x+t)φ(t)dt=x+1$ tenglama haqida qaysi fikr to‘g‘ri?",
+    "savol": "$\\int_{0}^{1}(x+t)\\varphi(t)dt=x+1$ tenglama haqida qaysi fikr to‘g‘ri?",
     "A": "Bu birinchi tur Fredgolm integral tenglamasidir.",
     "B": "Bu ikkinchi tur Fredgolm integral tenglamasidir.",
     "C": "Bu oddiy hosilali tenglamadir.",
@@ -1176,7 +1176,7 @@
     "javob": "A"
   },
   {
-    "savol": "$φ(x)=sinx+3\\sum_{0}^{π} cos(x-t)φ(t)dt$tenglamada λ parametr qaysi qiymatga teng?",
+    "savol": "$\\varphi(x)=\\sin x+3\\int_{0}^{\\pi} \\cos(x-t)\\varphi(t)dt$ tenglamada λ parametr qaysi qiymatga teng?",
     "A": "λ=3",
     "B": "λ=1+x",
     "C": "λ=t",
@@ -1184,7 +1184,7 @@
     "javob": "A"
   },
   {
-    "savol": "$φ(x)=sinx+3\\sum_{0}^{π} cos(x-t)φ(t)dt$tenglamada ozod had qaysi?",
+    "savol": "$\\varphi(x)=\\sin x+3\\int_{0}^{\\pi} \\cos(x-t)\\varphi(t)dt$ tenglamada ozod had qaysi?",
     "A": "f(x)=sin x",
     "B": "f(x)=cos(x−t)",
     "C": "f(x)=φ(t)",
@@ -1209,18 +1209,18 @@
   },
   {
     "savol": "Volterra integral tenglamasining ikkinchi turdagi umumiy ko‘rinishi qaysi?",
-    "A": "$$y(x)=f(x)+λ\\sum_{a}^{x} K(x,t)y(t)dt$$",
-    "B": "$$\\sum_{a}^{b} K(x,t)y(t)dt=f(x)$$",
-    "C": "$$y(x)=f(x)+λ\\sum_{a}^{b} K(x,t)y(t)dt$$",
+    "A": "$$y(x)=f(x)+\\lambda \\int_{a}^{x} K(x,t)y(t)dt$$",
+    "B": "$$\\int_{a}^{b} K(x,t)y(t)dt=f(x)$$",
+    "C": "$$y(x)=f(x)+\\lambda \\int_{a}^{b} K(x,t)y(t)dt$$",
     "D": "K(x,t)=f(x)y(t)",
     "javob": "A"
   },
   {
     "savol": "Volterra integral tenglamasining birinchi turdagi ko‘rinishi qaysi?",
-    "A": "$$\\sum_{a}^{x} K(x,t)y(t)dt=f(x)$$",
-    "B": "$$y(x)=f(x)+λ\\sum_{a}^{x} K(x,t)y(t)dt$$",
+    "A": "$$\\int_{a}^{x} K(x,t)y(t)dt=f(x)$$",
+    "B": "$$y(x)=f(x)+\\lambda \\int_{a}^{x} K(x,t)y(t)dt$$",
     "C": "y′(x)=K(x,t)y(t)",
-    "D": "$$\\sum_{a}^{b} K(x,t)y(t)dt=0$$",
+    "D": "$$\\int_{a}^{b} K(x,t)y(t)dt=0$$",
     "javob": "A"
   },
   {
@@ -1240,7 +1240,7 @@
     "javob": "A"
   },
   {
-    "savol": "$y(x)=1+\\sum_{a}^{x} (x-t)y(t)dt$tenglamasi qaysi turga kiradi?",
+    "savol": "$y(x)=1+\\int_{a}^{x}(x-t)y(t)dt$ tenglamasi qaysi turga kiradi?",
     "A": "Ikkinchi turdagi Volterra integral tenglamasi.",
     "B": "Birinchi turdagi Fredgolm integral tenglamasi.",
     "C": "Algebraik tenglama.",
@@ -1248,7 +1248,7 @@
     "javob": "A"
   },
   {
-    "savol": "$\\sum_{a}^{x} (x+t)y(t)dt=x^{2}$ tenglamasi qaysi turga kiradi?",
+    "savol": "$\\int_{a}^{x}(x+t)y(t)dt=x^{2}$ tenglamasi qaysi turga kiradi?",
     "A": "Birinchi turdagi Volterra integral tenglamasi.",
     "B": "Ikkinchi turdagi Fredgolm integral tenglamasi.",
     "C": "Differensial tenglama.",
@@ -1256,7 +1256,7 @@
     "javob": "A"
   },
   {
-    "savol": "$y(x)=sinx+2\\sum_{a}^{x} ty(t)dt$ tenglamasida λ nechaga teng?",
+    "savol": "$y(x)=\\sin x+2\\int_{a}^{x} ty(t)dt$ tenglamasida λ nechaga teng?",
     "A": "λ=2",
     "B": "λ=0",
     "C": "λ=-1",
@@ -1264,7 +1264,7 @@
     "javob": "A"
   },
   {
-    "savol": "$y(x)=x+\\sum_{a}^{x} (x-t)y(t)dt$ tenglamasida yadro qaysi?",
+    "savol": "$y(x)=x+\\int_{a}^{x}(x-t)y(t)dt$ tenglamasida yadro qaysi?",
     "A": "K(x,t)=x-t",
     "B": "K(x,t)=x",
     "C": "K(x,t)=t",
@@ -1272,7 +1272,7 @@
     "javob": "A"
   },
   {
-    "savol": "$y(x)=3+\\sum_{a}^{x} y(t)dt$tenglamasida yadro?",
+    "savol": "$y(x)=3+\\int_{a}^{x} y(t)dt$ tenglamasida yadro?",
     "A": "K(x,t)=1",
     "B": "K(x,t)=x+t",
     "C": "K(x,t)=0",
@@ -1345,14 +1345,14 @@
   },
   {
     "savol": "Volterra integral operatori C[a,b] da qanday ko‘rinishda yoziladi?",
-    "A": "$$(Ty)(x)=\\sum_{a}^{x} K(x,t)y(t)dt$$",
+    "A": "$$(Ty)(x)=\\int_{a}^{x} K(x,t)y(t)dt$$",
     "B": "$$(Ty)(x)=K(x,x)y(x)$$",
     "C": "$$(Ty)(x)=y'(x)$$",
-    "D": "$$(Ty)(x)=\\sum_{a}^{b} y(x)dt$$",
+    "D": "$$(Ty)(x)=\\int_{a}^{b} y(x)dt$$",
     "javob": "A"
   },
   {
-    "savol": "$(Ty)(x)=\\sum_{a}^{x} y(t)dt$operatorida K(x,t) qaysi?",
+    "savol": "$(Ty)(x)=\\int_{a}^{x} y(t)dt$ operatorida K(x,t) qaysi?",
     "A": "K(x,t)=1",
     "B": "K(x,t)=x",
     "C": "K(x,t)=t",
@@ -1360,7 +1360,7 @@
     "javob": "A"
   },
   {
-    "savol": "$\\sum_{0}^{x} y(t)dt=x^{2}$tenglamaning yechimi qaysi?",
+    "savol": "$\\int_{0}^{x} y(t)dt=x^{2}$ tenglamaning yechimi qaysi?",
     "A": "y(x)=2x",
     "B": "y(x)= $x^{2}$",
     "C": "y(x)=x",
@@ -1368,7 +1368,7 @@
     "javob": "A"
   },
   {
-    "savol": "$\\sum_{0}^{x} ty(t)dt=x^{3}$tenglama uchun x>0 da y(x) qaysi?",
+    "savol": "$\\int_{0}^{x} ty(t)dt=x^{3}$ tenglama uchun x>0 da y(x) qaysi?",
     "A": "y(x)=3x",
     "B": "y(x)= $x^{2}$",
     "C": "y(x)=3",
@@ -1376,7 +1376,7 @@
     "javob": "A"
   },
   {
-    "savol": "$\\sum_{0}^{x} (x-t)y(t)dt=\\frac{x^{3}}{6}$ tenglamaning yechimi qaysi?",
+    "savol": "$\\int_{0}^{x}(x-t)y(t)dt=\\frac{x^{3}}{6}$ tenglamaning yechimi qaysi?",
     "A": "y(x)=x",
     "B": "y(x)= $x^{2}$",
     "C": "y(x)=1",
@@ -1384,7 +1384,7 @@
     "javob": "A"
   },
   {
-    "savol": "$y(x)=1+\\sum_{0}^{x} y(t)dt$ tenglamaning yechimi qaysi?",
+    "savol": "$y(x)=1+\\int_{0}^{x} y(t)dt$ tenglamaning yechimi qaysi?",
     "A": "y(x)= $e^{x}$",
     "B": "y(x)=x",
     "C": "y(x)=1-x",
@@ -1392,7 +1392,7 @@
     "javob": "A"
   },
   {
-    "savol": "$y(x)=x+\\sum_{0}^{x} y(t)dt$tenglamaning yechimi qaysi?",
+    "savol": "$y(x)=x+\\int_{0}^{x} y(t)dt$ tenglamaning yechimi qaysi?",
     "A": "y(x)= $e^{x}$-1",
     "B": "y(x)= $x^{2}$",
     "C": "y(x)=1",
@@ -1400,7 +1400,7 @@
     "javob": "A"
   },
   {
-    "savol": "$y(x)=f(x)+λ\\sum_{0}^{x} K(x,t)y(t)dt$tenglamasida λ nimani bildiradi?",
+    "savol": "$y(x)=f(x)+\\lambda \\int_{0}^{x} K(x,t)y(t)dt$ tenglamasida λ nimani bildiradi?",
     "A": "Berilgan parametr yoki sonli koeffitsiyentni bildiradi.",
     "B": "Noma’lum funksiyaning argumentini bildiradi.",
     "C": "Integralning yuqori chegarasini bildiradi.",
@@ -1408,7 +1408,7 @@
     "javob": "A"
   },
   {
-    "savol": "Agar λ=0 bo‘lsa, $y(x)=f(x)+λ\\sum_{0}^{x} K(x,t)y(t)dt$tenglamaning yechimi qanday bo‘ladi?",
+    "savol": "Agar λ=0 bo‘lsa, $y(x)=f(x)+\\lambda \\int_{0}^{x} K(x,t)y(t)dt$ tenglamaning yechimi qanday bo‘ladi?",
     "A": "y(x)=f(x)",
     "B": "y(x)=0",
     "C": "y(x)=K(x,t)",
@@ -1418,7 +1418,7 @@
   {
     "savol": "Agar K(x,t)=0 bo‘lsa, ikkinchi turdagi Volterra tenglamasi nimaga aylanadi?",
     "A": "y(x)=f(x)",
-    "B": "$$\\sum_{a}^{x} y(t)dt=0$$",
+    "B": "$$\\int_{a}^{x} y(t)dt=0$$",
     "C": "y′(x)=f(x)",
     "D": "K(x,t)=y(x)",
     "javob": "A"
@@ -1440,7 +1440,7 @@
     "javob": "A"
   },
   {
-    "savol": "$y(x)=f(x)+\\sum_{0}^{x} cos(x-t)y(t)dt$tenglamasi qanday yadroga ega?",
+    "savol": "$y(x)=f(x)+\\int_{0}^{x} \\cos(x-t)y(t)dt$ tenglamasi qanday yadroga ega?",
     "A": "Konvolyutsion yadroga ega.",
     "B": "Algebraik yadroga ega.",
     "C": "Simmetrik Fredgolm yadrosiga ega.",
@@ -1480,7 +1480,7 @@
     "javob": "A"
   },
   {
-    "savol": "$(Vf)(x)=\\sum_{0}^{x} f(t)dt$ operatori qanday operatorga misol bo‘ladi?",
+    "savol": "$(Vf)(x)=\\int_{0}^{x} f(t)dt$ operatori qanday operatorga misol bo‘ladi?",
     "A": "Volterra integral operatoriga.",
     "B": "Differensial operatorga.",
     "C": "Fredgolm ikkinchi tur operatoriga.",
@@ -1488,7 +1488,7 @@
     "javob": "A"
   },
   {
-    "savol": "$(Vf)(x)=\\sum_{0}^{x} f(t)dt$ operatorining yadro funksiyasi kengaytirilsa qanday bo‘ladi?",
+    "savol": "$(Vf)(x)=\\int_{0}^{x} f(t)dt$ operatorining yadro funksiyasi kengaytirilsa qanday bo‘ladi?",
     "A": "K(x,t)=1, agar 0≤t≤x; K(x,t)=0, agar t>x.",
     "B": "K(x,t)=0 barcha joyda.",
     "C": "K(x,t)=x+t barcha joyda.",
@@ -1504,7 +1504,7 @@
     "javob": "A"
   },
   {
-    "savol": "$\\sum_{0}^{x} y(t)dt=f(x)$tenglamada yechimni topish uchun odatda nima qilinadi?",
+    "savol": "$\\int_{0}^{x} y(t)dt=f(x)$ tenglamada yechimni topish uchun odatda nima qilinadi?",
     "A": "Ikkala tomon x bo‘yicha differensiallanadi.",
     "B": "Ikkala tomon x ga ko‘paytiriladi.",
     "C": "Integral chegaralari o‘chirib tashlanadi.",
@@ -1512,7 +1512,7 @@
     "javob": "A"
   },
   {
-    "savol": "$\\sum_{0}^{x} y(t)dt=f(x)$ tenglamada yechim qaysi shartda y(x)=f′(x) bo‘ladi?",
+    "savol": "$\\int_{0}^{x} y(t)dt=f(x)$ tenglamada yechim qaysi shartda y(x)=f′(x) bo‘ladi?",
     "A": "f differensiallanuvchi va f(0)=0 bo‘lsa.",
     "B": "f manfiy bo‘lsa.",
     "C": "K(x,t)=0 bo‘lsa.",
@@ -1528,7 +1528,7 @@
     "javob": "A"
   },
   {
-    "savol": "$y(x)=λ\\sum_{0}^{x} K(x,t)y(t)dt$ bir jinsli Volterra tenglamasi uchun uzluksiz yadroda odatda qanday yechim olinadi?",
+    "savol": "$y(x)=\\lambda \\int_{0}^{x} K(x,t)y(t)dt$ bir jinsli Volterra tenglamasi uchun uzluksiz yadroda odatda qanday yechim olinadi?",
     "A": "Nol yechim olinadi.",
     "B": "Har doim cheksiz ko‘p yechim olinadi.",
     "C": "Har doim y(x)=1 yechim bo‘ladi.",
@@ -1560,7 +1560,7 @@
     "javob": "A"
   },
   {
-    "savol": "$y(x)=f(x)+\\sum_{0}^{x} xty(t)dt$ tenglamada yadro qaysi?",
+    "savol": "$y(x)=f(x)+\\int_{0}^{x} xty(t)dt$ tenglamada yadro qaysi?",
     "A": "K(x,t)=xt",
     "B": "K(x,t)=f(x)",
     "C": "K(x,t)=y(t)",
@@ -1584,7 +1584,7 @@
     "javob": "A"
   },
   {
-    "savol": "$y(x)=x^{2}+\\sum_{0}^{x} (t+1)y(t)dt$tenglama qaysi sinfga kiradi?",
+    "savol": "$y(x)=x^{2}+\\int_{0}^{x}(t+1)y(t)dt$ tenglama qaysi sinfga kiradi?",
     "A": "Ikkinchi turdagi chiziqli Volterra integral tenglamasi.",
     "B": "Birinchi turdagi Abel tenglamasi.",
     "C": "Fredgolm birinchi tur tenglamasi.",
@@ -1593,8 +1593,8 @@
   },
   {
     "savol": "Qaysi tenglama Volterra integral tenglamasiga misol bo‘ladi?",
-    "A": "$$y(x)=1+\\sum_{0}^{x} (x-t)y(t)dt$$",
-    "B": "$$y(x)=1+\\sum_{0}^{1} (x-t)y(t)dt$$",
+    "A": "$$y(x)=1+\\int_{0}^{x}(x-t)y(t)dt$$",
+    "B": "$$y(x)=1+\\int_{0}^{1}(x-t)y(t)dt$$",
     "C": "y′(x)+y(x)=0",
     "D": "$$x^{2}+y^{2}=1$$",
     "javob": "A"
@@ -1609,9 +1609,9 @@
   },
   {
     "savol": "Abel integral tenglamasining klassik ko‘rinishi qaysi?",
-    "A": "$\\sum_{0}^{x} \\frac{φ(t)}{(x-t)^{α}}dt=f(x), $ 0<α<1",
-    "B": "$$\\sum_{0}^{1} K(x,t)φ(t)dt=f(x)$$",
-    "C": "$$y(x)=1+\\sum_{0}^{1} (x-t)y(t)dt$$",
+    "A": "$\\int_{0}^{x} \\frac{\\varphi(t)}{(x-t)^{\\alpha}}dt=f(x)$ 0<α<1",
+    "B": "$$\\int_{0}^{1} K(x,t)\\varphi(t)dt=f(x)$$",
+    "C": "$$y(x)=1+\\int_{0}^{1}(x-t)y(t)dt$$",
     "D": "φ′(x)=f(x)",
     "javob": "A"
   },
@@ -1640,7 +1640,7 @@
     "javob": "A"
   },
   {
-    "savol": "$\\sum_{0}^{x} \\frac{φ(t)}{(x-t)^{0,5}}dt=f(x), $ tenglamasi qaysi tenglama?",
+    "savol": "$\\int_{0}^{x} \\frac{\\varphi(t)}{(x-t)^{0.5}}dt=f(x)$ tenglamasi qaysi tenglama?",
     "A": "Abel integral tenglamasi.",
     "B": "Oddiy algebraik tenglama.",
     "C": "Fredgolm ikkinchi tur tenglamasi.",
@@ -1648,7 +1648,7 @@
     "javob": "A"
   },
   {
-    "savol": "$\\sum_{0}^{x} \\frac{φ(t)}{(x-t)^{0,5}}dt=f(x), $ tenglamasida yadro qaysi?",
+    "savol": "$\\int_{0}^{x} \\frac{\\varphi(t)}{(x-t)^{0.5}}dt=f(x)$ tenglamasida yadro qaysi?",
     "A": "K(x,t)=1/√(x-t)",
     "B": "K(x,t)=√x",
     "C": "K(x,t)=φ(t)",
@@ -1680,7 +1680,7 @@
     "javob": "A"
   },
   {
-    "savol": "$φ(x)=f(x)+λ\\sum_{0}^{x} \\frac{φ(t)}{\\sqrt{x-t}}dt$tenglamasi qanday ataladi?",
+    "savol": "$\\varphi(x)=f(x)+\\lambda \\int_{0}^{x} \\frac{\\varphi(t)}{\\sqrt{x-t}}dt$ tenglamasi qanday ataladi?",
     "A": "Abel tipidagi ikkinchi turdagi Volterra tenglamasi.",
     "B": "Fredgolm birinchi tur tenglamasi.",
     "C": "Oddiy algebraik tenglama.",
@@ -1696,7 +1696,7 @@
     "javob": "A"
   },
   {
-    "savol": "$\\sum_{0}^{x} \\frac{φ(t)}{\\sqrt{x-t}}dt=f(x)$ uchun Abel inversiya formulasi qaysi g‘oyaga asoslanadi?",
+    "savol": "$\\int_{0}^{x} \\frac{\\varphi(t)}{\\sqrt{x-t}}dt=f(x)$ uchun Abel inversiya formulasi qaysi g‘oyaga asoslanadi?",
     "A": "Yechimni f(x) dan maxsus integral va differensiallash orqali tiklashga.",
     "B": "Yechimni f(0) qiymati orqali topishga.",
     "C": "Yadroni nolga tenglashtirishga.",
@@ -1704,9 +1704,9 @@
     "javob": "A"
   },
   {
-    "savol": "Klassik Abel tenglamasi $\\sum_{0}^{x} \\frac{φ(t)}{\\sqrt{x-t}}dt=f(x)$uchun yechim formulasi qaysi?",
-    "A": "$$φ(x)=\\frac{1}{π}\\frac{d}{dx}(\\sum_{0}^{x} \\frac{f(t)}{\\sqrt{x-t}}dt)$$",
-    "B": "φ(x)=π$\\sum_{0}^{x} \\frac{f(t)}{\\sqrt{x-t}}dt$",
+    "savol": "Klassik Abel tenglamasi $\\int_{0}^{x} \\frac{\\varphi(t)}{\\sqrt{x-t}}dt=f(x)$ uchun yechim formulasi qaysi?",
+    "A": "$$\\varphi(x)=\\frac{1}{\\pi}\\frac{d}{dx}(\\int_{0}^{x} \\frac{f(t)}{\\sqrt{x-t}}dt)$$",
+    "B": "φ(x)=π$\\int_{0}^{x} \\frac{f(t)}{\\sqrt{x-t}}dt$",
     "C": "φ(x)=f(x)",
     "D": "φ(x)=0 har doim",
     "javob": "A"
@@ -1720,7 +1720,7 @@
     "javob": "A"
   },
   {
-    "savol": "$\\sum_{0}^{x} \\frac{φ(t)}{\\sqrt{x-t}}dt=2\\sqrt{x}$ tenglamaning yechimi qaysi?",
+    "savol": "$\\int_{0}^{x} \\frac{\\varphi(t)}{\\sqrt{x-t}}dt=2\\sqrt{x}$ tenglamaning yechimi qaysi?",
     "A": "φ(x)=1",
     "B": "φ(x)=x",
     "C": "φ(x)=2x",
@@ -1728,7 +1728,7 @@
     "javob": "A"
   },
   {
-    "savol": "$\\sum_{0}^{x} \\frac{φ(t)}{\\sqrt{x-t}}dt=\\sqrt{x}$ tenglamaning yechimi qaysi?",
+    "savol": "$\\int_{0}^{x} \\frac{\\varphi(t)}{\\sqrt{x-t}}dt=\\sqrt{x}$ tenglamaning yechimi qaysi?",
     "A": "φ(x)=0,5",
     "B": "φ(x)=√x",
     "C": "φ(x)=x",
@@ -1736,23 +1736,23 @@
     "javob": "A"
   },
   {
-    "savol": "$\\sum_{0}^{x} \\frac{φ(t)}{\\sqrt{x-t}}dt=x$ tenglamaning yechimi qaysi?",
-    "A": "$$φ(x)=\\frac{2\\sqrt{x}}{π}$$",
+    "savol": "$\\int_{0}^{x} \\frac{\\varphi(t)}{\\sqrt{x-t}}dt=x$ tenglamaning yechimi qaysi?",
+    "A": "$$\\varphi(x)=\\frac{2\\sqrt{x}}{\\pi}$$",
     "B": "φ(x)=x",
     "C": "φ(x)=πx",
     "D": "φ(x)=1",
     "javob": "A"
   },
   {
-    "savol": "$\\sum_{0}^{x} \\frac{φ(t)}{\\sqrt{x-t}}dt=$x² tenglamaning yechimi qaysi?",
-    "A": "$$φ(x)=\\frac{8}{3π}x^{\\frac{3}{2}}$$",
+    "savol": "$\\int_{0}^{x} \\frac{\\varphi(t)}{\\sqrt{x-t}}dt=$ x² tenglamaning yechimi qaysi?",
+    "A": "$$\\varphi(x)=\\frac{8}{3\\pi}x^{\\frac{3}{2}}$$",
     "B": "φ(x)=√x",
     "C": "φ(x)=2x",
     "D": "φ(x)=0",
     "javob": "A"
   },
   {
-    "savol": "$\\sum_{0}^{x} \\frac{1}{\\sqrt{x-t}}dt$ integral qiymati qaysi?",
+    "savol": "$\\int_{0}^{x} \\frac{1}{\\sqrt{x-t}}dt$ integral qiymati qaysi?",
     "A": "2√x",
     "B": "√x/2",
     "C": "x^2",
@@ -1769,17 +1769,17 @@
   },
   {
     "savol": "Abel tenglamasida α=0 bo‘lsa, tenglama nimaga yaqinlashadi?",
-    "A": "Oddiy Volterra birinchi tur tenglamasiga: $\\sum_{0}^{x} φ(t)dt=f(x)$",
+    "A": "Oddiy Volterra birinchi tur tenglamasiga: $\\int_{0}^{x} \\varphi(t)dt=f(x)$",
     "B": "Fredgolm ikkinchi tur tenglamasiga.",
     "C": "Algebraik tenglamaga: φ(x)=0.",
     "D": "Cheksiz qatorga.",
     "javob": "A"
   },
   {
-    "savol": "α=0 holatda $\\sum_{0}^{x} φ(t)dt=f(x)$uchun yechim qaysi?",
+    "savol": "α=0 holatda $\\int_{0}^{x} \\varphi(t)dt=f(x)$ uchun yechim qaysi?",
     "A": "φ(x)=f′(x)",
     "B": "φ(x)=f(x)",
-    "C": "$$\\sum_{0}^{x} f(t)dt=φ(x)$$",
+    "C": "$$\\int_{0}^{x} f(t)dt=\\varphi(x)$$",
     "D": "φ(x)=0 har doim",
     "javob": "A"
   },
@@ -1808,7 +1808,7 @@
     "javob": "A"
   },
   {
-    "savol": "$\\sum_{0}^{x} \\frac{φ(t)}{\\sqrt{x-t}}dt=f(x)$tenglamada noma’lum funksiya qaysi?",
+    "savol": "$\\int_{0}^{x} \\frac{\\varphi(t)}{\\sqrt{x-t}}dt=f(x)$ tenglamada noma’lum funksiya qaysi?",
     "A": "φ(t)",
     "B": "f(x)",
     "C": "α",
@@ -1816,7 +1816,7 @@
     "javob": "A"
   },
   {
-    "savol": "$\\sum_{0}^{x} \\frac{φ(t)}{\\sqrt{x-t}}dt=f(x)$ tenglamada berilgan funksiya qaysi?",
+    "savol": "$\\int_{0}^{x} \\frac{\\varphi(t)}{\\sqrt{x-t}}dt=f(x)$ tenglamada berilgan funksiya qaysi?",
     "A": "f(x)",
     "B": "φ(t)",
     "C": "dt",
@@ -1824,7 +1824,7 @@
     "javob": "A"
   },
   {
-    "savol": "Abel tenglamasida $(x-t)^{-α}$yadro qanday xususiyatga ega?",
+    "savol": "Abel tenglamasida $(x-t)^{-\\alpha}$ yadro qanday xususiyatga ega?",
     "A": "Zaif singulyar yadrodir.",
     "B": "Doimiy nol yadrodir.",
     "C": "Chekli o‘lchamli matritsadir.",
@@ -1856,7 +1856,7 @@
     "javob": "A"
   },
   {
-    "savol": "$\\sum_{0}^{x} \\frac{φ(t)}{\\sqrt{x-t}}dt=0$tenglamaning odatdagi yechimi qaysi?",
+    "savol": "$\\int_{0}^{x} \\frac{\\varphi(t)}{\\sqrt{x-t}}dt=0$ tenglamaning odatdagi yechimi qaysi?",
     "A": "φ(x)=0",
     "B": "φ(x)=1",
     "C": "φ(x)=x",
@@ -1904,7 +1904,7 @@
     "javob": "A"
   },
   {
-    "savol": "$\\sum_{0}^{x} \\frac{φ(t)}{(x-t)^{\\frac{1}{3}}}dt=f(x)$ tenglamasi qaysi sinfga kiradi?",
+    "savol": "$\\int_{0}^{x} \\frac{\\varphi(t)}{(x-t)^{\\frac{1}{3}}}dt=f(x)$ tenglamasi qaysi sinfga kiradi?",
     "A": "Abel tipidagi integral tenglama.",
     "B": "Fredgolm ikkinchi tur tenglamasi.",
     "C": "Algebraik tenglama.",
