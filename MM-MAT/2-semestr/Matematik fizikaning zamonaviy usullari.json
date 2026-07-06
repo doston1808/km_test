@@ -1,6 +1,6 @@
 [
   {
-    "savol": "Issiqliq o’tkazuvchanlik tеnglamasini aniqlang?",
+    "savol": "Issiqlik o’tkazuvchanlik tеnglamasini aniqlang?",
     "A": "$u_t = a^2(u_{xx}+u_{yy})$",
     "B": "$u_{tt}=a^2 u_{xx}$",
     "C": "$u_{xx}+u_{yy}=f(x,y)$",
@@ -24,7 +24,7 @@
     "javob": "A"
   },
   {
-    "savol": "$u_t=u_{tt}+x$ tenglamani qanoatlantiradigan funksiyani ko‘rsating.",
+    "savol": "$u_t=u_{xx}+x$ tenglamani qanoatlantiradigan funksiyani ko‘rsating.",
     "A": "$u(x,t)=e^{-k^2 t}\\cos kx$",
     "B": "$u(x,t)=tx+2$",
     "C": "$u(x,t)=e^{-k^2 t}\\,\\mathrm{tg}\\,kx$",
@@ -49,32 +49,32 @@
   },
   {
     "savol": "$u_t=u_{xx}-\\sin t$ tenglamaning $u(x,0)=1$ boshlang‘ich shartni qanoatlantiruvchi yechimni aniqlang.",
-    "A": "$u(x,t)=e^{l^2 t}\\,\\mathrm{ch}\\,lx$",
+    "A": "$u(x,t)=\\cos t$",
     "B": "$e^{-l^2 t}\\,\\mathrm{sh}\\,lx$",
-    "C": "$u(x,t)=\\cos t$",
+    "C": "$u(x,t)=e^{l^2 t}\\,\\mathrm{ch}\\,lx$",
     "D": "$u(x,t)=e^{l^2 t}\\cos lx$",
     "javob": "A"
   },
   {
     "savol": "$u_t=u_{xx}+\\cos t$ tenglamaning $u(x,0)=0$ boshlang‘ich shartni qanoatlantiruvchi yechimni aniqlang.",
-    "A": "$u=e^{l^2 t}\\,\\mathrm{sh}\\,lx$",
+    "A": "$u(x,t)=\\sin t$",
     "B": "$u=-e^{-l^2 t}\\cos lx$",
-    "C": "$u(x,t)=\\sin t$",
+    "C": "$u=e^{l^2 t}\\,\\mathrm{sh}\\,lx$",
     "D": "$u=e^{-l^2 t}\\,\\mathrm{tg}\\,lx$",
     "javob": "A"
   },
   {
     "savol": "$u_{xy}=0$ tenglamaning umumiy yechimini ko‘rsating.",
-    "A": "$u(x,t)=f(x)$",
+    "A": "$u(x,y)=f(x)+g(y)$",
     "B": "$u(x,t)=f(y)$",
-    "C": "$u(x,t)=f(x)+g(y)$",
+    "C": "$u(x,t)=f(x)$",
     "D": "$u(x,t)=0$",
     "javob": "A"
   },
   {
-    "savol": "Ushbu tеnglamaning turini aniqlang.",
-    "A": "Gipеrbоlik",
-    "B": "Parabоlik",
+    "savol": "Ushbu $u_t=u_{xx}$ tеnglamaning turini aniqlang.",
+    "A": "Parabоlik",
+    "B": "Gipеrbоlik",
     "C": "Elliptik",
     "D": "Turi nоma’lum",
     "javob": "A"
@@ -112,7 +112,7 @@
     "javob": "A"
   },
   {
-    "savol": "Chеkli sоhada garmоnik funktsiya uchun qo’yidagi shartlardan qaysi biri o’rinli?",
+    "savol": "Chеkli D sоhada garmоnik funktsiya uchun qo’yidagi shartlardan qaysi biri o’rinli?",
     "A": "$u(x)\\in C^2(D),\\ \\Delta u=0$",
     "B": "$u\\in C(D),\\ \\Delta u=0$",
     "C": "$\\Delta u=0,\\ |u|<c$",
@@ -192,7 +192,7 @@
     "javob": "A"
   },
   {
-    "savol": "Tеnglamaning turi va tartibi aniqlansin",
+    "savol": "Tеnglamaning turi va tartibi aniqlansin: $u_{xx}+4u_{xy}+u_{yy}+u_x+u_y+2u-x^2y=0$",
     "A": "Gipеrbоlik turdagi tеnglama, tartibi  ikkiga tеng",
     "B": "Elliptik turdagi tеnglama, tartibi  ikkiga tеng",
     "C": "Parabоlik turdagi tеnglama, tartibi  ikkiga tеng",
@@ -200,7 +200,7 @@
     "javob": "A"
   },
   {
-    "savol": "Tеnglamaning turi va tartibi aniqlansin",
+    "savol": "Tеnglamaning turi va tartibi aniqlansin: $2u_{xx}+2u_{xy}+u_{yy}+2u_x+2u_y-u=0$",
     "A": "Elliptik turdagi tеnglama, tartibi  ikkiga tеng",
     "B": "Gipеrbоlik turdagi tеnglama, tartibi  ikkiga tеng",
     "C": "Parabоlik turdagi tеnglama, tartibi  ikkiga tеng",
@@ -208,7 +208,7 @@
     "javob": "A"
   },
   {
-    "savol": "Tеnglamaning turi va tartibi aniqlansin",
+    "savol": "Tеnglamaning turi va tartibi aniqlansin: $u_{xx}+2u_{xy}+u_{yy}+u_x+u_y+3u-xy^2=0$",
     "A": "Parabоlik turdagi tеnglama, tartibi  ikkiga tеng",
     "B": "Elliptik turdagi tеnglama, tartibi  ikkiga tеng",
     "C": "Gipеrbоlik turdagi tеnglama, tartibi  ikkiga tеng",
@@ -216,15 +216,15 @@
     "javob": "A"
   },
   {
-    "savol": "Tеnglamaning turi va tartibi aniqlansin",
-    "A": "Parabоlik turdagi tеnglama, tartibi  ikkiga tеng",
+    "savol": "Tеnglamaning turi va tartibi aniqlansin: $4u_{xx}+2u_{yy}-6u_{zz}+6u_{xy}+10u_{xz}+4u_{yz}+2u=0$",
+    "A": "Gipеrbоlik turdagi tеnglama, tartibi  ikkiga tеng",
     "B": "Elliptik turdagi tеnglama, tartibi  ikkiga tеng",
-    "C": "Gipеrbоlik turdagi tеnglama, tartibi  ikkiga tеng",
+    "C": "Parabоlik turdagi tеnglama, tartibi  ikkiga tеng",
     "D": "Gipеrbоlik turdagi tеnglama, tartibi uchga tеng",
     "javob": "A"
   },
   {
-    "savol": "Tеnglamaning turi va tartibi aniqlansin",
+    "savol": "Tеnglamaning turi va tartibi aniqlansin: $2u_{xy}-2u_{xz}+2u_{yz}+3u_x-u=0$",
     "A": "Gipеrbоlik turdagi tеnglama, tartibi  ikkiga tеng",
     "B": "Gipеrbоlik turdagi tеnglama, tartibi uchga tеng",
     "C": "Parabоlik turdagi tеnglama, tartibi  ikkiga tеng",
@@ -232,7 +232,7 @@
     "javob": "A"
   },
   {
-    "savol": "Tеnglamaning turi va tartibi aniqlansin",
+    "savol": "Tеnglamaning turi va tartibi aniqlansin: $u_{xx}+2u_{xy}+2u_{yy}+4u_{yz}+5u_z-xu_x+yu_z=0$",
     "A": "Elliptik turdagi tеnglama, tartibi  ikkiga tеng",
     "B": "Parabоlik turdagi tеnglama, tartibi  ikkiga tеng",
     "C": "Gipеrbоlik turdagi tеnglama, tartibi  ikkiga tеng",
@@ -240,7 +240,7 @@
     "javob": "A"
   },
   {
-    "savol": "Tеnglamaning turi va tartibi aniqlansin",
+    "savol": "Tеnglamaning turi va tartibi aniqlansin: $u_{xx}-4u_{xy}+2u_{xz}+4u_{yy}+u_z-2xyu_x+3xu=0$",
     "A": "Gipеrbоlik turdagi tеnglama, tartibi  ikkiga tеng",
     "B": "Elliptik turdagi tеnglama, tartibi  ikkiga tеng",
     "C": "Parabоlik turdagi tеnglama, tartibi  ikkiga tеng",
@@ -248,7 +248,7 @@
     "javob": "A"
   },
   {
-    "savol": "Tеnglamaning turi va tartibi aniqlansin",
+    "savol": "Tеnglamaning turi va tartibi aniqlansin: $u_{xy}+u_{yz}+u_{xz}-3x^2u_y+y\\sin x\\cdot u+xe^{-y}=0$",
     "A": "Gipеrbоlik turdagi tеnglama, tartibi  ikkiga tеng",
     "B": "Elliptik turdagi tеnglama, tartibi  ikkiga tеng",
     "C": "Parabоlik turdagi tеnglama, tartibi  ikkiga tеng",
@@ -256,7 +256,7 @@
     "javob": "A"
   },
   {
-    "savol": "Tеnglamaning turi va tartibi aniqlansin",
+    "savol": "Tеnglamaning turi va tartibi aniqlansin: $5u_{xx}+u_{yy}+5u_{zz}+4u_{xy}-8u_{xz}-4u_{yz}-u+yz^2\\sin x=0$",
     "A": "Elliptik turdagi tеnglama, tartibi  ikkiga tеng",
     "B": "Gipеrbоlik turdagi tеnglama, tartibi  ikkiga tеng",
     "C": "Parabоlik turdagi tеnglama, tartibi  ikkiga tеng",
@@ -264,15 +264,7 @@
     "javob": "A"
   },
   {
-    "savol": "Tеnglamaning turi va tartibi aniqlansin",
-    "A": "Gipеrbоlik turdagi tеnglama, tartibi  ikkiga tеng",
-    "B": "Elliptik turdagi tеnglama, tartibi  ikkiga tеng",
-    "C": "Parabоlik turdagi tеnglama, tartibi  ikkiga tеng",
-    "D": "Gipеrbоlik turdagi tеnglama, tartibi uchga tеng",
-    "javob": "A"
-  },
-  {
-    "savol": "Tеnglamaning turi va tartibi aniqlansin",
+    "savol": "Tеnglamaning turi va tartibi aniqlansin: $u_{xx}+2u_{xy}+2u_{yy}-2u_{yz}+3u_z-u=0$",
     "A": "Elliptik turdagi tеnglama, tartibi  ikkiga tеng",
     "B": "Gipеrbоlik turdagi tеnglama, tartibi  ikkiga tеng",
     "C": "Parabоlik turdagi tеnglama, tartibi  ikkiga tеng",
@@ -280,7 +272,15 @@
     "javob": "A"
   },
   {
-    "savol": "Tеnglamaning turi va tartibi aniqlansin",
+    "savol": "Tеnglamaning turi va tartibi aniqlansin: $3u_{xx}+4u_{yy}+5u_{zz}+4u_{xy}-4u_{yz}+2u_x-u_y+xye^z=0$",
+    "A": "Elliptik turdagi tеnglama, tartibi  ikkiga tеng",
+    "B": "Gipеrbоlik turdagi tеnglama, tartibi  ikkiga tеng",
+    "C": "Parabоlik turdagi tеnglama, tartibi  ikkiga tеng",
+    "D": "Gipеrbоlik turdagi tеnglama, tartibi uchga tеng",
+    "javob": "A"
+  },
+  {
+    "savol": "Tеnglamaning turi va tartibi aniqlansin: $u_{xy}-u_{xt}+u_{zz}-2u_{zt}+2u_{tt}=0$",
     "A": "Gipеrbоlik turdagi tеnglama, tartibi  ikkiga tеng",
     "B": "Elliptik turdagi tеnglama, tartibi  ikkiga tеng",
     "C": "Parabоlik turdagi tеnglama, tartibi  ikkiga tеng",
@@ -289,7 +289,7 @@
   },
   {
     "savol": "$a u_x - u_{xt}=0$ tenglamani yeching",
-    "A": "$u=f(t)e^{\\frac{1}{a}x}$",
+    "A": "$u=f(t)e^{ax}$",
     "B": "$u=\\sin x$",
     "C": "$u=(f(t)+g(x))e^{at}$",
     "D": "$u=\\cos x$",
@@ -298,40 +298,40 @@
   {
     "savol": "$u_x - a u_{xt}=0$ tenglamani yeching",
     "A": "$u=f(t)e^{\\frac{1}{a}x}$",
-    "B": "$u=(f(t)+g(x))e^{\\frac{1}{a}t}$",
+    "B": "$u=(f(t)+g(x))e^{-\\frac{t}{a}}$",
     "C": "$u=\\sin x$",
     "D": "$u=\\cos x$",
     "javob": "A"
   },
   {
     "savol": "$u_x-u_t=0$ tenglamani qanoatlantiruvchi funksiyani ko‘rsating",
-    "A": "$u=\\sin(x-t)$",
+    "A": "$u=\\sin(x+t)$",
     "B": "$u=-\\sin(x-t)$",
-    "C": "$u=\\sin(x+t)$",
+    "C": "$u=\\sin(x-t)$",
     "D": "$u=\\cos(x-t)$",
     "javob": "A"
   },
   {
     "savol": "$u_x-u_t=x$ tenglamani qanoatlantiruvchi funksiyani ko‘rsating",
-    "A": "$u=\\sin(x-t)+t$",
+    "A": "$u=\\sin(x+t)+\\dfrac{x^2}{2}$",
     "B": "$u=\\sin(x-t)+xt$",
     "C": "$u=\\cos(x-t)$",
-    "D": "$u=\\sin(x+t)+\\dfrac{x^2}{2}$",
+    "D": "$u=\\sin(x-t)+t$",
     "javob": "A"
   },
   {
-    "savol": "Tеnglamaning turini aniqlang.",
-    "A": "Gipеrbоlik",
+    "savol": "Tеnglamaning turini aniqlang: $u_{xx}-xu_{yy}+u_x=0$",
+    "A": "Bacha turda bo'lishi mumkin",
     "B": "Parabоlik",
     "C": "Elliptik",
-    "D": "Barcha turda bulishi mumkin",
+    "D": "Gipеrbоlik",
     "javob": "A"
   },
   {
-    "savol": "Tеnglamaning turini aniqlang.",
-    "A": "Elliptik",
+    "savol": "Tеnglamaning turini aniqlang: $u_{xx}-yu_{yy}+u_x=0$",
+    "A": "To'liq javob keltirilmagan",
     "B": "Gipеrbоlik",
-    "C": "Tulik javоb kеltirilmagan",
+    "C": "Elliptik",
     "D": "Parabоlik",
     "javob": "A"
   },
@@ -345,7 +345,7 @@
   },
   {
     "savol": "$5u_{xx}-2u_{xy}-2u_{yy}=0$ tenglamaning xarakteristik tenglamasini toping.",
-    "A": "$3(dx)^2+2\\,dx\\,dy-2(dy)^2=0$",
+    "A": "$5(dy)^2+2\\,dx\\,dy-2(dx)^2=0$",
     "B": "$3(dx)^2+2\\,dx\\,dy=0$",
     "C": "$3(dx)^2-2\\,dx\\,dy-2(dy)^2=0$",
     "D": "$3(dy)^2+2\\,dx\\,dy-2(dx)^2=0$",
@@ -353,16 +353,16 @@
   },
   {
     "savol": "$5u_{xx}-2u_{xy}+2u_{yy}=0$ tenglamaning xarakteristik tenglamasini toping.",
-    "A": "$3(dx)^2+2\\,dx\\,dy-2(dy)^2=0$",
+    "A": "$5(dy)^2+2\\,dx\\,dy+2(dx)^2=0$",
     "B": "$3(dx)^2+2\\,dx\\,dy=0$",
     "C": "$5(dx)^2-2\\,dx\\,dy+2(dy)^2=0$",
-    "D": "$5(dy)^2+2\\,dx\\,dy+2(dx)^2=0$",
+    "D": "$3(dy)^2+2\\,dx\\,dy-2(dx)^2=0$",
     "javob": "A"
   },
   {
     "savol": "$u_{xt}=6$ tenglamani yeching.",
-    "A": "$u=6x$",
-    "B": "$u=6xt+f(x)+g(t)$",
+    "A": "$u=6xt+f(x)+g(t)$",
+    "B": "$u=6x$",
     "C": "$u=6+x^2t^2$",
     "D": "$u=(x-2t)^2$",
     "javob": "A"
@@ -385,24 +385,24 @@
   },
   {
     "savol": "$u_{xt}=\\sin x$ tenglamani yeching.",
-    "A": "$u=\\sin x$",
+    "A": "$u=-t\\cos x+g(x)+f(t)$",
     "B": "$u=\\sin x+t^2\\sin x$",
     "C": "$u=\\sin x\\cos x$",
-    "D": "$u=-t\\cos x+g(x)+f(t)$",
+    "D": "$u=\\sin x$",
     "javob": "A"
   },
   {
     "savol": "$u_{xt}=e^{t}$ tenglamani yeching.",
-    "A": "$u=e^{x}+e^{t}$",
+    "A": "$u=xe^{t}+g(x)+f(t)$",
     "B": "$u=e^{x}+f(t)$",
-    "C": "$u=xe^{t}+g(x)+f(t)$",
+    "C": "$u=e^{x}+e^{t}$",
     "D": "$u=e^{x}+e^{t}+f(t)$",
     "javob": "A"
   },
   {
     "savol": "Stеrjеnda tulkin tеnglamasini ko’rsating.",
-    "A": "$u_t=u_{xx}$",
-    "B": "$u_{tt}=a^2u_{xx}$",
+    "A": "$u_{tt}=a^2u_{xx}$",
+    "B": "$u_t=u_{xx}$",
     "C": "$u_t=u_{xx}+u_{tt}$",
     "D": "$u_{xx}+u_{yy}=0$",
     "javob": "A"
@@ -417,26 +417,26 @@
   },
   {
     "savol": "Parabоlik turga mansub tеnglamani ko’rsating.",
-    "A": "$u_{xx}+u_{yy}=0$",
+    "A": "$u_t=u_{xx}$",
     "B": "$u_t=u_{xx}+u_{tt}$",
-    "C": "$u_t=u_{xx}$",
+    "C": "$u_{xx}+u_{yy}=0$",
     "D": "$u_t=u_x$",
     "javob": "A"
   },
   {
     "savol": "Elliptik turga mansub tеnglamani ko’rsating.",
-    "A": "$u_t=u_{xx}$",
-    "B": "$u_{xx}+u_{yy}=0$",
+    "A": "$u_{xx}+u_{yy}=0$",
+    "B": "$u_t=u_{xx}$",
     "C": "$u_{tt}=a^2u_{xx}$",
-    "D": "$u_t=u_{xx}$",
+    "D": "$u_t=u_x$",
     "javob": "A"
   },
   {
-    "savol": "Quyidagi tеnglama qaysi turga mansub.",
-    "A": "Gipеrbоlik",
+    "savol": "Quyidagi tеnglama qaysi turga mansub: $u_t=xu_{xx}+u_{yy}$",
+    "A": "Barcha turdagi tеnglama bo'lishi mumkin.",
     "B": "Parabоlik",
     "C": "Elliptik",
-    "D": "Barcha turdagi tеnglama bulishi mumkin.",
+    "D": "Gipеrbоlik",
     "javob": "A"
   },
   {
@@ -449,9 +449,9 @@
   },
   {
     "savol": "Parabоlik turga mansub tеnglamani ko’rsating.",
-    "A": "$u_{\\xi}=F(\\xi,\\eta,u,u_\\xi,u_\\eta)$",
+    "A": "$u_{\\eta\\eta}=F(\\xi,\\eta,u,u_\\xi,u_\\eta)$",
     "B": "$u_{\\xi\\eta}=F(\\xi,\\eta,u,u_\\xi,u_\\eta)$",
-    "C": "$u_{\\eta\\eta}=F(\\xi,\\eta,u,u_\\xi,u_\\eta)$",
+    "C": "$u_{\\xi}=F(\\xi,\\eta,u,u_\\xi,u_\\eta)$",
     "D": "$u_{\\xi\\xi}+u_{\\eta\\eta}=F(\\xi,\\eta,u,u_\\xi,u_\\eta)$",
     "javob": "A"
   },
@@ -505,23 +505,23 @@
   },
   {
     "savol": "Masala yechilsin: $u_{tt}=u_{xx}+u_{yy}+t\\sin y,\\quad u|_{t=0}=x^2,\\ u_t|_{t=0}=\\sin y$",
-    "A": "$u=x^2+t^2+t\\sin y$",
+    "A": "$u=x^2+t\\sin y$",
     "B": "$u=(1+t)x^2+t\\sin y$",
-    "C": "$u=x^2+t\\sin y$",
+    "C": "$u=x^2+t^2+t\\sin y$",
     "D": "$u=x^2+t^3+t\\sin y$",
     "javob": "A"
   },
   {
     "savol": "$U_{xx}+2\\lambda U_{xy}+3\\lambda U_{yy}=0$ tenglama $\\lambda$ ning qanday qiymatlarida giperbolik turga tegishli?",
-    "A": "$[0,3]$",
+    "A": "$(-\\infty,0)\\cup(3,\\infty)$",
     "B": "$(0,3)$",
-    "C": "$(-\\infty,0)\\cup(3,\\infty)$",
+    "C": "$[0,3]$",
     "D": "$(-\\infty,0]\\cup[3,\\infty)$",
     "javob": "A"
   },
   {
     "savol": "Puassоn tеnglamasi qaysi javоbda to`g`ri ko`rsatilgan?",
-    "A": "$U_{xx}-U_{yy}=f(x,y)$",
+    "A": "$U_{xx}+U_{yy}=f(x,y)$",
     "B": "$U_x-U_{yy}=-f(x,y)$",
     "C": "$U_{xx}=-U_{yy}+f(x,y)$",
     "D": "$U_{xx}+U_{yy}=0$",
@@ -529,22 +529,22 @@
   },
   {
     "savol": "Issiklik tarkalish tеnglamasi qaysi turga mansub?",
-    "A": "Elliptik",
+    "A": "Parabоlik",
     "B": "Gipеrbоlik",
-    "C": "Parabоlik",
+    "C": "Elliptik",
     "D": "Aralash turga",
     "javob": "A"
   },
   {
     "savol": "$x^2U_{xx}+2xyU_{xy}-3y^2U_{yy}-2xU_x+16x^4U=0$ tenglamaning xarakteristik chiziqlarini toping.",
-    "A": "$x-y=c_1,\\ x+y=c_2$",
+    "A": "$xy=c_1,\\ \\dfrac{x^3}{y}=c_2$",
     "B": "$2x+y=c_1,\\ x+y=c_2$",
-    "C": "$xy=c_1,\\ \\dfrac{x^3}{y}=c_2$",
+    "C": "$x-y=c_1,\\ x+y=c_2$",
     "D": "$x^2+y^2=c_1,\\ x^2-y^2=c_2$",
     "javob": "A"
   },
   {
-    "savol": "tеnglama qaysi turga mansub?",
+    "savol": "$2U_{xx}+xU_{yy}=0\\ (x>0)$ tеnglama qaysi turga mansub?",
     "A": "Elliptik",
     "B": "Gipеrbоlik",
     "C": "Parabоlik",
@@ -553,34 +553,34 @@
   },
   {
     "savol": "Xarakteristik tenglamasi $(dy)^2-xy(dx)^2=0$ bo‘ladigan tenglamaning bosh qismi qanday ko‘rinishda bo‘ladi?",
-    "A": "$U_{yy}-xyU_{xx}$",
+    "A": "$U_{xx}-xyU_{yy}$",
     "B": "$U_y^2-xyU_x^2$",
     "C": "$U_{xx}+xyU_{yy}$",
-    "D": "$U_{xx}-xyU_{yy}$",
+    "D": "$U_{yy}-xyU_{xx}$",
     "javob": "A"
   },
   {
     "savol": "$U_{xx}-6U_{xy}+10U_{yy}-3U_y=0$ tenglamaning xarakteristik chiziqlarini toping.",
-    "A": "$x=c_1,\\ 3x+y=c_2$",
+    "A": "haqiqiy xarakteristik chizig‘i yo‘q",
     "B": "$x-y=c_1,\\ x+y=c_2$",
     "C": "$x+y=c_1,\\ 3x-y=c_2$",
-    "D": "haqiqiy xarakteristik chizig‘i yo‘q",
+    "D": "$x=c_1,\\ 3x+y=c_2$",
     "javob": "A"
   },
   {
     "savol": "$U_{tt}=a^2U_{xx},\\quad U(x,0)=\\varphi(x),\\ U_t(x,0)=\\psi(x)$. Koshi masalasini yeching.",
-    "A": "$U=\\tfrac{1}{2}[\\varphi(x-at)+\\varphi(x+at)]-\\dfrac{1}{2a}\\displaystyle\\int_{x-at}^{x+at}\\psi(z)\\,dz$",
+    "A": "$U=\\tfrac{1}{2}[\\varphi(x-at)+\\varphi(x+at)]+\\dfrac{1}{2a}\\displaystyle\\int_{x-at}^{x+at}\\psi(z)\\,dz$",
     "B": "$U=\\varphi(x-at)-\\dfrac{1}{2a}\\displaystyle\\int_{x-at}^{x+at}\\psi(z)\\,dz$",
-    "C": "$U=\\tfrac{1}{2}[\\varphi(x-at)+\\varphi(x+at)]+\\dfrac{1}{2a}\\displaystyle\\int_{x-at}^{x+at}\\psi(z)\\,dz$",
+    "C": "$U=\\tfrac{1}{2}[\\varphi(x-at)+\\varphi(x+at)]-\\dfrac{1}{2a}\\displaystyle\\int_{x-at}^{x+at}\\psi(z)\\,dz$",
     "D": "$U=\\tfrac{1}{2}[\\varphi(x-at)+\\psi(x+at)]$",
     "javob": "A"
   },
   {
     "savol": "Quyidagi aralash masala yechilsin: $u_t-u_{xx}-u=xt(2-t)+2\\cos t,\\ (0<x<\\pi),\\ u_x|_{x=0}=t^2,\\ u_x|_{x=\\pi}=t^2,\\ u|_{t=0}=\\cos 2x$",
-    "A": "$u=xt^2+e^{t}+\\sin t-\\cos t+e^{-3t}\\cos 2x$",
+    "A": "$u=xt^2+e^{-3t}\\cos 2x$",
     "B": "$u=xt^2+\\cos 2x$",
     "C": "$u=xt^2+\\sin t+\\cos 2x$",
-    "D": "$u=xt^2+e^{-3t}\\cos 2x$",
+    "D": "$u=xt^2+e^{t}+\\sin t-\\cos t+e^{-3t}\\cos 2x$",
     "javob": "A"
   },
   {
@@ -601,7 +601,7 @@
   },
   {
     "savol": "Birlik doira ichida garmonik va $u|_{r=1}=\\sin^3\\varphi$ bo'lgan funksiya topilsin",
-    "A": "$u=\\frac{r}{4}\\left(3\\sin\\varphi-r^2\\cos 3\\varphi\\right)$",
+    "A": "$u=\\frac{r}{4}\\left(3\\sin\\varphi-r^2\\sin 3\\varphi\\right)$",
     "B": "$u=\\frac{1}{2}\\left(1+r^3\\cos 2\\varphi\\right)$",
     "C": "$u=r\\sin\\varphi-r^3\\sin 3\\varphi$",
     "D": "$u=\\frac{3}{4}\\sin\\varphi+r^3\\sin 3\\varphi$",
@@ -624,7 +624,7 @@
     "javob": "A"
   },
   {
-    "savol": "Quyidagi intеgral tеnglamaning turi tоpilsin",
+    "savol": "Quyidagi intеgral tеnglamaning turi tоpilsin: $\\varphi(x)=f(x)+\\lambda\\int_{0}^{x}K(x,y)\\varphi(y)dy$",
     "A": "2-tur Vоltеr",
     "B": "1-tur Vоltеr",
     "C": "1-tur Frеdgоlm",
@@ -632,11 +632,11 @@
     "javob": "A"
   },
   {
-    "savol": "Quyidagi intеgral tеnglamaning turi tоpilsin",
-    "A": "1-tur Vоltеr",
+    "savol": "Quyidagi intеgral tеnglamaning turi tоpilsin: $\\varphi(x)=f(x)+\\lambda\\int_{0}^{1}K(x,y)\\varphi(y)dy$",
+    "A": "2-tur Frеdgоlm",
     "B": "1-tur Frеdgоlm",
     "C": "2-tur Vоltеr",
-    "D": "2-tur Frеdgоlm",
+    "D": "1-tur Vоltеr",
     "javob": "A"
   },
   {
@@ -649,26 +649,26 @@
   },
   {
     "savol": "$a$ ning qanday qiymatlarida $u=xe^{at}+t$ funksiya $5u_x-u_{xt}=0$ tenglamaning yechimi bo'ladi.",
-    "A": "$a=2$",
+    "A": "$a=5$",
     "B": "$a=3$",
     "C": "$a=1$",
-    "D": "$a=5$",
+    "D": "$a=2$",
     "javob": "A"
   },
   {
     "savol": "$a$ ning qanday qiymatlarida $u=e^{a(x-t)}$ funksiya $u_{xx}-3u_t+2u=0$ tenglamaning yechimi bo'ladi.",
-    "A": "$a=3$",
+    "A": "$a=2,\\ a=1$",
     "B": "$a=1$",
-    "C": "$a=2,\\ a=1$",
+    "C": "$a=3$",
     "D": "$a=2$",
     "javob": "A"
   },
   {
     "savol": "$a$ ning qanday qiymatlarida $u=\\sin a(x-t)$ funksiya garmonik funksiya bo'ladi.",
-    "A": "$a=1$",
+    "A": "Bacha qiymatlarida",
     "B": "$a=2$",
     "C": "$a=3$",
-    "D": "Barcha qiymatlarida",
+    "D": "$a=1$",
     "javob": "A"
   },
   {
@@ -681,30 +681,30 @@
   },
   {
     "savol": "$-y''=\\lambda y,\\ y(0)=0,\\ y(\\pi)=0$ Shturm-Liuvill masalasining barcha xos funksiyalarini toping.",
-    "A": "$\\varphi_n=\\ln nx,\\ n=1,2,\\dots$",
+    "A": "$\\varphi_n=\\sin nx,\\ n=1,2,\\dots$",
     "B": "$\\lambda_n=\\sin nx,\\ n=0,1,2,\\dots$",
-    "C": "$\\lambda_n=\\sin nx,\\ n=1,2,\\dots$",
+    "C": "$\\lambda_n=\\ln nx,\\ n=1,2,\\dots$",
     "D": "$\\lambda_n=\\sin n^2 x,\\ n=0,1,2,\\dots$",
     "javob": "A"
   },
   {
     "savol": "$-y''=\\lambda y,\\ y(0)=0,\\ y(\\pi)=0$ Shturm-Liuvill masalasining barcha xos qiymatlarini toping.",
-    "A": "$\\lambda_n=n,\\ n=1,2,\\dots$",
+    "A": "$\\lambda_n=n^2,\\ n=1,2,\\dots$",
     "B": "$\\lambda_n=n,\\ n=0,1,2,\\dots$",
-    "C": "$\\lambda_n=n^2,\\ n=1,2,\\dots$",
+    "C": "$\\lambda_n=n,\\ n=1,2,\\dots$",
     "D": "$\\lambda_n=n^2,\\ n=0,1,2,\\dots$",
     "javob": "A"
   },
   {
     "savol": "Quyidagi tenglamalardan qaysi biri elliptik?",
-    "A": "uₓₓ + uᵧᵧ = 0",
-    "B": "uₜₜ = uₓₓ",
-    "C": "uₜ = uₓₓ",
-    "D": "uₓᵧ = 0",
+    "A": "$u_{xx} + u_{yy} = 0$",
+    "B": "$u_{tt} = u_{xx}$",
+    "C": "$u_t = u_{xx}$",
+    "D": "$u_{xy} = 0$",
     "javob": "A"
   },
   {
-    "savol": "uₓₓ + 4uᵧᵧ = 0 tenglamaning diskriminanti Δ qanday?",
+    "savol": "$u_{xx} + 4u_{yy} = 0$ tenglamaning diskriminanti $\\Delta$ qanday?",
     "A": "-4",
     "B": "4",
     "C": "0",
@@ -713,14 +713,14 @@
   },
   {
     "savol": "Laplas tenglamasining umumiy ko‘rinishi?",
-    "A": "Δu = 0",
-    "B": "uₜ = Δu",
-    "C": "uₜₜ = Δu",
-    "D": "Δu = f",
+    "A": "$\\Delta u = 0$",
+    "B": "$u_t = \\Delta u$",
+    "C": "$u_{tt} = \\Delta u$",
+    "D": "$\\Delta u = f$",
     "javob": "A"
   },
   {
-    "savol": "uₓₓ + 2uₓᵧ + 2uᵧᵧ = 0 tenglamaning tipi?",
+    "savol": "$u_{xx} + 2u_{xy} + 2u_{yy} = 0$ tenglamaning tipi?",
     "A": "elliptik",
     "B": "giperbolik",
     "C": "parabolik",
@@ -729,14 +729,14 @@
   },
   {
     "savol": "Garmonik funksiya qaysi tenglamani qanoatlantiradi?",
-    "A": "uₓₓ + uᵧᵧ = 0",
-    "B": "uₜ = a²uₓₓ",
-    "C": "uₜₜ = a²uₓₓ",
-    "D": "uₓᵧ = 0",
+    "A": "$u_{xx} + u_{yy} = 0$",
+    "B": "$u_t = a^2 u_{xx}$",
+    "C": "$u_{tt} = a^2 u_{xx}$",
+    "D": "$u_{xy} = 0$",
     "javob": "A"
   },
   {
-    "savol": "uₓₓ + yuᵧᵧ = 0 tenglama y > 0 da qanday tipda?",
+    "savol": "$u_{xx} + yu_{yy} = 0$ tenglama $y > 0$ da qanday tipda?",
     "A": "elliptik",
     "B": "giperbolik",
     "C": "parabolik",
@@ -745,18 +745,18 @@
   },
   {
     "savol": "Puasson tenglamasining ko‘rinishi?",
-    "A": "Δu = f",
-    "B": "Δu = 0",
-    "C": "uₜₜ = Δu",
-    "D": "uₜ = Δu",
+    "A": "$\\Delta u = f$",
+    "B": "$\\Delta u = 0$",
+    "C": "$u_{tt} = \\Delta u$",
+    "D": "$u_t = \\Delta u$",
     "javob": "A"
   },
   {
-    "savol": "uₓₓ + 4uₓᵧ + 5uᵧᵧ = 0 tenglamaning kanonik ko‘rinishi (elliptik) qanday?",
-    "A": "u$_{ξξ}$ + u$_{ηη}$ = 0",
-    "B": "uξη = 0",
-    "C": "uξξ − uηη = 0",
-    "D": "uηη = 0",
+    "savol": "$u_{xx} + 4u_{xy} + 5u_{yy} = 0$ tenglamaning kanonik ko‘rinishi (elliptik) qanday?",
+    "A": "$u_{\\xi\\xi} + u_{\\eta\\eta} = 0$",
+    "B": "$u_{\\xi\\eta} = 0$",
+    "C": "$u_{\\xi\\xi} - u_{\\eta\\eta} = 0$",
+    "D": "$u_{\\eta\\eta} = 0$",
     "javob": "A"
   },
   {
@@ -768,23 +768,23 @@
     "javob": "A"
   },
   {
-    "savol": "uₓₓ + 2uₓᵧ + 2uᵧᵧ = 0 tenglamani kanonik ko‘rinishga keltirish uchun qanday almashtirish qo‘llanadi?",
-    "A": "ξ = x + y, η = x",
-    "B": "ξ = x, η = x + y",
-    "C": "ξ = x, η = y",
-    "D": "ξ = x + y, η = x − y",
+    "savol": "$u_{xx} + 2u_{xy} + 2u_{yy} = 0$ tenglamani kanonik ko‘rinishga keltirish uchun qanday almashtirish qo‘llanadi?",
+    "A": "$\\xi = x + y,\\ \\eta = x$",
+    "B": "$\\xi = x,\\ \\eta = x + y$",
+    "C": "$\\xi = x,\\ \\eta = y$",
+    "D": "$\\xi = x + y,\\ \\eta = x - y$",
     "javob": "A"
   },
   {
-    "savol": "Quyidagi funksiyalardan qaysi biri uₓₓ + uᵧᵧ = 0 tenglamaning yechimi?",
-    "A": "u = x² − y²",
-    "B": "u = x² + y²",
-    "C": "u = x² + xy",
-    "D": "u = xy²",
+    "savol": "Quyidagi funksiyalardan qaysi biri $u_{xx} + u_{yy} = 0$ tenglamaning yechimi?",
+    "A": "$u = x^2 - y^2$",
+    "B": "$u = x^2 + y^2$",
+    "C": "$u = x^2 + xy$",
+    "D": "$u = xy^2$",
     "javob": "A"
   },
   {
-    "savol": "uₓₓ + kuᵧᵧ = 0 tenglama k < 0 bo‘lganda qanday tipda?",
+    "savol": "$u_{xx} + ku_{yy} = 0$ tenglama $k < 0$ bo‘lganda qanday tipda?",
     "A": "giperbolik",
     "B": "elliptik",
     "C": "parabolik",
@@ -792,15 +792,15 @@
     "javob": "A"
   },
   {
-    "savol": "Laplas tenglamasining fundamental yechimi ℝ³ da qanday?",
-    "A": "1/(4πr)",
-    "B": "ln(1/r)",
-    "C": "1/r",
-    "D": "e⁻ʳ",
+    "savol": "Laplas tenglamasining fundamental yechimi $\\mathbb{R}^3$ da qanday?",
+    "A": "$1/(4\\pi r)$",
+    "B": "$\\ln(1/r)$",
+    "C": "$1/r$",
+    "D": "$e^{-r}$",
     "javob": "A"
   },
   {
-    "savol": "uₓₓ + 2uₓᵧ + 10uᵧᵧ = 0 tenglamaning tipi?",
+    "savol": "$u_{xx} + 2u_{xy} + 10u_{yy} = 0$ tenglamaning tipi?",
     "A": "elliptik",
     "B": "giperbolik",
     "C": "parabolik",
@@ -808,15 +808,15 @@
     "javob": "A"
   },
   {
-    "savol": "uₓₓ + 2uₓᵧ + 5uᵧᵧ = 0 tenglamani kanonik ko‘rinishga keltirish uchun qanday almashtirish qo‘llanadi?",
-    "A": "ξ = x + y, η = 2x  (haqiqiy va mavhum qismlar)",
-    "B": "ξ = x, η = x + y",
-    "C": "ξ = x + 2y, η = x",
-    "D": "ξ = x − y, η = x + y",
+    "savol": "$u_{xx} + 2u_{xy} + 5u_{yy} = 0$ tenglamani kanonik ko‘rinishga keltirish uchun qanday almashtirish qo‘llanadi?",
+    "A": "$\\xi = x + y,\\ \\eta = 2x$ (haqiqiy va mavhum qismlar)",
+    "B": "$\\xi = x,\\ \\eta = x + y$",
+    "C": "$\\xi = x + 2y,\\ \\eta = x$",
+    "D": "$\\xi = x - y,\\ \\eta = x + y$",
     "javob": "A"
   },
   {
-    "savol": "Koshi masalasining yechimlari sonini aniqlang:",
+    "savol": "Koshi masalasining $y'=y^{2/3}, y(0)=0$ yechimlari sonini aniqlang:",
     "A": "Cheksiz koʻp yechimga ega.",
     "B": "Faqat ikkita yechimga ega.",
     "C": "Yagona yechimga ega.",
@@ -833,8 +833,8 @@
   },
   {
     "savol": "$y'=y,\\ y(0)=3$ Koshi masalasining yechimini toping:",
-    "A": "$y=e^{x}+2$",
-    "B": "$y=3e^{x}$",
+    "A": "$y=3e^{x}$",
+    "B": "$y=e^{x}+2$",
     "C": "$y=e^{3x}$",
     "D": "$y=3x$",
     "javob": "A"
@@ -912,11 +912,11 @@
     "javob": "A"
   },
   {
-    "savol": "Koshi masalasining yechimini toping:",
-    "A": "y=3x+1",
-    "B": "y=3x",
-    "C": "y=3x-1",
-    "D": "y=3x+7",
+    "savol": "$y'=3,\\ y(2)=7$ Koshi masalasining yechimini toping:",
+    "A": "$y=3x+1$",
+    "B": "$y=3x$",
+    "C": "$y=3x-1$",
+    "D": "$y=3x+7$",
     "javob": "A"
   },
   {
@@ -952,19 +952,19 @@
     "javob": "A"
   },
   {
-    "savol": "Quyidagi chegaraviy masalaning yechimini toping:",
-    "A": "y=0",
-    "B": "y=sinx",
-    "C": "y=shx",
-    "D": "y=chx",
+    "savol": "$y''-y=0,\\ y(0)=0,\\ y(1)=0$ Quyidagi chegaraviy masalaning yechimini toping:",
+    "A": "$y=0$",
+    "B": "$y=\\sin x$",
+    "C": "$y=\\mathrm{sh} x$",
+    "D": "$y=\\mathrm{ch} x$",
     "javob": "A"
   },
   {
-    "savol": "Quyidagi chegaraviy masalaning yechimini toping:",
-    "A": "-sinx",
-    "B": "sinx",
-    "C": "cosx-1",
-    "D": "0",
+    "savol": "$y''=\\sin x,\\ y(0)=0,\\ y(\\pi)=0$ Quyidagi chegaraviy masalaning yechimini toping:",
+    "A": "$y=-\\sin x$",
+    "B": "$y=\\sin x$",
+    "C": "$y=\\cos x-1$",
+    "D": "$y=0$",
     "javob": "A"
   },
   {
@@ -976,11 +976,11 @@
     "javob": "A"
   },
   {
-    "savol": "Quyidagi chegaraviy masalaning yechimini toping:",
-    "A": "1",
-    "B": "0",
-    "C": "x",
-    "D": "x+1",
+    "savol": "$y''=0,\\ y(0)=1,\\ y'(1)=0$ Quyidagi chegaraviy masalaning yechimini toping:",
+    "A": "$1$",
+    "B": "$0$",
+    "C": "$x$",
+    "D": "$x+1$",
     "javob": "A"
   },
   {
@@ -992,26 +992,26 @@
     "javob": "A"
   },
   {
-    "savol": "Quyidagi chegaraviy masalaning yechimini toping:",
-    "A": "sin2x",
-    "B": "-sin2x",
-    "C": "cos2x",
+    "savol": "$y''=-4\\sin(2x),\\ y(0)=0,\\ y(\\pi/2)=0$ Quyidagi chegaraviy masalaning yechimini toping:",
+    "A": "$\\sin 2x$",
+    "B": "$-\\sin 2x$",
+    "C": "$\\cos 2x$",
     "D": "0",
     "javob": "A"
   },
   {
-    "savol": "Quyidagi chegaraviy masalaning yechimini toping:",
-    "A": "2x",
-    "B": "x+2",
+    "savol": "$y''=0,\\ y(0)=0,\\ y'(1)=2$ Quyidagi chegaraviy masalaning yechimini toping:",
+    "A": "$2x$",
+    "B": "$x+2$",
     "C": "2",
-    "D": "-x+1",
+    "D": "$-x+1$",
     "javob": "A"
   },
   {
-    "savol": "Quyidagi chegaraviy masalaning yechimini toping:",
-    "A": "2x+3",
-    "B": "3x+2",
-    "C": "5x-2",
+    "savol": "$y''=0,\\ y(0)=3,\\ y(1)=5$ Quyidagi chegaraviy masalaning yechimini toping:",
+    "A": "$2x+3$",
+    "B": "$3x+2$",
+    "C": "$5x-2$",
     "D": "2x",
     "javob": "A"
   },
@@ -1032,23 +1032,23 @@
     "javob": "A"
   },
   {
-    "savol": "Quyidagi chegaraviy masalaning yechimini toping:",
-    "A": "1/x",
-    "B": "x",
-    "C": "2/x",
+    "savol": "$y''=\\frac{2}{x^3},\\ y(1)=1,\\ y(2)=\\frac{1}{2}$ Quyidagi chegaraviy masalaning yechimini toping:",
+    "A": "$1/x$",
+    "B": "$x$",
+    "C": "$2/x$",
     "D": "1",
     "javob": "A"
   },
   {
-    "savol": "Grin funksiyasi G(x,t) oʻzining aniqlanish sohasida x va t oʻzgaruvchilariga nisbatan qanday simmetriklik xossasiga ega?",
-    "A": "G(x,t)=G(t,x)",
-    "B": "G(x,t)=-G(t,x)",
-    "C": "G(x,t)G(t,x)=1",
-    "D": "G(x,t)=G(-t,x)",
+    "savol": "Grin funksiyasi $G(x,t)$ oʻzining aniqlanish sohasida $x$ va $t$ oʻzgaruvchilariga nisbatan qanday simmetriklik xossasiga ega?",
+    "A": "$G(x,t)=G(t,x)$",
+    "B": "$G(x,t)=-G(t,x)$",
+    "C": "$G(x,t)G(t,x)=1$",
+    "D": "$G(x,t)=G(-t,x)$",
     "javob": "A"
   },
   {
-    "savol": "Grin funksiyasini topishda G(x,t) funksiya sohani nechta qismga ajratgan holda izlanadi?",
+    "savol": "Grin funksiyasini topishda $G(x,t)$ funksiya sohani nechta qismga ajratgan holda izlanadi?",
     "A": "2 ta qismga",
     "B": "3 ta qismga",
     "C": "1 ta qismga",
@@ -1056,7 +1056,7 @@
     "javob": "A"
   },
   {
-    "savol": "$-y''=\\lambda y,\\ y(0)=0,\\ y(\\pi)=0$ Quyidagi chegaraviy masalaning xos sonlarini toping:",
+    "savol": "$y''+\\lambda y=0,\\ y(0)=0,\\ y(\\pi)=0$ Quyidagi chegaraviy masalaning xos sonlarini toping:",
     "A": "$n^2$",
     "B": "$\\pi n$",
     "C": "$n$",
@@ -1064,7 +1064,7 @@
     "javob": "A"
   },
   {
-    "savol": "$-y''=\\lambda y,\\ y(0)=0,\\ y(\\pi)=0$ Quyidagi chegaraviy masalaning xos funksiyalarini toping:",
+    "savol": "$y''+\\lambda y=0,\\ y(0)=0,\\ y(\\pi)=0$ Quyidagi chegaraviy masalaning xos funksiyalarini toping:",
     "A": "$\\sin(nx)$",
     "B": "$\\cos(nx)$",
     "C": "$\\cos(x)$",
@@ -1072,7 +1072,7 @@
     "javob": "A"
   },
   {
-    "savol": "$-y''=\\lambda y,\\ y'(0)=0,\\ y'(\\pi)=0$ Quyidagi chegaraviy masalaning xos sonlarini toping:",
+    "savol": "$y''+\\lambda y=0,\\ y'(0)=0,\\ y'(\\pi)=0$ Quyidagi chegaraviy masalaning xos sonlarini toping:",
     "A": "$n^2$",
     "B": "$\\pi n$",
     "C": "$n$",
@@ -1080,7 +1080,7 @@
     "javob": "A"
   },
   {
-    "savol": "$-y''=\\lambda y,\\ y'(0)=0,\\ y'(\\pi)=0$ Quyidagi chegaraviy masalaning xos funksiyalarini toping:",
+    "savol": "$y''+\\lambda y=0,\\ y'(0)=0,\\ y'(\\pi)=0$ Quyidagi chegaraviy masalaning xos funksiyalarini toping:",
     "A": "$\\cos(nx)$",
     "B": "$\\sin(nx)$",
     "C": "$\\cos(x)$",
@@ -1088,7 +1088,7 @@
     "javob": "A"
   },
   {
-    "savol": "$-y''=\\lambda y,\\ y(0)=y(2\\pi),\\ y'(0)=y'(2\\pi)$ Quyidagi chegaraviy masalaning xos sonlarini toping:",
+    "savol": "$y''+\\lambda y=0,\\ y(0)=y(2\\pi),\\ y'(0)=y'(2\\pi)$ Quyidagi chegaraviy masalaning xos sonlarini toping:",
     "A": "$n^2$",
     "B": "$\\pi n$",
     "C": "$n$",
@@ -1096,7 +1096,7 @@
     "javob": "A"
   },
   {
-    "savol": "$-y''=\\lambda y,\\ y(0)=y(2\\pi),\\ y'(0)=y'(2\\pi)$ Quyidagi chegaraviy masalaning xos funksiyalarini toping:",
+    "savol": "$y''+\\lambda y=0,\\ y(0)=y(2\\pi),\\ y'(0)=y'(2\\pi)$ Quyidagi chegaraviy masalaning xos funksiyalarini toping:",
     "A": "$\\{1\\ (n=0);\\ \\cos(nx),\\sin(nx)\\ (n\\geq 1)\\}$",
     "B": "$\\sin(nx)$",
     "C": "$\\cos(nx)$",
@@ -1104,7 +1104,7 @@
     "javob": "A"
   },
   {
-    "savol": "Quyidagi xususiy hosilali differensial tenglamaning tartibini aniqlang:",
+    "savol": "Quyidagi $\\dfrac{\\partial u}{\\partial x}+\\dfrac{\\partial u}{\\partial y}=0$ xususiy hosilali differensial tenglamaning tartibini aniqlang:",
     "A": "1",
     "B": "2",
     "C": "3",
@@ -1112,7 +1112,7 @@
     "javob": "A"
   },
   {
-    "savol": "Quyidagi xususiy hosilali differensial tenglamaning tartibini aniqlang:",
+    "savol": "Quyidagi $\\dfrac{\\partial^2 u}{\\partial x^2}+\\dfrac{\\partial u}{\\partial y}=0$ xususiy hosilali differensial tenglamaning tartibini aniqlang:",
     "A": "2",
     "B": "1",
     "C": "3",
@@ -1120,7 +1120,7 @@
     "javob": "A"
   },
   {
-    "savol": "Quyidagi xususiy hosilali differensial tenglamaning tartibini aniqlang:",
+    "savol": "Quyidagi $\\dfrac{\\partial^3 u}{\\partial x^3}+\\dfrac{\\partial^2 u}{\\partial x\\partial y}=0$ xususiy hosilali differensial tenglamaning tartibini aniqlang:",
     "A": "3",
     "B": "2",
     "C": "1",
@@ -1128,7 +1128,7 @@
     "javob": "A"
   },
   {
-    "savol": "Quyidagi xususiy hosilali differensial tenglamaning tartibini aniqlang:",
+    "savol": "Quyidagi $\\left(\\dfrac{\\partial^2 u}{\\partial x^2}\\right)^2+\\dfrac{\\partial u}{\\partial t}=0$ xususiy hosilali differensial tenglamaning tartibini aniqlang:",
     "A": "2",
     "B": "4",
     "C": "3",
@@ -1136,7 +1136,7 @@
     "javob": "A"
   },
   {
-    "savol": "Quyidagi xususiy hosilali differensial tenglamaning tartibini aniqlang:",
+    "savol": "Quyidagi $\\dfrac{\\partial^2 u}{\\partial x\\partial y}+\\dfrac{\\partial^2 u}{\\partial y^2}=0$ xususiy hosilali differensial tenglamaning tartibini aniqlang:",
     "A": "2",
     "B": "1",
     "C": "3",
@@ -1144,7 +1144,7 @@
     "javob": "A"
   },
   {
-    "savol": "Quyidagi xususiy hosilali differensial tenglamaning tartibini aniqlang:",
+    "savol": "Quyidagi $\\dfrac{\\partial^4 u}{\\partial x^2\\partial y^2}+\\dfrac{\\partial u}{\\partial x}=0$ xususiy hosilali differensial tenglamaning tartibini aniqlang:",
     "A": "4",
     "B": "2",
     "C": "3",
@@ -1152,7 +1152,7 @@
     "javob": "A"
   },
   {
-    "savol": "Quyidagi xususiy hosilali differensial tenglamaning tartibini aniqlang:",
+    "savol": "Quyidagi $\\left(\\dfrac{\\partial^2 u}{\\partial x^2}\\right)^3+\\dfrac{\\partial u}{\\partial t}=f(x,t)$ xususiy hosilali differensial tenglamaning tartibini aniqlang:",
     "A": "2",
     "B": "6",
     "C": "3",
@@ -1160,7 +1160,7 @@
     "javob": "A"
   },
   {
-    "savol": "Quyidagi xususiy hosilali differensial tenglamaning tartibini aniqlang:",
+    "savol": "Quyidagi $u_t+\\left(\\dfrac{\\partial u}{\\partial x}\\right)^4=0$ xususiy hosilali differensial tenglamaning tartibini aniqlang:",
     "A": "1",
     "B": "4",
     "C": "2",
@@ -1168,7 +1168,7 @@
     "javob": "A"
   },
   {
-    "savol": "Quyidagi xususiy hosilali differensial tenglamaning tartibini aniqlang:",
+    "savol": "Quyidagi $\\dfrac{\\partial^3 u}{\\partial t^2}+\\left(\\dfrac{\\partial^2 u}{\\partial x^2}\\right)^{\\frac{5}{3}}-u=0$ xususiy hosilali differensial tenglamaning tartibini aniqlang:",
     "A": "3",
     "B": "2",
     "C": "10",
@@ -1176,7 +1176,7 @@
     "javob": "A"
   },
   {
-    "savol": "Quyidagi xususiy hosilali differensial tenglamaning tartibini aniqlang:",
+    "savol": "Quyidagi $u_{xxxx}=u_t$ xususiy hosilali differensial tenglamaning tartibini aniqlang:",
     "A": "4",
     "B": "1",
     "C": "2",
@@ -1184,7 +1184,7 @@
     "javob": "A"
   },
   {
-    "savol": "Quyidagi ikkinchi tartibli xususiy hosilali differensial tenglamaning tipini aniqlang:",
+    "savol": "Quyidagi ikkinchi tartibli $u_{xx}+u_{yy}=0$ xususiy hosilali differensial tenglamaning tipini aniqlang:",
     "A": "Elliptik",
     "B": "Parabolik",
     "C": "Giperbolik",
@@ -1192,7 +1192,7 @@
     "javob": "A"
   },
   {
-    "savol": "Quyidagi ikkinchi tartibli xususiy hosilali differensial tenglamaning tipini aniqlang:",
+    "savol": "Quyidagi ikkinchi tartibli $u_{xx}-u_{yy}=0$ xususiy hosilali differensial tenglamaning tipini aniqlang:",
     "A": "Giperbolik",
     "B": "chiziqsiz",
     "C": "Elliptik",
@@ -1200,7 +1200,7 @@
     "javob": "A"
   },
   {
-    "savol": "Quyidagi ikkinchi tartibli xususiy hosilali differensial tenglamaning tipini aniqlang:",
+    "savol": "Quyidagi ikkinchi tartibli $u_{xx}+2u_{xy}+u_{yy}=0$ xususiy hosilali differensial tenglamaning tipini aniqlang:",
     "A": "Parabolik",
     "B": "Giperbolik",
     "C": "chiziqsiz",
@@ -1208,7 +1208,7 @@
     "javob": "A"
   },
   {
-    "savol": "Quyidagi ikkinchi tartibli xususiy hosilali differensial tenglamaning tipini aniqlang:",
+    "savol": "Quyidagi ikkinchi tartibli $2u_{xx}+3u_{yy}=0$ xususiy hosilali differensial tenglamaning tipini aniqlang:",
     "A": "Elliptik",
     "B": "Parabolik",
     "C": "Giperbolik",
@@ -1216,7 +1216,7 @@
     "javob": "A"
   },
   {
-    "savol": "Quyidagi ikkinchi tartibli xususiy hosilali differensial tenglamaning tipini aniqlang:",
+    "savol": "Quyidagi ikkinchi tartibli $u_{xx}+4u_{xy}-u_{yy}=0$ xususiy hosilali differensial tenglamaning tipini aniqlang:",
     "A": "Giperbolik",
     "B": "chiziqsiz",
     "C": "Elliptik",
@@ -1224,7 +1224,7 @@
     "javob": "A"
   },
   {
-    "savol": "Quyidagi ikkinchi tartibli xususiy hosilali differensial tenglamaning tipini aniqlang:",
+    "savol": "Quyidagi ikkinchi tartibli $x^2u_{xx}+u_{yy}=0\\ (x\\neq 0)$ xususiy hosilali differensial tenglamaning tipini aniqlang:",
     "A": "Elliptik",
     "B": "Parabolik",
     "C": "Giperbolik",
@@ -1232,7 +1232,7 @@
     "javob": "A"
   },
   {
-    "savol": "Quyidagi ikkinchi tartibli xususiy hosilali differensial tenglamaning tipini aniqlang:",
+    "savol": "Quyidagi ikkinchi tartibli $e^x u_{xx}+u_{yy}=0$ xususiy hosilali differensial tenglamaning tipini aniqlang:",
     "A": "Elliptik",
     "B": "Parabolik",
     "C": "Giperbolik",
@@ -1240,8 +1240,8 @@
     "javob": "A"
   },
   {
-    "savol": "Bir o‘lchovli to‘lqin tarqalish tenglamasini aniqlang.",
-    "A": "$\\frac{\\partial^2 u}{\\partial t^2}=c^2\\frac{\\partial^2 u}{\\partial x^2}$",
+    "savol": "Bir o‘lchovli to‘lqin tarqalish tenglamasi qaysi?",
+    "A": "$\\dfrac{\\partial^2 u}{\\partial t^2}=c^2\\dfrac{\\partial^2 u}{\\partial x^2}$",
     "B": "$u(x,0)=x$",
     "C": "$u_t(x,0)=0$",
     "D": "$u_{tt}=a^2(u_{xx}+u_{yy})$",
@@ -1252,7 +1252,7 @@
     "A": "$u_{tt}=a^2(u_{xx}+u_{yy})$",
     "B": "$u(x,0)=x$",
     "C": "$u_t(x,0)=0$",
-    "D": "$\\frac{\\partial^2 u}{\\partial t^2}=c^2\\frac{\\partial^2 u}{\\partial x^2}$",
+    "D": "$\\dfrac{\\partial^2 u}{\\partial t^2}=c^2\\dfrac{\\partial^2 u}{\\partial x^2}$",
     "javob": "A"
   },
   {
@@ -1273,7 +1273,7 @@
   },
   {
     "savol": "Tor tebranish tenglamasini aniqlang.",
-    "A": "$\\frac{\\partial^2 u}{\\partial t^2}=c^2\\frac{\\partial^2 u}{\\partial x^2}$",
+    "A": "$\\dfrac{\\partial^2 u}{\\partial t^2}=c^2\\dfrac{\\partial^2 u}{\\partial x^2}$",
     "B": "$u(x,0)=x$",
     "C": "$u_t(x,0)=0$",
     "D": "$u_{tt}=a^2(u_{xx}+u_{yy})$",
@@ -1329,7 +1329,7 @@
   },
   {
     "savol": "$xu_x+yu_y=0$ Quyidagi tenglamaning umumiy yechimini ko'rsating:",
-    "A": "$f\\!\\left(\\frac{y}{x}\\right)$",
+    "A": "$f\\!\\left(\\dfrac{y}{x}\\right)$",
     "B": "$f(x\\cdot y)$",
     "C": "$f(x-y)$",
     "D": "$f(x^2+y^2)$",
@@ -1348,7 +1348,7 @@
     "A": "$f(x^2+y^2)$",
     "B": "$f(x-y)$",
     "C": "$f(x\\cdot y)$",
-    "D": "$f\\!\\left(\\frac{y}{x}\\right)$",
+    "D": "$f\\!\\left(\\dfrac{y}{x}\\right)$",
     "javob": "A"
   },
   {
@@ -1369,8 +1369,8 @@
   },
   {
     "savol": "$x^2u_x+u_y=0$ Quyidagi tenglamaning umumiy yechimini ko'rsating:",
-    "A": "$f\\!\\left(y+\\frac{1}{x}\\right)$",
-    "B": "$f\\!\\left(y-\\frac{1}{x}\\right)$",
+    "A": "$f\\!\\left(y+\\dfrac{1}{x}\\right)$",
+    "B": "$f\\!\\left(y-\\dfrac{1}{x}\\right)$",
     "C": "$f(y-x^2)$",
     "D": "$f(x\\cdot y)$",
     "javob": "A"
@@ -1386,9 +1386,9 @@
   {
     "savol": "$xu_x-yu_y=0$ Quyidagi tenglamaning umumiy yechimini ko'rsating:",
     "A": "$f(x\\cdot y)$",
-    "B": "$f\\!\\left(\\frac{y}{x}\\right)$",
+    "B": "$f\\!\\left(\\dfrac{y}{x}\\right)$",
     "C": "$f(x-y)$",
-    "D": "$f\\!\\left(y-\\frac{1}{x}\\right)$",
+    "D": "$f\\!\\left(y-\\dfrac{1}{x}\\right)$",
     "javob": "A"
   },
   {
@@ -1417,10 +1417,10 @@
   },
   {
     "savol": "Bir o'lchovli to'lqin tarqalish tenglamasi uchun boshlang'ich shartlar $u(x,0)=\\varphi(x),\\ u_t(x,0)=\\psi(x)$ berilgan bo'lsa, Dalamber formulasi qaysi javobda to'g'ri yozilgan?",
-    "A": "$\\frac{\\varphi(x-at)+\\varphi(x+at)}{2}+\\frac{1}{2a}\\int_{x-at}^{x+at}\\psi(\\xi)\\,d\\xi$",
-    "B": "$\\frac{\\varphi(x-at)-\\varphi(x+at)}{2}+\\frac{1}{2a}\\int_{x-at}^{x+at}\\psi(\\xi)\\,d\\xi$",
-    "C": "$\\varphi(x+at)+\\frac{1}{a}\\int_{x-at}^{x+at}\\psi(\\xi)\\,d\\xi$",
-    "D": "$\\frac{\\varphi(x-at)+\\varphi(x+at)}{2}+\\int_{x-at}^{x+at}\\psi(\\xi)\\,d\\xi$",
+    "A": "$\\dfrac{\\varphi(x-at)+\\varphi(x+at)}{2}+\\dfrac{1}{2a}\\int_{x-at}^{x+at}\\psi(\\xi)\\,d\\xi$",
+    "B": "$\\dfrac{\\varphi(x-at)-\\varphi(x+at)}{2}+\\dfrac{1}{2a}\\int_{x-at}^{x+at}\\psi(\\xi)\\,d\\xi$",
+    "C": "$\\varphi(x+at)+\\dfrac{1}{a}\\int_{x-at}^{x+at}\\psi(\\xi)\\,d\\xi$",
+    "D": "$\\dfrac{\\varphi(x-at)+\\varphi(x+at)}{2}+\\int_{x-at}^{x+at}\\psi(\\xi)\\,d\\xi$",
     "javob": "A"
   },
   {
@@ -1664,7 +1664,7 @@
     "javob": "A"
   },
   {
-    "savol": "Quyidagi tenglamaning umumiy yechimini toping:",
+    "savol": "$u_{xx}=0$ Quyidagi tenglamaning umumiy yechimini toping:",
     "A": "f(y)x+g(y)",
     "B": "f(x)y+g(x)",
     "C": "f(x)x+g(y)",
@@ -1672,7 +1672,7 @@
     "javob": "A"
   },
   {
-    "savol": "Quyidagi tenglamaning umumiy yechimini toping:",
+    "savol": "$u_{xy}=0$ Quyidagi tenglamaning umumiy yechimini toping:",
     "A": "f(x)+g(y)",
     "B": "f(x)g(y)",
     "C": "f(x+y)",
@@ -1696,7 +1696,7 @@
     "javob": "A"
   },
   {
-    "savol": "Quyidagi tenglamaning umumiy yechimini toping:",
+    "savol": "$u_x=\\cos x$ Quyidagi tenglamaning umumiy yechimini toping:",
     "A": "sinx+f(y)",
     "B": "siny+f(x)",
     "C": "-sinx+f(y)",
@@ -1704,7 +1704,7 @@
     "javob": "A"
   },
   {
-    "savol": "Quyidagi tenglamaning umumiy yechimini toping:",
+    "savol": "$u_x=y$ Quyidagi tenglamaning umumiy yechimini toping:",
     "A": "xy+f(y)",
     "B": "xy+f(x)",
     "C": "xy/2",
@@ -1840,7 +1840,7 @@
     "javob": "A"
   },
   {
-    "savol": "Quyidagi funksiya garmonik bo‘lishi uchun a koeffitsiyent nechaga teng bo‘lishi kerak?",
+    "savol": "Quyidagi $x^2+ay^2$ funksiya garmonik bo‘lishi uchun a koeffitsiyent nechaga teng bo‘lishi kerak?",
     "A": "-1",
     "B": "0",
     "C": "1",
@@ -1923,8 +1923,8 @@
     "savol": "Laplas tenglamasi uchun Neyman masalasi (ikkinchi chegaraviy masala) nima?",
     "A": "Soha chegarasida funksiyaning normal hosilasi berilgan masala.",
     "B": "Soha chegarasida funksiyaning o‘zi berilgan masala (birinchi chegaraviy masala).",
-    "C": "Soha chegarasida funksiyaning o‘zi berilgan masala (birinchi chegaraviy masala).",
-    "D": "Soha chegarasida funksiyaning o‘zi berilgan masala (birinchi chegaraviy masala).",
+    "C": "Chegarada funksiya va uning hosilasining chiziqli kombinatsiyasi berilgan masala.",
+    "D": "Hech qanday shart berilmagan masala.",
     "javob": "A"
   },
   {
@@ -2065,9 +2065,9 @@
   },
   {
     "savol": "$u_x+2xu_y=0$ Quyidagi tenglamaning xarakteristikalari qaysi oilani tashkil qiladi?",
-    "A": "$y-x^2=C$",
+    "A": "$2x-y=C$",
     "B": "$y+x^2=C$",
-    "C": "$2x-y=C$",
+    "C": "$y-x^2=C$",
     "D": "$3x-2y=C$",
     "javob": "A"
   },
