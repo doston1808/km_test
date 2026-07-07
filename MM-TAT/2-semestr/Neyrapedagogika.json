@@ -1,0 +1,1602 @@
+[
+  {
+    "savol": "Neyropedagogika nimani o‘rganadi?",
+    "A": "Miya faoliyati va o‘quv jarayoni o‘rtasidagi bog‘liqlikni",
+    "B": "Faqatgina maktabdagi dars metodlarini",
+    "C": "Psixologik testlarni",
+    "D": "Biologik tahlillarni",
+    "javob": "A"
+  },
+  {
+    "savol": "Neyropedagogika fanining asosiy maqsadi nima?",
+    "A": "Ta’lim jarayonini miya faoliyatiga moslashtirish",
+    "B": "O‘qituvchilarga stressni kamaytirish",
+    "C": "Texnologiyalarni tadbiq etish",
+    "D": "Darslarni qisqartirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Neyropedagogika so‘zining ildizi qaysi fanlarga borib taqaladi?",
+    "A": "Neyrobiologiya va pedagogikaga",
+    "B": "Fizika va matematika",
+    "C": "Tarix va falsafaga",
+    "D": "Geografiya va kimyoga",
+    "javob": "A"
+  },
+  {
+    "savol": "Neyropedagogik yondashuvda o‘quvchi qanday hisoblanadi?",
+    "A": "Individual va noyob shaxs",
+    "B": "O‘xshash bilim darajasidagi shaxs",
+    "C": "Passiv axborot oluvchi",
+    "D": "Doimiy ravishda test topshiruvchi",
+    "javob": "A"
+  },
+  {
+    "savol": "Neyropedagogika qaysi asrda shakllana boshladi?",
+    "A": "XX asr oxiri – XXI asr boshlarida",
+    "B": "XIX asrda",
+    "C": "XVIII asrda",
+    "D": "XVI asrda",
+    "javob": "A"
+  },
+  {
+    "savol": "Neyropedagogika qanday yondashuvga asoslanadi?",
+    "A": "Ilmiy-tadqiqotga asoslangan yondashuvga",
+    "B": "Tasodifiy yondashuvga",
+    "C": "Tajriba asosidagi taxminlarga",
+    "D": "An’anaviy metodlarga",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri neyropedagogikaning foydasidir?",
+    "A": "O‘quvchilarni individual xususiyatlariga qarab o‘qitish",
+    "B": "O‘quvchilarni bir xil tarzda yondashish",
+    "C": "Har doim yozma ishlarni ko‘paytirish",
+    "D": "Eslab qolishga asoslanish",
+    "javob": "A"
+  },
+  {
+    "savol": "Neyropedagogika nechta fan integratsiyasi asosida shakllanadi?",
+    "A": "Uchta – neyrobiologiya, psixologiya, pedagogika",
+    "B": "Bitta – pedagogika",
+    "C": "Ikki – matematika va fizika",
+    "D": "To‘rtta – neyrobiologiya, psixologiya, pedagogika, falsafa",
+    "javob": "A"
+  },
+  {
+    "savol": "Neyropedagogikaning o‘qituvchilar uchun foydasi nimada?",
+    "A": "Talabalarning miyaviy o‘ziga xosligini hisobga olish imkoniyati",
+    "B": "Darslarni qisqa qilish",
+    "C": "Yozma baholashni joriy etish",
+    "D": "Faqatgina sinfda sukut saqlashni targ‘ib qilish",
+    "javob": "A"
+  },
+  {
+    "savol": "Neyropedagogika ta’lim tizimida qanday o‘zgarishlar kiritadi?",
+    "A": "Individual yondashuv va faollikni oshiradi",
+    "B": "Faqatgina sinfda sukut saqlashni targ‘ib qiladi",
+    "C": "Har bir darsda test o‘tkazishni talab qiladi",
+    "D": "Darsliklarsiz o‘qitishni ko‘zlaydi.",
+    "javob": "A"
+  },
+  {
+    "savol": "Bosh miya nechta asosiy yarimshardan tashkil topgan?",
+    "A": "Ikki",
+    "B": "Uch",
+    "C": "To‘rt",
+    "D": "Bitta",
+    "javob": "A"
+  },
+  {
+    "savol": "Chap miya yarimshari asosan qanday funksiyani bajaradi?",
+    "A": "Mantiqiy va analitik fikrlash",
+    "B": "Badiiy va tasviriy tafakkur",
+    "C": "Harakat koordinatsiyasi",
+    "D": "Nafas olishni boshqarish",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘ng yarimshar ko‘proq qaysi faoliyat bilan bog‘liq?",
+    "A": "Tasavvur va emotsional tafakkur",
+    "B": "Matematika va mantiq",
+    "C": "Reja tuzish va yozish",
+    "D": "Harflarni taniqlash, reja tuzish va mantiq",
+    "javob": "A"
+  },
+  {
+    "savol": "Bosh miya yarimsharlari o‘zaro nima orqali bog‘langan?",
+    "A": "Corpus callosum (qarama-qarshi tutashuv) orqali",
+    "B": "Orqa miya orqali",
+    "C": "Oraliq miya (diencephalon) orqali",
+    "D": "Asab tolalari va sinapslar orqali bevosita",
+    "javob": "A"
+  },
+  {
+    "savol": "Bosh miyaning tashqi yuzasi nima bilan qoplangan?",
+    "A": "Po‘stloq (korteks) bilan",
+    "B": "Qon tomirlari (venula va vena) bilan",
+    "C": "Mushaklar bilan",
+    "D": "Orqa miya suyuqligi bilan",
+    "javob": "A"
+  },
+  {
+    "savol": "Po‘stloqning oldingi qismi qanday funksiyani bajaradi?",
+    "A": "Harakatni boshqarish",
+    "B": "Eshitishni boshqarish",
+    "C": "Ko‘rishni boshqarish",
+    "D": "Naqshlarni taniqlash",
+    "javob": "A"
+  },
+  {
+    "savol": "Bosh miya po‘stlog‘i qanday tuzilmalardan iborat?",
+    "A": "Nerv hujayralaridan (neyronlardan)",
+    "B": "Yog‘ hujayralaridan",
+    "C": "Qon hujayralaridan (vena va venulalardan)",
+    "D": "Suvdan",
+    "javob": "A"
+  },
+  {
+    "savol": "Miya po‘stlog‘i nechta asosiy bo‘limga ajratiladi?",
+    "A": "To‘rtta – peshona, tepa, chakka, ensa",
+    "B": "Ikki – chap va o‘ng",
+    "C": "Uchta – tashqi, ichki, oraliq",
+    "D": "Besh – harakat, sezgi, ko‘rish, eshitish, hid",
+    "javob": "A"
+  },
+  {
+    "savol": "Peshona sohasidagi po‘stloq faoliyati bilan nima bog‘liq?",
+    "A": "Rejalashtirish va ijtimoiy xulq",
+    "B": "Ko‘rish va eshitish (ko`z va quloq)",
+    "C": "Harakat va yurish",
+    "D": "Uyqu va uyg‘oqlik",
+    "javob": "A"
+  },
+  {
+    "savol": "Chakka sohasidagi po‘stloq qaysi funksiyani bajaradi?",
+    "A": "Eshitish va nutqni tushunish",
+    "B": "Ko‘rish qobiliyatini",
+    "C": "Harakatni muvofiqlashtirish",
+    "D": "Hid bilishni",
+    "javob": "A"
+  },
+  {
+    "savol": "Funksional assimetriya deganda nima tushuniladi?",
+    "A": "Miya yarimsharlarining har xil funksional ixtisoslashuvi",
+    "B": "Miya vaznining teng bo‘lmasligi",
+    "C": "Harakatlarni to‘xtatib turish",
+    "D": "Miya yarimsharlarining bir xil funksional moslashuvi",
+    "javob": "A"
+  },
+  {
+    "savol": "Laterallik nima?",
+    "A": "Tana va miya faoliyatida bir tomonlama ustunlik",
+    "B": "Faoliyatning umumiy pasayishi",
+    "C": "Nutq buzilishi",
+    "D": "Orqa miyaning disfunktsiyasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Chap qo‘l ustunligi qanday ataladi?",
+    "A": "So‘lqo‘llilik (levoruklik)",
+    "B": "O‘ngqo‘llilik (pravoruklik)",
+    "C": "Ambidekstriya",
+    "D": "Simmetriklik",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘ng yarimshar asosan nimani boshqaradi?",
+    "A": "Obrazli va emotsional fikrlashni",
+    "B": "Raqamli va mantiqiy fikrlashni",
+    "C": "Nutq va yozishni",
+    "D": "Qon aylanishini",
+    "javob": "A"
+  },
+  {
+    "savol": "Chap yarimshar asosan qaysi funksiyaga javobgar?",
+    "A": "Nutq, yozuv va mantiqiy fikrlash",
+    "B": "Tasviriy xotira",
+    "C": "Eshitish va muvozanat",
+    "D": "Harakat muvofiqlashtirishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ko‘pchilik odamlarda qaysi miya yarimshari nutq uchun javobgar?",
+    "A": "Chap yarimshar",
+    "B": "O‘ng yarimshar",
+    "C": "Har ikkala yarimshar",
+    "D": "Oraliq miya",
+    "javob": "A"
+  },
+  {
+    "savol": "Ambidekstr bo‘lgan shaxs qanday bo‘ladi?",
+    "A": "Ikkala qo‘lni birdek yaxshi ishlata oladi",
+    "B": "O‘ng qo‘l bilan ishlaydi",
+    "C": "Chap qo‘l bilan ishlaydi",
+    "D": "Ikkala qo‘lni birdek yaxshi ishlata olmaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘ng qo‘llik necha foiz odamlarda uchraydi (taxminan)?",
+    "A": "5–90%",
+    "B": "5-15%",
+    "C": "90-100%",
+    "D": "–15%",
+    "javob": "A"
+  },
+  {
+    "savol": "Laterallikni aniqlash uchun qanday testlar qo‘llaniladi?",
+    "A": "Qo‘l, oyoq va ko‘z ustunligini aniqlovchi testlar",
+    "B": "Eshitish testlari",
+    "C": "Shunchaki suhbat",
+    "D": "Miya, ko`z, hissiyotlar ustunligini aniqlovchi testlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Funksional assimetriya neyropedagogikada nima uchun muhim?",
+    "A": "O‘quvchining individual yondashuvini aniqlash uchun",
+    "B": "Sinfdagi tartibni saqlash uchun",
+    "C": "Sport mashqlarini o‘rgatish uchun",
+    "D": "Tana haroratini o‘lchash uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "Yarimsharlar assimetriyasi nima bilan bogʻliq bo‘lishi mumkin?",
+    "A": "Gender (jins) farqlari bilan",
+    "B": "Faoliyat turi bilan",
+    "C": "Ob-havo bilan",
+    "D": "Oziqlanish (metobolizm) bilan",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘g‘il bolalarda qaysi yarimshar ko‘proq faol bo‘lishi kuzatiladi?",
+    "A": "Chap yarimshar",
+    "B": "O‘ng yarimshar",
+    "C": "Ikkalasi bir xil",
+    "D": "Yarimsharlar faolligi yo‘q",
+    "javob": "A"
+  },
+  {
+    "savol": "Qiz bolalar ko‘proq qaysi faoliyatda yaxshi natija ko‘rsatadi?",
+    "A": "Til va emotsional ifoda",
+    "B": "Fazoviy tasavvur",
+    "C": "Texnik chizmalar",
+    "D": "Jismoniy harakat ifodasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Gender farqlari neyropedagogikada nima uchun o‘rganiladi?",
+    "A": "Ta’limda individual yondashuv uchun",
+    "B": "Sinfdagi tartibni belgilash uchun",
+    "C": "Dars muddatini aniqlash uchun",
+    "D": "Qon bosimini o‘lchash uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi jins vakillarida ikki yarimshar o‘rtasidagi aloqa kuchliroq bo‘ladi?",
+    "A": "Qiz bolalarda",
+    "B": "O‘g‘il bolalarda",
+    "C": "Farq yo‘q",
+    "D": "Katta insonlarda",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘g‘il bolalar ko‘proq qaysi turdagi topshiriqlarda ustun bo‘ladi?",
+    "A": "Fazoviy va mantiqiy",
+    "B": "Og‘zaki ifoda",
+    "C": "Tinglab eslab qolish",
+    "D": "Rassomchilik, rasm chizish",
+    "javob": "A"
+  },
+  {
+    "savol": "Qiz bolalarda nutq rivojlanishi odatda qanday kechadi?",
+    "A": "O‘g‘il bolalarga nisbatan erta",
+    "B": "O‘g‘il bolalarga nisbatan juda sekin",
+    "C": "Umuman rivojlanmaydi",
+    "D": "O‘g‘il bolalar bilan bir xil",
+    "javob": "A"
+  },
+  {
+    "savol": "Gender farqlari asosida ta’limda nima e’tiborga olinadi?",
+    "A": "O‘quv usullarining moslashtirilishi",
+    "B": "Darsliklarning ranglari",
+    "C": "Sinfdagi parta joylashuvi",
+    "D": "Mantiqiy fikrlash va tilning moslashtirilishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Chap yarimshar bilan bog‘liq faoliyatlar quyidagilardan qaysi biri?",
+    "A": "Mantiqiy fikrlash va til",
+    "B": "Musiqa va san’at",
+    "C": "Emotsiyalar va hislar",
+    "D": "Fazoviy tasavvur",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘g‘il va qiz bolalar o‘rtasidagi miya funksional farqlari nimani anglatadi?",
+    "A": "Har birining o‘ziga xos yondashuv talab etilishini",
+    "B": "Qizlar kuchsizroq bo‘ladi degan fikrni",
+    "C": "Ta’lim faqat o‘g‘il bolalarga mo‘ljallanishi kerakligini",
+    "D": "Farqni inobatga olmaslik kerakligini",
+    "javob": "A"
+  },
+  {
+    "savol": "Chapaqaylik nima?",
+    "A": "Shaxsning chap qo‘lga ustunlik berishi",
+    "B": "Har ikki qo‘lni birdek ishlata olishi",
+    "C": "O‘ng qo‘l bilan yozishi",
+    "D": "Oyoqning faol ishlashi",
+    "javob": "A"
+  },
+  {
+    "savol": "Chapaqaylik qanday holat bilan bog‘liq bo‘ladi?",
+    "A": "Miya yarimsharlari funksional assimetriyasi bilan",
+    "B": "Yurak ritmi bilan",
+    "C": "Tashqi muhit bilan",
+    "D": "Miyaning o‘ng yarimshar faolligi yuqoriroq bo‘lishi bilan",
+    "javob": "A"
+  },
+  {
+    "savol": "Chapaqaylarda qaysi miya yarimshari ko‘proq faol bo‘ladi?",
+    "A": "O‘ng yarimshar",
+    "B": "Chap yarimshar",
+    "C": "Har ikkisi teng",
+    "D": "Miya faol emas",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘ng qo‘llilar bilan solishtirganda chapaqaylarda qaysi ko‘nikma kuchli bo‘lishi mumkin?",
+    "A": "Obrazli va ijodiy fikrlash",
+    "B": "Matematik qobiliyat",
+    "C": "Yozuv va diktant",
+    "D": "Xotira va ijodiy fikrlash",
+    "javob": "A"
+  },
+  {
+    "savol": "Chapaqaylikni aniqlashda nimalar hisobga olinadi?",
+    "A": "Qo‘l, oyoq, ko‘z va quloq ustunligi",
+    "B": "Qo‘lga qaraladi",
+    "C": "Tashqi ko‘rinishi",
+    "D": "Bo‘y uzunligi, ko`z kattaligi, quloq eshitishi ustunligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Funksional assimetriya chapaqaylarda qanday aks etadi?",
+    "A": "Miyaning o‘ng yarimshar faolligi yuqoriroq bo‘ladi",
+    "B": "Yarimsharlar faoliyati o‘zgarmaydi",
+    "C": "Chap yarimshar to‘xtaydi",
+    "D": "Assimetriya bo‘lmaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Chapaqaylik irsiy omil bilan bog‘liqmi?",
+    "A": "Ha, ba’zan irsiy bo‘lishi mumkin",
+    "B": "Umuman bog‘liq emas",
+    "C": "Jarohatlar bilan bog‘liq",
+    "D": "Faoliyat turi bilan bog‘liq",
+    "javob": "A"
+  },
+  {
+    "savol": "Neyropedagogik yondashuvda chapaqay bolalarga qanday qaraladi?",
+    "A": "Individual yondashuv zarur",
+    "B": "O‘ng qo‘l bilan yozishga majburlash kerak",
+    "C": "Ular orqaga tortiladi",
+    "D": "Ular bir xil metod bilan o‘qitiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Chapaqaylarni o‘ng qo‘lga majburlash nima sabab bo‘lishi mumkin?",
+    "A": "Psixologik muammolarga",
+    "B": "Ijodiy qobiliyatga",
+    "C": "Jismoniy faollikka",
+    "D": "Sport qobiliyatiga",
+    "javob": "A"
+  },
+  {
+    "savol": "Chapaqaylikni neyropedagogikada qanday baholash kerak?",
+    "A": "Normativ holat sifatida qabul qilish",
+    "B": "Kasallik sifatida ko‘rish",
+    "C": "To‘g‘rilashga intilish",
+    "D": "E’tibordan chetda qoldirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Neyropedagogik diagnostika nima?",
+    "A": "O‘quvchining individual miya faoliyati va kognitiv xususiyatlarini aniqlash",
+    "B": "Barcha o‘quvchilarga bir xil test topshirish",
+    "C": "O‘quvchining o‘rganishga bo‘lgan neyropsixologik tayyorlash",
+    "D": "Jismoniy tarbiya darajasini aniqlash",
+    "javob": "A"
+  },
+  {
+    "savol": "Neyropedagogik diagnostika orqali nima aniqlanadi?",
+    "A": "O‘quvchining o‘rganishga bo‘lgan neyropsixologik tayyorgarligi",
+    "B": "O‘quvchining individual miya faoliyati va kognitiv xususiyatlarini aniqlanganligi",
+    "C": "Tanadagi vitaminlar miqdori",
+    "D": "Rasm chizish darajasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Neyropedagogik xususiyatlarni aniqlashda qanday metodlar qo‘llaniladi?",
+    "A": "Testlar, kuzatuv, suhbat",
+    "B": "Ovqatlanish ro‘yxati",
+    "C": "Baholash varaqasi",
+    "D": "Baho daftarchasi",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘quvchining diqqatini aniqlashda qanday test qo‘llaniladi?",
+    "A": "«Belgilarni top» testi",
+    "B": "Eshitish testi",
+    "C": "Fizikaviy mashq",
+    "D": "«Suhbatdagi savollar» testi",
+    "javob": "A"
+  },
+  {
+    "savol": "Xotirani baholash uchun qanday topshiriq berilishi mumkin?",
+    "A": "So‘zlarni eslab qolish va qayta aytish",
+    "B": "Surat chizish",
+    "C": "Qo‘shiq aytish",
+    "D": "Telefon raqamini yozish",
+    "javob": "A"
+  },
+  {
+    "savol": "Neyropedagogik tahlilda o‘quvchining qaysi tomoni muhim hisoblanadi?",
+    "A": "Individual o‘rganish uslubi",
+    "B": "Jismoniy kuchi",
+    "C": "Uy manzili",
+    "D": "Guruhdagi o‘rni",
+    "javob": "A"
+  },
+  {
+    "savol": "Neyropedagogik yondashuvda bola qanday baholanadi?",
+    "A": "Shaxsiy va neyropsixologik jihatdan",
+    "B": "Baholar asosida",
+    "C": "Faoliyati orqali",
+    "D": "Raqobatbardoshligi bo‘yicha",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘quvchining o‘rganish uslubini aniqlash nima uchun muhim?",
+    "A": "Uni samarali o‘qitish uchun",
+    "B": "Ustozni baholash uchun",
+    "C": "Darsliklarni almashtirish uchun",
+    "D": "Guruhga ajratish uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘quvchining chap yoki o‘ng qo‘l ustunligini aniqlash nimaga xizmat qiladi?",
+    "A": "Yarimsharlar faoliyati va o‘rganish uslubini tushunishga",
+    "B": "Har bir o‘quvchiga mos o‘quv strategiyasini tanlash imkoniga",
+    "C": "Qo‘l yozuvini baholash uchun",
+    "D": "Rasm chizishni o‘rgatish uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "Neyropedagogik diagnostika natijasi nima beradi?",
+    "A": "Har bir o‘quvchiga mos o‘quv strategiyasini tanlash imkonini",
+    "B": "Barcha o‘quvchilarga bir xil yondashuvni",
+    "C": "Baho qo‘yishni",
+    "D": "Har bir o‘quvchiga mos o‘quv strategiyasini tanlash imkoni",
+    "javob": "A"
+  },
+  {
+    "savol": "Reprezentativ tizim deganda nima tushuniladi?",
+    "A": "Shaxsning ma’lumotni qabul qilish va qayta ishlashdagi asosiy uslubi",
+    "B": "Kompyuter dasturining ishlash usuli",
+    "C": "Nutq uslubi",
+    "D": "Har bir o‘quvchiga mos o‘quv strategiyasidagi asosiy tanlash uslubi",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri reprezentativ tizim turi hisoblanadi?",
+    "A": "Vizual, auditiv, kinestetik",
+    "B": "Mantiqiy, matematik, tarixiy",
+    "C": "Chapqo‘llik, o‘ngqo‘llik, ambidekstr",
+    "D": "Oddiy, murakkab, oraliq",
+    "javob": "A"
+  },
+  {
+    "savol": "Vizual tipdagi odamlar qanday ma’lumotni yaxshi qabul qiladi?",
+    "A": "Ko‘rish orqali (rasm, jadval, video)",
+    "B": "Eshitish orqali",
+    "C": "Amaliy harakat orqali",
+    "D": "Tez yozish orqali (matn, test, savol-javob)",
+    "javob": "A"
+  },
+  {
+    "savol": "Auditiv tipdagi odamlar uchun eng mos o‘quv materiali qanday bo‘ladi?",
+    "A": "Eshitiladigan material (ma’ruzalar, audio)",
+    "B": "Suratlar va grafikalar",
+    "C": "Jismoniy mashg‘ulotlar",
+    "D": "O‘yinlar (elektron va stol o`yinlari)",
+    "javob": "A"
+  },
+  {
+    "savol": "Kinestetik tipdagi o‘quvchilar qanday o‘rganishni afzal ko‘radi?",
+    "A": "Harakat, amaliy tajriba orqali",
+    "B": "Kitob o‘qib",
+    "C": "Eshitib",
+    "D": "Rasm chizib, mustaqil ishlar orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Reprezentativ tizimni aniqlash uchun nima kerak?",
+    "A": "Kuzatuv, suhbat, maxsus testlar",
+    "B": "Baholarni tahlil qilish",
+    "C": "Ota-onadan so‘rash",
+    "D": "Tashqi ko‘rinishga qarash",
+    "javob": "A"
+  },
+  {
+    "savol": "Reprezentativ tizimlarni bilish nima uchun muhim?",
+    "A": "Har bir o‘quvchiga mos ta’lim metodini tanlash uchun",
+    "B": "Baholarni tezroq qo‘yish uchun",
+    "C": "Ustoz faoliyatini soddalashtirish uchun",
+    "D": "Uning o‘rganishdagi xulq-atvori va afzalliklarini o`rganish uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘quvchining reprenzentativ tizimi qanday aniqlanadi?",
+    "A": "Uning o‘rganishdagi xulq-atvori va afzalliklari orqali",
+    "B": "Do‘stlari bilan suhbat orqali",
+    "C": "Uy manzili orqali",
+    "D": "Har bir inson ma’lumotni turlicha usullari orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Reprezentativ tizimlarning farqlanishi nimani anglatadi?",
+    "A": "Har bir inson ma’lumotni turlicha usulda qabul qiladi",
+    "B": "Barcha odamlar bir xil o‘rganadi",
+    "C": "Yaxshi o‘quvchilar vizual bo‘ladi",
+    "D": "O‘quvchilarning qobiliyatini to‘laqonli ochish imkonini yaratadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ta’limda reprezentativ tizimga mos metodni tanlash nima beradi?",
+    "A": "O‘quvchilarning qobiliyatini to‘laqonli ochish imkonini",
+    "B": "Dars vaqtini qisqartirishni",
+    "C": "Kitoblar sonini kamaytirishni",
+    "D": "Har bir inson ma’lumotni turlicha usulda qabul qilshini",
+    "javob": "A"
+  },
+  {
+    "savol": "Neyropedagogik yondashuv taʼlimda nima uchun muhim?",
+    "A": "Har bir o‘quvchining individual o‘rganish uslubini inobatga olish uchun",
+    "B": "Sinfda tartibni saqlash uchun",
+    "C": "Barcha o‘quvchilarga bir xil dars o‘tish uchun",
+    "D": "Har bir inson ma’lumotni turlicha usulda qabul qilish uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "Neyropedagogik taʼlim texnologiyalari nimani asos qilib oladi?",
+    "A": "Miya faoliyati va kognitiv xususiyatlarni",
+    "B": "Darslikdagi savollar sonini",
+    "C": "Jismoniy tarbiya mashg‘ulotlarini",
+    "D": "Muassasa ichki tartibini",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘quvchilarning dominant reprezentativ tizimini bilish nima uchun kerak?",
+    "A": "Mos o‘qitish metodikasini tanlash uchun",
+    "B": "Sinfni ajratish uchun",
+    "C": "Ota-onani baholash uchun",
+    "D": "Test savollarini kamaytirish uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "Vizual o‘quvchilar uchun qanday texnologiya samaraliroq?",
+    "A": "Grafikalar, sxemalar, rangli materiallar",
+    "B": "Ma’ruzalar",
+    "C": "Harakatli o‘yinlar",
+    "D": "Og‘zaki topshiriqlar, mustaqil ishlar, tarqatma materiallar",
+    "javob": "A"
+  },
+  {
+    "savol": "Kinestetik o‘quvchilar uchun qaysi metodika mos keladi?",
+    "A": "Amaliy mashg‘ulotlar, tajriba va harakat asosidagi yondashuv",
+    "B": "Audio materiallar",
+    "C": "Kitob o‘qish",
+    "D": "Diktant yozish, test tuzish, og`zaki topshiriqlar asosidagi yondashuv",
+    "javob": "A"
+  },
+  {
+    "savol": "Bolalarning yosh xususiyatlarini inobatga olgan texnologiyalar qanday bo‘lishi kerak?",
+    "A": "Qiziqarli, faol va bosqichma-bosqich rivojlanishga yo‘naltirilgan",
+    "B": "Og‘ir va akademik",
+    "C": "Og‘zaki topshiriqlar, mustaqil ishlar, tarqatma materiallar asosida",
+    "D": "An’anaviy va bir xillikda davom etuvchi",
+    "javob": "A"
+  },
+  {
+    "savol": "Neyropedagogik yondashuvda multimodal o‘qitish nimani bildiradi?",
+    "A": "Bir nechta sezgi kanallari orqali ma’lumot yetkazish",
+    "B": "Eshitish orqali o‘qitish",
+    "C": "Televizor orqali dars o‘tish",
+    "D": "Grafikalar, sxemalar, rangli materiallar , yozma topshiriqlar berish",
+    "javob": "A"
+  },
+  {
+    "savol": "Neyropedagogik texnologiyalar orqali o‘quvchilarda nima rivojlanadi?",
+    "A": "Diqqat, xotira, tafakkur va ijodkorlik",
+    "B": "Yozuv malakasi",
+    "C": "Eshitish qobiliyati",
+    "D": "Jismoniy harakatlar, an’anaviy va bir xillikda davom etuvchi ijod",
+    "javob": "A"
+  },
+  {
+    "savol": "Neyropedagogik yondashuv bilan o‘qitilgan o‘quvchilarda qanday natija kuzatiladi?",
+    "A": "Mustaqil fikrlash va yuqori motivatsiya",
+    "B": "Passiv ishtirok",
+    "C": "Baho olishga intilish motivatsiyasi",
+    "D": "Esda saqlashda qiyinchilik",
+    "javob": "A"
+  },
+  {
+    "savol": "Neyropedagogik texnologiyalarning asosiy maqsadi nima?",
+    "A": "Har bir bolaning miya faoliyati asosida individual rivojlanishini ta’minlash",
+    "B": "Dars vaqtini qisqartirish",
+    "C": "Bilimlarni berish",
+    "D": "Baholash tizimini o‘zgartirish, bilim darajasini tekshirish, rivojlanishini tizimga solish",
+    "javob": "A"
+  },
+  {
+    "savol": "Neyropedagogika nima?",
+    "A": "Taʼlim va tarbiyani miya faoliyati asosida o‘rganadigan fan",
+    "B": "Pedagogika tarixi",
+    "C": "Nevrologik kasalliklarni davolash usuli",
+    "D": "O‘quvchilarning miya faoliyatiga asoslangan individual ta’limni yo‘lga qo‘yish",
+    "javob": "A"
+  },
+  {
+    "savol": "Neyropedagogika fani qaysi fanlar bilan uzviy bog‘liq?",
+    "A": "Neyropsixologiya, pedagogika, fiziologiya",
+    "B": "Kimyo, biologiya, tarix",
+    "C": "Sport va musiqa",
+    "D": "Astronomiya, matematika va geografiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Neyropedagogikaning asosiy maqsadi nima?",
+    "A": "O‘quvchilarning miya faoliyatiga asoslangan individual ta’limni yo‘lga qo‘yish",
+    "B": "Sinfdagi tartibni saqlash",
+    "C": "Testlar tuzish",
+    "D": "Har bir bolaning neyroxususiyatlarini aniqlab, unga mos ta’lim metodikasini tanlash",
+    "javob": "A"
+  },
+  {
+    "savol": "Neyropedagogikaning birlamchi vazifasi nima?",
+    "A": "Har bir bolaning neyroxususiyatlarini aniqlab, unga mos ta’lim metodikasini tanlash",
+    "B": "Barcha bolalarni bir xil o‘qitish",
+    "C": "Nazariy bilim berish",
+    "D": "O‘quvchilarning miya faoliyatiga asoslangan individual ta’limni yo‘lga qo‘yish",
+    "javob": "A"
+  },
+  {
+    "savol": "Neyropedagogika fani nimani o‘rganadi?",
+    "A": "Miya va asab tizimi faoliyatining ta’lim jarayoniga ta’sirini",
+    "B": "Tarixiy davrlarni",
+    "C": "Tashqi muhit omillarini",
+    "D": "O‘quvchilarning miya faoliyatiga asoslangan individual ta’limni yo‘lga qo‘yishni",
+    "javob": "A"
+  },
+  {
+    "savol": "Neyropedagogikaning asosiy ob’ekti kim hisoblanadi?",
+    "A": "O‘quvchi (yoki ta’lim oluvchi shaxs)",
+    "B": "O‘qituvchi",
+    "C": "Ota-ona",
+    "D": "Darslik (yoki ta`limda ishlatiladigan kitob)",
+    "javob": "A"
+  },
+  {
+    "savol": "Neyropedagogik yondashuvda nimalar inobatga olinadi?",
+    "A": "Bola miya faoliyati, psixotiplari va o‘rganish uslubi",
+    "B": "Baholari",
+    "C": "Dars jadvali",
+    "D": "Individual va moslashtirilgan yondashuv uslubi",
+    "javob": "A"
+  },
+  {
+    "savol": "Neyropedagogika qaysi yondashuvni qo‘llaydi?",
+    "A": "Individual va moslashtirilgan yondashuvni",
+    "B": "Majburiy yondashuvni",
+    "C": "Guruhga asoslangan yondashuvni",
+    "D": "Bola miya faoliyati, psixotiplari va o‘rganishga yondashuv",
+    "javob": "A"
+  },
+  {
+    "savol": "Neyropedagogika qanday metodlarga asoslanadi?",
+    "A": "Ilmiy-tadqiqot, kuzatuv, testlar, neyropsixologik tahlil",
+    "B": "Faol jismoniy mashqlar",
+    "C": "Tarixiy faktlarni tahlil qilish",
+    "D": "Har bir bola uchun samarali o‘qitish strategiyasini ishlab chiqish",
+    "javob": "A"
+  },
+  {
+    "savol": "Neyropedagogika fanining amaliy ahamiyati nimada?",
+    "A": "Har bir bola uchun samarali o‘qitish strategiyasini ishlab chiqish",
+    "B": "Barcha bolalar uchun bir xil darslik yaratish",
+    "C": "Yozma ishlarni kamaytirish",
+    "D": "Ilmiy-tadqiqot, kuzatuv, testlar, neyropsixologik tahlil qilish",
+    "javob": "A"
+  },
+  {
+    "savol": "Kognitiv neyrologiya nimani o‘rganadi?",
+    "A": "Miya faoliyatining bilim olish va xulq-atvorga ta’sirini",
+    "B": "Yurak faoliyatini",
+    "C": "Tana haroratini",
+    "D": "Ilmiy-tadqiqot, kuzatuv, testlar, neyropsixologik tahlilni",
+    "javob": "A"
+  },
+  {
+    "savol": "Kognitiv funksiyalar deganda nimani tushunasiz?",
+    "A": "Diqqat, xotira, tafakkur, nutq, idrok",
+    "B": "Naqsh chizish va raqs",
+    "C": "Jismoniy harakatlar",
+    "D": "Uyqu, dam olish va ovqatlanish",
+    "javob": "A"
+  },
+  {
+    "savol": "Miya qaysi funksiyalarni boshqaradi?",
+    "A": "O‘rganish, eslab qolish, harakat va nutq",
+    "B": "Yurak urishini",
+    "C": "Nafas olishni",
+    "D": "Tovush chiqarish, eshitish va javob berish",
+    "javob": "A"
+  },
+  {
+    "savol": "Kognitiv neyrologiyada o‘rganish nima bilan bog‘liq?",
+    "A": "Miya strukturasi va faoliyatidagi o‘zgarishlar bilan",
+    "B": "Darsliklar soni bilan",
+    "C": "Tashqi ko‘rinish bilan",
+    "D": "Sport va chiniqish mashg‘ulotlari bilan",
+    "javob": "A"
+  },
+  {
+    "savol": "Kognitiv neyrologiyaga asoslangan ta’lim nimani ta’minlaydi?",
+    "A": "Har bir o‘quvchining miya rivojiga mos o‘qitishni",
+    "B": "Har bir o‘qituvchining reytingini",
+    "C": "Sinfdagi tartibni",
+    "D": "Har bir o‘qituvchining miya rivojiga mos o‘qishini",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi miya qismi xotira bilan bevosita bog‘liq?",
+    "A": "Gipokamp",
+    "B": "Miyacha",
+    "C": "Orqa miya",
+    "D": "Ko‘z nervi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi miya qismi diqqatni boshqarishda muhim rol o‘ynaydi?",
+    "A": "Old miya po‘stlog‘i (prefrontal korteks)",
+    "B": "Orqa miya",
+    "C": "Ko‘rish markazi",
+    "D": "Orqa miya po‘stlog‘i (prafrontal korteks)",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘rganishdagi muammolar neyrologik sabablarga bog‘liq bo‘lishi mumkinmi?",
+    "A": "Ha, ba’zi hollarda miya faoliyati buzilishi sabab bo‘ladi",
+    "B": "Yo‘q, faqat dangasalik sabab",
+    "C": "Yo`q, barcha hollarda yurak faoliyati buzilishi sabab bo‘ladi",
+    "D": "Bu faqat ruhiy holatga bog‘liq",
+    "javob": "A"
+  },
+  {
+    "savol": "Ta’limda kognitiv neyrologiyani qo‘llash nima uchun foydali?",
+    "A": "O‘quvchilarning o‘rganish qobiliyatlarini to‘g‘ri baholash uchun",
+    "B": "Dars jadvalini qisqartirish uchun",
+    "C": "O‘qituvchining ishlash qobiliyatlarini to‘g‘ri baholash uchun",
+    "D": "Test natijalarini tahlil qilish uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "Kognitiv neyrologik tadqiqotlar asosan nima orqali olib boriladi?",
+    "A": "MRT, EEG va eksperimental metodlar orqali",
+    "B": "Sport mashg‘ulotlari orqali",
+    "C": "O‘qituvchi fikri bilan",
+    "D": "MSKT, EKG va ekstensiv metodlar orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Neyropedagogik yondashuv bolalarning qaysi tomonlarini hisobga oladi?",
+    "A": "Miya faoliyati, emotsional holati va individual o‘rganish uslublari",
+    "B": "Baholarini",
+    "C": "Darsga qatnashishini",
+    "D": "Tashqi ko‘rinishi, darsda aktivligi va maxsus guruhda o`qitish uslubi",
+    "javob": "A"
+  },
+  {
+    "savol": "Bilish jarayoni deganda nima tushuniladi?",
+    "A": "Insonning axborotni qabul qilishi, qayta ishlashi va undan foydalanishi",
+    "B": "Yozish ko‘nikmasi",
+    "C": "Nutq ohangi",
+    "D": "Bolalarning tanqidiy fikrlarni qabul qilishi, qayta ishlashi va undan foydalanishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Bolalarda bilish jarayoni qanday shakllanadi?",
+    "A": "Tajriba, muhit va miya faoliyati orqali",
+    "B": "Biologik yo‘l bilan",
+    "C": "O‘yin orqali emas",
+    "D": "Uyqu, dars va yurak faoliyati orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Xotira, diqqat, idrok – bu qanday jarayonlar?",
+    "A": "Bilish jarayonlari",
+    "B": "Jismoniy jarayonlar",
+    "C": "Emotsional javoblar",
+    "D": "Ijtimoiy munosabatlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Bolalarning neyropedagogik xususiyatlarini o‘rganish nimaga xizmat qiladi?",
+    "A": "Ularga individual yondashuvni ta’minlashga",
+    "B": "Barchasiga bir xil metodni tanlashga",
+    "C": "Darslarni qisqartirishga",
+    "D": "O`qituvchilarga individual yondashuvni ta’minlashga",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘quvchilarning bilish qobiliyati qaysi omillarga bog‘liq?",
+    "A": "Miya rivoji, diqqat, xotira, motivatsiya",
+    "B": "Sinfdagi o‘rni",
+    "C": "Soch rangi",
+    "D": "Baholash tizimi, eslash qobiliyati, tez o`qish",
+    "javob": "A"
+  },
+  {
+    "savol": "Neyropedagogika o‘quv jarayonini qanday qiladi?",
+    "A": "Shaxsga yo‘naltirilgan va moslashtirilgan",
+    "B": "Qiyin va majburiy",
+    "C": "Eslab qolishga asoslangan",
+    "D": "Kasbga yo‘naltirilgan va moslashtirilgan",
+    "javob": "A"
+  },
+  {
+    "savol": "Qanday yondashuv bilish jarayonini samarali qiladi?",
+    "A": "Ko‘rgazmali, eshitiladigan va amaliy usullarning uyg‘unligi",
+    "B": "Og‘zaki tushuntirish",
+    "C": "O‘qituvchining ko‘p gapirishi",
+    "D": "Baholashga, yozma ishlarga va yozma ishlarga urg‘u berish",
+    "javob": "A"
+  },
+  {
+    "savol": "Neyropedagogik xususiyatlarni aniqlash uchun nima zarur?",
+    "A": "Kuzatuv, suhbat, test va diagnostika metodlari",
+    "B": "Baholarni umumlashtirish",
+    "C": "Telefon orqali so‘rash",
+    "D": "Darsda qatnashganini yozib olish",
+    "javob": "A"
+  },
+  {
+    "savol": "Bilish jarayonini rivojlantirishda qanday metodlar samarali hisoblanadi?",
+    "A": "Faol o‘rgatuvchi usullar, vizual materiallar, kinestetik mashg‘ulotlar",
+    "B": "Diktant yozish",
+    "C": "Kunlik topshiriq yozish",
+    "D": "Faol o‘zgaruvchi usullar, real materiallar, aqliy mashg‘ulotlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Neyropedagogika nima?",
+    "A": "Ta’lim jarayonida miya faoliyati va psixologik omillarni hisobga olgan pedagogika yo‘nalishi",
+    "B": "Bolalar psixologiyasini o‘rganadigan soha",
+    "C": "Neyroxirurgik usullarni ta’limda qo‘llash",
+    "D": "Har bir o‘quvchining individual miyaviy xususiyatlarini inobatga olib, samarali ta’lim berish",
+    "javob": "A"
+  },
+  {
+    "savol": "Neyropedagogikaning asosiy maqsadi nima?",
+    "A": "Har bir o‘quvchining individual miyaviy xususiyatlarini inobatga olib, samarali ta’lim berish",
+    "B": "O‘quvchilarni sportga jalb etish",
+    "C": "O‘qituvchilarni tibbiy tekshiruvdan o‘tkazish",
+    "D": "Ta’lim jarayonida miya faoliyati va psixologik omillarni hisobga olgan pedagogika yo‘nalishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Kasb-hunar yo‘nalishini tanlashda neyropedagogika qanday rol o‘ynaydi?",
+    "A": "O‘quvchining qobiliyat, qiziqish va miyaviy rivojlanishini tahlil qilib, mos yo‘nalishni tavsiya qiladi",
+    "B": "O‘quvchining jismoniy sog‘lig‘ini baholaydi",
+    "C": "Kasb tanlashda ota-onaning fikrini asosiy qiladi",
+    "D": "Barcha o‘quvchilarga bir xil kasbni tanlab, o`quvchilarga ta`lim berishni tavsiya qiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘quvchilarning qaysi xususiyatlari neyropedagogik yondashuvda inobatga olinadi?",
+    "A": "Miya turi, qobiliyat, hissiy holat va xotira darajasi",
+    "B": "Baholari",
+    "C": "Tashqi ko‘rinishi",
+    "D": "Ta’lim jarayonida miya faoliyati va psixologik omillarni hisobga olgan pedagogika yo‘nalishini tavsiya qiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Neyropedagogik yondashuv asosida tuzilgan ta’lim qanday bo‘ladi?",
+    "A": "Shaxsiylashtirilgan va differensiallashtirilgan",
+    "B": "Qatiy va standartga asoslangan",
+    "C": "Nazariyaga yo‘naltirilgan",
+    "D": "Jismoniy va differensiallashtirilgan mehnatga asoslangan",
+    "javob": "A"
+  },
+  {
+    "savol": "Kasbga yo‘naltirishda o‘quvchining miyaning qaysi qismi faoliyati muhim?",
+    "A": "Old miyaning prefrontal korteksi",
+    "B": "Orqa miyaning refleks zonasi",
+    "C": "Yurak faoliyati bilan bog‘liq qism",
+    "D": "Orqa miyaning profrontal refleksi",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘quvchilarning kasbiy qiziqishlarini aniqlash uchun qanday yondashuv samarali?",
+    "A": "Neyropsixologik testlar asosida tahlil qilish",
+    "B": "Tasodifiy anketalar",
+    "C": "Do‘stlari tanlagan yo‘nalishga qarash",
+    "D": "Muallimning shaxsiy fikriga qarab tanlash",
+    "javob": "A"
+  },
+  {
+    "savol": "Neyropedagogik yondashuvda qaysi holatga alohida e’tibor qaratiladi?",
+    "A": "Har bir bolaning o‘ziga xos idrok va o‘rganish uslubiga",
+    "B": "Baholash tizimiga",
+    "C": "Tarbiyaviy darslar soniga",
+    "D": "Har bir bolaning jismoniy va aqliy tayyorgarligiga",
+    "javob": "A"
+  },
+  {
+    "savol": "Neyropedagogikaning kasbga yo‘naltirishdagi foydasi nimada?",
+    "A": "Kasb tanlashda o‘quvchi miyasining individual imkoniyatlarini hisobga olish",
+    "B": "Test natijalariga qarab baholash",
+    "C": "Kasb tanlashda ota-onaning kasbini davom ettirishga majburlash",
+    "D": "Hammaga bir xil kasb tavsiya qilish",
+    "javob": "A"
+  },
+  {
+    "savol": "Neyropedagogika asosida kasbga yo‘naltirish qanday natija beradi?",
+    "A": "O‘quvchining qiziqishiga mos va samarali kasb tanlashga yordam beradi",
+    "B": "Tushunarsiz va murakkab jarayon bo‘ladi",
+    "C": "O‘quvchi mustaqil tanlov qilolmaydi",
+    "D": "Har doim bir xil natijani beradi yoki samarasiz kasb tanlashga majbur qiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Yarimsharlar assimetriyasi nima?",
+    "A": "Miya chap va o‘ng yarimsharlarining funksional farqlanishi",
+    "B": "Yurakning ikki qismga bo‘linishi",
+    "C": "Ko‘zlararo farq",
+    "D": "Qon bosimi tafovutining funksional farqlanishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Miya yarimsharlari faoliyatining qaysi biri odatda mantiqiy fikrlash bilan bog‘liq?",
+    "A": "Chap yarimshar",
+    "B": "O‘ng quloq",
+    "C": "O‘ng yarimshar",
+    "D": "Orqa miya",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘ng yarimshar asosan qaysi funksiyaga mas’ul?",
+    "A": "Tasviriy, hissiy va intuitiv faoliyat",
+    "B": "Mantiqiy fikrlash",
+    "C": "Matematik hisob-kitob",
+    "D": "Til, matematik va grammatik faoliyat",
+    "javob": "A"
+  },
+  {
+    "savol": "Gender xususiyatlar nima?",
+    "A": "Ijtimoiy va psixologik jihatdan erkaklik yoki ayollik belgilari",
+    "B": "Biologik jins",
+    "C": "Iqtisodiy va siyosiy jihatdan erkaklik yoki ayollik belgilari",
+    "D": "O‘qish darajasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Tadqiqotlarga ko‘ra, ayollarda qanday yarimshar faolroq bo‘lishi mumkin?",
+    "A": "O‘ng yarimshar (tasviriy va hissiy faoliyat)",
+    "B": "Chap yarimshar (mantiqiy)",
+    "C": "Orqa miya (aqliy va ma`naviy faoliyat)",
+    "D": "Har ikki yarimshar bir xil",
+    "javob": "A"
+  },
+  {
+    "savol": "Erkaklar ko‘pincha qanday yarimshar ustuvorligi bilan ajralib turadi?",
+    "A": "Chap yarimshar (mantiqiy, tahliliy fikrlash)",
+    "B": "O‘ng yarimshar (hissiy)",
+    "C": "Ikkala yarimshar bir xil",
+    "D": "Miya usti qismi (tasviriy va hissiy faoliyat)",
+    "javob": "A"
+  },
+  {
+    "savol": "Yarimshar assimetriyasi insonga qanday ta’sir qiladi?",
+    "A": "Uning o‘ylash uslubi, kasb tanlovi va muomala shakliga",
+    "B": "Uning bo‘yiga",
+    "C": "Ovqatlanish odatlariga",
+    "D": "Uning sportga bo‘lgan munosabati, mashq tanlovi va mashg`ulot shakliga",
+    "javob": "A"
+  },
+  {
+    "savol": "Gender va miya faoliyati o‘rtasidagi bog‘liqlik nima bilan aniqlanadi?",
+    "A": "Psixologik testlar va neyropsixologik tadqiqotlar bilan",
+    "B": "Ovqatlanish ratsioni bilan",
+    "C": "Jismoniy kuch bilan",
+    "D": "Harorat o‘zgarishi va iqlim yaxshilanishi bilan",
+    "javob": "A"
+  },
+  {
+    "savol": "Ayollar va erkaklar o‘rtasidagi tafovutlardan biri nimada ko‘proq seziladi?",
+    "A": "Ma’lumotni qayta ishlash uslubida (vizual, verbal, hissiy)",
+    "B": "Tashqi ko‘rinishda",
+    "C": "Uxlab qolish vaqtida",
+    "D": "Yoshlik davrida (emotsional, real, virtual)",
+    "javob": "A"
+  },
+  {
+    "savol": "Miya assimetriyasini bilish kasb tanlashda nima uchun muhim?",
+    "A": "Insonning tabiiy moyilligiga mos kasbni tavsiya qilish mumkin",
+    "B": "Bilim darajasini aniqlash uchun",
+    "C": "Bo‘sh vaqtni tashkil qilish uchun",
+    "D": "Bolaning ijtimoiy-psixologik jihatdan erkak yoki ayol sifatida shakllanishi mumkin",
+    "javob": "A"
+  },
+  {
+    "savol": "Gender xususiyat deganda nima tushuniladi?",
+    "A": "Bolaning ijtimoiy-psixologik jihatdan erkak yoki ayol sifatida shakllanishi",
+    "B": "Insonning tabiiy moyilligiga mos kasbni tavsiya qilishi",
+    "C": "Bola tanlagan kiyim rangi",
+    "D": "Bola nechanchi sinfda o‘qishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ta’lim jarayonida gender farqlarni inobatga olishning asosiy maqsadi nima?",
+    "A": "Har bir bolaning individual qobiliyatini to‘g‘ri yo‘naltirish",
+    "B": "O‘quvchilarni guruhlarga ajratish",
+    "C": "Qizlar va o‘g‘il bolalarga bir xil topshiriq berish",
+    "D": "o‘g‘il bolalarni rivojlantirish",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘g‘il bolalar o‘rganishda ko‘proq qanday yondashuvni afzal ko‘rishadi?",
+    "A": "Amaliy, faol va raqobatga asoslangan yondashuvni",
+    "B": "Tinch, sokin muhitni",
+    "C": "Emotsional suhbatni",
+    "D": "Uzoq nazariy ma’ruzalarni",
+    "javob": "A"
+  },
+  {
+    "savol": "Qiz bolalar ta’limda ko‘proq nimaga moyil bo‘ladi?",
+    "A": "Til, ifoda, ijtimoiy aloqa va tartibga",
+    "B": "Tez yugurish va jismoniy faollikka",
+    "C": "Ko`rish, eshitish, aqliy va siyosiy muhitga",
+    "D": "Qoidabuzarlikka",
+    "javob": "A"
+  },
+  {
+    "savol": "Genderga yo‘naltirilgan ta’lim qanday foyda beradi?",
+    "A": "O‘quvchilarning qobiliyatiga mos metodlarni tanlash imkonini beradi",
+    "B": "O‘quvchilarni ajratib qo‘yadi",
+    "C": "Ta’lim sifatini pasaytiradi",
+    "D": "Qizlarning qobiliyatiga mos mashqlarni tanlash imkonini bermaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi yondashuv gender sezgir ta’limga misol bo‘ladi?",
+    "A": "O‘quvchilarning jinsiga qarab o‘quv uslubini moslashtirish",
+    "B": "Barcha bolaga bir xil yondashuvni qo‘llash",
+    "C": "Erkak o‘qituvchilarni yollash",
+    "D": "Qizlarni faqat gumanitar fanlarga yo‘naltirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Gender sezgir metodika qanday natijaga olib keladi?",
+    "A": "Ta’limda tenglik, motivatsiya va ishtirokni oshiradi",
+    "B": "Jinsiy ajratishni kuchaytiradi",
+    "C": "O‘g‘il bolalarni chetlashtiradi",
+    "D": "Maktabda bahoni, aqliy mehnatni va darsda ishtirokni ko`paytiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘g‘il bolalar bilan ishlashda qanday metod samarali?",
+    "A": "Harakatga boy, musobaqali va amaliy topshiriqlar",
+    "B": "Uzoq matn o‘qitish",
+    "C": "Tinglashga asoslangan metod",
+    "D": "Mazmunli uy vazifasi berish va mustaqil ishlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Qiz bolalar uchun samarali ta’lim muhiti qanday bo‘ladi?",
+    "A": "Hamkorlikka asoslangan, ijtimoiy va hissiy jihatlarni hisobga oluvchi",
+    "B": "Raqobatga asoslangan",
+    "C": "Zo‘r berilgan jismoniy faol",
+    "D": "Uyda o`qishga asoslangan, siyosiy va rasmiy jihatlarni hisobga oluvchi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ta’limda genderga moslashtirilgan yondashuv o‘qituvchidan nima talab qiladi?",
+    "A": "Moslashuvchanlik, empatiya va metodik yondashuvni diversifikatsiya qilish",
+    "B": "Hammaga bir xil topshiriq berish",
+    "C": "qizlar bilan ishlash",
+    "D": "Emotsional, eksternal va integrallashtirilgan yondashuvni diversifikatsiya qilish",
+    "javob": "A"
+  },
+  {
+    "savol": "Chapqo‘llik nima?",
+    "A": "Insonning chap qo‘lini ustun (asosiy) qo‘l sifatida ishlatishi",
+    "B": "Ikki qo‘lni bir xil ishlatish qobiliyati",
+    "C": "O‘ng qo‘ldan foydalanmaslik",
+    "D": "Insonning ikkala qo‘lini ustun (asosiy) qo‘l sifatida ishlatishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Miya yarimsharlari nima?",
+    "A": "Miyaning chap va o‘ng funksional bo‘limlari",
+    "B": "Yurakning bo‘linmalari",
+    "C": "Ko‘zning qismlari",
+    "D": "Yurakning chap va o`ng qon aylanish tizimi qismlari",
+    "javob": "A"
+  },
+  {
+    "savol": "Chap yarimshar asosan qaysi funksiyaga mas’ul?",
+    "A": "Nutq, mantiq, analiz va yozma faoliyat",
+    "B": "Musiqa eshitish",
+    "C": "Tasvirlarni anglash",
+    "D": "Ko‘rish, his qilish va eshitish faoliyati",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘ng yarimshar qanday funksiyalarni boshqaradi?",
+    "A": "Tasavvur, emotsiya va ijodkorlik",
+    "B": "Matematika va tahlil",
+    "C": "eshitish",
+    "D": "Til grammatikasi, empatiya va aqliy rivojlanish",
+    "javob": "A"
+  },
+  {
+    "savol": "Chapqo‘llarda qaysi yarimshar ko‘proq faol bo‘ladi?",
+    "A": "O‘ng yarimshar",
+    "B": "Chap yarimshar",
+    "C": "Orqa miya",
+    "D": "Bosh miya poyasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Yarimsharlar assimetriyasi nima?",
+    "A": "Miya yarimsharlarining funksional farqlanishi",
+    "B": "Qo‘l kaftining uzunligi",
+    "C": "Ko‘z o‘lchamining farqi",
+    "D": "Yurak, qon-tomir shakllarining farqi",
+    "javob": "A"
+  },
+  {
+    "savol": "Chapqo‘llik insonning qanday qobiliyatiga ta’sir qilishi mumkin?",
+    "A": "Ijodkorlik, tasviriy fikrlash va makonli anglashga",
+    "B": "Tanqidiy fikrlashni pasaytiradi",
+    "C": "Yozuvni to‘xtatadi",
+    "D": "Boshqa bolalardan ajralib turishi, eshitish va his qilish qobiliyatiga",
+    "javob": "A"
+  },
+  {
+    "savol": "Chapqo‘llik asosan qanday omillar bilan belgilanadi?",
+    "A": "Genetik va neyrologik omillar",
+    "B": "O‘qituvchi tanlovi",
+    "C": "Yozuv quroli turi",
+    "D": "Ovqatlanish odatlari va ilmiy tadqiqotlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Chapqo‘llik bilan bog‘liq yondashuv ta’limda qanday bo‘lishi kerak?",
+    "A": "Individual, moslashtirilgan va neyropedagogik asosda",
+    "B": "Har doim o‘ng qo‘lga o‘rgatish kerak",
+    "C": "Yagona uslubda o‘qitish",
+    "D": "Empatik, emotsional va astropedagogik asosda",
+    "javob": "A"
+  },
+  {
+    "savol": "Chapqo‘llarda yarimshar faoliyati qanday farq qiladi?",
+    "A": "O‘ng yarimshar ustunligi kuzatiladi",
+    "B": "Ikkala yarimshar bir xil ishlaydi",
+    "C": "Chap yarimshar ustun bo‘ladi",
+    "D": "Ular yarimsharsiz ishlaydi",
+    "javob": "A"
+  },
+  {
+    "savol": "Chapaqay o‘quvchi deganda kim tushuniladi?",
+    "A": "Asosan chap qo‘lidan foydalanuvchi o‘quvchi",
+    "B": "Ikki qo‘lini bir xil ishlatadigan o‘quvchi",
+    "C": "O‘ng qo‘lidan umuman foydalana olmaydigan o‘quvchi",
+    "D": "Asosan yozishni yoqtirmaydigan o‘quvchi",
+    "javob": "A"
+  },
+  {
+    "savol": "Chapaqay bolalarga ta’lim berishda qanday yondashuv kerak?",
+    "A": "Moslashtirilgan, individual yondashuv asosida",
+    "B": "O‘ng qo‘lga majburlab yozdirish",
+    "C": "Barcha o‘quvchilarga bir xil yondashuv",
+    "D": "Moslashtirilgan, alternativ boshqaruv asosida",
+    "javob": "A"
+  },
+  {
+    "savol": "Chapaqaylik qanday sabablarga bog‘liq bo‘ladi?",
+    "A": "Neyrobiologik va genetik omillarga",
+    "B": "Sportga moyillikka",
+    "C": "Ko‘p televizor ko‘rishga",
+    "D": "Yozuv mashqlarining kamligiga",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘qituvchi chapaqay o‘quvchiga qanday yordam berishi mumkin?",
+    "A": "Qo‘l harakati va yozish pozitsiyasiga e’tibor qaratib",
+    "B": "O‘ng qo‘l bilan yozishni o‘rgatib",
+    "C": "Uni boshqa joyga ko‘chirib",
+    "D": "Eshitish, gapirish va aqliy rivojlanishni pasaytirib",
+    "javob": "A"
+  },
+  {
+    "savol": "Chapaqay o‘quvchilarga mos muhit qanday bo‘lishi kerak?",
+    "A": "Chap qo‘l bilan erkin ishlashi uchun qulay joylashuv va jihozlar",
+    "B": "O‘ng qo‘l uchun standart muhit",
+    "C": "Maxsus alohida xona",
+    "D": "O`ng qo‘l bilan erkin ishlashi uchun qulay joylashuv va jihozlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Chapaqay o‘quvchilarda qaysi jihatlar ko‘proq rivojlangan bo‘lishi mumkin?",
+    "A": "Tasavvur, ijodkorlik, makoniy fikrlash",
+    "B": "Mantiqiy va matematik tahlil",
+    "C": "Sportga bo‘lgan qiziqish",
+    "D": "Jismoniy faollik, tartib-intizom, mantiqiy fikrlash",
+    "javob": "A"
+  },
+  {
+    "savol": "Chapaqay o‘quvchiga darsda qanday uslub samarali bo‘ladi?",
+    "A": "Vizual, amaliy va ijodiy yondashuvlar",
+    "B": "Quruq nazariy ma’ruza",
+    "C": "O‘qishdan tashqari ishlar",
+    "D": "Doimiy yozma va aqliy topshiriqlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Chapaqay bolalarni o‘ng qo‘lga majburlash nima sabab bo‘ladi?",
+    "A": "Asabiylik, stress va o‘rganish qiyinchiliklariga",
+    "B": "Yaxshi yozuvga",
+    "C": "Ijobiy baholarga",
+    "D": "Jismoniy rivojlanish, aqliy o`sish va ilm olishga",
+    "javob": "A"
+  },
+  {
+    "savol": "Chapaqaylik bolaning o‘qish qobiliyatiga qanday ta’sir ko‘rsatadi?",
+    "A": "To‘g‘ri yondashuv bo‘lsa, hech qanday salbiy ta’sir qilmaydi",
+    "B": "Har doim salbiy ta’sir qiladi",
+    "C": "Uni sust o‘quvchiga aylantiradi",
+    "D": "Har bir bolaning neyropsixologik xususiyatlariga mos ta’lim berishga ta`sir qiladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Ta’limda chapaqay o‘quvchilarga qanday munosabat bo‘lishi kerak?",
+    "A": "Hurmat, e’tibor va qo‘llab-quvvatlash asosida",
+    "B": "Ulardan ko‘proq ish talab qilish",
+    "C": "Doim sinab ko‘rish kerak",
+    "D": "To‘g‘ri yondashuv bo‘lmasa, ilm olishga salbiy ta’sir asosida",
+    "javob": "A"
+  },
+  {
+    "savol": "Neyropedagogik diagnostika nima?",
+    "A": "O‘quvchilarning miyaviy xususiyatlarini aniqlovchi pedagogik-psixologik usul",
+    "B": "Faoliyatni nazorat qilish rejasi",
+    "C": "Baholashning an’anaviy turi",
+    "D": "Sportdagi tekshiruv tizimini tekshiruvchi pedagogik-psixologik usul",
+    "javob": "A"
+  },
+  {
+    "savol": "Yarimsharlar funksional assimetriyasi deganda nima tushuniladi?",
+    "A": "Miya chap va o‘ng qismlarining funksional ustuvorligi farqi",
+    "B": "Yurakning ikkiga bo‘linishi",
+    "C": "Tana haroratining farqi",
+    "D": "Tana mushaklarining funksional ustuvorligi farqi",
+    "javob": "A"
+  },
+  {
+    "savol": "Neyropedagogik yondashuvning asosiy maqsadi nima?",
+    "A": "Har bir bolaning neyropsixologik xususiyatlariga mos ta’lim berish",
+    "B": "baho qo‘yish",
+    "C": "Har bir bolaning darsda tinch turishini kuzatish",
+    "D": "Har bir bolaning jismoniy faoliyatini nazorat qilish va unga mos ta’lim berish",
+    "javob": "A"
+  },
+  {
+    "savol": "Yarimshar faoliyatining farqlanishi nimaga olib keladi?",
+    "A": "Insonning o‘ylash, tushunish va kasbga moyillikdagi farqiga",
+    "B": "Tanadagi og‘irlikning ortishiga",
+    "C": "Jinsiy farqni yo‘qotishga",
+    "D": "Insonning uyqu va ovqat hazm qilish tizimidagi muammolariga",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘quvchining chap yarimshari ustun bo‘lsa, u ko‘proq qanday yo‘nalishda kuchli bo‘ladi?",
+    "A": "Mantiqiy fikrlash, til, analiz",
+    "B": "Musiqa, tasviriy san’at",
+    "C": "Jismoniy harakat",
+    "D": "Tez yugurish, uzoqqa sakrash, mashq va muloqot",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘quvchining o‘ng yarimshari ustun bo‘lsa, qanday xususiyatlar kuchli bo‘ladi?",
+    "A": "Tasviriy fikrlash, ijod, hissiyot",
+    "B": "Matematika, tahlil",
+    "C": "Grammatik qoidalar",
+    "D": "Texnik va texnologik ko‘nikmalar",
+    "javob": "A"
+  },
+  {
+    "savol": "Yarimsharlar assimetriyasini aniqlashda nima qo‘llaniladi?",
+    "A": "Maxsus testlar va kuzatuv usullari",
+    "B": "Harorat o‘lchov uskunalari",
+    "C": "Sport testlari",
+    "D": "Ko‘z bilan ko‘rish mashqlari",
+    "javob": "A"
+  },
+  {
+    "savol": "Dominant yarimsharni aniqlashning foydasi nimada?",
+    "A": "O‘quvchining qobiliyatiga mos ta’lim metodini tanlash",
+    "B": "Baholarni adolatli qo‘yish",
+    "C": "O‘qituvchini almashtirish",
+    "D": "Mashg‘ulot vaqtini kamaytirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Neyropedagogik diagnostika vositasi deganda nima tushuniladi?",
+    "A": "Miyaning funksional holatini aniqlashga yordam beradigan test va mashqlar majmuasi",
+    "B": "Elektron kundalik",
+    "C": "Laboratoriya asboblari",
+    "D": "Shaxsiy yondashuv asosida o‘quv jarayonini moslashtirish tizimi",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘quvchilardagi funksional assimetriya aniqlangach, qanday chora ko‘rish kerak?",
+    "A": "Shaxsiy yondashuv asosida o‘quv jarayonini moslashtirish",
+    "B": "Hamma bolaga bir xil metodni berish",
+    "C": "Ularga nisbatan talabni pasaytirish",
+    "D": "Miyaning funksional holatini aniqlashga yordam berishga moslashtirish",
+    "javob": "A"
+  },
+  {
+    "savol": "Neyropedagogika nima?",
+    "A": "Neyrofiziologiya va pedagogikaning integratsiyalashgan sohasi",
+    "B": "tibbiyotga oid yo‘nalish",
+    "C": "Texnologiyalar bilan bog‘liq soha",
+    "D": "Chap va o‘ng miya yarimsharlarining turli funksiyalarni bajarish sohasi",
+    "javob": "A"
+  },
+  {
+    "savol": "Yarimsharlar funksional assimetriyasi nima?",
+    "A": "Chap va o‘ng miya yarimsharlarining turli funksiyalarni bajarishi",
+    "B": "Yurakning bir tomonlama ishlashi",
+    "C": "Nafas olishning notekisligi",
+    "D": "Eshitish nervlarining o‘zgaruvchan funksiyalarini bajarishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Neyropedagogik diagnostika deganda nima tushuniladi?",
+    "A": "Miya faoliyatini o‘rganish orqali o‘quvchining qobiliyatlarini aniqlash",
+    "B": "Darsdagi faollikni baholash",
+    "C": "Baho qo‘yish tizimi",
+    "D": "Shaxsiy yondashuv asosida o‘quv jarayonini moslashtirish",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘quvchida qaysi test yordamida yarimsharlar ustunligi aniqlanishi mumkin?",
+    "A": "Dominant qo‘l, quloq, ko‘z testlari orqali",
+    "B": "diktant yozish orqali",
+    "C": "Baholash varaqasi orqali",
+    "D": "Jismoniy, kuch oshirishga moslashtirilgan va aqliy mashqlar orqali",
+    "javob": "A"
+  },
+  {
+    "savol": "Chap yarimshar dominant bo‘lgan o‘quvchiga qanday fanlar osonroq bo‘ladi?",
+    "A": "Matematika, til, mantiqiy fanlar",
+    "B": "Rassomlik, musiqa",
+    "C": "Jismoniy tarbiya",
+    "D": "Texnologiya, til va aniq fanlar",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘ng yarimshar ustun bo‘lgan o‘quvchilar qanday faoliyatga moyil bo‘ladi?",
+    "A": "Ijodiy, vizual, hissiy faoliyatlarga",
+    "B": "Nazariy va analitik topshiriqlarga",
+    "C": "Mantiqiy muammolarga",
+    "D": "Texnik, texnologik va raqamli loyihalarga",
+    "javob": "A"
+  },
+  {
+    "savol": "Yarimsharlar assimetriyasini aniqlashda nimalarga e’tibor beriladi?",
+    "A": "Qo‘l, ko‘z, quloq dominanti, tanlov va reaksiya tahliliga",
+    "B": "O‘quvchining kiyimiga",
+    "C": "Soch turmagiga",
+    "D": "Yarimshar ustunligini hisobga olgan differensial yondashuvga",
+    "javob": "A"
+  },
+  {
+    "savol": "Yarimshar ustunligini bilish nima uchun kerak?",
+    "A": "Mos o‘quv strategiyasini tanlash uchun",
+    "B": "Baholashni osonlashtirish uchun",
+    "C": "tibbiy maqsadlar uchun",
+    "D": "Tahliliy va ketma-ket fikrlash uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "Dominant chap yarimsharli o‘quvchilar qanday fikrlashga ega bo‘ladi?",
+    "A": "Tahliliy va ketma-ket fikrlash",
+    "B": "Obrazli va hissiy fikrlash",
+    "C": "Faol jismoniy harakat",
+    "D": "Tasodifiy fikrlar oqimi ketma-ketligi",
+    "javob": "A"
+  },
+  {
+    "savol": "Neyropedagogik yondashuv asosida o‘quvchi bilan ishlashda nimalar muhim?",
+    "A": "Yarimshar ustunligini hisobga olgan differensial yondashuv",
+    "B": "umumiy o‘quv dasturi",
+    "C": "O‘qituvchining didi",
+    "D": "Miya chap va o‘ng yarimsharlarining turlicha psixologik va kognitiv funksiyalarga ixtisoslashganligini",
+    "javob": "A"
+  },
+  {
+    "savol": "Yarimsharlar funksional assimetriyasi nimani bildiradi?",
+    "A": "Miya chap va o‘ng yarimsharlarining turlicha psixologik va kognitiv funksiyalarga ixtisoslashganligini",
+    "B": "Miya bir xil faoliyatda ishlashini",
+    "C": "Tanadagi mushaklarning teng rivojlanganligini",
+    "D": "Yarimshar ustunligini hisobga olgan differensial yondashuvga ixtisoslashganligini",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘ng yarimshari ustun bo‘lgan bola qanday bo‘lishi mumkin?",
+    "A": "Obrazli fikrlovchi, hissiy, tasviriy faoliyatlarga moyil",
+    "B": "Mantiqan kuchli, raqamlar bilan ishlashni yoqtiruvchi",
+    "C": "Juda sustkash va passiv",
+    "D": "Mantiqiy fikrlovchi, ketma-ketlikni tushunuvchi, so‘zlarga moyil",
+    "javob": "A"
+  },
+  {
+    "savol": "Chap yarimshari ustun bola qanday xususiyatga ega bo‘ladi?",
+    "A": "Mantiqiy fikrlovchi, ketma-ketlikni tushunuvchi, so‘zlarga sezgir",
+    "B": "Emotsional va tasvirga asoslangan qaror qabul qiluvchi",
+    "C": "Obrazli fikrlovchi, hissiy, tasviriy faoliyatlarga moyil",
+    "D": "Yaxshi izchil nutqqa ega, so‘z boyligi rivojlangan",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘ng yarimsharli bola qanday fanlarga moyil bo‘ladi?",
+    "A": "Rassomlik, musiqa, tasviriy san’at",
+    "B": "Matematika va fizika",
+    "C": "Texnologiya va informatika",
+    "D": "Yaxshi izchil nutqqa ega, so‘z boyligi rivojlangan",
+    "javob": "A"
+  },
+  {
+    "savol": "Chap yarimshar ustun bo‘lgan bolaning nutq xususiyati qanday bo‘ladi?",
+    "A": "Yaxshi izchil nutqqa ega, so‘z boyligi rivojlangan",
+    "B": "Kamgap, ifoda qilishda qiynaladi",
+    "C": "Har doim rasm orqali ifoda qiladi",
+    "D": "Yaxshi izchil nutqqa ega, emotsiyalar orqali gapiradi",
+    "javob": "A"
+  },
+  {
+    "savol": "Psixologik portret tuzishda nimalarga e’tibor beriladi?",
+    "A": "Bola harakatlarining neyropsixologik tahliliga",
+    "B": "Uning kiyimiga va tashqi ko‘rinishiga",
+    "C": "Qanday daftar ishlatishiga",
+    "D": "Rangi ko‘proq qaysi bo‘lishiga",
+    "javob": "A"
+  },
+  {
+    "savol": "Yarimshar ustunligi asosida bolaning qaysi xususiyati aniqlanishi mumkin?",
+    "A": "Qobiliyat yo‘nalishi va fikrlash uslubi",
+    "B": "Tashqi intizomi",
+    "C": "Oila a’zolari soni",
+    "D": "Sinfda nechanchi o‘rinda o‘tirishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Dominant o‘ng yarimshar bola qaror qabul qilishda qanday bo‘ladi?",
+    "A": "Emotsiyalarga asoslangan, tez, intuitsiyaga tayanuvchi",
+    "B": "Rejaga asoslangan, mantiqiy",
+    "C": "Doim boshqalardan so‘raydi",
+    "D": "Ketma-ket, izchil fikrlash va nutqiy qobiliyat",
+    "javob": "A"
+  },
+  {
+    "savol": "Dominant chap yarimsharli bolaning asosiy kuchli tomoni nima?",
+    "A": "Ketma-ket, izchil fikrlash va nutqiy qobiliyat",
+    "B": "Erkin tasavvur qilish",
+    "C": "O‘yinlarda g‘alaba qozonish",
+    "D": "Emotsiyalarga asoslangan, tez, intuitsiyaga tayanuvchi",
+    "javob": "A"
+  },
+  {
+    "savol": "Bolalarda funksional assimetriya asosida ta’limni moslashtirish qanday samara beradi?",
+    "A": "Ularning tabiiy qobiliyatiga mos rivojlanishiga yordam beradi",
+    "B": "Ularni bir xil yondashuv bilan o‘qitadi",
+    "C": "yaxshi baho olishga xizmat qiladi",
+    "D": "Ularni sinfdan ajratishga olib keladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Reprezentativ tizim nima?",
+    "A": "Insonning ma’lumotni qabul qilishdagi asosiy sezgi kanali",
+    "B": "Kompyuter tarmoqlari tizimi",
+    "C": "Statistik hisobot turi",
+    "D": "Baholash jadvali",
+    "javob": "A"
+  },
+  {
+    "savol": "Vizual reprezentativ tizimga ega bo‘lgan odam qanday bo‘ladi?",
+    "A": "Ma’lumotni ko‘rish orqali yaxshi eslab qoladi",
+    "B": "Musiqani tez eslab qoladi",
+    "C": "Harakatni yaxshi bajaradi",
+    "D": "Harakat va teginish orqali o‘rganadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Audial tizim vakili qanday o‘rganadi?",
+    "A": "Eshitish orqali ma’lumotni yaxshi qabul qiladi",
+    "B": "Rasm chizish orqali o‘rganadi",
+    "C": "Yugurish orqali o‘rganadi",
+    "D": "Ma’lumotni ko‘rish orqali yaxshi eslab qoladi",
+    "javob": "A"
+  },
+  {
+    "savol": "Kinestetik reprezentativ tizimga ega bo‘lgan o‘quvchining xususiyati qanday?",
+    "A": "Harakat va teginish orqali o‘rganadi",
+    "B": "Ma’lumotni ko‘rish orqali yaxshi eslab qoladi",
+    "C": "Televizor ko‘rishni yaxshi ko‘radi",
+    "D": "Raqamli qurilmalarga qiziqadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Reprezentativ tizimlar ta’limda nima uchun muhim?",
+    "A": "O‘quvchiga mos uslubda ta’lim berish imkonini beradi",
+    "B": "baho qo‘yish uchun kerak",
+    "C": "Darsni tez tugatish uchun ishlatiladi",
+    "D": "Yozuvni yaxshilash uchun",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi test orqali reprezentativ tizim aniqlanadi?",
+    "A": "So‘rovnoma, kuzatuv va refleksiya asosida",
+    "B": "Quloq eshitish testi",
+    "C": "Matematika testi",
+    "D": "Sport normativlari",
+    "javob": "A"
+  },
+  {
+    "savol": "Vizual o‘quvchi uchun qanday usul samarali bo‘ladi?",
+    "A": "Diagramma, rasm, rangli jadval",
+    "B": "Tovushli topshiriqlar",
+    "C": "Harakatli o‘yinlar",
+    "D": "Qo‘l bilan yozish",
+    "javob": "A"
+  },
+  {
+    "savol": "Audial o‘quvchi bilan ishlashda qanday yondashuv foydali?",
+    "A": "Leksiyalar, suhbatlar, audio materiallar",
+    "B": "Rangli illyustratsiyalar",
+    "C": "Modellar yasash",
+    "D": "Xaritadan foydalanish",
+    "javob": "A"
+  },
+  {
+    "savol": "Kinestetik o‘quvchiga qanday topshiriq mos keladi?",
+    "A": "Amaliy, qo‘l bilan bajariladigan faoliyatlar",
+    "B": "Eshitib yozish topshirig‘i",
+    "C": "Rasmlarni eslab qolish",
+    "D": "Matnni yodlash",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘quvchining yetakchi reprezentativ tizimini bilish qanday afzallik beradi?",
+    "A": "Ta’lim jarayonini shaxsga moslashtirish imkonini yaratadi",
+    "B": "Har doim testdan yuqori ball olishni kafolatlaydi",
+    "C": "O‘quvchini tanqid qilishga yordam beradi",
+    "D": "Darsni qisqartirishga yordam beradi",
+    "javob": "A"
+  }
+]
