@@ -1,0 +1,1234 @@
+[
+  {
+    "savol": "Evtanaziya nima?",
+    "A": "grekcha yaxshi o‘lim",
+    "B": "lotincha azobli o‘lim",
+    "C": "fransuzcha baxtli oʻlim",
+    "D": "inglizcha azobsiz oʻlim",
+    "javob": "A"
+  },
+  {
+    "savol": "Tariqat yo‘llari nechta?",
+    "A": "4 ta",
+    "B": "5 ta",
+    "C": "3 ta",
+    "D": "6 ta",
+    "javob": "A"
+  },
+  {
+    "savol": "Eklektika bu ... degan ma’noni bildiradi.",
+    "A": "tanlayman",
+    "B": "fizikadan keyin",
+    "C": "bahs, munozara",
+    "D": "yolg‘on, soxta",
+    "javob": "A"
+  },
+  {
+    "savol": "Korrupsiyaning necha xil xususiyati bor?",
+    "A": "7 xil",
+    "B": "5 xil",
+    "C": "4 xil",
+    "D": "6 xil",
+    "javob": "A"
+  },
+  {
+    "savol": "XX asr falsafasining asosiy oqimlari qaysilar?",
+    "A": "pragmatizm, ekzistentsializm",
+    "B": "idealistik, diniy",
+    "C": "idealistik, dialektik",
+    "D": "muqobil yo‘nalishlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Doa so‘zining ma’nosi nima?",
+    "A": "qonun",
+    "B": "fikrlash",
+    "C": "to‘qnashuv",
+    "D": "o‘zgaruvchanlik",
+    "javob": "A"
+  },
+  {
+    "savol": "Yerning quyosh atrofida aylanishini faraz qiligan O‘rta asrlardagi olim.",
+    "A": "Beruniy",
+    "B": "Xorazmiy",
+    "C": "Farobiy",
+    "D": "Ibn Sino",
+    "javob": "A"
+  },
+  {
+    "savol": "Falsafa atamasini birinchi bo‘lib qaysi faylasuf muomalaga kiritgan?",
+    "A": "Pifagor",
+    "B": "Aristotel",
+    "C": "Suqrot",
+    "D": "Platon",
+    "javob": "A"
+  },
+  {
+    "savol": "Olamni xudo – ilohiy ruh tomonidan yaratilgan deb ta’limot beruvchi oqim?",
+    "A": "idealizm",
+    "B": "atomizm",
+    "C": "olov",
+    "D": "suv",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘zbekiston mustaqilligining e’lon qilinganligi",
+    "A": "zaruriyat",
+    "B": "tasodif",
+    "C": "imkoniyat",
+    "D": "real imkoniyat",
+    "javob": "A"
+  },
+  {
+    "savol": "Inson borlig‘i o‘z ichiga nimalarni oladi?",
+    "A": "narsalar dunyosida inson borlig‘i va maxsus inson borlig‘i",
+    "B": "ijtimoiy borliq va jamiyatda borlig‘i, olov",
+    "C": "jamiyat borlig‘i va inson borlig‘i, suv",
+    "D": "substansiya va tabiat borlig‘i, ijtimoiy borliq",
+    "javob": "A"
+  },
+  {
+    "savol": "Falsafiy tafakkur qadimgi Sharq va G‘arbda ijtimoiy ongning dastlabki shakli sifatida qanday ko‘rinishda vujudga kelgan?",
+    "A": "mifologiya",
+    "B": "gnoseologiya",
+    "C": "ontologiya",
+    "D": "dialektik",
+    "javob": "A"
+  },
+  {
+    "savol": "Dunyoqarashning tarixiy turlarini sanab bering",
+    "A": "afsonaviy, diniy, falsafiy",
+    "B": "ilmiy, noilmiy, diniy",
+    "C": "noilmiy, diniy, sinfiy",
+    "D": "diniy, sinfiy, noilmiy",
+    "javob": "A"
+  },
+  {
+    "savol": "Dunyoqarash nima?",
+    "A": "bu sezgilar, tuyg‘ular, obrazlar kayfiyatlar yordami bilan olamni anglashdir",
+    "B": "insonning qadriyati, yo‘l-yo‘riq ko‘rsatadigan tizmidir",
+    "C": "bilimlar, baholar, prinsiplar majmuidir",
+    "D": "tushuncha, hukm, xulosa ko‘rinishida ifodalovchi nazariy bilimlar tizimi",
+    "javob": "A"
+  },
+  {
+    "savol": "Mantiq ilmi asoschisini ya’ni, mantiq qonunlarini ochgan birinchi faylasuf olimni aniqlang.",
+    "A": "Aristotel",
+    "B": "Forobiy",
+    "C": "Ibn Sino",
+    "D": "Diogen",
+    "javob": "A"
+  },
+  {
+    "savol": "Islоm dini Mоvаrаunnаhrgа qаchоn kirib kеldi?",
+    "A": "VIII-аsrning birinchi yarmidа",
+    "B": "VII-аsrning ikkinchi yarmidа",
+    "C": "V-аsrning ikkinchi yarmidа",
+    "D": "VI-аsrning birinchi yarmidа",
+    "javob": "A"
+  },
+  {
+    "savol": "Estetika so‘zining ma’nosi ?",
+    "A": "yunoncha – sezish, his qilish",
+    "B": "grekcha – yaxshi ko‘rmoq",
+    "C": "lotincha – aql",
+    "D": "arabcha – so‘z, degan ma’noni anglatadi",
+    "javob": "A"
+  },
+  {
+    "savol": "Estetika atamasini ilm-fan estetikasi sifatida, ilk bor qaysi faylasuf kiritgan?",
+    "A": "Aleksandr Baumgarten",
+    "B": "Aristotel",
+    "C": "Aflotun",
+    "D": "Jaloliddin Rumiy",
+    "javob": "A"
+  },
+  {
+    "savol": "Estetika fanining asosiy kategoriyalariga quyidagilardan qaysi biri kiradi?",
+    "A": "go‘zallik, xunuklik, nafosat, fojiaviylik",
+    "B": "tafakkur, dialektika, tubanlik, kulgililik",
+    "C": "mohiyat, sinergetika, metafizika",
+    "D": "metafizika, eklektika, sinergetika",
+    "javob": "A"
+  },
+  {
+    "savol": "Insonda tabiiylikni ifodalovchi tushunchalar qatorini ko’rsating.",
+    "A": "tugilish, bolalik, qarilik",
+    "B": "ong, axlok, madaniyat",
+    "C": "ishlab chiqarish, nutq",
+    "D": "nutq, munosobat",
+    "javob": "A"
+  },
+  {
+    "savol": "Antroposotsiogenez nima?",
+    "A": "jamiyatda insonning shakllanishi",
+    "B": "g‘oyaning shakllanish.",
+    "C": "jamiyatning shakllanishi",
+    "D": "madaniyatning shakllanishi",
+    "javob": "A"
+  },
+  {
+    "savol": "Milet falsafiy maktabi asoschisi kim?",
+    "A": "Fales",
+    "B": "Arastu",
+    "C": "Anaksimandr",
+    "D": "Pifagor",
+    "javob": "A"
+  },
+  {
+    "savol": "Islоmning eng аsоsiy bаyrаmlаri qаysilаr?",
+    "A": "ro’zа hаyiti, qurbоn hаyiti",
+    "B": "pаsха, rоjdеstvо",
+    "C": "хаtnа, nikоh",
+    "D": "Nаvruz, mаvlud",
+    "javob": "A"
+  },
+  {
+    "savol": "Islоmdа iymоndаn kеyingi o’rindа turаdigаn fаrz?",
+    "A": "nаmоz",
+    "B": "ro’zа",
+    "C": "zаkоt",
+    "D": "hаj",
+    "javob": "A"
+  },
+  {
+    "savol": "Falsafaning asosiy vazifalari",
+    "A": "tarbiyaviy, birlashtiruvchilik, biluvchilik",
+    "B": "metodologik, dunyoqarash",
+    "C": "tarbiyaviy, dunyoqarash",
+    "D": "dunyoqarash, oldindan ko‘rish",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi alloma “Sharq Arastusi” - “Muallim us-soniy” degan yuksak nomga sazovor bo‘lgan?",
+    "A": "Abu Nasr Forobiy",
+    "B": "Abu Ali Ibn Sino",
+    "C": "Abu Rayhon Beruniy",
+    "D": "Ali Qushchi",
+    "javob": "A"
+  },
+  {
+    "savol": "Fikrlash madaniyatini o‘rganuvchi san’at turi qaysi?",
+    "A": "mantiq san’ati",
+    "B": "ritorika",
+    "C": "dizayn",
+    "D": "simvolika",
+    "javob": "A"
+  },
+  {
+    "savol": "Mantiqiy qonunlar tizimini aniqlang.",
+    "A": "ayniyat, noziddiyat, istisno, etarli asos qonunlari",
+    "B": "inkorni inkor, ziddiyat, nikoh xaqida qonunlar",
+    "C": "mehnat haqida, ayniyat, jinoyat haqida qonunlar",
+    "D": "axloqiy, huquqiy, ilmiy, ob’ektiv qonunlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Tilning to‘g‘ri turlarini aniqlang.",
+    "A": "tabiiy, sun’iy",
+    "B": "to‘g‘ri, aniq",
+    "C": "izchil, ravon",
+    "D": "aniq, ravon",
+    "javob": "A"
+  },
+  {
+    "savol": "Globusni birinchi bo‘lib yaratgan alloma kim ?",
+    "A": "Abu Rayhon Beruniy",
+    "B": "Abu Ali ibn Sino",
+    "C": "Abu Nasr Farobiy",
+    "D": "Ahmad al Farg‘oniy",
+    "javob": "A"
+  },
+  {
+    "savol": "“Shayx ur –Rais” maqomi qaysi allomaga berilgan.",
+    "A": "Abu Ali Ibn Sino",
+    "B": "Abu Nasr Forobiy",
+    "C": "Abu Rayhon Beruniy",
+    "D": "Axmad al Farg‘oniy",
+    "javob": "A"
+  },
+  {
+    "savol": "“Men fikrlayapman demak men mavjudman” iborasining muallifi kim?",
+    "A": "Dekart",
+    "B": "Spinoza",
+    "C": "Suqrot",
+    "D": "Kant",
+    "javob": "A"
+  },
+  {
+    "savol": "Zikri Xufiyanni targ‘ib qilgan tariqat.",
+    "A": "naqshbandiylik",
+    "B": "yassaviy",
+    "C": "qodiriylik",
+    "D": "kubraviylik",
+    "javob": "A"
+  },
+  {
+    "savol": "Suqrot fikricha axloqsiz harakat sababi nima?",
+    "A": "bilimsizlik",
+    "B": "ong",
+    "C": "falsafa",
+    "D": "siyosat",
+    "javob": "A"
+  },
+  {
+    "savol": "Aristotel fikricha hayvonga xos xususiyat nima?",
+    "A": "sezgi",
+    "B": "ong",
+    "C": "tafakkur",
+    "D": "idrok",
+    "javob": "A"
+  },
+  {
+    "savol": "Gegelga ko‘ra tushuncha mutloq g‘oyaga erishguncha bo‘lgan rivojlanish bosqichlarida nimaga ega bo‘lamiz?",
+    "A": "mutloq haqiqatga",
+    "B": "hissiy bilish",
+    "C": "nisbiy haqiqat",
+    "D": "haqiqat",
+    "javob": "A"
+  },
+  {
+    "savol": "Farobiyning eng yirik fundamental asari.",
+    "A": "Fozil odamlar shahri haqida risola",
+    "B": "Falsafaning manbalari",
+    "C": "Aql haqida risola",
+    "D": "Davlat haqida risola",
+    "javob": "A"
+  },
+  {
+    "savol": "Ibn Sinoning falsafaga oid asari ko’rsatilgan qatorni toping?",
+    "A": "Donishnoma",
+    "B": "Tibbiyot qonunlari",
+    "C": "Najot kitobi",
+    "D": "Davolash kitobi",
+    "javob": "A"
+  },
+  {
+    "savol": "Naqshbandiyning ma’naviy ustozi.",
+    "A": "A.G‘ijduvoniy",
+    "B": "A.Yassaviy",
+    "C": "G‘azzoliy",
+    "D": "Y.Hamadoniy",
+    "javob": "A"
+  },
+  {
+    "savol": "Falsafa metodlari qaysilar?",
+    "A": "dialektika, metafizika",
+    "B": "tarixiy, obyektiv",
+    "C": "doimiy, vaqtinchalik",
+    "D": "analiz, induktsiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Bilish haqidagi ta’limot bu....",
+    "A": "Gnoseologiya",
+    "B": "Ontologiya",
+    "C": "Ideologiya",
+    "D": "Logika",
+    "javob": "A"
+  },
+  {
+    "savol": "Qadriyatlar tog’risidagi fan, va u bilan shug’ullanadigan sohasi qanday ataladi?",
+    "A": "Aksiologiya",
+    "B": "Ontologiya",
+    "C": "Gnoseologiya",
+    "D": "Epistemologiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Olamni mushohada qilish shakli, ongli amalga oshirish sharti nima hisoblanadi.",
+    "A": "falsafa",
+    "B": "fan",
+    "C": "mafkura",
+    "D": "mehnat",
+    "javob": "A"
+  },
+  {
+    "savol": "Qur’on so‘zining ma’nosi nima?",
+    "A": "o‘qimoq",
+    "B": "anglamoq",
+    "C": "his qilmoq",
+    "D": "tushunmoq",
+    "javob": "A"
+  },
+  {
+    "savol": "G‘ijduvoniy rashhalariga Naqshbandiy qo‘shgan rashha.",
+    "A": "vuqufi qalbiy",
+    "B": "xush dar dam",
+    "C": "nazar bar qadam",
+    "D": "safar dar vatan",
+    "javob": "A"
+  },
+  {
+    "savol": "Inson va insoniyat uchun ahamiyatli bo'lgan barcha narsalar qaysi tushuncha orqali ifodalanadi?",
+    "A": "Qadriyat",
+    "B": "Oqibat",
+    "C": "Halollik",
+    "D": "Erkinlik",
+    "javob": "A"
+  },
+  {
+    "savol": "Suqrot va Aflotun fikricha dialektika bu....?",
+    "A": "bahs, munozara yordamida haqiqatga erishish",
+    "B": "olamni ilmiy tushuntirishdir",
+    "C": "mif-afsona kundalik ongda reallikning in’ikos etishidir",
+    "D": "yolg‘on, soxta",
+    "javob": "A"
+  },
+  {
+    "savol": "“Falsafa – hikmatni qadrlash”- degan ta’rif muallifi kim?",
+    "A": "Forobiy",
+    "B": "Ibn Sino",
+    "C": "Beruniy",
+    "D": "Xorazmiy",
+    "javob": "A"
+  },
+  {
+    "savol": "Tarixiy zaruriyatga qarab goh u, goh bu qadriyarlar ijtimoiy taraqqiyotning oldingi safiga chiqadi. Urush davrida nimaning qadri oshadi?",
+    "A": "Tinchlik",
+    "B": "Sihat-salomatlik",
+    "C": "Do’stlik",
+    "D": "Oqibat",
+    "javob": "A"
+  },
+  {
+    "savol": "Isbotlash jarayonida ataylab (qasddan) xatoga yo‘l qo‘yuvchila",
+    "A": "Sofizm",
+    "B": "Parologizm",
+    "C": "Stoiklar",
+    "D": "Sotsiologlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Ekologik muammo qanday muammo turiga kiradi?",
+    "A": "Global",
+    "B": "Mintaqaviy",
+    "C": "Mahalliy",
+    "D": "Milliy",
+    "javob": "A"
+  },
+  {
+    "savol": "Bir sifatdan ikkinchi sifatga o’tish mexanizmi bu",
+    "A": "Dialektik sakrash",
+    "B": "Inqilob",
+    "C": "Evolyusiya",
+    "D": "Progress",
+    "javob": "A"
+  },
+  {
+    "savol": "Insoniyat atrof muhitni bilishi mumkin emas degan goyani ilgari suruvchi oqim.",
+    "A": "agnostitsizm",
+    "B": "naqshbandiya",
+    "C": "teizm",
+    "D": "sufizm",
+    "javob": "A"
+  },
+  {
+    "savol": "Javobi bevosita mavjud bilimda bo‘lmagan va yechish usuli noma’lum bo‘lgan savolga?",
+    "A": "Muammo",
+    "B": "Nazariya",
+    "C": "Gipoteza",
+    "D": "Aksioma",
+    "javob": "A"
+  },
+  {
+    "savol": "Suqrot, Aflotun, Farobiy kabi qadimgi faylasuflar ichki go‘zallik deya nimaga ta’rif berishgan?",
+    "A": "Axloqiylikka",
+    "B": "Logikaga",
+    "C": "Psixologiyaga",
+    "D": "Huquqshunoslikka",
+    "javob": "A"
+  },
+  {
+    "savol": "Qadimgi Misrning odob-axloq masalalarinig o‘ziga xos, qanday eng qadimiy pandnomasi bor?",
+    "A": "“Pxatotep o‘gitlari”",
+    "B": "“Gilgamesh”",
+    "C": "“Hikmatlar”",
+    "D": "“ Avesto”",
+    "javob": "A"
+  },
+  {
+    "savol": "Zardushtiylik yaxshilik ilohi?",
+    "A": "Axura-Mazda",
+    "B": "Sidxarta Gautama",
+    "C": "Seneka",
+    "D": "Foerbax",
+    "javob": "A"
+  },
+  {
+    "savol": "Fales fikricha hammadan dono bu...?",
+    "A": "Vaqt",
+    "B": "Zaruriyat",
+    "C": "Inson",
+    "D": "O‘zini anglash",
+    "javob": "A"
+  },
+  {
+    "savol": "Dunyoni bilish mumkin deb hisoblaydigan faylasuflar?",
+    "A": "Gnostika",
+    "B": "Agnostika",
+    "C": "Astika",
+    "D": "Sofistika",
+    "javob": "A"
+  },
+  {
+    "savol": "Mantiqiy bilishga quyidagilardan qaysilar kiradi?",
+    "A": "tushuncha, hukm, xulosa chiqarish",
+    "B": "ilmiy, noilmiy, oddiy",
+    "C": "sezgi, idrok, tasavvur",
+    "D": "kuzatish, tajriba, faraz",
+    "javob": "A"
+  },
+  {
+    "savol": "Sezgi a’zolari orqali olingan bilim bu....",
+    "A": "hissiy bilish",
+    "B": "ilmiy bilish",
+    "C": "aqliy bilish",
+    "D": "falsafiy bilish",
+    "javob": "A"
+  },
+  {
+    "savol": "«Dil ba yoru, dast ba kor» shiori kimga tegishli?",
+    "A": "Bahouddin Naqshband",
+    "B": "Yusuf Hamadoniy",
+    "C": "Ahmad Yassaviy",
+    "D": "Abduxoliq G‘ijduvoniy",
+    "javob": "A"
+  },
+  {
+    "savol": "Islom dinining eng asosiy bayramlari qaysilar?",
+    "A": "ro‘za hayiti, qurbon hayiti",
+    "B": "pasxa, rojdestvo",
+    "C": "xatna, nikoh",
+    "D": "Navruz, mavlud",
+    "javob": "A"
+  },
+  {
+    "savol": "Ahmad Yassaviy maqbarasi qaysi davlatda joylashgan?",
+    "A": "Qozog‘iston",
+    "B": "O‘zbekiston",
+    "C": "Qirg‘iziston",
+    "D": "Turkmaniston",
+    "javob": "A"
+  },
+  {
+    "savol": "Hadisda beshikdan qabrgacha nimani izlash kerakligi uqtirilgan.",
+    "A": "ilm",
+    "B": "boylik",
+    "C": "ustoz",
+    "D": "pul",
+    "javob": "A"
+  },
+  {
+    "savol": "Ollohga, Muhammadga va ilohiy hisoblangan kitoblarga, taqdirga, oxiratga ishonish.",
+    "A": "iymon",
+    "B": "namoz",
+    "C": "ehson",
+    "D": "zakot",
+    "javob": "A"
+  },
+  {
+    "savol": "Bu prinsipga ko‘ra butun mavjudot o‘z negizi bilan yagonadir, bir manbaga egadir.",
+    "A": "monizm",
+    "B": "shomonizm",
+    "C": "daotsizm",
+    "D": "fetishizm",
+    "javob": "A"
+  },
+  {
+    "savol": "O‘tish harakatlariga ko‘ra sakrash qanday bo‘ladi.",
+    "A": "evolyutsion va revolyutsion",
+    "B": "integral va differensial",
+    "C": "kerakli va keraksiz",
+    "D": "yaxshi va yomon",
+    "javob": "A"
+  },
+  {
+    "savol": "“Yer yuzidagi lazzatlardan vоz kechib, nafsni tiyib, хilvatda yashab, faqat Alloh haqida o‘ylash, хayol surish, eslash, uni qalbdan sevishdir”. Ushbu jumlada tasavvufning qaysi bosqichi haqida fikr yuritilgan.",
+    "A": "Tariqat",
+    "B": "Shariat",
+    "C": "Ma’rifat",
+    "D": "Haqiqat",
+    "javob": "A"
+  },
+  {
+    "savol": "Insonlar juda ko‘pchilik bo‘lib yashaydigan va rivojlanadigan muhitning falsafiy atamasi?",
+    "A": "jamiyat",
+    "B": "oila",
+    "C": "maktab",
+    "D": "shahar",
+    "javob": "A"
+  },
+  {
+    "savol": "Hаdislаr bilаn shug’ullаnаdigаn оlim qanday ataladi?",
+    "A": "muhаddis",
+    "B": "mutаkаllim",
+    "C": "mutаsаvvif",
+    "D": "fаqh",
+    "javob": "A"
+  },
+  {
+    "savol": "Shakllangan inson (ijtimoiylashgan inson).",
+    "A": "shaxs",
+    "B": "janob",
+    "C": "individ",
+    "D": "subyekt",
+    "javob": "A"
+  },
+  {
+    "savol": "Qur’оndа hаmmаsi bo’lib nеchа surа bоr?",
+    "A": "114",
+    "B": "141",
+    "C": "111",
+    "D": "144",
+    "javob": "A"
+  },
+  {
+    "savol": "«Аl-Jоmе’ аs-sаhih» (ishоnchli hаdislаr) аsаri kimgа tеgishli?",
+    "A": "Аl-Buхоriy",
+    "B": "Аlishеr Nаvоiy",
+    "C": "Bоbur",
+    "D": "Аbu Muslim",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi tushunchalardan qaysilari ijobiy tushuncha?",
+    "A": "madaniyatli, odobli, tartibli, savodli, shijoatli",
+    "B": "savodsiz, tartibsiz, tengsiz, beinsof",
+    "C": "tartibli, nomukammal, qobiliyatli, qobiliyatsiz, juratli",
+    "D": "kashfiyotchi, ilg‘or, qoloq, buzg‘unchi",
+    "javob": "A"
+  },
+  {
+    "savol": "“Etika” qadimda qanday nomlar bilan atalgan",
+    "A": "\"Ilmi ravish\", \"Ilmi axloq\", \"Odobnoma\"",
+    "B": "\"Siyosat\",\"Davlat\",\"Xulq\"",
+    "C": "“Falsafa”, \"Ilmi odob\"",
+    "D": "“Logika”, “Ilmi adab”",
+    "javob": "A"
+  },
+  {
+    "savol": "\"Etika\" atamasini birinchi bo‘lib muomalaga kiritgan faylasuf?",
+    "A": "Arastu",
+    "B": "Lokk",
+    "C": "Vilgenshteyn",
+    "D": "Fixte",
+    "javob": "A"
+  },
+  {
+    "savol": "Jamiyat, zamon insoniyat tarixi uchun namuna bo‘la oladigan ijobiy hatti- harakatlar yig‘indisi qanday ataladi?",
+    "A": "axloq",
+    "B": "odob",
+    "C": "etika",
+    "D": "qonun",
+    "javob": "A"
+  },
+  {
+    "savol": "Makon va zamonning eng umumiy xususiyatini ko‘rsating.",
+    "A": "obyektivlik, absolyutlik, uzluksizlik va uzluklik",
+    "B": "mifalogiya, dialektik, gnoseologiya",
+    "C": "gnoseologiya, mifalogiya, ontologiya",
+    "D": "ontologiya, harakat, mifalogiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Dunyoning asosiga faqat bir narsani olib qarovchi falsafiy ta’limot?",
+    "A": "monizm",
+    "B": "materializm",
+    "C": "idealizm",
+    "D": "dualizm",
+    "javob": "A"
+  },
+  {
+    "savol": "Jamiyat rivoji qaysi variantda to’g’ri ko’rsatilgan?",
+    "A": "taraqqiyot",
+    "B": "tanazzul",
+    "C": "inqilob",
+    "D": "bilish",
+    "javob": "A"
+  },
+  {
+    "savol": "Tabiiylikning madaniylikka aylanishida hosil bo‘ladigan jarayon?",
+    "A": "inson faoliyati",
+    "B": "bilish",
+    "C": "biologik evolotsiya",
+    "D": "in’ikos",
+    "javob": "A"
+  },
+  {
+    "savol": "Narsa va voqealar, jamiyat, moddiy va ma'naviy boyliklarining ahamiyatini ifodalash uchun qo'llanadigan tushuncha?",
+    "A": "Qadriyatlar",
+    "B": "Tarixiy obidalar",
+    "C": "Vatan",
+    "D": "Mantiq",
+    "javob": "A"
+  },
+  {
+    "savol": "Uyg’onish davrida inson faoliyati?",
+    "A": "ijod va yaratish",
+    "B": "kuzatishdan ustun emas",
+    "C": "gunohni yuvish usuli",
+    "D": "biologik evolotsiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi tushunchalardan qaysilari manfiy-salbiy tushuncha hisoblanadi?",
+    "A": "aqlsiz, be’mani",
+    "B": "kiyim, poyafzal",
+    "C": "makon, zamon",
+    "D": "modda, ong",
+    "javob": "A"
+  },
+  {
+    "savol": "Mantiq ilmining o‘rganish ob’ektini nima tashkil qiladi?",
+    "A": "tafakkur",
+    "B": "tasavvur",
+    "C": "tasavvuf",
+    "D": "tushuncha",
+    "javob": "A"
+  },
+  {
+    "savol": "Demokrit fikricha borliqning asosini nima tashkil etadi?",
+    "A": "аtom",
+    "B": "cheksiz",
+    "C": "g‘oya",
+    "D": "suv",
+    "javob": "A"
+  },
+  {
+    "savol": "Platon fikricha borliq…",
+    "A": "g‘oya",
+    "B": "atom",
+    "C": "moddiy",
+    "D": "suv",
+    "javob": "A"
+  },
+  {
+    "savol": "“Hindiston” asari bilan shuhrat qozongan o‘rta asr olimi?",
+    "A": "Beruniy",
+    "B": "Farobiy",
+    "C": "Ibn Sino",
+    "D": "Xorazmiy",
+    "javob": "A"
+  },
+  {
+    "savol": "Zoroastrizmda yaxshilikning insonda namoyonda bo‘lishi?",
+    "A": "ezgu fikr, ezgu so‘z, ezgu amal",
+    "B": "dunyoni anglash",
+    "C": "hikmatni anglash",
+    "D": "o‘z – o‘zini bilish",
+    "javob": "A"
+  },
+  {
+    "savol": "Falsafa atamasining lug‘aviy ma’nosi?",
+    "A": "donishmandlikni sevish",
+    "B": "dunyoni anglash",
+    "C": "hikmatni anglash",
+    "D": "o‘z – o‘zini bilish",
+    "javob": "A"
+  },
+  {
+    "savol": "Olamni tasavvur qilish, idrok etish va bilish bu-…..",
+    "A": "dunyoqarash",
+    "B": "umr mazmuni",
+    "C": "ilm",
+    "D": "fan",
+    "javob": "A"
+  },
+  {
+    "savol": "Dunyoqarashning tarixiy shakllari?",
+    "A": "mifalogik, falsafiy va diniy",
+    "B": "falsafiy va tafakkuriy",
+    "C": "aqliy va hissiy",
+    "D": "milliy va umuminsoniy",
+    "javob": "A"
+  },
+  {
+    "savol": "“Al-jome’ as- sahih” asari muallifi kim.",
+    "A": "Imom al- Buxoriy",
+    "B": "Al- Termiziy",
+    "C": "Bahouddin Naqshdandiy",
+    "D": "Abduxoliq G‘ijduvoniy",
+    "javob": "A"
+  },
+  {
+    "savol": "Hadis so‘zining ma’nosi....",
+    "A": "xabar, gap, yangilik",
+    "B": "mushohada, bilish",
+    "C": "fikr, so‘z",
+    "D": "noma, qonun",
+    "javob": "A"
+  },
+  {
+    "savol": "Formal mantiq faninning asoschisi kim?",
+    "A": "Aristotel",
+    "B": "Dekart",
+    "C": "Nitshe",
+    "D": "Shopengauer",
+    "javob": "A"
+  },
+  {
+    "savol": "Dialektik mantiq fanining asoschisi kim?",
+    "A": "Gegel",
+    "B": "Pifagor",
+    "C": "Abu Nasr Forobiy",
+    "D": "Abu Ali ibn Sino",
+    "javob": "A"
+  },
+  {
+    "savol": "Tasavvuf ta’limoti bosqichlari?",
+    "A": "shariat, tariqat, ma’rifat, haqiqat",
+    "B": "agnostika, gnostika, tasavvur",
+    "C": "astika, nastika, tasavvur",
+    "D": "sofistika, dialektika, eklektika",
+    "javob": "A"
+  },
+  {
+    "savol": "Tafakkur shakllariga quyidagilardan qaysilar kiradi?",
+    "A": "tushuncha, hukm, xulosa chiqarish",
+    "B": "ilmiy, noilmiy, oddiy",
+    "C": "sezgi, idrok, tasavvur",
+    "D": "kuzatish, tajriba, faraz",
+    "javob": "A"
+  },
+  {
+    "savol": "“Hech narsani bilmasligimni bildim” degan ibora qaysi muallif tomonidan aytilgan?",
+    "A": "Suqrot",
+    "B": "Overton",
+    "C": "Bayron",
+    "D": "Kont",
+    "javob": "A"
+  },
+  {
+    "savol": "Ongning asosiy elementi nima?",
+    "A": "bilim",
+    "B": "sezgi",
+    "C": "hissiyot",
+    "D": "xotira",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi tushunchalardan qaysilari ijobiy tushuncha?",
+    "A": "obro‘li, bilimli, kuchli",
+    "B": "savodsiz, tartibsiz, tengsiz, beinsof",
+    "C": "tartibli, nomukammal, qobiliyatli, qobiliyatsiz, juratli",
+    "D": "kashfiyotchi, ilg‘or, qoloq, buzg‘unchi",
+    "javob": "A"
+  },
+  {
+    "savol": "“Birinchi analitika” va “Ikkinchi analitika” asarlarining muallifi kim?",
+    "A": "Aristotel",
+    "B": "Suqrot",
+    "C": "Geraklit",
+    "D": "Aflotun",
+    "javob": "A"
+  },
+  {
+    "savol": "Logika atamasini fanga kimlar kiritgan?",
+    "A": "stoiklar",
+    "B": "materialistlar",
+    "C": "idealistlar",
+    "D": "sofistlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Borliqning shakllari qaysilar?",
+    "A": "jamiyat borlig‘i, inson borlig’i, tabiat borlig‘i",
+    "B": "huquqiy borliq, ma’naviy borliq, tabiat borlig‘i",
+    "C": "siyosiy borliq, inson borlig‘i",
+    "D": "Inson borlig‘i, ilmiy, borliq, moddiy borliq",
+    "javob": "A"
+  },
+  {
+    "savol": "Dialektikada universial xarakterlarga ega bo‘lgan qonuniyatlar.",
+    "A": "dialektika qonunlari",
+    "B": "kategoriyalar",
+    "C": "tushuncha",
+    "D": "borliq qonunlari",
+    "javob": "A"
+  },
+  {
+    "savol": "“Metafizika” so‘zining ma’nosi?",
+    "A": "yunoncha, “fizikadan keyin”",
+    "B": "yunoncha “fizika haqidagi fan”",
+    "C": "arabcha “falsafa haqidagi fan”",
+    "D": "arabcha “fizikadan keyin”",
+    "javob": "A"
+  },
+  {
+    "savol": "“Axloq- bu ma’naviyatning o‘zagi” degan fikrni kim aytgan?",
+    "A": "Islom Karimov",
+    "B": "Abu Ali Ibn Sino",
+    "C": "Shavkat Mirziyoyev",
+    "D": "Alisher Navoiy",
+    "javob": "A"
+  },
+  {
+    "savol": "Pifagor fikricha borliqning asosini nina tashkil etadi?",
+    "A": "sonlar",
+    "B": "cheksiz",
+    "C": "g‘oya",
+    "D": "moddiy",
+    "javob": "A"
+  },
+  {
+    "savol": "Geraklit fikricha borliqning asosini nina tashkil etadi?",
+    "A": "olov",
+    "B": "yagona",
+    "C": "suv",
+    "D": "cheksiz",
+    "javob": "A"
+  },
+  {
+    "savol": "Falsafiy dunyoqarash nima?",
+    "A": "olamda insonning o‘rni va roli haqidagi nazariy shakllangan dunyoqarash",
+    "B": "olam haqidagi hissiyot va tasavvurlar tizimi",
+    "C": "tabiat haqidagi hissiy va ratsional bilimlarning yig‘indisi",
+    "D": "jamiyat haqida va insonning jamiyatdagi roli haqidagi qarashlar tizimi",
+    "javob": "A"
+  },
+  {
+    "savol": "Qaysi dunyoqarashning doirasida bilishning g’oyibona shakli paydo bo’ladi?",
+    "A": "Diniy",
+    "B": "Afsonaviy",
+    "C": "Falsafiy",
+    "D": "Axloqiy",
+    "javob": "A"
+  },
+  {
+    "savol": "Tafakkur shakllarini qaysi fan o‘rgatadi ?",
+    "A": "mantiq",
+    "B": "ritorika",
+    "C": "dizayn",
+    "D": "simvolika",
+    "javob": "A"
+  },
+  {
+    "savol": "Quyidagi tushunchalardan qaysilari mavhum tushuncha hisoblanadi?",
+    "A": "adolatsizlik, go‘zallik",
+    "B": "kitob, ilmiy asar",
+    "C": "buxoro shahri, G‘ijduvon",
+    "D": "tuman, viloyat",
+    "javob": "A"
+  },
+  {
+    "savol": "Zardushtiylik yaxshilik ilohi kim?",
+    "A": "Axura-Mazda",
+    "B": "Axriman",
+    "C": "Sidxarta Gautama",
+    "D": "Seneka",
+    "javob": "A"
+  },
+  {
+    "savol": "Olamni xudo – ilohiy ruh tomonidan yaratilgan deb ta’limot beruvchi oqim.",
+    "A": "Idealizm",
+    "B": "Atomizm",
+    "C": "So’fizm",
+    "D": "Naqshbandiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Insonlar juda ko‘pchilik bo‘lib yashaydigan va rivojlanadigan muhitning falsafiy atamasi qanday ataladi?",
+    "A": "Jamiyat",
+    "B": "Oila",
+    "C": "Maktab",
+    "D": "Shahar",
+    "javob": "A"
+  },
+  {
+    "savol": "Tafakkurni o‘rganuvchi fanlar sistemasi?",
+    "A": "mantiq, falsafa, psixologiya, fiziologiya",
+    "B": "adabiyot, ona tili, chet tili, kimyo",
+    "C": "ximiya, fizika, tarix, siyosatshunoslik",
+    "D": "huquqshunoslik, madaniyatshunoslik, tarix",
+    "javob": "A"
+  },
+  {
+    "savol": "Yassaviy sulukini bayon qiluvchi asar.",
+    "A": "Devoni hikmat",
+    "B": "Dostonlar",
+    "C": "Fikrnoma",
+    "D": "Pandnoma",
+    "javob": "A"
+  },
+  {
+    "savol": "Ibn Sino tug‘ilgan yil va joy nomi?",
+    "A": "980-yil Afshona",
+    "B": "982-yil Ko‘rg‘on",
+    "C": "985-yil SHaxrisabz",
+    "D": "990-yil Farob",
+    "javob": "A"
+  },
+  {
+    "savol": "Globallashuv so‘zining ma’nosi?",
+    "A": "dumaloqlashuv, quralashuv",
+    "B": "madaniyat, ma’rifat",
+    "C": "umumiy, e’tiqodli",
+    "D": "yangi, aylana",
+    "javob": "A"
+  },
+  {
+    "savol": "Falsafada borliq to‘g‘risidagi ta’limot bu...?",
+    "A": "ontologiya",
+    "B": "aksiologiya",
+    "C": "gnoseologiya",
+    "D": "logika",
+    "javob": "A"
+  },
+  {
+    "savol": "Falsafada go‘zallik to‘g‘risidagi ta’limot bu...?",
+    "A": "estetika",
+    "B": "ontologiya",
+    "C": "aksiologiya",
+    "D": "gnoseologiya",
+    "javob": "A"
+  },
+  {
+    "savol": "Zardushtiylikda yomonlik ilohi kim?",
+    "A": "Axriman",
+    "B": "Axura-Mazda",
+    "C": "Sidxarta Gautama",
+    "D": "Seneka",
+    "javob": "A"
+  },
+  {
+    "savol": "“O’zingga ravo ko’rmaganni o’zgaga ravo ko’rma” shiori qaysi faylasuf ta’limotining asosini tashkil etgan?",
+    "A": "Konfutsiy",
+    "B": "Lao Szi",
+    "C": "Suqrot",
+    "D": "Platon",
+    "javob": "A"
+  },
+  {
+    "savol": "Xitoyda birinchi falsafiy maktab ochgan faylasuf?",
+    "A": "Konfutsiy",
+    "B": "Szi Yan",
+    "C": "Sidxarta Gautama",
+    "D": "Mo Szi",
+    "javob": "A"
+  },
+  {
+    "savol": "Islom ta’limotining asoschisi?",
+    "A": "Muhammad",
+    "B": "Muso",
+    "C": "Iso",
+    "D": "Sulaymon",
+    "javob": "A"
+  },
+  {
+    "savol": "1018 yulduzni aniqlab, rasadxona qurdirgan alloma kim",
+    "A": "Ulug‘bek",
+    "B": "Forobiy",
+    "C": "Beruniy",
+    "D": "Ibn Sino",
+    "javob": "A"
+  },
+  {
+    "savol": "G‘arbda Avitsena unvoniga ega bo‘lgan alloma kim?",
+    "A": "Ibn Sino",
+    "B": "Forobiy",
+    "C": "Beruniy",
+    "D": "Ulug‘bek",
+    "javob": "A"
+  },
+  {
+    "savol": "“Korrupsiya” atamasi lotincha “corruptio” so‘zidan kelib chiqqan bo‘lib, qanday ma’nolarni anglatadi?",
+    "A": "“buzish”, “sotib olish” degan ma’nolarni anglatadi.",
+    "B": "naf ko’rish uchun “o’zligini sotish” ma’nosini anglatadi",
+    "C": "moddiy boylik orttirish yo’lida mukkasidan ketish",
+    "D": "poraxo’rlik orqali shaxsiy naf ko’rish",
+    "javob": "A"
+  },
+  {
+    "savol": "Korrupsiya amal qilish darajalariga ko‘ra qaysi turlarga bo’linadi?",
+    "A": "quyi, yuqori va vertikal",
+    "B": "quyi, yuqori va gorizontal",
+    "C": "yuqori, o’rta, past",
+    "D": "past va o’rta",
+    "javob": "A"
+  },
+  {
+    "savol": "“Xalqaro korrupsiyaga qarshi kurashish kuni” qaysi kunda nishonlaniladi?",
+    "A": "9-dekabr",
+    "B": "8-dekabr",
+    "C": "11-noyabr",
+    "D": "14-oktabr",
+    "javob": "A"
+  },
+  {
+    "savol": "BMTning Korrupsiyaga qarshi kurashga oid ma’lumotnomasida korrupsiya tushunchasiga qanday ta’rif berilgan?",
+    "A": "“Korrupsiya – shaxsiy maqsadda foyda olish uchun davlat hokimiyatini suiiste’mol qilish” ekanligi ko‘rsatilgan.",
+    "B": "Korrupsiya barq urayotgan jamiyatda ozodlik uzoq vaqt hukm surishi mumkin emas",
+    "C": "“Har qanday davlat tuzumida eng muhimi – bu qonunlar va tartib qoidalar vositasida ishni shunday tashkil etishki, mansabdor shaxslar qinlar yo’l bilan boylik orttira olmasin”",
+    "D": "Boshiga ish tushgan odamni shilish o’likning kafanini yechib olishday gap",
+    "javob": "A"
+  },
+  {
+    "savol": "Konfusiyning qaysi ta’limoti uning muhim ta’limotiga aylangan?",
+    "A": "Osmon qonuni",
+    "B": "Tabiat –inson oshyoni",
+    "C": "Jamiyatda davlatning o‘rni",
+    "D": "Ijtimoiy tabaqalanish",
+    "javob": "A"
+  },
+  {
+    "savol": "Ikki yoki bir necha suhbat-...",
+    "A": "“Diolog”",
+    "B": "“Roman”",
+    "C": "“Qissa”",
+    "D": "“Diolog va roman”",
+    "javob": "A"
+  },
+  {
+    "savol": "«Filosofiya» so’zining lug’aviy ma’nosini aniqlang.",
+    "A": "«donishmandlikni sevish»",
+    "B": "«odamni qadrlash»",
+    "C": "«donishmandlik»",
+    "D": "«fanlarning otasi»",
+    "javob": "A"
+  },
+  {
+    "savol": "Sharq mutafakkirlaridan qaysi biri filosofiya so’zini «Hikmatni qadrlash» deb talqin etgan?",
+    "A": "Abu Nasr Forobiy",
+    "B": "Alisher Navoiy",
+    "C": "Burxoniddin Marg’inoniy",
+    "D": "Imom Buxoriy",
+    "javob": "A"
+  },
+  {
+    "savol": "Dunyoqarashning shakllarini aniqlang.",
+    "A": "afsona, din, falsafa",
+    "B": "san’at, ma’naviyat, falsafa",
+    "C": "fan, axloq, din",
+    "D": "huquq, siyosat, axloq",
+    "javob": "A"
+  },
+  {
+    "savol": "Ontologiya qanday ta’limot?",
+    "A": "borliq to’g’risidagi ta’limot",
+    "B": "insonning amaliy faoliyati haqidagi ta’limot",
+    "C": "axloq to’g’risidagi bilimlar, qarashlar",
+    "D": "qadriyatlar to’g’risidagi ta’limot",
+    "javob": "A"
+  },
+  {
+    "savol": "Gnoseologiya qanday ta’limot?",
+    "A": "bilishning shakl, usullari to’g’risidagi ta’limot",
+    "B": "tafakkur shakllarini o’rganadi",
+    "C": "qadriyatlar to’g’risidagi fan",
+    "D": "go’zallik haqidagi qarashlar",
+    "javob": "A"
+  },
+  {
+    "savol": "Olamning asosida ideallashgan raqamlar yotadi deb …",
+    "A": "Pifagor hisoblagan",
+    "B": "Demokrit hisoblagan",
+    "C": "Geraklit hisoblagan",
+    "D": "Fales hisoblagan",
+    "javob": "A"
+  },
+  {
+    "savol": "Bag’doddagi «Bayt-ul-hikma» da ishlagan va rahbarlik qilgan buyuk alloma.",
+    "A": "Muhammad al-Xorazmiy",
+    "B": "Abu Nasr Forobiy",
+    "C": "Ibn Sino",
+    "D": "Beruniy",
+    "javob": "A"
+  },
+  {
+    "savol": "«Hindiston» asarining muallifi kim?",
+    "A": "Beruniy",
+    "B": "Ibn-Sino",
+    "C": "Forobiy",
+    "D": "Ahmad Farg’oniy",
+    "javob": "A"
+  },
+  {
+    "savol": "Jadidlar ilgari surgan asosiy g’oyalar.",
+    "A": "ma’rifat, taraqqiyot, mustaqillik g’oyalari",
+    "B": "mulkiy tenglik g’oyalari",
+    "C": "adolat g’oyalari",
+    "D": "islom dinini rivojlantirish g’oyalari",
+    "javob": "A"
+  },
+  {
+    "savol": "Borliqning miqyosiy struktura darajalari.",
+    "A": "mikrodunyo, makrodunyo, megadunyo",
+    "B": "mikrodunyo va makrodunyo",
+    "C": "makrodunyo va megadunyo",
+    "D": "jonli va jonsiz tabiat",
+    "javob": "A"
+  },
+  {
+    "savol": "Insonning paydo bo’lishi haqidagi evolyusion konsepsiya asoschisi kim?",
+    "A": "Ch. Darvin",
+    "B": "K.Linney",
+    "C": "Ch.Pirs",
+    "D": "A. Eyeynshtin",
+    "javob": "A"
+  },
+  {
+    "savol": "Qonunning falsafiy tushunchasi aks ettiradi:",
+    "A": "narsa va hodisalarning muhim, zaruriy, umumiy takrorlanib turuvchi aloqadorliklarini",
+    "B": "ongdagi o’zaro aloqadorlikni",
+    "C": "jamiyatdagi o’zaro bog’lanishlarni",
+    "D": "muhim bo’lmagan, tashqi bog’lanishlarni takrorlanib turuvchi aloqadorliklarini",
+    "javob": "A"
+  },
+  {
+    "savol": "Insоn hаqidаgi ilk fаlsаfiy g'оyalаr qaysi hududlarda shakllangan?",
+    "A": "Qadimgi Hindiston va Xitoyda",
+    "B": "Qadimgi Yunonistonda",
+    "C": "Yaqin sharqda",
+    "D": "Yevropada",
+    "javob": "A"
+  },
+  {
+    "savol": "Хitоyda kоnfutsiychilik ta’limotida inson qanday ifodalanadi?",
+    "A": "“Оsmоn hukmi” – bu tаqdir bo'lib, insоn hаyoti vа o'limi uning tоmоnidаn bеlgilаb qo'yilgаn. “o'zinggа nimаni istаmаsаng, bоshqаlаrgа hаm uni rаvо ko'rmа! “bilish – bu insоnni bilishdir”",
+    "B": "“Erkinlikkа intilish, ehtirоslаrdаn qutilishgа intilish vа sаnsаrа-kаrmа qоnunlаrigа ko'rа аmаldа bo'lgаn hissiyot bоrliq yo'li fаqаt insоngаginа хоsdir”.",
+    "C": "“Insоnning iхtiyori o'zidа bo'lib, u qilgаn ishlаrigа o'zi jаvоbgаrdir\",- dеb tа'kidlаnаdi.",
+    "D": "Insоn – Yer yuzidаgi jаmiki mаvjudоtlаrning gultоjisidir.",
+    "javob": "A"
+  },
+  {
+    "savol": "Nаvоiyning fikrichа Inson…..?",
+    "A": "O'z shахsiy hаyotini vа аlаm sirlаrini tushunib еtuvchi yagоnа mаvjudоtdir.",
+    "B": "“Insоnning iхtiyori o'zidа bo'lib, u qilgаn ishlаrigа o'zi jаvоbgаrdir\",- dеb tа'kidlаnаdi.",
+    "C": "Insоn vа uning аqli – mоddiy",
+    "D": "Insоn - gаpirаdigаn mахluqоtdir",
+    "javob": "A"
+  },
+  {
+    "savol": "Farobiy falsafasida “Inson”ga qanday ta’rif berilgan?",
+    "A": "«... Insоn yuksаk kаmоlоtgа erishuvi yo'lidа hаrаkаt qilgаnidеk, аqliy hаm hаrаkаt qilsа, hеch shubhаsiz, o'zi o'ylаyotgаn so'nggi dаrаjаdаgi bахt-sаоdаtgа erishаdi»",
+    "B": "Tаbiаt оdаmni yarаtаyotgаn pаytdаyoq u оdаmning o'lishini hаm ko'zdа tutgаn bo'lаdi.",
+    "C": "Аgаr insоn o'zi yashаyotgаn jаmiyatdа yomоnlik tаrqаtsа, mаishаtidа turli kаmchiliklаr pаydо bo'lsа, buning bаrchаsigа uning o'zi sаbаbchidir",
+    "D": "Insоn bеlgilоvchi tоmоnigа ko'rа, biоlоgik mаvjudоd",
+    "javob": "A"
+  },
+  {
+    "savol": "Falsafiy dunyoqarash dunyoni nimalarga tayangan holda tushuntiradi?",
+    "A": "aql va bilimlarda",
+    "B": "e’tiqodda",
+    "C": "tuyg‘ularda",
+    "D": "sezgilarda",
+    "javob": "A"
+  },
+  {
+    "savol": "Birinchi Prezident Islom Karimov “bu yorug’ olamda eng buyuk jasorat”- deganda nimani nazarda tutgan?",
+    "A": "ma’naviy jasorat",
+    "B": "moddiy jasorat",
+    "C": "ilmiy jasorat",
+    "D": "vatan himoyasidagi jasorat",
+    "javob": "A"
+  },
+  {
+    "savol": "Birinchi Prezident Islom Karimov fikricha Platon....?",
+    "A": "ustodi avval",
+    "B": "fidoiy inson",
+    "C": "yuksak tafakkur egasi",
+    "D": "ulug‘ donishmand",
+    "javob": "A"
+  }
+]
